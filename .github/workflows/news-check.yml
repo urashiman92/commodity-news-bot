@@ -35,5 +35,22 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add seen.json
-          git diff --staged --quiet || git commit -m "Update seen articles [skip ci]"
-          git push
+          if git diff --staged --quiet; then
+            echo "✅ 変更なし、commit不要"
+            exit 0
+          fi
+          # 競合回避：最新を取り込んでから push
+          git pull --rebase --autostash || git rebase --abort
+          git commit -m "Update seen articles [skip ci]"
+          # リトライ機能：最大3回pushを試行
+          for i in 1 2 3; do
+            if git push; then
+              echo "✅ Push成功（試行$i回目）"
+              exit 0
+            fi
+            echo "⚠️ Push失敗、リトライ中（$i/3）..."
+            sleep 2
+            git pull --rebase --autostash || git rebase --abort
+          done
+          echo "❌ Push最終的に失敗"
+          exit 1
