@@ -1,10 +1,11 @@
 """
-業界レポート取得モジュール (v1)
-USDA, EIA等の公式・準公式レポートを監視
+業界レポート取得モジュール (v2)
+USDA, EIA, FRB（公式）, OPEC, Reuters等を監視
 
 データソース:
-1. USDA NASS 公式RSS（最優先）
-2. Google News経由のレポート関連ニュース（補完用）
+1. USDA NASS 公式RSS
+2. FRB公式RSS（直接）：金融政策・FOMC声明
+3. Google News経由（OPEC・Reuters・WASDE等）
 """
 import os
 import json
@@ -19,16 +20,34 @@ from prices import get_price_for_category, format_price_line, CATEGORY_EMOJI
 # --- 設定 ---
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
-SEEN_FILE = "seen_reports.json"  # 通常ニュースとは別管理
+SEEN_FILE = "seen_reports.json"
 MAX_AGE_DAYS = 7  # 1週間以内のレポートを対象
 
 # 業界レポート用フィード
 REPORT_FEEDS = {
+    # === 公式RSSを直接利用 ===
     "USDA NASS公式": {
         "url": "https://www.nass.usda.gov/rss/reports.xml",
         "emoji": "🏛",
         "default_categories": ["小麦", "トウモロコシ", "大豆"],
     },
+    "FRB金融政策": {
+        "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+        "emoji": "🏦",
+        "default_categories": ["金", "原油", "コモディティ全般"],  # 金利は全コモディティに影響
+    },
+    "FRB全プレスリリース": {
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "emoji": "🏦",
+        "default_categories": ["金", "コモディティ全般"],
+    },
+    "FRB Powell議長発言": {
+        "url": "https://www.federalreserve.gov/feeds/s_t_powell.xml",
+        "emoji": "🎤",
+        "default_categories": ["金", "原油", "コモディティ全般"],
+    },
+
+    # === Google News経由（公式RSS非提供 or 不安定なソース） ===
     "WASDE関連": {
         "url": "https://news.google.com/rss/search?q=(WASDE+report+OR+USDA+supply+demand+estimate)+when:7d&hl=en-US&gl=US&ceid=US:en",
         "emoji": "📊",
@@ -48,6 +67,22 @@ REPORT_FEEDS = {
         "url": "https://news.google.com/rss/search?q=(LME+inventory+OR+copper+stockpile+OR+gold+reserves+report)+when:7d&hl=en-US&gl=US&ceid=US:en",
         "emoji": "⛏️",
         "default_categories": ["銅", "金"],
+    },
+    "OPEC関連": {
+        "url": "https://news.google.com/rss/search?q=(OPEC+production+OR+OPEC+meeting+OR+OPEC+quota+OR+OPEC+output)+when:7d&hl=en-US&gl=US&ceid=US:en",
+        "emoji": "🛢️",
+        "default_categories": ["原油"],
+    },
+    "Reuters商品ニュース": {
+        # site:演算子でReutersに限定（高品質ソースのみ）
+        "url": "https://news.google.com/rss/search?q=site:reuters.com+(commodity+OR+oil+OR+gold+OR+wheat+OR+copper)+when:3d&hl=en-US&gl=US&ceid=US:en",
+        "emoji": "📰",
+        "default_categories": ["コモディティ全般"],
+    },
+    "Bloomberg商品ニュース": {
+        "url": "https://news.google.com/rss/search?q=site:bloomberg.com+(commodity+OR+oil+OR+gold+OR+wheat+OR+copper)+when:3d&hl=en-US&gl=US&ceid=US:en",
+        "emoji": "📰",
+        "default_categories": ["コモディティ全般"],
     },
 }
 
@@ -102,18 +137,30 @@ def format_age(entry):
         return "?"
 
 
-def is_relevant_report(title, summary):
+def is_relevant_report(title, summary, source):
     """業界レポートとしての関連性チェック"""
     text = (title + " " + summary).lower()
 
-    # 重要キーワード
+    # FRB系は金融政策・金利関連を優先
+    if "FRB" in source:
+        fed_keywords = [
+            "monetary policy", "fomc", "rate", "interest", "inflation",
+            "powell", "federal funds", "balance sheet", "qe", "qt",
+            "tapering", "easing", "tightening", "economic outlook",
+            "金利", "金融政策", "利上げ", "利下げ",
+        ]
+        return any(kw in text for kw in fed_keywords)
+
+    # 通常の業界レポート関連
     important = [
         "wasde", "crop production", "crop progress", "acreage",
         "grain stocks", "supply and demand", "world agricultural",
         "petroleum status", "weekly petroleum", "ethanol",
         "lme inventory", "copper stockpile", "gold reserves",
+        "opec", "output cut", "production quota", "saudi", "russia",
         "estimate", "forecast", "report", "production", "yield",
-        "harvest", "stocks", "inventory", "供給見通し", "在庫",
+        "harvest", "stocks", "inventory", "supply", "demand",
+        "供給見通し", "在庫", "生産", "需給",
     ]
 
     return any(kw in text for kw in important)
@@ -121,7 +168,7 @@ def is_relevant_report(title, summary):
 
 def analyze_report_with_claude(client, source, title, summary):
     """業界レポートを投資家視点で分析"""
-    prompt = f"""以下はコモディティ関連の業界レポートまたは公式発表に関する情報です。
+    prompt = f"""以下はコモディティ関連の業界レポートまたは公式発表です。
 コモディティ投資家の視点で詳細に分析してください。
 
 ソース: {source}
@@ -140,6 +187,12 @@ def analyze_report_with_claude(client, source, title, summary):
 
 カテゴリの選択肢: 小麦, 金, 原油, トウモロコシ, 大豆, 銅, コモディティ全般
 （複数該当する場合は全て含める）
+
+特記事項：
+- FRB（米連邦準備制度）の金利・金融政策はすべてのコモディティに影響、特に金は強く反応
+- OPECの減産・増産発表は原油価格に直撃
+- 米国の利上げ＝金利上昇＝金（無利子資産）下落圧力
+- インフレ懸念は金・コモディティ全般に上昇圧力
 
 業界レポートの重要度判定基準:
 1 = 通常の状況更新、市場予想範囲内
@@ -219,7 +272,8 @@ def fetch_feed_safely(url, source_name):
     try:
         feed = feedparser.parse(url)
         if feed.bozo and feed.bozo_exception:
-            print(f"  ⚠️ {source_name} のRSS解析警告: {feed.bozo_exception}")
+            # 軽微な警告は無視
+            pass
         if not feed.entries:
             print(f"  ⚠️ {source_name}: エントリなし")
             return []
@@ -257,7 +311,7 @@ def main():
             summary = entry.get("summary", "")[:600]
 
             # 関連性チェック
-            if not is_relevant_report(entry.title, summary):
+            if not is_relevant_report(entry.title, summary, source):
                 print(f"  ⏭ スキップ（無関係）: {entry.title[:40]}...")
                 continue
 
@@ -271,7 +325,7 @@ def main():
             age_str = format_age(entry)
             print(f"  [{importance}/5] ({age_str}) {entry.title[:50]}...")
 
-            # 業界レポートは閾値2以上で通知（重要度高いため緩め）
+            # 業界レポートは閾値2以上で通知
             if importance >= 2:
                 # 関連カテゴリ全部の価格を取得
                 categories = analysis.get("categories", config["default_categories"])
