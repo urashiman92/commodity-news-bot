@@ -1,0 +1,54 @@
+name: Industry Reports
+
+on:
+  schedule:
+    - cron: '15 * * * *'  # 毎時15分（他のワークフローと衝突回避）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-reports:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run reports bot
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python reports.py
+
+      - name: Commit seen_reports.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add seen_reports.json
+          if git diff --staged --quiet; then
+            echo "✅ 変更なし、commit不要"
+            exit 0
+          fi
+          git pull --rebase --autostash || git rebase --abort
+          git commit -m "Update seen reports [skip ci]"
+          for i in 1 2 3; do
+            if git push; then
+              echo "✅ Push成功（試行$i回目）"
+              exit 0
+            fi
+            echo "⚠️ Push失敗、リトライ中（$i/3）..."
+            sleep 2
+            git pull --rebase --autostash || git rebase --abort
+          done
+          echo "❌ Push最終的に失敗"
+          exit 1
