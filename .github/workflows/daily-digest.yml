@@ -24,5 +24,5 @@ jobs:
 
       - name: Run digest
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          WEBHOOK_DAILY: ${{ secrets.WEBHOOK_DAILY }}
         run: python digest.py
