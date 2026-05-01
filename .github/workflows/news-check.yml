@@ -27,7 +27,14 @@ jobs:
       - name: Run news bot
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          WEBHOOK_WHEAT: ${{ secrets.WEBHOOK_WHEAT }}
+          WEBHOOK_GOLD: ${{ secrets.WEBHOOK_GOLD }}
+          WEBHOOK_OIL: ${{ secrets.WEBHOOK_OIL }}
+          WEBHOOK_CORN: ${{ secrets.WEBHOOK_CORN }}
+          WEBHOOK_SOYBEAN: ${{ secrets.WEBHOOK_SOYBEAN }}
+          WEBHOOK_COPPER: ${{ secrets.WEBHOOK_COPPER }}
+          WEBHOOK_OTHER: ${{ secrets.WEBHOOK_OTHER }}
+          WEBHOOK_CRITICAL: ${{ secrets.WEBHOOK_CRITICAL }}
         run: python main.py
 
       - name: Commit seen.json
@@ -39,10 +46,8 @@ jobs:
             echo "✅ 変更なし、commit不要"
             exit 0
           fi
-          # 競合回避：最新を取り込んでから push
           git pull --rebase --autostash || git rebase --abort
           git commit -m "Update seen articles [skip ci]"
-          # リトライ機能：最大3回pushを試行
           for i in 1 2 3; do
             if git push; then
               echo "✅ Push成功（試行$i回目）"
