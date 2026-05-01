@@ -1,10 +1,7 @@
 """
-コモディティニュース自動通知Bot (v3: 鮮度フィルタ付き)
-- Google News RSSから最新ニュースを取得
-- 24時間以内の記事のみを対象にする（鮮度フィルタ）
-- Claude Haikuで要約・重要度判定
-- yfinanceで現在価格を取得
-- 重要度3以上のニュースをDiscordに通知（価格情報付き）
+コモディティニュース自動通知Bot (v6: マルチチャンネル対応)
+- カテゴリ別Discordチャンネルに振り分けて通知
+- 重要度⭐⭐⭐⭐⭐は最重要チャンネルにも複製通知
 """
 import os
 import json
@@ -18,15 +15,24 @@ from prices import get_price_for_category, format_price_line, CATEGORY_EMOJI
 
 # --- 設定 ---
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
-DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 SEEN_FILE = "seen.json"
-IMPORTANCE_THRESHOLD = 3  # この重要度以上だけ通知（1-5）
+IMPORTANCE_THRESHOLD = 3
+CRITICAL_THRESHOLD = 5  # 最重要チャンネルにも送る閾値
 MAX_ARTICLES_PER_FEED = 10
-MAX_AGE_HOURS = 24  # 何時間以内の記事を「速報」として扱うか
-
-# Google News RSS に when:1d を付けて24時間以内に絞る
-# "when:1d" = 1日以内, "when:1h" = 1時間以内, "when:7d" = 1週間以内
+MAX_AGE_HOURS = 24
 FRESHNESS_FILTER = "when:1d"
+
+# カテゴリ → Webhook URL のマッピング
+WEBHOOK_URLS = {
+    "小麦": os.environ.get("WEBHOOK_WHEAT", ""),
+    "金": os.environ.get("WEBHOOK_GOLD", ""),
+    "原油": os.environ.get("WEBHOOK_OIL", ""),
+    "トウモロコシ": os.environ.get("WEBHOOK_CORN", ""),
+    "大豆": os.environ.get("WEBHOOK_SOYBEAN", ""),
+    "銅": os.environ.get("WEBHOOK_COPPER", ""),
+    "コモディティ全般": os.environ.get("WEBHOOK_OTHER", ""),
+}
+WEBHOOK_CRITICAL = os.environ.get("WEBHOOK_CRITICAL", "")
 
 FEEDS = {
     "小麦": f"https://news.google.com/rss/search?q=(wheat+price+OR+%E5%B0%8F%E9%BA%A6)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
@@ -57,26 +63,19 @@ def article_id(entry):
 
 
 def is_fresh(entry, max_age_hours=MAX_AGE_HOURS):
-    """
-    記事が指定時間以内のものかチェック。
-    published_parsed が取得できない場合は True（安全側）を返す。
-    """
     published = entry.get("published_parsed")
     if not published:
-        return True  # 日付不明なら一応通す
-
+        return True
     try:
-        # published_parsed は time.struct_time（UTC）
         article_time = datetime.fromtimestamp(mktime(published), tz=timezone.utc)
         now = datetime.now(timezone.utc)
         age = now - article_time
         return age <= timedelta(hours=max_age_hours)
     except Exception:
-        return True  # パースエラー時も一応通す
+        return True
 
 
 def format_age(entry):
-    """記事の経過時間を人間向けフォーマット"""
     published = entry.get("published_parsed")
     if not published:
         return "?"
@@ -96,7 +95,6 @@ def format_age(entry):
 
 
 def analyze_with_claude(client, category, title, summary):
-    """Claude Haikuでニュースを分析"""
     prompt = f"""以下のニュースをコモディティ投資家の視点で分析してください。
 
 カテゴリ: {category}
@@ -132,8 +130,8 @@ def analyze_with_claude(client, category, title, summary):
         return None
 
 
-def send_to_discord(category, entry, analysis, price_info=None):
-    """Discord Webhookで通知送信（価格情報付き）"""
+def build_message(category, entry, analysis, price_info=None):
+    """Discord通知メッセージを構築"""
     impact_emoji = {
         "上昇": "📈",
         "下落": "📉",
@@ -144,7 +142,6 @@ def send_to_discord(category, entry, analysis, price_info=None):
     cat_emoji = CATEGORY_EMOJI.get(category, "🌾")
     age_str = format_age(entry)
 
-    # 価格情報ブロック
     price_block = ""
     if price_info:
         price_line = format_price_line(category, price_info)
@@ -170,12 +167,42 @@ def send_to_discord(category, entry, analysis, price_info=None):
 
     if len(content) > 1900:
         content = content[:1900] + "..."
+    return content
 
+
+def post_to_webhook(webhook_url, content, label=""):
+    """Webhook URLにメッセージを送信"""
+    if not webhook_url:
+        print(f"  ⚠️ {label} のWebhook URLが未設定")
+        return False
     try:
-        resp = requests.post(DISCORD_WEBHOOK_URL, json={"content": content}, timeout=10)
+        resp = requests.post(webhook_url, json={"content": content}, timeout=10)
         resp.raise_for_status()
+        return True
     except requests.RequestException as e:
-        print(f"  ⚠️ Discord送信エラー: {e}")
+        print(f"  ⚠️ Discord送信エラー ({label}): {e}")
+        return False
+
+
+def send_to_discord(category, entry, analysis, price_info=None):
+    """カテゴリ別チャンネルに通知。⭐⭐⭐⭐⭐は最重要チャンネルにも複製"""
+    content = build_message(category, entry, analysis, price_info)
+
+    # メインチャンネル（カテゴリ別）に送信
+    target_url = WEBHOOK_URLS.get(category, WEBHOOK_URLS.get("コモディティ全般"))
+    sent_main = post_to_webhook(target_url, content, label=category)
+
+    # 重要度5なら最重要チャンネルにも送信
+    importance = analysis.get("importance", 0)
+    if importance >= CRITICAL_THRESHOLD and WEBHOOK_CRITICAL:
+        # 最重要チャンネル用にプレフィックスを追加
+        critical_content = "🚨 **最重要アラート** 🚨\n\n" + content
+        if len(critical_content) > 1900:
+            critical_content = critical_content[:1900] + "..."
+        post_to_webhook(WEBHOOK_CRITICAL, critical_content, label="最重要")
+        print(f"  🚨 最重要チャンネルにも通知")
+
+    return sent_main
 
 
 def main():
@@ -184,8 +211,6 @@ def main():
     new_count = 0
     skipped_old = 0
     notified_count = 0
-
-    # カテゴリごとに価格情報をキャッシュ（APIコール削減）
     price_cache = {}
 
     for category, url in FEEDS.items():
@@ -199,7 +224,6 @@ def main():
 
             seen.add(aid)
 
-            # ★新機能：鮮度フィルタ
             if not is_fresh(entry):
                 skipped_old += 1
                 print(f"  ⏭ スキップ（古い記事 {format_age(entry)}）: {entry.title[:40]}...")
@@ -217,13 +241,12 @@ def main():
             print(f"  [{importance}/5] ({age_str}) {entry.title[:45]}...")
 
             if importance >= IMPORTANCE_THRESHOLD:
-                # 価格情報を取得（キャッシュ利用）
                 if category not in price_cache:
                     print(f"  💰 {category} の価格を取得中...")
                     price_cache[category] = get_price_for_category(category)
 
-                send_to_discord(category, entry, analysis, price_cache[category])
-                notified_count += 1
+                if send_to_discord(category, entry, analysis, price_cache[category]):
+                    notified_count += 1
 
     save_seen(seen)
     print(f"\n✅ 完了: {new_count}件チェック、{skipped_old}件スキップ（古い）、{notified_count}件通知")
