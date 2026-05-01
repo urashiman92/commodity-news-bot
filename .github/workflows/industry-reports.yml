@@ -2,7 +2,7 @@ name: Industry Reports
 
 on:
   schedule:
-    - cron: '15 * * * *'  # 毎時15分（他のワークフローと衝突回避）
+    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -27,7 +27,8 @@ jobs:
       - name: Run reports bot
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          WEBHOOK_REPORTS: ${{ secrets.WEBHOOK_REPORTS }}
+          WEBHOOK_CRITICAL: ${{ secrets.WEBHOOK_CRITICAL }}
         run: python reports.py
 
       - name: Commit seen_reports.json
