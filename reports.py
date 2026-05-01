@@ -1,11 +1,7 @@
 """
-業界レポート取得モジュール (v2)
-USDA, EIA, FRB（公式）, OPEC, Reuters等を監視
-
-データソース:
-1. USDA NASS 公式RSS
-2. FRB公式RSS（直接）：金融政策・FOMC声明
-3. Google News経由（OPEC・Reuters・WASDE等）
+業界レポート取得モジュール (v3: マルチチャンネル対応)
+- 業界レポート専用チャンネルに送信
+- 重要度⭐⭐⭐⭐⭐は最重要チャンネルにも複製通知
 """
 import os
 import json
@@ -19,13 +15,14 @@ from prices import get_price_for_category, format_price_line, CATEGORY_EMOJI
 
 # --- 設定 ---
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
-DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
+WEBHOOK_REPORTS = os.environ.get("WEBHOOK_REPORTS", "")
+WEBHOOK_CRITICAL = os.environ.get("WEBHOOK_CRITICAL", "")
 SEEN_FILE = "seen_reports.json"
-MAX_AGE_DAYS = 7  # 1週間以内のレポートを対象
+MAX_AGE_DAYS = 7
+CRITICAL_THRESHOLD = 5
 
 # 業界レポート用フィード
 REPORT_FEEDS = {
-    # === 公式RSSを直接利用 ===
     "USDA NASS公式": {
         "url": "https://www.nass.usda.gov/rss/reports.xml",
         "emoji": "🏛",
@@ -34,7 +31,7 @@ REPORT_FEEDS = {
     "FRB金融政策": {
         "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
         "emoji": "🏦",
-        "default_categories": ["金", "原油", "コモディティ全般"],  # 金利は全コモディティに影響
+        "default_categories": ["金", "原油", "コモディティ全般"],
     },
     "FRB全プレスリリース": {
         "url": "https://www.federalreserve.gov/feeds/press_all.xml",
@@ -46,8 +43,6 @@ REPORT_FEEDS = {
         "emoji": "🎤",
         "default_categories": ["金", "原油", "コモディティ全般"],
     },
-
-    # === Google News経由（公式RSS非提供 or 不安定なソース） ===
     "WASDE関連": {
         "url": "https://news.google.com/rss/search?q=(WASDE+report+OR+USDA+supply+demand+estimate)+when:7d&hl=en-US&gl=US&ceid=US:en",
         "emoji": "📊",
@@ -74,7 +69,6 @@ REPORT_FEEDS = {
         "default_categories": ["原油"],
     },
     "Reuters商品ニュース": {
-        # site:演算子でReutersに限定（高品質ソースのみ）
         "url": "https://news.google.com/rss/search?q=site:reuters.com+(commodity+OR+oil+OR+gold+OR+wheat+OR+copper)+when:3d&hl=en-US&gl=US&ceid=US:en",
         "emoji": "📰",
         "default_categories": ["コモディティ全般"],
@@ -105,7 +99,6 @@ def article_id(entry):
 
 
 def is_fresh(entry, max_age_days=MAX_AGE_DAYS):
-    """1週間以内なら新着"""
     published = entry.get("published_parsed")
     if not published:
         return True
@@ -138,10 +131,8 @@ def format_age(entry):
 
 
 def is_relevant_report(title, summary, source):
-    """業界レポートとしての関連性チェック"""
     text = (title + " " + summary).lower()
 
-    # FRB系は金融政策・金利関連を優先
     if "FRB" in source:
         fed_keywords = [
             "monetary policy", "fomc", "rate", "interest", "inflation",
@@ -151,7 +142,6 @@ def is_relevant_report(title, summary, source):
         ]
         return any(kw in text for kw in fed_keywords)
 
-    # 通常の業界レポート関連
     important = [
         "wasde", "crop production", "crop progress", "acreage",
         "grain stocks", "supply and demand", "world agricultural",
@@ -162,12 +152,10 @@ def is_relevant_report(title, summary, source):
         "harvest", "stocks", "inventory", "supply", "demand",
         "供給見通し", "在庫", "生産", "需給",
     ]
-
     return any(kw in text for kw in important)
 
 
 def analyze_report_with_claude(client, source, title, summary):
-    """業界レポートを投資家視点で分析"""
     prompt = f"""以下はコモディティ関連の業界レポートまたは公式発表です。
 コモディティ投資家の視点で詳細に分析してください。
 
@@ -186,13 +174,11 @@ def analyze_report_with_claude(client, source, title, summary):
 }}
 
 カテゴリの選択肢: 小麦, 金, 原油, トウモロコシ, 大豆, 銅, コモディティ全般
-（複数該当する場合は全て含める）
 
 特記事項：
-- FRB（米連邦準備制度）の金利・金融政策はすべてのコモディティに影響、特に金は強く反応
+- FRBの金利・金融政策はすべてのコモディティに影響、特に金は強く反応
 - OPECの減産・増産発表は原油価格に直撃
 - 米国の利上げ＝金利上昇＝金（無利子資産）下落圧力
-- インフレ懸念は金・コモディティ全般に上昇圧力
 
 業界レポートの重要度判定基準:
 1 = 通常の状況更新、市場予想範囲内
@@ -215,8 +201,7 @@ def analyze_report_with_claude(client, source, title, summary):
         return None
 
 
-def send_to_discord(source, source_emoji, entry, analysis, price_infos):
-    """Discord通知（複数カテゴリ対応・価格情報付き）"""
+def build_message(source, source_emoji, entry, analysis, price_infos):
     impact_emoji = {
         "上昇": "📈",
         "下落": "📉",
@@ -227,11 +212,9 @@ def send_to_discord(source, source_emoji, entry, analysis, price_infos):
     importance_stars = "⭐" * analysis.get("importance", 1)
     age_str = format_age(entry)
 
-    # カテゴリの絵文字
     categories = analysis.get("categories", [])
     cat_emojis = "".join(CATEGORY_EMOJI.get(c, "") for c in categories)
 
-    # 価格情報ブロック（複数カテゴリ対応）
     price_block = ""
     if price_infos:
         valid_prices = {c: i for c, i in price_infos.items() if i}
@@ -257,23 +240,44 @@ def send_to_discord(source, source_emoji, entry, analysis, price_infos):
 
     if len(content) > 1900:
         content = content[:1900] + "..."
+    return content
 
+
+def post_to_webhook(webhook_url, content, label=""):
+    if not webhook_url:
+        print(f"  ⚠️ {label} のWebhook URLが未設定")
+        return False
     try:
-        resp = requests.post(DISCORD_WEBHOOK_URL, json={"content": content}, timeout=10)
+        resp = requests.post(webhook_url, json={"content": content}, timeout=10)
         resp.raise_for_status()
         return True
     except requests.RequestException as e:
-        print(f"  ⚠️ Discord送信エラー: {e}")
+        print(f"  ⚠️ Discord送信エラー ({label}): {e}")
         return False
 
 
+def send_to_discord(source, source_emoji, entry, analysis, price_infos):
+    """業界レポートチャンネルに送信。⭐⭐⭐⭐⭐は最重要チャンネルにも複製"""
+    content = build_message(source, source_emoji, entry, analysis, price_infos)
+
+    # 業界レポート専用チャンネルへ送信
+    sent = post_to_webhook(WEBHOOK_REPORTS, content, label="業界レポート")
+
+    # 重要度5なら最重要チャンネルにも送信
+    importance = analysis.get("importance", 0)
+    if importance >= CRITICAL_THRESHOLD and WEBHOOK_CRITICAL:
+        critical_content = "🚨 **最重要レポート** 🚨\n\n" + content
+        if len(critical_content) > 1900:
+            critical_content = critical_content[:1900] + "..."
+        post_to_webhook(WEBHOOK_CRITICAL, critical_content, label="最重要")
+        print(f"  🚨 最重要チャンネルにも通知")
+
+    return sent
+
+
 def fetch_feed_safely(url, source_name):
-    """RSSフィードの取得（エラーハンドリング付き）"""
     try:
         feed = feedparser.parse(url)
-        if feed.bozo and feed.bozo_exception:
-            # 軽微な警告は無視
-            pass
         if not feed.entries:
             print(f"  ⚠️ {source_name}: エントリなし")
             return []
@@ -288,7 +292,6 @@ def main():
     seen = load_seen()
     new_count = 0
     notified_count = 0
-
     price_cache = {}
 
     for source, config in REPORT_FEEDS.items():
@@ -310,7 +313,6 @@ def main():
 
             summary = entry.get("summary", "")[:600]
 
-            # 関連性チェック
             if not is_relevant_report(entry.title, summary, source):
                 print(f"  ⏭ スキップ（無関係）: {entry.title[:40]}...")
                 continue
@@ -325,9 +327,7 @@ def main():
             age_str = format_age(entry)
             print(f"  [{importance}/5] ({age_str}) {entry.title[:50]}...")
 
-            # 業界レポートは閾値2以上で通知
             if importance >= 2:
-                # 関連カテゴリ全部の価格を取得
                 categories = analysis.get("categories", config["default_categories"])
                 price_infos = {}
                 for cat in categories:
