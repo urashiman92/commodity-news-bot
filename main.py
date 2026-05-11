@@ -1,13 +1,15 @@
 """
-コモディティニュース自動通知Bot (v6: マルチチャンネル対応)
+コモディティニュース自動通知Bot (v7: 検索精度向上版)
+- 検索クエリをダブルクォートで完全一致化
+- 関連性の低いニュースを排除
 - カテゴリ別Discordチャンネルに振り分けて通知
-- 重要度⭐⭐⭐⭐⭐は最重要チャンネルにも複製通知
 """
 import os
 import json
 import hashlib
 import feedparser
 import requests
+from urllib.parse import quote
 from datetime import datetime, timezone, timedelta
 from time import mktime
 from anthropic import Anthropic
@@ -17,10 +19,9 @@ from prices import get_price_for_category, format_price_line, CATEGORY_EMOJI
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 SEEN_FILE = "seen.json"
 IMPORTANCE_THRESHOLD = 3
-CRITICAL_THRESHOLD = 5  # 最重要チャンネルにも送る閾値
+CRITICAL_THRESHOLD = 5
 MAX_ARTICLES_PER_FEED = 10
 MAX_AGE_HOURS = 24
-FRESHNESS_FILTER = "when:1d"
 
 # カテゴリ → Webhook URL のマッピング
 WEBHOOK_URLS = {
@@ -34,14 +35,22 @@ WEBHOOK_URLS = {
 }
 WEBHOOK_CRITICAL = os.environ.get("WEBHOOK_CRITICAL", "")
 
+
+def make_url(query):
+    """検索クエリからGoogle News RSS URLを生成"""
+    encoded = quote(query)
+    return f"https://news.google.com/rss/search?q={encoded}&hl=ja&gl=JP&ceid=JP:ja"
+
+
+# 検索クエリ（精度UP版）：ダブルクォートで完全一致、複数キーワードで網羅性UP
 FEEDS = {
-    "小麦": f"https://news.google.com/rss/search?q=(wheat+price+OR+%E5%B0%8F%E9%BA%A6)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
-    "金": f"https://news.google.com/rss/search?q=(gold+price+OR+%E9%87%91%E7%9B%B8%E5%A0%B4)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
-    "原油": f"https://news.google.com/rss/search?q=(crude+oil+OR+%E5%8E%9F%E6%B2%B9%E4%BE%A1%E6%A0%BC)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
-    "トウモロコシ": f"https://news.google.com/rss/search?q=(corn+futures+OR+%E3%83%88%E3%82%A6%E3%83%A2%E3%83%AD%E3%82%B3%E3%82%B7)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
-    "大豆": f"https://news.google.com/rss/search?q=(soybean+futures+OR+%E5%A4%A7%E8%B1%86%E5%85%88%E7%89%A9)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
-    "銅": f"https://news.google.com/rss/search?q=(copper+price+OR+%E9%8A%85%E7%9B%B8%E5%A0%B4)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
-    "コモディティ全般": f"https://news.google.com/rss/search?q=(commodity+market+OR+%E5%95%86%E5%93%81%E5%B8%82%E5%A0%B4)+{FRESHNESS_FILTER}&hl=ja&gl=JP&ceid=JP:ja",
+    "小麦": make_url('("wheat futures" OR "wheat price" OR 小麦先物 OR 小麦価格 OR 小麦相場) when:1d'),
+    "金": make_url('("gold price" OR "gold futures" OR "spot gold" OR 金相場 OR 金先物 OR 金価格) when:1d'),
+    "原油": make_url('("crude oil" OR "WTI crude" OR "Brent crude" OR 原油先物 OR 原油価格 OR WTI原油 OR 原油相場) when:1d'),
+    "トウモロコシ": make_url('("corn futures" OR "corn price" OR トウモロコシ先物 OR トウモロコシ価格 OR コーン先物) when:1d'),
+    "大豆": make_url('("soybean futures" OR "soybean price" OR 大豆先物 OR 大豆価格 OR 大豆相場) when:1d'),
+    "銅": make_url('("copper price" OR "copper futures" OR "LME copper" OR LME銅 OR 銅相場 OR 銅価格) when:1d'),
+    "コモディティ全般": make_url('("commodity market" OR "commodities market" OR コモディティ市場 OR 商品先物市場 OR 国際商品市況) when:1d'),
 }
 
 
@@ -94,7 +103,47 @@ def format_age(entry):
         return "?"
 
 
+def is_relevant(category, title, summary):
+    """カテゴリと関連性のチェック（無関係なニュースを除外）"""
+    text = (title + " " + summary).lower()
+
+    # 各カテゴリのキーワード（これがあれば関連）
+    relevance_keywords = {
+        "小麦": ["wheat", "小麦", "grain", "穀物", "agriculture", "農産物", "harvest"],
+        "金": ["gold", "金", "bullion", "precious metal", "貴金属", "fed", "frb",
+                "interest rate", "金利", "inflation", "インフレ", "dollar", "ドル"],
+        "原油": ["oil", "crude", "petroleum", "原油", "wti", "brent", "opec", "石油",
+                 "barrel", "バレル", "energy", "エネルギー"],
+        "トウモロコシ": ["corn", "トウモロコシ", "コーン", "maize", "ethanol", "農産物",
+                          "harvest", "feed grain", "穀物"],
+        "大豆": ["soybean", "soy", "大豆", "農産物", "soya", "harvest", "穀物",
+                 "feed grain"],
+        "銅": ["copper", "銅", "metal", "lme", "金属", "trump", "tariff", "関税",
+               "industrial metal"],
+        "コモディティ全般": ["commodity", "commodities", "コモディティ", "商品",
+                              "資源", "raw material", "原材料"],
+    }
+
+    keywords = relevance_keywords.get(category, [])
+    if not keywords:
+        return True
+
+    # 除外キーワード（明らかに無関係なもの）
+    exclude_keywords = [
+        "ladies", "ladeies", "tournament", "ゴルフ", "golf", "サッカー", "野球",
+        "選手権", "大会結果", "予選通過",
+    ]
+
+    for kw in exclude_keywords:
+        if kw in text:
+            return False
+
+    # 関連キーワードが含まれているか
+    return any(kw in text for kw in keywords)
+
+
 def analyze_with_claude(client, category, title, summary):
+    """Claude Haikuでニュースを分析"""
     prompt = f"""以下のニュースをコモディティ投資家の視点で分析してください。
 
 カテゴリ: {category}
@@ -188,14 +237,11 @@ def send_to_discord(category, entry, analysis, price_info=None):
     """カテゴリ別チャンネルに通知。⭐⭐⭐⭐⭐は最重要チャンネルにも複製"""
     content = build_message(category, entry, analysis, price_info)
 
-    # メインチャンネル（カテゴリ別）に送信
     target_url = WEBHOOK_URLS.get(category, WEBHOOK_URLS.get("コモディティ全般"))
     sent_main = post_to_webhook(target_url, content, label=category)
 
-    # 重要度5なら最重要チャンネルにも送信
     importance = analysis.get("importance", 0)
     if importance >= CRITICAL_THRESHOLD and WEBHOOK_CRITICAL:
-        # 最重要チャンネル用にプレフィックスを追加
         critical_content = "🚨 **最重要アラート** 🚨\n\n" + content
         if len(critical_content) > 1900:
             critical_content = critical_content[:1900] + "..."
@@ -210,6 +256,7 @@ def main():
     seen = load_seen()
     new_count = 0
     skipped_old = 0
+    skipped_irrelevant = 0
     notified_count = 0
     price_cache = {}
 
@@ -229,8 +276,15 @@ def main():
                 print(f"  ⏭ スキップ（古い記事 {format_age(entry)}）: {entry.title[:40]}...")
                 continue
 
-            new_count += 1
             summary = entry.get("summary", "")[:500]
+
+            # ★新機能：関連性フィルタ
+            if not is_relevant(category, entry.title, summary):
+                skipped_irrelevant += 1
+                print(f"  ⏭ スキップ（無関係）: {entry.title[:40]}...")
+                continue
+
+            new_count += 1
             analysis = analyze_with_claude(client, category, entry.title, summary)
 
             if analysis is None:
@@ -249,7 +303,8 @@ def main():
                     notified_count += 1
 
     save_seen(seen)
-    print(f"\n✅ 完了: {new_count}件チェック、{skipped_old}件スキップ（古い）、{notified_count}件通知")
+    print(f"\n✅ 完了: {new_count}件チェック、{skipped_old}件スキップ（古い）、"
+          f"{skipped_irrelevant}件スキップ（無関係）、{notified_count}件通知")
 
 
 if __name__ == "__main__":
