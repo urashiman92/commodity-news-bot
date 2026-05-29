@@ -42,6 +42,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add seen.json
+          git add news_state.json
           if git diff --staged --quiet; then
             echo "✅ 変更なし、commit不要"
             exit 0
