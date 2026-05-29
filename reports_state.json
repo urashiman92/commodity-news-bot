@@ -52,5 +52,68 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アナリストが石油価格見通しを相次いで引き上げている。エネルギー流の回復が緩やかであることが背景だが、需給タイト化への懸念から上方修正が続いている。Reuters調査に基づくコンセンサスの上振れは、原油相場の底堅さを示唆している。"
+  },
+  {
+    "title": "WASDE confirms poor wheat crop - Tri-State Livestock News",
+    "timestamp": "2026-05-29T00:23:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDEが悪い小麦作況を確認し、米国の小麦生産見通しが引き下げられた。供給懸念から小麦価格は上昇圧力を受ける。飼料穀物としてのトウモロコシ・大豆需要にも波及効果が予想される。"
+  },
+  {
+    "title": "WASDE confirms poor wheat crop - Tri-State Livestock News",
+    "timestamp": "2026-05-29T00:23:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDEが悪い小麦作況を確認し、米国の小麦生産見通しが引き下げられた。供給懸念から小麦価格は上昇圧力を受ける。飼料穀物としてのトウモロコシ・大豆需要にも波及効果が予想される。"
+  },
+  {
+    "title": "WASDE confirms poor wheat crop - Tri-State Livestock News",
+    "timestamp": "2026-05-29T00:23:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDEが悪い小麦作況を確認し、米国の小麦生産見通しが引き下げられた。供給懸念から小麦価格は上昇圧力を受ける。飼料穀物としてのトウモロコシ・大豆需要にも波及効果が予想される。"
+  },
+  {
+    "title": "EIA crude stocks fall 3.3m barrels, missing forecasts as OPEC+ decision looms - VT Markets",
+    "timestamp": "2026-05-29T00:35:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA原油在庫が330万バレル減少したが、市場予想を下回る結果となった。OPEC+の重要な決定を控える中、在庫減少は需要堅調を示唆する一方、予想ミスは市場心理に不安をもたらす可能性がある。"
+  },
+  {
+    "title": "SA asks: How will the UAE's exit from OPEC impact the energy sector? - MSN",
+    "timestamp": "2026-05-28T17:43:12+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから離脱することで、石油市場の地政学的構図が大きく変わる。OPEC結束力の弱化により減産協調維持が不透明化し、原油価格のボラティリティ上昇が見込まれる。UAEの独立した増産決定の自由度拡大は供給サイドの不確実性を高める。"
+  },
+  {
+    "title": "SA asks: How will the UAE's exit from OPEC impact the energy sector? - MSN",
+    "timestamp": "2026-05-28T17:43:12+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECから離脱することで、石油市場の地政学的構図が大きく変わる。OPEC結束力の弱化により減産協調維持が不透明化し、原油価格のボラティリティ上昇が見込まれる。UAEの独立した増産決定の自由度拡大は供給サイドの不確実性を高める。"
+  },
+  {
+    "title": "How the United Arab Emirates’ shocking OPEC exit could drive down gas prices - AOL.com",
+    "timestamp": "2026-05-29T16:52:31+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEのOPEC脱退は加盟国による減産協調の枠組みが崩壊することを意味し、原油供給増加圧力が生じる。OPECの結束力低下により減産維持が困難になれば、原油価格の下落ドライバーとなる可能性が高い。ガソリン価格への下押し圧力も予想される。"
   }
 ]
