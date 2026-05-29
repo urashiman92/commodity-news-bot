@@ -94,6 +94,52 @@ def save_seen(seen):
         json.dump(seen_list, f, ensure_ascii=False)
 
 
+def _entry_iso(entry):
+    """記事の published を UTC tz-aware ISO8601 文字列で返す。無ければ現在UTC。"""
+    published = entry.get("published_parsed")
+    if published:
+        try:
+            return datetime.fromtimestamp(mktime(published), tz=timezone.utc).isoformat()
+        except Exception:
+            pass
+    return datetime.now(timezone.utc).isoformat()
+
+
+def save_news_state(items, path="reports_state.json", keep_hours=72):
+    """analyzer向けニュース状態を保存。既存JSONとマージし、title|timestampで重複排除、
+    現在UTC - keep_hours より新しいレコードだけ残して書き戻す。"""
+    existing = []
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+        except Exception:
+            existing = []
+
+    seen_keys = set()
+    deduped = []
+    for it in existing + items:
+        # レポートは1記事が複数カテゴリに展開されるため commodity もキーに含める
+        key = f"{it.get('title', '')}|{it.get('timestamp', '')}|{it.get('commodity', '')}"
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        deduped.append(it)
+
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=keep_hours)
+    kept = []
+    for it in deduped:
+        try:
+            ts = datetime.fromisoformat(it["timestamp"])
+        except Exception:
+            continue
+        if ts >= cutoff:
+            kept.append(it)
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(kept, f, ensure_ascii=False, indent=2)
+
+
 def article_id(entry):
     return hashlib.md5(entry.link.encode()).hexdigest()
 
@@ -290,6 +336,7 @@ def fetch_feed_safely(url, source_name):
 def main():
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
     seen = load_seen()
+    news_state = []
     new_count = 0
     notified_count = 0
     price_cache = {}
@@ -323,6 +370,20 @@ def main():
             if analysis is None:
                 continue
 
+            # analyzer連携: 通知閾値判定の前に記録。レポートは複数カテゴリに効くので
+            # カテゴリごとに1レコードへ展開（WASDE/FOMC等が複数銘柄に届くように）。
+            ts_iso = _entry_iso(entry)
+            for cat in analysis.get("categories", []):
+                news_state.append({
+                    "title": entry.title,
+                    "timestamp": ts_iso,
+                    "importance": analysis.get("importance", 1),
+                    "direction": analysis.get("impact", "中立"),
+                    "source": source,
+                    "commodity": cat,
+                    "summary": analysis.get("summary_jp", ""),
+                })
+
             importance = analysis.get("importance", 0)
             age_str = format_age(entry)
             print(f"  [{importance}/5] ({age_str}) {entry.title[:50]}...")
@@ -339,6 +400,7 @@ def main():
                     notified_count += 1
 
     save_seen(seen)
+    save_news_state(news_state)
     print(f"\n✅ 完了: {new_count}件チェック、{notified_count}件通知")
 
 
