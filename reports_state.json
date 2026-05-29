@@ -115,5 +115,41 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEのOPEC脱退は加盟国による減産協調の枠組みが崩壊することを意味し、原油供給増加圧力が生じる。OPECの結束力低下により減産維持が困難になれば、原油価格の下落ドライバーとなる可能性が高い。ガソリン価格への下押し圧力も予想される。"
+  },
+  {
+    "title": "EIA reports a drop in US crude oil stocks - engine.online",
+    "timestamp": "2026-05-29T11:07:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の減少を報告。在庫低下は原油供給逼迫を示唆し、価格上昇圧力となる。需給タイトニングの継続が確認され、マクロ的には金利環境との相互作用も注視が必要。"
+  },
+  {
+    "title": "USDA Crop Progress Report May 26, 2026: Corn, Soybean, Cotton Planting and Emergence Data - News and Statistics - IndexBox",
+    "timestamp": "2026-05-27T12:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年5月26日のUSDA作物進捗レポートはトウモロコシ・大豆の播種と出芽データを報告。定期的なモニタリング情報として市場参加者に利用されるが、具体的な数値が提供されていないため、直ちの価格変動圧力は限定的と判断される。"
+  },
+  {
+    "title": "USDA Crop Progress Report May 26, 2026: Corn, Soybean, Cotton Planting and Emergence Data - News and Statistics - IndexBox",
+    "timestamp": "2026-05-27T12:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年5月26日のUSDA作物進捗レポートはトウモロコシ・大豆の播種と出芽データを報告。定期的なモニタリング情報として市場参加者に利用されるが、具体的な数値が提供されていないため、直ちの価格変動圧力は限定的と判断される。"
+  },
+  {
+    "title": "USDA Crop Progress Report May 26, 2026: Corn, Soybean, Cotton Planting and Emergence Data - News and Statistics - IndexBox",
+    "timestamp": "2026-05-27T12:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年5月26日のUSDA作物進捗レポートはトウモロコシ・大豆の播種と出芽データを報告。定期的なモニタリング情報として市場参加者に利用されるが、具体的な数値が提供されていないため、直ちの価格変動圧力は限定的と判断される。"
   }
 ]
