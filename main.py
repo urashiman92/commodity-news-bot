@@ -199,6 +199,8 @@ def analyze_with_claude(client, category, title, summary):
 {{
   "impact": "上昇" または "下落" または "中立",
   "importance": 1-5の整数,
+  "event_type": "scheduled" または "breaking" または "commentary",
+  "surprise": "high" または "inline" または "low" または "unknown",
   "summary_jp": "日本語で3行以内の要約",
   "reason": "価格への影響理由を1行で"
 }}
@@ -208,7 +210,18 @@ def analyze_with_claude(client, category, title, summary):
 2 = 軽微な話題
 3 = 注目すべきニュース
 4 = 重要、ポジション検討レベル
-5 = 緊急・市場大変動の可能性"""
+5 = 緊急・市場大変動の可能性
+
+event_type の判定基準（ニュースの種類）:
+- scheduled = WASDE/EIA週間在庫/FOMC/雇用統計など、予定された定期発表・経済指標
+- breaking  = OPEC緊急会合・地政学イベント・事故・突発の供給ショックなど、予定外の速報
+- commentary = 解説・観測・アナリスト見解・相場の振り返りなど、既に方向が織り込まれているもの
+
+surprise の判定基準（市場予想と比べてどうだったか）:
+- high    = 市場予想を大きく外れた（強いサプライズ）
+- inline  = ほぼ予想通り（織り込み済み、値動きは限定的）
+- low     = 軽微・予想範囲内
+- unknown = 予想との比較が判定不能"""
 
     try:
         response = client.messages.create(
@@ -342,6 +355,8 @@ def main():
                 "timestamp": _entry_iso(entry),
                 "importance": analysis.get("importance", 1),
                 "direction": analysis.get("impact", "中立"),
+                "event_type": analysis.get("event_type", "commentary"),
+                "surprise": analysis.get("surprise", "unknown"),
                 "source": "Google News",
                 "commodity": category,
                 "summary": analysis.get("summary_jp", ""),

@@ -214,6 +214,8 @@ def analyze_report_with_claude(client, source, title, summary):
   "categories": ["影響を受けるコモディティ"のリスト],
   "impact": "上昇" または "下落" または "中立" または "混合",
   "importance": 1-5の整数,
+  "event_type": "scheduled" または "breaking" または "commentary",
+  "surprise": "high" または "inline" または "low" または "unknown",
   "summary_jp": "日本語で3-4行の要約。具体的な数値があれば必ず含める",
   "key_data": "もっとも重要な数字やデータポイントを1行で",
   "trade_implication": "投資家への示唆を1-2行で"
@@ -231,7 +233,19 @@ def analyze_report_with_claude(client, source, title, summary):
 2 = 小さなサプライズ、注目程度
 3 = 注目すべきデータ、ポジション再考
 4 = 大きなサプライズ、市場が大きく動く可能性
-5 = 歴史的な数字、市場大変動確実"""
+5 = 歴史的な数字、市場大変動確実
+
+event_type の判定基準（ニュースの種類）:
+- scheduled = WASDE/EIA週間在庫/FOMC/雇用統計/Crop Progress など、予定された定期発表・公式統計
+- breaking  = OPEC緊急会合・地政学イベント・事故・突発の供給ショックなど、予定外の速報
+- commentary = 解説・観測・アナリスト見解など、既に方向が織り込まれているもの
+※業界レポート・公式統計は基本 scheduled が多い。日付の決まった定期発表なら scheduled とする。
+
+surprise の判定基準（市場予想と比べてどうだったか）:
+- high    = 市場予想を大きく外れた（強いサプライズ）
+- inline  = ほぼ予想通り（織り込み済み、値動きは限定的）
+- low     = 軽微・予想範囲内
+- unknown = 予想との比較が判定不能"""
 
     try:
         response = client.messages.create(
@@ -379,6 +393,8 @@ def main():
                     "timestamp": ts_iso,
                     "importance": analysis.get("importance", 1),
                     "direction": analysis.get("impact", "中立"),
+                    "event_type": analysis.get("event_type", "commentary"),
+                    "surprise": analysis.get("surprise", "unknown"),
                     "source": source,
                     "commodity": cat,
                     "summary": analysis.get("summary_jp", ""),
