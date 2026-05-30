@@ -126,33 +126,6 @@
     "summary": "EIAが米国原油在庫の減少を報告。在庫低下は原油供給逼迫を示唆し、価格上昇圧力となる。需給タイトニングの継続が確認され、マクロ的には金利環境との相互作用も注視が必要。"
   },
   {
-    "title": "USDA Crop Progress Report May 26, 2026: Corn, Soybean, Cotton Planting and Emergence Data - News and Statistics - IndexBox",
-    "timestamp": "2026-05-27T12:16:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年5月26日のUSDA作物進捗レポートはトウモロコシ・大豆の播種と出芽データを報告。定期的なモニタリング情報として市場参加者に利用されるが、具体的な数値が提供されていないため、直ちの価格変動圧力は限定的と判断される。"
-  },
-  {
-    "title": "USDA Crop Progress Report May 26, 2026: Corn, Soybean, Cotton Planting and Emergence Data - News and Statistics - IndexBox",
-    "timestamp": "2026-05-27T12:16:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年5月26日のUSDA作物進捗レポートはトウモロコシ・大豆の播種と出芽データを報告。定期的なモニタリング情報として市場参加者に利用されるが、具体的な数値が提供されていないため、直ちの価格変動圧力は限定的と判断される。"
-  },
-  {
-    "title": "USDA Crop Progress Report May 26, 2026: Corn, Soybean, Cotton Planting and Emergence Data - News and Statistics - IndexBox",
-    "timestamp": "2026-05-27T12:16:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年5月26日のUSDA作物進捗レポートはトウモロコシ・大豆の播種と出芽データを報告。定期的なモニタリング情報として市場参加者に利用されるが、具体的な数値が提供されていないため、直ちの価格変動圧力は限定的と判断される。"
-  },
-  {
     "title": "May 2026 WASDE Report Outlook | Agriculture and Natural Resources in Hardin County - U.OSU",
     "timestamp": "2026-05-29T17:37:30+00:00",
     "importance": 1,
@@ -207,5 +180,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナドローンがロシア南部の港湾とオイルデポを攻撃。ロシアの石油・ガス供給インフラへの直接的な脅威が顕在化。黒海地域の石油輸送能力低下リスクが急速に高まり、欧州・アジアのエネルギーセキュリティに新たな不確実性が加わる。"
+  },
+  {
+    "title": "Cotton Futures Display Mixed Performance Amid Midday Trading on Tuesday - Earnings Surprise Stocks - thelegaladvocate.com",
+    "timestamp": "2026-05-28T05:12:57+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "綿花先物が火曜日の昼間取引で混合的なパフォーマンスを示した。具体的な価格変動や数値データが記事に記載されていないため、詳細な市場インパクトは判定不能。WASDE関連と銘打たれているが、実質は取引動向の観測レポートとみられる。"
   }
 ]
