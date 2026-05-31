@@ -864,5 +864,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格がここ数週間連続で下落している状況を報告するニュース。市場の既存トレンドを述べたもの。"
+  },
+  {
+    "title": "EUがロシア産石油の価格上限凍結を検討、中東紛争で原油価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-05-31T09:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東紛争の緊張でWTI原油は上昇圧力が続く。EUのロシア産石油価格上限凍結検討は供給制限シナリオを示唆し、中期的な価格下支え要因となる可能性がある。地政学リスク継続が注視される。"
+  },
+  {
+    "title": "本日（5月31日）の燃料価格：原油価格は引き続き急落、E10ガソリンも大幅に下落。 - Vietnam.vn",
+    "timestamp": "2026-05-31T16:03:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの燃料価格が5月31日時点で下落している。原油価格の急落を受けてE10ガソリンも大幅に値下がりした。既に市場で織り込まれた動きの報道と考えられる。"
+  },
+  {
+    "title": "ピーター・ブラント：季節的な傾向から、トウモロコシ価格は収穫期の安値水準まで下落すると見込まれる - Traders Union",
+    "timestamp": "2026-05-31T15:15:08+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "アナリスト・ピーター・ブラント氏が季節的傾向に基づき、トウモロコシ価格が収穫期の安値水準まで下落するとの見通しを述べた。既知の季節パターンの解説であり、市場に新規の材料をもたらすものではない。"
   }
 ]
