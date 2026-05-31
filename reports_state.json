@@ -298,5 +298,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア南西部のサラトフ製油所を攻撃したと発表。同製油所はロシア最大級の石油精製施設の一つであり、日産約90万バレルの処理能力を持つ。供給ショック懸念により原油価格への上昇圧力が強まる。"
+  },
+  {
+    "title": "How the United Arab Emirates’ shocking OPEC exit could drive down gas prices - AOL.com",
+    "timestamp": "2026-05-30T17:27:10+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECからの脱退を表明した衝撃的なニュース。これはOPECの結束力を大きく損なわせ、加盟国間の減産合意の実行可能性を低下させる。UAEの脱退により、OPEC+の一体性が揺らぎ、市場では原油価格下押し圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes on Russia - Reuters",
+    "timestamp": "2026-05-31T14:54:24+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナが夜間にロシアのパイプライン、製油所、燃料貯蔵施設をドローン攻撃。ロシアはエネルギー大国であり、これらの重要インフラへの直撃は欧州向けを含む石油・ガス供給への懸念を急速に高める。地政学的リスク再燃により、原油価格への上昇圧力が即座に作用する。"
+  },
+  {
+    "title": "Why Putin’s Macro Discipline Is Squeezing Russia’s Main Economic Engine - Bloomberg.com",
+    "timestamp": "2026-05-30T10:45:01+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "プーチン政権のマクロ経済規律（財政緊縮）がロシアの主要経済エンジンである石油・ガス部門に圧力を加えている。政府支出の抑制と金融引き締めにより、国内需要が低迷し、エネルギー投資が制限されている。ロシア経済の構造的な脆弱性が露呈し、中期的な生産能力低下のリスクが高まっている。"
+  },
+  {
+    "title": "Why Putin’s Macro Discipline Is Squeezing Russia’s Main Economic Engine - Bloomberg.com",
+    "timestamp": "2026-05-30T10:45:01+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "プーチン政権のマクロ経済規律（財政緊縮）がロシアの主要経済エンジンである石油・ガス部門に圧力を加えている。政府支出の抑制と金融引き締めにより、国内需要が低迷し、エネルギー投資が制限されている。ロシア経済の構造的な脆弱性が露呈し、中期的な生産能力低下のリスクが高まっている。"
   }
 ]
