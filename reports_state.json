@@ -164,17 +164,6 @@
     "summary": "ウクライナドローンがロシア南部の港湾とオイルデポを攻撃。ロシアの石油・ガス供給インフラへの直接的な脅威が顕在化。黒海地域の石油輸送能力低下リスクが急速に高まり、欧州・アジアのエネルギーセキュリティに新たな不確実性が加わる。"
   },
   {
-    "title": "Cotton Futures Display Mixed Performance Amid Midday Trading on Tuesday - Earnings Surprise Stocks - thelegaladvocate.com",
-    "timestamp": "2026-05-28T05:12:57+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "綿花先物が火曜日の昼間取引で混合的なパフォーマンスを示した。具体的な価格変動や数値データが記事に記載されていないため、詳細な市場インパクトは判定不能。WASDE関連と銘打たれているが、実質は取引動向の観測レポートとみられる。"
-  },
-  {
     "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
     "timestamp": "2026-05-29T07:00:00+00:00",
     "importance": 3,
@@ -228,5 +217,71 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナのドローン攻撃がロシア南部の港湾と石油貯蔵施設を標的にした。ロシアは世界有数の石油輸出国であり、重要なインフラ施設への攻撃は供給リスクを高める。地政学的緊張の高まりが原油市場に上昇圧力をもたらす可能性が高い。"
+  },
+  {
+    "title": "April 2026 Agricultural Prices: Crop Index Up, Livestock Index Down | USDA NASS Report - News and Statistics - IndexBox",
+    "timestamp": "2026-05-29T20:29:40+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年4月のUSDA農産物価格指数でクロップ指数が上昇した一方、畜産指数は下落。穀物価格の堅調さが示唆されているが、家畜製品の価格低迷が同時に進行。穀物飼料コストの上昇が畜産業に下押し圧力をかける構図が想定される。"
+  },
+  {
+    "title": "April 2026 Agricultural Prices: Crop Index Up, Livestock Index Down | USDA NASS Report - News and Statistics - IndexBox",
+    "timestamp": "2026-05-29T20:29:40+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年4月のUSDA農産物価格指数でクロップ指数が上昇した一方、畜産指数は下落。穀物価格の堅調さが示唆されているが、家畜製品の価格低迷が同時に進行。穀物飼料コストの上昇が畜産業に下押し圧力をかける構図が想定される。"
+  },
+  {
+    "title": "April 2026 Agricultural Prices: Crop Index Up, Livestock Index Down | USDA NASS Report - News and Statistics - IndexBox",
+    "timestamp": "2026-05-29T20:29:40+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年4月のUSDA農産物価格指数でクロップ指数が上昇した一方、畜産指数は下落。穀物価格の堅調さが示唆されているが、家畜製品の価格低迷が同時に進行。穀物飼料コストの上昇が畜産業に下押し圧力をかける構図が想定される。"
+  },
+  {
+    "title": "April 2026 Agricultural Prices: Crop Index Up, Livestock Index Down | USDA NASS Report - News and Statistics - IndexBox",
+    "timestamp": "2026-05-29T20:29:40+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年4月のUSDA農産物価格指数でクロップ指数が上昇した一方、畜産指数は下落。穀物価格の堅調さが示唆されているが、家畜製品の価格低迷が同時に進行。穀物飼料コストの上昇が畜産業に下押し圧力をかける構図が想定される。"
+  },
+  {
+    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
+    "timestamp": "2026-05-30T07:24:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4月の原油増産を検討しており、日量137,000バレル（137kbd）の引き上げを考慮している。この小幅な増産決定は、現在の需給バランスと減産政策の段階的緩和の流れの中での慎重な供給調整と言える。市場はこうした追加増産を織り込み始めている可能性が高い。"
+  },
+  {
+    "title": "SA asks: How will the UAE's exit from OPEC impact the energy sector? - MSN",
+    "timestamp": "2026-05-29T02:45:54+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから離脱することで、OPEC加盟国が1国減少し、組織の統一性と減産遵守力が弱まる可能性が浮上。UAEは中東有数の産油国であり、その離脱は組織の結束力低下と潜在的な増産圧力につながるため、原油相場の下押し要因として機能する可能性が高い。"
   }
 ]
