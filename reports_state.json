@@ -294,5 +294,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "EUがロシア産原油の価格上限設定を一時凍結することを検討している。イラン情勢の緊迫化を背景に、ロシア産原油の供給制限リスクに対応する措置。現在の価格上限（バレル当たり60ドル前後）の運用を停止することで、市場への悪影響を緩和する狙い。地政学的リスク顕在化に伴い、原油需給が逼迫する懸念が増幅。"
+  },
+  {
+    "title": "Weekly Petroleum Status Report: U.S. Refinery Runs Up, Crude Stocks Fall – May 28, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-05-31T12:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間石油統計（2026年5月28日発表）によると、米国の製油所稼働率が上昇し、原油在庫が減少した。製油所の処理能力拡大と在庫低下は、原油需要の回復を示唆するポジティブシグナルであり、原油価格の支援材料となる可能性がある。"
+  },
+  {
+    "title": "Ukraine Says It Struck Saratov Refinery in Southwestern Russia - Bloomberg.com",
+    "timestamp": "2026-05-31T09:54:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア南西部のサラトフ製油所を攻撃したと発表。同製油所はロシア最大級の石油精製施設の一つであり、日産約90万バレルの処理能力を持つ。供給ショック懸念により原油価格への上昇圧力が強まる。"
   }
 ]
