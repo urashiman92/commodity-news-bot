@@ -1,14 +1,5 @@
 [
   {
-    "title": "Crude inventory falls by 4.3M barrels for week ended May 8 – EIA - MSN",
-    "timestamp": "2026-05-28T02:17:14+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国原油在庫が週間で430万バレル減少した。在庫減少は需要堅調またはシェール生産の鈍化を示唆する。ただし単週の変動であり、需要トレンド確認にはさらなるデータが必要。"
-  },
-  {
     "title": "Japan “may gain advantages” from the withdrawal of UAE from OPEC: Analyst - arabnews.jp",
     "timestamp": "2026-05-29T15:30:06+00:00",
     "importance": 3,
@@ -217,14 +208,25 @@
     "summary": "サウジアラビアが1月の原油輸出を増加させ、出荷量は2023年以来の高水準に達した。JODIデータが確認した同国の原油生産量も2023年以来の最高水準となっており、OPECの減産枠からの段階的な生産回復の流れを示している。"
   },
   {
-    "title": "Two exits reflect an OPEC in transition - China Daily",
-    "timestamp": "2026-05-28T00:54:00+00:00",
+    "title": "OPEC Considers Output Hike In June Despite Hormuz Disruption - LEADERSHIP Newspapers",
+    "timestamp": "2026-05-31T02:00:11+00:00",
     "importance": 3,
     "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
+    "event_type": "breaking",
+    "surprise": "high",
     "source": "OPEC関連",
     "commodity": "原油",
-    "summary": "OPECの加盟国離脱という構造的な変化を報道。複数国の同時退出はOPECの統一性と減産政策の実行力に対する懸念を示唆。加盟国減少により原油市場調整メカニズムの有効性が低下する可能性があり、価格変動性の増加が予想される。"
+    "summary": "OPECがホルムズ海峡の混乱にもかかわらず6月の増産を検討していることが報道された。地政学リスク継続下での増産方針は市場予想と相反し、供給懸念の緩和と実現可能性への疑問が同時に発生。原油相場には上下両方向の圧力が存在する状況。"
+  },
+  {
+    "title": "Ukrainian drones strike port, oil depot in southern Russia, authorities say - Reuters",
+    "timestamp": "2026-05-30T11:47:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナのドローン攻撃がロシア南部の港湾と石油貯蔵施設を標的にした。ロシアは世界有数の石油輸出国であり、重要なインフラ施設への攻撃は供給リスクを高める。地政学的緊張の高まりが原油市場に上昇圧力をもたらす可能性が高い。"
   }
 ]
