@@ -90,24 +90,6 @@
     "summary": "世界の金価格が急騰している。インフレ懸念や地政学的リスク、金融緩和などの要因が買い需要を支えている。コモディティ投資家にとっては防衛資産としての金の価値が再認識される局面。"
   },
   {
-    "title": "【市況】 日経平均は1619円高、原油価格弱含みで安心感 - かぶたん",
-    "timestamp": "2026-05-29T04:52:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が弱含みで推移し、インフレ懸念が緩和されたことで日経平均が1619円上昇した。株式市場ではエネルギーコスト低下による企業利益改善への期待が高まった。原油下落トレンドが継続している状況を示唆している。"
-  },
-  {
-    "title": "ExxonMobilが「数週間内に原油在庫が底をつく」と警告、原油価格は1バレル150ドル超の可能性も - finance.biggo.jp",
-    "timestamp": "2026-05-29T01:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ExxonMobilが数週間内に原油在庫が枯渇する可能性を警告。供給逼迫により原油価格が150ドル/バレルを超える可能性を指摘。世界的な需給ギャップが深刻化している状況を示唆。"
-  },
-  {
     "title": "アントアンの金価格はイード・アル・アドハーの初日に1グラムあたり2,785,000ルピアに下落 - VOI.ID",
     "timestamp": "2026-05-29T17:51:47+00:00",
     "importance": 2,
@@ -223,15 +205,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が低迷している中、ゴールドファンドの人気がランクアップしている異変が報告されている。株式・債券市場の下落への危機意識が、投資家をリスク回避資産である金への投資へ駆り立てている可能性がある。価格低迷時の買い圧力は今後の価格反発につながりやすい。"
-  },
-  {
-    "title": "原油相場は小幅下落、米・イランの停戦延長合意でホルムズ開放期待 - TBS NEWS DIG",
-    "timestamp": "2026-05-29T01:15:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イランの停戦延長合意により、ホルムズ海峡の地政学的リスクが軽減される見通しから原油相場が小幅下落。中東地域の供給途絶懸念が後退し、市場の安心感が広がった。短期的には下押し圧力が強まる可能性がある。"
   },
   {
     "title": "金相場価格デイリーコメント週間まとめ（5/25〜5/29）｜水野崇 - mbp-japan.com",
@@ -1123,5 +1096,170 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "新興市場は軟調な見通しが示されている。原油価格は下値が堅いとの指摘があり、株価の重石になる可能性がある。コモディティ全体の動向監視が必要。"
+  },
+  {
+    "title": "イランの停戦交渉が停滞、金価格は横ばい——インフレリスクにも注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-06-01T01:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "イラン停戦交渉の停滞により地政学的リスク要因が存在するも、金価格は現在横ばい推移。インフレリスクが下支え要因として機能している状況。"
+  },
+  {
+    "title": "金価格低迷も「ゴールドファンド」がランクアップの“異変”。理由は株・債券下落への危機意識？（Finasee） - Yahoo!ニュース",
+    "timestamp": "2026-06-01T02:52:38+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が低迷する中、ゴールドファンドが投資家人気を集めている異変が報告されている。これは株式・債券相場の下落に対する防衛的な資金流入を示唆している。金現物の価格低迷とファンド需要の乖離は、ポートフォリオ再構成の動きを反映している可能性がある。"
+  },
+  {
+    "title": "6月上旬、金価格は2,799万ルピアのレベルで停滞 - VOI.id",
+    "timestamp": "2026-06-01T03:42:32+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシア市場で6月上旬の金価格がルピア建て2,799万レベルで小動きしている状況の報道。現地通貨建ての価格停滞を記述したコメンタリー記事。"
+  },
+  {
+    "title": "国内の金価格は横ばいで、1億5900万ベトナムドン前後で取引された。 - Vietnam.vn",
+    "timestamp": "2026-06-01T03:44:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が1億5900万ベトナムドン前後で横ばいで推移。国内市場の局所的な価格動向を報告したもの。"
+  },
+  {
+    "title": "金価格は大幅な調整のリスクからまだ脱していない - Laodong.vn",
+    "timestamp": "2026-06-01T04:58:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は大幅な調整リスクにさらされている状況が続いている。市場では調整圧力が存在し、下値リスクが残存している。アナリスト見解として相場の脆弱性が指摘されている。"
+  },
+  {
+    "title": "本日（2026年6月1日）の金価格最新情報：SJC金地金価格、9999金リング価格、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-06-01T04:11:49+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報提供記事。SJC金地金とジュエリー価格、世界市場相場を掲載。定期的な市場データ配信。"
+  },
+  {
+    "title": "金価格は6月1日午前、中東情勢の緊迫化に関する市場の動向を注視する中で、安定した状態を維持した。 - Vietnam.vn",
+    "timestamp": "2026-06-01T02:08:38+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "6月1日午前の金価格は中東情勢の緊迫化を背景に安定した状態を維持。地政学的リスクへの警戒感が支える形で推移しているが、具体的な価格変動幅は記事に記載されていない。"
+  },
+  {
+    "title": "ドル円堅調、週明けの原油相場は反発の動き＝東京為替前場概況 - みんかぶ FX/為替",
+    "timestamp": "2026-06-01T02:44:31+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル円が堅調に推移する中で、週明けの原油相場が反発の動きを見せている。為替要因による原油の価格動向についての相場観測。"
+  },
+  {
+    "title": "【為替本日の注目点】ＷＴＩ原油価格８７ドル台に低下(サーチナ) - Yahoo!ファイナンス",
+    "timestamp": "2026-06-01T01:54:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油価格が87ドル台に低下したことを報じるニュース。為替動向の解説記事で、既に市場で織り込まれた価格水準の報告。"
+  },
+  {
+    "title": "イスラエル・レバノン紛争激化を受け、原油価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-06-01T00:06:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イスラエル・レバノン紛争の激化により、中東の地政学リスク懸念が高まっている。原油供給途絶への警戒から価格が上昇。市場では既に紛争リスクが部分的に織り込まれている。"
+  },
+  {
+    "title": "中東情勢の緊迫化を受け、原油価格は2％以上上昇した。 - Vietnam.vn",
+    "timestamp": "2026-06-01T00:29:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊迫化により原油価格が2％以上上昇した。地政学的リスクによる供給懸念が相場を押し上げた。投機筋や実需勢による買い圧力が強まっている。"
+  },
+  {
+    "title": "中東戦争にともなう国際原油価格上昇の余波で、国内航空運送業生産がCOVID-19事態以後、最も大幅に減少した。 石油精製業もやはり生産だけでなく内需·輸出出荷と在庫が一斉に急落し国家経済指標に赤信号が.. - 매일경제",
+    "timestamp": "2026-06-01T00:17:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東戦争による国際原油価格上昇がアジア（韓国）の航空運送業と石油精製業に深刻な影響を与えている。航空業の生産はCOVID-19以来最大の減少幅、製油業も生産・出荷・在庫が急落している。これは原油高が実体経済に波及する懸念を示唆している。"
+  },
+  {
+    "title": "チリ銅公団、第1四半期利益は前年比4倍増　価格高騰が追い風 - ｄメニューニュース",
+    "timestamp": "2026-06-01T01:52:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "チリ銅公団のQ1利益が前年比4倍増。銅価格の高騰が主な要因。供給サイドの好調を示す決算発表。"
+  },
+  {
+    "title": "銅価格は重要な月を迎え、トランプ政権の輸入関税計画がより明確になる可能性があります - Bitget",
+    "timestamp": "2026-05-31T13:09:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "トランプ政権の輸入関税計画の詳細化が近づいており、銅価格への影響が注視されている。関税政策は建設・製造業需要を左右する重要な材料。政策内容次第で相場変動の可能性が高い。"
+  },
+  {
+    "title": "５月２９日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-05-31T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "5月29日の国際商品市況の日次レポート。具体的な価格データや市場変動の詳細が不明。定期的な市況報道の一環。"
   }
 ]
