@@ -36,42 +36,6 @@
     "summary": "アナリストが石油価格見通しを相次いで引き上げている。エネルギー流の回復が緩やかであることが背景だが、需給タイト化への懸念から上方修正が続いている。Reuters調査に基づくコンセンサスの上振れは、原油相場の底堅さを示唆している。"
   },
   {
-    "title": "WASDE confirms poor wheat crop - Tri-State Livestock News",
-    "timestamp": "2026-05-29T00:23:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDEが悪い小麦作況を確認し、米国の小麦生産見通しが引き下げられた。供給懸念から小麦価格は上昇圧力を受ける。飼料穀物としてのトウモロコシ・大豆需要にも波及効果が予想される。"
-  },
-  {
-    "title": "WASDE confirms poor wheat crop - Tri-State Livestock News",
-    "timestamp": "2026-05-29T00:23:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDEが悪い小麦作況を確認し、米国の小麦生産見通しが引き下げられた。供給懸念から小麦価格は上昇圧力を受ける。飼料穀物としてのトウモロコシ・大豆需要にも波及効果が予想される。"
-  },
-  {
-    "title": "WASDE confirms poor wheat crop - Tri-State Livestock News",
-    "timestamp": "2026-05-29T00:23:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDEが悪い小麦作況を確認し、米国の小麦生産見通しが引き下げられた。供給懸念から小麦価格は上昇圧力を受ける。飼料穀物としてのトウモロコシ・大豆需要にも波及効果が予想される。"
-  },
-  {
-    "title": "EIA crude stocks fall 3.3m barrels, missing forecasts as OPEC+ decision looms - VT Markets",
-    "timestamp": "2026-05-29T00:35:19+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫が330万バレル減少したが、市場予想を下回る結果となった。OPEC+の重要な決定を控える中、在庫減少は需要堅調を示唆する一方、予想ミスは市場心理に不安をもたらす可能性がある。"
-  },
-  {
     "title": "How the United Arab Emirates’ shocking OPEC exit could drive down gas prices - AOL.com",
     "timestamp": "2026-05-29T16:52:31+00:00",
     "importance": 4,
@@ -256,17 +220,6 @@
     "summary": "OPEC+が4月の原油増産を検討しており、日量137,000バレル（137kbd）の引き上げを考慮している。この小幅な増産決定は、現在の需給バランスと減産政策の段階的緩和の流れの中での慎重な供給調整と言える。市場はこうした追加増産を織り込み始めている可能性が高い。"
   },
   {
-    "title": "SA asks: How will the UAE's exit from OPEC impact the energy sector? - MSN",
-    "timestamp": "2026-05-29T02:45:54+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから離脱することで、OPEC加盟国が1国減少し、組織の統一性と減産遵守力が弱まる可能性が浮上。UAEは中東有数の産油国であり、その離脱は組織の結束力低下と潜在的な増産圧力につながるため、原油相場の下押し要因として機能する可能性が高い。"
-  },
-  {
     "title": "EU Weighs Temporary Freeze on Russia Oil Price Cap Over Iran War - Bloomberg",
     "timestamp": "2026-05-31T08:00:00+00:00",
     "importance": 4,
@@ -342,5 +295,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "プーチン政権のマクロ経済規律（財政緊縮）がロシアの主要経済エンジンである石油・ガス部門に圧力を加えている。政府支出の抑制と金融引き締めにより、国内需要が低迷し、エネルギー投資が制限されている。ロシア経済の構造的な脆弱性が露呈し、中期的な生産能力低下のリスクが高まっている。"
+  },
+  {
+    "title": "Powell, Acceptance Remarks",
+    "timestamp": "2026-06-01T00:30:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "FRB Powell議長発言",
+    "commodity": "コモディティ全般",
+    "summary": "FRB Powell議長がJFKプロファイル・イン・カレッジ・アワード受賞時のスピーチ。金融政策や経済見通しについての具体的言及がない限り、コモディティ市場への直接的な影響は限定的。儀式的な受賞演説として位置付けられる。"
+  },
+  {
+    "title": "Powell, Acceptance Remarks",
+    "timestamp": "2026-06-01T00:30:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "FRB Powell議長発言",
+    "commodity": "金",
+    "summary": "FRB Powell議長がJFKプロファイル・イン・カレッジ・アワード受賞時のスピーチ。金融政策や経済見通しについての具体的言及がない限り、コモディティ市場への直接的な影響は限定的。儀式的な受賞演説として位置付けられる。"
+  },
+  {
+    "title": "Unravelling OPEC: The Economics Behind the UAE’s Exit - thebubble.org.uk",
+    "timestamp": "2026-05-30T11:42:52+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECからの脱退を発表し、石油産業の地政学的枠組みに大きな転換をもたらす。UAEは独立した産油国として戦略を再構築し、サウジアラビア主導のOPEC減産体制の結束が揺らぐ可能性が高い。原油市場の供給サイドに不確実性が増し、価格変動性の拡大が予想される。"
+  },
+  {
+    "title": "Unravelling OPEC: The Economics Behind the UAE’s Exit - thebubble.org.uk",
+    "timestamp": "2026-05-30T11:42:52+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECからの脱退を発表し、石油産業の地政学的枠組みに大きな転換をもたらす。UAEは独立した産油国として戦略を再構築し、サウジアラビア主導のOPEC減産体制の結束が揺らぐ可能性が高い。原油市場の供給サイドに不確実性が増し、価格変動性の拡大が予想される。"
+  },
+  {
+    "title": "Asia stocks extend AI boom, oil up on Gulf risk - Reuters",
+    "timestamp": "2026-06-01T03:15:32+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株がAIブームの追い風を受けて上昇する中、湾岸地域のリスク要因が原油価格を押し上げている。リスク資産とコモディティの複合的な動きが観察されており、地政学的緊張が原油相場の上値支持要因として機能している。"
+  },
+  {
+    "title": "Asia stocks extend AI boom, oil up on Gulf risk - Reuters",
+    "timestamp": "2026-06-01T03:15:32+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株がAIブームの追い風を受けて上昇する中、湾岸地域のリスク要因が原油価格を押し上げている。リスク資産とコモディティの複合的な動きが観察されており、地政学的緊張が原油相場の上値支持要因として機能している。"
   }
 ]
