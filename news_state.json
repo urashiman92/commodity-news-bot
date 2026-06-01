@@ -108,15 +108,6 @@
     "summary": "ExxonMobilが数週間内に原油在庫が枯渇する可能性を警告。供給逼迫により原油価格が150ドル/バレルを超える可能性を指摘。世界的な需給ギャップが深刻化している状況を示唆。"
   },
   {
-    "title": "銅価格がボラティリティの中で高値近くにとどまる理由 - SunSirs",
-    "timestamp": "2026-05-29T00:05:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格がボラティリティの中で高値圏を維持している。市場の需給バランスと価格変動の背景を分析した記事。現在の価格トレンドは堅調だが、変動性が継続。"
-  },
-  {
     "title": "アントアンの金価格はイード・アル・アドハーの初日に1グラムあたり2,785,000ルピアに下落 - VOI.ID",
     "timestamp": "2026-05-29T17:51:47+00:00",
     "importance": 2,
@@ -1022,5 +1013,115 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報サイトが2026年6月1日時点のSJC金の価格情報を提供。国内金地金、装飾品、世界金価格の相場情報の定期更新。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4540ドル｜米国とイランの合意への期待感が影響している模様(2026年6月1日) - OANDA証券",
+    "timestamp": "2026-05-31T23:04:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4540ドルまで上昇。米国とイランの合意期待が買い材料となっている。地政学的リスク軽減で金の避難資産需要が支援。"
+  },
+  {
+    "title": "本日（6月1日）の金価格：引き続き安定。 - Vietnam.vn",
+    "timestamp": "2026-05-31T23:16:40+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が本日も安定していることを報じるニュース。特定の価格変動や材料は示されていない。"
+  },
+  {
+    "title": "2026年6月1日現在の金価格：急落後、金価格は新たな上昇トレンドに入るのか？ - Vietnam.vn",
+    "timestamp": "2026-05-31T23:08:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落後、新たな上昇トレンド入りの可能性について論じた記事。テクニカル的な反発局面の分析が中心。現在の価格水準からの上値追いの妥当性を検討する材料。"
+  },
+  {
+    "title": "金価格は重要な取引週に突入する。 - Vietnam.vn",
+    "timestamp": "2026-05-31T23:08:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が重要な取引週を迎えるとのコメンタリー記事。具体的なイベントやデータの詳細は記事概要からは不明。相場の機械的な週次振り返り的な解説と推定される。"
+  },
+  {
+    "title": "本日（6月1日）の金価格：1オンスあたり約1億5900万ベトナムドン前後で推移。 - Vietnam.vn",
+    "timestamp": "2026-05-31T22:56:40+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1オンスあたり約1億5900万ベトナムドン付近で推移している。ベトナム国内の金価格相場を報じたローカルニュース。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの暫定合意が近いとの期待感が影響し、原油価格は3営業日続落（2026年6月1日） - OANDA証券",
+    "timestamp": "2026-05-31T23:09:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの暫定合意期待が原油相場の下押し要因となった。地政学的リスク低下への織り込みで、3営業日連続で価格が下落している。供給懸念の緩和が相場を圧迫。"
+  },
+  {
+    "title": "原油先物反発、2％超上昇 レバノン情勢嫌気 - Reuters",
+    "timestamp": "2026-05-31T23:21:06+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノン情勢の悪化を受けて原油先物が反発し2％超上昇した。中東の地政学的リスク増加が供給懸念につながった。"
+  },
+  {
+    "title": "原油先物反発、2％超上昇 レバノン情勢嫌気 - ニューズウィーク日本版",
+    "timestamp": "2026-05-31T23:18:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノン情勢の緊迫化に伴い、中東地政学リスク再評価により原油先物が2％超上昇。供給途絶リスクへの警戒感から買いが入った。"
+  },
+  {
+    "title": "原油先物反発、2％超上昇　レバノン情勢嫌気 - ｄメニューニュース",
+    "timestamp": "2026-05-31T23:28:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノン情勢の悪化懸念により、原油先物が2％超の反発上昇。中東地政学リスク再燃で供給途絶の不安が高まった。"
+  },
+  {
+    "title": "1日の新興市場見通し：軟調、原油価格の下値堅く株価の重しに(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-05-31T23:25:58+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "新興市場は軟調な見通しが示されている。原油価格は下値が堅いとの指摘があり、株価の重石になる可能性がある。コモディティ全体の動向監視が必要。"
   }
 ]
