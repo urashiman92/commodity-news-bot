@@ -45,24 +45,6 @@
     "summary": "米イラン合意により原油価格は下落圧力を受けているが、FRBとECBは金融政策を変更していない。供給増加による価格低下よりも、中央銀行のスタンスが市場を支えている。金利政策と原油価格の乖離が注目される局面。"
   },
   {
-    "title": "日経VI：大幅に低下、取引時間中は原油価格上昇で警戒感強まる(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-05-29T09:58:11+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が取引時間中に上昇し、市場の警戒感が高まっている。日経VI（ボラティリティ指数）は大幅に低下しているが、原油上昇と株式市場心理が異なる方向性を示している。インフレ懸念やエネルギー価格高騰の可能性が意識されている。"
-  },
-  {
-    "title": "【国際経済】米国とイランの停火合意に向けた動きが原材料相場を押し上げ！工業用金属が月間で5.5%急騰、錫と銅が主導 - finance.biggo.jp",
-    "timestamp": "2026-05-29T09:26:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国とイランの停火合意に向けた動きにより、地政学的リスクの低下懸念が後退し、リスクオン相場が形成された。工業用金属が月間で5.5%急騰し、特に銅と錫が主導している。中東の緊張緩和期待が原材料需要見通しを改善させている。"
-  },
-  {
     "title": "報道：金価格、3ヶ月連続の下落見込み 米国とイランの停火報道を踏まえトレーダーが評価 - Moomoo",
     "timestamp": "2026-05-29T12:48:23+00:00",
     "importance": 4,
@@ -70,15 +52,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米国とイランの停火報道により地政学的リスクが低下し、安全資産である金への需要が減少。トレーダーが金売却を進めており、3ヶ月連続下落が見込まれている。リスク回避需要の縮小が金価格の主要な下押し要因となっている。"
-  },
-  {
-    "title": "Antam gold price rises to IDR 2.774 million per gram - IDNFinancials",
-    "timestamp": "2026-05-29T09:30:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアのAntam社の金価格がIDR 274万/グラムまで上昇した。地域的な価格指標の上昇を示している。グローバルな金相場との連動性を確認する必要がある。"
   },
   {
     "title": "世界の金価格が急騰した。 - Vietnam.vn",
@@ -1261,5 +1234,170 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "5月29日の国際商品市況の日次レポート。具体的な価格データや市場変動の詳細が不明。定期的な市況報道の一環。"
+  },
+  {
+    "title": "国内外の金価格、2ヶ月ぶり安値から反発 - マネクリ",
+    "timestamp": "2026-06-01T06:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2ヶ月ぶりの安値から反発。国内外での価格リバウンドが観測される。テクニカルな押し目買いと見られる。"
+  },
+  {
+    "title": "アルミ地金価格690円 130円高 7―9月積み（日刊産業新聞） - Yahoo!ニュース",
+    "timestamp": "2026-06-01T07:37:27+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アルミ地金の7～9月積み価格が690円となり、前期比で130円上昇した。世界的なインフレと需要回復を背景とした相場上昇が国内価格にも反映されている。"
+  },
+  {
+    "title": "2026年6月1日の金価格更新：SJC 24金9999、BTMC BTMH DOJI Phu Quyプレーンリングの月初めの最新価格。 - Vietnam.vn",
+    "timestamp": "2026-06-01T09:45:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売価格（SJC、BTMC、DOJI等）の月初め更新情報。地域内の小売価格の定期報告で、国際金相場への直接的な影響なし。"
+  },
+  {
+    "title": "【米イラン交渉、ロシャムゲイの様相】金価格、4,600ドル目前から急落 - finance.biggo.jp",
+    "timestamp": "2026-06-01T01:06:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,600ドル手前から急落。米イラン交渉の進展が地政学リスク低下を示唆し、有事の金買い需要が減少した。リスクオフ相場から安心感への転換が価格を圧迫。"
+  },
+  {
+    "title": "国内外の金価格、2ヶ月ぶり安値から反発 (2026年6月1日掲載) - ライブドアニュース",
+    "timestamp": "2026-06-01T06:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2ヶ月ぶりの安値圏から反発。国内外市場で価格が持ち直した。テクニカルなリバウンドの局面と考えられる。"
+  },
+  {
+    "title": "アナリストによる金価格分析｜金価格は小幅な反発が期待されるか？ - Bitget",
+    "timestamp": "2026-06-01T00:34:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリストが金価格の小幅な反発を予想するコメンタリー。現在の金相場の技術的見通しを示すが、具体的なファンダメンタルズ要因は記事概要から不明。"
+  },
+  {
+    "title": "原油価格予想、主要リスクは中国と欧州の需要低迷＝ゴールドマン - Reuters",
+    "timestamp": "2026-06-01T06:51:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ゴールドマンサックスが原油価格の主要リスクとして中国と欧州の需要低迷を指摘。世界最大級の需要地での景気減速懸念が価格押し下げ要因となる。需要サイドからの価格下押し圧力が強まる見通し。"
+  },
+  {
+    "title": "原油価格予想、主要リスクは中国と欧州の需要低迷＝ゴールドマン（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-06-01T06:51:23+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ゴールドマン・サックスが原油価格の主要下落リスクとして中国と欧州の需要低迷を指摘。既に市場認識されている懸念事項の再確認であり、弱気見通しを明確化。"
+  },
+  {
+    "title": "原油価格予想、主要リスクは中国と欧州の需要低迷＝ゴールドマン - ニューズウィーク日本版",
+    "timestamp": "2026-06-01T06:51:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ゴールドマン・サックスが原油相場の主要リスクとして中国と欧州の需要低迷を指摘。景気減速懸念による需要面の圧力が価格下押し要因となる見通し。"
+  },
+  {
+    "title": "原油価格予想、主要リスクは中国と欧州の需要低迷＝ゴールドマン - ｄメニューニュース",
+    "timestamp": "2026-06-01T06:51:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ゴールドマン・サックスが原油価格の主要リスクとして中国と欧州の需要低迷を指摘。両地域の経済成長鈍化が原油需要の重荷となる可能性を警告。"
+  },
+  {
+    "title": "原油先物が大幅高、中東和平交渉の長期化で供給不安再燃 円安も追い風 - finance.biggo.jp",
+    "timestamp": "2026-06-01T03:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東和平交渉の長期化により供給途絶リスクが再燃し、原油先物が大幅高騰。円安も買い圧力を加える。地政学的リスクプレミアムが急速に拡大している。"
+  },
+  {
+    "title": "高盛が銅価格予測を大幅上方修正！米企業の買いだめが世界供給を枯渇、二大鉱山の生産再開遅延が追い打ち - finance.biggo.jp",
+    "timestamp": "2026-06-01T04:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "高盛が銅価格予測を大幅上方修正。米企業の買いだめと二大鉱山の生産再開遅延により世界供給が逼迫。供給サイドの複合的な制約要因が顕在化。"
+  },
+  {
+    "title": "ゴールドマン・サックスは、供給不足を理由に、2026年の銅価格予測を1トン当たり13,735ドルに引き上げた。 - Vietnam.vn",
+    "timestamp": "2026-06-01T08:15:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ゴールドマン・サックスが銅の2026年価格予測を1トン当たり13,735ドルに引き上げた。供給不足が主要な上昇要因。銅市場の需給逼迫観が強まっている。"
+  },
+  {
+    "title": "ゴールドマン・サックスは、2026年の銅価格予測を1トン当たり13,735ドルに引き上げた。 - Vietnam.vn",
+    "timestamp": "2026-06-01T08:12:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ゴールドマン・サックスが2026年の銅価格予測を1トン当たり13,735ドルに引き上げた。電動車やエネルギー転換需要の拡大を背景とした見方と推測される。中期的な上昇トレンド形成の環境を示唆している。"
+  },
+  {
+    "title": "ゴールドマン・サックスは、銅価格が2026年には1トン当たり13,735ドルに達すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-06-01T08:11:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ゴールドマン・サックスが2026年の銅価格を1トン当たり13,735ドルと予測。現在価格との比較情報がないため、値上がり予想か維持予想かは不明確。需要見通しの強気シグナルとして機能。"
   }
 ]
