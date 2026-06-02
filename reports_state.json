@@ -11,17 +11,6 @@
     "summary": "OPECがホルムズ海峡の混乱にもかかわらず6月の増産を検討していることが報道された。地政学リスク継続下での増産方針は市場予想と相反し、供給懸念の緩和と実現可能性への疑問が同時に発生。原油相場には上下両方向の圧力が存在する状況。"
   },
   {
-    "title": "Ukrainian drones strike port, oil depot in southern Russia, authorities say - Reuters",
-    "timestamp": "2026-05-30T11:47:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナのドローン攻撃がロシア南部の港湾と石油貯蔵施設を標的にした。ロシアは世界有数の石油輸出国であり、重要なインフラ施設への攻撃は供給リスクを高める。地政学的緊張の高まりが原油市場に上昇圧力をもたらす可能性が高い。"
-  },
-  {
     "title": "EU Weighs Temporary Freeze on Russia Oil Price Cap Over Iran War - Bloomberg",
     "timestamp": "2026-05-31T08:00:00+00:00",
     "importance": 4,
@@ -570,5 +559,170 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナによるロシアへの攻撃が過去最高水準に達し、ロシアの燃料供給に危機的な状況をもたらしている。ロシアのエネルギーインフラへの損傷は供給途絶リスクを高め、世界的な原油需給逼迫要因となる可能性がある。地政学的リスクの急激な高まりが原油相場の上昇圧力となっている。"
+  },
+  {
+    "title": "Cotton Futures End Mixed Amid Conflicting Supply and Demand Signals - Special Dividend Alert - thelegaladvocate.com",
+    "timestamp": "2026-05-31T06:36:43+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "綿花先物が供給と需要の相反するシグナルの中で混合相場となっている。供給面と需要面で異なる圧力が作用しており、明確な方向性を欠いた状況。特別配当アラートが付記されているが、詳細な数値情報が不足している。"
+  },
+  {
+    "title": "Cotton Futures End Mixed Amid Uncertain Demand Signals - GAAP Earnings Report - thelegaladvocate.com",
+    "timestamp": "2026-05-31T06:48:42+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "綿花先物が混合相場で引けた。需要シグナルの不確実性が価格を圧迫している。WASDE関連の報告ながら、具体的な在庫データや生産予想の明確な方向性が示されていないため、市場参加者の間で見方が分かれている状況。"
+  },
+  {
+    "title": "Crude inventory falls by 4.3M barrels for week ended May 8 – EIA - MSN",
+    "timestamp": "2026-06-02T08:34:54+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAが発表した週間原油在庫データによると、5月8日週の原油在庫は430万バレル減少した。在庫の減少は需要や供給面でのポジティブシグナルとなるが、この規模の減少は市場予想の範囲内で織り込まれている程度の水準である。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the June WASDE Report - Successful Farming",
+    "timestamp": "2026-06-02T15:23:23+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "6月のWASDE報告書に向けて農家が事前準備すべき事項に関する解説記事。米国農業省の定期需給報告書を控え、トウモロコシ・大豆・小麦の生産見通しや作付面積データが重要な判断材料となる。Crop Progressデータとの整合性が価格変動の鍵となる。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the June WASDE Report - Successful Farming",
+    "timestamp": "2026-06-02T15:23:23+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "6月のWASDE報告書に向けて農家が事前準備すべき事項に関する解説記事。米国農業省の定期需給報告書を控え、トウモロコシ・大豆・小麦の生産見通しや作付面積データが重要な判断材料となる。Crop Progressデータとの整合性が価格変動の鍵となる。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the June WASDE Report - Successful Farming",
+    "timestamp": "2026-06-02T15:23:23+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "6月のWASDE報告書に向けて農家が事前準備すべき事項に関する解説記事。米国農業省の定期需給報告書を控え、トウモロコシ・大豆・小麦の生産見通しや作付面積データが重要な判断材料となる。Crop Progressデータとの整合性が価格変動の鍵となる。"
+  },
+  {
+    "title": "Crop ratings and satellite data paint different yield pictures - Farm Progress",
+    "timestamp": "2026-06-02T11:45:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "衛星データと作物格付けが異なる利回り予想を示唆。衛星データが従来の作物評価と乖離しており、収穫量予測に不確実性が生じている。農家や市場参加者が正確な生産見通しを判断する際の材料となり、今後の利回り確定まで相場のボラティリティが継続する可能性がある。"
+  },
+  {
+    "title": "Crop ratings and satellite data paint different yield pictures - Farm Progress",
+    "timestamp": "2026-06-02T11:45:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "衛星データと作物格付けが異なる利回り予想を示唆。衛星データが従来の作物評価と乖離しており、収穫量予測に不確実性が生じている。農家や市場参加者が正確な生産見通しを判断する際の材料となり、今後の利回り確定まで相場のボラティリティが継続する可能性がある。"
+  },
+  {
+    "title": "Crop ratings and satellite data paint different yield pictures - Farm Progress",
+    "timestamp": "2026-06-02T11:45:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "衛星データと作物格付けが異なる利回り予想を示唆。衛星データが従来の作物評価と乖離しており、収穫量予測に不確実性が生じている。農家や市場参加者が正確な生産見通しを判断する際の材料となり、今後の利回り確定まで相場のボラティリティが継続する可能性がある。"
+  },
+  {
+    "title": "Iraq, UAE, Saudi Arabia All Set for Major Oil Output Surge in 2027 - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-06-02T15:30:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラク、UAE、サウジアラビアが2027年に大幅な石油増産を計画していることが報じられた。同年の供給増加が市場で懸念される可能性があり、供給過剰シナリオが現実化すれば先物価格に下押し圧力がかかる見通し。ただし実現時期が2年以上先のため織り込み段階にある。"
+  },
+  {
+    "title": "OPEC+ July Output Hike: 188,000 bpd Increase Amid Production Declines - News and Statistics - IndexBox",
+    "timestamp": "2026-06-02T11:21:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が7月の日量増産を188,000バレル決定。一見すると増産だが、同時に複数加盟国で生産が減少しており、実効的な供給増加は限定的。市場は既に段階的な増産復帰を織り込み済みと見られる。"
+  },
+  {
+    "title": "Iraq may demand higher OPEC quota, but unlikely to quit - ZAWYA",
+    "timestamp": "2026-06-02T09:15:22+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPECの生産枠の引き上げを要求する可能性がある一方、同国がOPECから脱退する可能性は低いとの観測。イラクは現在の割当枠に不満を抱いているが、組織内での交渉や折衝を通じて解決することが予想されている。"
+  },
+  {
+    "title": "OPEC Output Plunges To 36-year Low Following Iran War Supply Disruptions - LEADERSHIP Newspapers",
+    "timestamp": "2026-05-31T11:12:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの産出量がイラン戦争に伴う供給途絶により36年ぶりの低水準まで急落した。この歴史的な供給制約は、すでに逼迫している市場での原油価格上昇圧力となる。地政学的リスク顕在化による予期せぬ供給ショックは、市場予想を大きく上回るサプライズ要因となる可能性が高い。"
+  },
+  {
+    "title": "Exclusive: Russia's western oil exports hit 8-month high as drone strikes curb refining - Reuters",
+    "timestamp": "2026-06-02T13:38:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの西部向け原油輸出が8ヶ月ぶりの高水準に達した。ウクライナによるドローン攻撃がロシアの製油能力を低下させているため、精製油製品の不足を補うため粗油輸出を増加させている。供給側の変動により原油価格下支え要因となる可能性がある。"
+  },
+  {
+    "title": "Vitol Says Europe and US Aren’t Facing Up to Oil Supply Crunch - Bloomberg.com",
+    "timestamp": "2026-06-02T14:48:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "大手石油商社Vitolが、欧米がリアルで直面している石油供給不足に対応できていないと警告。市場関係者の楽観的な見方に対し、サプライチェーン逼迫とエネルギー移行による供給力低下が同時に進行していることを指摘。インフレ圧力と需給ひっ迫が継続する見通し。"
   }
 ]
