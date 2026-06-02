@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（5月31日）の金価格：上昇傾向を継続。 - Vietnam.vn",
-    "timestamp": "2026-05-30T21:39:32+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "5月31日時点で金価格が上昇傾向を継続している。具体的な価格や上昇理由の詳細は記事から判明しない。一般的な相場観測の報道と推察される。"
-  },
-  {
-    "title": "金価格はここ数カ月で最安値に下落した。今が買い時だろうか？ - Vietnam.vn",
-    "timestamp": "2026-05-30T22:35:35+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が数ヶ月ぶりの安値水準に下落している。記事は現在の価格水準が買い時機会であるかについての解説記事。"
-  },
-  {
     "title": "本日（5月31日）の金価格：価格は全般的に急上昇。 - Vietnam.vn",
     "timestamp": "2026-05-30T23:50:24+00:00",
     "importance": 2,
@@ -42,28 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "5月31日朝の金価格について専門家がポジティブな見通しを示している。市場心理の好転を反映した解説記事。市場予想との比較情報が不足している。"
-  },
-  {
-    "title": "本日（5月31日）の金価格：小幅な変動。 - Vietnam.vn",
-    "timestamp": "2026-05-30T23:13:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "5月31日の金価格は小幅な変動に留まった。特段の材料や方向性の示唆なし。日次の定型的な相場レポート。"
-  },
-  {
-    "title": "金価格は本日2026年5月31日に再び上昇したが、SJCゴールドは1週間で250万ベトナムドン下落した。 - Vietnam.vn",
-    "timestamp": "2026-05-30T23:08:59+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年5月31日時点で金価格は上昇した一方、ベトナム国内のSJCゴールドは1週間で250万ベトナムドン下落。国際金価格と現地相場の乖離を示すニュース。"
   },
   {
     "title": "本日（2026年5月31日）の金価格更新：月末にはSJC 24金9999金地金、BTMC BTMH DOJI Phu Quyプレーンリングが販売されます。 - Vietnam.vn",
@@ -1923,5 +1879,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午前10時台の株価は小幅高（ダウ89ドル高）となった。原油先物は小幅安（-0.13ドル）で推移している。定期的な市場動向レポートの一部。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4487ドル｜米長期金利の低下が影響した模様(2026年6月3日) - OANDA",
+    "timestamp": "2026-06-02T23:05:34+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4487ドルまで上昇。米長期金利の低下が主要な上昇要因。実質金利低下による金の相対的魅力度向上が背景。"
+  },
+  {
+    "title": "本日（6月3日）の金価格：依然として下落中 - Vietnam.vn",
+    "timestamp": "2026-06-02T22:46:09+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "6月3日時点で金価格が下落している状況の報告。相場動向を伝えるニュース記事で、具体的な下げ幅やドライバーは不明。"
+  },
+  {
+    "title": "2026年6月3日現在の金価格：金地金、金の指輪、および世界の金価格の最新情報。 - Vietnam.vn",
+    "timestamp": "2026-06-02T22:21:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトが2026年6月3日時点の金価格情報を掲載。金地金、金の指輪、世界金価格の現況をまとめた相場情報提供記事。"
+  },
+  {
+    "title": "本日（6月3日）の金価格：SJCの金価格は軒並み下落、売り圧力が再燃。 - Vietnam.vn",
+    "timestamp": "2026-06-02T22:44:28+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金市場で6月3日に金価格が軒並み下落。売り圧力の再燃が観測された。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、米イラン協議の動向注視 - ｄメニューニュース",
+    "timestamp": "2026-06-02T20:18:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新。米国とイラン間の協議動向が注視されている状況。地政学的リスク要因が価格を支えている。"
   }
 ]
