@@ -374,17 +374,6 @@
     "summary": "UAEがOPECを離脱したことで、アフリカ諸国に原油市場での機会が生まれる可能性を指摘。OPEC内での権力構図に変化が生じ、特にアフリカの産油国にとって交渉力や市場シェア獲得のチャンスが増加。OPECの減産政策の有効性にも影響を与える可能性がある。"
   },
   {
-    "title": "Oil turns lower but still above $100 as OPEC cuts 2026 global demand forecast - MSN",
-    "timestamp": "2026-05-30T05:00:33+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要見通しを引き下げた。原油価格は100ドル以上を維持しているが下落圧力を受けている。需要減速予想は市場に既に織り込まれている傾向を示唆している。"
-  },
-  {
     "title": "Russia's Volgograd oil refinery halts processing after May 29 drone attack, sources say - Reuters",
     "timestamp": "2026-06-01T14:51:43+00:00",
     "importance": 4,
@@ -581,5 +570,49 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDAがトウモロコシと大豆の品質格付けシステムを開始した。この定期的な品質評価は市場参加者にとって作柄の詳細な実態把握を可能にする。具体的な格付けデータは今後の相場判断材料となるが、本発表自体は手続き的な更新である。"
+  },
+  {
+    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
+    "timestamp": "2026-06-01T09:12:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの週間作物進捗レポートは、米国の主要穀物（トウモロコシ、大豆、小麦）の成長段階と天候影響を定期報告するもの。具体的な作付面積進捗率や生育ステージのデータが含まれるが、リンク先の詳細情報が確認できないため、市場予想との乖離程度は判定不能。季節的な定期統計として市場参加者には定常的に注視される。"
+  },
+  {
+    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
+    "timestamp": "2026-06-01T09:12:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAの週間作物進捗レポートは、米国の主要穀物（トウモロコシ、大豆、小麦）の成長段階と天候影響を定期報告するもの。具体的な作付面積進捗率や生育ステージのデータが含まれるが、リンク先の詳細情報が確認できないため、市場予想との乖離程度は判定不能。季節的な定期統計として市場参加者には定常的に注視される。"
+  },
+  {
+    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
+    "timestamp": "2026-06-01T09:12:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAの週間作物進捗レポートは、米国の主要穀物（トウモロコシ、大豆、小麦）の成長段階と天候影響を定期報告するもの。具体的な作付面積進捗率や生育ステージのデータが含まれるが、リンク先の詳細情報が確認できないため、市場予想との乖離程度は判定不能。季節的な定期統計として市場参加者には定常的に注視される。"
+  },
+  {
+    "title": "Gold edges higher on easing Treasury yields amid Mideast uncertainty - Reuters",
+    "timestamp": "2026-06-02T01:12:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りの低下と中東情勢の不確実性を背景に、金価格が小幅上昇。無利子資産である金は長期金利との逆相関関係により、Treasury利回り低下局面で買い戻しが入りやすい。地政学的リスク要因も価格を支えている。"
   }
 ]
