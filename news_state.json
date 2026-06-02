@@ -1,16 +1,5 @@
 [
   {
-    "title": "［株式週間展望］原油価格動向や中東情勢に関心 6万6千円台軸か - 沖縄タイムス社",
-    "timestamp": "2026-05-30T19:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本の株式相場は原油価格動向と中東情勢を注視しながら6万6千円台での推移が想定されている。原油や地政学リスクは相場材料だが、これは市場観測の域。"
-  },
-  {
     "title": "本日（5月31日）の金価格：上昇傾向を継続。 - Vietnam.vn",
     "timestamp": "2026-05-30T21:39:32+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "5月31日時点で金価格が上昇傾向を継続している。具体的な価格や上昇理由の詳細は記事から判明しない。一般的な相場観測の報道と推察される。"
-  },
-  {
-    "title": "本日（2026年5月31日）の金価格更新：SJC 24金9999金地金、BTMC BTMH DOJI Phu Quyプレーンリング。 - Vietnam.vn",
-    "timestamp": "2026-05-30T21:03:35+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC 24金9999）の日次更新ニュース。複数の金販売業者の金地金・リングの価格情報を掲載したもの。"
   },
   {
     "title": "金価格はここ数カ月で最安値に下落した。今が買い時だろうか？ - Vietnam.vn",
@@ -1857,5 +1835,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "BCAリサーチがアナリスト見解として、銅価格が今後数週間にわたり下支えされるとの予想を発表。供給制約やファンダメンタルズの堅調性が背景とみられる。"
+  },
+  {
+    "title": "シカゴ小麦および大豆先物は少なくとも1%下落した - Bitget",
+    "timestamp": "2026-06-02T04:47:53+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "シカゴ商品取引所の小麦および大豆先物が1%以上下落した。市場の調整的な値動きと見られる。"
+  },
+  {
+    "title": "本日2026年6月3日の金価格は、重要な支持水準を維持するのに苦戦しています。買い手の力は侮れません。取引には個人所得税は課税されません。 - Vietnam.vn",
+    "timestamp": "2026-06-02T14:41:55+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年6月3日の金価格が重要な支持水準で揺らいでいる状況についての解説記事。買い手の需要は存在するが、下押し圧力が強い。ベトナムの取引税制に関する情報も含む。"
+  },
+  {
+    "title": "本日（2026年6月3日）の金価格更新：SJC 24金9999、プレーンリングBTMC BTMH DOJI Phu Quyの価格 - Vietnam.vn",
+    "timestamp": "2026-06-02T21:16:15+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC24金9999など）の日次相場更新。複数の小売業者の価格情報を掲載したニュース記事。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、米イラン協議の動向注視 - Reuters",
+    "timestamp": "2026-06-02T20:19:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新。米イラン協議の進展状況が価格を左右する主要材料として注視されている。地政学的リスク低下への警戒が価格下支え要因。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、米イラン協議の動向注視（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-06-02T20:26:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新。米イラン協議の進展動向が価格変動の重要な注視ポイント。地政学リスク要因による相場の堅調さが続いている。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、米イラン協議の動向注視 - ニューズウィーク日本版",
+    "timestamp": "2026-06-02T20:18:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新。米イラン協議の行方が相場を左右する重要な注視ポイントとなっている。地政学リスクとして価格上昇圧力が存在。"
+  },
+  {
+    "title": "東証、午前終値は６万０８４３円 原油価格上昇、一時千円超安 - 山陽新聞",
+    "timestamp": "2026-06-02T19:01:53+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇を受けて東証が一時千円超下落し午前終値は60,843円となった。株式市場が原油高に反応して調整局面を迎えている状況。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ89ドル高、原油先物0.13ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-06-02T14:37:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の株価は小幅高（ダウ89ドル高）となった。原油先物は小幅安（-0.13ドル）で推移している。定期的な市場動向レポートの一部。"
   }
 ]
