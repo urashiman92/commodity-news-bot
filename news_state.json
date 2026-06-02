@@ -1,45 +1,5 @@
 [
   {
-    "title": "本日（5月30日）、金価格が急騰した。金店が開店する前から、買い手が列を作った。 - Vietnam.vn",
-    "timestamp": "2026-05-30T07:04:12+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムで5月30日に金価格が急騰し、金店の開店前から購入希望者が列を作った。需要の急増を示唆するローカルニュース。"
-  },
-  {
-    "title": "世界の原油価格が急落し、2020年以来最大の下げ幅となった。 - Vietnam.vn",
-    "timestamp": "2026-05-30T06:04:11+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格が2020年以来最大の下げ幅を記録した。コモディティ市場全体に大きな影響を与えている。需要減速やマクロ経済懸念が背景と考えられる。"
-  },
-  {
-    "title": "ドバイ金価格が再び上昇、市場はイラン紛争を心配 - VOI.ID",
-    "timestamp": "2026-05-30T08:42:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "イラン紛争懸念を背景にドバイ金価格が再び上昇。地政学的リスク要因が金の買い圧力を支援。中東地域での緊張激化は供給リスク懸念と相まって安全資産需要を喚起。"
-  },
-  {
-    "title": "【国際経済】米国とイランの停火合意が原油相場を直撃、台湾中油は10週連続凍結で約3,900億円を独自負担 - finance.biggo.jp",
-    "timestamp": "2026-05-30T09:35:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの停火合意により地政学的リスク低下が期待され、原油相場が下落。台湾中油が10週連続で国内油価を凍結し、約3,900億円の独自負担を強いられている。供給増加懸念と需要地での価格転嫁遅延が顕在化。"
-  },
-  {
     "title": "ロックフェラー・グローバル・インベストメント・マネジメントは、金価格が2030年までに1オンスあたり1万ドルに達する可能性があると予測している。 - Vietnam.vn",
     "timestamp": "2026-05-30T14:08:30+00:00",
     "importance": 3,
@@ -1655,5 +1615,148 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が3週間ぶりの高値を更新した。一方、コーヒー市場は急落している。複数商品の相場動向を報道する市況ニュース。"
+  },
+  {
+    "title": "金価格、米イラン協議に注目しながら約1%上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-06-02T06:03:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が約1%上昇。米イラン協議への注目が支援要因。地政学的リスク要因が相場を押し上げている。"
+  },
+  {
+    "title": "本日（6月2日午後）の金価格：国内および国際的な金価格は逆方向に動いています。 - Vietnam.vn",
+    "timestamp": "2026-06-02T06:15:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格と国際金価格が逆方向に動いているとの報道。為替や地域的な需給要因による乖離の可能性がある。市場の相場解説レベルのニュース。"
+  },
+  {
+    "title": "金価格、史上最高値から2割安で弱気相場入り アナリスト「高値調整でトレンド転換にあらず」 - finance.biggo.jp",
+    "timestamp": "2026-06-02T00:58:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が史上最高値から約20%下落し、テクニカル的な弱気相場（ベアマーケット）入りした。ただしアナリストは単なる高値調整であり、上昇トレンドの転換ではないと指摘している。"
+  },
+  {
+    "title": "6月上旬、金価格は2,799万ルピアのレベルで停滞 - VOI.id",
+    "timestamp": "2026-06-02T05:30:09+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金価格が6月上旬に2,799万ルピア付近で推移している状況を報道。価格が停滞している状態を報告したもの。"
+  },
+  {
+    "title": "債券利回りの低下を受けて、アジアの金価格は反発した。 - Vietnam.vn",
+    "timestamp": "2026-06-02T08:25:42+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "債券利回りの低下を受けてアジアの金価格が反発した。利回り低下は金などの非利息生成資産の相対的な魅力を高める。既に織り込まれた金利動向への反応。"
+  },
+  {
+    "title": "金価格、ロングウィークエンド後、グラムあたり2,774万ルピアに下落 - VOI.id",
+    "timestamp": "2026-06-02T04:05:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアのロングウィークエンド明けに金価格がグラムあたり2,774万ルピアに下落した。市場再開後の自然な調整局面と見られる。地域別の価格レポートであり、グローバルな市場心理の大きな変化ではない。"
+  },
+  {
+    "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-06-02T08:42:32+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Yahoo!ファイナンスのドバイ原油先物ダブル・ブルETN【2038】の株価情報ページの掲載。ETN自体の価格変動ではなく、金融商品の情報表示に関するニュース。"
+  },
+  {
+    "title": "国際原油価格、ホルムズ海峡発の急騰から一転、2%超の急落…変動性拡大 - finance.biggo.jp",
+    "timestamp": "2026-06-02T08:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡発の地政学リスク懸念で急騰した国際原油価格が、その後急反転して2%超の急落に転じた。変動性が大幅に拡大している状況。"
+  },
+  {
+    "title": "アジアの原油価格は、急騰後、反転した。 - Vietnam.vn",
+    "timestamp": "2026-06-02T08:56:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アジアの原油価格が急騰後に反転した。既に起きた値動きの説明的なニュースで、将来の方向性を示すものではない。"
+  },
+  {
+    "title": "米国の銅関税の影が世界で買い占めを誘発、ゴールドマン・サックスとシティが銅価格1.5万ドル到達を予測 - finance.biggo.jp",
+    "timestamp": "2026-06-02T06:26:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国の銅関税導入の可能性が世界的な買い占めを加速させている。ゴールドマン・サックスとシティが銅価格の1.5万ドル到達を予測し、供給懸念が相場を押し上げている。"
+  },
+  {
+    "title": "米シティ、銅価格の見通し引き上げ　供給逼迫や底堅い経済成長で - ｄメニューニュース",
+    "timestamp": "2026-06-02T04:18:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米シティが銅価格の見通しを引き上げた。供給逼迫と底堅い経済成長が主要因。既に市場で認識されている要因の整理レベル。"
+  },
+  {
+    "title": "コモディティ市場の現在地：①市場はなぜ変質したのか - 住友商事グローバルリサーチ株式会社",
+    "timestamp": "2026-06-02T06:23:08+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "コモディティ市場の構造的な変化について分析した解説記事。市場がどのように変質してきたかについての見方を提示している。実質的な需給データや価格変動をもたらす新規情報ではない。"
+  },
+  {
+    "title": "機関による今年のコモディティ市場の解説：全体的な強気相場が継続し、金価格は短期的には圧力を受けるが、長期的な上昇傾向に変化はない - Bitget",
+    "timestamp": "2026-06-01T20:29:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "機関投資家によるコモディティ市場の見通し解説。全体的な強気相場の継続を指摘しつつ、金は短期的に圧力を受ける可能性を示唆。長期的な上昇トレンドは変わらずとの見解。"
   }
 ]
