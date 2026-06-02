@@ -11,28 +11,6 @@
     "summary": "ウクライナドローンがロシア南部の港湾とオイルデポを攻撃。ロシアの石油・ガス供給インフラへの直接的な脅威が顕在化。黒海地域の石油輸送能力低下リスクが急速に高まり、欧州・アジアのエネルギーセキュリティに新たな不確実性が加わる。"
   },
   {
-    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow",
-    "timestamp": "2026-05-29T23:28:20+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がOPECの影響力を弱体化させたことで、石油市場の構造が根本的に変わる可能性が指摘されている。OPECの減産調整メカニズムが機能不全に陥れば、原油価格の変動性が高まり、供給側と需要側のバランスが大きく変わることが懸念されている。"
-  },
-  {
-    "title": "Saudi Arabia’s January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com",
-    "timestamp": "2026-05-29T22:40:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアが1月の原油輸出を増加させ、出荷量は2023年以来の高水準に達した。JODIデータが確認した同国の原油生産量も2023年以来の最高水準となっており、OPECの減産枠からの段階的な生産回復の流れを示している。"
-  },
-  {
     "title": "OPEC Considers Output Hike In June Despite Hormuz Disruption - LEADERSHIP Newspapers",
     "timestamp": "2026-05-31T02:00:11+00:00",
     "importance": 3,
@@ -581,5 +559,27 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "USDA Crop Progress Reportは毎週発表される定期統計で、トウモロコシ・大豆・小麦の播種進捗状況と生育条件を報告する。2026年6月1日の報告は作物の初期成長段階の評価となるが、具体的な数値データが記事から確認できない。米国穀物相場に対しては市場の織り込み度合いに左右される。"
+  },
+  {
+    "title": "USDA crop progress: Corn, soybean quality ratings go live - Farm Progress",
+    "timestamp": "2026-06-01T19:35:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAがトウモロコシと大豆の品質格付けシステムを開始した。この定期的な品質評価は市場参加者にとって作柄の詳細な実態把握を可能にする。具体的な格付けデータは今後の相場判断材料となるが、本発表自体は手続き的な更新である。"
+  },
+  {
+    "title": "USDA crop progress: Corn, soybean quality ratings go live - Farm Progress",
+    "timestamp": "2026-06-01T19:35:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAがトウモロコシと大豆の品質格付けシステムを開始した。この定期的な品質評価は市場参加者にとって作柄の詳細な実態把握を可能にする。具体的な格付けデータは今後の相場判断材料となるが、本発表自体は手続き的な更新である。"
   }
 ]
