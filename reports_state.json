@@ -44,17 +44,6 @@
     "summary": "ウクライナがロシア南西部のサラトフ製油所を攻撃したと発表。同製油所はロシア最大級の石油精製施設の一つであり、日産約90万バレルの処理能力を持つ。供給ショック懸念により原油価格への上昇圧力が強まる。"
   },
   {
-    "title": "How the United Arab Emirates’ shocking OPEC exit could drive down gas prices - AOL.com",
-    "timestamp": "2026-05-30T17:27:10+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECからの脱退を表明した衝撃的なニュース。これはOPECの結束力を大きく損なわせ、加盟国間の減産合意の実行可能性を低下させる。UAEの脱退により、OPEC+の一体性が揺らぎ、市場では原油価格下押し圧力が強まる可能性が高い。"
-  },
-  {
     "title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes on Russia - Reuters",
     "timestamp": "2026-05-31T14:54:24+00:00",
     "importance": 4,
@@ -724,5 +713,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "大手石油商社Vitolが、欧米がリアルで直面している石油供給不足に対応できていないと警告。市場関係者の楽観的な見方に対し、サプライチェーン逼迫とエネルギー移行による供給力低下が同時に進行していることを指摘。インフレ圧力と需給ひっ迫が継続する見通し。"
+  },
+  {
+    "title": "Cotton Futures End Mixed Amid Conflicting Supply and Demand Signals - Profit Guidance Range - thelegaladvocate.com",
+    "timestamp": "2026-05-31T06:36:43+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "綿花先物は供給と需要のシグナルが相反する中でまちまちな終値となった。WASDE関連の報告であるが、具体的な供給数量や需要予測の変更値が記事タイトルには示されていない。利益ガイダンスレンジの提示により、市場参加者の見通しの分散を反映している。"
+  },
+  {
+    "title": "Oklahoma Wheat Harvest Reaches 35 Percent Amid Drastic Yield Swings and Persistent Drought - Oklahoma Farm Report",
+    "timestamp": "2026-06-02T17:23:25+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "オクラホマ州の小麦収穫が35%進捗した。干ばつの継続と地域による歩留まりの大きな変動が報告されている。収量変動が著しく、最終的な作付け結果の不確実性が高まっている。"
+  },
+  {
+    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
+    "timestamp": "2026-06-02T17:33:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
+  },
+  {
+    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
+    "timestamp": "2026-06-02T17:33:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
+  },
+  {
+    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
+    "timestamp": "2026-06-02T17:33:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
+  },
+  {
+    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
+    "timestamp": "2026-06-02T17:33:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
+  },
+  {
+    "title": "OPEC+ boosts output amid Hormuz closure, oil prices surge past $125 - Crypto Briefing",
+    "timestamp": "2026-05-31T07:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+がホルムズ海峡の閉鎖リスクを背景に増産を決定し、原油価格は125ドルを超えて急上昇した。地政学的緊張による供給懸念と増産決定の矛盾した市場シグナルが、価格変動性の高い環境を作出している。"
+  },
+  {
+    "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects - Bloomberg.com",
+    "timestamp": "2026-06-02T16:06:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ベネズエラがエネルギー危機を理由に、石油企業に自社プロジェクト用の電力供給を強制する新規制を発表。同国の電力インフラ劣化とクーデター緊張が重なり、石油生産能力の低下リスクが高まる。供給不安定化要因だが、既に低迷する同国生産への上乗せ効果は限定的と見られる。"
+  },
+  {
+    "title": "Russia Ships Most Oil Since 2022 as Drones Strike Refineries - Bloomberg.com",
+    "timestamp": "2026-06-02T13:13:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが2022年以来最大の石油出荷量を記録する一方で、ドローン攻撃により製油所が被害を受けている。供給増加は価格下押し圧力となるが、一方で精製能力の低下がリスク要因となり、市場には矛盾した信号が混在している。"
   }
 ]
