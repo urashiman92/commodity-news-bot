@@ -1,14 +1,5 @@
 [
   {
-    "title": "本日（5月30日）の金価格：上昇を継続。 - Vietnam.vn",
-    "timestamp": "2026-05-30T00:02:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が5月30日時点で上昇を継続している。トレンドの継続を確認するニュース。具体的な上昇率や要因の記載がないため、マクロ動向の確認材料として限定的。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（5/25〜5/29）｜水野崇 - mbp-japan.com",
     "timestamp": "2026-05-30T03:50:26+00:00",
     "importance": 2,
@@ -43,15 +34,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "エクソンモービルが石油在庫が数週間以内に危険な低水準に達すると警告。供給逼迫により原油価格の急騰を予想。需給バランスの急速な悪化を示唆する重要なシグナル。"
-  },
-  {
-    "title": "$WTI 原油先物(2607) (CLmain.US)$ 78.36が新高値更新。GCはゼロを上回る。 私には取引があるようには思えない。 - Moomoo",
-    "timestamp": "2026-05-30T00:01:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が78.36ドルで新高値を更新したことが報告されている。ただし、投稿者は実質的な取引活動が見られないと指摘している。ゴールド（GC）もプラス圏で推移。"
   },
   {
     "title": "本日（5月30日）、金価格が急騰した。金店が開店する前から、買い手が列を作った。 - Vietnam.vn",
@@ -1509,5 +1491,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン協議の中断懸念により、原油先物が4％超上昇した。地政学的リスクの急速な悪化がドライバー。イラン核合意関連の交渉停止は供給サイドへの懸念を生む。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4484ドル｜ドルインデックスの上昇が影響した模様(2026年6月2日) - OANDA証券",
+    "timestamp": "2026-06-01T23:09:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4484ドルまで下落。ドルインデックスの上昇が主な下落要因。既に織り込まれた相場動向の解説記事。"
+  },
+  {
+    "title": "本日（6月2日）の金価格：全般的に大幅下落。 - Vietnam.vn",
+    "timestamp": "2026-06-01T23:47:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "6月2日の金価格が全般的に大幅下落した。既に市場で方向性が織り込まれた相場の振り返り記事。定量的な下落幅や要因の詳細は不明。"
+  },
+  {
+    "title": "6月2日朝の金価格更新:急落 - Laodong.vn",
+    "timestamp": "2026-06-01T23:26:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "6月2日朝時点の金価格が急落したことを報じるニュース。ベトナムのメディアによる相場速報。具体的な下落要因や数値は記事概要から判定不能。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの協議停止による先行き不透明感が影響し、原油価格は反発（2026年6月2日） - OANDA証券",
+    "timestamp": "2026-06-01T23:15:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの協議停止により地政学的リスクが高まり、原油価格が反発。先行き不透明感が相場を支援。既知の情報に基づく市場反応と考えられる。"
+  },
+  {
+    "title": "【トランプ米大統領】「原油価格を懸念していない」｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-06-01T17:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ米大統領が原油価格について懸念していないとのコメント。政治指導者による一般的な発言で、具体的な政策変更を示唆していない。"
   }
 ]
