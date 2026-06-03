@@ -955,5 +955,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシア政府が製油所に対して数十億ドル規模の補助金・返金を実施しており、国家歳入が圧迫されている。この政策は国内エネルギー産業の競争力維持を狙ったものだが、財政への負担増加が懸念される。西側制裁下での経済対抗措置の一環と見られ、エネルギー市場の需給構造に影響を与える可能性がある。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Report: Crude Inventories Drop 8 Million Barrels as Refinery Runs Decline - IndexBox",
+    "timestamp": "2026-06-03T17:40:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間石油在庫レポートで原油在庫が800万バレル減少した。同時に精製所稼働率が低下しており、需要面の弱さを示唆している。在庫減少は供給引き締めを示唆するが、精製所稼働率の低迷が相殺要因となっており、市場への影響は限定的。"
+  },
+  {
+    "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects - Bloomberg",
+    "timestamp": "2026-06-02T16:06:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ベネズエラがプロジェクト実施時に石油企業に独自の電力供給を要求。電力インフラの脆弱化が続く同国の原油生産低下を招く可能性があり、既に制裁で困窮する同国の石油産業にさらなる打撃となる。OPEC供給減少の継続を示唆。"
   }
 ]
