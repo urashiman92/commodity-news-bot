@@ -1,27 +1,5 @@
 [
   {
-    "title": "Weekly Petroleum Status Report: U.S. Refinery Runs Up, Crude Stocks Fall – May 28, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-05-31T12:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間石油統計（2026年5月28日発表）によると、米国の製油所稼働率が上昇し、原油在庫が減少した。製油所の処理能力拡大と在庫低下は、原油需要の回復を示唆するポジティブシグナルであり、原油価格の支援材料となる可能性がある。"
-  },
-  {
-    "title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes on Russia - Reuters",
-    "timestamp": "2026-05-31T14:54:24+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナが夜間にロシアのパイプライン、製油所、燃料貯蔵施設をドローン攻撃。ロシアはエネルギー大国であり、これらの重要インフラへの直撃は欧州向けを含む石油・ガス供給への懸念を急速に高める。地政学的リスク再燃により、原油価格への上昇圧力が即座に作用する。"
-  },
-  {
     "title": "Powell, Acceptance Remarks",
     "timestamp": "2026-06-01T00:30:00+00:00",
     "importance": 1,
@@ -845,5 +823,137 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "インド中央銀行が金売却に関する報道は不正確であると否定声明を発表。金売却の懸念が払拭されたが、既に市場で報道の信憑性が低いと見なされていたため、実質的な価格変動圧力は限定的。インド中銀の公式否定によるポジティブなコメンタリーにとどまる。"
+  },
+  {
+    "title": "US crude stocks fall on strong export, refining demand, EIA says, as Iran war continues - Reuters",
+    "timestamp": "2026-06-03T15:48:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国原油在庫がEIAの発表により減少を記録した。輸出の堅調さと製油所需要の増加が在庫減少の主要因。イラン関連の地政学的緊張が継続している中での在庫動向として、供給タイト化を示唆している。"
+  },
+  {
+    "title": "EIA: Combined commercial/SPR US crude stocks slump 16m barrels - Quantum Commodity Intelligence",
+    "timestamp": "2026-06-03T15:42:57+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の商業備蓄とSPR（戦略石油備蓄）の合計が1,600万バレル減少した。EIAの週間在庫統計により、米国原油在庫の大幅な低下が確認された。供給圧力の軽減を示唆し、原油価格の上昇要因となる可能性がある。"
+  },
+  {
+    "title": "Why the UAE Broke Up with OPEC - International Policy Digest",
+    "timestamp": "2026-06-03T13:02:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから離脱する動きを示唆した重大なニュース。OPECの減産合意の実行性が低下し、原油市場の供給政策が大きく変わる可能性が高い。OPEC+の求心力が弱まり、今後の価格形成メカニズムに不確実性が生じる。"
+  },
+  {
+    "title": "Why the UAE Broke Up with OPEC - International Policy Digest",
+    "timestamp": "2026-06-03T13:02:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECから離脱する動きを示唆した重大なニュース。OPECの減産合意の実行性が低下し、原油市場の供給政策が大きく変わる可能性が高い。OPEC+の求心力が弱まり、今後の価格形成メカニズムに不確実性が生じる。"
+  },
+  {
+    "title": "OPEC+ Expected to Raise July Output Target by 188,000 bpd Despite Hormuz Closure - energynews.pro",
+    "timestamp": "2026-06-02T22:41:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が7月の原油生産目標を日量188,000バレル引き上げることを予定している。ホルムズ海峡の閉鎖リスクが存在する中での増産決定であり、市場の需要回復と供給調整の継続を反映している。この増産は事前予想の範囲内と見られる。"
+  },
+  {
+    "title": "Indian central bank rebuts media report it sold gold reserves - Reuters",
+    "timestamp": "2026-06-03T06:32:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インド中央銀行（RBI）がメディア報道による金準備売却説を否定した。先週流れた同国が金を売却したとの報道に対し、RBIが公式に反論した形。金市場全体への具体的な需給変化はないが、主要準備国の金保有方針が明確化される点で参考情報。"
+  },
+  {
+    "title": "Russia's oil and gas revenue rises 32% y/y to $9.26 billion in May, data shows - Reuters",
+    "timestamp": "2026-06-03T10:25:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの石油・ガス収入が前年同月比32%増の92.6億ドルに達した（5月）。エネルギー価格の上昇とロシアの輸出維持により、制裁下でも収入を確保している。この数字は原油価格の堅調さを反映している。"
+  },
+  {
+    "title": "AI may not be the demand booster copper bulls expect - Reuters",
+    "timestamp": "2026-06-03T05:04:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "銅",
+    "summary": "AIブームが銅需要の強気材料として過度に評価されている可能性を指摘するロイター解説。AI関連の電力需要増加やインフラ投資は確かに銅需要を支えるが、その需要増幅効果は市場が期待するほど大きくない可能性があり、銅相場の上値抵抗となる懸念が提示された。既存の供給増加や需要サイクルとのバランスが重要。"
+  },
+  {
+    "title": "AI may not be the demand booster copper bulls expect - Reuters",
+    "timestamp": "2026-06-03T05:04:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "AIブームが銅需要の強気材料として過度に評価されている可能性を指摘するロイター解説。AI関連の電力需要増加やインフラ投資は確かに銅需要を支えるが、その需要増幅効果は市場が期待するほど大きくない可能性があり、銅相場の上値抵抗となる懸念が提示された。既存の供給増加や需要サイクルとのバランスが重要。"
+  },
+  {
+    "title": "Ukraine hits Russia's St. Petersburg Oil Terminal, Zelenskiy says - Reuters",
+    "timestamp": "2026-06-03T06:59:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア最大級の石油積み出し施設であるサンクトペテルブルク石油ターミナルを攻撃したとゼレンスキー大統領が発表。ロシアの石油輸出能力の喪失は欧州エネルギー市場の逼迫につながり、原油供給面での地政学リスク再燃を示唆。ロシアのウラル原油輸出の大幅減少が見込まれる。"
+  },
+  {
+    "title": "Russia’s Multi-Billion Payouts to Refiners Dent State Revenues - Bloomberg.com",
+    "timestamp": "2026-06-03T13:54:09+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア政府が製油所に対して数十億ドル規模の補助金・返金を実施しており、国家歳入が圧迫されている。この政策は国内エネルギー産業の競争力維持を狙ったものだが、財政への負担増加が懸念される。西側制裁下での経済対抗措置の一環と見られ、エネルギー市場の需給構造に影響を与える可能性がある。"
+  },
+  {
+    "title": "Russia’s Multi-Billion Payouts to Refiners Dent State Revenues - Bloomberg.com",
+    "timestamp": "2026-06-03T13:54:09+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア政府が製油所に対して数十億ドル規模の補助金・返金を実施しており、国家歳入が圧迫されている。この政策は国内エネルギー産業の競争力維持を狙ったものだが、財政への負担増加が懸念される。西側制裁下での経済対抗措置の一環と見られ、エネルギー市場の需給構造に影響を与える可能性がある。"
   }
 ]
