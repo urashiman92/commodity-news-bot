@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC Considers Output Hike In June Despite Hormuz Disruption - LEADERSHIP Newspapers",
-    "timestamp": "2026-05-31T02:00:11+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECがホルムズ海峡の混乱にもかかわらず6月の増産を検討していることが報道された。地政学リスク継続下での増産方針は市場予想と相反し、供給懸念の緩和と実現可能性への疑問が同時に発生。原油相場には上下両方向の圧力が存在する状況。"
-  },
-  {
     "title": "EU Weighs Temporary Freeze on Russia Oil Price Cap Over Iran War - Bloomberg",
     "timestamp": "2026-05-31T08:00:00+00:00",
     "importance": 4,
@@ -374,28 +363,6 @@
     "summary": "USDA NASSが定期的な作物進捗・状況推定レポート（Crop Progress）を発表。米国主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況評価が市場の供給見通しを更新する。具体的な数値がないため詳細評価は困難だが、成長期の進捗状況は収穫見通しと価格に直結。"
   },
   {
-    "title": "Wheat Futures Decline as Month-End Approaches Amid Ample Global Supply - Earnings Yield Spread - thelegaladvocate.com",
-    "timestamp": "2026-05-31T06:57:31+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "月末接近に伴い小麦先物が下落している。世界的に豊富な供給が存在することが価格の重しとなっており、需給緩和局面を反映した動き。WASDE関連の定期発表に基づく供給量の充分性が材料。"
-  },
-  {
-    "title": "Cotton Futures End Mixed Amid Uncertain Demand Signals - Consensus Beat Rate - thelegaladvocate.com",
-    "timestamp": "2026-05-31T06:48:42+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "綿花先物が混合相場を展開している。需要見通しの不透明性が継続し、市場参加者の間で方向性に関する合意が形成されていない。WASDE関連の報道であるが、具体的な在庫数値や作付け面積データが記事から抽出できないため、市場への影響度は限定的と判断される。"
-  },
-  {
     "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
     "timestamp": "2026-06-01T08:14:00+00:00",
     "importance": 2,
@@ -550,28 +517,6 @@
     "summary": "ウクライナによるロシアへの攻撃が過去最高水準に達し、ロシアの燃料供給に危機的な状況をもたらしている。ロシアのエネルギーインフラへの損傷は供給途絶リスクを高め、世界的な原油需給逼迫要因となる可能性がある。地政学的リスクの急激な高まりが原油相場の上昇圧力となっている。"
   },
   {
-    "title": "Cotton Futures End Mixed Amid Conflicting Supply and Demand Signals - Special Dividend Alert - thelegaladvocate.com",
-    "timestamp": "2026-05-31T06:36:43+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "綿花先物が供給と需要の相反するシグナルの中で混合相場となっている。供給面と需要面で異なる圧力が作用しており、明確な方向性を欠いた状況。特別配当アラートが付記されているが、詳細な数値情報が不足している。"
-  },
-  {
-    "title": "Cotton Futures End Mixed Amid Uncertain Demand Signals - GAAP Earnings Report - thelegaladvocate.com",
-    "timestamp": "2026-05-31T06:48:42+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "綿花先物が混合相場で引けた。需要シグナルの不確実性が価格を圧迫している。WASDE関連の報告ながら、具体的な在庫データや生産予想の明確な方向性が示されていないため、市場参加者の間で見方が分かれている状況。"
-  },
-  {
     "title": "Crude inventory falls by 4.3M barrels for week ended May 8 – EIA - MSN",
     "timestamp": "2026-06-02T08:34:54+00:00",
     "importance": 2,
@@ -715,17 +660,6 @@
     "summary": "大手石油商社Vitolが、欧米がリアルで直面している石油供給不足に対応できていないと警告。市場関係者の楽観的な見方に対し、サプライチェーン逼迫とエネルギー移行による供給力低下が同時に進行していることを指摘。インフレ圧力と需給ひっ迫が継続する見通し。"
   },
   {
-    "title": "Cotton Futures End Mixed Amid Conflicting Supply and Demand Signals - Profit Guidance Range - thelegaladvocate.com",
-    "timestamp": "2026-05-31T06:36:43+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "綿花先物は供給と需要のシグナルが相反する中でまちまちな終値となった。WASDE関連の報告であるが、具体的な供給数量や需要予測の変更値が記事タイトルには示されていない。利益ガイダンスレンジの提示により、市場参加者の見通しの分散を反映している。"
-  },
-  {
     "title": "Oklahoma Wheat Harvest Reaches 35 Percent Amid Drastic Yield Swings and Persistent Drought - Oklahoma Farm Report",
     "timestamp": "2026-06-02T17:23:25+00:00",
     "importance": 3,
@@ -781,17 +715,6 @@
     "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
   },
   {
-    "title": "OPEC+ boosts output amid Hormuz closure, oil prices surge past $125 - Crypto Briefing",
-    "timestamp": "2026-05-31T07:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がホルムズ海峡の閉鎖リスクを背景に増産を決定し、原油価格は125ドルを超えて急上昇した。地政学的緊張による供給懸念と増産決定の矛盾した市場シグナルが、価格変動性の高い環境を作出している。"
-  },
-  {
     "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects - Bloomberg.com",
     "timestamp": "2026-06-02T16:06:18+00:00",
     "importance": 3,
@@ -812,17 +735,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが2022年以来最大の石油出荷量を記録する一方で、ドローン攻撃により製油所が被害を受けている。供給増加は価格下押し圧力となるが、一方で精製能力の低下がリスク要因となり、市場には矛盾した信号が混在している。"
-  },
-  {
-    "title": "Cotton Futures End Mixed Amid Uncertain Demand Signals - Earnings Yield Spread - thelegaladvocate.com",
-    "timestamp": "2026-05-31T06:48:42+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "綿花先物が混合相場で終了。需要シグナルの不確実性が市場心理を圧迫している。WASDE関連のレポートながら、具体的な供給量や在庫数字が記事に示されていないため、市場の方向性が定まらない状況。"
   },
   {
     "title": "IEA forecasts chance of critically low stockpiles before peak summer demand - Reuters",
@@ -856,5 +768,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "米国とイランの和平協議に関する報道が相反しており、市場で不確実性が高まっている。原油は2営業日の上昇を維持しており、地政学的リスクプレミアムが価格を支えている。イラン核合意の進展状況が不透明なため、供給リスク懸念が買い材料となっている。"
+  },
+  {
+    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
+    "timestamp": "2026-06-02T21:12:13+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDEレポートが発表予定であり、穀物市場が大きな値動きの瀬戸際にある。小麦、トウモロコシ、大豆の供給見通しが市場心理に大きく影響し、米国と世界の穀物価格が変動する可能性が高い。レポート内容次第で相場が急騰または急落する公算が大きい。"
+  },
+  {
+    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
+    "timestamp": "2026-06-02T21:12:13+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDEレポートが発表予定であり、穀物市場が大きな値動きの瀬戸際にある。小麦、トウモロコシ、大豆の供給見通しが市場心理に大きく影響し、米国と世界の穀物価格が変動する可能性が高い。レポート内容次第で相場が急騰または急落する公算が大きい。"
+  },
+  {
+    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
+    "timestamp": "2026-06-02T21:12:13+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDEレポートが発表予定であり、穀物市場が大きな値動きの瀬戸際にある。小麦、トウモロコシ、大豆の供給見通しが市場心理に大きく影響し、米国と世界の穀物価格が変動する可能性が高い。レポート内容次第で相場が急騰または急落する公算が大きい。"
+  },
+  {
+    "title": "US crude oil inventories drop 6.75M barrels, nearly double the forecast - Crypto Briefing",
+    "timestamp": "2026-06-02T22:41:28+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が675万バレル減少し、市場予想の約2倍のペースで減速した。EIAの定期在庫統計による発表で、供給逼迫を示唆する強いシグナルとなった。在庫減速により原油の逼迫性が高まり、価格上昇圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "Oil up on Middle East fighting while AI bulls carry stocks higher - Reuters",
+    "timestamp": "2026-06-03T02:14:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東での地政学的緊張激化により原油価格が上昇。同時にAI関連銘柄の買い圧力が株式市場全体を押し上げている。中東紛争はサプライチェーン途絶リスクをもたらし、原油供給への不安が価格を押し上げる主因。地政学リスク顕在化とリスク資産買いの相反する動きが市場を分断している。"
+  },
+  {
+    "title": "India’s Oil Demand Growth Set for Pandemic Low on War Crunch - Bloomberg.com",
+    "timestamp": "2026-06-03T03:15:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インド石油需要の成長率がパンデミック時以来の低水準に落ち込む見通し。ウクライナ戦争による地政学的リスクと経済的圧力が需要抑制要因となっている。インド経済の成長鈍化と燃料価格上昇が需要抑制に働く。"
   }
 ]
