@@ -1,49 +1,5 @@
 [
   {
-    "title": "2026年5月31日午後の金価格更新：SJC金価格、24金9999金価格、世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-05-31T08:14:39+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格定期更新。SJC金および世界金価格の午後時点での相場情報。定期的な価格報告であり、新規材料やイベントは含まれない。"
-  },
-  {
-    "title": "2026年5月31日午後の金価格：SJC金価格、9999金リング価格、および世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-05-31T07:40:40+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格を報告するニュース。2026年5月31日午後の市況情報で、特定の価格変動要因を報告していない。"
-  },
-  {
-    "title": "先週（5月24日～30日）の金価格：「恐ろしい暴落」で、ピーク時に購入した人は1オンスあたり3600万ベトナムドンを失った。 - Vietnam.vn",
-    "timestamp": "2026-05-31T08:48:15+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "先週（5月24日～30日）の金価格が大幅下落した。ピーク時購入者は1オンスあたり3600万ベトナムドンの損失を記録。相場の振り返り報道。"
-  },
-  {
-    "title": "投資家は金価格への信頼を徐々に失っています。 - Laodong.vn",
-    "timestamp": "2026-05-31T10:04:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "投資家が金価格への信頼を徐々に失っているとの報道。需要心理の弱化を示唆する。金市場のセンチメント悪化を反映。"
-  },
-  {
     "title": "金価格は本日5月31日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
     "timestamp": "2026-05-31T13:15:45+00:00",
     "importance": 2,
@@ -77,28 +33,6 @@
     "summary": "金価格が重要な技術的抵抗線に達し、専門家が大幅な調整リスクを指摘。現在の水準での売却圧力の可能性が高まっている状況。"
   },
   {
-    "title": "金価格はここ数週間連続で下落している。 - Vietnam.vn",
-    "timestamp": "2026-05-31T11:44:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格がここ数週間連続で下落している状況を報告するニュース。市場の既存トレンドを述べたもの。"
-  },
-  {
-    "title": "EUがロシア産石油の価格上限凍結を検討、中東紛争で原油価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-05-31T09:58:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東紛争の緊張でWTI原油は上昇圧力が続く。EUのロシア産石油価格上限凍結検討は供給制限シナリオを示唆し、中期的な価格下支え要因となる可能性がある。地政学リスク継続が注視される。"
-  },
-  {
     "title": "本日（5月31日）の燃料価格：原油価格は引き続き急落、E10ガソリンも大幅に下落。 - Vietnam.vn",
     "timestamp": "2026-05-31T16:03:40+00:00",
     "importance": 2,
@@ -130,17 +64,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムメディアによる5月31日の金終値レポート。短期売買での損失リスクについて言及しているが、具体的な価格変動や市場イベントの記載がない。"
-  },
-  {
-    "title": "RBCが警告：原油市場は「メメント」式取引に陥る、世界在庫が逼迫し6～8月にストレステストの恐れ - finance.biggo.jp",
-    "timestamp": "2026-05-31T11:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "RBCが世界原油在庫の逼迫を警告し、6～8月にかけてのストレステストを指摘。市場が「メメント式」（モメンタム主導）取引に陥りやすい環境を提示。在庫低水準が価格の上値圧力を支える構造的要因。"
   },
   {
     "title": "対イランで思惑一致、イスラエルとUAEが急接近 原油価格に影響は - 朝日新聞",
@@ -2033,5 +1956,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "エネルギー市場が過去最大級の危機に直面していることを解説。ロシア産エネルギーの供給制約とグローバル需給逼迫が石油・ガス価格を支援。中期的な上値圧力は継続の見通し。"
+  },
+  {
+    "title": "2026年6月3日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-06-03T10:27:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・先物オプション市場に関するウォッチ記事。定期的な市場データ公表の報道で、貴金属市場への直接的な影響はない。"
+  },
+  {
+    "title": "中東情勢緊迫でも金価格が下落した理由 金利が付かない「金」を売り→金利がつく「ドル」を買い（愛知のニュース（テレビ愛知）） - ｄメニューニュース",
+    "timestamp": "2026-06-03T09:57:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中東情勢緊迫という地政学リスクが存在する中、金価格が下落した。理由は米国金利上昇に伴い、利回りが付くドル資産への資金シフトが金売却を上回ったため。金利環境が金価格の下落要因として機能している。"
+  },
+  {
+    "title": "XAUUSD|金|株価:4456.270|変動率:-33.22 - TradingKey",
+    "timestamp": "2026-06-03T09:11:00+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金（XAUUSD）が4456.27ドルで取引されており、33.22ドルの下落を記録。相場動向の速報値報告であり、下落トレンドを示唆。"
+  },
+  {
+    "title": "【通貨】 欧州為替：ドル・円は小動き、原油相場は高止まり - 株探",
+    "timestamp": "2026-06-03T11:14:47+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州為替市場でドル・円が小動きで推移。原油相場は高止まりの状況が続いている。通貨と原油の関連動向を報じる市場解説。"
+  },
+  {
+    "title": "ロンドン為替見通し＝ユーロドル、原油相場に振られるも値動き限定か(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-06-03T04:42:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ロンドン市場のユーロドル相場見通しについての解説記事。原油相場の変動に影響されやすいものの、値動きは限定的との見方。為替と原油の連動性についての市場コメント。"
+  },
+  {
+    "title": "欧州為替：ドル・円は小動き、原油相場は高止まり 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-06-03T11:14:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州市場でドル円が小動きで推移。原油相場は高止まりを継続している。為替と原油の関連動向を述べた市場解説。"
+  },
+  {
+    "title": "WTI原油先物相場、堅調 96ドル台前半で推移 - Moomoo",
+    "timestamp": "2026-06-03T09:46:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が96ドル台前半で堅調に推移している。特定の材料や指標の発表ではなく、相場動向の報道である。短期的な価格水準の記述のみで投資判断材料に乏しい。"
+  },
+  {
+    "title": "欧州為替：ドル・円は小動き、原油相場は高止まり - ｄメニューニュース",
+    "timestamp": "2026-06-03T11:14:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州為替でドル円が小動きを示す中、原油相場は高止まりしている。為替と原油の関連性についての相場観測報道。"
+  },
+  {
+    "title": "米イラン協議が行き詰まったままだったため、アジアの原油価格は1％以上上昇した。 - Vietnam.vn",
+    "timestamp": "2026-06-03T08:14:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン核協議の行き詰まりにより地政学的リスクが意識され、アジア原油価格が1%以上上昇した。イラン制裁継続の可能性が供給リスク要因となった。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、金、銀、銅が上昇 天然ガス、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-06-02T22:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油、金属類が上昇する一方、農産物・天然ガスが下落。市場内での商品間の値動きが分散している状況。"
   }
 ]
