@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（5月31日）の金価格：価格は全般的に急上昇。 - Vietnam.vn",
-    "timestamp": "2026-05-30T23:50:24+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "5月31日の金価格が全般的に急上昇したとのニュース。具体的な価格水準や上昇率の記載がなく、市場要因の詳細は不明。単なる相場観測報道と判断される。"
-  },
-  {
-    "title": "5月31日朝の金価格更新:専門家はポジティブな予測 - Laodong.vn",
-    "timestamp": "2026-05-30T23:40:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "5月31日朝の金価格について専門家がポジティブな見通しを示している。市場心理の好転を反映した解説記事。市場予想との比較情報が不足している。"
-  },
-  {
-    "title": "本日（2026年5月31日）の金価格更新：月末にはSJC 24金9999金地金、BTMC BTMH DOJI Phu Quyプレーンリングが販売されます。 - Vietnam.vn",
-    "timestamp": "2026-05-30T23:23:40+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売業者による月末の金地金・リングの販売案内。定期的な小売価格更新報道で、市場全体への影響は限定的。"
-  },
-  {
     "title": "金価格は重要なテクニカル水準を超えると急騰する可能性がある - Laodong.vn",
     "timestamp": "2026-05-31T03:21:09+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が重要なテクニカル水準を突破した場合、急騰する可能性があるとのテクニカル分析コメント。現在の水準や具体的な抵抗線の詳細は不明。"
-  },
-  {
-    "title": "本日（5月31日）の金価格：過去3週間で、SJCの金地金と金指輪の購入者は、1オンスあたり約1000万ドンの損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-05-31T00:48:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムSJCの金地金・金指輪購入者が過去3週間で1オンスあたり約1000万ドン（約50USD相当）の損失を被ったことが報道された。金価格調整局面の記録的なレポートであるが、グローバルコモディティ市場全体への直接的なシグナルではない。"
   },
   {
     "title": "金価格が1テールあたり3000万ベトナムドン以上も急落したという事実から、私たちは何を学ぶことができるだろうか？ - Vietnam.vn",
@@ -66,17 +22,6 @@
     "summary": "ベトナムの金価格が1テール（50g相当）あたり3000万ベトナムドン以上急落した。記事はこの価格下落から学ぶべき点について解説している。地域限定的な相場動向の分析記事。"
   },
   {
-    "title": "5月31日の金価格：全般的に急騰。 - Vietnam.vn",
-    "timestamp": "2026-05-30T23:49:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "5月31日の金価格が全般的に急騰したことを報じるニュース。具体的な上昇要因や価格水準は記事概要には記載されていない。相場の振り返り・観測記事と判定。"
-  },
-  {
     "title": "政策転換を前に、金価格が急激に変動する。 - Vietnam.vn",
     "timestamp": "2026-05-31T02:17:49+00:00",
     "importance": 3,
@@ -86,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "政策転換を控えた段階での金価格の変動を報じるニュース。FRBの金利政策変更への思惑が金相場に反映されている。米ドル動向や実質金利の低下が相場を支援する可能性。"
-  },
-  {
-    "title": "2026年5月31日の金価格チャート：SJC金価格、24金9999価格、月末の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-05-31T00:50:20+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格と世界金価格の月末チャート情報の報道。2026年5月31日時点の金価格データを提示したニュース記事であり、市場価格の定期的な情報提供。"
   },
   {
     "title": "中東情勢悪化に伴う原油価格高騰、熊本県が独自の融資制度を検討…有明フェリーが減便など県内でも影響 - 読売新聞",
@@ -1934,5 +1868,159 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が1週間ぶりの高値を更新。米国とイラン間の協議動向が注視されている状況。地政学的リスク要因が価格を支えている。"
+  },
+  {
+    "title": "金価格が下落、中東緊張と米雇用統計を市場が注視 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-06-03T01:44:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が下落している。市場は中東緊張と米雇用統計の発表を注視している状況。価格変動は両要因のバランスを反映している。"
+  },
+  {
+    "title": "NY金先物は反発、押し目買いが支え底堅い展開｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-06-03T00:25:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反発し、押し目買いによって底堅い展開となっている。テクニカル的には買い支えが入っている状況。相場の振り返りと観測的な記事。"
+  },
+  {
+    "title": "金価格は小幅に上昇し、中東情勢の動向と米国の経済指標の発表を待っている。 - Vietnam.vn",
+    "timestamp": "2026-06-02T23:54:14+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は小幅上昇。中東情勢の動向と米国経済指標の発表を待機中。現在は様子見ムードで方向性は定まっていない。"
+  },
+  {
+    "title": "米イラン交渉をめぐる情報錯綜が貴金属市場を揺さぶる、金価格は急落後に米雇用統計待ち - finance.biggo.jp",
+    "timestamp": "2026-06-02T23:27:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米イラン交渉に関する情報が錯綜し、貴金属市場が変動。金価格は急落後、米雇用統計の発表を待っている状況。地政学リスクの不透明性が相場に影響を与えている。"
+  },
+  {
+    "title": "世界の金価格は下落を続けている。 - Vietnam.vn",
+    "timestamp": "2026-06-03T02:00:57+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が継続的に下落している。市場は既に米国金利上昇やドル強化などの要因を織り込んでいると見られる。"
+  },
+  {
+    "title": "本日（6月3日）の金価格：引き続き下落し、1オンスあたり4,500ドルを下回っている。 - Vietnam.vn",
+    "timestamp": "2026-06-02T23:25:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,500ドル以下に下落している。既に進行中のトレンドの報告記事。市場心理を反映した現況レポート。"
+  },
+  {
+    "title": "原油先物は1％続伸、米・イランが新たな交戦 協議停滞 - Reuters",
+    "timestamp": "2026-06-03T01:01:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事的緊張が新たに高まり、外交協議が停滞している。中東地政学リスクの再燃により、サプライチェーン寸断の懸念が発生。原油先物は1%続伸し、リスクプレミアムが上乗せされている。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：イスラエルのレバノン攻撃継続報道が影響し、原油価格は2営業日続伸（2026年6月3日） - OANDA",
+    "timestamp": "2026-06-02T23:19:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イスラエルのレバノン攻撃継続報道により、中東の地政学リスクが再度注視される。原油は2営業日続伸し、供給懸念がサポート。既知の紛争継続のため、大きなサプライズはない。"
+  },
+  {
+    "title": "原油先物は1％続伸、米・イランが新たな交戦 協議停滞 - ニューズウィーク日本版",
+    "timestamp": "2026-06-03T01:01:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン間の交戦激化により地政学リスクが高まった。核協議の停滞で緊張関係が深刻化。供給途絶懸念から原油先物が1％続伸。"
+  },
+  {
+    "title": "原油価格、日米長期金利ともに再上昇の可能性（久保田博幸） - エキスパート - Yahoo!ニュース",
+    "timestamp": "2026-06-03T00:43:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "久保田博幸エキスパートが原油価格と日米長期金利の再上昇の可能性について言及。現在の相場環境における上昇シナリオの存在を示唆。"
+  },
+  {
+    "title": "バーレーンで爆発音、ややドル買い反応 原油先物急伸 - みんかぶ FX/為替",
+    "timestamp": "2026-06-02T23:10:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "バーレーンで爆発音が発生し、地政学リスクへの警戒が高まった。原油先物が急伸し、リスク回避でドル買いが進行。中東情勢の緊張が供給懸念を材料に相場を押し上げた。"
+  },
+  {
+    "title": "外国為替市場で円相場が一時1ドル＝160円台に 4月30日以来 原油先物価格高騰など受け - テレ朝NEWS",
+    "timestamp": "2026-06-03T00:53:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "円相場が1ドル160円台まで円安進行。原油先物価格の高騰が要因として挙げられている。円安は輸入原油コストを円建てで引き上げる影響。"
+  },
+  {
+    "title": "ドイツ商業銀行：銅価格が上昇、市場は今月の米国関税決定を待っている - Bitget",
+    "timestamp": "2026-06-02T03:21:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ドイツ商業銀行が銅価格上昇トレンドを指摘。市場参加者は米国の関税決定が今月中に発表される可能性に注視。関税内容が銅需要に大きな影響をもたらすため注視が必要。"
+  },
+  {
+    "title": "２日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-06-02T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2日の主要国際商品市況についての定期的な市場情報提供。具体的な価格動向や市場イベントの詳細は記事本文を確認する必要がある。"
   }
 ]
