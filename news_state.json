@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（6月2日）の金価格：急落し、1オンスあたり4,500ドルを下回った。 - Vietnam.vn",
-    "timestamp": "2026-06-01T21:33:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落し、1オンスあたり4,500ドルを下回った。短期的な価格変動を報じるニュース。下落要因の詳細は記事から不明。"
-  },
-  {
     "title": "本日（6月2日）の金価格：引き続き下落 - Vietnam.vn",
     "timestamp": "2026-06-01T22:53:19+00:00",
     "importance": 2,
@@ -20,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "6月2日の金価格が引き続き下落している。既存のトレンド継続を報じるニュースで、相場動向の振り返り解説。"
-  },
-  {
-    "title": "原油先物4％超高、米イラン協議中断巡る懸念などで - Reuters",
-    "timestamp": "2026-06-01T21:11:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン協議の中断により地政学的リスクが顕在化。原油先物が4％以上上昇。供給途絶懸念が価格を押し上げた。"
-  },
-  {
-    "title": "原油先物4％超高、米イラン協議中断巡る懸念などで（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-06-01T21:25:38+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン協議の中断により地政学的リスクが再燃し、原油先物が4％超上昇。供給途絶懸念から買い圧力が強まった。中東情勢の不確実性が市場に急速に反映された。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4484ドル｜ドルインデックスの上昇が影響した模様(2026年6月2日) - OANDA証券",
@@ -449,17 +416,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイラン合意の可能性を示唆したことで、制裁緩和による供給増加への懸念から原油価格が小幅下落。地政学リスク低下が相場を圧迫。"
-  },
-  {
-    "title": "米コモディティー市場－原油、銅が上昇 ガソリン、天然ガス、金、銀、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-06-01T22:38:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油と銅が上昇する一方、ガソリン、天然ガス、貴金属、農産物が下落。市場内での分散的な値動きが展開。"
   },
   {
     "title": "本日（2026年6月3日）、金価格は主要な支持水準を維持するのに苦戦し、買い手は堅調さを見せた。金取引に対する個人所得税はまだ導入されていない。 - Vietnam.vn",
@@ -2066,5 +2022,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "サクソバンクのアナリストが、米国の関税決定が銅市場の重要な変動要因になると指摘。現在、市場がその決定を待機している状況を解説したコメンタリー。"
+  },
+  {
+    "title": "2026年6月5日現在の金価格：SJC金地金、9999金リング、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-06-04T22:11:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を報じたニュース。2026年6月5日時点でのSJC金地金、9999金リング、および世界の金価格の相場情報。"
+  },
+  {
+    "title": "本日（2026年6月5日）の金価格：SJC金価格、9999金リング価格、および本日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-06-04T22:37:04+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトによる本日の金相場情報。SJC金価格とリング価格、世界金価格の日次更新。"
+  },
+  {
+    "title": "本日6月5日の金価格：SJC、DOJI、BTMC、PNJの金価格は全て下落？ - Vietnam.vn",
+    "timestamp": "2026-06-04T22:14:52+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの主要金販売業者（SJC、DOJI、BTMC、PNJ）の金価格が6月5日に全て下落。ベトナム国内市場の日次価格動向を報じた地域ニュース。"
+  },
+  {
+    "title": "金価格が1テールあたり3600万ベトナムドン以上も急落し、容易に利益を得られた時代は終焉を迎えた。 - Vietnam.vn",
+    "timestamp": "2026-06-04T22:37:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1テール当たり3600万ドン超の下落を記録。金投資で容易に利益を得られた時代の終焉を指摘するコメンタリー。既に価格低下は市場に織り込まれている。"
+  },
+  {
+    "title": "本日（6月5日）の金価格：年初以来の安値。 - Vietnam.vn",
+    "timestamp": "2026-06-04T21:37:11+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が6月5日時点で年初来安値を更新した。市場の需給バランスやドル強化など既知要因の継続を反映した値動き。ニュース自体は過去の価格動向の報告であり、新規材料ではない。"
+  },
+  {
+    "title": "シカゴ穀物市場は軒並み下落 大豆とトウモロコシは原油先物の値下がりにつられる - 産経ニュース",
+    "timestamp": "2026-06-04T22:07:24+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "シカゴ穀物市場で大豆とトウモロコシが下落。原油先物の値下がりに連動した売り圧力が穀物市場に波及。エネルギー価格と農産物の連動性が確認される動き。"
   }
 ]
