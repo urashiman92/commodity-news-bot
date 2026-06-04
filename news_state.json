@@ -11,17 +11,6 @@
     "summary": "金価格が急落したことを報じるニュース。具体的な下落率や原因については記事概要では不明。単なる価格動向の報道と推定される。"
   },
   {
-    "title": "2026年6月1日午後の金価格：9999金、BTMC金指輪、BTMC、およびDOJIの終値は50万ドン下落しました。 - Vietnam.vn",
-    "timestamp": "2026-06-01T13:23:49+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売価格が50万ドン下落。複数の金指輪商品やDOJIなどの終値報告。地域限定のローカルニュース。"
-  },
-  {
     "title": "原油相場が急騰、イランが米国との対話停止するとの報道 - Bloomberg.com",
     "timestamp": "2026-06-01T14:35:04+00:00",
     "importance": 4,
@@ -31,28 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランが米国との対話停止を表明し、地政学的リスクが急速に高まった。中東の政治的緊張が原油供給リスクを増加させ、相場が急騰。イランとの緊張は核合意交渉やホルムズ海峡経由の供給途絶懸念につながる可能性がある。"
-  },
-  {
-    "title": "【速報】NY原油先物91ドル台へ急伸、米イラン交渉停止の報道(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-06-01T13:29:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン交渉停止の報道により、中東地政学リスク再燃。NY原油先物は91ドル台へ急騰。供給リスク回避買いが相場を支援。"
-  },
-  {
-    "title": "BTCはETFからの資金流出および原油価格の上昇が暗号資産市場に重くのしかかり、引き続き圧力を受けています：Crypto Daily - CoinDesk",
-    "timestamp": "2026-06-01T13:27:59+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "暗号資産市場（BTC）がETFからの資金流出と原油価格上昇の影響を受けて下落圧力を受けている。コモディティ市場との相関を示唆する分析評論。"
   },
   {
     "title": "イランが米国協議離脱、原油価格100ドル目前 - BeInCrypto",
@@ -75,28 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランが対米協議停止とホルムズ海峡封鎖計画を発表。中東の地政学リスク急増により国際原油価格が一時5%超急騰。供給途絶の懸念が市場を刺激。"
-  },
-  {
-    "title": "ゴールドマン・サックスは、2026年の銅価格予測を1トン当たり13,735ドルに引き上げた。 - Vietnam.vn",
-    "timestamp": "2026-06-01T11:39:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ゴールドマン・サックスが2026年の銅価格予測を1トン当たり13,735ドルに上方修正。足元の需給タイト化と電気自動車・再生可能エネルギー需要の長期成長を背景とした見通し。"
-  },
-  {
-    "title": "【JX金属】好決算なのになぜか株価急落…「本質的な理由は金利にある」と元機関投資家が語る本当の理由 - LIMO | くらしとお金の経済メディア",
-    "timestamp": "2026-06-01T11:34:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が好決算を発表したにもかかわらず株価が急落。元機関投資家が、表面的な業績ではなく金利上昇環境が本質的な下落要因であると指摘。銅相場の先行きに対する市場心理の悪化を反映。"
   },
   {
     "title": "CBOT小麦先物、供給過剰と米国需要低迷で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -130,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午後0時台の相場動向を伝えるニュース。ダウ平均は113ドル安となる一方、WTI原油先物は6.39ドル上昇。株債相場と原油の非連動的な値動きを示唆。"
-  },
-  {
-    "title": "花旗、2026年初の銅強気転換：1年以内に1トン1.5万ドル到達を予測 - finance.biggo.jp",
-    "timestamp": "2026-06-01T13:06:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "花旗銀行が2026年初頭の銅強気転換を予測し、1年以内に1トン1.5万ドル到達を見込んでいる。現在の市場では銅需要（特にEV・再生可能エネルギー向け）の長期成長を背景に強気見通しが既に織り込まれている。"
   },
   {
     "title": "本日（6月2日）の金価格：急落し、1オンスあたり4,500ドルを下回った。 - Vietnam.vn",
@@ -2000,5 +1934,93 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティー市場で原油・天然ガスが上昇する一方、貴金属・農産物・銅が下落。市場内での選別売買が進行中。"
+  },
+  {
+    "title": "金価格は本日6月4日、依然として大幅に下落した状態で取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-06-04T13:23:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "6月4日の金価格は大幅な下落状態で取引を終えた。具体的な下落要因は記事に明記されていない。既に進行中の下落トレンドの継続報告に過ぎない。"
+  },
+  {
+    "title": "米ドルが小幅に軟調に推移する中、金価格は上昇しました。 - Moomoo",
+    "timestamp": "2026-06-04T04:14:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米ドルが軟調に推移する中、金価格が上昇した。ドル安は金の購買力を高め、金投資の需要を支える典型的な相場構図。既知の相関関係の確認的な動き。"
+  },
+  {
+    "title": "2026年6月4日午後の金価格更新：SJC金価格、24金9999金価格、世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-06-04T11:07:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金取引所における2026年6月4日午後の金価格の定期更新報告。ベトナム国内の現物金価格と国際金価格を掲載したルーチンニュース。"
+  },
+  {
+    "title": "中東情勢に伴う原油価格・物価高騰から命と暮らしを守るため 早急な緊急経済対策を求める要望書 - 選挙ドットコム",
+    "timestamp": "2026-06-04T12:05:22+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢に伴う原油価格上昇と物価高騰への対応を求める要望書。日本国内の政策提言であり、既知の情勢への反応。市場実需には直接影響なし。"
+  },
+  {
+    "title": "ドル円、小安い 原油価格の下落や米金利低下でドル売りに｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-06-04T11:27:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落と米金利低下によってドル売り圧力が強まり、ドル円が小安くなっている。為替市場での相対的な動きを解説したコメンタリー記事。"
+  },
+  {
+    "title": "シティ、米・イラン協議の停滞で原油価格が上昇基調と予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-06-04T10:59:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "シティがアナリスト見解として、米イラン協議の停滞により原油価格が上昇基調で推移するとの予測を発表。供給制約懸念がサポート要因となる見通し。"
+  },
+  {
+    "title": "原油価格は反転して下落する。 - Vietnam.vn",
+    "timestamp": "2026-06-04T13:34:51+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が反転して下落する見通しが報じられた。技術的または需給見通しの悪化を背景としたアナリスト評論と推察される。具体的な新規ファンダメンタルズの情報は不明。"
+  },
+  {
+    "title": "在庫は4月の新低に減少し、銅価格は逆境にもかかわらず安定化しています。関税と地政学的リスクが重なる中、強気派と弱気派が対立しています。 - Bitget",
+    "timestamp": "2026-06-04T01:08:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅の在庫が4月新低まで減少し、供給逼迫シグナルを示している。関税と地政学的リスクの中で、需給ファンダメンタルは価格を下支えしている。市場参加者の強気・弱気見解が対立している状況。"
   }
 ]
