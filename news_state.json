@@ -1,16 +1,5 @@
 [
   {
-    "title": "CBOT小麦先物、供給過剰と米国需要低迷で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-06-01T19:27:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "CBOT小麦先物が供給過剰と米国需要低迷を背景に下落している。グローバルな穀物供給環境の緩和とドメスティック需要の弱さが価格押し下げ要因となっている。"
-  },
-  {
     "title": "本日（6月2日）の金価格：急落し、1オンスあたり4,500ドルを下回った。 - Vietnam.vn",
     "timestamp": "2026-06-01T21:33:19+00:00",
     "importance": 3,
@@ -53,39 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン協議の中断により地政学的リスクが再燃し、原油先物が4％超上昇。供給途絶懸念から買い圧力が強まった。中東情勢の不確実性が市場に急速に反映された。"
-  },
-  {
-    "title": "原油先物4％超高、米イラン協議中断巡る懸念などで - ニューズウィーク日本版",
-    "timestamp": "2026-06-01T21:09:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン協議の中断により地政学リスクが急速に高まった。原油先物が4％超上昇し、供給途絶への懸念が材料。中東情勢の不透明性が価格を押し上げている。"
-  },
-  {
-    "title": "トランプ氏の中東停火発言が錯綜、原油価格が乱高下し米国株は様子見で小幅高 - finance.biggo.jp",
-    "timestamp": "2026-06-01T20:25:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏の中東停火発言が矛盾・不明確で、市場が混乱。原油価格が乱高下し、地政学的リスク評価が揺らいでいる。米国株は上値の重さから小幅高に留まっている。"
-  },
-  {
-    "title": "原油先物4％超高、米イラン協議中断巡る懸念などで - ｄメニューニュース",
-    "timestamp": "2026-06-01T21:09:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン協議の中断懸念により、原油先物が4％超上昇した。地政学的リスクの急速な悪化がドライバー。イラン核合意関連の交渉停止は供給サイドへの懸念を生む。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4484ドル｜ドルインデックスの上昇が影響した模様(2026年6月2日) - OANDA証券",
@@ -427,17 +383,6 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "コモディティ市場の構造的な変化について分析した解説記事。市場がどのように変質してきたかについての見方を提示している。実質的な需給データや価格変動をもたらす新規情報ではない。"
-  },
-  {
-    "title": "機関による今年のコモディティ市場の解説：全体的な強気相場が継続し、金価格は短期的には圧力を受けるが、長期的な上昇傾向に変化はない - Bitget",
-    "timestamp": "2026-06-01T20:29:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "機関投資家によるコモディティ市場の見通し解説。全体的な強気相場の継続を指摘しつつ、金は短期的に圧力を受ける可能性を示唆。長期的な上昇トレンドは変わらずとの見解。"
   },
   {
     "title": "2026年6月2日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -2033,5 +1978,93 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "コモディティが17年連続で株式に対してアンダーパフォーム。スーパーサイクルの底打ちが投資テーマとなっており、相場心理面での転換期待を示唆。"
+  },
+  {
+    "title": "本日（2026年6月5日）の金価格更新：SJC 24金9999、BTMC DOJI Phu Quyプレーンリングの価格。 - Vietnam.vn",
+    "timestamp": "2026-06-04T21:06:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売価格の日次更新ニュース。SJC、BTMC、DOJIなどの業者による24金9999の店頭価格情報の報道。"
+  },
+  {
+    "title": "原油先物約3％安、米イラン和平合意に期待 レバノンでの停戦合意受け - Reuters",
+    "timestamp": "2026-06-04T20:33:48+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノンでの停戦合意を受けて、中東の地政学的リスクが低下し、原油先物が約3％下落した。米イランの和平合意への期待も相場押し下げ要因となった。供給懸念の緩和が価格に反映された。"
+  },
+  {
+    "title": "原油先物約3％安、米イラン和平合意に期待 レバノンでの停戦合意受け（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-06-04T20:47:28+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノンでの停戦合意を受けて中東の地政学的緊張が緩和し、米イラン和平合意への期待が高まった。原油先物は約3%下落し、供給リスク低下の織り込みが進行。地域紛争の緩和は原油相場の重要な下押し要因。"
+  },
+  {
+    "title": "原油先物約3％安、米イラン和平合意に期待 レバノンでの停戦合意受け - ニューズウィーク日本版",
+    "timestamp": "2026-06-04T20:33:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノンでの停戦合意を受け、中東地政学リスク緩和への期待から原油先物が約3％下落。米イラン和平合意の可能性が意識され、供給懸念の後退を反映している。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況･4日 4日ぶり反落 - Moomoo",
+    "timestamp": "2026-06-04T20:40:46+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物市場で4日ぶりの反落を記録。相場振り返りの市場解説記事。"
+  },
+  {
+    "title": "原油価格の下落に伴い、ヨーロッパはさらに大きな懸念に直面している。 - Vietnam.vn",
+    "timestamp": "2026-06-04T17:49:02+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落がヨーロッパに新たな懸念をもたらしている。ヨーロッパはエネルギー危機への対応が複雑化する可能性。価格低下がエネルギー政策や経済戦略に影響を及ぼす見通し。"
+  },
+  {
+    "title": "Caixin Futures：非鉄金属銘柄は変動し、炭酸リチウム先物価格は4.62%下落 - Bitget",
+    "timestamp": "2026-06-03T21:47:47+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "非鉄金属市場で炭酸リチウム先物が4.62%下落した。非鉄金属銘柄全体で変動が見られている。銅への直接的な影響は限定的。"
+  },
+  {
+    "title": "サクソバンク：銅市場はアメリカの重要な関税決定を待っている - Bitget",
+    "timestamp": "2026-06-04T01:24:02+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "サクソバンクのアナリストが、米国の関税決定が銅市場の重要な変動要因になると指摘。現在、市場がその決定を待機している状況を解説したコメンタリー。"
   }
 ]
