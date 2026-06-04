@@ -22,17 +22,6 @@
     "summary": "金価格が急落し、1オンスあたり4,500ドルを下回った。短期的な価格変動を報じるニュース。下落要因の詳細は記事から不明。"
   },
   {
-    "title": "金価格の下落幅が拡大、イランが米国との情報交換を停止。 - Moomoo",
-    "timestamp": "2026-06-01T17:43:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "イランが米国との情報交換を停止したことで地政学リスクが上昇し、リスク回避の流れが生じている。金価格は下落しており、市場は安全資産への需要よりもドル強化・金利上昇圧力を優先している。米国とイランの関係悪化は原油価格上昇につながる可能性があり、インフレ懸念がドル買いを促進している。"
-  },
-  {
     "title": "本日（6月2日）の金価格：引き続き下落 - Vietnam.vn",
     "timestamp": "2026-06-01T22:53:19+00:00",
     "importance": 2,
@@ -141,17 +130,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの協議停止により地政学的リスクが高まり、原油価格が反発。先行き不透明感が相場を支援。既知の情報に基づく市場反応と考えられる。"
-  },
-  {
-    "title": "【トランプ米大統領】「原油価格を懸念していない」｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-06-01T17:04:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ米大統領が原油価格について懸念していないとのコメント。政治指導者による一般的な発言で、具体的な政策変更を示唆していない。"
   },
   {
     "title": "金価格見通し：FRB利上げ観測で下落拡大も、米雇用統計を警戒 - ig.com",
@@ -2033,5 +2011,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "タイトルは「スペイン人の適当さ」という一般的な雑談で、銅価格との直接的な関連が不明。YouTubeの切り抜き動画であり、具体的な市場情報を含まない。"
+  },
+  {
+    "title": "金価格更新 2026年6月4日：SJC 24金9999、プレーンリングBTMC BTMH DOJI Phu Quyの価格 - Vietnam.vn",
+    "timestamp": "2026-06-04T13:45:54+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの24金小売価格の日次更新ニュース。SJC、BTMC、DOJI、Phu Quyなど複数流通業者の金価格を報告。ローカル市場の定期的な価格情報。"
+  },
+  {
+    "title": "17年連続でアンダーパフォーム！商品・株式のスーパーサイクルはいつ歴史的な大底を脱するのか？ - Bitget",
+    "timestamp": "2026-06-03T20:54:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "コモディティが17年連続で株式に対してアンダーパフォーム。スーパーサイクルの底打ちが投資テーマとなっており、相場心理面での転換期待を示唆。"
   }
 ]
