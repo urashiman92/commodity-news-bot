@@ -1,71 +1,5 @@
 [
   {
-    "title": "Rally in grain markets after forecast fall in wheat production - South West Farmer",
-    "timestamp": "2026-06-01T11:04:08+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE関連レポートで米国小麦生産量の減少予報が発表され、穀物市場全体が反発上昇した。小麦の供給減少見通しはスポット価格の上昇圧力となり、連動するトウモロコシにも影響が波及。穀物の需給逼迫懸念から買い戻しが入った可能性が高い。"
-  },
-  {
-    "title": "Rally in grain markets after forecast fall in wheat production - South West Farmer",
-    "timestamp": "2026-06-01T11:04:08+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE関連レポートで米国小麦生産量の減少予報が発表され、穀物市場全体が反発上昇した。小麦の供給減少見通しはスポット価格の上昇圧力となり、連動するトウモロコシにも影響が波及。穀物の需給逼迫懸念から買い戻しが入った可能性が高い。"
-  },
-  {
-    "title": "EM Stocks Hit Record High on AI, Currencies Lower as Oil Climbs - Bloomberg.com",
-    "timestamp": "2026-06-01T11:12:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "新興国株式が過去最高を更新し、AIテーマが買われる一方、ドル高圧力が強まっている。原油は上昇トレンドが続いているが、新興国通貨全般は下落し、ドル資産（金を含む）への影響は相反している。マクロ環境の転換を示唆するシグナル。"
-  },
-  {
-    "title": "EM Stocks Hit Record High on AI, Currencies Lower as Oil Climbs - Bloomberg.com",
-    "timestamp": "2026-06-01T11:12:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "新興国株式が過去最高を更新し、AIテーマが買われる一方、ドル高圧力が強まっている。原油は上昇トレンドが続いているが、新興国通貨全般は下落し、ドル資産（金を含む）への影響は相反している。マクロ環境の転換を示唆するシグナル。"
-  },
-  {
-    "title": "EM Stocks Hit Record High on AI, Currencies Lower as Oil Climbs - Bloomberg.com",
-    "timestamp": "2026-06-01T11:12:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "新興国株式が過去最高を更新し、AIテーマが買われる一方、ドル高圧力が強まっている。原油は上昇トレンドが続いているが、新興国通貨全般は下落し、ドル資産（金を含む）への影響は相反している。マクロ環境の転換を示唆するシグナル。"
-  },
-  {
-    "title": "Wheat markets roar back to life: what a new report tells Aussie growers - Farm Online",
-    "timestamp": "2026-06-01T10:01:53+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "オーストラリアの小麦市場が活況を呈しており、新しいレポートがオーストラリアの穀物生産者に重要な情報を提供している。小麦市場の回復基調を受け、生産者の関心が高まっている。具体的な需給統計は記事タイトルのみからは判定不能だが、市場活性化のシグナルとなっている。"
-  },
-  {
     "title": "RFD NEWS Weekly Crop Progress and Livestock Production Regional Update — Monday, June 1, 2026 - RFD-TV",
     "timestamp": "2026-06-01T14:39:32+00:00",
     "importance": 1,
@@ -130,28 +64,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアのボルゴグラード製油所が5月29日のドローン攻撃後に操業を停止。同製油所はロシア有数の精製能力を有する重要施設であり、停止は供給逼迫要因として作用。復旧時期が不透明であり、ウクライナ紛争による供給ショックリスクが再び浮上した。"
-  },
-  {
-    "title": "Ukraine attacks Russian energy sites - what has been hit? - Reuters",
-    "timestamp": "2026-06-01T10:16:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアのエネルギー施設に対する攻撃を実施。ロシアは世界有数の石油・ガス供給国であり、エネルギー生産施設への攻撃は供給リスクを大幅に高める。地政学的緊張の深刻化により、原油価格の上昇圧力が生じている。"
-  },
-  {
-    "title": "Ukraine attacks Russian energy sites - what has been hit? - Reuters",
-    "timestamp": "2026-06-01T10:16:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナがロシアのエネルギー施設に対する攻撃を実施。ロシアは世界有数の石油・ガス供給国であり、エネルギー生産施設への攻撃は供給リスクを大幅に高める。地政学的緊張の深刻化により、原油価格の上昇圧力が生じている。"
   },
   {
     "title": "EU may keep Russian oil price cap unchanged at $44 per barrel to pressure Moscow - Reuters",
@@ -264,39 +176,6 @@
     "summary": "USDAがトウモロコシと大豆の品質格付けシステムを開始した。この定期的な品質評価は市場参加者にとって作柄の詳細な実態把握を可能にする。具体的な格付けデータは今後の相場判断材料となるが、本発表自体は手続き的な更新である。"
   },
   {
-    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
-    "timestamp": "2026-06-01T09:12:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの週間作物進捗レポートは、米国の主要穀物（トウモロコシ、大豆、小麦）の成長段階と天候影響を定期報告するもの。具体的な作付面積進捗率や生育ステージのデータが含まれるが、リンク先の詳細情報が確認できないため、市場予想との乖離程度は判定不能。季節的な定期統計として市場参加者には定常的に注視される。"
-  },
-  {
-    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
-    "timestamp": "2026-06-01T09:12:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの週間作物進捗レポートは、米国の主要穀物（トウモロコシ、大豆、小麦）の成長段階と天候影響を定期報告するもの。具体的な作付面積進捗率や生育ステージのデータが含まれるが、リンク先の詳細情報が確認できないため、市場予想との乖離程度は判定不能。季節的な定期統計として市場参加者には定常的に注視される。"
-  },
-  {
-    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
-    "timestamp": "2026-06-01T09:12:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの週間作物進捗レポートは、米国の主要穀物（トウモロコシ、大豆、小麦）の成長段階と天候影響を定期報告するもの。具体的な作付面積進捗率や生育ステージのデータが含まれるが、リンク先の詳細情報が確認できないため、市場予想との乖離程度は判定不能。季節的な定期統計として市場参加者には定常的に注視される。"
-  },
-  {
     "title": "Gold edges higher on easing Treasury yields amid Mideast uncertainty - Reuters",
     "timestamp": "2026-06-02T01:12:00+00:00",
     "importance": 3,
@@ -317,17 +196,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が原油の増産を検討していることを示唆するレポート。サウジアラビアを中心とした減産政策の緩和やスケジュール調整の可能性が報道されている。市場では既に議論されている内容だが、正式発表に向けた動きとして注視が必要。"
-  },
-  {
-    "title": "Russia Risks Fuel Crunch After Record Month of Ukrainian Attacks - Bloomberg.com",
-    "timestamp": "2026-06-01T11:05:11+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナによるロシアへの攻撃が過去最高水準に達し、ロシアの燃料供給に危機的な状況をもたらしている。ロシアのエネルギーインフラへの損傷は供給途絶リスクを高め、世界的な原油需給逼迫要因となる可能性がある。地政学的リスクの急激な高まりが原油相場の上昇圧力となっている。"
   },
   {
     "title": "Crude inventory falls by 4.3M barrels for week ended May 8 – EIA - MSN",
@@ -869,17 +737,6 @@
     "summary": "米国の原油在庫が800万バレル減少したとEIAが報告した。在庫の減少は需要堅調またはOPEC減産継続の兆候を示唆し、原油価格への上向きサポートとなる可能性がある。ただし、事前予想値との比較情報がないため、サプライズの大きさは判断困難。"
   },
   {
-    "title": "U.S. Independents Begin Increasing Oil Production in Response to New Market Conditions - AAPG",
-    "timestamp": "2026-06-01T11:40:05+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "米国の独立系石油企業（インディペンデンツ）が市場環境の変化に応じて原油生産を増加させている。AAPG（米国石油地質学者協会）による業界動向レポート。新しい市場条件下での生産増加は、米国シェールオイルセクターの継続的な成長を示唆している。"
-  },
-  {
     "title": "Stocks slide on flare-up in Middle East fighting; oil eases off highs - Reuters",
     "timestamp": "2026-06-04T00:43:00+00:00",
     "importance": 3,
@@ -955,5 +812,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "イラン産原油が供給逼迫にもかかわらず割引価格で推移している。中国の需要低迷が主因で、供給タイト化を相殺している。需給バランスの悪化と価格下押し圧力が共存する状況を反映。"
+  },
+  {
+    "title": "EIA Report Indicates Massive Draw - Energy News Beat",
+    "timestamp": "2026-06-04T11:39:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫レポートが「大幅な取り崩し（Massive Draw）」を示唆。供給タイト化による需給逼迫シグナルで、原油価格上昇圧力が強まる見通し。具体的な在庫数値が記事のタイトルのみで詳細不明のため、市場予想との乖離度は判断保留。"
+  },
+  {
+    "title": "EIA reports a big drop in US crude oil stocks - engine.online",
+    "timestamp": "2026-06-04T09:08:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の大幅な減少を報告した。在庫減少は原油の供給逼迫を示唆し、価格上昇圧力となる。具体的な減少量や絶対在庫水準の情報がないため、市場予想との比較による評価は限定的。"
+  },
+  {
+    "title": "OPEC Confirms Big Saudi Oil Production Hike Ahead of Iran War, Holds Forecasts Steady - EnergyNow",
+    "timestamp": "2026-06-04T09:25:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアがイラン情勢の緊張を背景に大幅な石油生産増加を確認した。OPECは需要見通しを据え置きながらもサウジの増産方針は地政学的リスク回避と市場安定化の姿勢を示唆。供給増加シグナルは原油相場の上昇圧力を緩和する可能性がある一方、イラン関連リスクプレミアムは維持される可能性が高い。"
+  },
+  {
+    "title": "Russia acknowledges for first time that oil output is down, blames 'unscheduled maintenance' - Reuters",
+    "timestamp": "2026-06-04T09:07:04+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが初めて石油生産量の減少を公式に認め、予定外のメンテナンスが原因と主張。これまで減産の影響を否定していた姿勢が転換。OPEC+の減産合意による供給制約が深刻化し、供給逼迫への懸念が高まる。地政学リスク及び実際の供給減少が重なり、原油価格上昇圧力が強まる局面。"
   }
 ]
