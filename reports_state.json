@@ -1,82 +1,5 @@
 [
   {
-    "title": "RFD NEWS Weekly Crop Progress and Livestock Production Regional Update — Monday, June 1, 2026 - RFD-TV",
-    "timestamp": "2026-06-01T14:39:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年6月1日付のRFD-TVによる週間作物進捗・畜産生産地域別レポート。具体的な数値やデータが提供されていないため、詳細な分析は不可能。定期的な作物状況モニタリング報告と思われるが、市場影響度の判定には実データの確認が必須。"
-  },
-  {
-    "title": "RFD NEWS Weekly Crop Progress and Livestock Production Regional Update — Monday, June 1, 2026 - RFD-TV",
-    "timestamp": "2026-06-01T14:39:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年6月1日付のRFD-TVによる週間作物進捗・畜産生産地域別レポート。具体的な数値やデータが提供されていないため、詳細な分析は不可能。定期的な作物状況モニタリング報告と思われるが、市場影響度の判定には実データの確認が必須。"
-  },
-  {
-    "title": "RFD NEWS Weekly Crop Progress and Livestock Production Regional Update — Monday, June 1, 2026 - RFD-TV",
-    "timestamp": "2026-06-01T14:39:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年6月1日付のRFD-TVによる週間作物進捗・畜産生産地域別レポート。具体的な数値やデータが提供されていないため、詳細な分析は不可能。定期的な作物状況モニタリング報告と思われるが、市場影響度の判定には実データの確認が必須。"
-  },
-  {
-    "title": "RFD NEWS Weekly Crop Progress and Livestock Production Regional Update — Monday, June 1, 2026 - RFD-TV",
-    "timestamp": "2026-06-01T14:39:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年6月1日付のRFD-TVによる週間作物進捗・畜産生産地域別レポート。具体的な数値やデータが提供されていないため、詳細な分析は不可能。定期的な作物状況モニタリング報告と思われるが、市場影響度の判定には実データの確認が必須。"
-  },
-  {
-    "title": "OPEC+ likely to raise July oil output target despite Hormuz disruption, sources say - Reuters",
-    "timestamp": "2026-06-01T14:55:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+はホルムズ海峡の緊張状況にもかかわらず、7月の石油生産目標を引き上げる見通し。市場では供給増加による価格抑制が懸念される一方、地政学的リスクが部分的にオフセット。マーケットコンセンサスに沿った動きで、追加的なサプライズは限定的。"
-  },
-  {
-    "title": "Russia's Volgograd oil refinery halts processing after May 29 drone attack, sources say - Reuters",
-    "timestamp": "2026-06-01T14:51:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアのボルゴグラード製油所が5月29日のドローン攻撃後に操業を停止。同製油所はロシア有数の精製能力を有する重要施設であり、停止は供給逼迫要因として作用。復旧時期が不透明であり、ウクライナ紛争による供給ショックリスクが再び浮上した。"
-  },
-  {
-    "title": "EU may keep Russian oil price cap unchanged at $44 per barrel to pressure Moscow - Reuters",
-    "timestamp": "2026-06-01T15:24:06+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "EUがロシア産原油の価格上限を現在の1バレル44ドルに据え置く方針を検討している。この措置はロシアへの経済的圧力を維持しつつ、供給混乱を回避するバランス政策。価格上限据え置きは市場予想に沿ったもので、大幅な新規政策ではない。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-06-01T22:17:21.758038+00:00",
     "importance": 3,
@@ -856,5 +779,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが初めて石油生産量の減少を公式に認め、予定外のメンテナンスが原因と主張。これまで減産の影響を否定していた姿勢が転換。OPEC+の減産合意による供給制約が深刻化し、供給逼迫への懸念が高まる。地政学リスク及び実際の供給減少が重なり、原油価格上昇圧力が強まる局面。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Drop by 8MM Barrels Week on Week - Rigzone",
+    "timestamp": "2026-06-04T14:48:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が週間で800万バレル減少した。EIAの定期発表による在庫低下は供給逼迫を示唆し、原油価格の上昇要因となる。ただし単週の変動幅として通常の範囲内と考えられる。"
+  },
+  {
+    "title": "Brazil Coffee Report: Record Crop and Exports Expected for 2026/27 - Daily Coffee News by Roast Magazine",
+    "timestamp": "2026-06-04T14:39:16+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "ブラジルが2026/27年度にコーヒーの過去最高となる記録的な収穫と輸出を見込んでいる。供給増加は市場に圧力をかけ、コーヒー価格の下落が予想される。同時にブラジル産コモディティ全体の供給増加期待も材料となる。"
+  },
+  {
+    "title": "The Real Politics Behind UAE’s OPEC Exit - RealClearWorld",
+    "timestamp": "2026-06-04T13:43:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECを離脱する意向を表明。同国は世界有数の石油生産国であり、OPECの減産合意体制に亀裂が入った。今後の原油供給戦略の不透明性が高まり、市場では供給リスクプレミアムが意識される可能性がある。OPEC結束力の弱体化は地政学的リスク要因。"
+  },
+  {
+    "title": "The Real Politics Behind UAE’s OPEC Exit - RealClearWorld",
+    "timestamp": "2026-06-04T13:43:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECを離脱する意向を表明。同国は世界有数の石油生産国であり、OPECの減産合意体制に亀裂が入った。今後の原油供給戦略の不透明性が高まり、市場では供給リスクプレミアムが意識される可能性がある。OPEC結束力の弱体化は地政学的リスク要因。"
+  },
+  {
+    "title": "Russia Spring Wheat Planting Continues to Lag on Poor Weather - Bloomberg.com",
+    "timestamp": "2026-06-04T06:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシアの春小麦播種が悪天候により遅延している。ロシアは世界最大級の小麦生産・輸出国であり、播種の遅れは作付面積縮小や収量低下につながる可能性がある。供給懸念が小麦価格上昇圧力となる見通し。"
   }
 ]
