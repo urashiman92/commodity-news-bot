@@ -1,49 +1,5 @@
 [
   {
-    "title": "Powell, Acceptance Remarks",
-    "timestamp": "2026-06-01T00:30:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "FRB Powell議長発言",
-    "commodity": "コモディティ全般",
-    "summary": "FRB Powell議長がJFKプロファイル・イン・カレッジ・アワード受賞時のスピーチ。金融政策や経済見通しについての具体的言及がない限り、コモディティ市場への直接的な影響は限定的。儀式的な受賞演説として位置付けられる。"
-  },
-  {
-    "title": "Powell, Acceptance Remarks",
-    "timestamp": "2026-06-01T00:30:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "FRB Powell議長発言",
-    "commodity": "金",
-    "summary": "FRB Powell議長がJFKプロファイル・イン・カレッジ・アワード受賞時のスピーチ。金融政策や経済見通しについての具体的言及がない限り、コモディティ市場への直接的な影響は限定的。儀式的な受賞演説として位置付けられる。"
-  },
-  {
-    "title": "Asia stocks extend AI boom, oil up on Gulf risk - Reuters",
-    "timestamp": "2026-06-01T03:15:32+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株がAIブームの追い風を受けて上昇する中、湾岸地域のリスク要因が原油価格を押し上げている。リスク資産とコモディティの複合的な動きが観察されており、地政学的緊張が原油相場の上値支持要因として機能している。"
-  },
-  {
-    "title": "Asia stocks extend AI boom, oil up on Gulf risk - Reuters",
-    "timestamp": "2026-06-01T03:15:32+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株がAIブームの追い風を受けて上昇する中、湾岸地域のリスク要因が原油価格を押し上げている。リスク資産とコモディティの複合的な動きが観察されており、地政学的緊張が原油相場の上値支持要因として機能している。"
-  },
-  {
     "title": "Rally in grain markets after forecast fall in wheat production - South West Farmer",
     "timestamp": "2026-06-01T11:04:08+00:00",
     "importance": 3,
@@ -64,17 +20,6 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "WASDE関連レポートで米国小麦生産量の減少予報が発表され、穀物市場全体が反発上昇した。小麦の供給減少見通しはスポット価格の上昇圧力となり、連動するトウモロコシにも影響が波及。穀物の需給逼迫懸念から買い戻しが入った可能性が高い。"
-  },
-  {
-    "title": "US May Finalize 15% Refined Copper Tariff by End-Jun; G Sachs Lifts End-Yr LME Copper Price Forecast by 10%+ - AASTOCKS.com",
-    "timestamp": "2026-06-01T03:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "米国が6月末までに精製銅に15%の関税を最終化する可能性が報じられた。これを受けゴールドマン・サックスは年末のLME銅価格見通しを10%以上引き上げた。関税導入は銅の輸入コスト上昇をもたらし、供給逼迫と価格上昇圧力が高まる。"
   },
   {
     "title": "France intercepts another 'shadow fleet' tanker linked to Russian oil - Reuters",
@@ -988,5 +933,60 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間レポートによると、米国の原油在庫と石油製品在庫が先週低下したと予想されている。在庫減少は原油需給のタイト化を示唆し、価格には上昇圧力となる。ただし具体的な数値が明記されていないため、市場予想との比較評価は困難。"
+  },
+  {
+    "title": "US crude oil inventories fall by 8M barrels, EIA reports - Crypto Briefing",
+    "timestamp": "2026-06-03T16:54:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が800万バレル減少したとEIAが報告した。在庫の減少は需要堅調またはOPEC減産継続の兆候を示唆し、原油価格への上向きサポートとなる可能性がある。ただし、事前予想値との比較情報がないため、サプライズの大きさは判断困難。"
+  },
+  {
+    "title": "U.S. Independents Begin Increasing Oil Production in Response to New Market Conditions - AAPG",
+    "timestamp": "2026-06-01T11:40:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国の独立系石油企業（インディペンデンツ）が市場環境の変化に応じて原油生産を増加させている。AAPG（米国石油地質学者協会）による業界動向レポート。新しい市場条件下での生産増加は、米国シェールオイルセクターの継続的な成長を示唆している。"
+  },
+  {
+    "title": "Stocks slide on flare-up in Middle East fighting; oil eases off highs - Reuters",
+    "timestamp": "2026-06-04T00:43:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東での戦闘激化により株式市場が下落し、リスク回避的な相場環境となった。原油価格は一時的に上昇したものの、その後高値から調整局面に入った。地政学的リスクプレミアムの織り込みと同時に、需要懸念から徐々に値を下げている。"
+  },
+  {
+    "title": "Stocks slide on flare-up in Middle East fighting; oil eases off highs - Reuters",
+    "timestamp": "2026-06-04T00:43:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中東での戦闘激化により株式市場が下落し、リスク回避的な相場環境となった。原油価格は一時的に上昇したものの、その後高値から調整局面に入った。地政学的リスクプレミアムの織り込みと同時に、需要懸念から徐々に値を下げている。"
+  },
+  {
+    "title": "Russia’s First Gold-Mining Estimate in Years Is Surprisingly Big - Bloomberg.com",
+    "timestamp": "2026-06-03T10:35:07+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "ロシアが数年ぶりに金採掘量の推定値を発表し、その規模が予想を大きく上回った。ロシアは世界有数の金生産国であり、制裁下でも堅調な採掘活動が継続していることが示唆された。地政学的緊張の中での供給安定性が市場で再評価される可能性がある。"
   }
 ]
