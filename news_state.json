@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格が急落。 - Vietnam.vn",
-    "timestamp": "2026-06-01T14:46:25+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落したことを報じるニュース。具体的な下落率や原因については記事概要では不明。単なる価格動向の報道と推定される。"
-  },
-  {
-    "title": "原油相場が急騰、イランが米国との対話停止するとの報道 - Bloomberg.com",
-    "timestamp": "2026-06-01T14:35:04+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが米国との対話停止を表明し、地政学的リスクが急速に高まった。中東の政治的緊張が原油供給リスクを増加させ、相場が急騰。イランとの緊張は核合意交渉やホルムズ海峡経由の供給途絶懸念につながる可能性がある。"
-  },
-  {
-    "title": "イランが米国協議離脱、原油価格100ドル目前 - BeInCrypto",
-    "timestamp": "2026-06-01T16:10:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが米国との協議から離脱。地政学的リスク上昇により供給途絶懸念が強まる。原油価格は100ドルの大台目前まで上昇圧力が高まっている。"
-  },
-  {
-    "title": "イラン、対米協議停止とホルムズ海峡封鎖計画を発表、国際原油価格が一時5%超急騰 - finance.biggo.jp",
-    "timestamp": "2026-06-01T14:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが対米協議停止とホルムズ海峡封鎖計画を発表。中東の地政学リスク急増により国際原油価格が一時5%超急騰。供給途絶の懸念が市場を刺激。"
-  },
-  {
     "title": "CBOT小麦先物、供給過剰と米国需要低迷で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-06-01T19:27:00+00:00",
     "importance": 3,
@@ -53,28 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "CBOT小麦先物が供給過剰と米国需要低迷を背景に下落している。グローバルな穀物供給環境の緩和とドメスティック需要の弱さが価格押し下げ要因となっている。"
-  },
-  {
-    "title": "原油相場が急騰、イランが米国との対話停止するとの報道 - Bloomberg.com",
-    "timestamp": "2026-06-01T14:30:18+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが米国との対話停止を発表し、地政学的リスクが急増。中東情勢の緊張化により供給途絶懸念が浮上し、原油相場が急騰。核協議の進展停止は地域紛争の可能性を高める。"
-  },
-  {
-    "title": "NY市場動向（午後0時台）：ダウ113ドル安、原油先物6.39ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-06-01T16:21:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後0時台の相場動向を伝えるニュース。ダウ平均は113ドル安となる一方、WTI原油先物は6.39ドル上昇。株債相場と原油の非連動的な値動きを示唆。"
   },
   {
     "title": "本日（6月2日）の金価格：急落し、1オンスあたり4,500ドルを下回った。 - Vietnam.vn",
@@ -2022,5 +1956,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅の在庫が4月新低まで減少し、供給逼迫シグナルを示している。関税と地政学的リスクの中で、需給ファンダメンタルは価格を下支えしている。市場参加者の強気・弱気見解が対立している状況。"
+  },
+  {
+    "title": "2026年6月5日、金価格は国内価格と国際価格の乖離により引き続き下落した。ポーランドと中国の中央銀行が純買い越しグループを主導した。 - Vietnam.vn",
+    "timestamp": "2026-06-04T14:43:55+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年6月5日時点で金価格は国内価格と国際価格の乖離により下落。一方、ポーランドと中国の中央銀行が金の純買い越しを継続している。価格下落と中銀買いの二面性が見られる状況。"
+  },
+  {
+    "title": "米ドルと原油価格の下落に伴い、金価格が上昇した。 - Vietnam.vn",
+    "timestamp": "2026-06-04T06:59:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米ドル下落と原油価格低下を受けて金価格が上昇した。ドル安は金の相対的価値を高め、原油下落は金の代替資産としての需要を増加させた。古典的なマクロ相関が機能した形。"
+  },
+  {
+    "title": "原油相場は反落、イスラエルとレバノン条件付き停戦合意を受け - Bloomberg.com",
+    "timestamp": "2026-06-04T14:56:26+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イスラエルとレバノンが条件付き停戦に合意し、中東地政学リスクが軽減。地域紛争の緩和は地政学プレミアムの縮小につながり、原油相場は反落した。"
+  },
+  {
+    "title": "ドル円、小安い 原油価格の下落や米金利低下でドル売りに(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-06-04T11:27:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落と米金利低下がドル売り圧力となり、ドル円が小幅安となった。複数要因が同時作用した相場解説。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ763ドル高、原油先物3.87ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-06-04T14:41:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場でダウ平均は763ドル上昇したが、原油先物は3.87ドル（約4%）下落。株式市場の上昇にもかかわらず原油が売られている状況を示す市場動向の午前レポート。"
+  },
+  {
+    "title": "$マイクロWTI原油先物2607 (MCL2607.US)$ - Moomoo",
+    "timestamp": "2026-06-04T11:59:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "マイクロWTI原油先物2607月限の取引情報。具体的なニュース内容や価格変動、市場材料の記載がない。"
+  },
+  {
+    "title": "スペイン人がとにかく適当すぎる話他【字幕付き切り抜き】 Copper Price (EjqzV4uSTa) - Mshale",
+    "timestamp": "2026-06-04T13:08:55+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "タイトルは「スペイン人の適当さ」という一般的な雑談で、銅価格との直接的な関連が不明。YouTubeの切り抜き動画であり、具体的な市場情報を含まない。"
   }
 ]
