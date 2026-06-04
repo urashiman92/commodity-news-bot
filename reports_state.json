@@ -44,61 +44,6 @@
     "summary": "USDA NASSが定期的な作物進捗・状況推定レポート（Crop Progress）を発表。米国主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況評価が市場の供給見通しを更新する。具体的な数値がないため詳細評価は困難だが、成長期の進捗状況は収穫見通しと価格に直結。"
   },
   {
-    "title": "USDA Crop Progress Report June 1 2026: Corn Soybean Wheat Planting and Condition Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-06-01T20:20:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress Reportは毎週発表される定期統計で、トウモロコシ・大豆・小麦の播種進捗状況と生育条件を報告する。2026年6月1日の報告は作物の初期成長段階の評価となるが、具体的な数値データが記事から確認できない。米国穀物相場に対しては市場の織り込み度合いに左右される。"
-  },
-  {
-    "title": "USDA Crop Progress Report June 1 2026: Corn Soybean Wheat Planting and Condition Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-06-01T20:20:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress Reportは毎週発表される定期統計で、トウモロコシ・大豆・小麦の播種進捗状況と生育条件を報告する。2026年6月1日の報告は作物の初期成長段階の評価となるが、具体的な数値データが記事から確認できない。米国穀物相場に対しては市場の織り込み度合いに左右される。"
-  },
-  {
-    "title": "USDA Crop Progress Report June 1 2026: Corn Soybean Wheat Planting and Condition Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-06-01T20:20:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA Crop Progress Reportは毎週発表される定期統計で、トウモロコシ・大豆・小麦の播種進捗状況と生育条件を報告する。2026年6月1日の報告は作物の初期成長段階の評価となるが、具体的な数値データが記事から確認できない。米国穀物相場に対しては市場の織り込み度合いに左右される。"
-  },
-  {
-    "title": "USDA crop progress: Corn, soybean quality ratings go live - Farm Progress",
-    "timestamp": "2026-06-01T19:35:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAがトウモロコシと大豆の品質格付けシステムを開始した。この定期的な品質評価は市場参加者にとって作柄の詳細な実態把握を可能にする。具体的な格付けデータは今後の相場判断材料となるが、本発表自体は手続き的な更新である。"
-  },
-  {
-    "title": "USDA crop progress: Corn, soybean quality ratings go live - Farm Progress",
-    "timestamp": "2026-06-01T19:35:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAがトウモロコシと大豆の品質格付けシステムを開始した。この定期的な品質評価は市場参加者にとって作柄の詳細な実態把握を可能にする。具体的な格付けデータは今後の相場判断材料となるが、本発表自体は手続き的な更新である。"
-  },
-  {
     "title": "Gold edges higher on easing Treasury yields amid Mideast uncertainty - Reuters",
     "timestamp": "2026-06-02T01:12:00+00:00",
     "importance": 3,
@@ -878,5 +823,82 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "サウジアラビアとロシアのエネルギー相が会談し、エネルギー部門の安定化について協議した。OPECの主導国である両国の定期的な協調関係を示す会談であり、市場安定継続への確認である。"
+  },
+  {
+    "title": "U.S. Wheat Crops Show Mixed Conditions as Weather Shapes Harvest, Yield Outlook - Grain Journal",
+    "timestamp": "2026-06-03T16:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国小麦の作況が天候要因により地域別にばらつきを見せている。収穫期における気象パターンが最終利回り見通しを左右する重要局面にある。USDA公式レポート（Crop Progress）に基づく定期更新で、市場はサプライズ度を含む詳細数値注視中。"
+  },
+  {
+    "title": "Russia and Saudi Arabia draw closer amid OPEC upheaval - DW.com",
+    "timestamp": "2026-06-04T07:56:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ロシアとサウジアラビアがOPEC内の対立の中で接近を深めている。両国の協調姿勢の強化は、OPEC減産合意の安定性向上と原油相場の下支え要因となる可能性がある一方、OPEC内の亀裂拡大リスクも残存する。具体的な政策変更については不明。"
+  },
+  {
+    "title": "ZAWYA: Iraq may demand higher OPEC quota, but unlikely to quit - TradingView",
+    "timestamp": "2026-06-02T09:11:25+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC内での生産枠（クォータ）の引き上げを要求する可能性があるが、組織から脱退する可能性は低いとの見方。イラクは増産志向が強いが、OPECの枠組み内での交渉に留まる見通し。"
+  },
+  {
+    "title": "OPEC secretary general says oil demand to remain robust, no change to estimates - Reuters",
+    "timestamp": "2026-06-04T13:32:12+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC事務局長が石油需要は堅調に推移すると発言し、需要見通しの据え置きを表明した。需要の強さを確認する発言であり、OPECの減産政策継続の正当性を補強する内容。供給制限政策が持続される見込みを示唆しており、原油価格の下支え要因となる。"
+  },
+  {
+    "title": "Saudi energy minister visits Russia, calls for stable energy sector - Reuters",
+    "timestamp": "2026-06-04T16:24:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのエネルギー相がロシアを訪問し、エネルギー市場の安定を呼びかけた。OPECとロシアの協調姿勢を示唆するもので、減産政策の継続・強化の可能性を暗示している。両国の政治的連携を確認する定例的な外交活動と判断される。"
+  },
+  {
+    "title": "Saudi energy minister visits Russia, calls for stable energy sector - Reuters",
+    "timestamp": "2026-06-04T16:24:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアのエネルギー相がロシアを訪問し、エネルギー市場の安定を呼びかけた。OPECとロシアの協調姿勢を示唆するもので、減産政策の継続・強化の可能性を暗示している。両国の政治的連携を確認する定例的な外交活動と判断される。"
+  },
+  {
+    "title": "Bessent Says US Could Do Country-Specific Waiver for Russian Oil - Bloomberg.com",
+    "timestamp": "2026-06-04T17:55:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国財務長官Bessent氏が、ロシア産石油に対する国別ウェーバー（免除）を米国が実施できる可能性を示唆。これはイラン制裁と同様のアプローチで、特定国による限定的なロシア原油輸入を認める可能性を示唆。制裁緩和観測は原油価格下落圧力だが、実施タイミングや規模は不確定。"
   }
 ]
