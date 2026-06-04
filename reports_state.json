@@ -22,28 +22,6 @@
     "summary": "WASDE関連レポートで米国小麦生産量の減少予報が発表され、穀物市場全体が反発上昇した。小麦の供給減少見通しはスポット価格の上昇圧力となり、連動するトウモロコシにも影響が波及。穀物の需給逼迫懸念から買い戻しが入った可能性が高い。"
   },
   {
-    "title": "France intercepts another 'shadow fleet' tanker linked to Russian oil - Reuters",
-    "timestamp": "2026-06-01T05:41:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フランスがロシア産原油に関連するシャドウフリート（制裁回避船舶）の拿捕を実施。西側によるロシア石油供給監視強化の継続を示唆。制裁実行の厳格化は供給逼迫リスク要因として機能し、原油価格の上値を支える材料となる。"
-  },
-  {
-    "title": "Russia Risks Fuel Crunch After Record Month of Ukrainian Attacks - Bloomberg.com",
-    "timestamp": "2026-06-01T07:22:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナによるロシアへの攻撃が記録的な月間規模に達し、ロシアの燃料供給に深刻なリスクが生じている。供給途絶の可能性が高まれば、世界的な原油逼迫懸念から価格上昇圧力が強まる。地政学的リスク要因として原油市場に急速に織り込まれている。"
-  },
-  {
     "title": "EM Stocks Hit Record High on AI, Currencies Lower as Oil Climbs - Bloomberg.com",
     "timestamp": "2026-06-01T11:12:42+00:00",
     "importance": 3,
@@ -143,28 +121,6 @@
     "summary": "OPEC+はホルムズ海峡の緊張状況にもかかわらず、7月の石油生産目標を引き上げる見通し。市場では供給増加による価格抑制が懸念される一方、地政学的リスクが部分的にオフセット。マーケットコンセンサスに沿った動きで、追加的なサプライズは限定的。"
   },
   {
-    "title": "The UAE’s departure from OPEC: Africa’s opportunity - African Business",
-    "timestamp": "2026-06-01T07:02:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECを離脱したことで、アフリカ諸国に原油市場での機会が生まれる可能性を指摘。OPEC内での権力構図に変化が生じ、特にアフリカの産油国にとって交渉力や市場シェア獲得のチャンスが増加。OPECの減産政策の有効性にも影響を与える可能性がある。"
-  },
-  {
-    "title": "The UAE’s departure from OPEC: Africa’s opportunity - African Business",
-    "timestamp": "2026-06-01T07:02:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECを離脱したことで、アフリカ諸国に原油市場での機会が生まれる可能性を指摘。OPEC内での権力構図に変化が生じ、特にアフリカの産油国にとって交渉力や市場シェア獲得のチャンスが増加。OPECの減産政策の有効性にも影響を与える可能性がある。"
-  },
-  {
     "title": "Russia's Volgograd oil refinery halts processing after May 29 drone attack, sources say - Reuters",
     "timestamp": "2026-06-01T14:51:43+00:00",
     "importance": 4,
@@ -251,39 +207,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSが定期的な作物進捗・状況推定レポート（Crop Progress）を発表。米国主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況評価が市場の供給見通しを更新する。具体的な数値がないため詳細評価は困難だが、成長期の進捗状況は収穫見通しと価格に直結。"
-  },
-  {
-    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
-    "timestamp": "2026-06-01T08:14:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA週間作物進捗レポートは毎週定期発表される米国主要穀物の生育状況調査です。トウモロコシ、大豆、小麦の播種進捗率・生育ステージ・作柄評価などが報告されます。現在の具体的な進捗数値がリンク先で開示されていますが、レポート内容の詳細確認が必要です。"
-  },
-  {
-    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
-    "timestamp": "2026-06-01T08:14:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA週間作物進捗レポートは毎週定期発表される米国主要穀物の生育状況調査です。トウモロコシ、大豆、小麦の播種進捗率・生育ステージ・作柄評価などが報告されます。現在の具体的な進捗数値がリンク先で開示されていますが、レポート内容の詳細確認が必要です。"
-  },
-  {
-    "title": "USDA Weekly Crop Progress Report - DTN Progressive Farmer",
-    "timestamp": "2026-06-01T08:14:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA週間作物進捗レポートは毎週定期発表される米国主要穀物の生育状況調査です。トウモロコシ、大豆、小麦の播種進捗率・生育ステージ・作柄評価などが報告されます。現在の具体的な進捗数値がリンク先で開示されていますが、レポート内容の詳細確認が必要です。"
   },
   {
     "title": "USDA Crop Progress Report June 1 2026: Corn Soybean Wheat Planting and Condition Updates - News and Statistics - IndexBox",
@@ -988,5 +911,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "ロシアが数年ぶりに金採掘量の推定値を発表し、その規模が予想を大きく上回った。ロシアは世界有数の金生産国であり、制裁下でも堅調な採掘活動が継続していることが示唆された。地政学的緊張の中での供給安定性が市場で再評価される可能性がある。"
+  },
+  {
+    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
+    "timestamp": "2026-06-03T00:44:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDE報告書の発表が市場で大きな価格変動をもたらす可能性がある。穀物市場（小麦、トウモロコシ、大豆）が緊張状態にあり、作付面積や生産量予想の修正が値動きを左右する。市場参加者は作付面積・収量・期末在庫の修正幅に注視している。"
+  },
+  {
+    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
+    "timestamp": "2026-06-03T00:44:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDE報告書の発表が市場で大きな価格変動をもたらす可能性がある。穀物市場（小麦、トウモロコシ、大豆）が緊張状態にあり、作付面積や生産量予想の修正が値動きを左右する。市場参加者は作付面積・収量・期末在庫の修正幅に注視している。"
+  },
+  {
+    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
+    "timestamp": "2026-06-03T00:44:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDE報告書の発表が市場で大きな価格変動をもたらす可能性がある。穀物市場（小麦、トウモロコシ、大豆）が緊張状態にあり、作付面積や生産量予想の修正が値動きを左右する。市場参加者は作付面積・収量・期末在庫の修正幅に注視している。"
+  },
+  {
+    "title": "Iranian oil slips to discount on poor Chinese demand despite tighter supply - Reuters",
+    "timestamp": "2026-06-04T07:41:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン産原油が供給逼迫にもかかわらず割引価格で推移している。中国の需要低迷が主因で、供給タイト化を相殺している。需給バランスの悪化と価格下押し圧力が共存する状況を反映。"
   }
 ]
