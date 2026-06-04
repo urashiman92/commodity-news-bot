@@ -1,49 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-06-01T22:17:21.758038+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが定期的な作物進捗・状況推定レポート（Crop Progress）を発表。米国主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況評価が市場の供給見通しを更新する。具体的な数値がないため詳細評価は困難だが、成長期の進捗状況は収穫見通しと価格に直結。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-06-01T22:17:21.758038+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSが定期的な作物進捗・状況推定レポート（Crop Progress）を発表。米国主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況評価が市場の供給見通しを更新する。具体的な数値がないため詳細評価は困難だが、成長期の進捗状況は収穫見通しと価格に直結。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-06-01T22:17:21.758038+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが定期的な作物進捗・状況推定レポート（Crop Progress）を発表。米国主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況評価が市場の供給見通しを更新する。具体的な数値がないため詳細評価は困難だが、成長期の進捗状況は収穫見通しと価格に直結。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-06-01T22:17:21.758038+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが定期的な作物進捗・状況推定レポート（Crop Progress）を発表。米国主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況評価が市場の供給見通しを更新する。具体的な数値がないため詳細評価は困難だが、成長期の進捗状況は収穫見通しと価格に直結。"
-  },
-  {
     "title": "Gold edges higher on easing Treasury yields amid Mideast uncertainty - Reuters",
     "timestamp": "2026-06-02T01:12:00+00:00",
     "importance": 3,
@@ -900,5 +856,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "米国財務長官Bessent氏が、ロシア産石油に対する国別ウェーバー（免除）を米国が実施できる可能性を示唆。これはイラン制裁と同様のアプローチで、特定国による限定的なロシア原油輸入を認める可能性を示唆。制裁緩和観測は原油価格下落圧力だが、実施タイミングや規模は不確定。"
+  },
+  {
+    "title": "Saudi Arabia and Russia energy ministers meet to discuss sector stabilisation - Baird Maritime",
+    "timestamp": "2026-06-04T17:20:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアとロシアのエネルギー相が会談し、セクター安定化について協議した。OPECの主要産油国による定期的な政策対話であり、減産維持またはバランス政策の継続を示唆する可能性がある。具体的な新政策発表は報道から確認できない。"
+  },
+  {
+    "title": "Saudi Arabia and Russia energy ministers meet to discuss sector stabilisation - Baird Maritime",
+    "timestamp": "2026-06-04T17:20:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアとロシアのエネルギー相が会談し、セクター安定化について協議した。OPECの主要産油国による定期的な政策対話であり、減産維持またはバランス政策の継続を示唆する可能性がある。具体的な新政策発表は報道から確認できない。"
   }
 ]
