@@ -1,60 +1,5 @@
 [
   {
-    "title": "本日（6月2日）の金価格：引き続き下落 - Vietnam.vn",
-    "timestamp": "2026-06-01T22:53:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "6月2日の金価格が引き続き下落している。既存のトレンド継続を報じるニュースで、相場動向の振り返り解説。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4484ドル｜ドルインデックスの上昇が影響した模様(2026年6月2日) - OANDA証券",
-    "timestamp": "2026-06-01T23:09:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4484ドルまで下落。ドルインデックスの上昇が主な下落要因。既に織り込まれた相場動向の解説記事。"
-  },
-  {
-    "title": "本日（6月2日）の金価格：全般的に大幅下落。 - Vietnam.vn",
-    "timestamp": "2026-06-01T23:47:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "6月2日の金価格が全般的に大幅下落した。既に市場で方向性が織り込まれた相場の振り返り記事。定量的な下落幅や要因の詳細は不明。"
-  },
-  {
-    "title": "6月2日朝の金価格更新:急落 - Laodong.vn",
-    "timestamp": "2026-06-01T23:26:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "6月2日朝時点の金価格が急落したことを報じるニュース。ベトナムのメディアによる相場速報。具体的な下落要因や数値は記事概要から判定不能。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの協議停止による先行き不透明感が影響し、原油価格は反発（2026年6月2日） - OANDA証券",
-    "timestamp": "2026-06-01T23:15:05+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの協議停止により地政学的リスクが高まり、原油価格が反発。先行き不透明感が相場を支援。既知の情報に基づく市場反応と考えられる。"
-  },
-  {
     "title": "金価格見通し：FRB利上げ観測で下落拡大も、米雇用統計を警戒 - ig.com",
     "timestamp": "2026-06-02T02:11:41+00:00",
     "importance": 4,
@@ -2088,5 +2033,115 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "シカゴ穀物市場で大豆とトウモロコシが下落。原油先物の値下がりに連動した売り圧力が穀物市場に波及。エネルギー価格と農産物の連動性が確認される動き。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は反発し4475ドル｜米長期金利の低下が影響した模様(2026年6月5日) - OANDA",
+    "timestamp": "2026-06-04T23:07:33+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4475ドルまで反発した。米長期金利の低下が主要な上昇要因。マクロ環境の変化を反映した相場修正局面。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況・4日 反発 - Moomoo",
+    "timestamp": "2026-06-04T20:27:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物市場が反発した。具体的な反発の理由や背景となるファンダメンタルズ要因が記事概要には記載されていない。市場の日々の値動きを振り返るコメンタリーと判断される。"
+  },
+  {
+    "title": "本日（6月5日）の金価格：反転して回復基調。 - Vietnam.vn",
+    "timestamp": "2026-06-04T23:29:32+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "6月5日の金価格が反転して回復基調となったとの報道。前日の下落から持ち直す通常のボラティリティ範囲内の動き。"
+  },
+  {
+    "title": "6月5日朝の金価格更新:国内金価格は再び上昇する可能性 - Laodong.vn",
+    "timestamp": "2026-06-04T23:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格に関する朝方の相場解説記事。国内金価格が上昇する可能性について言及しているが、具体的な新規材料や根拠は不明。技術的な相場観測と見られる。"
+  },
+  {
+    "title": "2026年6月5日の金価格：世界的な価格高騰、SJCは稀に見る安値から回復。 - Vietnam.vn",
+    "timestamp": "2026-06-04T23:07:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC）が世界的な金価格高騰に伴い、稀に見る安値から回復した。世界的な金相場の上昇トレンドが続いている状況を反映している。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：イスラエルとレバノンの停戦合意が影響し、原油価格は4営業日ぶりに下落（2026年6月5日） - OANDA",
+    "timestamp": "2026-06-04T23:20:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イスラエルとレバノン間の停戦合意が成立し、中東地政学リスクの緩和が進んだ。原油価格は4営業日ぶりに下落し、地域紛争リスク低下による需給緩和を反映。"
+  },
+  {
+    "title": "日本株は反発へ、原油価格の下落を好感－景気敏感や銀行に買い - Bloomberg.com",
+    "timestamp": "2026-06-04T22:54:37+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落を受けて日本株が反発する見通し。景気敏感株や銀行株に買い圧力。エネルギー価格低下は製造業のコスト減につながる。"
+  },
+  {
+    "title": "NYダウ800ドル超高 最高値更新 レバノン・イスラエル停戦で原油価格下落受け - テレ朝NEWS",
+    "timestamp": "2026-06-04T23:41:13+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノン・イスラエル間の停戦合意により地政学的リスク低下が織り込まれた。原油価格は供給途絶懸念の後退で下落。株式市場はリスク選好で上昇。"
+  },
+  {
+    "title": "原油先物約3％安、米イラン和平合意に期待　レバノンでの停戦合意受け - ｄメニューニュース",
+    "timestamp": "2026-06-04T20:33:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レバノン停戦合意とそれに伴う米イラン和平合意への期待から、原油先物が約3％下落。地政学的リスクの軽減が価格に織り込まれた。"
+  },
+  {
+    "title": "原油価格下落 米大統領 イラン再攻撃に慎重か - テレ東BIZ",
+    "timestamp": "2026-06-04T20:45:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米大統領がイラン再攻撃に慎重な姿勢を示唆したことで、中東地政学リスクが後退。原油価格は下落している。既報の地政学緊張緩和の継続報道。"
   }
 ]
