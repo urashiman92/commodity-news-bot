@@ -1,71 +1,5 @@
 [
   {
-    "title": "What Farmers Need to Know Before the June WASDE Report - Successful Farming",
-    "timestamp": "2026-06-02T15:23:23+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "6月のWASDE報告書に向けて農家が事前準備すべき事項に関する解説記事。米国農業省の定期需給報告書を控え、トウモロコシ・大豆・小麦の生産見通しや作付面積データが重要な判断材料となる。Crop Progressデータとの整合性が価格変動の鍵となる。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the June WASDE Report - Successful Farming",
-    "timestamp": "2026-06-02T15:23:23+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "6月のWASDE報告書に向けて農家が事前準備すべき事項に関する解説記事。米国農業省の定期需給報告書を控え、トウモロコシ・大豆・小麦の生産見通しや作付面積データが重要な判断材料となる。Crop Progressデータとの整合性が価格変動の鍵となる。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the June WASDE Report - Successful Farming",
-    "timestamp": "2026-06-02T15:23:23+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "6月のWASDE報告書に向けて農家が事前準備すべき事項に関する解説記事。米国農業省の定期需給報告書を控え、トウモロコシ・大豆・小麦の生産見通しや作付面積データが重要な判断材料となる。Crop Progressデータとの整合性が価格変動の鍵となる。"
-  },
-  {
-    "title": "Iraq, UAE, Saudi Arabia All Set for Major Oil Output Surge in 2027 - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-06-02T15:30:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラク、UAE、サウジアラビアが2027年に大幅な石油増産を計画していることが報じられた。同年の供給増加が市場で懸念される可能性があり、供給過剰シナリオが現実化すれば先物価格に下押し圧力がかかる見通し。ただし実現時期が2年以上先のため織り込み段階にある。"
-  },
-  {
-    "title": "Exclusive: Russia's western oil exports hit 8-month high as drone strikes curb refining - Reuters",
-    "timestamp": "2026-06-02T13:38:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの西部向け原油輸出が8ヶ月ぶりの高水準に達した。ウクライナによるドローン攻撃がロシアの製油能力を低下させているため、精製油製品の不足を補うため粗油輸出を増加させている。供給側の変動により原油価格下支え要因となる可能性がある。"
-  },
-  {
-    "title": "Vitol Says Europe and US Aren’t Facing Up to Oil Supply Crunch - Bloomberg.com",
-    "timestamp": "2026-06-02T14:48:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "大手石油商社Vitolが、欧米がリアルで直面している石油供給不足に対応できていないと警告。市場関係者の楽観的な見方に対し、サプライチェーン逼迫とエネルギー移行による供給力低下が同時に進行していることを指摘。インフレ圧力と需給ひっ迫が継続する見通し。"
-  },
-  {
     "title": "Oklahoma Wheat Harvest Reaches 35 Percent Amid Drastic Yield Swings and Persistent Drought - Oklahoma Farm Report",
     "timestamp": "2026-06-02T17:23:25+00:00",
     "importance": 3,
@@ -119,28 +53,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
-  },
-  {
-    "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects - Bloomberg.com",
-    "timestamp": "2026-06-02T16:06:18+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ベネズエラがエネルギー危機を理由に、石油企業に自社プロジェクト用の電力供給を強制する新規制を発表。同国の電力インフラ劣化とクーデター緊張が重なり、石油生産能力の低下リスクが高まる。供給不安定化要因だが、既に低迷する同国生産への上乗せ効果は限定的と見られる。"
-  },
-  {
-    "title": "Russia Ships Most Oil Since 2022 as Drones Strike Refineries - Bloomberg.com",
-    "timestamp": "2026-06-02T13:13:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアが2022年以来最大の石油出荷量を記録する一方で、ドローン攻撃により製油所が被害を受けている。供給増加は価格下押し圧力となるが、一方で精製能力の低下がリスク要因となり、市場には矛盾した信号が混在している。"
   },
   {
     "title": "IEA forecasts chance of critically low stockpiles before peak summer demand - Reuters",
@@ -438,17 +350,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間石油在庫レポートで原油在庫が800万バレル減少した。同時に精製所稼働率が低下しており、需要面の弱さを示唆している。在庫減少は供給引き締めを示唆するが、精製所稼働率の低迷が相殺要因となっており、市場への影響は限定的。"
-  },
-  {
-    "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects - Bloomberg",
-    "timestamp": "2026-06-02T16:06:18+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ベネズエラがプロジェクト実施時に石油企業に独自の電力供給を要求。電力インフラの脆弱化が続く同国の原油生産低下を招く可能性があり、既に制裁で困窮する同国の石油産業にさらなる打撃となる。OPEC供給減少の継続を示唆。"
   },
   {
     "title": "US crude stocks, product inventories likely fell last week - Reuters",
