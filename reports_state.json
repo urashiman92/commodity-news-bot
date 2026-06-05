@@ -1,82 +1,5 @@
 [
   {
-    "title": "Oklahoma Wheat Harvest Reaches 35 Percent Amid Drastic Yield Swings and Persistent Drought - Oklahoma Farm Report",
-    "timestamp": "2026-06-02T17:23:25+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "オクラホマ州の小麦収穫が35%進捗した。干ばつの継続と地域による歩留まりの大きな変動が報告されている。収量変動が著しく、最終的な作付け結果の不確実性が高まっている。"
-  },
-  {
-    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
-    "timestamp": "2026-06-02T17:33:25+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
-  },
-  {
-    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
-    "timestamp": "2026-06-02T17:33:25+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
-  },
-  {
-    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
-    "timestamp": "2026-06-02T17:33:25+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
-  },
-  {
-    "title": "Grain Markets Under Pressure: Ample Global Stocks and Favorable Weather Outweigh Strong Demand Signals - Oklahoma Farm Report",
-    "timestamp": "2026-06-02T17:33:25+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "世界的な穀物在庫の充実と好天候がグローバル穀物市場に下押し圧力をもたらしている。需要が堅調であるにもかかわらず、供給サイドの豊富さと気象条件の改善が価格上昇を相殺している。小麦・トウモロコシ・大豆など主要穀物全般が軟調な展開が継続する見通し。"
-  },
-  {
-    "title": "IEA forecasts chance of critically low stockpiles before peak summer demand - Reuters",
-    "timestamp": "2026-06-02T18:12:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEA（国際エネルギー機関）が、夏場ピークシーズン前に石油在庫が極めて低水準に低下する可能性を警告。供給不足リスクと価格上昇圧力が高まる見通し。地政学的緊張やOPEC減産の継続が背景にあり、エネルギーセキュリティへの懸念が深刻化している。"
-  },
-  {
-    "title": "IEA forecasts chance of critically low stockpiles before peak summer demand - Reuters",
-    "timestamp": "2026-06-02T18:12:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "IEA（国際エネルギー機関）が、夏場ピークシーズン前に石油在庫が極めて低水準に低下する可能性を警告。供給不足リスクと価格上昇圧力が高まる見通し。地政学的緊張やOPEC減産の継続が背景にあり、エネルギーセキュリティへの懸念が深刻化している。"
-  },
-  {
     "title": "Oil Holds Two-Day Gain on Discordant US-Iran Peace Talk Reports - Bloomberg.com",
     "timestamp": "2026-06-02T22:01:46+00:00",
     "importance": 3,
@@ -350,17 +273,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間石油在庫レポートで原油在庫が800万バレル減少した。同時に精製所稼働率が低下しており、需要面の弱さを示唆している。在庫減少は供給引き締めを示唆するが、精製所稼働率の低迷が相殺要因となっており、市場への影響は限定的。"
-  },
-  {
-    "title": "US crude stocks, product inventories likely fell last week - Reuters",
-    "timestamp": "2026-06-02T17:34:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間レポートによると、米国の原油在庫と石油製品在庫が先週低下したと予想されている。在庫減少は原油需給のタイト化を示唆し、価格には上昇圧力となる。ただし具体的な数値が明記されていないため、市場予想との比較評価は困難。"
   },
   {
     "title": "US crude oil inventories fall by 8M barrels, EIA reports - Crypto Briefing",
