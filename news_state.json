@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（6月4日）の金価格：急落。 - Vietnam.vn",
-    "timestamp": "2026-06-03T22:58:33+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "6月4日の金価格が急落した。ベトナムのニュースメディアによる相場の振り返り報道。具体的な下落要因や価格水準の詳細は記事概要からは不明。"
-  },
-  {
-    "title": "本日（2026年6月4日）の金価格：SJC金価格、9999金リング価格、および本日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-06-03T22:37:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトによる本日の金価格情報提供記事。SJC金価格とベトナム国内の9999金リング価格、世界金価格を掲載。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4434ドル｜米国が金利を据え置く可能性が影響した模様(2026年6月4日) - OANDA",
-    "timestamp": "2026-06-03T23:04:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4434ドルまで下落。米国の金利据え置き見通しが報道され、ドル強化・実質金利上昇が金の魅力を低下させた。市場が事前の政策シナリオに沿った反応を示したもの。"
-  },
-  {
     "title": "本日（6月4日）の金価格：下落が続いている。 - Vietnam.vn",
     "timestamp": "2026-06-04T00:03:42+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "6月4日時点で金価格が下落傾向にあることを報じたニュース。具体的な下落要因や価格水準の記載がなく、相場の振り返りコメンタリー的な性質。"
-  },
-  {
-    "title": "本日（6月4日）の金価格：インフレと高金利に対する市場の懸念が続く中、下落。 - Vietnam.vn",
-    "timestamp": "2026-06-03T23:06:46+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が下落。インフレと高金利に対する市場懸念が継続している。既知の要因による既定路線の値動き。"
   },
   {
     "title": "本日（6月4日）の金価格：引き続き急落。 - Vietnam.vn",
@@ -130,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東・ウクライナ情勢と原油高による中小企業への影響と政府支援策をまとめた解説記事。既に織り込まれている状況への対策情報であり、新たな市場材料ではない。"
-  },
-  {
-    "title": "在庫急減に戦況の膠着が重なり、原油価格は100ドルを視野に入れる。 - Moomoo",
-    "timestamp": "2026-06-03T22:19:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国原油在庫の急速な減少と中東紛争の膠着状態が重なり、原油相場が100ドル/バレル付近を目指す可能性が指摘されている。供給懸念と在庫低下の組み合わせが価格を支える構図。"
   },
   {
     "title": "イスラエル・レバノン停戦合意後に金価格が上昇、米雇用統計を待つ - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -394,17 +339,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "東京為替市場でドル円相場が底堅く推移している。米金利と原油相場の動向が市場参加者の注視点となっている。本ニュースは為替相場の解説であり、具体的な供給ショックや需給材料を含まない。"
-  },
-  {
-    "title": "米コモディティー市場－原油、天然ガスが上昇 ガソリン、金、銀、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-06-03T22:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティー市場で原油・天然ガスが上昇する一方、貴金属・農産物・銅が下落。市場内での選別売買が進行中。"
   },
   {
     "title": "金価格は本日6月4日、依然として大幅に下落した状態で取引を終えた。 - Vietnam.vn",
