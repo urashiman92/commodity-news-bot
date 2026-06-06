@@ -33,17 +33,6 @@
     "summary": "USDA NASS「Crop Progress」は米国の作物進捗状況を定期報告する公式統計。現在の具体的データがないため詳細評価は困難だが、播種進捗率・生育段階・気象影響などが記載されており、穀物市場の短期的な供給見通しに影響する可能性がある。"
   },
   {
-    "title": "OPEC+ Set to Approve Further Output Hike for July Despite Ongoing Supply Disruptions - Egypt Oil & Gas",
-    "timestamp": "2026-06-03T09:48:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は7月の追加増産を承認する見通し。ただし進行中の供給途絶が存在する状況での決定となる。増産決定は市場供給懸念を緩和する要因だが、同時に実現性への不確実性も残る。"
-  },
-  {
     "title": "US crude stocks fall on strong export, refining demand, EIA says, as Iran war continues - Reuters",
     "timestamp": "2026-06-03T15:48:58+00:00",
     "importance": 3,
@@ -86,17 +75,6 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "UAEがOPECから離脱する動きを示唆した重大なニュース。OPECの減産合意の実行性が低下し、原油市場の供給政策が大きく変わる可能性が高い。OPEC+の求心力が弱まり、今後の価格形成メカニズムに不確実性が生じる。"
-  },
-  {
-    "title": "Russia's oil and gas revenue rises 32% y/y to $9.26 billion in May, data shows - Reuters",
-    "timestamp": "2026-06-03T10:25:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油・ガス収入が前年同月比32%増の92.6億ドルに達した（5月）。エネルギー価格の上昇とロシアの輸出維持により、制裁下でも収入を確保している。この数字は原油価格の堅調さを反映している。"
   },
   {
     "title": "Russia’s Multi-Billion Payouts to Refiners Dent State Revenues - Bloomberg.com",
@@ -163,17 +141,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中東での戦闘激化により株式市場が下落し、リスク回避的な相場環境となった。原油価格は一時的に上昇したものの、その後高値から調整局面に入った。地政学的リスクプレミアムの織り込みと同時に、需要懸念から徐々に値を下げている。"
-  },
-  {
-    "title": "Russia’s First Gold-Mining Estimate in Years Is Surprisingly Big - Bloomberg.com",
-    "timestamp": "2026-06-03T10:35:07+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "ロシアが数年ぶりに金採掘量の推定値を発表し、その規模が予想を大きく上回った。ロシアは世界有数の金生産国であり、制裁下でも堅調な採掘活動が継続していることが示唆された。地政学的緊張の中での供給安定性が市場で再評価される可能性がある。"
   },
   {
     "title": "Iranian oil slips to discount on poor Chinese demand despite tighter supply - Reuters",
