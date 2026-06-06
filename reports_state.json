@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil up on Middle East fighting while AI bulls carry stocks higher - Reuters",
-    "timestamp": "2026-06-03T02:14:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東での地政学的緊張激化により原油価格が上昇。同時にAI関連銘柄の買い圧力が株式市場全体を押し上げている。中東紛争はサプライチェーン途絶リスクをもたらし、原油供給への不安が価格を押し上げる主因。地政学リスク顕在化とリスク資産買いの相反する動きが市場を分断している。"
-  },
-  {
-    "title": "India’s Oil Demand Growth Set for Pandemic Low on War Crunch - Bloomberg.com",
-    "timestamp": "2026-06-03T03:15:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "インド石油需要の成長率がパンデミック時以来の低水準に落ち込む見通し。ウクライナ戦争による地政学的リスクと経済的圧力が需要抑制要因となっている。インド経済の成長鈍化と燃料価格上昇が需要抑制に働く。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-06-03T12:14:41.661268+00:00",
     "importance": 3,
@@ -141,28 +119,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの石油・ガス収入が前年同月比32%増の92.6億ドルに達した（5月）。エネルギー価格の上昇とロシアの輸出維持により、制裁下でも収入を確保している。この数字は原油価格の堅調さを反映している。"
-  },
-  {
-    "title": "AI may not be the demand booster copper bulls expect - Reuters",
-    "timestamp": "2026-06-03T05:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "銅",
-    "summary": "AIブームが銅需要の強気材料として過度に評価されている可能性を指摘するロイター解説。AI関連の電力需要増加やインフラ投資は確かに銅需要を支えるが、その需要増幅効果は市場が期待するほど大きくない可能性があり、銅相場の上値抵抗となる懸念が提示された。既存の供給増加や需要サイクルとのバランスが重要。"
-  },
-  {
-    "title": "AI may not be the demand booster copper bulls expect - Reuters",
-    "timestamp": "2026-06-03T05:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "AIブームが銅需要の強気材料として過度に評価されている可能性を指摘するロイター解説。AI関連の電力需要増加やインフラ投資は確かに銅需要を支えるが、その需要増幅効果は市場が期待するほど大きくない可能性があり、銅相場の上値抵抗となる懸念が提示された。既存の供給増加や需要サイクルとのバランスが重要。"
   },
   {
     "title": "Ukraine hits Russia's St. Petersburg Oil Terminal, Zelenskiy says - Reuters",
