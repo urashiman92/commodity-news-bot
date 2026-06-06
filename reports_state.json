@@ -1,16 +1,5 @@
 [
   {
-    "title": "US crude oil inventories drop 6.75M barrels, nearly double the forecast - Crypto Briefing",
-    "timestamp": "2026-06-02T22:41:28+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が675万バレル減少し、市場予想の約2倍のペースで減速した。EIAの定期在庫統計による発表で、供給逼迫を示唆する強いシグナルとなった。在庫減速により原油の逼迫性が高まり、価格上昇圧力が生じる可能性が高い。"
-  },
-  {
     "title": "Oil up on Middle East fighting while AI bulls carry stocks higher - Reuters",
     "timestamp": "2026-06-03T02:14:00+00:00",
     "importance": 4,
@@ -130,17 +119,6 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "UAEがOPECから離脱する動きを示唆した重大なニュース。OPECの減産合意の実行性が低下し、原油市場の供給政策が大きく変わる可能性が高い。OPEC+の求心力が弱まり、今後の価格形成メカニズムに不確実性が生じる。"
-  },
-  {
-    "title": "OPEC+ Expected to Raise July Output Target by 188,000 bpd Despite Hormuz Closure - energynews.pro",
-    "timestamp": "2026-06-02T22:41:36+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が7月の原油生産目標を日量188,000バレル引き上げることを予定している。ホルムズ海峡の閉鎖リスクが存在する中での増産決定であり、市場の需要回復と供給調整の継続を反映している。この増産は事前予想の範囲内と見られる。"
   },
   {
     "title": "Indian central bank rebuts media report it sold gold reserves - Reuters",
@@ -273,39 +251,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "ロシアが数年ぶりに金採掘量の推定値を発表し、その規模が予想を大きく上回った。ロシアは世界有数の金生産国であり、制裁下でも堅調な採掘活動が継続していることが示唆された。地政学的緊張の中での供給安定性が市場で再評価される可能性がある。"
-  },
-  {
-    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
-    "timestamp": "2026-06-03T00:44:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASDE報告書の発表が市場で大きな価格変動をもたらす可能性がある。穀物市場（小麦、トウモロコシ、大豆）が緊張状態にあり、作付面積や生産量予想の修正が値動きを左右する。市場参加者は作付面積・収量・期末在庫の修正幅に注視している。"
-  },
-  {
-    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
-    "timestamp": "2026-06-03T00:44:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDE報告書の発表が市場で大きな価格変動をもたらす可能性がある。穀物市場（小麦、トウモロコシ、大豆）が緊張状態にあり、作付面積や生産量予想の修正が値動きを左右する。市場参加者は作付面積・収量・期末在庫の修正幅に注視している。"
-  },
-  {
-    "title": "Grain Markets on Edge: USDA Report Could Trigger Major Price Swings - Agrolatam",
-    "timestamp": "2026-06-03T00:44:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDE報告書の発表が市場で大きな価格変動をもたらす可能性がある。穀物市場（小麦、トウモロコシ、大豆）が緊張状態にあり、作付面積や生産量予想の修正が値動きを左右する。市場参加者は作付面積・収量・期末在庫の修正幅に注視している。"
   },
   {
     "title": "Iranian oil slips to discount on poor Chinese demand despite tighter supply - Reuters",
