@@ -1,93 +1,5 @@
 [
   {
-    "title": "本日（6月4日）の金価格：下落が続いている。 - Vietnam.vn",
-    "timestamp": "2026-06-04T00:03:42+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "6月4日時点で金価格が下落傾向にあることを報じたニュース。具体的な下落要因や価格水準の記載がなく、相場の振り返りコメンタリー的な性質。"
-  },
-  {
-    "title": "本日（6月4日）の金価格：引き続き急落。 - Vietnam.vn",
-    "timestamp": "2026-06-04T00:25:22+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が6月4日に引き続き急落している。既に下落トレンドが進行中であり、本ニュースはその継続を報じるもの。"
-  },
-  {
-    "title": "6月4日の金価格：引き続き急落。 - Vietnam.vn",
-    "timestamp": "2026-06-04T00:33:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "6月4日時点で金価格が引き続き急落している旨のレポート。具体的な下落要因や価格水準は記事概要からは不明。既に発生中の相場動向の報告に過ぎない。"
-  },
-  {
-    "title": "原油先物は反落、イスラエルとレバノンが停戦合意 - Reuters",
-    "timestamp": "2026-06-04T01:16:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イスラエルとレバノンが停戦合意に達し、中東地政学リスクが一部緩和された。同地域での紛争激化に伴う供給途絶懸念が後退し、原油先物が反落した。停戦の安定性確認には時間が必要。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：イランによるミサイル攻撃報道が影響し、原油価格は3営業日続伸（2026年6月4日） - OANDA",
-    "timestamp": "2026-06-03T23:15:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランによるミサイル攻撃報道を受けて原油価格が3営業日連続で上昇。中東地政学リスクが需給に影響。市場は地域紛争による供給懸念を織り込み中。"
-  },
-  {
-    "title": "中東情勢の緊迫化から原油先物価格が上昇し株売りに - 海外マーケット解説＆米国株ピックアップ - 日経CNBC online",
-    "timestamp": "2026-06-03T23:19:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫化により原油先物価格が上昇した。地政学的リスク要因が市場の回避行動を促している。原油高が株式市場の売圧につながっている。"
-  },
-  {
-    "title": "原油先物は反落、イスラエルとレバノンが停戦合意 - ニューズウィーク日本版",
-    "timestamp": "2026-06-04T01:16:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イスラエルとレバノンが停戦合意に達した。中東地政学リスクの軽減が確認された。地域紛争激化による供給懸念が後退し、原油先物は反落。"
-  },
-  {
-    "title": "中東・ウクライナ情勢・原油価格上昇の影響による資金繰りやコスト上昇への対策は？ 中小企業・小規模事業者向け政府の支援策まとめ - ｄメニューニュース",
-    "timestamp": "2026-06-04T00:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東・ウクライナ情勢と原油高による中小企業への影響と政府支援策をまとめた解説記事。既に織り込まれている状況への対策情報であり、新たな市場材料ではない。"
-  },
-  {
     "title": "イスラエル・レバノン停戦合意後に金価格が上昇、米雇用統計を待つ - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-06-04T02:34:00+00:00",
     "importance": 3,
@@ -207,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ大統領がイスラエル首相に不満を表明。ホルムズ海峡の封鎖リスクが継続的な懸念として存在。地政学的緊張が原油相場の上方リスク要因として機能している。"
-  },
-  {
-    "title": "原油先物は反落、イスラエルとレバノンが停戦合意 - ｄメニューニュース",
-    "timestamp": "2026-06-04T01:16:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イスラエルとレバノンが停戦合意に達した。中東地政学リスクの軽減が原油需給見通しのリスク要因を減少させた。これにより原油先物は反落。"
   },
   {
     "title": "銅建値233万円に改定 7万円上げ最高値更新（日刊産業新聞） - Yahoo!ニュース",
@@ -418,17 +319,6 @@
     "summary": "原油価格が反転して下落する見通しが報じられた。技術的または需給見通しの悪化を背景としたアナリスト評論と推察される。具体的な新規ファンダメンタルズの情報は不明。"
   },
   {
-    "title": "在庫は4月の新低に減少し、銅価格は逆境にもかかわらず安定化しています。関税と地政学的リスクが重なる中、強気派と弱気派が対立しています。 - Bitget",
-    "timestamp": "2026-06-04T01:08:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅の在庫が4月新低まで減少し、供給逼迫シグナルを示している。関税と地政学的リスクの中で、需給ファンダメンタルは価格を下支えしている。市場参加者の強気・弱気見解が対立している状況。"
-  },
-  {
     "title": "2026年6月5日、金価格は国内価格と国際価格の乖離により引き続き下落した。ポーランドと中国の中央銀行が純買い越しグループを主導した。 - Vietnam.vn",
     "timestamp": "2026-06-04T14:43:55+00:00",
     "importance": 2,
@@ -581,17 +471,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の下落がヨーロッパに新たな懸念をもたらしている。ヨーロッパはエネルギー危機への対応が複雑化する可能性。価格低下がエネルギー政策や経済戦略に影響を及ぼす見通し。"
-  },
-  {
-    "title": "サクソバンク：銅市場はアメリカの重要な関税決定を待っている - Bitget",
-    "timestamp": "2026-06-04T01:24:02+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "サクソバンクのアナリストが、米国の関税決定が銅市場の重要な変動要因になると指摘。現在、市場がその決定を待機している状況を解説したコメンタリー。"
   },
   {
     "title": "2026年6月5日現在の金価格：SJC金地金、9999金リング、および世界の金価格。 - Vietnam.vn",
