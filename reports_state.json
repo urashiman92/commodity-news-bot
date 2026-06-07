@@ -1,27 +1,5 @@
 [
   {
-    "title": "USA Crude Oil Stocks Drop by 8MM Barrels Week on Week - Rigzone",
-    "timestamp": "2026-06-04T14:48:48+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間で800万バレル減少した。EIAの定期発表による在庫低下は供給逼迫を示唆し、原油価格の上昇要因となる。ただし単週の変動幅として通常の範囲内と考えられる。"
-  },
-  {
-    "title": "Brazil Coffee Report: Record Crop and Exports Expected for 2026/27 - Daily Coffee News by Roast Magazine",
-    "timestamp": "2026-06-04T14:39:16+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "ブラジルが2026/27年度にコーヒーの過去最高となる記録的な収穫と輸出を見込んでいる。供給増加は市場に圧力をかけ、コーヒー価格の下落が予想される。同時にブラジル産コモディティ全体の供給増加期待も材料となる。"
-  },
-  {
     "title": "Russia's Novak Flags Output Drop, Opec Cohesion Amid Energy Crisis - Energy Intelligence",
     "timestamp": "2026-06-04T19:16:33+00:00",
     "importance": 4,
@@ -64,28 +42,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "サウジアラビアとロシアのエネルギー相が会談し、エネルギー部門の安定化について協議した。OPECの主導国である両国の定期的な協調関係を示す会談であり、市場安定継続への確認である。"
-  },
-  {
-    "title": "Saudi energy minister visits Russia, calls for stable energy sector - Reuters",
-    "timestamp": "2026-06-04T16:24:35+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのエネルギー相がロシアを訪問し、エネルギー市場の安定を呼びかけた。OPECとロシアの協調姿勢を示唆するもので、減産政策の継続・強化の可能性を暗示している。両国の政治的連携を確認する定例的な外交活動と判断される。"
-  },
-  {
-    "title": "Saudi energy minister visits Russia, calls for stable energy sector - Reuters",
-    "timestamp": "2026-06-04T16:24:35+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアのエネルギー相がロシアを訪問し、エネルギー市場の安定を呼びかけた。OPECとロシアの協調姿勢を示唆するもので、減産政策の継続・強化の可能性を暗示している。両国の政治的連携を確認する定例的な外交活動と判断される。"
   },
   {
     "title": "Bessent Says US Could Do Country-Specific Waiver for Russian Oil - Bloomberg.com",
