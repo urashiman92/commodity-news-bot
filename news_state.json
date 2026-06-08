@@ -1,104 +1,5 @@
 [
   {
-    "title": "本日（2026年6月5日）の金価格：SJC金価格、9999金リング価格、および本日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-06-04T22:37:04+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトによる本日の金相場情報。SJC金価格とリング価格、世界金価格の日次更新。"
-  },
-  {
-    "title": "金価格が1テールあたり3600万ベトナムドン以上も急落し、容易に利益を得られた時代は終焉を迎えた。 - Vietnam.vn",
-    "timestamp": "2026-06-04T22:37:29+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が1テール当たり3600万ドン超の下落を記録。金投資で容易に利益を得られた時代の終焉を指摘するコメンタリー。既に価格低下は市場に織り込まれている。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は反発し4475ドル｜米長期金利の低下が影響した模様(2026年6月5日) - OANDA",
-    "timestamp": "2026-06-04T23:07:33+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4475ドルまで反発した。米長期金利の低下が主要な上昇要因。マクロ環境の変化を反映した相場修正局面。"
-  },
-  {
-    "title": "本日（6月5日）の金価格：反転して回復基調。 - Vietnam.vn",
-    "timestamp": "2026-06-04T23:29:32+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "6月5日の金価格が反転して回復基調となったとの報道。前日の下落から持ち直す通常のボラティリティ範囲内の動き。"
-  },
-  {
-    "title": "6月5日朝の金価格更新:国内金価格は再び上昇する可能性 - Laodong.vn",
-    "timestamp": "2026-06-04T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格に関する朝方の相場解説記事。国内金価格が上昇する可能性について言及しているが、具体的な新規材料や根拠は不明。技術的な相場観測と見られる。"
-  },
-  {
-    "title": "2026年6月5日の金価格：世界的な価格高騰、SJCは稀に見る安値から回復。 - Vietnam.vn",
-    "timestamp": "2026-06-04T23:07:10+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC）が世界的な金価格高騰に伴い、稀に見る安値から回復した。世界的な金相場の上昇トレンドが続いている状況を反映している。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：イスラエルとレバノンの停戦合意が影響し、原油価格は4営業日ぶりに下落（2026年6月5日） - OANDA",
-    "timestamp": "2026-06-04T23:20:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イスラエルとレバノン間の停戦合意が成立し、中東地政学リスクの緩和が進んだ。原油価格は4営業日ぶりに下落し、地域紛争リスク低下による需給緩和を反映。"
-  },
-  {
-    "title": "日本株は反発へ、原油価格の下落を好感－景気敏感や銀行に買い - Bloomberg.com",
-    "timestamp": "2026-06-04T22:54:37+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の下落を受けて日本株が反発する見通し。景気敏感株や銀行株に買い圧力。エネルギー価格低下は製造業のコスト減につながる。"
-  },
-  {
-    "title": "NYダウ800ドル超高 最高値更新 レバノン・イスラエル停戦で原油価格下落受け - テレ朝NEWS",
-    "timestamp": "2026-06-04T23:41:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "レバノン・イスラエル間の停戦合意により地政学的リスク低下が織り込まれた。原油価格は供給途絶懸念の後退で下落。株式市場はリスク選好で上昇。"
-  },
-  {
     "title": "金価格、イラン緊張継続で下落――米雇用統計に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-06-05T04:02:00+00:00",
     "importance": 3,
@@ -209,17 +110,6 @@
     "summary": "欧米為替市場の日次見通しを扱う解説記事。ランド・円相場と原油相場が相互に関連する可能性を指摘。具体的な価格予想やイベント内容は記事本文がないため不明。"
   },
   {
-    "title": "日本市場、原油価格落ち着き株式は堅調維持へ－円は160円付近で膠着 - Bloomberg.com",
-    "timestamp": "2026-06-04T23:06:32+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本市場における原油価格の落ち着きと株式市場の堅調を報じるコモディティ市況解説。円相場は160円付近での膠着を報道。"
-  },
-  {
     "title": "原油価格「4月時点の想定に近い」、ＩＭＦ指摘 - ニューズウィーク日本版",
     "timestamp": "2026-06-05T02:27:00+00:00",
     "importance": 2,
@@ -240,17 +130,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "6月5日の原油価格が前日比で反転し下落した。具体的な下落要因や規模については記事概要から不明。世界的な原油相場の日次変動を伝えるニュース。"
-  },
-  {
-    "title": "NYダウ800ドル超高 最高値更新 レバノン・イスラエル停戦で原油価格下落受け - ABEMA",
-    "timestamp": "2026-06-04T23:04:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "レバノン・イスラエル間の停戦合意により地政学リスクが軽減され、原油価格が下落。NYダウは最高値を更新し、リスクオン環境が強まった。"
   },
   {
     "title": "原油先物小動き、中東情勢不透明　ヒズボラが停戦拒否 - ｄメニューニュース",
