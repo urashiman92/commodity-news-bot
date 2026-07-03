@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "title": "ＪＰモルガン、26年末の金価格予想を4500ドルに下方修正 - ｄメニューニュース",
+    "timestamp": "2026-07-03T21:09:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "JPモルガンが2026年末の金価格予想を4500ドルに下方修正した。先行きの金価格上昇期待が調整された見通しであり、市場では既に議論されている内容の反映と考えられる。"
+  },
+  {
+    "title": "JPモルガン、金価格が3,600ドルまで下落の可能性を警告 FRB利上げ観測で価格形成ロジックが変容 - BigGo ファイナンス",
+    "timestamp": "2026-07-03T16:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "JPモルガンが金価格の3,600ドルまでの下落可能性を警告。FRB利上げ観測により、金の価格形成ロジック（インフレヘッジ価値）が変容する見通し。名目金利上昇は金の実質利回りを低下させ、投資需要を減退させる懸念。"
+  },
+  {
+    "title": "【原油ウォッチ】高まる供給過剰懸念、勢いづく米国産に中東勢は増産・在庫放出で対抗…日本は6月、米国産が4割に(1/3) - JBpress",
+    "timestamp": "2026-07-03T21:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国シェールオイルの増産により供給過剰懸念が高まっている。中東OPEC勢は増産・在庫放出で対抗。日本向け米国産シェアが6月に4割まで上昇し、市場シェア競争が激化。"
+  },
+  {
+    "title": "花旗、年末の原油価格60ドル台を予測 ウォール街で弱気見通し広がる - BigGo ファイナンス",
+    "timestamp": "2026-07-03T13:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "シティグループが年末の原油価格を60ドル台と予測し、ウォール街で弱気見通しが広がっている。需給バランスの悪化や経済成長への懸念が背景。市場では既に軟調な地合いが続いている。"
+  },
+  {
+    "title": "本日の燃料価格（7月4日）：世界の原油価格は小幅上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-03T22:51:28+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月4日時点の原油価格が小幅上昇したとの報道。具体的な価格水準や上昇率の記載がなく、市場動向の日次振り返り。既に織り込まれた通常の値動き範囲。"
+  },
+  {
+    "title": "Crude Oil Perpetual Futures ニュース - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-03T07:19:42+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Investing.comによる原油先物永久契約の定期ニュースページ。具体的なニュース内容が不明のため、市場動向解説やポジション情報の更新と推定される。"
+  },
+  {
+    "title": "原油先物価格が下落したからといって「ホルムズ危機は終わり」とは言えないこれだけの理由(マネー現代) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-03T21:09:09+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の地政学的リスクは依然として存在しており、原油価格の下落だけではリスクが解消されたと判断できないとの指摘。価格低下は市場心理の変化を反映しているに過ぎず、潜在的な供給途絶リスクは残存している。"
+  },
+  {
+    "title": "米連邦準備制度理事会（FRB）からの好材料を受け、アルミニウム価格が回復、銅価格も上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-03T23:18:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "FRBからのポジティブなシグナルを受けて、アルミニウム価格が回復し銅価格も連動して上昇。金融緩和期待が非鉄金属全般の需要見通しを改善させている。既報の金融政策方針の延長線上での市場反応。"
+  }
+]
