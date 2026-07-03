@@ -7,6 +7,7 @@
 import os
 import json
 import hashlib
+import sys
 import feedparser
 import requests
 from urllib.parse import quote
@@ -319,6 +320,7 @@ def main():
     seen = load_seen()
     news_state = []
     new_count = 0
+    analyzed_ok = 0
     skipped_old = 0
     skipped_irrelevant = 0
     notified_count = 0
@@ -353,6 +355,7 @@ def main():
 
             if analysis is None:
                 continue
+            analyzed_ok += 1
 
             # analyzer連携: 通知閾値判定の前に全分析結果を記録（追加API呼び出しなし）
             news_state.append({
@@ -383,6 +386,15 @@ def main():
     save_news_state(news_state)
     print(f"\n✅ 完了: {new_count}件チェック、{skipped_old}件スキップ（古い）、"
           f"{skipped_irrelevant}件スキップ（無関係）、{notified_count}件通知")
+
+    # fail-loud: チェック対象があるのに分析成功0件 = キー失効/クレジット枯渇などの全滅障害。
+    # exit 1 で run を赤くして気づけるようにする（部分成功では落とさない）。
+    # このとき後続の commit ステップは走らず seen も永続化されないため、
+    # 復旧後の run が同じ記事を再分析できる（障害中の記事を取りこぼさない）。
+    if new_count >= 1 and analyzed_ok == 0:
+        print(f"❌ 分析が全滅（チェック{new_count}件・成功0件）。"
+              f"ANTHROPIC_API_KEY / クレジット残高を確認してください。")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
