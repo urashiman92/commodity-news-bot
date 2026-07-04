@@ -20,5 +20,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "Brent原油の先物カーブが弱化し、直近の供給過剰が市場を圧迫している状況が報じられた。プロンプト（即時）供給のグロットが市場全体を押し下げており、カーブ全体のウィークニング傾向が継続している。スポット需給の不均衡が短期的な価格下押し圧力として機能している。"
+  },
+  {
+    "title": "June 2026 OPEC output leaped 3M+ bpd - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
+    "timestamp": "2026-07-04T11:58:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "2026年6月のOPEC石油生産量が300万バレル/日を超える大幅な増加を記録した。この増産はOPECの協調減産政策からの転換を示唆し、供給圧力の上昇を意味する。原油価格への下押し圧力が生じる可能性がある。"
   }
 ]
