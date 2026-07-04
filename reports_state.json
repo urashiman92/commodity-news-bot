@@ -53,5 +53,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシア・サンクトペテルブルグの石油ターミナルがドローン攻撃を受けた。ウクライナ関連の供給リスク再燃により、東欧経由の原油輸出が脅威にさらされている。欧州向けの重要な流通経路の被害は供給懸念を加速させ、原油価格の上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "US commercial crude oil stocks fall to lowest level since 2018 - Harici",
+    "timestamp": "2026-07-02T10:45:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の商業用原油在庫が2018年以来の最低水準まで低下した。EIAの定期在庫統計による報告で、供給逼迫の進行を示唆している。在庫減少は原油価格の上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "India refiner Nayara's gasoline sold to Russia via traders, sources say - Reuters",
+    "timestamp": "2026-07-02T14:12:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インドの精油大手ナヤラがロシア産ガソリンをトレーダー経由でロシアに売却していることが判明。西側制裁下でのロシアのエネルギー取引迂回戦略の一環と見られる。直接的な供給増減ではなく、既知の制裁回避スキームの続報に該当。"
+  },
+  {
+    "title": "Total CEO Sees Mideast Producers Desperate to Sell Oil Stocks - Bloomberg.com",
+    "timestamp": "2026-07-04T09:49:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "トタール・エネルギー会長兼CEOが、中東産油国が石油在庫を売却したいという強い動機を持っていると発言。これは地政学的緊張やサプライチェーン懸念から、主要産油国が在庫を現金化し流動性を確保しようとする動きを示唆している。供給圧力が潜在的に高まる可能性を指摘。"
   }
 ]
