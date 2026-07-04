@@ -31,5 +31,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "2026年6月のOPEC石油生産量が300万バレル/日を超える大幅な増加を記録した。この増産はOPECの協調減産政策からの転換を示唆し、供給圧力の上昇を意味する。原油価格への下押し圧力が生じる可能性がある。"
+  },
+  {
+    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow",
+    "timestamp": "2026-07-03T04:22:19+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4月の原油日量137,000バレル（bpd）の増産を検討している。これは段階的な減産調整の継続を意味し、市場では既に織り込まれつつある動き。供給増加は需要が堅調でない環境では価格下押し圧力となる可能性がある。"
+  },
+  {
+    "title": "Oil Terminal in Russia’s St. Petersburg Comes Under Drone Attack - Bloomberg.com",
+    "timestamp": "2026-07-04T09:20:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア・サンクトペテルブルグの石油ターミナルがドローン攻撃を受けた。ウクライナ関連の供給リスク再燃により、東欧経由の原油輸出が脅威にさらされている。欧州向けの重要な流通経路の被害は供給懸念を加速させ、原油価格の上昇圧力となる可能性が高い。"
   }
 ]
