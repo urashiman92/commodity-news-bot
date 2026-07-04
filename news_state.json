@@ -273,5 +273,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格高騰を背景に、電照菊畑から銅製電線の盗難被害が相次いでいる。農家は生産スケジュール混乱による間接被害も被っている。買い取り業者への規制強化で対策が検討されている。"
+  },
+  {
+    "title": "JPモルガン、金価格予想を4,300ドルへ大幅下方修正、FRBが再び主導権握ると警告 - BigGo ファイナンス",
+    "timestamp": "2026-07-04T07:55:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "JPモルガンが金価格の予想を4,300ドルへ大幅下方修正。FRBが金融政策の主導権を取り戻すと指摘し、金の上昇圧力が弱まる可能性を示唆。現在の相場水準からの下振れが視野。"
+  },
+  {
+    "title": "本日（7月4日）の最新の金価格は異例の展開を示している。店舗は閑散としているが、売上は依然として低迷している。 - Vietnam.vn",
+    "timestamp": "2026-07-04T07:11:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売市場で、7月4日時点で店舗の来客数が少ないにもかかわらず売上が低迷している異例の状況が報告されている。需要と供給のミスマッチを示唆する現地市場レポート。"
+  },
+  {
+    "title": "原油先物価格が下落したからといって「ホルムズ危機は終わり」とは言えないこれだけの理由 - ライブドアニュース",
+    "timestamp": "2026-07-03T22:00:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格は下落しているが、ホルムズ海峡周辺の地政学的リスクは依然として存在する。価格下落は既に織り込まれた動きであり、潜在的な供給途絶リスクは継続中である。"
+  },
+  {
+    "title": "原油価格が40％近く急落したことを受け、クアンガイ省の数千隻の漁船が航海を加速させている。 - Vietnam.vn",
+    "timestamp": "2026-07-04T10:38:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の40%近い下落を受け、ベトナム・クアンガイ省の漁船が航海を加速させている。燃料費低下により漁業活動が活発化している現象の報道。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況・3日 米独立記念日の振替休日で休場 - Moomoo",
+    "timestamp": "2026-07-03T20:33:39+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国独立記念日（7月4日）の振替休日によりニューヨーク原油先物市場が休場。予定された市場休場で、定期的に発生するイベント。"
   }
 ]
