@@ -9,5 +9,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "クウェートが6月に原油生産を大幅に増加させたと報道された。US-Iran協議の進展が背景にあり、地政学的な緊張緩和を反映している。供給増加は原油価格への下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "Brent oil curve weakens further as prompt supply glut swamps market - Reuters",
+    "timestamp": "2026-07-03T17:05:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "Brent原油の先物カーブが弱化し、直近の供給過剰が市場を圧迫している状況が報じられた。プロンプト（即時）供給のグロットが市場全体を押し下げており、カーブ全体のウィークニング傾向が継続している。スポット需給の不均衡が短期的な価格下押し圧力として機能している。"
   }
 ]
