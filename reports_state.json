@@ -1,16 +1,5 @@
 [
   {
-    "title": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, source says - Reuters",
-    "timestamp": "2026-07-02T16:35:16+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "クウェートが6月に原油生産を大幅に増加させたと報道された。US-Iran協議の進展が背景にあり、地政学的な緊張緩和を反映している。供給増加は原油価格への下押し圧力となる可能性が高い。"
-  },
-  {
     "title": "Brent oil curve weakens further as prompt supply glut swamps market - Reuters",
     "timestamp": "2026-07-03T17:05:43+00:00",
     "importance": 3,
@@ -196,5 +185,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が8月の原油増産を検討中。市場では原油供給過剰への懸念が高まっており、増産決定は原油価格に下押し圧力をもたらす可能性が高い。既に予想されていた動きであり、大型サプライズではない。"
+  },
+  {
+    "title": "EXCLUSIVE Russia set to import North Asian jet fuel amid fuel crisis, sources say - Reuters",
+    "timestamp": "2026-07-03T16:27:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが燃料危機に直面し、北東アジア（韓国など）からジェット燃料の輸入を開始する見通し。ウクライナ情勢に伴う西側制裁とインフラ被害により、ロシアの燃料精製能力が低下。東アジア域内のジェット燃料供給逼迫が懸念される。"
+  },
+  {
+    "title": "Cossacks guard petrol stations in Russian resort as anger grows over fuel shortages - Reuters",
+    "timestamp": "2026-07-04T09:42:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの主要リゾート地で燃料不足による市民の怒りが高まり、コサック軍団がガソリンスタンドを警備する事態に至った。ロシア国内のエネルギー供給体制の混乱が顕在化しており、国内消費減少による輸出余力増加の可能性と、インフラ問題による生産効率低下の懸念が混在している。"
   }
 ]
