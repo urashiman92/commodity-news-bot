@@ -55,17 +55,6 @@
     "summary": "ロシア・サンクトペテルブルグの石油ターミナルがドローン攻撃を受けた。ウクライナ関連の供給リスク再燃により、東欧経由の原油輸出が脅威にさらされている。欧州向けの重要な流通経路の被害は供給懸念を加速させ、原油価格の上昇圧力となる可能性が高い。"
   },
   {
-    "title": "India refiner Nayara's gasoline sold to Russia via traders, sources say - Reuters",
-    "timestamp": "2026-07-02T14:12:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インドの精油大手ナヤラがロシア産ガソリンをトレーダー経由でロシアに売却していることが判明。西側制裁下でのロシアのエネルギー取引迂回戦略の一環と見られる。直接的な供給増減ではなく、既知の制裁回避スキームの続報に該当。"
-  },
-  {
     "title": "Total CEO Sees Mideast Producers Desperate to Sell Oil Stocks - Bloomberg.com",
     "timestamp": "2026-07-04T09:49:29+00:00",
     "importance": 3,
@@ -174,5 +163,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが6月のガソリン不足に対応し、精油所への補助金を引き上げた。この措置はロシア国内の燃料供給危機に対する政府の介入を示唆しており、サンクションと戦争の影響下での供給制約が続いていることを反映している。短期的には原油価格の下振れ要因（供給維持）だが、地政学的リスクを高める可能性がある。"
+  },
+  {
+    "title": "OPEC Plus to boost oil output by 188,000 barrels daily from July 2026 - Crypto Briefing",
+    "timestamp": "2026-07-05T12:55:16+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC プラスは2026年7月から日量188,000バレルの増産を実施することを発表。これは段階的な減産調整の継続に基づくもので、市場予想の範囲内。供給増加は原油価格に下落圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "OPEC+ Agrees in Principle on 188K B/D Quota Hike, Delegates Say - Bloomberg.com",
+    "timestamp": "2026-07-05T09:17:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+が日量188,000バレルの追加減産枠の引き上げに原則合意した。これは既に協議中であった調整の一部であり、市場では予想された範囲内の決定と受け止められている。原油市場への支援要因となるが、事前にある程度織り込まれていると考えられる。"
   }
 ]
