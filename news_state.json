@@ -735,5 +735,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅が200万円を突破し、JX金属の株価上昇を牽引。記事は銅相場とJX金属株を動かす複数の要因（3重バブル）を解説している。既に進行中の相場上昇を検証する内容。"
+  },
+  {
+    "title": "ガイアの夜明け【国産小麦でチョコクロを！サンマルク農業に挑む】 - tv-tokyo.co.jp",
+    "timestamp": "2026-07-04T22:13:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "サンマルクグループが国産小麦を使用したチョコクロワッサン開発に取り組む企業ニュース。国産小麦の利用拡大の一事例であり、個別企業の農業への挑戦を紹介するテレビ番組企画。"
+  },
+  {
+    "title": "金価格が突然反転しました。 - Moomoo",
+    "timestamp": "2026-07-05T05:51:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が突然反転したことについてのMoomooからの解説記事。具体的な反転要因や価格水準が記事本文に示されていない。"
+  },
+  {
+    "title": "2026年7月5日午後の金価格：SJC金価格、9999金リング価格、および金曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-05T09:09:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報の定期報道。SJC金および世界金価格の引値情報を記載したニュース記事。"
+  },
+  {
+    "title": "本日の金価格、2026年7月5日（9999金）、7月5日午後：週末の9999金、BTMC金リング、BTMC、およびDOJI金の終値リスト。 - Vietnam.vn",
+    "timestamp": "2026-07-05T07:10:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格終値リストの報告。週末時点での9999金およびBTMC、DOJI金の終値を掲載した定期的な相場情報。"
+  },
+  {
+    "title": "石油市場は、供給不足から供給過剰へと急激に転換した。 - Vietnam.vn",
+    "timestamp": "2026-07-05T08:44:46+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "石油市場が供給不足から供給過剰へと急激に転換したことが報じられた。供給バランスの構造的な変化は価格下押し圧力となる。市場心理の大きな転換点を示唆している。"
   }
 ]
