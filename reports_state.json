@@ -141,5 +141,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "OPEC+が追加的な原油増産を承認する見通し。供給増加圧力により、原油価格は下押し圧力を受ける。市場では既にこうした動きが織り込まれつつあるが、正式承認により供給過剰懸念が再燃し、需給の緩和が明確化する。"
+  },
+  {
+    "title": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
+    "timestamp": "2026-07-05T11:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国が原油生産量をさらに引き上げている。ホルムズ海峡の海上交通が回復段階にあることが背景。供給増加により原油相場には下押し圧力がかかる見通し。地政学的リスク軽減も価格を抑制。"
+  },
+  {
+    "title": "OPEC+ Ratifies Planned Oil Quota Hike as Gulf Flows Rebound - Bloomberg.com",
+    "timestamp": "2026-07-05T10:17:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+が予定通り原油生産枠の引き上げを批准した。ペルシャ湾からの原油流出が回復局面にあり、市場にはプラス材料と映るが、既に事前発表済みの計画履行であるため目新しさは限定的。"
+  },
+  {
+    "title": "Russia Hikes June Subsidies to Refiners as Fuel Shortages Bite - Bloomberg.com",
+    "timestamp": "2026-07-03T12:08:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが6月のガソリン不足に対応し、精油所への補助金を引き上げた。この措置はロシア国内の燃料供給危機に対する政府の介入を示唆しており、サンクションと戦争の影響下での供給制約が続いていることを反映している。短期的には原油価格の下振れ要因（供給維持）だが、地政学的リスクを高める可能性がある。"
   }
 ]
