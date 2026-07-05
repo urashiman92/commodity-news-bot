@@ -176,17 +176,6 @@
     "summary": "OPEC+が日量188,000バレルの追加減産枠の引き上げに原則合意した。これは既に協議中であった調整の一部であり、市場では予想された範囲内の決定と受け止められている。原油市場への支援要因となるが、事前にある程度織り込まれていると考えられる。"
   },
   {
-    "title": "OPEC+ eyes August output hike as oil glut fears grow - MSN",
-    "timestamp": "2026-07-02T18:50:55+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が8月の原油増産を検討中。市場では原油供給過剰への懸念が高まっており、増産決定は原油価格に下押し圧力をもたらす可能性が高い。既に予想されていた動きであり、大型サプライズではない。"
-  },
-  {
     "title": "EXCLUSIVE Russia set to import North Asian jet fuel amid fuel crisis, sources say - Reuters",
     "timestamp": "2026-07-03T16:27:30+00:00",
     "importance": 3,
@@ -207,5 +196,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの主要リゾート地で燃料不足による市民の怒りが高まり、コサック軍団がガソリンスタンドを警備する事態に至った。ロシア国内のエネルギー供給体制の混乱が顕在化しており、国内消費減少による輸出余力増加の可能性と、インフラ問題による生産効率低下の懸念が混在している。"
+  },
+  {
+    "title": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com",
+    "timestamp": "2026-07-03T14:36:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの6月の石油生産量が前月比で増加し、特にホルムズ海峡経由のフローが大幅に増加したことが調査で明らかになった。この増産傾向は供給圧力となり、原油価格に下押し圧力をもたらす可能性がある。市場が事前に減産継続を予想していた場合はサプライズとなる可能性。"
+  },
+  {
+    "title": "OPEC+ is raising oil output quotas for a fourth straight month — but the Strait of Hormuz is still shut - qz.com",
+    "timestamp": "2026-07-04T17:20:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4ヶ月連続で原油生産枠を引き上げている一方で、ホルムズ海峡の閉鎖により供給懸念が残存。増産シグナルと地政学的リスクの相反する要因が市場に作用。ホルムズ海峡は世界原油輸出の約21%が通過する重要インフラ。"
+  },
+  {
+    "title": "OPEC+ agrees on new oil output hike as Hormuz gradually recovers - Daily Sabah",
+    "timestamp": "2026-07-05T11:40:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が新たな原油増産を合意し、ホルムズ海峡の通航状況が段階的に回復している。供給懸念の緩和と地政学的リスク軽減により、原油価格の上値抑制要因となる見込み。既に報じられた増産計画の進展確認段階。"
   }
 ]
