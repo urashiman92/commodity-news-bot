@@ -537,5 +537,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下した。SPRは過去数年間の放出（インフレ対策やウクライナ危機対応）の累積により大幅に減少し、米国の石油供給余力が著しく制約された状況を示唆している。この低水準は原油需給逼迫の潜在的リスクを高める。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-06T21:02:12.510654+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、作付進捗状況、圃場状態評価などを報告。具体的な数値や前週比較データが明記されていないため、市場への即座の影響は限定的と判断。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-06T21:02:12.510654+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、作付進捗状況、圃場状態評価などを報告。具体的な数値や前週比較データが明記されていないため、市場への即座の影響は限定的と判断。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-06T21:02:12.510654+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、作付進捗状況、圃場状態評価などを報告。具体的な数値や前週比較データが明記されていないため、市場への即座の影響は限定的と判断。"
+  },
+  {
+    "title": "OPEC+ Output Hikes Fail to Lift Supply as US Crude Stocks Stay 7% Below Average - Crux Investor",
+    "timestamp": "2026-07-06T15:48:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表によるとOPEC+の増産決定にもかかわらず米国原油在庫は平年を7%下回る水準に留まっており、需給の引き締まりが続いている。増産効果が限定的であることが示唆され、供給面での構造的な逼迫が浮き彫りになっている。"
+  },
+  {
+    "title": "OPEC+ Output Hikes Fail to Lift Supply as US Crude Stocks Stay 7% Below Average - Crux Investor",
+    "timestamp": "2026-07-06T15:48:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA発表によるとOPEC+の増産決定にもかかわらず米国原油在庫は平年を7%下回る水準に留まっており、需給の引き締まりが続いている。増産効果が限定的であることが示唆され、供給面での構造的な逼迫が浮き彫りになっている。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 64% Good to Excellent as of July 5 - DTN Progressive Farmer",
+    "timestamp": "2026-07-06T08:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA作物進捗報告（7月5日時点）でトウモロコシが67%、大豆が64%の良好～優秀評価。これらは平年並み～やや良好な水準であり、北米の主要穀物生産見通しが堅調であることを示唆している。豊作見通しは収穫量増加予想につながり、両商品の下値圧力となる。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 64% Good to Excellent as of July 5 - DTN Progressive Farmer",
+    "timestamp": "2026-07-06T08:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA作物進捗報告（7月5日時点）でトウモロコシが67%、大豆が64%の良好～優秀評価。これらは平年並み～やや良好な水準であり、北米の主要穀物生産見通しが堅調であることを示唆している。豊作見通しは収穫量増加予想につながり、両商品の下値圧力となる。"
   }
 ]
