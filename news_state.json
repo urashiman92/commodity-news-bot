@@ -55,17 +55,6 @@
     "summary": "7月4日時点の原油価格が小幅上昇したとの報道。具体的な価格水準や上昇率の記載がなく、市場動向の日次振り返り。既に織り込まれた通常の値動き範囲。"
   },
   {
-    "title": "Crude Oil Perpetual Futures ニュース - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-03T07:19:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Investing.comによる原油先物永久契約の定期ニュースページ。具体的なニュース内容が不明のため、市場動向解説やポジション情報の更新と推定される。"
-  },
-  {
     "title": "原油先物価格が下落したからといって「ホルムズ危機は終わり」とは言えないこれだけの理由(マネー現代) - Yahoo!ファイナンス",
     "timestamp": "2026-07-03T21:09:09+00:00",
     "importance": 3,
@@ -1307,5 +1296,93 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "7月3日の米国独立記念日の振り替え休日により、主要国際商品市場が休場。取引がなく市場データなし。"
+  },
+  {
+    "title": "2026年 年央金相場見通し：戦術的要因と構造的要因の綱引き - ｄメニューニュース",
+    "timestamp": "2026-07-06T06:31:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年中盤の金相場について、戦術的要因と構造的要因が相反する展開を示唆する見通し。短期的な価格変動要因と中期的なトレンド要因の綱引き状態が予想される。"
+  },
+  {
+    "title": "JPモルガンは金価格予測を4300ドルに引き下げたが、HSBCは依然として楽観的な見方を維持している。 - Vietnam.vn",
+    "timestamp": "2026-07-06T07:45:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "JPモルガンが金価格予測を4300ドルに引き下げ、弱気見通しを示した。一方HSBCは楽観的な見方を維持し、市場内で見方が分かれている。アナリスト間の意見対立により、短期的な価格押し下げ要因となる可能性。"
+  },
+  {
+    "title": "イラン「停戦合意」後の原油相場 - TVer",
+    "timestamp": "2026-07-06T06:18:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン関連の停戦合意についての相場解説番組。既報事象に対する市場反応や相場動向の振り返りと見られる。具体的な新規情報や統計データが不明のため判断困難。"
+  },
+  {
+    "title": "国際原油価格の安定と第7次石油最高価格制の施行などの影響で、全国ガソリンスタンドのガソリン価格が下落傾向を続け、全国平均ガソリン価格が3ヵ月ぶりにリットル(ℓ)当たり1900ウォン以下に下がった。6日.. - 매일경제",
+    "timestamp": "2026-07-06T05:32:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "韓国のガソリン価格が3ヶ月ぶりにリットル当たり1900ウォン以下に下落。国際原油価格の安定と政策的な価格抑制措置が背景。需給バランスの大きな変化ではなく既定路線の価格推移。"
+  },
+  {
+    "title": "商品市場ではコーヒーが上昇を牽引し、原油価格は下落圧力にさらされている。 - Vietnam.vn",
+    "timestamp": "2026-07-06T07:19:59+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "商品市場ではコーヒーが上昇を主導する一方、原油価格は下落圧力にさらされている状況。コーヒーの上昇は農産物の天候不安など、原油とは独立した要因による。"
+  },
+  {
+    "title": "トウモロコシ先物 (CORN-F) は7月6日に上昇 2.02%：供給と需要に何が変化したのか？ - TradingKey",
+    "timestamp": "2026-07-06T04:20:22+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物が7月6日に2.02%上昇した。記事は供給・需要の変化について解説しているが、具体的な新規ニュースは含まれていない。通常のボラティリティ範囲内の値動き。"
+  },
+  {
+    "title": "大豆先物 (SOYBEAN-F) は7月6日に上昇 2.03%：需要の見通しは変化しているのか？ - TradingKey",
+    "timestamp": "2026-07-06T05:35:20+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "7月6日の大豆先物が2.03%上昇。需要見通しの変化に関する解説記事と見られる。個別銘柄の日次変動を扱うコモディティ市場情報。"
+  },
+  {
+    "title": "機関：ファンダメンタルズが堅調で、米連邦準備制度理事会（FRB）の利上げ観測が後退する中、銅価格が上昇 - Bitget",
+    "timestamp": "2026-07-05T16:37:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ファンダメンタルズの堅調さとFRBの利上げ観測後退により銅価格が上昇している。低金利環境は工業金属需要と価格を支援する要因となっている。"
   }
 ]
