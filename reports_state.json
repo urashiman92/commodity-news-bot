@@ -132,17 +132,6 @@
     "summary": "OPEC+が予定通り原油生産枠の引き上げを批准した。ペルシャ湾からの原油流出が回復局面にあり、市場にはプラス材料と映るが、既に事前発表済みの計画履行であるため目新しさは限定的。"
   },
   {
-    "title": "Russia Hikes June Subsidies to Refiners as Fuel Shortages Bite - Bloomberg.com",
-    "timestamp": "2026-07-03T12:08:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアが6月のガソリン不足に対応し、精油所への補助金を引き上げた。この措置はロシア国内の燃料供給危機に対する政府の介入を示唆しており、サンクションと戦争の影響下での供給制約が続いていることを反映している。短期的には原油価格の下振れ要因（供給維持）だが、地政学的リスクを高める可能性がある。"
-  },
-  {
     "title": "OPEC Plus to boost oil output by 188,000 barrels daily from July 2026 - Crypto Briefing",
     "timestamp": "2026-07-05T12:55:16+00:00",
     "importance": 3,
@@ -372,5 +361,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イランの戦争関連で過去最大規模の原油供給損失が発生。世界市場がこれを吸収している一方で、戦略備蓄の枯渇により価格リスクが顕在化。供給ショックが継続すれば在庫ひっ迫による急伸リスクが高まっている。"
+  },
+  {
+    "title": "ClearView's Kevin Book on whether OPEC+'s higher oil output targets will impact prices - CNBC",
+    "timestamp": "2026-07-06T11:13:07+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ClearViewのKevin Bookがアナリストとして、OPEC+の増産目標決定が実際の価格に与える影響について解説するコメンタリー。増産枠の拡大が市場に織り込まれているのか、実際の供給増加がどの程度価格を抑制するかについての見方を示唆しているが、具体的な目標数値や決定内容の詳細は記事タイトルからは不明。"
+  },
+  {
+    "title": "Oil drops more than 1% after Opec+ raises August output targets - Yahoo Finance",
+    "timestamp": "2026-07-06T11:02:45+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が8月の日量目標を引き上げたことを受け、原油価格が1%超下落した。供給増加への市場反応として価格圧力が高まった。予定された定期的な生産目標調整であり、市場の事前予想範囲内の動き。"
+  },
+  {
+    "title": "Drone debris damages Russia's Ust-Luga, Vysotsk ports, other regions report attacks - Reuters",
+    "timestamp": "2026-07-06T06:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの主要港湾Ust-LugaおよびVysotskがドローン攻撃による損害を受けた。これらの港は石油・ガスの主要輸出拠点であり、サプライチェーン寸断のリスクが高まっている。地政学的緊張の高まりが供給サイドのショックとなる可能性が強い。"
+  },
+  {
+    "title": "Drone debris damages Russia's Ust-Luga, Vysotsk ports, other regions report attacks - Reuters",
+    "timestamp": "2026-07-06T06:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの主要港湾Ust-LugaおよびVysotskがドローン攻撃による損害を受けた。これらの港は石油・ガスの主要輸出拠点であり、サプライチェーン寸断のリスクが高まっている。地政学的緊張の高まりが供給サイドのショックとなる可能性が強い。"
+  },
+  {
+    "title": "Saudis Make Biggest Oil Price Cut in Decades as Market Weakens - Bloomberg.com",
+    "timestamp": "2026-07-06T12:22:34+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが数十年ぶりの大幅な原油価格引き下げを実施。市場の弱さを受けた急進的な措置で、供給過剰懸念とOPEC+の統制力低下を示唆。原油先物は下押し圧力が強まり、他のエネルギー関連コモディティにも波及効果が予想される。"
   }
 ]
