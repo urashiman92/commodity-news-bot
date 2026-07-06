@@ -154,17 +154,6 @@
     "summary": "OPEC+が日量188,000バレルの追加減産枠の引き上げに原則合意した。これは既に協議中であった調整の一部であり、市場では予想された範囲内の決定と受け止められている。原油市場への支援要因となるが、事前にある程度織り込まれていると考えられる。"
   },
   {
-    "title": "EXCLUSIVE Russia set to import North Asian jet fuel amid fuel crisis, sources say - Reuters",
-    "timestamp": "2026-07-03T16:27:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアが燃料危機に直面し、北東アジア（韓国など）からジェット燃料の輸入を開始する見通し。ウクライナ情勢に伴う西側制裁とインフラ被害により、ロシアの燃料精製能力が低下。東アジア域内のジェット燃料供給逼迫が懸念される。"
-  },
-  {
     "title": "Cossacks guard petrol stations in Russian resort as anger grows over fuel shortages - Reuters",
     "timestamp": "2026-07-04T09:42:20+00:00",
     "importance": 3,
@@ -174,17 +163,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの主要リゾート地で燃料不足による市民の怒りが高まり、コサック軍団がガソリンスタンドを警備する事態に至った。ロシア国内のエネルギー供給体制の混乱が顕在化しており、国内消費減少による輸出余力増加の可能性と、インフラ問題による生産効率低下の懸念が混在している。"
-  },
-  {
-    "title": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com",
-    "timestamp": "2026-07-03T14:36:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの6月の石油生産量が前月比で増加し、特にホルムズ海峡経由のフローが大幅に増加したことが調査で明らかになった。この増産傾向は供給圧力となり、原油価格に下押し圧力をもたらす可能性がある。市場が事前に減産継続を予想していた場合はサプライズとなる可能性。"
   },
   {
     "title": "OPEC+ is raising oil output quotas for a fourth straight month — but the Strait of Hormuz is still shut - qz.com",
@@ -416,5 +394,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが数十年ぶりの大幅な原油価格引き下げを実施。市場の弱さを受けた急進的な措置で、供給過剰懸念とOPEC+の統制力低下を示唆。原油先物は下押し圧力が強まり、他のエネルギー関連コモディティにも波及効果が予想される。"
+  },
+  {
+    "title": "Grain report mobile app - High Plains Journal",
+    "timestamp": "2026-07-06T15:57:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "High Plains JournalがWASDE関連のモバイルアプリ「Grain report」をリリースしたことを報じるニュース。WASDE穀物レポートへのアクセス利便性向上を目的とした情報配信ツールの紹介記事。穀物市場の情報流通インフラの改善だが、価格や需給に直接的な影響はない。"
+  },
+  {
+    "title": "Grain report mobile app - High Plains Journal",
+    "timestamp": "2026-07-06T15:57:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "High Plains JournalがWASDE関連のモバイルアプリ「Grain report」をリリースしたことを報じるニュース。WASDE穀物レポートへのアクセス利便性向上を目的とした情報配信ツールの紹介記事。穀物市場の情報流通インフラの改善だが、価格や需給に直接的な影響はない。"
+  },
+  {
+    "title": "Grain report mobile app - High Plains Journal",
+    "timestamp": "2026-07-06T15:57:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "High Plains JournalがWASDE関連のモバイルアプリ「Grain report」をリリースしたことを報じるニュース。WASDE穀物レポートへのアクセス利便性向上を目的とした情報配信ツールの紹介記事。穀物市場の情報流通インフラの改善だが、価格や需給に直接的な影響はない。"
+  },
+  {
+    "title": "Arable Market Report – 6 July 2026 - AHDB",
+    "timestamp": "2026-07-06T12:55:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "AHDBが7月6日に公表した穀物市場レポート。英国および欧州の耕作可能地の作付・生育状況に関する定期更新と推定される。具体的な数値やサプライズ要因が不明なため、市場インパクトは限定的と判断。"
+  },
+  {
+    "title": "Arable Market Report – 6 July 2026 - AHDB",
+    "timestamp": "2026-07-06T12:55:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "AHDBが7月6日に公表した穀物市場レポート。英国および欧州の耕作可能地の作付・生育状況に関する定期更新と推定される。具体的な数値やサプライズ要因が不明なため、市場インパクトは限定的と判断。"
+  },
+  {
+    "title": "Arable Market Report – 6 July 2026 - AHDB",
+    "timestamp": "2026-07-06T12:55:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "AHDBが7月6日に公表した穀物市場レポート。英国および欧州の耕作可能地の作付・生育状況に関する定期更新と推定される。具体的な数値やサプライズ要因が不明なため、市場インパクトは限定的と判断。"
+  },
+  {
+    "title": "Ukraine's military strikes Russian oil refineries, oil terminal in Vysotsk - Reuters",
+    "timestamp": "2026-07-06T10:12:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナ軍がロシアの石油精製所およびVysotsk油送ターミナルを軍事攻撃。ロシアの重要なエネルギーインフラへの直接的な打撃は、欧州向け供給途絶リスクを高め、原油市場に急速な上昇圧力をもたらす。地政学的リスク再燃により市場センチメント悪化の可能性。"
+  },
+  {
+    "title": "Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet - Reuters",
+    "timestamp": "2026-07-06T15:06:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがドローン攻撃でロシア最大級の製油所を直撃。ロシアの石油精製能力が大幅に減少する見通し。同国の精製施設への深さのある攻撃としては最大級。欧州エネルギー供給への懸念と原油価格上昇圧力が高まる。"
+  },
+  {
+    "title": "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources say - Reuters",
+    "timestamp": "2026-07-06T13:42:38+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後、原油生産量が過去最高水準に接近しているとの報道。同国の増産は市場供給増加を意味し、OPECの減産合意の効果を相殺する可能性がある。供給サイドの不確実性が高まり、原油価格に下押し圧力が生じる局面。"
+  },
+  {
+    "title": "Russia Oil Price Falls to Pre-Iran War Level in Blow to Kremlin - Bloomberg.com",
+    "timestamp": "2026-07-06T12:10:10+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア産原油価格がイラン関連紛争前の水準まで下落し、クレムリンに打撃を与えている。地政学的リスク減退と需要懸念により、ロシア財政の主要収入源である原油輸出が圧迫される状況が深刻化。サンクションと需要減の二重の圧力が作用している。"
   }
 ]
