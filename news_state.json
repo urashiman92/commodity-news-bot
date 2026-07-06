@@ -1010,5 +1010,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "国際原油価格が紛争前水準まで下落。ウォール街アナリストから供給過剰の警告が相次ぐ。供給サイドの構造的な緩和を示唆。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4175ドル｜米国の利上げ観測の後退が影響し、買い優勢が続いている模様(2026年7月6日) - OANDA",
+    "timestamp": "2026-07-05T23:04:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4175ドルまで上昇。米国の利上げ観測の後退が買い材料となり、買い優勢が続いている。金利低下予想は金の利回り低下コストを減じるため買い好材料。"
+  },
+  {
+    "title": "今週の金価格に関する最新予測。 - Vietnam.vn",
+    "timestamp": "2026-07-05T23:06:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の週間予測に関する記事。アナリスト見解や相場観測の報道と考えられる。具体的な新規情報や統計データが不明。"
+  },
+  {
+    "title": "金価格は本日2026年7月6日、再び上昇し、SJC金は1オンスあたり1億5100万ベトナムドンを上回ったまま推移した。 - Vietnam.vn",
+    "timestamp": "2026-07-05T23:06:29+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金が1オンス当たり1億5100万ベトナムドンを超えて推移している。金価格の上昇を報じた市場動向の記事。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：底値を狙った買いが入った影響で、原油価格は2営業日続伸（2026年7月6日） - OANDA",
+    "timestamp": "2026-07-05T23:15:42+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "底値を狙った買いが入ることで、WTI原油は2営業日連続で上昇。テクニカルな反発買いが相場を支えている状況。"
+  },
+  {
+    "title": "新興国ｅｙｅ＞前週のロシアＲＴＳ指数、原油安や利下げ停止観測を受け３週続落＝ＢＲＩＣｓ市況 速報 - kabushiki.jp",
+    "timestamp": "2026-07-05T23:54:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ロシア株式市場（RTS指数）が3週連続で下落。原油安とロシア中央銀行の利下げ停止観測が主な要因。エマージング市場全体の弱さを反映している。"
+  },
+  {
+    "title": "日本市場、原油安支えに株式上昇へ－財政懸念で円と債券は上値重い - Bloomberg",
+    "timestamp": "2026-07-05T23:09:38+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本市場では原油安が株式相場を支える見込み。一方、財政懸念により円買いと債券売りが進む可能性がある。既知の経済トレンドの整理と市場観測。"
+  },
+  {
+    "title": "JX金属：爆発的な株価急騰を解説 Angine De Poitrine (TbseGMJguT) - Mshale",
+    "timestamp": "2026-07-05T11:19:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属の株価上昇に関する解説記事。銅市場への直接的な供給・需要インパクトは不明。企業業績や市場心理の変化を反映している可能性がある。"
+  },
+  {
+    "title": "３日の主要国際商品市況は独立記念日の振り替え休日で休場 - 株探",
+    "timestamp": "2026-07-05T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "7月3日は米国独立記念日の振り替え休日により、主要国際商品市場が休場。定期的な市場休場のためコモディティ価格への直接的な影響はない。"
   }
 ]
