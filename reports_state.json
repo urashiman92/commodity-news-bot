@@ -1,16 +1,5 @@
 [
   {
-    "title": "Brent oil curve weakens further as prompt supply glut swamps market - Reuters",
-    "timestamp": "2026-07-03T17:05:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "Brent原油の先物カーブが弱化し、直近の供給過剰が市場を圧迫している状況が報じられた。プロンプト（即時）供給のグロットが市場全体を押し下げており、カーブ全体のウィークニング傾向が継続している。スポット需給の不均衡が短期的な価格下押し圧力として機能している。"
-  },
-  {
     "title": "June 2026 OPEC output leaped 3M+ bpd - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
     "timestamp": "2026-07-04T11:58:30+00:00",
     "importance": 3,
@@ -53,17 +42,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が5度目の増産を実施し、サウジアラムコがアジア向け原油価格を引き下げた。増産決定は事前に予定されていたものであり、価格引き下げはサウジの需要刺激策と見られる。供給増加圧力が市場に作用し、原油相場には下落圧力がかかる見通し。"
-  },
-  {
-    "title": "OPEC oil output jumps in June as Gulf producers begin reviving supply, Reuters survey shows - Reuters",
-    "timestamp": "2026-07-03T17:22:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの6月の石油生産量が増加し、湾岸産油国が供給復旧を開始したことがロイター調査で示された。これはOPECの段階的な減産緩和政策の継続を反映しており、市場予想の範囲内での供給調整である。"
   },
   {
     "title": "Business as unusual for OPEC - The Economist",
@@ -504,5 +482,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシア産原油価格がイラン関連紛争前の水準まで下落し、クレムリンに打撃を与えている。地政学的リスク減退と需要懸念により、ロシア財政の主要収入源である原油輸出が圧迫される状況が深刻化。サンクションと需要減の二重の圧力が作用している。"
+  },
+  {
+    "title": "July WASDE unlikely to shake up crop outlook - Farm Progress",
+    "timestamp": "2026-07-06T17:06:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月のWASDE（米農務省作物見通し）は市場予想の範囲内に収まり、穀物相場への大きな変動要因にはならないと予想される。定期的な作付面積・生産見通し更新として通常の内容と見られ、既に織り込まれている市場シナリオからの大きな乖離はないと考えられる。"
+  },
+  {
+    "title": "July WASDE unlikely to shake up crop outlook - Farm Progress",
+    "timestamp": "2026-07-06T17:06:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "7月のWASDE（米農務省作物見通し）は市場予想の範囲内に収まり、穀物相場への大きな変動要因にはならないと予想される。定期的な作付面積・生産見通し更新として通常の内容と見られ、既に織り込まれている市場シナリオからの大きな乖離はないと考えられる。"
+  },
+  {
+    "title": "July WASDE unlikely to shake up crop outlook - Farm Progress",
+    "timestamp": "2026-07-06T17:06:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のWASDE（米農務省作物見通し）は市場予想の範囲内に収まり、穀物相場への大きな変動要因にはならないと予想される。定期的な作付面積・生産見通し更新として通常の内容と見られ、既に織り込まれている市場シナリオからの大きな乖離はないと考えられる。"
+  },
+  {
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1983 - Reuters",
+    "timestamp": "2026-07-06T16:55:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下した。SPRは過去数年間の放出（インフレ対策やウクライナ危機対応）の累積により大幅に減少し、米国の石油供給余力が著しく制約された状況を示唆している。この低水準は原油需給逼迫の潜在的リスクを高める。"
+  },
+  {
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1983 - Reuters",
+    "timestamp": "2026-07-06T16:55:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下した。SPRは過去数年間の放出（インフレ対策やウクライナ危機対応）の累積により大幅に減少し、米国の石油供給余力が著しく制約された状況を示唆している。この低水準は原油需給逼迫の潜在的リスクを高める。"
   }
 ]
