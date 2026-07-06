@@ -339,5 +339,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ホルムズ海峡の石油流通が継続していることと、OPEC+がさらなる供給増の可能性を示唆したことにより、原油価格が下落している。供給懸念の緩和と増産シグナルが市場に売り圧力をもたらしている。"
+  },
+  {
+    "title": "OPEC+ set to approve another oil output increase, sources say - Yahoo! Finance Canada",
+    "timestamp": "2026-07-05T09:29:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が追加的な原油増産を承認する見通しが報じられた。これは既に市場で織り込まれている段階的な増産路線の延長。供給増加圧力が高まる一方、需要減速懸念や金利高止まり環境で原油需要が押し下げられる可能性がある。"
+  },
+  {
+    "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
+    "timestamp": "2026-07-06T07:47:54+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イランの戦争関連で過去最大規模の原油供給損失が発生。世界市場がこれを吸収している一方で、戦略備蓄の枯渇により価格リスクが顕在化。供給ショックが継続すれば在庫ひっ迫による急伸リスクが高まっている。"
+  },
+  {
+    "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
+    "timestamp": "2026-07-06T07:47:54+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イランの戦争関連で過去最大規模の原油供給損失が発生。世界市場がこれを吸収している一方で、戦略備蓄の枯渇により価格リスクが顕在化。供給ショックが継続すれば在庫ひっ迫による急伸リスクが高まっている。"
   }
 ]
