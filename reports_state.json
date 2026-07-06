@@ -22,17 +22,6 @@
     "summary": "2026年6月のOPEC石油生産量が300万バレル/日を超える大幅な増加を記録した。この増産はOPECの協調減産政策からの転換を示唆し、供給圧力の上昇を意味する。原油価格への下押し圧力が生じる可能性がある。"
   },
   {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow",
-    "timestamp": "2026-07-03T04:22:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の原油日量137,000バレル（bpd）の増産を検討している。これは段階的な減産調整の継続を意味し、市場では既に織り込まれつつある動き。供給増加は需要が堅調でない環境では価格下押し圧力となる可能性がある。"
-  },
-  {
     "title": "Oil Terminal in Russia’s St. Petersburg Comes Under Drone Attack - Bloomberg.com",
     "timestamp": "2026-07-04T09:20:02+00:00",
     "importance": 4,
@@ -240,5 +229,115 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC加盟国の6月原油生産が平和合意により234万バレル/日（2.34M bpd）の大幅増加を記録した。この増産は地政学的緊張の緩和を反映しており、供給面での重大な変化を示唆している。OPEC減産合意の枠組みに対する実質的な供給増加であり、市場に大きなインパクトをもたらす可能性がある。"
+  },
+  {
+    "title": "OPEC+ raises output levels again despite tumbling crude prices - MarketWatch",
+    "timestamp": "2026-07-05T22:30:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が原油価格の下落に抗して増産を決定。市場予想に反する強気な姿勢を示した。原油価格が既に低迷している局面での増産発表は、供給過剰懸念を強め、さらなる価格下押し圧力となる。需給バランスの悪化が鮮明化。"
+  },
+  {
+    "title": "OPEC+ countries say they will expand monthly oil production - Al Jazeera",
+    "timestamp": "2026-07-06T03:05:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が月間の石油生産を段階的に拡大すると発表。供給増加により原油価格に下押し圧力が働く。既報の減産政策からの方針転換であり、市場はこれまでのタイト供給環境の緩和を織り込む必要がある。"
+  },
+  {
+    "title": "Oil slips after OPEC+ agrees to raise output targets - CNBC",
+    "timestamp": "2026-07-06T01:34:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が石油生産目標の引き上げに合意し、原油価格が下落した。供給増加への市場の反応であり、現在の需要見通しに対するOPEC+の姿勢変化を示唆している。この決定は既に期待されていた範囲内だが、実際の増産実行までの期間が市場の注目点となる。"
+  },
+  {
+    "title": "Dow Jones Top Energy Headlines at 12 AM ET: OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering | AI ... - Moomoo",
+    "timestamp": "2026-07-06T04:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国が再度の増産を発表し、ホルムズ海峡を通過する石油輸送量の回復が始まったとの報道。供給増加とホルムズ海峡の通航正常化は需給バランスの改善を示唆し、原油価格に下落圧力をもたらす。"
+  },
+  {
+    "title": "Oil slips after OPEC+ agrees to raise output targets - Reuters",
+    "timestamp": "2026-07-06T00:37:44+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+が産油量目標の引き上げに合意し、原油相場が下落した。供給増加への市場反応が顕在化し、需給バランスの緩和を織り込んだ価格調整が発生。地政学的リスクプレミアムの縮小も影響している可能性が高い。"
+  },
+  {
+    "title": "Asian shares slip as earnings loom, oil weighed by supply - Reuters",
+    "timestamp": "2026-07-06T03:36:24+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株が決算シーズンを控えて軟調となる中、原油は供給要因により圧力を受けている。リスク資産としてのコモディティ全般が株価下落の影響を受けやすい状況。供給面での具体的な数値が記事本文に依存するため、詳細な評価は追加情報が必要。"
+  },
+  {
+    "title": "Asian shares slip as earnings loom, oil weighed by supply - Reuters",
+    "timestamp": "2026-07-06T03:36:24+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株が決算シーズンを控えて軟調となる中、原油は供給要因により圧力を受けている。リスク資産としてのコモディティ全般が株価下落の影響を受けやすい状況。供給面での具体的な数値が記事本文に依存するため、詳細な評価は追加情報が必要。"
+  },
+  {
+    "title": "Oil Edges Lower on OPEC Increase, Dollar Steady: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-05T22:19:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "OPECの増産決定を受けて原油価格が小幅下落した。ドル相場は安定推移しており、金などドル建てコモディティへの直接的な圧力は限定的。市場は既にOPEC増産の見通しを部分的に織り込んでいる模様。"
+  },
+  {
+    "title": "Oil Edges Lower on OPEC Increase, Dollar Steady: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-05T22:19:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "OPECの増産決定を受けて原油価格が小幅下落した。ドル相場は安定推移しており、金などドル建てコモディティへの直接的な圧力は限定的。市場は既にOPEC増産の見通しを部分的に織り込んでいる模様。"
+  },
+  {
+    "title": "Oil Drops as Flows in Hormuz Persist and OPEC+ Flags More Supply - Bloomberg.com",
+    "timestamp": "2026-07-06T03:08:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の石油流通が継続していることと、OPEC+がさらなる供給増の可能性を示唆したことにより、原油価格が下落している。供給懸念の緩和と増産シグナルが市場に売り圧力をもたらしている。"
   }
 ]
