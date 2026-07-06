@@ -253,17 +253,6 @@
     "summary": "中国の石油製品価格が約6年ぶりの大幅下落を記録。需要減速やアジア過剰供給の反映。専門家は10月の変動リスクを警戒している。"
   },
   {
-    "title": "電照菊畑の電線を盗まれる被害相次ぐ 1年のスケジュールを狂わされた農家怒り「電線だけの被害じゃない」 背景に銅価格の高騰… 買い取り業者への働きかけ強化へ - TBS NEWS DIG",
-    "timestamp": "2026-07-03T12:03:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格高騰を背景に、電照菊畑から銅製電線の盗難被害が相次いでいる。農家は生産スケジュール混乱による間接被害も被っている。買い取り業者への規制強化で対策が検討されている。"
-  },
-  {
     "title": "JPモルガン、金価格予想を4,300ドルへ大幅下方修正、FRBが再び主導権握ると警告 - BigGo ファイナンス",
     "timestamp": "2026-07-04T07:55:00+00:00",
     "importance": 4,
@@ -1384,5 +1373,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "ファンダメンタルズの堅調さとFRBの利上げ観測後退により銅価格が上昇している。低金利環境は工業金属需要と価格を支援する要因となっている。"
+  },
+  {
+    "title": "金価格は一時「2万9000円」だったのに「2万3000円」に下落…損失が“60万円”出たけど「安全資産」なのに、なぜ急に下がったのですか？ まだ下がるなら、買わないほうがいいでしょうか？（ファイナンシャルフィールド） - Yahoo!ニュース",
+    "timestamp": "2026-07-06T11:20:02+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2万9000円から2万3000円に下落し、個人投資家が60万円の損失を被った。安全資産とされる金が急落した理由についての解説記事。"
+  },
+  {
+    "title": "KB証券、金先物レバレッジ・インバースETNを同時発行へ——「金価格下落でも勝負」 - BigGo ファイナンス",
+    "timestamp": "2026-07-06T02:46:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "KB証券が金先物のレバレッジ・インバースETNを同時発行する。金価格上昇・下落の双方向での投資機会を提供する商品拡充。既存の金市場構造や価格形成に直接的な影響は限定的。"
+  },
+  {
+    "title": "金価格は本日2026年7月6日午後5時に更新されました：本日の9999金、金の指輪、および月曜日の世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-06T10:04:39+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトによる本日の金相場更新ニュース。9999金や金の指輪、世界の金価格を掲載した定期的な価格情報配信。"
+  },
+  {
+    "title": "2026年7月6日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-06T08:58:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金および先物オプション市場に関する定期的な市場ウォッチ記事。技術的な取引情報の公表。"
+  },
+  {
+    "title": "原油価格に先安観 OPECプラス増産・中国需要鈍化、需給に緩和観測 - 日本経済新聞",
+    "timestamp": "2026-07-06T10:38:15+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスの増産計画と中国需要の鈍化により、原油需給が緩和方向へ向かうとの観測。市場では先安感が広がっており、供給過剰懸念が高まっている。価格下押し圧力が強まる環境と判断される。"
+  },
+  {
+    "title": "【速報】NY原油先物横ばい、68.66ドル(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-06T12:19:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が68.66ドル付近で横ばいで推移している。特段の上昇・下落材料がない状況。市場参加者の関心は限定的。"
+  },
+  {
+    "title": "OPECプラス増産で原油価格が1バレル60ドル台に急落、韓国石油精製業界に「二重苦」 - BigGo ファイナンス",
+    "timestamp": "2026-07-06T08:35:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスの増産決定により原油価格が60ドル台に急落。韓国精製業界は低油価による採算悪化と需要減弱のダブルパンチを受ける。供給増加が市場に波及した。"
+  },
+  {
+    "title": "OPECプラスが増産に合意したことを受け、原油価格は1％以上下落した。 - Vietnam.vn",
+    "timestamp": "2026-07-06T09:04:08+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスが増産に合意し、原油価格は1%以上下落した。供給増加による需給緩和が価格を圧迫。市場は増産決定をおおむね織り込んでいた模様。"
   }
 ]
