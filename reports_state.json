@@ -1,38 +1,5 @@
 [
   {
-    "title": "June 2026 OPEC output leaped 3M+ bpd - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
-    "timestamp": "2026-07-04T11:58:30+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "2026年6月のOPEC石油生産量が300万バレル/日を超える大幅な増加を記録した。この増産はOPECの協調減産政策からの転換を示唆し、供給圧力の上昇を意味する。原油価格への下押し圧力が生じる可能性がある。"
-  },
-  {
-    "title": "Oil Terminal in Russia’s St. Petersburg Comes Under Drone Attack - Bloomberg.com",
-    "timestamp": "2026-07-04T09:20:02+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア・サンクトペテルブルグの石油ターミナルがドローン攻撃を受けた。ウクライナ関連の供給リスク再燃により、東欧経由の原油輸出が脅威にさらされている。欧州向けの重要な流通経路の被害は供給懸念を加速させ、原油価格の上昇圧力となる可能性が高い。"
-  },
-  {
-    "title": "Total CEO Sees Mideast Producers Desperate to Sell Oil Stocks - Bloomberg.com",
-    "timestamp": "2026-07-04T09:49:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "トタール・エネルギー会長兼CEOが、中東産油国が石油在庫を売却したいという強い動機を持っていると発言。これは地政学的緊張やサプライチェーン懸念から、主要産油国が在庫を現金化し流動性を確保しようとする動きを示唆している。供給圧力が潜在的に高まる可能性を指摘。"
-  },
-  {
     "title": "Business as unusual for OPEC - The Economist",
     "timestamp": "2026-07-05T00:00:00+00:00",
     "importance": 3,
@@ -119,17 +86,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "OPEC+が日量188,000バレルの追加減産枠の引き上げに原則合意した。これは既に協議中であった調整の一部であり、市場では予想された範囲内の決定と受け止められている。原油市場への支援要因となるが、事前にある程度織り込まれていると考えられる。"
-  },
-  {
-    "title": "Cossacks guard petrol stations in Russian resort as anger grows over fuel shortages - Reuters",
-    "timestamp": "2026-07-04T09:42:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの主要リゾート地で燃料不足による市民の怒りが高まり、コサック軍団がガソリンスタンドを警備する事態に至った。ロシア国内のエネルギー供給体制の混乱が顕在化しており、国内消費減少による輸出余力増加の可能性と、インフラ問題による生産効率低下の懸念が混在している。"
   },
   {
     "title": "OPEC+ is raising oil output quotas for a fourth straight month — but the Strait of Hormuz is still shut - qz.com",
@@ -768,5 +724,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "Samsung の業績予想悪化を受けてアジア株が下落し、リスク資産売却の圧力が高まった。AI関連の需要減速懸念がテック企業の業績見通しを圧迫している。一方、原油は安定推移。株価下落は経済成長見通しの低下を示唆し、工業金属や原油などのコモディティ需要減速リスクが高まっている。"
+  },
+  {
+    "title": "Saudi-Flagged crude oil tanker damaged near Hormuz after LNG tanker hit, sources say - Reuters",
+    "timestamp": "2026-07-07T09:24:19+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡近くでサウジアラビア籍の原油タンカーがLNGタンカーに衝突され損傷した。ホルムズ海峡は世界の原油輸送量の約3分の1が通過する極めて重要な輸送路であり、地政学的なサプライズとして供給リスク懸念が急速に高まった。"
   }
 ]
