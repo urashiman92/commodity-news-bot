@@ -1,38 +1,5 @@
 [
   {
-    "title": "原油価格が40％近く急落したことを受け、クアンガイ省の数千隻の漁船が航海を加速させている。 - Vietnam.vn",
-    "timestamp": "2026-07-04T10:38:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の40%近い下落を受け、ベトナム・クアンガイ省の漁船が航海を加速させている。燃料費低下により漁業活動が活発化している現象の報道。"
-  },
-  {
-    "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-07-04T10:01:25+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物のダブル・ブルETN（2036）についてのYahoo!ファイナンスの情報ページ。ETN商品自体の基本情報・株価情報の掲載と見られる。"
-  },
-  {
-    "title": "JPモルガン、金価格目標を25％引き下げ - BeInCrypto",
-    "timestamp": "2026-07-04T11:08:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "JPモルガンが金価格の目標を25％引き下げた。大手投資銀行による強気な下方修正は市場心理に悪影響をもたらす可能性がある。引き下げ理由の詳細確認が必要。"
-  },
-  {
     "title": "金価格は4週連続の下落の後、反転上昇した。 - Vietnam.vn",
     "timestamp": "2026-07-04T12:44:28+00:00",
     "importance": 2,
@@ -53,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムメディアによる金価格の当日相場解説記事。7月4日時点での金価格が急騰傾向にあるかを扱っている。具体的な価格データや上昇要因の詳細は記事要約では確認できない。"
-  },
-  {
-    "title": "東証反発、終値６６０円高 原油価格への警戒感やや後退 | 全国のニュース - 福井新聞社",
-    "timestamp": "2026-07-04T12:12:24+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東証が660円高で反発した。原油価格への警戒感が後退したことが買い材料となった。株式市場の回復基調がやや強まった。"
   },
   {
     "title": "本日2026年7月5日の金価格は、抵抗線を大きく上回り、買い手が見逃す可能性の低い魅力的なエントリーポイントを作り出した。 - Vietnam.vn",
@@ -1703,5 +1659,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "湾岸諸国が市場シェア奪回競争を激化させており、原油価格への下押し圧力が懸念されている。供給競争の激化により価格低迷の可能性が高まっている。"
+  },
+  {
+    "title": "金価格高騰で資金がオンチェーン流入 PAXGに注目 - BeInCrypto",
+    "timestamp": "2026-07-07T09:56:24+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の上昇に伴い、暗号資産担保型金製品（PAXG）へのオンチェーン資金流入が増加している。既に上昇している金価格の流れの中での関連動向報道。"
+  },
+  {
+    "title": "金価格は本日2026年7月7日午後4時に更新されました。9999金、金の指輪、および火曜日の世界の金価格です。 - Vietnam.vn",
+    "timestamp": "2026-07-07T09:05:17+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトによる金価格の定期更新。2026年7月7日午後4時時点の金価格（9999金、指輪等）と世界金価格の情報提供。"
+  },
+  {
+    "title": "原油先物が急反発、中東緊張で7万円台回復 金は利益確定売りに転じる - BigGo ファイナンス",
+    "timestamp": "2026-07-07T03:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊張化により原油先物が急反発し、7万円台を回復した。同時に金は利益確定売りに転じている。地政学リスクが商品市場全体に影響を与えている。"
+  },
+  {
+    "title": "原油価格の高騰 アーカイブ - マイライフニュース",
+    "timestamp": "2026-07-07T09:29:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "提供されたのはGoogleニュースのアーカイブページへのリンクのみで、具体的なニュース内容が不明。原油価格高騰に関する過去記事の集約ページと推定される。"
+  },
+  {
+    "title": "ホルムズ海峡における緊張の再燃にもかかわらず、原油価格は上昇した。 - Vietnam.vn",
+    "timestamp": "2026-07-07T08:59:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の地政学的緊張が再び高まっているが、原油価格は上昇した。供給途絶への懸念が価格を支えている模様。ただし、緊張が既に市場織り込み済みの可能性がある。"
   }
 ]
