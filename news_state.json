@@ -1,16 +1,5 @@
 [
   {
-    "title": "JX金属はなぜ暴落したのか? 最高益でも売られた本当の理由と3401円の罠 Lamelo Ball (ZMF5B2qUUo) - Mshale",
-    "timestamp": "2026-07-04T15:41:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が最高益を記録しながら株価が暴落した事象について、記事がその背景と理由を分析している。銅市場関連の日本主要企業の株価変動に関する解説記事。"
-  },
-  {
     "title": "【2026年年央の「金相場」見通し】短期的には「原油価格」が不安要因も、中長期的には「中央銀行の買い」が後押し…戦術的要因と構造的要因の“綱引き”で1オンス「4,750〜5,500ドル」へ - ゴールドオンライン",
     "timestamp": "2026-07-04T20:00:00+00:00",
     "importance": 3,
@@ -152,17 +141,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムのニュース報道で、世界及び国内の原油価格が今週下落する見込みが示されている。既に市場で認識されている週間トレンドの解説記事と考えられる。"
-  },
-  {
-    "title": "わずか数カ月で状況一変、原油の供給過剰懸念が再燃－弱気心理広がる - Bloomberg.com",
-    "timestamp": "2026-07-04T16:55:36+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "数カ月前の供給不足懸念から一転、原油市場で供給過剰懸念が再燃している。弱気心理が広がり、価格下押し圧力が強まっている。OPEC減産やジェオポリティカルリスクの緩和が相場を転換させた。"
   },
   {
     "title": "本日（7月5日）の燃料価格：原油価格が急騰、国内のガソリンとディーゼル燃料価格は急落。 - Vietnam.vn",
@@ -1714,5 +1692,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "アナリスト企業のステファンズがSM Energyの目標株価を$52に引き下げ、原油価格見通しを改定。個別企業の株価調整に関するアナリスト意見。"
+  },
+  {
+    "title": "価格高騰の小麦粉と下落基調の米　「安い値段で…」学生への思いと経営で板挟みのパン店 - ｄメニューニュース",
+    "timestamp": "2026-07-07T10:24:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "小麦粉価格の高騰により、学生向けに安価なパンを提供するパン店が経営難に直面。米価は下落基調だが、小麦粉コストの上昇がマージン圧迫を継続。個別事業者の経営課題を描いた事例報道。"
+  },
+  {
+    "title": "2026年7月7日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-07T09:35:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。日付が2026年7月7日となっているため、公表内容の詳細が不明。金カテゴリ分類は誤りの可能性がある。"
+  },
+  {
+    "title": "JPモルガン、金価格予想を25%大幅下方修正し4,500ドルに、レバレッジ型金ETFは2%超下落 - BigGo ファイナンス",
+    "timestamp": "2026-07-07T06:36:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "JPモルガンが金の12ヶ月先物価格予想を大幅に25%下方修正し、従来予想から4,500ドルへ引き下げた。この格下げにより金関連のレバレッジ型ETFが2%超の下落を記録した。"
   }
 ]
