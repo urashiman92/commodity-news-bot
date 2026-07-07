@@ -88,17 +88,6 @@
     "summary": "OPEC+が日量188,000バレルの追加減産枠の引き上げに原則合意した。これは既に協議中であった調整の一部であり、市場では予想された範囲内の決定と受け止められている。原油市場への支援要因となるが、事前にある程度織り込まれていると考えられる。"
   },
   {
-    "title": "OPEC+ is raising oil output quotas for a fourth straight month — but the Strait of Hormuz is still shut - qz.com",
-    "timestamp": "2026-07-04T17:20:33+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4ヶ月連続で原油生産枠を引き上げている一方で、ホルムズ海峡の閉鎖により供給懸念が残存。増産シグナルと地政学的リスクの相反する要因が市場に作用。ホルムズ海峡は世界原油輸出の約21%が通過する重要インフラ。"
-  },
-  {
     "title": "OPEC+ agrees on new oil output hike as Hormuz gradually recovers - Daily Sabah",
     "timestamp": "2026-07-05T11:40:00+00:00",
     "importance": 3,
@@ -779,5 +768,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サムスンが世界的チップメーカーに打撃を与えたことで米国株が売却され、市場全体が下落。半導体産業の不振は銅などの工業用金属需要の先行指標となり、景気後退懸念が高まっている。チップメーカーの利益圧迫は今後のテック関連支出減速を示唆する。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
+    "timestamp": "2026-07-07T15:25:39+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月のWASDE報告書を控え、農家向けの準備情報記事。米国の穀物生産量・在庫見通しが更新される定期発表であり、トウモロコシ・小麦・大豆の作付面積・収量・期末在庫の最新予測が市場の価格形成に重要な影響を与える。サプライズ度は実際の発表内容によって決定される。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
+    "timestamp": "2026-07-07T15:25:39+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "7月のWASDE報告書を控え、農家向けの準備情報記事。米国の穀物生産量・在庫見通しが更新される定期発表であり、トウモロコシ・小麦・大豆の作付面積・収量・期末在庫の最新予測が市場の価格形成に重要な影響を与える。サプライズ度は実際の発表内容によって決定される。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
+    "timestamp": "2026-07-07T15:25:39+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のWASDE報告書を控え、農家向けの準備情報記事。米国の穀物生産量・在庫見通しが更新される定期発表であり、トウモロコシ・小麦・大豆の作付面積・収量・期末在庫の最新予測が市場の価格形成に重要な影響を与える。サプライズ度は実際の発表内容によって決定される。"
+  },
+  {
+    "title": "What to know about U.S. oil production and consumption in 6 charts - Pew Research Center",
+    "timestamp": "2026-07-07T18:03:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "Pew Research Centerが米国の石油生産・消費の動向を6つのチャートで解説した記事。EIA原油在庫統計に基づく定期的な市場分析で、具体的な新規数値やサプライズを含まない市場評論。米国のエネルギー需給構造に関する背景情報提供が主目的。"
+  },
+  {
+    "title": "Russia's largest oil refinery halts processing after drone attack, sources say - Reuters",
+    "timestamp": "2026-07-07T14:57:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア最大級の製油所がドローン攻撃により処理を停止した。同製油所はロシア国内石油精製能力の約10-15%を占める重要な施設。供給途絶による原油需要減少とスポット供給逼迫への懸念から原油価格は上昇圧力を受ける可能性が高い。地政学リスク再燃を示唆する重要なシグナル。"
+  },
+  {
+    "title": "OPEC is likely loser in Gulf’s post-war race for market share - Reuters",
+    "timestamp": "2026-07-07T06:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "湾岸諸国がイラク戦争後の市場シェア争いで石油生産を拡大する見通しが報道された。OPEC加盟国を含む湾岸産油国の増産圧力がOPECの減産政策の有効性を脅かし、原油価格に下押し圧力をもたらす可能性がある。市場シェア競争による供給増加懸念が価格を重くする。"
+  },
+  {
+    "title": "Russian Oil Flows Hit New High But Slumping Prices Crush Income - Bloomberg.com",
+    "timestamp": "2026-07-07T12:39:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの石油流出量が過去最高水準に達した一方で、国際原油価格の軟調により石油輸出収入が圧迫されている。供給量の増加と価格下落の相反する動きが、市場の需給バランスと価格形成メカニズムの不安定性を示唆している。制裁下でのロシア産原油の流動性向上が明らかになった。"
+  },
+  {
+    "title": "A Once-Great Copper Miner Faces a Reckoning Just as AI Power Demand Soars - Bloomberg.com",
+    "timestamp": "2026-07-07T14:08:08+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "かつての大手銅鉱山企業が経営危機に直面している。AI電力需要の急増により銅の需要は急速に伸びているが、同社は供給制約や運営上の課題に直面しており、市場の需給バランスに影響を与える可能性がある。銅価格の上昇圧力がある一方、主要生産者の不安定性がボラティリティを生む懸念。"
   }
 ]
