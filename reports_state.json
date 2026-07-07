@@ -856,5 +856,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "かつての大手銅鉱山企業が経営危機に直面している。AI電力需要の急増により銅の需要は急速に伸びているが、同社は供給制約や運営上の課題に直面しており、市場の需給バランスに影響を与える可能性がある。銅価格の上昇圧力がある一方、主要生産者の不安定性がボラティリティを生む懸念。"
+  },
+  {
+    "title": "Will the July WASDE report send soybean prices higher? - Agrolatam",
+    "timestamp": "2026-07-07T18:16:42+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のWASDE報告書が大豆相場を押し上げる可能性があるかについての分析記事。WASEDは毎月公開される米国農務省の定期供給・需要予測レポートで、大豆の作付面積、生産量、輸出予想に直接影響する。実際の報告内容なしには方向性が不確定だが、供給見通しの下方修正があれば価格上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "USDA Reports Point to Larger Soybean Crop and Stronger Demand - Grain Journal",
+    "timestamp": "2026-07-07T17:29:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA報告書が大豆の作付面積・生産量の増加と需要強化を示唆。より大きな大豆クロップ見通しと国内外の需要堅調が価格上昇圧力となる可能性が高い。穀物市場全体にポジティブシグナル。"
+  },
+  {
+    "title": "USDA Reports Point to Larger Soybean Crop and Stronger Demand - Grain Journal",
+    "timestamp": "2026-07-07T17:29:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA報告書が大豆の作付面積・生産量の増加と需要強化を示唆。より大きな大豆クロップ見通しと国内外の需要堅調が価格上昇圧力となる可能性が高い。穀物市場全体にポジティブシグナル。"
+  },
+  {
+    "title": "USDA Reports Point to Larger Soybean Crop and Stronger Demand - Grain Journal",
+    "timestamp": "2026-07-07T17:29:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA報告書が大豆の作付面積・生産量の増加と需要強化を示唆。より大きな大豆クロップ見通しと国内外の需要堅調が価格上昇圧力となる可能性が高い。穀物市場全体にポジティブシグナル。"
+  },
+  {
+    "title": "Focus on Ag: Very little change in June 30th USDA Acreage Report - farmforum.net",
+    "timestamp": "2026-07-07T20:22:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA が 6 月 30 日に発表した作付面積レポートで、前月比でほぼ変動がなかったことが報じられた。市場の事前予想の範囲内であり、大豆やトウモロコシなどの主要穀物の作付計画に大きな変更はないことを示唆している。"
+  },
+  {
+    "title": "Focus on Ag: Very little change in June 30th USDA Acreage Report - farmforum.net",
+    "timestamp": "2026-07-07T20:22:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA が 6 月 30 日に発表した作付面積レポートで、前月比でほぼ変動がなかったことが報じられた。市場の事前予想の範囲内であり、大豆やトウモロコシなどの主要穀物の作付計画に大きな変更はないことを示唆している。"
+  },
+  {
+    "title": "Focus on Ag: Very little change in June 30th USDA Acreage Report - farmforum.net",
+    "timestamp": "2026-07-07T20:22:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA が 6 月 30 日に発表した作付面積レポートで、前月比でほぼ変動がなかったことが報じられた。市場の事前予想の範囲内であり、大豆やトウモロコシなどの主要穀物の作付計画に大きな変更はないことを示唆している。"
   }
 ]
