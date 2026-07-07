@@ -1,16 +1,5 @@
 [
   {
-    "title": "米連邦準備制度理事会（FRB）からの好材料を受け、アルミニウム価格が回復、銅価格も上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-03T23:18:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "FRBからのポジティブなシグナルを受けて、アルミニウム価格が回復し銅価格も連動して上昇。金融緩和期待が非鉄金属全般の需要見通しを改善させている。既報の金融政策方針の延長線上での市場反応。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（6/29〜7/3）｜水野崇 - mbp-japan.com",
     "timestamp": "2026-07-04T02:23:33+00:00",
     "importance": 2,
@@ -75,17 +64,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報サイトによる、2026年7月4日の金相場終値リスト。9999金やBTMC金リング等の国内小売価格を列挙したもの。"
-  },
-  {
-    "title": "金価格は下半期にカギとなる節目迎える―WGC - Record China",
-    "timestamp": "2026-07-04T01:00:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "WGCが金価格の下半期における重要な節目について見解を述べたもの。具体的な価格水準や根拠が不明であり、方向性を示すシグナルとしては限定的。既存の市場認識の範囲内の評論と考えられる。"
   },
   {
     "title": "本日（7月4日正午）の金価格：依然として高水準を維持。 - Vietnam.vn",
@@ -295,17 +273,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "日本の飼料用米生産において、中山間地域での生産維持のため交付金単価の増額を求める農業団体の要望記事。政策提言・ロビー活動の類。"
-  },
-  {
-    "title": "原油価格の暴落、2030年の供給ショックを覆い隠す - Benzinga Japan",
-    "timestamp": "2026-07-04T01:09:11+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "現在の原油価格下落が2030年の供給ショック見通しを市場で過小評価させている。短期的な需給緩和が長期的な供給逼迫リスクを隠蔽している状況を指摘。"
   },
   {
     "title": "金価格の最新情報（2026年7月5日）：9999金、プレーンリング、BTMC DOJI Phu Quy 日曜日の価格。 - Vietnam.vn",
@@ -1571,5 +1538,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "LME銅先物が37ドル上昇し、1トンあたり13,404ドルで取引終了。日中の値動きを報じた相場振り返り。予想外の大きな値動きではない。"
+  },
+  {
+    "title": "金価格は2週間ぶり高値付近、 米利上げ観測後退で - MSN",
+    "timestamp": "2026-07-06T01:43:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国の利上げ観測が後退したことを受けて金価格が2週間ぶりの高値付近まで上昇。利上げ期待の低下はドル安・金買いを促進する。既報の金融政策方針の延長線上にある値動き。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：原油供給が過剰になるとの見方が影響し、原油価格は3営業日ぶりに下落（2026年7月7日） - OANDA",
+    "timestamp": "2026-07-06T23:17:24+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油供給過剰との見方から3営業日ぶりに価格が下落。市場では供給増加懸念が重石となっている。小幅な値動きであり、特段の新要素は示唆されていない。"
+  },
+  {
+    "title": "「1バレル＝60ドル」予想も出てきた原油価格…市場では供給過剰懸念まで - 中央日報",
+    "timestamp": "2026-07-06T21:50:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が60ドル/バレルまで下落する可能性が指摘されている。市場では供給過剰懸念が強まっており、需給バランスの悪化が価格下押し圧力となっている。"
+  },
+  {
+    "title": "「1バレル＝60ドル」予想も出てきた原油価格…市場では供給過剰懸念まで - ｄメニューニュース",
+    "timestamp": "2026-07-06T22:50:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アナリスト等から原油価格が1バレル=60ドルまで下落する可能性が指摘されている。市場では供給過剰懸念が広がっており、需給バランスの悪化が価格圧力となっている。"
+  },
+  {
+    "title": "銅価格は安定していた一方、アルミニウムと鉄鉱石の価格は同時に上昇した。 - Vietnam.vn",
+    "timestamp": "2026-07-06T23:52:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は安定推移する一方、アルミニウムと鉄鉱石は同時に上昇した。商品市場で異なるモメンタムが観察された相場の振り返り。"
+  },
+  {
+    "title": "LME銅先物は37ドル上昇し、1トンあたり13,404ドルで取引を終えました。 - Bitget",
+    "timestamp": "2026-07-06T08:55:35+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅先物が1トンあたり13,404ドルで取引終了し、前日比37ドル上昇。日次の価格変動を伝える相場報告で、0.28%程度の軽微な上昇。"
+  },
+  {
+    "title": "６日の主要国際商品市況 - 株探",
+    "timestamp": "2026-07-06T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "6日の主要国際商品市況の日次サマリー記事。具体的な価格変動や要因が特定できない一般的な市況報告。"
+  },
+  {
+    "title": "６日の主要国際商品市況 (2026年7月7日掲載) - ライブドアニュース",
+    "timestamp": "2026-07-06T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年7月6日の主要国際商品市況についての定期的な市場レポート。具体的な価格データや市場動向の詳細は記事本文を確認する必要がある。"
+  },
+  {
+    "title": "６日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-07-06T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "6日の主要国際商品市況に関する定期的な市況報道。具体的な価格データや市場動向の詳細が記事本文から確認できない。"
   }
 ]
