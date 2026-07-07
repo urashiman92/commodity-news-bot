@@ -735,5 +735,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ホルムズ海峡近くでサウジアラビア籍の原油タンカーがLNGタンカーに衝突され損傷した。ホルムズ海峡は世界の原油輸送量の約3分の1が通過する極めて重要な輸送路であり、地政学的なサプライズとして供給リスク懸念が急速に高まった。"
+  },
+  {
+    "title": "China gold reserves rise most since 2023 even as bullion tumbles - Reuters",
+    "timestamp": "2026-07-07T09:53:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "中国の金準備高が2023年以来最大の増加幅を記録した。金現物価格が下落している局面での準備金増加は、中央銀行による戦略的な買い入れを示唆している。これは金ドル化進展と米国金融政策への対抗措置と解釈される。"
+  },
+  {
+    "title": "Saudi Arabia slices crude oil prices, but is it enough? - Reuters",
+    "timestamp": "2026-07-07T10:39:06+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが原油価格を引き下げたが、市場の需給見通しに対して十分な対応かどうかが焦点となっている。OPECの価格設定戦略変更により原油相場は圧力を受けるが、グローバルな需要動向や他産油国の対応如何で価格の下げ幅が限定される可能性も指摘されている。"
+  },
+  {
+    "title": "US Stocks Fall as Samsung Hits Global Chipmakers: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-06T22:10:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "サムスンが世界的チップメーカーに打撃を与えたことで米国株が売却され、市場全体が下落。半導体産業の不振は銅などの工業用金属需要の先行指標となり、景気後退懸念が高まっている。チップメーカーの利益圧迫は今後のテック関連支出減速を示唆する。"
+  },
+  {
+    "title": "US Stocks Fall as Samsung Hits Global Chipmakers: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-06T22:10:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サムスンが世界的チップメーカーに打撃を与えたことで米国株が売却され、市場全体が下落。半導体産業の不振は銅などの工業用金属需要の先行指標となり、景気後退懸念が高まっている。チップメーカーの利益圧迫は今後のテック関連支出減速を示唆する。"
   }
 ]
