@@ -33,17 +33,6 @@
     "summary": "トタール・エネルギー会長兼CEOが、中東産油国が石油在庫を売却したいという強い動機を持っていると発言。これは地政学的緊張やサプライチェーン懸念から、主要産油国が在庫を現金化し流動性を確保しようとする動きを示唆している。供給圧力が潜在的に高まる可能性を指摘。"
   },
   {
-    "title": "OPEC+ Fifth Output Hike as Aramco Cuts Asian Crude Prices - houseofsaud.com",
-    "timestamp": "2026-07-04T05:33:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が5度目の増産を実施し、サウジアラムコがアジア向け原油価格を引き下げた。増産決定は事前に予定されていたものであり、価格引き下げはサウジの需要刺激策と見られる。供給増加圧力が市場に作用し、原油相場には下落圧力がかかる見通し。"
-  },
-  {
     "title": "Business as unusual for OPEC - The Economist",
     "timestamp": "2026-07-05T00:00:00+00:00",
     "importance": 3,
@@ -658,5 +647,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが予期せぬ価格引き下げを実施し、市場の過剰供給懸念を急速に増幅させた。OPECの価格政策転換は供給調整の有効性への疑問を生じさせ、原油相場は下落圧力を強める。供給過剰局面の深刻化が懸念される。"
+  },
+  {
+    "title": "Grain report mobile app - High Plains Journal",
+    "timestamp": "2026-07-06T15:58:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
+  },
+  {
+    "title": "Grain report mobile app - High Plains Journal",
+    "timestamp": "2026-07-06T15:58:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
+  },
+  {
+    "title": "Grain report mobile app - High Plains Journal",
+    "timestamp": "2026-07-06T15:58:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
+  },
+  {
+    "title": "Grain report mobile app - High Plains Journal",
+    "timestamp": "2026-07-06T15:58:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
+  },
+  {
+    "title": "OPEC+ Ratifies Planned Oil Quota Hike as Gulf Flows Rebound - Bloomberg.com",
+    "timestamp": "2026-07-05T10:35:48+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が予定されていた原油増産割当を承認した。ペルシャ湾からの原油供給が回復している状況を反映した決定。既に市場で織り込まれていた内容であり、予定通りの増産実行で供給懸念が一部緩和される見通し。"
+  },
+  {
+    "title": "EXCLUSIVE: Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say - Reuters",
+    "timestamp": "2026-07-07T07:02:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが紅海向けの石油パイプライン拡張を検討中とのニュース。地政学的な重要性と供給ルートの多様化戦略を示唆。ホルムズ海峡への依存低減が背景にある可能性がある。"
+  },
+  {
+    "title": "Gold slips as US dollar, yields rise ahead of Fed minutes - Reuters",
+    "timestamp": "2026-07-07T02:57:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米ドル強化と米国債利回り上昇により金相場が軟調。FRB議事録公表を控える中、金利上昇環境が無利子資産である金に下押し圧力をかけている。ドル強化に伴う金のドル建て価格の相対的な割高感が投資家の売却につながっている。"
+  },
+  {
+    "title": "Gold slips as US dollar, yields rise ahead of Fed minutes - Reuters",
+    "timestamp": "2026-07-07T02:57:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米ドル強化と米国債利回り上昇により金相場が軟調。FRB議事録公表を控える中、金利上昇環境が無利子資産である金に下押し圧力をかけている。ドル強化に伴う金のドル建て価格の相対的な割高感が投資家の売却につながっている。"
+  },
+  {
+    "title": "Saudi oil price cut unlikely to convince sated Asia buyers, traders say - Reuters",
+    "timestamp": "2026-07-07T05:06:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが原油価格を引き下げたものの、アジア買い手の需要が既に飽和状態にあるため、価格引き下げが需要喚起につながりにくいとの市場観測。OPEC主導の価格施策が限定的な効果しか期待できない状況を示唆。"
+  },
+  {
+    "title": "Asian stocks tumble on AI jitters after Samsung forecast; oil stable - Reuters",
+    "timestamp": "2026-07-07T02:03:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Samsung の業績予想悪化を受けてアジア株が下落し、リスク資産売却の圧力が高まった。AI関連の需要減速懸念がテック企業の業績見通しを圧迫している。一方、原油は安定推移。株価下落は経済成長見通しの低下を示唆し、工業金属や原油などのコモディティ需要減速リスクが高まっている。"
+  },
+  {
+    "title": "Asian stocks tumble on AI jitters after Samsung forecast; oil stable - Reuters",
+    "timestamp": "2026-07-07T02:03:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "Samsung の業績予想悪化を受けてアジア株が下落し、リスク資産売却の圧力が高まった。AI関連の需要減速懸念がテック企業の業績見通しを圧迫している。一方、原油は安定推移。株価下落は経済成長見通しの低下を示唆し、工業金属や原油などのコモディティ需要減速リスクが高まっている。"
   }
 ]
