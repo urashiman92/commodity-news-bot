@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC Plus to boost oil output by 188,000 barrels daily from July 2026 - Crypto Briefing",
-    "timestamp": "2026-07-05T12:55:16+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC プラスは2026年7月から日量188,000バレルの増産を実施することを発表。これは段階的な減産調整の継続に基づくもので、市場予想の範囲内。供給増加は原油価格に下落圧力をもたらす可能性がある。"
-  },
-  {
     "title": "OPEC's June Crude Output Jumps 2.34M bpd on Peace Deal - Briefs Finance",
     "timestamp": "2026-07-05T21:28:15+00:00",
     "importance": 4,
@@ -988,5 +977,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イラン情勢の緊迫化が新たなリスク要因として浮上し、新興国株式が売却圧力に直面。地政学的リスクによる原油価格の上昇圧力と、AI関連の市場不安による安全資産（金）への買い圧力が同時に発生。コモディティ市場全体で方向感が異なる複雑な相場環境。"
+  },
+  {
+    "title": "Russia’s Saratov Refinery on Fire After Attack, Two Tankers Hit - Bloomberg.com",
+    "timestamp": "2026-07-08T07:00:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのサラトフ製油所が攻撃により火災発生し、2隻のタンカーも被撃された。ロシアの主要製油施設の損傷は供給懸念を急速に高める。東欧地政学リスクの再燃により、原油市場のボラティリティが大幅に拡大する局面。"
   }
 ]
