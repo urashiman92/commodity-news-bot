@@ -1,27 +1,5 @@
 [
   {
-    "title": "Business as unusual for OPEC - The Economist",
-    "timestamp": "2026-07-05T00:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "The Economistによる解説記事。OPECが従来の減産戦略から異なる対応を模索している可能性を示唆。地政学的緊張、需要減速、シェール革命への対抗などが背景にあり、OPECの政策転換が原油市場の需給バランスを大きく変える可能性がある。"
-  },
-  {
-    "title": "Business as unusual for OPEC - The Economist",
-    "timestamp": "2026-07-05T00:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "The Economistによる解説記事。OPECが従来の減産戦略から異なる対応を模索している可能性を示唆。地政学的緊張、需要減速、シェール革命への対抗などが背景にあり、OPECの政策転換が原油市場の需給バランスを大きく変える可能性がある。"
-  },
-  {
     "title": "OPEC+ set to approve another oil output increase, sources say - CNBC",
     "timestamp": "2026-07-05T10:13:46+00:00",
     "importance": 3,
@@ -977,5 +955,93 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が追加的な石油生産増加を承認し、ホルムズ海峡経由の輸出が回復し始めている。地政学的な供給リスクが緩和される一方、市場は既にこうした展開を部分的に織り込んでいた。原油相場は供給増加による下押し圧力と、ホルムズ経由輸出回復による供給正常化の相互作用を反映。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 6, 2026 - RFD-TV",
+    "timestamp": "2026-07-06T07:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年7月6日のRFD-TV週間作物進捗レポート。米国の地域別作物進捗と畜産生産に関する定期更新。具体的な数値・前週比・前年比データが提示記事から確認できないため、詳細な方向性の判定が困難。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 6, 2026 - RFD-TV",
+    "timestamp": "2026-07-06T07:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年7月6日のRFD-TV週間作物進捗レポート。米国の地域別作物進捗と畜産生産に関する定期更新。具体的な数値・前週比・前年比データが提示記事から確認できないため、詳細な方向性の判定が困難。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 6, 2026 - RFD-TV",
+    "timestamp": "2026-07-06T07:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年7月6日のRFD-TV週間作物進捗レポート。米国の地域別作物進捗と畜産生産に関する定期更新。具体的な数値・前週比・前年比データが提示記事から確認できないため、詳細な方向性の判定が困難。"
+  },
+  {
+    "title": "Business as unusual for OPEC - The Economist",
+    "timestamp": "2026-07-05T06:10:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "The Economist紙によるOPEC戦略分析記事。従来の減産・増産による市場管理から、地政学リスク・シェール増産・エネルギー転換など複雑な要因への対応へシフトしている。OPECの政策柔軟性と限定性が同時に認識される状況。"
+  },
+  {
+    "title": "Business as unusual for OPEC - The Economist",
+    "timestamp": "2026-07-05T06:10:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "The Economist紙によるOPEC戦略分析記事。従来の減産・増産による市場管理から、地政学リスク・シェール増産・エネルギー転換など複雑な要因への対応へシフトしている。OPECの政策柔軟性と限定性が同時に認識される状況。"
+  },
+  {
+    "title": "OPEC Output Hikes Raise Oversupply Fears as Cartel Shows Cracks - Hart Energy",
+    "timestamp": "2026-07-07T22:10:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが増産を進める中でカルテルの結束が緩み、市場過剰供給への懸念が高まっている。加盟国間の利害対立が深刻化し、統制された減産政策の維持が困難になりつつあることが原油価格の下押し圧力となる可能性が増加。"
+  },
+  {
+    "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-07T22:10:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イランによる攻撃報道を受けて原油が急伸した。中東地政学リスクの顕在化により、供給懸念が市場を支配。同時にアジア株が売られており、リスク資産から安全資産への流出が進行中。エネルギー価格の上昇は金融市場全体の不安定性を反映している。"
+  },
+  {
+    "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-07T22:10:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イランによる攻撃報道を受けて原油が急伸した。中東地政学リスクの顕在化により、供給懸念が市場を支配。同時にアジア株が売られており、リスク資産から安全資産への流出が進行中。エネルギー価格の上昇は金融市場全体の不安定性を反映している。"
   }
 ]
