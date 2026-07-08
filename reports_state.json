@@ -988,5 +988,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアのサラトフ製油所が攻撃により火災発生し、2隻のタンカーも被撃された。ロシアの主要製油施設の損傷は供給懸念を急速に高める。東欧地政学リスクの再燃により、原油市場のボラティリティが大幅に拡大する局面。"
+  },
+  {
+    "title": "EIA: US crude stocks rise for the first time since April as exports slump - Quantum Commodity Intelligence",
+    "timestamp": "2026-07-08T16:00:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が4月以来初めて増加した。輸出が減速したことが主因と見られる。在庫の積み上がりは原油供給過剰シグナルとなり、価格下押し圧力となる。需給バランスの悪化が確認された局面。"
+  },
+  {
+    "title": "Business - OPEC raises output but cartel's future remains unsure - France 24",
+    "timestamp": "2026-07-06T20:04:20+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが原油生産量を引き上げたことが報じられたが、カルテルの将来の安定性に不確実性が残っている。増産決定は価格下押し圧力となる可能性がある一方、カルテル内の足並みの乱れや減産維持の難しさが構造的な問題として指摘されている。"
   }
 ]
