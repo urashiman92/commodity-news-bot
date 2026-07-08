@@ -1,16 +1,5 @@
 [
   {
-    "title": "4週連続の下落局面を脱した後の金価格予測。 - Vietnam.vn",
-    "timestamp": "2026-07-05T11:12:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4週連続の下落から抜け出した局面での価格予測記事。テクニカルなリバウンド局面の分析と今後の見通しについての解説記事と考えられる。"
-  },
-  {
     "title": "2026年末の金価格は、相反する2つのシナリオの間で揺れ動いている。 - Vietnam.vn",
     "timestamp": "2026-07-05T12:54:07+00:00",
     "importance": 2,
@@ -240,17 +229,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "日本市場では原油安が株式相場を支える見込み。一方、財政懸念により円買いと債券売りが進む可能性がある。既知の経済トレンドの整理と市場観測。"
-  },
-  {
-    "title": "JX金属：爆発的な株価急騰を解説 Angine De Poitrine (TbseGMJguT) - Mshale",
-    "timestamp": "2026-07-05T11:19:43+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属の株価上昇に関する解説記事。銅市場への直接的な供給・需要インパクトは不明。企業業績や市場心理の変化を反映している可能性がある。"
   },
   {
     "title": "３日の主要国際商品市況は独立記念日の振り替え休日で休場 - 株探",
@@ -2011,5 +1989,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイラン核合意（JCPOA）終了の発言をし、即座に原油価格が5%以上急騰した。イランは世界有数の石油供給国であり、制裁強化による供給懸念が相場を押し上げた。"
+  },
+  {
+    "title": "TSX先物が下落、中東緊張再燃で原油高・金価格は下げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-08T11:02:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中東緊張の再燃により原油は上昇したが、金価格は下落。カナダ株式先物（TSX）も連動して下落。地政学リスクが原油買い・金売り（リスク回避ムード緩和）の選別的な値動きを招いている。"
+  },
+  {
+    "title": "空爆のニュースを受けて金価格が下落、市場はFRBの動向に注目。 - Vietnam.vn",
+    "timestamp": "2026-07-08T12:12:32+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "地政学的緊張（空爆）により金価格は一時的に下落。市場の注目はリスク資産売却よりもFRBの金融政策決定に集中している。金は従来のセーフハブン買いの強さが限定的な状況。"
+  },
+  {
+    "title": "NY原油先物価格 一時1バレル＝75ドル台 トランプ大統領発言で - NHKニュース",
+    "timestamp": "2026-07-08T11:41:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領の発言を受けてNY原油先物が75ドル台まで下落。政策に関する観測報道であり、市場の既存トレンド内の値動き。"
   }
 ]
