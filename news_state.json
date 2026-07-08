@@ -1,38 +1,5 @@
 [
   {
-    "title": "2026年末の金価格は、相反する2つのシナリオの間で揺れ動いている。 - Vietnam.vn",
-    "timestamp": "2026-07-05T12:54:07+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年末の金価格について、相反する2つのシナリオが存在し、市場見通しが分かれている状況を解説している。具体的なシナリオ内容や根拠が不明であり、観測記事と判断される。"
-  },
-  {
-    "title": "金価格は本日7月5日、大幅高で取引を終えたが、買い手は依然として損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-07-05T13:38:17+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月5日の金価格は大幅高で終了したが、買い手は依然として損失を被っているという矛盾した状況を報じている。過去の高値水準からの戻り目線での評価と見られる。"
-  },
-  {
-    "title": "OPECプラス7カ国、8月も日量18.8万バレル増産へ、5カ月連続の生産枠拡大で原油相場に下落圧力 - BigGo ファイナンス",
-    "timestamp": "2026-07-05T12:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OPECプラス7カ国が8月も日量18.8万バレルの増産を決定し、5カ月連続の生産枠拡大となる。段階的な増産政策の継続で供給増加が確定し、原油相場に下落圧力が生じる。"
-  },
-  {
     "title": "ガイアの夜明け【国産小麦でチョコクロを！サンマルク農業に挑む】 - tv-tokyo.co.jp",
     "timestamp": "2026-07-05T15:43:09+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "サンマルクがテレビ番組で国産小麦を使用したチョコクロワッサン開発の取り組みを紹介。国内小麦の利用拡大の事例であり、長期的には国産小麦需要の微増につながる可能性がある。"
-  },
-  {
-    "title": "2026年7月6日現在、金価格は劇的な回復の後、上昇傾向を維持しており、市場参入にはより安全な時期であることを示している。 - Vietnam.vn",
-    "timestamp": "2026-07-05T14:53:33+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は劇的な回復後も上昇傾向を維持している。アナリストは現在が市場参入のより安全な時期と指摘。テクニカル的には上昇基調が継続中。"
   },
   {
     "title": "OPECプラス、8月に日量18.8万バレル増産を決定 原油価格安定とインド「脱AI」逃避先として台頭 - BigGo ファイナンス",
@@ -2022,5 +1978,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ大統領の発言を受けてNY原油先物が75ドル台まで下落。政策に関する観測報道であり、市場の既存トレンド内の値動き。"
+  },
+  {
+    "title": "金曜日のUSDA需給報告を前に小麦先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-08T13:27:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "金曜日のUSDA需給報告発表を控えて小麦先物が上昇している。市場は重要な在庫・作付面積データへの期待で買いが先行。報告内容次第で大きな値動きが予想される。"
+  },
+  {
+    "title": "本日7月8日の金価格は、引き続き急落している。 - Vietnam.vn",
+    "timestamp": "2026-07-08T13:03:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月8日の金価格は引き続き急落している。ベトナムメディアによる相場の振り返り報道。具体的な下落要因や数値は記事概要では不明。"
+  },
+  {
+    "title": "イラン「停戦合意」後の原油相場｜日経モーニングプラスFT（モープラFT） - テレ東BIZ",
+    "timestamp": "2026-07-08T10:12:04+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランとの停戦合意により中東の地政学リスクが低下し、原油供給不安が緩和される見込み。市場では既に合意報道が織り込まれている可能性が高い。テレ東による相場解説番組であり、既出情報の分析・振り返り。"
+  },
+  {
+    "title": "トランプ大統領、イランとの停戦は「終わった」と発言。それで米国株は急落、原油価格は急騰した - Business Insider Japan",
+    "timestamp": "2026-07-08T14:22:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がイランとの停戦終了を発言。中東地政学リスクの急激な上昇が懸念される。米国株が急落する一方、原油価格は急騰し、供給遮断リスクが市場に織り込まれた。"
+  },
+  {
+    "title": "トランプ氏の「崩壊」宣言後、原油価格は急騰し、株価は急落した。 - Vietnam.vn",
+    "timestamp": "2026-07-08T13:55:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏の「崩壊」宣言により市場が反応し、原油価格が急騰する一方で株価が急落。政治的不確実性が両資産に大きな影響を与えている。"
   }
 ]
