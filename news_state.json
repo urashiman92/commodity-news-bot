@@ -1,16 +1,5 @@
 [
   {
-    "title": "ガイアの夜明け【国産小麦でチョコクロを！サンマルク農業に挑む】 - tv-tokyo.co.jp",
-    "timestamp": "2026-07-05T15:43:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "サンマルクがテレビ番組で国産小麦を使用したチョコクロワッサン開発の取り組みを紹介。国内小麦の利用拡大の事例であり、長期的には国産小麦需要の微増につながる可能性がある。"
-  },
-  {
     "title": "OPECプラス、8月に日量18.8万バレル増産を決定 原油価格安定とインド「脱AI」逃避先として台頭 - BigGo ファイナンス",
     "timestamp": "2026-07-05T18:25:00+00:00",
     "importance": 3,
@@ -2033,5 +2022,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏の「崩壊」宣言により市場が反応し、原油価格が急騰する一方で株価が急落。政治的不確実性が両資産に大きな影響を与えている。"
+  },
+  {
+    "title": "【速報】NY株価急落 イラン停戦“失効”発言でリスク回避 原油価格は上昇 - TBS NEWS DIG",
+    "timestamp": "2026-07-08T14:57:23+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン停戦の失効発言により地政学的リスクが急速に高まった。リスク回避でNY株価が急落する一方、供給不安から原油は上昇。中東の地政学的緊張が原油市場の重要なドライバーとなっている。"
+  },
+  {
+    "title": "中国が中東産原油の購入拡大 原油価格下落で - 日本経済新聞",
+    "timestamp": "2026-07-08T15:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格下落に応じて中国が中東産原油の購入を拡大している。価格低下局面での需要増加は市場のメカニズム通りの反応。既報の価格動向に対する事後的な対応の報道。"
+  },
+  {
+    "title": "【速報】NY株価急落 イラン停戦“失効”発言でリスク回避 原油価格は上昇（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+    "timestamp": "2026-07-08T14:56:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランが停戦失効を発言し地政学的リスクが急速に高まった。リスク回避でNY株が急落する一方、中東情勢悪化による供給リスク懸念で原油価格は上昇。地政学プレミアムが急速に織り込まれている状況。"
   }
 ]
