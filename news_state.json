@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（7月5日）の最新の金価格は横ばいです。買い手は依然として見当たらず、店舗は引き続き紙上での販売のみを行っています。 - Vietnam.vn",
-    "timestamp": "2026-07-05T07:00:16+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場で7月5日、価格は横ばいで推移。買い手不在の状況が続き、店舗は紙上取引のみを継続している。需要の弱さが特徴。"
-  },
-  {
-    "title": "金価格が突然反転しました。 - Moomoo",
-    "timestamp": "2026-07-05T05:51:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が突然反転したことについてのMoomooからの解説記事。具体的な反転要因や価格水準が記事本文に示されていない。"
-  },
-  {
     "title": "2026年7月5日午後の金価格：SJC金価格、9999金リング価格、および金曜日の世界金価格。 - Vietnam.vn",
     "timestamp": "2026-07-05T09:09:08+00:00",
     "importance": 1,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報の定期報道。SJC金および世界金価格の引値情報を記載したニュース記事。"
-  },
-  {
-    "title": "本日の金価格、2026年7月5日（9999金）、7月5日午後：週末の9999金、BTMC金リング、BTMC、およびDOJI金の終値リスト。 - Vietnam.vn",
-    "timestamp": "2026-07-05T07:10:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格終値リストの報告。週末時点での9999金およびBTMC、DOJI金の終値を掲載した定期的な相場情報。"
   },
   {
     "title": "石油市場は、供給不足から供給過剰へと急激に転換した。 - Vietnam.vn",
@@ -251,17 +218,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの国内燃料価格は安定している状況。世界の原油価格が週明けに上昇する可能性を示唆するが、具体的な根拠が明記されていない。地域限定的なニュース。"
-  },
-  {
-    "title": "国際原油価格が紛争前の水準に下落、ウォール街から「供給過剰」の警告が相次ぐ中、今後の見通しは？本記事で解説します。 - Moomoo",
-    "timestamp": "2026-07-05T07:38:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "国際原油価格が紛争前水準まで下落。ウォール街アナリストから供給過剰の警告が相次ぐ。供給サイドの構造的な緩和を示唆。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4175ドル｜米国の利上げ観測の後退が影響し、買い優勢が続いている模様(2026年7月6日) - OANDA",
@@ -1945,5 +1901,115 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格高騰に伴い、太陽光発電設備から銅配線を盗む金属盗難事件が増加。総額1億円の被害が報告されている。銅価格の上昇がスクラップ銅の需要・流通を活発化させる社会現象。"
+  },
+  {
+    "title": "世界黄金協会 下半期の金価格の動きは安定傾向 - AFPBB News",
+    "timestamp": "2026-07-08T05:43:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界黄金協会が下半期の金価格は安定傾向との見通しを示した。具体的な価格目標や材料が記載されていない定性的な観測。既に知られた市場安定化の継続を述べているもの。"
+  },
+  {
+    "title": "【金相場】スポット価格が4,200ドル台を回復、機関投資家の間で年内5,000ドル到達を巡る議論が白熱 - BigGo ファイナンス",
+    "timestamp": "2026-07-08T05:15:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金のスポット価格が4,200ドル台を回復。機関投資家の間で年内5,000ドル到達の可能性が議論されている。強気の価格見通しが広がっている。"
+  },
+  {
+    "title": "$金/米ドル (XAUUSD.CFD)$ 欧米のペーパー取引による金価格（#XAUUSD）操作の終焉 #黄金 - Moomoo",
+    "timestamp": "2026-07-08T07:18:16+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "欧米のペーパー取引による金価格操作が終焉を迎えるという見方が示されている。金現物市場への関心が高まり、実需に基づく価格形成への転換を示唆している。金投資家にとって長期的な価格構造の変化を意味する可能性がある。"
+  },
+  {
+    "title": "８日の米国債券市場見通し＝原油価格の動向に注意 速報 - kabushiki.jp",
+    "timestamp": "2026-07-08T07:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国債券市場の見通しに関する解説記事。原油価格動向が債券市場に影響を与える可能性を指摘している。具体的な新規情報や統計発表は含まれていない。"
+  },
+  {
+    "title": "ガソリン価格2週ぶりに値上がり 165.1円/L 原油価格が上昇傾向→再来週以降の値動きを注視 岩手 - TBS NEWS DIG",
+    "timestamp": "2026-07-08T06:20:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国内ガソリン価格が165.1円/Lと2週ぶりに値上がり。原油価格の上昇傾向が背景。記者は再来週以降の値動き注視を呼びかけている。"
+  },
+  {
+    "title": "８日の米国債券市場見通し＝原油価格の動向に注意(ウエルスアドバイザー) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-08T07:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国債券市場の見通しについての解説記事。原油価格が債券市場に影響を与える可能性を指摘している。具体的な新規情報や統計発表ではなく、アナリスト視点の観測。"
+  },
+  {
+    "title": "ガソリン価格169円90銭 2週ぶり値上がり 原油価格の高騰落ち着き来週以降も小幅な値動きか - FNNプライムオンライン",
+    "timestamp": "2026-07-08T07:01:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ガソリン価格が169円90銭となり2週ぶりに値上がり。原油価格の高騰が一服し、来週以降は小幅な値動きが予想される。市場は落ち着きを取り戻している。"
+  },
+  {
+    "title": "WTI原油先物相場、堅調 72ドル台後半で推移 - Moomoo",
+    "timestamp": "2026-07-08T06:36:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が72ドル台後半で堅調に推移している。具体的な上昇要因や市場環境についての詳細情報が記事概要には含まれていない。相場の振り返り・観測記事と判断される。"
+  },
+  {
+    "title": "世界のトウモロコシ価格は引き続き急激に上昇している。 - Vietnam.vn",
+    "timestamp": "2026-07-08T05:37:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "世界的なトウモロコシ価格の上昇基調が継続している。記事は相場観察・解説の性質であり、既に知られた趨勢の言及と考えられる。供給懸念や需要堅調といった要因が背景と推察される。"
+  },
+  {
+    "title": "「銅価格高騰」で金属盗グループの“ビジネスチャンス”到来 総額1億円の被害も…「太陽光発電設備」が狙われるワケ - 弁護士JP",
+    "timestamp": "2026-07-08T00:49:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格高騰に伴い金属盗難グループによる太陽光発電設備からの銅盗難が増加し、総額1億円の被害が報告されている。高銅価格がスクラップ銅の需要を刺激する構造が示唆されている。"
   }
 ]
