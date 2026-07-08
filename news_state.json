@@ -1,49 +1,5 @@
 [
   {
-    "title": "OPECプラス 8月も原油増産継続で合意 増産は5カ月連続 - KSBニュース",
-    "timestamp": "2026-07-05T21:30:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OPECプラスが8月の原油増産継続を合意し、5カ月連続の増産となる。供給増加による原油価格への下押し圧力が継続される見通し。"
-  },
-  {
-    "title": "本日（7月6日）の金価格：多くのリスクが潜んでいる。 - Vietnam.vn",
-    "timestamp": "2026-07-05T21:42:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのニュース媒体による金価格解説記事。「多くのリスクが潜んでいる」との見出しで市場観測を提示。具体的なリスク要因の詳細は記事本文を確認する必要がある。"
-  },
-  {
-    "title": "本日（2026年7月6日）の金価格：SJC金価格、9999金リング価格、および月曜日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-05T22:17:17+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報に関する定期的な報道。SJC金とローカル金相場の価格情報を提供しているニュース。市場への新規情報がない。"
-  },
-  {
-    "title": "本日7月6日の金価格：SJC、BTMC、DOJI、PNJは横ばい。週明けのシグナルを待っている。 - Vietnam.vn",
-    "timestamp": "2026-07-05T22:14:43+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金販売業者（SJC、BTMC、DOJI、PNJ）の金価格が横ばいで推移。週明けの市場シグナル待ちの状況。"
-  },
-  {
     "title": "本日（7月6日）の金価格：安定 - Vietnam.vn",
     "timestamp": "2026-07-05T22:46:15+00:00",
     "importance": 1,
@@ -53,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格が本日安定推移していることを報じたもの。具体的な価格水準や変動幅の記載がなく、市場の方向性を示すコンテンツではない。"
-  },
-  {
-    "title": "金価格の最新情報、2026年7月6日：月曜日の9999金、プレーンリングのBTMC DOJI Phu Quyの価格。 - Vietnam.vn",
-    "timestamp": "2026-07-05T21:21:23+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売業者DOJIによる月曜日の9999金およびプレーンリングの店頭価格の日次更新。市場価格の日常的な相場情報提供。"
   },
   {
     "title": "金価格がさらに500万ベトナムドン急騰：再び買い時か？ - Vietnam.vn",
@@ -86,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのニュースサイトが2026年7月6日時点の金価格更新情報を掲載。9999金や金の指輪、世界の金価格の日次情報の提供。"
-  },
-  {
-    "title": "7月6日（火）の燃料価格：国内価格は安定、世界の原油価格は週明けに上昇か？ - Vietnam.vn",
-    "timestamp": "2026-07-05T22:14:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの国内燃料価格は安定している状況。世界の原油価格が週明けに上昇する可能性を示唆するが、具体的な根拠が明記されていない。地域限定的なニュース。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4175ドル｜米国の利上げ観測の後退が影響し、買い優勢が続いている模様(2026年7月6日) - OANDA",
@@ -297,17 +231,6 @@
     "summary": "OPECプラスの増産合意とホルムズ海峡経由の輸出回復が報道された。供給量増加の見通しが価格を押し下げている。既に織り込み済みのニュースの解説段階と判断される。"
   },
   {
-    "title": "日経モーニングプラスＦＴ【イラン「停戦合意」後の原油相場】 - tv-tokyo.co.jp",
-    "timestamp": "2026-07-05T22:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランの停戦合意後の原油相場動向について解説するコモンタリー番組。地政学的リスク低下が相場に影響する可能性。既に停戦合意は報じられているため継続情報。"
-  },
-  {
     "title": "OPEC+の増産合意で供給過剰懸念が高まり、原油価格が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-06T01:28:00+00:00",
     "importance": 4,
@@ -317,17 +240,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "OPEC+が増産で合意し、市場は供給過剰懸念から原油価格が下落。需給バランスの悪化が価格を圧迫している状況。"
-  },
-  {
-    "title": "イラン「停戦合意」後の原油相場 - テレ東BIZ",
-    "timestamp": "2026-07-05T22:05:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランと対立勢力の停戦合意報道に基づく原油相場分析。停戦は中東地政学リスク低下を意味し、供給途絶の懸念が軽減される見通し。既に報じられた事象の相場への反映を解説するコンテンツ。"
   },
   {
     "title": "米国·イラン戦争直後、原油価格急騰局面で価格を談合した疑惑を受けている国内主要精油会社が大量に裁判に付された。 検察は、該当談合が一時的行為を越えて長期間続いた慣行が危機状況で本格的に明らかになったと.. - 매일경제",
