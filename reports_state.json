@@ -55,17 +55,6 @@
     "summary": "OPEC プラスは2026年7月から日量188,000バレルの増産を実施することを発表。これは段階的な減産調整の継続に基づくもので、市場予想の範囲内。供給増加は原油価格に下落圧力をもたらす可能性がある。"
   },
   {
-    "title": "OPEC+ Agrees in Principle on 188K B/D Quota Hike, Delegates Say - Bloomberg.com",
-    "timestamp": "2026-07-05T09:17:25+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+が日量188,000バレルの追加減産枠の引き上げに原則合意した。これは既に協議中であった調整の一部であり、市場では予想された範囲内の決定と受け止められている。原油市場への支援要因となるが、事前にある程度織り込まれていると考えられる。"
-  },
-  {
     "title": "OPEC+ agrees on new oil output hike as Hormuz gradually recovers - Daily Sabah",
     "timestamp": "2026-07-05T11:40:00+00:00",
     "importance": 3,
@@ -196,17 +185,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ホルムズ海峡の石油流通が継続していることと、OPEC+がさらなる供給増の可能性を示唆したことにより、原油価格が下落している。供給懸念の緩和と増産シグナルが市場に売り圧力をもたらしている。"
-  },
-  {
-    "title": "OPEC+ set to approve another oil output increase, sources say - Yahoo! Finance Canada",
-    "timestamp": "2026-07-05T09:29:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が追加的な原油増産を承認する見通しが報じられた。これは既に市場で織り込まれている段階的な増産路線の延長。供給増加圧力が高まる一方、需要減速懸念や金利高止まり環境で原油需要が押し下げられる可能性がある。"
   },
   {
     "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
@@ -1021,5 +999,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イランによる攻撃報道を受けて原油が急伸した。中東地政学リスクの顕在化により、供給懸念が市場を支配。同時にアジア株が売られており、リスク資産から安全資産への流出が進行中。エネルギー価格の上昇は金融市場全体の不安定性を反映している。"
+  },
+  {
+    "title": "Crop Progress Highlights: Corn Holds Firm, Soybeans Slip as Markets Focus on Weather and Trade - RFD-TV",
+    "timestamp": "2026-07-07T21:34:40+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農業省のCrop Progress定期発表。トウモロコシは堅調を維持している一方、大豆は弱含みとなっている。市場は天候と米中貿易交渉の行方に焦点を当てており、これらの外部要因がアグリコモディティの価格方向性を左右する状況が続いている。"
+  },
+  {
+    "title": "Crop Progress Highlights: Corn Holds Firm, Soybeans Slip as Markets Focus on Weather and Trade - RFD-TV",
+    "timestamp": "2026-07-07T21:34:40+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農業省のCrop Progress定期発表。トウモロコシは堅調を維持している一方、大豆は弱含みとなっている。市場は天候と米中貿易交渉の行方に焦点を当てており、これらの外部要因がアグリコモディティの価格方向性を左右する状況が続いている。"
+  },
+  {
+    "title": "EXCLUSIVE: Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say - Reuters",
+    "timestamp": "2026-07-07T09:37:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが紅海へのパイプライン拡張を検討しているとロイターが報道。ホルムズ海峡経由の輸送リスク低減と東方市場へのアクセス改善が狙い。実現すれば中東産油国の供給ルート多角化を象徴し、地政学的な供給リスク軽減につながる可能性がある。"
   }
 ]
