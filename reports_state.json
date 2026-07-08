@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC's June Crude Output Jumps 2.34M bpd on Peace Deal - Briefs Finance",
-    "timestamp": "2026-07-05T21:28:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC加盟国の6月原油生産が平和合意により234万バレル/日（2.34M bpd）の大幅増加を記録した。この増産は地政学的緊張の緩和を反映しており、供給面での重大な変化を示唆している。OPEC減産合意の枠組みに対する実質的な供給増加であり、市場に大きなインパクトをもたらす可能性がある。"
-  },
-  {
     "title": "OPEC+ raises output levels again despite tumbling crude prices - MarketWatch",
     "timestamp": "2026-07-05T22:30:00+00:00",
     "importance": 4,
@@ -1098,5 +1087,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがペルシャ湾の石油積み出しの回復を図っているが、買い手の慎重姿勢に直面している。需要見通しの不確実性やマクロ経済懸念により、買い手が大幅な追加購入に躊躇している状況が報告されている。"
+  },
+  {
+    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
+    "timestamp": "2026-07-08T15:48:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
+  },
+  {
+    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
+    "timestamp": "2026-07-08T15:48:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
+  },
+  {
+    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
+    "timestamp": "2026-07-08T15:48:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
+  },
+  {
+    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
+    "timestamp": "2026-07-08T15:48:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
+  },
+  {
+    "title": "ClearView's Kevin Book on whether OPEC+'s higher oil output targets will impact prices - CNBC",
+    "timestamp": "2026-07-06T11:13:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の増産目標引き上げが油価に及ぼす影響について、ClearViewのKevin Bookがコメンテーリーを提供。増産発表が実際の市場供給増加に直結するかは不透明で、市場はすでにOPEC+の実行能力への懐疑を織り込んでいる可能性が高い。"
   }
 ]
