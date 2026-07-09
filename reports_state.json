@@ -22,17 +22,6 @@
     "summary": "日本企業が所有するスーパータンカーがホルムズ海峡へ向かい、サウジアラビア産原油を輸送していることが明らかになった。これは中東からの原油供給ルート稼働確認を示唆しており、地政学的リスク下での日本の原油調達動向を反映している。ホルムズ海峡経由での輸送継続は中東産原油の市場供給安定性を示唆する重要なシグナル。"
   },
   {
-    "title": "Oil Holds Drop as Saudi Arabian Price Cut Amplifies Glut Concern - Bloomberg.com",
-    "timestamp": "2026-07-06T22:01:13+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが予期せぬ価格引き下げを実施し、市場の過剰供給懸念を急速に増幅させた。OPECの価格政策転換は供給調整の有効性への疑問を生じさせ、原油相場は下落圧力を強める。供給過剰局面の深刻化が懸念される。"
-  },
-  {
     "title": "EXCLUSIVE: Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say - Reuters",
     "timestamp": "2026-07-07T07:02:19+00:00",
     "importance": 3,
@@ -130,28 +119,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが原油価格を引き下げたが、市場の需給見通しに対して十分な対応かどうかが焦点となっている。OPECの価格設定戦略変更により原油相場は圧力を受けるが、グローバルな需要動向や他産油国の対応如何で価格の下げ幅が限定される可能性も指摘されている。"
-  },
-  {
-    "title": "US Stocks Fall as Samsung Hits Global Chipmakers: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-06T22:10:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "サムスンが世界的チップメーカーに打撃を与えたことで米国株が売却され、市場全体が下落。半導体産業の不振は銅などの工業用金属需要の先行指標となり、景気後退懸念が高まっている。チップメーカーの利益圧迫は今後のテック関連支出減速を示唆する。"
-  },
-  {
-    "title": "US Stocks Fall as Samsung Hits Global Chipmakers: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-06T22:10:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サムスンが世界的チップメーカーに打撃を与えたことで米国株が売却され、市場全体が下落。半導体産業の不振は銅などの工業用金属需要の先行指標となり、景気後退懸念が高まっている。チップメーカーの利益圧迫は今後のテック関連支出減速を示唆する。"
   },
   {
     "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
@@ -1021,5 +988,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油価格は比較的落ち着いているものの、燃料市場では供給逼迫の兆候が報告されている。タイトルの「供給不足の警告信号」は、原油価格の穏やかさとは対照的に、精製品やガソリン・ディーゼルなど川下市場でのボトルネック懸念を示唆。地政学リスクや季節需要の変動が背景にある可能性が高い。"
+  },
+  {
+    "title": "EIA Reports Crude and Gasoline Stock Drawdowns - Mexico Business News",
+    "timestamp": "2026-07-09T15:56:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが原油と揮発油在庫の取り崩しを報告。供給側の圧力低下を示唆しており、原油価格の上昇要因となる可能性がある。在庫減少は需給バランスの引き締まりを反映し、市場のタイトネスを強調するもの。"
   }
 ]
