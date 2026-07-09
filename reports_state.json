@@ -1,104 +1,5 @@
 [
   {
-    "title": "Saudis Make Biggest Oil Price Cut in Decades as Market Weakens - Bloomberg.com",
-    "timestamp": "2026-07-06T12:22:34+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが数十年ぶりの大幅な原油価格引き下げを実施。市場の弱さを受けた急進的な措置で、供給過剰懸念とOPEC+の統制力低下を示唆。原油先物は下押し圧力が強まり、他のエネルギー関連コモディティにも波及効果が予想される。"
-  },
-  {
-    "title": "Grain report mobile app - High Plains Journal",
-    "timestamp": "2026-07-06T15:57:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "High Plains JournalがWASDE関連のモバイルアプリ「Grain report」をリリースしたことを報じるニュース。WASDE穀物レポートへのアクセス利便性向上を目的とした情報配信ツールの紹介記事。穀物市場の情報流通インフラの改善だが、価格や需給に直接的な影響はない。"
-  },
-  {
-    "title": "Grain report mobile app - High Plains Journal",
-    "timestamp": "2026-07-06T15:57:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "High Plains JournalがWASDE関連のモバイルアプリ「Grain report」をリリースしたことを報じるニュース。WASDE穀物レポートへのアクセス利便性向上を目的とした情報配信ツールの紹介記事。穀物市場の情報流通インフラの改善だが、価格や需給に直接的な影響はない。"
-  },
-  {
-    "title": "Grain report mobile app - High Plains Journal",
-    "timestamp": "2026-07-06T15:57:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "High Plains JournalがWASDE関連のモバイルアプリ「Grain report」をリリースしたことを報じるニュース。WASDE穀物レポートへのアクセス利便性向上を目的とした情報配信ツールの紹介記事。穀物市場の情報流通インフラの改善だが、価格や需給に直接的な影響はない。"
-  },
-  {
-    "title": "Arable Market Report – 6 July 2026 - AHDB",
-    "timestamp": "2026-07-06T12:55:11+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "AHDBが7月6日に公表した穀物市場レポート。英国および欧州の耕作可能地の作付・生育状況に関する定期更新と推定される。具体的な数値やサプライズ要因が不明なため、市場インパクトは限定的と判断。"
-  },
-  {
-    "title": "Arable Market Report – 6 July 2026 - AHDB",
-    "timestamp": "2026-07-06T12:55:11+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "AHDBが7月6日に公表した穀物市場レポート。英国および欧州の耕作可能地の作付・生育状況に関する定期更新と推定される。具体的な数値やサプライズ要因が不明なため、市場インパクトは限定的と判断。"
-  },
-  {
-    "title": "Arable Market Report – 6 July 2026 - AHDB",
-    "timestamp": "2026-07-06T12:55:11+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "AHDBが7月6日に公表した穀物市場レポート。英国および欧州の耕作可能地の作付・生育状況に関する定期更新と推定される。具体的な数値やサプライズ要因が不明なため、市場インパクトは限定的と判断。"
-  },
-  {
-    "title": "Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet - Reuters",
-    "timestamp": "2026-07-06T15:06:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがドローン攻撃でロシア最大級の製油所を直撃。ロシアの石油精製能力が大幅に減少する見通し。同国の精製施設への深さのある攻撃としては最大級。欧州エネルギー供給への懸念と原油価格上昇圧力が高まる。"
-  },
-  {
-    "title": "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources say - Reuters",
-    "timestamp": "2026-07-06T13:42:38+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後、原油生産量が過去最高水準に接近しているとの報道。同国の増産は市場供給増加を意味し、OPECの減産合意の効果を相殺する可能性がある。供給サイドの不確実性が高まり、原油価格に下押し圧力が生じる局面。"
-  },
-  {
     "title": "July WASDE unlikely to shake up crop outlook - Farm Progress",
     "timestamp": "2026-07-06T17:06:06+00:00",
     "importance": 2,
@@ -185,28 +86,6 @@
     "source": "USDA NASS公式",
     "commodity": "大豆",
     "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、作付進捗状況、圃場状態評価などを報告。具体的な数値や前週比較データが明記されていないため、市場への即座の影響は限定的と判断。"
-  },
-  {
-    "title": "OPEC+ Output Hikes Fail to Lift Supply as US Crude Stocks Stay 7% Below Average - Crux Investor",
-    "timestamp": "2026-07-06T15:48:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によるとOPEC+の増産決定にもかかわらず米国原油在庫は平年を7%下回る水準に留まっており、需給の引き締まりが続いている。増産効果が限定的であることが示唆され、供給面での構造的な逼迫が浮き彫りになっている。"
-  },
-  {
-    "title": "OPEC+ Output Hikes Fail to Lift Supply as US Crude Stocks Stay 7% Below Average - Crux Investor",
-    "timestamp": "2026-07-06T15:48:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA発表によるとOPEC+の増産決定にもかかわらず米国原油在庫は平年を7%下回る水準に留まっており、需給の引き締まりが続いている。増産効果が限定的であることが示唆され、供給面での構造的な逼迫が浮き彫りになっている。"
   },
   {
     "title": "UAE Oil Production Nears Record High After OPEC Exit - Crude Oil Prices Today | OilPrice.com",
@@ -251,50 +130,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが予期せぬ価格引き下げを実施し、市場の過剰供給懸念を急速に増幅させた。OPECの価格政策転換は供給調整の有効性への疑問を生じさせ、原油相場は下落圧力を強める。供給過剰局面の深刻化が懸念される。"
-  },
-  {
-    "title": "Grain report mobile app - High Plains Journal",
-    "timestamp": "2026-07-06T15:58:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
-  },
-  {
-    "title": "Grain report mobile app - High Plains Journal",
-    "timestamp": "2026-07-06T15:58:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
-  },
-  {
-    "title": "Grain report mobile app - High Plains Journal",
-    "timestamp": "2026-07-06T15:58:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
-  },
-  {
-    "title": "Grain report mobile app - High Plains Journal",
-    "timestamp": "2026-07-06T15:58:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "High Plains Journalが提供するGrain report mobile appの紹介記事。WASDEなどの穀物統計データにアクセスするためのモバイルアプリケーションに関する情報提供。具体的な市場データや統計値の開示はなく、ツール・プラットフォームの利便性向上に関する内容。"
   },
   {
     "title": "EXCLUSIVE: Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say - Reuters",
@@ -946,39 +781,6 @@
     "summary": "EIA原油在庫の減少を背景に原油価格が反発している。イラン情勢の不確実性が供給懸念を支援。エコノミストは強気ポジション維持を推奨しており、在庫減少と地政学リスクの組み合わせが価格支援要因として機能している。"
   },
   {
-    "title": "Grain Markets Rebound as Key Crop Reports Surprise Traders - Farms.com",
-    "timestamp": "2026-07-06T16:09:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "穀物市場が主要作物レポートの好意的なサプライズを受けて反発した。Crop Progress等の定期統計が市場予想を上回る内容だった可能性が高く、穀物先物相場に上値支援となった。具体的な生産量・作付面積等の数値は記事本体が不明だが、トレーダーの予想外の報告内容が価格を押し上げたと考えられる。"
-  },
-  {
-    "title": "Grain Markets Rebound as Key Crop Reports Surprise Traders - Farms.com",
-    "timestamp": "2026-07-06T16:09:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "穀物市場が主要作物レポートの好意的なサプライズを受けて反発した。Crop Progress等の定期統計が市場予想を上回る内容だった可能性が高く、穀物先物相場に上値支援となった。具体的な生産量・作付面積等の数値は記事本体が不明だが、トレーダーの予想外の報告内容が価格を押し上げたと考えられる。"
-  },
-  {
-    "title": "Grain Markets Rebound as Key Crop Reports Surprise Traders - Farms.com",
-    "timestamp": "2026-07-06T16:09:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "穀物市場が主要作物レポートの好意的なサプライズを受けて反発した。Crop Progress等の定期統計が市場予想を上回る内容だった可能性が高く、穀物先物相場に上値支援となった。具体的な生産量・作付面積等の数値は記事本体が不明だが、トレーダーの予想外の報告内容が価格を押し上げたと考えられる。"
-  },
-  {
     "title": "Very few changes come with the June 30 acreage report - Agweek",
     "timestamp": "2026-07-09T10:34:37+00:00",
     "importance": 1,
@@ -1010,5 +812,104 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "6月30日の作付面積レポートで大きな変更がなかったことが報告された。USDA定期発表の一環で、市場予想の範囲内の結果となり、穀物市場への動きは限定的。既報との大きな乖離はなく、通常の進捗確認の域を出ない。"
+  },
+  {
+    "title": "US Crude Oil Stocks Rise by 3 Million Barrels Against Market Expectations - energynews.pro",
+    "timestamp": "2026-07-09T07:55:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が市場予想に反して300万バレル増加した。需要の弱さを示唆する在庫積み増しは、原油価格に下押し圧力をもたらす。EIAの定期在庫統計は毎週注視される重要指標であり、予想外の増加は相場反転のシグナルとなりやすい。"
+  },
+  {
+    "title": "US Crude Oil Stocks Rise by 3 Million Barrels Against Market Expectations - energynews.pro",
+    "timestamp": "2026-07-09T07:55:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国の原油在庫が市場予想に反して300万バレル増加した。需要の弱さを示唆する在庫積み増しは、原油価格に下押し圧力をもたらす。EIAの定期在庫統計は毎週注視される重要指標であり、予想外の増加は相場反転のシグナルとなりやすい。"
+  },
+  {
+    "title": "Monthly Crop Report Affected by Weather - Southeast AgNET",
+    "timestamp": "2026-07-09T09:02:57+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "Southeast AgNETによる月次農作物レポートが天候の影響を受けて発表された。小麦、トウモロコシ、大豆の生育進捗が気象条件により変動し、作付面積や収穫見通しに影響が生じている可能性がある。具体的な数値がないため、詳細な影響度の評価は限定的。"
+  },
+  {
+    "title": "Monthly Crop Report Affected by Weather - Southeast AgNET",
+    "timestamp": "2026-07-09T09:02:57+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "Southeast AgNETによる月次農作物レポートが天候の影響を受けて発表された。小麦、トウモロコシ、大豆の生育進捗が気象条件により変動し、作付面積や収穫見通しに影響が生じている可能性がある。具体的な数値がないため、詳細な影響度の評価は限定的。"
+  },
+  {
+    "title": "Monthly Crop Report Affected by Weather - Southeast AgNET",
+    "timestamp": "2026-07-09T09:02:57+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "Southeast AgNETによる月次農作物レポートが天候の影響を受けて発表された。小麦、トウモロコシ、大豆の生育進捗が気象条件により変動し、作付面積や収穫見通しに影響が生じている可能性がある。具体的な数値がないため、詳細な影響度の評価は限定的。"
+  },
+  {
+    "title": "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources say - Reuters",
+    "timestamp": "2026-07-09T14:37:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア南部のサラトフ製油所が水曜日のドローン攻撃により停止状態にある。同製油所は日産約30万バレル規模のロシア主要製油所で、ウクライナによるとみられる攻撃で損傷した。ロシアの石油製品供給能力低下が懸念され、既に逼迫するロシア産原油・製品の供給リスクが高まった。"
+  },
+  {
+    "title": "HSBC lowers 2026-27 gold price forecasts on hawkish Fed tilt - Reuters",
+    "timestamp": "2026-07-09T08:39:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "HSBCが2026-27年の金価格見通しを引き下げた。FRBの金融引き締め姿勢（ハト派から鷹派へのシフト）が背景。金利上昇環境では金の無利子資産としての魅力が減少し、下値圧力が続く見込み。"
+  },
+  {
+    "title": "HSBC lowers 2026-27 gold price forecasts on hawkish Fed tilt - Reuters",
+    "timestamp": "2026-07-09T08:39:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "HSBCが2026-27年の金価格見通しを引き下げた。FRBの金融引き締め姿勢（ハト派から鷹派へのシフト）が背景。金利上昇環境では金の無利子資産としての魅力が減少し、下値圧力が続く見込み。"
+  },
+  {
+    "title": "Indonesia Gets First Russian Oil Shipment After Deal with Moscow - Bloomberg.com",
+    "timestamp": "2026-07-09T08:05:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インドネシアがモスクワとの合意後、初めてロシア産原油の船積みを受け取った。これは西側制裁下でのロシア原油の取引継続を示唆し、アジア地域での供給多様化を進める動き。具体的な数量や契約内容については公開情報が限定的。"
   }
 ]
