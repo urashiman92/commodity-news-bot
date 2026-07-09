@@ -1,71 +1,5 @@
 [
   {
-    "title": "OPEC+ countries say they will expand monthly oil production - Al Jazeera",
-    "timestamp": "2026-07-06T03:05:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が月間の石油生産を段階的に拡大すると発表。供給増加により原油価格に下押し圧力が働く。既報の減産政策からの方針転換であり、市場はこれまでのタイト供給環境の緩和を織り込む必要がある。"
-  },
-  {
-    "title": "Oil slips after OPEC+ agrees to raise output targets - CNBC",
-    "timestamp": "2026-07-06T01:34:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が石油生産目標の引き上げに合意し、原油価格が下落した。供給増加への市場の反応であり、現在の需要見通しに対するOPEC+の姿勢変化を示唆している。この決定は既に期待されていた範囲内だが、実際の増産実行までの期間が市場の注目点となる。"
-  },
-  {
-    "title": "Dow Jones Top Energy Headlines at 12 AM ET: OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering | AI ... - Moomoo",
-    "timestamp": "2026-07-06T04:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECおよび同盟国が再度の増産を発表し、ホルムズ海峡を通過する石油輸送量の回復が始まったとの報道。供給増加とホルムズ海峡の通航正常化は需給バランスの改善を示唆し、原油価格に下落圧力をもたらす。"
-  },
-  {
-    "title": "Asian shares slip as earnings loom, oil weighed by supply - Reuters",
-    "timestamp": "2026-07-06T03:36:24+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が決算シーズンを控えて軟調となる中、原油は供給要因により圧力を受けている。リスク資産としてのコモディティ全般が株価下落の影響を受けやすい状況。供給面での具体的な数値が記事本文に依存するため、詳細な評価は追加情報が必要。"
-  },
-  {
-    "title": "Asian shares slip as earnings loom, oil weighed by supply - Reuters",
-    "timestamp": "2026-07-06T03:36:24+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が決算シーズンを控えて軟調となる中、原油は供給要因により圧力を受けている。リスク資産としてのコモディティ全般が株価下落の影響を受けやすい状況。供給面での具体的な数値が記事本文に依存するため、詳細な評価は追加情報が必要。"
-  },
-  {
-    "title": "Oil Drops as Flows in Hormuz Persist and OPEC+ Flags More Supply - Bloomberg.com",
-    "timestamp": "2026-07-06T03:08:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の石油流通が継続していることと、OPEC+がさらなる供給増の可能性を示唆したことにより、原油価格が下落している。供給懸念の緩和と増産シグナルが市場に売り圧力をもたらしている。"
-  },
-  {
     "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
     "timestamp": "2026-07-06T07:47:54+00:00",
     "importance": 4,
@@ -1131,5 +1065,16 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDA7月WASDEレポートが穀物市場の次の上昇トレンドを引き起こす可能性を検討する分析記事。WASDEは米国農業の需給見通しを定期発表する重要統計であり、作付面積・生産量・在庫予想の更新が穀物価格に直結する。市場が上昇材料を織り込むか下落材料が出るかで方向が分かれる見通し。"
+  },
+  {
+    "title": "Corn Rally Stalls as Markets Turn Cautious Ahead of Key USDA Report - Agrolatam",
+    "timestamp": "2026-07-09T02:12:36+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ相場がラリーを停止し、市場が慎重姿勢に転じている。これは今後発表予定の重要なUSDA報告書を控えた様子見局面を反映している。市場参加者が公式統計の内容を注視しており、ポジション調整が発生している。"
   }
 ]
