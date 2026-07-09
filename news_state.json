@@ -264,17 +264,6 @@
     "summary": "ベトナムのSJC金地金価格がさらに下落した。具体的な下落幅や原因については記事要約に記載されていない。金相場の継続的な軟化局面を示唆する地域別レポート。"
   },
   {
-    "title": "金価格が4,200ドル台に回復、中国A株の金関連9銘柄が月内に全面高、赤峰黄金が20%急騰で先導 - BigGo ファイナンス",
-    "timestamp": "2026-07-06T19:07:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,200ドル台に回復し、中国A株の金関連銘柄が月内全面高となった。赤峰黄金が20%急騰をリード。金相場の上昇トレンドが株価に反映された局面。"
-  },
-  {
     "title": "金価格が下落、投資家が6月FRB議事録に注目する - Межа. Новини України.",
     "timestamp": "2026-07-07T03:25:40+00:00",
     "importance": 3,
@@ -1967,5 +1956,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物2608限月の現在値を表示したMoomooプラットフォームのポスト。具体的なニュース内容や価格変動の背景情報が不足している。"
+  },
+  {
+    "title": "投資家がこのファンドから資金を引き揚げたため、金価格は本日2026年7月10日に反転しました。ロシアの国家金準備高は3000億ドルを下回りました。一体何が起こっているのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-07-09T15:52:55+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ファンド投資家の資金引き揚げにより金価格が反転下落。ロシアの金準備高が300億ドル低下し3000億ドル未満に。ファンド売却と地政学的圧力が同時に作用。"
+  },
+  {
+    "title": "原油価格下落でも国内の値上げは「7月から」が本番、物価の落ち着き実感は早くて11月以降か - ダイヤモンド・オンライン",
+    "timestamp": "2026-07-09T19:20:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格下落が国内ガソリン価格に反映されるまでには時間差があり、値上げは7月から本格化する見通し。物価緩和を実感できるのは11月以降になる可能性がある。"
+  },
+  {
+    "title": "ＮＹ連銀総裁、原油価格は今後低下との見方 インフレへの影響に注視 - ニューズウィーク日本版",
+    "timestamp": "2026-07-09T14:04:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY連銀総裁が原油価格の今後の低下を見通す発言。インフレ抑制期待から弱気見解を示す。既存のインフレ低下トレンドと一貫性がある。"
+  },
+  {
+    "title": "7月9日のSouthern Copper Corp (SCCO) 値動きは4.41%上昇：完全な分析 - TradingKey",
+    "timestamp": "2026-07-09T18:15:41+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "7月9日にSouthern Copper Corp（SCCO）が4.41%上昇した。銅相場や需給関連の具体的なニュースは示されておらず、単一銘柄の値動きの振り返り記事と考えられる。"
+  },
+  {
+    "title": "【簡単解説】株価5倍！！JX金属を簡単解説 Franck Kepnang (cBQMkrznrr) - Mshale",
+    "timestamp": "2026-07-09T17:59:09+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属の株価が5倍上昇したことを解説する動画・記事。銅価格上昇やEV需要拡大による銅需要増加が背景と考えられる。コモディティ投資家にとっては銅市場の強気シナリオを示唆。"
   }
 ]
