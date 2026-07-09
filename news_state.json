@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格は史上最高値を更新した後、急落したが、投資家は別の要因を見出している。 - Vietnam.vn",
-    "timestamp": "2026-07-06T22:38:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が史上最高値を更新した後に急落したが、投資家が別の要因に注目している。記事は相場の振り返りと投資家心理の分析にフォーカスしている。"
-  },
-  {
-    "title": "本日（7月7日）の金価格：世界の金価格と国内の金価格はともにわずかに下落した。 - Vietnam.vn",
-    "timestamp": "2026-07-06T22:33:48+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月7日の金価格は世界・国内市場ともにわずかに下落した。日次の相場動向を伝える定型的なニュース記事である。特段の材料や背景説明は含まれていない。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：原油供給が過剰になるとの見方が影響し、原油価格は3営業日ぶりに下落（2026年7月7日） - OANDA",
-    "timestamp": "2026-07-06T23:17:24+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油供給過剰との見方から3営業日ぶりに価格が下落。市場では供給増加懸念が重石となっている。小幅な値動きであり、特段の新要素は示唆されていない。"
-  },
-  {
-    "title": "「1バレル＝60ドル」予想も出てきた原油価格…市場では供給過剰懸念まで - ｄメニューニュース",
-    "timestamp": "2026-07-06T22:50:08+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アナリスト等から原油価格が1バレル=60ドルまで下落する可能性が指摘されている。市場では供給過剰懸念が広がっており、需給バランスの悪化が価格圧力となっている。"
-  },
-  {
     "title": "銅価格は安定していた一方、アルミニウムと鉄鉱石の価格は同時に上昇した。 - Vietnam.vn",
     "timestamp": "2026-07-06T23:52:53+00:00",
     "importance": 2,
@@ -53,39 +9,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格は安定推移する一方、アルミニウムと鉄鉱石は同時に上昇した。商品市場で異なるモメンタムが観察された相場の振り返り。"
-  },
-  {
-    "title": "６日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-06T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "6日の主要国際商品市況の日次サマリー記事。具体的な価格変動や要因が特定できない一般的な市況報告。"
-  },
-  {
-    "title": "６日の主要国際商品市況 (2026年7月7日掲載) - ライブドアニュース",
-    "timestamp": "2026-07-06T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2026年7月6日の主要国際商品市況についての定期的な市場レポート。具体的な価格データや市場動向の詳細は記事本文を確認する必要がある。"
-  },
-  {
-    "title": "６日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-06T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "6日の主要国際商品市況に関する定期的な市況報道。具体的な価格データや市場動向の詳細が記事本文から確認できない。"
   },
   {
     "title": "6月末の外貨準備高、2カ月連続で減少 金価格が低下 - 日本経済新聞",
@@ -130,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金利見通しの不透明感が続く中、金価格が下落している。FED議事録の公表が注目されており、金融政策の方向性が価格決定の重要要因となっている。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4165ドル｜利益確定売りの勢いが強まった模様(2026年7月7日) - OANDA証券",
-    "timestamp": "2026-07-06T23:05:46+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4165ドルまで下落。利益確定売りの圧力が強まっている状況。テクニカルな売却局面の進行を示している。"
   },
   {
     "title": "金価格は最高値から約30％下落!? さらに下がる? 上がる? プロ鑑定士が語る売り時 - マイナビニュース",
@@ -1978,5 +1890,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ニューヨーク原油先物が3日ぶりに反落した。市場概況の速報報道であり、具体的な下落要因の詳細は記事から不明。通常の日中変動の範囲内と考えられる。"
+  },
+  {
+    "title": "ロレックス、狙い目はゴールド製中古モデル－金相場急落で値ごろ感 - Bloomberg.com",
+    "timestamp": "2026-07-09T23:40:09+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の急落に伴い、ロレックスのゴールド製中古モデルの値ごろ感が高まっている。金価格の下落が貴金属製高級時計の投資価値に影響を与えている。相場下落局面での割安機会を指摘するアナリスト論評。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4123ドル｜米長期金利の低下が影響し、買い優勢だった模様(2026年7月10日) - OANDA証券",
+    "timestamp": "2026-07-09T23:05:41+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4123ドルまで上昇。米長期金利の低下が買い圧力となった。市場ニュースの解説記事であり、既に織り込まれた動きの振り返り。"
+  },
+  {
+    "title": "本日2026年7月10日の金価格は、急落後急騰し、SJC金価格は過去最高値を更新した。 - Vietnam.vn",
+    "timestamp": "2026-07-09T23:16:49+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が過去最高値を更新した。急落後の急騰という値動きを記録。地域的な市場動向の報告。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの衝突は短期間で終了するとの見方から、原油価格は3営業日ぶりに下落（2026年7月10日） - OANDA証券",
+    "timestamp": "2026-07-09T23:14:46+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの衝突が短期間で終了するとの見方から、原油価格は3営業日ぶりに下落した。地政学的リスクの後退が価格圧力となっている。"
+  },
+  {
+    "title": "原油価格や10年債利回りは終日概ね下落基調 これが株価のサポートとなり底堅い展開 - 日経CNBC online",
+    "timestamp": "2026-07-09T23:19:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格と10年債利回りが終日下落基調で推移。金利低下がリスク資産を支援し、株価は底堅い展開となった。コモディティ相場全体で弱気シグナル。"
+  },
+  {
+    "title": "インフレ懸念が中東の地政学リスクを圧倒、国際原油価格が約2％急落 - BigGo ファイナンス",
+    "timestamp": "2026-07-09T22:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "インフレ懸念が地政学リスクを上回る相場心理により原油価格が約2%急落。中東情勢の供給リスク懸念よりも、マクロインフレ動向が現在の市場心理の主要ドライバーとなっていることが示唆される。"
+  },
+  {
+    "title": "LME銅先物は324ドル高で終了し、1トンあたり13,490ドルとなった - Bitget",
+    "timestamp": "2026-07-09T08:55:19+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅先物が1トンあたり13,490ドルで取引終了し、前日比324ドル高。日中の相場動きを報じた市場情報で、サプライズ要因は認められない。"
+  },
+  {
+    "title": "９日の主要国際商品市況 - 株探",
+    "timestamp": "2026-07-09T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "9日の主要国際商品市況の日次レポート。具体的な価格動向や銘柄別パフォーマンスの記載なし。定期的な市況情報の提供。"
+  },
+  {
+    "title": "９日の主要国際商品市況 - みんかぶ",
+    "timestamp": "2026-07-09T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "9日の主要国際商品市況についての定期的な市場レポート。具体的な価格変動や市場イベントの詳細は記事内容が不明。"
   }
 ]
