@@ -1,27 +1,5 @@
 [
   {
-    "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
-    "timestamp": "2026-07-06T07:47:54+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イランの戦争関連で過去最大規模の原油供給損失が発生。世界市場がこれを吸収している一方で、戦略備蓄の枯渇により価格リスクが顕在化。供給ショックが継続すれば在庫ひっ迫による急伸リスクが高まっている。"
-  },
-  {
-    "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
-    "timestamp": "2026-07-06T07:47:54+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イランの戦争関連で過去最大規模の原油供給損失が発生。世界市場がこれを吸収している一方で、戦略備蓄の枯渇により価格リスクが顕在化。供給ショックが継続すれば在庫ひっ迫による急伸リスクが高まっている。"
-  },
-  {
     "title": "ClearView's Kevin Book on whether OPEC+'s higher oil output targets will impact prices - CNBC",
     "timestamp": "2026-07-06T11:13:07+00:00",
     "importance": 2,
@@ -42,28 +20,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が8月の日量目標を引き上げたことを受け、原油価格が1%超下落した。供給増加への市場反応として価格圧力が高まった。予定された定期的な生産目標調整であり、市場の事前予想範囲内の動き。"
-  },
-  {
-    "title": "Drone debris damages Russia's Ust-Luga, Vysotsk ports, other regions report attacks - Reuters",
-    "timestamp": "2026-07-06T06:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの主要港湾Ust-LugaおよびVysotskがドローン攻撃による損害を受けた。これらの港は石油・ガスの主要輸出拠点であり、サプライチェーン寸断のリスクが高まっている。地政学的緊張の高まりが供給サイドのショックとなる可能性が強い。"
-  },
-  {
-    "title": "Drone debris damages Russia's Ust-Luga, Vysotsk ports, other regions report attacks - Reuters",
-    "timestamp": "2026-07-06T06:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの主要港湾Ust-LugaおよびVysotskがドローン攻撃による損害を受けた。これらの港は石油・ガスの主要輸出拠点であり、サプライチェーン寸断のリスクが高まっている。地政学的緊張の高まりが供給サイドのショックとなる可能性が強い。"
   },
   {
     "title": "Saudis Make Biggest Oil Price Cut in Decades as Market Weakens - Bloomberg.com",
@@ -295,28 +251,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIA発表によるとOPEC+の増産決定にもかかわらず米国原油在庫は平年を7%下回る水準に留まっており、需給の引き締まりが続いている。増産効果が限定的であることが示唆され、供給面での構造的な逼迫が浮き彫りになっている。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 64% Good to Excellent as of July 5 - DTN Progressive Farmer",
-    "timestamp": "2026-07-06T08:05:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA作物進捗報告（7月5日時点）でトウモロコシが67%、大豆が64%の良好～優秀評価。これらは平年並み～やや良好な水準であり、北米の主要穀物生産見通しが堅調であることを示唆している。豊作見通しは収穫量増加予想につながり、両商品の下値圧力となる。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 64% Good to Excellent as of July 5 - DTN Progressive Farmer",
-    "timestamp": "2026-07-06T08:05:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA作物進捗報告（7月5日時点）でトウモロコシが67%、大豆が64%の良好～優秀評価。これらは平年並み～やや良好な水準であり、北米の主要穀物生産見通しが堅調であることを示唆している。豊作見通しは収穫量増加予想につながり、両商品の下値圧力となる。"
   },
   {
     "title": "UAE Oil Production Nears Record High After OPEC Exit - Crude Oil Prices Today | OilPrice.com",
@@ -726,39 +660,6 @@
     "summary": "米国穀物の中期レビューと収穫シーズン見通しに関するレポート。作付面積、生育進捗、生産予測など、調達戦略に影響を与える主要データが含まれると推定。具体的な数値情報が不明のため、実際の驚きの度合いは統計内容次第。"
   },
   {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 6, 2026 - RFD-TV",
-    "timestamp": "2026-07-06T07:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年7月6日のRFD-TV週間作物進捗レポート。米国の地域別作物進捗と畜産生産に関する定期更新。具体的な数値・前週比・前年比データが提示記事から確認できないため、詳細な方向性の判定が困難。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 6, 2026 - RFD-TV",
-    "timestamp": "2026-07-06T07:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年7月6日のRFD-TV週間作物進捗レポート。米国の地域別作物進捗と畜産生産に関する定期更新。具体的な数値・前週比・前年比データが提示記事から確認できないため、詳細な方向性の判定が困難。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 6, 2026 - RFD-TV",
-    "timestamp": "2026-07-06T07:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年7月6日のRFD-TV週間作物進捗レポート。米国の地域別作物進捗と畜産生産に関する定期更新。具体的な数値・前週比・前年比データが提示記事から確認できないため、詳細な方向性の判定が困難。"
-  },
-  {
     "title": "OPEC Output Hikes Raise Oversupply Fears as Cartel Shows Cracks - Hart Energy",
     "timestamp": "2026-07-07T22:10:00+00:00",
     "importance": 4,
@@ -1076,5 +977,60 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ相場がラリーを停止し、市場が慎重姿勢に転じている。これは今後発表予定の重要なUSDA報告書を控えた様子見局面を反映している。市場参加者が公式統計の内容を注視しており、ポジション調整が発生している。"
+  },
+  {
+    "title": "EIA reports an increase in US crude oil stocks - engine.online",
+    "timestamp": "2026-07-09T07:03:02+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告した。在庫増加は原油供給が需要を上回っていることを示唆し、価格下押し要因となる。ただし具体的な在庫増加量や前週比などの詳細データが記事から確認できない。"
+  },
+  {
+    "title": "Oil Rebounds Amid Inventory Drawdowns, Iran War Uncertainty: Economist Says 'Stay Long' - Stocktwits",
+    "timestamp": "2026-07-07T00:50:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA原油在庫の減少を背景に原油価格が反発している。イラン情勢の不確実性が供給懸念を支援。エコノミストは強気ポジション維持を推奨しており、在庫減少と地政学リスクの組み合わせが価格支援要因として機能している。"
+  },
+  {
+    "title": "Grain Markets Rebound as Key Crop Reports Surprise Traders - Farms.com",
+    "timestamp": "2026-07-06T16:09:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "穀物市場が主要作物レポートの好意的なサプライズを受けて反発した。Crop Progress等の定期統計が市場予想を上回る内容だった可能性が高く、穀物先物相場に上値支援となった。具体的な生産量・作付面積等の数値は記事本体が不明だが、トレーダーの予想外の報告内容が価格を押し上げたと考えられる。"
+  },
+  {
+    "title": "Grain Markets Rebound as Key Crop Reports Surprise Traders - Farms.com",
+    "timestamp": "2026-07-06T16:09:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "穀物市場が主要作物レポートの好意的なサプライズを受けて反発した。Crop Progress等の定期統計が市場予想を上回る内容だった可能性が高く、穀物先物相場に上値支援となった。具体的な生産量・作付面積等の数値は記事本体が不明だが、トレーダーの予想外の報告内容が価格を押し上げたと考えられる。"
+  },
+  {
+    "title": "Grain Markets Rebound as Key Crop Reports Surprise Traders - Farms.com",
+    "timestamp": "2026-07-06T16:09:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "穀物市場が主要作物レポートの好意的なサプライズを受けて反発した。Crop Progress等の定期統計が市場予想を上回る内容だった可能性が高く、穀物先物相場に上値支援となった。具体的な生産量・作付面積等の数値は記事本体が不明だが、トレーダーの予想外の報告内容が価格を押し上げたと考えられる。"
   }
 ]
