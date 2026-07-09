@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ raises output levels again despite tumbling crude prices - MarketWatch",
-    "timestamp": "2026-07-05T22:30:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が原油価格の下落に抗して増産を決定。市場予想に反する強気な姿勢を示した。原油価格が既に低迷している局面での増産発表は、供給過剰懸念を強め、さらなる価格下押し圧力となる。需給バランスの悪化が鮮明化。"
-  },
-  {
     "title": "OPEC+ countries say they will expand monthly oil production - Al Jazeera",
     "timestamp": "2026-07-06T03:05:36+00:00",
     "importance": 3,
@@ -44,17 +33,6 @@
     "summary": "OPECおよび同盟国が再度の増産を発表し、ホルムズ海峡を通過する石油輸送量の回復が始まったとの報道。供給増加とホルムズ海峡の通航正常化は需給バランスの改善を示唆し、原油価格に下落圧力をもたらす。"
   },
   {
-    "title": "Oil slips after OPEC+ agrees to raise output targets - Reuters",
-    "timestamp": "2026-07-06T00:37:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+が産油量目標の引き上げに合意し、原油相場が下落した。供給増加への市場反応が顕在化し、需給バランスの緩和を織り込んだ価格調整が発生。地政学的リスクプレミアムの縮小も影響している可能性が高い。"
-  },
-  {
     "title": "Asian shares slip as earnings loom, oil weighed by supply - Reuters",
     "timestamp": "2026-07-06T03:36:24+00:00",
     "importance": 2,
@@ -75,28 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が決算シーズンを控えて軟調となる中、原油は供給要因により圧力を受けている。リスク資産としてのコモディティ全般が株価下落の影響を受けやすい状況。供給面での具体的な数値が記事本文に依存するため、詳細な評価は追加情報が必要。"
-  },
-  {
-    "title": "Oil Edges Lower on OPEC Increase, Dollar Steady: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-05T22:19:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "OPECの増産決定を受けて原油価格が小幅下落した。ドル相場は安定推移しており、金などドル建てコモディティへの直接的な圧力は限定的。市場は既にOPEC増産の見通しを部分的に織り込んでいる模様。"
-  },
-  {
-    "title": "Oil Edges Lower on OPEC Increase, Dollar Steady: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-05T22:19:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "OPECの増産決定を受けて原油価格が小幅下落した。ドル相場は安定推移しており、金などドル建てコモディティへの直接的な圧力は限定的。市場は既にOPEC増産の見通しを部分的に織り込んでいる模様。"
   },
   {
     "title": "Oil Drops as Flows in Hormuz Persist and OPEC+ Flags More Supply - Bloomberg.com",
@@ -1142,5 +1098,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+の増産目標引き上げが油価に及ぼす影響について、ClearViewのKevin Bookがコメンテーリーを提供。増産発表が実際の市場供給増加に直結するかは不透明で、市場はすでにOPEC+の実行能力への懐疑を織り込んでいる可能性が高い。"
+  },
+  {
+    "title": "Will USDA's July WASDE Trigger the Next Grain Market Rally? - Agrolatam",
+    "timestamp": "2026-07-08T18:14:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA7月WASDEレポートが穀物市場の次の上昇トレンドを引き起こす可能性を検討する分析記事。WASDEは米国農業の需給見通しを定期発表する重要統計であり、作付面積・生産量・在庫予想の更新が穀物価格に直結する。市場が上昇材料を織り込むか下落材料が出るかで方向が分かれる見通し。"
+  },
+  {
+    "title": "Will USDA's July WASDE Trigger the Next Grain Market Rally? - Agrolatam",
+    "timestamp": "2026-07-08T18:14:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA7月WASDEレポートが穀物市場の次の上昇トレンドを引き起こす可能性を検討する分析記事。WASDEは米国農業の需給見通しを定期発表する重要統計であり、作付面積・生産量・在庫予想の更新が穀物価格に直結する。市場が上昇材料を織り込むか下落材料が出るかで方向が分かれる見通し。"
+  },
+  {
+    "title": "Will USDA's July WASDE Trigger the Next Grain Market Rally? - Agrolatam",
+    "timestamp": "2026-07-08T18:14:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA7月WASDEレポートが穀物市場の次の上昇トレンドを引き起こす可能性を検討する分析記事。WASDEは米国農業の需給見通しを定期発表する重要統計であり、作付面積・生産量・在庫予想の更新が穀物価格に直結する。市場が上昇材料を織り込むか下落材料が出るかで方向が分かれる見通し。"
   }
 ]
