@@ -33,17 +33,6 @@
     "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、作付進捗状況、圃場状態評価などを報告。具体的な数値や前週比較データが明記されていないため、市場への即座の影響は限定的と判断。"
   },
   {
-    "title": "UAE Oil Production Nears Record High After OPEC Exit - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-07-06T18:30:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、原油生産が記録的高水準に接近している。OPEC+の減産枠組み外での増産は、グローバルな石油供給過剰圧力を強める。減産維持の協調が崩れ始める兆候として、原油価格の下押し要因となる可能性が高い。"
-  },
-  {
     "title": "Oil prices gain as focus shifts to supply recovery and demand - Reuters",
     "timestamp": "2026-07-07T00:53:00+00:00",
     "importance": 2,
@@ -517,17 +506,6 @@
     "summary": "米国の原油在庫が4月以来初めて増加した。輸出が減速したことが主因と見られる。在庫の積み上がりは原油供給過剰シグナルとなり、価格下押し圧力となる。需給バランスの悪化が確認された局面。"
   },
   {
-    "title": "Business - OPEC raises output but cartel's future remains unsure - France 24",
-    "timestamp": "2026-07-06T20:04:20+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが原油生産量を引き上げたことが報じられたが、カルテルの将来の安定性に不確実性が残っている。増産決定は価格下押し圧力となる可能性がある一方、カルテル内の足並みの乱れや減産維持の難しさが構造的な問題として指摘されている。"
-  },
-  {
     "title": "Markets Brace for Critical USDA Report That Could Reshape Grain Prices Worldwide - Agrolatam",
     "timestamp": "2026-07-08T17:46:50+00:00",
     "importance": 4,
@@ -933,5 +911,148 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが6月に予算黒字を達成した。イラン関連の紛争に伴う原油ラリーが寄与。地政学的リスクプレミアムの上昇により原油価格が押し上げられ、ロシアの財政収支が改善。OPECプラスの減産体制と相まって供給逼迫シナリオが強まる。"
+  },
+  {
+    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+    "timestamp": "2026-07-09T19:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "FRB金融政策",
+    "commodity": "金",
+    "summary": "FRBが金融政策推進の各タスクフォース体制を発表。組織的な政策運営体制の整備であり、具体的な金利変更や政策方針の転換を示唆するものではない。既報の政策枠組み内での執行体制強化であるため、市場への直接的なショックは限定的。"
+  },
+  {
+    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+    "timestamp": "2026-07-09T19:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "FRB金融政策",
+    "commodity": "コモディティ全般",
+    "summary": "FRBが金融政策推進の各タスクフォース体制を発表。組織的な政策運営体制の整備であり、具体的な金利変更や政策方針の転換を示唆するものではない。既報の政策枠組み内での執行体制強化であるため、市場への直接的なショックは限定的。"
+  },
+  {
+    "title": "WASDE Preview: China Buying and Weather in Focus as Soybean Rally Faces Its Next Test - RFD-TV",
+    "timestamp": "2026-07-09T19:52:35+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDE発表を控え、中国の大豆買い戻しと米国の天候が大豆相場の重要なテスト局面となっている。中国の購買意欲が価格ラリーを支えるか、天候懸念がいかに織り込まれるかが注目ポイント。複数の不確実性要因が市場心理に影響を与える状況。"
+  },
+  {
+    "title": "WASDE Preview: China Buying and Weather in Focus as Soybean Rally Faces Its Next Test - RFD-TV",
+    "timestamp": "2026-07-09T19:52:35+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE発表を控え、中国の大豆買い戻しと米国の天候が大豆相場の重要なテスト局面となっている。中国の購買意欲が価格ラリーを支えるか、天候懸念がいかに織り込まれるかが注目ポイント。複数の不確実性要因が市場心理に影響を与える状況。"
+  },
+  {
+    "title": "WASDE Preview: China Buying and Weather in Focus as Soybean Rally Faces Its Next Test - RFD-TV",
+    "timestamp": "2026-07-09T19:52:35+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDE発表を控え、中国の大豆買い戻しと米国の天候が大豆相場の重要なテスト局面となっている。中国の購買意欲が価格ラリーを支えるか、天候懸念がいかに織り込まれるかが注目ポイント。複数の不確実性要因が市場心理に影響を与える状況。"
+  },
+  {
+    "title": "Weather Concerns and Geopolitics Drive Wheat and Soybean Markets Fluctuations - Oklahoma Farm Report",
+    "timestamp": "2026-07-09T17:47:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "天候不安と地政学リスクが小麦と大豆市場の変動要因として指摘されている。具体的な数値やWASDEの最新予測値は記事へのアクセス不可のため詳細は確認不可。天候と地政学は相反する価格圧力（天候懸念=供給減=上昇圧力、地政学=需要減=下落圧力）をもたらす可能性がある。"
+  },
+  {
+    "title": "Weather Concerns and Geopolitics Drive Wheat and Soybean Markets Fluctuations - Oklahoma Farm Report",
+    "timestamp": "2026-07-09T17:47:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "天候不安と地政学リスクが小麦と大豆市場の変動要因として指摘されている。具体的な数値やWASDEの最新予測値は記事へのアクセス不可のため詳細は確認不可。天候と地政学は相反する価格圧力（天候懸念=供給減=上昇圧力、地政学=需要減=下落圧力）をもたらす可能性がある。"
+  },
+  {
+    "title": "Will the July WASDE report send soybean prices higher? - Agrolatam",
+    "timestamp": "2026-07-07T18:16:42+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月のWASDE報告書が大豆価格に上昇をもたらすかどうかを検討するコメンタリー。WASEDは毎月定期発表される米国農産物需給見通しで、作付面積・生産量・在庫などの重要統計が含まれる。大豆の需給環境、特に南米の天候やドル相場の影響を反映する可能性がある。"
+  },
+  {
+    "title": "Will the July WASDE report send soybean prices higher? - Agrolatam",
+    "timestamp": "2026-07-07T18:16:42+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "7月のWASDE報告書が大豆価格に上昇をもたらすかどうかを検討するコメンタリー。WASEDは毎月定期発表される米国農産物需給見通しで、作付面積・生産量・在庫などの重要統計が含まれる。大豆の需給環境、特に南米の天候やドル相場の影響を反映する可能性がある。"
+  },
+  {
+    "title": "OPEC Is No Longer Relevant in a Changing Energy World - The National Interest",
+    "timestamp": "2026-07-09T12:05:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの市場支配力が低下しているという論評記事。米国シェール革命、再生可能エネルギー普及、電動車の拡大により、OPEC加盟国の市場への影響力が相対的に減弱。従来のOPECの減産・増産発表の市場への効果が限定的になりつつある状況が指摘される。"
+  },
+  {
+    "title": "OPEC Is No Longer Relevant in a Changing Energy World - The National Interest",
+    "timestamp": "2026-07-09T12:05:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECの市場支配力が低下しているという論評記事。米国シェール革命、再生可能エネルギー普及、電動車の拡大により、OPEC加盟国の市場への影響力が相対的に減弱。従来のOPECの減産・増産発表の市場への効果が限定的になりつつある状況が指摘される。"
+  },
+  {
+    "title": "Fuel markets flash supply crunch despite calmer oil prices - Reuters",
+    "timestamp": "2026-07-09T16:33:44+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格は比較的落ち着いているものの、燃料市場では供給逼迫の兆候が報告されている。タイトルの「供給不足の警告信号」は、原油価格の穏やかさとは対照的に、精製品やガソリン・ディーゼルなど川下市場でのボトルネック懸念を示唆。地政学リスクや季節需要の変動が背景にある可能性が高い。"
+  },
+  {
+    "title": "Fuel markets flash supply crunch despite calmer oil prices - Reuters",
+    "timestamp": "2026-07-09T16:33:44+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格は比較的落ち着いているものの、燃料市場では供給逼迫の兆候が報告されている。タイトルの「供給不足の警告信号」は、原油価格の穏やかさとは対照的に、精製品やガソリン・ディーゼルなど川下市場でのボトルネック懸念を示唆。地政学リスクや季節需要の変動が背景にある可能性が高い。"
   }
 ]
