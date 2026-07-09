@@ -1,60 +1,5 @@
 [
   {
-    "title": "July WASDE unlikely to shake up crop outlook - Farm Progress",
-    "timestamp": "2026-07-06T17:06:06+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "7月のWASDE（米農務省作物見通し）は市場予想の範囲内に収まり、穀物相場への大きな変動要因にはならないと予想される。定期的な作付面積・生産見通し更新として通常の内容と見られ、既に織り込まれている市場シナリオからの大きな乖離はないと考えられる。"
-  },
-  {
-    "title": "July WASDE unlikely to shake up crop outlook - Farm Progress",
-    "timestamp": "2026-07-06T17:06:06+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "7月のWASDE（米農務省作物見通し）は市場予想の範囲内に収まり、穀物相場への大きな変動要因にはならないと予想される。定期的な作付面積・生産見通し更新として通常の内容と見られ、既に織り込まれている市場シナリオからの大きな乖離はないと考えられる。"
-  },
-  {
-    "title": "July WASDE unlikely to shake up crop outlook - Farm Progress",
-    "timestamp": "2026-07-06T17:06:06+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "7月のWASDE（米農務省作物見通し）は市場予想の範囲内に収まり、穀物相場への大きな変動要因にはならないと予想される。定期的な作付面積・生産見通し更新として通常の内容と見られ、既に織り込まれている市場シナリオからの大きな乖離はないと考えられる。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1983 - Reuters",
-    "timestamp": "2026-07-06T16:55:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下した。SPRは過去数年間の放出（インフレ対策やウクライナ危機対応）の累積により大幅に減少し、米国の石油供給余力が著しく制約された状況を示唆している。この低水準は原油需給逼迫の潜在的リスクを高める。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1983 - Reuters",
-    "timestamp": "2026-07-06T16:55:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下した。SPRは過去数年間の放出（インフレ対策やウクライナ危機対応）の累積により大幅に減少し、米国の石油供給余力が著しく制約された状況を示唆している。この低水準は原油需給逼迫の潜在的リスクを高める。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-07-06T21:02:12.510654+00:00",
     "importance": 2,
@@ -911,5 +856,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "インドネシアがモスクワとの合意後、初めてロシア産原油の船積みを受け取った。これは西側制裁下でのロシア原油の取引継続を示唆し、アジア地域での供給多様化を進める動き。具体的な数量や契約内容については公開情報が限定的。"
+  },
+  {
+    "title": "July WASDE preview: Eyes on world stocks - Pro Farmer",
+    "timestamp": "2026-07-09T17:09:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "7月のWASDE（米農務省作物見通し）レポートが発表予定。世界穀物在庫（特に小麦、トウモロコシ、大豆）の動向が焦点となる。前月比での在庫水準変化が価格を左右する重要な発表であり、南米およびウクライナ情勢の影響も反映される見通し。"
+  },
+  {
+    "title": "July WASDE preview: Eyes on world stocks - Pro Farmer",
+    "timestamp": "2026-07-09T17:09:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月のWASDE（米農務省作物見通し）レポートが発表予定。世界穀物在庫（特に小麦、トウモロコシ、大豆）の動向が焦点となる。前月比での在庫水準変化が価格を左右する重要な発表であり、南米およびウクライナ情勢の影響も反映される見通し。"
+  },
+  {
+    "title": "July WASDE preview: Eyes on world stocks - Pro Farmer",
+    "timestamp": "2026-07-09T17:09:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のWASDE（米農務省作物見通し）レポートが発表予定。世界穀物在庫（特に小麦、トウモロコシ、大豆）の動向が焦点となる。前月比での在庫水準変化が価格を左右する重要な発表であり、南米およびウクライナ情勢の影響も反映される見通し。"
+  },
+  {
+    "title": "OPEC Isn’t Dead. It Just Lost Its Superpower - The National Interest",
+    "timestamp": "2026-07-09T12:05:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの影響力低下に関する論評。シェールオイル革命、米国のエネルギー独立、OPEC加盟国内の利害対立により、かつての市場支配力が減弱。ただし減産合意によるサポートは依然として機能している状況が指摘されている。"
+  },
+  {
+    "title": "OPEC Isn’t Dead. It Just Lost Its Superpower - The National Interest",
+    "timestamp": "2026-07-09T12:05:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECの影響力低下に関する論評。シェールオイル革命、米国のエネルギー独立、OPEC加盟国内の利害対立により、かつての市場支配力が減弱。ただし減産合意によるサポートは依然として機能している状況が指摘されている。"
+  },
+  {
+    "title": "Strategic oil reserve buying set to support crude demand through 2028 - Reuters",
+    "timestamp": "2026-07-09T16:05:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の戦略石油備蓄（SPR）の買い入れが2028年を通じて原油需要を下支えするとの見通し。政府による長期的で安定した需要が見込まれることで、原油相場の下値支持材料となる可能性。供給不安が高まる地政学リスク環境下では需給逼迫緩和をもたらす。"
+  },
+  {
+    "title": "Russia Swings to June Budget Surplus on Iran War Oil Rally - Bloomberg.com",
+    "timestamp": "2026-07-09T13:25:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが6月に予算黒字を達成した。イラン関連の紛争に伴う原油ラリーが寄与。地政学的リスクプレミアムの上昇により原油価格が押し上げられ、ロシアの財政収支が改善。OPECプラスの減産体制と相まって供給逼迫シナリオが強まる。"
   }
 ]
