@@ -1,16 +1,5 @@
 [
   {
-    "title": "NYダウは反落 AIや半導体に売り、原油相場上昇も重荷 - 日本経済新聞",
-    "timestamp": "2026-07-07T20:34:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NYダウが反落した中で、原油相場は上昇。AI・半導体セクターへの売却圧力がある一方、原油高がエネルギーセクターや景気への懸念を示唆。"
-  },
-  {
     "title": "本日（2026年7月8日）の金価格：SJC 9999金地金およびプレーンリングの価格、ならびに週末時点の世界の金価格。 - Vietnam.vn",
     "timestamp": "2026-07-07T22:14:08+00:00",
     "importance": 1,
@@ -1923,5 +1912,49 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "ウクライナの攻撃により小麦供給が急騰、市場で供給不安が広がっている。ウクライナは世界有数の小麦輸出国であり、供給途絶のリスクが価格上昇につながっている。"
+  },
+  {
+    "title": "金相場下落で中古高級時計相場急落 - CHOSUNBIZ - Chosunbiz",
+    "timestamp": "2026-07-10T21:01:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の下落に伴い、中古高級時計の相場が連動して下落している。金を含む貴金属資産全般の価値低下が時計市場にも波及している状況。"
+  },
+  {
+    "title": "【原油ウォッチ】イラン情勢、再び緊迫でも原油価格はもう高騰しない、その理由とは(1/3) - JBpress",
+    "timestamp": "2026-07-10T21:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化は懸念材料だが、記事は原油価格は高騰しないと分析している。シェール増産やIEA備蓄放出など、供給面での相殺要因が強いことが理由と見られる。"
+  },
+  {
+    "title": "ＮＹダウ終値は２日連続の上昇、１４９ドル高の５万２６３７ドル…原油価格下落で消費関連などに買い - 読売新聞",
+    "timestamp": "2026-07-10T20:45:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落がNYダウを押し上げた。消費関連銘柄に買いが入り、2日連続で上昇。原油安は輸入国にとって好材料となっている。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ50ドル高、原油先物0.55ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-10T14:21:00+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の相場動向を報じるもの。ダウ平均は小幅高だが、原油先物は0.55ドル安。日中の既存トレンド振り返りの速報型記事。"
   }
 ]
