@@ -1,137 +1,5 @@
 [
   {
-    "title": "中国人民銀の金準備、6月は2年半余りぶり大幅増 金価格急落でも - ロイター",
-    "timestamp": "2026-07-07T23:39:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中国人民銀行が6月に金準備を2年半ぶりの大幅増加させた。金価格が急落している局面での買い増しは、中央銀行による逆張り買い圧力を示唆。世界最大級の金準備増加は構造的な需要シグナルであり、長期的な価格支援要因となる可能性がある。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4106ドル｜原油高や米長期金利の上昇が影響した模様(2026年7月8日) - OANDA証券",
-    "timestamp": "2026-07-07T23:04:24+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4106ドルまで下落した。原油高と米長期金利の上昇が売り圧力となった。ドル高・実質金利上昇は金にとって逆風材料。"
-  },
-  {
-    "title": "中国人民銀の金準備、6月は2年半余りぶり大幅増 金価格急落でも - ニューズウィーク日本版",
-    "timestamp": "2026-07-07T23:41:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中国人民銀行が6月に金準備を2年半ぶりに大幅増加させた。金価格が急落している局面での買い増しは、中央銀行による需要堅調を示唆。地政学的リスク回避やドル弱体化への対応姿勢を反映。"
-  },
-  {
-    "title": "2026年7月8日の金価格：反転は失敗、金価格は再び急落。 - Vietnam.vn",
-    "timestamp": "2026-07-07T23:12:27+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が反転に失敗し再び急落した。テクニカル的なレジスタンスレベルでの売り圧力が強い。短期的な調整局面が続いている状況。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：ホルムズ海峡航行中の船舶が攻撃を受けた影響で、原油価格は2営業日ぶりに上昇（2026年7月8日） - OANDA証券",
-    "timestamp": "2026-07-07T23:13:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡での船舶攻撃により、世界最大級の石油輸送路が脅かされた。地政学的リスクの顕在化で供給不安が急速に高まり、原油価格は2営業日ぶりに上昇。"
-  },
-  {
-    "title": "米原油先物が3％近く急伸、米軍のイラン攻撃受け - ニューズウィーク日本版",
-    "timestamp": "2026-07-07T23:29:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍によるイラン攻撃という地政学的ショックが発生し、米原油先物が3％近く急伸した。中東地域の地政学的リスクが顕在化し、供給途絶への懸念が急速に高まった。原油市場の緊張が一気に高まる局面と言える。"
-  },
-  {
-    "title": "米国がホルムズ海峡攻撃めぐりイランを空爆、原油価格が急騰 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-07T23:38:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランを空爆し、ホルムズ海峡での緊張が急速に高まった。中東最大の地政学的リスク要因である海峡封鎖懸念が現実化し、供給途絶への恐怖から原油価格が急騰した。"
-  },
-  {
-    "title": "米原油先物が3％近く急伸、米軍のイラン攻撃受け - ｄメニューニュース",
-    "timestamp": "2026-07-07T23:41:40+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がイランを攻撃し、地政学的緊張が急速に高まった。中東の主要産油地域での供給途絶リスクが現実化し、原油先物は3％近く急伸した。市場は有事プレミアムを織り込み始めている。"
-  },
-  {
-    "title": "本日の燃料価格（7月8日）：WTI原油とブレント原油の価格が急騰。 - Vietnam.vn",
-    "timestamp": "2026-07-07T23:23:15+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月8日のWTI原油とブレント原油が急騰したとの報道。ベトナムのニュース配信による価格観測記事で、具体的な騰落率や要因は記事からは不明確。"
-  },
-  {
-    "title": "米原油先物が3％近く急伸、米軍のイラン攻撃受け - ロイター",
-    "timestamp": "2026-07-07T23:29:57+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍によるイラン攻撃が実行され、地政学的リスク悪化を受けて米原油先物が3％近く急伸した。中東の主要産油国周辺での緊張激化は供給途絶懸念を高め、投機的な買い需要を誘発。短期的なボラティリティ拡大が予想される。"
-  },
-  {
-    "title": "７日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-07T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "7日の国際商品市況についての定期的な市場レポート。具体的な価格動向や商品別の詳細データが記事本文に含まれていると推定される。"
-  },
-  {
-    "title": "中国人民銀の金準備、6月は2年半余りぶり大幅増 金価格急落でも（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-07-07T23:47:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中国人民銀行が6月に金準備を2年半ぶりの大幅増加させた。金価格が下落している局面での買い増しであり、準備資産の多角化とドル依存低減の戦略と見られる。中央銀行による買い支えは金相場の下支え要因となる。"
-  },
-  {
     "title": "本日（7月8日）の金価格：SJCの金地金と金指輪が急落。 - Vietnam.vn",
     "timestamp": "2026-07-08T00:58:00+00:00",
     "importance": 2,
@@ -185,28 +53,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格高騰により金属盗難が増加し、太陽光発電設備が盗難対象となっている。総額1億円程度の被害が報告されている。"
-  },
-  {
-    "title": "７日の主要国際商品市況 (2026年7月8日掲載) - ライブドアニュース",
-    "timestamp": "2026-07-07T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "7日の主要国際商品市況に関する定期的な市場レポート。具体的な価格データや変動要因の詳細が記事本文なしのため、分析不可。"
-  },
-  {
-    "title": "７日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-07T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "7日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や商品別の詳細は記事本文に基づく必要がある。"
   },
   {
     "title": "金価格、イランリスクと米連邦準備制度議事録に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1978,5 +1824,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "IEA（国際エネルギー機関）が世界原油価格に関する最新評価を発表した。具体的な価格見通しや市場評価の内容が記事から不明確。IEAの定期的な市場評論として認識される。"
+  },
+  {
+    "title": "NY金先物：反落、米イラン協議進展とドル底堅さが重しに(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-10T23:18:13+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反落。米イラン協議の進展による地政学リスク低下と、ドル底堅さが金売却圧力となった。安全資産需要の減退が重し。"
+  },
+  {
+    "title": "本日（7月11日）の金価格：引き続き変動。 - Vietnam.vn",
+    "timestamp": "2026-07-10T21:59:38+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトが7月11日の金価格について「引き続き変動」と報じている。具体的な価格水準や変動要因の詳細は記事概要からは判断不可。定期的な相場レポートと推定される。"
+  },
+  {
+    "title": "NY原油先物：続落、ホルムズ海峡の供給懸念後退で売り優勢 - 株探",
+    "timestamp": "2026-07-10T23:16:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が続落。ホルムズ海峡の供給懸念が後退し、売り圧力が優勢となった。地政学的リスク評価の緩和により下押し圧力が続いている。"
+  },
+  {
+    "title": "本日の燃料価格（7月11日）：世界の原油価格は小幅下落。 - Vietnam.vn",
+    "timestamp": "2026-07-10T23:17:54+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月11日時点で世界の原油価格が小幅下落した。ベトナムの燃料価格情報サイトによる日次レポート。具体的な下落要因や数値は記事本文を要確認。"
   }
 ]
