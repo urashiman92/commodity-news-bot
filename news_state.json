@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（2026年7月8日）の金価格：SJC 9999金地金およびプレーンリングの価格、ならびに週末時点の世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-07T22:14:08+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトによる日次の金相場報告。SJC 9999金地金とプレーンリングの価格、および週末の世界金価格を記載。"
-  },
-  {
     "title": "中国人民銀の金準備、6月は2年半余りぶり大幅増 金価格急落でも - ロイター",
     "timestamp": "2026-07-07T23:39:44+00:00",
     "importance": 4,
@@ -141,17 +130,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "中国人民銀行が6月に金準備を2年半ぶりの大幅増加させた。金価格が下落している局面での買い増しであり、準備資産の多角化とドル依存低減の戦略と見られる。中央銀行による買い支えは金相場の下支え要因となる。"
-  },
-  {
-    "title": "【更新】ドル高と利回り上昇を受け金価格は小幅に下落 - Moomoo",
-    "timestamp": "2026-07-07T21:39:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ドル高と米国債利回り上昇が金価格を下押しした。金は非利息資産であるため、ドル強化と実質利回り上昇の環境下では相対的に魅力が低下する。小幅な下落にとどまっており、市場の大きな転換ではない。"
   },
   {
     "title": "本日（7月8日）の金価格：SJCの金地金と金指輪が急落。 - Vietnam.vn",
@@ -1956,5 +1934,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午前10時台の相場動向を報じるもの。ダウ平均は小幅高だが、原油先物は0.55ドル安。日中の既存トレンド振り返りの速報型記事。"
+  },
+  {
+    "title": "NY原油・金相場（10日）－原油が続落 金は反落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-10T22:03:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油が続落し、金は反落した。市場は既存のトレンドに沿った値動きを示している。具体的な好況・悪材料の新規発生は報道から不明。"
+  },
+  {
+    "title": "本日（7月11日）の金価格：金地金価格が全般的に急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-10T22:33:45+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの報道で金地金価格が急騰したことを報じた記事。金相場の日々の値動きを伝えるニュース。"
+  },
+  {
+    "title": "NYダウ続伸149ドル高、原油安で消費関連に買い－ナスダックも上昇 - BigGo ファイナンス",
+    "timestamp": "2026-07-10T21:55:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株式市場で原油価格の低下が好感され、消費関連銘柄に買いが入りNYダウが上昇した。原油安は一般的にエネルギーコスト低下による消費環境の改善を示唆している。"
+  },
+  {
+    "title": "国際エネルギー機関は、世界の原油価格に関する最新の評価を発表した。 - Vietnam.vn",
+    "timestamp": "2026-07-10T16:32:14+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "IEA（国際エネルギー機関）が世界原油価格に関する最新評価を発表した。具体的な価格見通しや市場評価の内容が記事から不明確。IEAの定期的な市場評論として認識される。"
   }
 ]
