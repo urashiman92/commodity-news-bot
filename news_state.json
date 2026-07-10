@@ -1,71 +1,5 @@
 [
   {
-    "title": "銅価格は安定していた一方、アルミニウムと鉄鉱石の価格は同時に上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-06T23:52:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格は安定推移する一方、アルミニウムと鉄鉱石は同時に上昇した。商品市場で異なるモメンタムが観察された相場の振り返り。"
-  },
-  {
-    "title": "6月末の外貨準備高、2カ月連続で減少 金価格が低下 - 日本経済新聞",
-    "timestamp": "2026-07-07T01:35:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日本の6月末外貨準備高が2カ月連続で減少。金価格の下落が主要因。外貨準備の金保有額が評価減を受けた。"
-  },
-  {
-    "title": "金価格見通し：FOMC議事要旨で米ドル高再燃も、急反落警戒、想定レンジ4000〜4300ドル - ig.com",
-    "timestamp": "2026-07-07T00:49:22+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FOMC議事要旨公表に基づく金価格見通しの分析記事。米ドル高再燃による下押し圧力と急反落リスクを指摘。想定レンジを4000～4300ドルと設定。"
-  },
-  {
-    "title": "NY金先物は反落、ドル高が重しも米労働市場の減速観測が下値を支える｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-07T00:03:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物は反落。ドル高が金価格の下押し要因となる一方、米労働市場の減速観測が下値支持材料として作用している。相反する要因が市場を動かしている。"
-  },
-  {
-    "title": "金利不透明感が続く中、金価格が下落――FED議事録に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-07T01:50:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金利見通しの不透明感が続く中、金価格が下落している。FED議事録の公表が注目されており、金融政策の方向性が価格決定の重要要因となっている。"
-  },
-  {
-    "title": "金価格は最高値から約30％下落!? さらに下がる? 上がる? プロ鑑定士が語る売り時 - マイナビニュース",
-    "timestamp": "2026-07-07T02:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が最高値から約30%下落した局面について、プロ鑑定士が売り時を解説する記事。既に価格変動が起きており、今後の方向性をアナリスト見解で論じている。"
-  },
-  {
     "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
     "timestamp": "2026-07-07T02:43:39+00:00",
     "importance": 1,
@@ -132,17 +66,6 @@
     "summary": "WTI原油先物の単なるティッカー表示。具体的なニュース内容や市場動向の情報が含まれていない。投資判断に必要な情報が欠落している。"
   },
   {
-    "title": "サウジ、8月のアジア向け原油価格引き下げ 20年超で最大 - ニューズウィーク日本版",
-    "timestamp": "2026-07-07T01:14:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアが8月のアジア向け原油公式価格を20年超で最大幅に引き下げ。需要減少への懸念と供給過剰圧力が背景。WTI/ブレント相場への下押し圧力が強まる。"
-  },
-  {
     "title": "小麦先物2809のリアルタイムチャート - Moomoo",
     "timestamp": "2026-07-07T04:32:05+00:00",
     "importance": 1,
@@ -174,17 +97,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムで金価格が急落し、小売店舗の売上が低迷している。闇市場でも価格の下押し圧力が強まっており、需要が弱い状況が続いている。"
-  },
-  {
-    "title": "OPECプラス、5カ月連続増産へ 国際原油価格は戦前水準に下落、アジア株はまちまち - BigGo ファイナンス",
-    "timestamp": "2026-07-07T01:45:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OPECプラスが5ヶ月連続の増産を決定し、国際原油価格は戦前水準まで下落。供給増加が価格下押し圧力として作用している。市場は既に増産方針を認識していた可能性が高い。"
   },
   {
     "title": "湾岸諸国が市場シェア奪回を競い合い、原油価格を押し下げる懸念 - Межа. Новини України.",
@@ -1989,5 +1901,137 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "9日の主要国際商品市況についての定期的な市場レポート。具体的な価格変動や市場イベントの詳細は記事内容が不明。"
+  },
+  {
+    "title": "金価格、戻り鈍くFRB利上げ観測が重石、来週は米CPIが焦点に - ig.com",
+    "timestamp": "2026-07-10T01:26:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の上昇が鈍化している。FRBの利上げ継続観測が重石となっている。来週の米CPI発表が重要な注視ポイント。"
+  },
+  {
+    "title": "ロレックス、狙い目はゴールド製中古モデル-金相場急落で値ごろ感（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+    "timestamp": "2026-07-10T01:02:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の下落に伴い、ロレックスのゴールド製中古モデルの相対的な値ごろ感が改善している。投資家向けの相場評論記事で、金の価格低下が貴金属時計の購買機会をもたらす可能性を指摘。"
+  },
+  {
+    "title": "2026年の金相場展望 強気サイクル支える要因は不変 - 日経CNBC online",
+    "timestamp": "2026-07-10T01:15:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年の金相場について、現在の強気サイクルを支える基本要因は2026年も変わらないとの見方を示すコラム。金の上昇を支える構造的な要因の持続性に焦点。"
+  },
+  {
+    "title": "NY金先物は反発、中東情勢の緊迫化で質への逃避進む｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-10T00:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中東情勢の緊迫化により、安全資産としての金需要が増加。NY金先物が反発し、リスク回避の質への逃避が進行している。地政学的リスク要因が金価格を支持。"
+  },
+  {
+    "title": "金先物、第2四半期に14%超の急落——13年ぶり最悪の四半期、逃避機能に再考迫る - BigGo ファイナンス",
+    "timestamp": "2026-07-10T00:56:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物が第2四半期に14%超の急落を記録し、13年ぶりの最悪四半期となった。利上げ継続観測と強いドルが下落を主導。従来のインフレヘッジとしての金の有効性が問い直されている。"
+  },
+  {
+    "title": "本日（7月10日）の金価格：反転上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-10T00:46:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月10日の金価格が反転上昇したとの報道。具体的な上昇幅や背景要因は記事概要では不明。ベトナムメディアの相場解説記事と思われる。"
+  },
+  {
+    "title": "【速報】日経平均株価 続伸で取引開始 原油先物価格の落ち着きをうけ - KAB 熊本朝日放送",
+    "timestamp": "2026-07-10T00:33:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日経平均が続伸で取引開始。原油先物価格が落ち着いたことが好感されている。株価と原油の連動性による日本株市場の反応。"
+  },
+  {
+    "title": "【速報】日経平均株価 続伸で取引開始 原油先物価格の落ち着きをうけ - テレ朝NEWS",
+    "timestamp": "2026-07-10T00:13:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格が落ち着きを見せたことで、リスク資産である日経平均株価が続伸で取引を開始した。原油価格の安定化がインフレ圧力緩和を示唆し、株式市場の心理が改善。"
+  },
+  {
+    "title": "CMEグループの原油先物24時間取引、CFTCは当面開始を認めず - Bloomberg.com",
+    "timestamp": "2026-07-10T02:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "CMEグループが申請していた原油先物の24時間取引開始をCFTCが当面認めず。規制当局の慎重姿勢が反映されたもの。市場流動性や取引時間帯の拡大期待は一旦延期。"
+  },
+  {
+    "title": "FRB高官 原油価格下落が妥当 中東情勢は緊迫化も - テレ東BIZ",
+    "timestamp": "2026-07-09T20:45:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "FRB高官が原油価格の下落は妥当との見解を示唆。現在の価格水準は需給バランスを反映していると評価。一方で中東情勢の緊迫化が潜在的なリスク要因として存在。"
+  },
+  {
+    "title": "９日の主要国際商品市況 (2026年7月10日掲載) - ライブドアニュース",
+    "timestamp": "2026-07-09T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年7月9日の主要国際商品市況の日次総括記事。具体的な価格データや市場動向の詳細が記事本文にないため、市場への実質的な影響を判断できない。"
+  },
+  {
+    "title": "９日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-07-09T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "9日の主要国際商品市況に関するニュース報道。具体的な価格動向や商品別の動きについて記事内容が確認できない。定期的な市況報告と推定される。"
   }
 ]
