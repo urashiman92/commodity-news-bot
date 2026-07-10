@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格は本日7月7日、引き続き急落した状態で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-07-07T12:41:54+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が7月7日も引き続き急落して取引を終えた。市場心理の悪化や利上げ観測の継続が背景か。現物需要への影響は限定的。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ13ドル高、原油先物1.82ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-07T14:31:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前10時台の動向として、ダウが13ドル高、WTI原油先物が1.82ドル高で推移。相場の日中振り返りと技術的な値動きを報じている。"
-  },
-  {
-    "title": "イランがホルムズ海峡の船舶攻撃と報道 原油価格再上昇 - BeInCrypto",
-    "timestamp": "2026-07-07T13:53:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランがホルムズ海峡で船舶攻撃を実行したと報道。同海峡は世界原油供給の約30%が通過する極めて重要な輸送路。地政学的緊張の高まりにより原油価格が反発上昇。"
-  },
-  {
     "title": "2026年7月の金価格見通し - BeInCrypto",
     "timestamp": "2026-07-07T19:14:08+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "2026年7月の金価格見通しに関するBeInCryptoの記事。暗号資産メディアが金先物の価格予想を提供しているが、具体的な見通し内容が不明。定期的な価格分析の一環と推定される。"
-  },
-  {
-    "title": "本日（2026年7月8日）の金価格は売りが止まり、市場は買い集めに移行し、新たな価格基盤を形成しています。理想的な金保有比率は5～15％です。 - Vietnam.vn",
-    "timestamp": "2026-07-07T14:56:47+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金市場は売圧が一服し、買い集めが優位に転じて新たな価格基盤を形成している。ポートフォリオ構成における理想的な金保有比率は5～15％とされている。"
   },
   {
     "title": "NY市場動向（午後2時台）：ダウ113ドル安、原油先物1.92ドル高｜FX・為替ニュース - ザイFX！",
@@ -1945,5 +1901,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン軍事衝突が限定的との見方が広がり、地政学的リスク・プレミアムが縮小。供給途絶懸念が後退し、原油価格が下落。"
+  },
+  {
+    "title": "CBOTの小麦先物が6週間ぶりの高値、USDA作物報告を前に上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-10T13:20:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "CBOT小麦先物が6週間ぶりの高値を更新。USDA作物報告の発表を控え、市場が供給見通しの悪化を織り込んでいる可能性が高い。価格上昇は作況悪化懸念に基づいている。"
+  },
+  {
+    "title": "2026年7月10日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-10T10:57:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ情報。金先物に直接的な関連性は低く、日本株指数の取引関連データの提供。"
+  },
+  {
+    "title": "2026年7月11日の金価格：回復が止まり、貴金属は底値に達した。中国はなぜ備蓄を加速させているのか？ - Vietnam.vn",
+    "timestamp": "2026-07-10T15:01:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が底値圏にあり回復が停滞している状況が報じられた。中国が金備蓄を加速させている動きが注目されている。各国中銀の金買い需要が価格下支え要因として機能している。"
+  },
+  {
+    "title": "NY外為：ドルもみ合い、原油価格の変動激しく 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-10T13:45:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル相場が狭いレンジで推移する中、原油価格は変動が激しい状況。マクロ環境と原油市場の値動きが乖離している。"
+  },
+  {
+    "title": "CMEグループの原油先物24時間取引、CFTCは当面開始を認めず - Bloomberg",
+    "timestamp": "2026-07-10T02:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "CMEグループが原油先物の24時間取引開始を申請したが、CFTCが当面これを認めないと発表。規制当局の慎重な対応により、市場構造の大きな変化には至らない見通し。"
   }
 ]
