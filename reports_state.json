@@ -1,60 +1,5 @@
 [
   {
-    "title": "What to know about U.S. oil production and consumption in 6 charts - Pew Research Center",
-    "timestamp": "2026-07-07T18:03:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "Pew Research Centerが米国の石油生産・消費の動向を6つのチャートで解説した記事。EIA原油在庫統計に基づく定期的な市場分析で、具体的な新規数値やサプライズを含まない市場評論。米国のエネルギー需給構造に関する背景情報提供が主目的。"
-  },
-  {
-    "title": "Will the July WASDE report send soybean prices higher? - Agrolatam",
-    "timestamp": "2026-07-07T18:16:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "7月のWASDE報告書が大豆相場を押し上げる可能性があるかについての分析記事。WASEDは毎月公開される米国農務省の定期供給・需要予測レポートで、大豆の作付面積、生産量、輸出予想に直接影響する。実際の報告内容なしには方向性が不確定だが、供給見通しの下方修正があれば価格上昇圧力となる可能性がある。"
-  },
-  {
-    "title": "USDA Reports Point to Larger Soybean Crop and Stronger Demand - Grain Journal",
-    "timestamp": "2026-07-07T17:29:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA報告書が大豆の作付面積・生産量の増加と需要強化を示唆。より大きな大豆クロップ見通しと国内外の需要堅調が価格上昇圧力となる可能性が高い。穀物市場全体にポジティブシグナル。"
-  },
-  {
-    "title": "USDA Reports Point to Larger Soybean Crop and Stronger Demand - Grain Journal",
-    "timestamp": "2026-07-07T17:29:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA報告書が大豆の作付面積・生産量の増加と需要強化を示唆。より大きな大豆クロップ見通しと国内外の需要堅調が価格上昇圧力となる可能性が高い。穀物市場全体にポジティブシグナル。"
-  },
-  {
-    "title": "USDA Reports Point to Larger Soybean Crop and Stronger Demand - Grain Journal",
-    "timestamp": "2026-07-07T17:29:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA報告書が大豆の作付面積・生産量の増加と需要強化を示唆。より大きな大豆クロップ見通しと国内外の需要堅調が価格上昇圧力となる可能性が高い。穀物市場全体にポジティブシグナル。"
-  },
-  {
     "title": "Focus on Ag: Very little change in June 30th USDA Acreage Report - farmforum.net",
     "timestamp": "2026-07-07T20:22:00+00:00",
     "importance": 1,
@@ -671,28 +616,6 @@
     "summary": "天候不安と地政学リスクが小麦と大豆市場の変動要因として指摘されている。具体的な数値やWASDEの最新予測値は記事へのアクセス不可のため詳細は確認不可。天候と地政学は相反する価格圧力（天候懸念=供給減=上昇圧力、地政学=需要減=下落圧力）をもたらす可能性がある。"
   },
   {
-    "title": "Will the July WASDE report send soybean prices higher? - Agrolatam",
-    "timestamp": "2026-07-07T18:16:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "7月のWASDE報告書が大豆価格に上昇をもたらすかどうかを検討するコメンタリー。WASEDは毎月定期発表される米国農産物需給見通しで、作付面積・生産量・在庫などの重要統計が含まれる。大豆の需給環境、特に南米の天候やドル相場の影響を反映する可能性がある。"
-  },
-  {
-    "title": "Will the July WASDE report send soybean prices higher? - Agrolatam",
-    "timestamp": "2026-07-07T18:16:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "7月のWASDE報告書が大豆価格に上昇をもたらすかどうかを検討するコメンタリー。WASEDは毎月定期発表される米国農産物需給見通しで、作付面積・生産量・在庫などの重要統計が含まれる。大豆の需給環境、特に南米の天候やドル相場の影響を反映する可能性がある。"
-  },
-  {
     "title": "OPEC Is No Longer Relevant in a Changing Energy World - The National Interest",
     "timestamp": "2026-07-09T12:05:45+00:00",
     "importance": 3,
@@ -1065,5 +988,60 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDAが7月度の作物生産・需給見通し（WASDE）を発表。米国の主要穀物（トウモロコシ・大豆・小麦）の生産量、作付面積、在庫予想が更新される定例レポート。市場は天候影響や生産見通しの上方・下方修正に注視。詳細な数値なしでは方向性の判定が困難。"
+  },
+  {
+    "title": "July WASDE Report Signals Historic Wheat Decline, Stronger Corn Demand, Higher Cattle Prices - RFD-TV",
+    "timestamp": "2026-07-10T17:23:41+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "7月WASDEレポートで小麦生産が歴史的な大幅減少を示唆し、一方トウモロコシは需要強化の兆しを見せた。小麦の供給逼迫懸念が価格上昇圧力となる一方、トウモロコシは需要環境が改善。畜産物価格（特に牛肉）も上昇圧力が強まっており、穀物関連コモディティ全体にボラティリティが高まっている。"
+  },
+  {
+    "title": "July WASDE Report Signals Historic Wheat Decline, Stronger Corn Demand, Higher Cattle Prices - RFD-TV",
+    "timestamp": "2026-07-10T17:23:41+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月WASDEレポートで小麦生産が歴史的な大幅減少を示唆し、一方トウモロコシは需要強化の兆しを見せた。小麦の供給逼迫懸念が価格上昇圧力となる一方、トウモロコシは需要環境が改善。畜産物価格（特に牛肉）も上昇圧力が強まっており、穀物関連コモディティ全体にボラティリティが高まっている。"
+  },
+  {
+    "title": "July WASDE Report Signals Historic Wheat Decline, Stronger Corn Demand, Higher Cattle Prices - RFD-TV",
+    "timestamp": "2026-07-10T17:23:41+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "7月WASDEレポートで小麦生産が歴史的な大幅減少を示唆し、一方トウモロコシは需要強化の兆しを見せた。小麦の供給逼迫懸念が価格上昇圧力となる一方、トウモロコシは需要環境が改善。畜産物価格（特に牛肉）も上昇圧力が強まっており、穀物関連コモディティ全体にボラティリティが高まっている。"
+  },
+  {
+    "title": "July WASDE Report Analysis: Corn and Beef Markets See Bullish Adjustments - Oklahoma Farm Report",
+    "timestamp": "2026-07-10T18:02:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月WASDEレポートでトウモロコシと牛肉市場が強気調整となった。レポートの具体的な生産予測や在庫数字は提示されていないが、タイトルが「Bullish Adjustments」と明示しており、作付面積や収量見通しが市場想定より改善または需要が堅調であることが示唆されている。"
+  },
+  {
+    "title": "July WASDE Report Analysis: Corn and Beef Markets See Bullish Adjustments - Oklahoma Farm Report",
+    "timestamp": "2026-07-10T18:02:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月WASDEレポートでトウモロコシと牛肉市場が強気調整となった。レポートの具体的な生産予測や在庫数字は提示されていないが、タイトルが「Bullish Adjustments」と明示しており、作付面積や収量見通しが市場想定より改善または需要が堅調であることが示唆されている。"
   }
 ]
