@@ -33,28 +33,6 @@
     "summary": "イランがホルムズ海峡で船舶攻撃を実行したと報道。同海峡は世界原油供給の約30%が通過する極めて重要な輸送路。地政学的緊張の高まりにより原油価格が反発上昇。"
   },
   {
-    "title": "ステファンズ、原油価格見通し改定でSM Energyの目標株価を$52に引き下げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-07T12:14:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アナリスト企業のステファンズがSM Energyの目標株価を$52に引き下げ、原油価格見通しを改定。個別企業の株価調整に関するアナリスト意見。"
-  },
-  {
-    "title": "価格高騰の小麦粉と下落基調の米　「安い値段で…」学生への思いと経営で板挟みのパン店 - ｄメニューニュース",
-    "timestamp": "2026-07-07T10:24:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "小麦粉価格の高騰により、学生向けに安価なパンを提供するパン店が経営難に直面。米価は下落基調だが、小麦粉コストの上昇がマージン圧迫を継続。個別事業者の経営課題を描いた事例報道。"
-  },
-  {
     "title": "2026年7月の金価格見通し - BeInCrypto",
     "timestamp": "2026-07-07T19:14:08+00:00",
     "importance": 2,
@@ -163,17 +141,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報サイトによる日次の金相場報告。SJC 9999金地金とプレーンリングの価格、および週末の世界金価格を記載。"
-  },
-  {
-    "title": "シカゴのトウモロコシ先物が1.2%以上上昇し、コーヒーCは9.3%下落しました。 - Bitget",
-    "timestamp": "2026-07-07T11:47:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "シカゴのトウモロコシ先物が1.2%上昇した一方、コーヒーC先物は9.3%下落。異なるコモディティの日々の価格変動を報じた相場振り返り。"
   },
   {
     "title": "中国人民銀の金準備、6月は2年半余りぶり大幅増 金価格急落でも - ロイター",
@@ -1945,5 +1912,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が金融危機の前兆を示していると指摘するコメンタリー記事。金融市場の不安定化を背景に、安全資産としての金の需要が高まる可能性を示唆している。"
+  },
+  {
+    "title": "ロレックス、狙い目はゴールド製中古モデル－金相場急落で値ごろ感 - TBS NEWS DIG",
+    "timestamp": "2026-07-10T01:01:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の急落を受けて、ロレックスのゴールド製中古モデルが投資妙味を持つようになったという観測記事。金価格の下落で、貴金属製時計の相対的な割安感が出現。消費者向けの市場解説。"
+  },
+  {
+    "title": "2026年7月10日の終値時点の金価格：金曜日の金地金、金指輪、BTMC、およびDOJIの終値。 - Vietnam.vn",
+    "timestamp": "2026-07-10T10:30:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月10日の金の終値レポート。ベトナムメディアによる定期的な金地金、金指輪、先物（BTMC、DOJI）の終値情報。"
+  },
+  {
+    "title": "原油価格が下落、米イラン軍事衝突は限定的との見方広がる - TBS NEWS DIG",
+    "timestamp": "2026-07-09T20:54:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン軍事衝突が限定的との見方が広がり、地政学的リスク・プレミアムが縮小。供給途絶懸念が後退し、原油価格が下落。"
   }
 ]
