@@ -1,38 +1,5 @@
 [
   {
-    "title": "Focus on Ag: Very little change in June 30th USDA Acreage Report - farmforum.net",
-    "timestamp": "2026-07-07T20:22:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA が 6 月 30 日に発表した作付面積レポートで、前月比でほぼ変動がなかったことが報じられた。市場の事前予想の範囲内であり、大豆やトウモロコシなどの主要穀物の作付計画に大きな変更はないことを示唆している。"
-  },
-  {
-    "title": "Focus on Ag: Very little change in June 30th USDA Acreage Report - farmforum.net",
-    "timestamp": "2026-07-07T20:22:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA が 6 月 30 日に発表した作付面積レポートで、前月比でほぼ変動がなかったことが報じられた。市場の事前予想の範囲内であり、大豆やトウモロコシなどの主要穀物の作付計画に大きな変更はないことを示唆している。"
-  },
-  {
-    "title": "Focus on Ag: Very little change in June 30th USDA Acreage Report - farmforum.net",
-    "timestamp": "2026-07-07T20:22:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA が 6 月 30 日に発表した作付面積レポートで、前月比でほぼ変動がなかったことが報じられた。市場の事前予想の範囲内であり、大豆やトウモロコシなどの主要穀物の作付計画に大きな変更はないことを示唆している。"
-  },
-  {
     "title": "OPEC Output Hikes Raise Oversupply Fears as Cartel Shows Cracks - Hart Energy",
     "timestamp": "2026-07-07T22:10:00+00:00",
     "importance": 4,
@@ -1043,5 +1010,137 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "7月WASDEレポートでトウモロコシと牛肉市場が強気調整となった。レポートの具体的な生産予測や在庫数字は提示されていないが、タイトルが「Bullish Adjustments」と明示しており、作付面積や収量見通しが市場想定より改善または需要が堅調であることが示唆されている。"
+  },
+  {
+    "title": "USDA Cuts Corn Stocks as Weather Threats Loom Over Tight Supplies - AgWeb",
+    "timestamp": "2026-07-10T18:31:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA がトウモロコシ在庫を下方修正し、供給の逼迫が深刻化している。天候リスクが今後のさらなる供給減少をもたらす可能性が高く、市場が注視している状況。在庫削減のニュースと悪天候の複合的な脅威が価格上昇圧力を強化。"
+  },
+  {
+    "title": "USDA Cuts Corn Stocks as Weather Threats Loom Over Tight Supplies - AgWeb",
+    "timestamp": "2026-07-10T18:31:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA がトウモロコシ在庫を下方修正し、供給の逼迫が深刻化している。天候リスクが今後のさらなる供給減少をもたらす可能性が高く、市場が注視している状況。在庫削減のニュースと悪天候の複合的な脅威が価格上昇圧力を強化。"
+  },
+  {
+    "title": "July WASDE report delivers a rare positive ‘market-mover’ bounce - Michigan Farm News",
+    "timestamp": "2026-07-10T19:25:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "7月のWASDE報告書が市場を大きく動かすポジティブなサプライズをもたらした。「稀なマーケットムーバー」として評価される内容で、穀物市場全体に上昇圧力をもたらした。米国の農産物需給見通しの大幅改善または生産減少予想の下方修正が影響したと考えられる。"
+  },
+  {
+    "title": "July WASDE report delivers a rare positive ‘market-mover’ bounce - Michigan Farm News",
+    "timestamp": "2026-07-10T19:25:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "7月のWASDE報告書が市場を大きく動かすポジティブなサプライズをもたらした。「稀なマーケットムーバー」として評価される内容で、穀物市場全体に上昇圧力をもたらした。米国の農産物需給見通しの大幅改善または生産減少予想の下方修正が影響したと考えられる。"
+  },
+  {
+    "title": "July WASDE report delivers a rare positive ‘market-mover’ bounce - Michigan Farm News",
+    "timestamp": "2026-07-10T19:25:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "7月のWASDE報告書が市場を大きく動かすポジティブなサプライズをもたらした。「稀なマーケットムーバー」として評価される内容で、穀物市場全体に上昇圧力をもたらした。米国の農産物需給見通しの大幅改善または生産減少予想の下方修正が影響したと考えられる。"
+  },
+  {
+    "title": "July WASDE data proved helpful for grain prices - Farm Progress",
+    "timestamp": "2026-07-10T17:03:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "7月のWASDE（米農務省作物見通し）発表が穀物価格の支援材料となった。同発表は毎月実施される定期統計で、米国の穀物（小麦・トウモロコシ・大豆）の作付面積、生産見通し、在庫予測を更新する。市場では供給見通しの引き下げまたは需要の堅調さが価格上昇を促したと示唆される。"
+  },
+  {
+    "title": "July WASDE data proved helpful for grain prices - Farm Progress",
+    "timestamp": "2026-07-10T17:03:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "7月のWASDE（米農務省作物見通し）発表が穀物価格の支援材料となった。同発表は毎月実施される定期統計で、米国の穀物（小麦・トウモロコシ・大豆）の作付面積、生産見通し、在庫予測を更新する。市場では供給見通しの引き下げまたは需要の堅調さが価格上昇を促したと示唆される。"
+  },
+  {
+    "title": "July WASDE data proved helpful for grain prices - Farm Progress",
+    "timestamp": "2026-07-10T17:03:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "7月のWASDE（米農務省作物見通し）発表が穀物価格の支援材料となった。同発表は毎月実施される定期統計で、米国の穀物（小麦・トウモロコシ・大豆）の作付面積、生産見通し、在庫予測を更新する。市場では供給見通しの引き下げまたは需要の堅調さが価格上昇を促したと示唆される。"
+  },
+  {
+    "title": "USDA adjusts rice, cotton production projections - Brownfield Ag News",
+    "timestamp": "2026-07-10T19:12:22+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが米国のコメと綿花の生産予想を調整した。供給見通しの変更は両コモディティの価格に影響する可能性がある。具体的な調整幅は記事リンクが利用不可のため確認できないが、定期的な生産予測修正は市場が注視する指標である。"
+  },
+  {
+    "title": "Opec-Plus Crude Output Leaps in June - Energy Intelligence",
+    "timestamp": "2026-07-09T23:56:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が6月の原油生産量を大幅に増加させたと報告。これはサウジアラビアなど主要加盟国の減産緩和を反映。供給増加は原油価格に下押し圧力を与える可能性があるが、市場はすでに段階的な増産計画を織り込んでいる。"
+  },
+  {
+    "title": "Ukraine creates 'long-range' command to step up strikes on Russia - Reuters",
+    "timestamp": "2026-07-10T19:23:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナが長距離攻撃司令部を創設し、ロシアへの越境攻撃を強化する戦略を発表。地政学的リスク拡大により、黒海地域の石油・ガス供給寸断の懸念が急速に高まる。これまでの局地的な紛争から戦域拡大への転換点となり、エネルギー市場のリスクプレミアム上乗せが加速する可能性が高い。"
+  },
+  {
+    "title": "Ukraine creates 'long-range' command to step up strikes on Russia - Reuters",
+    "timestamp": "2026-07-10T19:23:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナが長距離攻撃司令部を創設し、ロシアへの越境攻撃を強化する戦略を発表。地政学的リスク拡大により、黒海地域の石油・ガス供給寸断の懸念が急速に高まる。これまでの局地的な紛争から戦域拡大への転換点となり、エネルギー市場のリスクプレミアム上乗せが加速する可能性が高い。"
   }
 ]
