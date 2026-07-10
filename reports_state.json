@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil prices gain as focus shifts to supply recovery and demand - Reuters",
-    "timestamp": "2026-07-07T00:53:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "Reutersの商品ニュースで、石油市場の焦点がサプライ回復と需要動向にシフトしている旨を報じている。需給バランスの改善期待が原油価格を支える展開となっている。具体的な数値データが見出しから不明だが、市場心理は需給ファンダメンタルズの改善に好感。"
-  },
-  {
-    "title": "Japan-owned supertankers head to Strait of Hormuz with Saudi Arabian oil, data shows - Reuters",
-    "timestamp": "2026-07-07T01:15:53+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "日本企業が所有するスーパータンカーがホルムズ海峡へ向かい、サウジアラビア産原油を輸送していることが明らかになった。これは中東からの原油供給ルート稼働確認を示唆しており、地政学的リスク下での日本の原油調達動向を反映している。ホルムズ海峡経由での輸送継続は中東産原油の市場供給安定性を示唆する重要なシグナル。"
-  },
-  {
     "title": "EXCLUSIVE: Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say - Reuters",
     "timestamp": "2026-07-07T07:02:19+00:00",
     "importance": 3,
@@ -33,28 +11,6 @@
     "summary": "サウジアラビアが紅海向けの石油パイプライン拡張を検討中とのニュース。地政学的な重要性と供給ルートの多様化戦略を示唆。ホルムズ海峡への依存低減が背景にある可能性がある。"
   },
   {
-    "title": "Gold slips as US dollar, yields rise ahead of Fed minutes - Reuters",
-    "timestamp": "2026-07-07T02:57:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米ドル強化と米国債利回り上昇により金相場が軟調。FRB議事録公表を控える中、金利上昇環境が無利子資産である金に下押し圧力をかけている。ドル強化に伴う金のドル建て価格の相対的な割高感が投資家の売却につながっている。"
-  },
-  {
-    "title": "Gold slips as US dollar, yields rise ahead of Fed minutes - Reuters",
-    "timestamp": "2026-07-07T02:57:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米ドル強化と米国債利回り上昇により金相場が軟調。FRB議事録公表を控える中、金利上昇環境が無利子資産である金に下押し圧力をかけている。ドル強化に伴う金のドル建て価格の相対的な割高感が投資家の売却につながっている。"
-  },
-  {
     "title": "Saudi oil price cut unlikely to convince sated Asia buyers, traders say - Reuters",
     "timestamp": "2026-07-07T05:06:00+00:00",
     "importance": 3,
@@ -64,28 +20,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが原油価格を引き下げたものの、アジア買い手の需要が既に飽和状態にあるため、価格引き下げが需要喚起につながりにくいとの市場観測。OPEC主導の価格施策が限定的な効果しか期待できない状況を示唆。"
-  },
-  {
-    "title": "Asian stocks tumble on AI jitters after Samsung forecast; oil stable - Reuters",
-    "timestamp": "2026-07-07T02:03:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Samsung の業績予想悪化を受けてアジア株が下落し、リスク資産売却の圧力が高まった。AI関連の需要減速懸念がテック企業の業績見通しを圧迫している。一方、原油は安定推移。株価下落は経済成長見通しの低下を示唆し、工業金属や原油などのコモディティ需要減速リスクが高まっている。"
-  },
-  {
-    "title": "Asian stocks tumble on AI jitters after Samsung forecast; oil stable - Reuters",
-    "timestamp": "2026-07-07T02:03:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "Samsung の業績予想悪化を受けてアジア株が下落し、リスク資産売却の圧力が高まった。AI関連の需要減速懸念がテック企業の業績見通しを圧迫している。一方、原油は安定推移。株価下落は経済成長見通しの低下を示唆し、工業金属や原油などのコモディティ需要減速リスクが高まっている。"
   },
   {
     "title": "Saudi-Flagged crude oil tanker damaged near Hormuz after LNG tanker hit, sources say - Reuters",
@@ -627,17 +561,6 @@
     "summary": "EIAが米国原油在庫の増加を報告した。在庫増加は原油供給が需要を上回っていることを示唆し、価格下押し要因となる。ただし具体的な在庫増加量や前週比などの詳細データが記事から確認できない。"
   },
   {
-    "title": "Oil Rebounds Amid Inventory Drawdowns, Iran War Uncertainty: Economist Says 'Stay Long' - Stocktwits",
-    "timestamp": "2026-07-07T00:50:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫の減少を背景に原油価格が反発している。イラン情勢の不確実性が供給懸念を支援。エコノミストは強気ポジション維持を推奨しており、在庫減少と地政学リスクの組み合わせが価格支援要因として機能している。"
-  },
-  {
     "title": "Very few changes come with the June 30 acreage report - Agweek",
     "timestamp": "2026-07-09T10:34:37+00:00",
     "importance": 1,
@@ -999,5 +922,49 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが原油と揮発油在庫の取り崩しを報告。供給側の圧力低下を示唆しており、原油価格の上昇要因となる可能性がある。在庫減少は需給バランスの引き締まりを反映し、市場のタイトネスを強調するもの。"
+  },
+  {
+    "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters",
+    "timestamp": "2026-07-10T01:33:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油は週間ベースでは上昇を維持しているが、本日は小幅下落。中東の供給リスク（地政学的不安定性）が継続しており、価格下支え要因となっている。供給懸念と需要減速圧力のバランスが取れた状態が続いている。"
+  },
+  {
+    "title": "US diesel futures post biggest daily gains in four years after Russia bans exports - Reuters",
+    "timestamp": "2026-07-08T20:17:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアがディーゼル輸出禁止を発表し、米国ディーゼル先物は4年ぶりの最大日間上昇を記録した。ロシアのエネルギー輸出制限はグローバルなディーゼル供給逼迫を招き、ガソリン・灯油などの精油製品全体の価格押し上げ圧力となる。地政学的なエネルギー供給ショックは予想外の急速な価格上昇をもたらした。"
+  },
+  {
+    "title": "US diesel futures post biggest daily gains in four years after Russia bans exports - Reuters",
+    "timestamp": "2026-07-08T20:17:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアがディーゼル輸出禁止を発表し、米国ディーゼル先物は4年ぶりの最大日間上昇を記録した。ロシアのエネルギー輸出制限はグローバルなディーゼル供給逼迫を招き、ガソリン・灯油などの精油製品全体の価格押し上げ圧力となる。地政学的なエネルギー供給ショックは予想外の急速な価格上昇をもたらした。"
+  },
+  {
+    "title": "A Tiny Island Near Singapore Has Become Asia’s Hub for Russian Oil - Bloomberg.com",
+    "timestamp": "2026-07-10T03:31:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "シンガポール近郊の小島がアジアのロシア産原油流通ハブとして機能している。ウクライナ情勢に伴う西側制裁下で、ロシア原油の迂回ルートとしてアジア経由の再輸出が活発化。供給チェーン再編がもたらす地域的な原油価格圧力と供給安定性への影響が注視される。"
   }
 ]
