@@ -44,39 +44,6 @@
     "summary": "Pew Research Centerが米国の石油生産・消費の動向を6つのチャートで解説した記事。EIA原油在庫統計に基づく定期的な市場分析で、具体的な新規数値やサプライズを含まない市場評論。米国のエネルギー需給構造に関する背景情報提供が主目的。"
   },
   {
-    "title": "Russia's largest oil refinery halts processing after drone attack, sources say - Reuters",
-    "timestamp": "2026-07-07T14:57:37+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア最大級の製油所がドローン攻撃により処理を停止した。同製油所はロシア国内石油精製能力の約10-15%を占める重要な施設。供給途絶による原油需要減少とスポット供給逼迫への懸念から原油価格は上昇圧力を受ける可能性が高い。地政学リスク再燃を示唆する重要なシグナル。"
-  },
-  {
-    "title": "Russian Oil Flows Hit New High But Slumping Prices Crush Income - Bloomberg.com",
-    "timestamp": "2026-07-07T12:39:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油流出量が過去最高水準に達した一方で、国際原油価格の軟調により石油輸出収入が圧迫されている。供給量の増加と価格下落の相反する動きが、市場の需給バランスと価格形成メカニズムの不安定性を示唆している。制裁下でのロシア産原油の流動性向上が明らかになった。"
-  },
-  {
-    "title": "A Once-Great Copper Miner Faces a Reckoning Just as AI Power Demand Soars - Bloomberg.com",
-    "timestamp": "2026-07-07T14:08:08+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "かつての大手銅鉱山企業が経営危機に直面している。AI電力需要の急増により銅の需要は急速に伸びているが、同社は供給制約や運営上の課題に直面しており、市場の需給バランスに影響を与える可能性がある。銅価格の上昇圧力がある一方、主要生産者の不安定性がボラティリティを生む懸念。"
-  },
-  {
     "title": "Will the July WASDE report send soybean prices higher? - Agrolatam",
     "timestamp": "2026-07-07T18:16:42+00:00",
     "importance": 3,
@@ -152,39 +119,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA が 6 月 30 日に発表した作付面積レポートで、前月比でほぼ変動がなかったことが報じられた。市場の事前予想の範囲内であり、大豆やトウモロコシなどの主要穀物の作付計画に大きな変更はないことを示唆している。"
-  },
-  {
-    "title": "US grains mid-year review and outlook: what the harvest season means for procurement - Fastmarkets",
-    "timestamp": "2026-07-07T13:26:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国穀物の中期レビューと収穫シーズン見通しに関するレポート。作付面積、生育進捗、生産予測など、調達戦略に影響を与える主要データが含まれると推定。具体的な数値情報が不明のため、実際の驚きの度合いは統計内容次第。"
-  },
-  {
-    "title": "US grains mid-year review and outlook: what the harvest season means for procurement - Fastmarkets",
-    "timestamp": "2026-07-07T13:26:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国穀物の中期レビューと収穫シーズン見通しに関するレポート。作付面積、生育進捗、生産予測など、調達戦略に影響を与える主要データが含まれると推定。具体的な数値情報が不明のため、実際の驚きの度合いは統計内容次第。"
-  },
-  {
-    "title": "US grains mid-year review and outlook: what the harvest season means for procurement - Fastmarkets",
-    "timestamp": "2026-07-07T13:26:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国穀物の中期レビューと収穫シーズン見通しに関するレポート。作付面積、生育進捗、生産予測など、調達戦略に影響を与える主要データが含まれると推定。具体的な数値情報が不明のため、実際の驚きの度合いは統計内容次第。"
   },
   {
     "title": "OPEC Output Hikes Raise Oversupply Fears as Cartel Shows Cracks - Hart Energy",
@@ -922,5 +856,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "IEAがウクライナによるロシア施設への攻撃を受け、ロシアの石油生産見通しを引き下げた。ロシアは世界第2位の産油国であり、供給減少は世界的な需給逼迫をもたらす。地政学的リスクの顕在化により、原油価格への上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "Stocks climb, oil slides as tech hopes outlast Middle East worries - Reuters",
+    "timestamp": "2026-07-09T01:49:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "テクノロジー関連の好況期待がリスク資産買いを支える中、中東地政学リスクは市場の懸念材料として存在するものの、既に織り込まれている状況。株式買い優勢によって原油は売られており、同時に安全資産としての金への逃避需要は限定的。"
+  },
+  {
+    "title": "Stocks climb, oil slides as tech hopes outlast Middle East worries - Reuters",
+    "timestamp": "2026-07-09T01:49:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "テクノロジー関連の好況期待がリスク資産買いを支える中、中東地政学リスクは市場の懸念材料として存在するものの、既に織り込まれている状況。株式買い優勢によって原油は売られており、同時に安全資産としての金への逃避需要は限定的。"
+  },
+  {
+    "title": "Stocks climb, oil slides as tech hopes outlast Middle East worries - Reuters",
+    "timestamp": "2026-07-09T01:49:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "テクノロジー関連の好況期待がリスク資産買いを支える中、中東地政学リスクは市場の懸念材料として存在するものの、既に織り込まれている状況。株式買い優勢によって原油は売られており、同時に安全資産としての金への逃避需要は限定的。"
   }
 ]
