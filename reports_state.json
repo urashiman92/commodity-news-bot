@@ -1,27 +1,5 @@
 [
   {
-    "title": "EXCLUSIVE: Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say - Reuters",
-    "timestamp": "2026-07-07T07:02:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが紅海向けの石油パイプライン拡張を検討中とのニュース。地政学的な重要性と供給ルートの多様化戦略を示唆。ホルムズ海峡への依存低減が背景にある可能性がある。"
-  },
-  {
-    "title": "Saudi oil price cut unlikely to convince sated Asia buyers, traders say - Reuters",
-    "timestamp": "2026-07-07T05:06:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが原油価格を引き下げたものの、アジア買い手の需要が既に飽和状態にあるため、価格引き下げが需要喚起につながりにくいとの市場観測。OPEC主導の価格施策が限定的な効果しか期待できない状況を示唆。"
-  },
-  {
     "title": "Saudi-Flagged crude oil tanker damaged near Hormuz after LNG tanker hit, sources say - Reuters",
     "timestamp": "2026-07-07T09:24:19+00:00",
     "importance": 4,
@@ -108,17 +86,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシア最大級の製油所がドローン攻撃により処理を停止した。同製油所はロシア国内石油精製能力の約10-15%を占める重要な施設。供給途絶による原油需要減少とスポット供給逼迫への懸念から原油価格は上昇圧力を受ける可能性が高い。地政学リスク再燃を示唆する重要なシグナル。"
-  },
-  {
-    "title": "OPEC is likely loser in Gulf’s post-war race for market share - Reuters",
-    "timestamp": "2026-07-07T06:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "湾岸諸国がイラク戦争後の市場シェア争いで石油生産を拡大する見通しが報道された。OPEC加盟国を含む湾岸産油国の増産圧力がOPECの減産政策の有効性を脅かし、原油価格に下押し圧力をもたらす可能性がある。市場シェア競争による供給増加懸念が価格を重くする。"
   },
   {
     "title": "Russian Oil Flows Hit New High But Slumping Prices Crush Income - Bloomberg.com",
@@ -966,5 +933,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "シンガポール近郊の小島がアジアのロシア産原油流通ハブとして機能している。ウクライナ情勢に伴う西側制裁下で、ロシア原油の迂回ルートとしてアジア経由の再輸出が活発化。供給チェーン再編がもたらす地域的な原油価格圧力と供給安定性への影響が注視される。"
+  },
+  {
+    "title": "Russia's Ilsky oil refinery catches fire, Taganrog evacuates after drone attacks - Reuters",
+    "timestamp": "2026-07-10T05:46:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア南部のイルスキー製油所がドローン攻撃により火災を起こし、タガンログ市が避難を強いられた。同製油所はロシア主要な石油精製施設の一つであり、供給能力の一時的な低下は世界的な石油市場の需給逼迫を加速させる可能性がある。地政学的リスク要因としての重要度が高い。"
+  },
+  {
+    "title": "ASIA GOLD Gold discounts in India deepen as volatility hurts demand; purchases in China steady - Reuters",
+    "timestamp": "2026-07-10T06:13:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インドの金需要が市場ボラティリティの高まりにより減退し、金のディスカウント幅が拡大している。一方、中国の金購入は堅調に推移。地域別の需要格差が顕著化する中、ボラティリティが価格下押し圧力として作用している。"
   }
 ]
