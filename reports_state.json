@@ -1,38 +1,5 @@
 [
   {
-    "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
-    "timestamp": "2026-07-07T15:25:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "7月のWASDE報告書を控え、農家向けの準備情報記事。米国の穀物生産量・在庫見通しが更新される定期発表であり、トウモロコシ・小麦・大豆の作付面積・収量・期末在庫の最新予測が市場の価格形成に重要な影響を与える。サプライズ度は実際の発表内容によって決定される。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
-    "timestamp": "2026-07-07T15:25:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "7月のWASDE報告書を控え、農家向けの準備情報記事。米国の穀物生産量・在庫見通しが更新される定期発表であり、トウモロコシ・小麦・大豆の作付面積・収量・期末在庫の最新予測が市場の価格形成に重要な影響を与える。サプライズ度は実際の発表内容によって決定される。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
-    "timestamp": "2026-07-07T15:25:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "7月のWASDE報告書を控え、農家向けの準備情報記事。米国の穀物生産量・在庫見通しが更新される定期発表であり、トウモロコシ・小麦・大豆の作付面積・収量・期末在庫の最新予測が市場の価格形成に重要な影響を与える。サプライズ度は実際の発表内容によって決定される。"
-  },
-  {
     "title": "What to know about U.S. oil production and consumption in 6 charts - Pew Research Center",
     "timestamp": "2026-07-07T18:03:10+00:00",
     "importance": 2,
@@ -889,5 +856,214 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "テクノロジー関連の好況期待がリスク資産買いを支える中、中東地政学リスクは市場の懸念材料として存在するものの、既に織り込まれている状況。株式買い優勢によって原油は売られており、同時に安全資産としての金への逃避需要は限定的。"
+  },
+  {
+    "title": "Crop Production",
+    "timestamp": "2026-07-10T17:10:01.791291+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSの定期作物生産レポート。冬小麦生産は6月予測比で4%下方修正され、一方オレンジ生産は4月予測比で3%上方修正された。小麦の供給減は価格上昇圧力となるが、修正幅は限定的。"
+  },
+  {
+    "title": "Crop Production",
+    "timestamp": "2026-07-10T17:10:01.791291+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの定期作物生産レポート。冬小麦生産は6月予測比で4%下方修正され、一方オレンジ生産は4月予測比で3%上方修正された。小麦の供給減は価格上昇圧力となるが、修正幅は限定的。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:02:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA は 7 月の作物生産レポートと WASDE 月次予測を発表した。米国穀物の作付面積、生育状況、収穫見通しに関する定期統計であり、トウモロコシ・大豆・小麦の需給見通しを修正する可能性がある。具体的な数値は報道からは不明だが、記録的熱波や干ばつ地域の影響が反映されたか注視が必要。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:02:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA は 7 月の作物生産レポートと WASDE 月次予測を発表した。米国穀物の作付面積、生育状況、収穫見通しに関する定期統計であり、トウモロコシ・大豆・小麦の需給見通しを修正する可能性がある。具体的な数値は報道からは不明だが、記録的熱波や干ばつ地域の影響が反映されたか注視が必要。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:02:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA は 7 月の作物生産レポートと WASDE 月次予測を発表した。米国穀物の作付面積、生育状況、収穫見通しに関する定期統計であり、トウモロコシ・大豆・小麦の需給見通しを修正する可能性がある。具体的な数値は報道からは不明だが、記録的熱波や干ばつ地域の影響が反映されたか注視が必要。"
+  },
+  {
+    "title": "USDA Cuts Corn Ending Stocks More Than Expected in July WASDE - Successful Farming",
+    "timestamp": "2026-07-10T16:43:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA 7月WASDEでトウモロコシの期末在庫が市場予想を上回る幅で削減された。これは供給逼迫観を強め、トウモロコシ価格に上昇圧力をもたらす。北米の天候懸念やエタノール需要との関係で相場が敏感に反応。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:38:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが7月の作物生産レポートとWASDE（世界農産物需給見通し）を発表した。同レポートは米国の主要穀物作付面積、生産量見通し、および世界の需給バランスを示すもので、トウモロコシ・大豆・小麦市場の方向性を左右する重要な定期統計である。具体的な数値は記事見出しからは抽出できないが、作付面積や収量予想の上下修正が価格に直結する。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:38:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが7月の作物生産レポートとWASDE（世界農産物需給見通し）を発表した。同レポートは米国の主要穀物作付面積、生産量見通し、および世界の需給バランスを示すもので、トウモロコシ・大豆・小麦市場の方向性を左右する重要な定期統計である。具体的な数値は記事見出しからは抽出できないが、作付面積や収量予想の上下修正が価格に直結する。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:38:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAが7月の作物生産レポートとWASDE（世界農産物需給見通し）を発表した。同レポートは米国の主要穀物作付面積、生産量見通し、および世界の需給バランスを示すもので、トウモロコシ・大豆・小麦市場の方向性を左右する重要な定期統計である。具体的な数値は記事見出しからは抽出できないが、作付面積や収量予想の上下修正が価格に直結する。"
+  },
+  {
+    "title": "USDA corn, soybean crop estimates rise as wheat falls - Brownfield Ag News",
+    "timestamp": "2026-07-10T16:35:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが定期的な作物予想を発表し、トウモロコシと大豆の生産量見積もりを引き上げる一方で、小麦の見積もりを下方修正した。米国の穀物市場における需給バランスの重要な指標更新となる。"
+  },
+  {
+    "title": "USDA corn, soybean crop estimates rise as wheat falls - Brownfield Ag News",
+    "timestamp": "2026-07-10T16:35:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが定期的な作物予想を発表し、トウモロコシと大豆の生産量見積もりを引き上げる一方で、小麦の見積もりを下方修正した。米国の穀物市場における需給バランスの重要な指標更新となる。"
+  },
+  {
+    "title": "USDA corn, soybean crop estimates rise as wheat falls - Brownfield Ag News",
+    "timestamp": "2026-07-10T16:35:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが定期的な作物予想を発表し、トウモロコシと大豆の生産量見積もりを引き上げる一方で、小麦の見積もりを下方修正した。米国の穀物市場における需給バランスの重要な指標更新となる。"
+  },
+  {
+    "title": "Report Snapshot: Corn ending stocks well below expectations - Pro Farmer",
+    "timestamp": "2026-07-10T16:24:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの期末在庫が市場予想を大きく下回った。供給逼迫が示唆され、トウモロコシ価格の上昇圧力が強まる。世界的な穀物需給の引き締まりを反映した重要なシグナル。"
+  },
+  {
+    "title": "Report Reaction | USDA cuts corn stocks more than expected - Pro Farmer",
+    "timestamp": "2026-07-10T16:49:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが予想を上回る幅でトウモロコシの期末在庫を下方修正した。市場予想を超える在庫削減は供給逼迫を示唆し、トウモロコシ価格の上昇圧力につながる。大豆など他の穀物にも連動する可能性がある。"
+  },
+  {
+    "title": "Report Reaction | USDA cuts corn stocks more than expected - Pro Farmer",
+    "timestamp": "2026-07-10T16:49:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが予想を上回る幅でトウモロコシの期末在庫を下方修正した。市場予想を超える在庫削減は供給逼迫を示唆し、トウモロコシ価格の上昇圧力につながる。大豆など他の穀物にも連動する可能性がある。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが7月度の作物生産・需給見通し（WASDE）を発表。米国の主要穀物（トウモロコシ・大豆・小麦）の生産量、作付面積、在庫予想が更新される定例レポート。市場は天候影響や生産見通しの上方・下方修正に注視。詳細な数値なしでは方向性の判定が困難。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが7月度の作物生産・需給見通し（WASDE）を発表。米国の主要穀物（トウモロコシ・大豆・小麦）の生産量、作付面積、在庫予想が更新される定例レポート。市場は天候影響や生産見通しの上方・下方修正に注視。詳細な数値なしでは方向性の判定が困難。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが7月度の作物生産・需給見通し（WASDE）を発表。米国の主要穀物（トウモロコシ・大豆・小麦）の生産量、作付面積、在庫予想が更新される定例レポート。市場は天候影響や生産見通しの上方・下方修正に注視。詳細な数値なしでは方向性の判定が困難。"
+  },
+  {
+    "title": "USDA Releases July Crop Production, WASDE Reports - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T16:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが7月度の作物生産・需給見通し（WASDE）を発表。米国の主要穀物（トウモロコシ・大豆・小麦）の生産量、作付面積、在庫予想が更新される定例レポート。市場は天候影響や生産見通しの上方・下方修正に注視。詳細な数値なしでは方向性の判定が困難。"
   }
 ]
