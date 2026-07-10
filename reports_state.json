@@ -1,60 +1,5 @@
 [
   {
-    "title": "OPEC Output Hikes Raise Oversupply Fears as Cartel Shows Cracks - Hart Energy",
-    "timestamp": "2026-07-07T22:10:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが増産を進める中でカルテルの結束が緩み、市場過剰供給への懸念が高まっている。加盟国間の利害対立が深刻化し、統制された減産政策の維持が困難になりつつあることが原油価格の下押し圧力となる可能性が増加。"
-  },
-  {
-    "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-07T22:10:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イランによる攻撃報道を受けて原油が急伸した。中東地政学リスクの顕在化により、供給懸念が市場を支配。同時にアジア株が売られており、リスク資産から安全資産への流出が進行中。エネルギー価格の上昇は金融市場全体の不安定性を反映している。"
-  },
-  {
-    "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-07T22:10:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イランによる攻撃報道を受けて原油が急伸した。中東地政学リスクの顕在化により、供給懸念が市場を支配。同時にアジア株が売られており、リスク資産から安全資産への流出が進行中。エネルギー価格の上昇は金融市場全体の不安定性を反映している。"
-  },
-  {
-    "title": "Crop Progress Highlights: Corn Holds Firm, Soybeans Slip as Markets Focus on Weather and Trade - RFD-TV",
-    "timestamp": "2026-07-07T21:34:40+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国農業省のCrop Progress定期発表。トウモロコシは堅調を維持している一方、大豆は弱含みとなっている。市場は天候と米中貿易交渉の行方に焦点を当てており、これらの外部要因がアグリコモディティの価格方向性を左右する状況が続いている。"
-  },
-  {
-    "title": "Crop Progress Highlights: Corn Holds Firm, Soybeans Slip as Markets Focus on Weather and Trade - RFD-TV",
-    "timestamp": "2026-07-07T21:34:40+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国農業省のCrop Progress定期発表。トウモロコシは堅調を維持している一方、大豆は弱含みとなっている。市場は天候と米中貿易交渉の行方に焦点を当てており、これらの外部要因がアグリコモディティの価格方向性を左右する状況が続いている。"
-  },
-  {
     "title": "Emerging-Market Stocks Drop as Iran Escalation Adds to AI Risks - Bloomberg.com",
     "timestamp": "2026-07-08T10:04:25+00:00",
     "importance": 4,
@@ -1142,5 +1087,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナが長距離攻撃司令部を創設し、ロシアへの越境攻撃を強化する戦略を発表。地政学的リスク拡大により、黒海地域の石油・ガス供給寸断の懸念が急速に高まる。これまでの局地的な紛争から戦域拡大への転換点となり、エネルギー市場のリスクプレミアム上乗せが加速する可能性が高い。"
+  },
+  {
+    "title": "July WASDE maintains 2026-’27 forecast for soybean oil use in biofuel production - Biomass Magazine",
+    "timestamp": "2026-07-10T20:44:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のWASDE発表で2026-27年度のバイオ燃料用大豆油需要見通しが据え置かれた。前月予想を維持したもので、バイオディーゼル政策や需要の大きな変化がないことを示唆している。エタノール・バイオディーゼル需要は安定的に推移する見通し。"
   }
 ]
