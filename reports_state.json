@@ -1,38 +1,5 @@
 [
   {
-    "title": "Saudi-Flagged crude oil tanker damaged near Hormuz after LNG tanker hit, sources say - Reuters",
-    "timestamp": "2026-07-07T09:24:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡近くでサウジアラビア籍の原油タンカーがLNGタンカーに衝突され損傷した。ホルムズ海峡は世界の原油輸送量の約3分の1が通過する極めて重要な輸送路であり、地政学的なサプライズとして供給リスク懸念が急速に高まった。"
-  },
-  {
-    "title": "China gold reserves rise most since 2023 even as bullion tumbles - Reuters",
-    "timestamp": "2026-07-07T09:53:31+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "中国の金準備高が2023年以来最大の増加幅を記録した。金現物価格が下落している局面での準備金増加は、中央銀行による戦略的な買い入れを示唆している。これは金ドル化進展と米国金融政策への対抗措置と解釈される。"
-  },
-  {
-    "title": "Saudi Arabia slices crude oil prices, but is it enough? - Reuters",
-    "timestamp": "2026-07-07T10:39:06+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが原油価格を引き下げたが、市場の需給見通しに対して十分な対応かどうかが焦点となっている。OPECの価格設定戦略変更により原油相場は圧力を受けるが、グローバルな需要動向や他産油国の対応如何で価格の下げ幅が限定される可能性も指摘されている。"
-  },
-  {
     "title": "What Farmers Need to Know Before the July WASDE Report - Successful Farming",
     "timestamp": "2026-07-07T15:25:39+00:00",
     "importance": 3,
@@ -273,17 +240,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "米国農業省のCrop Progress定期発表。トウモロコシは堅調を維持している一方、大豆は弱含みとなっている。市場は天候と米中貿易交渉の行方に焦点を当てており、これらの外部要因がアグリコモディティの価格方向性を左右する状況が続いている。"
-  },
-  {
-    "title": "EXCLUSIVE: Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say - Reuters",
-    "timestamp": "2026-07-07T09:37:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが紅海へのパイプライン拡張を検討しているとロイターが報道。ホルムズ海峡経由の輸送リスク低減と東方市場へのアクセス改善が狙い。実現すれば中東産油国の供給ルート多角化を象徴し、地政学的な供給リスク軽減につながる可能性がある。"
   },
   {
     "title": "Emerging-Market Stocks Drop as Iran Escalation Adds to AI Risks - Bloomberg.com",
@@ -955,5 +911,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "金",
     "summary": "インドの金需要が市場ボラティリティの高まりにより減退し、金のディスカウント幅が拡大している。一方、中国の金購入は堅調に推移。地域別の需要格差が顕著化する中、ボラティリティが価格下押し圧力として作用している。"
+  },
+  {
+    "title": "IEA cuts Russian oil output forecasts on Ukrainian attacks - Reuters",
+    "timestamp": "2026-07-10T11:44:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "IEAがウクライナによるロシア施設への攻撃を受け、ロシアの石油生産見通しを引き下げた。ロシアは世界第2位の産油国であり、供給減少は世界的な需給逼迫をもたらす。地政学的リスクの顕在化により、原油価格への上昇圧力が強まる見通し。"
   }
 ]
