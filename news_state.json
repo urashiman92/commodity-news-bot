@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油先物は数週間ぶり高値、停戦覚書「終わった」とトランプ氏 - ロイター",
-    "timestamp": "2026-07-08T22:07:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏がウクライナ・ロシア間の停戦覚書が「終わった」とコメント。地政学的リスク再燃への懸念から原油先物が数週間ぶりの高値を更新。ただし詳細不明で市場反応は限定的。"
-  },
-  {
     "title": "WTI原油見通し(市況ニュース)：イランの船舶攻撃に対する米国の報復攻撃が影響し、原油価格は2営業日続伸（2026年7月9日） - OANDA証券",
     "timestamp": "2026-07-08T23:14:48+00:00",
     "importance": 4,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランの船舶攻撃に対する米国の報復攻撃により地政学的リスクが高まった。この緊張激化により原油価格は2営業日連続で上昇。供給途絶懸念が相場を支援している。"
-  },
-  {
-    "title": "原油先物は数週間ぶり高値、停戦覚書「終わった」とトランプ氏 - ニューズウィーク日本版",
-    "timestamp": "2026-07-08T22:06:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏がウクライナ・ロシア間の停戦覚書交渉が「終わった」と発表。地政学リスク低下への懸念から原油先物が数週間ぶりの高値を更新。停戦実現による供給リスク軽減が価格上昇を牽引。"
   },
   {
     "title": "８日の主要国際商品市況 - 株探",
@@ -1758,5 +1736,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ前大統領が米イラン対話終了を発言したことを受け、原油価格が6%上昇。地政学的リスク（イラン情勢の緊張化）への警戒が高まり、供給リスク懸念が価格を押し上げた。"
+  },
+  {
+    "title": "今日の金価格（7月12日）：4,000ドル前後まで下落する可能性は？ - Vietnam.vn",
+    "timestamp": "2026-07-11T21:57:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドル前後まで下落する可能性についての観測記事。現在の金相場水準からの値動きシナリオについての解説。"
+  },
+  {
+    "title": "終戦期待などで原油価格が下がると同時に株価も下落が続くINPEXの下げ止まりの目処や今後の配当利回りを解説します Uecl (y51cu2o8Uq) - Mshale",
+    "timestamp": "2026-07-11T05:02:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "終戦期待による原油価格下落に伴い、INPEXの株価も連動して下落している状況の解説。今後の下げ止まりと配当利回りについての分析記事。"
   }
 ]
