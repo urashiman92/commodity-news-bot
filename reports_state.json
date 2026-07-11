@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA: US crude stocks rise for the first time since April as exports slump - Quantum Commodity Intelligence",
-    "timestamp": "2026-07-08T16:00:33+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が4月以来初めて増加した。輸出が減速したことが主因と見られる。在庫の積み上がりは原油供給過剰シグナルとなり、価格下押し圧力となる。需給バランスの悪化が確認された局面。"
-  },
-  {
     "title": "Markets Brace for Critical USDA Report That Could Reshape Grain Prices Worldwide - Agrolatam",
     "timestamp": "2026-07-08T17:46:50+00:00",
     "importance": 4,
@@ -53,61 +42,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "USDAの重要な定期レポート（WASDE）が世界的な穀物価格を左右する可能性がある。米国の小麦・トウモロコシ・大豆の作付面積、生産見通し、期末在庫などの更新により、グローバル需給バランスが大きく変わる可能性。市場は報告内容を注視している。"
-  },
-  {
-    "title": "Saudi Efforts to Revive Gulf Oil Loadings Run Into Buyer Caution - Bloomberg",
-    "timestamp": "2026-07-08T16:29:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがペルシャ湾の石油積み出しの回復を図っているが、買い手の慎重姿勢に直面している。需要見通しの不確実性やマクロ経済懸念により、買い手が大幅な追加購入に躊躇している状況が報告されている。"
-  },
-  {
-    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
-    "timestamp": "2026-07-08T15:48:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
-  },
-  {
-    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
-    "timestamp": "2026-07-08T15:48:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
-  },
-  {
-    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
-    "timestamp": "2026-07-08T15:48:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
-  },
-  {
-    "title": "Quick Turnaround as USDA Offers Third Report in 10 Days - DTN Progressive Farmer",
-    "timestamp": "2026-07-08T15:48:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが10日間で3度目のWASDE（農業需給見通し）レポートを発表する。通常より頻繁な更新スケジュールとなっており、市場の需給見通しが急速に変化していることを示唆している。穀物市場のボラティリティが継続する可能性が高い。"
   },
   {
     "title": "Will USDA's July WASDE Trigger the Next Grain Market Rally? - Agrolatam",
