@@ -1,38 +1,5 @@
 [
   {
-    "title": "金曜日のUSDA需給報告を前に小麦先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-08T13:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "金曜日のUSDA需給報告発表を控えて小麦先物が上昇している。市場は重要な在庫・作付面積データへの期待で買いが先行。報告内容次第で大きな値動きが予想される。"
-  },
-  {
-    "title": "トランプ大統領、イランとの停戦は「終わった」と発言。それで米国株は急落、原油価格は急騰した - Business Insider Japan",
-    "timestamp": "2026-07-08T14:22:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領がイランとの停戦終了を発言。中東地政学リスクの急激な上昇が懸念される。米国株が急落する一方、原油価格は急騰し、供給遮断リスクが市場に織り込まれた。"
-  },
-  {
-    "title": "トランプ氏の「崩壊」宣言後、原油価格は急騰し、株価は急落した。 - Vietnam.vn",
-    "timestamp": "2026-07-08T13:55:31+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏の「崩壊」宣言により市場が反応し、原油価格が急騰する一方で株価が急落。政治的不確実性が両資産に大きな影響を与えている。"
-  },
-  {
     "title": "【速報】NY株価急落 イラン停戦“失効”発言でリスク回避 原油価格は上昇 - TBS NEWS DIG",
     "timestamp": "2026-07-08T14:57:23+00:00",
     "importance": 4,
@@ -1769,5 +1736,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WisdomTree WTI原油上場投信（1690）のYahoo!ファイナンス掲載ページの紹介。具体的なニュース内容や価格変動情報が含まれていない。"
+  },
+  {
+    "title": "【米金融】ウォッシュ議長証言とCPIが正面対決、金相場は4500ドル攻防へ - BigGo ファイナンス",
+    "timestamp": "2026-07-11T11:35:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRB議長証言とCPI発表が相場の方向性を左右する重要な局面。金相場は4500ドル付近での攻防が予想される。金利見通しの変化が金の利回り魅力に直結し、相場変動の分岐点となる可能性がある。"
+  },
+  {
+    "title": "本日7月11日の金価格は、今後の動向を見守る中で、安定を保っている。 - Vietnam.vn",
+    "timestamp": "2026-07-11T13:40:23+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月11日の金価格は安定を保っている状況を報じたコメンタリー記事。具体的な価格変動や新たなファンダメンタルズ要因の報告はない。今後の動向を見守る段階という慎重な市場心理を反映。"
+  },
+  {
+    "title": "岡山県内でガソリン価格値上げ イラン情勢悪化、原油価格高騰 - 山陽新聞",
+    "timestamp": "2026-07-11T09:55:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢の悪化により国際原油価格が高騰。これが日本国内のガソリン小売価格上昇につながった。地政学的リスク要因が供給懸念を引き起こしている。"
+  },
+  {
+    "title": "原油価格が上昇、地政学リスク緩和と供給増が市場を押し上げる - Межа. Новини України.",
+    "timestamp": "2026-07-11T10:27:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "地政学リスク緩和と供給増加が原油価格を押し上げている。市場は複数の好材料を織り込む動きを見せている。ウクライナ関連のニュースソースながら、価格上昇トレンドの解説記事と考えられる。"
+  },
+  {
+    "title": "JX金属はなぜ暴落したのか? 最高益でも売られた本当の理由と3401円の罠 Lamelo Ball (ZMF5B2qUUo) - Mshale",
+    "timestamp": "2026-07-11T02:18:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が最高益を計上したにもかかわらず株価が暴落した理由を分析する記事。銅関連企業の業績と株価乖離の背景を探る。"
   }
 ]
