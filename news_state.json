@@ -1,16 +1,5 @@
 [
   {
-    "title": "欧州原油先物が一時80ドル台に急騰、トランプ発言で供給不安再燃 - 日本経済新聞",
-    "timestamp": "2026-07-08T16:40:29+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ発言による供給不安で欧州原油が80ドル台に急騰。地政学的リスク再燃により市場が敏感に反応。ポジション見直しの検討が必要。"
-  },
-  {
     "title": "被弾のカタールＬＮＧタンカー立ち往生、リスク増大 原油価格急騰 - ロイター",
     "timestamp": "2026-07-08T19:32:09+00:00",
     "importance": 4,
@@ -1791,5 +1780,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月11日の金相場はもみ合い状況。専門家が短期的な見通しを予測しているが、具体的な材料や方向性は不明。市場は様子見姿勢。"
+  },
+  {
+    "title": "6か月後、金価格がピークだった時に金を購入した人々は、1テールあたり4500万ベトナムドン以上を失った。 - Vietnam.vn",
+    "timestamp": "2026-07-11T16:34:26+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムにおいて、金価格がピークの時期に購入した投資家が、6か月後に1テール当たり4500万ベトナムドン以上の損失を被ったというニュース。金価格の下落局面での投資家の損失を報じたもの。"
+  },
+  {
+    "title": "本日（7月11日）の燃料価格：世界の原油価格が下落、国内価格も今週は軒並み下落。 - Vietnam.vn",
+    "timestamp": "2026-07-11T16:44:36+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月11日時点で世界の原油価格が下落局面にあり、ベトナム国内の燃料価格も週間を通じて軒並み値下がりしている。市場全体の弱気ムードを反映した動きとなっている。"
   }
 ]
