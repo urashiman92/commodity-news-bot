@@ -1153,5 +1153,38 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "USDAがWASDE発表でトウモロコシの期末在庫見積もりを下方修正した。在庫減少は供給タイトニングを示唆し、市場では価格下押し圧力が生じている。具体的な修正数値は報道から判断できないが、期末在庫の削減は通常、需給引き締まりの警戒信号となる。"
+  },
+  {
+    "title": "USDA Lowers New-Crop Corn Ending Stocks, Forecasts Record-Large US Soybean Crop - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T17:29:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA が新穀年度トウモロコシの期末在庫を引き下げ、一方で米国大豆作柄を過去最大規模と予測した。トウモロコシの供給逼迫と大豆の豊作が同時に報告され、両者の価格方向が分かれる可能性が高い。市場予想を大きく上回る大豆生産見通しがサプライズ要因。"
+  },
+  {
+    "title": "USDA Lowers New-Crop Corn Ending Stocks, Forecasts Record-Large US Soybean Crop - DTN Progressive Farmer",
+    "timestamp": "2026-07-10T17:29:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA が新穀年度トウモロコシの期末在庫を引き下げ、一方で米国大豆作柄を過去最大規模と予測した。トウモロコシの供給逼迫と大豆の豊作が同時に報告され、両者の価格方向が分かれる可能性が高い。市場予想を大きく上回る大豆生産見通しがサプライズ要因。"
+  },
+  {
+    "title": "Sinokor Oil Tankers Wait Near Saudi Arabia as Iran War Reignites - Bloomberg.com",
+    "timestamp": "2026-07-10T15:22:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン情勢の悪化により、サウジアラビア沖でシノコール・オイル・タンカーズの船舶が待機状態にある。中東での紛争激化は原油供給リスクを大幅に高め、地政学的プレミアムが急速に上昇している。湾岸域での輸送遅延・船舶滞留は短期的な供給逼迫要因となり、原油価格の上昇圧力が強まる状況。"
   }
 ]
