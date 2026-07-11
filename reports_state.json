@@ -1098,5 +1098,38 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "7月のWASDE発表で2026-27年度のバイオ燃料用大豆油需要見通しが据え置かれた。前月予想を維持したもので、バイオディーゼル政策や需要の大きな変化がないことを示唆している。エタノール・バイオディーゼル需要は安定的に推移する見通し。"
+  },
+  {
+    "title": "API Reports Crude Inventory Decline for Week Ending July 3, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-07-10T13:11:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "2026年7月3日週のAPI原油在庫が前週比で減少したことが報告された。在庫の減少は原油需要の堅調さまたは供給制約を示唆し、価格上昇要因となる。具体的な在庫減少量や市場予想値との比較情報が不足しているため、サプライズ度の判定が困難である。"
+  },
+  {
+    "title": "Russian Aluminium’s Share of Available LME Stocks Reaches 95% - Discovery Alert",
+    "timestamp": "2026-07-10T22:00:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "ロシア産アルミニウムがLME公式在庫の95%を占める状況が明らかになった。これは西側制裁下でのロシア産金属の市場支配力を示唆し、LME在庫の偏在化が進行。アルミニウムおよび他の非鉄金属市場への供給リスク要因として機能する可能性が高い。"
+  },
+  {
+    "title": "Russian Aluminium’s Share of Available LME Stocks Reaches 95% - Discovery Alert",
+    "timestamp": "2026-07-10T22:00:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア産アルミニウムがLME公式在庫の95%を占める状況が明らかになった。これは西側制裁下でのロシア産金属の市場支配力を示唆し、LME在庫の偏在化が進行。アルミニウムおよび他の非鉄金属市場への供給リスク要因として機能する可能性が高い。"
   }
 ]
