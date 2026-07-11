@@ -1,16 +1,5 @@
 [
   {
-    "title": "TSX先物が下落、中東緊張再燃で原油高・金価格は下げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-08T11:02:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中東緊張の再燃により原油は上昇したが、金価格は下落。カナダ株式先物（TSX）も連動して下落。地政学リスクが原油買い・金売り（リスク回避ムード緩和）の選別的な値動きを招いている。"
-  },
-  {
     "title": "空爆のニュースを受けて金価格が下落、市場はFRBの動向に注目。 - Vietnam.vn",
     "timestamp": "2026-07-08T12:12:32+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "地政学的緊張（空爆）により金価格は一時的に下落。市場の注目はリスク資産売却よりもFRBの金融政策決定に集中している。金は従来のセーフハブン買いの強さが限定的な状況。"
-  },
-  {
-    "title": "NY原油先物価格 一時1バレル＝75ドル台 トランプ大統領発言で - NHKニュース",
-    "timestamp": "2026-07-08T11:41:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領の発言を受けてNY原油先物が75ドル台まで下落。政策に関する観測報道であり、市場の既存トレンド内の値動き。"
   },
   {
     "title": "金曜日のUSDA需給報告を前に小麦先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1769,5 +1747,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格の今後の方向性についての解説記事。下落継続か回復かの選択肢を提示しており、市場の現状認識をまとめたコメンタリー。具体的な新規ファンダメンタルズ情報は含まれていない。"
+  },
+  {
+    "title": "金価格が続落、 中東情勢緊迫化でインフレ懸念再燃 - MSN",
+    "timestamp": "2026-07-11T08:23:57+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が続落している。中東情勢の緊迫化によりインフレ懸念が再燃している。ただしタイトルでは「続落」と記載されており、既に進行中の動きの報道である。"
+  },
+  {
+    "title": "多くの中央銀行が買い増し、金価格の長期的な支えとなる - Laodong.vn",
+    "timestamp": "2026-07-11T10:29:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "複数の中央銀行による金の買い増し動向が報道されており、金の長期的な需要基盤の強化を示唆している。中央銀行の金買いは構造的な支援要因として認識されている。"
+  },
+  {
+    "title": "トランプ大統領、イラン和平協議の継続を表明も「停戦は終了」と宣言、原油価格が急騰 - BigGo ファイナンス",
+    "timestamp": "2026-07-11T08:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がイラン関連の停戦終了を宣言し、地政学的リスクが急速に高まった。イラン絡みの中東情勢悪化懸念から原油価格が急騰。協議継続表明との矛盾メッセージが市場の不確実性を増幅。"
+  },
+  {
+    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-07-11T06:56:06+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WisdomTree WTI原油上場投信（1690）のYahoo!ファイナンス掲載ページの紹介。具体的なニュース内容や価格変動情報が含まれていない。"
   }
 ]
