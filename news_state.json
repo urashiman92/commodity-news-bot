@@ -1,38 +1,5 @@
 [
   {
-    "title": "【速報】NY株価急落 イラン停戦“失効”発言でリスク回避 原油価格は上昇 - TBS NEWS DIG",
-    "timestamp": "2026-07-08T14:57:23+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン停戦の失効発言により地政学的リスクが急速に高まった。リスク回避でNY株価が急落する一方、供給不安から原油は上昇。中東の地政学的緊張が原油市場の重要なドライバーとなっている。"
-  },
-  {
-    "title": "中国が中東産原油の購入拡大 原油価格下落で - 日本経済新聞",
-    "timestamp": "2026-07-08T15:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格下落に応じて中国が中東産原油の購入を拡大している。価格低下局面での需要増加は市場のメカニズム通りの反応。既報の価格動向に対する事後的な対応の報道。"
-  },
-  {
-    "title": "【速報】NY株価急落 イラン停戦“失効”発言でリスク回避 原油価格は上昇（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-    "timestamp": "2026-07-08T14:56:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが停戦失効を発言し地政学的リスクが急速に高まった。リスク回避でNY株が急落する一方、中東情勢悪化による供給リスク懸念で原油価格は上昇。地政学プレミアムが急速に織り込まれている状況。"
-  },
-  {
     "title": "欧州原油先物が一時80ドル台に急騰、トランプ発言で供給不安再燃 - 日本経済新聞",
     "timestamp": "2026-07-08T16:40:29+00:00",
     "importance": 4,
@@ -1791,5 +1758,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属が最高益を計上したにもかかわらず株価が暴落した理由を分析する記事。銅関連企業の業績と株価乖離の背景を探る。"
+  },
+  {
+    "title": "金価格は本日2026年7月12日に急落し、4,000ドル前後まで下落する可能性もある。専門家の間では、来週の見通しについて意見が分かれている。 - Vietnam.vn",
+    "timestamp": "2026-07-11T15:04:16+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2026年7月12日に急落し、4,000ドル付近まで下げる可能性が報じられている。専門家の見通しは来週について意見が分かれている状況。"
+  },
+  {
+    "title": "Gold Price on 10 July 2026 - Gold Price",
+    "timestamp": "2026-07-11T03:38:04+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月10日時点での金価格に関する記事。具体的な価格データや市場材料が示されていない単なる日付付き価格情報の可能性が高い。"
+  },
+  {
+    "title": "7月11日の終値の金価格更新:もみ合い、専門家が短期的な見通しを予測 - Laodong.vn",
+    "timestamp": "2026-07-11T13:57:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月11日の金相場はもみ合い状況。専門家が短期的な見通しを予測しているが、具体的な材料や方向性は不明。市場は様子見姿勢。"
   }
 ]
