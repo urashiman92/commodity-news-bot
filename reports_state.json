@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA reports an increase in US crude oil stocks - engine.online",
-    "timestamp": "2026-07-09T07:03:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の増加を報告した。在庫増加は原油供給が需要を上回っていることを示唆し、価格下押し要因となる。ただし具体的な在庫増加量や前週比などの詳細データが記事から確認できない。"
-  },
-  {
     "title": "Very few changes come with the June 30 acreage report - Agweek",
     "timestamp": "2026-07-09T10:34:37+00:00",
     "importance": 1,
@@ -42,61 +31,6 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "6月30日の作付面積レポートで大きな変更がなかったことが報告された。USDA定期発表の一環で、市場予想の範囲内の結果となり、穀物市場への動きは限定的。既報との大きな乖離はなく、通常の進捗確認の域を出ない。"
-  },
-  {
-    "title": "US Crude Oil Stocks Rise by 3 Million Barrels Against Market Expectations - energynews.pro",
-    "timestamp": "2026-07-09T07:55:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が市場予想に反して300万バレル増加した。需要の弱さを示唆する在庫積み増しは、原油価格に下押し圧力をもたらす。EIAの定期在庫統計は毎週注視される重要指標であり、予想外の増加は相場反転のシグナルとなりやすい。"
-  },
-  {
-    "title": "US Crude Oil Stocks Rise by 3 Million Barrels Against Market Expectations - energynews.pro",
-    "timestamp": "2026-07-09T07:55:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国の原油在庫が市場予想に反して300万バレル増加した。需要の弱さを示唆する在庫積み増しは、原油価格に下押し圧力をもたらす。EIAの定期在庫統計は毎週注視される重要指標であり、予想外の増加は相場反転のシグナルとなりやすい。"
-  },
-  {
-    "title": "Monthly Crop Report Affected by Weather - Southeast AgNET",
-    "timestamp": "2026-07-09T09:02:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "Southeast AgNETによる月次農作物レポートが天候の影響を受けて発表された。小麦、トウモロコシ、大豆の生育進捗が気象条件により変動し、作付面積や収穫見通しに影響が生じている可能性がある。具体的な数値がないため、詳細な影響度の評価は限定的。"
-  },
-  {
-    "title": "Monthly Crop Report Affected by Weather - Southeast AgNET",
-    "timestamp": "2026-07-09T09:02:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "Southeast AgNETによる月次農作物レポートが天候の影響を受けて発表された。小麦、トウモロコシ、大豆の生育進捗が気象条件により変動し、作付面積や収穫見通しに影響が生じている可能性がある。具体的な数値がないため、詳細な影響度の評価は限定的。"
-  },
-  {
-    "title": "Monthly Crop Report Affected by Weather - Southeast AgNET",
-    "timestamp": "2026-07-09T09:02:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "Southeast AgNETによる月次農作物レポートが天候の影響を受けて発表された。小麦、トウモロコシ、大豆の生育進捗が気象条件により変動し、作付面積や収穫見通しに影響が生じている可能性がある。具体的な数値がないため、詳細な影響度の評価は限定的。"
   },
   {
     "title": "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources say - Reuters",
@@ -108,39 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシア南部のサラトフ製油所が水曜日のドローン攻撃により停止状態にある。同製油所は日産約30万バレル規模のロシア主要製油所で、ウクライナによるとみられる攻撃で損傷した。ロシアの石油製品供給能力低下が懸念され、既に逼迫するロシア産原油・製品の供給リスクが高まった。"
-  },
-  {
-    "title": "HSBC lowers 2026-27 gold price forecasts on hawkish Fed tilt - Reuters",
-    "timestamp": "2026-07-09T08:39:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "HSBCが2026-27年の金価格見通しを引き下げた。FRBの金融引き締め姿勢（ハト派から鷹派へのシフト）が背景。金利上昇環境では金の無利子資産としての魅力が減少し、下値圧力が続く見込み。"
-  },
-  {
-    "title": "HSBC lowers 2026-27 gold price forecasts on hawkish Fed tilt - Reuters",
-    "timestamp": "2026-07-09T08:39:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "HSBCが2026-27年の金価格見通しを引き下げた。FRBの金融引き締め姿勢（ハト派から鷹派へのシフト）が背景。金利上昇環境では金の無利子資産としての魅力が減少し、下値圧力が続く見込み。"
-  },
-  {
-    "title": "Indonesia Gets First Russian Oil Shipment After Deal with Moscow - Bloomberg.com",
-    "timestamp": "2026-07-09T08:05:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "インドネシアがモスクワとの合意後、初めてロシア産原油の船積みを受け取った。これは西側制裁下でのロシア原油の取引継続を示唆し、アジア地域での供給多様化を進める動き。具体的な数量や契約内容については公開情報が限定的。"
   },
   {
     "title": "July WASDE preview: Eyes on world stocks - Pro Farmer",
