@@ -1,27 +1,5 @@
 [
   {
-    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "timestamp": "2026-07-09T19:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "FRB金融政策",
-    "commodity": "金",
-    "summary": "FRBが金融政策推進の各タスクフォース体制を発表。組織的な政策運営体制の整備であり、具体的な金利変更や政策方針の転換を示唆するものではない。既報の政策枠組み内での執行体制強化であるため、市場への直接的なショックは限定的。"
-  },
-  {
-    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "timestamp": "2026-07-09T19:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "FRB金融政策",
-    "commodity": "コモディティ全般",
-    "summary": "FRBが金融政策推進の各タスクフォース体制を発表。組織的な政策運営体制の整備であり、具体的な金利変更や政策方針の転換を示唆するものではない。既報の政策枠組み内での執行体制強化であるため、市場への直接的なショックは限定的。"
-  },
-  {
     "title": "WASDE Preview: China Buying and Weather in Focus as Soybean Rally Faces Its Next Test - RFD-TV",
     "timestamp": "2026-07-09T19:52:35+00:00",
     "importance": 3,
@@ -53,28 +31,6 @@
     "source": "WASDE関連",
     "commodity": "小麦",
     "summary": "WASDE発表を控え、中国の大豆買い戻しと米国の天候が大豆相場の重要なテスト局面となっている。中国の購買意欲が価格ラリーを支えるか、天候懸念がいかに織り込まれるかが注目ポイント。複数の不確実性要因が市場心理に影響を与える状況。"
-  },
-  {
-    "title": "Weather Concerns and Geopolitics Drive Wheat and Soybean Markets Fluctuations - Oklahoma Farm Report",
-    "timestamp": "2026-07-09T17:47:33+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "天候不安と地政学リスクが小麦と大豆市場の変動要因として指摘されている。具体的な数値やWASDEの最新予測値は記事へのアクセス不可のため詳細は確認不可。天候と地政学は相反する価格圧力（天候懸念=供給減=上昇圧力、地政学=需要減=下落圧力）をもたらす可能性がある。"
-  },
-  {
-    "title": "Weather Concerns and Geopolitics Drive Wheat and Soybean Markets Fluctuations - Oklahoma Farm Report",
-    "timestamp": "2026-07-09T17:47:33+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "天候不安と地政学リスクが小麦と大豆市場の変動要因として指摘されている。具体的な数値やWASDEの最新予測値は記事へのアクセス不可のため詳細は確認不可。天候と地政学は相反する価格圧力（天候懸念=供給減=上昇圧力、地政学=需要減=下落圧力）をもたらす可能性がある。"
   },
   {
     "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters",
