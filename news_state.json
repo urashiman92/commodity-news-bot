@@ -1,16 +1,5 @@
 [
   {
-    "title": "7月9日の午後、金価格は再び急騰した。 - Vietnam.vn",
-    "timestamp": "2026-07-09T11:21:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月9日午後に金価格が急騰した。具体的な騰貴の要因や背景情報が不足している。市場の技術的な反発や短期的な売買圧力による可能性がある。"
-  },
-  {
     "title": "金価格が25%超調整、ベテラン商品投資家が強気発言：「4,000ドルは底値、長期では1万ドルを視野」 - BigGo ファイナンス",
     "timestamp": "2026-07-09T12:35:00+00:00",
     "importance": 3,
@@ -1626,5 +1615,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が大幅調整を経験している。一方で中央銀行は金の蓄積姿勢を継続している。価格下落局面でも機関投資家による買いが支えになっている可能性。"
+  },
+  {
+    "title": "金価格は1週間で1テールあたり約200万ベトナムドン下落したが、買い手は依然として1テールあたり500万ベトナムドンの損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-07-12T05:23:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場で1週間で1テール約200万ドン下落。買い手は依然として500万ドンの含み損を抱えている。地域的な価格調整を反映したコメンタリー。"
   }
 ]
