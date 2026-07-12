@@ -1,16 +1,5 @@
 [
   {
-    "title": "Corn Rally Stalls as Markets Turn Cautious Ahead of Key USDA Report - Agrolatam",
-    "timestamp": "2026-07-09T02:12:36+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ相場がラリーを停止し、市場が慎重姿勢に転じている。これは今後発表予定の重要なUSDA報告書を控えた様子見局面を反映している。市場参加者が公式統計の内容を注視しており、ポジション調整が発生している。"
-  },
-  {
     "title": "EIA reports an increase in US crude oil stocks - engine.online",
     "timestamp": "2026-07-09T07:03:02+00:00",
     "importance": 2,
@@ -416,39 +405,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "IEAがウクライナによるロシア施設への攻撃を受け、ロシアの石油生産見通しを引き下げた。ロシアは世界第2位の産油国であり、供給減少は世界的な需給逼迫をもたらす。地政学的リスクの顕在化により、原油価格への上昇圧力が強まる見通し。"
-  },
-  {
-    "title": "Stocks climb, oil slides as tech hopes outlast Middle East worries - Reuters",
-    "timestamp": "2026-07-09T01:49:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "テクノロジー関連の好況期待がリスク資産買いを支える中、中東地政学リスクは市場の懸念材料として存在するものの、既に織り込まれている状況。株式買い優勢によって原油は売られており、同時に安全資産としての金への逃避需要は限定的。"
-  },
-  {
-    "title": "Stocks climb, oil slides as tech hopes outlast Middle East worries - Reuters",
-    "timestamp": "2026-07-09T01:49:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "テクノロジー関連の好況期待がリスク資産買いを支える中、中東地政学リスクは市場の懸念材料として存在するものの、既に織り込まれている状況。株式買い優勢によって原油は売られており、同時に安全資産としての金への逃避需要は限定的。"
-  },
-  {
-    "title": "Stocks climb, oil slides as tech hopes outlast Middle East worries - Reuters",
-    "timestamp": "2026-07-09T01:49:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "テクノロジー関連の好況期待がリスク資産買いを支える中、中東地政学リスクは市場の懸念材料として存在するものの、既に織り込まれている状況。株式買い優勢によって原油は売られており、同時に安全資産としての金への逃避需要は限定的。"
   },
   {
     "title": "Crop Production",
@@ -1131,5 +1087,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "イラクの首相がOPEC脱退しない方針を表明し、公正な生産割当を求めている。イラクはOPECの主要産油国の一つだが、割当に不満を示唆。既知の立場の確認に過ぎず、市場への直接的なサプライズは限定的。"
+  },
+  {
+    "title": "EXCLUSIVE: Russia’s gasoline output covers 65% of demand after Ukrainian strikes, sources say - Reuters",
+    "timestamp": "2026-07-10T12:11:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナの攻撃によりロシアのガソリン生産が需要の65%までに低下。ロシアは欧州最大の石油製品供給国であり、この供給不足は国際的なガソリン・灯油価格の上昇圧力となる可能性が高い。ロシアの石油精製能力への打撃は中期的な供給逼迫要因となるべき情報。"
   }
 ]
