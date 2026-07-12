@@ -1,104 +1,5 @@
 [
   {
-    "title": "金価格が続落、中東情勢緊迫化でインフレ懸念再燃 - ロイター",
-    "timestamp": "2026-07-09T02:49:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が続落している。中東情勢の緊迫化がインフレ懸念を再燃させているものの、既に織り込まれている動きと見られる。金は伝統的なインフレヘッジ資産だが、現在は下落圧力が優勢。"
-  },
-  {
-    "title": "金価格が続落、中東情勢緊迫化でインフレ懸念再燃（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-07-09T02:49:28+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は続落している。中東情勢の緊迫化がインフレ懸念を再燃させているものの、既に市場に織り込まれた動きと見られる。金の下落は景気減速見通しやドル高圧力が要因と考えられる。"
-  },
-  {
-    "title": "金価格が続落、中東情勢緊迫化でインフレ懸念再燃 - ニューズウィーク日本版",
-    "timestamp": "2026-07-09T02:49:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が続落している。中東情勢の緊迫化がインフレ懸念を再燃させている。しかし既報された地政学リスクの反映と見られる。"
-  },
-  {
-    "title": "7月9日の金価格：引き続き急落。 - Vietnam.vn",
-    "timestamp": "2026-07-09T01:58:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月9日の金価格が継続的に下落している。この記事は相場の動きを述べたコメンタリーであり、新たなファンダメンタルズの変化ではなく既に進行中の相場トレンドの報道。"
-  },
-  {
-    "title": "原油先物が1％高、米の新たなイラン攻撃で - ロイター",
-    "timestamp": "2026-07-09T02:56:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランへの新たな攻撃を実施し、地政学的緊張が高まった。中東での紛争激化は供給リスク懸念を喚起し、原油先物は1%上昇。エネルギー市場の不確実性が増加。"
-  },
-  {
-    "title": "ＩＮＰＥＸが続伸、イラン情勢緊迫で原油価格は再上昇基調に - 株探",
-    "timestamp": "2026-07-09T04:11:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン情勢の緊迫化により原油価格が再び上昇基調へ。地政学的リスク要因が市場を押し上げている。INPEXなど関連株も連動して値上がり。"
-  },
-  {
-    "title": "住友ゴム---大幅続落、原油相場上昇でタイヤセクターに売り 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-09T01:15:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場の上昇がタイヤメーカーの採算を圧迫し、住友ゴムが売られた。原油はタイヤ製造の主要原料であり、原料費上昇は利益マージンを縮小させる。セクター全体が売圧を受けている状況。"
-  },
-  {
-    "title": "原油先物が1％高、米の新たなイラン攻撃で - ニューズウィーク日本版",
-    "timestamp": "2026-07-09T02:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランに対して新たな攻撃を実施したことで、中東地政学リスクが高まった。原油先物は1％上昇し、供給遮断リスクへの懸念が価格に織り込まれている。地域緊張の拡大が今後の原油相場の主要な推進力となる可能性がある。"
-  },
-  {
-    "title": "イラン緊張でドル高、金価格は小幅下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-09T02:58:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "イラン緊張による地政学的リスク上昇がドル買いを誘発。ドル高進行により、ドル建て金は割高になり小幅下落。安全資産としての金買いと、ドル高圧力が相殺された状況。"
-  },
-  {
     "title": "本日（7月9日午後）の金価格：金指輪の価格が急落。 - Vietnam.vn",
     "timestamp": "2026-07-09T06:32:19+00:00",
     "importance": 2,
@@ -108,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金指輪価格が急落したというローカルニュース。ベトナム国内の小売市場の動きを報じたもの。"
-  },
-  {
-    "title": "速報9-7：金価格が急落。会長の退任が一時的に保留されたことを受け、ある銘柄の株価は2,000ベトナムドン強まで下落。 - Vietnam.vn",
-    "timestamp": "2026-07-09T03:28:04+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのある企業の会長退任が一時的に保留されたことを受け、その企業の株価が下落。ニュースタイトルで金価格の急落が言及されているが、詳細な因果関係は不明確。"
-  },
-  {
-    "title": "世界の金価格は下落を続ける一方、原油価格は急騰している。 - Vietnam.vn",
-    "timestamp": "2026-07-09T02:29:57+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は下落が続く一方で、原油価格は上昇している。コモディティ市場における相対的な価格動向の解説記事。"
   },
   {
     "title": "カナダドル、対円で1カ月ぶり高値 原油価格上昇で買い戻し - 日本経済新聞",
@@ -143,28 +22,6 @@
     "summary": "原油価格上昇を受けてカナダドルが買い戻され、対円で1カ月ぶりの高値を更新した。カナダは主要産油国であり、原油価格上昇はカナダドル需要を支援する。為替の技術的な反発という性質のニュース。"
   },
   {
-    "title": "中国の物価関連統計（26年6月）～原油価格上昇の影響は一服し、CPIは低下 - nli-research.co.jp",
-    "timestamp": "2026-07-09T04:09:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中国6月CPI統計が発表され、原油価格上昇の影響が一服した。原油価格上昇による押し上げ圧力が減少し、CPIは低下した。需要面の弱さを示唆する指標として、原油相場の下押し要因となる可能性。"
-  },
-  {
-    "title": "東京為替：ドル・円は底堅い、原油相場にらみ - 株探",
-    "timestamp": "2026-07-09T04:06:24+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル・円相場が底堅く推移しており、原油相場の動向が注視されている。為替と原油の連動性に市場の関心がある。"
-  },
-  {
     "title": "９日の米国債券市場見通し＝原油価格の動向に注意 速報 - kabushiki.jp",
     "timestamp": "2026-07-09T07:50:00+00:00",
     "importance": 2,
@@ -174,28 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国債券市場の9日の見通し記事。原油価格動向が債券市場に影響を与える可能性があると指摘。具体的な新規情報や統計発表の予定は含まれていない。"
-  },
-  {
-    "title": "原油先物が堅調、米軍のイラン鉄道橋攻撃で供給懸念再燃 金は軟調 - BigGo ファイナンス",
-    "timestamp": "2026-07-09T04:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がイラン領内の鉄道橋を攻撃し、中東情勢の緊張が急激に高まった。イランは原油輸出国であり、供給途絶リスクが顕在化したため原油先物は堅調推移。地政学的リスクプレミアムが急速に織り込まれている。"
-  },
-  {
-    "title": "金価格暴落でも中国人民銀行は20カ月連続で買い増し 専門家「金購入前に理解すべきこと」 - BigGo ファイナンス",
-    "timestamp": "2026-07-09T03:16:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中国人民銀行が金価格の下落局面でも20カ月連続で金を買い増ししている。これは中央銀行の強気な姿勢を示すシグナルであり、長期的な金需要の下支え要因となる。逆張り買いによる底堅さの形成を示唆。"
   },
   {
     "title": "7月9日の午後、金価格は再び急騰した。 - Vietnam.vn",
@@ -328,17 +163,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国債券市場の9日の見通しについて、原油価格の動向が債券相場に影響を与える可能性があると指摘している。解説記事であり、具体的な新規材料は含まれていない。"
-  },
-  {
-    "title": "【速報】日経平均株価反発 原油先物上昇も半導体銘柄中心に買い進む 最新の経済ニュース【随時更新】 - ABEMA",
-    "timestamp": "2026-07-09T04:11:32+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日経平均が反発し原油先物も上昇したが、市場の主流は半導体銘柄への買い。原油は単なる付随的な動きで、株式市場のセクター別パフォーマンスの解説記事。"
   },
   {
     "title": "金価格上昇を受け、南アフリカランドが上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1714,5 +1538,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "石油価格の急騰がガソリン価格の高騰につながり、政治的なリスク要因となっている。トランプ政権にとって高いエネルギー価格は経済・政治的に問題となる可能性がある。"
+  },
+  {
+    "title": "金相場価格デイリーコメント週間まとめ（7/6〜7/10）｜水野崇 - mbp-japan.com",
+    "timestamp": "2026-07-12T01:58:56+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月6日～10日の金相場週間の値動きをまとめたコメント記事。アナリスト（水野崇氏）による相場の振り返りと分析。具体的な価格変動や重大なイベントについては記事本文を確認が必要。"
+  },
+  {
+    "title": "金価格の急落が1週間続いた後の価格予測：1オンス4000ドルの水準は試されるのか？ - Vietnam.vn",
+    "timestamp": "2026-07-12T01:40:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金は1週間の急落後、4000ドル/オンスの重要なサポートレベルがテストされるかが焦点。テクニカル分析に基づいた相場観測・予測記事。"
+  },
+  {
+    "title": "本日（7月12日）の金価格：買い手は1週間で「2倍」の損失を被る。 - Vietnam.vn",
+    "timestamp": "2026-07-12T02:28:09+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金買い手が1週間で損失を被ったというローカルニュース。金価格の短期的な下落局面を記述したコメンタリー。"
+  },
+  {
+    "title": "7月12日午前、金価格は安定しており、投資家はオンラインでの購入チャネルにシフトした。 - Vietnam.vn",
+    "timestamp": "2026-07-12T03:22:47+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が7月12日午前に安定推移。投資家による購入チャネルのオンライン化シフトが報告される。市場全体への影響は限定的。"
+  },
+  {
+    "title": "本日7月11日の金価格：SJC金、Bao Tin Minh Chau金リング、Bao Tin Manh Hai、Phu Quy、Dojiの金価格はどのように上昇または下落したのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-07-12T03:54:51+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金販売業者（SJC、Bao Tin Minh Chau、Dojiなど）による7月11日の金価格変動の報道。地域市場の日次相場変動を記録したもの。"
+  },
+  {
+    "title": "2026年7月12日現在の金価格：今週、価格は1テールあたり最大240万ベトナムドン下落しました。 - Vietnam.vn",
+    "timestamp": "2026-07-12T02:40:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1週間で1テールあたり最大240万ベトナムドン下落した。ローカル市場のドル建て相場への連動に基づく値動き報告。市場全体への直接的な材料ではない。"
+  },
+  {
+    "title": "本日（7月12日）の燃料価格：世界の原油価格は今週上昇、国内のガソリン価格は下落。 - Vietnam.vn",
+    "timestamp": "2026-07-12T01:26:24+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月12日時点でのベトナム国内の燃料価格レポート。世界原油価格は今週上昇しているが、国内ガソリン価格は下落している。国内価格と国際価格の乖離を報じた日次ニュース。"
+  },
+  {
+    "title": "【ヤバイ！S高】JX金属 また上方修正！そして爆上げ！もう銅の会社じゃない。26/2/14(土) Lizzo (bnp4n8qvTh) - Mshale",
+    "timestamp": "2026-07-11T23:37:50+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が業績を上方修正し株価が急騰。タイトルで「銅の会社ではない」と指摘されており、銅以外の事業拡大が評価されている。"
   }
 ]
