@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（7月9日午後）の金価格：金指輪の価格が急落。 - Vietnam.vn",
-    "timestamp": "2026-07-09T06:32:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金指輪価格が急落したというローカルニュース。ベトナム国内の小売市場の動きを報じたもの。"
-  },
-  {
     "title": "カナダドル、対円で1カ月ぶり高値 原油価格上昇で買い戻し - 日本経済新聞",
     "timestamp": "2026-07-09T07:27:54+00:00",
     "importance": 2,
@@ -1626,5 +1615,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属が業績を上方修正し株価が急騰。タイトルで「銅の会社ではない」と指摘されており、銅以外の事業拡大が評価されている。"
+  },
+  {
+    "title": "米イラン戦火、金価格の杀手に！FRB利上げ観測が重し、台湾銀行は4000ドル割れを警告 - BigGo ファイナンス",
+    "timestamp": "2026-07-12T04:35:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米イラン紛争という地政学的リスクが存在する一方で、FRB利上げ観測が金価格の上昇を抑制している。台湾銀行は金が4000ドルを割るリスクを警告しており、ドル高・実質金利上昇が現在の相場環境の主要な重し。"
+  },
+  {
+    "title": "本日（7月12日正午）の金価格：金指輪が急落。 - Vietnam.vn",
+    "timestamp": "2026-07-12T05:51:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで7月12日正午時点の金指輪価格が急落した。地域限定的な市場報告であり、グローバルな金相場への直接的な影響は限定的。既に進行中の価格変動の報告と考えられる。"
+  },
+  {
+    "title": "本日（2026年7月12日午後）の金価格：日曜日のSJC、BTMC、DOJIの金地金および金指輪の終値。 - Vietnam.vn",
+    "timestamp": "2026-07-12T07:11:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金および金指輪の日曜日終値を報道。SJC、BTMC、DOJIの3取引所の価格情報。地域的な価格データの日次更新。"
+  },
+  {
+    "title": "中東発の原油高でビットコインは6.4万ドルに封じ込め、7月反転期待に「不透明感」 - BigGo ファイナンス",
+    "timestamp": "2026-07-12T04:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東発の地政学的リスク懸念で原油価格が上昇。ビットコインはリスク資産として6.4万ドル付近で抑制。7月の反転期待には不透明感が残る。"
+  },
+  {
+    "title": "ルピー安に原油高、生活圧迫 対応追われる政権 インドＧＤＰ転落 - 朝日新聞",
+    "timestamp": "2026-07-11T20:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "インドでルピー安と原油高が重なり、生活コストが上昇し政権が対応に追われている。インドのGDP成長率が予想を下回る可能性。原油需要国の経済減速は供給過剰リスクを示唆。"
   }
 ]
