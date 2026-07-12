@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格上昇を受け、南アフリカランドが上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-09T16:07:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の上昇に連動して南アフリカランドが上昇した。南アフリカは世界有数の金生産国であるため、金価格上昇は当国通貨にポジティブ。既に織り込み済みの相関性を扱った解説記事。"
-  },
-  {
-    "title": "CFTCがCMEの原油先物24時間取引開始を阻止 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-09T15:58:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "CFTCがCMEの原油先物24時間取引開始を規制により阻止。市場規制当局による取引時間拡大計画への異議。規制面での制約が明らかに。"
-  },
-  {
     "title": "金地金相場の低迷を受け、中古の金製ロレックス価格が軟化 - FashionNetwork France",
     "timestamp": "2026-07-09T17:20:54+00:00",
     "importance": 2,
@@ -1582,5 +1560,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油が119ドル台まで上昇し、2022年以来の高水準に達した。中東情勢の不安定化が主因で、供給リスクへの懸念が相場を押し上げている。地政学的リスクが顕在化している状況。"
+  },
+  {
+    "title": "６月の企業物価７・１％上昇、上昇率は３年３か月ぶりの高い伸び…中東情勢悪化による原油価格高騰で（読売新聞オンライン） - Yahoo!ニュース",
+    "timestamp": "2026-07-12T11:02:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "6月の日本企業物価が前年同月比7.1%上昇し、3年3か月ぶりの高い伸びを記録。中東情勢悪化による原油価格高騰が主因。インフレ圧力の高まりを反映。"
   }
 ]
