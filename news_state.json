@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の金価格が再び上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-09T13:26:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が再び上昇したというニュース。具体的な上昇率や要因は記事から不明。市場の振り返り・解説的な報道と考えられる。"
-  },
-  {
     "title": "金価格上昇を受け、南アフリカランドが上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-09T16:07:00+00:00",
     "importance": 2,
@@ -31,28 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY連銀総裁が原油価格の今後の低下を見方として示した。インフレへの影響を注視するとの発言。FRB幹部による相場観の表明で、市場の期待値に沿った内容。"
-  },
-  {
-    "title": "S&P500種は反発、ハイテク株が持ち直し－原油相場の落ち着きも寄与 - Bloomberg.com",
-    "timestamp": "2026-07-09T14:10:16+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "S&P500が反発し、ハイテク株が持ち直した。原油相場の落ち着きが株式市場の支援要因となった。インフレ圧力の緩和を示唆している。"
-  },
-  {
-    "title": "CFTCが阻止へ、CMEの24時間ミニ原油先物上場に待った - BigGo ファイナンス",
-    "timestamp": "2026-07-09T14:35:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "CFTCがCMEの24時間ミニ原油先物上場を阻止する方針を示唆。規制当局による新商品上場への制限措置。市場流動性や投機筋の活動に対する規制的対応。"
   },
   {
     "title": "NY市場動向（午前10時台）：ダウ45ドル高、原油先物0.90ドル安｜FX・為替ニュース - ザイFX！",
@@ -99,17 +66,6 @@
     "summary": "米イラン軍事衝突が限定的との見方が広がり、地政学リスク・プレミアムが縮小。供給途絶の懸念が後退し、原油価格は下落している。短期的な緊張緩和を示唆。"
   },
   {
-    "title": "$WTI 原油先物2608 (CL2608.US)$ - Moomoo",
-    "timestamp": "2026-07-09T13:49:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物2608限月の現在値を表示したMoomooプラットフォームのポスト。具体的なニュース内容や価格変動の背景情報が不足している。"
-  },
-  {
     "title": "投資家がこのファンドから資金を引き揚げたため、金価格は本日2026年7月10日に反転しました。ロシアの国家金準備高は3000億ドルを下回りました。一体何が起こっているのでしょうか？ - Vietnam.vn",
     "timestamp": "2026-07-09T15:52:55+00:00",
     "importance": 3,
@@ -130,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格下落が国内ガソリン価格に反映されるまでには時間差があり、値上げは7月から本格化する見通し。物価緩和を実感できるのは11月以降になる可能性がある。"
-  },
-  {
-    "title": "ＮＹ連銀総裁、原油価格は今後低下との見方 インフレへの影響に注視 - ニューズウィーク日本版",
-    "timestamp": "2026-07-09T14:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY連銀総裁が原油価格の今後の低下を見通す発言。インフレ抑制期待から弱気見解を示す。既存のインフレ低下トレンドと一貫性がある。"
   },
   {
     "title": "7月9日のSouthern Copper Corp (SCCO) 値動きは4.41%上昇：完全な分析 - TradingKey",
@@ -1615,5 +1560,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン間の地政学的緊張が高まり、原油価格が急騰した。中東地域での供給途絶リスクが意識される。政治的批判も報道されている。"
+  },
+  {
+    "title": "金価格は本日7月12日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-07-12T13:12:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月12日の金価格が大幅に下落し、買い手が損失を被った。ベトナムメディアによる相場の日次動向報道。具体的な下落率や原因は明記されていない。"
+  },
+  {
+    "title": "本日2026年7月13日の金価格は、中央銀行からの強い支援を受け、上昇トレンドを確立することなく、調整局面内で変動している。 - Vietnam.vn",
+    "timestamp": "2026-07-12T13:21:07+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月13日の金価格は中央銀行の支援により支えられているが、明確な上昇トレンドは確立されておらず調整局面内での変動が続いている。市場は方向感を欠いた状態にある。"
   }
 ]
