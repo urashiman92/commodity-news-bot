@@ -1,38 +1,5 @@
 [
   {
-    "title": "WASDE Preview: China Buying and Weather in Focus as Soybean Rally Faces Its Next Test - RFD-TV",
-    "timestamp": "2026-07-09T19:52:35+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE発表を控え、中国の大豆買い戻しと米国の天候が大豆相場の重要なテスト局面となっている。中国の購買意欲が価格ラリーを支えるか、天候懸念がいかに織り込まれるかが注目ポイント。複数の不確実性要因が市場心理に影響を与える状況。"
-  },
-  {
-    "title": "WASDE Preview: China Buying and Weather in Focus as Soybean Rally Faces Its Next Test - RFD-TV",
-    "timestamp": "2026-07-09T19:52:35+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE発表を控え、中国の大豆買い戻しと米国の天候が大豆相場の重要なテスト局面となっている。中国の購買意欲が価格ラリーを支えるか、天候懸念がいかに織り込まれるかが注目ポイント。複数の不確実性要因が市場心理に影響を与える状況。"
-  },
-  {
-    "title": "WASDE Preview: China Buying and Weather in Focus as Soybean Rally Faces Its Next Test - RFD-TV",
-    "timestamp": "2026-07-09T19:52:35+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE発表を控え、中国の大豆買い戻しと米国の天候が大豆相場の重要なテスト局面となっている。中国の購買意欲が価格ラリーを支えるか、天候懸念がいかに織り込まれるかが注目ポイント。複数の不確実性要因が市場心理に影響を与える状況。"
-  },
-  {
     "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters",
     "timestamp": "2026-07-10T01:33:00+00:00",
     "importance": 3,
@@ -845,5 +812,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアがアゾフ海でウクライナによる4隻への攻撃を報告。黒海回廊を含む海上輸送ルートの不安定化が加速し、穀物やエネルギー運搬リスクが急速に高まる。地政学的緊張の急騰により、原油など安全資産需要が増加する可能性が高い。"
+  },
+  {
+    "title": "Ukraine Says It Hit Two Russian Refineries, Slew of Fuel Tankers - Bloomberg.com",
+    "timestamp": "2026-07-10T16:37:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアの製油所2箇所と燃料タンカー複数を攻撃したと発表。ロシアの石油精製能力への直撃攻撃は供給逼迫懸念を加速させ、原油価格への上昇圧力が強まる。ロシアの石油製品輸出能力の低下は世界的なエネルギー市場の不安定化につながる可能性が高い。"
   }
 ]
