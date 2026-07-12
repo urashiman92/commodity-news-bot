@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格が25%超調整、ベテラン商品投資家が強気発言：「4,000ドルは底値、長期では1万ドルを視野」 - BigGo ファイナンス",
-    "timestamp": "2026-07-09T12:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が25%超調整した後、ベテラン投資家が4,000ドルを底値、長期目標を1万ドルとする強気見通しを表明。底値圏での投資機会提示と長期上昇見通しが金買い意欲を支援する可能性。"
-  },
-  {
-    "title": "金価格、財政・地政学リスクを背景に上昇再開へ＝HSBC 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-09T12:47:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "HSBCのアナリストが、財政リスクと地政学的緊張を背景に金価格の上昇再開を予想。既知のマクロリスク要因に基づいた見通しで、新規情報は限定的。"
-  },
-  {
     "title": "世界の金価格が再び上昇した。 - Vietnam.vn",
     "timestamp": "2026-07-09T13:26:46+00:00",
     "importance": 2,
@@ -1626,5 +1604,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金市場で1週間で1テール約200万ドン下落。買い手は依然として500万ドンの含み損を抱えている。地域的な価格調整を反映したコメンタリー。"
+  },
+  {
+    "title": "今週の経済ニュース：米イラン間の緊張で原油価格が急騰、エリザベス・ウォーレンがトランプ関連の「腐敗した」取引を痛烈批判 - Benzinga Japan",
+    "timestamp": "2026-07-12T10:31:27+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の地政学的緊張が高まり、原油価格が急騰した。中東地域での供給途絶リスクが意識される。政治的批判も報道されている。"
   }
 ]
