@@ -1,27 +1,5 @@
 [
   {
-    "title": "金曜6時台後半 ニュース・気象情報/金価格下落の背景 市場構造の変化 - NHK",
-    "timestamp": "2026-07-09T21:26:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が下落している背景として市場構造の変化が指摘されている。具体的な構造変化の詳細は記事概要からは不明だが、テクニカルまたはファンダメンタルな要因が作用している可能性がある。"
-  },
-  {
-    "title": "本日（7月10日）の金価格：今週の下落局面を終える。 - Vietnam.vn",
-    "timestamp": "2026-07-09T21:45:45+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月10日の金価格は週間下落局面の終わりを迎えている。テクニカル的な値動きの整理段階にあり、市場の方向転換を示唆している可能性。"
-  },
-  {
     "title": "ロレックス、狙い目はゴールド製中古モデル－金相場急落で値ごろ感 - Bloomberg.com",
     "timestamp": "2026-07-09T23:40:09+00:00",
     "importance": 2,
@@ -75,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格と10年債利回りが終日下落基調で推移。金利低下がリスク資産を支援し、株価は底堅い展開となった。コモディティ相場全体で弱気シグナル。"
-  },
-  {
-    "title": "インフレ懸念が中東の地政学リスクを圧倒、国際原油価格が約2％急落 - BigGo ファイナンス",
-    "timestamp": "2026-07-09T22:05:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "インフレ懸念が地政学リスクを上回る相場心理により原油価格が約2%急落。中東情勢の供給リスク懸念よりも、マクロインフレ動向が現在の市場心理の主要ドライバーとなっていることが示唆される。"
   },
   {
     "title": "９日の主要国際商品市況 - 株探",
@@ -1527,5 +1494,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "フィリピン経済成長率が3.9%に下方修正された。中東原油高と国内汚職が経済成長の阻害要因となっている。原油高がエネルギーコストを上昇させ、新興国経済の足を引っ張る構図が鮮明化。"
+  },
+  {
+    "title": "本日（7月13日）の金価格：1週間の投資の後、大幅な下落。 - Vietnam.vn",
+    "timestamp": "2026-07-12T21:38:34+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間の投資活動後に大幅な下落を記録。ベトナム市場での相場動向を伝える定期レポート。特定の材料による急変動ではなく通常の値動きの範囲内と考えられる。"
+  },
+  {
+    "title": "佐々木麟太郎、マーリンズから8巡目235位で指名、契約金相場は約3800万円…日本の「ドラ1」上限の4分の1、ドラフト2日目 - ｄメニューニュース",
+    "timestamp": "2026-07-12T17:39:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米MLBドラフトで日本人選手が指名される。契約金3800万円は日本のドラ1上限の4分の1程度。スポーツニュース。"
+  },
+  {
+    "title": "2026年7月13日午前の金価格：SJC 9999金地金とプレーンリングの価格、および月曜日の世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-12T22:10:15+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を提供するニュース。SJC金地金とリングの価格、および世界の金価格を月曜日時点で報道したもの。"
+  },
+  {
+    "title": "本日、2026年7月13日の金価格更新：週初めのBTMC DOJI Phu Quyの9999金とプレーンリングの価格。 - Vietnam.vn",
+    "timestamp": "2026-07-12T21:46:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売業者BTMCが2026年7月13日時点の9999金およびプレーンリングの価格を更新。週初めの定期的な価格情報提供。"
+  },
+  {
+    "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-07-12T19:59:39+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドバイ原油先物のダブル・ブルETN（2038）に関するYahoo!ファイナンスの商品紹介ページ。特定の新規イベントや市場情報の発表ではなく、既存金融商品の情報提供のみ。"
   }
 ]
