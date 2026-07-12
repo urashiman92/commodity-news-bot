@@ -11,39 +11,6 @@
     "summary": "7月9日午後に金価格が急騰した。具体的な騰貴の要因や背景情報が不足している。市場の技術的な反発や短期的な売買圧力による可能性がある。"
   },
   {
-    "title": "SJC金価格（9999）、2026年7月9日終了時点：木曜日の金地金、BTMC金リング、DOJI金の終値リスト。 - Vietnam.vn",
-    "timestamp": "2026-07-09T10:12:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格終値情報。SJC、BTMC、DOJI等の主要販売業者による2026年7月9日（木）の金地金・金製品の終値リスト。定期的な価格情報提供の一環。"
-  },
-  {
-    "title": "【金価格どうなる？】4000ドル前後が「底」と見る理由／下がるほどに買い増す中央銀行の思惑／株式と金で異なる投資家のスタンス／年内に金価格はどこまで反発？／今後の価格下落リスクは何か - 東洋経済オンライン",
-    "timestamp": "2026-07-09T10:07:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は4000ドル前後が底値との見方が提示されている。中央銀行が下落時に買い増す姿勢を示す中、年内の反発可能性を検討する解説記事。今後の価格下落リスク要因も分析している。"
-  },
-  {
-    "title": "2026年7月9日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-09T10:01:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金要件と先物オプション市場に関する定期公表。市場参加者向けの技術的な取引ルール情報であり、金価格への直接的な影響はない。"
-  },
-  {
     "title": "金価格が25%超調整、ベテラン商品投資家が強気発言：「4,000ドルは底値、長期では1万ドルを視野」 - BigGo ファイナンス",
     "timestamp": "2026-07-09T12:35:00+00:00",
     "importance": 3,
@@ -75,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が再び上昇したというニュース。具体的な上昇率や要因は記事から不明。市場の振り返り・解説的な報道と考えられる。"
-  },
-  {
-    "title": "バーンスタイン、2026年下半期の金価格見通しを引き上げ新目標設定 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-09T10:43:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "大手投資銀行バーンスタインが2026年下半期の金価格見通しを引き上げ、新たな目標値を設定した。金に対する強気姿勢を示す内容。アナリスト予想の修正により、価格上昇要因となる可能性がある。"
   },
   {
     "title": "金価格上昇を受け、南アフリカランドが上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1637,5 +1593,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国のイラン追加攻撃という地政学的リスク要因が存在するも、ビットコインは6万3,000ドル台で保ち合いを続けている。月曜日の原油相場動向に注目するとの指摘。"
+  },
+  {
+    "title": "金価格が急落する中、主要企業は引き続き数十トンもの金を買い溜めしている。 - Vietnam.vn",
+    "timestamp": "2026-07-12T09:32:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が下落する局面で、主要企業が数十トン規模の金を継続的に買い増ししている。機関投資家の買い姿勢が強く、下値支持の形成を示唆。金の長期的な価値認識と企業の戦略的ポジション構築を反映。"
+  },
+  {
+    "title": "金価格が下落、差額が大きく、1週間で買い手は大きな損失 - Laodong.vn",
+    "timestamp": "2026-07-12T09:38:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間で下落し、買い手に損失が発生。売買差幅が大きい相場環境を反映した相場の振り返り記事。価格変動自体は既に市場に織り込まれている。"
+  },
+  {
+    "title": "金価格が大幅調整、中央銀行は引き続き蓄積の勢い - Laodong.vn",
+    "timestamp": "2026-07-12T10:15:29+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が大幅調整を経験している。一方で中央銀行は金の蓄積姿勢を継続している。価格下落局面でも機関投資家による買いが支えになっている可能性。"
   }
 ]
