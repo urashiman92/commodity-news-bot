@@ -1,49 +1,5 @@
 [
   {
-    "title": "July WASDE preview: Eyes on world stocks - Pro Farmer",
-    "timestamp": "2026-07-09T17:09:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "7月のWASDE（米農務省作物見通し）レポートが発表予定。世界穀物在庫（特に小麦、トウモロコシ、大豆）の動向が焦点となる。前月比での在庫水準変化が価格を左右する重要な発表であり、南米およびウクライナ情勢の影響も反映される見通し。"
-  },
-  {
-    "title": "July WASDE preview: Eyes on world stocks - Pro Farmer",
-    "timestamp": "2026-07-09T17:09:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "7月のWASDE（米農務省作物見通し）レポートが発表予定。世界穀物在庫（特に小麦、トウモロコシ、大豆）の動向が焦点となる。前月比での在庫水準変化が価格を左右する重要な発表であり、南米およびウクライナ情勢の影響も反映される見通し。"
-  },
-  {
-    "title": "July WASDE preview: Eyes on world stocks - Pro Farmer",
-    "timestamp": "2026-07-09T17:09:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "7月のWASDE（米農務省作物見通し）レポートが発表予定。世界穀物在庫（特に小麦、トウモロコシ、大豆）の動向が焦点となる。前月比での在庫水準変化が価格を左右する重要な発表であり、南米およびウクライナ情勢の影響も反映される見通し。"
-  },
-  {
-    "title": "Strategic oil reserve buying set to support crude demand through 2028 - Reuters",
-    "timestamp": "2026-07-09T16:05:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の戦略石油備蓄（SPR）の買い入れが2028年を通じて原油需要を下支えするとの見通し。政府による長期的で安定した需要が見込まれることで、原油相場の下値支持材料となる可能性。供給不安が高まる地政学リスク環境下では需給逼迫緩和をもたらす。"
-  },
-  {
     "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
     "timestamp": "2026-07-09T19:00:00+00:00",
     "importance": 2,
@@ -119,39 +75,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "天候不安と地政学リスクが小麦と大豆市場の変動要因として指摘されている。具体的な数値やWASDEの最新予測値は記事へのアクセス不可のため詳細は確認不可。天候と地政学は相反する価格圧力（天候懸念=供給減=上昇圧力、地政学=需要減=下落圧力）をもたらす可能性がある。"
-  },
-  {
-    "title": "Fuel markets flash supply crunch despite calmer oil prices - Reuters",
-    "timestamp": "2026-07-09T16:33:44+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格は比較的落ち着いているものの、燃料市場では供給逼迫の兆候が報告されている。タイトルの「供給不足の警告信号」は、原油価格の穏やかさとは対照的に、精製品やガソリン・ディーゼルなど川下市場でのボトルネック懸念を示唆。地政学リスクや季節需要の変動が背景にある可能性が高い。"
-  },
-  {
-    "title": "Fuel markets flash supply crunch despite calmer oil prices - Reuters",
-    "timestamp": "2026-07-09T16:33:44+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油価格は比較的落ち着いているものの、燃料市場では供給逼迫の兆候が報告されている。タイトルの「供給不足の警告信号」は、原油価格の穏やかさとは対照的に、精製品やガソリン・ディーゼルなど川下市場でのボトルネック懸念を示唆。地政学リスクや季節需要の変動が背景にある可能性が高い。"
-  },
-  {
-    "title": "EIA Reports Crude and Gasoline Stock Drawdowns - Mexico Business News",
-    "timestamp": "2026-07-09T15:56:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが原油と揮発油在庫の取り崩しを報告。供給側の圧力低下を示唆しており、原油価格の上昇要因となる可能性がある。在庫減少は需給バランスの引き締まりを反映し、市場のタイトネスを強調するもの。"
   },
   {
     "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters",
@@ -880,17 +803,6 @@
     "summary": "7月のWASDE報告書が市場の予想を上回る内容を発表し、穀物相場に稀な上昇圧力をもたらした。この報告書は定期的な農産物見通しの更新であるが、「market-mover bounce（市場を動かすバウンス）」と表現される程度の強いポジティブサプライズが含まれていた可能性が高い。供給不足やトレンド転換を示唆する内容が盛り込まれたと考えられる。"
   },
   {
-    "title": "Iraq Will Not Leave OPEC But Seeks Fair Output Quota, PM Says - EnergyNow.com",
-    "timestamp": "2026-07-09T15:24:16+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクの首相がOPEC脱退しない方針を表明し、公正な生産割当を求めている。イラクはOPECの主要産油国の一つだが、割当に不満を示唆。既知の立場の確認に過ぎず、市場への直接的なサプライズは限定的。"
-  },
-  {
     "title": "EXCLUSIVE: Russia’s gasoline output covers 65% of demand after Ukrainian strikes, sources say - Reuters",
     "timestamp": "2026-07-10T12:11:44+00:00",
     "importance": 4,
@@ -955,5 +867,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEのOPEC離脱発表に対し、アナリストRussell氏は予想されたほど原油価格への悪影響はない可能性を指摘。UAE単独での増産余地は限定的であり、市場インパクトは限定的との見方を示している。既知の情報の解釈段階。"
+  },
+  {
+    "title": "Russia Says Ukraine Attacked Four Vessels in Azov Sea Overnight - Bloomberg.com",
+    "timestamp": "2026-07-11T10:22:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアがアゾフ海でウクライナによる4隻への攻撃を報告。黒海回廊を含む海上輸送ルートの不安定化が加速し、穀物やエネルギー運搬リスクが急速に高まる。地政学的緊張の急騰により、原油など安全資産需要が増加する可能性が高い。"
+  },
+  {
+    "title": "Russia Says Ukraine Attacked Four Vessels in Azov Sea Overnight - Bloomberg.com",
+    "timestamp": "2026-07-11T10:22:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアがアゾフ海でウクライナによる4隻への攻撃を報告。黒海回廊を含む海上輸送ルートの不安定化が加速し、穀物やエネルギー運搬リスクが急速に高まる。地政学的緊張の急騰により、原油など安全資産需要が増加する可能性が高い。"
   }
 ]
