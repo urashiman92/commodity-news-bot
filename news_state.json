@@ -11,28 +11,6 @@
     "summary": "原油価格下落が国内ガソリン価格に反映されるまでには時間差があり、値上げは7月から本格化する見通し。物価緩和を実感できるのは11月以降になる可能性がある。"
   },
   {
-    "title": "7月9日のSouthern Copper Corp (SCCO) 値動きは4.41%上昇：完全な分析 - TradingKey",
-    "timestamp": "2026-07-09T18:15:41+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "7月9日にSouthern Copper Corp（SCCO）が4.41%上昇した。銅相場や需給関連の具体的なニュースは示されておらず、単一銘柄の値動きの振り返り記事と考えられる。"
-  },
-  {
-    "title": "【簡単解説】株価5倍！！JX金属を簡単解説 Franck Kepnang (cBQMkrznrr) - Mshale",
-    "timestamp": "2026-07-09T17:59:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属の株価が5倍上昇したことを解説する動画・記事。銅価格上昇やEV需要拡大による銅需要増加が背景と考えられる。コモディティ投資家にとっては銅市場の強気シナリオを示唆。"
-  },
-  {
     "title": "金曜6時台後半 ニュース・気象情報/金価格下落の背景 市場構造の変化 - NHK",
     "timestamp": "2026-07-09T21:26:23+00:00",
     "importance": 3,
@@ -1549,5 +1527,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "6月の日本企業物価が前年同月比7.1%上昇し、3年3か月ぶりの高い伸びを記録。中東情勢悪化による原油価格高騰が主因。インフレ圧力の高まりを反映。"
+  },
+  {
+    "title": "金価格は1テールあたり700万ベトナムドン急落し、今朝金を購入した人は1日で1テールあたり1100万ベトナムドン以上を失ったことになる。 - Vietnam.vn",
+    "timestamp": "2026-07-12T16:57:15+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場で1日の大幅下落が報道された。朝に購入した投資家は1テール当たり1100万ベトナムドン超の損失を被った。"
+  },
+  {
+    "title": "マーリンズが佐々木麟太郎を８巡目、２３５位指名 契約金相場は３０００万円台で１億円のソフトバンクと大差 - au Webポータル",
+    "timestamp": "2026-07-12T18:53:05+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "MLBのマーリンズが日本人選手・佐々木麟太郎をドラフト8巡目235位で指名。契約金相場は3000万円台とソフトバンクの1億円から大幅減。野球関連の人事ニュース。"
   }
 ]
