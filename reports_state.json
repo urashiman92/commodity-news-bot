@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters",
-    "timestamp": "2026-07-10T01:33:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油は週間ベースでは上昇を維持しているが、本日は小幅下落。中東の供給リスク（地政学的不安定性）が継続しており、価格下支え要因となっている。供給懸念と需要減速圧力のバランスが取れた状態が続いている。"
-  },
-  {
-    "title": "A Tiny Island Near Singapore Has Become Asia’s Hub for Russian Oil - Bloomberg.com",
-    "timestamp": "2026-07-10T03:31:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "シンガポール近郊の小島がアジアのロシア産原油流通ハブとして機能している。ウクライナ情勢に伴う西側制裁下で、ロシア原油の迂回ルートとしてアジア経由の再輸出が活発化。供給チェーン再編がもたらす地域的な原油価格圧力と供給安定性への影響が注視される。"
-  },
-  {
     "title": "Russia's Ilsky oil refinery catches fire, Taganrog evacuates after drone attacks - Reuters",
     "timestamp": "2026-07-10T05:46:00+00:00",
     "importance": 4,
@@ -812,5 +790,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの製油所2箇所と燃料タンカー複数を攻撃したと発表。ロシアの石油精製能力への直撃攻撃は供給逼迫懸念を加速させ、原油価格への上昇圧力が強まる。ロシアの石油製品輸出能力の低下は世界的なエネルギー市場の不安定化につながる可能性が高い。"
+  },
+  {
+    "title": "Treasury Two-Year Yield Rises to Highest Since 2025 on Oil Gain - Bloomberg.com",
+    "timestamp": "2026-07-13T02:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格の上昇がドライバーとなり、米国2年債利回りが2025年以来の高水準に上昇。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油など実物資産には支援材料。FRBの金融政策スタンスへの市場解釈が変わる可能性がある。"
+  },
+  {
+    "title": "Treasury Two-Year Yield Rises to Highest Since 2025 on Oil Gain - Bloomberg.com",
+    "timestamp": "2026-07-13T02:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "原油価格の上昇がドライバーとなり、米国2年債利回りが2025年以来の高水準に上昇。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油など実物資産には支援材料。FRBの金融政策スタンスへの市場解釈が変わる可能性がある。"
+  },
+  {
+    "title": "Treasury Two-Year Yield Rises to Highest Since 2025 on Oil Gain - Bloomberg.com",
+    "timestamp": "2026-07-13T02:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格の上昇がドライバーとなり、米国2年債利回りが2025年以来の高水準に上昇。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油など実物資産には支援材料。FRBの金融政策スタンスへの市場解釈が変わる可能性がある。"
   }
 ]
