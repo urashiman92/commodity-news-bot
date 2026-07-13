@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格、戻り鈍くFRB利上げ観測が重石、来週は米CPIが焦点に - ig.com",
-    "timestamp": "2026-07-10T01:26:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の上昇が鈍化している。FRBの利上げ継続観測が重石となっている。来週の米CPI発表が重要な注視ポイント。"
-  },
-  {
-    "title": "2026年の金相場展望 強気サイクル支える要因は不変 - 日経CNBC online",
-    "timestamp": "2026-07-10T01:15:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年の金相場について、現在の強気サイクルを支える基本要因は2026年も変わらないとの見方を示すコラム。金の上昇を支える構造的な要因の持続性に焦点。"
-  },
-  {
-    "title": "CMEグループの原油先物24時間取引、CFTCは当面開始を認めず - Bloomberg.com",
-    "timestamp": "2026-07-10T02:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "CMEグループが申請していた原油先物の24時間取引開始をCFTCが当面認めず。規制当局の慎重姿勢が反映されたもの。市場流動性や取引時間帯の拡大期待は一旦延期。"
-  },
-  {
-    "title": "金価格、週間ベースで下落－米イラン緊張と利上げ懸念が重荷 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-10T02:29:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が週間ベースで下落。米イラン緊張激化による地政学リスク回避需要と、利上げ懸念による実質金利上昇が相反する要因として作用。結果的に利上げ圧力が重荷となり下落方向が優勢。"
-  },
-  {
     "title": "本日（7月10日午後）の金価格：国内の金価格は引き続き上昇しています。 - Vietnam.vn",
     "timestamp": "2026-07-10T06:09:55+00:00",
     "importance": 1,
@@ -53,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの国内金価格が継続的に上昇していることを報じた記事。既に織り込まれている相場動向の事後報告で、市場を動かす新規情報は含まれていない。"
-  },
-  {
-    "title": "誰かが年末まで金価格が下落しないと2900万ドルを賭ける | オプション収益デイリー - Moomoo",
-    "timestamp": "2026-07-10T01:07:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "大口投資家が年末まで金価格の下落に賭けない姿勢を示し、強気ポジションを構築。オプション市場での大型玉が金の上昇期待を示唆している。既存トレンドの継続で、市場心理の一断面を示すに過ぎない。"
   },
   {
     "title": "日経平均VIは大幅に低下、原油価格下落や金利上昇一服で警戒感後退(フィスコ) - Yahoo!ファイナンス",
@@ -86,39 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物の現在値表示。具体的なニュース内容や市場材料が不明確。相場の単なる価格表示である可能性が高い。"
-  },
-  {
-    "title": "原油先物が下げ渋り、NY上昇で買い戻し 金は利益確定売りに押される - BigGo ファイナンス",
-    "timestamp": "2026-07-10T04:05:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が上昇したことで買い戻しが入り、下げ幅が縮小。同時に金は利益確定売りに押されている。短期的な値動きの振り返り。"
-  },
-  {
-    "title": "【速報】日経平均株価 続伸で取引開始 原油先物価格の落ち着きをうけ 最新の経済ニュース【随時更新】 - ABEMA",
-    "timestamp": "2026-07-10T03:00:54+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格が落ち着きを見せたことを受けて日経平均が続伸で取引開始。原油相場の安定化がリスク資産の買い圧力につながった。"
-  },
-  {
-    "title": "銅相場「賞味期限」の懸念、過去最高の対アルミ価格差で代替シフトが加速 - BigGo ファイナンス",
-    "timestamp": "2026-07-10T02:36:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅とアルミの価格差が過去最高水準となり、産業用途での銅からアルミへの代替シフトが加速している。高い銅価格の「賞味期限」懸念が市場で意識されており、銅需要の構造的な減少圧力が生じている。"
   },
   {
     "title": "金価格から見る金融危機発生前の気配｜池田正一 - mbp-japan.com",
@@ -185,17 +97,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル相場が狭いレンジで推移する中、原油価格は変動が激しい状況。マクロ環境と原油市場の値動きが乖離している。"
-  },
-  {
-    "title": "CMEグループの原油先物24時間取引、CFTCは当面開始を認めず - Bloomberg",
-    "timestamp": "2026-07-10T02:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "CMEグループが原油先物の24時間取引開始を申請したが、CFTCが当面これを認めないと発表。規制当局の慎重な対応により、市場構造の大きな変化には至らない見通し。"
   },
   {
     "title": "本日7月10日の金価格は、上昇と下落が入り混じった奇妙な動きを見せている。 - Vietnam.vn",
@@ -1538,5 +1439,137 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "10日の主要国際商品市況についての定期的な市場動向報告。具体的な価格変動やニュース内容は見出しのみでは不明。通常の相場振り返り記事と推定される。"
+  },
+  {
+    "title": "イランの攻撃がインフレ懸念を再燃、金価格下落―CPIとウォーシュ発言に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-13T01:13:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "イランの攻撃により地政学的リスク懸念が再燃したが、インフレ懸念の後退が金価格の下落要因に。CPI発表とパウエルFRB議長発言が次のポイント。"
+  },
+  {
+    "title": "リファスタ｜7/13(月)金相場・週明け見立て｜杉兼太朗 - mbp-japan.com",
+    "timestamp": "2026-07-12T22:28:08+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリスト杉兼太朗氏による7月13日（月）の金相場に関する週明け見立て。具体的な相場観や予想内容は概要から不明。"
+  },
+  {
+    "title": "佐々木麟太郎、マーリンズ8巡目全体235位でドラフト指名 契約金相場は約3875万円 進路決断の時迫る - BASEBALL KING",
+    "timestamp": "2026-07-12T20:30:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "野球選手の佐々木麟太郎がMLBドラフトでマーリンズから指名された。契約金相場は約3875万円で、今後の進路決定が焦点となっている。"
+  },
+  {
+    "title": "金価格は週初めに急落した。 - Vietnam.vn",
+    "timestamp": "2026-07-13T02:24:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が週初めに急落した。具体的な下落理由や値幅の詳細が記事概要では不明。相場の日次変動の報告に留まる。"
+  },
+  {
+    "title": "本日7月13日の金価格：中東情勢の緊迫化を受け、約1％下落。 - Vietnam.vn",
+    "timestamp": "2026-07-13T03:22:38+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月13日の金価格が約1％下落した。中東情勢の緊迫化が報じられているが、価格は小幅な下げにとどまった。既に市場で織り込まれていた可能性が高い。"
+  },
+  {
+    "title": "世界の金価格は下落を続けている。 - Vietnam.vn",
+    "timestamp": "2026-07-13T01:22:47+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が継続的に下落している。具体的な下落要因や数値が記事から不明だが、既存の下落トレンドを述べたコメンタリー。"
+  },
+  {
+    "title": "株価 一時1300円余値下がり 原油先物価格の上昇で - NHKニュース",
+    "timestamp": "2026-07-13T03:17:53+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格の上昇が日本株式市場に悪影響を与え、日経平均が一時1300円超下落した。エネルギー関連コストの上昇が企業収益悪化を懸念させている。"
+  },
+  {
+    "title": "ＷＴＩ原油価格連動型上場投信[1671]：ETFの収益分配金見込額のお知らせ 2026年7月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+    "timestamp": "2026-07-13T01:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油価格連動型ETF[1671]の収益分配金見込額の通知。定期的な適時開示であり、原油価格そのものの変動要因ではない。ETF保有者への情報提供ニュース。"
+  },
+  {
+    "title": "$WTI 原油先物(2608) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-07-13T01:36:30+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の現在値を表示したMoomooの情報配信。具体的な需給ニュースや価格変動の要因は含まれていない。"
+  },
+  {
+    "title": "米イラン衝突激化で国際原油価格が3%超急騰、ホルムズ海峡封鎖めぐり「真実の攻防」 - BigGo ファイナンス",
+    "timestamp": "2026-07-13T01:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン衝突の激化により国際原油価格が3%超上昇。ホルムズ海峡封鎖懸念が市場を動かす。地政学的リスクプレミアムが織り込まれた形での価格上昇。"
+  },
+  {
+    "title": "ブレント原油先物 (UKOIL-F) は7月13日に上昇 4.09%：需要の見通しは変化しているのか？ - TradingKey",
+    "timestamp": "2026-07-13T04:06:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月13日のブレント原油先物が4.09%上昇した。記事は需要見通しの変化を問う解説記事だが、具体的なファンダメンタルズ情報が不透明。4%程度の変動は通常のボラティリティ範囲内。"
+  },
+  {
+    "title": "◎原油先物、急上昇＝ホルムズ航行懸念が再燃 - 時事通信ニュース",
+    "timestamp": "2026-07-12T23:49:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の航行懸念が再燃し、原油先物が急上昇。地政学的リスクが供給不安を惹起。中東の航路規制は全世界の石油供給の約3割に影響。"
   }
 ]
