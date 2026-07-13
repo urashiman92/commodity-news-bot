@@ -1,16 +1,5 @@
 [
   {
-    "title": "2026年7月11日の金価格：回復が止まり、貴金属は底値に達した。中国はなぜ備蓄を加速させているのか？ - Vietnam.vn",
-    "timestamp": "2026-07-10T15:01:29+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が底値圏にあり回復が停滞している状況が報じられた。中国が金備蓄を加速させている動きが注目されている。各国中銀の金買い需要が価格下支え要因として機能している。"
-  },
-  {
     "title": "ウクライナの攻撃で小麦価格が急騰、供給不安が広がる - Межа. Новини України.",
     "timestamp": "2026-07-10T20:19:53+00:00",
     "importance": 4,
@@ -86,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国株式市場で原油価格の低下が好感され、消費関連銘柄に買いが入りNYダウが上昇した。原油安は一般的にエネルギーコスト低下による消費環境の改善を示唆している。"
-  },
-  {
-    "title": "国際エネルギー機関は、世界の原油価格に関する最新の評価を発表した。 - Vietnam.vn",
-    "timestamp": "2026-07-10T16:32:14+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "IEA（国際エネルギー機関）が世界原油価格に関する最新評価を発表した。具体的な価格見通しや市場評価の内容が記事から不明確。IEAの定期的な市場評論として認識される。"
   },
   {
     "title": "NY金先物：反落、米イラン協議進展とドル底堅さが重しに(フィスコ) - Yahoo!ファイナンス",
@@ -1736,5 +1714,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "ドル安環境が銅の割安感を支援し、LME在庫の減少が需給面での強気材料となっている。現在の銅価格は両要因に支えられて安定推移している状況を解説したコメンタリー記事。"
+  },
+  {
+    "title": "ロシア穀物輸出の混乱懸念でEU小麦価格が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-13T16:09:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア穀物輸出の混乱懸念を背景にEU小麦価格が下落。供給不安が価格に反映される一方で、既報の地政学的リスクの延長線上にある動き。"
+  },
+  {
+    "title": "「スーパーエルニーニョ」警戒で農産物ETNが急騰、穀物別では明暗分かれる - BigGo ファイナンス",
+    "timestamp": "2026-07-13T07:15:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "スーパーエルニーニョ現象への警戒感から農産物ETNが急騰。穀物銘柄間で値動きに明暗が分かれる局面。気象要因による需給変動リスクが意識されている。"
+  },
+  {
+    "title": "本日2026年7月14日の金価格は急落しており、4,000ドルに迫っています。この重要な要因により、確固たる「底値」が形成されつつあります。 - Vietnam.vn",
+    "timestamp": "2026-07-13T15:04:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドル付近まで急落している。記事ではこの水準が底値形成の可能性を指摘しているが、具体的な値動き理由は不明確。相場の振り返りと観測記事の域を出ない。"
+  },
+  {
+    "title": "ホルムズ海峡封鎖の懸念再燃、原油先物が急騰 一時5％超高 - BigGo ファイナンス",
+    "timestamp": "2026-07-13T15:56:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡封鎖の懸念が再燃し、原油先物が一時5％超上昇。世界の石油供給の約3割が通過する重要海峡の供給リスクが顕在化。地政学的緊張が価格に直結した急騰局面。"
+  },
+  {
+    "title": "NY外為：ドル・円162円台前半、原油価格は再び上昇へ、米イラン緊張で - ｄメニューニュース",
+    "timestamp": "2026-07-13T13:33:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の緊張が高まり、原油価格が再び上昇基調へ。ドル・円は162円台前半で推移。中東地政学リスクが原油相場を支援する構図。"
+  },
+  {
+    "title": "NY外為：ドル・円162円台前半、原油価格は再び上昇へ、米イラン緊張で 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-13T13:45:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の緊張激化を背景に原油価格が再び上昇圧力を受けている。ドル・円は162円台前半で推移。地政学的リスク要因が相場を支えている状況。"
   }
 ]
