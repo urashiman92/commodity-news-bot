@@ -297,17 +297,6 @@
     "summary": "国際原油価格が下落している中、S-Oil（韓国石油精製大手）の株価が第2四半期業績サプライズへの期待から上昇。原油下落による製油マージン圧力にもかかわらず、企業固有の業績改善期待が買い材料となっている。"
   },
   {
-    "title": "速報：イランと米国の戦闘再燃でペルシャ湾供給が途絶、WTI原油価格が下落 - Moomoo",
-    "timestamp": "2026-07-10T19:15:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランと米国の戦闘再燃により、ペルシャ湾での原油供給が途絶する懸念が浮上。地政学的リスクが急速に高まり、市場は供給ショックの可能性に注視している。ただしニュース見出しでは価格下落と述べられており、既に一部織り込みが進んでいる可能性がある。"
-  },
-  {
     "title": "原油価格の下落は、中国経済の加速的な成長への道を開く。 - Vietnam.vn",
     "timestamp": "2026-07-11T02:17:59+00:00",
     "importance": 2,
@@ -1791,5 +1780,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル円が高値圏でもみ合う中、原油先物が再び急伸した。為替変動と原油価格の連動性が示唆されている。"
+  },
+  {
+    "title": "原油先物9％超高、1カ月ぶり高値 米のイラン海上封鎖再開表明で - ロイター",
+    "timestamp": "2026-07-13T19:59:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン海上封鎖の再開を表明し、原油先物が9％超上昇して1カ月ぶりの高値を付けた。ホルムズ海峡を経由する原油供給の混乱が懸念される。地政学的リスク顕在化で、供給ショック懸念が急速に台頭した。"
+  },
+  {
+    "title": "米原油先物大幅反発、終値１カ月ぶり高値 - 沖縄タイムス社",
+    "timestamp": "2026-07-13T19:40:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が大幅に反発し、1カ月ぶりの高値で引け。具体的な要因や反発幅の詳細が記事概要には記載されていない。需給改善や地政学的要因が背景にある可能性。"
+  },
+  {
+    "title": "原油先物9％超高、1カ月ぶり高値 米のイラン海上封鎖再開表明で - ニューズウィーク日本版",
+    "timestamp": "2026-07-13T19:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン海上封鎖の再開を表明し、原油先物が9%超上昇して1カ月ぶりの高値を更新。ホルムズ海峡経由の主要供給ルート脅威が地政学リスクとして顕在化。"
+  },
+  {
+    "title": "米原油先物大幅反発、終値1カ月ぶり高値 - nippon.com",
+    "timestamp": "2026-07-13T19:41:03+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が大幅反発し、1カ月ぶりの高値で引けた。具体的な反発要因や価格水準の情報は記事要約からは不明。市場心理の改善が価格を押し上げた可能性がある。"
+  },
+  {
+    "title": "【速報】NY原油先物一段高、78.36ドル、米イラン緊張｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-13T18:33:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が78.36ドルまで上昇した。米国とイランの地政学的緊張が高まっており、供給リスクプレミアムが相場を押し上げている。中東情勢の不安定化が原油相場の上値を支える構図。"
+  },
+  {
+    "title": "トランプ氏、ホルムズ海峡封鎖再開を宣言…国際原油価格が5%急騰、金価格は急落 - BigGo ファイナンス",
+    "timestamp": "2026-07-13T19:45:00+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がホルムズ海峡の封鎖再開を宣言し、国際原油価格が5%急騰。供給途絶リスクの顕在化により、地政学的リスクプレミアムが大きく織り込まれた。一方、リスク回避の動きから金価格は急落。"
+  },
+  {
+    "title": "ＪＸ金属、銅建値３万円上げ - 日刊鉄鋼新聞 Japan Metal Daily",
+    "timestamp": "2026-07-13T20:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が銅の建値を3万円引き上げた。国内銅市場の価格改定を示すニュース。LME等国際市場の動向を反映した定期的な建値改定と考えられる。"
+  },
+  {
+    "title": "銅価格は$6,237～$6,355のレンジで推移しており、買い手のサポートが直近の動きを下支えしています。 - Traders Union",
+    "timestamp": "2026-07-13T12:19:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が$6,237～$6,355の狭いレンジで推移している。買い手による下支えが確認されており、値動きは安定している状況。"
   }
 ]
