@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY原油・金相場（10日）－原油が続落 金は反落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-10T22:03:42+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油が続落し、金は反落した。市場は既存のトレンドに沿った値動きを示している。具体的な好況・悪材料の新規発生は報道から不明。"
-  },
-  {
     "title": "本日（7月11日）の金価格：金地金価格が全般的に急騰。 - Vietnam.vn",
     "timestamp": "2026-07-10T22:33:45+00:00",
     "importance": 2,
@@ -22,17 +11,6 @@
     "summary": "ベトナムの報道で金地金価格が急騰したことを報じた記事。金相場の日々の値動きを伝えるニュース。"
   },
   {
-    "title": "NYダウ続伸149ドル高、原油安で消費関連に買い－ナスダックも上昇 - BigGo ファイナンス",
-    "timestamp": "2026-07-10T21:55:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株式市場で原油価格の低下が好感され、消費関連銘柄に買いが入りNYダウが上昇した。原油安は一般的にエネルギーコスト低下による消費環境の改善を示唆している。"
-  },
-  {
     "title": "NY金先物：反落、米イラン協議進展とドル底堅さが重しに(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-07-10T23:18:13+00:00",
     "importance": 3,
@@ -42,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が反落。米イラン協議の進展による地政学リスク低下と、ドル底堅さが金売却圧力となった。安全資産需要の減退が重し。"
-  },
-  {
-    "title": "本日（7月11日）の金価格：引き続き変動。 - Vietnam.vn",
-    "timestamp": "2026-07-10T21:59:38+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのニュースサイトが7月11日の金価格について「引き続き変動」と報じている。具体的な価格水準や変動要因の詳細は記事概要からは判断不可。定期的な相場レポートと推定される。"
   },
   {
     "title": "NY原油先物：続落、ホルムズ海峡の供給懸念後退で売り優勢 - 株探",
@@ -1857,5 +1824,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油先物が大幅に反発し、1カ月ぶりの高値で終値を迎えた。反発の具体的な要因についてはニュース要約では明記されていない。コモディティ投資家は需給バランスやマクロ要因の変化を確認する必要がある。"
+  },
+  {
+    "title": "本日（7月14日）の金価格：急落 - Vietnam.vn",
+    "timestamp": "2026-07-13T21:45:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月14日の金価格が急落したというニュース。具体的な下落要因や下げ幅の記載がなく、単なる相場の日中レポート。既に市場で織り込まれた動きの報道と考えられる。"
+  },
+  {
+    "title": "2026年7月14日午前の金価格：SJC 9999金地金とプレーンゴールドリングの価格、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-13T22:20:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報提供記事。SJC金地金とプレーンゴールドリングの価格、および世界の金価格を掲載。定期的な価格情報の更新。"
   }
 ]
