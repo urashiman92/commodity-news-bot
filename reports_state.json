@@ -801,5 +801,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油価格の上昇がドライバーとなり、米国2年債利回りが2025年以来の高水準に上昇。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油など実物資産には支援材料。FRBの金融政策スタンスへの市場解釈が変わる可能性がある。"
+  },
+  {
+    "title": "Nigeria breaks OPEC production ceiling as crude oil output climbs to a 74-month high of 1.56 million bpd - Business Insider Africa",
+    "timestamp": "2026-07-13T10:53:10+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ナイジェリアの原油生産量が74ヶ月ぶりの高水準である日産156万バレルに達し、OPEC生産枠を突破した。同国は減産合意からの脱離を事実上示唆しており、OPECの協調減産体制の弱体化を意味する。市場ではサプライズとして受け止められ、原油供給過剰懸念から下押し圧力。"
+  },
+  {
+    "title": "UAE Raises Crude Output To Over 3.8 Million BPD After OPEC Exit, Highest Since 2020 - Marine Insight",
+    "timestamp": "2026-07-11T12:26:41+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後、原油生産を380万バレル/日以上に引き上げた。これは2020年以降最高水準。OPEC減産体制の枠外での増産は供給過剰圧力となり、原油価格への下押し要因となる可能性が高い。"
   }
 ]
