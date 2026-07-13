@@ -1,16 +1,5 @@
 [
   {
-    "title": "IEA cuts Russian oil output forecasts on Ukrainian attacks - Reuters",
-    "timestamp": "2026-07-10T11:44:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEAがウクライナによるロシア施設への攻撃を受け、ロシアの石油生産見通しを引き下げた。ロシアは世界第2位の産油国であり、供給減少は世界的な需給逼迫をもたらす。地政学的リスクの顕在化により、原油価格への上昇圧力が強まる見通し。"
-  },
-  {
     "title": "Crop Production",
     "timestamp": "2026-07-10T17:10:01.791291+00:00",
     "importance": 2,
@@ -407,17 +396,6 @@
     "summary": "7月のWASDE発表で2026-27年度のバイオ燃料用大豆油需要見通しが据え置かれた。前月予想を維持したもので、バイオディーゼル政策や需要の大きな変化がないことを示唆している。エタノール・バイオディーゼル需要は安定的に推移する見通し。"
   },
   {
-    "title": "API Reports Crude Inventory Decline for Week Ending July 3, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-07-10T13:11:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "2026年7月3日週のAPI原油在庫が前週比で減少したことが報告された。在庫の減少は原油需要の堅調さまたは供給制約を示唆し、価格上昇要因となる。具体的な在庫減少量や市場予想値との比較情報が不足しているため、サプライズ度の判定が困難である。"
-  },
-  {
     "title": "Russian Aluminium’s Share of Available LME Stocks Reaches 95% - Discovery Alert",
     "timestamp": "2026-07-10T22:00:25+00:00",
     "importance": 3,
@@ -671,17 +649,6 @@
     "summary": "7月のWASDE報告書が市場の予想を上回る内容を発表し、穀物相場に稀な上昇圧力をもたらした。この報告書は定期的な農産物見通しの更新であるが、「market-mover bounce（市場を動かすバウンス）」と表現される程度の強いポジティブサプライズが含まれていた可能性が高い。供給不足やトレンド転換を示唆する内容が盛り込まれたと考えられる。"
   },
   {
-    "title": "EXCLUSIVE: Russia’s gasoline output covers 65% of demand after Ukrainian strikes, sources say - Reuters",
-    "timestamp": "2026-07-10T12:11:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナの攻撃によりロシアのガソリン生産が需要の65%までに低下。ロシアは欧州最大の石油製品供給国であり、この供給不足は国際的なガソリン・灯油価格の上昇圧力となる可能性が高い。ロシアの石油精製能力への打撃は中期的な供給逼迫要因となるべき情報。"
-  },
-  {
     "title": "Grain Markets Surge as Black Sea Tensions, USDA Supply Cuts Ignite Price Rally - Hoosier Ag Today",
     "timestamp": "2026-07-10T22:34:15+00:00",
     "importance": 4,
@@ -823,5 +790,60 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC脱退後、原油生産を380万バレル/日以上に引き上げた。これは2020年以降最高水準。OPEC減産体制の枠外での増産は供給過剰圧力となり、原油価格への下押し要因となる可能性が高い。"
+  },
+  {
+    "title": "U.A.E. Crude Output Surged in June After OPEC Exit - WSJ",
+    "timestamp": "2026-07-13T14:04:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEが6月にOPEC脱退後、原油生産を大幅に増加させた。OPEC減産合意からの離脱により、UAEは独立した増産戦略を展開。市場の減産枠組み維持期待に反する供給増は、原油価格への上昇圧力を緩和する可能性がある。"
+  },
+  {
+    "title": "Nigeria oil output hits six-year high, above OPEC target - Yahoo Finance",
+    "timestamp": "2026-07-13T12:06:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ナイジェリアの石油生産量が6年ぶりの高水準に達し、OPEC割当目標を上回った。同国の生産増加は供給圧力となり、OPECの減産枠組みに対する逆行要因として機能する。西アフリカの主要産油国の増産は、OPECの価格支持戦略を複雑にする展開。"
+  },
+  {
+    "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
+    "timestamp": "2026-07-13T12:46:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長予測を下方修正した。需要見通しの継続的な引き下げは、供給過剰懸念を強め、原油価格に下押し圧力をもたらす。OPECの需要見通しの弱気化は減産継続の正当化に使用される可能性もあるが、市場全体としては需要弱化シグナルとして作用する。"
+  },
+  {
+    "title": "Shipping still restricted in Russia's key Azov Sea grains trade route, sources say - Reuters",
+    "timestamp": "2026-07-13T14:00:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシア主要穀物輸出ルートであるアゾフ海での海運制限が継続している。同海域はウクライナ産小麦の重要な出荷経路であり、制限の継続は黒海回廊の不確実性と相まって、穀物供給懸念を再燃させている。ロシア・ウクライナ間の緊張が物流インフラを制約し続けることで、グローバル穀物供給の逼迫リスクが高まっている。"
+  },
+  {
+    "title": "Shipping still restricted in Russia's key Azov Sea grains trade route, sources say - Reuters",
+    "timestamp": "2026-07-13T14:00:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア主要穀物輸出ルートであるアゾフ海での海運制限が継続している。同海域はウクライナ産小麦の重要な出荷経路であり、制限の継続は黒海回廊の不確実性と相まって、穀物供給懸念を再燃させている。ロシア・ウクライナ間の緊張が物流インフラを制約し続けることで、グローバル穀物供給の逼迫リスクが高まっている。"
   }
 ]
