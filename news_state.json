@@ -1,16 +1,5 @@
 [
   {
-    "title": "CBOTの小麦先物が6週間ぶりの高値、USDA作物報告を前に上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-10T13:20:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "CBOT小麦先物が6週間ぶりの高値を更新。USDA作物報告の発表を控え、市場が供給見通しの悪化を織り込んでいる可能性が高い。価格上昇は作況悪化懸念に基づいている。"
-  },
-  {
     "title": "2026年7月11日の金価格：回復が止まり、貴金属は底値に達した。中国はなぜ備蓄を加速させているのか？ - Vietnam.vn",
     "timestamp": "2026-07-10T15:01:29+00:00",
     "importance": 4,
@@ -20,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が底値圏にあり回復が停滞している状況が報じられた。中国が金備蓄を加速させている動きが注目されている。各国中銀の金買い需要が価格下支え要因として機能している。"
-  },
-  {
-    "title": "NY外為：ドルもみ合い、原油価格の変動激しく 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-10T13:45:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル相場が狭いレンジで推移する中、原油価格は変動が激しい状況。マクロ環境と原油市場の値動きが乖離している。"
-  },
-  {
-    "title": "本日7月10日の金価格は、上昇と下落が入り混じった奇妙な動きを見せている。 - Vietnam.vn",
-    "timestamp": "2026-07-10T12:59:14+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月10日の金価格は上昇と下落が混在した振幅の大きい値動きを見せている。市場が方向感を欠いた状態にあることを示唆している。"
-  },
-  {
-    "title": "NY外為：ドルもみ合い、原油価格の変動激しく - ｄメニューニュース",
-    "timestamp": "2026-07-10T13:36:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY外為市場でドルが方向感なくもみ合う中、原油価格は変動が激しくなっている。ドルの動向が不確定なため、原油の方向性も定まらない状況。"
   },
   {
     "title": "ウクライナの攻撃で小麦価格が急騰、供給不安が広がる - Межа. Новини України.",
@@ -97,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の下落がNYダウを押し上げた。消費関連銘柄に買いが入り、2日連続で上昇。原油安は輸入国にとって好材料となっている。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ50ドル高、原油先物0.55ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-10T14:21:00+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前10時台の相場動向を報じるもの。ダウ平均は小幅高だが、原油先物は0.55ドル安。日中の既存トレンド振り返りの速報型記事。"
   },
   {
     "title": "NY原油・金相場（10日）－原油が続落 金は反落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -350,17 +295,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイランとの協議を確認。地政学的緊張緩和の期待から原油価格は軟化。米株価は上昇する中、エネルギー価格の下押し圧力が続く。"
-  },
-  {
-    "title": "米国の銅関税協議が$6,329のレジスタンス付近で銅価格の重しに - Traders Union",
-    "timestamp": "2026-07-10T12:19:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国の銅関税協議が銅価格の上値を抑えている。$6,329レベルがレジスタンスとなっており、関税懸念が売り圧力として作用。政策不確実性が相場の重しとなっている状況。"
   },
   {
     "title": "本日（7月11日）の金価格：金地金の価格は一律です。 - Vietnam.vn",
@@ -1736,5 +1670,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ゴールドマン・サックスが構造的安全プレミアムの上昇を理由に原油価格予測を引き上げた。地政学的リスク要因により供給不確実性が高まっていることを反映している。"
+  },
+  {
+    "title": "2026年7月13日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-13T10:40:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・先物オプション市場に関する市場ウォッチ記事。定期的な市場情報提供で、金価格への直接的な影響は限定的。"
+  },
+  {
+    "title": "金価格は本日7月13日、全面安で取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-07-13T13:35:26+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2024年7月13日、金価格が全面安で取引を終えた。ベトナムメディアによる日次相場リポート。具体的な下落要因や下げ幅は記事から不明。"
+  },
+  {
+    "title": "金価格は変動しており、多くの種類の金の指輪はSJCの金地金よりも安価になっている。 - Vietnam.vn",
+    "timestamp": "2026-07-13T13:16:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで金の指輪がSJC金地金より安価に取引されている状況を報道。金価格の変動を反映した市場内での相対価格の動き。"
+  },
+  {
+    "title": "日経NEXT【ホルムズ「再封鎖」で原油価格の今後は？中長期では下落傾向も！？】 - tv-tokyo.co.jp",
+    "timestamp": "2026-07-13T13:15:35+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再封鎖シナリオについての解説記事。短期的には原油価格上昇要因となるが、中長期では需要減退や供給源多様化により下落傾向の可能性を指摘。"
+  },
+  {
+    "title": "【米国株】イラン空爆で原油急騰、米先物が下落 – SKハイニックスはナスダックデビュー後に急落 - BigGo ファイナンス",
+    "timestamp": "2026-07-13T13:56:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランへの空爆により地政学的リスクが顕在化し、原油先物が急騰した。中東情勢の緊迫化に伴う供給途絶懸念が市場を動かした。米国株は利上げ観測の後退により下落。"
+  },
+  {
+    "title": "ドル安と在庫減少を背景に銅価格が安定推移 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-13T13:07:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ドル安環境が銅の割安感を支援し、LME在庫の減少が需給面での強気材料となっている。現在の銅価格は両要因に支えられて安定推移している状況を解説したコメンタリー記事。"
   }
 ]
