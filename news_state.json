@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格は下落を続けるのか、それとも回復に向かうのか？ - Vietnam.vn",
-    "timestamp": "2026-07-11T08:38:54+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の今後の方向性についての解説記事。下落継続か回復かの選択肢を提示しており、市場の現状認識をまとめたコメンタリー。具体的な新規ファンダメンタルズ情報は含まれていない。"
-  },
-  {
-    "title": "多くの中央銀行が買い増し、金価格の長期的な支えとなる - Laodong.vn",
-    "timestamp": "2026-07-11T10:29:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "複数の中央銀行による金の買い増し動向が報道されており、金の長期的な需要基盤の強化を示唆している。中央銀行の金買いは構造的な支援要因として認識されている。"
-  },
-  {
-    "title": "トランプ大統領、イラン和平協議の継続を表明も「停戦は終了」と宣言、原油価格が急騰 - BigGo ファイナンス",
-    "timestamp": "2026-07-11T08:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領がイラン関連の停戦終了を宣言し、地政学的リスクが急速に高まった。イラン絡みの中東情勢悪化懸念から原油価格が急騰。協議継続表明との矛盾メッセージが市場の不確実性を増幅。"
-  },
-  {
     "title": "【米金融】ウォッシュ議長証言とCPIが正面対決、金相場は4500ドル攻防へ - BigGo ファイナンス",
     "timestamp": "2026-07-11T11:35:00+00:00",
     "importance": 3,
@@ -53,28 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月11日の金価格は安定を保っている状況を報じたコメンタリー記事。具体的な価格変動や新たなファンダメンタルズ要因の報告はない。今後の動向を見守る段階という慎重な市場心理を反映。"
-  },
-  {
-    "title": "岡山県内でガソリン価格値上げ イラン情勢悪化、原油価格高騰 - 山陽新聞",
-    "timestamp": "2026-07-11T09:55:11+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン情勢の悪化により国際原油価格が高騰。これが日本国内のガソリン小売価格上昇につながった。地政学的リスク要因が供給懸念を引き起こしている。"
-  },
-  {
-    "title": "原油価格が上昇、地政学リスク緩和と供給増が市場を押し上げる - Межа. Новини України.",
-    "timestamp": "2026-07-11T10:27:47+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "地政学リスク緩和と供給増加が原油価格を押し上げている。市場は複数の好材料を織り込む動きを見せている。ウクライナ関連のニュースソースながら、価格上昇トレンドの解説記事と考えられる。"
   },
   {
     "title": "金価格は本日2026年7月12日に急落し、4,000ドル前後まで下落する可能性もある。専門家の間では、来週の見通しについて意見が分かれている。 - Vietnam.vn",
@@ -2055,5 +2000,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン間の海峡をめぐる攻撃応酬により、原油先物が3％近く上昇し1カ月ぶりの高値を付けた。ホルムズ海峡などの重要な石油輸送ルートの地政学的リスクが急速に高まった。"
+  },
+  {
+    "title": "原油価格が急騰し、金価格に大きな圧力がかかっている。 - Vietnam.vn",
+    "timestamp": "2026-07-14T08:53:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油価格の急騰がドル高やリスク回避につながり、金価格に売り圧力をかけている。エネルギーコストの上昇はインフレ圧力として機能し、実質金利の上昇につながる可能性がある。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況・13日 続落 - Moomoo",
+    "timestamp": "2026-07-13T20:34:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物市場が13日に続落した。具体的な値幅や下落要因の詳細は記事概要では確認できない。市場の振り返りと解説の性質が強い。"
+  },
+  {
+    "title": "日経平均株価反発 原油価格上昇で売り先行、韓国株持ち直しが支え【日経CNBC/きょうのポイント、明日のヒント】 - テレ東BIZ",
+    "timestamp": "2026-07-14T09:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の上昇が日本株市場に好材料として作用し、日経平均が反発。韓国株の持ち直しも相場を支援。ただしこれは既存トレンドの反映。"
+  },
+  {
+    "title": "$WTI 原油先物(2608) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-07-14T08:11:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の現在値表示に関するニュース。具体的な価格変動や市場イベントの情報が含まれていない。単なる銘柄情報ページへのリンク。"
+  },
+  {
+    "title": "本日（7月14日）の農産物価格：みかんの価格が急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-14T10:20:39+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "ベトナムの農産物価格の日次レポートでみかんの価格が急騰したことを報じている。トウモロコシカテゴリに分類されているが、記事の主体はみかん（柑橘類）の価格動向。"
   }
 ]
