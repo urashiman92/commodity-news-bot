@@ -548,5 +548,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが供給を余儀なくされている原油の全量販売に苦戦している。西側制裁の強化により販売先確保が困難化し、ロシアは割引販売やディスカウント幅の拡大を余儀なくされている。この状況はロシア原油供給の脆弱性を露呈させ、OPEC減産の実効性に影響を及ぼす可能性がある。"
+  },
+  {
+    "title": "“The Math Doesn’t Math”: Analysts React to Friendly July WASDE, Wheat-Led Rally - Dakota News Network",
+    "timestamp": "2026-07-12T21:24:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "7月のWASDE発表で小麦を中心とした穀物相場が上昇した。アナリストが「数字が合わない」とコメントしており、市場予想を外れた好気的な供給見通しが示されたと推察される。小麦主導で穀物全般がラリーを形成。"
+  },
+  {
+    "title": "“The Math Doesn’t Math”: Analysts React to Friendly July WASDE, Wheat-Led Rally - Dakota News Network",
+    "timestamp": "2026-07-12T21:24:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月のWASDE発表で小麦を中心とした穀物相場が上昇した。アナリストが「数字が合わない」とコメントしており、市場予想を外れた好気的な供給見通しが示されたと推察される。小麦主導で穀物全般がラリーを形成。"
+  },
+  {
+    "title": "“The Math Doesn’t Math”: Analysts React to Friendly July WASDE, Wheat-Led Rally - Dakota News Network",
+    "timestamp": "2026-07-12T21:24:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のWASDE発表で小麦を中心とした穀物相場が上昇した。アナリストが「数字が合わない」とコメントしており、市場予想を外れた好気的な供給見通しが示されたと推察される。小麦主導で穀物全般がラリーを形成。"
+  },
+  {
+    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
+    "timestamp": "2026-07-13T21:02:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA7月穀物レポートが市場で穀物相場の上昇をもたらした。定期発表であるCrop Progress/Production統計が発表され、穀物市場に買い圧力が生じた。ただし具体的な予想比や数値が不明のため、サプライズ度の詳細判定は困難。"
+  },
+  {
+    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
+    "timestamp": "2026-07-13T21:02:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA7月穀物レポートが市場で穀物相場の上昇をもたらした。定期発表であるCrop Progress/Production統計が発表され、穀物市場に買い圧力が生じた。ただし具体的な予想比や数値が不明のため、サプライズ度の詳細判定は困難。"
+  },
+  {
+    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
+    "timestamp": "2026-07-13T21:02:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA7月穀物レポートが市場で穀物相場の上昇をもたらした。定期発表であるCrop Progress/Production統計が発表され、穀物市場に買い圧力が生じた。ただし具体的な予想比や数値が不明のため、サプライズ度の詳細判定は困難。"
+  },
+  {
+    "title": "Corn yield swing of 10% could mean $4.45 or $3.40 fall futures - Farm Progress",
+    "timestamp": "2026-07-13T16:35:42+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの単収が10%変動した場合、先物価格が$4.45または$3.40に達する可能性があるとの試算。現在の作況予想の幅が大きく、単収変動が価格に極めて敏感に反応する状況を示唆。WASDE等の正式発表前の見通し分析。"
+  },
+  {
+    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas",
+    "timestamp": "2026-07-14T06:40:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが3ヶ月連続で2026年の世界石油需要成長見通しを引き下げた。需要の弱まりを反映した下方修正は、原油市場の構造的な弱さを示唆している。需要減速懸念が強まる中、OPECは供給調整の継続を余儀なくされる可能性が高い。"
   }
 ]
