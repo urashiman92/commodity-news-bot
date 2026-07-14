@@ -1,16 +1,5 @@
 [
   {
-    "title": "【米金融】ウォッシュ議長証言とCPIが正面対決、金相場は4500ドル攻防へ - BigGo ファイナンス",
-    "timestamp": "2026-07-11T11:35:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB議長証言とCPI発表が相場の方向性を左右する重要な局面。金相場は4500ドル付近での攻防が予想される。金利見通しの変化が金の利回り魅力に直結し、相場変動の分岐点となる可能性がある。"
-  },
-  {
     "title": "本日7月11日の金価格は、今後の動向を見守る中で、安定を保っている。 - Vietnam.vn",
     "timestamp": "2026-07-11T13:40:23+00:00",
     "importance": 1,
@@ -2055,5 +2044,27 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "ベトナムの農産物価格の日次レポートでみかんの価格が急騰したことを報じている。トウモロコシカテゴリに分類されているが、記事の主体はみかん（柑橘類）の価格動向。"
+  },
+  {
+    "title": "2026年7月14日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-14T10:37:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する市場ウォッチ記事。定期的な先物市場解説・観測記事と見られる。コモディティ市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "本日（7月14日）の最新の金価格は急落：買い手が逃げ出し、多くの店舗で売上が低迷。 - Vietnam.vn",
+    "timestamp": "2026-07-14T10:42:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで金価格が急落し、買い手が減少して店舗の売上が低迷している。地域的な需要減少の報告。"
   }
 ]
