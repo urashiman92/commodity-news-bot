@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（7月11日）の金価格：金地金の価格は一律です。 - Vietnam.vn",
-    "timestamp": "2026-07-11T06:52:25+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金価格が一定であることを報じるニュース。市場の日常的な価格情報の提示であり、新規の価格変動要因を含まない。"
-  },
-  {
-    "title": "金価格がピークに達した時に購入し、その後急落した場合、投資家はどのような行動をとるべきでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-07-11T07:55:52+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金がピークで購入後に急落した場合の投資家の対応策について、ベトナムメディアが解説記事を掲載。損切り・買い増し・塩漬けなどの戦略についての一般的なコメンタリー。"
-  },
-  {
     "title": "金価格は下落を続けるのか、それとも回復に向かうのか？ - Vietnam.vn",
     "timestamp": "2026-07-11T08:38:54+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格の今後の方向性についての解説記事。下落継続か回復かの選択肢を提示しており、市場の現状認識をまとめたコメンタリー。具体的な新規ファンダメンタルズ情報は含まれていない。"
-  },
-  {
-    "title": "金価格が続落、 中東情勢緊迫化でインフレ懸念再燃 - MSN",
-    "timestamp": "2026-07-11T08:23:57+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が続落している。中東情勢の緊迫化によりインフレ懸念が再燃している。ただしタイトルでは「続落」と記載されており、既に進行中の動きの報道である。"
   },
   {
     "title": "多くの中央銀行が買い増し、金価格の長期的な支えとなる - Laodong.vn",
@@ -64,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ大統領がイラン関連の停戦終了を宣言し、地政学的リスクが急速に高まった。イラン絡みの中東情勢悪化懸念から原油価格が急騰。協議継続表明との矛盾メッセージが市場の不確実性を増幅。"
-  },
-  {
-    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-07-11T06:56:06+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WisdomTree WTI原油上場投信（1690）のYahoo!ファイナンス掲載ページの紹介。具体的なニュース内容や価格変動情報が含まれていない。"
   },
   {
     "title": "【米金融】ウォッシュ議長証言とCPIが正面対決、金相場は4500ドル攻防へ - BigGo ファイナンス",
@@ -2033,5 +1989,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "日本の亜鉛価格が過去最高値の65万円を突破。円安進行が輸入コスト上昇につながり、国内価格を押し上げた。グローバル需給逼迫とドル高の継続が背景。"
+  },
+  {
+    "title": "本日（7月14日午後）の金価格：引き続き急落。 - Vietnam.vn",
+    "timestamp": "2026-07-14T07:09:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月14日午後の金価格が引き続き急落している。具体的な下落の原因は記事の概要からは不明確だが、既に進行中のトレンドの継続。"
+  },
+  {
+    "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-07-14T07:02:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "純金上場信託(1540)の株価情報ページの掲載。特定のニュースイベントではなく、取引プラットフォームの定期更新と思われる。"
+  },
+  {
+    "title": "原油先物3％近く上昇、1カ月ぶり高値 海峡巡り米イラン攻撃応酬 - ロイター",
+    "timestamp": "2026-07-14T07:11:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の攻撃応酬により地政学的緊張が急速に高まり、ホルムズ海峡を経由する原油供給への懸念が顕在化。原油先物が3％近く上昇し1カ月ぶりの高値を記録。中東地域の供給リスクが市場心理を大きく動かした。"
+  },
+  {
+    "title": "原油先物3％近く上昇、1カ月ぶり高値 海峡巡り米イラン攻撃応酬 - ニューズウィーク日本版",
+    "timestamp": "2026-07-14T07:10:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの軍事的応酬がホルムズ海峡の地政学リスクを高め、原油先物が3%近く上昇して1ヶ月ぶりの高値を更新した。海峡での緊張激化は主要石油輸送路への直接的な供給リスクをもたらす。地政学的ショックとして市場に大きな影響を与えている。"
+  },
+  {
+    "title": "NY原油、一時10%上昇 米国の対イラン海上封鎖の再開表明受け - 朝日新聞",
+    "timestamp": "2026-07-13T22:18:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイランへの海上封鎖を再開すると表明し、NY原油が一時10%上昇。イランは主要石油供給国であり、封鎖による供給減少懸念が急速に市場に織り込まれた。地政学的緊張の急激な高まり。"
+  },
+  {
+    "title": "原油先物3％近く上昇、1カ月ぶり高値　海峡巡り米イラン攻撃応酬 - ｄメニューニュース",
+    "timestamp": "2026-07-14T07:10:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の海峡をめぐる攻撃応酬により、原油先物が3％近く上昇し1カ月ぶりの高値を付けた。ホルムズ海峡などの重要な石油輸送ルートの地政学的リスクが急速に高まった。"
   }
 ]
