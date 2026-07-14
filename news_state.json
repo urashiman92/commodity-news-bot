@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日7月11日の金価格は、今後の動向を見守る中で、安定を保っている。 - Vietnam.vn",
-    "timestamp": "2026-07-11T13:40:23+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月11日の金価格は安定を保っている状況を報じたコメンタリー記事。具体的な価格変動や新たなファンダメンタルズ要因の報告はない。今後の動向を見守る段階という慎重な市場心理を反映。"
-  },
-  {
     "title": "金価格は本日2026年7月12日に急落し、4,000ドル前後まで下落する可能性もある。専門家の間では、来週の見通しについて意見が分かれている。 - Vietnam.vn",
     "timestamp": "2026-07-11T15:04:16+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が2026年7月12日に急落し、4,000ドル付近まで下げる可能性が報じられている。専門家の見通しは来週について意見が分かれている状況。"
-  },
-  {
-    "title": "7月11日の終値の金価格更新:もみ合い、専門家が短期的な見通しを予測 - Laodong.vn",
-    "timestamp": "2026-07-11T13:57:17+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月11日の金相場はもみ合い状況。専門家が短期的な見通しを予測しているが、具体的な材料や方向性は不明。市場は様子見姿勢。"
   },
   {
     "title": "6か月後、金価格がピークだった時に金を購入した人々は、1テールあたり4500万ベトナムドン以上を失った。 - Vietnam.vn",
@@ -2066,5 +2044,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムで金価格が急落し、買い手が減少して店舗の売上が低迷している。地域的な需要減少の報告。"
+  },
+  {
+    "title": "2026年7月14日午後の金価格：SJC金価格、9999金リング価格、および火曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-14T10:00:44+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトが2026年7月14日午後の金価格を報道。SJC金とグローバル金相場の日次更新情報。"
+  },
+  {
+    "title": "6月の米消費者物価3.5%上昇 原油価格、再び上昇（毎日新聞） - Yahoo!ニュース",
+    "timestamp": "2026-07-14T13:30:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "6月米CPI前月比3.5%上昇が報告され、インフレ圧力の継続を示唆。金融引き締め継続懸念からドル堅調となり、原油価格が再び上昇圧力を受けた。エネルギーセクターのコスト押し上げ要因として注視。"
+  },
+  {
+    "title": "ホルムズ海峡“再封鎖”で手数料20％か…1隻あたり約52億円も 原油価格・物価への影響は？【#みんなのギモン】 - 日テレNEWS NNN",
+    "timestamp": "2026-07-14T12:28:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再封鎖シナリオについての解説記事。封鎖時の輸送手数料が現在の20倍（1隻52億円）に達する可能性を指摘。原油供給途絶リスクと物価への波及効果を分析。"
+  },
+  {
+    "title": "中東情勢緊迫で原油価格が1日で約10%急騰、金は一時4,000ドル割れ後に反発——インフレの亡霊が再び各国中銀を悩ます - BigGo ファイナンス",
+    "timestamp": "2026-07-14T11:26:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊迫化により原油価格が1日で約10%の急騰を記録。地政学リスクによる供給懸念が市場を大きく動かした。同時に金も変動し、インフレ懸念が再燃している。"
   }
 ]
