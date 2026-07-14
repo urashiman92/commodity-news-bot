@@ -1,27 +1,5 @@
 [
   {
-    "title": "6か月後、金価格がピークだった時に金を購入した人々は、1テールあたり4500万ベトナムドン以上を失った。 - Vietnam.vn",
-    "timestamp": "2026-07-11T16:34:26+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムにおいて、金価格がピークの時期に購入した投資家が、6か月後に1テール当たり4500万ベトナムドン以上の損失を被ったというニュース。金価格の下落局面での投資家の損失を報じたもの。"
-  },
-  {
-    "title": "本日（7月11日）の燃料価格：世界の原油価格が下落、国内価格も今週は軒並み下落。 - Vietnam.vn",
-    "timestamp": "2026-07-11T16:44:36+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月11日時点で世界の原油価格が下落局面にあり、ベトナム国内の燃料価格も週間を通じて軒並み値下がりしている。市場全体の弱気ムードを反映した動きとなっている。"
-  },
-  {
     "title": "金価格の最新情報（2026年7月12日）：9999金、プレーンリングの価格（BTMC DOJI Phu Quy） - Vietnam.vn",
     "timestamp": "2026-07-11T21:11:00+00:00",
     "importance": 1,
@@ -2121,5 +2099,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅関連企業の中間決算好調予想が市場心理を支える。地政学リスクにより銅価格は高値圏で変動。銅関連株が買い主導となっている。"
+  },
+  {
+    "title": "金価格4,000ドルからの調整は買い場か？欧州資産運用大手Abrdn「FRBの口先タカ派に惑わされるな、中銀は買い続けている」 - BigGo ファイナンス",
+    "timestamp": "2026-07-14T09:26:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "欧州資産運用大手Abrdnが、金価格の調整局面を買い機会と指摘。FRBのタカ派姿勢に惑わされず、中央銀行が金を継続購入していることが下支え要因となると主張。"
+  },
+  {
+    "title": "米国とイランの緊張が高まる中、原油価格上昇を背景に、日本株はボラティリティの高い取引を経て高値で引けました。 - Moomoo",
+    "timestamp": "2026-07-14T15:24:07+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの緊張激化により地政学的リスクが上昇し、原油価格が値上がりした。これを背景に日本株も高値で引けるなど、エネルギー関連のボラティリティが上昇している。"
+  },
+  {
+    "title": "NY外為：ドル戻り鈍い、原油価格が高値から反落、ウォーシュFRB議長はCPI鈍化で「任務完了」ではないと言及 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-14T16:02:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル戻りが鈍く、原油価格が高値から反落。FRB議長パウエルがCPI鈍化下でも「任務完了ではない」と慎重姿勢を表明。金融引き締め継続を示唆するコメンテリー。"
+  },
+  {
+    "title": "サプライチェーンの「変態」マテリアル編（35）銅高騰が示す資源配分の課題 - 日刊工業新聞",
+    "timestamp": "2026-07-13T20:14:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅相場の高騰がサプライチェーン上の資源配分効率の課題を浮き彫りにしている。需給逼迫と価格上昇が構造的な問題を顕在化させている。市場メカニズムが適切な資源最適配分を実現できているか検証が必要。"
   }
 ]
