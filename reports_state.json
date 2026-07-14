@@ -1,27 +1,5 @@
 [
   {
-    "title": "Russia's diesel export ban deepens global supply crunch - Reuters",
-    "timestamp": "2026-07-11T01:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアがディーゼル輸出禁止を実施し、世界的な供給逼迫が深刻化している。ロシアは世界有数のディーゼル輸出国であり、この禁止措置は欧州やアジア太平洋地域の供給バランスに大きな影響を与える。地政学的リスクに加えて、精製製品の供給減少が原油価格および関連エネルギーコモディティの上昇圧力となる。"
-  },
-  {
-    "title": "Russia's diesel export ban deepens global supply crunch - Reuters",
-    "timestamp": "2026-07-11T01:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアがディーゼル輸出禁止を実施し、世界的な供給逼迫が深刻化している。ロシアは世界有数のディーゼル輸出国であり、この禁止措置は欧州やアジア太平洋地域の供給バランスに大きな影響を与える。地政学的リスクに加えて、精製製品の供給減少が原油価格および関連エネルギーコモディティの上昇圧力となる。"
-  },
-  {
     "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
     "timestamp": "2026-07-11T12:21:47+00:00",
     "importance": 2,
@@ -438,5 +416,38 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "米国小麦の2024年産生産量予測が1970年産以来54年ぶりの最低水準となった。干ばつや悪天候による作付面積減少と単収低下が主因。世界的な穀物供給逼迫懸念が強まり、小麦価格の上昇圧力が確実視される。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 68% Good to Excellent; Soybeans 65% Good to Excellent as of July 12 - DTN Progressive Farmer",
+    "timestamp": "2026-07-13T08:59:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポート（7月12日時点）によると、トウモロコシの良好～優秀評価は68%、大豆は65%と報告された。両穀物ともに良好な生育状況を示しており、これは豊作見通しを示唆している。供給増加への懸念から価格下落圧力が生じる可能性がある。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 68% Good to Excellent; Soybeans 65% Good to Excellent as of July 12 - DTN Progressive Farmer",
+    "timestamp": "2026-07-13T08:59:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progressレポート（7月12日時点）によると、トウモロコシの良好～優秀評価は68%、大豆は65%と報告された。両穀物ともに良好な生育状況を示しており、これは豊作見通しを示唆している。供給増加への懸念から価格下落圧力が生じる可能性がある。"
+  },
+  {
+    "title": "OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-07-13T21:30:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが石油需要見通しを再び引き下げた。ホルムズ海峡リスクが市場で織り込まれ始め、供給懸念の重要性が相対的に低下している。需要の弱さが価格押し下げ圧力になる可能性が高い。"
   }
 ]
