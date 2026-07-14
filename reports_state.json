@@ -11,28 +11,6 @@
     "summary": "UAEのOPEC離脱発表に対し、アナリストRussell氏は予想されたほど原油価格への悪影響はない可能性を指摘。UAE単独での増産余地は限定的であり、市場インパクトは限定的との見方を示している。既知の情報の解釈段階。"
   },
   {
-    "title": "Russia Says Ukraine Attacked Four Vessels in Azov Sea Overnight - Bloomberg.com",
-    "timestamp": "2026-07-11T10:22:30+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアがアゾフ海でウクライナによる4隻への攻撃を報告。黒海回廊を含む海上輸送ルートの不安定化が加速し、穀物やエネルギー運搬リスクが急速に高まる。地政学的緊張の急騰により、原油など安全資産需要が増加する可能性が高い。"
-  },
-  {
-    "title": "Russia Says Ukraine Attacked Four Vessels in Azov Sea Overnight - Bloomberg.com",
-    "timestamp": "2026-07-11T10:22:30+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアがアゾフ海でウクライナによる4隻への攻撃を報告。黒海回廊を含む海上輸送ルートの不安定化が加速し、穀物やエネルギー運搬リスクが急速に高まる。地政学的緊張の急騰により、原油など安全資産需要が増加する可能性が高い。"
-  },
-  {
     "title": "Treasury Two-Year Yield Rises to Highest Since 2025 on Oil Gain - Bloomberg.com",
     "timestamp": "2026-07-13T02:30:00+00:00",
     "importance": 3,
@@ -471,5 +449,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "トランプ前大統領がホルムズ海峡通航に対する関税（レビー）を脅迫的に提唱し、原油価格が上昇した。この地政学的リスク発言により、主要なエネルギー供給ルートの不確実性が増し、市場は供給途絶懸念から原油買いを加速。一方、リスク回避によりアジア株式市場は下落した。"
+  },
+  {
+    "title": "USDA raises global cotton output forecast, consumption higher in July - Fibre2Fashion",
+    "timestamp": "2026-07-14T09:50:22+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが7月のWASDEレポートで世界綿花生産量の見通しを上方修正した。同時に消費量も上方修正されており、需給両面で増加する見通し。綿花市場の需給バランスに対する直接的な影響が注視される。"
+  },
+  {
+    "title": "UAE Tells OPEC Its Oil Production Surged by 80% Last Month - Bloomberg.com",
+    "timestamp": "2026-07-13T12:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECに対し、先月の石油生産量が80%急増したと報告。この大幅な増産は市場予想を大きく上回り、OPECの減産合意枠組みに対する懸念を生じさせている。UAEの増産ペースは予想の範囲外で、原油供給過剰リスクを高める可能性がある。"
   }
 ]
