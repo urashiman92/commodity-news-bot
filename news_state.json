@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は本日2026年7月12日に急落し、4,000ドル前後まで下落する可能性もある。専門家の間では、来週の見通しについて意見が分かれている。 - Vietnam.vn",
-    "timestamp": "2026-07-11T15:04:16+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が2026年7月12日に急落し、4,000ドル付近まで下げる可能性が報じられている。専門家の見通しは来週について意見が分かれている状況。"
-  },
-  {
     "title": "6か月後、金価格がピークだった時に金を購入した人々は、1テールあたり4500万ベトナムドン以上を失った。 - Vietnam.vn",
     "timestamp": "2026-07-11T16:34:26+00:00",
     "importance": 1,
@@ -2088,5 +2077,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の緊迫化により原油価格が1日で約10%の急騰を記録。地政学リスクによる供給懸念が市場を大きく動かした。同時に金も変動し、インフレ懸念が再燃している。"
+  },
+  {
+    "title": "金価格は本日7月14日、大幅に下落して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-07-14T13:25:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月14日に金価格が大幅下落して取引を終えた。具体的な下落率や原因が記事概要に明記されていない。ベトナムのニュースソースによる市場報告。"
+  },
+  {
+    "title": "2026年7月15日現在、金価格は正反対の方向に変動しており、中央銀行が継続的に金を購入しているという重大な矛盾を反映している。 - Vietnam.vn",
+    "timestamp": "2026-07-14T14:59:50+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月時点で金価格が変動する中、中央銀行による継続的な金購入が矛盾した市場環境を示唆している。中銀の買いが価格を下支えする構造が存在する。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ83ドル高、原油先物1.57ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-14T14:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の相場サマリー。ダウ平均が83ドル上昇、WTI原油先物が1.57ドル上昇。市場全体がリスクオン基調。"
+  },
+  {
+    "title": "銅関連株が上昇率上位を占め、中間決算の好調な予想が市場の信頼感に火をつける中、地政学的な情勢の変動が銅価格の高値圏での乱高下を維持させています。 - Moomoo",
+    "timestamp": "2026-07-14T10:37:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅関連企業の中間決算好調予想が市場心理を支える。地政学リスクにより銅価格は高値圏で変動。銅関連株が買い主導となっている。"
   }
 ]
