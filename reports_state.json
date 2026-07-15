@@ -713,5 +713,60 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が4月の石油生産を日量137,000バレル増加させることを検討中。小幅な増産規模であり、市場予想の範囲内と見られる。供給緩和圧力から原油価格には軽微な下押し材料となる可能性がある。"
+  },
+  {
+    "title": "USDA raises global cotton output forecast, consumption higher in July - Fibre2Fashion",
+    "timestamp": "2026-07-14T09:43:50+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが7月のWASDEレポートで綿花の世界生産予測を上方修正し、同時に消費量も上方修正された。供給と需要の双方が増加する見通しとなったが、相対的な需給バランスの変化により市場へのインパクトが生じる可能性がある。綿花は繊維・アパレル産業の主要原材料として機能している。"
+  },
+  {
+    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - EnergyNow.com",
+    "timestamp": "2026-07-12T09:32:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間統計により、米国原油在庫が1年近辺の高水準まで積み上がったことが報告された。輸出入が両減となる中での在庫増加は、需要減速を示唆している。在庫積み上がりは原油価格に下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare - Reuters",
+    "timestamp": "2026-07-14T16:52:22+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化に伴い、Brentの先物構造がコンタンゴからバックワーデーション（逆ざや）へ転換。供給リスク顕在化で需給逼迫への警戒が高まり、近月物の相対的な上昇圧力が強まっている。市場が供給途絶シナリオをプライスイン。"
+  },
+  {
+    "title": "US Russia sanctions bill eases threat of tariffs on China and India - Reuters",
+    "timestamp": "2026-07-14T21:57:31+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国がロシア制裁法案を可決し、中国・インドへの追加関税脅迫が緩和される見通し。地政学リスク軽減により原油を含むコモディティの供給懸念が一時的に後退。ただし制裁そのものはロシア産エネルギーの供給制約要因として機能し続ける可能性がある。"
+  },
+  {
+    "title": "US Russia sanctions bill eases threat of tariffs on China and India - Reuters",
+    "timestamp": "2026-07-14T21:57:31+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がロシア制裁法案を可決し、中国・インドへの追加関税脅迫が緩和される見通し。地政学リスク軽減により原油を含むコモディティの供給懸念が一時的に後退。ただし制裁そのものはロシア産エネルギーの供給制約要因として機能し続ける可能性がある。"
   }
 ]
