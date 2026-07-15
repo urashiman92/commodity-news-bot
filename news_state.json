@@ -1,38 +1,5 @@
 [
   {
-    "title": "佐々木麟太郎、マーリンズ8巡目全体235位でドラフト指名 契約金相場は約3875万円 進路決断の時迫る（ベースボールキング） - Yahoo!ニュース",
-    "timestamp": "2026-07-12T20:32:14+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日本の野球選手佐々木麟太郎がMLBドラフトで指名されたニュース。契約金は約3875万円相場。"
-  },
-  {
-    "title": "2026年7月13日の金価格更新：週初めのBTMC DOJI Phu Quyにおける9999金とプレーンリングの価格。 - Vietnam.vn",
-    "timestamp": "2026-07-12T21:05:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格の週初更新ニュース。BTMC DOJI Phu Quy店舗における9999金とプレーンリングの価格情報を報道。市場の実需データだが、グローバルな金市場への影響は限定的。"
-  },
-  {
-    "title": "本日（7月13日）の金価格：1週間の投資の後、大幅な下落。 - Vietnam.vn",
-    "timestamp": "2026-07-12T21:38:34+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間の投資活動後に大幅な下落を記録。ベトナム市場での相場動向を伝える定期レポート。特定の材料による急変動ではなく通常の値動きの範囲内と考えられる。"
-  },
-  {
     "title": "2026年7月13日午前の金価格：SJC 9999金地金とプレーンリングの価格、および月曜日の世界の金価格。 - Vietnam.vn",
     "timestamp": "2026-07-12T22:10:15+00:00",
     "importance": 1,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報を提供するニュース。SJC金地金とリングの価格、および世界の金価格を月曜日時点で報道したもの。"
-  },
-  {
-    "title": "本日、2026年7月13日の金価格更新：週初めのBTMC DOJI Phu Quyの9999金とプレーンリングの価格。 - Vietnam.vn",
-    "timestamp": "2026-07-12T21:46:33+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売業者BTMCが2026年7月13日時点の9999金およびプレーンリングの価格を更新。週初めの定期的な価格情報提供。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4120ドル｜米長期金利が上昇した影響で、売り優勢だった模様(2026年7月13日) - OANDA証券",
@@ -2330,5 +2286,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属の株価上昇を、銅価格高騰時における同社の構造的な強みとして分析したコメンタリー記事。銅相場の上昇環境下での企業収益性や競争力を解説している。"
+  },
+  {
+    "title": "ロシア・ウクライナ紛争で小麦先物が5%急騰、黒海の貿易に混乱 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-15T20:43:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア・ウクライナ紛争により小麦先物が5%急騰。黒海の主要穀物輸出ルートが混乱し、世界供給への懸念が顕在化。地政学的リスクが価格に直結した。"
+  },
+  {
+    "title": "本日（7月16日）の金価格：状況は逆転した。 - Vietnam.vn",
+    "timestamp": "2026-07-15T21:43:47+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムメディアによる7月16日の金価格に関する解説記事。「状況は逆転した」というタイトルだが、具体的な価格変動幅や要因の詳細が不明。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ247ドル高、原油先物0.43ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-15T14:40:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の相場動向を報じるリアルタイム速報。ダウ平均は247ドル高、WTI原油先物は0.43ドル高で推移している。市場全体で堅調な展開が続いている。"
   }
 ]
