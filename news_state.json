@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格が急落する中、主要企業は引き続き数十トンもの金を買い溜めしている。 - Vietnam.vn",
-    "timestamp": "2026-07-12T09:32:31+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が下落する局面で、主要企業が数十トン規模の金を継続的に買い増ししている。機関投資家の買い姿勢が強く、下値支持の形成を示唆。金の長期的な価値認識と企業の戦略的ポジション構築を反映。"
-  },
-  {
-    "title": "金価格が下落、差額が大きく、1週間で買い手は大きな損失 - Laodong.vn",
-    "timestamp": "2026-07-12T09:38:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で下落し、買い手に損失が発生。売買差幅が大きい相場環境を反映した相場の振り返り記事。価格変動自体は既に市場に織り込まれている。"
-  },
-  {
-    "title": "金価格が大幅調整、中央銀行は引き続き蓄積の勢い - Laodong.vn",
-    "timestamp": "2026-07-12T10:15:29+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が大幅調整を経験している。一方で中央銀行は金の蓄積姿勢を継続している。価格下落局面でも機関投資家による買いが支えになっている可能性。"
-  },
-  {
-    "title": "今週の経済ニュース：米イラン間の緊張で原油価格が急騰、エリザベス・ウォーレンがトランプ関連の「腐敗した」取引を痛烈批判 - Benzinga Japan",
-    "timestamp": "2026-07-12T10:31:27+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の地政学的緊張が高まり、原油価格が急騰した。中東地域での供給途絶リスクが意識される。政治的批判も報道されている。"
-  },
-  {
     "title": "金価格は本日7月12日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
     "timestamp": "2026-07-12T13:12:39+00:00",
     "importance": 2,
@@ -86,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "日経平均が反発し、原油先物も上昇している。ただし株式市場では半導体銘柄が買い進まれており、原油買いは限定的な動き。"
-  },
-  {
-    "title": "６月の企業物価７・１％上昇、上昇率は３年３か月ぶりの高い伸び…中東情勢悪化による原油価格高騰で（読売新聞オンライン） - Yahoo!ニュース",
-    "timestamp": "2026-07-12T11:02:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "6月の日本企業物価が前年同月比7.1%上昇し、3年3か月ぶりの高い伸びを記録。中東情勢悪化による原油価格高騰が主因。インフレ圧力の高まりを反映。"
   },
   {
     "title": "金価格は1テールあたり700万ベトナムドン急落し、今朝金を購入した人は1日で1テールあたり1100万ベトナムドン以上を失ったことになる。 - Vietnam.vn",
@@ -2363,5 +2308,60 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "ヤマタネ会長が東京大学経済学部のエネルギー・コモディティ市場講座にゲスト講師として登壇。商社幹部による業界知見の学生向け講演。"
+  },
+  {
+    "title": "小麦先物 (WHEAT-F) は7月15日に上昇 2.25%：その理由はこれです - TradingKey",
+    "timestamp": "2026-07-15T08:51:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "7月15日の小麦先物が2.25%上昇した。具体的な材料が記事概要から不明だが、日次の相場動向解説と見られる。通常のボラティリティ範囲内の変動。"
+  },
+  {
+    "title": "ＣＰＩ発表後の金価格 - 三菱マテリアル",
+    "timestamp": "2026-07-15T04:22:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "三菱マテリアルがCPI発表後の金価格動向についての解説記事。CPI統計発表は予定された定期指標だが、本記事はその後の相場観測・コメンタリーの性質。"
+  },
+  {
+    "title": "原油価格が2％上昇、イラン革命防衛隊が全輸出回廊の閉鎖警告 - ロイター",
+    "timestamp": "2026-07-15T09:55:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン革命防衛隊が全輸出回廊の閉鎖を警告し、原油価格が2%上昇。中東の地政学的緊張が急速に高まり、供給途絶リスクが顕在化した。市場は供給ショックの可能性を織り込み始めた。"
+  },
+  {
+    "title": "原油価格が2％上昇、イラン革命防衛隊が全輸出回廊の閉鎖警告 - ニューズウィーク日本版",
+    "timestamp": "2026-07-15T09:54:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン革命防衛隊が全輸出回廊の閉鎖を警告し、原油価格が2％上昇。中東地政学リスクの顕在化により供給遮断懸念が浮上。イランの輸出能力喪失は世界供給の約3％に相当する重要な脅威。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、銅、小麦、大豆が上昇 トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-14T22:28:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米国コモディティ市場で原油、ガソリン、天然ガス、貴金属（金・銀）、銅、穀物（小麦・大豆）が広範に上昇。トウモロコシのみ下落。複数商品の同時上昇を記録。"
   }
 ]
