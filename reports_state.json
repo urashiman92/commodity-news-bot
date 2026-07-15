@@ -550,39 +550,6 @@
     "summary": "ロシアが供給を余儀なくされている原油の全量販売に苦戦している。西側制裁の強化により販売先確保が困難化し、ロシアは割引販売やディスカウント幅の拡大を余儀なくされている。この状況はロシア原油供給の脆弱性を露呈させ、OPEC減産の実効性に影響を及ぼす可能性がある。"
   },
   {
-    "title": "“The Math Doesn’t Math”: Analysts React to Friendly July WASDE, Wheat-Led Rally - Dakota News Network",
-    "timestamp": "2026-07-12T21:24:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "7月のWASDE発表で小麦を中心とした穀物相場が上昇した。アナリストが「数字が合わない」とコメントしており、市場予想を外れた好気的な供給見通しが示されたと推察される。小麦主導で穀物全般がラリーを形成。"
-  },
-  {
-    "title": "“The Math Doesn’t Math”: Analysts React to Friendly July WASDE, Wheat-Led Rally - Dakota News Network",
-    "timestamp": "2026-07-12T21:24:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "7月のWASDE発表で小麦を中心とした穀物相場が上昇した。アナリストが「数字が合わない」とコメントしており、市場予想を外れた好気的な供給見通しが示されたと推察される。小麦主導で穀物全般がラリーを形成。"
-  },
-  {
-    "title": "“The Math Doesn’t Math”: Analysts React to Friendly July WASDE, Wheat-Led Rally - Dakota News Network",
-    "timestamp": "2026-07-12T21:24:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "7月のWASDE発表で小麦を中心とした穀物相場が上昇した。アナリストが「数字が合わない」とコメントしており、市場予想を外れた好気的な供給見通しが示されたと推察される。小麦主導で穀物全般がラリーを形成。"
-  },
-  {
     "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
     "timestamp": "2026-07-13T21:02:55+00:00",
     "importance": 3,
@@ -988,5 +955,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国とインドの貿易交渉が、ロシア石油制裁政策を巡る相違点によって複雑化する可能性がある。インドはロシア産石油への依存度が高く、米国の追加制裁脅威と相反する利益を抱えている。制裁強化となれば原油供給削減と価格上昇圧力につながる一方、交渉妥協なら制裁緩和で価格下落要因となりうる。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, July 13, 2026 - RFD-TV",
+    "timestamp": "2026-07-13T19:47:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年7月13日のRFD-TV週間作物進捗レポート。米国の主要穀物（トウモロコシ、大豆、小麦）の生育状況と家畜生産動向を定期報告。具体的な数値情報がアクセス不可のため詳細評価は困難。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, July 13, 2026 - RFD-TV",
+    "timestamp": "2026-07-13T19:47:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年7月13日のRFD-TV週間作物進捗レポート。米国の主要穀物（トウモロコシ、大豆、小麦）の生育状況と家畜生産動向を定期報告。具体的な数値情報がアクセス不可のため詳細評価は困難。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, July 13, 2026 - RFD-TV",
+    "timestamp": "2026-07-13T19:47:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年7月13日のRFD-TV週間作物進捗レポート。米国の主要穀物（トウモロコシ、大豆、小麦）の生育状況と家畜生産動向を定期報告。具体的な数値情報がアクセス不可のため詳細評価は困難。"
+  },
+  {
+    "title": "Oil surges, stocks slip and bond yields rise as Gulf conflict flares up again - Reuters",
+    "timestamp": "2026-07-13T00:30:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ペルシャ湾の紛争再燃により原油が急騰した。一方、地政学的リスク回避で株式が売られ、安全資産である金と債券利回りが上昇。原油の供給リスク懸念が市場を二分する動きとなっており、エネルギーセキュリティと金融条件の悪化が同時に進行している。"
+  },
+  {
+    "title": "Oil surges, stocks slip and bond yields rise as Gulf conflict flares up again - Reuters",
+    "timestamp": "2026-07-13T00:30:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "ペルシャ湾の紛争再燃により原油が急騰した。一方、地政学的リスク回避で株式が売られ、安全資産である金と債券利回りが上昇。原油の供給リスク懸念が市場を二分する動きとなっており、エネルギーセキュリティと金融条件の悪化が同時に進行している。"
+  },
+  {
+    "title": "Oil surges, stocks slip and bond yields rise as Gulf conflict flares up again - Reuters",
+    "timestamp": "2026-07-13T00:30:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ペルシャ湾の紛争再燃により原油が急騰した。一方、地政学的リスク回避で株式が売られ、安全資産である金と債券利回りが上昇。原油の供給リスク懸念が市場を二分する動きとなっており、エネルギーセキュリティと金融条件の悪化が同時に進行している。"
   }
 ]
