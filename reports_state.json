@@ -856,5 +856,38 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国のEIA週間原油在庫が169万バレル減少したが、市場予想の259万バレル減を下回った。予想比でのサプライズはマイナスとなり、需要懸念や供給圧力の継続を示唆。原油価格には下押し圧力。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+    "timestamp": "2026-07-14T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "原油",
+    "summary": "FRBの6月8日・17日の公定歩合会合議事録。金融政策スタンスの詳細が明かされる予定。金利政策の方向性がコモディティ全般に波及し、特に金は利上げ圧力で下落、原油・銅はドル強化と景気見通しで混合的に反応する可能性。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+    "timestamp": "2026-07-14T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "銅",
+    "summary": "FRBの6月8日・17日の公定歩合会合議事録。金融政策スタンスの詳細が明かされる予定。金利政策の方向性がコモディティ全般に波及し、特に金は利上げ圧力で下落、原油・銅はドル強化と景気見通しで混合的に反応する可能性。"
+  },
+  {
+    "title": "EIA: US crude stocks back down again as exports jump - Quantum Commodity Intelligence",
+    "timestamp": "2026-07-15T16:04:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計で米国の原油在庫が再び減少し、同時に輸出が急増した。在庫減少は供給引き締め観を反映し、輸出増加は米国産原油の国際競争力の強さを示唆している。これらは原油相場の上値支持材料となり得る。"
   }
 ]
