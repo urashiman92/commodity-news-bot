@@ -715,17 +715,6 @@
     "summary": "USDAが7月のWASDEレポートで綿花の世界生産予測を上方修正し、同時に消費量も上方修正された。供給と需要の双方が増加する見通しとなったが、相対的な需給バランスの変化により市場へのインパクトが生じる可能性がある。綿花は繊維・アパレル産業の主要原材料として機能している。"
   },
   {
-    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - EnergyNow.com",
-    "timestamp": "2026-07-12T09:32:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間統計により、米国原油在庫が1年近辺の高水準まで積み上がったことが報告された。輸出入が両減となる中での在庫増加は、需要減速を示唆している。在庫積み上がりは原油価格に下押し圧力をもたらす可能性がある。"
-  },
-  {
     "title": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare - Reuters",
     "timestamp": "2026-07-14T16:52:22+00:00",
     "importance": 4,
@@ -779,5 +768,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国がロシア産原油に対する新たな制裁法案を提出し、中国・インドへの追加関税を視野に入れている。これはロシア産原油の流通経路を遮断し、グローバルな原油供給構造を大きく変える可能性がある。中印への関税措置は報復関税リスクも高く、地政学的緊張が大幅に高まる見通し。"
+  },
+  {
+    "title": "Stocks steady as oil surge offsets ASML boost to tech shares - Reuters",
+    "timestamp": "2026-07-15T01:48:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "Reuters市場レポートが株式市場の動向を報道。原油価格の上昇がテック株（ASML等）への買い圧力をオフセットし、総合株価は安定推移。原油相場の上げ圧力とテック関連需要の構造的対立を反映しており、マクロ環境の二律背反を示唆している。"
+  },
+  {
+    "title": "Stocks steady as oil surge offsets ASML boost to tech shares - Reuters",
+    "timestamp": "2026-07-15T01:48:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Reuters市場レポートが株式市場の動向を報道。原油価格の上昇がテック株（ASML等）への買い圧力をオフセットし、総合株価は安定推移。原油相場の上げ圧力とテック関連需要の構造的対立を反映しており、マクロ環境の二律背反を示唆している。"
+  },
+  {
+    "title": "Ukraine Says It Hit Russian Oil and Gas Tankers in the Black Sea - Bloomberg.com",
+    "timestamp": "2026-07-15T06:51:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアの黒海におけるタンカー（石油・ガス）への攻撃を発表。ロシアの海上エネルギー輸送インフラへの直接的な脅威が顕在化。黒海経由のロシア産原油・ガス輸出ルートの供給不確実性が急速に高まり、エネルギー市場に上昇圧力をもたらす可能性が高い。"
   }
 ]
