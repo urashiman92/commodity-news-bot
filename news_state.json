@@ -1,60 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4120ドル｜米長期金利が上昇した影響で、売り優勢だった模様(2026年7月13日) - OANDA証券",
-    "timestamp": "2026-07-12T23:02:09+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4120ドルまで下落。米長期金利の上昇が売り圧力となった。ドル高や実質金利上昇は金にとって逆風材料。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランは協議継続の可能性もあることから、原油価格は2営業日続落（2026年7月13日） - OANDA証券",
-    "timestamp": "2026-07-12T23:11:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの協議継続の可能性が報道され、地政学リスク低下との見方から原油価格は2営業日連続で下落。供給懸念の緩和が価格押し下げ要因となった。"
-  },
-  {
-    "title": "１０日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-12T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "10日の主要国際商品市況の定期レポート。具体的な価格変動幅や市場イベントの詳細が記事概要には記載されていない。"
-  },
-  {
-    "title": "金価格は世界的にも国内的にも下落している。 - Vietnam.vn",
-    "timestamp": "2026-07-12T23:49:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が世界的および国内的に下落している状況を報じる記事。既に進行中の価格動向の解説・振り返りと考えられる。サプライズ性は低い。"
-  },
-  {
-    "title": "今週の金価格：動向は不透明、米国の経済指標発表待ち。 - Vietnam.vn",
-    "timestamp": "2026-07-12T23:54:29+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場の動向が不透明であり、米国の経済指標発表を待機中。今週の価格材料は限定的で、マクロデータ次第で方向性が決まる見通し。"
-  },
-  {
     "title": "本日（7月13日）の金価格：急落 - Vietnam.vn",
     "timestamp": "2026-07-12T23:56:47+00:00",
     "importance": 2,
@@ -77,17 +22,6 @@
     "summary": "ホルムズ海峡の航行懸念が再燃し、原油先物が急上昇。供給リスク要因による地政学的な懸念が市場を刺激。ポジション調整の検討が必要な局面。"
   },
   {
-    "title": "前場に注目すべき3つのポイント〜半導体やAI関連株物色継続も原油相場にらみの相場展開に〜 - ｄメニューニュース",
-    "timestamp": "2026-07-12T23:45:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本株市場の前場注目点を解説するコメンタリー記事。半導体・AI関連株の物色継続と原油相場の動向を注視する内容。具体的な原油相場の方向性や新規サプライズは記載されていない。"
-  },
-  {
     "title": "原油先物が急上昇 海峡の懸念再燃 - Yahoo!ニュース",
     "timestamp": "2026-07-13T00:56:40+00:00",
     "importance": 4,
@@ -108,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの対立激化が報じられ、原油価格が急騰している。地政学的リスク要因として中東の緊張が高まっている状況。具体的な軍事衝突や供給途絶の可能性が懸念される。"
-  },
-  {
-    "title": "１０日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-12T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "10日の主要国際商品市況についての定期的な市場動向報告。具体的な価格変動やニュース内容は見出しのみでは不明。通常の相場振り返り記事と推定される。"
   },
   {
     "title": "イランの攻撃がインフレ懸念を再燃、金価格下落―CPIとウォーシュ発言に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -218,17 +141,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "7月13日のブレント原油先物が4.09%上昇した。記事は需要見通しの変化を問う解説記事だが、具体的なファンダメンタルズ情報が不透明。4%程度の変動は通常のボラティリティ範囲内。"
-  },
-  {
-    "title": "◎原油先物、急上昇＝ホルムズ航行懸念が再燃 - 時事通信ニュース",
-    "timestamp": "2026-07-12T23:49:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の航行懸念が再燃し、原油先物が急上昇。地政学的リスクが供給不安を惹起。中東の航路規制は全世界の石油供給の約3割に影響。"
   },
   {
     "title": "予想外の金価格予測。 - Vietnam.vn",
@@ -2275,5 +2187,82 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で混合的な動き。エネルギー（原油、ガソリン、天然ガス）と穀物（トウモロコシ、小麦）が上昇する一方、貴金属（金、銀）と銅が下落。市場セクター間で相反する値動き。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4060ドル｜米国のインフレ圧力の低下が影響し、買いが継続している模様(2026年7月16日) - OANDA証券",
+    "timestamp": "2026-07-15T23:05:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4060ドルまで上昇。米国のインフレ圧力低下により、金への買い需要が継続している。実需・投資家双方からの買い支えが続く局面。"
+  },
+  {
+    "title": "本日（2026年7月16日）の金価格：SJCの金価格は上昇、金リングは下落圧力にさらされる。 - Vietnam.vn",
+    "timestamp": "2026-07-15T23:46:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場で7月16日、SJC金価格は上昇、金リングは下落圧力を受けているとの日次相場解説。地域限定的な市場動向を報じている。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの戦闘激化による原油供給への懸念が高まり、原油価格は3営業日続伸（2026年7月16日） - OANDA証券",
+    "timestamp": "2026-07-15T23:09:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの戦闘激化により原油供給途絶懸念が浮上。地政学的リスク要因がWTI原油を3営業日連続で押し上げている。中東情勢の緊張がコモディティ市場に直結。"
+  },
+  {
+    "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-07-15T20:48:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドバイ原油先物のダブル・ブルETN（2038）に関するYahoo!ファイナンスの株価情報ページ。具体的なニュース内容や市場イベントは記載されていない。"
+  },
+  {
+    "title": "米原油在庫の減少幅が予想下回る、原油価格の上昇一服 市場は米イラン衝突を冷視 - BigGo ファイナンス",
+    "timestamp": "2026-07-15T23:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国EIA週間在庫統計で原油在庫の減少幅が予想を下回った。市場は既に値上がりが進行していたため、弱い統計で上昇の勢いが一服。米イラン衝突を巡る地政学的懸念も織り込み不十分で軽視されている。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況･15日 3日続伸 - Moomoo",
+    "timestamp": "2026-07-15T20:58:06+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物が3日続伸。市場の相場振り返り報道。具体的な上昇要因や在庫数字は記事から不明。"
+  },
+  {
+    "title": "１５日の主要国際商品市況 - 株探",
+    "timestamp": "2026-07-15T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "15日の主要国際商品市況の日次サマリー記事。複数商品の価格動向を報じているが、具体的な価格変動幅や要因の詳細は記事概要からは不明確。定期的な市場レポートの性質。"
   }
 ]
