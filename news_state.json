@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日7月12日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-07-12T13:12:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月12日の金価格が大幅に下落し、買い手が損失を被った。ベトナムメディアによる相場の日次動向報道。具体的な下落率や原因は明記されていない。"
-  },
-  {
-    "title": "本日2026年7月13日の金価格は、中央銀行からの強い支援を受け、上昇トレンドを確立することなく、調整局面内で変動している。 - Vietnam.vn",
-    "timestamp": "2026-07-12T13:21:07+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年7月13日の金価格は中央銀行の支援により支えられているが、明確な上昇トレンドは確立されておらず調整局面内での変動が続いている。市場は方向感を欠いた状態にある。"
-  },
-  {
     "title": "金価格が半年で25%暴落、「三金」購入費が1.8万元節約も、金店は「買い控え」の苦境に - BigGo ファイナンス",
     "timestamp": "2026-07-12T15:25:00+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が過去6ヶ月間で25%下落し、「三金」購入費が1.8万元削減された。小売店では買い控え現象が発生している。既に値下がりが完了した相場環境の事後評論。"
-  },
-  {
-    "title": "【速報】日経平均株価反発原油先物上昇も半導体銘柄中心に買い進む - 朝日放送",
-    "timestamp": "2026-07-12T13:40:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日経平均が反発し、原油先物も上昇している。ただし株式市場では半導体銘柄が買い進まれており、原油買いは限定的な動き。"
   },
   {
     "title": "金価格は1テールあたり700万ベトナムドン急落し、今朝金を購入した人は1日で1テールあたり1100万ベトナムドン以上を失ったことになる。 - Vietnam.vn",
@@ -2396,5 +2363,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ゴールドマン・サックスが湾岸地域の原油供給減少を指摘し、原油価格上振れリスクを警告。供給逼迫要因として市場の注目を集める。"
+  },
+  {
+    "title": "7月15日午後の金価格：金地金と金指輪は、2日間の急落の後、再び急騰した。 - Vietnam.vn",
+    "timestamp": "2026-07-15T09:03:54+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金・金指輪が2日間の下落後に反発した。テクニカルなリバウンドを示唆するニュース。"
+  },
+  {
+    "title": "原油価格の急騰はリスク資産への強気見通しを変えない＝HSBC 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-15T14:01:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "HSBCのアナリストが、最近の原油価格上昇にもかかわらずリスク資産への強気姿勢は変わらないとのコメントを発表。原油上昇が経済見通しの悪化シグナルとは見ていない見方を示唆。"
   }
 ]
