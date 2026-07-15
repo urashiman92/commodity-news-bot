@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（7月12日正午）の金価格：金指輪が急落。 - Vietnam.vn",
-    "timestamp": "2026-07-12T05:51:10+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムで7月12日正午時点の金指輪価格が急落した。地域限定的な市場報告であり、グローバルな金相場への直接的な影響は限定的。既に進行中の価格変動の報告と考えられる。"
-  },
-  {
-    "title": "本日（2026年7月12日午後）の金価格：日曜日のSJC、BTMC、DOJIの金地金および金指輪の終値。 - Vietnam.vn",
-    "timestamp": "2026-07-12T07:11:52+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金および金指輪の日曜日終値を報道。SJC、BTMC、DOJIの3取引所の価格情報。地域的な価格データの日次更新。"
-  },
-  {
     "title": "投資資産に挙げられていた高価時計相場が金価格下落·消費心理下落と共に折れる姿だ。 - 매일경제",
     "timestamp": "2026-07-12T08:59:11+00:00",
     "importance": 2,
@@ -86,17 +64,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が大幅調整を経験している。一方で中央銀行は金の蓄積姿勢を継続している。価格下落局面でも機関投資家による買いが支えになっている可能性。"
-  },
-  {
-    "title": "金価格は1週間で1テールあたり約200万ベトナムドン下落したが、買い手は依然として1テールあたり500万ベトナムドンの損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-07-12T05:23:10+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場で1週間で1テール約200万ドン下落。買い手は依然として500万ドンの含み損を抱えている。地域的な価格調整を反映したコメンタリー。"
   },
   {
     "title": "今週の経済ニュース：米イラン間の緊張で原油価格が急騰、エリザベス・ウォーレンがトランプ関連の「腐敗した」取引を痛烈批判 - Benzinga Japan",
@@ -2330,5 +2297,60 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "ヤマタネ会長が東京大学経済学部のエネルギー・コモディティ市場講座にゲスト講師として登壇。業界人材育成と知識啓発が目的と推察される。"
+  },
+  {
+    "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-07-15T04:14:23+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "純金上場信託(1540)の株価情報ページの更新。現物国内保管型の金ETFの相場情報を提供するもの。特定のニュースイベントではなく定期的な情報配信。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（14日）原油は続伸 - Moomoo",
+    "timestamp": "2026-07-14T23:00:47+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油先物市場で14日の取引概況を報じたニュース。原油は続伸したと記載されているが、具体的な数値や騰落率の詳細が不明。"
+  },
+  {
+    "title": "原油価格リスクから自社を守る3つの戦略 - Forbes JAPAN",
+    "timestamp": "2026-07-15T06:38:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "企業が原油価格変動リスクに対応するためのヘッジ戦略に関する解説記事。具体的な対策方法を紹介しているが、新規情報ではなく既知の手法の説明。"
+  },
+  {
+    "title": "原油先物一時81ドル台に 米によるイランへの海上封鎖再開で供給不安が強まる - ABEMA",
+    "timestamp": "2026-07-15T02:53:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイランへの海上封鎖を再開し、原油供給懸念が急速に高まった。原油先物が81ドル台まで上昇し、地政学的リスクが顕在化。イラン産原油の供給途絶可能性が市場に大きく織り込まれている。"
+  },
+  {
+    "title": "コーン先物価格見通し：短期売り手が主導権を維持、サポートへの圧力続く - Traders Union",
+    "timestamp": "2026-07-14T12:53:38+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物は短期売り手が主導権を保持している状況。サポートレベルへの下押し圧力が継続。技術的な売りシグナルが優勢な相場展開。"
   }
 ]
