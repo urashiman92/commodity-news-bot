@@ -955,5 +955,38 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIA週間石油レポート（2026年7月10日時点）で原油在庫が減少した一方、ガソリン価格は上昇。在庫減少は需要堅調またはOPEC減産の効果を示唆する一方、ガソリン価格上昇は製油所稼働率の制約やリファイナリー問題を反映している可能性。市場では供給逼迫懸念が価格を支える構図。"
+  },
+  {
+    "title": "Saudi Gulf Oil Loads Slump as Iran Hits Tankers in Hormuz - Bloomberg.com",
+    "timestamp": "2026-07-15T17:03:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イランがホルムズ海峡でタンカーを攻撃し、サウジアラビア湾岸からの石油積み出しが急減。ホルムズ海峡は世界の石油輸送量の約30%が通過する重要な咽喉であり、地政学的緊張による供給途絶リスクが顕在化。タンカー攻撃は予測困難な突発事象。"
+  },
+  {
+    "title": "Russia Oil Sanctions Threat May Complicate US-India Trade Talks - Bloomberg.com",
+    "timestamp": "2026-07-15T13:06:24+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とインドの貿易交渉が、ロシア石油制裁政策を巡る相違点によって複雑化する可能性がある。インドはロシア産石油への依存度が高く、米国の追加制裁脅威と相反する利益を抱えている。制裁強化となれば原油供給削減と価格上昇圧力につながる一方、交渉妥協なら制裁緩和で価格下落要因となりうる。"
+  },
+  {
+    "title": "Russia Oil Sanctions Threat May Complicate US-India Trade Talks - Bloomberg.com",
+    "timestamp": "2026-07-15T13:06:24+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国とインドの貿易交渉が、ロシア石油制裁政策を巡る相違点によって複雑化する可能性がある。インドはロシア産石油への依存度が高く、米国の追加制裁脅威と相反する利益を抱えている。制裁強化となれば原油供給削減と価格上昇圧力につながる一方、交渉妥協なら制裁緩和で価格下落要因となりうる。"
   }
 ]
