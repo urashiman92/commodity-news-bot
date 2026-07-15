@@ -845,5 +845,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECの6月原油生産が305万バレル/日（bpd）増加したと報告された。この増産は市場の需給バランスに影響を与える可能性がある。ただし、具体的な増産理由や背景情報が限定的であり、詳細な評価には追加情報が必要。"
+  },
+  {
+    "title": "Weekly EIA crude oil inventory -1.692 million vs -2.594 million estimate - investingLive",
+    "timestamp": "2026-07-15T14:34:59+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国のEIA週間原油在庫が169万バレル減少したが、市場予想の259万バレル減を下回った。予想比でのサプライズはマイナスとなり、需要懸念や供給圧力の継続を示唆。原油価格には下押し圧力。"
   }
 ]
