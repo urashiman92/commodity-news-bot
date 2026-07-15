@@ -889,5 +889,71 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAの週間在庫統計で米国の原油在庫が再び減少し、同時に輸出が急増した。在庫減少は供給引き締め観を反映し、輸出増加は米国産原油の国際競争力の強さを示唆している。これらは原油相場の上値支持材料となり得る。"
+  },
+  {
+    "title": "Catfish Production",
+    "timestamp": "2026-07-15T19:37:43.633872+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの養殖ナマズ生産統計で、養殖水面積が3%減少し、食用サイズ在庫も若干減少した。米国ナマズ産業の規模縮小傾向が継続しており、供給サイドの弱化が示唆されている。"
+  },
+  {
+    "title": "Why Are Cattle Prices Falling Despite Record USDA Forecasts? - Agrolatam",
+    "timestamp": "2026-07-13T18:00:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA予測が過去最高水準にもかかわらず、牛肉価格が下落している逆説的な現象が報告されている。タイトルから、供給見通しの改善が実現しても、市場が必ずしも価格上昇に反応しない構図を指摘。穀物飼料コストの動向や需要弱化が背景か。"
+  },
+  {
+    "title": "Why Are Cattle Prices Falling Despite Record USDA Forecasts? - Agrolatam",
+    "timestamp": "2026-07-13T18:00:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA予測が過去最高水準にもかかわらず、牛肉価格が下落している逆説的な現象が報告されている。タイトルから、供給見通しの改善が実現しても、市場が必ずしも価格上昇に反応しない構図を指摘。穀物飼料コストの動向や需要弱化が背景か。"
+  },
+  {
+    "title": "Why Are Cattle Prices Falling Despite Record USDA Forecasts? - Agrolatam",
+    "timestamp": "2026-07-13T18:00:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA予測が過去最高水準にもかかわらず、牛肉価格が下落している逆説的な現象が報告されている。タイトルから、供給見通しの改善が実現しても、市場が必ずしも価格上昇に反応しない構図を指摘。穀物飼料コストの動向や需要弱化が背景か。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Report: Crude Stocks Down, Gasoline Prices Up as of July 10, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-07-15T17:21:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間石油レポート（2026年7月10日時点）で原油在庫が減少した一方、ガソリン価格は上昇。在庫減少は需要堅調またはOPEC減産の効果を示唆する一方、ガソリン価格上昇は製油所稼働率の制約やリファイナリー問題を反映している可能性。市場では供給逼迫懸念が価格を支える構図。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Report: Crude Stocks Down, Gasoline Prices Up as of July 10, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-07-15T17:21:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間石油レポート（2026年7月10日時点）で原油在庫が減少した一方、ガソリン価格は上昇。在庫減少は需要堅調またはOPEC減産の効果を示唆する一方、ガソリン価格上昇は製油所稼働率の制約やリファイナリー問題を反映している可能性。市場では供給逼迫懸念が価格を支える構図。"
   }
 ]
