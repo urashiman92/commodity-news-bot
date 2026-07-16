@@ -1,49 +1,5 @@
 [
   {
-    "title": "小麦先物が1カ月半ぶり高値 ロシア産の供給懸念、北米の減産予想も - 日本経済新聞",
-    "timestamp": "2026-07-13T10:12:18+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "小麦先物が1カ月半ぶりの高値を更新。ロシア産供給懸念と北米の減産予想が価格上昇を支援している状況の報道。"
-  },
-  {
-    "title": "2026年7月13日午後の金価格：金地金は最大200万ベトナムドン下落、世界の金価格は1オンスあたり4,100ドルを下回る。 - Vietnam.vn",
-    "timestamp": "2026-07-13T10:47:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年7月13日午後時点で金価格が1オンスあたり4,100ドルを下回る水準で推移。ベトナムの金地金も最大200万ベトナムドン下落。"
-  },
-  {
-    "title": "ゴールドマン・サックス、構造的安全プレミアム上昇を受け原油価格予測を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-13T10:22:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ゴールドマン・サックスが構造的安全プレミアムの上昇を理由に原油価格予測を引き上げた。地政学的リスク要因により供給不確実性が高まっていることを反映している。"
-  },
-  {
-    "title": "2026年7月13日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-13T10:40:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・先物オプション市場に関する市場ウォッチ記事。定期的な市場情報提供で、金価格への直接的な影響は限定的。"
-  },
-  {
     "title": "金価格は本日7月13日、全面安で取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-07-13T13:35:26+00:00",
     "importance": 1,
@@ -2297,5 +2253,82 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "下半期に注目すべきコモディティとして金、石油、カカオの3商品を取り上げた解説記事。各商品の相場見通しについてのアナリスト観測。"
+  },
+  {
+    "title": "2026年7月16日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-16T10:11:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・先物OP市場に関する定期的な市場ウォッチ記事。技術的な取引パラメータの更新情報と考えられる。金(ゴールド)市場への直接的な影響なし。"
+  },
+  {
+    "title": "$金先物(2608) (GCmain.US)$ - Moomoo",
+    "timestamp": "2026-07-16T09:52:44+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物の価格情報表示。具体的なニュース内容や価格変動要因の記載がなく、単なる市場データのリンク。"
+  },
+  {
+    "title": "世界はより深刻な原油価格ショックを懸念している。 - Vietnam.vn",
+    "timestamp": "2026-07-16T11:06:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界市場がより深刻な原油価格ショックの可能性を懸念している状況を報じている。地政学的リスクや供給逼迫への警戒感が高まっていることを示唆。"
+  },
+  {
+    "title": "原油価格が反発し、約1か月ぶりの高値を付けたものの、短期的にはまだ強気転換は見られず、下落に警戒が必要です。 - Moomoo",
+    "timestamp": "2026-07-16T02:30:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が約1か月ぶりの高値まで反発した。ただし短期的には強気転換のシグナルは確認されていない。下落リスクへの警戒が必要との見方が示されている。"
+  },
+  {
+    "title": "原油先物4日続伸、米イラン攻撃で紛争拡大懸念高まる（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-07-16T01:10:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国によるイラン攻撃により中東紛争拡大への懸念が高まり、原油先物が4日連続で上昇。地政学的リスク要因が原油市場に直結し、供給途絶リスクが意識される。"
+  },
+  {
+    "title": "銅価格が安定し、グラスバーグ鉱山の地下採掘が本格化する中、投資家はフリーポート・マクモラン（FCX）にどう反応するか - simplywall.st",
+    "timestamp": "2026-07-15T18:44:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "フリーポート・マクモラン（FCX）のグラスバーグ鉱山における地下採掘の本格化により、銅供給増加が見込まれる。銅価格が安定している中、同社の生産増加は中期的な競争力強化につながる。"
+  },
+  {
+    "title": "自社株買いなのに株価暴落！？投資家が「JX金属のCB発行」に激怒した「3つのちぐはぐ」とは？#日本株 #JX金属 #半導体株 #AI関連株 #銅価格 14th Amendment (MCscPnT8Yt) - Mshale",
+    "timestamp": "2026-07-16T09:14:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が自社株買いを発表する一方でコンバーチブルボンド(CB)発行を同時実施し、投資家の混乱を招いた。株価は下落。戦略の矛盾性が指摘されている。"
   }
 ]
