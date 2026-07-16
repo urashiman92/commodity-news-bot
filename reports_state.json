@@ -1,60 +1,5 @@
 [
   {
-    "title": "U.A.E. Crude Output Surged in June After OPEC Exit - WSJ",
-    "timestamp": "2026-07-13T14:04:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEが6月にOPEC脱退後、原油生産を大幅に増加させた。OPEC減産合意からの離脱により、UAEは独立した増産戦略を展開。市場の減産枠組み維持期待に反する供給増は、原油価格への上昇圧力を緩和する可能性がある。"
-  },
-  {
-    "title": "Nigeria oil output hits six-year high, above OPEC target - Yahoo Finance",
-    "timestamp": "2026-07-13T12:06:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ナイジェリアの石油生産量が6年ぶりの高水準に達し、OPEC割当目標を上回った。同国の生産増加は供給圧力となり、OPECの減産枠組みに対する逆行要因として機能する。西アフリカの主要産油国の増産は、OPECの価格支持戦略を複雑にする展開。"
-  },
-  {
-    "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
-    "timestamp": "2026-07-13T12:46:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長予測を下方修正した。需要見通しの継続的な引き下げは、供給過剰懸念を強め、原油価格に下押し圧力をもたらす。OPECの需要見通しの弱気化は減産継続の正当化に使用される可能性もあるが、市場全体としては需要弱化シグナルとして作用する。"
-  },
-  {
-    "title": "Shipping still restricted in Russia's key Azov Sea grains trade route, sources say - Reuters",
-    "timestamp": "2026-07-13T14:00:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "小麦",
-    "summary": "ロシア主要穀物輸出ルートであるアゾフ海での海運制限が継続している。同海域はウクライナ産小麦の重要な出荷経路であり、制限の継続は黒海回廊の不確実性と相まって、穀物供給懸念を再燃させている。ロシア・ウクライナ間の緊張が物流インフラを制約し続けることで、グローバル穀物供給の逼迫リスクが高まっている。"
-  },
-  {
-    "title": "Shipping still restricted in Russia's key Azov Sea grains trade route, sources say - Reuters",
-    "timestamp": "2026-07-13T14:00:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア主要穀物輸出ルートであるアゾフ海での海運制限が継続している。同海域はウクライナ産小麦の重要な出荷経路であり、制限の継続は黒海回廊の不確実性と相まって、穀物供給懸念を再燃させている。ロシア・ウクライナ間の緊張が物流インフラを制約し続けることで、グローバル穀物供給の逼迫リスクが高まっている。"
-  },
-  {
     "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
     "timestamp": "2026-07-13T16:17:06+00:00",
     "importance": 3,
@@ -86,28 +31,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA7月穀物レポートが穀物市場のラリーを誘発。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生育状況・生産見通しが市場参加者の関心を集め、買い圧力が強まった。具体的な数値は記事ヘッドラインのみで詳細不明だが、市場反応がポジティブ。"
-  },
-  {
-    "title": "Nigeria Oil Output Hits Six-year High, Above OPEC Target - Barron's",
-    "timestamp": "2026-07-13T12:06:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ナイジェリアの原油生産が6年ぶりの高水準に達し、OPEC目標を上回る水準に到達したと報道された。同国の生産増加は、OPECの集団的な減産政策に対する逆風となる可能性がある。供給過剰圧力が市場を重くする要因となり得る。"
-  },
-  {
-    "title": "OPEC crude production jumps 3.05M bpd in June - Anadolu Ajansı",
-    "timestamp": "2026-07-13T13:42:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC加盟国の6月の原油生産が305万バレル/日（bpd）増加し、大幅な増産を実施した。この増産は前月比での大きな変化を示しており、市場供給の増加を示唆している。増産理由や背景については追加情報確認が必要。"
   },
   {
     "title": "UAE Tells OPEC Its Oil Production Surged Last Month - Rigzone",
@@ -121,17 +44,6 @@
     "summary": "UAEがOPECに対し先月の石油生産が急増したことを報告した。詳細な生産量の数字は提供されていないが、OPEC減産合意の枠組み内における生産調整動向として市場が注視する。UAEの生産増加はOPEC内の生産配分問題として価格に影響する可能性がある。"
   },
   {
-    "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
-    "timestamp": "2026-07-13T12:46:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要の弱さを理由とした複数回の下方修正の一環。需要見通しの低下は供給過剰圧力を増す材料となり、原油価格に下押し圧力をもたらす可能性がある。"
-  },
-  {
     "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, July 13, 2026 - RFD-TV",
     "timestamp": "2026-07-13T19:34:55+00:00",
     "importance": 1,
@@ -165,17 +77,6 @@
     "summary": "RFD-TVによる定期的な穀物生産進捗と畜産生産の更新レポート（2026年7月13日版）。具体的な数値やデータは提供されていないため、実際の作付状況や生産見通しの詳細は不明。USDA発表の前段階の市場スナップショットと推定されるが、具体的な驚きの要素や市場への直接的なインパクトは現在のところ判断不可。"
   },
   {
-    "title": "UAE tells OPEC its oil production surged by 80% in June - Transport Topics",
-    "timestamp": "2026-07-13T14:18:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECに対し2024年6月の石油生産が前月比80%増加したと報告。この急激な増産は市場の減産合意と矛盾し、供給増加圧力として原油相場に下押し圧力をもたらす。OPEC内での協調体制に亀裂が生じた可能性が市場で懸念される。"
-  },
-  {
     "title": "Crude stocks in US strategic reserve fall 3 million barrels to lowest level since 1983 - Reuters",
     "timestamp": "2026-07-13T16:30:11+00:00",
     "importance": 4,
@@ -185,28 +86,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国戦略石油備蓄(SPR)が300万バレル減少し、1983年以来の最低水準に低下した。SPRは現在、過去40年で最も低い水準にあり、米国の原油供給余力の大幅な縮小を示唆している。この歴史的な低水準は原油供給の脆弱性を浮き彫りにし、供給ショックに対する緩衝機能の喪失を意味する。"
-  },
-  {
-    "title": "Russian Refinery Runs Plunge to Lowest in More Than Two Decades - Bloomberg.com",
-    "timestamp": "2026-07-13T12:01:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油精製稼働率が20年以上ぶりの最低水準に急落。ウクライナ侵攻に伴う国際制裁、西側企業の撤退、インフラ損傷により精製能力が大幅に低下。ロシアの石油製品輸出減少により、グローバルな石油製品供給逼迫が深刻化する可能性が高い。"
-  },
-  {
-    "title": "Russian Refinery Runs Plunge to Lowest in More Than Two Decades - Bloomberg.com",
-    "timestamp": "2026-07-13T12:01:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの石油精製稼働率が20年以上ぶりの最低水準に急落。ウクライナ侵攻に伴う国際制裁、西側企業の撤退、インフラ損傷により精製能力が大幅に低下。ロシアの石油製品輸出減少により、グローバルな石油製品供給逼迫が深刻化する可能性が高い。"
   },
   {
     "title": "Russia’s Oil Output Falls to Lowest in at Least 2 1/2 Years - Bloomberg.com",
@@ -339,17 +218,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "USDAが7月のWASDEレポートで世界綿花生産量の見通しを上方修正した。同時に消費量も上方修正されており、需給両面で増加する見通し。綿花市場の需給バランスに対する直接的な影響が注視される。"
-  },
-  {
-    "title": "UAE Tells OPEC Its Oil Production Surged by 80% Last Month - Bloomberg.com",
-    "timestamp": "2026-07-13T12:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECに対し、先月の石油生産量が80%急増したと報告。この大幅な増産は市場予想を大きく上回り、OPECの減産合意枠組みに対する懸念を生じさせている。UAEの増産ペースは予想の範囲外で、原油供給過剰リスクを高める可能性がある。"
   },
   {
     "title": "USDA raises global cotton output forecast, consumption higher in July - Fibre2Fashion",
@@ -669,17 +537,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "2026年7月のWASDE報告では、作付面積変更は7月に、収穫量変更は8月に注視すべきとされた。オクラホマ農業レポートが定期的な穀物作付・収量見通しを提供。具体的な面積・収量数値の開示がなく、予想比でのサプライズ度は判断困難。"
-  },
-  {
-    "title": "OPEC crude production jumps 3.05M bpd in June - Anadolu Ajansı",
-    "timestamp": "2026-07-13T13:42:11+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの6月原油生産が305万バレル/日（bpd）増加したと報告された。この増産は市場の需給バランスに影響を与える可能性がある。ただし、具体的な増産理由や背景情報が限定的であり、詳細な評価には追加情報が必要。"
   },
   {
     "title": "Weekly EIA crude oil inventory -1.692 million vs -2.594 million estimate - investingLive",
@@ -1021,5 +878,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "半導体企業の株価低迷がリスク資産全般に悪影響を与える中、原油は小幅高となった。テクノロジーセクターの軟調が経済成長期待を弱め、リスク資産としてのコモディティに下押し圧力。一方、原油は独立した供給・需要要因で買い支えられている状況が示唆される。"
+  },
+  {
+    "title": "UAE Oil Output Climbs After Leaving OPEC - RealClearEnergy",
+    "timestamp": "2026-07-14T04:14:13+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECを離脱後、石油生産量が増加している。OPEC離脱により減産枠の拘束を受けなくなったため、UAEは独立した増産戦略を推し進めている。この動きは既報の枠組み内であり、市場はある程度織り込み済みと考えられる。"
+  },
+  {
+    "title": "OPEC Monthly Report: UAE Crude Oil Output Surges 80% in June; Downgrades Global Oil Demand Forecast for 2026 - 富途牛牛",
+    "timestamp": "2026-07-13T18:12:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの6月月次レポートでUAEの原油生産が80%増加したと報告された一方、2026年の世界石油需要見通しが下方修正された。供給増加と需要悲観的見通しが相互に作用し、原油価格には下方圧力と上方圧力が混在する状況。"
+  },
+  {
+    "title": "HSBC Upgrades Indian Stocks as Earnings Risk from Oil Subsides - Bloomberg.com",
+    "timestamp": "2026-07-16T06:36:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "HSBCがインド株式をアップグレードしたレポート。石油補助金リスクの低下がインド企業の収益見通しを改善する要因として注目されている。エネルギーコストの低減は企業利益率の向上につながり、インド経済の景気循環に好材料。"
+  },
+  {
+    "title": "HSBC Upgrades Indian Stocks as Earnings Risk from Oil Subsides - Bloomberg.com",
+    "timestamp": "2026-07-16T06:36:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "HSBCがインド株式をアップグレードしたレポート。石油補助金リスクの低下がインド企業の収益見通しを改善する要因として注目されている。エネルギーコストの低減は企業利益率の向上につながり、インド経済の景気循環に好材料。"
   }
 ]
