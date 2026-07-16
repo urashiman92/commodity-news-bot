@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格の最新情報（2026年7月14日）：9999金、プレーンリング、SJC、BTMC、DOJI、Phu Quyの価格。 - Vietnam.vn",
-    "timestamp": "2026-07-13T21:11:20+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格の日次相場情報。国内複数業者（SJC、BTMC、DOJI等）の9999金やプレーンリング価格を列挙した定期更新記事。"
-  },
-  {
-    "title": "本日（7月14日）の金価格：急落 - Vietnam.vn",
-    "timestamp": "2026-07-13T21:45:48+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月14日の金価格が急落したというニュース。具体的な下落要因や下げ幅の記載がなく、単なる相場の日中レポート。既に市場で織り込まれた動きの報道と考えられる。"
-  },
-  {
-    "title": "2026年7月14日午前の金価格：SJC 9999金地金とプレーンゴールドリングの価格、および世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-13T22:20:11+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報提供記事。SJC金地金とプレーンゴールドリングの価格、および世界の金価格を掲載。定期的な価格情報の更新。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4001ドル｜原油高によるインフレ懸念が意識され、売り優勢だった模様(2026年7月14日) - OANDA証券",
     "timestamp": "2026-07-13T23:04:05+00:00",
     "importance": 2,
@@ -75,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金指輪相場が1オンスあたり200万ドン超下落し、世界の金価格が急落している。現地の金市場における価格調整の報道。"
-  },
-  {
-    "title": "本日7月14日の金価格：中東情勢の緊迫化に伴い、急落。 - Vietnam.vn",
-    "timestamp": "2026-07-13T22:27:47+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中東情勢の緊迫化により金価格が急落。地政学リスクは通常、リスクオフで金買いを促すが、本件は価格下落と報じられている。市場の利益確定売りまたは他資産へのシフトの可能性。"
   },
   {
     "title": "コメの価格の下落：原油価格高騰の物価への影響を和らげる効果（NRI研究員の時事解説） - Yahoo!ニュース",
@@ -460,17 +416,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イランの軍事的応酬がホルムズ海峡の地政学リスクを高め、原油先物が3%近く上昇して1ヶ月ぶりの高値を更新した。海峡での緊張激化は主要石油輸送路への直接的な供給リスクをもたらす。地政学的ショックとして市場に大きな影響を与えている。"
-  },
-  {
-    "title": "NY原油、一時10%上昇 米国の対イラン海上封鎖の再開表明受け - 朝日新聞",
-    "timestamp": "2026-07-13T22:18:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランへの海上封鎖を再開すると表明し、NY原油が一時10%上昇。イランは主要石油供給国であり、封鎖による供給減少懸念が急速に市場に織り込まれた。地政学的緊張の急激な高まり。"
   },
   {
     "title": "原油先物3％近く上昇、1カ月ぶり高値　海峡巡り米イラン攻撃応酬 - ｄメニューニュース",
@@ -2253,5 +2198,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格高騰に伴い、太陽光パネルの銅ケーブルが盗難の対象になっている。三重県で5月末時点で100件超の盗難被害が報告されており、銅の需要と価格圧力が実社会で顕在化している。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況・16日 続落 - Moomoo",
+    "timestamp": "2026-07-16T20:53:53+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物が16日に続落した。市場の振り返り・解説記事で、具体的な下落要因は記事概要からは不明。"
+  },
+  {
+    "title": "2026年7月17日朝の金価格：SJC金価格、9999金リング価格、および金曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-16T22:16:02+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の朝時点での相場情報を報道。定期的な市場価格の報告記事。"
+  },
+  {
+    "title": "本日（7月17日）の金価格：公式に4,000ドルを下回った。 - Vietnam.vn",
+    "timestamp": "2026-07-16T21:47:27+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が7月17日に公式に4,000ドルを下回った。この心理的節目の突破は価格下落トレンドの継続を示唆している。具体的な新規要因の報告はなく、既存のトレンドの確認的なニュース。"
+  },
+  {
+    "title": "【速報】日経平均株価反発 原油先物上昇も半導体銘柄中心に買い進む - ABEMA",
+    "timestamp": "2026-07-16T20:22:15+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日経平均が反発し原油先物も上昇したが、市場の主役は半導体銘柄。原油は株価上昇の付随的な値動きに過ぎない相場展開。"
+  },
+  {
+    "title": "7月15日、国際原油価格は小幅に上昇しました。当日の取引終了時点で、ニューヨーク商品取引所8月渡しの軽質原油先物価格は26セント上昇し、1バレルあたり79.60ドルで取引を終え、上昇率は0.33%となりました。ロンドン・ブレント原油9月渡し先物価格は22セント上昇し、最 - Bitget",
+    "timestamp": "2026-07-16T08:16:12+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月15日の国際原油価格は小幅上昇。WTI8月渡しは79.60ドル（+0.33%）、ブレント9月渡しも同程度の上昇率。ボラティリティの範囲内の日々の値動き。"
+  },
+  {
+    "title": "銅価格の上昇とアナリストによる格上げを受け、サザン・カッパー（SCCO）の株価が8.6％上昇――何が変化したのか - simplywall.st",
+    "timestamp": "2026-07-16T13:10:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の上昇とアナリストによるサザン・カッパー（SCCO）の格上げが株価8.6%の上昇をもたらした。市場センチメントの好転を反映している。基本的には既報の価格上昇トレンドの延長線上。"
   }
 ]
