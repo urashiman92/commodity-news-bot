@@ -11,17 +11,6 @@
     "summary": "ロシア穀物輸出の混乱懸念を背景にEU小麦価格が下落。供給不安が価格に反映される一方で、既報の地政学的リスクの延長線上にある動き。"
   },
   {
-    "title": "本日2026年7月14日の金価格は急落しており、4,000ドルに迫っています。この重要な要因により、確固たる「底値」が形成されつつあります。 - Vietnam.vn",
-    "timestamp": "2026-07-13T15:04:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,000ドル付近まで急落している。記事ではこの水準が底値形成の可能性を指摘しているが、具体的な値動き理由は不明確。相場の振り返りと観測記事の域を出ない。"
-  },
-  {
     "title": "ホルムズ海峡封鎖の懸念再燃、原油先物が急騰 一時5％超高 - BigGo ファイナンス",
     "timestamp": "2026-07-13T15:56:00+00:00",
     "importance": 4,
@@ -119,17 +108,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属が銅の建値を3万円引き上げた。国内銅市場の価格改定を示すニュース。LME等国際市場の動向を反映した定期的な建値改定と考えられる。"
-  },
-  {
-    "title": "なぜカンザスシティ小麦価格は本日下落しているのか？サポート水準のテストがモメンタムをさらに押し下げる。 - Traders Union",
-    "timestamp": "2026-07-13T14:39:47+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦がサポート水準をテストしており、技術的な売り圧力により下落している。テクニカル分析に基づく相場解説記事。"
   },
   {
     "title": "金価格の最新情報（2026年7月14日）：9999金、プレーンリング、SJC、BTMC、DOJI、Phu Quyの価格。 - Vietnam.vn",
@@ -2330,5 +2308,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物の取引情報をMoomooプラットフォームで表示したニュース。具体的な価格変動や市場イベントの記述がない。"
+  },
+  {
+    "title": "NY金先物相場、軟調 3991ドル台で推移 - Moomoo",
+    "timestamp": "2026-07-16T14:16:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物相場が3991ドル台で軟調に推移している。具体的な値動きの背景については記事に記載されていないが、金相場が弱気圏で取引されている状況。"
+  },
+  {
+    "title": "世界の金価格は1オンスあたり4000ドルを下回った。 - Vietnam.vn",
+    "timestamp": "2026-07-16T14:47:22+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4000ドルを下回った。市場での技術的な価格調整と見られる。重要なサポートレベル割れだが、既定路線の範囲内の変動。"
+  },
+  {
+    "title": "金価格下落と原油高でFED懸念再燃、金鉱株が急落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-16T15:10:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の下落と原油高騰により、FEDの金融引き締め再開懸念が浮上。金鉱株が売られている。インフレと金融政策の不透明性が市場心理を悪化させている。"
+  },
+  {
+    "title": "本日（2026年7月17日）の金価格の上昇はまだ十分とは言えません。好材料は出ていますが、2026年に新たな最高値を更新する可能性はどれくらいあるのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-07-16T14:50:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月17日の金価格上昇について、アナリストが上昇幅は不十分と指摘。2026年新高値更新の可能性を検討。具体的な好材料や価格水準が記事概要では明示されていない。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ54ドル高、原油先物0.44 ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-16T14:56:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の値動きレポート。ダウ平均が54ドル高、WTI原油先物が0.44ドル高で推移している状況の市場解説。"
   }
 ]
