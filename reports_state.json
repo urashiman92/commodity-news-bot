@@ -933,5 +933,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "EUがロシア産原油の価格上限設定を1週間凍結し、制裁措置の調整が停滞している。供給遮断の直接的なリスクは低く、既存の価格上限枠組み（バレルあたり約60ドル）内での一時的な運用変更。制裁措置の詳細な協調調整が進行中。"
+  },
+  {
+    "title": "Crude Oil Prices Erase Early Gains on a Bearish EIA Inventory Report - Barchart.com",
+    "timestamp": "2026-07-15T15:32:24+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫レポートが弱気シグナルを示し、原油価格は早期の上昇益を消失した。在庫増加または需要弱化を示唆する統計データが発表されたと推定され、市場心理を圧迫。具体的な在庫数値は記事リンク先で確認が必要。"
+  },
+  {
+    "title": "Iraq in talks with Opec to increase oil output quota - Arabian Gulf Business Insight | AGBI",
+    "timestamp": "2026-07-15T08:17:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC内で石油産出枠の引き上げを協議中。イラクは現在の割り当て枠の増加を求めており、OPEC諸国との交渉プロセスが進行中。実現すれば供給増加につながるが、現段階は協議段階で確実性に乏しい。"
   }
 ]
