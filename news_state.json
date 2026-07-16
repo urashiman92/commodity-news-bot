@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格は週初めに急落した。 - Vietnam.vn",
-    "timestamp": "2026-07-13T02:24:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が週初めに急落した。具体的な下落理由や値幅の詳細が記事概要では不明。相場の日次変動の報告に留まる。"
-  },
-  {
-    "title": "本日7月13日の金価格：中東情勢の緊迫化を受け、約1％下落。 - Vietnam.vn",
-    "timestamp": "2026-07-13T03:22:38+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月13日の金価格が約1％下落した。中東情勢の緊迫化が報じられているが、価格は小幅な下げにとどまった。既に市場で織り込まれていた可能性が高い。"
-  },
-  {
-    "title": "株価 一時1300円余値下がり 原油先物価格の上昇で - NHKニュース",
-    "timestamp": "2026-07-13T03:17:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格の上昇が日本株式市場に悪影響を与え、日経平均が一時1300円超下落した。エネルギー関連コストの上昇が企業収益悪化を懸念させている。"
-  },
-  {
-    "title": "ブレント原油先物 (UKOIL-F) は7月13日に上昇 4.09%：需要の見通しは変化しているのか？ - TradingKey",
-    "timestamp": "2026-07-13T04:06:10+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月13日のブレント原油先物が4.09%上昇した。記事は需要見通しの変化を問う解説記事だが、具体的なファンダメンタルズ情報が不透明。4%程度の変動は通常のボラティリティ範囲内。"
-  },
-  {
     "title": "本日（7月13日）の最新の金価格は引き続き急落しています。買い手が減少しており、闇市場の金価格はさらに下落しています。 - Vietnam.vn",
     "timestamp": "2026-07-13T07:27:51+00:00",
     "importance": 2,
@@ -53,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムにおいて金価格が急落し、買い手が減少している。闇市場でも金価格がさらに下落している。地域的な需要不振が示唆されている。"
-  },
-  {
-    "title": "米イラン間の緊張の高まりを受け、世界の金価格は急落した。 - Vietnam.vn",
-    "timestamp": "2026-07-13T04:14:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米イラン間の緊張高まりを受けて、世界の金価格が急落した。地政学的リスク上昇は通常、安全資産としての金を買い上げるが、本ニュースではその逆の動きが生じている。既に市場で織り込まれていた可能性が高い。"
   },
   {
     "title": "金価格は重要な局面を迎える：米国のインフレ統計発表後の3つのシナリオ。 - Vietnam.vn",
@@ -97,28 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米軍がイランに対し10日ぶりの軍事攻撃を実施。中東での地政学的緊張が再び高まり、国際原油価格は急上昇。供給リスクへの懸念が市場を刺激。"
-  },
-  {
-    "title": "画像・写真：原油先物、急上昇 ホルムズ航行懸念が再燃：時事ドットコム - 時事ドットコム",
-    "timestamp": "2026-07-13T02:19:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の航行懸念が再燃し、原油先物が急上昇。地政学的リスクが供給不安を増幅させている。中東情勢の緊張化により、世界石油供給の約3割が経由する重要な輸送路の不確実性が高まっている。"
-  },
-  {
-    "title": "【クラロワ】新カード「60式ムート」建物じゃなくて生き物ですやん！！ Copper Price (5cRwaA4KoJ) - Mshale",
-    "timestamp": "2026-07-13T05:21:58+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ゲーム「クラッシュ・ロワイヤル」の新カード情報に関する記事。銅価格との関連性はない。"
   },
   {
     "title": "小麦先物が1カ月半ぶり高値 ロシア産の供給懸念、北米の減産予想も - 日本経済新聞",
@@ -2242,5 +2165,104 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "15日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や材料については記事内容が不明のため詳細な評価が不可能。"
+  },
+  {
+    "title": "天候不順が供給に圧力をかけ、小麦とゴムの価格が共に上昇している。 - Vietnam.vn",
+    "timestamp": "2026-07-16T04:39:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ベトナムで天候不順が発生し、小麦とゴムの供給に圧力がかかっている。この気象イベントにより両商品の価格が上昇している。既知の気象要因による供給懸念の報道。"
+  },
+  {
+    "title": "米PPI予想外の低下で金価格、4,000ドルの大台を辛くも維持——専門家「この水準は強気と弱気の分水嶺」 - BigGo ファイナンス",
+    "timestamp": "2026-07-16T02:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米PPIが予想外に低下し、インフレ沈静化を示唆。金価格は4,000ドルの重要レベルを辛うじて維持。専門家は同水準を強弱の分水嶺と指摘。"
+  },
+  {
+    "title": "世界の金価格は変動したが、原油価格は4営業日連続で上昇した。 - Vietnam.vn",
+    "timestamp": "2026-07-16T02:41:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は変動したが方向性は明確でない。原油価格は4営業日連続上昇と堅調。エネルギー市場の強気基調が続く。"
+  },
+  {
+    "title": "本日（7月16日）の金価格：下落傾向 - Vietnam.vn",
+    "timestamp": "2026-07-16T02:51:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月16日時点で金価格が下落傾向にあることを報じるニュース。具体的な下落要因や数値が明記されていない。市場概況の日次レポートと考えられる。"
+  },
+  {
+    "title": "インフレ率の低下にもかかわらず、金価格は反転上昇に転じた。市場は何を待っているのか？ - Vietnam.vn",
+    "timestamp": "2026-07-16T04:43:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インフレ率の低下局面でも金価格が反転上昇。市場が注視する背景要因について解説。インフレ鈍化とは別の支援要因（金利低下期待、地政学リスク、ドル弱含みなど）が金買いを促進。"
+  },
+  {
+    "title": "米イラン衝突で原油価格が約18%急騰、台湾プラスチックグループ（台塑化）株価が70台湾ドル突破で2年ぶり高値 - BigGo ファイナンス",
+    "timestamp": "2026-07-16T02:47:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン衝突により原油価格が約18%の急騰を記録した。地政学的リスク（ペルシャ湾の供給途絶懸念）により、WTI原油の急速な上昇が発生。石油関連産業（台塑化など）の株価も連動して2年ぶり高値を更新。"
+  },
+  {
+    "title": "米国株見通し：伸び悩みか、小売売上高と原油相場を注視 - ｄメニューニュース",
+    "timestamp": "2026-07-16T04:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株の見通しについての解説記事。小売売上高と原油相場が注視対象とされている。具体的な新規情報や統計発表ではなく、マーケット観測の記事。"
+  },
+  {
+    "title": "銅価格が50％以上急落し、銅地金を保有することで利益を得ようとしていた投資家の期待は打ち砕かれた。 - Vietnam.vn",
+    "timestamp": "2026-07-16T02:09:34+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が50%以上の急落を記録し、銅地金への投機的需要が大きく減少した。既に発生した価格下落の事後的な解説記事で、投資家の期待値喪失を報告している。市場では銅需要弱化やドル強化などの構造的要因が背景と考えられる。"
+  },
+  {
+    "title": "2019年4月 湘南ベルマーレ対サガン鳥栖 平成最後の大遠征！猫の島、北九州。広教を見にアビスパの試合。そして感動の鳥栖戦！遠征はいいぞ！～前編～ Copper Price (jEcLE0H39s) - Mshale",
+    "timestamp": "2026-07-16T03:36:16+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "このニュースはJリーグの試合遠征記事であり、銅価格や商品市場とは無関係のスポーツブログエントリです。カテゴリ「銅」との整合性がなく、コモディティ投資情報として価値がありません。"
   }
 ]
