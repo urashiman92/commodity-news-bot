@@ -1,38 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-13T21:13:45.617669+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSの定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗状況と生育状態を示す指標。具体的な進捗率データが含まれるが、報告内容の詳細が提示されていないため影響度は評価困難。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-13T21:13:45.617669+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSの定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗状況と生育状態を示す指標。具体的な進捗率データが含まれるが、報告内容の詳細が提示されていないため影響度は評価困難。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-13T21:13:45.617669+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSの定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗状況と生育状態を示す指標。具体的な進捗率データが含まれるが、報告内容の詳細が提示されていないため影響度は評価困難。"
-  },
-  {
     "title": "OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-07-13T21:30:00+00:00",
     "importance": 3,
@@ -141,39 +108,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが供給を余儀なくされている原油の全量販売に苦戦している。西側制裁の強化により販売先確保が困難化し、ロシアは割引販売やディスカウント幅の拡大を余儀なくされている。この状況はロシア原油供給の脆弱性を露呈させ、OPEC減産の実効性に影響を及ぼす可能性がある。"
-  },
-  {
-    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
-    "timestamp": "2026-07-13T21:02:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA7月穀物レポートが市場で穀物相場の上昇をもたらした。定期発表であるCrop Progress/Production統計が発表され、穀物市場に買い圧力が生じた。ただし具体的な予想比や数値が不明のため、サプライズ度の詳細判定は困難。"
-  },
-  {
-    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
-    "timestamp": "2026-07-13T21:02:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA7月穀物レポートが市場で穀物相場の上昇をもたらした。定期発表であるCrop Progress/Production統計が発表され、穀物市場に買い圧力が生じた。ただし具体的な予想比や数値が不明のため、サプライズ度の詳細判定は困難。"
-  },
-  {
-    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
-    "timestamp": "2026-07-13T21:02:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA7月穀物レポートが市場で穀物相場の上昇をもたらした。定期発表であるCrop Progress/Production統計が発表され、穀物市場に買い圧力が生じた。ただし具体的な予想比や数値が不明のため、サプライズ度の詳細判定は困難。"
   },
   {
     "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas",
