@@ -33,28 +33,6 @@
     "summary": "RFD-TVによる定期的な穀物生産進捗と畜産生産の更新レポート（2026年7月13日版）。具体的な数値やデータは提供されていないため、実際の作付状況や生産見通しの詳細は不明。USDA発表の前段階の市場スナップショットと推定されるが、具体的な驚きの要素や市場への直接的なインパクトは現在のところ判断不可。"
   },
   {
-    "title": "EU Fails to Adopt Russian Sanctions and Freeze Oil Price Cap - Bloomberg.com",
-    "timestamp": "2026-07-13T16:43:38+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "EUがロシア制裁とエネルギー価格上限設定の採択に失敗した。本決定により、ロシア産石油への制裁強化が延期され、市場が想定していた供給制約が緩和される可能性が生じた。これは地政学的リスク低下を意味し、原油価格の下方圧力となる一方、制裁強化の遅延によるロシア産油増加への懸念も浮上している。"
-  },
-  {
-    "title": "EU Fails to Adopt Russian Sanctions and Freeze Oil Price Cap - Bloomberg.com",
-    "timestamp": "2026-07-13T16:43:38+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "EUがロシア制裁とエネルギー価格上限設定の採択に失敗した。本決定により、ロシア産石油への制裁強化が延期され、市場が想定していた供給制約が緩和される可能性が生じた。これは地政学的リスク低下を意味し、原油価格の下方圧力となる一方、制裁強化の遅延によるロシア産油増加への懸念も浮上している。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-07-13T21:13:45.617669+00:00",
     "importance": 2,
@@ -517,39 +495,6 @@
     "summary": "USDA NASSの養殖ナマズ生産統計で、養殖水面積が3%減少し、食用サイズ在庫も若干減少した。米国ナマズ産業の規模縮小傾向が継続しており、供給サイドの弱化が示唆されている。"
   },
   {
-    "title": "Why Are Cattle Prices Falling Despite Record USDA Forecasts? - Agrolatam",
-    "timestamp": "2026-07-13T18:00:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA予測が過去最高水準にもかかわらず、牛肉価格が下落している逆説的な現象が報告されている。タイトルから、供給見通しの改善が実現しても、市場が必ずしも価格上昇に反応しない構図を指摘。穀物飼料コストの動向や需要弱化が背景か。"
-  },
-  {
-    "title": "Why Are Cattle Prices Falling Despite Record USDA Forecasts? - Agrolatam",
-    "timestamp": "2026-07-13T18:00:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA予測が過去最高水準にもかかわらず、牛肉価格が下落している逆説的な現象が報告されている。タイトルから、供給見通しの改善が実現しても、市場が必ずしも価格上昇に反応しない構図を指摘。穀物飼料コストの動向や需要弱化が背景か。"
-  },
-  {
-    "title": "Why Are Cattle Prices Falling Despite Record USDA Forecasts? - Agrolatam",
-    "timestamp": "2026-07-13T18:00:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA予測が過去最高水準にもかかわらず、牛肉価格が下落している逆説的な現象が報告されている。タイトルから、供給見通しの改善が実現しても、市場が必ずしも価格上昇に反応しない構図を指摘。穀物飼料コストの動向や需要弱化が背景か。"
-  },
-  {
     "title": "EIA Weekly Petroleum Report: Crude Stocks Down, Gasoline Prices Up as of July 10, 2026 - News and Statistics - IndexBox",
     "timestamp": "2026-07-15T17:21:00+00:00",
     "importance": 3,
@@ -814,17 +759,6 @@
     "summary": "UAEがOPECを離脱後、石油生産量が増加している。OPEC離脱により減産枠の拘束を受けなくなったため、UAEは独立した増産戦略を推し進めている。この動きは既報の枠組み内であり、市場はある程度織り込み済みと考えられる。"
   },
   {
-    "title": "OPEC Monthly Report: UAE Crude Oil Output Surges 80% in June; Downgrades Global Oil Demand Forecast for 2026 - 富途牛牛",
-    "timestamp": "2026-07-13T18:12:31+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの6月月次レポートでUAEの原油生産が80%増加したと報告された一方、2026年の世界石油需要見通しが下方修正された。供給増加と需要悲観的見通しが相互に作用し、原油価格には下方圧力と上方圧力が混在する状況。"
-  },
-  {
     "title": "HSBC Upgrades Indian Stocks as Earnings Risk from Oil Subsides - Bloomberg.com",
     "timestamp": "2026-07-16T06:36:00+00:00",
     "importance": 3,
@@ -845,5 +779,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "HSBCがインド株式をアップグレードしたレポート。石油補助金リスクの低下がインド企業の収益見通しを改善する要因として注目されている。エネルギーコストの低減は企業利益率の向上につながり、インド経済の景気循環に好材料。"
+  },
+  {
+    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - EnergyNow.com",
+    "timestamp": "2026-07-15T17:58:57+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫報告によると、米国の原油在庫が約1年ぶりの高水準に上昇した。同時に輸出量と輸入量の双方が減少している。在庫積み上がりは供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす可能性がある。"
   }
 ]
