@@ -1,16 +1,5 @@
 [
   {
-    "title": "ドル円、日通し高値圏でもみ合い 原油先物は再び急伸｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-13T18:28:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円が高値圏でもみ合う中、原油先物が再び急伸した。為替変動と原油価格の連動性が示唆されている。"
-  },
-  {
     "title": "原油先物9％超高、1カ月ぶり高値 米のイラン海上封鎖再開表明で - ロイター",
     "timestamp": "2026-07-13T19:59:43+00:00",
     "importance": 4,
@@ -53,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油先物が大幅反発し、1カ月ぶりの高値で引けた。具体的な反発要因や価格水準の情報は記事要約からは不明。市場心理の改善が価格を押し上げた可能性がある。"
-  },
-  {
-    "title": "【速報】NY原油先物一段高、78.36ドル、米イラン緊張｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-13T18:33:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が78.36ドルまで上昇した。米国とイランの地政学的緊張が高まっており、供給リスクプレミアムが相場を押し上げている。中東情勢の不安定化が原油相場の上値を支える構図。"
   },
   {
     "title": "トランプ氏、ホルムズ海峡封鎖再開を宣言…国際原油価格が5%急騰、金価格は急落 - BigGo ファイナンス",
@@ -2341,5 +2319,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午前10時台の値動きレポート。ダウ平均が54ドル高、WTI原油先物が0.44ドル高で推移している状況の市場解説。"
+  },
+  {
+    "title": "ロシアとウクライナ、黒海・アゾフ海で船舶攻撃 小麦価格急騰 (ロイター) - Yahoo!ニュース",
+    "timestamp": "2026-07-16T12:38:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシアとウクライナが黒海・アゾフ海で船舶への攻撃を激化させている。両国は主要な小麦輸出ルートを巡る支配権を争っており、穀物輸送の阻害が深刻化。供給懸念から小麦価格が急騰している。"
+  },
+  {
+    "title": "ロシアとウクライナ、黒海・アゾフ海で船舶攻撃　小麦価格急騰 - ｄメニューニュース",
+    "timestamp": "2026-07-16T12:38:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシアとウクライナが黒海・アゾフ海で船舶攻撃を実施。両国は世界的な小麦供給量の約3割を占める主要輸出国であり、海上輸送ルートの遮断が世界的な小麦供給不安と価格上昇をもたらす可能性が高い。"
+  },
+  {
+    "title": "世界の金価格は予想外にも1オンスあたり4000ドルを下回った。 - Vietnam.vn",
+    "timestamp": "2026-07-16T16:10:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4000ドルを下回った。市場予想では4000ドル超の維持が想定されていたが、予想外に下落。テクニカルレベルの破壊は重要なシグナル。"
   }
 ]
