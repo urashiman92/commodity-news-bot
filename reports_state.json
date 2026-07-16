@@ -308,28 +308,6 @@
     "summary": "米国小麦の2024年産生産量予測が1970年産以来54年ぶりの最低水準となった。干ばつや悪天候による作付面積減少と単収低下が主因。世界的な穀物供給逼迫懸念が強まり、小麦価格の上昇圧力が確実視される。"
   },
   {
-    "title": "USDA Crop Progress: Corn Rated 68% Good to Excellent; Soybeans 65% Good to Excellent as of July 12 - DTN Progressive Farmer",
-    "timestamp": "2026-07-13T08:59:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progressレポート（7月12日時点）によると、トウモロコシの良好～優秀評価は68%、大豆は65%と報告された。両穀物ともに良好な生育状況を示しており、これは豊作見通しを示唆している。供給増加への懸念から価格下落圧力が生じる可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Rated 68% Good to Excellent; Soybeans 65% Good to Excellent as of July 12 - DTN Progressive Farmer",
-    "timestamp": "2026-07-13T08:59:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progressレポート（7月12日時点）によると、トウモロコシの良好～優秀評価は68%、大豆は65%と報告された。両穀物ともに良好な生育状況を示しており、これは豊作見通しを示唆している。供給増加への懸念から価格下落圧力が生じる可能性がある。"
-  },
-  {
     "title": "OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-07-13T21:30:00+00:00",
     "importance": 3,
@@ -955,5 +933,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "イラクがOPEC内で石油産出枠の引き上げを協議中。イラクは現在の割り当て枠の増加を求めており、OPEC諸国との交渉プロセスが進行中。実現すれば供給増加につながるが、現段階は協議段階で確実性に乏しい。"
+  },
+  {
+    "title": "EIA reports a drop in US crude oil stocks - engine.online",
+    "timestamp": "2026-07-16T07:01:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の低下を報告。在庫削減は原油需給を引き締め、価格上昇圧力となる。ただしニュースソースが限定的で具体的な在庫数値が明記されていない。週次在庫統計の定期発表と考えられ、市場が注視する重要な指標。"
+  },
+  {
+    "title": "Iraq needs a fair share within OPEC, says prime minister - Reuters",
+    "timestamp": "2026-07-14T16:54:05+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクの首相がOPEC内での公正な配分シェアを求める発言。イラクは現在のOPEC減産枠に不満を示唆しており、配分ルール見直しの可能性を示唆。過去の生産能力や地政学的要因から配分拡大を主張している可能性が高い。"
   }
 ]
