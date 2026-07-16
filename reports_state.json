@@ -1,49 +1,5 @@
 [
   {
-    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
-    "timestamp": "2026-07-13T16:17:06+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA7月穀物レポートが穀物市場のラリーを誘発。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生育状況・生産見通しが市場参加者の関心を集め、買い圧力が強まった。具体的な数値は記事ヘッドラインのみで詳細不明だが、市場反応がポジティブ。"
-  },
-  {
-    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
-    "timestamp": "2026-07-13T16:17:06+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA7月穀物レポートが穀物市場のラリーを誘発。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生育状況・生産見通しが市場参加者の関心を集め、買い圧力が強まった。具体的な数値は記事ヘッドラインのみで詳細不明だが、市場反応がポジティブ。"
-  },
-  {
-    "title": "USDA July Crop Report Sparks Rally in Grain Markets - Farms.com",
-    "timestamp": "2026-07-13T16:17:06+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA7月穀物レポートが穀物市場のラリーを誘発。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生育状況・生産見通しが市場参加者の関心を集め、買い圧力が強まった。具体的な数値は記事ヘッドラインのみで詳細不明だが、市場反応がポジティブ。"
-  },
-  {
-    "title": "UAE Tells OPEC Its Oil Production Surged Last Month - Rigzone",
-    "timestamp": "2026-07-13T14:51:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECに対し先月の石油生産が急増したことを報告した。詳細な生産量の数字は提供されていないが、OPEC減産合意の枠組み内における生産調整動向として市場が注視する。UAEの生産増加はOPEC内の生産配分問題として価格に影響する可能性がある。"
-  },
-  {
     "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, July 13, 2026 - RFD-TV",
     "timestamp": "2026-07-13T19:34:55+00:00",
     "importance": 1,
@@ -75,28 +31,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "RFD-TVによる定期的な穀物生産進捗と畜産生産の更新レポート（2026年7月13日版）。具体的な数値やデータは提供されていないため、実際の作付状況や生産見通しの詳細は不明。USDA発表の前段階の市場スナップショットと推定されるが、具体的な驚きの要素や市場への直接的なインパクトは現在のところ判断不可。"
-  },
-  {
-    "title": "Crude stocks in US strategic reserve fall 3 million barrels to lowest level since 1983 - Reuters",
-    "timestamp": "2026-07-13T16:30:11+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄(SPR)が300万バレル減少し、1983年以来の最低水準に低下した。SPRは現在、過去40年で最も低い水準にあり、米国の原油供給余力の大幅な縮小を示唆している。この歴史的な低水準は原油供給の脆弱性を浮き彫りにし、供給ショックに対する緩衝機能の喪失を意味する。"
-  },
-  {
-    "title": "Russia’s Oil Output Falls to Lowest in at Least 2 1/2 Years - Bloomberg.com",
-    "timestamp": "2026-07-13T16:08:27+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油産出量が少なくとも2年半ぶりの最低水準まで低下した。西側制裁とウクライナ戦争の影響により、ロシアの主要産油国としての供給能力が大きく制限されている。この供給縮小は世界的な石油逼迫懸念を強める要因となり、原油価格の上昇圧力につながる可能性が高い。"
   },
   {
     "title": "EU Fails to Adopt Russian Sanctions and Freeze Oil Price Cap - Bloomberg.com",
@@ -317,17 +251,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA7月穀物レポートが市場で穀物相場の上昇をもたらした。定期発表であるCrop Progress/Production統計が発表され、穀物市場に買い圧力が生じた。ただし具体的な予想比や数値が不明のため、サプライズ度の詳細判定は困難。"
-  },
-  {
-    "title": "Corn yield swing of 10% could mean $4.45 or $3.40 fall futures - Farm Progress",
-    "timestamp": "2026-07-13T16:35:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国トウモロコシの単収が10%変動した場合、先物価格が$4.45または$3.40に達する可能性があるとの試算。現在の作況予想の幅が大きく、単収変動が価格に極めて敏感に反応する状況を示唆。WASDE等の正式発表前の見通し分析。"
   },
   {
     "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas",
