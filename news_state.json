@@ -1,27 +1,5 @@
 [
   {
-    "title": "ニューヨーク金先物市場概況・14日 反発 - Moomoo",
-    "timestamp": "2026-07-14T20:31:07+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物市場が14日に反発した。具体的な反発理由の詳細は記事概要から不明。日次の相場振り返りと考えられる。"
-  },
-  {
-    "title": "原油先物約2％高、1カ月ぶり高値 米のイラン海上封鎖再開で供給懸念 - ロイター",
-    "timestamp": "2026-07-14T20:33:49+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるイラン海上封鎖の再開により、原油供給懸念が浮上。WTI原油先物は約2％上昇し1カ月ぶりの高値を付けた。地政学的リスクが価格を押し上げている。"
-  },
-  {
     "title": "NY為替：原油価格上昇に連れ、ドル買い戻しが強まる(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-07-14T21:25:59+00:00",
     "importance": 2,
@@ -31,28 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇に伴い、ドル買い戻しが強まっているという市場動向の報道。原油高とドル買いの相関関係を指摘する相場解説。"
-  },
-  {
-    "title": "原油先物約2％高、1カ月ぶり高値 米のイラン海上封鎖再開で供給懸念 - ニューズウィーク日本版",
-    "timestamp": "2026-07-14T20:33:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン海上封鎖を再開し、供給懸念から原油先物が約2%上昇し1カ月ぶり高値を付けた。地政学的リスクによる需給の不確実性が価格を押し上げた。"
-  },
-  {
-    "title": "原油先物約2％高、1カ月ぶり高値　米のイラン海上封鎖再開で供給懸念 - ｄメニューニュース",
-    "timestamp": "2026-07-14T20:42:02+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン海上封鎖を再開し、供給懸念から原油先物が約2%上昇して1カ月ぶりの高値を更新。地政学的リスクが顕在化し、需給逼迫シナリオが意識されている。"
   },
   {
     "title": "2026年7月15日朝の金価格：9999金地金、SJCプレーンリングの価格、および水曜日の世界の金価格。 - Vietnam.vn",
@@ -86,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇に伴いドル買い戻しが強まったという為替相場の動きについての解説記事。原油とドルの正相関関係を反映した通常のマーケット動向の報道。"
-  },
-  {
-    "title": "原油価格高騰で減益となる建築会社が6割超え!? - @DIME アットダイム",
-    "timestamp": "2026-07-14T20:52:05+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の高騰により、建築会社の6割以上が減益に直面している。建設資材コストの上昇が企業収益を圧迫している実態が報告されている。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4052ドル｜米国の利上げ観測後退が影響し、買い優勢だった模様(2026年7月15日) - OANDA証券",
@@ -141,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の回復に時間がかかるとの見通しから、原油価格は2営業日連続で上昇した。供給懸念が支えになっているが、既報事象の延長線上の動きと判断される。"
-  },
-  {
-    "title": "原油先物約2％高、1カ月ぶり高値 米のイラン海上封鎖再開で供給懸念（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-07-14T20:42:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン海上封鎖を再開し、原油供給懸念が台頭。先物は約2%上昇し1カ月ぶりの高値を記録した。地政学的リスク要因が相場を押し上げている。"
   },
   {
     "title": "また閉ざされるホルムズ海峡…国際原油価格10％垂直上昇 - ｄメニューニュース",
@@ -361,17 +295,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイランへの海上封鎖を再開し、原油供給不安が高まった。原油先物が81ドル台に上昇し、地政学的リスクが顕在化。中東の主要産油国供給途絶の懸念が相場を押し上げている。"
-  },
-  {
-    "title": "ＮＹ市場、中東情勢巡り原油価格が荒い動き…株は早期の利上げ観測後退で金融など買われる - 読売新聞",
-    "timestamp": "2026-07-14T20:42:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場で中東情勢を背景に原油価格が変動。同時に米利上げ観測後退により金融株が買われた。原油単体では方向感が定まらない状況。"
   },
   {
     "title": "東京大学経済学部「エネルギー市場/コモディティ市場」講座にゲスト講師としてヤマタネ会長が登壇 - 時事ドットコム",
@@ -2341,5 +2264,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が過去最高値を更新した後、設備投資の見直しが進み主要サポートレベルを下回る水準で推移している。高値圏での需要調整が進行中。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況･17日 反発 - Moomoo",
+    "timestamp": "2026-07-17T20:50:30+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物市場が17日に反発した。具体的な値動き幅や反発要因の詳細は記事概要からは不明。市場解説・振り返りレベルのニュース。"
+  },
+  {
+    "title": "大豆先物価格見通し：買い手のサポートがUSX1,191～USX1,202のレンジで下落を限定 - Traders Union",
+    "timestamp": "2026-07-17T12:24:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物価格はUSX1,191～USX1,202のレンジで推移し、買い手サポートによって下落が限定されている状況。アナリストによる相場観測記事。"
+  },
+  {
+    "title": "米国市場の展望：米イラン緊張再燃、紅海封鎖懸念でエネルギー関連銘柄上昇 Netflixが急落、成長鈍化・視聴データ減少で 米アップルの時価総額、エヌビディアを上回る 銅価格小幅下落、銅鉱山株も下落 - Moomoo",
+    "timestamp": "2026-07-17T13:34:33+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米イラン緊張とエネルギー価格上昇が報じられる一方で、銅価格は小幅下落。地政学リスクがエネルギーに選別される中、銅は需要懸念が優位。"
   }
 ]
