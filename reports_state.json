@@ -1,16 +1,5 @@
 [
   {
-    "title": "Todd Hubbs: USDA Reports and Global Uncertainty Keep Wheat Markets on Edge - Oklahoma Farm Report",
-    "timestamp": "2026-07-14T14:12:51+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "Todd Hubbs氏によるコメンタリー。USDA報告書と地政学的不確実性が小麦市場を不安定な状態に保っている。供給・需要見通しの不透明性と国際的な地政学的リスクが市場心理を圧迫しており、農家や投資家にとってポジション判断が困難な局面が続いている。"
-  },
-  {
     "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
     "timestamp": "2026-07-14T18:00:00+00:00",
     "importance": 3,
@@ -515,5 +504,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ペルシャ湾における地政学的緊張の再燃により、原油は週間ベースでの上昇を確保。供給リスク懸念が急速に高まり、市場は地政学プレミアムを価格に織り込んでいる。一方、株式市場はリスク回避で下押しされており、リスク資産と防御資産の選別が顕著。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton, Sorghum, Peanut, and Rice Conditions as of July 12, 2026 - IndexBox",
+    "timestamp": "2026-07-14T18:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA作物進捗レポートは毎週定期発表される米国主要農作物（トウモロコシ、大豆、綿花、ソルガム、落花生、米）の生育状況を報告する公式統計。7月12日時点のデータは北米の成長期中盤における実況進捗を示すもので、市場では既に織り込まれている可能性が高い。具体的な前週比・平年比などの数値が記事から確認できないため、サプライズ度は判定不可。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton, Sorghum, Peanut, and Rice Conditions as of July 12, 2026 - IndexBox",
+    "timestamp": "2026-07-14T18:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA作物進捗レポートは毎週定期発表される米国主要農作物（トウモロコシ、大豆、綿花、ソルガム、落花生、米）の生育状況を報告する公式統計。7月12日時点のデータは北米の成長期中盤における実況進捗を示すもので、市場では既に織り込まれている可能性が高い。具体的な前週比・平年比などの数値が記事から確認できないため、サプライズ度は判定不可。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton, Sorghum, Peanut, and Rice Conditions as of July 12, 2026 - IndexBox",
+    "timestamp": "2026-07-14T18:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA作物進捗レポートは毎週定期発表される米国主要農作物（トウモロコシ、大豆、綿花、ソルガム、落花生、米）の生育状況を報告する公式統計。7月12日時点のデータは北米の成長期中盤における実況進捗を示すもので、市場では既に織り込まれている可能性が高い。具体的な前週比・平年比などの数値が記事から確認できないため、サプライズ度は判定不可。"
+  },
+  {
+    "title": "Copper price: BMI hikes forecasts – structural deficits to bring $17,000 next decade - Mining.com",
+    "timestamp": "2026-07-16T17:57:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "BMI（Business Monitor International）が銅価格の予想を引き上げ、今後10年間の構造的供給不足により銅価格が17,000ドル/トンに到達すると予測。EV化や再生可能エネルギー普及に伴う銅需要の急増に対し、供給サイドが追いつかない見通しが背景。"
+  },
+  {
+    "title": "Copper price: BMI hikes forecasts – structural deficits to bring $17,000 next decade - Mining.com",
+    "timestamp": "2026-07-16T17:57:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "BMI（Business Monitor International）が銅価格の予想を引き上げ、今後10年間の構造的供給不足により銅価格が17,000ドル/トンに到達すると予測。EV化や再生可能エネルギー普及に伴う銅需要の急増に対し、供給サイドが追いつかない見通しが背景。"
   }
 ]
