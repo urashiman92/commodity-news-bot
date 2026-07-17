@@ -1,27 +1,5 @@
 [
   {
-    "title": "6月の米消費者物価3.5%上昇 原油価格、再び上昇（毎日新聞） - Yahoo!ニュース",
-    "timestamp": "2026-07-14T13:30:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "6月米CPI前月比3.5%上昇が報告され、インフレ圧力の継続を示唆。金融引き締め継続懸念からドル堅調となり、原油価格が再び上昇圧力を受けた。エネルギーセクターのコスト押し上げ要因として注視。"
-  },
-  {
-    "title": "金価格は本日7月14日、大幅に下落して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-07-14T13:25:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月14日に金価格が大幅下落して取引を終えた。具体的な下落率や原因が記事概要に明記されていない。ベトナムのニュースソースによる市場報告。"
-  },
-  {
     "title": "2026年7月15日現在、金価格は正反対の方向に変動しており、中央銀行が継続的に金を購入しているという重大な矛盾を反映している。 - Vietnam.vn",
     "timestamp": "2026-07-14T14:59:50+00:00",
     "importance": 3,
@@ -548,17 +526,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイランへの海上封鎖を再開し、原油供給懸念が急速に高まった。原油先物が81ドル台まで上昇し、地政学的リスクが顕在化。イラン産原油の供給途絶可能性が市場に大きく織り込まれている。"
-  },
-  {
-    "title": "コーン先物価格見通し：短期売り手が主導権を維持、サポートへの圧力続く - Traders Union",
-    "timestamp": "2026-07-14T12:53:38+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物は短期売り手が主導権を保持している状況。サポートレベルへの下押し圧力が継続。技術的な売りシグナルが優勢な相場展開。"
   },
   {
     "title": "金価格、「2つの逆風」はかなり織り込まれた可能性 - ピクテ・ジャパン",
@@ -2308,5 +2275,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル円相場が上昇一服となり、原油相場との連動性が言及されている。為替と原油の技術的な相関関係についての市場解説。"
+  },
+  {
+    "title": "2026年7月17日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-17T11:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。株式指数先物の技術的な市場情報を扱っている。金市場とは直接の関連性がない。"
+  },
+  {
+    "title": "【原油価格急騰】急所突かれ日本経済に暗雲 株価暴落、忍び寄る物価高 - 山陽新聞",
+    "timestamp": "2026-07-17T07:58:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の急騰が日本経済に悪影響を及ぼし、株価下落と物価上昇圧力が高まっている。エネルギー輸入国の日本にとって原油高は構造的な課題となっている。"
   }
 ]
