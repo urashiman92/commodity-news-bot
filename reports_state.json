@@ -1,27 +1,5 @@
 [
   {
-    "title": "Asian stocks drop as oil rises after Trump's Hormuz levy threat - Reuters",
-    "timestamp": "2026-07-14T01:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がホルムズ海峡通航に対する関税（レビー）を脅迫的に提唱し、原油価格が上昇した。この地政学的リスク発言により、主要なエネルギー供給ルートの不確実性が増し、市場は供給途絶懸念から原油買いを加速。一方、リスク回避によりアジア株式市場は下落した。"
-  },
-  {
-    "title": "Asian stocks drop as oil rises after Trump's Hormuz levy threat - Reuters",
-    "timestamp": "2026-07-14T01:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ前大統領がホルムズ海峡通航に対する関税（レビー）を脅迫的に提唱し、原油価格が上昇した。この地政学的リスク発言により、主要なエネルギー供給ルートの不確実性が増し、市場は供給途絶懸念から原油買いを加速。一方、リスク回避によりアジア株式市場は下落した。"
-  },
-  {
     "title": "USDA raises global cotton output forecast, consumption higher in July - Fibre2Fashion",
     "timestamp": "2026-07-14T09:50:22+00:00",
     "importance": 2,
@@ -141,39 +119,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "USDA（米国農務省）が2025年トウモロコシ生産量を過大評価していないかという疑問が提起されている。Pro Farmerが検証記事を発表し、実際の生産量統計が発表される時期を注視する必要性を指摘。USDAの公式予測に対する市場の信頼度が低下する可能性がある。"
-  },
-  {
-    "title": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-    "timestamp": "2026-07-14T01:27:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国とイラン間の地政学的緊張により原油価格が上昇した。一方、インフレデータが市場予想より緩和的だったことで株式が買われ、リスク資産への需要が高まった。このインフレ鈍化はドル強化につながり、金を含む無利子資産への圧力となっている可能性がある。"
-  },
-  {
-    "title": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-    "timestamp": "2026-07-14T01:27:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国とイラン間の地政学的緊張により原油価格が上昇した。一方、インフレデータが市場予想より緩和的だったことで株式が買われ、リスク資産への需要が高まった。このインフレ鈍化はドル強化につながり、金を含む無利子資産への圧力となっている可能性がある。"
-  },
-  {
-    "title": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-    "timestamp": "2026-07-14T01:27:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国とイラン間の地政学的緊張により原油価格が上昇した。一方、インフレデータが市場予想より緩和的だったことで株式が買われ、リスク資産への需要が高まった。このインフレ鈍化はドル強化につながり、金を含む無利子資産への圧力となっている可能性がある。"
   },
   {
     "title": "USDA raises global cotton output forecast, consumption higher in July - Fibre2Fashion",
@@ -658,5 +603,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECアナリストのBousso氏が、ホルムズ海峡の再開通がOPECの減産戦略を台無しにする可能性を指摘。地政学的リスク軽減による供給増加が価格下押し圧力となるリスクを警告。現在の価格支援体制が脅かされる可能性を強調。"
+  },
+  {
+    "title": "Stocks stumble, oil set for weekly gain on renewed Gulf hostilities - Reuters",
+    "timestamp": "2026-07-17T01:16:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ペルシャ湾における地政学的緊張の再燃により、原油は週間ベースでの上昇を確保。供給リスク懸念が急速に高まり、市場は地政学プレミアムを価格に織り込んでいる。一方、株式市場はリスク回避で下押しされており、リスク資産と防御資産の選別が顕著。"
   }
 ]
