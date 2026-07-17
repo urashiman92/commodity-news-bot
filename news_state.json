@@ -1,93 +1,5 @@
 [
   {
-    "title": "本日（7月14日午後）の金価格：引き続き急落。 - Vietnam.vn",
-    "timestamp": "2026-07-14T07:09:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月14日午後の金価格が引き続き急落している。具体的な下落の原因は記事の概要からは不明確だが、既に進行中のトレンドの継続。"
-  },
-  {
-    "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-07-14T07:02:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "純金上場信託(1540)の株価情報ページの掲載。特定のニュースイベントではなく、取引プラットフォームの定期更新と思われる。"
-  },
-  {
-    "title": "原油先物3％近く上昇、1カ月ぶり高値 海峡巡り米イラン攻撃応酬 - ロイター",
-    "timestamp": "2026-07-14T07:11:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の攻撃応酬により地政学的緊張が急速に高まり、ホルムズ海峡を経由する原油供給への懸念が顕在化。原油先物が3％近く上昇し1カ月ぶりの高値を記録。中東地域の供給リスクが市場心理を大きく動かした。"
-  },
-  {
-    "title": "原油先物3％近く上昇、1カ月ぶり高値 海峡巡り米イラン攻撃応酬 - ニューズウィーク日本版",
-    "timestamp": "2026-07-14T07:10:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イランの軍事的応酬がホルムズ海峡の地政学リスクを高め、原油先物が3%近く上昇して1ヶ月ぶりの高値を更新した。海峡での緊張激化は主要石油輸送路への直接的な供給リスクをもたらす。地政学的ショックとして市場に大きな影響を与えている。"
-  },
-  {
-    "title": "原油先物3％近く上昇、1カ月ぶり高値　海峡巡り米イラン攻撃応酬 - ｄメニューニュース",
-    "timestamp": "2026-07-14T07:10:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の海峡をめぐる攻撃応酬により、原油先物が3％近く上昇し1カ月ぶりの高値を付けた。ホルムズ海峡などの重要な石油輸送ルートの地政学的リスクが急速に高まった。"
-  },
-  {
-    "title": "原油価格が急騰し、金価格に大きな圧力がかかっている。 - Vietnam.vn",
-    "timestamp": "2026-07-14T08:53:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "原油価格の急騰がドル高やリスク回避につながり、金価格に売り圧力をかけている。エネルギーコストの上昇はインフレ圧力として機能し、実質金利の上昇につながる可能性がある。"
-  },
-  {
-    "title": "日経平均株価反発 原油価格上昇で売り先行、韓国株持ち直しが支え【日経CNBC/きょうのポイント、明日のヒント】 - テレ東BIZ",
-    "timestamp": "2026-07-14T09:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇が日本株市場に好材料として作用し、日経平均が反発。韓国株の持ち直しも相場を支援。ただしこれは既存トレンドの反映。"
-  },
-  {
-    "title": "$WTI 原油先物(2608) (CLmain.US)$ - Moomoo",
-    "timestamp": "2026-07-14T08:11:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物の現在値表示に関するニュース。具体的な価格変動や市場イベントの情報が含まれていない。単なる銘柄情報ページへのリンク。"
-  },
-  {
     "title": "本日（7月14日）の農産物価格：みかんの価格が急騰。 - Vietnam.vn",
     "timestamp": "2026-07-14T10:20:39+00:00",
     "importance": 1,
@@ -2264,5 +2176,82 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で原油、貴金属、農産物が広範囲に下落。複数資産の同時下落は需要懸念やドル高を示唆。具体的な下落率や要因については記事本文の確認が必要。"
+  },
+  {
+    "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-07-17T07:48:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NEXT NOTES 金先物ダブル・ブル ETN【2036】の銘柄情報ページ。金先物の2倍のレバレッジ商品の株価・企業情報の掲載。"
+  },
+  {
+    "title": "金価格が急落した理由は？ - Vietnam.vn",
+    "timestamp": "2026-07-17T06:43:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落した理由についての解説記事。具体的な価格変動幅や下落要因の詳細が不明。既に発生した価格動向の振り返り・分析と思われる。"
+  },
+  {
+    "title": "本日（7月17日）の最新金価格：制御不能なほど急落。 - Vietnam.vn",
+    "timestamp": "2026-07-17T07:43:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月17日の金価格が急落したことを報じるニュース。詳細な下落要因や具体的な価格水準は記事概要から不明。既に発生した価格変動の事後的な報道と考えられる。"
+  },
+  {
+    "title": "国内の金価格は、2営業日連続で190万ベトナムドン下落した。 - Vietnam.vn",
+    "timestamp": "2026-07-17T07:23:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が2営業日連続で190万ベトナムドン下落した。国内市場の局所的な価格動向を示すニュース。グローバル金価格への直接的な影響は限定的と考えられる。"
+  },
+  {
+    "title": "本日（7月17日午後）の金価格：急落 - Vietnam.vn",
+    "timestamp": "2026-07-17T06:43:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月17日午後の金価格が急落した。ベトナムのニュースサイトによる相場の振り返り報道。具体的な下落理由や数値は記事概要からは不明。"
+  },
+  {
+    "title": "(NEXT FUNDS)NOMURA原油インデックス上場【1699】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-07-17T05:46:53+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NOMURA原油インデックス上場投信(1699)の株価・株式情報ページの掲載。投信商品自体の紹介・情報提供であり、新規イベントや市場材料ではない。"
+  },
+  {
+    "title": "東京為替：ドル・円は小安い、原油相場の失速で - ｄメニューニュース",
+    "timestamp": "2026-07-17T05:55:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場の失速がドル・円相場を押し下げている。リスク資産の売却により円買い（安全資産）が進んでいる。為替と原油の連動性を示す通常の市場反応。"
   }
 ]
