@@ -1,16 +1,5 @@
 [
   {
-    "title": "$WTI 原油先物(2608) (CLmain.US)$ $ブレント先物(2609) (BZmain.US)$ - Moomoo",
-    "timestamp": "2026-07-14T04:53:21+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とブレント先物の相場情報ページが共有されています。具体的な相場変動や新規ニュースの内容が記載されていません。単なる取引プラットフォームのリンク情報と判断されます。"
-  },
-  {
     "title": "本日（7月14日午後）の金価格：引き続き急落。 - Vietnam.vn",
     "timestamp": "2026-07-14T07:09:20+00:00",
     "importance": 2,
@@ -2187,5 +2176,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属の株価動向に関する解説記事。銅価格上昇の見通しとAI関連銘柄としての同社への言及。既知情報の振り返り的な内容。"
+  },
+  {
+    "title": "金価格が4,000ドルの大台を割り込む、半年で3割近く急落し投資家の「金信仰」が揺らぐ - BigGo ファイナンス",
+    "timestamp": "2026-07-17T04:15:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドルを割り込み、半年で約3割の急落を記録。投資家の金に対する信仰が揺らいでいる。価格下落そのものは既に市場で織り込まれている。"
+  },
+  {
+    "title": "2026年7月17日午後の金価格：金1テールの最高販売価格は1466万ベトナムドン/テールです。 - Vietnam.vn",
+    "timestamp": "2026-07-17T05:28:22+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1466万VND/テール（約19.3g）で推移している現地ニュース。ベトナム国内の小売価格情報であり、グローバル市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "国内の金価格は最大で160万ベトナムドンも急落した。 - Vietnam.vn",
+    "timestamp": "2026-07-17T05:57:21+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が最大160万ドン（約8000円相当）の急落を記録した。国内市場での価格調整であり、グローバルな金市場全体への直接的な影響は限定的。既存の下落トレンドの継続を示唆するニュース。"
+  },
+  {
+    "title": "原油先物が1％超上昇、米イラン対立激化と紅海封鎖懸念で（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-07-17T01:53:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン対立の激化と紅海の船舶通行制限懸念により、原油先物が1%超上昇。供給途絶リスクが市場で意識されている。地政学的リスクプレミアムが原油相場を支援。"
+  },
+  {
+    "title": "東京為替：ドル・円は小安い、原油相場の失速で 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-17T05:55:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場の失速がドル・円相場に影響を与えている。ドル・円が小安くなった背景には、リスク資産としての原油需要減少に伴うドル買い圧力の緩和がある。為替市場の技術的な反応を示すニュース。"
+  },
+  {
+    "title": "ホルムズ海峡封鎖再開初日、通航量38%急減…原油価格の変動拡大 - BigGo ファイナンス",
+    "timestamp": "2026-07-17T05:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の封鎖により初日の通航量が38%急減。世界の原油供給の約30%がこの海峡を通過するため、供給制約が顕在化。原油価格のボラティリティ拡大が予想される。"
+  },
+  {
+    "title": "原油価格が急騰し、金と銀は売られる。 - Vietnam.vn",
+    "timestamp": "2026-07-17T05:26:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が急騰する一方で、金と銀が売却されている。原油上昇による実質金利の上昇が、非利息資産である貴金属から資金をシフトさせている可能性がある。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-16T22:25:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油、貴金属、農産物が広範囲に下落。複数資産の同時下落は需要懸念やドル高を示唆。具体的な下落率や要因については記事本文の確認が必要。"
   }
 ]
