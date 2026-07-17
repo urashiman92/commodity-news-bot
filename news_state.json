@@ -1,82 +1,5 @@
 [
   {
-    "title": "NY金先物は続落、中東緊迫を受けたドル高・金利上昇観測が重し｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-14T00:16:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が続落。中東情勢の緊迫化が一見するとリスク回避で金を買わせそうだが、それ以上にドル高・金利上昇観測が重石となっている。金はドル建て資産のため、ドル高と実質金利上昇は金価格の下押し要因。"
-  },
-  {
-    "title": "本日（7月14日）の金価格：引き続き急落。 - Vietnam.vn",
-    "timestamp": "2026-07-14T00:04:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月14日の金価格が前日に続き急落している。市場の流動性喪失や技術的売却の継続と見られる。具体的な新規材料ではなく、既存トレンドの延長。"
-  },
-  {
-    "title": "世界の金価格は7月14日朝、4000ドルを下回った。 - Vietnam.vn",
-    "timestamp": "2026-07-14T00:01:08+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が7月14日朝に4000ドルを下回った。過去数ヶ月の上昇トレンドからの調整局面と見られる。ファンダメンタルズの大きな変化は示唆されていない。"
-  },
-  {
-    "title": "本日（7月14日）の金価格：SJC、BTMC、DOJI、PNJは世界の金価格の動向に沿って下落しました。 - Vietnam.vn",
-    "timestamp": "2026-07-13T23:27:53+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの主要金地金小売業者（SJC、BTMC、DOJI、PNJ）の金価格が7月14日に世界相場に連動して下落。地域市場の値動き報告であり、新規情報なし。"
-  },
-  {
-    "title": "ユーロドル、昨日安値で下げ渋り NY原油先物は80ドル台まで上昇(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-14T00:42:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が80ドル台まで上昇し、ユーロドルは昨日の安値で下げ渋る相場展開。技術的なサポート水準での買い戻しと見られる。"
-  },
-  {
-    "title": "WTI原油先物相場、買い先行 一時79ドル台に乗せる - Moomoo",
-    "timestamp": "2026-07-13T23:40:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が79ドル台に上昇し買い先行の相場展開となった。短期的な値動きの報道だが、供給ショックや需要の大幅変化等の具体的な要因は示されていない。"
-  },
-  {
-    "title": "13日は原油価格が上昇、ドル円も上昇 - FOREX.com",
-    "timestamp": "2026-07-14T00:09:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "13日の取引で原油価格とドル円相場の両方が上昇した。ドル強化による原油の実質割安感と円安による国内輸入コスト上昇が連動している。具体的な上昇幅や要因詳細が記事概要に不明。"
-  },
-  {
     "title": "金価格が2週間ぶり安値、原油急騰でインフレ・利上げ観測強まる - ロイター",
     "timestamp": "2026-07-14T02:18:00+00:00",
     "importance": 3,
@@ -174,17 +97,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの攻撃応酬により地政学的リスクが急速に高まった。原油は一時1バレル80ドル台に上昇し、同時に円安（1ドル162円台）が進行している。中東情勢の不安定化が供給懸念を引き起こし、エネルギー価格の上昇圧力が継続中。"
-  },
-  {
-    "title": "中東情勢が再び緊迫化、原油価格は上昇、WTI原油先物は80ドル台に上昇（久保田博幸） - エキスパート - Yahoo!ニュース",
-    "timestamp": "2026-07-14T00:38:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫化により、WTI原油先物が80ドル台まで上昇。地政学的リスク要因が供給懸念を引き起こし、原油価格を押し上げている。既存のポジション見直しや新規建玉の検討が必要な局面。"
   },
   {
     "title": "原油先物 一時“80ドル”台 中東情勢受け、1カ月ぶり高水準 再び高まる供給不安 - FNNプライムオンライン",
@@ -2253,5 +2165,93 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "16日の主要国際商品市況についての報道。具体的な価格変動や材料が記事本文では不明。定期的な市況報告の一環と考えられる。"
+  },
+  {
+    "title": "7月17日の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-07-17T00:47:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月17日の金相場が全般的に下落した。市場の方向性を示す日次レポートだが、具体的な下落率や要因は記事概要では明記されていない。"
+  },
+  {
+    "title": "金価格は急落し、公式に1オンスあたり4000ドルを下回った。 - Vietnam.vn",
+    "timestamp": "2026-07-17T00:47:11+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり4000ドルを下回る水準まで急落した。この価格帯は技術的サポートレベルであり、下値目途の確認となった。ドル高や金利上昇環境の継続が背景と考えられる。"
+  },
+  {
+    "title": "本日（2026年7月17日）の金価格：SJCの金価格は小幅下落、世界の金価格は急落。 - Vietnam.vn",
+    "timestamp": "2026-07-16T23:28:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月17日の金相場で、ベトナム国内（SJC）の金価格は小幅下落。一方、世界的な金価格は急落している状況。"
+  },
+  {
+    "title": "【トランプの誤算】米戦略石油備蓄は43年ぶりの低水準に。ホルムズ海峡の再封鎖で米国が窮地に陥る理由 - JBpress",
+    "timestamp": "2026-07-16T22:33:42+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の戦略石油備蓄（SPR）が43年ぶりの低水準に低下。ホルムズ海峡再封鎖時のエネルギー安全保障リスクが顕在化。トランプ前政権の政策決定が現政権で課題となっている。"
+  },
+  {
+    "title": "FX/為替「ドル/円今日の見通し｜原油価格急騰後の消費者心理に注目」 外為どっとコム トゥデイ 2026年7月17日号 - 外為どっとコム",
+    "timestamp": "2026-07-16T23:29:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の急騰後における消費者心理の動向に関する為替・相場観測記事。ドル/円相場の見通しを提供しているが、コモディティ投資への直接的な新規情報は限定的。"
+  },
+  {
+    "title": "本日の燃料価格（7月17日）：世界の原油価格は反転し、わずかに下落した。 - Vietnam.vn",
+    "timestamp": "2026-07-16T23:28:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月17日の世界原油価格は反転し小幅下落した。日次の価格変動を伝える定型ニュース。ファンダメンタルズ変化の報告ではなく相場の振り返り。"
+  },
+  {
+    "title": "銅価格の上昇とアナリストによる格上げを受け、サザン・カッパー（SCCO）の株価が8.6％上昇――何が変化したのか - simplywall.st",
+    "timestamp": "2026-07-16T13:10:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の上昇とアナリストによる格上げを背景にサザン・カッパー（SCCO）株が8.6%上昇。既存トレンドの継続であり、新規材料は限定的。"
+  },
+  {
+    "title": "１６日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-07-16T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "16日の主要国際商品市況の市場レビュー記事。具体的な価格変動やニュースの詳細内容が概要に示されていない。"
   }
 ]
