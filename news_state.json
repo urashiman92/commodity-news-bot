@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日（7月14日）の農産物価格：みかんの価格が急騰。 - Vietnam.vn",
-    "timestamp": "2026-07-14T10:20:39+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "ベトナムの農産物価格の日次レポートでみかんの価格が急騰したことを報じている。トウモロコシカテゴリに分類されているが、記事の主体はみかん（柑橘類）の価格動向。"
-  },
-  {
-    "title": "2026年7月14日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-14T10:37:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する市場ウォッチ記事。定期的な先物市場解説・観測記事と見られる。コモディティ市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "本日（7月14日）の最新の金価格は急落：買い手が逃げ出し、多くの店舗で売上が低迷。 - Vietnam.vn",
-    "timestamp": "2026-07-14T10:42:10+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムで金価格が急落し、買い手が減少して店舗の売上が低迷している。地域的な需要減少の報告。"
-  },
-  {
-    "title": "2026年7月14日午後の金価格：SJC金価格、9999金リング価格、および火曜日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-14T10:00:44+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトが2026年7月14日午後の金価格を報道。SJC金とグローバル金相場の日次更新情報。"
-  },
-  {
     "title": "6月の米消費者物価3.5%上昇 原油価格、再び上昇（毎日新聞） - Yahoo!ニュース",
     "timestamp": "2026-07-14T13:30:12+00:00",
     "importance": 3,
@@ -108,28 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午前10時台の相場サマリー。ダウ平均が83ドル上昇、WTI原油先物が1.57ドル上昇。市場全体がリスクオン基調。"
-  },
-  {
-    "title": "銅関連株が上昇率上位を占め、中間決算の好調な予想が市場の信頼感に火をつける中、地政学的な情勢の変動が銅価格の高値圏での乱高下を維持させています。 - Moomoo",
-    "timestamp": "2026-07-14T10:37:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅関連企業の中間決算好調予想が市場心理を支える。地政学リスクにより銅価格は高値圏で変動。銅関連株が買い主導となっている。"
-  },
-  {
-    "title": "金価格4,000ドルからの調整は買い場か？欧州資産運用大手Abrdn「FRBの口先タカ派に惑わされるな、中銀は買い続けている」 - BigGo ファイナンス",
-    "timestamp": "2026-07-14T09:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "欧州資産運用大手Abrdnが、金価格の調整局面を買い機会と指摘。FRBのタカ派姿勢に惑わされず、中央銀行が金を継続購入していることが下支え要因となると主張。"
   },
   {
     "title": "米国とイランの緊張が高まる中、原油価格上昇を背景に、日本株はボラティリティの高い取引を経て高値で引けました。 - Moomoo",
@@ -2253,5 +2187,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油相場の失速がドル・円相場を押し下げている。リスク資産の売却により円買い（安全資産）が進んでいる。為替と原油の連動性を示す通常の市場反応。"
+  },
+  {
+    "title": "黒海航路への攻撃と北米の干ばつで、世界の小麦価格が急騰し年初来高値を更新 - BigGo ファイナンス",
+    "timestamp": "2026-07-17T09:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海航路への攻撃によるウクライナ産小麦の供給途絶と北米の干ばつが重なり、世界の小麦価格が年初来高値を更新。供給制約が複数地域で同時発生し、インフレーション圧力が強まる局面。"
+  },
+  {
+    "title": "金価格が5,586ドルから弱気相場入り、ドイツ銀行は8,000ドルの目標価格を提示——個人投資家はどちらを信じるべきか？ - BigGo ファイナンス",
+    "timestamp": "2026-07-17T10:05:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が5,586ドルから弱気局面に入ったとの報道がある一方で、ドイツ銀行は8,000ドルの目標価格を掲げており、市場のポジションが対立している。アナリスト見解の相違を示す論評記事であり、市場コンセンサスの構築段階。"
+  },
+  {
+    "title": "金価格が4000ドルに割り込む： FRB政策とドル高が金市場を圧迫 - EBC Financial Group",
+    "timestamp": "2026-07-17T07:36:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4000ドルを下回り、FRBの金融引き締め政策とドル高が圧迫要因となっている。金利上昇環境ではドル建て資産の実質金利が上昇し、利息を生まない金の相対的魅力が低下している。"
+  },
+  {
+    "title": "2026年7月17日午後4時の金価格：9999金、指輪、および金曜日の世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-17T09:14:07+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトが2026年7月17日午後4時時点の金価格情報を報道。金及び金製品（指輪など）の世界相場を伝えるルーチン記事。"
+  },
+  {
+    "title": "2026年7月17日午後の金価格：SJC金価格、9999金リング価格、および金曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-17T08:20:10+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の2026年7月17日午後の相場報道。定期的な価格情報提供であり、市場動向の解説記事。"
+  },
+  {
+    "title": "ドル・円は上昇一服、原油相場に連動｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-17T10:32:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル・円相場が上昇一服となり、原油相場との連動性が指摘されている。為替変動が原油価格に影響を与える可能性を示唆。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ $ブレント先物(2609) (BZmain.US)$ - Moomoo",
+    "timestamp": "2026-07-17T10:06:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "MoomooプラットフォームにおけるWTI原油先物とブレント先物の価格表示に関するニュース。具体的な価格動向や市場材料の記述がなく、単なるデータ配信告知と思われる。"
+  },
+  {
+    "title": "欧州為替：ドル・円は上昇一服、原油相場に連動 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-17T10:22:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル・円相場が原油相場との連動性を示しており、上昇一服の局面。為替と商品の相関関係に関する市場解説。"
+  },
+  {
+    "title": "JX金属の上方修正は序章か？AIサーバー需要×銅市況×円相場！ Womens Fa Cup (aECkCkO8gz) - Mshale",
+    "timestamp": "2026-07-16T18:12:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属の上方修正を受けて、AI/データセンター需要の銅消費増加と円相場による国内企業の収益改善を分析したコンテンツ。銅価格の上昇基調と企業業績の好転が複合的に作用する見通しを提示。"
   }
 ]
