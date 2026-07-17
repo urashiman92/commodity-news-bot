@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY為替：原油価格上昇に連れ、ドル買い戻しが強まる(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-14T21:25:59+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇に伴い、ドル買い戻しが強まっているという市場動向の報道。原油高とドル買いの相関関係を指摘する相場解説。"
-  },
-  {
     "title": "2026年7月15日朝の金価格：9999金地金、SJCプレーンリングの価格、および水曜日の世界の金価格。 - Vietnam.vn",
     "timestamp": "2026-07-14T22:17:42+00:00",
     "importance": 1,
@@ -20,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報をまとめたニュース記事。国内の9999金地金やSJCリングの価格と世界の金価格を報道している。市場分析というより単なる価格情報提供。"
-  },
-  {
-    "title": "また閉ざされるホルムズ海峡…国際原油価格10％垂直上昇（中央日報日本語版） - Yahoo!ニュース",
-    "timestamp": "2026-07-14T21:58:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の通航危機により国際原油価格が10%上昇。世界有数のエネルギー輸送ルートの閉鎖リスクは供給逼迫の懸念材料となった。地政学リスクが顕在化した形。"
-  },
-  {
-    "title": "NY為替：原油価格上昇に連れ、ドル買い戻しが強まる 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-14T21:22:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇に伴いドル買い戻しが強まったという為替相場の動きについての解説記事。原油とドルの正相関関係を反映した通常のマーケット動向の報道。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4052ドル｜米国の利上げ観測後退が影響し、買い優勢だった模様(2026年7月15日) - OANDA証券",
@@ -86,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の回復に時間がかかるとの見通しから、原油価格は2営業日連続で上昇した。供給懸念が支えになっているが、既報事象の延長線上の動きと判断される。"
-  },
-  {
-    "title": "また閉ざされるホルムズ海峡…国際原油価格10％垂直上昇 - ｄメニューニュース",
-    "timestamp": "2026-07-14T21:49:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の閉鎖リスクが顕在化し、国際原油価格が10%上昇。中東の地政学的緊張が供給途絶への懸念を招いた。コモディティ投資家にとって重要なサプライズイベント。"
   },
   {
     "title": "石油ＢＰ、負債13％削減＝原油価格高騰で - Economic Media Bulletin Limited (EMB)",
@@ -174,17 +130,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイランへの海上封鎖を再開し、原油供給不安が急速に高まった。原油先物が81ドル台まで上昇し、地政学的リスクが顕在化。中東情勢の緊迫化が市場を大きく動かした。"
-  },
-  {
-    "title": "NY為替：原油価格上昇に連れ、ドル買い戻しが強まる - 株探",
-    "timestamp": "2026-07-14T21:22:12+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇に伴いドル買い戻しが進行している相場状況の報道。原油高がドル高を誘発する通常のマクロ連動パターン。既に進行中の市場動向の解説記事。"
   },
   {
     "title": "原油先物は続伸、米・イラン戦闘激化で - ニューズウィーク日本版",
@@ -2297,5 +2242,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米イラン緊張とエネルギー価格上昇が報じられる一方で、銅価格は小幅下落。地政学リスクがエネルギーに選別される中、銅は需要懸念が優位。"
+  },
+  {
+    "title": "ロシアとウクライナ、黒海・アゾフ海で船舶攻撃 小麦価格急騰 - MSN",
+    "timestamp": "2026-07-17T08:35:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア・ウクライナ紛争が黒海・アゾフ海での船舶攻撃に拡大し、小麦輸送ルートが脅威にさらされている。両国は世界有数の小麦輸出国であり、海上輸送の混乱は供給逼迫を招く。小麦価格は急騰している。"
+  },
+  {
+    "title": "NY原油・金相場（17日）－原油反発 金は3日ぶり反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-17T21:59:53+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油が反発し、金は3日ぶりに反発した。日中の相場の振り返りであり、特定の新規ファンダメンタルズは示されていない。"
+  },
+  {
+    "title": "本日（7月18日）の金価格：制御不能なほど急落。 - Vietnam.vn",
+    "timestamp": "2026-07-17T22:02:37+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月18日の金価格が急落したとの報道。ただしニュース概要が限定的で、下落の具体的な原因や下落幅の詳細が不明。市場解説記事と思われる。"
+  },
+  {
+    "title": "2026年7月18日の金価格：約半年ぶりに約3000万ベトナムドン下落。 - Vietnam.vn",
+    "timestamp": "2026-07-17T21:22:14+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が約半年ぶりに約3000万ベトナムドン下落した。地域的な価格調整であり、世界的な金相場への直接的な影響は限定的と考えられる。"
+  },
+  {
+    "title": "NY外為：ドル続伸、NY原油価格は82ドル台で推移、米イラン軍事衝突激化リスク - ｄメニューニュース",
+    "timestamp": "2026-07-17T19:08:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の軍事衝突リスク激化がNY原油を82ドル台で推移させている。ドル続伸が価格を抑制する一方、地政学リスクが上値をサポート。供給途絶懸念が原油相場を下支え。"
   }
 ]
