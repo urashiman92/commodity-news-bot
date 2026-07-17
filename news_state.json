@@ -1,27 +1,5 @@
 [
   {
-    "title": "EUの小麦価格、ロシアの輸出リスクを市場が評価し上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-14T17:39:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシアの小麦輸出リスクに対する市場の懸念が高まり、EUの小麦価格が上昇。供給不安が価格押し上げ要因として評価されている。既知のリスク要因の市場反映と見られる。"
-  },
-  {
-    "title": "米国、3日連続のイラン空爆で原油価格が10%急騰…ホルムズ海峡の緊張が最高潮に - BigGo ファイナンス",
-    "timestamp": "2026-07-14T18:05:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランへ3日連続の空爆を実施し、地政学的緊張が急速に高まった。ホルムズ海峡の通行リスク懸念から原油価格が10%急騰。中東供給途絶リスクが現実化の可能性。"
-  },
-  {
     "title": "ニューヨーク金先物市場概況・14日 反発 - Moomoo",
     "timestamp": "2026-07-14T20:31:07+00:00",
     "importance": 2,
@@ -262,17 +240,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格の上昇幅が縮小したとの報道。既に上昇トレンドが進行している局面での調整局面と考えられる。具体的な価格水準や材料が不明確で、単なる相場観察の報告と推察される。"
-  },
-  {
-    "title": "金先物2709【GC2709】株価掲示板｜投資家のコメント - Moomoo",
-    "timestamp": "2026-07-14T18:30:34+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物2709（9月限）に関する投資家向けの掲示板・コメント集。具体的なニュース内容や価格動向の詳細は不明。既存ポジションの議論や観測の類。"
   },
   {
     "title": "2026年7月15日現在の金価格の予測は？上昇するでしょうか、それとも下落するでしょうか？ - Vietnam.vn",
@@ -2297,5 +2264,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が82ドル近辺で推移。ドル底堅い展開が継続。為替とコモディティの連動性を示す相場形成。"
+  },
+  {
+    "title": "フィリピンの金価格は反落、ドル安と利下げ観測が強気地合いを下支え - VT Markets",
+    "timestamp": "2026-07-17T06:07:28+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "フィリピンの金価格が反落。ドル安と米国利下げ観測が金の強気相場を下支えしている。地域的な価格動向についての相場解説。"
+  },
+  {
+    "title": "ＥＣＢ、来週は据え置きの公算 原油価格の変動を注視＝ＮＹ為替 - みんかぶ FX/為替",
+    "timestamp": "2026-07-17T17:44:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ECBが来週の金利決定会合で据え置きを見込む報道。原油価格変動がECBの政策判断に影響を与える可能性が指摘されている。為替市場の観点からの解説記事。"
+  },
+  {
+    "title": "NY外為：ドル底難く推移、NY原油先物は82ドルに迫る - ｄメニューニュース",
+    "timestamp": "2026-07-17T15:59:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が82ドル水準に接近している。ドル相場が底堅く推移する中での原油価格上昇を報じるコモディティ・外為相場の概況記事。"
+  },
+  {
+    "title": "米国によるイランへの攻撃と、それに対するイランのクウェートへの報復措置を受け、原油価格が急騰しました。 - Bullying Sin Fronteras",
+    "timestamp": "2026-07-17T16:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事衝突及びイランのクウェートへの報復措置により、中東地政学リスクが急速に高まった。ホルムズ海峡周辺での供給途絶リスク顕在化。原油価格は急騰。"
+  },
+  {
+    "title": "コーン先物価格予想：買い手のサポートがUSX461.69～USX469.51のレンジ内で下値を限定 - Traders Union",
+    "timestamp": "2026-07-17T12:53:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "コーン先物は買い手サポートにより下値がUSX461.69～USX469.51のレンジ内で限定されるとの技術分析予想。現在の価格水準での買い支え観測を示唆するが、新規材料ではない。"
+  },
+  {
+    "title": "JX金属はなぜ暴落したのか? 最高益でも売られた本当の理由と3401円の罠 Lamelo Ball (ZMF5B2qUUo) - Mshale",
+    "timestamp": "2026-07-17T03:31:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が最高益を達成したにもかかわらず株価が暴落した背景を分析する記事。銅市場の需要見通しや利益確定売り、バリュエーションの警告といった複合的な要因が指摘されている。3401円の株価水準がテクニカル的な重要レベルとして言及されている。"
   }
 ]
