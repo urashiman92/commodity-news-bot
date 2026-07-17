@@ -11,28 +11,6 @@
     "summary": "6月米CPI前月比3.5%上昇が報告され、インフレ圧力の継続を示唆。金融引き締め継続懸念からドル堅調となり、原油価格が再び上昇圧力を受けた。エネルギーセクターのコスト押し上げ要因として注視。"
   },
   {
-    "title": "ホルムズ海峡“再封鎖”で手数料20％か…1隻あたり約52億円も 原油価格・物価への影響は？【#みんなのギモン】 - 日テレNEWS NNN",
-    "timestamp": "2026-07-14T12:28:01+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再封鎖シナリオについての解説記事。封鎖時の輸送手数料が現在の20倍（1隻52億円）に達する可能性を指摘。原油供給途絶リスクと物価への波及効果を分析。"
-  },
-  {
-    "title": "中東情勢緊迫で原油価格が1日で約10%急騰、金は一時4,000ドル割れ後に反発——インフレの亡霊が再び各国中銀を悩ます - BigGo ファイナンス",
-    "timestamp": "2026-07-14T11:26:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫化により原油価格が1日で約10%の急騰を記録。地政学リスクによる供給懸念が市場を大きく動かした。同時に金も変動し、インフレ懸念が再燃している。"
-  },
-  {
     "title": "金価格は本日7月14日、大幅に下落して取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-07-14T13:25:12+00:00",
     "importance": 2,
@@ -2286,5 +2264,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属の上方修正を受けて、AI/データセンター需要の銅消費増加と円相場による国内企業の収益改善を分析したコンテンツ。銅価格の上昇基調と企業業績の好転が複合的に作用する見通しを提示。"
+  },
+  {
+    "title": "ロシアとウクライナ、黒海・アゾフ海で船舶攻撃 小麦価格急騰 - MSN",
+    "timestamp": "2026-07-16T14:16:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシアとウクライナが黒海・アゾフ海で船舶攻撃を激化させており、穀物輸送ルートの遮断リスクが顕在化。世界最大級の小麦供給地域からの輸出途絶懸念が価格急騰を招いている。"
+  },
+  {
+    "title": "ゴールドマン・サックス、中央銀行の金需要が金価格の下値を支えると予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-17T11:26:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが中央銀行の金需要が金価格の下支え要因になると予測。中央銀行による継続的な金買い需要が価格の下値を支持するとの見方。既知の傾向の確認的コメント。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（16日）原油は4日ぶりに反落 - Moomoo",
+    "timestamp": "2026-07-17T02:07:23+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油先物が4日ぶりに反落。金先物市場も同時期の相場動向が報道されている。市場の定期的な値動きの事後報告。"
+  },
+  {
+    "title": "欧州為替：ドル・円は上昇一服、原油相場に連動 - ｄメニューニュース",
+    "timestamp": "2026-07-17T10:22:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル円相場が上昇一服となり、原油相場との連動性が言及されている。為替と原油の技術的な相関関係についての市場解説。"
   }
 ]
