@@ -1,16 +1,5 @@
 [
   {
-    "title": "Ukraine Says It Hit Russian Oil and Gas Tankers in the Black Sea - Bloomberg.com",
-    "timestamp": "2026-07-15T06:51:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの黒海におけるタンカー（石油・ガス）への攻撃を発表。ロシアの海上エネルギー輸送インフラへの直接的な脅威が顕在化。黒海経由のロシア産原油・ガス輸出ルートの供給不確実性が急速に高まり、エネルギー市場に上昇圧力をもたらす可能性が高い。"
-  },
-  {
     "title": "July 2026 WASDE: Acreage Moves in July, Yields Move in August - Oklahoma Farm Report",
     "timestamp": "2026-07-15T13:33:35+00:00",
     "importance": 3,
@@ -185,17 +174,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間在庫レポートが弱気シグナルを示し、原油価格は早期の上昇益を消失した。在庫増加または需要弱化を示唆する統計データが発表されたと推定され、市場心理を圧迫。具体的な在庫数値は記事リンク先で確認が必要。"
-  },
-  {
-    "title": "Iraq in talks with Opec to increase oil output quota - Arabian Gulf Business Insight | AGBI",
-    "timestamp": "2026-07-15T08:17:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPEC内で石油産出枠の引き上げを協議中。イラクは現在の割り当て枠の増加を求めており、OPEC諸国との交渉プロセスが進行中。実現すれば供給増加につながるが、現段階は協議段階で確実性に乏しい。"
   },
   {
     "title": "EIA reports a drop in US crude oil stocks - engine.online",
@@ -405,5 +383,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "カナダの石油精製所の稼働停止がアメリカ北東部の供給逼迫をもたらす可能性がある。北東部はカナダからの精製品輸入に依存しており、同地域のガソリン・軽油供給が影響を受ける見通し。需給ひっ迫による価格上昇圧力が予想される。"
+  },
+  {
+    "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
+    "timestamp": "2026-07-18T07:59:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナの無人機攻撃によりロシア・モスクワ地域の石油貯蔵施設で火災が発生し、7名の労働者が死亡した。ロシアの石油インフラへの直接的な攻撃は供給懸念を強め、原油価格の上昇圧力となる。地政学的リスクの顕在化により市場変動が拡大する可能性。"
   }
 ]
