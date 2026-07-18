@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油価格リスクから自社を守る3つの戦略 - Forbes JAPAN",
-    "timestamp": "2026-07-15T06:38:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "企業が原油価格変動リスクに対応するためのヘッジ戦略に関する解説記事。具体的な対策方法を紹介しているが、新規情報ではなく既知の手法の説明。"
-  },
-  {
     "title": "金価格、「2つの逆風」はかなり織り込まれた可能性 - ピクテ・ジャパン",
     "timestamp": "2026-07-15T08:24:56+00:00",
     "importance": 2,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格動向に関する定期的な市場レポート。SJC金およびリング金の価格情報と世界金価格を掲載した市場観測記事。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ $ブレント先物(2609) (BZmain.US)$ - Moomoo",
-    "timestamp": "2026-07-15T06:26:48+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "提供されたニュースリンクが不完全で、具体的な内容が特定できません。WTIとブレント先物の価格情報ページへのリンクのみが確認できます。"
   },
   {
     "title": "小麦先物 (WHEAT-F) は7月15日に上昇 2.25%：その理由はこれです - TradingKey",
@@ -2143,5 +2121,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NYダウが406ドル安となり、原油高騰と半導体セクターの急落が主要因となった。ナスダックも361ポイント下落。原油価格の上昇がコスト懸念を材料に売圧力となった。"
+  },
+  {
+    "title": "金価格、週末に1グラムあたり2,614万ルピアに上昇 - VOI.ID",
+    "timestamp": "2026-07-18T07:46:42+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金価格が1グラムあたり2,614万ルピアに上昇したという週末の相場情報。地域限定的な価格報告で、グローバルな金市場への具体的な影響は不明確。"
+  },
+  {
+    "title": "本日（7月18日）の最新金価格：週末にかけて急騰したが、来週は反転して下落すると予測される。 - Vietnam.vn",
+    "timestamp": "2026-07-18T06:46:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は週末にかけて急騰したが、アナリスト予測では来週に反転して下落する見通し。過去の値動きの振り返りと今後の相場観に関する解説記事。"
+  },
+  {
+    "title": "本日（7月18日午後）の金価格：国内の金価格は小幅上昇しました。 - Vietnam.vn",
+    "timestamp": "2026-07-18T07:10:01+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が7月18日午後に小幅上昇した。市場への具体的な影響要因は記事概要からは不明。ローカルニュースの範囲で、グローバル金相場への波及は限定的。"
+  },
+  {
+    "title": "本日7月16日の金価格：SJC金、Bao Tin Minh Chau金リング、Bao Tin Manh Hai金、Doji金、Phu Quy金はどれくらい値上がりしたか？ - Vietnam.vn",
+    "timestamp": "2026-07-18T07:45:36+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの主要金小売業者（SJC、Doji等）の7月16日の金価格を報道したもの。地域別の価格動向を記録する日次ニュース。"
+  },
+  {
+    "title": "本日の燃料価格（7月18日）：世界の原油価格が反転し、急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-18T01:24:18+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの燃料価格ニュースサイトが、世界原油価格の反転と急騰を報じている。具体的な価格水準や騰落率、騰落理由の記載がなく詳細不明。定期的な価格情報の一種と推測される。"
   }
 ]
