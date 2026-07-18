@@ -1,16 +1,5 @@
 [
   {
-    "title": "ロシア・ウクライナ紛争で小麦先物が5%急騰、黒海の貿易に混乱 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-15T20:43:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナ紛争により小麦先物が5%急騰。黒海の主要穀物輸出ルートが混乱し、世界供給への懸念が顕在化。地政学的リスクが価格に直結した。"
-  },
-  {
     "title": "本日（7月16日）の金価格：状況は逆転した。 - Vietnam.vn",
     "timestamp": "2026-07-15T21:43:47+00:00",
     "importance": 1,
@@ -99,17 +88,6 @@
     "summary": "米国とイランの戦闘激化により原油供給途絶懸念が浮上。地政学的リスク要因がWTI原油を3営業日連続で押し上げている。中東情勢の緊張がコモディティ市場に直結。"
   },
   {
-    "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-07-15T20:48:08+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドバイ原油先物のダブル・ブルETN（2038）に関するYahoo!ファイナンスの株価情報ページ。具体的なニュース内容や市場イベントは記載されていない。"
-  },
-  {
     "title": "米原油在庫の減少幅が予想下回る、原油価格の上昇一服 市場は米イラン衝突を冷視 - BigGo ファイナンス",
     "timestamp": "2026-07-15T23:25:00+00:00",
     "importance": 3,
@@ -119,17 +97,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国EIA週間在庫統計で原油在庫の減少幅が予想を下回った。市場は既に値上がりが進行していたため、弱い統計で上昇の勢いが一服。米イラン衝突を巡る地政学的懸念も織り込み不十分で軽視されている。"
-  },
-  {
-    "title": "ニューヨーク原油先物市場概況･15日 3日続伸 - Moomoo",
-    "timestamp": "2026-07-15T20:58:06+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ニューヨーク原油先物が3日続伸。市場の相場振り返り報道。具体的な上昇要因や在庫数字は記事から不明。"
   },
   {
     "title": "１５日の主要国際商品市況 - 株探",
@@ -493,17 +460,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "チリ政府が2026年の経済成長率見通しを1.8%に下方修正した。一方、銅価格見通しは上方修正。成長率低下は国内需要減を示唆するが、銅価格上方修正は需給引き締まり見通しを反映。"
-  },
-  {
-    "title": "金、石油、カカオ：下半期に注目すべき3つの商品 - Jablíčkář.cz",
-    "timestamp": "2026-07-15T20:43:14+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "下半期に注目すべきコモディティとして金、石油、カカオの3商品を取り上げた解説記事。各商品の相場見通しについてのアナリスト観測。"
   },
   {
     "title": "2026年7月16日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -2110,5 +2066,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米ドル円が40年ぶり高値圏で推移。原油相場、FRB見通し、資金還流リスクが円を圧迫している状況の解説記事。"
+  },
+  {
+    "title": "金価格が4000ドルを割り込んだ理由、ドル高の先に待つ3000ドル台からの反転シナリオ - JBpress",
+    "timestamp": "2026-07-18T21:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4000ドルを割り込んだ背景にはドル高が主要因。記事はドル高トレンドの先に3000ドル台からの反転シナリオを提示する解説。"
+  },
+  {
+    "title": "The Street Says Diamondback Energy Is Worth $230. Its Own Mid-Cycle Oil Price Says Less - TIKR.com",
+    "timestamp": "2026-07-18T17:47:19+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Diamondback Energyについてストリート予想（$230）と同社の中期油価想定の乖離を指摘するアナリスト論評。企業評価と油価見通しの不整合を浮き彫りにしたもの。"
   }
 ]
