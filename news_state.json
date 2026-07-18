@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY金先物は反発、CPI発表・FRB議長証言控え安値からの買い戻し優勢｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-15T00:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が反発し、安値からの買い戻しが優勢。CPI発表とFRB議長証言を控えた展開。市場はボラティリティ圧力下での技術的リバウンド局面にある。"
-  },
-  {
     "title": "金価格、CPI主導の上昇後に落ち着く―ウォーシュ発言が利下げ期待を抑制 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-15T01:33:00+00:00",
     "importance": 3,
@@ -86,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイラン間の戦闘が激化し、地政学的リスクが高まっている。中東地域での紛争激化は原油供給途絶のリスクとして評価され、先物相場が続伸している。"
-  },
-  {
-    "title": "14日は原油価格が上昇、ドル円が下落 - FOREX.com",
-    "timestamp": "2026-07-15T00:11:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "14日に原油価格が上昇し、同時にドル円が下落した。為替動向と原油の連動性を示す相場コメント。具体的な上昇率や要因の詳細は不明。"
   },
   {
     "title": "米国のインフレ率が緩和したことを受け、金価格は2％以上急騰した。 - Vietnam.vn",
@@ -2209,5 +2187,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の攻撃激化により原油先物が上昇。ドル円も162.50円まで上伸し、リスク・オフ環境下での変動性が高まっている。地政学的リスク要因が原油相場の上支え材料となっている。"
+  },
+  {
+    "title": "本日（7月18日）の金価格：力強い反発が予想されます。 - Vietnam.vn",
+    "timestamp": "2026-07-18T00:10:01+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月18日の金価格について、力強い反発が予想されるとの観測記事。具体的な材料や根拠は記事概要からは不明。相場の技術的な見立てまたはアナリスト予想の可能性。"
+  },
+  {
+    "title": "バンク・オブ・アメリカ：金価格が低ければ低いほど、買いのチャンスは大きくなる。 - Vietnam.vn",
+    "timestamp": "2026-07-18T00:28:24+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "バンク・オブ・アメリカがアナリスト見解として、金価格の下落局面を買い増しの好機と位置づけている。長期的な金投資の価値を強調するコメンタリー。"
+  },
+  {
+    "title": "老铺黄金の時価総額1,200億香港ドル消失の調査：閑散とする店舗、中古価格の下落、ラグジュアリー戦略が金価格の試練に直面 - BigGo ファイナンス",
+    "timestamp": "2026-07-17T14:26:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "香港の老舗金販売業者の時価総額が1,200億香港ドル消失。店舗の閑散化と中古金価格の下落が報告されている。ラグジュアリー戦略が金価格の上昇期待に逆行する形で失速。"
+  },
+  {
+    "title": "米イラン戦火、紅海に飛び火か イラン、フーシ派と連携し二大海峡封鎖の構え 原油価格、週間で12%超急騰 - BigGo ファイナンス",
+    "timestamp": "2026-07-17T22:55:00+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン対立の激化により、イランがフーシ派と連携してホルムズ海峡とバブ・エル・マンデブ海峡の封鎖を示唆。原油供給の重大な途絶リスクが顕在化し、週間で12%超の急騰を記録。"
   }
 ]
