@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格、「2つの逆風」はかなり織り込まれた可能性 - ピクテ・ジャパン",
-    "timestamp": "2026-07-15T08:24:56+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が直面していた2つの逆風（米金利上昇とドル高）が市場にかなり織り込まれたとの見方。既存の下落圧力が相応に反映されており、急激な新展開の可能性は低い状況。"
-  },
-  {
-    "title": "2026年7月15日午後の金価格：SJC金価格、9999金リング価格、および水曜日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-15T08:48:36+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格動向に関する定期的な市場レポート。SJC金およびリング金の価格情報と世界金価格を掲載した市場観測記事。"
-  },
-  {
-    "title": "小麦先物 (WHEAT-F) は7月15日に上昇 2.25%：その理由はこれです - TradingKey",
-    "timestamp": "2026-07-15T08:51:05+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "7月15日の小麦先物が2.25%上昇した。具体的な材料が記事概要から不明だが、日次の相場動向解説と見られる。通常のボラティリティ範囲内の変動。"
-  },
-  {
     "title": "原油価格が2％上昇、イラン革命防衛隊が全輸出回廊の閉鎖警告 - ロイター",
     "timestamp": "2026-07-15T09:55:44+00:00",
     "importance": 4,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン革命防衛隊が全輸出回廊の閉鎖を警告し、原油価格が2%上昇。中東の地政学的緊張が急速に高まり、供給途絶リスクが顕在化した。市場は供給ショックの可能性を織り込み始めた。"
-  },
-  {
-    "title": "原油価格が2％上昇、イラン革命防衛隊が全輸出回廊の閉鎖警告 - ニューズウィーク日本版",
-    "timestamp": "2026-07-15T09:54:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン革命防衛隊が全輸出回廊の閉鎖を警告し、原油価格が2％上昇。中東地政学リスクの顕在化により供給遮断懸念が浮上。イランの輸出能力喪失は世界供給の約3％に相当する重要な脅威。"
   },
   {
     "title": "2026年7月15日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -86,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ゴールドマン・サックスが湾岸地域の原油供給減少を指摘し、原油価格上振れリスクを警告。供給逼迫要因として市場の注目を集める。"
-  },
-  {
-    "title": "7月15日午後の金価格：金地金と金指輪は、2日間の急落の後、再び急騰した。 - Vietnam.vn",
-    "timestamp": "2026-07-15T09:03:54+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金・金指輪が2日間の下落後に反発した。テクニカルなリバウンドを示唆するニュース。"
   },
   {
     "title": "原油価格の急騰はリスク資産への強気見通しを変えない＝HSBC 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -427,17 +372,6 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "XRPLがカストディ型トークン化コモディティ市場で70%超のシェアを占めている一方、全体ではEthereumが首位。ブロックチェーン上のコモディティトークン化の進展を示す市場動向。"
-  },
-  {
-    "title": "東京大学経済学部「エネルギー市場/コモディティ市場」講座にゲスト講師としてヤマタネ会長が登壇 - ニコニコニュース",
-    "timestamp": "2026-07-15T09:48:18+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "ヤマタネ会長が東京大学経済学部のエネルギー・コモディティ市場講座にゲスト講師として登壇。業界の知見を学生に提供する教育的な取り組み。"
   },
   {
     "title": "１５日の主要国際商品市況 - ライブドアニュース",
@@ -2176,5 +2110,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの燃料価格ニュースサイトが、世界原油価格の反転と急騰を報じている。具体的な価格水準や騰落率、騰落理由の記載がなく詳細不明。定期的な価格情報の一種と推測される。"
+  },
+  {
+    "title": "金価格は1オンスあたり4,000ドル前後で推移している。市場を動かしている要因は何だろうか？ - Vietnam.vn",
+    "timestamp": "2026-07-18T09:24:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,000ドル前後で推移している現状について、市場要因の解説記事。既に織り込まれた価格水準の背景分析であり、新たな価格変動要因は提示されていない。"
+  },
+  {
+    "title": "金価格の見通しは、金利上昇と中東情勢の緊張によって引き続き圧迫されている。 - Vietnam.vn",
+    "timestamp": "2026-07-18T08:09:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は金利上昇と中東情勢の緊張という2つの相反する要因に直面している。金利上昇はドル高を招き、金の機会コストを増加させて価格を圧迫している。一方で地政学的リスクは避難買いを支える要素となっている。"
+  },
+  {
+    "title": "WTI 原油先物3511【CL3511】株価掲示板｜投資家のコメント - Moomoo",
+    "timestamp": "2026-07-18T06:14:44+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomoo投資家掲示板でのWTI原油先物3511月限に関するコメント投稿。具体的なニュースイベントではなく、ユーザーの相場観や議論の集約。"
   }
 ]
