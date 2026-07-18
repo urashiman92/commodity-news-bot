@@ -121,28 +121,6 @@
     "summary": "米国とインドの貿易交渉が、ロシア石油制裁政策を巡る相違点によって複雑化する可能性がある。インドはロシア産石油への依存度が高く、米国の追加制裁脅威と相反する利益を抱えている。制裁強化となれば原油供給削減と価格上昇圧力につながる一方、交渉妥協なら制裁緩和で価格下落要因となりうる。"
   },
   {
-    "title": "Major Russian petrochemical plant halted on July 14 after drone attack, sources say - Reuters",
-    "timestamp": "2026-07-15T09:53:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの主要石油化学プラントが7月14日にドローン攻撃により停止した。ウクライナ紛争による供給制約が具体化し、ロシアの石油・ガス生産能力の脆弱性が露呈。地政学的リスク再評価により原油価格の上昇圧力が強まる。供給サイドのショックはコモディティ全般のインフレ圧力となる可能性がある。"
-  },
-  {
-    "title": "Major Russian petrochemical plant halted on July 14 after drone attack, sources say - Reuters",
-    "timestamp": "2026-07-15T09:53:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの主要石油化学プラントが7月14日にドローン攻撃により停止した。ウクライナ紛争による供給制約が具体化し、ロシアの石油・ガス生産能力の脆弱性が露呈。地政学的リスク再評価により原油価格の上昇圧力が強まる。供給サイドのショックはコモディティ全般のインフレ圧力となる可能性がある。"
-  },
-  {
     "title": "Oil Rises for Fourth Day as Hormuz Ship Attacks Threaten Supply - Bloomberg.com",
     "timestamp": "2026-07-16T01:38:00+00:00",
     "importance": 4,
@@ -394,5 +372,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナの無人機攻撃によりロシア・モスクワ地域の石油貯蔵施設で火災が発生し、7名の労働者が死亡した。ロシアの石油インフラへの直接的な攻撃は供給懸念を強め、原油価格の上昇圧力となる。地政学的リスクの顕在化により市場変動が拡大する可能性。"
+  },
+  {
+    "title": "Copper Price Forecast | US Tariffs and Import Exemption - Capital.com",
+    "timestamp": "2026-07-16T14:29:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "米国の追加関税政策と輸入除外措置が銅価格に影響を与える見通しについて解説。関税導入は銅需要の不確実性を高める一方、除外措置の範囲が銅製品の調達コストを左右する。短期的には地政学的リスク要因により銅価格の上昇圧力が生じている。"
   }
 ]
