@@ -1,16 +1,5 @@
 [
   {
-    "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-07-15T04:14:23+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "純金上場信託(1540)の株価情報ページの更新。現物国内保管型の金ETFの相場情報を提供するもの。特定のニュースイベントではなく定期的な情報配信。"
-  },
-  {
     "title": "原油価格リスクから自社を守る3つの戦略 - Forbes JAPAN",
     "timestamp": "2026-07-15T06:38:00+00:00",
     "importance": 2,
@@ -64,17 +53,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "7月15日の小麦先物が2.25%上昇した。具体的な材料が記事概要から不明だが、日次の相場動向解説と見られる。通常のボラティリティ範囲内の変動。"
-  },
-  {
-    "title": "ＣＰＩ発表後の金価格 - 三菱マテリアル",
-    "timestamp": "2026-07-15T04:22:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "三菱マテリアルがCPI発表後の金価格動向についての解説記事。CPI統計発表は予定された定期指標だが、本記事はその後の相場観測・コメンタリーの性質。"
   },
   {
     "title": "原油価格が2％上昇、イラン革命防衛隊が全輸出回廊の閉鎖警告 - ロイター",
@@ -2143,5 +2121,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米イラン間の対立激化により、銅価格が下落した。地政学的リスクの上昇に伴い、リスク資産としての銅が売られたと見られる。経済成長鈍化への懸念が価格押し下げ要因となった可能性。"
+  },
+  {
+    "title": "原油反発、米イラン戦闘激化を懸念－ブレント週間で4月以来の大幅高 - Bloomberg.com",
+    "timestamp": "2026-07-17T20:22:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの戦闘激化を受けて原油が反発し、ブレント原油が4月以来の大幅高を記録。中東の地政学的緊張が供給リスク要因として顕在化した。週間ベースで有意な上昇となっている。"
+  },
+  {
+    "title": "NYダウ406ドル安、原油高騰と半導体急落が直撃 ナスダックも361ポイント下落 - BigGo ファイナンス",
+    "timestamp": "2026-07-17T21:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが406ドル安となり、原油高騰と半導体セクターの急落が主要因となった。ナスダックも361ポイント下落。原油価格の上昇がコスト懸念を材料に売圧力となった。"
   }
 ]
