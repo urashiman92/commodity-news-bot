@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油価格の急騰はリスク資産への強気見通しを変えない＝HSBC 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-15T14:01:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "HSBCのアナリストが、最近の原油価格上昇にもかかわらずリスク資産への強気姿勢は変わらないとのコメントを発表。原油上昇が経済見通しの悪化シグナルとは見ていない見方を示唆。"
-  },
-  {
     "title": "本日7月15日の金価格は、上昇と下落が入り混じった奇妙な動きを見せている。 - Vietnam.vn",
     "timestamp": "2026-07-15T15:40:56+00:00",
     "importance": 1,
@@ -2143,5 +2132,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡封鎖リスクへの警告と、日本のエネルギー調達における中東依存リスクについての解説記事。地政学的リスク顕在化時の原油価格急騰への懸念を指摘。"
+  },
+  {
+    "title": "金価格は本日7月18日、大幅高で取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-07-18T13:22:01+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月18日の金価格が大幅高で取引を終えた。具体的な上昇要因や数値は記事概要に示されていない。市場の日々の値動きを述べたコモディティ相場解説。"
+  },
+  {
+    "title": "原油価格が急騰したことで、先週SJC金価格が1オンスあたり240万ベトナムドン下落した後、金価格への圧力がさらに高まった。 - Vietnam.vn",
+    "timestamp": "2026-07-18T13:28:02+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油価格の急騰により、金価格への下押し圧力が増加。先週SJC金はすでに1オンスあたり240万ベトナムドン下落している。ドル高と原油高の相関構造が金相場の重石となっている状況。"
   }
 ]
