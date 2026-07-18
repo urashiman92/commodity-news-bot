@@ -11,28 +11,6 @@
     "summary": "USDA NASSの養殖ナマズ生産統計で、養殖水面積が3%減少し、食用サイズ在庫も若干減少した。米国ナマズ産業の規模縮小傾向が継続しており、供給サイドの弱化が示唆されている。"
   },
   {
-    "title": "EIA Weekly Petroleum Report: Crude Stocks Down, Gasoline Prices Up as of July 10, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-07-15T17:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間石油レポート（2026年7月10日時点）で原油在庫が減少した一方、ガソリン価格は上昇。在庫減少は需要堅調またはOPEC減産の効果を示唆する一方、ガソリン価格上昇は製油所稼働率の制約やリファイナリー問題を反映している可能性。市場では供給逼迫懸念が価格を支える構図。"
-  },
-  {
-    "title": "EIA Weekly Petroleum Report: Crude Stocks Down, Gasoline Prices Up as of July 10, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-07-15T17:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間石油レポート（2026年7月10日時点）で原油在庫が減少した一方、ガソリン価格は上昇。在庫減少は需要堅調またはOPEC減産の効果を示唆する一方、ガソリン価格上昇は製油所稼働率の制約やリファイナリー問題を反映している可能性。市場では供給逼迫懸念が価格を支える構図。"
-  },
-  {
     "title": "Oil Rises for Fourth Day as Hormuz Ship Attacks Threaten Supply - Bloomberg.com",
     "timestamp": "2026-07-16T01:38:00+00:00",
     "importance": 4,
@@ -152,17 +130,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "HSBCがインド株式をアップグレードしたレポート。石油補助金リスクの低下がインド企業の収益見通しを改善する要因として注目されている。エネルギーコストの低減は企業利益率の向上につながり、インド経済の景気循環に好材料。"
-  },
-  {
-    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - EnergyNow.com",
-    "timestamp": "2026-07-15T17:58:57+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫報告によると、米国の原油在庫が約1年ぶりの高水準に上昇した。同時に輸出量と輸入量の双方が減少している。在庫積み上がりは供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす可能性がある。"
   },
   {
     "title": "US reviewing crude storage limits after Cushing OK inventory drained by war - The Oklahoman",
@@ -317,5 +284,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの農家が燃料危機とアゾフ海での攻撃の二重苦により、深刻な圧迫を受けている。燃料不足による農業生産活動の制限と、海上輸送ルートの遮断により、ロシアからの穀物輸出（特に小麦）が大幅に減少する懸念が高まっている。これは世界的な穀物供給逼迫につながる可能性がある。"
+  },
+  {
+    "title": "EIA Reports 1.7 Million Barrel US Crude Draw as Oil Traders Watch Geopolitical Risks - Yahoo Finance UK",
+    "timestamp": "2026-07-18T15:08:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の170万バレル減少を報告。在庫減少は需要堅調を示唆し、原油価格を支援する材料となる。一方、地政学的リスク（中東情勢など）が相場の変動要因として注視されており、供給懸念が価格を下支えしている状況。"
   }
 ]
