@@ -1,60 +1,5 @@
 [
   {
-    "title": "金価格下落、原油高によるインフレ懸念がFRBの見通しを左右 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-16T01:46:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が下落している。原油高によるインフレ懸念がFRBの金利見通しに影響を与えている。金は実質金利の上昇局面では売圧がかかる傾向。"
-  },
-  {
-    "title": "米PPI、予想外の低下で利上げ懸念が後退——NY金先物と現物はまちまちの展開 - BigGo ファイナンス",
-    "timestamp": "2026-07-16T01:06:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米PPI（生産者物価指数）が予想外に低下し、インフレ鈍化を示唆。FRBの利上げ継続懸念が後退し、金利低下期待から金相場は上昇基調。ただし金先物と現物で値動きがまちまちな状況。"
-  },
-  {
-    "title": "原油先物4日続伸、米イラン攻撃で紛争拡大懸念高まる - ニューズウィーク日本版",
-    "timestamp": "2026-07-16T01:10:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるイラン攻撃で中東紛争の拡大懸念が高まり、原油先物が4日連続で上昇。地政学リスクが価格を押し上げている。供給途絶の可能性が市場の注目焦点。"
-  },
-  {
-    "title": "原油先物4日続伸、米イラン攻撃で紛争拡大懸念高まる - ｄメニューニュース",
-    "timestamp": "2026-07-16T01:10:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるイラン攻撃により中東紛争拡大への懸念が高まっている。原油先物は4日連続で上昇し、地政学的リスクプレミアムが価格に反映されている。供給途絶リスクの認識が強まっている。"
-  },
-  {
-    "title": "本日の燃料価格（7月16日）：世界の原油価格は引き続き小幅上昇しています。 - Vietnam.vn",
-    "timestamp": "2026-07-16T01:33:47+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの燃料価格レポートで、世界原油価格が小幅上昇との観測記事。具体的な新規材料や価格データを示さない定期的な相場解説。"
-  },
-  {
     "title": "天候不順が供給に圧力をかけ、小麦とゴムの価格が共に上昇している。 - Vietnam.vn",
     "timestamp": "2026-07-16T04:39:17+00:00",
     "importance": 3,
@@ -64,39 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "ベトナムで天候不順が発生し、小麦とゴムの供給に圧力がかかっている。この気象イベントにより両商品の価格が上昇している。既知の気象要因による供給懸念の報道。"
-  },
-  {
-    "title": "米PPI予想外の低下で金価格、4,000ドルの大台を辛くも維持——専門家「この水準は強気と弱気の分水嶺」 - BigGo ファイナンス",
-    "timestamp": "2026-07-16T02:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米PPIが予想外に低下し、インフレ沈静化を示唆。金価格は4,000ドルの重要レベルを辛うじて維持。専門家は同水準を強弱の分水嶺と指摘。"
-  },
-  {
-    "title": "世界の金価格は変動したが、原油価格は4営業日連続で上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-16T02:41:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は変動したが方向性は明確でない。原油価格は4営業日連続上昇と堅調。エネルギー市場の強気基調が続く。"
-  },
-  {
-    "title": "本日（7月16日）の金価格：下落傾向 - Vietnam.vn",
-    "timestamp": "2026-07-16T02:51:42+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月16日時点で金価格が下落傾向にあることを報じるニュース。具体的な下落要因や数値が明記されていない。市場概況の日次レポートと考えられる。"
   },
   {
     "title": "インフレ率の低下にもかかわらず、金価格は反転上昇に転じた。市場は何を待っているのか？ - Vietnam.vn",
@@ -110,50 +22,6 @@
     "summary": "インフレ率の低下局面でも金価格が反転上昇。市場が注視する背景要因について解説。インフレ鈍化とは別の支援要因（金利低下期待、地政学リスク、ドル弱含みなど）が金買いを促進。"
   },
   {
-    "title": "米イラン衝突で原油価格が約18%急騰、台湾プラスチックグループ（台塑化）株価が70台湾ドル突破で2年ぶり高値 - BigGo ファイナンス",
-    "timestamp": "2026-07-16T02:47:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン衝突により原油価格が約18%の急騰を記録した。地政学的リスク（ペルシャ湾の供給途絶懸念）により、WTI原油の急速な上昇が発生。石油関連産業（台塑化など）の株価も連動して2年ぶり高値を更新。"
-  },
-  {
-    "title": "米国株見通し：伸び悩みか、小売売上高と原油相場を注視 - ｄメニューニュース",
-    "timestamp": "2026-07-16T04:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株の見通しについての解説記事。小売売上高と原油相場が注視対象とされている。具体的な新規情報や統計発表ではなく、マーケット観測の記事。"
-  },
-  {
-    "title": "銅価格が50％以上急落し、銅地金を保有することで利益を得ようとしていた投資家の期待は打ち砕かれた。 - Vietnam.vn",
-    "timestamp": "2026-07-16T02:09:34+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が50%以上の急落を記録し、銅地金への投機的需要が大きく減少した。既に発生した価格下落の事後的な解説記事で、投資家の期待値喪失を報告している。市場では銅需要弱化やドル強化などの構造的要因が背景と考えられる。"
-  },
-  {
-    "title": "2019年4月 湘南ベルマーレ対サガン鳥栖 平成最後の大遠征！猫の島、北九州。広教を見にアビスパの試合。そして感動の鳥栖戦！遠征はいいぞ！～前編～ Copper Price (jEcLE0H39s) - Mshale",
-    "timestamp": "2026-07-16T03:36:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "このニュースはJリーグの試合遠征記事であり、銅価格や商品市場とは無関係のスポーツブログエントリです。カテゴリ「銅」との整合性がなく、コモディティ投資情報として価値がありません。"
-  },
-  {
     "title": "歴史的な下落の後、金価格は2026年に新たな最高値を更新する可能性はまだあるのだろうか？ - Vietnam.vn",
     "timestamp": "2026-07-16T05:47:31+00:00",
     "importance": 2,
@@ -163,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が歴史的な下落後に2026年に新高値を更新できるかについての分析記事。価格見通しに関する解説コメンタリーで、既知の過去の値動きを踏まえた予測論。"
-  },
-  {
-    "title": "米国株見通し：伸び悩みか、小売売上高と原油相場を注視 提供 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-16T04:15:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株見通しについて、小売売上高と原油相場が注視されている。原油相場は米国株のシナリオに影響を与える要因として言及されている。具体的な価格見通しやショックは記事概要には含まれていない。"
   },
   {
     "title": "チリ政府、26年成長率見通し1.8％に下げ 銅価格予想は上方修正 - ロイター",
@@ -253,39 +110,6 @@
     "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の木曜日時点での相場報告。市場の現状を伝える定期的な価格情報記事。"
   },
   {
-    "title": "米国株見通し：伸び悩みか、小売売上高と原油相場を注視 - 株探",
-    "timestamp": "2026-07-16T04:00:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株の見通しについての解説記事。小売売上高と原油相場が注視されるポイントとして言及されている。具体的なニュース発表ではなく、相場見通しの論評。"
-  },
-  {
-    "title": "本日7月16日の燃料価格：世界の原油価格が上昇、国内価格は本日午後調整予定。 - Vietnam.vn",
-    "timestamp": "2026-07-16T01:34:56+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格が上昇傾向。ベトナムの国内燃料価格は本日午後に定期調整予定。国際価格の上昇が国内価格に波及する見通し。"
-  },
-  {
-    "title": "原油が4日続伸、1カ月ぶりの高値圏－米イラン攻撃継続で再び供給懸念 - Bloomberg.com",
-    "timestamp": "2026-07-16T01:21:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるイラン攻撃が継続し、中東での供給途絶リスクが再燃している。原油は4日連続で上昇し、1ヶ月ぶりの高値圏に位置している。地政学的リスクプレミアムが相場を支持している。"
-  },
-  {
     "title": "原油価格が上昇、地政学リスク緩和と供給増が市場を押し上げる - Межа. Новини України.",
     "timestamp": "2026-07-16T05:50:22+00:00",
     "importance": 3,
@@ -339,28 +163,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "世界市場がより深刻な原油価格ショックの可能性を懸念している状況を報じている。地政学的リスクや供給逼迫への警戒感が高まっていることを示唆。"
-  },
-  {
-    "title": "原油価格が反発し、約1か月ぶりの高値を付けたものの、短期的にはまだ強気転換は見られず、下落に警戒が必要です。 - Moomoo",
-    "timestamp": "2026-07-16T02:30:35+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が約1か月ぶりの高値まで反発した。ただし短期的には強気転換のシグナルは確認されていない。下落リスクへの警戒が必要との見方が示されている。"
-  },
-  {
-    "title": "原油先物4日続伸、米イラン攻撃で紛争拡大懸念高まる（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-07-16T01:10:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるイラン攻撃により中東紛争拡大への懸念が高まり、原油先物が4日連続で上昇。地政学的リスク要因が原油市場に直結し、供給途絶リスクが意識される。"
   },
   {
     "title": "自社株買いなのに株価暴落！？投資家が「JX金属のCB発行」に激怒した「3つのちぐはぐ」とは？#日本株 #JX金属 #半導体株 #AI関連株 #銅価格 14th Amendment (MCscPnT8Yt) - Mshale",
@@ -2099,5 +1901,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの国内燃料価格が急騰したが、原油価格自体は予測不能な状況が続いている。地域レベルのインフレ圧力を示す事例。"
+  },
+  {
+    "title": "本日7月19日の金価格：金価格は1オンスあたり4,000ドル前後で推移。今後はどうなるのか？ - Vietnam.vn",
+    "timestamp": "2026-07-19T03:14:56+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり4,000ドル前後で推移していることを報じるニュース。現在の価格水準の確認と今後の見通しに関する解説記事。"
+  },
+  {
+    "title": "本日（7月19日）の金価格：ウォール街は貴金属の見通しについて悲観的。 - Vietnam.vn",
+    "timestamp": "2026-07-19T01:02:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ウォール街のアナリストが金を含む貴金属の見通しについて悲観的姿勢を示している。市場コンセンサスの反映であり、既に価格に織り込まれている可能性が高い。"
+  },
+  {
+    "title": "重要な週を前に、金価格は4000ドル台を維持できるのか、それとも下落するのか？ - Vietnam.vn",
+    "timestamp": "2026-07-19T01:00:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4000ドル水準を維持できるか否かについての相場観・解説記事。具体的な新規材料や経済指標の発表は含まれていない。"
+  },
+  {
+    "title": "7月19日の金価格：全般的に上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-19T01:11:22+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月19日の金価格が全般的に上昇した。具体的な上昇要因や価格水準の詳細は記事概要からは不明。日次の相場動きを簡潔に報じたニュース。"
+  },
+  {
+    "title": "アメリカとイランの戦闘終結合意の発表 トランプ大統領「石油は再び世界に供給される」 原油価格高騰で苦しむクリーニング店… ｢素直にうれしい｣ ホルムズ海峡の開放は実現するのか - TBS NEWS DIG",
+    "timestamp": "2026-07-18T20:32:19+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの戦闘終結合意が発表され、トランプ大統領が石油供給再開を言及。ホルムズ海峡の地政学的リスク軽減により、原油価格下落圧力が生じる。中東紛争リスク低下に伴う供給懸念の後退が価格押し下げ要因。"
+  },
+  {
+    "title": "今日のガソリン価格 7月19日:世界の原油価格が15%以上上昇 - Laodong.vn",
+    "timestamp": "2026-07-19T02:04:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月19日時点で世界の原油価格が15%以上上昇したことを報じたニュース。ベトナムのメディアがガソリン価格の動向として報道。具体的な上昇要因は記事から不明。"
   }
 ]
