@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（2026年7月16日）の金価格：SJCの金価格は上昇、金リングは下落圧力にさらされる。 - Vietnam.vn",
-    "timestamp": "2026-07-15T23:46:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場で7月16日、SJC金価格は上昇、金リングは下落圧力を受けているとの日次相場解説。地域限定的な市場動向を報じている。"
-  },
-  {
-    "title": "米原油在庫の減少幅が予想下回る、原油価格の上昇一服 市場は米イラン衝突を冷視 - BigGo ファイナンス",
-    "timestamp": "2026-07-15T23:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国EIA週間在庫統計で原油在庫の減少幅が予想を下回った。市場は既に値上がりが進行していたため、弱い統計で上昇の勢いが一服。米イラン衝突を巡る地政学的懸念も織り込み不十分で軽視されている。"
-  },
-  {
     "title": "金価格下落、原油高によるインフレ懸念がFRBの見通しを左右 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-16T01:46:00+00:00",
     "importance": 3,
@@ -42,28 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米PPI（生産者物価指数）が予想外に低下し、インフレ鈍化を示唆。FRBの利上げ継続懸念が後退し、金利低下期待から金相場は上昇基調。ただし金先物と現物で値動きがまちまちな状況。"
-  },
-  {
-    "title": "7月16日の金価格：全般的に上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-16T00:57:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月16日時点の金価格が全般的に上昇したというニュース。具体的な上昇率や要因は記事から不明。市場トレンドの事後的な観測・報告と考えられる。"
-  },
-  {
-    "title": "7月16日午前、世界の金価格は4000ドル前後で安定していた。 - Vietnam.vn",
-    "timestamp": "2026-07-16T00:20:49+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月16日午前時点で金価格が4000ドル前後で推移していることを報じたニュース。特定の価格変動や新規イベント情報は含まれていない。"
   },
   {
     "title": "原油先物4日続伸、米イラン攻撃で紛争拡大懸念高まる - ニューズウィーク日本版",
@@ -97,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの燃料価格レポートで、世界原油価格が小幅上昇との観測記事。具体的な新規材料や価格データを示さない定期的な相場解説。"
-  },
-  {
-    "title": "XRPL、カストディ型トークン化コモディティで7割超 市場全体はEthereumが首位 - 디지털투데이",
-    "timestamp": "2026-07-16T00:52:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "XRPLがカストディ型トークン化コモディティ市場で70%超のシェアを占めている一方、全体ではEthereumが首位。ブロックチェーン上のコモディティトークン化の進展を示す市場動向。"
   },
   {
     "title": "天候不順が供給に圧力をかけ、小麦とゴムの価格が共に上昇している。 - Vietnam.vn",
@@ -2121,5 +2066,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ニューヨーク原油が83ドルを突破し日中で1.5%上昇した。エネルギー市場全体への波及効果を指摘する相場解説。"
+  },
+  {
+    "title": "2026年7月19日、今日の金価格：SJCの金価格が再び急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-19T00:01:09+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が再び上昇した。市場は継続的な金買い圧力を示唆している。具体的な上昇率や市場材料の詳細は不明。"
+  },
+  {
+    "title": "本日（7月19日）の金価格：価格は全般的に急上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-19T00:01:08+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月19日の金価格が全般的に急上昇したことを報じるニュース。具体的な上昇要因や市場背景の詳細は記事概要から不明。相場の値動きに関する観測記事と推定される。"
+  },
+  {
+    "title": "本日（7月19日）の燃料価格：原油価格は予測不能、国内価格は急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-19T00:01:08+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの国内燃料価格が急騰したが、原油価格自体は予測不能な状況が続いている。地域レベルのインフレ圧力を示す事例。"
   }
 ]
