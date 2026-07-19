@@ -1,82 +1,5 @@
 [
   {
-    "title": "天候不順が供給に圧力をかけ、小麦とゴムの価格が共に上昇している。 - Vietnam.vn",
-    "timestamp": "2026-07-16T04:39:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ベトナムで天候不順が発生し、小麦とゴムの供給に圧力がかかっている。この気象イベントにより両商品の価格が上昇している。既知の気象要因による供給懸念の報道。"
-  },
-  {
-    "title": "インフレ率の低下にもかかわらず、金価格は反転上昇に転じた。市場は何を待っているのか？ - Vietnam.vn",
-    "timestamp": "2026-07-16T04:43:23+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インフレ率の低下局面でも金価格が反転上昇。市場が注視する背景要因について解説。インフレ鈍化とは別の支援要因（金利低下期待、地政学リスク、ドル弱含みなど）が金買いを促進。"
-  },
-  {
-    "title": "歴史的な下落の後、金価格は2026年に新たな最高値を更新する可能性はまだあるのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-07-16T05:47:31+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が歴史的な下落後に2026年に新高値を更新できるかについての分析記事。価格見通しに関する解説コメンタリーで、既知の過去の値動きを踏まえた予測論。"
-  },
-  {
-    "title": "チリ政府、26年成長率見通し1.8％に下げ 銅価格予想は上方修正 - ロイター",
-    "timestamp": "2026-07-16T05:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "チリ政府が2026年の経済成長率見通しを1.8%に下方修正する一方、銅価格見通しは上方修正した。チリは世界最大の銅産出国であり、銅需要と供給の見方が相反する市場シグナルを発している。"
-  },
-  {
-    "title": "チリ政府、26年成長率見通し1.8％に下げ 銅価格予想は上方修正 - ニューズウィーク日本版",
-    "timestamp": "2026-07-16T05:59:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "チリ政府が2026年経済成長率見通しを1.8%に下げた一方、銅価格見通しは上方修正。国内経済弱含みも、世界的な銅需給引き締まりへの期待が価格上昇を支える。"
-  },
-  {
-    "title": "チリ政府、26年成長率見通し1.8％に下げ　銅価格予想は上方修正 - ｄメニューニュース",
-    "timestamp": "2026-07-16T05:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "チリ政府が2026年成長率見通しを1.8%に下方修正。一方、銅価格見通しは上方修正されており、経済減速懸念を部分的に相殺。チリは世界最大級の銅生産国のため、価格上昇予想は供給側にとって好材料。"
-  },
-  {
-    "title": "供給不足を背景に、小麦価格が急騰した。 - Vietnam.vn",
-    "timestamp": "2026-07-16T05:33:31+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "小麦の供給不足が顕在化し、価格が急騰している。主要産地での天候悪化や地政学的な供給制約が背景と推定される。実需とロング・ポジションの双方で買い圧力が高まる可能性。"
-  },
-  {
     "title": "本日（7月16日）の最新金価格：予想外の反転と下落。 - Vietnam.vn",
     "timestamp": "2026-07-16T07:50:57+00:00",
     "importance": 2,
@@ -108,28 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の木曜日時点での相場報告。市場の現状を伝える定期的な価格情報記事。"
-  },
-  {
-    "title": "原油価格が上昇、地政学リスク緩和と供給増が市場を押し上げる - Межа. Новини України.",
-    "timestamp": "2026-07-16T05:50:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "地政学リスク緩和と供給増加が原油価格上昇を支援。市場のセンチメント改善と供給サイドの好材料が組み合わさった相場観。既知の要因の延長線上での解説記事。"
-  },
-  {
-    "title": "チリ政府、26年成長率見通し1.8％に下げ 銅価格予想は上方修正（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-07-16T05:59:02+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "チリ政府が2026年の経済成長率見通しを1.8%に下方修正した。一方、銅価格見通しは上方修正。成長率低下は国内需要減を示唆するが、銅価格上方修正は需給引き締まり見通しを反映。"
   },
   {
     "title": "2026年7月16日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -1967,5 +1868,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "7月19日時点で世界の原油価格が15%以上上昇したことを報じたニュース。ベトナムのメディアがガソリン価格の動向として報道。具体的な上昇要因は記事から不明。"
+  },
+  {
+    "title": "Gold Price on 02 July 2026 - Gold Price",
+    "timestamp": "2026-07-19T01:31:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月2日時点の金価格に関する情報提供記事。具体的な価格データや市場分析は不明。定期的な価格情報の配信と推定される。"
+  },
+  {
+    "title": "本日（7月19日）の最新金価格：低水準を維持し、闇市場価格は「価値を失う」 - Vietnam.vn",
+    "timestamp": "2026-07-19T05:58:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が低水準を維持している状況を報じるニュース。闇市場価格が「価値を失う」という表現から、国内市場での金需要や投機熱の冷え込みが示唆されている。"
+  },
+  {
+    "title": "本日（7月19日午後）の金価格：国内の金価格は安定しています。 - Vietnam.vn",
+    "timestamp": "2026-07-19T05:33:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が安定しているという現状報告。国内市場の状況を伝えるコモディティニュース。市場全体への影響は限定的。"
+  },
+  {
+    "title": "本日（7月19日）の燃料価格：今週、世界の原油価格が急騰し、国内価格も上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-19T02:12:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの7月19日付燃料価格レポート。世界原油価格の週間上昇を受け、国内燃料価格も連動して上昇。地域的な価格動向の確認記事。"
   }
 ]
