@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の金価格は予想外にも1オンスあたり4000ドルを下回った。 - Vietnam.vn",
-    "timestamp": "2026-07-16T16:10:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4000ドルを下回った。市場予想では4000ドル超の維持が想定されていたが、予想外に下落。テクニカルレベルの破壊は重要なシグナル。"
-  },
-  {
     "title": "金価格に弱気転換か 2023年以来の週足売りシグナル - BeInCrypto",
     "timestamp": "2026-07-16T19:54:27+00:00",
     "importance": 3,
@@ -1736,5 +1725,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格がネガティブなニュースに直面しており、底打ちの可能性が指摘されている。市場は新たなきっかけ待ちの状況。具体的なニュース内容や価格水準の記載がない。"
+  },
+  {
+    "title": "金価格が4000ドルを割り込んだ理由、ドル高の先に待つ3000ドル台からの反転シナリオ - JBpress",
+    "timestamp": "2026-07-18T22:15:49+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4000ドルを割り込んだ理由をドル高との関係で解説する記事。アナリストが3000ドル台からの反転シナリオを提示しており、現在の下落は既知の要因（ドル強気）による。"
   }
 ]
