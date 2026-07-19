@@ -99,17 +99,6 @@
     "summary": "ウクライナの無人機攻撃によりロシア・モスクワ地域の石油貯蔵施設で火災が発生し、7名の労働者が死亡した。ロシアの石油インフラへの直接的な攻撃は供給懸念を強め、原油価格の上昇圧力となる。地政学的リスクの顕在化により市場変動が拡大する可能性。"
   },
   {
-    "title": "Copper Price Forecast | US Tariffs and Import Exemption - Capital.com",
-    "timestamp": "2026-07-16T14:29:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "米国の追加関税政策と輸入除外措置が銅価格に影響を与える見通しについて解説。関税導入は銅需要の不確実性を高める一方、除外措置の範囲が銅製品の調達コストを左右する。短期的には地政学的リスク要因により銅価格の上昇圧力が生じている。"
-  },
-  {
     "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
     "timestamp": "2026-07-17T22:28:00+00:00",
     "importance": 4,
@@ -163,5 +152,16 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の170万バレル減少を報告。在庫減少は需要堅調を示唆し、原油価格を支援する材料となる。一方、地政学的リスク（中東情勢など）が相場の変動要因として注視されており、供給懸念が価格を下支えしている状況。"
+  },
+  {
+    "title": "Little reaction in durum market to USDA reports - AgUpdate",
+    "timestamp": "2026-07-19T11:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAの穀物関連レポート発表後もデュラム小麦市場の反応が限定的であったことを報じている。市場参加者の関心が低いか、事前予想の範囲内の内容だったと推測される。デュラム小麦は小麦市場の中でもニッチセグメントであり、大きな価格変動には至らなかった。"
   }
 ]
