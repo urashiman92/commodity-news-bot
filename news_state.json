@@ -1,38 +1,5 @@
 [
   {
-    "title": "ニューヨーク原油先物市場概況･16日 4日ぶりに反落 - Moomoo",
-    "timestamp": "2026-07-16T20:46:01+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ニューヨーク原油先物が4日ぶりに反落。具体的な反落率や下落要因は記載されていない。市場の定期的な値動きの振り返り記事。"
-  },
-  {
-    "title": "銅価格高騰で太陽光パネルが標的に 三重県内でケーブル盗難急増、5月末時点で被害100件超え - 中日新聞Web",
-    "timestamp": "2026-07-16T20:10:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格高騰に伴い、太陽光パネルの銅ケーブルが盗難の対象になっている。三重県で5月末時点で100件超の盗難被害が報告されており、銅の需要と価格圧力が実社会で顕在化している。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況・16日 続落 - Moomoo",
-    "timestamp": "2026-07-16T20:53:53+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物が16日に続落した。市場の振り返り・解説記事で、具体的な下落要因は記事概要からは不明。"
-  },
-  {
     "title": "2026年7月17日朝の金価格：SJC金価格、9999金リング価格、および金曜日の世界金価格。 - Vietnam.vn",
     "timestamp": "2026-07-16T22:16:02+00:00",
     "importance": 1,
@@ -53,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が7月17日に公式に4,000ドルを下回った。この心理的節目の突破は価格下落トレンドの継続を示唆している。具体的な新規要因の報告はなく、既存のトレンドの確認的なニュース。"
-  },
-  {
-    "title": "【速報】日経平均株価反発 原油先物上昇も半導体銘柄中心に買い進む - ABEMA",
-    "timestamp": "2026-07-16T20:22:15+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日経平均が反発し原油先物も上昇したが、市場の主役は半導体銘柄。原油は株価上昇の付随的な値動きに過ぎない相場展開。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し3976ドル｜ドルインデックスの上昇やイラン情勢の悪化が影響し、売り優勢の模様(2026年7月17日) - OANDA証券",
@@ -1714,5 +1670,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油が82ドル台まで上昇し1ヶ月ぶりの高値を更新。米イラン対立の緊張激化が買い要因。地政学リスク再評価による供給懸念が相場を押し上げている。"
+  },
+  {
+    "title": "原油価格が高騰しても国民の負担7000億円節約できた？ 再エネへの投資、最大限進めていたとして試算 - 東京新聞デジタル",
+    "timestamp": "2026-07-19T21:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "再生可能エネルギーへの最大投資により、原油高騰時に国民負担7000億円の削減が可能だったとの試算。エネルギー政策のシナリオ分析であり、実現した事実ではなく仮定的な主張。"
   }
 ]
