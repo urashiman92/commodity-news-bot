@@ -1,27 +1,5 @@
 [
   {
-    "title": "2026年7月17日朝の金価格：SJC金価格、9999金リング価格、および金曜日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-16T22:16:02+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の朝時点での相場情報を報道。定期的な市場価格の報告記事。"
-  },
-  {
-    "title": "本日（7月17日）の金価格：公式に4,000ドルを下回った。 - Vietnam.vn",
-    "timestamp": "2026-07-16T21:47:27+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が7月17日に公式に4,000ドルを下回った。この心理的節目の突破は価格下落トレンドの継続を示唆している。具体的な新規要因の報告はなく、既存のトレンドの確認的なニュース。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し3976ドル｜ドルインデックスの上昇やイラン情勢の悪化が影響し、売り優勢の模様(2026年7月17日) - OANDA証券",
     "timestamp": "2026-07-16T23:03:53+00:00",
     "importance": 3,
@@ -75,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油はポジション調整に伴い4営業日ぶりに下落した。市場技術的な利益確定売りが発生した。実需・ファンダメンタルズ要因ではなく、相場の自動調整局面である。"
-  },
-  {
-    "title": "【トランプの誤算】米戦略石油備蓄は43年ぶりの低水準に。ホルムズ海峡の再封鎖で米国が窮地に陥る理由 - JBpress",
-    "timestamp": "2026-07-16T22:18:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の戦略石油備蓄（SPR）が43年ぶりの低水準に低下している。ホルムズ海峡の再封鎖リスクが顕在化した場合、供給不足に対応する緩衝能力が大幅に低下している状態。地政学的緊張下での供給リスク管理能力の弱化が注目点。"
   },
   {
     "title": "本日（7月17日）の原油価格：下落傾向にあるものの、依然として1ヶ月ぶりの高値水準にある。 - Vietnam.vn",
@@ -1681,5 +1648,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "再生可能エネルギーへの最大投資により、原油高騰時に国民負担7000億円の削減が可能だったとの試算。エネルギー政策のシナリオ分析であり、実現した事実ではなく仮定的な主張。"
+  },
+  {
+    "title": "今日の金価格（7月20日）：変動が激しいが、買うべきか売るべきか？ - Vietnam.vn",
+    "timestamp": "2026-07-19T22:07:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が7月20日時点で変動が激しい状況。買い売りの判断を求めるコメンタリー記事。具体的な価格変動幅や要因は記事概要では不明。"
+  },
+  {
+    "title": "2026年7月20日朝の金価格：SJC金価格、9999金リング価格、および週初めの世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-19T22:09:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金、9999金リング）と週初めの世界金価格に関する定期的な価格情報提供。市場動向の単なる報道で、新規材料を含まない。"
+  },
+  {
+    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-07-19T20:30:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WisdomTree WTI原油上場投信（1690）の株価・株式情報ページの更新。特定の新規ニュースイベントではなく、投信の基本情報・価格データの定期更新と考えられる。"
   }
 ]
