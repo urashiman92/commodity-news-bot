@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界はより深刻な原油価格ショックを懸念している。 - Vietnam.vn",
-    "timestamp": "2026-07-16T11:06:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界市場がより深刻な原油価格ショックの可能性を懸念している状況を報じている。地政学的リスクや供給逼迫への警戒感が高まっていることを示唆。"
-  },
-  {
     "title": "ロシアとウクライナ、黒海・アゾフ海で船舶攻撃 小麦価格急騰 - ロイター",
     "timestamp": "2026-07-16T12:39:44+00:00",
     "importance": 4,
@@ -207,17 +196,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン間の軍事紛争激化によりホルムズ海峡の封鎖リスクが顕在化。国際原油価格が9%超上昇し5年ぶりの大幅上昇率を記録。中東地政学リスクが急速に高まった。"
-  },
-  {
-    "title": "【JX金属】AIデータセンター向け先端素材が好調！AI投資とEV需要による銅価格上昇も追い風！ Man On Fire Netflix (LsKrZVddP7) - Mshale",
-    "timestamp": "2026-07-16T10:52:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属のAIデータセンター向け先端素材が好調であり、AI投資とEV需要の両面から銅価格上昇の追い風を受けている。同社の関連事業が複数の成長セクターから恩恵を受ける構造にある。"
   },
   {
     "title": "ニューヨーク原油先物市場概況･16日 4日ぶりに反落 - Moomoo",
@@ -1857,5 +1835,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格終値リスト（2026年7月19日午後）。複数の金取扱業者（BTMC、DOJI等）の週末終値を記載したニュース。市場動向の分析材料なし。"
+  },
+  {
+    "title": "ECB会合が金価格市場の注目を集める - Laodong.vn",
+    "timestamp": "2026-07-19T10:51:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ECB（欧州中央銀行）の定例会合が金市場の注目を集めている。金利決定が金価格に直結する重要なイベント。ドル/ユーロ相場への影響も金相場の変動要因となる。"
+  },
+  {
+    "title": "国際原油高で原油ETFが10%急騰、半導体・中国ハイテク株は2桁の急落 - BigGo ファイナンス",
+    "timestamp": "2026-07-19T11:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油が上昇し、原油ETFが10%急騰した。同時に半導体や中国ハイテク株が2桁下落し、セクター間で異なる動きが見られた。原油高はエネルギー関連の投資家にとって注視対象。"
   }
 ]
