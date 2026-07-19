@@ -1,82 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し3976ドル｜ドルインデックスの上昇やイラン情勢の悪化が影響し、売り優勢の模様(2026年7月17日) - OANDA証券",
-    "timestamp": "2026-07-16T23:03:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3976ドルまで下落した。ドルインデックスの上昇とイラン情勢の悪化が売り圧力となった。市場は売り優勢の展開が続いている。"
-  },
-  {
-    "title": "本日7月17日の金価格：SJC、BTMC、DOJI、PNJは、世界の金価格と同様に急落するのか？ - Vietnam.vn",
-    "timestamp": "2026-07-16T23:15:42+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が世界相場に連動して急落する可能性についての言及。現地の金販売企業（SJC、BTMC、DOJI、PNJ）の価格動向を注視する報道。"
-  },
-  {
-    "title": "本日（7月17日）の金価格：国内および海外の金価格はともに下落。 - Vietnam.vn",
-    "timestamp": "2026-07-16T22:48:11+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月17日の金価格は国内外ともに下落した。ベトナムの金市場における日次の値動き報告。予想外の材料は不明。"
-  },
-  {
-    "title": "ドル円午前の為替予想、原油価格急騰後の消費者心理に注目 2026/7/17 - 外為どっとコム",
-    "timestamp": "2026-07-16T22:49:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の急騰後における消費者心理の変化に注目するというコモディティ関連の為替解説記事。ドル円相場と原油市場の連動性を論じたもの。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：ポジション調整の動きが発生し、原油価格は4営業日ぶりに下落（2026年7月17日） - OANDA証券",
-    "timestamp": "2026-07-16T23:10:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油はポジション調整に伴い4営業日ぶりに下落した。市場技術的な利益確定売りが発生した。実需・ファンダメンタルズ要因ではなく、相場の自動調整局面である。"
-  },
-  {
-    "title": "本日（7月17日）の原油価格：下落傾向にあるものの、依然として1ヶ月ぶりの高値水準にある。 - Vietnam.vn",
-    "timestamp": "2026-07-16T22:38:06+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月17日の原油価格は下落傾向を示しているものの、依然として過去1ヶ月間の高値水準を維持している。相場の振り返り・解説的なニュース報道。"
-  },
-  {
-    "title": "１６日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-16T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "16日の主要国際商品市況についての報道。具体的な価格変動や材料が記事本文では不明。定期的な市況報告の一環と考えられる。"
-  },
-  {
     "title": "7月17日の金価格：全般的に下落。 - Vietnam.vn",
     "timestamp": "2026-07-17T00:47:10+00:00",
     "importance": 2,
@@ -110,17 +33,6 @@
     "summary": "2026年7月17日の金相場で、ベトナム国内（SJC）の金価格は小幅下落。一方、世界的な金価格は急落している状況。"
   },
   {
-    "title": "【トランプの誤算】米戦略石油備蓄は43年ぶりの低水準に。ホルムズ海峡の再封鎖で米国が窮地に陥る理由 - JBpress",
-    "timestamp": "2026-07-16T22:33:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の戦略石油備蓄（SPR）が43年ぶりの低水準に低下。ホルムズ海峡再封鎖時のエネルギー安全保障リスクが顕在化。トランプ前政権の政策決定が現政権で課題となっている。"
-  },
-  {
     "title": "FX/為替「ドル/円今日の見通し｜原油価格急騰後の消費者心理に注目」 外為どっとコム トゥデイ 2026年7月17日号 - 外為どっとコム",
     "timestamp": "2026-07-16T23:29:36+00:00",
     "importance": 2,
@@ -141,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "7月17日の世界原油価格は反転し小幅下落した。日次の価格変動を伝える定型ニュース。ファンダメンタルズ変化の報告ではなく相場の振り返り。"
-  },
-  {
-    "title": "１６日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-16T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "16日の主要国際商品市況の市場レビュー記事。具体的な価格変動やニュースの詳細内容が概要に示されていない。"
   },
   {
     "title": "本日（7月17日）の金価格：全般的に下落。 - Vietnam.vn",
@@ -328,17 +229,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が急騰する一方で、金と銀が売却されている。原油上昇による実質金利の上昇が、非利息資産である貴金属から資金をシフトさせている可能性がある。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-16T22:25:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油、貴金属、農産物が広範囲に下落。複数資産の同時下落は需要懸念やドル高を示唆。具体的な下落率や要因については記事本文の確認が必要。"
   },
   {
     "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
@@ -1681,5 +1571,137 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WisdomTree WTI原油上場投信（1690）の株価・株式情報ページの更新。特定の新規ニュースイベントではなく、投信の基本情報・価格データの定期更新と考えられる。"
+  },
+  {
+    "title": "金価格は4000ドルを試す局面に入っている。 - Vietnam.vn",
+    "timestamp": "2026-07-19T22:43:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4000ドルの大台を試す段階に入ったとの観測記事。インフレ懸念や地政学リスク、低実質金利環境が金の買い需要を支援している可能性が高い。"
+  },
+  {
+    "title": "週明けの金価格は原油と金利から圧力を受ける - Laodong.vn",
+    "timestamp": "2026-07-19T23:14:58+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "週明けの金価格は原油高と米国金利上昇の二重の圧力を受ける見通し。ドル強化と実質金利上昇が金の買い魅力を減少させる要因。市場は既知のマクロ環境の延長線で反応。"
+  },
+  {
+    "title": "金価格は今週も下落が続くと予想されている。 - Vietnam.vn",
+    "timestamp": "2026-07-19T22:27:31+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は今週も下落が続くと予想されている。アナリスト観測による相場見通しの報道。特定の材料や統計に基づかない一般的な市場解説。"
+  },
+  {
+    "title": "本日（7月20日）の金価格：横ばい。 - Vietnam.vn",
+    "timestamp": "2026-07-19T22:57:28+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月20日の金価格は横ばいで推移したとの報道。ベトナム発の相場振り返り報道で、特定の新規情報や供給・需要の急変は含まれていない。"
+  },
+  {
+    "title": "本日7月20日の金価格：SJC、BTMC、DOJI、PNJは世界の金価格と連動して下落しているのか？ - Vietnam.vn",
+    "timestamp": "2026-07-19T23:15:38+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売業者（SJC、BTMC、DOJI、PNJ）の金価格が、世界の金価格下落に連動して下げている。ローカル市場の価格動向を確認するニュース。"
+  },
+  {
+    "title": "NY原油市場 1バレル＝85ドル台に上昇 1か月ぶりの高値水準 - NHKニュース",
+    "timestamp": "2026-07-19T23:02:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油が1バレル=85ドル台に上昇し1か月ぶりの高値水準に達した。市場が既に認識している需給動向や地政学的リスクが反映された値動きと見られる。"
+  },
+  {
+    "title": "本日（7月20日）の燃料価格：世界の原油価格は週明けに急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-19T22:57:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月20日時点での燃料価格レポート。世界の原油価格が週明けに上昇したことを報じている。具体的な上昇要因や数値は記事要約からは不明。"
+  },
+  {
+    "title": "米イラン戦火でホルムズ海峡封鎖、ブレント原油が90ドル突破 ディーゼル価格高騰が新たな経済リスクに - BigGo ファイナンス",
+    "timestamp": "2026-07-19T23:05:00+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン紛争によるホルムズ海峡封鎖が発生し、ブレント原油が90ドル突破。世界最大級の原油輸送路の遮断は供給ショックをもたらし、ディーゼル等精製品の価格急騰も伴う緊急事態。"
+  },
+  {
+    "title": "中東の攻撃で原油価格が上昇、米インフレ緩和期待を覆す - Межа. Новини України.",
+    "timestamp": "2026-07-19T19:39:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東での攻撃により供給懸念が生じ原油価格が上昇。米インフレ緩和期待に対する逆風となり、FRBの利下げシナリオにも影響。地政学的リスクプレミアムが再び織り込まれた。"
+  },
+  {
+    "title": "$マイクロン・テクノロジー (MU.US)$ 原油価格が急騰すると、ハイテク株は大きく下落する。月曜日は赤い日になるでしょう🙂 - Moomoo",
+    "timestamp": "2026-07-19T07:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇とハイテク株下落の相関性を指摘したコモディティ投資家の見解。月曜日の市場予想をしているが、具体的な原油価格変動や根拠は不明。マイクロンなどハイテク株への影響を述べている。"
+  },
+  {
+    "title": "本日の燃料価格（7月20日）：世界の原油価格は上昇傾向にあります。 - Vietnam.vn",
+    "timestamp": "2026-07-19T23:07:42+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナム発のニュースとして本日の燃料価格を報道し、世界の原油価格が上昇傾向にあることを指摘している。具体的な数値や要因の記載がなく、定期的な価格情報の報道に過ぎない。"
+  },
+  {
+    "title": "【速報】NY原油上昇、一時1カ月ぶり高値水準 - 47NEWS",
+    "timestamp": "2026-07-19T22:34:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油が1カ月ぶりの高値水準まで上昇した。速報ニュースだが、具体的な上昇要因の記述がなく、既存トレンドの延長と見られる。"
   }
 ]
