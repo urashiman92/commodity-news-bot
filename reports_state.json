@@ -11,17 +11,6 @@
     "summary": "ウクライナの無人機攻撃によりロシア・モスクワ地域の石油貯蔵施設で火災が発生し、7名の労働者が死亡した。ロシアの石油インフラへの直接的な攻撃は供給懸念を強め、原油価格の上昇圧力となる。地政学的リスクの顕在化により市場変動が拡大する可能性。"
   },
   {
-    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
-    "timestamp": "2026-07-17T22:28:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がホルムズ海峡再開時の原油増産合意を発表。同海峡は世界の石油輸送の約3分の1を担う重要な輸送ルートであり、その封鎖・制限は供給懸念を生む。再開合意は市場の供給不安を軽減し、原油価格の上昇圧力となる見通し。地政学的リスク低下による需給緩和シグナル。"
-  },
-  {
     "title": "EIA Reports 1.7 Million Barrel US Crude Draw as Oil Traders Watch Geopolitical Risks - Yahoo Finance UK",
     "timestamp": "2026-07-18T15:08:47+00:00",
     "importance": 3,
@@ -262,5 +251,27 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDAの夏季定期レポート（Crop Progress/Production）が穀物市場の基調を設定する重要な発表時期。作付面積、生育進捗、生産予測などが市場予想と比較される。具体的な数値データなしには方向性の判定が困難。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 66% Good to Excellent as of July 19 - DTN Progressive Farmer",
+    "timestamp": "2026-07-20T09:18:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA作況進捗報告（7月19日時点）によると、トウモロコシは67%、大豆は66%が良好～優良の評価。作況が堅調で供給懸念が後退し、穀物価格には下落圧力となる可能性。季節的な定期報告で、市場予想の範囲内。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 66% Good to Excellent as of July 19 - DTN Progressive Farmer",
+    "timestamp": "2026-07-20T09:18:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA作況進捗報告（7月19日時点）によると、トウモロコシは67%、大豆は66%が良好～優良の評価。作況が堅調で供給懸念が後退し、穀物価格には下落圧力となる可能性。季節的な定期報告で、市場予想の範囲内。"
   }
 ]
