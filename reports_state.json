@@ -130,5 +130,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国の長期金利上昇と原油価格の上昇がAI関連企業への投資魅力を減少させているとの市場解説。金利上昇は無利子資産である金の下落圧力となる一方、原油高はエネルギーコストを押し上げる。AIセクターの収益性評価低下がリスク資産全般に重圧となっている状況。"
+  },
+  {
+    "title": "Cushing Crude Oil Storage Falls Below 20 Million Barrels: EIA Reports Tight Market Conditions - News and Statistics - IndexBox",
+    "timestamp": "2026-07-18T00:30:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが報告したクッシング地域の原油在庫が2000万バレルを下回る水準まで低下し、市場が極度に逼迫していることが判明。クッシングは米国最大の戦略的貯蔵地点であり、在庫の急落は供給制約を示唆。需給バランスの急速な悪化が示唆されており、原油価格への上昇圧力が強い。"
   }
 ]
