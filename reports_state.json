@@ -22,39 +22,6 @@
     "summary": "OPEC+がホルムズ海峡再開時の原油増産合意を発表。同海峡は世界の石油輸送の約3分の1を担う重要な輸送ルートであり、その封鎖・制限は供給懸念を生む。再開合意は市場の供給不安を軽減し、原油価格の上昇圧力となる見通し。地政学的リスク低下による需給緩和シグナル。"
   },
   {
-    "title": "Fuel crisis, attacks in Azov Sea tighten squeeze on Russian farmers - Reuters",
-    "timestamp": "2026-07-17T19:12:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "小麦",
-    "summary": "ロシアの農家が燃料危機とアゾフ海での攻撃の二重苦により、深刻な圧迫を受けている。燃料不足による農業生産活動の制限と、海上輸送ルートの遮断により、ロシアからの穀物輸出（特に小麦）が大幅に減少する懸念が高まっている。これは世界的な穀物供給逼迫につながる可能性がある。"
-  },
-  {
-    "title": "Fuel crisis, attacks in Azov Sea tighten squeeze on Russian farmers - Reuters",
-    "timestamp": "2026-07-17T19:12:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの農家が燃料危機とアゾフ海での攻撃の二重苦により、深刻な圧迫を受けている。燃料不足による農業生産活動の制限と、海上輸送ルートの遮断により、ロシアからの穀物輸出（特に小麦）が大幅に減少する懸念が高まっている。これは世界的な穀物供給逼迫につながる可能性がある。"
-  },
-  {
-    "title": "Fuel crisis, attacks in Azov Sea tighten squeeze on Russian farmers - Reuters",
-    "timestamp": "2026-07-17T19:12:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの農家が燃料危機とアゾフ海での攻撃の二重苦により、深刻な圧迫を受けている。燃料不足による農業生産活動の制限と、海上輸送ルートの遮断により、ロシアからの穀物輸出（特に小麦）が大幅に減少する懸念が高まっている。これは世界的な穀物供給逼迫につながる可能性がある。"
-  },
-  {
     "title": "EIA Reports 1.7 Million Barrel US Crude Draw as Oil Traders Watch Geopolitical Risks - Yahoo Finance UK",
     "timestamp": "2026-07-18T15:08:47+00:00",
     "importance": 3,
@@ -163,5 +130,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イエメンのフーシ派勢力がサウジアラビアに対する海上封鎖を実施すると発表。紅海・アデン湾を経由する主要な海上交易路の遮断により、原油輸送に深刻な供給リスクが生じる。地政学的ショックとして市場が大きく反応する可能性が高い。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-20T20:41:53.513958+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、大豆、小麦）の生育進捗と圃場状態の推定値を発表。具体的な進捗率やコンディション評価は報告内容の詳細が必要。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-20T20:41:53.513958+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、大豆、小麦）の生育進捗と圃場状態の推定値を発表。具体的な進捗率やコンディション評価は報告内容の詳細が必要。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-20T20:41:53.513958+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、大豆、小麦）の生育進捗と圃場状態の推定値を発表。具体的な進捗率やコンディション評価は報告内容の詳細が必要。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 66% Good to Excellent as of July 19 - DTN Progressive Farmer",
+    "timestamp": "2026-07-20T08:04:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress（7月19日時点）でトウモロコシが67%、大豆が66%の良好～優良（Good to Excellent）評価。両作物とも高い生育品質を示しており、2024年度の豊作見通しを示唆。供給量の増加期待から穀物相場への下押し圧力。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 67% Good to Excellent; Soybeans 66% Good to Excellent as of July 19 - DTN Progressive Farmer",
+    "timestamp": "2026-07-20T08:04:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress（7月19日時点）でトウモロコシが67%、大豆が66%の良好～優良（Good to Excellent）評価。両作物とも高い生育品質を示しており、2024年度の豊作見通しを示唆。供給量の増加期待から穀物相場への下押し圧力。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
+    "timestamp": "2026-07-20T15:34:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
+    "timestamp": "2026-07-20T15:34:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
+    "timestamp": "2026-07-20T15:34:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
+    "timestamp": "2026-07-20T15:34:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
+  },
+  {
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 5.1 million barrels to lowest level since 1983 - Reuters",
+    "timestamp": "2026-07-20T16:37:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が510万バレル減少し、1983年以来の最低水準となった。SPRの枯渇は米国の石油供給セキュリティ低下を示し、今後の備蓄補充需要や供給逼迫時の対応能力に制約が生じることで、原油価格の上昇圧力につながる可能性が高い。"
   }
 ]
