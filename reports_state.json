@@ -1,16 +1,5 @@
 [
   {
-    "title": "Ukraine Says It Hit Russia’s Yanos Oil Refinery Thursday - Bloomberg.com",
-    "timestamp": "2026-07-17T14:59:12+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの主要製油所ヤノス（Yanos）製油所への攻撃を木曜日に実施したと発表。ロシアの石油精製能力低下により供給逼迫懸念が高まる。地政学的リスク再燃により原油価格は上昇圧力。ウクライナ戦争による供給制約は継続する可能性が高い。"
-  },
-  {
     "title": "Canadian Oil Refinery Shutdown Could Crimp Northeast US Supply - Bloomberg.com",
     "timestamp": "2026-07-17T16:51:38+00:00",
     "importance": 3,
@@ -141,5 +130,49 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが報告したクッシング地域の原油在庫が2000万バレルを下回る水準まで低下し、市場が極度に逼迫していることが判明。クッシングは米国最大の戦略的貯蔵地点であり、在庫の急落は供給制約を示唆。需給バランスの急速な悪化が示唆されており、原油価格への上昇圧力が強い。"
+  },
+  {
+    "title": "Navy Says Anti-Oil Theft Operations Lift Crude Output Above OPEC Quota - Arise News",
+    "timestamp": "2026-07-19T09:18:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ナイジェリア海軍が石油盗難対策作戦を強化し、原油産出量がOPEC割当量を上回ったと報告。盗難による産出ロスの削減がアフリカ最大の産油国の供給能力を回復させている。ナイジェリアはOPEC加盟国で、この供給増加は市場の供給サイドに影響。"
+  },
+  {
+    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow",
+    "timestamp": "2026-07-17T21:26:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4月の原油生産を日量137,000バレル増加させることを検討している。これは段階的な増産政策の継続を示唆するもので、市場予想の範囲内の調整。ただし増産圧力が原油価格への下押し要因となる可能性がある。"
+  },
+  {
+    "title": "Yemen’s Houthis to Impose Maritime Blockade on Saudi Arabia - Bloomberg.com",
+    "timestamp": "2026-07-20T13:20:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派勢力がサウジアラビアに対する海上封鎖を実施すると発表。紅海・アデン湾を経由する主要な海上交易路の遮断により、原油輸送に深刻な供給リスクが生じる。地政学的ショックとして市場が大きく反応する可能性が高い。"
+  },
+  {
+    "title": "Yemen’s Houthis to Impose Maritime Blockade on Saudi Arabia - Bloomberg.com",
+    "timestamp": "2026-07-20T13:20:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イエメンのフーシ派勢力がサウジアラビアに対する海上封鎖を実施すると発表。紅海・アデン湾を経由する主要な海上交易路の遮断により、原油輸送に深刻な供給リスクが生じる。地政学的ショックとして市場が大きく反応する可能性が高い。"
   }
 ]
