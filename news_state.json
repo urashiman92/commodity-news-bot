@@ -1,60 +1,5 @@
 [
   {
-    "title": "NY原油・金相場（17日）－原油反発 金は3日ぶり反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-17T21:59:53+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油が反発し、金は3日ぶりに反発した。日中の相場の振り返りであり、特定の新規ファンダメンタルズは示されていない。"
-  },
-  {
-    "title": "本日（7月18日）の金価格：制御不能なほど急落。 - Vietnam.vn",
-    "timestamp": "2026-07-17T22:02:37+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月18日の金価格が急落したとの報道。ただしニュース概要が限定的で、下落の具体的な原因や下落幅の詳細が不明。市場解説記事と思われる。"
-  },
-  {
-    "title": "「金=安全資産」という公式を信じた投資家は首をかしげており、専門家たちは今後の金価格反騰が容易ではないと展望する。 - 매일경제",
-    "timestamp": "2026-07-17T22:54:25+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金が安全資産として機能していない局面が認識されている。投資家の金に対する信頼が揺らいでいる。アナリストは金価格の反騰が容易でないと見ている。"
-  },
-  {
-    "title": "本日（7月18日）の金価格：下落傾向が継続。 - Vietnam.vn",
-    "timestamp": "2026-07-17T22:47:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月18日の金価格は下落傾向が続いている。既存の下げ相場の延長線上の動きであり、特段の新規材料は含まれていない。"
-  },
-  {
-    "title": "本日の燃料価格（7月18日）：世界の原油価格が反転し、急騰。 - Vietnam.vn",
-    "timestamp": "2026-07-17T22:49:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月18日の燃料価格レポート。世界の原油価格が反転し急騰したと報じられている。具体的な騰幅や要因は記事概要からは不明。"
-  },
-  {
     "title": "本日（7月18日）の金価格：力強い反発が予想されます。 - Vietnam.vn",
     "timestamp": "2026-07-18T00:10:01+00:00",
     "importance": 2,
@@ -141,17 +86,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米イラン間の対立激化により、銅価格が下落した。地政学的リスクの上昇に伴い、リスク資産としての銅が売られたと見られる。経済成長鈍化への懸念が価格押し下げ要因となった可能性。"
-  },
-  {
-    "title": "NYダウ406ドル安、原油高騰と半導体急落が直撃 ナスダックも361ポイント下落 - BigGo ファイナンス",
-    "timestamp": "2026-07-17T21:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NYダウが406ドル安となり、原油高騰と半導体セクターの急落が主要因となった。ナスダックも361ポイント下落。原油価格の上昇がコスト懸念を材料に売圧力となった。"
   },
   {
     "title": "金価格、週末に1グラムあたり2,614万ルピアに上昇 - VOI.ID",
@@ -416,17 +350,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国の石油リグ稼働数が452基に増加し、市場予想を上回った。稼働数増加は今後の原油生産増加を示唆し、供給増観測から原油価格は下押し圧力を受ける見通し。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、トウモロコシ、小麦、大豆が上昇 銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-17T22:49:49+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米国コモディティ市場で原油、ガソリン、天然ガス、貴金属、穀物が上昇し銅が下落した相場の振り返り記事。個別商品の値動きを報道したもので、背後の要因が不明である。"
   },
   {
     "title": "7月19日朝の金価格更新:専門家は下落シナリオに傾倒 - Laodong.vn",
@@ -1703,5 +1626,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢による原油相場の変動幅を報じるロンドン為替概況。ドル円は162円台前半で先週末水準での揉み合いが続いている。具体的な新規材料や統計発表ではなく、既存の地政学リスク下での相場振幅の解説。"
+  },
+  {
+    "title": "なぜカンザスシティ小麦先物価格は本日横ばいなのか？サポート水準に注目 - Traders Union",
+    "timestamp": "2026-07-20T12:42:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦先物が本日横ばいで推移している。サポート水準が注視されている。テクニカル分析に基づく相場解説。"
+  },
+  {
+    "title": "2026年7月21日午前の金価格：SJC金価格、9999金リング価格、および3日目の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-20T22:34:55+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報（SJC金、9999金リング、世界金価格）の定期報道。特定の市場イベントや統計発表ではなく、金価格の日次相場確認記事。"
+  },
+  {
+    "title": "本日（7月21日）の金価格：やや下落し、4,000ドル近辺で推移。 - Vietnam.vn",
+    "timestamp": "2026-07-20T22:39:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が7月21日にやや下落し、4,000ドル近辺で推移している。市場では金相場の軟調な地合いが続いている状況。"
+  },
+  {
+    "title": "国際原油価格、米国とイランの緊張持続で1％上昇…ブレント原油90ドルに迫る（中央日報日本語版） - Yahoo!ニュース",
+    "timestamp": "2026-07-20T22:45:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの地政学的緊張の持続が原油相場を押し上げている。ブレント原油は90ドル手前まで上昇し、1％の上げ幅を記録。緊張は既知の事象であり、継続的な監視が必要。"
+  },
+  {
+    "title": "ホルムズ海峡に続き紅海も「非常事態」…国際原油価格が90ドルを再突破、アジアの原油サプライチェーン崩壊の危機 - BigGo ファイナンス",
+    "timestamp": "2026-07-20T22:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "紅海での地政学的緊張がホルムズ海峡に加わり、中東からアジア向けの重要な原油輸送ルートが二重に脅かされている。国際原油価格が90ドルを突破し、アジアのサプライチェーン崩壊リスクが高まった。"
+  },
+  {
+    "title": "シェブロン（CVX）にとっての原油価格の上昇という追い風とコスト削減が、株主にとって何を意味するのか - simplywall.st",
+    "timestamp": "2026-07-20T19:44:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "シェブロンが原油価格上昇とコスト削減の恩恵を受け、株主価値の向上が見込まれる。既知の市場環境下での企業体質改善についての解説。"
+  },
+  {
+    "title": "本日7月21日の原油価格：供給リスクへの懸念から1％以上上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-20T22:39:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月21日の原油価格が供給リスク懸念により1%以上上昇した。ただし具体的な供給障害の内容が不明確であり、市場の日次変動の範囲内の動き。"
+  },
+  {
+    "title": "米コモディティー市場－原油、銀、銅、トウモロコシ、大豆が上昇 ガソリン、天然ガス、金、小麦が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-20T22:27:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油・銀・銅など5商品が上昇、ガソリン・天然ガス・金・小麦が下落。市場参加者による日中の値動きの振り返り報道。"
   }
 ]
