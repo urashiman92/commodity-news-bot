@@ -11,17 +11,6 @@
     "summary": "金価格が4000ドルを割り込んだ背景にはドル高が主要因。記事はドル高トレンドの先に3000ドル台からの反転シナリオを提示する解説。"
   },
   {
-    "title": "The Street Says Diamondback Energy Is Worth $230. Its Own Mid-Cycle Oil Price Says Less - TIKR.com",
-    "timestamp": "2026-07-18T17:47:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Diamondback Energyについてストリート予想（$230）と同社の中期油価想定の乖離を指摘するアナリスト論評。企業評価と油価見通しの不整合を浮き彫りにしたもの。"
-  },
-  {
     "title": "本日（7月19日）の金価格：土壇場で上昇。 - Vietnam.vn",
     "timestamp": "2026-07-18T22:04:07+00:00",
     "importance": 2,
@@ -2022,5 +2011,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "紅海封鎖により原油価格が90ドルを突破。スエズ運河迂回による輸送コスト増加とサプライチェーン混乱が地政学リスク要因として顕在化。韓国を含むアジア経済に高金利・高物価・高為替の3重苦をもたらす警告。"
+  },
+  {
+    "title": "金価格急落でPB相談殺到…「眠れる金」を動かす韓国の富裕層 - BigGo ファイナンス",
+    "timestamp": "2026-07-21T16:25:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の下落に応じて韓国の富裕層がプライベートバンカーへの相談を増やし、保有する金（眠れる金）を売却・運用しようという動き。価格低下が売却機会と認識されている。"
+  },
+  {
+    "title": "金鉱株が上昇、金地金価格の値上がりを受けて 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-21T17:07:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金地金価格の上昇に伴い、金鉱株が連動して値上がりしている。金鉱企業の収益性向上が期待される動きだが、地金価格上昇自体は既に市場で織り込まれている可能性が高い。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-07-21T16:09:10+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の価格情報を示すMoomooの記事。具体的なニュース内容や値動き、市場イベントの記載がない。"
   }
 ]
