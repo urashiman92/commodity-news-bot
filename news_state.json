@@ -1,49 +1,5 @@
 [
   {
-    "title": "金相場価格デイリーコメント週間まとめ（7/13〜7/17）｜水野崇 - mbp-japan.com",
-    "timestamp": "2026-07-18T02:58:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月13日～17日の金相場の週間振り返り・解説記事。アナリスト水野崇氏による相場コメント。"
-  },
-  {
-    "title": "7月18日の金価格：金価格は週末にかけて回復する見込みだが、専門家はどのような予測をしているのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-07-18T03:06:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月18日時点での金価格の週末にかけての回復予測に関する報道。専門家の見通しを伝えるコンテンツだが、具体的な根拠や予測内容が不明確。"
-  },
-  {
-    "title": "土曜日の朝、金価格が急騰した。 - Vietnam.vn",
-    "timestamp": "2026-07-18T03:31:18+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "土曜日の朝に金価格が急騰したとの報道。具体的な騰落幅や原因が記事概要に示されていない。週末の市場動向に関する事後的な観測記事と考えられる。"
-  },
-  {
-    "title": "本日（7月18日）の燃料価格：世界の原油価格が急騰、国内価格も上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-18T02:13:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの報道によると、世界の原油価格が急騰し、国内燃料価格も連動して上昇。グローバルな価格動向をベトナム国内市場に適用する定期的なニュースフロー。"
-  },
-  {
     "title": "金価格、週末に1グラムあたり2,614万ルピアに上昇 - VOI.ID",
     "timestamp": "2026-07-18T07:46:42+00:00",
     "importance": 1,
@@ -141,17 +97,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報報道。SJC金やリング金の価格相場および世界金価格を定期的に伝える市場レポート。市場動向の既存情報の提示に過ぎない。"
-  },
-  {
-    "title": "ＮＹ原油終値、米イラン「対立再燃」で１か月ぶり８０ドル台…株式市場でも相場の重しに - 読売新聞",
-    "timestamp": "2026-07-18T03:10:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イランの対立再燃により、NY原油が1か月ぶりに80ドル台に上昇した。地政学リスクの高まりが市場の重しとなり、株式市場にも悪影響を及ぼしている。"
   },
   {
     "title": "金価格は本日7月18日、大幅高で取引を終えた。 - Vietnam.vn",
@@ -284,17 +229,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ダイアモンドバック・エナジーの株価評価をめぐるアナリスト意見と企業の想定油価の乖離を指摘した論評。ストリート予想値（$230）と企業の中期サイクル油価見通しの不一致を分析している。"
-  },
-  {
-    "title": "ベーカー・ヒューズ米石油リグ稼働数、452基に増加 予想上回り、原油価格見通しの重しに - VT Markets",
-    "timestamp": "2026-07-18T05:19:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の石油リグ稼働数が452基に増加し、市場予想を上回った。稼働数増加は今後の原油生産増加を示唆し、供給増観測から原油価格は下押し圧力を受ける見通し。"
   },
   {
     "title": "7月19日朝の金価格更新:専門家は下落シナリオに傾倒 - Laodong.vn",
@@ -1923,5 +1857,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "20日の主要国際商品市況に関する定期的な市場動向レポート。具体的な価格水準や変動要因の詳細は記事本文がないため判断できない状況。"
+  },
+  {
+    "title": "堂島取引所、大口化した金先物商品の取引開始 機動的な投資促す - 日本経済新聞",
+    "timestamp": "2026-07-21T04:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "堂島取引所が金先物の取引単位を大口化し、機動的な投資環境を整備。国内金市場の流動性向上と機関投資家参入促進が期待される。市場整備の一環として段階的に進められている動き。"
+  },
+  {
+    "title": "国内の金価格は予想外に安定した。 - Vietnam.vn",
+    "timestamp": "2026-07-21T02:58:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格が予想外に安定している。供給・需要の均衡が取れている状況を示唆。国内市場の局所的なニュースで、グローバル金相場への直接的な影響は限定的。"
+  },
+  {
+    "title": "リファスタ｜7/21(火)祝日明け・金相場｜杉兼太朗 - mbp-japan.com",
+    "timestamp": "2026-07-20T21:26:14+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月21日(火)の祝日明けの金相場に関する市場解説。アナリスト杉兼太朗氏による金相場の振り返りと見通しの提示。"
+  },
+  {
+    "title": "速報（21-7）：金価格が再び上昇。原油価格の高騰で石油会社が巨額の損失を被る。 - Vietnam.vn",
+    "timestamp": "2026-07-21T02:18:24+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が再び上昇している。原油価格の高騰により石油会社が巨額の損失を被っている。インフレ懸念や金融不安定性が金の買いを支えている可能性がある。"
+  },
+  {
+    "title": "2026年7月21日現在の金価格の予測は？上昇するでしょうか、それとも下落するでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-07-21T02:59:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月21日時点の金価格予測についての記事。単なる価格予想記事で具体的なファンダメンタルズ要因が不明確。"
+  },
+  {
+    "title": "2026年7月21日午前の金価格：指輪の金価格は上昇、金地金価格は横ばい。 - Vietnam.vn",
+    "timestamp": "2026-07-21T03:01:59+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格を報じたローカルニュース。指輪の金価格は上昇したが、金地金価格は横ばい。市場全体への影響は限定的。"
+  },
+  {
+    "title": "アングル：原油価格、イラン紛争でも予想ほど急騰しなかった訳 - ロイター",
+    "timestamp": "2026-07-21T04:36:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン紛争があっても原油価格が予想ほど急騰しなかった背景を分析する記事。市場が地政学リスクを既に織り込んでいた可能性や、供給懸念の限定的な見方を示唆。"
+  },
+  {
+    "title": "欧米為替：デイリー見通し 豪ドル・ドル／原油相場を注視(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-21T04:17:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "豪ドルとドル/原油相場の動向を注視するという為替市場のデイリー見通し。原油相場との関連性が指摘されているが、具体的な新規要因や価格予想は示されていない。"
+  },
+  {
+    "title": "アジア株が反発、停戦期待で原油価格が下落もAI関連決算が試金石に - BigGo ファイナンス",
+    "timestamp": "2026-07-21T02:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "停戦期待により原油価格が下落している。地政学的リスク軽減がコモディティ売り圧力として機能。AI関連決算が株式相場の方向性を決定する試金石となっている。"
+  },
+  {
+    "title": "ＮＹ市場、原油価格が一時１か月ぶり８５ドル台…ダウ平均は３日連続値下がり終値５万１８３９ドル - 読売新聞",
+    "timestamp": "2026-07-20T20:53:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油が1か月ぶりに85ドル台に上昇。同時にダウ平均は3日連続で下落し、51839ドルで終値。原油上昇と株価下落の乖離が見られた。"
   }
 ]
