@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日2026年7月19日、土壇場で急騰したが、これはまたしても「失敗」の週となり、ウォール街の投資家はここ数週間で最も悲観的な見方を示している。 - Vietnam.vn",
-    "timestamp": "2026-07-18T14:45:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が7月19日に土壇場で急騰したが、週間では失敗に終わった。ウォール街の投資家は数週間で最も悲観的な見方を示している。"
-  },
-  {
-    "title": "本日7月18日の金価格：SJC、BTMC、DOJI、PNJは世界の金価格と連動して下落しているのか？ - Vietnam.vn",
-    "timestamp": "2026-07-18T15:23:16+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金取扱業者（SJC、BTMC、DOJI、PNJ）の金価格が世界市場と連動して下落している状況の報道。現地市場における金価格の日次変動を解説したニュース。"
-  },
-  {
     "title": "金価格が4000ドルを割り込んだ理由、ドル高の先に待つ3000ドル台からの反転シナリオ - JBpress",
     "timestamp": "2026-07-18T21:00:00+00:00",
     "importance": 3,
@@ -2011,5 +1989,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が85ドル台で推移している速報。具体的な材料や前日比の詳細が不明。市場の継続的な値動きの確認程度。"
+  },
+  {
+    "title": "米イラン衝突でインフレ再燃懸念、金価格が4000ドル割れ 年末利上げ観測が貴金属相場を圧迫 - BigGo ファイナンス",
+    "timestamp": "2026-07-21T14:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米イラン衝突によるインフレ再燃懸念が報道されているが、金価格は4000ドルを割れている。年末の利上げ観測が実質金利上昇を通じて貴金属相場を圧迫しており、地政学リスク要因と金融引き締め圧力が相殺している状況。"
+  },
+  {
+    "title": "金価格22%急落も「売られ過ぎ」と機関投資家が指摘：9月までに循環的底入れか、通貨安が長期の上昇要因に - BigGo ファイナンス",
+    "timestamp": "2026-07-21T13:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が22%急落したが、機関投資家は売られ過ぎと指摘。9月までに循環的な底入れが予想される。長期的には通貨安が上昇要因となる可能性。"
+  },
+  {
+    "title": "紅海封鎖の脅威で原油価格が90ドル突破、韓国経済に「3高」の警告灯 - BigGo ファイナンス",
+    "timestamp": "2026-07-21T14:07:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "紅海封鎖により原油価格が90ドルを突破。スエズ運河迂回による輸送コスト増加とサプライチェーン混乱が地政学リスク要因として顕在化。韓国を含むアジア経済に高金利・高物価・高為替の3重苦をもたらす警告。"
   }
 ]
