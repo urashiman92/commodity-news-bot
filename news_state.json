@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（7月18日）の金価格：力強い反発が予想されます。 - Vietnam.vn",
-    "timestamp": "2026-07-18T00:10:01+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月18日の金価格について、力強い反発が予想されるとの観測記事。具体的な材料や根拠は記事概要からは不明。相場の技術的な見立てまたはアナリスト予想の可能性。"
-  },
-  {
-    "title": "バンク・オブ・アメリカ：金価格が低ければ低いほど、買いのチャンスは大きくなる。 - Vietnam.vn",
-    "timestamp": "2026-07-18T00:28:24+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "バンク・オブ・アメリカがアナリスト見解として、金価格の下落局面を買い増しの好機と位置づけている。長期的な金投資の価値を強調するコメンタリー。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（7/13〜7/17）｜水野崇 - mbp-japan.com",
     "timestamp": "2026-07-18T02:58:47+00:00",
     "importance": 2,
@@ -66,17 +44,6 @@
     "summary": "ベトナムの報道によると、世界の原油価格が急騰し、国内燃料価格も連動して上昇。グローバルな価格動向をベトナム国内市場に適用する定期的なニュースフロー。"
   },
   {
-    "title": "米イラン間の対立激化に伴い、銅価格が下落。 - Vietnam.vn",
-    "timestamp": "2026-07-17T23:55:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米イラン間の対立激化により、銅価格が下落した。地政学的リスクの上昇に伴い、リスク資産としての銅が売られたと見られる。経済成長鈍化への懸念が価格押し下げ要因となった可能性。"
-  },
-  {
     "title": "金価格、週末に1グラムあたり2,614万ルピアに上昇 - VOI.ID",
     "timestamp": "2026-07-18T07:46:42+00:00",
     "importance": 1,
@@ -119,17 +86,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの主要金小売業者（SJC、Doji等）の7月16日の金価格を報道したもの。地域別の価格動向を記録する日次ニュース。"
-  },
-  {
-    "title": "本日の燃料価格（7月18日）：世界の原油価格が反転し、急騰。 - Vietnam.vn",
-    "timestamp": "2026-07-18T01:24:18+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの燃料価格ニュースサイトが、世界原油価格の反転と急騰を報じている。具体的な価格水準や騰落率、騰落理由の記載がなく詳細不明。定期的な価格情報の一種と推測される。"
   },
   {
     "title": "金価格は1オンスあたり4,000ドル前後で推移している。市場を動かしている要因は何だろうか？ - Vietnam.vn",
@@ -1802,5 +1758,170 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "20日時点の主要国際商品市況をまとめたニュース。具体的な価格データや変動要因の詳細は記事内容が不明なため、相場振り返り・解説記事と判断される。"
+  },
+  {
+    "title": "NY金先物は反発、心理的節目の4,000ドル割れ水準からの押し目買いで下げ渋る｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-21T00:16:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反発し、心理的抵抗線である4,000ドル割れ水準からの押し目買いで下げ渋った。テクニカルレベルでの買い圧力が作用している局面。"
+  },
+  {
+    "title": "金価格が4,000ドルを突破、中東情勢と米連邦準備制度の動向に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-21T01:52:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドルを突破し新高値を更新。中東情勢の不確実性と米FRBの金利政策動向が支援材料となっている。インフレヘッジ資産としての金の需要が継続。"
+  },
+  {
+    "title": "本日（7月21日）の金価格：全般的に急落。 - Vietnam.vn",
+    "timestamp": "2026-07-21T00:26:01+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月21日の金価格が全般的に急落したとの報道。\nベトナムの報道で、具体的な下落幅や要因が明記されていない。\n予想比や市場背景の詳細は不明。"
+  },
+  {
+    "title": "7月21日朝の金価格更新:もみ合い、潜在的なリスク - Laodong.vn",
+    "timestamp": "2026-07-21T00:24:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月21日朝の金価格はもみ合い局面にある。潜在的なリスク要因が存在するが、具体的な新規材料は限定的。レンジ内での値動きが続いている。"
+  },
+  {
+    "title": "7月21日午前、世界の金価格は4000ドル前後で推移した。 - Vietnam.vn",
+    "timestamp": "2026-07-21T00:43:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月21日午前の金価格が4000ドル前後で推移していることを報じたニュース。特定の価格変動や新規材料は示唆されていない。単なる相場情報の記述。"
+  },
+  {
+    "title": "2026年7月21日現在の金価格：2ヶ月間で1オンスあたり1600万ベトナムドン以上下落。 - Vietnam.vn",
+    "timestamp": "2026-07-21T00:06:38+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムドン建ての金価格が2ヶ月間で1オンスあたり1600万ドン以上下落したことが報じられている。これは現地通貨建ての価格変動であり、実質的な国際金相場の下落を直接示すものではない可能性がある。通貨変動の影響を含む相場の振り返り記事と考えられる。"
+  },
+  {
+    "title": "世界の金市場は底値を迎えようとしているのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-07-21T00:48:02+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金市場が底値を迎えつつあるという市場観測。現在の価格水準が買いの好機と見なされている可能性を示唆。具体的な新規ファンダメンタルズ情報は含まれていない。"
+  },
+  {
+    "title": "本日（7月21日）の金価格：価格は軒並み急落。 - Vietnam.vn",
+    "timestamp": "2026-07-21T01:34:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月21日の金価格が広範に急落した。市場の軒並み下落は通常のボラティリティ範囲内の値動きと考えられる。具体的な下落要因の詳細が記事概要には記載されていない。"
+  },
+  {
+    "title": "原油価格に影響も ホルムズ代替の紅海、フーシ派「封鎖」宣言で - 毎日新聞",
+    "timestamp": "2026-07-21T01:09:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派が紅海の封鎖を宣言。ホルムズ海峡に次ぐ重要な石油輸送ルートが脅威にさらされる。供給途絶リスクにより原油価格は上昇圧力。"
+  },
+  {
+    "title": "原油価格が3日ぶり反落、中東情勢の先行き見極め－ブレント88ドル台 - Bloomberg.com",
+    "timestamp": "2026-07-21T01:59:25+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が3日ぶりに反落し、ブレント油は88ドル台へ。中東情勢の先行き不透明感から、投資家が相場の方向性を見極めている段階。技術的な調整局面と解釈される。"
+  },
+  {
+    "title": "ホルムズ海峡封鎖で原油価格が90ドル台を再突破、NY株式市場も連れ安 - BigGo ファイナンス",
+    "timestamp": "2026-07-20T23:45:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の封鎖により世界の原油供給の約20-30%が影響を受ける可能性がある。原油価格が90ドル台を再び突破し、エクイティ市場も下落。地政学リスクの具体化で急速に値動きした。"
+  },
+  {
+    "title": "原油価格、米イラン緊張とフーシ派のサウジ封鎖を見極め高値維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-21T00:46:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン緊張とフーシ派によるサウジアラビア封鎖懸念により、原油価格は高値を維持している。地政学的リスク要因が継続的に相場を下支えしている。既報の事象の相場への織り込み状況を評価するコメンタリー。"
+  },
+  {
+    "title": "国際原油価格、米国とイランの緊張持続で1％上昇…ブレント原油90ドルに迫る - ｄメニューニュース",
+    "timestamp": "2026-07-20T22:40:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの地政学的緊張の継続により国際原油価格が1％上昇。ブレント原油は90ドルに接近している。供給リスク要因が相場を下支えしている状況。"
+  },
+  {
+    "title": "鉄鉱石価格は下落したが、銅価格は供給途絶への懸念から堅調に推移した。 - Vietnam.vn",
+    "timestamp": "2026-07-20T23:58:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "鉄鉱石が下落する一方、銅は供給途絶への懸念から堅調に推移。コモディティ間で相場展開が分化。市場の供給懸念が銅相場を支えている状況。"
+  },
+  {
+    "title": "２０日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-07-20T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "20日の主要国際商品市況に関する定期的な市場動向レポート。具体的な価格水準や変動要因の詳細は記事本文がないため判断できない状況。"
   }
 ]
