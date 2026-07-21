@@ -66,17 +66,6 @@
     "summary": "米国の長期金利上昇と原油価格の上昇がAI関連企業への投資魅力を減少させているとの市場解説。金利上昇は無利子資産である金の下落圧力となる一方、原油高はエネルギーコストを押し上げる。AIセクターの収益性評価低下がリスク資産全般に重圧となっている状況。"
   },
   {
-    "title": "Cushing Crude Oil Storage Falls Below 20 Million Barrels: EIA Reports Tight Market Conditions - News and Statistics - IndexBox",
-    "timestamp": "2026-07-18T00:30:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが報告したクッシング地域の原油在庫が2000万バレルを下回る水準まで低下し、市場が極度に逼迫していることが判明。クッシングは米国最大の戦略的貯蔵地点であり、在庫の急落は供給制約を示唆。需給バランスの急速な悪化が示唆されており、原油価格への上昇圧力が強い。"
-  },
-  {
     "title": "Navy Says Anti-Oil Theft Operations Lift Crude Output Above OPEC Quota - Arise News",
     "timestamp": "2026-07-19T09:18:51+00:00",
     "importance": 3,
@@ -273,5 +262,49 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA作況進捗報告（7月19日時点）によると、トウモロコシは67%、大豆は66%が良好～優良の評価。作況が堅調で供給懸念が後退し、穀物価格には下落圧力となる可能性。季節的な定期報告で、市場予想の範囲内。"
+  },
+  {
+    "title": "Asian stocks rise as Mideast mediation takes oil lower - Reuters",
+    "timestamp": "2026-07-21T02:02:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東での仲介交渉進展を受けて地政学的リスク緩和観測が広がり、原油相場が下落。アジア株式市場は上昇。原油下落によるコスト圧力軽減がリスク資産全般の買い支え要因となる。現在の中東情勢下では予想の範囲内の動きと評価される。"
+  },
+  {
+    "title": "Asian stocks rise as Mideast mediation takes oil lower - Reuters",
+    "timestamp": "2026-07-21T02:02:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中東での仲介交渉進展を受けて地政学的リスク緩和観測が広がり、原油相場が下落。アジア株式市場は上昇。原油下落によるコスト圧力軽減がリスク資産全般の買い支え要因となる。現在の中東情勢下では予想の範囲内の動きと評価される。"
+  },
+  {
+    "title": "Conflict Rattles Stocks, Bonds as Oil Holds Gains: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-21T02:14:47+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "地政学的紛争がリスク資産である株式・債券市場を圧迫する中、原油は堅調さを保っている。紛争による供給懸念と金利環境の複雑な相互作用がコモディティ市場全体に不均一な影響をもたらしている状況。"
+  },
+  {
+    "title": "Conflict Rattles Stocks, Bonds as Oil Holds Gains: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-21T02:14:47+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "地政学的紛争がリスク資産である株式・債券市場を圧迫する中、原油は堅調さを保っている。紛争による供給懸念と金利環境の複雑な相互作用がコモディティ市場全体に不均一な影響をもたらしている状況。"
   }
 ]
