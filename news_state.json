@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日7月18日、大幅高で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-07-18T13:22:01+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月18日の金価格が大幅高で取引を終えた。具体的な上昇要因や数値は記事概要に示されていない。市場の日々の値動きを述べたコモディティ相場解説。"
-  },
-  {
-    "title": "原油価格が急騰したことで、先週SJC金価格が1オンスあたり240万ベトナムドン下落した後、金価格への圧力がさらに高まった。 - Vietnam.vn",
-    "timestamp": "2026-07-18T13:28:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "原油価格の急騰により、金価格への下押し圧力が増加。先週SJC金はすでに1オンスあたり240万ベトナムドン下落している。ドル高と原油高の相関構造が金相場の重石となっている状況。"
-  },
-  {
     "title": "金価格は本日2026年7月19日、土壇場で急騰したが、これはまたしても「失敗」の週となり、ウォール街の投資家はここ数週間で最も悲観的な見方を示している。 - Vietnam.vn",
     "timestamp": "2026-07-18T14:45:53+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が7月19日に土壇場で急騰したが、週間では失敗に終わった。ウォール街の投資家は数週間で最も悲観的な見方を示している。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ $ブレント先物(2609) (BZmain.US)$ - Moomoo",
-    "timestamp": "2026-07-18T13:17:30+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とブレント先物の価格情報を掲載したMoomooのニュースフィード。具体的な価格動向や市場要因の説明がないため、単なるデータ表示と判断される。"
   },
   {
     "title": "本日7月18日の金価格：SJC、BTMC、DOJI、PNJは世界の金価格と連動して下落しているのか？ - Vietnam.vn",
@@ -317,17 +284,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの7月19日付燃料価格レポート。世界原油価格の週間上昇を受け、国内燃料価格も連動して上昇。地域的な価格動向の確認記事。"
-  },
-  {
-    "title": "ＮＹ市場、中東情勢巡り原油価格が荒い動き…株は早期の利上げ観測後退で金融など買われる（読売新聞オンライン） - Yahoo!ニュース",
-    "timestamp": "2026-07-18T13:01:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場で中東情勢の懸念から原油価格が変動。同時に早期利上げ観測の後退により金融株が買われた。既知の地政学的リスクの継続的な報道。"
   },
   {
     "title": "本日の金価格、2026年7月19日（9999金）、2026年7月19日午後：週末の9999金、BTMC金リング、BTMC、およびDOJI金の終値リスト。 - Vietnam.vn",
@@ -2000,5 +1956,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "シティグループが原油価格上昇を背景にトルコ国債ロングポジションを半減。大手金融機関による資産配分の調整に過ぎず、原油市場の需給ファンダメンタルズに直接的な影響はない。"
+  },
+  {
+    "title": "UBSは金価格が1オンス3,850ドルに下落した際に買い増しを推奨 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-21T13:47:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UBSが金価格3,850ドル/オンスを買い場と指摘。大手金融機関による強気見通しは金需要心理を下支え。テクニカルレベルでの買い推奨コメント。"
+  },
+  {
+    "title": "金価格は本日7月21日、大幅に上昇して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-07-21T12:49:18+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月21日の金価格が大幅に上昇して取引終了。ただしニュースソースが概要のみで、上昇要因の具体的な背景が不明。"
+  },
+  {
+    "title": "PNJの金価格に異常な変動が生じたため、この宝飾品大手は顧客に謝罪した。 - Vietnam.vn",
+    "timestamp": "2026-07-21T13:59:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの宝飾品大手PNJが金価格の異常な変動に対して顧客に謝罪した。システムエラーや技術的問題による可能性が高い。商社の運営上の問題であり、金市場の需給ファンダメンタルズには影響を与えない。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ 原油の勢いは非常に強すぎて、また戻ってきています... - Moomoo",
+    "timestamp": "2026-07-21T14:04:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が強い上昇モメンタムを示しており、再び上昇してきているとのコメント。具体的な供給ショックや需要変化の言及はなく、技術的な相場観察。"
+  },
+  {
+    "title": "【速報】NY原油先物続伸、85ドル台で推移｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-21T13:32:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が85ドル台で推移している速報。具体的な材料や前日比の詳細が不明。市場の継続的な値動きの確認程度。"
   }
 ]
