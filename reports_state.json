@@ -306,5 +306,38 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDA夏季レポート（Crop Progress/Production）が穀物市場のトーンを設定する重要な定期発表。作付面積、生育進捗、生産予測などの重要データが市場の方向性を決める。具体的な数値がレポート内容から不明だが、作物の健全性、天候の影響、収穫予想が価格の上下方向に大きく影響する可能性が高い。"
+  },
+  {
+    "title": "USDA crop report shows corn quality dips slightly - Farm Progress",
+    "timestamp": "2026-07-21T13:04:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポートでトウモロコシの品質が軽微に低下したことが報告された。品質低下は供給面での懸念材料となるが、幅は限定的。穀物市場全体への即座の大きな影響は限定的と考えられる。"
+  },
+  {
+    "title": "IEA says substantial emergency oil stocks remain after record release - Reuters",
+    "timestamp": "2026-07-21T11:47:12+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "IEA（国際エネルギー機関）は記録的な放出後も実質的な緊急石油備蓄が相応に残存していることを確認。過去最大規模の備蓄放出により市場に供給を追加したが、戦略的備蓄の枯渇懸念は限定的である。現在の備蓄水準が価格安定化に寄与する見通しを示唆。"
+  },
+  {
+    "title": "Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning - Bloomberg.com",
+    "timestamp": "2026-07-21T12:30:19+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが紅海経由の原油輸送量を過去最高に達したと報じられた。その直後にフーシ派が警告を発し、紅海での供給途絶リスクが急速に高まった。地政学的緊張により、グローバルな原油供給の重要回廊が脅威にさらされている。"
   }
 ]
