@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格が4000ドルを割り込んだ理由、ドル高の先に待つ3000ドル台からの反転シナリオ - JBpress",
-    "timestamp": "2026-07-18T21:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4000ドルを割り込んだ背景にはドル高が主要因。記事はドル高トレンドの先に3000ドル台からの反転シナリオを提示する解説。"
-  },
-  {
     "title": "本日（7月19日）の金価格：土壇場で上昇。 - Vietnam.vn",
     "timestamp": "2026-07-18T22:04:07+00:00",
     "importance": 2,
@@ -75,17 +64,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金は本日100万ドン近く上昇したが、週足では依然として下落トレンドにある。短期的な反発はあるものの、より大きな下落圧力が継続している状況。"
-  },
-  {
-    "title": "2026年7月19日朝の金価格：SJC金価格、9999金リング価格、および週末の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-18T22:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金とWGC国際金価格の週末朝時点での相場情報を報じたニュース。定期的な価格情報配信であり、新規の市場材料を含まない。"
   },
   {
     "title": "本日の燃料価格（7月19日）：世界の原油価格は1週間で16％以上上昇。 - Vietnam.vn",
@@ -2066,5 +2044,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ大統領が報復関税の警告を示唆し、地政学的緊張が高まっている。ホルムズ海峡の機能停止リスクが顕在化し、原油価格が90ドルを突破した。供給途絶の懸念が市場に急速に織り込まれている。"
+  },
+  {
+    "title": "世界の金価格が予想外に急騰した。 - Vietnam.vn",
+    "timestamp": "2026-07-21T20:24:08+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界の金価格が予想外に急騰した。具体的な騰落幅や騰騰要因の詳細は記事概要からは不明だが、地政学的リスク、インフレ懸念、または通貨政策の変化が背景にある可能性がある。"
+  },
+  {
+    "title": "原油先物5週間ぶり高値　米イラン攻撃応酬とフーシ派のサウジ海上封鎖を警戒 - ｄメニューニュース",
+    "timestamp": "2026-07-21T19:50:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の攻撃応酬とフーシ派によるサウジアラビア海上封鎖の懸念により、原油先物が5週間ぶりの高値を更新。中東地政学リスクの高まりが供給不安を加速させている。"
+  },
+  {
+    "title": "7月21日のSouthern Copper Corp (SCCO) 終値は7.36%上昇：投資家が知っておくべき情報 - TradingKey",
+    "timestamp": "2026-07-21T20:17:07+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "Southern Copper Corp (SCCO)が7月21日に7.36%上昇。単一銘柄の日次騰落を報じるもので、銅市場全体への構造的インパクトは限定的。"
   }
 ]
