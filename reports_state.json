@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA Reports 1.7 Million Barrel US Crude Draw as Oil Traders Watch Geopolitical Risks - Yahoo Finance UK",
-    "timestamp": "2026-07-18T15:08:47+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の170万バレル減少を報告。在庫減少は需要堅調を示唆し、原油価格を支援する材料となる。一方、地政学的リスク（中東情勢など）が相場の変動要因として注視されており、供給懸念が価格を下支えしている状況。"
-  },
-  {
     "title": "Little reaction in durum market to USDA reports - AgUpdate",
     "timestamp": "2026-07-19T11:00:00+00:00",
     "importance": 2,
@@ -339,5 +328,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが紅海経由の原油輸送量を過去最高に達したと報じられた。その直後にフーシ派が警告を発し、紅海での供給途絶リスクが急速に高まった。地政学的緊張により、グローバルな原油供給の重要回廊が脅威にさらされている。"
+  },
+  {
+    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
+    "timestamp": "2026-07-20T21:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
+  },
+  {
+    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
+    "timestamp": "2026-07-20T21:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
+  },
+  {
+    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
+    "timestamp": "2026-07-20T21:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
+  },
+  {
+    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
+    "timestamp": "2026-07-20T21:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
+  },
+  {
+    "title": "Crop Market Volatility Surges: Wheat Rallies on Black Sea Disruptions & Milo Face Export Challenges - Oklahoma Farm Report",
+    "timestamp": "2026-07-21T14:32:55+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "黒海地域の供給混乱により小麦価格が上昇圧力を受けている。同時にモロコシ（穀物飼料）は輸出課題に直面し下落圧力。市場ボラティリティが高まっており、穀物セクター全体で供給懸念と需要減速のせめぎ合いが続いている。"
+  },
+  {
+    "title": "Crop Market Volatility Surges: Wheat Rallies on Black Sea Disruptions & Milo Face Export Challenges - Oklahoma Farm Report",
+    "timestamp": "2026-07-21T14:32:55+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "黒海地域の供給混乱により小麦価格が上昇圧力を受けている。同時にモロコシ（穀物飼料）は輸出課題に直面し下落圧力。市場ボラティリティが高まっており、穀物セクター全体で供給懸念と需要減速のせめぎ合いが続いている。"
+  },
+  {
+    "title": "Indian Refiners Come to the Rescue of Russia’s Oil Exporters - Bloomberg.com",
+    "timestamp": "2026-07-21T14:50:18+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インドの製油所がロシア産原油の主要な買い手となり、西側制裁下でのロシア原油輸出を支援している。インドの精製能力拡大とロシア原油の割安な価格設定により、両国間の石油取引が活発化。これにより世界的な原油供給構造の地政学的シフトが進行中。"
+  },
+  {
+    "title": "IEA Warns Mideast Hostilities Are Increasing Oil Supply Concerns - Bloomberg.com",
+    "timestamp": "2026-07-21T10:57:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "IEA（国際エネルギー機関）が中東の軍事紛争激化に伴う石油供給リスクの増加を警告。地政学的緊張がエネルギー市場の不確実性を高め、供給途絶懸念から原油価格上昇圧力が強まる可能性。中東は世界石油供給の約30%を占める戦略的に重要な地域。"
   }
 ]
