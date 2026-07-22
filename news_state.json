@@ -1,115 +1,5 @@
 [
   {
-    "title": "金価格は4000ドルを試す局面に入っている。 - Vietnam.vn",
-    "timestamp": "2026-07-19T22:43:35+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4000ドルの大台を試す段階に入ったとの観測記事。インフレ懸念や地政学リスク、低実質金利環境が金の買い需要を支援している可能性が高い。"
-  },
-  {
-    "title": "週明けの金価格は原油と金利から圧力を受ける - Laodong.vn",
-    "timestamp": "2026-07-19T23:14:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "週明けの金価格は原油高と米国金利上昇の二重の圧力を受ける見通し。ドル強化と実質金利上昇が金の買い魅力を減少させる要因。市場は既知のマクロ環境の延長線で反応。"
-  },
-  {
-    "title": "金価格は今週も下落が続くと予想されている。 - Vietnam.vn",
-    "timestamp": "2026-07-19T22:27:31+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は今週も下落が続くと予想されている。アナリスト観測による相場見通しの報道。特定の材料や統計に基づかない一般的な市場解説。"
-  },
-  {
-    "title": "本日（7月20日）の金価格：横ばい。 - Vietnam.vn",
-    "timestamp": "2026-07-19T22:57:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月20日の金価格は横ばいで推移したとの報道。ベトナム発の相場振り返り報道で、特定の新規情報や供給・需要の急変は含まれていない。"
-  },
-  {
-    "title": "本日7月20日の金価格：SJC、BTMC、DOJI、PNJは世界の金価格と連動して下落しているのか？ - Vietnam.vn",
-    "timestamp": "2026-07-19T23:15:38+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売業者（SJC、BTMC、DOJI、PNJ）の金価格が、世界の金価格下落に連動して下げている。ローカル市場の価格動向を確認するニュース。"
-  },
-  {
-    "title": "NY原油市場 1バレル＝85ドル台に上昇 1か月ぶりの高値水準 - NHKニュース",
-    "timestamp": "2026-07-19T23:02:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油が1バレル=85ドル台に上昇し1か月ぶりの高値水準に達した。市場が既に認識している需給動向や地政学的リスクが反映された値動きと見られる。"
-  },
-  {
-    "title": "本日（7月20日）の燃料価格：世界の原油価格は週明けに急騰。 - Vietnam.vn",
-    "timestamp": "2026-07-19T22:57:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月20日時点での燃料価格レポート。世界の原油価格が週明けに上昇したことを報じている。具体的な上昇要因や数値は記事要約からは不明。"
-  },
-  {
-    "title": "米イラン戦火でホルムズ海峡封鎖、ブレント原油が90ドル突破 ディーゼル価格高騰が新たな経済リスクに - BigGo ファイナンス",
-    "timestamp": "2026-07-19T23:05:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン紛争によるホルムズ海峡封鎖が発生し、ブレント原油が90ドル突破。世界最大級の原油輸送路の遮断は供給ショックをもたらし、ディーゼル等精製品の価格急騰も伴う緊急事態。"
-  },
-  {
-    "title": "本日の燃料価格（7月20日）：世界の原油価格は上昇傾向にあります。 - Vietnam.vn",
-    "timestamp": "2026-07-19T23:07:42+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナム発のニュースとして本日の燃料価格を報道し、世界の原油価格が上昇傾向にあることを指摘している。具体的な数値や要因の記載がなく、定期的な価格情報の報道に過ぎない。"
-  },
-  {
-    "title": "【速報】NY原油上昇、一時1カ月ぶり高値水準 - 47NEWS",
-    "timestamp": "2026-07-19T22:34:23+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油が1カ月ぶりの高値水準まで上昇した。速報ニュースだが、具体的な上昇要因の記述がなく、既存トレンドの延長と見られる。"
-  },
-  {
     "title": "QDII枠拡大期待が継続、ホルムズ海峡リスク高まりで原油・金先物が大幅高 - BigGo ファイナンス",
     "timestamp": "2026-07-19T23:56:00+00:00",
     "importance": 4,
@@ -154,17 +44,6 @@
     "summary": "7月20日の金価格が週明けに急落したことを報じるニュース。市場の既存の値動きを事後的に解説するもの。"
   },
   {
-    "title": "本日2026年7月20日の金価格は低迷しています。SJCの金価格は今後どれくらい下落するでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-07-19T23:18:53+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が低迷している状況を報じるニュース。SJC金価格の今後の下落幅について解説・予測を提供している。"
-  },
-  {
     "title": "2026年7月20日現在の金価格：SJCの金価格は横ばい、世界の金価格は下落。 - Vietnam.vn",
     "timestamp": "2026-07-20T00:48:27+00:00",
     "importance": 2,
@@ -174,39 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "2026年7月20日時点で世界の金価格が下落した一方、ベトナムのSJC金価格は横ばいで推移。地域別の価格乖離を示すレポート。"
-  },
-  {
-    "title": "原油先物1カ月超ぶり高値、ブレント90ドル突破 米イラン攻撃激化 - ロイター",
-    "timestamp": "2026-07-19T23:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイラン間の軍事衝突が激化し、ブレント原油が90ドルを突破して1カ月超ぶりの高値を付けた。中東の地政学的リスクが急速に高まり、供給途絶懸念が市場を押し上げている。"
-  },
-  {
-    "title": "原油先物が3％超上昇、ブレント90ドル突破 米・イラン攻撃激化で - ニューズウィーク日本版",
-    "timestamp": "2026-07-19T23:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン間の攻撃激化を受け、原油先物が3%超上昇しブレント油90ドルを突破。中東地政学リスク再燃により供給懸念が強まっている。"
-  },
-  {
-    "title": "米国原油先物 (USOIL-F) は7月19日に上昇 2.57%：需要の見通しは変化しているのか？ - TradingKey",
-    "timestamp": "2026-07-19T22:15:56+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月19日の米国原油先物が2.57%上昇した。記事は需要見通しの変化について問題提起している解説記事。短期的な技術的反発の可能性。"
   },
   {
     "title": "原油価格90ドル突破、イラン戦争激化で暗号資産に影響 - BeInCrypto",
@@ -306,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イランの地政学的緊張激化により、ブレント原油が90ドルを突破した。中東地域の供給リスク懸念が市場を押し上げた。"
-  },
-  {
-    "title": "WTI原油先物相場、買い先行 84ドル半ばまで上昇 - Moomoo",
-    "timestamp": "2026-07-19T22:23:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が84ドル半ばまで上昇し、買い先行の相場展開となっている。ただし相場解説の速報的なニュースであり、具体的なファンダメンタルズ要因は明記されていない。"
   },
   {
     "title": "速報（20-7）：原油価格が1バレル90ドルを突破、金価格は週明けに急落。 - Vietnam.vn",
@@ -2176,5 +2011,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東紛争の緊迫化を背景にブレント原油が3%超上昇し、約6週間ぶりの高値を付けた。地政学的リスクによる供給不安が買い圧力となっている。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4129ドル｜ドルインデックスの下落が影響した模様(2026年7月23日) - OANDA証券",
+    "timestamp": "2026-07-22T23:04:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4129ドルまで上昇した。ドルインデックスの下落が主要な上昇要因となっている。市場の既知の要因に基づく値動きと考えられる。"
+  },
+  {
+    "title": "本日（7月23日）の金価格：国内の金価格は変動し、上昇と下落を繰り返しています。 - Vietnam.vn",
+    "timestamp": "2026-07-22T22:59:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が7月23日に変動し、上昇と下落を繰り返している状況の報道。国内市場の日中の値動きについての定期的な価格情報記事。"
+  },
+  {
+    "title": "2026年7月23日の金価格：世界的な価格高騰、SJCは力強い突破口を開く可能性あり。 - Vietnam.vn",
+    "timestamp": "2026-07-22T23:11:25+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が世界的な高騰に連動して上昇している。SJC（ベトナム公式金）が強気の展開を見せている。既に報じられている世界的な金相場の強気トレンドの地域的な反映。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：供給懸念が強まり、原油価格は4営業日続伸（2026年7月23日） - OANDA証券",
+    "timestamp": "2026-07-22T23:13:56+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が4営業日続伸。供給懸念が価格支援要因となっている。アナリスト解説による相場振り返り記事。"
+  },
+  {
+    "title": "国際原油価格が1バレル94ドル台を再突破…NY株式市場、米・イラン衝突で全面安 - BigGo ファイナンス",
+    "timestamp": "2026-07-22T22:26:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン間の衝突懸念により、国際原油価格が1バレル94ドル台を再突破した。中東地政学リスクの急速な顕在化が供給リスクプレミアムを押し上げている。NY株式市場は全面安となり、リスク資産売却の圧力が強まっている。"
+  },
+  {
+    "title": "WTI原油先物相場、上昇 87ドル台後半で推移 - Moomoo",
+    "timestamp": "2026-07-22T23:09:13+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が87ドル台後半で推移している。具体的な買い材料や売り材料が明記されていない相場状況の報告。"
+  },
+  {
+    "title": "２２日の主要国際商品市況 - 株探",
+    "timestamp": "2026-07-22T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "22日の主要国際商品市況をまとめた日次レポート。具体的な商品別価格や騰落率の詳細が不明。定期的なマーケットサマリーと推定される。"
+  },
+  {
+    "title": "上海国際エネルギー取引センターの原油先物ナイトセッションは2.74%高の上昇で、1バレルあたり565.30人民元で取引を終えました。上海のゴールド先物ナイトセッションは1.04%上昇、シルバー先物ナイトセッションは1.69%上昇しました。最近、コモディティ市場の値動きが比較 - Bitget",
+    "timestamp": "2026-07-22T10:41:21+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "上海の原油先物が2.74%上昇し565.30人民元/バレルで引け。貴金属（金1.04%、銀1.69%）も同時上昇。コモディティ全般的な連れ高相場を記録。"
   }
 ]
