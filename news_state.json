@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油価格が高騰しても国民の負担7000億円節約できた？ 再エネへの投資、最大限進めていたとして試算 - 東京新聞デジタル",
-    "timestamp": "2026-07-19T21:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "再生可能エネルギーへの最大投資により、原油高騰時に国民負担7000億円の削減が可能だったとの試算。エネルギー政策のシナリオ分析であり、実現した事実ではなく仮定的な主張。"
-  },
-  {
     "title": "今日の金価格（7月20日）：変動が激しいが、買うべきか売るべきか？ - Vietnam.vn",
     "timestamp": "2026-07-19T22:07:26+00:00",
     "importance": 2,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格（SJC金、9999金リング）と週初めの世界金価格に関する定期的な価格情報提供。市場動向の単なる報道で、新規材料を含まない。"
-  },
-  {
-    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-07-19T20:30:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WisdomTree WTI原油上場投信（1690）の株価・株式情報ページの更新。特定の新規ニュースイベントではなく、投信の基本情報・価格データの定期更新と考えられる。"
   },
   {
     "title": "金価格は4000ドルを試す局面に入っている。 - Vietnam.vn",
@@ -2143,5 +2121,49 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "カンザスシティ小麦がUSX756.48のレジスタンスレベルでのブレイクアウトを試みている状況についてのテクニカル分析。テクニカルレベルの突破がさらなる上昇につながるかどうかを検討している相場解説。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況・22日 続伸 - Moomoo",
+    "timestamp": "2026-07-22T20:40:49+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物市場が22日に続伸した。具体的な値動き幅や変動要因の詳細は不明。市場概況の振り返り報道と考えられる。"
+  },
+  {
+    "title": "原油先物続伸、ブレント3％超高 中東紛争緊迫で約6週間ぶり高値 - ロイター",
+    "timestamp": "2026-07-22T19:57:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東紛争の緊迫化を受けて原油先物が続伸し、ブレント原油が3%超上昇。約6週間ぶりの高値を更新。地政学リスク要因による供給懸念が相場を支える。"
+  },
+  {
+    "title": "ホルムズ海峡に続きバブ・エル・マンデブ海峡も封鎖危機、原油価格が6週間ぶりに95ドル突破 - BigGo ファイナンス",
+    "timestamp": "2026-07-22T18:38:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡に加えバブ・エル・マンデブ海峡も封鎖危機に直面し、世界最大級の2大石油海上輸送路が同時に機能不全に陥る可能性が浮上。原油価格は6週間ぶりに95ドルを突破し、供給の大幅な逼迫を反映している。"
+  },
+  {
+    "title": "原油先物続伸、ブレント3％超高 中東紛争緊迫で約6週間ぶり高値 - ニューズウィーク日本版",
+    "timestamp": "2026-07-22T19:57:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東紛争の緊迫化に伴い、原油先物が続伸しブレント原油は3%超上昇。約6週間ぶりの高値を更新した。地政学的リスク要因による供給不安が相場を押し上げている。"
   }
 ]
