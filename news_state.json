@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日の金価格、2026年7月19日（9999金）、2026年7月19日午後：週末の9999金、BTMC金リング、BTMC、およびDOJI金の終値リスト。 - Vietnam.vn",
-    "timestamp": "2026-07-19T07:38:17+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格終値リスト（2026年7月19日午後）。複数の金取扱業者（BTMC、DOJI等）の週末終値を記載したニュース。市場動向の分析材料なし。"
-  },
-  {
     "title": "ECB会合が金価格市場の注目を集める - Laodong.vn",
     "timestamp": "2026-07-19T10:51:58+00:00",
     "importance": 3,
@@ -2088,5 +2077,27 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "21日の主要国際商品市況に関するニュース報道。具体的な価格変動や市場イベントの詳細は記事内容が不明。定期的な市況情報の配信記事と推察される。"
+  },
+  {
+    "title": "県内6月の景気動向、4カ月ぶり改善 原油価格下落の期待感も、米イラン再び緊張で改善継続は不透明 - 神戸新聞",
+    "timestamp": "2026-07-22T08:16:18+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "兵庫県の6月景気動向が4カ月ぶりに改善。原油価格下落への期待感が支援要因。ただし米イラン間の緊張再燃により改善の継続性は不確実。"
+  },
+  {
+    "title": "WTI原油先物相場、堅調 87ドル台後半で推移 - Moomoo",
+    "timestamp": "2026-07-22T08:03:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が87ドル台後半で推移している。現在の価格帯は最近のレンジ内での堅調な相場展開。特段の新規材料や大きな変動は報じられていない。"
   }
 ]
