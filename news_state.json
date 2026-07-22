@@ -1,27 +1,5 @@
 [
   {
-    "title": "ECB会合が金価格市場の注目を集める - Laodong.vn",
-    "timestamp": "2026-07-19T10:51:58+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ECB（欧州中央銀行）の定例会合が金市場の注目を集めている。金利決定が金価格に直結する重要なイベント。ドル/ユーロ相場への影響も金相場の変動要因となる。"
-  },
-  {
-    "title": "国際原油高で原油ETFが10%急騰、半導体・中国ハイテク株は2桁の急落 - BigGo ファイナンス",
-    "timestamp": "2026-07-19T11:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "国際原油が上昇し、原油ETFが10%急騰した。同時に半導体や中国ハイテク株が2桁下落し、セクター間で異なる動きが見られた。原油高はエネルギー関連の投資家にとって注視対象。"
-  },
-  {
     "title": "今週、金価格が急落した。これは、複数の機関による政策介入がきっかけとなった転換点である。 - Vietnam.vn",
     "timestamp": "2026-07-19T12:20:24+00:00",
     "importance": 3,
@@ -2099,5 +2077,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物が87ドル台後半で推移している。現在の価格帯は最近のレンジ内での堅調な相場展開。特段の新規材料や大きな変動は報じられていない。"
+  },
+  {
+    "title": "本日の金価格、2026年7月22日（9999金）、午後：水曜日の9999金、BTMC金リング、BTMC、およびDOJI金の最新価格。 - Vietnam.vn",
+    "timestamp": "2026-07-22T11:01:53+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトが2026年7月22日の金相場を報道。現物金（9999金）およびBTMC、DOJI等の小売業者の価格を掲載したもの。"
+  },
+  {
+    "title": "原油価格が91ドル突破で債券市場に売り圧力！米長期金利が節目を突破、FRBは来週の会合でジレンマに直面 - BigGo ファイナンス",
+    "timestamp": "2026-07-22T10:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が91ドルを突破し、インフレ圧力から米長期金利が上昇。FRBは来週の会合で金利引き上げ継続と物価抑制のジレンマに直面する状況。"
+  },
+  {
+    "title": "【日本】円が163円台突破で39年ぶり安値、国内銅価格は237万円と過去最高を更新 - BigGo ファイナンス",
+    "timestamp": "2026-07-22T06:37:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "円が163円台で39年ぶりの安値をつけ、為替環境が変化。国内銅価格は237万円と過去最高を更新し、ドル建て銅価格の円換算値が大きく上昇。"
+  },
+  {
+    "title": "【FXライブ】ドル円は買い一択！的中率100％ってマジ？（第23回） Copper Price (bN4tc4nPuc) - Mshale",
+    "timestamp": "2026-07-22T08:00:26+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "FXライブ番組の第23回放映で、ドル円相場の買いシグナルについて扱う番組宣伝。銅価格との直接的な関連性は不明確。"
   }
 ]
