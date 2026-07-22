@@ -1,60 +1,5 @@
 [
   {
-    "title": "今週、金価格が急落した。これは、複数の機関による政策介入がきっかけとなった転換点である。 - Vietnam.vn",
-    "timestamp": "2026-07-19T12:20:24+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が今週急落した。複数の機関による政策介入が転換点となった。具体的な介入内容や規模は記事の要約からは不明。"
-  },
-  {
-    "title": "「金価格がピークの時に買ってしまったので、今は損切りしたいのですが、どうしても踏み切れません。」 - Vietnam.vn",
-    "timestamp": "2026-07-19T12:37:14+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "個人投資家が金のピーク買いで損失を抱え、損切りに踏み切れないという個人的な相場心理に関する記事。市場全体の需給やファンダメンタルズに関する具体的な新規情報は含まれていない。"
-  },
-  {
-    "title": "金価格は今週も低調な取引が続き、専門家は来週の見通しについて悲観的な見方を示している。 - Vietnam.vn",
-    "timestamp": "2026-07-19T12:29:58+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は今週も低調な取引が続いている。専門家は来週の見通しについて悲観的な見方を示している。既に織り込まれた弱気見通しの再確認に過ぎない。"
-  },
-  {
-    "title": "専門家は、金価格は今後も下落を続け、来週には容易に4000ドルを下回ると予測している。 - Vietnam.vn",
-    "timestamp": "2026-07-19T11:57:04+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4000ドルを下回る可能性があるというアナリスト予測。既に下落トレンド中での観測コメント。サプライズ性は限定的。"
-  },
-  {
-    "title": "週末にかけて、SJCの金価格は下落する傾向がある。 - Vietnam.vn",
-    "timestamp": "2026-07-19T12:20:31+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムSJC金価格が週末にかけて下落傾向を示している。金現物市場における軽微な値動きの解説記事。既知の相場パターンの報告。"
-  },
-  {
     "title": "金価格は本日7月19日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
     "timestamp": "2026-07-19T14:54:25+00:00",
     "importance": 2,
@@ -2121,5 +2066,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "FXライブ番組の第23回放映で、ドル円相場の買いシグナルについて扱う番組宣伝。銅価格との直接的な関連性は不明確。"
+  },
+  {
+    "title": "黒海への攻撃と米国の作物生産予測引き下げで小麦価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-22T13:16:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海への攻撃による供給リスク顕在化と米国の小麦生産見通し引き下げの二つの要因が重なり、小麦価格が上昇。ウクライナ産小麦の供給懸念と主要生産国の減産見通しにより供給逼迫への懸念が高まった。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ $ブレント先物(2609) (BZmain.US)$ - Moomoo",
+    "timestamp": "2026-07-22T13:06:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物とブレント先物の取引情報をまとめたページのようだが、具体的なニュースコンテンツが提供されていない。単なる価格データや銘柄表示のみと見られる。"
+  },
+  {
+    "title": "トウモロコシ先物、原油価格と天候要因で上昇して始まる見通し 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-22T13:16:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トウモロコシ先物が原油価格と天候要因を背景に上昇する見通しが示されている。バイオ燃料需要との連動性と供給リスクが相互作用している。ただしニュース記事の具体的な詳細が不足している。"
   }
 ]
