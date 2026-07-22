@@ -691,5 +691,38 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要減速の継続的な下方修正は、エネルギー転換と経済成長鈍化を反映している。複数回の下方修正は市場心理の悪化を示唆し、原油価格への下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-07-22T20:37:19.631982+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが6月の牛乳生産統計を発表。24主要州の牛乳生産量は189億ポンドで、前年同月比2.4%増加。需給逼迫の緩和を示唆し、酪農飼料（トウモロコシ・大豆）の価格圧力につながる可能性がある。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-07-22T20:37:19.631982+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが6月の牛乳生産統計を発表。24主要州の牛乳生産量は189億ポンドで、前年同月比2.4%増加。需給逼迫の緩和を示唆し、酪農飼料（トウモロコシ・大豆）の価格圧力につながる可能性がある。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-07-22T20:37:19.631982+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが6月の牛乳生産統計を発表。24主要州の牛乳生産量は189億ポンドで、前年同月比2.4%増加。需給逼迫の緩和を示唆し、酪農飼料（トウモロコシ・大豆）の価格圧力につながる可能性がある。"
   }
 ]
