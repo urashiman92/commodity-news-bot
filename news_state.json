@@ -1,27 +1,5 @@
 [
   {
-    "title": "今日の金価格（7月20日）：変動が激しいが、買うべきか売るべきか？ - Vietnam.vn",
-    "timestamp": "2026-07-19T22:07:26+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が7月20日時点で変動が激しい状況。買い売りの判断を求めるコメンタリー記事。具体的な価格変動幅や要因は記事概要では不明。"
-  },
-  {
-    "title": "2026年7月20日朝の金価格：SJC金価格、9999金リング価格、および週初めの世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-19T22:09:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC金、9999金リング）と週初めの世界金価格に関する定期的な価格情報提供。市場動向の単なる報道で、新規材料を含まない。"
-  },
-  {
     "title": "金価格は4000ドルを試す局面に入っている。 - Vietnam.vn",
     "timestamp": "2026-07-19T22:43:35+00:00",
     "importance": 3,
@@ -2165,5 +2143,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東紛争の緊迫化に伴い、原油先物が続伸しブレント原油は3%超上昇。約6週間ぶりの高値を更新した。地政学的リスク要因による供給不安が相場を押し上げている。"
+  },
+  {
+    "title": "本日7月23日の金価格：金地金は最大140万ベトナムドン下落。 - Vietnam.vn",
+    "timestamp": "2026-07-22T21:58:15+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金価格が7月23日に最大140万ベトナムドン下落した。ローカル市場での値動きを報じたもので、グローバルな金相場への直接的な影響は限定的。"
+  },
+  {
+    "title": "NY為替：戦争拡大懸念に原油価格や長期金利上昇 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-22T21:27:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東紛争の拡大懸念により、原油価格と長期金利が上昇した。地政学的リスクプレミアムが相場に反映された形。既報の地政学的緊張の延長線上での値動き。"
+  },
+  {
+    "title": "原油先物続伸、ブレント3％超高　中東紛争緊迫で約6週間ぶり高値 - ｄメニューニュース",
+    "timestamp": "2026-07-22T19:57:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東紛争の緊迫化を背景にブレント原油が3%超上昇し、約6週間ぶりの高値を付けた。地政学的リスクによる供給不安が買い圧力となっている。"
   }
 ]
