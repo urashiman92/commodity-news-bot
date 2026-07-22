@@ -1,16 +1,5 @@
 [
   {
-    "title": "Little reaction in durum market to USDA reports - AgUpdate",
-    "timestamp": "2026-07-19T11:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの穀物関連レポート発表後もデュラム小麦市場の反応が限定的であったことを報じている。市場参加者の関心が低いか、事前予想の範囲内の内容だったと推測される。デュラム小麦は小麦市場の中でもニッチセグメントであり、大きな価格変動には至らなかった。"
-  },
-  {
     "title": "Morning Bid: Rising oil, yields rain on AI party - Reuters",
     "timestamp": "2026-07-20T04:32:00+00:00",
     "importance": 3,
@@ -484,17 +473,6 @@
     "summary": "ミシガン州立大学が、貯蔵穀物の販売において地域ベーシスの強さを活用することで最大利益を得られる可能性を指摘するレポート。貯蔵穀物の農家の売却タイミングと地域市況の関連性に関する解説で、穀物相場の短期的な上昇要因にはならない。"
   },
   {
-    "title": "Forget OPEC+ Output Hike – Duration of Hormuz Disruption is What Matters - EnergyNow.com",
-    "timestamp": "2026-07-19T11:26:24+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "本レポートは、OPEC+の増産決定よりもホルムズ海峡の供給途絶リスクの継続期間が原油価格に与える影響の方がはるかに大きいと指摘。地政学的な海上通路遮断リスクが、需給調整よりも価格変動の主要なドライバーとなる可能性を強調している。"
-  },
-  {
     "title": "Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk - Bloomberg.com",
     "timestamp": "2026-07-21T14:31:19+00:00",
     "importance": 4,
@@ -581,5 +559,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国経済の回復とそれに伴う需要期待がアジア株式市場を支援し、連動して原油価格も上昇。ドル強化と米金利動向への警戒がある中、エネルギー需要の局所的な強さが価格を下支えしている。具体的な数値は提供されていないが、米国の景気改善シグナルがコモディティ全般に軽微なポジティブ材料として機能している。"
+  },
+  {
+    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-07-22T07:25:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要鈍化が示唆されており、市場では供給過剰懸念が強まっている。このシグナルはOPEC減産方針の見直しにつながる可能性があり、原油価格の下押し圧力となる。"
+  },
+  {
+    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-07-22T07:25:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要鈍化が示唆されており、市場では供給過剰懸念が強まっている。このシグナルはOPEC減産方針の見直しにつながる可能性があり、原油価格の下押し圧力となる。"
   }
 ]
