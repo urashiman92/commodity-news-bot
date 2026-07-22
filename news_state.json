@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日7月19日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-07-19T14:54:25+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月19日の金価格が大幅に下落し、買い手が損失を被った。ベトナムの現地ニュースによる相場動向の事後報告。"
-  },
-  {
-    "title": "本日2026年7月20日の金価格は、ネガティブなニュースに直面しており、底打ちの可能性が高まっています。市場は新たな材料を待っています。 - Vietnam.vn",
-    "timestamp": "2026-07-19T14:46:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格がネガティブなニュースに直面しており、底打ちの可能性が指摘されている。市場は新たなきっかけ待ちの状況。具体的なニュース内容や価格水準の記載がない。"
-  },
-  {
     "title": "原油価格が高騰しても国民の負担7000億円節約できた？ 再エネへの投資、最大限進めていたとして試算 - 東京新聞デジタル",
     "timestamp": "2026-07-19T21:00:00+00:00",
     "importance": 2,
@@ -295,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン情勢の悪化により原油価格が90ドルを突破した。地政学的リスクによる供給懸念が価格を押し上げている。暗号資産を含むリスク資産への波及効果も注視される。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ 中国が輸入増を開始。 - Moomoo",
-    "timestamp": "2026-07-19T15:15:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中国が原油輸入を増加させ始めたというニュース。需要面からのポジティブ要因として機能。WTI原油の下支え材料になる可能性がある。"
   },
   {
     "title": "金価格が4,000ドルの大台割れ、中国の金ETFは3カ月で時価総額800億元超が消失 - BigGo ファイナンス",
@@ -2099,5 +2066,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トウモロコシ先物が原油価格と天候要因を背景に上昇する見通しが示されている。バイオ燃料需要との連動性と供給リスクが相互作用している。ただしニュース記事の具体的な詳細が不足している。"
+  },
+  {
+    "title": "金価格は本日2026年7月23日に急騰した。投資家が底値買いに殺到したためだが、市場にはもう少し時間が必要だ。 - Vietnam.vn",
+    "timestamp": "2026-07-22T14:54:41+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が本日上昇し、投資家の底値買いが殺到した。ただしこのニュースは価格上昇の事後解説であり、市場にはさらなる時間が必要とのコメント。"
+  },
+  {
+    "title": "米国原油先物 (USOIL-F) は7月22日に上昇 2.13%：注目すべき情報 - TradingKey",
+    "timestamp": "2026-07-22T06:51:14+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月22日の米国原油先物が2.13%上昇した。単日の値動きを報じたニュース速報であり、具体的な上昇要因は記事概要からは不明。"
+  },
+  {
+    "title": "世界の原油価格は6週間ぶりの高値に急騰した。 - Vietnam.vn",
+    "timestamp": "2026-07-22T14:06:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が6週間ぶりの高値に上昇した。値動き自体は注視に値するが、具体的な需給要因や地政学リスク、供給ショックの詳細が報道から不明確。既報の値動きを振り返るコメンタリーと思われる。"
   }
 ]
