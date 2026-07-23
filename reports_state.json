@@ -1,71 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-20T20:41:53.513958+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、大豆、小麦）の生育進捗と圃場状態の推定値を発表。具体的な進捗率やコンディション評価は報告内容の詳細が必要。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-20T20:41:53.513958+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、大豆、小麦）の生育進捗と圃場状態の推定値を発表。具体的な進捗率やコンディション評価は報告内容の詳細が必要。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-20T20:41:53.513958+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、大豆、小麦）の生育進捗と圃場状態の推定値を発表。具体的な進捗率やコンディション評価は報告内容の詳細が必要。"
-  },
-  {
-    "title": "Farm Programs & Ag Insights: Summer USDA reports set the tone for grain markets - TheLandOnline",
-    "timestamp": "2026-07-20T20:55:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの夏季定期レポート（Crop Progress/Production）が穀物市場の基調を設定する重要な発表時期。作付面積、生育進捗、生産予測などが市場予想と比較される。具体的な数値データなしには方向性の判定が困難。"
-  },
-  {
-    "title": "Farm Programs & Ag Insights: Summer USDA reports set the tone for grain markets - TheLandOnline",
-    "timestamp": "2026-07-20T20:55:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの夏季定期レポート（Crop Progress/Production）が穀物市場の基調を設定する重要な発表時期。作付面積、生育進捗、生産予測などが市場予想と比較される。具体的な数値データなしには方向性の判定が困難。"
-  },
-  {
-    "title": "Farm Programs & Ag Insights: Summer USDA reports set the tone for grain markets - TheLandOnline",
-    "timestamp": "2026-07-20T20:55:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの夏季定期レポート（Crop Progress/Production）が穀物市場の基調を設定する重要な発表時期。作付面積、生育進捗、生産予測などが市場予想と比較される。具体的な数値データなしには方向性の判定が困難。"
-  },
-  {
     "title": "Asian stocks rise as Mideast mediation takes oil lower - Reuters",
     "timestamp": "2026-07-21T02:02:00+00:00",
     "importance": 3,
@@ -108,17 +42,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "地政学的紛争がリスク資産である株式・債券市場を圧迫する中、原油は堅調さを保っている。紛争による供給懸念と金利環境の複雑な相互作用がコモディティ市場全体に不均一な影響をもたらしている状況。"
-  },
-  {
-    "title": "Farm Programs & Ag Insights: Summer USDA reports set the tone for grain markets - TheLandOnline",
-    "timestamp": "2026-07-20T20:55:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA夏季レポート（Crop Progress/Production）が穀物市場のトーンを設定する重要な定期発表。作付面積、生育進捗、生産予測などの重要データが市場の方向性を決める。具体的な数値がレポート内容から不明だが、作物の健全性、天候の影響、収穫予想が価格の上下方向に大きく影響する可能性が高い。"
   },
   {
     "title": "USDA crop report shows corn quality dips slightly - Farm Progress",
@@ -152,50 +75,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが紅海経由の原油輸送量を過去最高に達したと報じられた。その直後にフーシ派が警告を発し、紅海での供給途絶リスクが急速に高まった。地政学的緊張により、グローバルな原油供給の重要回廊が脅威にさらされている。"
-  },
-  {
-    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
-    "timestamp": "2026-07-20T21:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
-  },
-  {
-    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
-    "timestamp": "2026-07-20T21:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
-  },
-  {
-    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
-    "timestamp": "2026-07-20T21:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
-  },
-  {
-    "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
-    "timestamp": "2026-07-20T21:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE報告書において、大多数のコモディティ推定値が引き上げられた。トウモロコシ、小麦、大豆など主要穀物の生産見通しが前月比で上方修正される見込みが示唆されている。Mielke Market Weeklyは市場の重要な定期発表として位置付けられている。"
   },
   {
     "title": "Crop Market Volatility Surges: Wheat Rallies on Black Sea Disruptions & Milo Face Export Challenges - Oklahoma Farm Report",
@@ -1021,5 +900,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナによる攻撃でロシアの石油資産が打撃を受ける中、ロシアがディーゼル輸出禁止の長期化を検討。供給制約の深刻化により、既に逼迫しているディーゼル市場に新たな上昇圧力が加わる可能性が高い。地政学リスクの再顕在化として市場の注視が必要。"
+  },
+  {
+    "title": "Crude and gasoline stockpiles post modest weekly gains - Midland Reporter-Telegram",
+    "timestamp": "2026-07-23T21:11:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計で、原油とガソリン在庫が小幅な週次増加を記録した。「modest weekly gains（控えめな週次増加）」との表現から、市場予想の範囲内での通常の在庫変動と判断される。"
+  },
+  {
+    "title": "OIL - Opec+'s slow unwind continues even as a second chokepoint closes - investingLive",
+    "timestamp": "2026-07-23T20:56:48+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の段階的な減産政策の解除が継続される中、第2の重要な海峡（ホルムズ海峡またはバブ・エル・マンデブ海峡の可能性）の地政学的リスクが解消されたことが報じられている。供給制約の緩和と地政学リスク低減により、原油価格には下押し圧力がかかる見通し。"
+  },
+  {
+    "title": "Oil Tops $100 as Houthi Attacks in Red Sea Amplify Supply Risks - Bloomberg.com",
+    "timestamp": "2026-07-22T22:02:06+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海でのフーシ派による船舶攻撃が激化し、原油価格が100ドルを突破した。中東の重要な海運ルートに対する地政学的リスクが顕在化し、供給途絶への懸念から急速に上昇。既報の地域不安定化に対する市場の具体的な価格反応として注視される。"
   }
 ]
