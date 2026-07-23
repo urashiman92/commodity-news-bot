@@ -1,38 +1,5 @@
 [
   {
-    "title": "原油先物が再び上昇 １カ月ぶり高値、原油８５ドル 中東緊迫で - 日本農業新聞",
-    "timestamp": "2026-07-20T20:02:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東緊迫情勢を背景に原油先物が1カ月ぶりの高値となる85ドル水準まで上昇。地政学的リスク要因により供給懸念が高まっている。ただし85ドル水準自体は年内での想定範囲内の動き。"
-  },
-  {
-    "title": "原油価格上振れに現実味、中長期の供給不足も - 化学工業日報 電子版",
-    "timestamp": "2026-07-20T20:02:47+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が中期的に上振れする可能性が指摘されている。中長期的な供給不足が懸念材料として挙げられており、価格上昇圧力が存在する見通し。"
-  },
-  {
-    "title": "シェブロン（CVX）にとっての原油価格の上昇という追い風とコスト削減が、株主にとって何を意味するのか - simplywall.st",
-    "timestamp": "2026-07-20T19:44:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "シェブロンは原油価格上昇と経営効率化によって利益改善が期待される。コスト削減と高油価環境が株主価値向上の主要ドライバーとなる見通し。既知の市場環境下での企業固有の好材料。"
-  },
-  {
     "title": "2026年7月21日午前の金価格：SJC金価格、9999金リング価格、および3日目の世界金価格。 - Vietnam.vn",
     "timestamp": "2026-07-20T22:34:55+00:00",
     "importance": 1,
@@ -75,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "紅海での地政学的緊張がホルムズ海峡に加わり、中東からアジア向けの重要な原油輸送ルートが二重に脅かされている。国際原油価格が90ドルを突破し、アジアのサプライチェーン崩壊リスクが高まった。"
-  },
-  {
-    "title": "シェブロン（CVX）にとっての原油価格の上昇という追い風とコスト削減が、株主にとって何を意味するのか - simplywall.st",
-    "timestamp": "2026-07-20T19:44:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "シェブロンが原油価格上昇とコスト削減の恩恵を受け、株主価値の向上が見込まれる。既知の市場環境下での企業体質改善についての解説。"
   },
   {
     "title": "本日7月21日の原油価格：供給リスクへの懸念から1％以上上昇。 - Vietnam.vn",
@@ -493,17 +449,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格が7月21日午後に変動したとの報道。具体的な価格水準や変動幅の記載がなく、単なる日次相場の値動き報告と推察される。"
-  },
-  {
-    "title": "更新情報：米ドルと利回りが上昇する中でも、金価格は堅調に推移 - Moomoo",
-    "timestamp": "2026-07-20T18:48:58+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米ドル上昇と利回り上昇という金にとって逆風環境の中でも、金価格が堅調に推移していることを報道。金買い需要の底堅さを示唆している。"
   },
   {
     "title": "本日（7月21日）、金価格は再び急騰した。店舗では引き続き売れ行きが鈍く、数量制限なしで販売されている。 - Vietnam.vn",
@@ -2055,5 +2000,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "世界的な金価格が回復する中、ベトナム国内の金価格は1オンス当たり600万ドンの急落を記録した。国内市場と国際市場の乖離が生じている状況の報道。"
+  },
+  {
+    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-07-23T18:12:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WisdomTree WTI原油上場投信の株価情報ページへのリンク。ファンド自体の情報提供であり、新規ニュースイベントではない。"
+  },
+  {
+    "title": "円相場 約40年ぶり1ドル＝164円に迫る 原油先物価格上昇で「ドル高」進む - ABEMA",
+    "timestamp": "2026-07-23T17:27:21+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "円相場が約40年ぶりに1ドル=164円に迫る水準まで進行。ドル高傾向がドル建て原油先物価格を押し上げる要因として作用している。円安環境は国内原油関連企業には有利だが、輸入原油コスト負担は増加。"
+  },
+  {
+    "title": "AIブームで世界の銅価格高騰 データセンター需要量、EV向け並みに - 日経ビジネス電子版",
+    "timestamp": "2026-07-23T20:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "AI需要の急増によるデータセンター向け銅需要がEV向けと同程度の水準に達した。生成AI普及による消費電力増加に伴い、電力インフラ・冷却システムなど銅集約的な設備投資が加速している。既知のAIトレンドが銅需要面で可視化された段階。"
   }
 ]
