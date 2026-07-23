@@ -1,38 +1,5 @@
 [
   {
-    "title": "Morning Bid: Rising oil, yields rain on AI party - Reuters",
-    "timestamp": "2026-07-20T04:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の長期金利上昇と原油価格の上昇がAI関連企業への投資魅力を減少させているとの市場解説。金利上昇は無利子資産である金の下落圧力となる一方、原油高はエネルギーコストを押し上げる。AIセクターの収益性評価低下がリスク資産全般に重圧となっている状況。"
-  },
-  {
-    "title": "Morning Bid: Rising oil, yields rain on AI party - Reuters",
-    "timestamp": "2026-07-20T04:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国の長期金利上昇と原油価格の上昇がAI関連企業への投資魅力を減少させているとの市場解説。金利上昇は無利子資産である金の下落圧力となる一方、原油高はエネルギーコストを押し上げる。AIセクターの収益性評価低下がリスク資産全般に重圧となっている状況。"
-  },
-  {
-    "title": "Morning Bid: Rising oil, yields rain on AI party - Reuters",
-    "timestamp": "2026-07-20T04:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国の長期金利上昇と原油価格の上昇がAI関連企業への投資魅力を減少させているとの市場解説。金利上昇は無利子資産である金の下落圧力となる一方、原油高はエネルギーコストを押し上げる。AIセクターの収益性評価低下がリスク資産全般に重圧となっている状況。"
-  },
-  {
     "title": "Yemen’s Houthis to Impose Maritime Blockade on Saudi Arabia - Bloomberg.com",
     "timestamp": "2026-07-20T13:20:52+00:00",
     "importance": 4,
@@ -845,5 +812,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国テック企業の好調な決算がアジア株式市場を押し上げ、リスク資産への需要が回復。これに伴い原油は6週間ぶりの高値水準に上昇した。テック企業の決算良好はマクロ環境の改善を示唆し、エネルギー需要の下支えに寄与している。"
+  },
+  {
+    "title": "EIA reports a rise in US crude oil stocks - engine.online",
+    "timestamp": "2026-07-23T06:02:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告。在庫積み増しは原油供給過剰を示唆し、価格に下押し圧力をもたらす。具体的な在庫増加量の数字が報道内容に含まれていないため、サプライズ度の評価が困難。"
+  },
+  {
+    "title": "Crude Oil Rallies as Global Supply Risks Intensify - TradingView",
+    "timestamp": "2026-07-22T15:45:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "グローバルな供給リスクの高まりにより原油価格が上昇している。OPEC関連の供給懸念が市場を支えており、地政学的緊張やサプライチェーンの不確実性が価格を押し上げている状況。具体的な供給削減量や価格水準の詳細は記事内容から判断不可。"
+  },
+  {
+    "title": "Two Chinese supertankers with Saudi oil head to Bab el-Mandeb for Red Sea exit - Reuters",
+    "timestamp": "2026-07-23T02:29:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国のスーパータンカー2隻がサウジアラビア産原油を積載し、紅海のバブエルマンデブ海峡への向かっている。同海峡は主要な石油輸送ルートであり、地政学的リスク（紅海での海運障害）が顕在化している。中国への原油供給確保の動きが強まっており、タイトな供給環境を反映している。"
+  },
+  {
+    "title": "Oil Jumps After Houthis Attack Two Saudi Tankers in the Red Sea - Bloomberg.com",
+    "timestamp": "2026-07-22T22:02:06+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海でフーシ派がサウジアラビアのタンカー2隻を攻撃し、原油価格が上昇した。この地政学的リスクは重要な海上輸送ルートであるスエズ運河周辺での供給途絶リスクを顕在化させ、市場に急速な価格調整をもたらした。"
   }
 ]
