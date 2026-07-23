@@ -955,5 +955,71 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの石油ガス部門の収入が7月に前年同月比60%増加する見通し。制裁下での価格上昇とエネルギー需要の堅調さが背景。ただし具体的な生産量データが記事から不明。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-07-23T20:31:20.044020+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-07-23T20:31:20.044020+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-07-23T20:31:20.044020+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
+  },
+  {
+    "title": "US Crude Oil Stockpiles Surge Past Expectations: API Reports 2.603M Barrel Build - CryptoRank",
+    "timestamp": "2026-07-21T23:59:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国原油在庫が市場予想を上回る260万バレルの大幅な積み増しを記録。EIA/API週間在庫統計の発表。在庫増加は原油需給が緩和していることを示唆し、サプライサイドの圧力が強まっている。価格下落圧力となりやすい。"
+  },
+  {
+    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
+    "timestamp": "2026-07-21T06:32:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECからの離脱を検討しているとのニュースに対し、アナリストRussell氏は予想されるほど原油価格に大きな影響を与えない可能性があると指摘。UAEの生産量は限定的であり、地政学的リスクプレミアムの方が価格変動の主要因となる可能性を示唆。"
+  },
+  {
+    "title": "Russia Eyes Longer Diesel Export Ban as Ukraine Hits Oil Assets - Bloomberg.com",
+    "timestamp": "2026-07-23T15:42:35+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナによる攻撃でロシアの石油資産が打撃を受ける中、ロシアがディーゼル輸出禁止の長期化を検討。供給制約の深刻化により、既に逼迫しているディーゼル市場に新たな上昇圧力が加わる可能性が高い。地政学リスクの再顕在化として市場の注視が必要。"
   }
 ]
