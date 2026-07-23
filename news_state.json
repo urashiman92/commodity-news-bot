@@ -1,16 +1,5 @@
 [
   {
-    "title": "フランスの小麦生産減少にもかかわらず、欧州小麦先物は横ばい 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-20T16:46:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "フランスの小麦生産が減少しているにもかかわらず、欧州小麦先物は値動きなく推移している。供給減少が価格上昇に結びついていない状況を報じるコメンタリー記事。"
-  },
-  {
     "title": "フーシ派によるサウジアラビアとの海上航路封鎖が原油価格の高騰を引き起こした。 - Vietnam.vn",
     "timestamp": "2026-07-20T17:41:17+00:00",
     "importance": 4,
@@ -2044,5 +2033,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場の午前10時台の相場動向報道。ダウ平均が474ドル安となる中、WTI原油先物は4.73ドル上昇。株式市場と原油市場が逆相関を示している。"
+  },
+  {
+    "title": "フーシがサウジ関係タンカー攻撃、原油輸送代替ルートの紅海にも戦域拡大か…原油先物価格は上昇 - 読売新聞",
+    "timestamp": "2026-07-23T16:33:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イエメンの反政府勢力フーシがサウジ関係のタンカーを攻撃。紅海という主要な原油輸送ルートが戦域に拡大し、供給リスク顕在化。原油先物は上昇反応。"
+  },
+  {
+    "title": "トルコ中銀が金利据え置き、原油価格急騰でインフレ低下に不透明性 - Bloomberg.com",
+    "timestamp": "2026-07-23T14:29:09+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トルコ中銀が金利据え置きを決定。原油価格上昇がインフレ低下に与える影響の不透明性が指摘されている。中東地域の金融政策動向が注視される。"
   }
 ]
