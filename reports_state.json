@@ -922,5 +922,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ドイツ国債利回りが15年ぶりの高水準に達し、原油価格が上昇している。ECB（欧州中央銀行）の金融政策決定を控える中、金利上昇環境がコモディティ市場に複雑な影響を与えている。利回り上昇は金には下落圧力だが、原油上昇は供給懸念を反映。"
+  },
+  {
+    "title": "OPEC+ likely to again raise oil output targets from September, sources say - Reuters",
+    "timestamp": "2026-07-23T17:32:58+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月以降も段階的に石油生産目標を引き上げる見通しを複数の関係者が示唆。既に決定済みの増産計画の続報であり、市場では一定程度織り込まれている。段階的な供給増加圧力が原油価格の上昇を抑制する見通し。"
+  },
+  {
+    "title": "Russia's oil and gas revenue seen up 60% y/y in July - Reuters",
+    "timestamp": "2026-07-23T14:43:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの石油ガス部門の収入が7月に前年同月比60%増加する見通し。制裁下での価格上昇とエネルギー需要の堅調さが背景。ただし具体的な生産量データが記事から不明。"
+  },
+  {
+    "title": "Russia's oil and gas revenue seen up 60% y/y in July - Reuters",
+    "timestamp": "2026-07-23T14:43:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの石油ガス部門の収入が7月に前年同月比60%増加する見通し。制裁下での価格上昇とエネルギー需要の堅調さが背景。ただし具体的な生産量データが記事から不明。"
   }
 ]
