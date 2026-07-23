@@ -1,93 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4007ドル｜米長期金利の上昇が影響し、売り優勢だった模様(2026年7月21日) - OANDA証券",
-    "timestamp": "2026-07-20T23:05:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4007ドルに下落した。米長期金利の上昇が売り圧力となった。既知の金利上昇トレンドの継続を反映した動き。"
-  },
-  {
-    "title": "本日（7月21日）の金価格：価格は軒並み急落。 - Vietnam.vn",
-    "timestamp": "2026-07-20T23:15:42+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月21日の金価格が軒並み急落したというベトナムの報道。具体的な下落率や要因の詳細は不明。定期的な相場振り返り記事と考えられる。"
-  },
-  {
-    "title": "2026年7月21日の金価格：150万ベトナムドンが「消滅」、SJCの金価格はあとどれくらい下落するのか？ - Vietnam.vn",
-    "timestamp": "2026-07-20T23:09:53+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が下落し、150万ドン相当の価値が失われた。SJC金の今後の下落幅について市場予測を論じている。ベトナムローカル市場の動向報道。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：イランと米国の戦闘激化やフーシ派の海上封鎖が影響し、原油価格は2営業日続伸（2026年7月21日） - OANDA証券",
-    "timestamp": "2026-07-20T23:15:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランと米国の戦闘激化、フーシ派による紅海での海上封鎖が供給リスク要因として認識され、WTI原油は2営業日続伸。地政学的なリスク要因は既に市場に織り込まれている状況での継続。"
-  },
-  {
-    "title": "再び高騰する原油価格、９０ドルを突破 - 동아일보",
-    "timestamp": "2026-07-20T23:33:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が再び高騰し、1バレル90ドルを突破した。供給制約やジオポリティカルリスクが価格上昇を支えている状況が続いている。"
-  },
-  {
-    "title": "本日（7月21日）の燃料価格：世界の原油価格は反転し、下落。 - Vietnam.vn",
-    "timestamp": "2026-07-20T23:03:30+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月21日時点で世界の原油価格が反転し下落したとの報道。具体的な下落幅や要因については記事概要に記載されていない。市場の通常のボラティリティ範囲内の動きと考えられる。"
-  },
-  {
-    "title": "硫酸不足と鉱山事故が頻発、銅価格は2035年に1.7万ドルへ高騰も - BigGo ファイナンス",
-    "timestamp": "2026-07-20T22:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "硫酸不足と鉱山事故の頻発が銅供給を制約する要因として指摘され、2035年の銅価格が1.7万ドルに達する可能性が提示されている。中期的な供給懸念が強調されている。"
-  },
-  {
-    "title": "２０日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-20T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "20日時点の主要国際商品市況をまとめたニュース。具体的な価格データや変動要因の詳細は記事内容が不明なため、相場振り返り・解説記事と判断される。"
-  },
-  {
     "title": "NY金先物は反発、心理的節目の4,000ドル割れ水準からの押し目買いで下げ渋る｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-07-21T00:16:00+00:00",
     "importance": 2,
@@ -198,17 +110,6 @@
     "summary": "原油価格が3日ぶりに反落し、ブレント油は88ドル台へ。中東情勢の先行き不透明感から、投資家が相場の方向性を見極めている段階。技術的な調整局面と解釈される。"
   },
   {
-    "title": "ホルムズ海峡封鎖で原油価格が90ドル台を再突破、NY株式市場も連れ安 - BigGo ファイナンス",
-    "timestamp": "2026-07-20T23:45:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の封鎖により世界の原油供給の約20-30%が影響を受ける可能性がある。原油価格が90ドル台を再び突破し、エクイティ市場も下落。地政学リスクの具体化で急速に値動きした。"
-  },
-  {
     "title": "原油価格、米イラン緊張とフーシ派のサウジ封鎖を見極め高値維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-21T00:46:00+00:00",
     "importance": 4,
@@ -229,17 +130,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "鉄鉱石が下落する一方、銅は供給途絶への懸念から堅調に推移。コモディティ間で相場展開が分化。市場の供給懸念が銅相場を支えている状況。"
-  },
-  {
-    "title": "２０日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-20T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "20日の主要国際商品市況に関する定期的な市場動向レポート。具体的な価格水準や変動要因の詳細は記事本文がないため判断できない状況。"
   },
   {
     "title": "堂島取引所、大口化した金先物商品の取引開始 機動的な投資促す - 日本経済新聞",
@@ -1967,5 +1857,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "AI巨額投資懸念によるNYダウ急落（600ドル超）が報じられている。原油価格は急騰も、株価下落による経済減速懸念が原油の重しになっている。リスク資産売却の局面を反映している。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4049ドル｜米長期金利の上昇や原油高によるインフレ懸念が影響した模様(2026年7月24日) - OANDA証券",
+    "timestamp": "2026-07-23T23:07:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4049ドルまで下落。米長期金利の上昇と原油高によるインフレ懸念が重しとなった。既知の材料の相場への反映状況を解説したもの。"
+  },
+  {
+    "title": "金価格が高値から26％急落…「底打ちした、今が押し目買いの好機」 - BigGo ファイナンス",
+    "timestamp": "2026-07-23T21:05:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が高値から26%下落した状況について、アナリストが底打ちと押し目買い機会との見解を示している。既に発生した価格変動の解説であり、市場予想の外部性は不明確。"
+  },
+  {
+    "title": "本日2026年7月24日の金価格は、奇妙かつ急激な下落に見舞われ、SJC金は1オンスあたり1億4000万ベトナムドンまで下落した。 - Vietnam.vn",
+    "timestamp": "2026-07-23T23:49:30+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金が1オンスあたり1億4000万ベトナムドンまで下落した。「奇妙かつ急激な」下落と表現されているが、詳細な原因が記事に記載されていない。地域市場の動きとしての報道。"
+  },
+  {
+    "title": "売り圧力の高まりを受けて、金価格は急落した。 - Vietnam.vn",
+    "timestamp": "2026-07-23T23:04:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が売り圧力の高まりを受けて急落した。具体的な要因や下落幅の詳細は記事から不明。既に発生した価格変動の振り返り報道と考えられる。"
+  },
+  {
+    "title": "２４日の債券市場見通し＝原油価格の上昇、米債券安、円安などから円債は下落か 速報 - kabushiki.jp",
+    "timestamp": "2026-07-23T23:11:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "24日の債券市場見通しを述べたコメンタリー記事。原油価格上昇が米債券安をもたらし、円安との相乗で円債下落が予想されている。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：ホルムズ海峡と紅海の封鎖による原油供給停滞が意識され、原油価格は5営業日続伸（2026年7月24日） - OANDA証券",
+    "timestamp": "2026-07-23T23:16:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡と紅海の封鎖による供給懸念が意識され、WTI原油が5営業日連続上昇。既知の地政学的リスク要因の継続的な影響を反映した相場。"
+  },
+  {
+    "title": "トランプ氏「大規模攻撃の決定直前」…原油価格、2カ月ぶりに100ドル突破（2） - 中央日報",
+    "timestamp": "2026-07-23T21:49:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏が大規模攻撃の決定が直前であることを示唆し、地政学的緊張が急速に高まった。原油価格は2カ月ぶりに100ドルを突破し、供給リスク懸念が買い圧力となっている。"
+  },
+  {
+    "title": "ブレント原油、1バレル＝100ドルを再突破…5月26日以来初めて - ｄメニューニュース",
+    "timestamp": "2026-07-23T22:01:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が1バレル＝100ドルを5月26日以来初めて突破した。心理的な重要水準の復帰を示しており、原油市場の上値トライを示唆している。"
+  },
+  {
+    "title": "２３日の主要国際商品市況 - 株探",
+    "timestamp": "2026-07-23T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "23日の主要国際商品市況についての市場レポート。具体的な価格動向や市場背景の詳細情報が提供概要には含まれていない。"
   }
 ]
