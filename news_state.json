@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界的な供給逼迫により、小麦価格が急騰している。 - Vietnam.vn",
-    "timestamp": "2026-07-20T05:32:04+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "世界的な小麦供給の逼迫により価格が急騰している。需給ひっ迫が継続している状況を報じたもの。"
-  },
-  {
     "title": "金価格は急落しており、専門家は調整局面が続くと予測している。 - Vietnam.vn",
     "timestamp": "2026-07-20T07:48:44+00:00",
     "importance": 2,
@@ -22,39 +11,6 @@
     "summary": "金価格が急落している局面にあり、専門家は調整相場が続くと予測している。既に価格下落が進行中であり、市場では調整局面として認識されている。"
   },
   {
-    "title": "本日（7月20日正午）の金価格：SJCの金と金の指輪は引き続き下落しています。 - Vietnam.vn",
-    "timestamp": "2026-07-20T05:45:01+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金と金の指輪の価格が7月20日正午時点で引き続き下落している。地域市場の価格動向を報じた定期的な相場情報。"
-  },
-  {
-    "title": "FTSE 100急落、米・イラン衝突で原油価格が急騰 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-20T07:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン間の衝突が発生し、地政学的リスクが急速に高まった。原油供給への懸念から原油価格が急騰し、同時にリスク回避の売却でFTSE 100が急落した。中東紛争による供給途絶リスクが市場を大きく動かしている。"
-  },
-  {
-    "title": "中東情勢が悪化するなか原油価格は上伸スタート、 ドル円も162円台の高止まりで推移を見守る - ザイFX！",
-    "timestamp": "2026-07-20T05:23:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢悪化を背景に原油価格が上昇で始まった。ドル円は162円台で推移。地政学リスクプレミアムが価格に反映されている状況。"
-  },
-  {
     "title": "7月20日午後、金価格は継続的に下落した。 - Vietnam.vn",
     "timestamp": "2026-07-20T10:49:35+00:00",
     "importance": 2,
@@ -64,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月20日午後に金価格が継続的に下落した。具体的な下落要因や下げ幅の詳細は記載されていない。既に進行中の相場動向の報道。"
-  },
-  {
-    "title": "金価格は本日（7月20日）も下落を続けている。店舗では依然として買い手が少ない状況だ。 - Vietnam.vn",
-    "timestamp": "2026-07-20T07:28:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場で7月20日も価格下落が続いている。店舗での買い手需要は依然として低迷している状況。"
   },
   {
     "title": "国内の金価格は下落する一方、世界の金価格は1オンスあたり4000ドルの水準を回復した。 - Vietnam.vn",
@@ -240,17 +185,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "黒海での船舶輸送懸念が新たに浮上し、小麦先物が2年ぶりの高値を更新。ウクライナ情勢など地政学的リスクが供給不安を増幅させている。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年7月20日）原油価格が金相場を圧迫、COMEXの強気ポジションは過去最高値時以来の水準に - ブリオンボールト",
-    "timestamp": "2026-07-20T06:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "原油価格が金相場に下押し圧力をかけている状況を報告。COMEXの強気ポジションが過去最高時以来の水準に達している。金価格は原油との相関関係の中で値動きしている。"
   },
   {
     "title": "金価格は本日2026年7月21日に急落したが、長期的なトレンドは依然として維持されている。 - Vietnam.vn",
@@ -2077,5 +2011,71 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "輸入需要の増加と供給への懸念を受けて大豆価格が急騰。世界的な需給逼迫局面が進行。具体的な供給制約や需要地域の詳細が不明確だが、ファンダメンタルズは強気要因。"
+  },
+  {
+    "title": "金（ゴールド）週間見通し｜2週間ぶり高値でも安心できない、4,075ドルとFOMCが分岐点（XAU/USD）2026年7月23日 - 外為どっとコム",
+    "timestamp": "2026-07-23T04:58:17+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金は2週間ぶりの高値圏にあるが、4,075ドルが重要な分岐点。FOMC決定待ちで方向感が定まりにくい状況。テクニカルレベルを意識した値動きの警戒が必要。"
+  },
+  {
+    "title": "【金相場】高値から2割超下落、ウェルズ・ファーゴが「リスクリワード逆転」と指摘 ～500ドルの下値余地に対し1,500ドルの上昇ポテンシャル - BigGo ファイナンス",
+    "timestamp": "2026-07-22T23:05:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場が高値から20%超下落した局面で、ウェルズ・ファーゴは現在のリスク・リワード比が逆転していると指摘。下値リスクは500ドル程度に対し、上昇ポテンシャルは1,500ドルと評価している。金の買い場形成可能性を示唆するアナリスト見解。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（22日）原油は4日続伸 - Moomoo",
+    "timestamp": "2026-07-22T23:21:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油先物が4日続伸。金先物市場の動向についても触れられている市場概況の報道。"
+  },
+  {
+    "title": "ドル買いの動き、ＮＹ原油先物が８９ドル台に上昇＝ロンドン為替 - みんかぶ FX/為替",
+    "timestamp": "2026-07-23T07:13:39+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル買いの流れでNY原油先物が89ドル台に上昇。為替市場の動きが原油相場を牽引した形。既報の為替動向の延長線上での値動き。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ 原油価格350ドルは依然として現実的な長期目標である。by Badcharts (TVC:USOIL) - Moomoo",
+    "timestamp": "2026-07-23T05:53:41+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アナリストBadchartsが、WTI原油の長期目標価格として350ドルは依然現実的だとの見解を発表。強気の相場観を示すコメンタリー。市場では既に様々な強気シナリオが議論されている段階。"
+  },
+  {
+    "title": "ＩＮＰＥＸ---続伸、原油相場の上昇を手掛かりに - ｄメニューニュース",
+    "timestamp": "2026-07-23T05:25:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "INPEXが続伸し、原油相場の上昇が買い材料となっている。石油企業の株価が原油価格の連動により堅調に推移している状況。"
   }
 ]
