@@ -33,61 +33,6 @@
     "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、大豆、小麦）の生育進捗と圃場状態の推定値を発表。具体的な進捗率やコンディション評価は報告内容の詳細が必要。"
   },
   {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
-    "timestamp": "2026-07-20T15:34:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
-    "timestamp": "2026-07-20T15:34:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
-    "timestamp": "2026-07-20T15:34:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 20, 2026 - RFD-TV",
-    "timestamp": "2026-07-20T15:34:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年7月20日のRFD-TV週間作物進捗・畜産生産レポート。米国の地域別作物成長状況と家畜生産動向の定例更新。具体的な作付面積・収穫進捗率などの詳細データは記事リンク先で確認必要。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 5.1 million barrels to lowest level since 1983 - Reuters",
-    "timestamp": "2026-07-20T16:37:45+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が510万バレル減少し、1983年以来の最低水準となった。SPRの枯渇は米国の石油供給セキュリティ低下を示し、今後の備蓄補充需要や供給逼迫時の対応能力に制約が生じることで、原油価格の上昇圧力につながる可能性が高い。"
-  },
-  {
     "title": "Farm Programs & Ag Insights: Summer USDA reports set the tone for grain markets - TheLandOnline",
     "timestamp": "2026-07-20T20:55:00+00:00",
     "importance": 3,
@@ -506,39 +451,6 @@
     "summary": "米国の原油在庫が予想に反して増加した。EIAの週間在庫報告では、市場がドローダウン（在庫減少）を見込んでいたにもかかわらず、在庫が積み上がった。これはサプライ過剰の懸念を示唆し、原油価格に下押し圧力がかかる可能性が高い。"
   },
   {
-    "title": "Harvest Price Option (HPO) Is Extremely Popular With Farmers but Is It Good Policy? - farmdoc daily",
-    "timestamp": "2026-07-20T16:29:14+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "農家に極めて人気の高い収穫価格オプション(HPO)制度の有効性と政策的課題を分析したレポート。農家の価格リスク管理ツールとしての需要は高いが、政策効果と市場歪みのバランスに関する学術的議論。穀物先物市場の価格形成メカニズムに潜在的な影響。"
-  },
-  {
-    "title": "Harvest Price Option (HPO) Is Extremely Popular With Farmers but Is It Good Policy? - farmdoc daily",
-    "timestamp": "2026-07-20T16:29:14+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "農家に極めて人気の高い収穫価格オプション(HPO)制度の有効性と政策的課題を分析したレポート。農家の価格リスク管理ツールとしての需要は高いが、政策効果と市場歪みのバランスに関する学術的議論。穀物先物市場の価格形成メカニズムに潜在的な影響。"
-  },
-  {
-    "title": "Harvest Price Option (HPO) Is Extremely Popular With Farmers but Is It Good Policy? - farmdoc daily",
-    "timestamp": "2026-07-20T16:29:14+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "農家に極めて人気の高い収穫価格オプション(HPO)制度の有効性と政策的課題を分析したレポート。農家の価格リスク管理ツールとしての需要は高いが、政策効果と市場歪みのバランスに関する学術的議論。穀物先物市場の価格形成メカニズムに潜在的な影響。"
-  },
-  {
     "title": "Crude Oil Prices Rally on Global Supply Risks - TradingView",
     "timestamp": "2026-07-21T15:30:59+00:00",
     "importance": 3,
@@ -944,5 +856,71 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国の製油所が9月のロシア産原油を積極的に購入する一方で、中東の供給リスク拡大に対応してイラン産原油への関心も高まっている。地政学的緊張の中で、中国が多角化された原油調達戦略を展開している。"
+  },
+  {
+    "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet - Bloomberg.com",
+    "timestamp": "2026-07-23T12:41:10+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国債利回りが2026年以来の高値まで上昇し、原油価格の上昇がFRBの金利据え置き・引き上げ期待を誘発している。この金利上昇圧力はドル高を招く一方で、原油などエネルギー資源価格には支持的となるが、金などの無利子資産には下落圧力となるため、セクター別の方向性が分岐している。"
+  },
+  {
+    "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet - Bloomberg.com",
+    "timestamp": "2026-07-23T12:41:10+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りが2026年以来の高値まで上昇し、原油価格の上昇がFRBの金利据え置き・引き上げ期待を誘発している。この金利上昇圧力はドル高を招く一方で、原油などエネルギー資源価格には支持的となるが、金などの無利子資産には下落圧力となるため、セクター別の方向性が分岐している。"
+  },
+  {
+    "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet - Bloomberg.com",
+    "timestamp": "2026-07-23T12:41:10+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国債利回りが2026年以来の高値まで上昇し、原油価格の上昇がFRBの金利据え置き・引き上げ期待を誘発している。この金利上昇圧力はドル高を招く一方で、原油などエネルギー資源価格には支持的となるが、金などの無利子資産には下落圧力となるため、セクター別の方向性が分岐している。"
+  },
+  {
+    "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB - Bloomberg.com",
+    "timestamp": "2026-07-23T15:37:29+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ドイツ国債利回りが15年ぶりの高水準に達し、原油価格が上昇している。ECB（欧州中央銀行）の金融政策決定を控える中、金利上昇環境がコモディティ市場に複雑な影響を与えている。利回り上昇は金には下落圧力だが、原油上昇は供給懸念を反映。"
+  },
+  {
+    "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB - Bloomberg.com",
+    "timestamp": "2026-07-23T15:37:29+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "ドイツ国債利回りが15年ぶりの高水準に達し、原油価格が上昇している。ECB（欧州中央銀行）の金融政策決定を控える中、金利上昇環境がコモディティ市場に複雑な影響を与えている。利回り上昇は金には下落圧力だが、原油上昇は供給懸念を反映。"
+  },
+  {
+    "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB - Bloomberg.com",
+    "timestamp": "2026-07-23T15:37:29+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ドイツ国債利回りが15年ぶりの高水準に達し、原油価格が上昇している。ECB（欧州中央銀行）の金融政策決定を控える中、金利上昇環境がコモディティ市場に複雑な影響を与えている。利回り上昇は金には下落圧力だが、原油上昇は供給懸念を反映。"
   }
 ]
