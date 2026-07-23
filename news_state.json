@@ -1,60 +1,5 @@
 [
   {
-    "title": "金価格は本日2026年7月21日に急落したが、長期的なトレンドは依然として維持されている。 - Vietnam.vn",
-    "timestamp": "2026-07-20T14:48:32+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が本日急落したが、記事は長期的なアップトレンドは維持されていると指摘。短期的な調整局面と判断される。"
-  },
-  {
-    "title": "米イラン緊張とFRB見通しで金価格が小幅に動く - Межа. Новини України.",
-    "timestamp": "2026-07-20T15:18:15+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米イラン緊張とFRB金融見通しという2つの相反する要因が同時に作用している。地政学的リスク要因は金価格を支援する一方、FRB金利政策の見通しは抑制要因として機能し、結果的に小幅な値動きに留まっている。"
-  },
-  {
-    "title": "【速報】NY原油先物軟調、81.86ドル(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-20T13:52:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が81.86ドルで軟調に推移している。具体的な材料や騰落率が不明だが、市場の需給緩和基調が反映されているものと考えられる。速報ではあるが、解説的性格が強い。"
-  },
-  {
-    "title": "原油先物、中東緊迫と対話期待で一進一退 WTIは82ドル台でもみ合い - BigGo ファイナンス",
-    "timestamp": "2026-07-20T14:45:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油は82ドル台でもみ合い。中東の地政学的緊迫懸念と対話期待が相反する力学で、方向感を欠いた値動きが続いている。"
-  },
-  {
-    "title": "トウモロコシ先物、米中西部の乾燥懸念で上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-20T13:54:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "米中西部で乾燥懸念が発生し、トウモロコシ先物が上昇。作物の生育ストレスが価格を支持。具体的な乾燥度合いや作付面積への影響は不明。"
-  },
-  {
     "title": "フランスの小麦生産減少にもかかわらず、欧州小麦先物は横ばい 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-20T16:46:00+00:00",
     "importance": 2,
@@ -64,17 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "フランスの小麦生産が減少しているにもかかわらず、欧州小麦先物は値動きなく推移している。供給減少が価格上昇に結びついていない状況を報じるコメンタリー記事。"
-  },
-  {
-    "title": "金価格は1オンスあたり4,000ドル前後で推移していますが、専門家は今後どのような見通しを立てているのでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-07-20T13:56:22+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,000ドル前後で推移している状況について、専門家の今後の見通しを扱ったニュース。既に方向性が織り込まれた相場解説の段階。"
   },
   {
     "title": "フーシ派によるサウジアラビアとの海上航路封鎖が原油価格の高騰を引き起こした。 - Vietnam.vn",
@@ -2011,5 +1945,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "フリーポートが Q2 利益を増加させた。銅価格上昇がグラスバーグ鉱山の減産を補った。利益増は既知の価格トレンドの反映。"
+  },
+  {
+    "title": "黒海への攻撃で小麦先物は強弱まちまち、利益確定売りが上値抑制 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-23T13:36:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海への攻撃により小麦先物に上昇圧力がかかっているが、利益確定売りが上値を抑制している。強弱が分かれた相場環境になっている。既知の地政学リスクが継続的に価格に反映されている状況。"
+  },
+  {
+    "title": "UBS：金価格、短期的に3,850ドルまで下落の可能性も 長期的には5,200ドルを維持 - BigGo ファイナンス",
+    "timestamp": "2026-07-23T08:55:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UBSアナリストが金価格見通しを発表。短期的には3,850ドルへの下落可能性を示唆しつつ、長期的には5,200ドルの目標維持を表明。現在の相場環境における調整局面と構造的強気見通しの両立を示唆している。"
+  },
+  {
+    "title": "金価格が勢いを失う兆し、テクニカルはさらなる下落を示唆 - Межа. Новини України.",
+    "timestamp": "2026-07-23T13:40:46+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格がテクニカルシグナルで下落トレンドを示唆している。アナリスト解説による相場観測レポート。既に織り込まれている可能性が高い。"
+  },
+  {
+    "title": "2026年7月24日、金価格は急落し、国内の金価格は1オンスあたりさらに700万ベトナムドン下落しました。世界の金市場は底を打ったのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-07-23T14:44:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月24日、金価格が急落し、ベトナム国内で1オンスあたり700万ドン下落した。記事は世界金市場が底を打ったかどうかについての解説・観測。"
+  },
+  {
+    "title": "ドイツ長期金利15年ぶり高水準3.2%台 原油価格上昇で - 日本経済新聞",
+    "timestamp": "2026-07-23T14:09:18+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドイツの長期金利が15年ぶりの高水準3.2%台に上昇。原油価格の上昇がインフレ圧力となり、欧州の金利上昇を牽引している。金融引き締め環境が原油需要に下押し圧力をもたらす可能性。"
+  },
+  {
+    "title": "ラガルドＥＣＢ総裁 覚書締結後のブレンド原油価格の下落は、予想していたよりも速かった - - みんかぶ FX/為替",
+    "timestamp": "2026-07-23T13:10:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ラガルドECB総裁がブレンド原油価格の下落速度が予想より速いとコメント。金融政策関連の覚書締結後の市場反応を観測しているもの。既に進行中の価格下落トレンドを追認する発言。"
+  },
+  {
+    "title": "トルコ中銀が金利据え置き、原油価格急騰でインフレ低下に不透明性 - Bloomberg.com",
+    "timestamp": "2026-07-23T14:27:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トルコ中銀が金利据え置きを決定。原油価格の急騰がインフレ低下に与える影響が不透明性を増している。トルコ経済のマクロ環境に注視が必要。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ $ブレント先物(2609) (BZmain.US)$ - Moomoo",
+    "timestamp": "2026-07-23T14:56:31+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物とブレント先物の価格情報を表示するMoomooプラットフォームのページ。具体的な市場動向や新規情報は含まれていない。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ474ドル安、原油先物4.73ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-23T14:39:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場の午前10時台の相場動向報道。ダウ平均が474ドル安となる中、WTI原油先物は4.73ドル上昇。株式市場と原油市場が逆相関を示している。"
   }
 ]
