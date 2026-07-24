@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日の金価格（7月21日午後）：変動あり - Vietnam.vn",
-    "timestamp": "2026-07-21T07:33:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が7月21日午後に変動したとの報道。具体的な価格水準や変動幅の記載がなく、単なる日次相場の値動き報告と推察される。"
-  },
-  {
-    "title": "本日（7月21日）、金価格は再び急騰した。店舗では引き続き売れ行きが鈍く、数量制限なしで販売されている。 - Vietnam.vn",
-    "timestamp": "2026-07-21T07:31:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場で価格が上昇したが、店舗での販売は引き続き低迷している。数量制限なしで販売されている状況が続いている。"
-  },
-  {
-    "title": "アングル：ＥＣＢ、金利据え置きへ 原油価格が再び焦点 - ロイター",
-    "timestamp": "2026-07-21T05:39:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ECBが金利を据え置く見通しが報じられた。原油価格が再び市場の焦点となっている状況を解説する記事。金利据え置きはインフレ圧力軽減につながり、原油需要に対してやや抑制的に作用する可能性。"
-  },
-  {
     "title": "金価格は1テールあたり160万ベトナムドン上昇した。 - Vietnam.vn",
     "timestamp": "2026-07-21T09:13:42+00:00",
     "importance": 2,
@@ -1934,5 +1901,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "国際原油価格が100ドルを突破し、韓国株価指数（KOSPI）が5%急落、サーキットブレーカーが発動した。原油高が株式市場にネガティブショックを与える急速な連鎖反応が発生。"
+  },
+  {
+    "title": "7月24日の金価格：国内の金価格は引き続き急落している。 - Vietnam.vn",
+    "timestamp": "2026-07-24T05:21:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格が継続的に下落している状況を報じるニュース。7月24日時点での価格動向を伝えるもの。既に進行中の下落トレンドの続報。"
+  },
+  {
+    "title": "金価格が急落し、多くの人々が底値で買い付ける機会を利用している。 - Vietnam.vn",
+    "timestamp": "2026-07-24T06:16:06+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落し、投資家が底値買いの機会を探っている状況。ベトナムメディアの相場解説記事で、現在の価格低下が買い場と認識されている。市場参加者による自然な需給反応と考えられる。"
+  },
+  {
+    "title": "ドル売りの動き、原油先物が下落 ドル円一時１６３．６５レベル＝ロンドン為替 - みんかぶ FX/為替",
+    "timestamp": "2026-07-24T07:26:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル売り圧力により原油先物が下落。ドル円が一時163.65レベルまで円高方向に振れた。為替変動に伴う技術的な価格調整の一環。"
+  },
+  {
+    "title": "7月23日のSouthern Copper Corp (SCCO) 値動きは5.91%下落：値動きの背後にある要因 - TradingKey",
+    "timestamp": "2026-07-23T18:16:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "Southern Copper Corp（SCCO）が7月23日に5.91%下落した。記事は株価下落の事実を報じているが、具体的な原因については明示されていない。個別銘柄の日次変動の解説記事と見られる。"
   }
 ]
