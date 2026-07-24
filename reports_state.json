@@ -1,27 +1,5 @@
 [
   {
-    "title": "Canadian Stocks Climb as Gold Surge Offsets Trump Tariff Threat - Bloomberg.com",
-    "timestamp": "2026-07-21T20:18:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "カナダ株が上昇し、金価格の堅調さがトランプ関税脅威による下落圧力を相殺している。金は地政学的不確実性と米国政策リスクの高まりで投資家の安全資産需要を喚起。一方、関税導入懸念はカナダ含む商品輸出国の業績見通しに下圧力。"
-  },
-  {
-    "title": "Canadian Stocks Climb as Gold Surge Offsets Trump Tariff Threat - Bloomberg.com",
-    "timestamp": "2026-07-21T20:18:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "カナダ株が上昇し、金価格の堅調さがトランプ関税脅威による下落圧力を相殺している。金は地政学的不確実性と米国政策リスクの高まりで投資家の安全資産需要を喚起。一方、関税導入懸念はカナダ含む商品輸出国の業績見通しに下圧力。"
-  },
-  {
     "title": "Asian stocks cling to gains as US rebounds, oil rises - Reuters",
     "timestamp": "2026-07-22T01:08:00+00:00",
     "importance": 2,
@@ -1021,5 +999,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの黒海最大油田積出港が安全上の懸念により積み出しを一時停止。ロシアは世界有数の原油輸出国であり、黒海港湾は欧州向け主要ルート。供給減少による原油価格上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "OPEC+ Meeting Preview for Next Week: A Production Increase of 188,000 Barrels per Day Is Highly Likely, but the Turning Point for $100-per-Barrel Oil Prices Has Not Yet Arrived - Moomoo",
+    "timestamp": "2026-07-24T01:05:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の来週の会合で日量188,000バレルの増産が有力視されている。ただし、タイトルでは$100/バレルの油価が転換点に達していないとの見方が示されており、需給の完全な逼迫緩和には至っていないことを示唆している。市場予想の範囲内の増産とみられる。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-07-24T16:31:19+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後の独立的な増産を推し進め、来年原油産出量を日量500万バレルを超える水準に引き上げるとIEAが予測。これはOPEC+の減産枠組み外での増産となり、グローバル供給圧力が強まる局面を意味する。"
   }
 ]
