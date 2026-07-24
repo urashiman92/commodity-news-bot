@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格急落でPB相談殺到…「眠れる金」を動かす韓国の富裕層 - BigGo ファイナンス",
-    "timestamp": "2026-07-21T16:25:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の下落に応じて韓国の富裕層がプライベートバンカーへの相談を増やし、保有する金（眠れる金）を売却・運用しようという動き。価格低下が売却機会と認識されている。"
-  },
-  {
-    "title": "金鉱株が上昇、金地金価格の値上がりを受けて 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-21T17:07:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金地金価格の上昇に伴い、金鉱株が連動して値上がりしている。金鉱企業の収益性向上が期待される動きだが、地金価格上昇自体は既に市場で織り込まれている可能性が高い。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ - Moomoo",
-    "timestamp": "2026-07-21T16:09:10+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物の価格情報を示すMoomooの記事。具体的なニュース内容や値動き、市場イベントの記載がない。"
-  },
-  {
     "title": "原油先物5週間ぶり高値 米イラン攻撃応酬とフーシ派のサウジ海上封鎖を警戒 - ロイター",
     "timestamp": "2026-07-21T19:51:43+00:00",
     "importance": 4,
@@ -1945,5 +1912,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物価格が上昇。東京市場は日経平均が反落し64,611円で終了。株式と原油の値動きが反対方向となる相場環境。"
+  },
+  {
+    "title": "大豆先物価格は、買い手が優勢となる中でレジスタンスを突破するか？ - Traders Union",
+    "timestamp": "2026-07-24T12:19:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物は買い手優勢の市場環境でレジスタンス水準の突破を模索している。テクニカル的な転換点にあり、買いサイドの力強さが注目される。"
+  },
+  {
+    "title": "米国債利回りの上昇は銅価格に圧力をかけるか？ - Traders Union",
+    "timestamp": "2026-07-24T12:13:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国債利回りの上昇が銅価格に下押し圧力をもたらす可能性を論じた解説記事。高金利環境は銅需要の低迷と実質金利上昇による逆風となる。"
   }
 ]
