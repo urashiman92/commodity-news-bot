@@ -1,16 +1,5 @@
 [
   {
-    "title": "米イラン衝突でインフレ再燃懸念、金価格が4000ドル割れ 年末利上げ観測が貴金属相場を圧迫 - BigGo ファイナンス",
-    "timestamp": "2026-07-21T14:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米イラン衝突によるインフレ再燃懸念が報道されているが、金価格は4000ドルを割れている。年末の利上げ観測が実質金利上昇を通じて貴金属相場を圧迫しており、地政学リスク要因と金融引き締め圧力が相殺している状況。"
-  },
-  {
     "title": "金価格急落でPB相談殺到…「眠れる金」を動かす韓国の富裕層 - BigGo ファイナンス",
     "timestamp": "2026-07-21T16:25:00+00:00",
     "importance": 2,
@@ -1901,5 +1890,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡封鎖により原油価格が100ドル/バレルを突破。地政学リスク顕在化による供給減少懸念。産油国は迂回パイプライン建設で対応に数十兆ウォン投資予定。"
+  },
+  {
+    "title": "黒海・紅海で戦火拡大、欧米の高温で不作懸念、小麦先物が19%急騰し約3年ぶり高値に迫る - BigGo ファイナンス",
+    "timestamp": "2026-07-24T09:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海・紅海の地政学的緊張と欧米の高温による不作懸念が重複し、小麦先物が19%急騰して約3年ぶりの高値水準に接近。供給リスク（物流途絶）と需給逼迫（減産見通し）の両面で価格圧力が強化。"
+  },
+  {
+    "title": "2026年7月25日の金価格は大幅に下落し、「健全な」利益確定の機会が訪れたが、アナリストは依然としてリスクを警告している。 - Vietnam.vn",
+    "timestamp": "2026-07-24T14:44:55+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が大幅に下落し、アナリストは利益確定の好機と評価。ただしアナリストは引き続きリスク要因の存在を警告しており、強気相場の継続を示唆。"
+  },
+  {
+    "title": "金価格見通し：原油価格の100ドル突破でインフレ懸念が加速、金価格は一段安となるか？ - TradingKey",
+    "timestamp": "2026-07-23T22:20:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油価格が100ドルを突破したことでインフレ懸念が高まっている。金は一般的にインフレヘッジ資産だが、本記事は金価格が一段安となる可能性を指摘している。この見方は金とドル、金利の関係性に基づくものと考えられる。"
+  },
+  {
+    "title": "世界の国債利回り急上昇、各国中銀に圧力－背景に原油価格の再上昇 - TBS NEWS DIG",
+    "timestamp": "2026-07-24T15:01:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の再上昇に伴い世界の国債利回りが急上昇している。インフレ圧力が高まり各国中銀は金利引き上げの継続を迫られている。原油高がマクロ環境全体に影響を与えている。"
+  },
+  {
+    "title": "原油先物価格が上昇、東京市場「トリプル安」…日経平均は反落し終値６万４６１１円 - ｄメニューニュース",
+    "timestamp": "2026-07-24T12:59:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格が上昇。東京市場は日経平均が反落し64,611円で終了。株式と原油の値動きが反対方向となる相場環境。"
   }
 ]
