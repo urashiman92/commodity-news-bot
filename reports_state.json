@@ -1,27 +1,5 @@
 [
   {
-    "title": "USDA crop report shows corn quality dips slightly - Farm Progress",
-    "timestamp": "2026-07-21T13:04:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progressレポートでトウモロコシの品質が軽微に低下したことが報告された。品質低下は供給面での懸念材料となるが、幅は限定的。穀物市場全体への即座の大きな影響は限定的と考えられる。"
-  },
-  {
-    "title": "Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning - Bloomberg.com",
-    "timestamp": "2026-07-21T12:30:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが紅海経由の原油輸送量を過去最高に達したと報じられた。その直後にフーシ派が警告を発し、紅海での供給途絶リスクが急速に高まった。地政学的緊張により、グローバルな原油供給の重要回廊が脅威にさらされている。"
-  },
-  {
     "title": "Crop Market Volatility Surges: Wheat Rallies on Black Sea Disruptions & Milo Face Export Challenges - Oklahoma Farm Report",
     "timestamp": "2026-07-21T14:32:55+00:00",
     "importance": 3,
@@ -185,17 +163,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "カナダ株が上昇し、金価格の堅調さがトランプ関税脅威による下落圧力を相殺している。金は地政学的不確実性と米国政策リスクの高まりで投資家の安全資産需要を喚起。一方、関税導入懸念はカナダ含む商品輸出国の業績見通しに下圧力。"
-  },
-  {
-    "title": "Three tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning - Reuters",
-    "timestamp": "2026-07-21T13:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海でサウジアラビアの原油を積載した3隻のタンカーがフーシ派の警告を受けてUターンした。紅海での輸送障害は世界有数の原油供給ルート（スエズ運河経由）を脅かし、輸送コスト上昇と供給リスク懸念が浮上。地政学的緊張の高まりが原油相場の上昇圧力となっている。"
   },
   {
     "title": "Asian stocks cling to gains as US rebounds, oil rises - Reuters",
@@ -1054,5 +1021,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "小麦",
     "summary": "ウクライナ情勢に関連する戦争リスクが小麦供給不安を再燃させ、7月のラリーが継続している。黒海地域の地政学的緊張が世界有数の小麦輸出国の供給途絶を懸念させ、市場心理が過敏に反応している。予定外の地政学的ショックが価格上昇圧力として機能している。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
+    "timestamp": "2026-07-24T11:14:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、来年原油生産を日量500万バレル超へ引き上げる計画をIEAが報告。OPEC減産枠から外れた後の増産戦略で、市場供給増加への圧力となる可能性。既報の既知情報の範囲内での解説。"
   }
 ]
