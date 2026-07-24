@@ -836,17 +836,6 @@
     "summary": "米国原油在庫が市場予想を上回る260万バレルの大幅な積み増しを記録。EIA/API週間在庫統計の発表。在庫増加は原油需給が緩和していることを示唆し、サプライサイドの圧力が強まっている。価格下落圧力となりやすい。"
   },
   {
-    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
-    "timestamp": "2026-07-21T06:32:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECからの離脱を検討しているとのニュースに対し、アナリストRussell氏は予想されるほど原油価格に大きな影響を与えない可能性があると指摘。UAEの生産量は限定的であり、地政学的リスクプレミアムの方が価格変動の主要因となる可能性を示唆。"
-  },
-  {
     "title": "Russia Eyes Longer Diesel Export Ban as Ukraine Hits Oil Assets - Bloomberg.com",
     "timestamp": "2026-07-23T15:42:35+00:00",
     "importance": 4,
@@ -1043,5 +1032,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東危機が供給懸念を増幅させ、原油は週間での上昇を設定した。地政学的リスク要因が市場心理を支配し、サプライチェーン途絶への警戒が強まっている。供給面での不確実性が拡大し、価格は上振れ圧力を受けている。"
+  },
+  {
+    "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-24T05:46:11+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格が100ドルを超え上昇する中、アジア株式市場は下落圧力を受ける見通し。原油高はエネルギーコスト上昇を通じて企業収益を圧迫し、特にエネルギー輸入国のアジア経済に悪影響。原油買い・株式売りの相関が強まる局面。"
+  },
+  {
+    "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-07-24T05:46:11+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格が100ドルを超え上昇する中、アジア株式市場は下落圧力を受ける見通し。原油高はエネルギーコスト上昇を通じて企業収益を圧迫し、特にエネルギー輸入国のアジア経済に悪影響。原油買い・株式売りの相関が強まる局面。"
   }
 ]
