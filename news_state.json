@@ -1,60 +1,5 @@
 [
   {
-    "title": "金価格は1テールあたり160万ベトナムドン上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-21T09:13:42+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が1テール（1両≒37.5g）あたり160万ベトナムドン上昇した。地域的な価格上昇ニュースで、グローバル市場への直接的なインパクトは限定的。"
-  },
-  {
-    "title": "2026年7月21日午後の金価格：SJC金価格、9999金リング価格、および火曜日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-21T09:35:49+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報をまとめたニュース記事。SJC金価格と世界金相場の火曜日の相場を報じている。市場への直接的な新規情報や変動要因は含まれていない。"
-  },
-  {
-    "title": "本日の金価格、2026年7月21日（9999金）、午後：9999金、BTMC金リング、BTMC、およびDOJI金の最新価格リスト（火曜日）。 - Vietnam.vn",
-    "timestamp": "2026-07-21T08:52:20+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格リストの日次公表。9999金やBTMC金など複数銘柄の現物価格情報を提供するルーチン記事。市場に新情報は含まれていない。"
-  },
-  {
-    "title": "明日の為替相場見通し＝原油価格動向などを注視 - 株探",
-    "timestamp": "2026-07-21T08:32:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "為替相場の見通し記事で、原油価格動向が為替に影響を与える要因として挙げられている。具体的な原油価格の動きや見通しの詳細は記事概要からは不明。"
-  },
-  {
-    "title": "２１日の米国債券市場見通し＝原油価格の動向に注意 速報 - kabushiki.jp",
-    "timestamp": "2026-07-21T08:24:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "21日の米国債券市場見通しを述べたコメンタリー記事。原油価格動向が債券市場に影響を与える可能性を指摘している。具体的な原油価格の予想値や変動要因は記事概要から不明。"
-  },
-  {
     "title": "金価格が高値から20%下落、それでもウォール街が「押し目買い」にこだわる理由 - BigGo ファイナンス",
     "timestamp": "2026-07-21T11:56:00+00:00",
     "importance": 3,
@@ -64,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は高値から20%下落したが、ウォール街のアナリストらは調整局面と捉え押し目買いを推奨している。現物需要と長期的な金買い需要が支援材料とされている。"
-  },
-  {
-    "title": "2026年7月21日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-21T09:56:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金および先物オプション市場に関する定期的な市場ウォッチ記事。金銘柄としての実質的なニュース価値なし。"
   },
   {
     "title": "本日（2026年7月21日午後）の金価格：最高販売価格は1オンスあたり1億4760万ベトナムドンです。 - Vietnam.vn",
@@ -1945,5 +1879,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "Southern Copper Corp（SCCO）が7月23日に5.91%下落した。記事は株価下落の事実を報じているが、具体的な原因については明示されていない。個別銘柄の日次変動の解説記事と見られる。"
+  },
+  {
+    "title": "本日（7月24日午後）の金価格：引き続き急落。 - Vietnam.vn",
+    "timestamp": "2026-07-24T06:49:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月24日午後の金価格が引き続き急落している。市場の下落トレンドが継続している状況を報じている。具体的な下落要因や数値は提示されていない。"
+  },
+  {
+    "title": "2026年7月24日午後、金価格は反転上昇し、多くのブランドが1テールあたり1億4050万ベトナムドンで販売された。 - Vietnam.vn",
+    "timestamp": "2026-07-24T10:13:07+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売価格が7月24日午後に反転上昇し、1テール当たり1億4050万ベトナムドンで取引された。地域的な金価格動向の報道であり、グローバル金市場への直接的なニュースとは言えない。"
+  },
+  {
+    "title": "【きょうのおはBiz 7月24日(金)】どうなる原油価格【解説】 - NHKニュース",
+    "timestamp": "2026-07-24T07:22:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NHKが原油価格の今後の方向性について解説するニュース。具体的な新規情報や市場イベントは含まれていない様子。相場観測・振り返り系のコンテンツと判断される。"
   }
 ]
