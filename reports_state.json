@@ -1,27 +1,5 @@
 [
   {
-    "title": "Non-Opec-Plus: Output Leaps Higher on UAE Surge - Energy Intelligence",
-    "timestamp": "2026-07-21T17:42:30+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC非加盟国の原油生産が増加し、特にUAEの大幅な増産が牽引している。Non-OPEC+全体の供給増加は、OPECプラスの減産努力の効果を相殺する圧力として機能。供給サイドの材料が強気から弱気へシフト。"
-  },
-  {
-    "title": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats - Reuters",
-    "timestamp": "2026-07-21T17:39:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派による紅海での船舶攻撃脅威により、アジアの製油所がスエズ運河経由のサウジアラビア原油輸送ルートへの依存を強める。供給リスク懸念が高まり、迂回ルート利用による輸送コスト上昇と納期延長で原油価格上昇圧力が加わる。地政学的リスクが顕在化した重要な供給途絶シナリオ。"
-  },
-  {
     "title": "Local basis strength could yield maximum profits on stored grain - Michigan State University",
     "timestamp": "2026-07-21T18:21:29+00:00",
     "importance": 2,
@@ -933,5 +911,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、来年原油生産を日量500万バレル超へ引き上げる計画をIEAが報告。OPEC減産枠から外れた後の増産戦略で、市場供給増加への圧力となる可能性。既報の既知情報の範囲内での解説。"
+  },
+  {
+    "title": "Investors fret that spiking oil prices and rising yields could threaten stock rally - Reuters",
+    "timestamp": "2026-07-24T14:56:19+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "投資家が原油価格の急騰と米国債利回りの上昇がもたらすリスクに警戒している。高い油価と上昇する利回りは、株式相場の継続性に対する懸念が強まり、特に金などの非利息資産の下落圧力となる可能性がある。金利上昇環境下では原油と金の値動きが乖離する傾向が見られている。"
+  },
+  {
+    "title": "Investors fret that spiking oil prices and rising yields could threaten stock rally - Reuters",
+    "timestamp": "2026-07-24T14:56:19+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "投資家が原油価格の急騰と米国債利回りの上昇がもたらすリスクに警戒している。高い油価と上昇する利回りは、株式相場の継続性に対する懸念が強まり、特に金などの非利息資産の下落圧力となる可能性がある。金利上昇環境下では原油と金の値動きが乖離する傾向が見られている。"
+  },
+  {
+    "title": "Investors fret that spiking oil prices and rising yields could threaten stock rally - Reuters",
+    "timestamp": "2026-07-24T14:56:19+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "投資家が原油価格の急騰と米国債利回りの上昇がもたらすリスクに警戒している。高い油価と上昇する利回りは、株式相場の継続性に対する懸念が強まり、特に金などの非利息資産の下落圧力となる可能性がある。金利上昇環境下では原油と金の値動きが乖離する傾向が見られている。"
   }
 ]
