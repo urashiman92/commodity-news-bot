@@ -1,49 +1,5 @@
 [
   {
-    "title": "Asian stocks rise as Mideast mediation takes oil lower - Reuters",
-    "timestamp": "2026-07-21T02:02:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東での仲介交渉進展を受けて地政学的リスク緩和観測が広がり、原油相場が下落。アジア株式市場は上昇。原油下落によるコスト圧力軽減がリスク資産全般の買い支え要因となる。現在の中東情勢下では予想の範囲内の動きと評価される。"
-  },
-  {
-    "title": "Asian stocks rise as Mideast mediation takes oil lower - Reuters",
-    "timestamp": "2026-07-21T02:02:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東での仲介交渉進展を受けて地政学的リスク緩和観測が広がり、原油相場が下落。アジア株式市場は上昇。原油下落によるコスト圧力軽減がリスク資産全般の買い支え要因となる。現在の中東情勢下では予想の範囲内の動きと評価される。"
-  },
-  {
-    "title": "Conflict Rattles Stocks, Bonds as Oil Holds Gains: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-21T02:14:47+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "地政学的紛争がリスク資産である株式・債券市場を圧迫する中、原油は堅調さを保っている。紛争による供給懸念と金利環境の複雑な相互作用がコモディティ市場全体に不均一な影響をもたらしている状況。"
-  },
-  {
-    "title": "Conflict Rattles Stocks, Bonds as Oil Holds Gains: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-21T02:14:47+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "地政学的紛争がリスク資産である株式・債券市場を圧迫する中、原油は堅調さを保っている。紛争による供給懸念と金利環境の複雑な相互作用がコモディティ市場全体に不均一な影響をもたらしている状況。"
-  },
-  {
     "title": "USDA crop report shows corn quality dips slightly - Farm Progress",
     "timestamp": "2026-07-21T13:04:12+00:00",
     "importance": 2,
@@ -999,5 +955,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Kalshi取引所がAI構築ブームに伴う銅需要の急増を背景に、銅投資向けの新商品上場を検討している。AI関連の電力インフラ・チップ製造需要拡大が銅使用量を押し上げており、投資家の銅へのエクスポージャー需要に応える狙い。既に銅価格は堅調で、この新規商品化は需要拡大トレンドの確認を示唆。"
+  },
+  {
+    "title": "U.S. Crude Oil Inventories Up 2.0 Million Barrels: EIA Weekly Report – July 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-07-24T00:20:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "2026年7月のEIA週間報告によると、米国原油在庫が200万バレル増加した。在庫の積み増しは原油供給が需要を上回っていることを示唆し、価格下押し圧力となる。定例統計の範囲内での小幅な在庫増加。"
+  },
+  {
+    "title": "OPEC Set to Raise Output AgainEven as Members Can't Pump It - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-07-23T22:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが増産方針を掲げる一方で、メンバー国の実際の生産能力が限定的である矛盾を報じている。増産計画の実現可能性への疑問が市場の織り込み度合いに影響を与え、原油価格の上昇圧力と供給制約による支持材料が相殺される状況を指摘している。"
+  },
+  {
+    "title": "OPEC+ plans output increase despite production shortfalls, market cautious - Crypto Briefing",
+    "timestamp": "2026-07-23T22:05:50+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が増産計画を発表する一方で、実現困難な減産目標により生産不足が発生している状況。市場は慎重な見方を示しており、供給増加の実現可能性に疑問が生じている。増産発表は需給緩和圧力として下落方向だが、実行不透明性が価格下支えになる可能性。"
+  },
+  {
+    "title": "Oil set for weekly rise amid Red Sea shipping attacks, Kazakhstan output cuts - Reuters",
+    "timestamp": "2026-07-24T01:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海での船舶攻撃とカザフスタンの原油減産が重なり、週間ベースで原油価格の上昇が見込まれている。紅海での地政学的リスクによる物流ルート遮断は供給懸念を高め、同時にカザフスタン（世界有数の産油国）の減産発表は供給ショックを加速させている。複合的なサプライズ要因が市場に織り込まれつつある。"
+  },
+  {
+    "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
+    "timestamp": "2026-07-24T01:20:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を再燃させている。金利上昇圧力により債券も売られており、商品市場全体でリスク資産と無利子資産の値動きが分化。原油高はエネルギー価格インフレへの警戒感を示唆している。"
+  },
+  {
+    "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
+    "timestamp": "2026-07-24T01:20:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を再燃させている。金利上昇圧力により債券も売られており、商品市場全体でリスク資産と無利子資産の値動きが分化。原油高はエネルギー価格インフレへの警戒感を示唆している。"
+  },
+  {
+    "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
+    "timestamp": "2026-07-24T01:20:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を再燃させている。金利上昇圧力により債券も売られており、商品市場全体でリスク資産と無利子資産の値動きが分化。原油高はエネルギー価格インフレへの警戒感を示唆している。"
+  },
+  {
+    "title": "Oil Set for Weekly Gain as Middle East Crisis Fuels Supply Fears - Bloomberg.com",
+    "timestamp": "2026-07-23T22:04:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東危機が供給懸念を増幅させ、原油は週間での上昇を設定した。地政学的リスク要因が市場心理を支配し、サプライチェーン途絶への警戒が強まっている。供給面での不確実性が拡大し、価格は上振れ圧力を受けている。"
   }
 ]
