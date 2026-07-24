@@ -1,93 +1,5 @@
 [
   {
-    "title": "堂島取引所、大口化した金先物商品の取引開始 機動的な投資促す - 日本経済新聞",
-    "timestamp": "2026-07-21T04:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "堂島取引所が金先物の取引単位を大口化し、機動的な投資環境を整備。国内金市場の流動性向上と機関投資家参入促進が期待される。市場整備の一環として段階的に進められている動き。"
-  },
-  {
-    "title": "国内の金価格は予想外に安定した。 - Vietnam.vn",
-    "timestamp": "2026-07-21T02:58:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの国内金価格が予想外に安定している。供給・需要の均衡が取れている状況を示唆。国内市場の局所的なニュースで、グローバル金相場への直接的な影響は限定的。"
-  },
-  {
-    "title": "速報（21-7）：金価格が再び上昇。原油価格の高騰で石油会社が巨額の損失を被る。 - Vietnam.vn",
-    "timestamp": "2026-07-21T02:18:24+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が再び上昇している。原油価格の高騰により石油会社が巨額の損失を被っている。インフレ懸念や金融不安定性が金の買いを支えている可能性がある。"
-  },
-  {
-    "title": "2026年7月21日現在の金価格の予測は？上昇するでしょうか、それとも下落するでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-07-21T02:59:52+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年7月21日時点の金価格予測についての記事。単なる価格予想記事で具体的なファンダメンタルズ要因が不明確。"
-  },
-  {
-    "title": "2026年7月21日午前の金価格：指輪の金価格は上昇、金地金価格は横ばい。 - Vietnam.vn",
-    "timestamp": "2026-07-21T03:01:59+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格を報じたローカルニュース。指輪の金価格は上昇したが、金地金価格は横ばい。市場全体への影響は限定的。"
-  },
-  {
-    "title": "アングル：原油価格、イラン紛争でも予想ほど急騰しなかった訳 - ロイター",
-    "timestamp": "2026-07-21T04:36:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン紛争があっても原油価格が予想ほど急騰しなかった背景を分析する記事。市場が地政学リスクを既に織り込んでいた可能性や、供給懸念の限定的な見方を示唆。"
-  },
-  {
-    "title": "欧米為替：デイリー見通し 豪ドル・ドル／原油相場を注視(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-21T04:17:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "豪ドルとドル/原油相場の動向を注視するという為替市場のデイリー見通し。原油相場との関連性が指摘されているが、具体的な新規要因や価格予想は示されていない。"
-  },
-  {
-    "title": "アジア株が反発、停戦期待で原油価格が下落もAI関連決算が試金石に - BigGo ファイナンス",
-    "timestamp": "2026-07-21T02:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "停戦期待により原油価格が下落している。地政学的リスク軽減がコモディティ売り圧力として機能。AI関連決算が株式相場の方向性を決定する試金石となっている。"
-  },
-  {
     "title": "本日の金価格（7月21日午後）：変動あり - Vietnam.vn",
     "timestamp": "2026-07-21T07:33:32+00:00",
     "importance": 1,
@@ -110,17 +22,6 @@
     "summary": "ベトナムの金市場で価格が上昇したが、店舗での販売は引き続き低迷している。数量制限なしで販売されている状況が続いている。"
   },
   {
-    "title": "7月21日の金価格：世界的な価格は急騰したが、国内価格は安定していた。 - Vietnam.vn",
-    "timestamp": "2026-07-21T05:34:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月21日の金価格は世界的には上昇したが、ベトナム国内価格は安定していたとの報道。地域間での価格乖離を示す市場解説。"
-  },
-  {
     "title": "アングル：ＥＣＢ、金利据え置きへ 原油価格が再び焦点 - ロイター",
     "timestamp": "2026-07-21T05:39:00+00:00",
     "importance": 2,
@@ -130,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ECBが金利を据え置く見通しが報じられた。原油価格が再び市場の焦点となっている状況を解説する記事。金利据え置きはインフレ圧力軽減につながり、原油需要に対してやや抑制的に作用する可能性。"
-  },
-  {
-    "title": "仲介者が米・イラン間の停戦を提案、原油価格は下落 - arabnews.jp",
-    "timestamp": "2026-07-21T04:07:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "仲介者による米・イラン間の停戦提案が報じられ、地政学的リスク低下への期待から原油価格が下落。中東緊張緩和シナリオが一部織り込まれた。"
   },
   {
     "title": "金価格は1テールあたり160万ベトナムドン上昇した。 - Vietnam.vn",
@@ -1934,5 +1824,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "23日の主要国際商品市況に関する定期ニュース報道。具体的な価格変動や主要商品の方向性についての詳細情報が提供されていない。"
+  },
+  {
+    "title": "カンザスシティ小麦価格、USX776.66のレジスタンス付近で推移：テクニカル見通し - Traders Union",
+    "timestamp": "2026-07-23T12:42:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦がUSX776.66のレジスタンス水準付近で推移している。テクニカル分析に基づく相場観の提示であり、ファンダメンタルズの新規材料ではない。"
+  },
+  {
+    "title": "急落後、世界の金価格はどうなるだろうか？ - Vietnam.vn",
+    "timestamp": "2026-07-24T02:31:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の急落後の見通しについての解説記事。既に価格調整が起きた後の相場観測。金の今後の方向性について論じているが、具体的な新規情報を欠いている。"
+  },
+  {
+    "title": "ニューモント、金価格の上昇により利益予想を上回る、生産量は堅調に推移 - TradingView",
+    "timestamp": "2026-07-23T20:19:34+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューモントが金価格の上昇に支えられ利益予想を上回る好績績を報告。生産量も堅調に推移しており、金鉱山企業の業績環境が良好であることを確認。金価格の上昇トレンドが続く中での企業業績改善."
+  },
+  {
+    "title": "金価格4,000ドル関門で激化する強弱論争：テクニカル底打ちか、それとも3,850ドルまで下落か？機関投資家の見解が真っ二つに - BigGo ファイナンス",
+    "timestamp": "2026-07-24T00:36:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドル付近で重要な技術的節目を迎えており、機関投資家の間でテクニカル底打ち説と3,850ドルへの下落予想が分かれている。市場参加者の見方が対立しており、この水準がサポートレジスタンスとして機能するかが焦点。"
+  },
+  {
+    "title": "2026年7月24日現在の金価格の予測は？上昇するでしょうか、それとも下落するでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-07-24T02:48:04+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月24日時点の金価格予測についての記事。具体的な予測内容や根拠が不明であるため、実質的な投資判断情報としての価値は限定的。"
+  },
+  {
+    "title": "原油価格が100ドル突破、FRB利上げ観測再燃！金価格4,000ドルの大台に警報 - BigGo ファイナンス",
+    "timestamp": "2026-07-24T03:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油価格が100ドル突破し、FRB再利上げ観測が再燃している。金価格は4,000ドル突破の可能性が警告されている。インフレ圧力とマクロ環境の変化がコモディティ全般に上昇圧力をもたらしている。"
+  },
+  {
+    "title": "SJCの金価格が2日間で1オンスあたり800万ベトナムドン急落：異常事態への警告。 - Vietnam.vn",
+    "timestamp": "2026-07-24T03:04:01+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が2日間で1オンスあたり800万ベトナムドン（約3-4%相当）の急落を記録。「異常事態への警告」と報道されており、地域的な金市場の大きな変動を示唆。"
+  },
+  {
+    "title": "株価 一時2000円以上値下がり 原油価格上昇と円安で - NHKニュース",
+    "timestamp": "2026-07-24T02:24:04+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇と円安により、日本株が一時2000円以上下落した。輸入コスト増加が企業利益を圧迫し、株価に悪影響を及ぼしている。コモディティ価格上昇が金融資産に波及したもの。"
+  },
+  {
+    "title": "原油価格が100ドルに迫る、親イラン武装組織フーシ派による船舶への攻撃で - Forbes JAPAN",
+    "timestamp": "2026-07-24T04:30:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ派による紅海での船舶攻撃が継続し、原油価格が100ドル水準に接近。地政学的リスクプレミアムが継続している。供給懸念による上値圧力が存在する状況。"
+  },
+  {
+    "title": "国際原油価格が100ドル突破の衝撃…韓国総合株価指数（KOSPI）が5%急落、売りサイドカー発動 - BigGo ファイナンス",
+    "timestamp": "2026-07-24T04:15:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油価格が100ドルを突破し、韓国株価指数（KOSPI）が5%急落、サーキットブレーカーが発動した。原油高が株式市場にネガティブショックを与える急速な連鎖反応が発生。"
   }
 ]
