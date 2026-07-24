@@ -1,38 +1,5 @@
 [
   {
-    "title": "「原油価格高騰を注視」 中経連の勝野会長 中東情勢悪化で - 中部経済新聞",
-    "timestamp": "2026-07-21T20:17:11+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中経連の勝野会長が中東情勢悪化に伴う原油価格高騰への懸念を表明。地政学的リスク要因が原油相場に向かい風をもたらす可能性を指摘。既知の中東リスク要因の再確認と注視呼びかけ。"
-  },
-  {
-    "title": "世界の金価格が予想外に急騰した。 - Vietnam.vn",
-    "timestamp": "2026-07-21T20:24:08+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が予想外に急騰した。具体的な騰落幅や騰騰要因の詳細は記事概要からは不明だが、地政学的リスク、インフレ懸念、または通貨政策の変化が背景にある可能性がある。"
-  },
-  {
-    "title": "7月21日のSouthern Copper Corp (SCCO) 終値は7.36%上昇：投資家が知っておくべき情報 - TradingKey",
-    "timestamp": "2026-07-21T20:17:07+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "Southern Copper Corp (SCCO)が7月21日に7.36%上昇。単一銘柄の日次騰落を報じるもので、銅市場全体への構造的インパクトは限定的。"
-  },
-  {
     "title": "ホルムズ・紅海・黒海もすべて封鎖されるのか…原油・穀物の大動脈に非常事態 - ライブドアニュース",
     "timestamp": "2026-07-21T21:46:22+00:00",
     "importance": 5,
@@ -229,17 +196,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物価格の急落が主要株価指数を圧迫しているが、同時に円高が進行。日経平均は大幅反発した一方で、原油下落そのものはコモディティ投資家にとって逆風となる局面。"
-  },
-  {
-    "title": "ＮＹ市場、原油価格の終値が１か月半ぶりの高値水準…ダウ平均も４営業日ぶり値上がり - 読売新聞",
-    "timestamp": "2026-07-21T20:55:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場で原油価格が1か月半ぶりの高値水準で終値を迎え、ダウ平均も4営業日ぶりに値上がりした。市場全体でのリスク選好ムードを反映した相場の振り返りニュース。"
   },
   {
     "title": "原油先物は小幅高、米軍が11夜連続でイラン攻撃 供給懸念高まる - ニューズウィーク日本版",
@@ -1923,5 +1879,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国株式市場でダウ平均が235ドル高で反発した。原油相場の下落が株式市場にプラスに作用した。エネルギーコストの低下が企業利益改善の期待につながった。"
+  },
+  {
+    "title": "金価格が年初から約30%下落も…各国の中央銀行の需要は旺盛、再上昇へ期待大｜マネーの教科書 - 日刊ゲンダイDIGITAL",
+    "timestamp": "2026-07-24T21:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は年初から約30%下落しているが、各国中央銀行の需要が堅調に推移している。中央銀行の継続的な買い需要が価格の下支え要因となり、再上昇期待が市場にある。"
+  },
+  {
+    "title": "本日7月23日の金価格：世界の金価格は急騰する一方、SJCの金価格は逆行する動きを見せた。 - Vietnam.vn",
+    "timestamp": "2026-07-24T18:58:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月23日の金相場で世界価格は上昇した一方、ベトナムのSJC金価格は下落するという乖離が生じた。国内市場の独自動向を示唆するニュース。"
+  },
+  {
+    "title": "北海ブレント原油が100ドル突破、フーシ派の紅海攻撃で約2カ月ぶり…株式・金価格も急落 - BigGo ファイナンス",
+    "timestamp": "2026-07-24T10:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "フーシ派による紅海での船舶攻撃が激化し、北海ブレント原油が約2カ月ぶりに100ドルを突破。地政学リスク要因による供給懸念が顕在化。同時に株式・金価格は急落しリスク回避ムードが強まった。"
+  },
+  {
+    "title": "〔米株式〕ダウ反発、235ドル高＝原油相場下落で（24日）☆差替(時事通信) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-24T20:36:32+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米株ダウ平均が235ドル高で反発した。原油相場の下落が株式市場を支援した。この値動きは既に市場に組み込まれた一般的なボラティリティ範囲内。"
+  },
+  {
+    "title": "【原油ウォッチ】バベルマンデブ海峡封鎖で原油価格は再び100ドル超え？中東以外の調達先として急浮上する候補国は - JBpress",
+    "timestamp": "2026-07-24T21:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "バベルマンデブ海峡の封鎖リスクが原油価格を100ドル超に押し上げる可能性を指摘。中東依存度低減のため代替調達先の検討が急浮上。地政学的リスク要因が相場を支援。"
+  },
+  {
+    "title": "ＮＹ株反発、２３５ドル高＝原油相場下落で - 時事通信ニュース",
+    "timestamp": "2026-07-24T20:32:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株が235ドル高で反発した。原油相場の下落がリスク資産買い戻しを促進した結果。既に織り込まれた相場動向の振り返り。"
   }
 ]
