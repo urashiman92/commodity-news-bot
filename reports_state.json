@@ -1,38 +1,5 @@
 [
   {
-    "title": "Local basis strength could yield maximum profits on stored grain - Michigan State University",
-    "timestamp": "2026-07-21T18:21:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "ミシガン州立大学が、貯蔵穀物の販売において地域ベーシスの強さを活用することで最大利益を得られる可能性を指摘するレポート。貯蔵穀物の農家の売却タイミングと地域市況の関連性に関する解説で、穀物相場の短期的な上昇要因にはならない。"
-  },
-  {
-    "title": "Local basis strength could yield maximum profits on stored grain - Michigan State University",
-    "timestamp": "2026-07-21T18:21:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "ミシガン州立大学が、貯蔵穀物の販売において地域ベーシスの強さを活用することで最大利益を得られる可能性を指摘するレポート。貯蔵穀物の農家の売却タイミングと地域市況の関連性に関する解説で、穀物相場の短期的な上昇要因にはならない。"
-  },
-  {
-    "title": "Local basis strength could yield maximum profits on stored grain - Michigan State University",
-    "timestamp": "2026-07-21T18:21:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "ミシガン州立大学が、貯蔵穀物の販売において地域ベーシスの強さを活用することで最大利益を得られる可能性を指摘するレポート。貯蔵穀物の農家の売却タイミングと地域市況の関連性に関する解説で、穀物相場の短期的な上昇要因にはならない。"
-  },
-  {
     "title": "Canadian Stocks Climb as Gold Surge Offsets Trump Tariff Threat - Bloomberg.com",
     "timestamp": "2026-07-21T20:18:29+00:00",
     "importance": 3,
@@ -944,5 +911,115 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "投資家が原油価格の急騰と米国債利回りの上昇がもたらすリスクに警戒している。高い油価と上昇する利回りは、株式相場の継続性に対する懸念が強まり、特に金などの非利息資産の下落圧力となる可能性がある。金利上昇環境下では原油と金の値動きが乖離する傾向が見られている。"
+  },
+  {
+    "title": "Cold Storage",
+    "timestamp": "2026-07-24T19:48:25.133807+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "2026年6月30日時点の冷蔵倉庫内のナチュラルチーズ在庫は、前月比で1%増加したが、前年同月比では1%減少した。在庫変動は小幅にとどまっており、乳製品市場における需給バランスは概ね安定している。"
+  },
+  {
+    "title": "Farm Production Expenditures",
+    "timestamp": "2026-07-24T19:48:29.837257+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
+  },
+  {
+    "title": "Farm Production Expenditures",
+    "timestamp": "2026-07-24T19:48:29.837257+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
+  },
+  {
+    "title": "Farm Production Expenditures",
+    "timestamp": "2026-07-24T19:48:29.837257+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
+  },
+  {
+    "title": "Farm Production Expenditures",
+    "timestamp": "2026-07-24T19:48:29.837257+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
+  },
+  {
+    "title": "Cattle",
+    "timestamp": "2026-07-24T19:48:34.153530+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSの7月1日付けの公式統計。牛の在庫がわずかに増加した一方で、子牛生産（Calf Crop）は前年比2%減少。供給減少は牛肉価格の上方圧力となるが、全体的には市場予想の範囲内。飼料穀物（トウモロコシ・大豆）需要への下方シグナル。"
+  },
+  {
+    "title": "Cattle",
+    "timestamp": "2026-07-24T19:48:34.153530+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSの7月1日付けの公式統計。牛の在庫がわずかに増加した一方で、子牛生産（Calf Crop）は前年比2%減少。供給減少は牛肉価格の上方圧力となるが、全体的には市場予想の範囲内。飼料穀物（トウモロコシ・大豆）需要への下方シグナル。"
+  },
+  {
+    "title": "Cattle",
+    "timestamp": "2026-07-24T19:48:34.153530+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの7月1日付けの公式統計。牛の在庫がわずかに増加した一方で、子牛生産（Calf Crop）は前年比2%減少。供給減少は牛肉価格の上方圧力となるが、全体的には市場予想の範囲内。飼料穀物（トウモロコシ・大豆）需要への下方シグナル。"
+  },
+  {
+    "title": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply - Reuters",
+    "timestamp": "2026-07-24T14:36:19+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン情勢とウクライナ紛争による供給懸念から、現物原油価格が急騰し、一部銘柄が110ドル水準に接近している。地政学的リスクが原油市場の主要な上昇要因となっており、供給途絶への不安が価格を押し上げている。"
+  },
+  {
+    "title": "Russia’s Top Black Sea Oil Port Halts Loadings Amid Safety Fears - Bloomberg.com",
+    "timestamp": "2026-07-24T16:14:27+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの黒海最大油田積出港が安全上の懸念により積み出しを一時停止。ロシアは世界有数の原油輸出国であり、黒海港湾は欧州向け主要ルート。供給減少による原油価格上昇圧力が強まる可能性が高い。"
   }
 ]
