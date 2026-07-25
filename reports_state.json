@@ -1,38 +1,5 @@
 [
   {
-    "title": "Milk Production",
-    "timestamp": "2026-07-22T20:37:19.631982+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが6月の牛乳生産統計を発表。24主要州の牛乳生産量は189億ポンドで、前年同月比2.4%増加。需給逼迫の緩和を示唆し、酪農飼料（トウモロコシ・大豆）の価格圧力につながる可能性がある。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-07-22T20:37:19.631982+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが6月の牛乳生産統計を発表。24主要州の牛乳生産量は189億ポンドで、前年同月比2.4%増加。需給逼迫の緩和を示唆し、酪農飼料（トウモロコシ・大豆）の価格圧力につながる可能性がある。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-07-22T20:37:19.631982+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが6月の牛乳生産統計を発表。24主要州の牛乳生産量は189億ポンドで、前年同月比2.4%増加。需給逼迫の緩和を示唆し、酪農飼料（トウモロコシ・大豆）の価格圧力につながる可能性がある。"
-  },
-  {
     "title": "Weather, demand support wheat, soybeans, corn - Brownfield Ag News",
     "timestamp": "2026-07-22T22:10:38+00:00",
     "importance": 3,
