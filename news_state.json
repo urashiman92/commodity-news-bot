@@ -11,17 +11,6 @@
     "summary": "7月22日の金相場が2営業日連続で上昇した。具体的な上昇要因は記事概要では不明。相場の振り返り・観測ニュースの位置付け。"
   },
   {
-    "title": "日経平均株価 大幅反発 円相場は円高 原油先物価格の急落受け - ABEMA",
-    "timestamp": "2026-07-22T05:06:33+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格の急落が主要株価指数を圧迫しているが、同時に円高が進行。日経平均は大幅反発した一方で、原油下落そのものはコモディティ投資家にとって逆風となる局面。"
-  },
-  {
     "title": "県内6月の景気動向、4カ月ぶり改善 原油価格下落の期待感も、米イラン再び緊張で改善継続は不透明 - 神戸新聞",
     "timestamp": "2026-07-22T08:16:18+00:00",
     "importance": 2,
@@ -1945,5 +1934,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "原油が100ドル/バレルで推移する中、スタグフレーション懸念が強まり、投資家が銅などのリスク資産から金などの防御資産へシフトしている。記事は資産配分の変化を需要減と誤認するリスクを警告している。"
+  },
+  {
+    "title": "本日（7月25日正午）の金価格：金価格が再び急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-25T05:26:06+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトが7月25日正午時点の金価格を報道し、金が再び急騰していることを伝えている。具体的な価格データや騰落率の記載がないため、詳細な市場インパクトの判断が難しい。"
+  },
+  {
+    "title": "7月25日午前：金価格が急騰、SJCの金リングは市場で最安値を記録。 - Vietnam.vn",
+    "timestamp": "2026-07-25T05:03:46+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで7月25日午前に金価格が急騰し、SJCの金リングが市場最安値を記録。地域的な価格変動を報じたニュース。"
+  },
+  {
+    "title": "本日（7月25日）の金価格：1オンスあたり50万ベトナムドンの小幅上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-25T03:47:47+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が1オンスあたり50万ベトナムドンで小幅上昇した。ローカル市場の日次値動きを報じたニュース。グローバルな金市場全体への影響は限定的。"
+  },
+  {
+    "title": "イラン情勢緊迫 トランプ大統領「最大規模の攻撃準備」 原油価格再び100ドル突破 - テレ朝NEWS",
+    "timestamp": "2026-07-25T02:18:25+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化に伴いトランプ大統領が最大規模の攻撃準備を表明。地政学リスクの急激な高まりが原油価格を100ドル以上に押し上げた。中東の主要産油国における供給懸念が顕在化。"
+  },
+  {
+    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-07-25T02:24:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WisdomTree WTI原油上場投信【1690】の株価・株式情報ページ。特定の価格変動や新しいニュースイベントではなく、投信商品の情報提供ページである。"
+  },
+  {
+    "title": "イラン情勢緊迫 トランプ大統領「最大規模の攻撃準備」 原油価格再び100ドル突破 - ABEMA",
+    "timestamp": "2026-07-25T03:36:33+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国トランプ大統領がイランへの最大規模の攻撃準備を表明。地政学的緊張の急速な高まりを受けて、原油価格は100ドルを突破した。中東の主要供給地域での有事化懸念が市場を大きく動かしている。"
   }
 ]
