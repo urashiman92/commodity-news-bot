@@ -22,28 +22,6 @@
     "summary": "米国の原油在庫が予想に反して増加した。EIAの週間在庫報告では、市場がドローダウン（在庫減少）を見込んでいたにもかかわらず、在庫が積み上がった。これはサプライ過剰の懸念を示唆し、原油価格に下押し圧力がかかる可能性が高い。"
   },
   {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-07-22T11:47:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要減速の継続的な下方修正は、エネルギー転換と経済成長鈍化を反映している。複数回の下方修正は市場心理の悪化を示唆し、原油価格への下押し圧力となる可能性が高い。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-07-22T11:47:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要減速の継続的な下方修正は、エネルギー転換と経済成長鈍化を反映している。複数回の下方修正は市場心理の悪化を示唆し、原油価格への下押し圧力となる可能性が高い。"
-  },
-  {
     "title": "Milk Production",
     "timestamp": "2026-07-22T20:37:19.631982+00:00",
     "importance": 3,
@@ -977,5 +955,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの石油精製施設を狙ったミサイル攻撃が撃墜されたと報じられた。中東の地政学的緊張が再び高まり、重要な石油インフラへの脅威が顕在化。供給途絶リスクの増加により原油相場の上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery - Reuters",
+    "timestamp": "2026-07-25T09:59:32+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナのドローン攻撃がロシア・チュメニ製油所での火災を引き起こした。同製油所はロシア最大級の製油施設で、日産約35万バレルの精製能力を保有している。ロシアの重要な石油インフラへの直撃は供給懸念を高め、原油価格の上昇圧力となる。"
   }
 ]
