@@ -11,17 +11,6 @@
     "summary": "ベトナムの金地金価格が7月23日に最大140万ベトナムドン下落した。ローカル市場での値動きを報じたもので、グローバルな金相場への直接的な影響は限定的。"
   },
   {
-    "title": "NY為替：戦争拡大懸念に原油価格や長期金利上昇 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-22T21:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東紛争の拡大懸念により、原油価格と長期金利が上昇した。地政学的リスクプレミアムが相場に反映された形。既報の地政学的緊張の延長線上での値動き。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4129ドル｜ドルインデックスの下落が影響した模様(2026年7月23日) - OANDA証券",
     "timestamp": "2026-07-22T23:04:48+00:00",
     "importance": 2,
@@ -163,17 +152,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "著名投資家ポールソン氏が金の長期強気相場の開始を主張。金鉱株が金価格を上回るリターンをもたらす可能性があると言及。既存の金強気論の延長線上にある見解。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況・22日 続伸 - Moomoo",
-    "timestamp": "2026-07-22T21:26:45+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物市場が続伸。具体的な価格水準や上昇要因の詳細は記事概要からは不明。市場の技術的な継続上昇を記録した可能性。"
   },
   {
     "title": "本日（7月23日）の金価格：国内の金価格は変動し、上昇と下落を繰り返しています。 - Vietnam.vn",
@@ -1967,5 +1945,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "WisdomTree銅上場投信（1693）の株価・株式情報ページへのリンク。特定のニュースイベントや価格変動に関する具体的な情報は含まれていない。"
+  },
+  {
+    "title": "本日（7月26日）の金価格：価格は全般的に再び上昇。 - Vietnam.vn",
+    "timestamp": "2026-07-25T21:42:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月26日の金価格は全般的に再び上昇した。市場では金への需要が継続している。特段の新規材料は報じられていない。"
+  },
+  {
+    "title": "金価格の最新情報（2026年7月26日）：SJC、プレーン9999 BTMC DOJI Phu Quyリング。 - Vietnam.vn",
+    "timestamp": "2026-07-25T21:11:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報提供ニュース。SJC、BTMC、DOJI、Phu Quyなど地域の金商品相場を報道。"
+  },
+  {
+    "title": "紅海封鎖の脅威で原油価格が100ドル突破、世界の主要エネルギー要衝が同時に機能不全に - BigGo ファイナンス",
+    "timestamp": "2026-07-25T20:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "紅海の海運封鎖により原油価格が100ドルを突破した。ホルムズ海峡など複数の主要エネルギー要衝が同時に機能不全に陥る可能性がある。地政学リスクによる供給懸念が顕在化し、市場に大きな影響を及ぼしている。"
+  },
+  {
+    "title": "トランプ大統領「大規模攻撃の決定直前」…原油価格、2カ月ぶり100ドル（1） - ｄメニューニュース",
+    "timestamp": "2026-07-25T00:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領が大規模攻撃の準備を示唆し、地政学的緊張が急速に高まった。原油価格は2カ月ぶりに100ドル/バレルを突破し、有事プレミアムが顕在化した。中東での軍事衝突リスクが市場心理に大きく作用している。"
   }
 ]
