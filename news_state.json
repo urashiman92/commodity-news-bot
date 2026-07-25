@@ -1,27 +1,5 @@
 [
   {
-    "title": "黒海への攻撃と米国の作物生産予測引き下げで小麦価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-22T13:16:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海への攻撃による供給リスク顕在化と米国の小麦生産見通し引き下げの二つの要因が重なり、小麦価格が上昇。ウクライナ産小麦の供給懸念と主要生産国の減産見通しにより供給逼迫への懸念が高まった。"
-  },
-  {
-    "title": "トウモロコシ先物、原油価格と天候要因で上昇して始まる見通し 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-22T13:16:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トウモロコシ先物が原油価格と天候要因を背景に上昇する見通しが示されている。バイオ燃料需要との連動性と供給リスクが相互作用している。ただしニュース記事の具体的な詳細が不足している。"
-  },
-  {
     "title": "金価格は本日2026年7月23日に急騰した。投資家が底値買いに殺到したためだが、市場にはもう少し時間が必要だ。 - Vietnam.vn",
     "timestamp": "2026-07-22T14:54:41+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が本日上昇し、投資家の底値買いが殺到した。ただしこのニュースは価格上昇の事後解説であり、市場にはさらなる時間が必要とのコメント。"
-  },
-  {
-    "title": "世界の原油価格は6週間ぶりの高値に急騰した。 - Vietnam.vn",
-    "timestamp": "2026-07-22T14:06:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が6週間ぶりの高値に上昇した。値動き自体は注視に値するが、具体的な需給要因や地政学リスク、供給ショックの詳細が報道から不明確。既報の値動きを振り返るコメンタリーと思われる。"
   },
   {
     "title": "テック・リソーシズ、銅価格上昇と合併審査待ちの中で第2四半期決算発表へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1956,5 +1923,27 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "黒海情勢の緊迫化により小麦価格が急騰している。同時にアジア米価格が過去最高値を更新し、穀物全般が上昇圧力を受けている。地政学的リスク要因により供給懸念が顕在化。"
+  },
+  {
+    "title": "更新：インフレ懸念の中でも堅調、金価格は4,000ドル台を維持 - Moomoo",
+    "timestamp": "2026-07-24T23:57:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドル台を維持している状況についての相場解説。インフレ懸念が金の下支え要因となっているが、既に織り込まれた内容。"
+  },
+  {
+    "title": "2026年7月25日午後、金価格は上昇を続け、特にフークイでは最も急激な調整が見られた。 - Vietnam.vn",
+    "timestamp": "2026-07-25T09:15:36+00:00",
+    "importance": 1,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月25日午後にベトナムで金価格が上昇、フークイ地域で調整が見られたというローカルニュース。具体的な上昇要因や数値が不明。地域限定的な相場報告。"
   }
 ]
