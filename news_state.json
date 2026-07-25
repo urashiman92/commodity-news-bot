@@ -1,71 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4129ドル｜ドルインデックスの下落が影響した模様(2026年7月23日) - OANDA証券",
-    "timestamp": "2026-07-22T23:04:48+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4129ドルまで上昇した。ドルインデックスの下落が主要な上昇要因となっている。市場の既知の要因に基づく値動きと考えられる。"
-  },
-  {
-    "title": "本日（7月23日）の金価格：国内の金価格は変動し、上昇と下落を繰り返しています。 - Vietnam.vn",
-    "timestamp": "2026-07-22T22:59:18+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が7月23日に変動し、上昇と下落を繰り返している状況の報道。国内市場の日中の値動きについての定期的な価格情報記事。"
-  },
-  {
-    "title": "2026年7月23日の金価格：世界的な価格高騰、SJCは力強い突破口を開く可能性あり。 - Vietnam.vn",
-    "timestamp": "2026-07-22T23:11:25+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が世界的な高騰に連動して上昇している。SJC（ベトナム公式金）が強気の展開を見せている。既に報じられている世界的な金相場の強気トレンドの地域的な反映。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：供給懸念が強まり、原油価格は4営業日続伸（2026年7月23日） - OANDA証券",
-    "timestamp": "2026-07-22T23:13:56+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が4営業日続伸。供給懸念が価格支援要因となっている。アナリスト解説による相場振り返り記事。"
-  },
-  {
-    "title": "WTI原油先物相場、上昇 87ドル台後半で推移 - Moomoo",
-    "timestamp": "2026-07-22T23:09:13+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が87ドル台後半で推移している。具体的な買い材料や売り材料が明記されていない相場状況の報告。"
-  },
-  {
-    "title": "２２日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-22T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "22日の主要国際商品市況をまとめた日次レポート。具体的な商品別価格や騰落率の詳細が不明。定期的なマーケットサマリーと推定される。"
-  },
-  {
     "title": "本日（7月23日）の金価格：4月初旬に金を購入した投資家は大きな損失を被る見込み。 - Vietnam.vn",
     "timestamp": "2026-07-23T00:23:46+00:00",
     "importance": 2,
@@ -75,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月23日時点で、4月初旬に金を購入した投資家が損失を被る見込みとの報道。この期間における金価格の下落トレンドを反映したコメンタリー。既に市場に織り込まれた価格変動の事後的な評価。"
-  },
-  {
-    "title": "WTI 原油先物(下期)のリアルタイムチャート - Moomoo",
-    "timestamp": "2026-07-22T23:05:49+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Moomooプラットフォームが提供するWTI原油先物のリアルタイムチャート表示に関するニュース。具体的な価格動向やマーケットイベントに関する情報は含まれていない。"
-  },
-  {
-    "title": "２２日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-22T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "22日の主要国際商品市況を報じるニュース。具体的な価格情報や材料がリンク先に記載されているが、本体概要では詳細が不明。市場の日常的な相場振り返りと推測される。"
   },
   {
     "title": "金価格、中東緊張が高金利懸念を相殺し4,130ドル超を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -251,28 +163,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金は2週間ぶりの高値圏にあるが、4,075ドルが重要な分岐点。FOMC決定待ちで方向感が定まりにくい状況。テクニカルレベルを意識した値動きの警戒が必要。"
-  },
-  {
-    "title": "【金相場】高値から2割超下落、ウェルズ・ファーゴが「リスクリワード逆転」と指摘 ～500ドルの下値余地に対し1,500ドルの上昇ポテンシャル - BigGo ファイナンス",
-    "timestamp": "2026-07-22T23:05:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場が高値から20%超下落した局面で、ウェルズ・ファーゴは現在のリスク・リワード比が逆転していると指摘。下値リスクは500ドル程度に対し、上昇ポテンシャルは1,500ドルと評価している。金の買い場形成可能性を示唆するアナリスト見解。"
-  },
-  {
-    "title": "ニューヨーク原油・金先物市場概況（22日）原油は4日続伸 - Moomoo",
-    "timestamp": "2026-07-22T23:21:23+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク原油先物が4日続伸。金先物市場の動向についても触れられている市場概況の報道。"
   },
   {
     "title": "ドル買いの動き、ＮＹ原油先物が８９ドル台に上昇＝ロンドン為替 - みんかぶ FX/為替",
@@ -2011,5 +1901,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "紅海情勢の不安定化が原油供給ルートに対する新たなリスク要因として認識されている。同海域はスエズ運河を経由する重要な石油輸送路であり、地政学的緊張が供給途絶懸念を引き起こす。既に認識されているリスク要因であるため市場への織り込み度合いは不透明。"
+  },
+  {
+    "title": "本日（7月26日）の金価格：SJC金は小幅上昇、売買スプレッドは1オンスあたり400万ベトナムドンで横ばい。 - Vietnam.vn",
+    "timestamp": "2026-07-25T23:39:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金が小幅上昇。売買スプレッドは1オンス当たり400万ベトナムドンで変わらず。地域相場の日々の値動きを記録した定期報道。"
+  },
+  {
+    "title": "本日（7月26日）の金価格：金地金は急騰、金指輪は逆方向に変動。 - Vietnam.vn",
+    "timestamp": "2026-07-25T22:59:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が7月26日に変動。金地金は上昇したが金指輪は逆方向に動いた。国内の製品別価格差の動きを報じた相場解説。"
+  },
+  {
+    "title": "金価格の最新情報（2026年7月26日）：SJC、プレーンリング9999BTMC DOJI Phu Quy Sunday - Vietnam.vn",
+    "timestamp": "2026-07-25T23:41:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売価格（SJC、DOJI Phu Quy）の日次更新ニュース。ローカル小売市場の価格情報提供が主体で、グローバル金市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "米国-イラン戦争が再び激化し、紅海の海の道も閉ざされると、国際原油価格が再び急騰した。 エネルギー市場が再び混乱に陥り、原油価格の下落で収益を出す原油高バス商品に巨額を入れた投資家らも悲鳴を上げている.. - 매일경제",
+    "timestamp": "2026-07-25T00:14:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国-イラン紛争の激化と紅海の海上輸送路遮断により、国際原油価格が急騰した。エネルギー市場が混乱し、原油下落で利益を得る逆張り商品の投資家が損失を被っている。"
+  },
+  {
+    "title": "PM Takaichi emphasizes security of crude oil supplies in Japan - Qazinform",
+    "timestamp": "2026-07-25T06:26:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本のタカイシPMが原油供給安定の重要性を強調。政策姿勢の表明に過ぎず、具体的な市場影響は限定的。既定路線の発言と考えられる。"
   }
 ]
