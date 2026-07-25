@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-07-22T07:25:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要鈍化が示唆されており、市場では供給過剰懸念が強まっている。このシグナルはOPEC減産方針の見直しにつながる可能性があり、原油価格の下押し圧力となる。"
-  },
-  {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-07-22T07:25:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要鈍化が示唆されており、市場では供給過剰懸念が強まっている。このシグナルはOPEC減産方針の見直しにつながる可能性があり、原油価格の下押し圧力となる。"
-  },
-  {
     "title": "US Crude Oil Stocks Unexpectedly Rise: EIA - TradingView",
     "timestamp": "2026-07-22T14:53:29+00:00",
     "importance": 3,
@@ -966,5 +944,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油市場が複数の供給リスク要因により大きな変動を記録。地政学的緊張、OPEC減産政策、在庫動向、需要見通しの4つの方面から同時に市場が攪乱されており、価格変動性が著しく高まっている。供給懸念が強まる局面では上昇圧力、需要減速懸念では下落圧力が交錯している。"
+  },
+  {
+    "title": "Saudi Oil Can Still Get Out — But It Won’t Be Cheap or Easy - Bloomberg.com",
+    "timestamp": "2026-07-25T07:00:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油輸出が技術的・物理的な制約により困難になっていることを指摘。紅海の地政学的リスクやインフラの限界により、原油の流出コストが上昇し、供給の柔軟性が低下する可能性を示唆。サウジの減産維持の実行可能性にも影響する懸念。"
   }
 ]
