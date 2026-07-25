@@ -1,27 +1,5 @@
 [
   {
-    "title": "テック・リソーシズ、銅価格上昇と合併審査待ちの中で第2四半期決算発表へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-22T16:10:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "テック・リソーシズが第2四半期決算を発表予定。銅価格上昇環境が追い風となる可能性がある。同時に進行中の合併審査の進展状況も注目される。"
-  },
-  {
-    "title": "米イラン戦火で中東の石油ルート封鎖、ブレント原油が95ドル突破 専門家は125ドル到達を警告 - BigGo ファイナンス",
-    "timestamp": "2026-07-22T16:45:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン紛争により中東の石油輸送ルートが封鎖される地政学的リスクが顕在化。ブレント原油が95ドルを突破し、アナリストは125ドル到達を警告している。供給途絶の懸念が急速に市場を変動させている。"
-  },
-  {
     "title": "ニューヨーク金先物市場概況・22日 続伸 - Moomoo",
     "timestamp": "2026-07-22T20:40:49+00:00",
     "importance": 2,
@@ -1956,5 +1934,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムが7月25日時点での燃料価格を報じ、世界原油価格が下落基調。国内ガソリン価格は低水準を維持している状況。市場は既に織り込み済みの緩やかな下落トレンド。"
+  },
+  {
+    "title": "米国債市場：原油価格上昇が一服 米国債は当週の下落分の一部を回復 - Moomoo",
+    "timestamp": "2026-07-24T23:43:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の上昇が一時的に鈍化した状況について報じている。米国債市場が週初の下落分の一部を回復しており、金融市場全体の動きを反映している。具体的な原油価格水準や変動率の情報がないため、その影響度は限定的。"
   }
 ]
