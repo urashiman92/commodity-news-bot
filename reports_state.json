@@ -1,27 +1,5 @@
 [
   {
-    "title": "Asian stocks cling to gains as US rebounds, oil rises - Reuters",
-    "timestamp": "2026-07-22T01:08:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国経済の回復とそれに伴う需要期待がアジア株式市場を支援し、連動して原油価格も上昇。ドル強化と米金利動向への警戒がある中、エネルギー需要の局所的な強さが価格を下支えしている。具体的な数値は提供されていないが、米国の景気改善シグナルがコモディティ全般に軽微なポジティブ材料として機能している。"
-  },
-  {
-    "title": "Asian stocks cling to gains as US rebounds, oil rises - Reuters",
-    "timestamp": "2026-07-22T01:08:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国経済の回復とそれに伴う需要期待がアジア株式市場を支援し、連動して原油価格も上昇。ドル強化と米金利動向への警戒がある中、エネルギー需要の局所的な強さが価格を下支えしている。具体的な数値は提供されていないが、米国の景気改善シグナルがコモディティ全般に軽微なポジティブ材料として機能している。"
-  },
-  {
     "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
     "timestamp": "2026-07-22T07:25:03+00:00",
     "importance": 3,
@@ -64,28 +42,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "米国の原油在庫が予想に反して増加した。EIAの週間在庫報告では、市場がドローダウン（在庫減少）を見込んでいたにもかかわらず、在庫が積み上がった。これはサプライ過剰の懸念を示唆し、原油価格に下押し圧力がかかる可能性が高い。"
-  },
-  {
-    "title": "Rupee languishes at two-month lows as supply worries raise oil prices - Reuters",
-    "timestamp": "2026-07-22T02:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド・ルピーが2ヶ月ぶりの安値に下落している。供給懸念によって原油価格が上昇を続けており、エネルギー関連の輸入コスト増加がルピー売り圧力となっている。コモディティ全般ではドル高環境が形成されており、ドル建て商品の上値抵抗となる可能性がある。"
-  },
-  {
-    "title": "Rupee languishes at two-month lows as supply worries raise oil prices - Reuters",
-    "timestamp": "2026-07-22T02:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド・ルピーが2ヶ月ぶりの安値に下落している。供給懸念によって原油価格が上昇を続けており、エネルギー関連の輸入コスト増加がルピー売り圧力となっている。コモディティ全般ではドル高環境が形成されており、ドル建て商品の上値抵抗となる可能性がある。"
   },
   {
     "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
@@ -594,17 +550,6 @@
     "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
   },
   {
-    "title": "US Crude Oil Stockpiles Surge Past Expectations: API Reports 2.603M Barrel Build - CryptoRank",
-    "timestamp": "2026-07-21T23:59:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国原油在庫が市場予想を上回る260万バレルの大幅な積み増しを記録。EIA/API週間在庫統計の発表。在庫増加は原油需給が緩和していることを示唆し、サプライサイドの圧力が強まっている。価格下落圧力となりやすい。"
-  },
-  {
     "title": "Russia Eyes Longer Diesel Export Ban as Ukraine Hits Oil Assets - Bloomberg.com",
     "timestamp": "2026-07-23T15:42:35+00:00",
     "importance": 4,
@@ -1021,5 +966,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後の独立的な増産を推し進め、来年原油産出量を日量500万バレルを超える水準に引き上げるとIEAが予測。これはOPEC+の減産枠組み外での増産となり、グローバル供給圧力が強まる局面を意味する。"
+  },
+  {
+    "title": "How Oil Chaos on Four Fronts Drives Wild Swings and Supply Fears - Bloomberg.com",
+    "timestamp": "2026-07-24T20:15:20+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油市場が複数の供給リスク要因により大きな変動を記録。地政学的緊張、OPEC減産政策、在庫動向、需要見通しの4つの方面から同時に市場が攪乱されており、価格変動性が著しく高まっている。供給懸念が強まる局面では上昇圧力、需要減速懸念では下落圧力が交錯している。"
+  },
+  {
+    "title": "How Oil Chaos on Four Fronts Drives Wild Swings and Supply Fears - Bloomberg.com",
+    "timestamp": "2026-07-24T20:15:20+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油市場が複数の供給リスク要因により大きな変動を記録。地政学的緊張、OPEC減産政策、在庫動向、需要見通しの4つの方面から同時に市場が攪乱されており、価格変動性が著しく高まっている。供給懸念が強まる局面では上昇圧力、需要減速懸念では下落圧力が交錯している。"
   }
 ]
