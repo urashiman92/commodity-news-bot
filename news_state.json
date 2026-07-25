@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日の金価格、2026年7月22日（9999金）、午後：水曜日の9999金、BTMC金リング、BTMC、およびDOJI金の最新価格。 - Vietnam.vn",
-    "timestamp": "2026-07-22T11:01:53+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトが2026年7月22日の金相場を報道。現物金（9999金）およびBTMC、DOJI等の小売業者の価格を掲載したもの。"
-  },
-  {
-    "title": "原油価格が91ドル突破で債券市場に売り圧力！米長期金利が節目を突破、FRBは来週の会合でジレンマに直面 - BigGo ファイナンス",
-    "timestamp": "2026-07-22T10:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が91ドルを突破し、インフレ圧力から米長期金利が上昇。FRBは来週の会合で金利引き上げ継続と物価抑制のジレンマに直面する状況。"
-  },
-  {
     "title": "黒海への攻撃と米国の作物生産予測引き下げで小麦価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-22T13:16:00+00:00",
     "importance": 4,
@@ -86,17 +64,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "テック・リソーシズが第2四半期決算を発表予定。銅価格上昇環境が追い風となる可能性がある。同時に進行中の合併審査の進展状況も注目される。"
-  },
-  {
-    "title": "6月、輸入原油価格が過去最高に 名古屋税関管内、中東情勢悪化の影響続く：ニュース - 中日BIZナビ",
-    "timestamp": "2026-07-22T10:57:11+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "6月の日本輸入原油価格が過去最高を記録。中東情勢悪化による供給懸念が継続している。名古屋税関管内データから国内エネルギー調達コスト上昇が確認された。"
   },
   {
     "title": "米イラン戦火で中東の石油ルート封鎖、ブレント原油が95ドル突破 専門家は125ドル到達を警告 - BigGo ファイナンス",
@@ -273,17 +240,6 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "22日の主要国際商品市況をまとめた日次レポート。具体的な商品別価格や騰落率の詳細が不明。定期的なマーケットサマリーと推定される。"
-  },
-  {
-    "title": "上海国際エネルギー取引センターの原油先物ナイトセッションは2.74%高の上昇で、1バレルあたり565.30人民元で取引を終えました。上海のゴールド先物ナイトセッションは1.04%上昇、シルバー先物ナイトセッションは1.69%上昇しました。最近、コモディティ市場の値動きが比較 - Bitget",
-    "timestamp": "2026-07-22T10:41:21+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "上海の原油先物が2.74%上昇し565.30人民元/バレルで引け。貴金属（金1.04%、銀1.69%）も同時上昇。コモディティ全般的な連れ高相場を記録。"
   },
   {
     "title": "本日（7月23日）の金価格：4月初旬に金を購入した投資家は大きな損失を被る見込み。 - Vietnam.vn",
@@ -2000,5 +1956,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金買い取り価格が1オンスあたり250万ベトナムドン上昇。ローカル市場での価格変動を報じたもの。"
+  },
+  {
+    "title": "SJCの金地金価格は、700万ベトナムドン下落した後、1オンスあたり200万ベトナムドン上昇した。 - Vietnam.vn",
+    "timestamp": "2026-07-25T10:57:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金地金価格が700万VND下落した後、1オンスあたり200万VND上昇した。短期的な価格変動を記録した続報である。"
   }
 ]
