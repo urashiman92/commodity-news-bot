@@ -1,71 +1,5 @@
 [
   {
-    "title": "戦争と共に沈んだ金価格、買うべき根拠は変わらず | The Wall Street Journal発 - ダイヤモンド・オンライン",
-    "timestamp": "2026-07-21T23:07:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "戦争の地政学的リスクによる金価格の下落を報じるが、金の長期的な購入根拠（インフレ対冲、有事資産）は変わらないという解説。既に織り込まれた相場動向への見解。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4077ドル｜米国とイランの戦闘激化により、安全資産の金が買われた模様(2026年7月22日) - OANDA証券",
-    "timestamp": "2026-07-21T23:04:40+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国とイランの戦闘激化により、金価格が4077ドルまで上昇。地政学リスクの高まりで安全資産としての金が買われた。コモディティ市場全体へのリスク要因となる可能性。"
-  },
-  {
-    "title": "金価格が20％以上下落したが、今が買い時だろうか？ - Vietnam.vn",
-    "timestamp": "2026-07-21T23:56:09+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が20%以上下落している状況を受けた相場解説記事。「買い時か」という投資判断に関するコメンタリー。具体的な新規材料なく、既に下落した事実に対する観測的な検討。"
-  },
-  {
-    "title": "WSJ日本版：戦争と共に沈んだ金価格、買うべき根拠は変わらず - 毎日新聞",
-    "timestamp": "2026-07-21T23:07:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が地政学的緊張の緩和とともに下落している。アナリストは長期的な買い根拠（インフレ懸念、有事の金需要）は変わらないと指摘。現在は調整局面と見解。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：紅海が封鎖される可能性が高まり、原油価格は3営業日続伸（2026年7月22日） - OANDA証券",
-    "timestamp": "2026-07-21T23:13:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "紅海の封鎖可能性が高まったことで、原油の輸送リスクが増加し供給懸念が浮上。これにより3営業日連続で原油価格が上昇している。地政学的リスク要因による供給制約の懸念が相場を支えている。"
-  },
-  {
-    "title": "２１日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-21T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "21日の主要国際商品市況についての市況レポート。具体的な価格データや変動幅は記事本文がないため評価不可。定期的な市況まとめと考えられる。"
-  },
-  {
     "title": "金価格は約2週間ぶり高値、ＦＯＭＣ・中東情勢注視 - ロイター",
     "timestamp": "2026-07-22T03:23:00+00:00",
     "importance": 3,
@@ -75,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が約2週間ぶりの高値を付けた。FOMC（連邦公開市場委員会）の決定と中東情勢が値動きの主要な注視点となっている。現在の上昇は既存の地政学的リスクと金利見通しが織り込まれた動き。"
-  },
-  {
-    "title": "戦争と共に沈んだ金価格、買うべき根拠は変わらず - WSJ",
-    "timestamp": "2026-07-21T23:07:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "地政学的リスク（戦争）により金価格は下落したが、WSJはインフレ・通貨不安・マイナス金利環境など金買いの構造的根拠は変わらないと指摘。中長期的な投資判断には影響なし。"
   },
   {
     "title": "金価格は約2週間ぶり高値、ＦＯＭＣ・中東情勢注視 - ニューズウィーク日本版",
@@ -185,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米軍がイランに対して11夜連続で攻撃を実施し、中東の地政学的緊張が急速に高まっている。原油供給ルートの遮断リスクが顕在化し、市場は供給懸念を織り込み始めた。先物は小幅高で推移するも、今後のエスカレーション可能性が注視されている。"
-  },
-  {
-    "title": "２１日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-21T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "21日の主要国際商品市況に関するニュース報道。具体的な価格変動や市場イベントの詳細は記事内容が不明。定期的な市況情報の配信記事と推察される。"
   },
   {
     "title": "県内6月の景気動向、4カ月ぶり改善 原油価格下落の期待感も、米イラン再び緊張で改善継続は不透明 - 神戸新聞",
@@ -1912,5 +1824,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY株が235ドル高で反発した。原油相場の下落がリスク資産買い戻しを促進した結果。既に織り込まれた相場動向の振り返り。"
+  },
+  {
+    "title": "ブルームバーグ商品指数は金曜日に1％以上下落し、エネルギーと穀物の利益確定が全体のパフォーマンスを押し下げました。 - Bitget",
+    "timestamp": "2026-07-24T09:21:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ブルームバーグ商品指数が金曜日に1%以上下落。エネルギーと穀物セクターでの利益確定売りが主因。小麦を含む穀物全体の調整局面を反映。"
+  },
+  {
+    "title": "NY原油・金相場（24日）－原油が6日ぶりに反落 金は反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-24T21:54:38+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油が6日ぶりに反落、金は反発した日次の相場動向を報じる記事。原油の短期的な調整局面と金の底堅さを示唆している。市場参加者向けの定期的な値動き報告。"
+  },
+  {
+    "title": "本日（7月25日）の金価格：金地金は回復、金指輪は変動。 - Vietnam.vn",
+    "timestamp": "2026-07-24T22:49:29+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格に関する日次レポート。金地金は回復傾向、金指輪は変動している状況。地域ローカルニュース。"
+  },
+  {
+    "title": "2026年7月25日現在の金価格：世界的な価格は急騰しているが、SJCの金価格は依然として底値圏にとどまっている。 - Vietnam.vn",
+    "timestamp": "2026-07-24T23:14:14+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界的に金価格が急騰している一方で、ベトナムのSJC金価格は依然として低位で推移。国際価格と国内価格のギャップが存在している状況。"
+  },
+  {
+    "title": "本日（7月25日）の金価格：金の指輪は金の延べ棒よりも高価です。 - Vietnam.vn",
+    "timestamp": "2026-07-24T23:02:06+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場で、金の指輪が金の延べ棒よりも高い価格で取引されている状況についての価格レポート。加工品と地金の価格差を指摘した市況解説。"
+  },
+  {
+    "title": "国際原油価格、中東情勢悪化で再び１００ドル突破 - 동아일보",
+    "timestamp": "2026-07-24T23:35:24+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の悪化を受け、国際原油価格が1バレル100ドルの大台を再び突破した。地政学的リスクプレミアムが供給懸念を増幅させている。"
+  },
+  {
+    "title": "◎ＮＹ株反発、２３５ドル高＝原油相場下落で - 時事通信ニュース",
+    "timestamp": "2026-07-24T20:53:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが235ドル上昇した。原油相場下落がリスク資産の買い戻しを促進した。原油価格の低下がコモディティ市場全体に下押し圧力をもたらしている。"
+  },
+  {
+    "title": "米コモディティー市場－金、銀、銅、大豆が上昇 原油、ガソリン、天然ガス、小麦が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-24T22:50:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で金・銀・銅・大豆が上昇する一方、原油・ガソリン・天然ガス・小麦が下落。市場内での相対的な強弱の振り分けが進行中。"
   }
 ]
