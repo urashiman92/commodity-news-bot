@@ -1,38 +1,5 @@
 [
   {
-    "title": "Weather, demand support wheat, soybeans, corn - Brownfield Ag News",
-    "timestamp": "2026-07-22T22:10:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "天候と需要が小麦、大豆、トウモロコシを支援。Crop Progressは定期的な作付・生育進捗統計であり、天候改善と需要堅調が穀物複合体の上昇要因として報道されている。具体的な作付面積や生産量予想の数値が記事タイトルだけからは確認できない。"
-  },
-  {
-    "title": "Weather, demand support wheat, soybeans, corn - Brownfield Ag News",
-    "timestamp": "2026-07-22T22:10:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "天候と需要が小麦、大豆、トウモロコシを支援。Crop Progressは定期的な作付・生育進捗統計であり、天候改善と需要堅調が穀物複合体の上昇要因として報道されている。具体的な作付面積や生産量予想の数値が記事タイトルだけからは確認できない。"
-  },
-  {
-    "title": "Weather, demand support wheat, soybeans, corn - Brownfield Ag News",
-    "timestamp": "2026-07-22T22:10:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "天候と需要が小麦、大豆、トウモロコシを支援。Crop Progressは定期的な作付・生育進捗統計であり、天候改善と需要堅調が穀物複合体の上昇要因として報道されている。具体的な作付面積や生産量予想の数値が記事タイトルだけからは確認できない。"
-  },
-  {
     "title": "Yemen's Houthis say they targeted two Saudi tankers; source says Encelia hit by missile - Reuters",
     "timestamp": "2026-07-22T22:31:34+00:00",
     "importance": 4,
@@ -42,17 +9,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "イエメンの親イラン勢力フーシ派が、サウジアラビア籍のタンカー2隻を標的にしたと主張。うち1隻（Encelia）がミサイル攻撃で被弾したと報道。ホルムズ海峡周辺での海上安全保障リスクが再燃し、石油輸送リスク・供給不安が急速に高まった。"
-  },
-  {
-    "title": "Oil Climbs After Houthis Attack Two Saudi Tankers in the Red Sea - Bloomberg.com",
-    "timestamp": "2026-07-22T22:02:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派がサウジアラビアのタンカー2隻を紅海で攻撃し、原油価格が上昇した。イエメン情勢の悪化に伴う地政学的リスクの再燃で、中東からの海上輸送ルート遮断懸念が顕在化。原油サプライチェーンへの直接的脅威として市場が反応した。"
   },
   {
     "title": "Asian stocks rise after US tech earnings, oil at six-week highs - Reuters",
@@ -97,17 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国のスーパータンカー2隻がサウジアラビア産原油を積載し、紅海のバブエルマンデブ海峡への向かっている。同海峡は主要な石油輸送ルートであり、地政学的リスク（紅海での海運障害）が顕在化している。中国への原油供給確保の動きが強まっており、タイトな供給環境を反映している。"
-  },
-  {
-    "title": "Oil Jumps After Houthis Attack Two Saudi Tankers in the Red Sea - Bloomberg.com",
-    "timestamp": "2026-07-22T22:02:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海でフーシ派がサウジアラビアのタンカー2隻を攻撃し、原油価格が上昇した。この地政学的リスクは重要な海上輸送ルートであるスエズ運河周辺での供給途絶リスクを顕在化させ、市場に急速な価格調整をもたらした。"
   },
   {
     "title": "Local Basis Strength Could Yield Maximum Profits on Stored Grain - Farms.com",
@@ -383,17 +328,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+の段階的な減産政策の解除が継続される中、第2の重要な海峡（ホルムズ海峡またはバブ・エル・マンデブ海峡の可能性）の地政学的リスクが解消されたことが報じられている。供給制約の緩和と地政学リスク低減により、原油価格には下押し圧力がかかる見通し。"
-  },
-  {
-    "title": "Oil Tops $100 as Houthi Attacks in Red Sea Amplify Supply Risks - Bloomberg.com",
-    "timestamp": "2026-07-22T22:02:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海でのフーシ派による船舶攻撃が激化し、原油価格が100ドルを突破した。中東の重要な海運ルートに対する地政学的リスクが顕在化し、供給途絶への懸念から急速に上昇。既報の地域不安定化に対する市場の具体的な価格反応として注視される。"
   },
   {
     "title": "Earnings call transcript: Freeport-McMoRan tops Q2 2026 estimates, shares fall - Investing.com UK",
@@ -845,5 +779,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナのドローン攻撃がロシア・チュメニ製油所に火災を引き起こした。同製油所はロシア最大級の石油精製施設であり、日量30万バレルの処理能力を持つ。供給側のショックにより、市場は原油価格上昇圧力に直面する可能性が高い。"
+  },
+  {
+    "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis - Bloomberg.com",
+    "timestamp": "2026-07-25T19:47:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がイランへの夜間軍事作戦を一時停止し、同時にフーシ派とサウジアラビアの紛争が激化している。中東の地政学的緊張が複雑に変化しており、ホルムズ海峡経由の石油供給リスクと避難資産としての金需要が相反する影響をもたらす可能性が高い。"
+  },
+  {
+    "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis - Bloomberg.com",
+    "timestamp": "2026-07-25T19:47:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国がイランへの夜間軍事作戦を一時停止し、同時にフーシ派とサウジアラビアの紛争が激化している。中東の地政学的緊張が複雑に変化しており、ホルムズ海峡経由の石油供給リスクと避難資産としての金需要が相反する影響をもたらす可能性が高い。"
+  },
+  {
+    "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis - Bloomberg.com",
+    "timestamp": "2026-07-25T19:47:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国がイランへの夜間軍事作戦を一時停止し、同時にフーシ派とサウジアラビアの紛争が激化している。中東の地政学的緊張が複雑に変化しており、ホルムズ海峡経由の石油供給リスクと避難資産としての金需要が相反する影響をもたらす可能性が高い。"
   }
 ]
