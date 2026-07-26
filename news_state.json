@@ -1,27 +1,5 @@
 [
   {
-    "title": "ドル買いの動き、ＮＹ原油先物が８９ドル台に上昇＝ロンドン為替 - みんかぶ FX/為替",
-    "timestamp": "2026-07-23T07:13:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル買いの流れでNY原油先物が89ドル台に上昇。為替市場の動きが原油相場を牽引した形。既報の為替動向の延長線上での値動き。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ 原油価格350ドルは依然として現実的な長期目標である。by Badcharts (TVC:USOIL) - Moomoo",
-    "timestamp": "2026-07-23T05:53:41+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アナリストBadchartsが、WTI原油の長期目標価格として350ドルは依然現実的だとの見解を発表。強気の相場観を示すコメンタリー。市場では既に様々な強気シナリオが議論されている段階。"
-  },
-  {
     "title": "農産物価格は3年ぶりの高水準に達した。 - Vietnam.vn",
     "timestamp": "2026-07-23T08:40:29+00:00",
     "importance": 3,
@@ -53,28 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "FRBの今後のシグナルを待つ中で金価格が小幅に下落した。市場は中央銀行の政策方向性に対する様子見姿勢を示している。金価格の変動幅は限定的で、明確なトレンド転換ではない。"
-  },
-  {
-    "title": "本日（7月23日午後）の金価格：急落 - Vietnam.vn",
-    "timestamp": "2026-07-23T07:51:46+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月23日午後の金価格が急落したと報じられている。ベトナムの金相場の日中値動きを伝える速報記事と思われる。具体的な下落理由は記事の内容が不明なため判断できない。"
-  },
-  {
-    "title": "２３日の米国債券市場見通し＝引き続き原油価格を注視 速報 - kabushiki.jp",
-    "timestamp": "2026-07-23T07:46:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国債券市場の見通しに関する解説記事。原油価格が米債市場に影響を与える可能性があることを指摘。具体的な価格予想や新規情報は含まれていない。"
   },
   {
     "title": "国内金価格が急落、ダイヤモンド密輸事件の波紋か - Viet-kabu.com",
@@ -1912,5 +1868,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "7月26日時点で世界の原油価格が約10%上昇したとの報道。ベトナムのガソリン価格に関する記事で、既に発生した価格変動の事後報告。"
+  },
+  {
+    "title": "金価格は引き続き下落傾向にある。 - Vietnam.vn",
+    "timestamp": "2026-07-26T07:15:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が引き続き下落傾向にあるとの報道。既に進行中のトレンドについての事後的な解説記事。"
+  },
+  {
+    "title": "金価格はピークから1テールあたり約5000万ドン下落したが、1年後に依然として上昇 - Laodong.vn",
+    "timestamp": "2026-07-26T06:59:14+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格はピークから約5000万ドン/テール下落したが、1年ベースでは依然として上昇基調にある。短期的な調整局面にあるものの、中長期的には堅調なトレンドが継続している状況。"
+  },
+  {
+    "title": "2026年7月26日午後の金価格（9999）：SJC金価格、BTMC金リング、フークイ金価格は週末に終了します。 - Vietnam.vn",
+    "timestamp": "2026-07-26T07:07:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格に関する定期的な相場情報報道。SJC、BTMC、フークイなど国内主要市場の金価格を週末時点で報告しているもの。"
+  },
+  {
+    "title": "中国の石油需要は原油価格を下支えできるか 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-26T05:32:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中国の石油需要が原油価格の下支え要因となるかを問う解説記事。中国経済の回復状況と石油需要の相関性が焦点。具体的な需要データや価格予想は記事内容に依存。"
+  },
+  {
+    "title": "来週の「利上げ」は決して「絵空事」ではないのか？高騰する原油価格と「指針を示さない」ワッシュ氏の姿勢が市場の緊張を高めている。 - Moomoo",
+    "timestamp": "2026-07-26T02:03:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "来週のFOMC利上げ可能性と原油高騰の関連性を指摘。Powell議長の政策スタンスの曖昧さが市場の不確実性を増幅。金利上昇は通常ドル強化・原油下押し要因だが、現在は原油が上昇している矛盾を報道。"
   }
 ]
