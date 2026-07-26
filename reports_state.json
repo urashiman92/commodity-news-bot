@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA reports a rise in US crude oil stocks - engine.online",
-    "timestamp": "2026-07-23T06:02:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の増加を報告。在庫積み増しは原油供給過剰を示唆し、価格に下押し圧力をもたらす。具体的な在庫増加量の数字が報道内容に含まれていないため、サプライズ度の評価が困難。"
-  },
-  {
     "title": "Local Basis Strength Could Yield Maximum Profits on Stored Grain - Farms.com",
     "timestamp": "2026-07-23T09:30:34+00:00",
     "importance": 3,
@@ -757,5 +746,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECが原油増産決定を発表し、市場の減産継続期待を裏切る形となった。同時にプロフィットテイキング（利益確定売却）が加わり、原油価格は大幅に下落。供給増加予測と需要見通しの不確実性が重なり、価格の調整局面が進行中。"
+  },
+  {
+    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
+    "timestamp": "2026-07-24T13:03:35+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
+  },
+  {
+    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
+    "timestamp": "2026-07-24T13:03:35+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
+  },
+  {
+    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
+    "timestamp": "2026-07-24T13:03:35+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
+  },
+  {
+    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
+    "timestamp": "2026-07-24T13:03:35+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
   }
 ]
