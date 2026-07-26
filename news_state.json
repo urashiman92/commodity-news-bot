@@ -1,16 +1,5 @@
 [
   {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ $ブレント先物(2609) (BZmain.US)$ - Moomoo",
-    "timestamp": "2026-07-23T14:56:31+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とブレント先物の価格情報を表示するMoomooプラットフォームのページ。具体的な市場動向や新規情報は含まれていない。"
-  },
-  {
     "title": "フーシがサウジ関係タンカー攻撃、原油輸送代替ルートの紅海にも戦域拡大か…原油先物価格は上昇 - 読売新聞",
     "timestamp": "2026-07-23T16:33:43+00:00",
     "importance": 4,
@@ -1736,5 +1725,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が100ドルを突破し、インフレ懸念からFRB利上げ確率が上昇している。既に顕在化した価格上昇とそれに伴う金融引き締め圧力の相互作用を報じている。"
+  },
+  {
+    "title": "金価格は本日7月26日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-07-26T14:56:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月26日の金価格が大幅に下落し、買い手に損失が発生した。ベトナム市場での価格動向についての報道。具体的な下落率や背景原因は明記されていない。"
+  },
+  {
+    "title": "本日2026年7月27日の金価格は、FRBの会合を控えて変動しており、米国のインフレ率が今後の方向性を左右するだろう。専門家は依然として慎重な姿勢を崩していない。 - Vietnam.vn",
+    "timestamp": "2026-07-26T14:54:56+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRB会合を控え、金価格が変動局面にある。米国のインフレ率が今後の価格方向を決定する重要な要因となる見通し。市場専門家は現在のところ慎重な見方を継続している。"
   }
 ]
