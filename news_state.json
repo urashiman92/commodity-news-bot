@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（7月23日）の金価格：4月初旬に金を購入した投資家は大きな損失を被る見込み。 - Vietnam.vn",
-    "timestamp": "2026-07-23T00:23:46+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月23日時点で、4月初旬に金を購入した投資家が損失を被る見込みとの報道。この期間における金価格の下落トレンドを反映したコメンタリー。既に市場に織り込まれた価格変動の事後的な評価。"
-  },
-  {
-    "title": "金価格、中東緊張が高金利懸念を相殺し4,130ドル超を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-23T01:45:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,130ドルを超える水準で推移。中東緊張による安全資産需要が、FRBの高金利継続懸念と相殺されている状況。既知の要因が市場に織り込まれている。"
-  },
-  {
     "title": "世界の金価格が過去最高値を更新し、原油価格への圧力が高まっている。 - Vietnam.vn",
     "timestamp": "2026-07-23T02:30:16+00:00",
     "importance": 3,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が過去最高値を更新した。原油価格への圧力が高まっているとの観測。金とエネルギー市場の連動性が注視されている。"
-  },
-  {
-    "title": "ウォール街の伝説的投資家ポールソン氏：金の長期強気相場は始まったばかり、金鉱株のリターンは金価格を大きく上回る可能性 - BigGo ファイナンス",
-    "timestamp": "2026-07-23T02:16:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "著名投資家ポールソン氏が金の長期強気相場の開始を主張。金鉱株が金価格を上回るリターンをもたらす可能性があると言及。既存の金強気論の延長線上にある見解。"
   },
   {
     "title": "本日（7月23日）の金価格：国内の金価格は変動し、上昇と下落を繰り返しています。 - Vietnam.vn",
@@ -77,28 +44,6 @@
     "summary": "ベトナム国内で金価格が7月の予想を上回る推移となった。売買スプレッドが1オンスあたり500万ベトナムドンに拡大し、市場の流動性が低下している。国内市場の限定的なニュースであり、グローバル市場への直接的な影響は限定的。"
   },
   {
-    "title": "イランからのシグナルを受けて、世界の金価格は2週間ぶりの高値に上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-23T01:07:50+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "イランからの何らかのシグナルを受けて、金価格が2週間ぶりの高値まで上昇した。地政学的緊張を反映した動きと考えられる。具体的なシグナルの内容は記事概要からは不明。"
-  },
-  {
-    "title": "原油先物続伸、ブレント6週ぶり高値の96ドル 米イラン対立激化 - ロイター",
-    "timestamp": "2026-07-23T01:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン対立の激化により、ブレント原油が6週ぶりの高値96ドルまで上昇した。地政学的リスクが供給懸念を高め、先物市場が反応している。"
-  },
-  {
     "title": "米国原油先物 (USOIL-F) は7月23日に上昇 2.23%：動きの背後に何があるのか？ - TradingKey",
     "timestamp": "2026-07-23T04:06:10+00:00",
     "importance": 2,
@@ -108,39 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "7月23日の米国原油先物が2.23%上昇したニュース。記事は価格変動の事後的な解説・分析である可能性が高い。具体的な供給ショックや需要変化の根拠が明示されていない。"
-  },
-  {
-    "title": "原油先物続伸、ブレント6週ぶり高値の96ドル 米イラン対立激化 - ニューズウィーク日本版",
-    "timestamp": "2026-07-23T01:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン対立の激化を受けて原油先物が続伸し、ブレント原油が6週間ぶりに96ドルの高値を付けた。地政学的リスクが相場を支援。"
-  },
-  {
-    "title": "フーシ派がサウジタンカーを攻撃、原油価格が5日続伸 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-23T00:46:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派がサウジアラビアのタンカーを攻撃したことにより、原油供給途絶リスクが顕在化。これに伴い原油価格が5営業日連続で上昇。イエメン紛争絡みの紅海での海運・エネルギー輸送リスクは既知の懸念材料。"
-  },
-  {
-    "title": "原油先物続伸、ブレント6週ぶり高値の96ドル　米イラン対立激化 - ｄメニューニュース",
-    "timestamp": "2026-07-23T01:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が6週ぶりの高値96ドルまで上昇。米イラン対立の激化が供給懸念を醸成。地政学的リスクプレミアムが価格を押し上げている。"
   },
   {
     "title": "輸入需要と供給への懸念から、大豆価格が急騰している。 - Vietnam.vn",
@@ -1956,5 +1868,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "日本のタカイシPMが原油供給安定の重要性を強調。政策姿勢の表明に過ぎず、具体的な市場影響は限定的。既定路線の発言と考えられる。"
+  },
+  {
+    "title": "2026年7月26日の今日の金価格：SJCの金地金は1週間で700万ベトナムドン「消失」。 - Vietnam.vn",
+    "timestamp": "2026-07-26T00:51:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金地金が1週間で700万ベトナムドン（約30USD相当）下落した。ローカルな現物金価格の変動レポートであり、グローバル金市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "今日の金価格 7月26日:1週間で1テールあたり1000万ドンの損失 - Laodong.vn",
+    "timestamp": "2026-07-26T01:50:14+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1週間で1テール当たり1000万ドン下落したことを報じたニュース。ベトナム国内の金相場の値動きに関する技術的な報道。"
+  },
+  {
+    "title": "7月26日朝の金価格更新:潜在的なリスク - Laodong.vn",
+    "timestamp": "2026-07-26T00:38:56+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトが7月26日朝の金相場を更新。「潜在的なリスク」という表現があるが、具体的なリスク要因の詳細は見出しからは不明。市場の日常的な価格更新と思われる。"
+  },
+  {
+    "title": "本日の燃料価格（7月26日）：世界の原油価格は週間で大幅な上昇を記録した。 - Vietnam.vn",
+    "timestamp": "2026-07-26T02:14:19+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月26日時点の世界原油価格が週間ベースで大幅な上昇を記録。ベトナムの燃料価格ニュースサイトからの定期報道。"
+  },
+  {
+    "title": "「中東情勢・原油高は中小企業にどのような影響を与えるのか？」置賜県勢懇話会 山形県 - 日テレNEWS NNN",
+    "timestamp": "2026-07-25T03:02:01+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢と原油高が中小企業に及ぼす影響について、置賜県での懇話会で議論された。既に原油高は浸透した環境下での経営課題についての解説である。"
   }
 ]
