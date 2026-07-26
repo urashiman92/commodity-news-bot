@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ likely to again raise oil output targets from September, sources say - Reuters",
-    "timestamp": "2026-07-23T17:32:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月以降も段階的に石油生産目標を引き上げる見通しを複数の関係者が示唆。既に決定済みの増産計画の続報であり、市場では一定程度織り込まれている。段階的な供給増加圧力が原油価格の上昇を抑制する見通し。"
-  },
-  {
     "title": "Livestock Slaughter",
     "timestamp": "2026-07-23T20:31:20.044020+00:00",
     "importance": 2,
@@ -64,39 +53,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+の段階的な減産政策の解除が継続される中、第2の重要な海峡（ホルムズ海峡またはバブ・エル・マンデブ海峡の可能性）の地政学的リスクが解消されたことが報じられている。供給制約の緩和と地政学リスク低減により、原油価格には下押し圧力がかかる見通し。"
-  },
-  {
-    "title": "Earnings call transcript: Freeport-McMoRan tops Q2 2026 estimates, shares fall - Investing.com UK",
-    "timestamp": "2026-07-23T18:29:37+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Freeport-McMoRanがQ2 2026決算でアナリスト予想を上回る利益を報告した。しかし株価は発表後に下落しており、市場は同社の先行き見通しやコスト動向に対して慎重な評価を示している。銅・金などの主要生産品の需要見通しが問題となっている可能性がある。"
-  },
-  {
-    "title": "Earnings call transcript: Freeport-McMoRan tops Q2 2026 estimates, shares fall - Investing.com UK",
-    "timestamp": "2026-07-23T18:29:37+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "Freeport-McMoRanがQ2 2026決算でアナリスト予想を上回る利益を報告した。しかし株価は発表後に下落しており、市場は同社の先行き見通しやコスト動向に対して慎重な評価を示している。銅・金などの主要生産品の需要見通しが問題となっている可能性がある。"
-  },
-  {
-    "title": "Earnings call transcript: Freeport-McMoRan tops Q2 2026 estimates, shares fall - Investing.com UK",
-    "timestamp": "2026-07-23T18:29:37+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "Freeport-McMoRanがQ2 2026決算でアナリスト予想を上回る利益を報告した。しかし株価は発表後に下落しており、市場は同社の先行き見通しやコスト動向に対して慎重な評価を示している。銅・金などの主要生産品の需要見通しが問題となっている可能性がある。"
   },
   {
     "title": "OPEC+ Set to Raise Output Again—Even as Members Can't Pump It - Yahoo Finance",
@@ -658,5 +614,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "フーシ派によるサウジアラビアの紅海沿岸油田へのドローン攻撃が報じられた。ただし市場は既に同地域の地政学的リスクを織り込んでおり、その後のアラビア湾諸国市場は軟化。攻撃の規模・経済的インパクトが限定的と判断されたとみられる。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-07-24T17:14:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAの週間在庫レポートで原油とガソリン在庫が前週比で減少したことが報告された。強い需要がドライバーとなり、在庫削減を牽引。在庫水準の低下は需給逼迫を示唆し、原油価格の上昇圧力につながる可能性。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-07-24T17:14:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国EIAの週間在庫レポートで原油とガソリン在庫が前週比で減少したことが報告された。強い需要がドライバーとなり、在庫削減を牽引。在庫水準の低下は需給逼迫を示唆し、原油価格の上昇圧力につながる可能性。"
   }
 ]
