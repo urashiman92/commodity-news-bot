@@ -1,38 +1,5 @@
 [
   {
-    "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB - Bloomberg.com",
-    "timestamp": "2026-07-23T15:37:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ドイツ国債利回りが15年ぶりの高水準に達し、原油価格が上昇している。ECB（欧州中央銀行）の金融政策決定を控える中、金利上昇環境がコモディティ市場に複雑な影響を与えている。利回り上昇は金には下落圧力だが、原油上昇は供給懸念を反映。"
-  },
-  {
-    "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB - Bloomberg.com",
-    "timestamp": "2026-07-23T15:37:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "ドイツ国債利回りが15年ぶりの高水準に達し、原油価格が上昇している。ECB（欧州中央銀行）の金融政策決定を控える中、金利上昇環境がコモディティ市場に複雑な影響を与えている。利回り上昇は金には下落圧力だが、原油上昇は供給懸念を反映。"
-  },
-  {
-    "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB - Bloomberg.com",
-    "timestamp": "2026-07-23T15:37:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ドイツ国債利回りが15年ぶりの高水準に達し、原油価格が上昇している。ECB（欧州中央銀行）の金融政策決定を控える中、金利上昇環境がコモディティ市場に複雑な影響を与えている。利回り上昇は金には下落圧力だが、原油上昇は供給懸念を反映。"
-  },
-  {
     "title": "OPEC+ likely to again raise oil output targets from September, sources say - Reuters",
     "timestamp": "2026-07-23T17:32:58+00:00",
     "importance": 3,
@@ -75,17 +42,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
-  },
-  {
-    "title": "Russia Eyes Longer Diesel Export Ban as Ukraine Hits Oil Assets - Bloomberg.com",
-    "timestamp": "2026-07-23T15:42:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナによる攻撃でロシアの石油資産が打撃を受ける中、ロシアがディーゼル輸出禁止の長期化を検討。供給制約の深刻化により、既に逼迫しているディーゼル市場に新たな上昇圧力が加わる可能性が高い。地政学リスクの再顕在化として市場の注視が必要。"
   },
   {
     "title": "Crude and gasoline stockpiles post modest weekly gains - Midland Reporter-Telegram",
@@ -152,28 +108,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は増産を決定したが、実際には複数の加盟国が生産能力の制約により増産目標を達成できない状況が浮き彫りになった。名目上の増産決定と実現能力のギャップが、原油供給の実質的な逼迫を示唆している。"
-  },
-  {
-    "title": "Kalshi Considers New Instrument for Copper Bets After AI Buildout Boosts Demand - Bloomberg.com",
-    "timestamp": "2026-07-23T16:29:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "Kalshi取引所がAI構築ブームに伴う銅需要の急増を背景に、銅投資向けの新商品上場を検討している。AI関連の電力インフラ・チップ製造需要拡大が銅使用量を押し上げており、投資家の銅へのエクスポージャー需要に応える狙い。既に銅価格は堅調で、この新規商品化は需要拡大トレンドの確認を示唆。"
-  },
-  {
-    "title": "Kalshi Considers New Instrument for Copper Bets After AI Buildout Boosts Demand - Bloomberg.com",
-    "timestamp": "2026-07-23T16:29:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Kalshi取引所がAI構築ブームに伴う銅需要の急増を背景に、銅投資向けの新商品上場を検討している。AI関連の電力インフラ・チップ製造需要拡大が銅使用量を押し上げており、投資家の銅へのエクスポージャー需要に応える狙い。既に銅価格は堅調で、この新規商品化は需要拡大トレンドの確認を示唆。"
   },
   {
     "title": "U.S. Crude Oil Inventories Up 2.0 Million Barrels: EIA Weekly Report – July 2026 - News and Statistics - IndexBox",
@@ -691,5 +625,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの製油所を攻撃したとの報道。ロシア領内のエネルギー基盤施設への直接的な攻撃は、ロシアの石油精製能力に即座の脅威をもたらす。これにより欧州向けのディーゼル・ガソリン供給が逼迫し、原油価格に上昇圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
+    "timestamp": "2026-07-24T23:02:52+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がOPEC結束を破壊したとの論評。OPEC減産体制の崩壊が原油市場の構造的変化をもたらし、今後の価格安定性が脅かされる可能性を指摘。地政学的および経済政策転換がコモディティ全体のボラティリティ上昇要因となる。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
+    "timestamp": "2026-07-24T23:02:52+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領がOPEC結束を破壊したとの論評。OPEC減産体制の崩壊が原油市場の構造的変化をもたらし、今後の価格安定性が脅かされる可能性を指摘。地政学的および経済政策転換がコモディティ全体のボラティリティ上昇要因となる。"
+  },
+  {
+    "title": "Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites - Reuters",
+    "timestamp": "2026-07-26T13:29:43+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派によるサウジアラビアの紅海沿岸油田へのドローン攻撃が報じられた。ただし市場は既に同地域の地政学的リスクを織り込んでおり、その後のアラビア湾諸国市場は軟化。攻撃の規模・経済的インパクトが限定的と判断されたとみられる。"
   }
 ]
