@@ -1,38 +1,5 @@
 [
   {
-    "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet - Bloomberg.com",
-    "timestamp": "2026-07-23T12:41:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国債利回りが2026年以来の高値まで上昇し、原油価格の上昇がFRBの金利据え置き・引き上げ期待を誘発している。この金利上昇圧力はドル高を招く一方で、原油などエネルギー資源価格には支持的となるが、金などの無利子資産には下落圧力となるため、セクター別の方向性が分岐している。"
-  },
-  {
-    "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet - Bloomberg.com",
-    "timestamp": "2026-07-23T12:41:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国債利回りが2026年以来の高値まで上昇し、原油価格の上昇がFRBの金利据え置き・引き上げ期待を誘発している。この金利上昇圧力はドル高を招く一方で、原油などエネルギー資源価格には支持的となるが、金などの無利子資産には下落圧力となるため、セクター別の方向性が分岐している。"
-  },
-  {
-    "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet - Bloomberg.com",
-    "timestamp": "2026-07-23T12:41:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国債利回りが2026年以来の高値まで上昇し、原油価格の上昇がFRBの金利据え置き・引き上げ期待を誘発している。この金利上昇圧力はドル高を招く一方で、原油などエネルギー資源価格には支持的となるが、金などの無利子資産には下落圧力となるため、セクター別の方向性が分岐している。"
-  },
-  {
     "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB - Bloomberg.com",
     "timestamp": "2026-07-23T15:37:29+00:00",
     "importance": 3,
@@ -702,5 +669,60 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
+  },
+  {
+    "title": "EIA Report: U.S. Crude Oil Inventories Surge 2.010M Barrels vs. Expected Decline - News and Statistics - IndexBox",
+    "timestamp": "2026-07-23T20:40:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAが発表した週間原油在庫統計で、予想に反して201万バレルの増加を記録した。市場は在庫減少を見込んでいたため、この大幅なサプライズはドルの強化とともに原油価格への下押し圧力となる。需要懸念とサプライチェーンの緩和を示唆する指標。"
+  },
+  {
+    "title": "That Dreaded Corn Yield Debate Is Back - DTN Progressive Farmer",
+    "timestamp": "2026-07-23T15:21:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシの収量見通しに関する議論が再燃している。市場では公式統計と実需サンプル調査の間に乖離が生じており、収量予測の信頼性が問われている。USDA発表と民間予測の相違が価格ボラティリティの一因となっている可能性がある。"
+  },
+  {
+    "title": "OPEC Monthly Oil Market Report, July 2026 - Peak Oil Barrel",
+    "timestamp": "2026-07-26T12:50:27+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC月次油市場レポート（2026年7月版）。タイトルに「ピークオイルバレル」とあることから、需給ダイナミクスの変化や長期的な石油需要見通しに関する分析が含まれると推察される。ただし、リンク先の実際の内容にアクセスできないため、具体的な供給調整方針や生産見通しの変更有無は特定困難。"
+  },
+  {
+    "title": "OPEC Monthly Oil Market Report, July 2026 - Peak Oil Barrel",
+    "timestamp": "2026-07-26T12:50:27+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPEC月次油市場レポート（2026年7月版）。タイトルに「ピークオイルバレル」とあることから、需給ダイナミクスの変化や長期的な石油需要見通しに関する分析が含まれると推察される。ただし、リンク先の実際の内容にアクセスできないため、具体的な供給調整方針や生産見通しの変更有無は特定困難。"
+  },
+  {
+    "title": "Russia says Ukraine killed 11 in tourist camp; Ukraine strikes Russian refinery - Reuters",
+    "timestamp": "2026-07-25T14:33:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアの製油所を攻撃したとの報道。ロシア領内のエネルギー基盤施設への直接的な攻撃は、ロシアの石油精製能力に即座の脅威をもたらす。これにより欧州向けのディーゼル・ガソリン供給が逼迫し、原油価格に上昇圧力が生じる可能性が高い。"
   }
 ]
