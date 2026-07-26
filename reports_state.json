@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ Set to Raise Output Again—Even as Members Can't Pump It - Yahoo Finance",
-    "timestamp": "2026-07-23T22:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は増産を決定したが、実際には複数の加盟国が生産能力の制約により増産目標を達成できない状況が浮き彫りになった。名目上の増産決定と実現能力のギャップが、原油供給の実質的な逼迫を示唆している。"
-  },
-  {
     "title": "U.S. Crude Oil Inventories Up 2.0 Million Barrels: EIA Weekly Report – July 2026 - News and Statistics - IndexBox",
     "timestamp": "2026-07-24T00:20:00+00:00",
     "importance": 2,
@@ -20,28 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "2026年7月のEIA週間報告によると、米国原油在庫が200万バレル増加した。在庫の積み増しは原油供給が需要を上回っていることを示唆し、価格下押し圧力となる。定例統計の範囲内での小幅な在庫増加。"
-  },
-  {
-    "title": "OPEC Set to Raise Output AgainEven as Members Can't Pump It - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-07-23T22:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが増産方針を掲げる一方で、メンバー国の実際の生産能力が限定的である矛盾を報じている。増産計画の実現可能性への疑問が市場の織り込み度合いに影響を与え、原油価格の上昇圧力と供給制約による支持材料が相殺される状況を指摘している。"
-  },
-  {
-    "title": "OPEC+ plans output increase despite production shortfalls, market cautious - Crypto Briefing",
-    "timestamp": "2026-07-23T22:05:50+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が増産計画を発表する一方で、実現困難な減産目標により生産不足が発生している状況。市場は慎重な見方を示しており、供給増加の実現可能性に疑問が生じている。増産発表は需給緩和圧力として下落方向だが、実行不透明性が価格下支えになる可能性。"
   },
   {
     "title": "Oil set for weekly rise amid Red Sea shipping attacks, Kazakhstan output cuts - Reuters",
@@ -86,17 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を再燃させている。金利上昇圧力により債券も売られており、商品市場全体でリスク資産と無利子資産の値動きが分化。原油高はエネルギー価格インフレへの警戒感を示唆している。"
-  },
-  {
-    "title": "Oil Set for Weekly Gain as Middle East Crisis Fuels Supply Fears - Bloomberg.com",
-    "timestamp": "2026-07-23T22:04:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東危機が供給懸念を増幅させ、原油は週間での上昇を設定した。地政学的リスク要因が市場心理を支配し、サプライチェーン途絶への警戒が強まっている。供給面での不確実性が拡大し、価格は上振れ圧力を受けている。"
   },
   {
     "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
