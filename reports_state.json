@@ -1,60 +1,5 @@
 [
   {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-07-23T20:31:20.044020+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
-  },
-  {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-07-23T20:31:20.044020+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
-  },
-  {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-07-23T20:31:20.044020+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが商業的赤肉生産が前年比4%増加したと発表。牛肉・豚肉の生産増加は飼料需要（トウモロコシ・大豆粕）を押し上げる。ただし4%増は予想範囲内の緩やかな成長率であり、市場への大きな驚きではない。"
-  },
-  {
-    "title": "Crude and gasoline stockpiles post modest weekly gains - Midland Reporter-Telegram",
-    "timestamp": "2026-07-23T21:11:52+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で、原油とガソリン在庫が小幅な週次増加を記録した。「modest weekly gains（控えめな週次増加）」との表現から、市場予想の範囲内での通常の在庫変動と判断される。"
-  },
-  {
-    "title": "OIL - Opec+'s slow unwind continues even as a second chokepoint closes - investingLive",
-    "timestamp": "2026-07-23T20:56:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の段階的な減産政策の解除が継続される中、第2の重要な海峡（ホルムズ海峡またはバブ・エル・マンデブ海峡の可能性）の地政学的リスクが解消されたことが報じられている。供給制約の緩和と地政学リスク低減により、原油価格には下押し圧力がかかる見通し。"
-  },
-  {
     "title": "OPEC+ Set to Raise Output Again—Even as Members Can't Pump It - Yahoo Finance",
     "timestamp": "2026-07-23T22:00:00+00:00",
     "importance": 3,
@@ -537,17 +482,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
-  },
-  {
-    "title": "EIA Report: U.S. Crude Oil Inventories Surge 2.010M Barrels vs. Expected Decline - News and Statistics - IndexBox",
-    "timestamp": "2026-07-23T20:40:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIAが発表した週間原油在庫統計で、予想に反して201万バレルの増加を記録した。市場は在庫減少を見込んでいたため、この大幅なサプライズはドルの強化とともに原油価格への下押し圧力となる。需要懸念とサプライチェーンの緩和を示唆する指標。"
   },
   {
     "title": "OPEC Monthly Oil Market Report, July 2026 - Peak Oil Barrel",
