@@ -1,16 +1,5 @@
 [
   {
-    "title": "戦争・猛暑・エルニーニョの三重苦で世界穀物価格が3年ぶり高値 - BigGo ファイナンス",
-    "timestamp": "2026-07-23T11:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ウクライナ戦争・異常気象・エルニーニョの複合要因により、世界穀物価格が3年ぶりの高値水準に達した。供給制約と需要圧力が同時作用している状況。"
-  },
-  {
     "title": "本日7月23日、金価格は広範囲にわたって急落した。 - Vietnam.vn",
     "timestamp": "2026-07-23T13:11:09+00:00",
     "importance": 2,
@@ -53,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "EUがロシアへの追加制裁で合意し、原油価格上限を現在の水準で1年間据え置くことを決定。既定路線の制裁継続であり、価格上限は市場に既に織り込まれている。"
-  },
-  {
-    "title": "フリーポート、銅価格上昇でQ2利益増加――グラスバーグ減産を相殺 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-23T12:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "フリーポートが Q2 利益を増加させた。銅価格上昇がグラスバーグ鉱山の減産を補った。利益増は既知の価格トレンドの反映。"
   },
   {
     "title": "黒海への攻撃で小麦先物は強弱まちまち、利益確定売りが上値抑制 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -471,17 +449,6 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "23日の主要国際商品市況に関する定期ニュース報道。具体的な価格変動や主要商品の方向性についての詳細情報が提供されていない。"
-  },
-  {
-    "title": "カンザスシティ小麦価格、USX776.66のレジスタンス付近で推移：テクニカル見通し - Traders Union",
-    "timestamp": "2026-07-23T12:42:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦がUSX776.66のレジスタンス水準付近で推移している。テクニカル分析に基づく相場観の提示であり、ファンダメンタルズの新規材料ではない。"
   },
   {
     "title": "急落後、世界の金価格はどうなるだろうか？ - Vietnam.vn",
@@ -1857,5 +1824,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇により、レバレッジWTI型ETNが今月のETN・ファンドランキングで首位になった。レバレッジ商品は原油の値動きを増幅して反映するため、相場が上昇局面では有利に働く。既に織り込まれた原油高の現象を取り上げたポジティブな観測記事。"
+  },
+  {
+    "title": "2026年7月26日午後の金価格：先週の購入者は依然として1オンスあたり最大1130万ベトナムドンの損失を出している。 - Vietnam.vn",
+    "timestamp": "2026-07-26T08:39:35+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金小売市場における先週の購入者の含み損を報じたニュース。1オンスあたり最大1130万ベトナムドンの損失が発生している状況を記述。"
+  },
+  {
+    "title": "中東発の原油高騰で太陽光・原油ETFが急騰…半導体株は「一服感」 - BigGo ファイナンス",
+    "timestamp": "2026-07-26T10:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東地域での地政学的緊張に伴う原油高騰を受け、原油・再生可能エネルギー関連ETFが連動して上昇。エネルギーセクター全体が恩恵を受ける一方、半導体株の動きは一服感を見せている。"
   }
 ]
