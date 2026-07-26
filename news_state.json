@@ -1,49 +1,5 @@
 [
   {
-    "title": "農産物価格は3年ぶりの高水準に達した。 - Vietnam.vn",
-    "timestamp": "2026-07-23T08:40:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "農産物価格が3年ぶりの高水準に達した。小麦を含む複数の農産物が上昇傾向を示している。供給懸念やインフレ圧力が背景にあると考えられる。"
-  },
-  {
-    "title": "農産物価格が3年ぶりの高値を記録し、食料インフレへの懸念が高まっている。 - Vietnam.vn",
-    "timestamp": "2026-07-23T08:21:53+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "農産物価格が3年ぶりの高値を更新し、食料インフレへの懸念が表面化。小麦を含む穀物市場の上昇圧力が継続している状況。市場は既にこのトレンドを織り込みつつあるが、インフレ懸念が強まれば投機買い増加の可能性。"
-  },
-  {
-    "title": "市場がFRBからのシグナルを待つ中、金価格は小幅に下落した。 - Vietnam.vn",
-    "timestamp": "2026-07-23T08:26:24+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRBの今後のシグナルを待つ中で金価格が小幅に下落した。市場は中央銀行の政策方向性に対する様子見姿勢を示している。金価格の変動幅は限定的で、明確なトレンド転換ではない。"
-  },
-  {
-    "title": "国内金価格が急落、ダイヤモンド密輸事件の波紋か - Viet-kabu.com",
-    "timestamp": "2026-07-23T09:47:11+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの国内金価格が急落した。ダイヤモンド密輸事件との関連性が示唆されている。事件が金価格にもたらす直接的な影響は不透明。"
-  },
-  {
     "title": "世界的な金価格の急騰にもかかわらず、ベトナムの金価格が急落したのはなぜか？ - Vietnam.vn",
     "timestamp": "2026-07-23T10:41:18+00:00",
     "importance": 2,
@@ -185,17 +141,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "黒海への攻撃により小麦先物に上昇圧力がかかっているが、利益確定売りが上値を抑制している。強弱が分かれた相場環境になっている。既知の地政学リスクが継続的に価格に反映されている状況。"
-  },
-  {
-    "title": "UBS：金価格、短期的に3,850ドルまで下落の可能性も 長期的には5,200ドルを維持 - BigGo ファイナンス",
-    "timestamp": "2026-07-23T08:55:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "UBSアナリストが金価格見通しを発表。短期的には3,850ドルへの下落可能性を示唆しつつ、長期的には5,200ドルの目標維持を表明。現在の相場環境における調整局面と構造的強気見通しの両立を示唆している。"
   },
   {
     "title": "金価格が勢いを失う兆し、テクニカルはさらなる下落を示唆 - Межа. Новини України.",
@@ -1923,5 +1868,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "来週のFOMC利上げ可能性と原油高騰の関連性を指摘。Powell議長の政策スタンスの曖昧さが市場の不確実性を増幅。金利上昇は通常ドル強化・原油下押し要因だが、現在は原油が上昇している矛盾を報道。"
+  },
+  {
+    "title": "2026年7月26日午後の金価格：SJC金価格、9999金リング価格、および週末の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-26T09:37:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金、9999金リング）と週末の世界金価格の定期報道。時点が2026年7月26日午後で、現在時点での情報価値は限定的。"
+  },
+  {
+    "title": "本日の金価格（2026年7月26日、9999金）：SJCの金価格と9999金リング価格は日曜日に確定しました。 - Vietnam.vn",
+    "timestamp": "2026-07-26T09:21:49+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格とリング価格の日次確定値を報じるニュース。市場データの定期報告であり、具体的な新規情報を含まない。"
+  },
+  {
+    "title": "先週の市場ニュース：金価格が急落、ドリアン価格が下落、ナイキの偽靴密売組織が摘発。 - Vietnam.vn",
+    "timestamp": "2026-07-26T08:39:35+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの市場ニュース週刊まとめ。金価格が急落したほか、ドリアン価格も下落。ナイキ偽造品密売組織摘発も報じられた。"
+  },
+  {
+    "title": "決算と原油価格 - Moomoo",
+    "timestamp": "2026-07-26T07:44:57+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "企業決算と原油価格の相関性についての解説記事。具体的なデータや新規イベント情報が不明。市場の既織り込み状況が不詳。"
+  },
+  {
+    "title": "原油高が直撃 レバレッジWTI型ETNが今月首位 - CHOSUNBIZ - Chosunbiz",
+    "timestamp": "2026-07-26T08:20:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の上昇により、レバレッジWTI型ETNが今月のETN・ファンドランキングで首位になった。レバレッジ商品は原油の値動きを増幅して反映するため、相場が上昇局面では有利に働く。既に織り込まれた原油高の現象を取り上げたポジティブな観測記事。"
   }
 ]
