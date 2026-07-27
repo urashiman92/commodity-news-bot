@@ -1,38 +1,5 @@
 [
   {
-    "title": "Investors fret that spiking oil prices and rising yields could threaten stock rally - Reuters",
-    "timestamp": "2026-07-24T14:56:19+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "投資家が原油価格の急騰と米国債利回りの上昇がもたらすリスクに警戒している。高い油価と上昇する利回りは、株式相場の継続性に対する懸念が強まり、特に金などの非利息資産の下落圧力となる可能性がある。金利上昇環境下では原油と金の値動きが乖離する傾向が見られている。"
-  },
-  {
-    "title": "Investors fret that spiking oil prices and rising yields could threaten stock rally - Reuters",
-    "timestamp": "2026-07-24T14:56:19+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "投資家が原油価格の急騰と米国債利回りの上昇がもたらすリスクに警戒している。高い油価と上昇する利回りは、株式相場の継続性に対する懸念が強まり、特に金などの非利息資産の下落圧力となる可能性がある。金利上昇環境下では原油と金の値動きが乖離する傾向が見られている。"
-  },
-  {
-    "title": "Investors fret that spiking oil prices and rising yields could threaten stock rally - Reuters",
-    "timestamp": "2026-07-24T14:56:19+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "投資家が原油価格の急騰と米国債利回りの上昇がもたらすリスクに警戒している。高い油価と上昇する利回りは、株式相場の継続性に対する懸念が強まり、特に金などの非利息資産の下落圧力となる可能性がある。金利上昇環境下では原油と金の値動きが乖離する傾向が見られている。"
-  },
-  {
     "title": "Cold Storage",
     "timestamp": "2026-07-24T19:48:25.133807+00:00",
     "importance": 2,
@@ -119,17 +86,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSの7月1日付けの公式統計。牛の在庫がわずかに増加した一方で、子牛生産（Calf Crop）は前年比2%減少。供給減少は牛肉価格の上方圧力となるが、全体的には市場予想の範囲内。飼料穀物（トウモロコシ・大豆）需要への下方シグナル。"
-  },
-  {
-    "title": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply - Reuters",
-    "timestamp": "2026-07-24T14:36:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン情勢とウクライナ紛争による供給懸念から、現物原油価格が急騰し、一部銘柄が110ドル水準に接近している。地政学的リスクが原油市場の主要な上昇要因となっており、供給途絶への不安が価格を押し上げている。"
   },
   {
     "title": "Russia’s Top Black Sea Oil Port Halts Loadings Amid Safety Fears - Bloomberg.com",
@@ -264,50 +220,6 @@
     "summary": "OPECが原油増産決定を発表し、市場の減産継続期待を裏切る形となった。同時にプロフィットテイキング（利益確定売却）が加わり、原油価格は大幅に下落。供給増加予測と需要見通しの不確実性が重なり、価格の調整局面が進行中。"
   },
   {
-    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
-    "timestamp": "2026-07-24T13:03:35+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
-  },
-  {
-    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
-    "timestamp": "2026-07-24T13:03:35+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
-  },
-  {
-    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
-    "timestamp": "2026-07-24T13:03:35+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
-  },
-  {
-    "title": "Triple-digit oil prices renew stagflation concerns; copper retreats as gold advances: the greatest risk right now is mistaking relocation for demand. - Moomoo",
-    "timestamp": "2026-07-24T13:03:35+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "3桁台の原油価格がスタグフレーション懸念を再燃させている一方で、銅は後退し金は上昇している。本レポートの重要な指摘は「需要の転換を需要増と誤認する危険性」であり、サプライチェーン再構築（リロケーション）が一時的な需要拡大に見えている可能性を警告している。金属セクターで異なる値動きが見られることが、市場の構造的な不確実性を反映している。"
-  },
-  {
     "title": "OPEC Monthly Oil Market Report, July 2026 - Peak Oil Barrel",
     "timestamp": "2026-07-26T12:50:27+00:00",
     "importance": 2,
@@ -416,5 +328,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "紅海でフーシ派によるサウジアラビア攻撃後、海運活動が減速。紅海はスエズ運河を経由する全球コモディティ輸送の主要ルートであり、同地域の地政学的緊張は原油・天然ガス・穀物など複数品目の海上輸送コストと納期リスクを大幅に上昇させる。原油市場は供給途絶懸念とリスク・プレミアムの急速な織り込みが見込まれる。"
+  },
+  {
+    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
+    "timestamp": "2026-07-26T16:58:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再開時にOPEC+が石油生産を増加させることに合意した。同海峡は世界の石油輸送の約20-30%を担う戦略的に重要な海峡であり、その再開は地政学リスクの低下を示唆。増産合意は直近の供給逼迫懸念の緩和につながる一方、原油価格の下押し圧力が生じる可能性がある。"
+  },
+  {
+    "title": "Satellites Show Tank Fire at Saudi Oil Plant Jazan After Attack - Bloomberg.com",
+    "timestamp": "2026-07-27T12:38:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのジャザン石油施設でタンク火災が発生。衛星画像により攻撃後の火災が確認された。同施設は主要な石油処理・貯蔵拠点であり、サプライチェーン寸断のリスクが高い。中東の地政学的緊張を反映した供給ショック。"
+  },
+  {
+    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
+    "timestamp": "2026-07-27T11:12:22+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン紛争の一時休止によって地政学的リスク低下への見方が広がり、原油価格は大幅に下落。リスク回避姿勢が緩和される中、米国株が買われた。一方、安全資産である金はリスク低下で下押し圧力を受ける可能性がある。中東緊張の緩和がコモディティ市場全体で売り優先となっている。"
+  },
+  {
+    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
+    "timestamp": "2026-07-27T11:12:22+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "イラン紛争の一時休止によって地政学的リスク低下への見方が広がり、原油価格は大幅に下落。リスク回避姿勢が緩和される中、米国株が買われた。一方、安全資産である金はリスク低下で下押し圧力を受ける可能性がある。中東緊張の緩和がコモディティ市場全体で売り優先となっている。"
+  },
+  {
+    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
+    "timestamp": "2026-07-27T11:12:22+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イラン紛争の一時休止によって地政学的リスク低下への見方が広がり、原油価格は大幅に下落。リスク回避姿勢が緩和される中、米国株が買われた。一方、安全資産である金はリスク低下で下押し圧力を受ける可能性がある。中東緊張の緩和がコモディティ市場全体で売り優先となっている。"
   }
 ]
