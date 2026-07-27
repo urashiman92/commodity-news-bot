@@ -187,17 +187,6 @@
     "summary": "米国がイランへの夜間軍事作戦を一時停止し、同時にフーシ派とサウジアラビアの紛争が激化している。中東の地政学的緊張が複雑に変化しており、ホルムズ海峡経由の石油供給リスクと避難資産としての金需要が相反する影響をもたらす可能性が高い。"
   },
   {
-    "title": "Crude Oil Plummets Amid OPEC's Decision To Increase Output, Profit Taking - RTTNews",
-    "timestamp": "2026-07-24T18:44:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが原油増産決定を発表し、市場の減産継続期待を裏切る形となった。同時にプロフィットテイキング（利益確定売却）が加わり、原油価格は大幅に下落。供給増加予測と需要見通しの不確実性が重なり、価格の調整局面が進行中。"
-  },
-  {
     "title": "OPEC Monthly Oil Market Report, July 2026 - Peak Oil Barrel",
     "timestamp": "2026-07-26T12:50:27+00:00",
     "importance": 2,
@@ -262,28 +251,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "フーシ派によるサウジアラビアの紅海沿岸油田へのドローン攻撃が報じられた。ただし市場は既に同地域の地政学的リスクを織り込んでおり、その後のアラビア湾諸国市場は軟化。攻撃の規模・経済的インパクトが限定的と判断されたとみられる。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-07-24T17:14:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIAの週間在庫レポートで原油とガソリン在庫が前週比で減少したことが報告された。強い需要がドライバーとなり、在庫削減を牽引。在庫水準の低下は需給逼迫を示唆し、原油価格の上昇圧力につながる可能性。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-07-24T17:14:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国EIAの週間在庫レポートで原油とガソリン在庫が前週比で減少したことが報告された。強い需要がドライバーとなり、在庫削減を牽引。在庫水準の低下は需給逼迫を示唆し、原油価格の上昇圧力につながる可能性。"
   },
   {
     "title": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters",
@@ -416,5 +383,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "フーシ派がサウジアラビアの東西油送パイプライン（Petroline）を標的にしたと発表。同パイプラインはサウジの主要石油輸送インフラで、日量500万バレル超の輸送能力を持つ。供給途絶リスクが顕在化すれば、中東からの原油供給減少につながる可能性がある。"
+  },
+  {
+    "title": "Satellite Shots of Smoke at Saudi Oil Sites Keep Traders on Edge - Bloomberg",
+    "timestamp": "2026-07-27T15:57:53+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油施設の衛星画像に煙が映り込み、供給途絶リスクが急浮上。攻撃の可能性が懸念されており、トレーダーの警戒感が高まっている。供給サイドのショックは原油価格の上昇圧力となる。"
   }
 ]
