@@ -1,115 +1,5 @@
 [
   {
-    "title": "Cold Storage",
-    "timestamp": "2026-07-24T19:48:25.133807+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "2026年6月30日時点の冷蔵倉庫内のナチュラルチーズ在庫は、前月比で1%増加したが、前年同月比では1%減少した。在庫変動は小幅にとどまっており、乳製品市場における需給バランスは概ね安定している。"
-  },
-  {
-    "title": "Farm Production Expenditures",
-    "timestamp": "2026-07-24T19:48:29.837257+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
-  },
-  {
-    "title": "Farm Production Expenditures",
-    "timestamp": "2026-07-24T19:48:29.837257+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
-  },
-  {
-    "title": "Farm Production Expenditures",
-    "timestamp": "2026-07-24T19:48:29.837257+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
-  },
-  {
-    "title": "Farm Production Expenditures",
-    "timestamp": "2026-07-24T19:48:29.837257+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASによる2025年米国農場生産支出ハイライトの公式発表。農業投入コスト（肥料、燃料、機械、労賃）の動向が穀物生産コスト構造に影響。肥料・エネルギーコスト上昇は作付意欲を圧迫し、大豆・トウモロコシ・小麦の作付面積決定に直結する重要指標。"
-  },
-  {
-    "title": "Cattle",
-    "timestamp": "2026-07-24T19:48:34.153530+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSの7月1日付けの公式統計。牛の在庫がわずかに増加した一方で、子牛生産（Calf Crop）は前年比2%減少。供給減少は牛肉価格の上方圧力となるが、全体的には市場予想の範囲内。飼料穀物（トウモロコシ・大豆）需要への下方シグナル。"
-  },
-  {
-    "title": "Cattle",
-    "timestamp": "2026-07-24T19:48:34.153530+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSの7月1日付けの公式統計。牛の在庫がわずかに増加した一方で、子牛生産（Calf Crop）は前年比2%減少。供給減少は牛肉価格の上方圧力となるが、全体的には市場予想の範囲内。飼料穀物（トウモロコシ・大豆）需要への下方シグナル。"
-  },
-  {
-    "title": "Cattle",
-    "timestamp": "2026-07-24T19:48:34.153530+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSの7月1日付けの公式統計。牛の在庫がわずかに増加した一方で、子牛生産（Calf Crop）は前年比2%減少。供給減少は牛肉価格の上方圧力となるが、全体的には市場予想の範囲内。飼料穀物（トウモロコシ・大豆）需要への下方シグナル。"
-  },
-  {
-    "title": "How Oil Chaos on Four Fronts Drives Wild Swings and Supply Fears - Bloomberg.com",
-    "timestamp": "2026-07-24T20:15:20+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油市場が複数の供給リスク要因により大きな変動を記録。地政学的緊張、OPEC減産政策、在庫動向、需要見通しの4つの方面から同時に市場が攪乱されており、価格変動性が著しく高まっている。供給懸念が強まる局面では上昇圧力、需要減速懸念では下落圧力が交錯している。"
-  },
-  {
-    "title": "How Oil Chaos on Four Fronts Drives Wild Swings and Supply Fears - Bloomberg.com",
-    "timestamp": "2026-07-24T20:15:20+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油市場が複数の供給リスク要因により大きな変動を記録。地政学的緊張、OPEC減産政策、在庫動向、需要見通しの4つの方面から同時に市場が攪乱されており、価格変動性が著しく高まっている。供給懸念が強まる局面では上昇圧力、需要減速懸念では下落圧力が交錯している。"
-  },
-  {
     "title": "Saudi Oil Can Still Get Out — But It Won’t Be Cheap or Easy - Bloomberg.com",
     "timestamp": "2026-07-25T07:00:20+00:00",
     "importance": 3,
@@ -394,5 +284,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの石油施設の衛星画像に煙が映り込み、供給途絶リスクが急浮上。攻撃の可能性が懸念されており、トレーダーの警戒感が高まっている。供給サイドのショックは原油価格の上昇圧力となる。"
+  },
+  {
+    "title": "Peanut Stocks and Processing",
+    "timestamp": "2026-07-27T20:44:26.306647+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASが発表した落花生の商業在庫統計によると、2024年の商業保管在庫は36.1億ポンド。殻付き食用グレードの季節累計加工量は前年比5%増加し、需要面では堅調な推移を示している。ただし、落花生市場は大豆油など油糧種子関連との競合関係にあり、搾油用需要への波及効果に注視が必要。"
+  },
+  {
+    "title": "Pollution linked to French-British oil firm's Congo operations poses health risks, report says - Reuters",
+    "timestamp": "2026-07-27T13:11:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フランス・イギリス系石油企業のコンゴ操業に関連する汚染が健康リスクをもたらしているとの報告。環境・社会リスク（ESG）への懸念が高まり、同企業の評判悪化につながる可能性。ただし原油市場全体への直接的な供給インパクトは限定的。"
+  },
+  {
+    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg",
+    "timestamp": "2026-07-27T11:12:22+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン紛争の一時休止を受けて原油価格が大幅に下落。地政学的リスク低下により、供給途絶懸念が後退。米国株が買いを浴び、リスク資産全般が反発。原油下落はインフレ圧力緩和を意味し、市場全体のリスクセンチメントが改善。"
+  },
+  {
+    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg",
+    "timestamp": "2026-07-27T11:12:22+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イラン紛争の一時休止を受けて原油価格が大幅に下落。地政学的リスク低下により、供給途絶懸念が後退。米国株が買いを浴び、リスク資産全般が反発。原油下落はインフレ圧力緩和を意味し、市場全体のリスクセンチメントが改善。"
   }
 ]
