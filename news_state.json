@@ -1,82 +1,5 @@
 [
   {
-    "title": "7月24日の金価格は、非常に異例な変動を示した。 - Vietnam.vn",
-    "timestamp": "2026-07-24T13:32:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月24日の金価格が異例な変動を示したとのニュース。具体的な価格変動幅や原因については、記事概要では詳細が不明。市場反応の振り返りと考えられる。"
-  },
-  {
-    "title": "原油先物価格が上昇、東京市場「トリプル安」…日経平均は反落し終値６万４６１１円 - 読売新聞",
-    "timestamp": "2026-07-24T12:59:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格が上昇する中、東京市場は株・債券・円の「トリプル安」により日経平均が反落。複数資産の同時下落で市場心理が悪化している状況。"
-  },
-  {
-    "title": "ホルムズ海峡封鎖で原油価格が100ドル突破…産油国、迂回パイプライン建設に数十兆ウォン投入 - BigGo ファイナンス",
-    "timestamp": "2026-07-24T12:26:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡封鎖により原油価格が100ドル/バレルを突破。地政学リスク顕在化による供給減少懸念。産油国は迂回パイプライン建設で対応に数十兆ウォン投資予定。"
-  },
-  {
-    "title": "2026年7月25日の金価格は大幅に下落し、「健全な」利益確定の機会が訪れたが、アナリストは依然としてリスクを警告している。 - Vietnam.vn",
-    "timestamp": "2026-07-24T14:44:55+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が大幅に下落し、アナリストは利益確定の好機と評価。ただしアナリストは引き続きリスク要因の存在を警告しており、強気相場の継続を示唆。"
-  },
-  {
-    "title": "世界の国債利回り急上昇、各国中銀に圧力－背景に原油価格の再上昇 - TBS NEWS DIG",
-    "timestamp": "2026-07-24T15:01:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の再上昇に伴い世界の国債利回りが急上昇している。インフレ圧力が高まり各国中銀は金利引き上げの継続を迫られている。原油高がマクロ環境全体に影響を与えている。"
-  },
-  {
-    "title": "原油先物価格が上昇、東京市場「トリプル安」…日経平均は反落し終値６万４６１１円 - ｄメニューニュース",
-    "timestamp": "2026-07-24T12:59:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格が上昇。東京市場は日経平均が反落し64,611円で終了。株式と原油の値動きが反対方向となる相場環境。"
-  },
-  {
-    "title": "大豆先物価格は、買い手が優勢となる中でレジスタンスを突破するか？ - Traders Union",
-    "timestamp": "2026-07-24T12:19:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物は買い手優勢の市場環境でレジスタンス水準の突破を模索している。テクニカル的な転換点にあり、買いサイドの力強さが注目される。"
-  },
-  {
     "title": "〔米株式〕ダウ反発、235ドル高＝原油相場下落で（24日）(時事通信) - Yahoo!ファイナンス",
     "timestamp": "2026-07-24T20:14:40+00:00",
     "importance": 2,
@@ -328,17 +251,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油相場の下落がリスク資産である株式にポジティブに作用し、ダウが反発した。エネルギーコストの低下は企業利益改善につながるとの見方。原油先物そのものへの直接的な需給ショックではなく、セクター間の相関を示す事後的な観測。"
-  },
-  {
-    "title": "原油100ドル/バレルの高値がスタグフレーションに「追加料金」を課し、銅から金へ資金がシフト：現在の最大のリスクは、資産の再配分を需要と誤認することである。 - Moomoo",
-    "timestamp": "2026-07-24T13:03:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "原油が100ドル/バレルで推移する中、スタグフレーション懸念が強まり、投資家が銅などのリスク資産から金などの防御資産へシフトしている。記事は資産配分の変化を需要減と誤認するリスクを警告している。"
   },
   {
     "title": "本日（7月25日正午）の金価格：金価格が再び急騰。 - Vietnam.vn",
@@ -1758,5 +1670,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "チリで銅供給が停止し、次の銅不足を警告するシグナルが出現。主要供給国での供給ショックは市場への直接的な影響が大きい。銅価格の上昇圧力が強まる可能性がある。"
+  },
+  {
+    "title": "CBOTの小麦先物、利益確定売りで下落して始まる見通し 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-27T13:21:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "CBOTの小麦先物が利益確定売りで下落する見通しが示されている。テクニカルな売り圧力が優勢となる局面。既に上昇した相場からの調整局面。"
+  },
+  {
+    "title": "2026年7月28日、金価格は再び上昇したが、市場には依然として勢いが欠けている。投資家は損失を避けるために、どれくらいの量の金を保有すべきだろうか？ - Vietnam.vn",
+    "timestamp": "2026-07-27T14:43:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は上昇したが、市場の勢いは弱い状態が続いている。アナリストが投資家向けに保有量の最適化について言及している。既に織り込まれた値動きの継続。"
+  },
+  {
+    "title": "Antam gold price rises on Monday (27/7) to IDR 2,622,000 per gram - IDNFinancials",
+    "timestamp": "2026-07-27T07:45:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアのAntam社の金価格が27日月曜日にIDR 2,622,000/グラムに上昇した。地域的な金価格の日次変動を報じたもの。"
+  },
+  {
+    "title": "米イランが3夜連続で攻撃控える－原油価格下落、株と債券は上昇 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-07-27T11:52:32+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランが3夜連続で報復攻撃を控え、地政学的緊張が緩和。中東紛争激化リスクが一時的に後退し、原油供給途絶の懸念が減少。リスク選好の回復で株債も上昇。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ194ドル高、原油先物5.71ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-07-27T14:58:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前の取引で原油先物が5.71ドル安で推移。同時にダウ平均は194ドル高。市場全体では需要見通しの悲観や利益確定売りの影響か。"
+  },
+  {
+    "title": "大豆相場、利益確定売りと原油安で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-27T13:29:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆相場が利益確定売りと原油安により下落。技術的な調整局面と見られる。エネルギー価格の軟化が農産物価格にも波及している。"
   }
 ]
