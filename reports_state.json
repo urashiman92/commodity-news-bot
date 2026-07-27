@@ -1,60 +1,5 @@
 [
   {
-    "title": "U.S. Crude Oil Inventories Up 2.0 Million Barrels: EIA Weekly Report – July 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-07-24T00:20:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "2026年7月のEIA週間報告によると、米国原油在庫が200万バレル増加した。在庫の積み増しは原油供給が需要を上回っていることを示唆し、価格下押し圧力となる。定例統計の範囲内での小幅な在庫増加。"
-  },
-  {
-    "title": "Oil set for weekly rise amid Red Sea shipping attacks, Kazakhstan output cuts - Reuters",
-    "timestamp": "2026-07-24T01:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海での船舶攻撃とカザフスタンの原油減産が重なり、週間ベースで原油価格の上昇が見込まれている。紅海での地政学的リスクによる物流ルート遮断は供給懸念を高め、同時にカザフスタン（世界有数の産油国）の減産発表は供給ショックを加速させている。複合的なサプライズ要因が市場に織り込まれつつある。"
-  },
-  {
-    "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
-    "timestamp": "2026-07-24T01:20:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を再燃させている。金利上昇圧力により債券も売られており、商品市場全体でリスク資産と無利子資産の値動きが分化。原油高はエネルギー価格インフレへの警戒感を示唆している。"
-  },
-  {
-    "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
-    "timestamp": "2026-07-24T01:20:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を再燃させている。金利上昇圧力により債券も売られており、商品市場全体でリスク資産と無利子資産の値動きが分化。原油高はエネルギー価格インフレへの警戒感を示唆している。"
-  },
-  {
-    "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
-    "timestamp": "2026-07-24T01:20:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を再燃させている。金利上昇圧力により債券も売られており、商品市場全体でリスク資産と無利子資産の値動きが分化。原油高はエネルギー価格インフレへの警戒感を示唆している。"
-  },
-  {
     "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
     "timestamp": "2026-07-24T05:46:11+00:00",
     "importance": 3,
@@ -86,17 +31,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中国が中東リスク回避を背景に、東シベリア産ロシア原油の買い増しを急加速させている。中東の地政学的不安定化を受け、供給源の多角化を図る中国の戦略的動きが、ロシア原油への需要シフトを加速。これは西側制裁下でのロシア産原油の価格支持要因となり、同時に中東原油の需要減少圧力を生み出す。"
-  },
-  {
-    "title": "Wheat Extends July Rally as War Risks Stoke Fears Over Supply - Bloomberg.com",
-    "timestamp": "2026-07-24T03:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "小麦",
-    "summary": "ウクライナ情勢に関連する戦争リスクが小麦供給不安を再燃させ、7月のラリーが継続している。黒海地域の地政学的緊張が世界有数の小麦輸出国の供給途絶を懸念させ、市場心理が過敏に反応している。予定外の地政学的ショックが価格上昇圧力として機能している。"
   },
   {
     "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
@@ -253,17 +187,6 @@
     "summary": "ロシアの黒海最大油田積出港が安全上の懸念により積み出しを一時停止。ロシアは世界有数の原油輸出国であり、黒海港湾は欧州向け主要ルート。供給減少による原油価格上昇圧力が強まる可能性が高い。"
   },
   {
-    "title": "OPEC+ Meeting Preview for Next Week: A Production Increase of 188,000 Barrels per Day Is Highly Likely, but the Turning Point for $100-per-Barrel Oil Prices Has Not Yet Arrived - Moomoo",
-    "timestamp": "2026-07-24T01:05:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の来週の会合で日量188,000バレルの増産が有力視されている。ただし、タイトルでは$100/バレルの油価が転換点に達していないとの見方が示されており、需給の完全な逼迫緩和には至っていないことを示唆している。市場予想の範囲内の増産とみられる。"
-  },
-  {
     "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
     "timestamp": "2026-07-24T16:31:19+00:00",
     "importance": 3,
@@ -317,17 +240,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアとフーシ派が交戦状態にあり、フーシ派が石油精製施設への攻撃を実施。サウジアラビアの防空システムが攻撃を迎撃したが、中東での地政学的緊張が高まり、世界的な石油供給への懸念が急速に拡大している。"
-  },
-  {
-    "title": "Missiles targeting Saudi oil refineries shot down, sources say - Reuters",
-    "timestamp": "2026-07-24T04:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの石油精製施設を狙ったミサイル攻撃が撃墜されたと報じられた。中東の地政学的緊張が再び高まり、重要な石油インフラへの脅威が顕在化。供給途絶リスクの増加により原油相場の上昇圧力が強まる可能性が高い。"
   },
   {
     "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery - Reuters",
@@ -526,5 +438,27 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "米国EIAの週間在庫レポートで原油とガソリン在庫が前週比で減少したことが報告された。強い需要がドライバーとなり、在庫削減を牽引。在庫水準の低下は需給逼迫を示唆し、原油価格の上昇圧力につながる可能性。"
+  },
+  {
+    "title": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters",
+    "timestamp": "2026-07-27T00:08:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海でフーシ派によるサウジアラビア攻撃後、海運活動が減速。紅海はスエズ運河を経由する全球コモディティ輸送の主要ルートであり、同地域の地政学的緊張は原油・天然ガス・穀物など複数品目の海上輸送コストと納期リスクを大幅に上昇させる。原油市場は供給途絶懸念とリスク・プレミアムの急速な織り込みが見込まれる。"
+  },
+  {
+    "title": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters",
+    "timestamp": "2026-07-27T00:08:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "紅海でフーシ派によるサウジアラビア攻撃後、海運活動が減速。紅海はスエズ運河を経由する全球コモディティ輸送の主要ルートであり、同地域の地政学的緊張は原油・天然ガス・穀物など複数品目の海上輸送コストと納期リスクを大幅に上昇させる。原油市場は供給途絶懸念とリスク・プレミアムの急速な織り込みが見込まれる。"
   }
 ]
