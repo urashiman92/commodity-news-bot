@@ -1,27 +1,5 @@
 [
   {
-    "title": "NY原油・金相場（24日）－原油が6日ぶりに反落 金は反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-24T21:54:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油が6日ぶりに反落、金は反発した日次の相場動向を報じる記事。原油の短期的な調整局面と金の底堅さを示唆している。市場参加者向けの定期的な値動き報告。"
-  },
-  {
-    "title": "本日（7月25日）の金価格：金地金は回復、金指輪は変動。 - Vietnam.vn",
-    "timestamp": "2026-07-24T22:49:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格に関する日次レポート。金地金は回復傾向、金指輪は変動している状況。地域ローカルニュース。"
-  },
-  {
     "title": "2026年7月25日現在の金価格：世界的な価格は急騰しているが、SJCの金価格は依然として底値圏にとどまっている。 - Vietnam.vn",
     "timestamp": "2026-07-24T23:14:14+00:00",
     "importance": 2,
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の悪化を受け、国際原油価格が1バレル100ドルの大台を再び突破した。地政学的リスクプレミアムが供給懸念を増幅させている。"
-  },
-  {
-    "title": "米コモディティー市場－金、銀、銅、大豆が上昇 原油、ガソリン、天然ガス、小麦が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-24T22:50:16+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で金・銀・銅・大豆が上昇する一方、原油・ガソリン・天然ガス・小麦が下落。市場内での相対的な強弱の振り分けが進行中。"
   },
   {
     "title": "金相場価格デイリーコメント週間まとめ（7/20〜7/24）｜水野崇 - mbp-japan.com",
@@ -141,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ大統領がイラン情勢での最大規模の攻撃準備を表明。地政学的リスクの急速な高まりにより、原油価格が100ドルを再び突破。中東の供給リスク懸念が市場に直撃。"
-  },
-  {
-    "title": "国際原油価格が6日ぶりに下落転換も…半導体発の寒波でNY株式市場はまちまち - BigGo ファイナンス",
-    "timestamp": "2026-07-24T22:55:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "国際原油価格が6日ぶりに下落に転換した。半導体関連の寒波懸念がNY株式市場に影響を与えている。短期的なテクニカル調整の動きと見られる。"
   },
   {
     "title": "トランプ大統領「大規模攻撃の決定直前」…原油価格、2カ月ぶり100ドル（1）（中央日報日本語版） - Yahoo!ニュース",
@@ -1802,5 +1758,104 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "CBOTトウモロコシ先物が15カ月ぶりの高値から反落している。テクニカル的な利益確定売りと見られる。短期的な調整局面と判断される。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（27日）原油は続落 - Moomoo",
+    "timestamp": "2026-07-27T22:22:27+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油先物市場で続落が報告された。金先物市場も含めた市場概況の記事であるが、具体的な数字や要因の詳細が不明。"
+  },
+  {
+    "title": "2026年7月28日朝の金価格：SJC金価格、9999金リング価格、および火曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-27T22:11:07+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を定期報告したニュース。SJC金価格と世界金価格の相場情報をまとめたもの。"
+  },
+  {
+    "title": "原油先物価格が急落 米イラン戦闘停止で NYダウも一時600ドル高 - テレ朝NEWS",
+    "timestamp": "2026-07-27T22:22:11+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の戦闘停止報道により、地政学リスク低下への期待から原油先物が急落。供給途絶懸念の後退が材料。リスク資産全体に好感（NYダウも上昇）。"
+  },
+  {
+    "title": "原油価格が続落、米・イラン協議への期待で－WTI82ドル割れ - Bloomberg",
+    "timestamp": "2026-07-27T22:16:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン協議への期待感から原油価格が続落し、WTIが82ドルを割り込んだ。協議進展による供給懸念の軽減がドライバー。テクニカルな売り圧力も継続している。"
+  },
+  {
+    "title": "NY原油先物相場 大幅続落、82ドル台 米イランの攻撃中断が影響し、売り注文膨らむ - 産経ニュース",
+    "timestamp": "2026-07-27T21:40:38+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの攻撃中断報道を受けて、地政学リスク懸念が後退し原油先物が82ドル台に下落。供給途絶リスクの低下で売り注文が増加。既に報じられた事象の続報として相場が反応。"
+  },
+  {
+    "title": "ＮＹ原油先物は大幅続落し８２ドル台 - nnn.co.jp",
+    "timestamp": "2026-07-27T21:34:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が82ドル台に大幅続落した。相場動向の報道であり、個別のファンダメンタルズ要因は記事から不明確である。通常のボラティリティ範囲内の値動きと判断される。"
+  },
+  {
+    "title": "本日の燃料価格（7月28日）：WTI原油とブレント原油の価格が急落。 - Vietnam.vn",
+    "timestamp": "2026-07-27T22:46:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月28日、WTI原油とブレント原油が急落した。具体的な下落率や下落要因の詳細は記事概要では不明。価格変動の背景にある市場要因の確認が必要。"
+  },
+  {
+    "title": "原油先物1週間超ぶり安値、米が対イラン攻撃停止　ホルムズ再開に期待 - ｄメニューニュース",
+    "timestamp": "2026-07-27T19:52:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン攻撃を停止し、地政学リスクが急速に後退。ホルムズ海峡の通航再開期待により、供給途絶懸念が大きく軽減。原油先物が1週間以上ぶりの安値を付けた。"
+  },
+  {
+    "title": "トウモロコシ先物、原油安と利益確定売りで下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-27T20:44:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物が原油安と利益確定売りの影響で下落。原油安はエタノール需要低下を通じて間接的にトウモロコシ需要を減少させる。市場既知の相場反応の振り返り。"
   }
 ]
