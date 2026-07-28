@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（7月26日）の金価格：価格は全般的に再び上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-25T21:42:48+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月26日の金価格は全般的に再び上昇した。市場では金への需要が継続している。特段の新規材料は報じられていない。"
-  },
-  {
-    "title": "金価格の最新情報（2026年7月26日）：SJC、プレーン9999 BTMC DOJI Phu Quyリング。 - Vietnam.vn",
-    "timestamp": "2026-07-25T21:11:08+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報提供ニュース。SJC、BTMC、DOJI、Phu Quyなど地域の金商品相場を報道。"
-  },
-  {
     "title": "本日7月26日の金価格：サンノゼ金が再び急騰、世界の金価格は1オンスあたり4,000ドル以上で堅調に推移。 - Vietnam.vn",
     "timestamp": "2026-07-25T22:21:20+00:00",
     "importance": 2,
@@ -1945,5 +1923,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "ハドベイ・ミネラルズが決算発表を実施。銅価格上昇が経営低迷を相殺できるかが焦点。個別企業決算と銅市場相場の相互作用を分析。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･28日 3日ぶり反落 - Moomoo",
+    "timestamp": "2026-07-28T21:05:21+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物市場が28日に3日ぶりに反落した。具体的な下落理由や値幅の詳細は記事から確認できない。市場の日々の値動きを記録した市況速報と考えられる。"
+  },
+  {
+    "title": "本日（7月29日）の金価格：急激な反転と下落。 - Vietnam.vn",
+    "timestamp": "2026-07-28T21:54:47+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月29日の金価格が急激に反転して下落した。具体的な下落要因の詳細は記事要約では明記されていない。コモディティ市場の日次変動を報じたもの。"
+  },
+  {
+    "title": "原油先物5％安、2週間ぶり安値 米・イラン攻撃停止で - ロイター",
+    "timestamp": "2026-07-28T20:53:43+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の軍事的緊張が緩和され、攻撃停止が示唆されたことで地政学的リスクプレミアムが剥落。原油先物は5%安となり、2週間ぶりの安値を更新した。"
+  },
+  {
+    "title": "原油先物5％安、2週間ぶり安値 米・イラン攻撃停止で - ニューズウィーク日本版",
+    "timestamp": "2026-07-28T20:52:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の軍事衝突が回避される見通しが強まり、地政学的リスクプレミアムが急速に剥落。原油先物は5%下落し2週間ぶりの安値を更新。供給途絶リスクの低下で投機買いが巻き戻された。"
+  },
+  {
+    "title": "原油先物5％安、2週間ぶり安値　米・イラン攻撃停止で - ｄメニューニュース",
+    "timestamp": "2026-07-28T20:52:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の軍事的緊張が緩和し、攻撃中止が発表された。原油先物は5％下落し2週間ぶりの安値を付けた。地政学リスク低下による供給懸念の払拭が要因。"
+  },
+  {
+    "title": "米コモディティー市場－金、銅が上昇 原油、ガソリン、天然ガス、銀、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-27T22:35:07+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で金・銅が上昇、原油・ガス・農産物が下落。市場内での相対的な強弱が生じているが、個別銘柄の日中変動の報道。"
   }
 ]
