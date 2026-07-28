@@ -1,38 +1,5 @@
 [
   {
-    "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis - Bloomberg.com",
-    "timestamp": "2026-07-25T19:47:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がイランへの夜間軍事作戦を一時停止し、同時にフーシ派とサウジアラビアの紛争が激化している。中東の地政学的緊張が複雑に変化しており、ホルムズ海峡経由の石油供給リスクと避難資産としての金需要が相反する影響をもたらす可能性が高い。"
-  },
-  {
-    "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis - Bloomberg.com",
-    "timestamp": "2026-07-25T19:47:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国がイランへの夜間軍事作戦を一時停止し、同時にフーシ派とサウジアラビアの紛争が激化している。中東の地政学的緊張が複雑に変化しており、ホルムズ海峡経由の石油供給リスクと避難資産としての金需要が相反する影響をもたらす可能性が高い。"
-  },
-  {
-    "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis - Bloomberg.com",
-    "timestamp": "2026-07-25T19:47:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国がイランへの夜間軍事作戦を一時停止し、同時にフーシ派とサウジアラビアの紛争が激化している。中東の地政学的緊張が複雑に変化しており、ホルムズ海峡経由の石油供給リスクと避難資産としての金需要が相反する影響をもたらす可能性が高い。"
-  },
-  {
     "title": "OPEC Monthly Oil Market Report, July 2026 - Peak Oil Barrel",
     "timestamp": "2026-07-26T12:50:27+00:00",
     "importance": 2,
@@ -438,5 +405,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "OPEC+代表が9月以降の生産枠増加の一時停止を計画していることを明らかにした。既に実施されていた段階的増産から一転して増産ペースの緩和を検討する方針。市場は供給抑制の継続を材料に原油価格を支持する方向。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-28T20:35:21.759072+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗状況）と作物状態推定値を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、播種進捗、作物条件（Good-Excellent%）などを報告。投資家は事前予想との比較で作付面積や生産予想の改訂シグナルを探る。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-28T20:35:21.759072+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗状況）と作物状態推定値を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、播種進捗、作物条件（Good-Excellent%）などを報告。投資家は事前予想との比較で作付面積や生産予想の改訂シグナルを探る。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-07-28T20:35:21.759072+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗状況）と作物状態推定値を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、播種進捗、作物条件（Good-Excellent%）などを報告。投資家は事前予想との比較で作付面積や生産予想の改訂シグナルを探る。"
+  },
+  {
+    "title": "OPEC+ prepares to stop raising oil output targets - Oil & Gas 360",
+    "timestamp": "2026-07-28T19:40:09+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が石油増産目標の引き上げを中止する方針を準備していることが報じられた。これは2023年以降の段階的な増産路線から政策転換を示唆するもので、供給抑制による価格支持姿勢への回帰を意味する。市場は供給削減期待から原油相場の上昇圧力となる可能性が高い。"
   }
 ]
