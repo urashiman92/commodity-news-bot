@@ -1,16 +1,5 @@
 [
   {
-    "title": "バンク・オブ・アメリカ、原油価格の変動が中央銀行の「静観」政策を放棄させる可能性を警告 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-25T18:48:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "BofAが原油価格の変動が中央銀行の金融緩和継続政策を放棄させる可能性を警告。エネルギー価格上昇がインフレ圧力となり、金融引き締めを迫られるシナリオを指摘。"
-  },
-  {
     "title": "本日（7月26日）の金価格：価格は全般的に再び上昇。 - Vietnam.vn",
     "timestamp": "2026-07-25T21:42:48+00:00",
     "importance": 2,
@@ -1912,5 +1901,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドイツ10年債利回りが原油安にもかかわらず下げ渋っている。トランプ・ネタニヤフ会談の地政学的リスクに市場が注視している。債券と原油の異なる値動きに注目が必要。"
+  },
+  {
+    "title": "黒海リスクは織り込み済み、欧州小麦価格が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-28T18:46:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海地政学リスクが既に市場に反映されたため、欧州小麦価格が下落している。供給不安要因は既知であり、新たなショックがない状態を示唆。価格調整局面と考えられる。"
+  },
+  {
+    "title": "2026年7月28日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-28T09:59:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的なウォッチ記事。市場の技術的側面を解説するもので、金価格への直接的な影響はない。"
+  },
+  {
+    "title": "クリーン・ハーバーズ、原油価格と成長性を試す決算発表へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-28T17:45:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "クリーン・ハーバーズの決算発表が控えている。同社は環境関連サービス企業で、原油価格変動が事業に影響を与える可能性がある。決算結果による企業成長性の評価が焦点。"
+  },
+  {
+    "title": "OPECプラス、9月の増産後に一時停止か 原油価格の乱高下で先行き不透明感 - BigGo ファイナンス",
+    "timestamp": "2026-07-28T16:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスが9月の増産実施後、その後の増産を一時停止する可能性を示唆。原油価格の乱高下により市場の先行き見通しが不透明化。減産・増産調整による供給管理の動向が注視される。"
   }
 ]
