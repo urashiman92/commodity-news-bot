@@ -295,5 +295,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イラン紛争の一時休止を受けて原油価格が大幅に下落。地政学的リスク低下により、供給途絶懸念が後退。米国株が買いを浴び、リスク資産全般が反発。原油下落はインフレ圧力緩和を意味し、市場全体のリスクセンチメントが改善。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 63% Good to Excellent; Soybeans 63% Good to Excellent as of July 26 - DTN Progressive Farmer",
+    "timestamp": "2026-07-27T08:47:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress報告により、2024年7月26日時点でトウモロコシと大豆の作況が共に63%の好適～優良評価となった。両作物ともほぼ同水準の作況評価であり、市場予想の範囲内の進捗状況を示している。北米での通常的な夏期生育段階の報告値と判断される。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 63% Good to Excellent; Soybeans 63% Good to Excellent as of July 26 - DTN Progressive Farmer",
+    "timestamp": "2026-07-27T08:47:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress報告により、2024年7月26日時点でトウモロコシと大豆の作況が共に63%の好適～優良評価となった。両作物ともほぼ同水準の作況評価であり、市場予想の範囲内の進捗状況を示している。北米での通常的な夏期生育段階の報告値と判断される。"
+  },
+  {
+    "title": "TRADING DAY Oil plunges, stocks 'n' bonds shrug - Reuters",
+    "timestamp": "2026-07-27T21:10:09+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油が大幅に下落したが、株式と債券市場はこれに大きく反応しなかった。コモディティ市場全体では需給バランスの緩和と金融環境の複雑さが交錯している状況を示唆しており、単一資産クラスの値動きと市場全体の乖離が注目される。"
+  },
+  {
+    "title": "TRADING DAY Oil plunges, stocks 'n' bonds shrug - Reuters",
+    "timestamp": "2026-07-27T21:10:09+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油が大幅に下落したが、株式と債券市場はこれに大きく反応しなかった。コモディティ市場全体では需給バランスの緩和と金融環境の複雑さが交錯している状況を示唆しており、単一資産クラスの値動きと市場全体の乖離が注目される。"
+  },
+  {
+    "title": "Oil Extends Decline, Asian Stocks Set for Losses: Markets Wrap - Bloomberg",
+    "timestamp": "2026-07-27T22:08:16+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油が継続して下落トレンドを示す中、アジア株も売却圧力にさらされている。景気減速懸念やドル強化が両資産クラスに重石となっており、リスク資産全般に弱気ムードが広がっている。市場全体でリスク回避姿勢が強まっている状況。"
+  },
+  {
+    "title": "Oil Extends Decline, Asian Stocks Set for Losses: Markets Wrap - Bloomberg",
+    "timestamp": "2026-07-27T22:08:16+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油が継続して下落トレンドを示す中、アジア株も売却圧力にさらされている。景気減速懸念やドル強化が両資産クラスに重石となっており、リスク資産全般に弱気ムードが広がっている。市場全体でリスク回避姿勢が強まっている状況。"
+  },
+  {
+    "title": "CME’s Debut of 24/7 Gold Futures Trading Met With Strong Demand - Bloomberg",
+    "timestamp": "2026-07-27T21:18:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "CMEが金先物の24時間取引サービスを開始し、市場から強い需要を集めた。従来の取引時間帯を拡張することで、グローバル投資家のアクセス性が向上し、流動性の向上が期待される。24/7取引の実現は金市場の構造的な改善につながる可能性がある。"
   }
 ]
