@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日7月26日の金価格：サンノゼ金が再び急騰、世界の金価格は1オンスあたり4,000ドル以上で堅調に推移。 - Vietnam.vn",
-    "timestamp": "2026-07-25T22:21:20+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,000ドルを上回る水準で推移している。サンノゼ金市場で急騰が観測されている。既に高値圏での相場動向を描写する記事。"
-  },
-  {
-    "title": "2026年7月26日朝の金価格：SJC金価格、9999金リング価格、および週末の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-25T22:13:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格動向を報じるニュース。SJC金およびベトナム国内の9999金リング価格、および週末の世界金相場を掲載。"
-  },
-  {
-    "title": "2026年7月26日午前5時30分時点の金価格：SJC金、9999金リング、および週末の世界金価格の最新情報。 - Vietnam.vn",
-    "timestamp": "2026-07-25T22:39:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC金、9999金リング）および世界金価格の週末時点での情報提供。定期的な価格情報の報道であり、特定の新規イベントや市場変動を伴わない。"
-  },
-  {
-    "title": "紅海情勢の不安定化――原油価格に対する新たな脅威。 - Vietnam.vn",
-    "timestamp": "2026-07-25T22:19:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "紅海情勢の不安定化が原油供給ルートに対する新たなリスク要因として認識されている。同海域はスエズ運河を経由する重要な石油輸送路であり、地政学的緊張が供給途絶懸念を引き起こす。既に認識されているリスク要因であるため市場への織り込み度合いは不透明。"
-  },
-  {
     "title": "本日（7月26日）の金価格：SJC金は小幅上昇、売買スプレッドは1オンスあたり400万ベトナムドンで横ばい。 - Vietnam.vn",
     "timestamp": "2026-07-25T23:39:24+00:00",
     "importance": 1,
@@ -53,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金が小幅上昇。売買スプレッドは1オンス当たり400万ベトナムドンで変わらず。地域相場の日々の値動きを記録した定期報道。"
-  },
-  {
-    "title": "本日（7月26日）の金価格：金地金は急騰、金指輪は逆方向に変動。 - Vietnam.vn",
-    "timestamp": "2026-07-25T22:59:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が7月26日に変動。金地金は上昇したが金指輪は逆方向に動いた。国内の製品別価格差の動きを報じた相場解説。"
   },
   {
     "title": "金価格の最新情報（2026年7月26日）：SJC、プレーンリング9999BTMC DOJI Phu Quy Sunday - Vietnam.vn",
@@ -1989,5 +1934,16 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で金・銅が上昇、原油・ガス・農産物が下落。市場内での相対的な強弱が生じているが、個別銘柄の日中変動の報道。"
+  },
+  {
+    "title": "原油先物5％安、2週間ぶり安値　米・イラン攻撃停止で - ｄメニューニュース",
+    "timestamp": "2026-07-28T21:04:31+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事紛争が一時的に緩和される見通しから、地政学的リスクプレミアムが急速に剥落。原油先物が5%下落し2週間ぶりの安値を更新。供給途絶リスクの後退で需給逼迫懸念が軽減。"
   }
 ]
