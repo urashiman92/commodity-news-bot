@@ -1,27 +1,5 @@
 [
   {
-    "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery - Reuters",
-    "timestamp": "2026-07-25T09:59:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナのドローン攻撃がロシア・チュメニ製油所での火災を引き起こした。同製油所はロシア最大級の製油施設で、日産約35万バレルの精製能力を保有している。ロシアの重要な石油インフラへの直撃は供給懸念を高め、原油価格の上昇圧力となる。"
-  },
-  {
-    "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia - Bloomberg.com",
-    "timestamp": "2026-07-25T11:08:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナのドローン攻撃がロシア・チュメニ製油所に火災を引き起こした。同製油所はロシア最大級の石油精製施設であり、日量30万バレルの処理能力を持つ。供給側のショックにより、市場は原油価格上昇圧力に直面する可能性が高い。"
-  },
-  {
     "title": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis - Bloomberg.com",
     "timestamp": "2026-07-25T19:47:51+00:00",
     "importance": 4,
@@ -372,5 +350,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPECからの離脱を表明し、石油供給構造の大きな変化をもたらす。UAEは世界有数の産油国であり、同国の脱退はOPECの結束力低下を意味する。減産合意の履行能力が減弱し、原油市場の不確実性が急上昇する可能性がある。"
+  },
+  {
+    "title": "OPEC+ likely to pause oil output hikes after September, sources say - Reuters",
+    "timestamp": "2026-07-28T12:07:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月以降の石油増産を一時停止する可能性が高いと複数の関係者が述べた。これは5月の減産決定を受けた継続的な市場管理姿勢を反映している。供給制限の継続は原油相場を下支えする要因となる。"
   }
 ]
