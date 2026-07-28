@@ -22,17 +22,6 @@
     "summary": "ベトナムの金価格情報提供ニュース。SJC、BTMC、DOJI、Phu Quyなど地域の金商品相場を報道。"
   },
   {
-    "title": "紅海封鎖の脅威で原油価格が100ドル突破、世界の主要エネルギー要衝が同時に機能不全に - BigGo ファイナンス",
-    "timestamp": "2026-07-25T20:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "紅海の海運封鎖により原油価格が100ドルを突破した。ホルムズ海峡など複数の主要エネルギー要衝が同時に機能不全に陥る可能性がある。地政学リスクによる供給懸念が顕在化し、市場に大きな影響を及ぼしている。"
-  },
-  {
     "title": "本日7月26日の金価格：サンノゼ金が再び急騰、世界の金価格は1オンスあたり4,000ドル以上で堅調に推移。 - Vietnam.vn",
     "timestamp": "2026-07-25T22:21:20+00:00",
     "importance": 2,
@@ -163,17 +152,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンス4000ドル水準まで上昇し、中央アジア経済に影響を与えている。金相場の強気トレンドが地域経済に波及している状況。"
-  },
-  {
-    "title": "リファスタ｜7/26(日)金相場と週明けの見立て｜杉兼太朗 - mbp-japan.com",
-    "timestamp": "2026-07-25T20:33:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月26日日曜時点での金相場の週次振り返りと週明けの相場見立てを提供するコメンタリー記事。具体的な新規材料や統計発表ではなく、アナリストによる相場解説・分析。"
   },
   {
     "title": "金価格は重要な一週間を迎える。 - Vietnam.vn",
@@ -1945,5 +1923,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "OPECプラスが9月の増産実施後、その後の増産を一時停止する可能性を示唆。原油価格の乱高下により市場の先行き見通しが不透明化。減産・増産調整による供給管理の動向が注視される。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況・28日 3日続落 - Moomoo",
+    "timestamp": "2026-07-28T20:39:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物が3日続落。市場概況として既に進行中のトレンドを報じている。具体的な下落要因や需給変化の詳細は記事からは不明。"
+  },
+  {
+    "title": "ハドベイ・ミネラルズ決算発表：銅価格の上昇は低迷を相殺できるか 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-28T18:12:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ハドベイ・ミネラルズが決算発表を実施。銅価格上昇が経営低迷を相殺できるかが焦点。個別企業決算と銅市場相場の相互作用を分析。"
   }
 ]
