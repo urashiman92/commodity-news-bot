@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格は、世界的にも国内的にも同時に上昇している。なぜだろうか？ - Vietnam.vn",
-    "timestamp": "2026-07-25T09:51:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が世界的・国内的に同時に上昇している現象についての解説記事。市場心理や価格変動要因を振り返る内容と推測される。"
-  },
-  {
-    "title": "2026年7月25日午後、金価格は再び上昇し、フークイでの買い取り価格は1オンスあたりさらに250万ベトナムドン上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-25T09:17:34+00:00",
-    "importance": 1,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金買い取り価格が1オンスあたり250万ベトナムドン上昇。ローカル市場での価格変動を報じたもの。"
-  },
-  {
-    "title": "SJCの金地金価格は、700万ベトナムドン下落した後、1オンスあたり200万ベトナムドン上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-25T10:57:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金地金価格が700万VND下落した後、1オンスあたり200万VND上昇した。短期的な価格変動を記録した続報である。"
-  },
-  {
     "title": "黒海情勢の緊迫化により小麦価格が高騰、アジアの米価格は過去最高値を記録した。 - Vietnam.vn",
     "timestamp": "2026-07-25T12:05:21+00:00",
     "importance": 4,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "黒海情勢の緊迫化により小麦価格が急騰している。同時にアジア米価格が過去最高値を更新し、穀物全般が上昇圧力を受けている。地政学的リスク要因により供給懸念が顕在化。"
-  },
-  {
-    "title": "2026年7月25日午後、金価格は上昇を続け、特にフークイでは最も急激な調整が見られた。 - Vietnam.vn",
-    "timestamp": "2026-07-25T09:15:36+00:00",
-    "importance": 1,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年7月25日午後にベトナムで金価格が上昇、フークイ地域で調整が見られたというローカルニュース。具体的な上昇要因や数値が不明。地域限定的な相場報告。"
   },
   {
     "title": "2026年7月26日、金価格は概ね上昇したが、世界の金価格はまだ突破口を開く勢いを見出せておらず、短期的な見通しについては懐疑的な見方が多い。 - Vietnam.vn",
@@ -1934,5 +1890,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "高麗亜鉛の2Q営業益が6000億ウォン近辺に達した。亜鉛・銅価格の上昇とウォン安が業績を下支えした。企業業績の好調を受けた記事。"
+  },
+  {
+    "title": "7月28日午後の金価格：金地金と金指輪はともに急落した。 - Vietnam.vn",
+    "timestamp": "2026-07-28T09:30:46+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場で7月28日午後に金地金と金指輪の価格が急落した。ベトナムローカル市場の相場リポートであり、グローバル金相場への直接的な影響は限定的。"
   }
 ]
