@@ -449,5 +449,115 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が石油増産目標の引き上げを中止する方針を準備していることが報じられた。これは2023年以降の段階的な増産路線から政策転換を示唆するもので、供給抑制による価格支持姿勢への回帰を意味する。市場は供給削減期待から原油相場の上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "July USDA report lifts soybean, corn futures - Farm Talk",
+    "timestamp": "2026-07-28T20:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月のUSDA WASDE報告書が公表され、トウモロコシと大豆の先物相場が上昇した。同報告書は米国の穀物供給見通しに関する定期的な重要統計であり、市場参加者に大豆とトウモロコシの価格上昇をもたらした。具体的な作付面積や收穫見通しの数値は記事から不明だが、市場反応から好況的な内容が含まれていると推定される。"
+  },
+  {
+    "title": "July USDA report lifts soybean, corn futures - Farm Talk",
+    "timestamp": "2026-07-28T20:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のUSDA WASDE報告書が公表され、トウモロコシと大豆の先物相場が上昇した。同報告書は米国の穀物供給見通しに関する定期的な重要統計であり、市場参加者に大豆とトウモロコシの価格上昇をもたらした。具体的な作付面積や收穫見通しの数値は記事から不明だが、市場反応から好況的な内容が含まれていると推定される。"
+  },
+  {
+    "title": "US crude, gasoline inventories likely fell last week, distillate stocks rose - Reuters",
+    "timestamp": "2026-07-28T22:01:44+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計により、米国の原油とガソリン在庫は先週減少したと予想される一方、留出油（ディーゼル）在庫は増加したと見込まれている。原油と石油製品の需給バランスが異なる動きを示しており、市場シグナルは混合的。"
+  },
+  {
+    "title": "US crude, gasoline inventories likely fell last week, distillate stocks rose - Reuters",
+    "timestamp": "2026-07-28T22:01:44+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計により、米国の原油とガソリン在庫は先週減少したと予想される一方、留出油（ディーゼル）在庫は増加したと見込まれている。原油と石油製品の需給バランスが異なる動きを示しており、市場シグナルは混合的。"
+  },
+  {
+    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-07-27T23:17:05+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを下方修正した。需要減速の見込みは、原油相場への弱気シグナルとして機能する。OPEC減産による価格支えの効果が限定的になる可能性を示唆。金融引き締め環境下での需要鈍化懸念が背景。"
+  },
+  {
+    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-07-27T23:17:05+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長見通しを下方修正した。需要減速の見込みは、原油相場への弱気シグナルとして機能する。OPEC減産による価格支えの効果が限定的になる可能性を示唆。金融引き締め環境下での需要鈍化懸念が背景。"
+  },
+  {
+    "title": "OPEC Prepares to Stop Raising Oil Output Targets - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-07-28T19:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが石油増産目標の引き上げを停止する方針を準備していることが報じられた。これは2024年以降の段階的な増産計画の終了を意味し、供給制約による価格下支え要因となる。市場では既に減産基調への転換が織り込まれつつあるが、公式発表までは不確実性が残る。"
+  },
+  {
+    "title": "Saudi Arabia says it intercepted drones launched from Iraq targeting oil facilities - Reuters",
+    "timestamp": "2026-07-28T20:31:28+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがイラクから発射されたドローンがイラン系勢力による石油施設への攻撃を迎撃したと発表。中東の地政学的緊張が再び高まり、ペルシャ湾の重要な石油供給インフラへの直接的な脅威として認識される。供給途絶リスクの急速な増加が原油価格の上昇圧力となる。"
+  },
+  {
+    "title": "Satellites Show Tank Fire at Saudi Oil Plant Jazan After Attack - Bloomberg",
+    "timestamp": "2026-07-27T12:38:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのジャザン石油精製施設がドローン攻撃を受け、衛星画像で複数の貯蔵タンクが炎上していることが確認された。同施設は日量60万バレルの処理能力を持つ重要なインフラであり、サプライチェーン混乱とエネルギー供給リスクが顕在化。地政学リスクの急激な高まり。"
+  },
+  {
+    "title": "Iranian Oil Hoard Swells Off Malaysia on Weak Chinese Demand - Bloomberg",
+    "timestamp": "2026-07-28T06:40:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン産原油がマレーシア沖に積み上がっており、中国の需要が弱いことが背景。イラン産原油の供給過剰感が強まり、世界的な石油在庫増加圧力となっている。タンカー貯蔵の増加は需要不足を示唆し、原油価格への下押し要因。"
   }
 ]
