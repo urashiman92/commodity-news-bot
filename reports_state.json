@@ -55,17 +55,6 @@
     "summary": "OPEC月次油市場レポート（2026年7月版）。タイトルに「ピークオイルバレル」とあることから、需給ダイナミクスの変化や長期的な石油需要見通しに関する分析が含まれると推察される。ただし、リンク先の実際の内容にアクセスできないため、具体的な供給調整方針や生産見通しの変更有無は特定困難。"
   },
   {
-    "title": "Russia says Ukraine killed 11 in tourist camp; Ukraine strikes Russian refinery - Reuters",
-    "timestamp": "2026-07-25T14:33:53+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの製油所を攻撃したとの報道。ロシア領内のエネルギー基盤施設への直接的な攻撃は、ロシアの石油精製能力に即座の脅威をもたらす。これにより欧州向けのディーゼル・ガソリン供給が逼迫し、原油価格に上昇圧力が生じる可能性が高い。"
-  },
-  {
     "title": "Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites - Reuters",
     "timestamp": "2026-07-26T13:29:43+00:00",
     "importance": 3,
@@ -361,5 +350,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が9月以降の石油増産を一時停止する可能性が高いと複数の関係者が述べた。これは5月の減産決定を受けた継続的な市場管理姿勢を反映している。供給制限の継続は原油相場を下支えする要因となる。"
+  },
+  {
+    "title": "OPEC+ Likely to Pause Oil Output Hikes After September - EnergyNow.com",
+    "timestamp": "2026-07-28T12:32:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月以降の原油増産ペースを一時停止する可能性が示唆された。これは足元での減産政策の効果確認と市場バランスの調整を意味し、供給面での慎重姿勢を反映している。既報の段階的増産計画の調整観測であり、大きなサプライズではない。"
   }
 ]
