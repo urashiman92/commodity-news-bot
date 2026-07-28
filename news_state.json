@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日（7月25日正午）の金価格：金価格が再び急騰。 - Vietnam.vn",
-    "timestamp": "2026-07-25T05:26:06+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのニュースサイトが7月25日正午時点の金価格を報道し、金が再び急騰していることを伝えている。具体的な価格データや騰落率の記載がないため、詳細な市場インパクトの判断が難しい。"
-  },
-  {
-    "title": "7月25日午前：金価格が急騰、SJCの金リングは市場で最安値を記録。 - Vietnam.vn",
-    "timestamp": "2026-07-25T05:03:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムで7月25日午前に金価格が急騰し、SJCの金リングが市場最安値を記録。地域的な価格変動を報じたニュース。"
-  },
-  {
-    "title": "本日（7月25日）の金価格：1オンスあたり50万ベトナムドンの小幅上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-25T03:47:47+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が1オンスあたり50万ベトナムドンで小幅上昇した。ローカル市場の日次値動きを報じたニュース。グローバルな金市場全体への影響は限定的。"
-  },
-  {
-    "title": "イラン情勢緊迫 トランプ大統領「最大規模の攻撃準備」 原油価格再び100ドル突破 - ABEMA",
-    "timestamp": "2026-07-25T03:36:33+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国トランプ大統領がイランへの最大規模の攻撃準備を表明。地政学的緊張の急速な高まりを受けて、原油価格は100ドルを突破した。中東の主要供給地域での有事化懸念が市場を大きく動かしている。"
-  },
-  {
     "title": "ダイヤモンド価格の変動により、金価格も間接的に影響を受ける。 - Vietnam.vn",
     "timestamp": "2026-07-25T07:57:59+00:00",
     "importance": 1,
@@ -64,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格の変動要因を解説し、投資家向けのリスク回避方法を提示する専門家論評。具体的な変動メカニズムや損失回避の戦術に関する教育的コンテンツ。市場動向そのものではなく、既存トレンドの解釈記事。"
-  },
-  {
-    "title": "PM Takaichi Emphasizes Security of Crude Oil Supplies in Japan - 時事通信ニュース",
-    "timestamp": "2026-07-25T03:27:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本の高市首相が原油供給の安全保障を強調するコメント。既に知られた政策方針の確認であり、市場への直接的な影響は限定的。"
   },
   {
     "title": "本日の燃料価格（7月25日）：世界の原油価格は反転し、下落。 - Vietnam.vn",
@@ -1868,5 +1813,93 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "27日の主要国際商品市況に関する定期的な市況報告。具体的な商品価格や変動内容の記事本文が不明。一般的な市況振り返り記事と推測される。"
+  },
+  {
+    "title": "【動画】ピクテ・ゴールド｜金価格は「下降ウェッジ」を形成 8月末までに、上昇に転じる可能性は？＜塚本 卓治＞ - ピクテ・ジャパン",
+    "timestamp": "2026-07-28T04:05:14+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ピクテのアナリストが金価格が下降ウェッジパターンを形成していると指摘し、8月末までに上昇転換の可能性について解説している。テクニカル分析に基づく相場観測。"
+  },
+  {
+    "title": "米CME、24時間365日取引の金先物が好調な滑り出し - Bloomberg.com",
+    "timestamp": "2026-07-28T06:04:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "CMEが24時間365日取引可能な金先物を新規上場し、取引開始時点で良好なスタートを切った。既存の取引時間帯の制限が解消され、アジア市場などでの流動性向上が期待される。金への機関投資家・海外投資家からの需要増加につながる可能性がある。"
+  },
+  {
+    "title": "金価格、ドル高で下落――FRB決定を注視 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-28T03:58:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格がドル高により下落している。FRBの金融政策決定が今後の相場の重要なトリガーとなる見通し。ドル強化は金の実質利回りを低下させ、ドル建て金の相対価値を押し下げる構図。"
+  },
+  {
+    "title": "金価格は5,000ドルも視野？FRBのタカ派姿勢がピークアウト、中国需要は2年ぶり高水準、攻防の鍵握る米雇用統計 - BigGo ファイナンス",
+    "timestamp": "2026-07-28T03:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの金利引き上げサイクルがピークアウトする可能性と、中国の需要が2年ぶりの高水準に達していることから、金価格が5,000ドルを視野に入れるシナリオが提示されている。米雇用統計が相場の方向性を決める重要な指標となる見通し。"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／原油相場に連れ安(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-28T04:27:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "カナダドル/円がコモディティ市場全般の軟調に連れて下落。特に原油相場の下落に相関して動いている状況。為替・原油市場の連動性を示す解説記事。"
+  },
+  {
+    "title": "原油価格が80ドルを突破した今、エクソンモービル・ホールディングス（XOM）の株価は依然として適正価値を下回っているのか？ - simplywall.st",
+    "timestamp": "2026-07-28T03:37:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が80ドルを突破した局面でのエクソンモービルの株価評価に関する分析記事。企業の利益性と株価のバリュエーションギャップについての解説。"
+  },
+  {
+    "title": "高麗亜鉛2Q営業益6000億ウォン接近 亜鉛銅高と為替が下支え - CHOSUNBIZ - Chosunbiz",
+    "timestamp": "2026-07-28T01:56:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "韓国の高麗亜鉛が2Q営業益約6000億ウォンを達成。亜鉛と銅価格の上昇、及びウォン安による為替メリットが業績を支えた。"
+  },
+  {
+    "title": "米コモディティー市場－金、銅が上昇 原油、ガソリン、天然ガス、銀、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-27T22:32:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で金・銅が上昇した一方、原油・ガソリン・天然ガス・農産物（小麦・トウモロコシ・大豆）が下落。市場全体では弱気な値動きが主流。"
   }
 ]
