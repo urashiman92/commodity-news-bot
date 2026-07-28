@@ -1,16 +1,5 @@
 [
   {
-    "title": "黒海情勢の緊迫化により小麦価格が高騰、アジアの米価格は過去最高値を記録した。 - Vietnam.vn",
-    "timestamp": "2026-07-25T12:05:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海情勢の緊迫化により小麦価格が急騰している。同時にアジア米価格が過去最高値を更新し、穀物全般が上昇圧力を受けている。地政学的リスク要因により供給懸念が顕在化。"
-  },
-  {
     "title": "2026年7月26日、金価格は概ね上昇したが、世界の金価格はまだ突破口を開く勢いを見出せておらず、短期的な見通しについては懐疑的な見方が多い。 - Vietnam.vn",
     "timestamp": "2026-07-25T14:49:46+00:00",
     "importance": 2,
@@ -22,17 +11,6 @@
     "summary": "金価格は小幅上昇したが、明確な上昇トレンドの形成には至っていない。市場では短期的な金価格上昇への懐疑的見方が多く、突破口を開く勢いが不足している状況。"
   },
   {
-    "title": "ニューモント、金価格高騰で過去最高のフリーキャッシュフローを計上、2026年見通しを据え置き - BigGo ファイナンス",
-    "timestamp": "2026-07-25T13:35:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューモントが金価格高騰により過去最高のフリーキャッシュフロー（FCF）を計上した。2026年見通しは据え置きのため、新たな成長期待は織り込まれていない。既存の好材料の延長線上での業績報告。"
-  },
-  {
     "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - Yahoo!ファイナンス",
     "timestamp": "2026-07-25T17:15:39+00:00",
     "importance": 1,
@@ -42,17 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】の株価・株式情報がYahoo!ファイナンスに掲載された。これはETN商品の情報提供であり、原油市場の新たなファンダメンタルズやイベントを示すものではない。"
-  },
-  {
-    "title": "金価格は本日7月25日、非常に力強い反発を見せて取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-07-25T13:17:32+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月25日の金相場が力強い反発を示した。日中の値動きを振り返った市場解説。具体的な価格水準や反発の要因は記事では不明。"
   },
   {
     "title": "バンク・オブ・アメリカ、原油価格の変動が中央銀行の「静観」政策を放棄させる可能性を警告 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1901,5 +1868,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金市場で7月28日午後に金地金と金指輪の価格が急落した。ベトナムローカル市場の相場リポートであり、グローバル金相場への直接的な影響は限定的。"
+  },
+  {
+    "title": "金価格は本日7月28日、全面安で取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-07-28T10:58:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月28日の金価格が全面安で取引を終えた。ベトナムメディアによる価格動向の報告で、具体的な下落理由は示されていない。日次の値動きレポートにとどまる。"
+  },
+  {
+    "title": "原油相場、ブレント先物9%急落－米・イラン攻撃停止で供給懸念和らぐ フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-07-28T11:24:17+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事衝突が回避され、中東供給途絶リスクが大幅に軽減。ブレント先物が9%急落し、地政学プレミアムが剥落。供給懸念の解消が相場を大きく押し下げた。"
   }
 ]
