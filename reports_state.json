@@ -559,5 +559,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "イラン産原油がマレーシア沖に積み上がっており、中国の需要が弱いことが背景。イラン産原油の供給過剰感が強まり、世界的な石油在庫増加圧力となっている。タンカー貯蔵の増加は需要不足を示唆し、原油価格への下押し要因。"
+  },
+  {
+    "title": "OPEC+ likely to pause oil output hikes after September, sources say - Reuters",
+    "timestamp": "2026-07-28T17:05:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は9月以降、原油増産ペースを一時停止する可能性が高いと複数筋が報道。既に市場で減産延長の観測が存在しており、正式決定待ちの段階。供給側の慎重姿勢が価格下支え要因となる可能性。"
+  },
+  {
+    "title": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea - Reuters",
+    "timestamp": "2026-07-28T21:00:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンの親イラン勢力フーシ派が紅海でサウジアラビアのタンカーに対してミサイル攻撃を実施したと発表。紅海は世界の原油輸送量の約12-15%が通過する重要な海運ルートであり、地政学的リスクの急速な高まりを示唆。タンカーへの攻撃成功は海上安全保障の悪化を象徴し、原油輸送費（VLCC傭船料）の上昇と保険料引き上げを誘発。"
   }
 ]
