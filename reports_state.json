@@ -647,5 +647,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "イラクの民兵勢力がサウジアラビアの石油施設に対し2日連続で攻撃を実施。中東における主要産油国への直接的な供給ショック懸念が浮上。地政学的緊張の高まりにより、原油市場は供給途絶リスクに敏感に反応する可能性が高い。"
+  },
+  {
+    "title": "July USDA report lifts soybean, corn futures - Duncan Banner",
+    "timestamp": "2026-07-28T20:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "7月のUSDAレポート発表によりトウモロコシと大豆先物が上昇した。WASDEは米国の穀物供給見通しに関する定期的な公式統計であり、市場が価格を調整。具体的な数値については本文に記載されていないため詳細は不明。"
+  },
+  {
+    "title": "July USDA report lifts soybean, corn futures - Duncan Banner",
+    "timestamp": "2026-07-28T20:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "7月のUSDAレポート発表によりトウモロコシと大豆先物が上昇した。WASDEは米国の穀物供給見通しに関する定期的な公式統計であり、市場が価格を調整。具体的な数値については本文に記載されていないため詳細は不明。"
+  },
+  {
+    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
+    "timestamp": "2026-07-27T06:57:31+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストのBoussoが、ホルムズ海峡の再開通がOPECの減産戦略を無効化する可能性を指摘。地政学的リスク低下に伴う供給増加圧力が、OPEC+の市場支配力を脅かす可能性がある。原油相場の下向きリスク要因として注視。"
+  },
+  {
+    "title": "Saudi Arabia’s January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com",
+    "timestamp": "2026-07-28T23:20:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアの1月原油輸出が増加し、石油統計国際データ基盤(JODI)によると出力は2023年以来の最高水準に達した。これはOPECの減産政策からの段階的な生産引き上げを反映している。供給面での改善シグナルだが、市場予想の範囲内の動き。"
+  },
+  {
+    "title": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq - Reuters",
+    "timestamp": "2026-07-29T03:29:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とサウジアラビアがイラク内のイラン同盟勢力に対して軍事作戦を実施し、ペルシャ湾地域の紛争が再燃した。地政学的リスクが急速に高まり、域内の石油供給リスクが顕在化。安全資産としての金への需要も増加する可能性が高い。"
+  },
+  {
+    "title": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq - Reuters",
+    "timestamp": "2026-07-29T03:29:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国とサウジアラビアがイラク内のイラン同盟勢力に対して軍事作戦を実施し、ペルシャ湾地域の紛争が再燃した。地政学的リスクが急速に高まり、域内の石油供給リスクが顕在化。安全資産としての金への需要も増加する可能性が高い。"
+  },
+  {
+    "title": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq - Reuters",
+    "timestamp": "2026-07-29T03:29:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国とサウジアラビアがイラク内のイラン同盟勢力に対して軍事作戦を実施し、ペルシャ湾地域の紛争が再燃した。地政学的リスクが急速に高まり、域内の石油供給リスクが顕在化。安全資産としての金への需要も増加する可能性が高い。"
+  },
+  {
+    "title": "Three Russian Black Sea terminals restrict grain intake by truck amid shipping risks, sources say - Reuters",
+    "timestamp": "2026-07-28T16:33:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシア黒海地域の3つの穀物ターミナルがトラック輸送による穀物受け入れを制限。海上輸送リスク増加による供給チェーンの混乱が懸念される。ウクライナ穀物回廊閉鎖後の代替輸送ルート障害で、黒海からの穀物輸出が一層制約される可能性が高い。"
+  },
+  {
+    "title": "Three Russian Black Sea terminals restrict grain intake by truck amid shipping risks, sources say - Reuters",
+    "timestamp": "2026-07-28T16:33:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア黒海地域の3つの穀物ターミナルがトラック輸送による穀物受け入れを制限。海上輸送リスク増加による供給チェーンの混乱が懸念される。ウクライナ穀物回廊閉鎖後の代替輸送ルート障害で、黒海からの穀物輸出が一層制約される可能性が高い。"
   }
 ]
