@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（7月27日）の金価格：来週は価格変動が激しくなる見込み。 - Vietnam.vn",
-    "timestamp": "2026-07-26T21:41:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月27日の金価格に関する市場コメンタリー。来週の金価格にボラティリティの増加が見込まれると報じられている。具体的な価格数値や変動要因は明記されていない。"
-  },
-  {
-    "title": "2026年7月27日朝の金価格：SJC金価格、9999金リング価格、および週初めの世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-07-26T22:08:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC金・9999金リング）と世界金価格の週初の報道。定期的な価格情報の提供で、特定の市場イベントではない。"
-  },
-  {
-    "title": "国際原油価格「紅海ショック」…韓国、下半期「物価3％死守」に全力（中央日報日本語版） - Yahoo!ニュース",
-    "timestamp": "2026-07-26T22:06:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "紅海情勢不安により国際原油価格が上昇圧力を受けている。韓国は下半期のインフレ目標3%達成に向けて対応に全力で取り組む方針。既報の地政学的リスク要因に対する各国の政策的対応の報道。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4052ドル｜米長期金利の低下が影響した模様(2026年7月27日) - OANDA証券",
     "timestamp": "2026-07-26T23:05:27+00:00",
     "importance": 3,
@@ -132,17 +99,6 @@
     "summary": "株式ファンドのパフォーマンス比較に関する解説記事。NYダウ参照アクティブファンドがS&P500参照ファンドを上回る。金価格の上昇がポラリス（おそらく金関連ファンド）の相対的パフォーマンスを低下させている。"
   },
   {
-    "title": "金価格が年初から約30%下落も…各国の中央銀行の需要は旺盛、再上昇へ期待大 - au Webポータル",
-    "timestamp": "2026-07-26T22:10:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "年初から約30%下落した金価格だが、各国中央銀行の堅調な需要が支えている。中央銀行の買い需要が相場の下支え要因となっており、再上昇への期待が高まっている。"
-  },
-  {
     "title": "2026年7月27日現在の金価格の予測は？上昇するでしょうか、それとも下落するでしょうか？ - Vietnam.vn",
     "timestamp": "2026-07-27T01:07:20+00:00",
     "importance": 1,
@@ -152,17 +108,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "2026年7月27日時点の金価格に関する予測記事。アナリストの見解や相場見通しを扱うコメンタリー。具体的な予測方向は記事本文がないため判断困難。"
-  },
-  {
-    "title": "株式ファンドは「S&P500」より「NYダウ」参照のアクティブが上位に。「ポラリス」は金価格の影響で失速 - Finasee",
-    "timestamp": "2026-07-26T22:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "株式ファンドのパフォーマンス比較記事。NYダウ参照のアクティブファンドがS&P500参照より上位。ポラリス（金連動型と推定）は金価格下落の影響を受けている。"
   },
   {
     "title": "7月27日朝の金価格更新:下落の危機に直面 - Laodong.vn",
@@ -185,17 +130,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米イラン間の地政学的緊張が緩和される見通しにより、金価格が上昇。リスクオフ環境の改善を反映した値動き。既報の緊張緩和トレンドの継続報道。"
-  },
-  {
-    "title": "国際原油価格「紅海ショック」…韓国、下半期「物価3％死守」に全力 - 中央日報",
-    "timestamp": "2026-07-26T21:49:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "紅海情勢による原油供給リスク懸念が継続。韓国が物価3％達成に向けて政策対応を強化。既知の地政学的リスク要因の継続報道。"
   },
   {
     "title": "国際原油が6％急落！トランプ氏がイラン空爆を停止、中東緊張が急激に緩和 - BigGo ファイナンス",
@@ -2143,5 +2077,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ニューヨーク原油先物が4日ぶりに反発。具体的な供給・需要情報を欠く相場の技術的な反発と考えられる。短期的なボラティリティの範囲内の動き。"
+  },
+  {
+    "title": "2026年7月30日午前5時時点の金価格：SJC金、9999金リング、および世界の金価格に関する最新情報。 - Vietnam.vn",
+    "timestamp": "2026-07-29T22:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の定期的な価格情報提供ニュース。時間帯別の相場データを報道したもので、新規の市場材料は含まれていない。"
+  },
+  {
+    "title": "NYダウ1100ドル超安 インフレ対応懸念や原油価格の上昇を受け - 朝日新聞",
+    "timestamp": "2026-07-29T21:45:57+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが1100ドル超下落。インフレ対応懸念と原油価格上昇が売り圧力に。原油高はコモディティ市場ではポジティブ要因だが、株価下落はリスク資産全般の売却圧力を示唆。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、銀が上昇 金、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-29T22:25:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場でエネルギー（原油、ガソリン、天然ガス）と銀が上昇する一方、貴金属（金）、工業金属（銅）、農産物（トウモロコシ、小麦、大豆）が下落した。相反する動きが見られている。"
   }
 ]
