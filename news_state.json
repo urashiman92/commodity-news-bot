@@ -1,82 +1,5 @@
 [
   {
-    "title": "金価格は重要な一週間を迎える。 - Vietnam.vn",
-    "timestamp": "2026-07-26T04:34:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が重要な一週間を迎えるとの報道。具体的なイベントや指標が明示されていない。市場参加者の注目度の高さを示唆するコメンタリー。"
-  },
-  {
-    "title": "先週の金価格：4000ドルの水準を崩した後、FRB会合を前に回復した。 - Vietnam.vn",
-    "timestamp": "2026-07-26T04:34:31+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は先週4000ドルを割った後、FRB会合を控えて回復した。金利低下期待が相場を支援。FRB政策決定が今後のドル・金相場の重要なカタリスト。"
-  },
-  {
-    "title": "本日（7月26日）の金価格：シンプルな金の指輪はわずかに上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-26T04:18:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金の指輪価格がわずかに上昇したとの報道。市場全体への影響は限定的で、主にローカル相場の日々の値動きの報告。"
-  },
-  {
-    "title": "金価格は引き続き下落傾向にある。 - Vietnam.vn",
-    "timestamp": "2026-07-26T07:15:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が引き続き下落傾向にあるとの報道。既に進行中のトレンドについての事後的な解説記事。"
-  },
-  {
-    "title": "金価格はピークから1テールあたり約5000万ドン下落したが、1年後に依然として上昇 - Laodong.vn",
-    "timestamp": "2026-07-26T06:59:14+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格はピークから約5000万ドン/テール下落したが、1年ベースでは依然として上昇基調にある。短期的な調整局面にあるものの、中長期的には堅調なトレンドが継続している状況。"
-  },
-  {
-    "title": "2026年7月26日午後の金価格（9999）：SJC金価格、BTMC金リング、フークイ金価格は週末に終了します。 - Vietnam.vn",
-    "timestamp": "2026-07-26T07:07:08+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格に関する定期的な相場情報報道。SJC、BTMC、フークイなど国内主要市場の金価格を週末時点で報告しているもの。"
-  },
-  {
-    "title": "中国の石油需要は原油価格を下支えできるか 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-26T05:32:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中国の石油需要が原油価格の下支え要因となるかを問う解説記事。中国経済の回復状況と石油需要の相関性が焦点。具体的な需要データや価格予想は記事内容に依存。"
-  },
-  {
     "title": "2026年7月26日午後の金価格：SJC金価格、9999金リング価格、および週末の世界金価格。 - Vietnam.vn",
     "timestamp": "2026-07-26T09:37:58+00:00",
     "importance": 1,
@@ -2044,5 +1967,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジアラムコがアジア向け原油価格を引き上げる見通し。輸出ルート変更に伴う価格調整。供給継続を示す前向きシグナル。"
+  },
+  {
+    "title": "小麦粉価格を談合した国内製粉業者7社を相手に、首都圏の中華料理店が損害賠償訴訟を起こした。 談合による原材料価格の引き上げで食堂運営に被害を受けたという主張だ。法務法人LKB平山（ピョンサン）は29日.. - 매일경제",
+    "timestamp": "2026-07-29T05:49:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "韓国の製粉業者7社による小麦粉価格談合事件で、中華料理店が損害賠償訴訟を提起。談合により原材料価格が引き上げられ、飲食店経営に被害が発生。"
+  },
+  {
+    "title": "国内金先物は下げ渋り、NY連動もFRB利上げ観測が重荷 原油は堅調 - BigGo ファイナンス",
+    "timestamp": "2026-07-29T03:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "国内金先物は下げ渋る展開。FRB利上げ観測がNY金を重荷としている一方、原油は堅調に推移。金は金利上昇への懸念から上値が限定的。"
+  },
+  {
+    "title": "今後の金価格に関する予想外の予測。 - Vietnam.vn",
+    "timestamp": "2026-07-29T04:35:38+00:00",
+    "importance": 1,
+    "direction": "unknown",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムメディアによる金価格予測に関する記事。具体的な予測内容や根拠が不明であり、詳細情報なしに判断困難。"
+  },
+  {
+    "title": "【FRB金利発表直前】ドル堅調で金価格は1週間ぶり安値、地政学リスク後退も重し - BigGo ファイナンス",
+    "timestamp": "2026-07-28T23:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル堅調がドル建て金の下押し要因となり、金価格は1週間ぶりの安値を記録。地政学リスク後退も金需要を圧迫。FRB金利発表を控え、市場は慎重姿勢。"
+  },
+  {
+    "title": "金価格は下落を続け、中央為替レートは過去最高値を更新した。 - Vietnam.vn",
+    "timestamp": "2026-07-29T02:36:57+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が下落傾向にあり、中央為替レートが過去最高値を更新したとの報道。地域的なニュースで、グローバルな金市場への直接的な影響は限定的と考えられる。"
+  },
+  {
+    "title": "米国とイランの和平合意への「楽観論」が再燃し、原油価格が急落 - Business Insider Japan",
+    "timestamp": "2026-07-29T02:44:11+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの和平合意への楽観論が再燃し、原油価格が急落した。地政学的リスク低下による供給懸念の軽減が価格下押し要因となっている。市場は既に類似報道で織り込み済みの可能性が高い。"
+  },
+  {
+    "title": "原油先物が急反発、2ドル超高　米在庫縮小の見通しで - ｄメニューニュース",
+    "timestamp": "2026-07-29T01:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の原油在庫縮小見通しを受けて、原油先物が2ドル超の急反発を記録した。供給減少の期待が買い圧力をもたらしたもの。"
+  },
+  {
+    "title": "米コモディティー市場－ガソリン、トウモロコシ、小麦、大豆が上昇 原油、天然ガス、金、銀、銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-28T22:25:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティー市場で農産物（ガソリン、トウモロコシ、小麦、大豆）が上昇する一方、エネルギー・貴金属（原油、天然ガス、金、銀、銅）が下落した。市場内での値動き分散が見られている。"
   }
 ]
