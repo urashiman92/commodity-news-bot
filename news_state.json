@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日7月26日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-07-26T14:56:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月26日の金価格が大幅に下落し、買い手に損失が発生した。ベトナム市場での価格動向についての報道。具体的な下落率や背景原因は明記されていない。"
-  },
-  {
-    "title": "本日2026年7月27日の金価格は、FRBの会合を控えて変動しており、米国のインフレ率が今後の方向性を左右するだろう。専門家は依然として慎重な姿勢を崩していない。 - Vietnam.vn",
-    "timestamp": "2026-07-26T14:54:56+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB会合を控え、金価格が変動局面にある。米国のインフレ率が今後の価格方向を決定する重要な要因となる見通し。市場専門家は現在のところ慎重な見方を継続している。"
-  },
-  {
     "title": "24金価格が最高値に達し、40万ベトナムドンからの価格帯で販売される独創的なデザインの記念金製品が、テト（旧正月）期間中に顧客を惹きつけている。 - Vietnam.vn",
     "timestamp": "2026-07-26T18:54:25+00:00",
     "importance": 2,
@@ -2066,5 +2044,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "7月29日のブレント原油先物が4.13%上昇した。具体的なニュースソースや背景要因が明記されていない。相場の振り返り・解説記事と見られる。"
+  },
+  {
+    "title": "黒海の輸出混乱を受け、小麦先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-29T13:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海からの穀物輸出に混乱が生じたことを受け、小麦先物価格が上昇。黒海地域はグローバル小麦供給の重要な拠点であり、輸出障害は国際相場に直結する要因となっている。"
+  },
+  {
+    "title": "USX730.13でのレジスタンステスト：カンザスシティ小麦価格はブレイクアウトできるか？ - Traders Union",
+    "timestamp": "2026-07-29T12:25:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦がUSX730.13のレジスタンスレベルをテストしている状況についての技術分析コメンタリー。ブレイクアウトの可能性を検討した相場観察記事。"
+  },
+  {
+    "title": "中東情勢が急変、トランプ氏がイランへの「痛撃」示唆 国際原油価格が7%超急騰 - BigGo ファイナンス",
+    "timestamp": "2026-07-29T14:56:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイランへの軍事的圧力を示唆し、中東情勢が緊迫化。これに応じて国際原油価格が7%超上昇した。イランは主要な石油供給国であり、地政学的リスクの再燃が市場に大きな影響を与えた。"
+  },
+  {
+    "title": "NY外為：ドル上値限定的、FOMCで金利据え置き織り込む、NY原油先物は続伸 - ｄメニューニュース",
+    "timestamp": "2026-07-29T14:47:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "FOMCで金利据え置きが織り込まれドル上値が限定的となる中、NY原油先物は続伸。金利据え置きによるドル弱含みが原油買い材料となった。"
+  },
+  {
+    "title": "米国の天気予報改善を受けてトウモロコシ価格が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-29T13:12:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米国の天気予報が改善され、トウモロコシの生育状況への懸念が後退。供給懸念の緩和によりトウモロコシ先物が売られた。季節的な天気改善による需給緩和は市場の既定路線。"
+  },
+  {
+    "title": "米国産トウモロコシの優良率、週間で4ポイント急落し3年ぶりの大幅悪化 穀物インフレ警報が鳴り響く - BigGo ファイナンス",
+    "timestamp": "2026-07-29T12:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米国産トウモロコシの優良率が週間で4ポイント急落し、3年ぶりの大幅悪化を記録した。作柄悪化は供給懸念を生み、穀物価格の上昇圧力となる。インフレリスク警告が市場に広がっている。"
+  },
+  {
+    "title": "大豆相場、8月の中西部降雨予報を受けて下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-29T13:13:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "8月の中西部における降雨予報が報じられ、大豆相場が下落した。降雨は作物生育に好材料となり、供給懸念の緩和につながった。相場下押し圧力が生じている。"
   }
 ]
