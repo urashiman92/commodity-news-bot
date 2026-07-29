@@ -22,17 +22,6 @@
     "summary": "FRB会合を控え、金価格が変動局面にある。米国のインフレ率が今後の価格方向を決定する重要な要因となる見通し。市場専門家は現在のところ慎重な見方を継続している。"
   },
   {
-    "title": "アントムの金価格はグラムあたり264万ルピアに上昇 - VOI.ID",
-    "timestamp": "2026-07-26T14:16:25+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアの金小売価格がグラムあたり264万ルピアに上昇。ローカル市場の日次価格情報で、グローバルな金価格トレンドの追従と考えられる。"
-  },
-  {
     "title": "24金価格が最高値に達し、40万ベトナムドンからの価格帯で販売される独創的なデザインの記念金製品が、テト（旧正月）期間中に顧客を惹きつけている。 - Vietnam.vn",
     "timestamp": "2026-07-26T18:54:25+00:00",
     "importance": 2,
@@ -273,17 +262,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイラン空爆を停止し、中東地政学リスクが急速に緩和。国際原油が6%の急落を記録。供給途絶懸念が後退し、リスクプレミアムが急速に剥落。"
-  },
-  {
-    "title": "ブレント原油先物 (UKOIL-F) は7月26日に下降 6.53%：市場は再評価しているのか？ - TradingKey",
-    "timestamp": "2026-07-26T13:20:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油先物が7月26日に6.53%下落した。市場が原油相場を再評価している可能性があるとの指摘。具体的なファンダメンタルズ要因や供給・需要変化の詳細は記事からは不明。"
   },
   {
     "title": "２４日の主要国際商品市況 - ライブドアニュース",
@@ -2055,5 +2033,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属の株価分析記事。IPO後の急騰を背景にチャート・業績・銅価格から投資戦略を解説。コモディティ銅価格との連動性を探る内容。"
+  },
+  {
+    "title": "2026年8月の金価格予測：弱気相場かサイクル底か - BeInCrypto",
+    "timestamp": "2026-07-29T13:23:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月の金価格について、弱気相場とサイクル底のシナリオを分析したコメンタリー記事。具体的な価格予測値や根拠が不明。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-07-29T14:14:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の価格表示に関する記事。具体的なニュース内容が不明確であり、市場動向についての実質的な情報を含まない。"
+  },
+  {
+    "title": "ブレント原油先物 (UKOIL-F) は7月29日に上昇 4.13%：注目すべき情報 - TradingKey",
+    "timestamp": "2026-07-29T04:11:07+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月29日のブレント原油先物が4.13%上昇した。具体的なニュースソースや背景要因が明記されていない。相場の振り返り・解説記事と見られる。"
   }
 ]
