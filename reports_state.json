@@ -603,5 +603,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が上昇トレンドを見せる中、原油相場の堅調さがポジティブ要因として機能している一方で、半導体セクターの売却圧力がコモディティ市場全体の上昇を部分的にオフセットしている。原油と株式の相関構造が市場心理を二分している局面。"
+  },
+  {
+    "title": "Arable Market Report – 27 July 2026 - AHDB",
+    "timestamp": "2026-07-27T14:47:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "AHDBによる2026年7月27日付の穀物市場レポート。定期的な耕作地市場の需給動向と価格見通しを提供するものと推定。具体的な生産量・在庫・価格データについては、リンク先の実データ確認が必要。"
+  },
+  {
+    "title": "Arable Market Report – 27 July 2026 - AHDB",
+    "timestamp": "2026-07-27T14:47:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "AHDBによる2026年7月27日付の穀物市場レポート。定期的な耕作地市場の需給動向と価格見通しを提供するものと推定。具体的な生産量・在庫・価格データについては、リンク先の実データ確認が必要。"
+  },
+  {
+    "title": "Arable Market Report – 27 July 2026 - AHDB",
+    "timestamp": "2026-07-27T14:47:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "AHDBによる2026年7月27日付の穀物市場レポート。定期的な耕作地市場の需給動向と価格見通しを提供するものと推定。具体的な生産量・在庫・価格データについては、リンク先の実データ確認が必要。"
+  },
+  {
+    "title": "Militias in Iraq Attack Saudi Oil Facilities for a Second Day - Bloomberg",
+    "timestamp": "2026-07-28T21:51:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラクの民兵勢力がサウジアラビアの石油施設に対し2日連続で攻撃を実施。中東における主要産油国への直接的な供給ショック懸念が浮上。地政学的緊張の高まりにより、原油市場は供給途絶リスクに敏感に反応する可能性が高い。"
   }
 ]
