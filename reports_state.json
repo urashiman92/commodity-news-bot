@@ -834,5 +834,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国とサウジアラビアのコンソーシアムが湾岸地域に50億ドルの製油所建設計画を進めている。既報のプロジェクト続報であり、具体的な完成時期や稼働開始時期の明記がないため、市場への直接的なインパクトは限定的。製油能力の増強は中期的な原油需要に中立的に作用する可能性がある。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-07-29T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "コモディティ全般",
+    "summary": "FRB金融政策委員会（FOMC）が定例声明を発表。声明の具体的な内容が提供されていないため、金利見通し・インフレ評価・経済見通しの詳細が不明。金融引き締めシナリオであれば金や原油に下落圧力、金利据え置きなら相対的に金の下支え要因となる可能性。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-07-29T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "金",
+    "summary": "FRB金融政策委員会（FOMC）が定例声明を発表。声明の具体的な内容が提供されていないため、金利見通し・インフレ評価・経済見通しの詳細が不明。金融引き締めシナリオであれば金や原油に下落圧力、金利据え置きなら相対的に金の下支え要因となる可能性。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-07-29T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "原油",
+    "summary": "FRB金融政策委員会（FOMC）が定例声明を発表。声明の具体的な内容が提供されていないため、金利見通し・インフレ評価・経済見通しの詳細が不明。金融引き締めシナリオであれば金や原油に下落圧力、金利据え置きなら相対的に金の下支え要因となる可能性。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-07-29T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "銅",
+    "summary": "FRB金融政策委員会（FOMC）が定例声明を発表。声明の具体的な内容が提供されていないため、金利見通し・インフレ評価・経済見通しの詳細が不明。金融引き締めシナリオであれば金や原油に下落圧力、金利据え置きなら相対的に金の下支え要因となる可能性。"
+  },
+  {
+    "title": "Local basis strength could yield maximum profits on stored grain — but be ready - Michigan Farm News",
+    "timestamp": "2026-07-29T18:39:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "ミシガン州の穀物貯蔵農家向けレポート。ローカルベーシスの強化により保管穀物から最大利益を得る機会が存在するが、市場変動に備えた準備が必要であることを指摘。保管穀物の販売戦略が重要な局面にあることを強調。"
+  },
+  {
+    "title": "Local basis strength could yield maximum profits on stored grain — but be ready - Michigan Farm News",
+    "timestamp": "2026-07-29T18:39:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "ミシガン州の穀物貯蔵農家向けレポート。ローカルベーシスの強化により保管穀物から最大利益を得る機会が存在するが、市場変動に備えた準備が必要であることを指摘。保管穀物の販売戦略が重要な局面にあることを強調。"
+  },
+  {
+    "title": "Local basis strength could yield maximum profits on stored grain — but be ready - Michigan Farm News",
+    "timestamp": "2026-07-29T18:39:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "ミシガン州の穀物貯蔵農家向けレポート。ローカルベーシスの強化により保管穀物から最大利益を得る機会が存在するが、市場変動に備えた準備が必要であることを指摘。保管穀物の販売戦略が重要な局面にあることを強調。"
   }
 ]
