@@ -1,27 +1,5 @@
 [
   {
-    "title": "黒海の穀物輸出港が被害を免れ、欧州小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-27T16:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海の主要穀物輸出港が被害を免れたことが報じられた。供給途絶の懸念が後退し、欧州小麦先物が下落。地政学リスクの緩和が価格を押し下げている。"
-  },
-  {
-    "title": "ユーロ圏の国債利回り低下、原油価格の下落を受け 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-27T16:34:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の下落がユーロ圏国債利回り低下をもたらした。インフレ圧力の緩和がリスク資産から安全資産への資金流入を促進。エネルギー価格と金融市場の相互作用が示唆されている。"
-  },
-  {
     "title": "金相場、4,100ドル台で膠着 ベトナム国内価格との差が1,300万ドン近くに拡大 - BigGo ファイナンス",
     "timestamp": "2026-07-27T18:16:00+00:00",
     "importance": 2,
@@ -2011,5 +1989,27 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ先物が448.570で+1.000（+0.22%）の小幅上昇。具体的なニュース内容や背景が不明で、単なる相場配信データの報告に過ぎない。"
+  },
+  {
+    "title": "金価格は調整局面も、金の需要は底堅く推移 - ニコニコニュース",
+    "timestamp": "2026-07-30T16:18:15+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は現在調整局面にあるものの、需要は堅調に推移している。価格下押し圧力がある中でも、実需ベースでのサポートが存在することを示唆。"
+  },
+  {
+    "title": "【金価格ディリーレポート】金価格、19年ぶり高水準の米長期国債利回りへの懸念の中、市場のFRB見通し修正で底堅く推移 - ブリオンボールト",
+    "timestamp": "2026-07-30T05:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米長期国債利回りが19年ぶり高水準となる中、金価格は底堅く推移。市場がFRB（米連邦準備制度理事会）の金融政策見通しを修正し、金の買い需要が支えている状況。"
   }
 ]
