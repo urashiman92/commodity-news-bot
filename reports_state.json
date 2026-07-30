@@ -154,28 +154,6 @@
     "summary": "イラン紛争の一時休止を受けて原油価格が大幅に下落。地政学的リスク低下により、供給途絶懸念が後退。米国株が買いを浴び、リスク資産全般が反発。原油下落はインフレ圧力緩和を意味し、市場全体のリスクセンチメントが改善。"
   },
   {
-    "title": "USDA Crop Progress: Corn Rated 63% Good to Excellent; Soybeans 63% Good to Excellent as of July 26 - DTN Progressive Farmer",
-    "timestamp": "2026-07-27T08:47:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress報告により、2024年7月26日時点でトウモロコシと大豆の作況が共に63%の好適～優良評価となった。両作物ともほぼ同水準の作況評価であり、市場予想の範囲内の進捗状況を示している。北米での通常的な夏期生育段階の報告値と判断される。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Rated 63% Good to Excellent; Soybeans 63% Good to Excellent as of July 26 - DTN Progressive Farmer",
-    "timestamp": "2026-07-27T08:47:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress報告により、2024年7月26日時点でトウモロコシと大豆の作況が共に63%の好適～優良評価となった。両作物ともほぼ同水準の作況評価であり、市場予想の範囲内の進捗状況を示している。北米での通常的な夏期生育段階の報告値と判断される。"
-  },
-  {
     "title": "TRADING DAY Oil plunges, stocks 'n' bonds shrug - Reuters",
     "timestamp": "2026-07-27T21:10:09+00:00",
     "importance": 2,
@@ -605,17 +583,6 @@
     "summary": "7月のUSDAレポート発表によりトウモロコシと大豆先物が上昇した。WASDEは米国の穀物供給見通しに関する定期的な公式統計であり、市場が価格を調整。具体的な数値については本文に記載されていないため詳細は不明。"
   },
   {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-07-27T06:57:31+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストのBoussoが、ホルムズ海峡の再開通がOPECの減産戦略を無効化する可能性を指摘。地政学的リスク低下に伴う供給増加圧力が、OPEC+の市場支配力を脅かす可能性がある。原油相場の下向きリスク要因として注視。"
-  },
-  {
     "title": "Saudi Arabia’s January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com",
     "timestamp": "2026-07-28T23:20:31+00:00",
     "importance": 3,
@@ -977,5 +944,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金価格が軟調となった。米国10年物財務省債（Treasury）利回りの上昇が金の下押し圧力となり、Warsh氏のインフレメッセージへの焦点が相殺された。金利上昇は無利子資産である金の機会費用を高め、投資家の需要を減じさせる要因として機能している。"
+  },
+  {
+    "title": "Iowa dairy margins tighten as inventories shrink and production increases - The Cattle Site",
+    "timestamp": "2026-07-28T00:30:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "アイオワ州の乳製品マージンが圧縮されている。在庫減少と生産増加が同時に進行する矛盾した状況が発生。飼料穀物（トウモロコシ・大豆粕）価格と乳製品価格の乖離が酪農家の収益性を低下させている。"
+  },
+  {
+    "title": "Iowa dairy margins tighten as inventories shrink and production increases - The Cattle Site",
+    "timestamp": "2026-07-28T00:30:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "アイオワ州の乳製品マージンが圧縮されている。在庫減少と生産増加が同時に進行する矛盾した状況が発生。飼料穀物（トウモロコシ・大豆粕）価格と乳製品価格の乖離が酪農家の収益性を低下させている。"
+  },
+  {
+    "title": "Iowa dairy margins tighten as inventories shrink and production increases - The Cattle Site",
+    "timestamp": "2026-07-28T00:30:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "アイオワ州の乳製品マージンが圧縮されている。在庫減少と生産増加が同時に進行する矛盾した状況が発生。飼料穀物（トウモロコシ・大豆粕）価格と乳製品価格の乖離が酪農家の収益性を低下させている。"
+  },
+  {
+    "title": "OPEC+ Eyes Pause in Oil Output Hikes After September - Egypt Oil & Gas",
+    "timestamp": "2026-07-29T07:34:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月以降の石油増産ペースを一時停止する可能性を検討していると報じられた。既に実施中の段階的な増産計画の継続ではなく、増産ペースを緩めるシグナルは、供給面での引き締め継続姿勢を示唆しており、原油価格の下値支持に作用する見込み。"
   }
 ]
