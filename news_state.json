@@ -1,27 +1,5 @@
 [
   {
-    "title": "ラオプ・ゴールド、金相場安で増益ペース鈍化の見通し - FashionNetwork France",
-    "timestamp": "2026-07-27T11:36:36+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ラオプ・ゴールドが金相場の下落により増益ペースの鈍化見通しを発表。金価格低迷が鉱山企業の利益拡大に逆風となる状況。"
-  },
-  {
-    "title": "新規材料乏しくドル売りにやや調整入る 原油相場は一段安 ドル円１６３円台半ば＝ロンドン為替概況 - みんかぶ FX/為替",
-    "timestamp": "2026-07-27T11:00:40+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル売りの調整局面により、ドル建て商品である原油相場が一段安となった。新規材料の乏しさから相場は方向感を欠いている。ドル円は163円台半ばで推移。"
-  },
-  {
     "title": "CBOTの小麦先物、利益確定売りで下落して始まる見通し 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-27T13:21:00+00:00",
     "importance": 2,
@@ -44,17 +22,6 @@
     "summary": "金価格は上昇したが、市場の勢いは弱い状態が続いている。アナリストが投資家向けに保有量の最適化について言及している。既に織り込まれた値動きの継続。"
   },
   {
-    "title": "米イランが3夜連続で攻撃控える－原油価格下落、株と債券は上昇 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-07-27T11:52:32+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランが3夜連続で報復攻撃を控え、地政学的緊張が緩和。中東紛争激化リスクが一時的に後退し、原油供給途絶の懸念が減少。リスク選好の回復で株債も上昇。"
-  },
-  {
     "title": "NY市場動向（午前10時台）：ダウ194ドル高、原油先物5.71ドル安｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-07-27T14:58:00+00:00",
     "importance": 2,
@@ -75,28 +42,6 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "大豆相場が利益確定売りと原油安により下落。技術的な調整局面と見られる。エネルギー価格の軟化が農産物価格にも波及している。"
-  },
-  {
-    "title": "金価格が下落しています。今が底値で買うべきでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-07-27T11:02:24+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が下落している状況についての解説記事。投資家向けの買い場検討に関するコメンタリー。具体的な価格データや下落要因の明記がない。"
-  },
-  {
-    "title": "原油価格急落も.. 代替に限界 「110ドル」まで再上昇も？ - テレ東BIZ",
-    "timestamp": "2026-07-27T12:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格は一時急落したが、再生可能エネルギーへの転換には限界がある。供給制約要因により110ドル水準への再上昇シナリオが指摘されている。"
   },
   {
     "title": "ゴールドマン・サックス、原油価格の変動拡大でマクロリスクの高まりを警告 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2099,5 +2044,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の悪化により原油先物価格が高騰し、これを受けて米国株式市場（ダウ平均）が1100ドルを超える下落を記録した。エネルギーセクターへの懸念と経済全体への原油高の悪影響が売却圧力をもたらした。"
+  },
+  {
+    "title": "$金先物(2612) (GCmain.US)$ - Moomoo",
+    "timestamp": "2026-07-30T10:46:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物の取引画面表示のみで、具体的なニュース内容が不明。市場動向や統計発表に関する情報がない。"
+  },
+  {
+    "title": "CME Group（CME）が金先物の24時間365日取引を開始 初週末は約15,000枚成立 - simplywall.st",
+    "timestamp": "2026-07-30T09:30:50+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "CME Groupが金先物の24時間365日取引を開始した。初週末は約15,000枚の成立があり、市場の流動性向上が期待される。取引時間の拡大により、グローバル投資家のアクセスが改善される。"
+  },
+  {
+    "title": "2026年7月30日午後の金価格：SJC金価格、9999金リング価格、および木曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-07-30T09:36:17+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報の定期報告。SJC金価格と世界金価格の相場情報を掲載した記事。市場分析ではなく単なる相場情報の提供。"
+  },
+  {
+    "title": "いまさら「10万円分の金（ゴールド）」を買おうとする友人。「2万3000円に下がった今が買い時」と言いますが、今後は“下がっていくだけ”ではないのですか？ 金価格は本当に「暴落している」のか解説（ファイナンシャルフィールド） - Yahoo!ニュース",
+    "timestamp": "2026-07-30T11:20:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2万3000円付近まで下落した中、買い時かどうかを解説する記事。投資家心理と市場サイクルに関する一般的な考察で、具体的な新規材料は含まない。"
   }
 ]
