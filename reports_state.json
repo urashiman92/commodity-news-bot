@@ -1,27 +1,5 @@
 [
   {
-    "title": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters",
-    "timestamp": "2026-07-27T00:08:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海でフーシ派によるサウジアラビア攻撃後、海運活動が減速。紅海はスエズ運河を経由する全球コモディティ輸送の主要ルートであり、同地域の地政学的緊張は原油・天然ガス・穀物など複数品目の海上輸送コストと納期リスクを大幅に上昇させる。原油市場は供給途絶懸念とリスク・プレミアムの急速な織り込みが見込まれる。"
-  },
-  {
-    "title": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters",
-    "timestamp": "2026-07-27T00:08:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "紅海でフーシ派によるサウジアラビア攻撃後、海運活動が減速。紅海はスエズ運河を経由する全球コモディティ輸送の主要ルートであり、同地域の地政学的緊張は原油・天然ガス・穀物など複数品目の海上輸送コストと納期リスクを大幅に上昇させる。原油市場は供給途絶懸念とリスク・プレミアムの急速な織り込みが見込まれる。"
-  },
-  {
     "title": "Satellites Show Tank Fire at Saudi Oil Plant Jazan After Attack - Bloomberg.com",
     "timestamp": "2026-07-27T12:38:07+00:00",
     "importance": 4,
@@ -911,5 +889,16 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "ミシガン州の穀物貯蔵農家向けレポート。ローカルベーシスの強化により保管穀物から最大利益を得る機会が存在するが、市場変動に備えた準備が必要であることを指摘。保管穀物の販売戦略が重要な局面にあることを強調。"
+  },
+  {
+    "title": "EIA: US commercial and SPR crude stocks slump 11m bbls - Quantum Commodity Intelligence",
+    "timestamp": "2026-07-29T15:59:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の商業備蓄とSPR（戦略石油備蓄）が合計1,100万バレル（11m bbls）の大幅な減少を記録した。EIAの定期在庫統計による発表で、供給逼迫感を示唆する数字。事前の市場予想との比較なしに評価困難だが、大幅な減少は原油価格上昇要因。"
   }
 ]
