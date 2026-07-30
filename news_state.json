@@ -1,38 +1,5 @@
 [
   {
-    "title": "2026年7月28日、金価格は再び上昇したが、市場には依然として勢いが欠けている。投資家は損失を避けるために、どれくらいの量の金を保有すべきだろうか？ - Vietnam.vn",
-    "timestamp": "2026-07-27T14:43:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は上昇したが、市場の勢いは弱い状態が続いている。アナリストが投資家向けに保有量の最適化について言及している。既に織り込まれた値動きの継続。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ194ドル高、原油先物5.71ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-07-27T14:58:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前の取引で原油先物が5.71ドル安で推移。同時にダウ平均は194ドル高。市場全体では需要見通しの悲観や利益確定売りの影響か。"
-  },
-  {
-    "title": "ゴールドマン・サックス、原油価格の変動拡大でマクロリスクの高まりを警告 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-27T16:08:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ゴールドマン・サックスが原油価格のボラティリティ拡大に警告を発表。マクロリスク環境の高まりを指摘し、価格変動リスクが増加している状況を強調。"
-  },
-  {
     "title": "黒海の穀物輸出港が被害を免れ、欧州小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-27T16:35:00+00:00",
     "importance": 3,
@@ -119,17 +86,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの国内金価格が7月28日も上昇を続けている。地域の相場動向を報じた記事で、引き続き堅調な推移を示唆。"
-  },
-  {
-    "title": "金価格は本日7月27日、大幅な上昇で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-07-27T15:58:30+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月27日の金取引で大幅な上昇を記録。具体的な上昇率や要因についての詳細情報が不足している。"
   },
   {
     "title": "原油先物1週間超ぶり安値、米が対イラン攻撃停止 ホルムズ再開に期待（ロイター） - Yahoo!ニュース",
@@ -614,17 +570,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国によるイラン攻撃が見送られるとの観測から、地政学的リスク低減期待で原油価格が下落。INPEX等石油関連銘柄も連動して続落している。"
-  },
-  {
-    "title": "シティは、供給面での逼迫を理由に、銅価格の強気な目標価格を維持している - TradingView",
-    "timestamp": "2026-07-27T14:55:42+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "シティが銅の強気な目標価格を維持。供給逼迫が主な根拠。電気自動車や再生可能エネルギー需要の拡大が背景にある。"
   },
   {
     "title": "高麗亜鉛2Q営業益6000億ウォン接近 亜鉛銅高とウォン安が下支え - CHOSUNBIZ - Chosunbiz",
@@ -2044,5 +1989,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が2万3000円付近まで下落した中、買い時かどうかを解説する記事。投資家心理と市場サイクルに関する一般的な考察で、具体的な新規材料は含まない。"
+  },
+  {
+    "title": "アントアンの金価格は9,000ルピア下落、チェックリストはこちら - VOI.ID",
+    "timestamp": "2026-07-30T11:22:16+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金価格が9,000ルピア下落したとのニュース。地域的な価格変動の報道で、グローバルな金市場への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "CORN-F|トウモロコシ先物|株価:448.570|変動率:+1.000 - TradingKey",
+    "timestamp": "2026-07-30T06:55:47+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物が448.570で+1.000（+0.22%）の小幅上昇。具体的なニュース内容や背景が不明で、単なる相場配信データの報告に過ぎない。"
   }
 ]
