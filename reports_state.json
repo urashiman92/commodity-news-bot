@@ -11,39 +11,6 @@
     "summary": "サウジアラビアのジャザン石油施設でタンク火災が発生。衛星画像により攻撃後の火災が確認された。同施設は主要な石油処理・貯蔵拠点であり、サプライチェーン寸断のリスクが高い。中東の地政学的緊張を反映した供給ショック。"
   },
   {
-    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
-    "timestamp": "2026-07-27T11:12:22+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン紛争の一時休止によって地政学的リスク低下への見方が広がり、原油価格は大幅に下落。リスク回避姿勢が緩和される中、米国株が買われた。一方、安全資産である金はリスク低下で下押し圧力を受ける可能性がある。中東緊張の緩和がコモディティ市場全体で売り優先となっている。"
-  },
-  {
-    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
-    "timestamp": "2026-07-27T11:12:22+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "イラン紛争の一時休止によって地政学的リスク低下への見方が広がり、原油価格は大幅に下落。リスク回避姿勢が緩和される中、米国株が買われた。一方、安全資産である金はリスク低下で下押し圧力を受ける可能性がある。中東緊張の緩和がコモディティ市場全体で売り優先となっている。"
-  },
-  {
-    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
-    "timestamp": "2026-07-27T11:12:22+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イラン紛争の一時休止によって地政学的リスク低下への見方が広がり、原油価格は大幅に下落。リスク回避姿勢が緩和される中、米国株が買われた。一方、安全資産である金はリスク低下で下押し圧力を受ける可能性がある。中東緊張の緩和がコモディティ市場全体で売り優先となっている。"
-  },
-  {
     "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 27, 2026 - RFD-TV",
     "timestamp": "2026-07-27T14:38:50+00:00",
     "importance": 1,
@@ -130,28 +97,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "フランス・イギリス系石油企業のコンゴ操業に関連する汚染が健康リスクをもたらしているとの報告。環境・社会リスク（ESG）への懸念が高まり、同企業の評判悪化につながる可能性。ただし原油市場全体への直接的な供給インパクトは限定的。"
-  },
-  {
-    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg",
-    "timestamp": "2026-07-27T11:12:22+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン紛争の一時休止を受けて原油価格が大幅に下落。地政学的リスク低下により、供給途絶懸念が後退。米国株が買いを浴び、リスク資産全般が反発。原油下落はインフレ圧力緩和を意味し、市場全体のリスクセンチメントが改善。"
-  },
-  {
-    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg",
-    "timestamp": "2026-07-27T11:12:22+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イラン紛争の一時休止を受けて原油価格が大幅に下落。地政学的リスク低下により、供給途絶懸念が後退。米国株が買いを浴び、リスク資産全般が反発。原油下落はインフレ圧力緩和を意味し、市場全体のリスクセンチメントが改善。"
   },
   {
     "title": "TRADING DAY Oil plunges, stocks 'n' bonds shrug - Reuters",
@@ -988,5 +933,71 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が9月以降の石油増産ペースを一時停止する可能性を検討していると報じられた。既に実施中の段階的な増産計画の継続ではなく、増産ペースを緩めるシグナルは、供給面での引き締め継続姿勢を示唆しており、原油価格の下値支持に作用する見込み。"
+  },
+  {
+    "title": "Summer USDA reports set the tone for grain markets - Agweek",
+    "timestamp": "2026-07-30T10:32:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA夏季レポートは穀物市場のトーンを決定する重要な定期発表。作付面積確定、生育段階評価、収穫見通しなどが含まれ、市場参加者の供給見通しに大きな影響を与える。具体的な数値や予想比の乖離がなければ判断は先送りとなる可能性。"
+  },
+  {
+    "title": "Summer USDA reports set the tone for grain markets - Agweek",
+    "timestamp": "2026-07-30T10:32:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA夏季レポートは穀物市場のトーンを決定する重要な定期発表。作付面積確定、生育段階評価、収穫見通しなどが含まれ、市場参加者の供給見通しに大きな影響を与える。具体的な数値や予想比の乖離がなければ判断は先送りとなる可能性。"
+  },
+  {
+    "title": "Summer USDA reports set the tone for grain markets - Agweek",
+    "timestamp": "2026-07-30T10:32:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA夏季レポートは穀物市場のトーンを決定する重要な定期発表。作付面積確定、生育段階評価、収穫見通しなどが含まれ、市場参加者の供給見通しに大きな影響を与える。具体的な数値や予想比の乖離がなければ判断は先送りとなる可能性。"
+  },
+  {
+    "title": "OPEC+ Is About to Pause Oil Output Hikes. Here's What It Means for Oil Stocks. - Yahoo Finance",
+    "timestamp": "2026-07-28T17:30:01+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が石油増産ペースの一時停止を検討している。既に市場で予想されていた展開で、供給管理の継続姿勢を示すもの。短期的な原油価格への大きなサプライズはなく、現在の価格レベルがこの可能性を既に織り込んでいると考えられる。"
+  },
+  {
+    "title": "Saudi Arabia Economy Shrinks Most Since 2020 as War Roils Oil Exports - Bloomberg.com",
+    "timestamp": "2026-07-30T09:36:41+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの経済が2020年以来最大の収縮を記録。イエメン紛争の激化に伴う油田稼働率低下と輸出減少が主因。同国はOPEC最大産油国として世界油市場の需給均衡に大きな影響を持つため、原油価格の上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "Saudi Arabia Economy Shrinks Most Since 2020 as War Roils Oil Exports - Bloomberg.com",
+    "timestamp": "2026-07-30T09:36:41+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアの経済が2020年以来最大の収縮を記録。イエメン紛争の激化に伴う油田稼働率低下と輸出減少が主因。同国はOPEC最大産油国として世界油市場の需給均衡に大きな影響を持つため、原油価格の上昇圧力となる可能性が高い。"
   }
 ]
