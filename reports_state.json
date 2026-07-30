@@ -1,16 +1,5 @@
 [
   {
-    "title": "Satellites Show Tank Fire at Saudi Oil Plant Jazan After Attack - Bloomberg.com",
-    "timestamp": "2026-07-27T12:38:07+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのジャザン石油施設でタンク火災が発生。衛星画像により攻撃後の火災が確認された。同施設は主要な石油処理・貯蔵拠点であり、サプライチェーン寸断のリスクが高い。中東の地政学的緊張を反映した供給ショック。"
-  },
-  {
     "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, July 27, 2026 - RFD-TV",
     "timestamp": "2026-07-27T14:38:50+00:00",
     "importance": 1,
@@ -86,17 +75,6 @@
     "source": "USDA NASS公式",
     "commodity": "大豆",
     "summary": "USDA NASが発表した落花生の商業在庫統計によると、2024年の商業保管在庫は36.1億ポンド。殻付き食用グレードの季節累計加工量は前年比5%増加し、需要面では堅調な推移を示している。ただし、落花生市場は大豆油など油糧種子関連との競合関係にあり、搾油用需要への波及効果に注視が必要。"
-  },
-  {
-    "title": "Pollution linked to French-British oil firm's Congo operations poses health risks, report says - Reuters",
-    "timestamp": "2026-07-27T13:11:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フランス・イギリス系石油企業のコンゴ操業に関連する汚染が健康リスクをもたらしているとの報告。環境・社会リスク（ESG）への懸念が高まり、同企業の評判悪化につながる可能性。ただし原油市場全体への直接的な供給インパクトは限定的。"
   },
   {
     "title": "TRADING DAY Oil plunges, stocks 'n' bonds shrug - Reuters",
@@ -394,17 +372,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがイラクから発射されたドローンがイラン系勢力による石油施設への攻撃を迎撃したと発表。中東の地政学的緊張が再び高まり、ペルシャ湾の重要な石油供給インフラへの直接的な脅威として認識される。供給途絶リスクの急速な増加が原油価格の上昇圧力となる。"
-  },
-  {
-    "title": "Satellites Show Tank Fire at Saudi Oil Plant Jazan After Attack - Bloomberg",
-    "timestamp": "2026-07-27T12:38:07+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのジャザン石油精製施設がドローン攻撃を受け、衛星画像で複数の貯蔵タンクが炎上していることが確認された。同施設は日量60万バレルの処理能力を持つ重要なインフラであり、サプライチェーン混乱とエネルギー供給リスクが顕在化。地政学リスクの急激な高まり。"
   },
   {
     "title": "Iranian Oil Hoard Swells Off Malaysia on Weak Chinese Demand - Bloomberg",
@@ -999,5 +966,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラビアの経済が2020年以来最大の収縮を記録。イエメン紛争の激化に伴う油田稼働率低下と輸出減少が主因。同国はOPEC最大産油国として世界油市場の需給均衡に大きな影響を持つため、原油価格の上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "USDA raises global cotton output forecast, consumption higher in July - Fibre2Fashion",
+    "timestamp": "2026-07-29T00:02:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが7月のWASDEで綿花の世界生産予想を上方修正し、同時に世界消費量も上昇と発表した。綿花供給の増加により価格低下圧力がかかる可能性がある一方、消費需要の堅調さも示唆されている。予想比のサプライズ度が不明だが、綿関連銘柄のポジション調整を促す可能性がある。"
+  },
+  {
+    "title": "Oil Rebounds Amid Inventory Drawdowns, Iran War Uncertainty: Economist Says 'Stay Long' - Stocktwits",
+    "timestamp": "2026-07-30T08:13:18+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA原油在庫の減少を背景に原油が反発している。イランをめぐる地政学的不確実性がプレミアム要因として作用。エコノミストが強気姿勢を維持し「買いポジション継続」を推奨。供給減少と地政学リスクが価格を支えている局面。"
+  },
+  {
+    "title": "Two tankers carrying Saudi oil for India exit Red Sea by going 'dark' - Reuters",
+    "timestamp": "2026-07-30T10:41:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海での船舶トラッキング回避により、サウジアラビア産原油をインドへ輸送するタンカー2隻が無線信号を意図的に遮断して通過。地政学的緊張とホルムズ海峡以南の新たな迂回ルート活用を示唆し、輸送コスト増加と供給リスク再燃の懸念が強まった。"
   }
 ]
