@@ -1,27 +1,5 @@
 [
   {
-    "title": "ニューヨーク原油先物市場概況・28日 3日続落 - Moomoo",
-    "timestamp": "2026-07-28T20:39:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ニューヨーク原油先物が3日続落。市場概況として既に進行中のトレンドを報じている。具体的な下落要因や需給変化の詳細は記事からは不明。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況･28日 3日ぶり反落 - Moomoo",
-    "timestamp": "2026-07-28T21:05:21+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物市場が28日に3日ぶりに反落した。具体的な下落理由や値幅の詳細は記事から確認できない。市場の日々の値動きを記録した市況速報と考えられる。"
-  },
-  {
     "title": "本日（7月29日）の金価格：急激な反転と下落。 - Vietnam.vn",
     "timestamp": "2026-07-28T21:54:47+00:00",
     "importance": 2,
@@ -31,50 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月29日の金価格が急激に反転して下落した。具体的な下落要因の詳細は記事要約では明記されていない。コモディティ市場の日次変動を報じたもの。"
-  },
-  {
-    "title": "原油先物5％安、2週間ぶり安値 米・イラン攻撃停止で - ロイター",
-    "timestamp": "2026-07-28T20:53:43+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイラン間の軍事的緊張が緩和され、攻撃停止が示唆されたことで地政学的リスクプレミアムが剥落。原油先物は5%安となり、2週間ぶりの安値を更新した。"
-  },
-  {
-    "title": "原油先物5％安、2週間ぶり安値 米・イラン攻撃停止で - ニューズウィーク日本版",
-    "timestamp": "2026-07-28T20:52:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイラン間の軍事衝突が回避される見通しが強まり、地政学的リスクプレミアムが急速に剥落。原油先物は5%下落し2週間ぶりの安値を更新。供給途絶リスクの低下で投機買いが巻き戻された。"
-  },
-  {
-    "title": "原油先物5％安、2週間ぶり安値　米・イラン攻撃停止で - ｄメニューニュース",
-    "timestamp": "2026-07-28T20:52:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイラン間の軍事的緊張が緩和し、攻撃中止が発表された。原油先物は5％下落し2週間ぶりの安値を付けた。地政学リスク低下による供給懸念の払拭が要因。"
-  },
-  {
-    "title": "原油先物5％安、2週間ぶり安値　米・イラン攻撃停止で - ｄメニューニュース",
-    "timestamp": "2026-07-28T21:04:31+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの軍事紛争が一時的に緩和される見通しから、地政学的リスクプレミアムが急速に剥落。原油先物が5%下落し2週間ぶりの安値を更新。供給途絶リスクの後退で需給逼迫懸念が軽減。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4028ドル｜FOMCの結果を見極めたいという動きが強まった模様(2026年7月29日) - OANDA証券",
@@ -251,17 +185,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が80ドルを割り込む水準まで下落した。為替市場の注目点として報じられている解説記事。既に進行している下げトレンドの継続を示すもの。"
-  },
-  {
-    "title": "ＮＹ市場、原油先物は終値で２週間ぶりに８０ドル割り込む…ダウ終値は３日連続値上がり５万２７４７ドル - 読売新聞",
-    "timestamp": "2026-07-28T21:02:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が2週間ぶりに80ドル割り込みで終値。ダウ平均は3日連続上昇。株高と原油安の相場展開。"
   },
   {
     "title": "原油先物が急反発、2ドル超高 米在庫縮小の見通しで - ニューズウィーク日本版",
@@ -1934,5 +1857,38 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ先物が売り手優勢の相場環境にあり、USX461.82のサポートレベルが重要な下値目安となっている。テクニカル的な重要サポートの維持可否が直近の注目点。"
+  },
+  {
+    "title": "本日（7月31日）の金価格：絶えず変動しており、2026年9月までの予測は「不確実」なままだ。 - Vietnam.vn",
+    "timestamp": "2026-07-31T19:58:32+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "7月31日時点での金価格は継続的に変動している。2026年9月までの予測については不確実性が残るとの見方が示されている。具体的な価格水準や変動要因については詳細が不明。"
+  },
+  {
+    "title": "Antam gold price rises to IDR 2,623,000 per gram on Friday (31/7) - IDNFinancials",
+    "timestamp": "2026-07-31T04:30:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアAntam社の金価格が1グラム当たりIDR 2,623,000に上昇した。これはインドネシア国内の金価格動向を示す定期的な相場報告。"
+  },
+  {
+    "title": "米国原油先物 (USOIL-F) は7月31日に下降 2.22%：なぜ起こったのか - TradingKey",
+    "timestamp": "2026-07-31T04:11:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月31日に米国原油先物が2.22%下落した。記事はこの日の価格変動を事後的に解説するもの。通常のボラティリティ範囲内の変動と考えられる。"
   }
 ]
