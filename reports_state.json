@@ -198,28 +198,6 @@
     "summary": "EIA週間在庫統計により、米国の原油とガソリン在庫は先週減少したと予想される一方、留出油（ディーゼル）在庫は増加したと見込まれている。原油と石油製品の需給バランスが異なる動きを示しており、市場シグナルは混合的。"
   },
   {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-07-27T23:17:05+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを下方修正した。需要減速の見込みは、原油相場への弱気シグナルとして機能する。OPEC減産による価格支えの効果が限定的になる可能性を示唆。金融引き締め環境下での需要鈍化懸念が背景。"
-  },
-  {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-07-27T23:17:05+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを下方修正した。需要減速の見込みは、原油相場への弱気シグナルとして機能する。OPEC減産による価格支えの効果が限定的になる可能性を示唆。金融引き締め環境下での需要鈍化懸念が背景。"
-  },
-  {
     "title": "OPEC Prepares to Stop Raising Oil Output Targets - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-07-28T19:00:00+00:00",
     "importance": 4,
@@ -867,5 +845,71 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間在庫統計でクッシング地区の原油在庫が再び大幅に低下し、批判的に危険な水準（critically dangerous levels）に達した。クッシング地区は米国最大の戦略的備蓄拠点であり、供給逼迫リスクが高まる。在庫低下は供給制約を示唆し、原油価格の上昇要因となる。"
+  },
+  {
+    "title": "Minor adjustments to the 2026 beef production forecast - Ag Proud",
+    "timestamp": "2026-07-30T04:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE関連の2026年牛肉生産予測に軽微な調整が加えられた。牛肉生産量の見直しは飼料需要（トウモロコシ・大豆粕）に波及する可能性があるが、「軽微な調整」との表現から予想範囲内の小幅修正と判断される。市場への大きなインパクトは限定的と考えられる。"
+  },
+  {
+    "title": "Minor adjustments to the 2026 beef production forecast - Ag Proud",
+    "timestamp": "2026-07-30T04:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDE関連の2026年牛肉生産予測に軽微な調整が加えられた。牛肉生産量の見直しは飼料需要（トウモロコシ・大豆粕）に波及する可能性があるが、「軽微な調整」との表現から予想範囲内の小幅修正と判断される。市場への大きなインパクトは限定的と考えられる。"
+  },
+  {
+    "title": "Minor adjustments to the 2026 beef production forecast - Ag Proud",
+    "timestamp": "2026-07-30T04:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDE関連の2026年牛肉生産予測に軽微な調整が加えられた。牛肉生産量の見直しは飼料需要（トウモロコシ・大豆粕）に波及する可能性があるが、「軽微な調整」との表現から予想範囲内の小幅修正と判断される。市場への大きなインパクトは限定的と考えられる。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
+    "timestamp": "2026-07-30T03:00:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後の独自戦略として、2025年に石油生産を日量500万バレルを超える水準に引き上げる計画。IEAがこの見通しを発表。UAEの増産推進は供給増加圧力となるが、既に市場に織り込まれている可能性が高い。"
+  },
+  {
+    "title": "Saudi Arabia Crude Exports Fall to Three Month Low in December - energynow.com",
+    "timestamp": "2026-07-28T17:15:11+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアの原油輸出が12月に3ヶ月ぶりの低水準に低下した。OPECの減産政策継続と冬季需要の季節的な影響が重なり、供給量の制限が顕在化している。ただし既報の減産合意の延長線上にあるため、市場織り込み状況。"
+  },
+  {
+    "title": "Oil Heads for Monthly Surge of 21% as US-Iran War Strains Supply - Bloomberg.com",
+    "timestamp": "2026-07-30T22:04:24+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事紛争がエスカレートし、原油供給に対する懸念が急速に高まっている。当月の原油価格は21%の上昇を記録し、地政学的リスクプレミアムが大幅に織り込まれた。中東の主要産油国であるイランの潜在的な供給途絶が投資家心理を悪化させている。"
   }
 ]
