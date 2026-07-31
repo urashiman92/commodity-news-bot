@@ -1,60 +1,5 @@
 [
   {
-    "title": "US crude, gasoline inventories likely fell last week, distillate stocks rose - Reuters",
-    "timestamp": "2026-07-28T22:01:44+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計により、米国の原油とガソリン在庫は先週減少したと予想される一方、留出油（ディーゼル）在庫は増加したと見込まれている。原油と石油製品の需給バランスが異なる動きを示しており、市場シグナルは混合的。"
-  },
-  {
-    "title": "US crude, gasoline inventories likely fell last week, distillate stocks rose - Reuters",
-    "timestamp": "2026-07-28T22:01:44+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計により、米国の原油とガソリン在庫は先週減少したと予想される一方、留出油（ディーゼル）在庫は増加したと見込まれている。原油と石油製品の需給バランスが異なる動きを示しており、市場シグナルは混合的。"
-  },
-  {
-    "title": "Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-28T22:15:52+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が上昇トレンドを見せる中、原油相場の堅調さがポジティブ要因として機能している一方で、半導体セクターの売却圧力がコモディティ市場全体の上昇を部分的にオフセットしている。原油と株式の相関構造が市場心理を二分している局面。"
-  },
-  {
-    "title": "Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-07-28T22:15:52+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が上昇トレンドを見せる中、原油相場の堅調さがポジティブ要因として機能している一方で、半導体セクターの売却圧力がコモディティ市場全体の上昇を部分的にオフセットしている。原油と株式の相関構造が市場心理を二分している局面。"
-  },
-  {
-    "title": "Militias in Iraq Attack Saudi Oil Facilities for a Second Day - Bloomberg",
-    "timestamp": "2026-07-28T21:51:31+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イラクの民兵勢力がサウジアラビアの石油施設に対し2日連続で攻撃を実施。中東における主要産油国への直接的な供給ショック懸念が浮上。地政学的緊張の高まりにより、原油市場は供給途絶リスクに敏感に反応する可能性が高い。"
-  },
-  {
     "title": "Saudi Arabia’s January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com",
     "timestamp": "2026-07-28T23:20:31+00:00",
     "importance": 3,
@@ -537,17 +482,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "米国とイランの軍事紛争がエスカレートし、原油供給に対する懸念が急速に高まっている。当月の原油価格は21%の上昇を記録し、地政学的リスクプレミアムが大幅に織り込まれた。中東の主要産油国であるイランの潜在的な供給途絶が投資家心理を悪化させている。"
-  },
-  {
-    "title": "Can OPEC Plus’s Watchdog Do Anything About Hormuz? - Modern Diplomacy",
-    "timestamp": "2026-07-28T22:00:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC Plusの監視機能がホルムズ海峡での地政学的リスク対応にどの程度効果的かについての論評。ホルムズ海峡は世界の石油供給の約20-30%が通過する重要な輸送ルートであり、同地域の緊張は原油価格の上昇圧力となる可能性がある。OPEC Plusの政策手段の限界と地政学的ショック対応能力を議論。"
   },
   {
     "title": "Russia's Ryazan refinery has halted oil processing after drone attack, sources say - Reuters",
