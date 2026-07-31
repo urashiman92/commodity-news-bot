@@ -1,16 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4028ドル｜FOMCの結果を見極めたいという動きが強まった模様(2026年7月29日) - OANDA証券",
-    "timestamp": "2026-07-28T23:05:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4028ドルまで下落。FOMC結果の判断待ちで様子見ムードが強まっている。金利決定に対する市場の反応を観察する局面。"
-  },
-  {
     "title": "NY金先物は反落、中東情勢の緊張緩和とFOMC結果待ちのドル高が重し｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-07-29T00:07:00+00:00",
     "importance": 3,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が反落。中東情勢の緊張緩和によるリスクオフ需要の後退とFOMC前のドル高が金価格を押し下げた。安全資産としての買いが一服。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの小康状態が影響し、原油価格は3営業日連続で下落（2026年7月29日） - OANDA証券",
-    "timestamp": "2026-07-28T23:14:38+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの地政学的緊張が一時的に緩和（小康状態）したことを受け、供給途絶リスク低下を材料に原油価格が3営業日連続で下落。市場は既にこの緊張緩和を織り込み始めた。"
   },
   {
     "title": "$WTI 原油先物(2609) (CLmain.US)$ - Moomoo",
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "世界の原油価格が急落している。ベトナム国内の燃料価格も近日中に改定される見込み。既に市場で報じられた動きの国内影響に関する続報。"
-  },
-  {
-    "title": "２８日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-28T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "28日の主要国際商品市況に関する日次レポート。具体的な価格動向や市場への影響は記事本文がないため判断不可。定期的な市場サマリーと推定される。"
   },
   {
     "title": "金価格、Fed決定を前に安定推移――原油反発でインフレ懸念再燃 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -240,17 +207,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムメディアによる金価格予測に関する記事。具体的な予測内容や根拠が不明であり、詳細情報なしに判断困難。"
-  },
-  {
-    "title": "【FRB金利発表直前】ドル堅調で金価格は1週間ぶり安値、地政学リスク後退も重し - BigGo ファイナンス",
-    "timestamp": "2026-07-28T23:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ドル堅調がドル建て金の下押し要因となり、金価格は1週間ぶりの安値を記録。地政学リスク後退も金需要を圧迫。FRB金利発表を控え、市場は慎重姿勢。"
   },
   {
     "title": "金価格は下落を続け、中央為替レートは過去最高値を更新した。 - Vietnam.vn",
@@ -1934,5 +1890,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が反発。対ロシア制裁警戒と中東情勢緊迫化により買い優勢。既知の地政学リスク要因が市場心理を支援している状況。"
+  },
+  {
+    "title": "シカゴ小麦先物、3ヶ月ぶりの月間上昇を記録 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-31T21:10:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "シカゴ小麦先物が3ヶ月ぶりに月間ベースでの上昇を記録した。供給懸念や需要面の改善などが背景と考えられる。技術的な反発の可能性もあり。"
+  },
+  {
+    "title": "NY金先物：反落、ドル持ち直しと利上げ観測再燃が重し 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-31T22:47:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反落。ドル強化と利上げ観測の再燃が金価格の重しとなった。金は利回り資産でないため、金利上昇とドル高は同時に金売却圧力になる。"
+  },
+  {
+    "title": "NY金先物：反落、ドル持ち直しと利上げ観測再燃が重し - ｄメニューニュース",
+    "timestamp": "2026-07-31T23:17:09+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反落。ドル持ち直しと利上げ観測の再燃が売り圧力となった。金は米金利上昇とドル強化局面で弱含む。"
+  },
+  {
+    "title": "本日（8月1日）の金価格：米ドル高に伴い急落。 - Vietnam.vn",
+    "timestamp": "2026-07-31T23:32:53+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月1日の金価格が米ドル高に伴い急落した。ドル高は金の相対的なコスト上昇を意味し、ドル建て金価格の下押し要因となる。既知のドル・金逆相関関係の現れ。"
+  },
+  {
+    "title": "原油は再び100ドル超え？懸念されるフーシ派のサウジアラビア大油田攻撃、バブ・エル・マンデブ海峡封鎖の影響も - JBpress",
+    "timestamp": "2026-07-31T21:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ派によるサウジアラビア大油田攻撃の懸念とバブ・エル・マンデブ海峡封鎖の影響について、原油が100ドル超えの可能性が指摘されている。中東地政学リスクの顕在化が供給逼迫要因として挙げられている。"
+  },
+  {
+    "title": "本日（8月1日）の燃料価格：原油価格は1％以上上昇し、3月初旬以来の最高値を記録した。 - Vietnam.vn",
+    "timestamp": "2026-07-31T23:28:56+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月1日の原油価格が1％以上上昇し、3月初旬以来の最高値を更新した。ベトナムの燃料価格情報の報道である。"
   }
 ]
