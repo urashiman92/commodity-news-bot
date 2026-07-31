@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（7月29日）の金価格：急激な反転と下落。 - Vietnam.vn",
-    "timestamp": "2026-07-28T21:54:47+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月29日の金価格が急激に反転して下落した。具体的な下落要因の詳細は記事要約では明記されていない。コモディティ市場の日次変動を報じたもの。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4028ドル｜FOMCの結果を見極めたいという動きが強まった模様(2026年7月29日) - OANDA証券",
     "timestamp": "2026-07-28T23:05:34+00:00",
     "importance": 3,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が反落。中東情勢の緊張緩和によるリスクオフ需要の後退とFOMC前のドル高が金価格を押し下げた。安全資産としての買いが一服。"
-  },
-  {
-    "title": "本日（7月29日）の金価格：国内および海外の金価格はともに下落。 - Vietnam.vn",
-    "timestamp": "2026-07-28T22:49:10+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月29日の金相場は国内外ともに下落を記録した。具体的な下落要因や下落幅の記載がなく、日次の相場動きを単に報告している内容。"
   },
   {
     "title": "WTI原油見通し(市況ニュース)：米国とイランの小康状態が影響し、原油価格は3営業日連続で下落（2026年7月29日） - OANDA証券",
@@ -306,17 +284,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国の原油在庫縮小見通しを受けて、原油先物が2ドル超の急反発を記録した。供給減少の期待が買い圧力をもたらしたもの。"
-  },
-  {
-    "title": "米コモディティー市場－ガソリン、トウモロコシ、小麦、大豆が上昇 原油、天然ガス、金、銀、銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-28T22:25:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティー市場で農産物（ガソリン、トウモロコシ、小麦、大豆）が上昇する一方、エネルギー・貴金属（原油、天然ガス、金、銀、銅）が下落した。市場内での値動き分散が見られている。"
   },
   {
     "title": "金先物Ｗブル - 日本経済新聞",
@@ -1890,5 +1857,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "7月31日に米国原油先物が2.22%下落した。記事はこの日の価格変動を事後的に解説するもの。通常のボラティリティ範囲内の変動と考えられる。"
+  },
+  {
+    "title": "欧州小麦先物、7月の急騰後に利益確定売りで下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-31T17:21:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "欧州小麦先物が7月の急騰後に利益確定売りにより下落。技術的なポジション調整局面。ファンダメンタルズの大きな変化を示唆していない。"
+  },
+  {
+    "title": "NY金先物：反落、ドル持ち直しと利上げ観測再燃が重し(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-31T22:49:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反落。ドル相場の持ち直しと米国の利上げ観測再燃が金相場の重し要因となっている。ドル高と金利上昇は金の投資魅力を低下させる古典的なメカニズムが作用。"
+  },
+  {
+    "title": "金価格軟調も逆張り買い増し！テザー、第2四半期に14トンの金を購入、準備高は約3兆円に到達 - BigGo ファイナンス",
+    "timestamp": "2026-07-31T21:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "テザーが第2四半期に14トンの金を購入し、準備高が約3兆円に到達した。金価格が軟調な中での逆張り買いで、ステーブルコイン発行者による準備資産の多角化と強化を示唆している。"
+  },
+  {
+    "title": "NY原油・金相場（31日）－原油が反発 金は大幅反落 - Moomoo",
+    "timestamp": "2026-07-31T22:11:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油相場は反発、金相場は大幅反落という相反する動きを記録。両商品の方向性に乖離が生じている。具体的な原因や背景情報が不足している。"
+  },
+  {
+    "title": "2026年8月1日現在の金価格：SJCの金価格は上昇、世界の金価格は急落。 - Vietnam.vn",
+    "timestamp": "2026-07-31T22:29:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムSJC金価格は上昇した一方、世界的な金価格は急落している。国内外の金価格に乖離が生じている状況の報道。"
+  },
+  {
+    "title": "本日（8月1日）の金価格：急騰後、1％以上下落。 - Vietnam.vn",
+    "timestamp": "2026-07-31T22:02:56+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月1日の金価格は急騰後に1％以上下落した。短期的なボラティリティを反映した相場調整。技術的反発売りの可能性。"
+  },
+  {
+    "title": "【注目トピックス 市況・概況】NY原油先物：反発、対ロシア制裁警戒と中東情勢緊迫化で買い優勢 - moneypost.jp",
+    "timestamp": "2026-07-31T22:49:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が反発。対ロシア制裁警戒と中東情勢緊迫化により買い優勢。既知の地政学リスク要因が市場心理を支援している状況。"
   }
 ]
