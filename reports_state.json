@@ -1,38 +1,5 @@
 [
   {
-    "title": "OPEC+ Is About to Pause Oil Output Hikes. Here's What It Means for Oil Stocks. - The Motley Fool",
-    "timestamp": "2026-07-28T17:37:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が原油産出量の引き上げを一時停止する方針を示唆。市場は既に減産継続の可能性を織り込みつつあり、供給の伸び悩みが価格下支え要因となる一方、世界経済減速懸念がオフセット。原油価格は方向感を欠いた状況が続く見通し。"
-  },
-  {
-    "title": "Gold forecasts fall, but central bank buying expected to cushion retreat - Reuters",
-    "timestamp": "2026-07-28T17:31:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "金価格の予測が引き下げられる一方、中央銀行の買い支えが下落を緩和するとの見方。金利上昇環境では無利子資産の金は下押し圧力を受けるが、各国の金準備積み増し需要がサポート要因となる。マクロ環境と需要要因のせめぎ合いが続く状況。"
-  },
-  {
-    "title": "Gold forecasts fall, but central bank buying expected to cushion retreat - Reuters",
-    "timestamp": "2026-07-28T17:31:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金価格の予測が引き下げられる一方、中央銀行の買い支えが下落を緩和するとの見方。金利上昇環境では無利子資産の金は下押し圧力を受けるが、各国の金準備積み増し需要がサポート要因となる。マクロ環境と需要要因のせめぎ合いが続く状況。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-07-28T20:35:21.759072+00:00",
     "importance": 2,
@@ -143,17 +110,6 @@
     "summary": "サウジアラビアがイラクから発射されたドローンがイラン系勢力による石油施設への攻撃を迎撃したと発表。中東の地政学的緊張が再び高まり、ペルシャ湾の重要な石油供給インフラへの直接的な脅威として認識される。供給途絶リスクの急速な増加が原油価格の上昇圧力となる。"
   },
   {
-    "title": "OPEC+ likely to pause oil output hikes after September, sources say - Reuters",
-    "timestamp": "2026-07-28T17:05:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は9月以降、原油増産ペースを一時停止する可能性が高いと複数筋が報道。既に市場で減産延長の観測が存在しており、正式決定待ちの段階。供給側の慎重姿勢が価格下支え要因となる可能性。"
-  },
-  {
     "title": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea - Reuters",
     "timestamp": "2026-07-28T21:00:10+00:00",
     "importance": 4,
@@ -262,28 +218,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国とサウジアラビアがイラク内のイラン同盟勢力に対して軍事作戦を実施し、ペルシャ湾地域の紛争が再燃した。地政学的リスクが急速に高まり、域内の石油供給リスクが顕在化。安全資産としての金への需要も増加する可能性が高い。"
-  },
-  {
-    "title": "Three Russian Black Sea terminals restrict grain intake by truck amid shipping risks, sources say - Reuters",
-    "timestamp": "2026-07-28T16:33:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "小麦",
-    "summary": "ロシア黒海地域の3つの穀物ターミナルがトラック輸送による穀物受け入れを制限。海上輸送リスク増加による供給チェーンの混乱が懸念される。ウクライナ穀物回廊閉鎖後の代替輸送ルート障害で、黒海からの穀物輸出が一層制約される可能性が高い。"
-  },
-  {
-    "title": "Three Russian Black Sea terminals restrict grain intake by truck amid shipping risks, sources say - Reuters",
-    "timestamp": "2026-07-28T16:33:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア黒海地域の3つの穀物ターミナルがトラック輸送による穀物受け入れを制限。海上輸送リスク増加による供給チェーンの混乱が懸念される。ウクライナ穀物回廊閉鎖後の代替輸送ルート障害で、黒海からの穀物輸出が一層制約される可能性が高い。"
   },
   {
     "title": "Crude oil inventories fall -7.167M versus -1.272M estimate. Crude oil futures move to new highs - investingLive",
@@ -572,17 +506,6 @@
     "summary": "USDA夏季レポートは穀物市場のトーンを決定する重要な定期発表。作付面積確定、生育段階評価、収穫見通しなどが含まれ、市場参加者の供給見通しに大きな影響を与える。具体的な数値や予想比の乖離がなければ判断は先送りとなる可能性。"
   },
   {
-    "title": "OPEC+ Is About to Pause Oil Output Hikes. Here's What It Means for Oil Stocks. - Yahoo Finance",
-    "timestamp": "2026-07-28T17:30:01+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が石油増産ペースの一時停止を検討している。既に市場で予想されていた展開で、供給管理の継続姿勢を示すもの。短期的な原油価格への大きなサプライズはなく、現在の価格レベルがこの可能性を既に織り込んでいると考えられる。"
-  },
-  {
     "title": "Saudi Arabia Economy Shrinks Most Since 2020 as War Roils Oil Exports - Bloomberg.com",
     "timestamp": "2026-07-30T09:36:41+00:00",
     "importance": 4,
@@ -726,17 +649,6 @@
     "summary": "UAEがOPEC脱退後の独自戦略として、2025年に石油生産を日量500万バレルを超える水準に引き上げる計画。IEAがこの見通しを発表。UAEの増産推進は供給増加圧力となるが、既に市場に織り込まれている可能性が高い。"
   },
   {
-    "title": "Saudi Arabia Crude Exports Fall to Three Month Low in December - energynow.com",
-    "timestamp": "2026-07-28T17:15:11+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアの原油輸出が12月に3ヶ月ぶりの低水準に低下した。OPECの減産政策継続と冬季需要の季節的な影響が重なり、供給量の制限が顕在化している。ただし既報の減産合意の延長線上にあるため、市場織り込み状況。"
-  },
-  {
     "title": "Oil Heads for Monthly Surge of 21% as US-Iran War Strains Supply - Bloomberg.com",
     "timestamp": "2026-07-30T22:04:24+00:00",
     "importance": 4,
@@ -812,5 +724,16 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "OPECのカルテル構造が弱体化し、イラン情勢の不確実性がエネルギー市場に長期的な影響を及ぼす可能性を示唆するレポート。OPECの減産調整能力の低下が予想される一方、イラン制裁やサプライチェーン混乱による原油供給ショックのリスクも存在。地政学的リスク要因として注視が必要。"
+  },
+  {
+    "title": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll - Reuters",
+    "timestamp": "2026-07-31T11:07:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロイターの調査により、中東の供給途絶が継続する中で原油価格の上昇が予想されている。地政学的リスクと供給不安定性が価格上昇の主要因として指摘されており、市場参加者の見方を集約したコメンタリー報告である。"
   }
 ]
