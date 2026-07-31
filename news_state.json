@@ -1,49 +1,5 @@
 [
   {
-    "title": "小麦先物、利益確定売りで下落開始の見通し 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-28T13:29:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "小麦先物が利益確定売りにより下落局面を迎えるとの見通し。技術的なポジション調整局面と解釈される。価格上昇局面の一服を示唆。"
-  },
-  {
-    "title": "トウモロコシ先物が上昇、USDAの作況評価引き下げを受けて 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-28T13:31:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "USDAがトウモロコシの作況評価を引き下げたことを受け、先物価格が上昇。供給見通しの悪化が価格を押し上げている。具体的な引き下げ幅やシーズン見通しの詳細は記事からは不明。"
-  },
-  {
-    "title": "大豆相場、輸出需要堅調も売り圧力で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-28T13:31:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆相場は輸出需要が堅調である一方、売り圧力が相場を押し下げている。ファンダメンタルズは支持的だが、テクニカルと需給バランスが相反する状況を示唆。"
-  },
-  {
-    "title": "黃金期 | TAIFEX_GDF 2026/08 先物チャートとリアルタイム相場 - BigGo ファイナンス",
-    "timestamp": "2026-07-28T15:21:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "台湾先物取引所のGold先物2026年8月限月のチャートとリアルタイム相場データを提供するページ。金相場情報の閲覧ツール紹介であり、ニュース性や新規情報を含まない。"
-  },
-  {
     "title": "独10年債利回り、原油安で下げ渋り トランプ・ネタニヤフ会談に注目 - BigGo ファイナンス",
     "timestamp": "2026-07-28T17:25:00+00:00",
     "importance": 2,
@@ -1934,5 +1890,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル買い圧力が強まり、NY原油先物が下落している。米債利回り上昇に伴うドル高が原油価格を押し下げる要因となっている。ドル高環境は原油の実質購買力を低下させ、投資家の需要を減退させている。"
+  },
+  {
+    "title": "2026年8月1日現在、金価格は底を打っている可能性がある。AIバブルは崩壊の兆しを見せており、新たな価格高騰を引き起こす可能性がある。 - vietnam.vn",
+    "timestamp": "2026-07-31T15:04:42+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が底値圏にある可能性が指摘されている。AI関連バブルの崩壊が起こればリスク回避需要で金価格が上昇する可能性がある。ただし現在時点では観測・予測段階。"
+  },
+  {
+    "title": "〔海外決算〕米シェブロン、4～6月期は純利益5倍＝原油価格高騰が恩恵(時事通信) - Yahoo!ファイナンス",
+    "timestamp": "2026-07-31T14:53:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米シェブロンの4～6月期純利益が5倍に増加。原油価格高騰による恩恵を受けたもの。メジャー企業の好調決算は市場のセンチメント支援要因となる。"
   }
 ]
