@@ -1,60 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-28T20:35:21.759072+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗状況）と作物状態推定値を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、播種進捗、作物条件（Good-Excellent%）などを報告。投資家は事前予想との比較で作付面積や生産予想の改訂シグナルを探る。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-28T20:35:21.759072+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗状況）と作物状態推定値を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、播種進捗、作物条件（Good-Excellent%）などを報告。投資家は事前予想との比較で作付面積や生産予想の改訂シグナルを探る。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-07-28T20:35:21.759072+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗状況）と作物状態推定値を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の生育段階、播種進捗、作物条件（Good-Excellent%）などを報告。投資家は事前予想との比較で作付面積や生産予想の改訂シグナルを探る。"
-  },
-  {
-    "title": "July USDA report lifts soybean, corn futures - Farm Talk",
-    "timestamp": "2026-07-28T20:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "7月のUSDA WASDE報告書が公表され、トウモロコシと大豆の先物相場が上昇した。同報告書は米国の穀物供給見通しに関する定期的な重要統計であり、市場参加者に大豆とトウモロコシの価格上昇をもたらした。具体的な作付面積や收穫見通しの数値は記事から不明だが、市場反応から好況的な内容が含まれていると推定される。"
-  },
-  {
-    "title": "July USDA report lifts soybean, corn futures - Farm Talk",
-    "timestamp": "2026-07-28T20:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "7月のUSDA WASDE報告書が公表され、トウモロコシと大豆の先物相場が上昇した。同報告書は米国の穀物供給見通しに関する定期的な重要統計であり、市場参加者に大豆とトウモロコシの価格上昇をもたらした。具体的な作付面積や收穫見通しの数値は記事から不明だが、市場反応から好況的な内容が含まれていると推定される。"
-  },
-  {
     "title": "US crude, gasoline inventories likely fell last week, distillate stocks rose - Reuters",
     "timestamp": "2026-07-28T22:01:44+00:00",
     "importance": 2,
@@ -75,28 +20,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIA週間在庫統計により、米国の原油とガソリン在庫は先週減少したと予想される一方、留出油（ディーゼル）在庫は増加したと見込まれている。原油と石油製品の需給バランスが異なる動きを示しており、市場シグナルは混合的。"
-  },
-  {
-    "title": "Saudi Arabia says it intercepted drones launched from Iraq targeting oil facilities - Reuters",
-    "timestamp": "2026-07-28T20:31:28+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがイラクから発射されたドローンがイラン系勢力による石油施設への攻撃を迎撃したと発表。中東の地政学的緊張が再び高まり、ペルシャ湾の重要な石油供給インフラへの直接的な脅威として認識される。供給途絶リスクの急速な増加が原油価格の上昇圧力となる。"
-  },
-  {
-    "title": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea - Reuters",
-    "timestamp": "2026-07-28T21:00:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イエメンの親イラン勢力フーシ派が紅海でサウジアラビアのタンカーに対してミサイル攻撃を実施したと発表。紅海は世界の原油輸送量の約12-15%が通過する重要な海運ルートであり、地政学的リスクの急速な高まりを示唆。タンカーへの攻撃成功は海上安全保障の悪化を象徴し、原油輸送費（VLCC傭船料）の上昇と保険料引き上げを誘発。"
   },
   {
     "title": "Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap - Bloomberg.com",
@@ -130,28 +53,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "イラクの民兵勢力がサウジアラビアの石油施設に対し2日連続で攻撃を実施。中東における主要産油国への直接的な供給ショック懸念が浮上。地政学的緊張の高まりにより、原油市場は供給途絶リスクに敏感に反応する可能性が高い。"
-  },
-  {
-    "title": "July USDA report lifts soybean, corn futures - Duncan Banner",
-    "timestamp": "2026-07-28T20:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "7月のUSDAレポート発表によりトウモロコシと大豆先物が上昇した。WASDEは米国の穀物供給見通しに関する定期的な公式統計であり、市場が価格を調整。具体的な数値については本文に記載されていないため詳細は不明。"
-  },
-  {
-    "title": "July USDA report lifts soybean, corn futures - Duncan Banner",
-    "timestamp": "2026-07-28T20:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "7月のUSDAレポート発表によりトウモロコシと大豆先物が上昇した。WASDEは米国の穀物供給見通しに関する定期的な公式統計であり、市場が価格を調整。具体的な数値については本文に記載されていないため詳細は不明。"
   },
   {
     "title": "Saudi Arabia’s January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com",
@@ -691,5 +592,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロイターの調査により、中東の供給途絶が継続する中で原油価格の上昇が予想されている。地政学的リスクと供給不安定性が価格上昇の主要因として指摘されており、市場参加者の見方を集約したコメンタリー報告である。"
+  },
+  {
+    "title": "USDA reports lift grain markets as stronger corn and soybean prices open sales window - Agrolatam",
+    "timestamp": "2026-07-31T18:49:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの定期レポート発表によりトウモロコシと大豆の価格が上昇し、売却機会が広がった。強化された穀物価格により農家や流通業者の販売ウインドウが開いた状況。報告内容の具体的な数値が記事から明確でないため、予想比のサプライズ度は判定困難。"
+  },
+  {
+    "title": "USDA reports lift grain markets as stronger corn and soybean prices open sales window - Agrolatam",
+    "timestamp": "2026-07-31T18:49:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAの定期レポート発表によりトウモロコシと大豆の価格が上昇し、売却機会が広がった。強化された穀物価格により農家や流通業者の販売ウインドウが開いた状況。報告内容の具体的な数値が記事から明確でないため、予想比のサプライズ度は判定困難。"
   }
 ]
