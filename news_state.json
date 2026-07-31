@@ -1,38 +1,5 @@
 [
   {
-    "title": "独10年債利回り、原油安で下げ渋り トランプ・ネタニヤフ会談に注目 - BigGo ファイナンス",
-    "timestamp": "2026-07-28T17:25:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドイツ10年債利回りが原油安にもかかわらず下げ渋っている。トランプ・ネタニヤフ会談の地政学的リスクに市場が注視している。債券と原油の異なる値動きに注目が必要。"
-  },
-  {
-    "title": "黒海リスクは織り込み済み、欧州小麦価格が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-28T18:46:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海地政学リスクが既に市場に反映されたため、欧州小麦価格が下落している。供給不安要因は既知であり、新たなショックがない状態を示唆。価格調整局面と考えられる。"
-  },
-  {
-    "title": "クリーン・ハーバーズ、原油価格と成長性を試す決算発表へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-28T17:45:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "クリーン・ハーバーズの決算発表が控えている。同社は環境関連サービス企業で、原油価格変動が事業に影響を与える可能性がある。決算結果による企業成長性の評価が焦点。"
-  },
-  {
     "title": "ニューヨーク原油先物市場概況・28日 3日続落 - Moomoo",
     "timestamp": "2026-07-28T20:39:20+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ニューヨーク原油先物が3日続落。市場概況として既に進行中のトレンドを報じている。具体的な下落要因や需給変化の詳細は記事からは不明。"
-  },
-  {
-    "title": "ハドベイ・ミネラルズ決算発表：銅価格の上昇は低迷を相殺できるか 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-28T18:12:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ハドベイ・ミネラルズが決算発表を実施。銅価格上昇が経営低迷を相殺できるかが焦点。個別企業決算と銅市場相場の相互作用を分析。"
   },
   {
     "title": "ニューヨーク金先物市場概況･28日 3日ぶり反落 - Moomoo",
@@ -1934,5 +1890,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇がベトナムのコーヒー輸出産業に与える影響について解説するニュース。輸送費やエネルギーコストの増加によるコーヒー生産・流通コストの上昇が議論されている。"
+  },
+  {
+    "title": "金価格は急騰後、約1%下落、米ドルは回復に転じる - Laodong.vn",
+    "timestamp": "2026-07-31T12:25:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は急騰後に約1%下落。米ドルが回復基調に転じたことが金売却を促した。短期的な調整局面と考えられる。"
+  },
+  {
+    "title": "大豆先物価格がUSX1,173のサポートを試す：テクニカル見通し - Traders Union",
+    "timestamp": "2026-07-31T12:19:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,173のサポートレベルをテストしている状況についてのテクニカル分析。トレーダー向けのテクニカル見通し解説記事。"
   }
 ]
