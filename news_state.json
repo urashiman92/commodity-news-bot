@@ -1,38 +1,5 @@
 [
   {
-    "title": "米CME、24時間365日取引の金先物が好調な滑り出し - Bloomberg.com",
-    "timestamp": "2026-07-28T06:04:59+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "CMEが24時間365日取引可能な金先物を新規上場し、取引開始時点で良好なスタートを切った。既存の取引時間帯の制限が解消され、アジア市場などでの流動性向上が期待される。金への機関投資家・海外投資家からの需要増加につながる可能性がある。"
-  },
-  {
-    "title": "NY金先物相場、売り一服 4000ドル台半ばで推移 - Moomoo",
-    "timestamp": "2026-07-28T06:29:51+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が4000ドル台半ばで推移しており、売り圧力が一服した状況。高値圏での調整局面と考えられる。具体的なファンダメンタルズの変化を示唆する情報は含まれていない。"
-  },
-  {
-    "title": "２８日の米国債券市場見通し＝原油価格の動向に注意 速報 - kabushiki.jp",
-    "timestamp": "2026-07-28T07:31:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "28日の米国債券市場見通しについての解説記事。原油価格が債券市場に影響を与える可能性を指摘している。具体的な原油相場の変動や材料は記事概要に示されていない。"
-  },
-  {
     "title": "7月28日午後の金価格：金地金と金指輪はともに急落した。 - Vietnam.vn",
     "timestamp": "2026-07-28T09:30:46+00:00",
     "importance": 2,
@@ -1824,5 +1791,82 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で天然ガス、貴金属（金・銀）、銅、小麦が上昇する一方、原油とガソリン、トウモロコシが下落。市場内での相対的な強弱の振り分けが生じている状況。"
+  },
+  {
+    "title": "アジアの金価格は、4カ月連続の下落局面を脱する見込みだ。 - Vietnam.vn",
+    "timestamp": "2026-07-31T07:39:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アジアの金価格が4カ月連続の下落局面から脱却する見込みが報じられた。市場参加者の弱気姿勢が一服し、テクニカル的な反発の可能性を示唆している。具体的な買い材料や供給変化の記述は確認できない。"
+  },
+  {
+    "title": "本日（7月31日午後）の金価格：金指輪が急騰。 - Vietnam.vn",
+    "timestamp": "2026-07-31T06:16:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金指輪価格が急騰したとの報道。ローカルな小売価格の変動に関する記事。国内市場の個別商品価格に限定された情報。"
+  },
+  {
+    "title": "本日7月31日の金価格：SJCゴールドとブランドゴールドリングの価格は上昇するでしょうか、それとも下落するでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-07-31T05:18:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJCゴールドおよびブランドゴールドリングの価格予測についての解説記事。本日7月31日の価格が上昇するか下落するかを扱ったコモディティ関連の地域ニュース。"
+  },
+  {
+    "title": "トランプ氏のSNS投稿が世界市場を攪乱 原油先物の巨額取引にインサイダー取引の疑念 - BigGo ファイナンス",
+    "timestamp": "2026-07-31T03:17:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏のSNS投稿が原油先物市場に急激な影響を与えた。巨額の取引にインサイダー取引の疑念が浮上し、市場の混乱と規制リスクが懸念される。政治家の発言による予測不可能な市場変動が顕在化。"
+  },
+  {
+    "title": "アジアの原油価格は、「黒い黄金」の供給量増加に伴い下落した。 - Vietnam.vn",
+    "timestamp": "2026-07-31T08:01:24+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アジア地域の原油価格が供給量増加に伴い下落している。供給過剰圧力が相場を押し下げている状況。市場参加者への一般的な観測記事。"
+  },
+  {
+    "title": "本日（7月31日）の燃料価格：世界の原油価格は落ち着きを見せ、国内の新価格が発表されました。 - Vietnam.vn",
+    "timestamp": "2026-07-31T00:54:08+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月31日のベトナム国内燃料価格改定に関するニュース。世界原油価格は落ち着きを見せており、市場は安定的に推移している状況が報じられている。"
+  },
+  {
+    "title": "決算:住友商事の純利益11%増 4〜6月、銅価格上昇で資源好調 - 日本経済新聞",
+    "timestamp": "2026-07-31T07:34:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "住友商事の4～6月期決算で純利益が11%増加し、銅価格上昇が資源部門の好調に寄与した。企業業績の確認であり、既に市場に織り込まれた銅相場の反映。"
   }
 ]
