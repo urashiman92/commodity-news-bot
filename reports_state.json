@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC+ likely to pause oil output hikes after September, sources say - Reuters",
-    "timestamp": "2026-07-28T12:07:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月以降の石油増産を一時停止する可能性が高いと複数の関係者が述べた。これは5月の減産決定を受けた継続的な市場管理姿勢を反映している。供給制限の継続は原油相場を下支えする要因となる。"
-  },
-  {
-    "title": "OPEC+ Likely to Pause Oil Output Hikes After September - EnergyNow.com",
-    "timestamp": "2026-07-28T12:32:04+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月以降の原油増産ペースを一時停止する可能性が示唆された。これは足元での減産政策の効果確認と市場バランスの調整を意味し、供給面での慎重姿勢を反映している。既報の段階的増産計画の調整観測であり、大きなサプライズではない。"
-  },
-  {
     "title": "Explorer Intersects Extensive New Copper-Gold System in Southern British Columbia - Streetwise Reports",
     "timestamp": "2026-07-28T15:17:07+00:00",
     "importance": 3,
@@ -86,17 +64,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが北極海ルートを通じた石油流出を増加させ、西側制裁下での輸出維持を図っている。北極海航路の利用拡大により、従来のスエズ運河経由よりも迂回ルートが確保され、ロシアの供給能力維持が強化される見通し。地政学的リスク管理として重要な展開。"
-  },
-  {
-    "title": "OPEC+ Plans Quota-Hikes Pause After September, Delegates Say - Bloomberg.com",
-    "timestamp": "2026-07-28T12:18:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+代表が9月以降の生産枠増加の一時停止を計画していることを明らかにした。既に実施されていた段階的増産から一転して増産ペースの緩和を検討する方針。市場は供給抑制の継続を材料に原油価格を支持する方向。"
   },
   {
     "title": "Crop Progress",
@@ -867,5 +834,27 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "銅価格が供給逼迫を背景に大幅上昇し、鉱業株も連動して上昇した。供給サイドの構造的な逼迫感が市場で認識され始めており、特にエネルギー転換需要（EV・再生可能エネルギー）向けの銅需要増加が続く中での供給制約が投資家の関心を集めている。"
+  },
+  {
+    "title": "Cartel at Dusk: OPEC’s Future After the Iran War - Gulf International Forum",
+    "timestamp": "2026-07-28T19:46:11+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECのカルテル構造が弱体化し、イラン情勢の不確実性がエネルギー市場に長期的な影響を及ぼす可能性を示唆するレポート。OPECの減産調整能力の低下が予想される一方、イラン制裁やサプライチェーン混乱による原油供給ショックのリスクも存在。地政学的リスク要因として注視が必要。"
+  },
+  {
+    "title": "Cartel at Dusk: OPEC’s Future After the Iran War - Gulf International Forum",
+    "timestamp": "2026-07-28T19:46:11+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECのカルテル構造が弱体化し、イラン情勢の不確実性がエネルギー市場に長期的な影響を及ぼす可能性を示唆するレポート。OPECの減産調整能力の低下が予想される一方、イラン制裁やサプライチェーン混乱による原油供給ショックのリスクも存在。地政学的リスク要因として注視が必要。"
   }
 ]
