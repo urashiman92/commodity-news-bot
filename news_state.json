@@ -1,38 +1,5 @@
 [
   {
-    "title": "金先物Ｗブル - 日本経済新聞",
-    "timestamp": "2026-07-29T09:30:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物のダブルブルETF（Wブル）に関する記事。金価格動向の解説または商品紹介と推定される。具体的なニュースイベントや価格材料は特定できない。"
-  },
-  {
-    "title": "2026年7月29日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-29T08:56:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する定期的なマーケットウォッチ記事。金価格ではなく株価指数先物の市場情報であるため、コモディティ投資家に直接的な影響なし。"
-  },
-  {
-    "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-07-29T09:15:02+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NEXT NOTES 金先物ダブル・ブル ETN【2036】の株価情報ページ。金先物に2倍のレバレッジをかけた商品の紹介記事。具体的な価格変動や市場材料の報道ではなく、商品情報の掲載。"
-  },
-  {
     "title": "$WTI 原油先物(2609) (CLmain.US)$ $PCHEM (5183.MY)$ - Moomoo",
     "timestamp": "2026-07-29T12:22:19+00:00",
     "importance": 1,
@@ -64,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の緊迫化に伴い原油価格が急騰した。地政学的リスクによる供給懸念が市場を牽引。コモディティ投資家にとって重要なポジション判断局面。"
-  },
-  {
-    "title": "JX金属の株価は今後どうなる？IPO後4倍超の急騰銘柄を徹底分析！チャート・業績・銅価格から読み解く投資戦略 Aroldis Chapman (vzK1XUAymC) - Mshale",
-    "timestamp": "2026-07-29T08:29:54+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属の株価分析記事。IPO後の急騰を背景にチャート・業績・銅価格から投資戦略を解説。コモディティ銅価格との連動性を探る内容。"
   },
   {
     "title": "2026年8月の金価格予測：弱気相場かサイクル底か - BeInCrypto",
@@ -1890,5 +1846,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は現在もみ合い圏内にあり、明確な反転の兆候が確認されていない。テクニカル的には方向性が定まらない状況が続いている。"
+  },
+  {
+    "title": "8月1日午後、金価格は予想外に反転し、多くの銘柄で大幅な下落が見られた。 - Vietnam.vn",
+    "timestamp": "2026-08-01T09:14:21+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月1日午後に金価格が予想外に反転し、下落した。複数の銘柄で大幅な下げが観測された。詳細な下落要因の記述がなく、市場の短期的な調整の可能性。"
+  },
+  {
+    "title": "本日（2026年8月1日）の金価格：1オンスあたり1億3700万～1億4100万ベトナムドン（SJC）、下落。 - Vietnam.vn",
+    "timestamp": "2026-08-01T08:54:53+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC）が1オンスあたり1億3700万～1億4100万ベトナムドンで下落した。地域市場の日次相場動向を示すニュース。"
   }
 ]
