@@ -11,17 +11,6 @@
     "summary": "EIA週間原油在庫統計で予想を大幅に上回る減少幅を記録した。実績は-7.167百万バレルに対し、市場予想は-1.272百万バレルであり、減少幅が約5.6倍の大幅なサプライズとなった。この強い需給引き締まりを背景に原油先物は新高値を更新した。"
   },
   {
-    "title": "Ukraine Says It Hit Major Rosneft Refinery in Russia’s Ryazan - Bloomberg",
-    "timestamp": "2026-07-29T09:28:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア南部リャザン州の主要石油精製所ロスネフチ施設を攻撃したと発表。同施設はロシア最大級の精製能力を持つ重要インフラ。供給減少懸念から原油価格に上昇圧力。地政学的リスク再燃。"
-  },
-  {
     "title": "US commercial crude stocks fall to lowest since 2018 on higher exports, refinery processing, EIA says - BOE Report",
     "timestamp": "2026-07-29T15:23:01+00:00",
     "importance": 3,
@@ -537,5 +526,16 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "7月のAAFC（カナダ農業食料庁）更新により、新穀期末在庫の見直しが行われた。カナダの穀物供給見通しが改定されることで、北米全体の穀物需給バランスに影響を与える可能性がある。具体的な改定内容が明確でないため、市場反応は方向性によって変動する見込み。"
+  },
+  {
+    "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices. - marketwatch.com",
+    "timestamp": "2026-08-01T11:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+がイラン情勢の緊迫化に伴い石油産出枠の段階的引き上げを継続する可能性がある。しかし記事のタイトルが示唆するように、増産措置は原油価格の低下には直結しないとの見解。地政学的リスクプレミアムと供給増加圧力が相殺される可能性を指摘。"
   }
 ]
