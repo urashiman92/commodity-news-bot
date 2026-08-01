@@ -1,27 +1,5 @@
 [
   {
-    "title": "2026年7月30日午前5時時点の金価格：SJC金、9999金リング、および世界の金価格に関する最新情報。 - Vietnam.vn",
-    "timestamp": "2026-07-29T22:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の定期的な価格情報提供ニュース。時間帯別の相場データを報道したもので、新規の市場材料は含まれていない。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、銀が上昇 金、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-29T22:25:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場でエネルギー（原油、ガソリン、天然ガス）と銀が上昇する一方、貴金属（金）、工業金属（銅）、農産物（トウモロコシ、小麦、大豆）が下落した。相反する動きが見られている。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4066ドル｜FOMCの金利据え置き決定により、買い優勢だった模様(2026年7月30日) - OANDA証券",
     "timestamp": "2026-07-29T23:04:14+00:00",
     "importance": 3,
@@ -174,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物とブレント先物の相場表示に関するMoomooの記事。具体的な市場動向や新規情報は含まれていない。市場データの提示のみと考えられる。"
-  },
-  {
-    "title": "中東衝突再開で急騰した国際原油価格...ブレント原油の終値は90ドル台 - 매일경제",
-    "timestamp": "2026-07-29T21:51:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東における衝突の再開により、国際原油価格が急騰した。ブレント原油は90ドル台まで上昇し、地政学的リスク要因が市場に大きな影響を与えている。供給途絶への懸念が価格を押し上げている。"
   },
   {
     "title": "盛屯鉱業、上半期の純利益71%増の18億元、銅・コバルト・ニッケルの全工程連携が奏功 - BigGo ファイナンス",
@@ -1802,5 +1769,38 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で原油が上昇する一方、ガソリン、天然ガス、貴金属、農産物が広範に下落。複数資産クラスでの同時下げは需要減速懸念を反映している可能性がある。"
+  },
+  {
+    "title": "イラン・米国緊張と原油急騰、ロシア・ウクライナ戦争激化、ドローン戦拡大が日本経済に及ぼす深刻な影響 - ニコニコニュース",
+    "timestamp": "2026-08-01T20:30:23+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン・米国の地政学的緊張、ロシア・ウクライナ戦争の激化、ドローン戦の拡大により原油価格が急騰。これらの要因は既に市場で織り込まれつつある既報事象の解説・分析記事。"
+  },
+  {
+    "title": "NY原油先物：反発、対ロシア制裁警戒と中東情勢緊迫化で買い優勢 提供 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-07-31T23:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が反発。対ロシア制裁の警戒感と中東情勢の緊迫化が買い圧力となっている。地政学的リスク要因が価格を支えている。"
+  },
+  {
+    "title": "本日（8月1日）の燃料価格：世界の原油価格は上昇、国内価格は低水準を維持。 - Vietnam.vn",
+    "timestamp": "2026-08-01T00:47:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月1日時点でのベトナム国内燃料価格レポート。世界原油価格は上昇傾向だが、国内価格は低水準を維持している状況を報じている。"
   }
 ]
