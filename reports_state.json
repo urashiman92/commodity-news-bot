@@ -66,28 +66,6 @@
     "summary": "本レポートは、農業コモディティプログラムが収穫時に農民への支払いを実行することの重要性を主張している。タイムリーな支払いにより、農民のキャッシュフロー改善と経営安定化が図られ、作付意欲の維持につながる可能性がある。政策設計の改善が穀物供給の安定性向上をもたらす観点からの提言。"
   },
   {
-    "title": "US-Saudi consortium advances plans for $5 billion Gulf refinery - Reuters",
-    "timestamp": "2026-07-29T06:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国とサウジアラビアのコンソーシアムが湾岸地域に50億ドルの製油所建設計画を進めている。既報のプロジェクト続報であり、具体的な完成時期や稼働開始時期の明記がないため、市場への直接的なインパクトは限定的。製油能力の増強は中期的な原油需要に中立的に作用する可能性がある。"
-  },
-  {
-    "title": "US-Saudi consortium advances plans for $5 billion Gulf refinery - Reuters",
-    "timestamp": "2026-07-29T06:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国とサウジアラビアのコンソーシアムが湾岸地域に50億ドルの製油所建設計画を進めている。既報のプロジェクト続報であり、具体的な完成時期や稼働開始時期の明記がないため、市場への直接的なインパクトは限定的。製油能力の増強は中期的な原油需要に中立的に作用する可能性がある。"
-  },
-  {
     "title": "Federal Reserve issues FOMC statement",
     "timestamp": "2026-07-29T18:00:00+00:00",
     "importance": 3,
@@ -493,5 +471,49 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDAの定期レポート発表によりトウモロコシと大豆の価格が上昇し、売却機会が広がった。強化された穀物価格により農家や流通業者の販売ウインドウが開いた状況。報告内容の具体的な数値が記事から明確でないため、予想比のサプライズ度は判定困難。"
+  },
+  {
+    "title": "Copper price rally gathers pace amid global supply squeeze - Mining.com.au",
+    "timestamp": "2026-07-31T22:03:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅相場が世界的な供給逼迫を背景にラリーを加速させている。グローバルサプライチェーンの混乱と鉱山生産の制約が価格上昇圧力となっており、特に電動車やクリーンエネルギー関連需要の増加が支援材料となっている。"
+  },
+  {
+    "title": "Copper price rally gathers pace amid global supply squeeze - Mining.com.au",
+    "timestamp": "2026-07-31T22:03:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅相場が世界的な供給逼迫を背景にラリーを加速させている。グローバルサプライチェーンの混乱と鉱山生産の制約が価格上昇圧力となっており、特に電動車やクリーンエネルギー関連需要の増加が支援材料となっている。"
+  },
+  {
+    "title": "Serbia secures US sanctions waiver for its Russian-owned NIS oil firm, energy minister says - Reuters",
+    "timestamp": "2026-07-31T19:26:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "セルビアが米国からロシア系石油企業NISに対する制裁除外措置を確保したと発表。ロシア産原油の欧州への供給経路が限定的に確保される見通しで、供給逼迫懸念が緩和。ウクライナ情勢下での西側制裁強化の中での異例の対ロシア制裁緩和は地政学的な政策転換を示唆。"
+  },
+  {
+    "title": "Serbia secures US sanctions waiver for its Russian-owned NIS oil firm, energy minister says - Reuters",
+    "timestamp": "2026-07-31T19:26:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "セルビアが米国からロシア系石油企業NISに対する制裁除外措置を確保したと発表。ロシア産原油の欧州への供給経路が限定的に確保される見通しで、供給逼迫懸念が緩和。ウクライナ情勢下での西側制裁強化の中での異例の対ロシア制裁緩和は地政学的な政策転換を示唆。"
   }
 ]
