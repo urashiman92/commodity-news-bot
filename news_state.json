@@ -1,16 +1,5 @@
 [
   {
-    "title": "米・イラン和平への期待後退、「原油相場」はホルムズ海峡と紅海の供給不安で再度上昇の可能性 - ダイヤモンド・オンライン",
-    "timestamp": "2026-07-29T19:13:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン和平期待の後退により、中東地政学リスクが再燃。ホルムズ海峡・紅海での供給不安が原油相場の上昇圧力となる可能性を指摘する解説。"
-  },
-  {
     "title": "ニューヨーク原油先物市場概況・29日 4日ぶり反発 - Moomoo",
     "timestamp": "2026-07-29T20:48:17+00:00",
     "importance": 2,
@@ -1813,5 +1802,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ前大統領がイランへの再度の軍事攻撃を脅した直後、地政学的リスクプレミアムが急速に反映され原油価格が急騰した。中東地政学緊張の再燃が供給リスクを顕在化させた。"
+  },
+  {
+    "title": "Gold Price on 30 July 2026 - Gold Price",
+    "timestamp": "2026-08-01T00:50:14+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月30日時点の金価格に関する単なる価格情報。具体的な市場変動要因や経済指標を含まない日次相場記事。"
+  },
+  {
+    "title": "2026年8月2日、金価格は米イラン紛争以来最大の急上昇を記録した。4000ドルは重要な「防衛線」であり、新たな上昇トレンドが明確に現れているのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-08-01T16:44:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が米イラン紛争以来の大幅上昇を記録し、4000ドル水準が心理的サポートレベルとして注目されている。地政学的リスク高まりと有事需要が背景。新たな上昇トレンド形成の可能性が指摘されている。"
+  },
+  {
+    "title": "米コモディティー市場－原油が上昇 ガソリン、天然ガス、金、銀、銅、トウモロコシ、小麦、大豆が下落 - TradingView",
+    "timestamp": "2026-07-31T22:24:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油が上昇する一方、ガソリン、天然ガス、貴金属、農産物が広範に下落。複数資産クラスでの同時下げは需要減速懸念を反映している可能性がある。"
   }
 ]
