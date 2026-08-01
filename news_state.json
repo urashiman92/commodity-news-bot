@@ -1,16 +1,5 @@
 [
   {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ $PCHEM (5183.MY)$ - Moomoo",
-    "timestamp": "2026-07-29T12:22:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とマレーシアの石油化学企業の関連性を示すニュース。具体的な価格動向や新情報が含まれていない。リンク先の詳細内容が不明のため判断困難。"
-  },
-  {
     "title": "2026年8月の金価格予測：弱気相場かサイクル底か - BeInCrypto",
     "timestamp": "2026-07-29T13:23:42+00:00",
     "importance": 2,
@@ -44,17 +33,6 @@
     "summary": "黒海からの穀物輸出に混乱が生じたことを受け、小麦先物価格が上昇。黒海地域はグローバル小麦供給の重要な拠点であり、輸出障害は国際相場に直結する要因となっている。"
   },
   {
-    "title": "USX730.13でのレジスタンステスト：カンザスシティ小麦価格はブレイクアウトできるか？ - Traders Union",
-    "timestamp": "2026-07-29T12:25:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦がUSX730.13のレジスタンスレベルをテストしている状況についての技術分析コメンタリー。ブレイクアウトの可能性を検討した相場観察記事。"
-  },
-  {
     "title": "中東情勢が急変、トランプ氏がイランへの「痛撃」示唆 国際原油価格が7%超急騰 - BigGo ファイナンス",
     "timestamp": "2026-07-29T14:56:00+00:00",
     "importance": 4,
@@ -86,17 +64,6 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "米国の天気予報が改善され、トウモロコシの生育状況への懸念が後退。供給懸念の緩和によりトウモロコシ先物が売られた。季節的な天気改善による需給緩和は市場の既定路線。"
-  },
-  {
-    "title": "米国産トウモロコシの優良率、週間で4ポイント急落し3年ぶりの大幅悪化 穀物インフレ警報が鳴り響く - BigGo ファイナンス",
-    "timestamp": "2026-07-29T12:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "米国産トウモロコシの優良率が週間で4ポイント急落し、3年ぶりの大幅悪化を記録した。作柄悪化は供給懸念を生み、穀物価格の上昇圧力となる。インフレリスク警告が市場に広がっている。"
   },
   {
     "title": "大豆相場、8月の中西部降雨予報を受けて下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1890,5 +1857,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル買い圧力がNY原油先物と米債利回り上昇に関連している。ドル強化は原油価格（ドル建て）の下落要因となる。既に進行中の相場動向の観測報道。"
+  },
+  {
+    "title": "米国債市場：米国債は下落圧力を受け、欧州債の売りに加えて原油価格の上昇が重なっている。 - Moomoo",
+    "timestamp": "2026-07-31T21:10:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国債が売り圧力を受けており、欧州債の売却と原油価格上昇が同時に進行している。原油価格の上昇はインフレ懸念を強め、米国債利回り上昇を促している。これは既に市場で認識されている主要なマクロトレンド。"
+  },
+  {
+    "title": "【欧州市況】国債下落、原油高でインフレリスク－株は上げ消す - TBS NEWS DIG",
+    "timestamp": "2026-07-31T22:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州市場で原油高がインフレリスクとして認識され、国債売却圧力が強まっている。原油相場の上昇が金利上昇を牽引し、株式市場の上昇利益が相殺される展開。"
   }
 ]
