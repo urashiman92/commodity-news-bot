@@ -22,17 +22,6 @@
     "summary": "日経225先物の証拠金・オプション市場に関する定期的なマーケットウォッチ記事。金価格ではなく株価指数先物の市場情報であるため、コモディティ投資家に直接的な影響なし。"
   },
   {
-    "title": "原油価格急落も、為替は「40年ぶり円安水準」のまま…ドル円が「円高」にならない理由とは？ - トウシル",
-    "timestamp": "2026-07-29T08:05:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が急落する中でもドル円が円安水準を維持している現象について、金利差や日銀政策などの要因を解説するコメンタリー記事。原油と為替の非連動性を指摘。"
-  },
-  {
     "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
     "timestamp": "2026-07-29T09:15:02+00:00",
     "importance": 1,
@@ -1879,5 +1868,27 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "大豆先物の現在値を表示したデータポイント。1170.310での取引状況を示しているが、時系列変化や市場コンテキストが不明。"
+  },
+  {
+    "title": "Gold Price on 01 July 2026 - Gold Price",
+    "timestamp": "2026-08-01T03:15:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年7月1日の金価格に関する記事。具体的な価格データや市場分析は提供されていない。過去の金価格情報の参照ページと考えられる。"
+  },
+  {
+    "title": "金価格は依然としてもみ合い、反転の兆候はまだ確認されていません - Laodong.vn",
+    "timestamp": "2026-08-01T07:17:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は現在もみ合い圏内にあり、明確な反転の兆候が確認されていない。テクニカル的には方向性が定まらない状況が続いている。"
   }
 ]
