@@ -1,16 +1,5 @@
 [
   {
-    "title": "トランプ氏が「イランを引き裂く」と宣言したとの報道を受け、世界の金価格は下落した。 - Vietnam.vn",
-    "timestamp": "2026-07-29T17:04:11+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "トランプ氏がイランに対する強硬姿勢を示唆したとの報道で金価格が下落。地政学的リスク低減が材料。市場は既にトランプ政権の対イラン政策を織り込み始めている可能性がある。"
-  },
-  {
     "title": "米・イラン和平への期待後退、「原油相場」はホルムズ海峡と紅海の供給不安で再度上昇の可能性 - ダイヤモンド・オンライン",
     "timestamp": "2026-07-29T19:13:00+00:00",
     "importance": 4,
@@ -1802,5 +1791,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油高騰によりエクソン・モービルとシェブロンの利益が増加。エクソンは予想未達、シェブロンは予想上回りで明暗が分かれた。既に市場が織り込んでいる景気変動の延長線。"
+  },
+  {
+    "title": "本日8月1日、金価格は全面的に急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-01T15:16:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月1日に金価格が全面的に急落した。具体的な下落要因は記事概要に記載されていない。市場の技術的調整または利益確定の可能性が考えられる。"
+  },
+  {
+    "title": "トランプがイランを再び攻撃すると脅した後、原油価格が急騰 - VOI.id",
+    "timestamp": "2026-08-01T07:44:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がイランへの再度の軍事攻撃を脅した直後、地政学的リスクプレミアムが急速に反映され原油価格が急騰した。中東地政学緊張の再燃が供給リスクを顕在化させた。"
   }
 ]
