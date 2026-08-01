@@ -11,28 +11,6 @@
     "summary": "WTI原油先物とマレーシアの石油化学企業の関連性を示すニュース。具体的な価格動向や新情報が含まれていない。リンク先の詳細内容が不明のため判断困難。"
   },
   {
-    "title": "岡山県内でガソリン価格値上げ イラン情勢悪化、原油価格高騰 - 山陽新聞",
-    "timestamp": "2026-07-29T10:31:47+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン情勢悪化に伴う原油価格高騰により、岡山県内でガソリン価格が値上げされた。地政学的リスク要因が既に市場に織り込まれている状況の続報。"
-  },
-  {
-    "title": "中東情勢の緊迫化により、原油価格が急騰した。 - Vietnam.vn",
-    "timestamp": "2026-07-29T10:43:49+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫化に伴い原油価格が急騰した。地政学的リスクによる供給懸念が市場を牽引。コモディティ投資家にとって重要なポジション判断局面。"
-  },
-  {
     "title": "2026年8月の金価格予測：弱気相場かサイクル底か - BeInCrypto",
     "timestamp": "2026-07-29T13:23:42+00:00",
     "importance": 2,
@@ -1868,5 +1846,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格（SJC）が1オンスあたり1億3700万～1億4100万ベトナムドンで下落した。地域市場の日次相場動向を示すニュース。"
+  },
+  {
+    "title": "本日（8月1日午後）の金価格：国内および国際的な金価格は同時に下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-01T07:42:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月1日午後、国内および国際的な金価格が同時に下落した。特定の下落要因は記事から明確ではなく、日次の相場変動を伝えるニュース。"
+  },
+  {
+    "title": "インド石油、原油価格変動で2026年第1四半期に純損失を計上 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-01T08:42:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "インド石油が2026年第1四半期に原油価格変動の影響で純損失を計上する見通し。石油企業の決算影響を示す事例だが、市場全体の需給を左右するニュースではない。"
+  },
+  {
+    "title": "ややドル買い、ＮＹ原油先物や米債利回り上昇で＝ロンドン為替 - Moomoo",
+    "timestamp": "2026-08-01T03:11:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物の上昇とドル高が連動している相場解説。米債利回り上昇がドル買いを誘発。原油価格への直接的な新規材料ではなく、既存の価格動向の振り返り。"
+  },
+  {
+    "title": "ややドル買い、ＮＹ原油先物や米債利回り上昇で＝ロンドン為替 - みんかぶ",
+    "timestamp": "2026-07-31T11:44:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル買い圧力がNY原油先物と米債利回り上昇に関連している。ドル強化は原油価格（ドル建て）の下落要因となる。既に進行中の相場動向の観測報道。"
   }
 ]
