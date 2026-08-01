@@ -1,60 +1,5 @@
 [
   {
-    "title": "Crude oil inventories fall -7.167M versus -1.272M estimate. Crude oil futures move to new highs - investingLive",
-    "timestamp": "2026-07-29T14:52:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で予想を大幅に上回る減少幅を記録した。実績は-7.167百万バレルに対し、市場予想は-1.272百万バレルであり、減少幅が約5.6倍の大幅なサプライズとなった。この強い需給引き締まりを背景に原油先物は新高値を更新した。"
-  },
-  {
-    "title": "US commercial crude stocks fall to lowest since 2018 on higher exports, refinery processing, EIA says - BOE Report",
-    "timestamp": "2026-07-29T15:23:01+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の商業用原油在庫が2018年以来の最低水準に低下した。輸出増加と製油所の処理量増加が在庫減少の主要因。供給面での逼迫が緩和される可能性がある一方、需要の堅調さと供給圧力のバランスが継続している状況。"
-  },
-  {
-    "title": "Timely Payments: The Case for Commodity Programs That Pay at Harvest - farmdoc daily",
-    "timestamp": "2026-07-29T15:00:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "本レポートは、農業コモディティプログラムが収穫時に農民への支払いを実行することの重要性を主張している。タイムリーな支払いにより、農民のキャッシュフロー改善と経営安定化が図られ、作付意欲の維持につながる可能性がある。政策設計の改善が穀物供給の安定性向上をもたらす観点からの提言。"
-  },
-  {
-    "title": "Timely Payments: The Case for Commodity Programs That Pay at Harvest - farmdoc daily",
-    "timestamp": "2026-07-29T15:00:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "本レポートは、農業コモディティプログラムが収穫時に農民への支払いを実行することの重要性を主張している。タイムリーな支払いにより、農民のキャッシュフロー改善と経営安定化が図られ、作付意欲の維持につながる可能性がある。政策設計の改善が穀物供給の安定性向上をもたらす観点からの提言。"
-  },
-  {
-    "title": "Timely Payments: The Case for Commodity Programs That Pay at Harvest - farmdoc daily",
-    "timestamp": "2026-07-29T15:00:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "本レポートは、農業コモディティプログラムが収穫時に農民への支払いを実行することの重要性を主張している。タイムリーな支払いにより、農民のキャッシュフロー改善と経営安定化が図られ、作付意欲の維持につながる可能性がある。政策設計の改善が穀物供給の安定性向上をもたらす観点からの提言。"
-  },
-  {
     "title": "Federal Reserve issues FOMC statement",
     "timestamp": "2026-07-29T18:00:00+00:00",
     "importance": 3,
@@ -495,39 +440,6 @@
     "summary": "セルビアが米国からロシア系石油企業NISに対する制裁除外措置を確保したと発表。ロシア産原油の欧州への供給経路が限定的に確保される見通しで、供給逼迫懸念が緩和。ウクライナ情勢下での西側制裁強化の中での異例の対ロシア制裁緩和は地政学的な政策転換を示唆。"
   },
   {
-    "title": "July AAFC Update Offers Revised Look at New-Crop Ending Stocks - DTN Progressive Farmer",
-    "timestamp": "2026-07-29T14:22:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "7月のAAFC（カナダ農業食料庁）更新により、新穀期末在庫の見直しが行われた。カナダの穀物供給見通しが改定されることで、北米全体の穀物需給バランスに影響を与える可能性がある。具体的な改定内容が明確でないため、市場反応は方向性によって変動する見込み。"
-  },
-  {
-    "title": "July AAFC Update Offers Revised Look at New-Crop Ending Stocks - DTN Progressive Farmer",
-    "timestamp": "2026-07-29T14:22:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "7月のAAFC（カナダ農業食料庁）更新により、新穀期末在庫の見直しが行われた。カナダの穀物供給見通しが改定されることで、北米全体の穀物需給バランスに影響を与える可能性がある。具体的な改定内容が明確でないため、市場反応は方向性によって変動する見込み。"
-  },
-  {
-    "title": "July AAFC Update Offers Revised Look at New-Crop Ending Stocks - DTN Progressive Farmer",
-    "timestamp": "2026-07-29T14:22:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "7月のAAFC（カナダ農業食料庁）更新により、新穀期末在庫の見直しが行われた。カナダの穀物供給見通しが改定されることで、北米全体の穀物需給バランスに影響を与える可能性がある。具体的な改定内容が明確でないため、市場反応は方向性によって変動する見込み。"
-  },
-  {
     "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices. - marketwatch.com",
     "timestamp": "2026-08-01T11:00:00+00:00",
     "importance": 3,
@@ -537,5 +449,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+がイラン情勢の緊迫化に伴い石油産出枠の段階的引き上げを継続する可能性がある。しかし記事のタイトルが示唆するように、増産措置は原油価格の低下には直結しないとの見解。地政学的リスクプレミアムと供給増加圧力が相殺される可能性を指摘。"
+  },
+  {
+    "title": "Indian Oil Buys Record Spot Market Crude on Mideast Supply Hit - Bloomberg.com",
+    "timestamp": "2026-08-01T09:30:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インド国営石油会社（IOC）が中東供給途絶への対応として過去最高水準のスポット市場での原油買い付けを実施。中東地域の地政学的リスク顕在化により、世界最大級の原油買い手がスポット調達を急増させた。供給逼迫の懸念が急速に高まり、原油価格上昇圧力が強まっている。"
   }
 ]
