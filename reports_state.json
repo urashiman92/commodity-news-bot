@@ -220,17 +220,6 @@
     "summary": "金価格が軟調となった。米国10年物財務省債（Treasury）利回りの上昇が金の下押し圧力となり、Warsh氏のインフレメッセージへの焦点が相殺された。金利上昇は無利子資産である金の機会費用を高め、投資家の需要を減じさせる要因として機能している。"
   },
   {
-    "title": "OPEC+ Eyes Pause in Oil Output Hikes After September - Egypt Oil & Gas",
-    "timestamp": "2026-07-29T07:34:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月以降の石油増産ペースを一時停止する可能性を検討していると報じられた。既に実施中の段階的な増産計画の継続ではなく、増産ペースを緩めるシグナルは、供給面での引き締め継続姿勢を示唆しており、原油価格の下値支持に作用する見込み。"
-  },
-  {
     "title": "Summer USDA reports set the tone for grain markets - Agweek",
     "timestamp": "2026-07-30T10:32:49+00:00",
     "importance": 3,
@@ -515,5 +504,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "セルビアが米国からロシア系石油企業NISに対する制裁除外措置を確保したと発表。ロシア産原油の欧州への供給経路が限定的に確保される見通しで、供給逼迫懸念が緩和。ウクライナ情勢下での西側制裁強化の中での異例の対ロシア制裁緩和は地政学的な政策転換を示唆。"
+  },
+  {
+    "title": "July AAFC Update Offers Revised Look at New-Crop Ending Stocks - DTN Progressive Farmer",
+    "timestamp": "2026-07-29T14:22:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "7月のAAFC（カナダ農業食料庁）更新により、新穀期末在庫の見直しが行われた。カナダの穀物供給見通しが改定されることで、北米全体の穀物需給バランスに影響を与える可能性がある。具体的な改定内容が明確でないため、市場反応は方向性によって変動する見込み。"
+  },
+  {
+    "title": "July AAFC Update Offers Revised Look at New-Crop Ending Stocks - DTN Progressive Farmer",
+    "timestamp": "2026-07-29T14:22:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "7月のAAFC（カナダ農業食料庁）更新により、新穀期末在庫の見直しが行われた。カナダの穀物供給見通しが改定されることで、北米全体の穀物需給バランスに影響を与える可能性がある。具体的な改定内容が明確でないため、市場反応は方向性によって変動する見込み。"
+  },
+  {
+    "title": "July AAFC Update Offers Revised Look at New-Crop Ending Stocks - DTN Progressive Farmer",
+    "timestamp": "2026-07-29T14:22:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "7月のAAFC（カナダ農業食料庁）更新により、新穀期末在庫の見直しが行われた。カナダの穀物供給見通しが改定されることで、北米全体の穀物需給バランスに影響を与える可能性がある。具体的な改定内容が明確でないため、市場反応は方向性によって変動する見込み。"
   }
 ]
