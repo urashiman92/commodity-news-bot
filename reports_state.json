@@ -1,38 +1,5 @@
 [
   {
-    "title": "Fed Holds Steady, Middle East Tensions Flare: Japan and South Korea Stocks Extend Losses, Gold Rebounds Above $4,076 - finance.biggo.com",
-    "timestamp": "2026-07-30T01:06:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "FRBが金利据え置きを決定する一方、中東地域の緊張激化が地政学的リスクとして浮上。金は4,076ドルを超えて反発した。日本・韓国株が売却圧力を受ける中、金は有事の資金逃避先として機能。原油相場も中東情勢の不確実性による上昇圧力を受ける可能性。"
-  },
-  {
-    "title": "Fed Holds Steady, Middle East Tensions Flare: Japan and South Korea Stocks Extend Losses, Gold Rebounds Above $4,076 - finance.biggo.com",
-    "timestamp": "2026-07-30T01:06:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "FRBが金利据え置きを決定する一方、中東地域の緊張激化が地政学的リスクとして浮上。金は4,076ドルを超えて反発した。日本・韓国株が売却圧力を受ける中、金は有事の資金逃避先として機能。原油相場も中東情勢の不確実性による上昇圧力を受ける可能性。"
-  },
-  {
-    "title": "Fed Holds Steady, Middle East Tensions Flare: Japan and South Korea Stocks Extend Losses, Gold Rebounds Above $4,076 - finance.biggo.com",
-    "timestamp": "2026-07-30T01:06:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "FRBが金利据え置きを決定する一方、中東地域の緊張激化が地政学的リスクとして浮上。金は4,076ドルを超えて反発した。日本・韓国株が売却圧力を受ける中、金は有事の資金逃避先として機能。原油相場も中東情勢の不確実性による上昇圧力を受ける可能性。"
-  },
-  {
     "title": "EIA reports a big draw in US crude oil stocks - engine.online",
     "timestamp": "2026-07-30T06:31:09+00:00",
     "importance": 3,
@@ -42,28 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の大幅な減少（ドロー）を報告した。在庫減少は需要堅調または供給制約を示唆し、原油価格の上昇圧力となる。具体的な在庫減少量の詳細データが示されていないため、サプライズ度の判定が困難である。"
-  },
-  {
-    "title": "Gold slips as higher Treasury yields offset focus on Warsh's inflation message - Reuters",
-    "timestamp": "2026-07-30T01:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "金価格が軟調となった。米国10年物財務省債（Treasury）利回りの上昇が金の下押し圧力となり、Warsh氏のインフレメッセージへの焦点が相殺された。金利上昇は無利子資産である金の機会費用を高め、投資家の需要を減じさせる要因として機能している。"
-  },
-  {
-    "title": "Gold slips as higher Treasury yields offset focus on Warsh's inflation message - Reuters",
-    "timestamp": "2026-07-30T01:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金価格が軟調となった。米国10年物財務省債（Treasury）利回りの上昇が金の下押し圧力となり、Warsh氏のインフレメッセージへの焦点が相殺された。金利上昇は無利子資産である金の機会費用を高め、投資家の需要を減じさせる要因として機能している。"
   },
   {
     "title": "Summer USDA reports set the tone for grain markets - Agweek",
@@ -185,50 +130,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間在庫統計でクッシング地区の原油在庫が再び大幅に低下し、批判的に危険な水準（critically dangerous levels）に達した。クッシング地区は米国最大の戦略的備蓄拠点であり、供給逼迫リスクが高まる。在庫低下は供給制約を示唆し、原油価格の上昇要因となる。"
-  },
-  {
-    "title": "Minor adjustments to the 2026 beef production forecast - Ag Proud",
-    "timestamp": "2026-07-30T04:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE関連の2026年牛肉生産予測に軽微な調整が加えられた。牛肉生産量の見直しは飼料需要（トウモロコシ・大豆粕）に波及する可能性があるが、「軽微な調整」との表現から予想範囲内の小幅修正と判断される。市場への大きなインパクトは限定的と考えられる。"
-  },
-  {
-    "title": "Minor adjustments to the 2026 beef production forecast - Ag Proud",
-    "timestamp": "2026-07-30T04:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE関連の2026年牛肉生産予測に軽微な調整が加えられた。牛肉生産量の見直しは飼料需要（トウモロコシ・大豆粕）に波及する可能性があるが、「軽微な調整」との表現から予想範囲内の小幅修正と判断される。市場への大きなインパクトは限定的と考えられる。"
-  },
-  {
-    "title": "Minor adjustments to the 2026 beef production forecast - Ag Proud",
-    "timestamp": "2026-07-30T04:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE関連の2026年牛肉生産予測に軽微な調整が加えられた。牛肉生産量の見直しは飼料需要（トウモロコシ・大豆粕）に波及する可能性があるが、「軽微な調整」との表現から予想範囲内の小幅修正と判断される。市場への大きなインパクトは限定的と考えられる。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
-    "timestamp": "2026-07-30T03:00:26+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後の独自戦略として、2025年に石油生産を日量500万バレルを超える水準に引き上げる計画。IEAがこの見通しを発表。UAEの増産推進は供給増加圧力となるが、既に市場に織り込まれている可能性が高い。"
   },
   {
     "title": "Oil Heads for Monthly Surge of 21% as US-Iran War Strains Supply - Bloomberg.com",
@@ -372,5 +273,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "インド国営石油会社（IOC）が中東供給途絶への対応として過去最高水準のスポット市場での原油買い付けを実施。中東地域の地政学的リスク顕在化により、世界最大級の原油買い手がスポット調達を急増させた。供給逼迫の懸念が急速に高まり、原油価格上昇圧力が強まっている。"
+  },
+  {
+    "title": "Russia imports gasoline cargo from Morocco, market sources say - Reuters",
+    "timestamp": "2026-07-31T09:49:45+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアがモロッコからガソリンカーゴを輸入したと市場筋が報じた。西側制裁下でのロシアのエネルギー調達ルートの多様化を示唆する事例。ただし単一カーゴ報道のため市場への直接的な価格インパクトは限定的と考えられる。"
   }
 ]
