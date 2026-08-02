@@ -240,5 +240,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "データセンター建設ブームに伴い、労働者向住宅需要が急増している。AI・クラウドインフラ投資拡大がデータセンター建設を加速させ、建設資材（銅配線・構造用鋼材など）と建設労働力の需要が増加。インフレ圧力とコモディティ需要の構造的上昇トレンドを示唆。"
+  },
+  {
+    "title": "OPEC+ Agree To Boost Oil Output. It May Not Reflect In Market Soon. - International Business Times",
+    "timestamp": "2026-08-02T16:10:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が石油増産に合意したが、市場への実際の影響は限定的である可能性が指摘されている。増産決定は既に市場で予想されていた可能性が高く、実際の供給増加までには時間差が生じることが懸念されている。"
+  },
+  {
+    "title": "Chevron records highest quarterly profit in six years, beating analyst estimates - Reuters",
+    "timestamp": "2026-07-31T21:28:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "シェブロンが過去6年間で最高の四半期利益を記録し、アナリスト予想を上回った。石油メジャーの好調な業績は、現在の原油価格水準（WTI/Brent）の堅調性と企業キャッシュフロー改善を示唆している。エネルギーセクター全体の収益性向上は、石油開発投資継続と供給インセンティブを支援する要因となる。"
+  },
+  {
+    "title": "Chevron records highest quarterly profit in six years, beating analyst estimates - Reuters",
+    "timestamp": "2026-07-31T21:28:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "シェブロンが過去6年間で最高の四半期利益を記録し、アナリスト予想を上回った。石油メジャーの好調な業績は、現在の原油価格水準（WTI/Brent）の堅調性と企業キャッシュフロー改善を示唆している。エネルギーセクター全体の収益性向上は、石油開発投資継続と供給インセンティブを支援する要因となる。"
   }
 ]
