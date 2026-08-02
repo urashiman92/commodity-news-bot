@@ -1,27 +1,5 @@
 [
   {
-    "title": "2026年7月31日の金価格：SJC金価格が上昇、世界価格は4,100ドルを突破。 - Vietnam.vn",
-    "timestamp": "2026-07-30T22:05:35+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が上昇し、世界価格が1オンス4,100ドルを突破した。ベトナムのSJC金価格も同調して上昇。既に進行中の上昇トレンドの継続を報じている。"
-  },
-  {
-    "title": "サウジ主導の紅海防衛連盟で原油急反落、前日の急騰から一転 - BigGo ファイナンス",
-    "timestamp": "2026-07-30T21:39:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジ主導の紅海防衛連盟設立が発表され、前日の地政学リスク懸念による急騰から反発。地域の安全保障強化見通しで、供給リスク低減と判断され原油が調整売りに転じた。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4103ドル｜ドルインデックスの大幅下落が影響し、買いの勢いが強まった模様(2026年7月31日) - OANDA証券",
     "timestamp": "2026-07-30T23:03:18+00:00",
     "importance": 2,
@@ -240,17 +218,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格は日中下落したものの、月間ベースでは約20%の上昇を維持している。短期的な調整の中でも強気地合いが続いている状況。"
-  },
-  {
-    "title": "米コモディティー市場－天然ガス、金、銀、銅、小麦が上昇 原油、ガソリン、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-07-30T22:25:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で天然ガス、貴金属（金・銀）、銅、小麦が上昇する一方、原油とガソリン、トウモロコシが下落。市場内での相対的な強弱の振り分けが生じている状況。"
   },
   {
     "title": "アジアの金価格は、4カ月連続の下落局面を脱する見込みだ。 - Vietnam.vn",
@@ -1494,5 +1461,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "OPECプラス7か国が9月も日量18万バレル超の増産を継続発表。供給増加圧力が原油相場の上値を抑制する見通し。既に報じられた方針の継続確認。"
+  },
+  {
+    "title": "原油相場が急落、ブレント一時7%安ートランプ氏、イラン攻撃中止表明 - Bloomberg.com",
+    "timestamp": "2026-08-02T22:19:45+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイラン攻撃中止を表明したことで、地政学リスク緩和が意識され原油相場が急落。ブレント原油が一時7%下げ、地政学プレミアムの剥落を示唆。イラン情勢の緊張緩和が確認される重要な転機。"
   }
 ]
