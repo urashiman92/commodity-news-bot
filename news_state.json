@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日（7月30日）の金価格：急騰 - Vietnam.vn",
-    "timestamp": "2026-07-30T02:42:06+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月30日の金価格が急騰したというニュース。具体的な上昇率や上昇要因は記事内容から不明。ベトナムの金市場に関する観測記事と思われる。"
-  },
-  {
-    "title": "金価格は再び上昇したが、買い手はまだ損失を免れていない。 - Vietnam.vn",
-    "timestamp": "2026-07-30T02:25:09+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が再び上昇したが、買い手はまだ含み損の状態にある。価格反発後も購入時の高値水準には達していない可能性が高い。"
-  },
-  {
-    "title": "金価格は反転し、1テールあたり最大150万ベトナムドン上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-30T03:23:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が反転し、1テール（地域的な単位）あたり最大150万ベトナムドン上昇した。ローカル市場での価格変動を報じるニュースで、グローバル金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "中東情勢の緊張が高まる：原油価格は反転上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-30T04:21:04+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊張が高まっており、原油価格が反転上昇している。地政学的リスク要因が供給懸念を引き起こしている。具体的な事象の詳細は不明だが、市場は敏感に反応。"
-  },
-  {
     "title": "7月30日の金価格：金地金と金指輪が同時に急騰した。 - Vietnam.vn",
     "timestamp": "2026-07-30T05:53:48+00:00",
     "importance": 2,
@@ -66,28 +22,6 @@
     "summary": "ベトナム国内の金価格が7月30日午後に急騰したことを報じるニュース。特定の上昇要因は明記されていない。"
   },
   {
-    "title": "金価格は1オンスあたり4000ドルを下回った後、FRBの政策決定を受けて反転上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-30T03:57:49+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4000ドルを割った後、FRBの政策決定を受けて反転上昇した。金融政策の方向性が相場の重要な転換点となった。"
-  },
-  {
-    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-07-30T04:28:10+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Yahoo!ファイナンスのWTI原油価格連動型上場投信【1671】の株価情報ページへのリンク。ファイナンシャルデータプラットフォーム上での情報提供であり、新規ニュースイベントではない。"
-  },
-  {
     "title": "ダウ1100ドル超下落 中東情勢悪化で原油先物価格の高騰受け（2026年7月29日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
     "timestamp": "2026-07-30T05:44:01+00:00",
     "importance": 4,
@@ -108,28 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢悪化により原油先物価格が高騰し、リスク回避売りでダウ平均が1100ドルを超えて下落。株式市場が原油上昇のインフレ圧力と景気減速懸念に反応。コモディティ価格上昇と株式下落の逆相関が顕著。"
-  },
-  {
-    "title": "ペルシャ湾の緊張で原油価格が下落、供給経路に市場が注目 - Межа. Новини України.",
-    "timestamp": "2026-07-30T05:37:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ペルシャ湾における地政学的緊張が原油価格下落をもたらした。市場はホルムズ海峡などの主要供給経路の安全性に注視している。緊張の具体的な内容や程度が不明確なため詳細分析が困難。"
-  },
-  {
-    "title": "冷房による供給不足への懸念から、大豆価格は下落圧力にさらされている。 - Vietnam.vn",
-    "timestamp": "2026-07-30T05:25:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "ベトナムからの報道。冷房（冷蔵・保管施設の問題と推定）による供給不足懸念が大豆相場に下落圧力をもたらしているとの分析。具体的な数量や地域の詳細は不明。"
   },
   {
     "title": "2026年7月30日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -196,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国債券市場の30日の見通しに関する解説記事。原油価格の動向が債券市場に影響を与える可能性があると指摘している。具体的な原油価格データや予想値の記載がない。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ カップアンドハンドル形成中。 - Moomoo",
-    "timestamp": "2026-07-30T05:28:50+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物がテクニカル分析上のカップアンドハンドル形成中との指摘。チャートパターン解説であり、今後の上昇可能性を示唆する分析。"
   },
   {
     "title": "ダウ1100ドル超下落 中東情勢悪化で原油先物価格の高騰受け - TVer",
@@ -297,17 +198,6 @@
     "summary": "金価格は現在調整局面にあるものの、需要は堅調に推移している。価格下押し圧力がある中でも、実需ベースでのサポートが存在することを示唆。"
   },
   {
-    "title": "【金価格ディリーレポート】金価格、19年ぶり高水準の米長期国債利回りへの懸念の中、市場のFRB見通し修正で底堅く推移 - ブリオンボールト",
-    "timestamp": "2026-07-30T05:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米長期国債利回りが19年ぶり高水準となる中、金価格は底堅く推移。市場がFRB（米連邦準備制度理事会）の金融政策見通しを修正し、金の買い需要が支えている状況。"
-  },
-  {
     "title": "金先物、1.58%上昇し2日続落に終止符 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-30T18:46:00+00:00",
     "importance": 2,
@@ -328,17 +218,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "タイトルは金価格3%上昇を謳っているが、本文はブリストル・マイヤーズ・スクイブの決算が主題であり、金市場との直接的な因果関係が不明確。医薬品企業決算と金価格上昇の相関は薄い。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年7月30日）金価格、19年ぶり高水準の米長期国債利回りへの懸念の中、市場のFRB見通し修正で底堅く推移 - ブリオンボールト",
-    "timestamp": "2026-07-30T05:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は19年ぶり高水準の米長期国債利回りへの懸念の中、市場のFRB見通し修正を受けて底堅く推移している。金利上昇環境でも金が支持されている状況を反映。"
   },
   {
     "title": "原油再び上昇、ブレント92ドルに－米イランの戦闘再開受け - TBS NEWS DIG",
@@ -372,17 +251,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジ主導の紅海防衛連盟設立が発表され、前日の地政学リスク懸念による急騰から反発。地域の安全保障強化見通しで、供給リスク低減と判断され原油が調整売りに転じた。"
-  },
-  {
-    "title": "Crude Oil Perpetual Futures 取引 (CL) - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-30T04:16:01+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Investing.comにおけるCL（原油先物永続契約）の取引情報ページ。具体的なニュース内容や価格変動要因の記載がない。市場データの表示・配信のみと推定される。"
   },
   {
     "title": "カンザスシティ小麦価格の急騰：注目すべき上値目標 - Traders Union",
@@ -1604,5 +1472,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ブレント原油が8月2日時点で1バレル90ドルを突破した。ベトナムでは国内燃料価格への波及を懸念する声が出ている。既に報じられた価格帯の続報と見られる。"
+  },
+  {
+    "title": "8月2日の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-08-02T00:26:35+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月2日の金価格が全般的に下落したというニュース。具体的な下落幅や要因については記事本文の詳細が不明。市場振り返り型の報道と推測される。"
+  },
+  {
+    "title": "本日（8月2日）の金価格：下落傾向 - Vietnam.vn",
+    "timestamp": "2026-08-02T01:40:44+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月2日の金価格が下落傾向を示している。ベトナムのローカルニュースによる相場観測の報道。具体的な下落要因や数値は記事概要に記載されていない。"
+  },
+  {
+    "title": "本日（8月2日）の金価格：SJCとDOJIの金価格は小幅に変動。世界市場は金融引き締め政策による圧力にさらされている。 - Vietnam.vn",
+    "timestamp": "2026-08-02T03:19:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月2日のベトナム金市場（SJC、DOJI）は小幅な値動き。世界的な金融引き締め政策が金相場に下押し圧力をかけている状況が続いている。"
+  },
+  {
+    "title": "今日の金価格 8月2日:1週間で1テールあたり550万ドンもの大きな損失 - Laodong.vn",
+    "timestamp": "2026-08-02T03:01:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1週間で1テール当たり550万ドン下落したことを報じるニュース。地域的な価格変動の振り返り記事であり、国内商品相場の日次リポート性質が強い。"
+  },
+  {
+    "title": "本日2026年8月2日、金価格が急落し、SJCの金指輪は600万ベトナムドン近く値下がりした。 - Vietnam.vn",
+    "timestamp": "2026-08-02T03:26:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売価格が急落し、SJC金指輪が約600万ベトナムドン値下がり。国内の小売価格変動を報じたニュース。"
+  },
+  {
+    "title": "本日、2026年8月2日の金価格：SJCの金価格は90万ベトナムドン下落しました。 - Vietnam.vn",
+    "timestamp": "2026-08-02T03:36:57+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が90万ベトナムドン下落したことを報じるニュース。地域の日次相場情報であり、グローバル金市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "2026年8月2日現在の金価格：今週は下落傾向にあり、買い手は引き続き損失を被っている。 - Vietnam.vn",
+    "timestamp": "2026-08-02T03:36:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月2日時点で金価格が週間ベースで下落トレンドにある。買い手が損失を被っている状況が続いている。価格調整局面と見られる。"
+  },
+  {
+    "title": "本日の燃料価格（8月2日）：世界の原油価格は今週を通して変動しました。 - Vietnam.vn",
+    "timestamp": "2026-08-02T01:06:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムのニュースサイトによる8月2日の燃料価格レポート。世界原油価格が週間を通じて変動したことを報じているが、具体的な数値や要因の詳細は不明。"
+  },
+  {
+    "title": "米石油大手２社、大幅増益｜四国新聞WEB朝刊 - 四国新聞",
+    "timestamp": "2026-08-01T14:38:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米石油大手2社が大幅増益を報告。原油価格の堅調推移と生産・販売体制の効率化が寄与。業界全体の収益性向上を示唆する。"
   }
 ]
