@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は調整局面も、金の需要は底堅く推移 - ニコニコニュース",
-    "timestamp": "2026-07-30T16:18:15+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は現在調整局面にあるものの、需要は堅調に推移している。価格下押し圧力がある中でも、実需ベースでのサポートが存在することを示唆。"
-  },
-  {
     "title": "金先物、1.58%上昇し2日続落に終止符 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-07-30T18:46:00+00:00",
     "importance": 2,
@@ -1472,5 +1461,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "Yahoo!ファイナンスによるNEXT NOTES ドバイ原油先物ダブル・ブルETN【2038】の銘柄情報ページの掲載。具体的なニュースイベントではなく、金融商品の情報リンクである。"
+  },
+  {
+    "title": "原油価格の下落にもかかわらず、燃料価格が落ち着く可能性は低い。 - Vietnam.vn",
+    "timestamp": "2026-08-02T15:10:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が下落している一方で、燃料価格は低下しにくい状況が続く見通し。下流産業の構造的要因が原油安を相殺している可能性。"
   }
 ]
