@@ -1,16 +1,5 @@
 [
   {
-    "title": "Cushing crude oil stocks dropped more to critically dangerous levels - Oklahoma Energy Today",
-    "timestamp": "2026-07-30T15:33:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計でクッシング地区の原油在庫が再び大幅に低下し、批判的に危険な水準（critically dangerous levels）に達した。クッシング地区は米国最大の戦略的備蓄拠点であり、供給逼迫リスクが高まる。在庫低下は供給制約を示唆し、原油価格の上昇要因となる。"
-  },
-  {
     "title": "Oil Heads for Monthly Surge of 21% as US-Iran War Strains Supply - Bloomberg.com",
     "timestamp": "2026-07-30T22:04:24+00:00",
     "importance": 4,
@@ -20,39 +9,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "米国とイランの軍事紛争がエスカレートし、原油供給に対する懸念が急速に高まっている。当月の原油価格は21%の上昇を記録し、地政学的リスクプレミアムが大幅に織り込まれた。中東の主要産油国であるイランの潜在的な供給途絶が投資家心理を悪化させている。"
-  },
-  {
-    "title": "Russia's Ryazan refinery has halted oil processing after drone attack, sources say - Reuters",
-    "timestamp": "2026-07-30T16:17:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアのリャザン製油所がドローン攻撃により石油処理を停止した。同製油所は日量約65万バレルの処理能力を有する主要施設であり、供給断絶は欧州・グローバル市場における原油需給逼迫を招く。ウクライナ紛争の激化に伴うロシア石油インフラへの攻撃エスカレーションが確認された。"
-  },
-  {
-    "title": "Copper price jumps on tightening supply, mining stocks rally - Mining.com",
-    "timestamp": "2026-07-30T15:51:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が供給逼迫を背景に大幅上昇し、鉱業株も連動して上昇した。供給サイドの構造的な逼迫感が市場で認識され始めており、特にエネルギー転換需要（EV・再生可能エネルギー）向けの銅需要増加が続く中での供給制約が投資家の関心を集めている。"
-  },
-  {
-    "title": "Copper price jumps on tightening supply, mining stocks rally - Mining.com",
-    "timestamp": "2026-07-30T15:51:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅価格が供給逼迫を背景に大幅上昇し、鉱業株も連動して上昇した。供給サイドの構造的な逼迫感が市場で認識され始めており、特にエネルギー転換需要（EV・再生可能エネルギー）向けの銅需要増加が続く中での供給制約が投資家の関心を集めている。"
   },
   {
     "title": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll - Reuters",
@@ -240,5 +196,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が9月の石油生産量引き上げに合意した。イラン情勢の緊張緩和の兆しがある中での決定だが、具体的な増産規模は明記されていない。市場予想の範囲内での調整と見られる。"
+  },
+  {
+    "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - CNBC",
+    "timestamp": "2026-08-02T13:09:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが9月の石油増産を決定し、自主的な減産措置の段階的解除を完了する。2023年から続く減産政策の最終段階として、市場予想通りの段階的な生産回復が進行。供給増加局面へのシフトが確定し、原油価格への下押し圧力となる可能性がある。"
+  },
+  {
+    "title": "OPEC+ boosts September oil output, future pause foreseen | Daily Sabah - Daily Sabah",
+    "timestamp": "2026-08-02T12:21:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月の原油生産量を増加させることを発表。ただし将来的には生産調整の一時停止が見込まれている。供給増加は短期的には価格押し下げ要因となるが、その後の減産シグナルが相殺する可能性がある。"
+  },
+  {
+    "title": "Data Center Boom Fueling Demand for Workforce Housing - Bloomberg",
+    "timestamp": "2026-07-31T17:48:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "データセンター建設ブームに伴い、労働者向住宅需要が急増している。AI・クラウドインフラ投資拡大がデータセンター建設を加速させ、建設資材（銅配線・構造用鋼材など）と建設労働力の需要が増加。インフレ圧力とコモディティ需要の構造的上昇トレンドを示唆。"
+  },
+  {
+    "title": "Data Center Boom Fueling Demand for Workforce Housing - Bloomberg",
+    "timestamp": "2026-07-31T17:48:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "データセンター建設ブームに伴い、労働者向住宅需要が急増している。AI・クラウドインフラ投資拡大がデータセンター建設を加速させ、建設資材（銅配線・構造用鋼材など）と建設労働力の需要が増加。インフレ圧力とコモディティ需要の構造的上昇トレンドを示唆。"
   }
 ]
