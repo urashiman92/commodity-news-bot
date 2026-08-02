@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA reports a big draw in US crude oil stocks - engine.online",
-    "timestamp": "2026-07-30T06:31:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の大幅な減少（ドロー）を報告した。在庫減少は需要堅調または供給制約を示唆し、原油価格の上昇圧力となる。具体的な在庫減少量の詳細データが示されていないため、サプライズ度の判定が困難である。"
-  },
-  {
     "title": "Summer USDA reports set the tone for grain markets - Agweek",
     "timestamp": "2026-07-30T10:32:49+00:00",
     "importance": 3,
@@ -284,5 +273,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアがモロッコからガソリンカーゴを輸入したと市場筋が報じた。西側制裁下でのロシアのエネルギー調達ルートの多様化を示唆する事例。ただし単一カーゴ報道のため市場への直接的な価格インパクトは限定的と考えられる。"
+  },
+  {
+    "title": "EIA: China draws crude stocks as imports slide 32% - Oil & Gas Journal",
+    "timestamp": "2026-07-31T16:48:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "中国が原油在庫を取り崩す一方、原油輸入が32%減少したことが報告された。在庫放出は需要不足を示唆し、中国の経済活動鈍化が原油需要減につながっている。輸入急減は需給バランスの悪化を加速させ、原油相場の下押し圧力となる。"
+  },
+  {
+    "title": "Tricky talks at OPEC - economist.com",
+    "timestamp": "2026-08-02T00:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの交渉が難航していることを報じるコメンタリー。減産合意の継続や追加調整をめぐる加盟国間の立場の相違が浮き彫りになっている。具体的な交渉内容や決定時期については詳細が不明。"
+  },
+  {
+    "title": "Tricky talks at OPEC - economist.com",
+    "timestamp": "2026-08-02T00:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECの交渉が難航していることを報じるコメンタリー。減産合意の継続や追加調整をめぐる加盟国間の立場の相違が浮き彫りになっている。具体的な交渉内容や決定時期については詳細が不明。"
   }
 ]
