@@ -242,17 +242,6 @@
     "summary": "原油価格は日中下落したものの、月間ベースでは約20%の上昇を維持している。短期的な調整の中でも強気地合いが続いている状況。"
   },
   {
-    "title": "銅価格の直近3.0%急騰の背景は？ - Traders Union",
-    "timestamp": "2026-07-30T19:27:41+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が直近3.0%上昇した。本ニュースは価格変動の背景分析記事と見られる。既に発生した値動きに関する解説記事。"
-  },
-  {
     "title": "米コモディティー市場－天然ガス、金、銀、銅、小麦が上昇 原油、ガソリン、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
     "timestamp": "2026-07-30T22:25:00+00:00",
     "importance": 2,
@@ -1472,5 +1461,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物の取引情報を提供するMoomooのページへのリンク。具体的なニュース内容や価格変動の情報は含まれていない。"
+  },
+  {
+    "title": "本日8月2日の金価格は急落し、買い手は大きな損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-08-02T14:25:21+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月2日のベトナム市場で金価格が急落したとの報道。買い手が損失を被ったが、具体的な下落原因や下落幅が記事から不明。地域限定的なニュースの可能性が高い。"
+  },
+  {
+    "title": "米イラン“戦闘再開”で原油生産「西半球シフト」加速、中東のシェアはいずれ30％前後に低下!? - ダイヤモンド・オンライン",
+    "timestamp": "2026-08-02T19:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン緊張激化により、中東の地政学リスクが再認識される。長期的には米国・南米など西半球の原油生産シフトが加速し、中東のシェアが30%程度まで低下する可能性が指摘されている。既知のトレンド分析の解説記事。"
+  },
+  {
+    "title": "OPECプラスの7か国 9月も日量18万バレル余の増産発表 - NHKニュース",
+    "timestamp": "2026-08-02T20:10:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラス7か国が9月も日量18万バレル超の増産を継続発表。供給増加圧力が原油相場の上値を抑制する見通し。既に報じられた方針の継続確認。"
   }
 ]
