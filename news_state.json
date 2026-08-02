@@ -1,71 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4103ドル｜ドルインデックスの大幅下落が影響し、買いの勢いが強まった模様(2026年7月31日) - OANDA証券",
-    "timestamp": "2026-07-30T23:03:18+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4103ドルまで上昇。ドルインデックスの大幅下落が主な上昇要因。既知の為替メカニズムによる既定路線の値動き。"
-  },
-  {
-    "title": "本日（7月31日）の金価格：反転上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-30T23:07:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月31日の金価格が反転上昇したとの報道。具体的な上昇幅やファンダメンタル要因は記事概要に記載されていない。市場の技術的なリバウンドまたは日次の変動の可能性が高い。"
-  },
-  {
-    "title": "2026年7月31日現在の金価格：急騰しているものの、投資家は依然として不安を抱えている。 - Vietnam.vn",
-    "timestamp": "2026-07-30T23:09:02+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は急騰している一方で、投資家心理は慎重なままである。記事は既に進行中の価格上昇を振り返る解説で、具体的なファンダメンタルズの変化は不明確。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：利益確定売りの動きが強まり、原油価格は2営業日ぶりに下落（2026年7月31日） - OANDA証券",
-    "timestamp": "2026-07-30T23:16:34+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油は利益確定売りが強まり2営業日ぶりに下落。技術的な売却圧力による調整局面と判断される。市場の根本的なファンダメンタルズ変化ではなく、短期的な値動き."
-  },
-  {
-    "title": "本日（7月31日）の原油価格：紅海保護のための連合結成案を受けて、価格上昇は鈍化している。 - Vietnam.vn",
-    "timestamp": "2026-07-30T22:51:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "紅海保護のための連合結成案が報じられたことで、原油価格の上昇ペースが鈍化している。地政学的リスク緩和への期待が価格上昇を抑制。既報事象の続報段階。"
-  },
-  {
-    "title": "３０日の主要国際商品市況 - 株探",
-    "timestamp": "2026-07-30T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "30日の主要国際商品市況の定期報告。具体的な価格データや市場動向が示されていないため、詳細な分析が困難。"
-  },
-  {
     "title": "Fed金利据え置きと中東情勢緊迫で、金現物が2%近く急騰し4,100ドルの大台を回復 - BigGo ファイナンス",
     "timestamp": "2026-07-31T00:43:04+00:00",
     "importance": 4,
@@ -119,28 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が激しい値動きの後、下落で決着した。具体的なボラティリティ要因や下落幅が記事から不明。相場の振り返り評論と推定される。"
-  },
-  {
-    "title": "米連邦準備制度理事会（FRB）の金利変更への期待感から、銅価格が上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-30T23:27:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "FRBの金利変更期待から銅価格が上昇。金利低下予想は需要・ドル安の両面で銅価格を支える要因となっている。マクロ環境への感応度が高い銅の典型的な値動き。"
-  },
-  {
-    "title": "３０日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-07-30T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "30日の主要国際商品市況についての市場動向レポート。具体的なニュース内容が示されていないため、相場の振り返り・観測記事と推定される。"
   },
   {
     "title": "金価格は小幅下落も、2月以来初の月間上昇へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1472,5 +1384,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイラン攻撃中止を表明したことで、地政学リスク緩和が意識され原油相場が急落。ブレント原油が一時7%下げ、地政学プレミアムの剥落を示唆。イラン情勢の緊張緩和が確認される重要な転機。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4045ドル｜米長期金利の上昇が影響し、売り優勢だった模様(2026年8月3日) - OANDA証券",
+    "timestamp": "2026-08-02T23:05:21+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4045ドルまで下落。米長期金利の上昇が主因で売り優勢となった。ドル高・実質金利上昇環境は金にとって逆風材料。"
+  },
+  {
+    "title": "ニューモント株に注目 金価格連動を狙う有力ゴールド株3選 - simplywall.st",
+    "timestamp": "2026-08-02T08:02:45+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューモント等の有力ゴールド株3社の投資機会を紹介する解説記事。金価格連動を狙う投資家向けの銘柄分析で、新規ニュースではなく既存銘柄の相場観測。"
+  },
+  {
+    "title": "原油先物5ドル超安、米のイラン攻撃見送り受け - ロイター",
+    "timestamp": "2026-08-02T22:29:44+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン攻撃を見送ったことで、地政学的リスク低減期待が急速に高まった。原油先物が5ドルを超える大幅下落。中東緊張の緩和が織り込まれた。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：エネルギー供給への不安感が高まり、原油価格は反発（2026年8月3日） - OANDA証券",
+    "timestamp": "2026-08-02T23:14:40+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "エネルギー供給への不安感の高まりが原油価格の反発を支えている状況を解説したコメンタリー。具体的な供給ショック情報は記事から判読できない。市場の心理的要因がドライバーとなっている。"
+  },
+  {
+    "title": "原油先物5ドル超安、米のイラン攻撃見送り受け - ニューズウィーク日本版",
+    "timestamp": "2026-08-02T22:28:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン攻撃を見送ったことで地政学的リスクが低下し、原油先物が5ドルを超える大幅下落。中東情勢の緊張緩和が価格を圧迫。今後の供給リスク軽減が意識される。"
+  },
+  {
+    "title": "７月３１日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-02T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "7月31日の主要国際商品市況に関する日次レポート。具体的な価格データや市場動向の詳細が記事概要に示されていない。市況全般の定期更新版と推定される。"
   }
 ]
