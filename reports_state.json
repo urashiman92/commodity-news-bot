@@ -143,28 +143,6 @@
     "summary": "OPEC+が石油増産に合意したが、市場への実際の影響は限定的である可能性が指摘されている。増産決定は既に市場で予想されていた可能性が高く、実際の供給増加までには時間差が生じることが懸念されている。"
   },
   {
-    "title": "Chevron records highest quarterly profit in six years, beating analyst estimates - Reuters",
-    "timestamp": "2026-07-31T21:28:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "シェブロンが過去6年間で最高の四半期利益を記録し、アナリスト予想を上回った。石油メジャーの好調な業績は、現在の原油価格水準（WTI/Brent）の堅調性と企業キャッシュフロー改善を示唆している。エネルギーセクター全体の収益性向上は、石油開発投資継続と供給インセンティブを支援する要因となる。"
-  },
-  {
-    "title": "Chevron records highest quarterly profit in six years, beating analyst estimates - Reuters",
-    "timestamp": "2026-07-31T21:28:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "シェブロンが過去6年間で最高の四半期利益を記録し、アナリスト予想を上回った。石油メジャーの好調な業績は、現在の原油価格水準（WTI/Brent）の堅調性と企業キャッシュフロー改善を示唆している。エネルギーセクター全体の収益性向上は、石油開発投資継続と供給インセンティブを支援する要因となる。"
-  },
-  {
     "title": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - Reuters",
     "timestamp": "2026-08-02T23:41:00+00:00",
     "importance": 3,
@@ -383,5 +361,104 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が9月に6ヶ月連続で原油生産量を引き上げた。段階的な増産政策の継続により、市場への供給圧力が続く。既報の増産計画の一貫性を示すもので、サプライズは限定的。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-03T21:31:11.847436+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況（優良率など）を報告。具体的な数値がないため詳細評価は困難だが、作物状況が市場予想と大きく乖離する場合には相場変動要因となり得る。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-03T21:31:11.847436+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況（優良率など）を報告。具体的な数値がないため詳細評価は困難だが、作物状況が市場予想と大きく乖離する場合には相場変動要因となり得る。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-03T21:31:11.847436+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況（優良率など）を報告。具体的な数値がないため詳細評価は困難だが、作物状況が市場予想と大きく乖離する場合には相場変動要因となり得る。"
+  },
+  {
+    "title": "Is The U.S. ‘Gas Tank’ Running On Empty? Are Reported Shortages Real? - Forbes",
+    "timestamp": "2026-07-31T23:17:27+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国のガソリン在庫水準に関する解説記事。報道されている供給不足が実際に存在するのか、またはEIA統計との乖離があるのかを検証するコンテンツ。エネルギー市場の需給バランスについての議論的分析で、既報の統計情報の再検討が主眼。"
+  },
+  {
+    "title": "Is The U.S. ‘Gas Tank’ Running On Empty? Are Reported Shortages Real? - Forbes",
+    "timestamp": "2026-07-31T23:17:27+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国のガソリン在庫水準に関する解説記事。報道されている供給不足が実際に存在するのか、またはEIA統計との乖離があるのかを検証するコンテンツ。エネルギー市場の需給バランスについての議論的分析で、既報の統計情報の再検討が主眼。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 61% Good to Excellent; Soybeans 63% Good to Excellent as of Aug. 2 - DTN Progressive Farmer",
+    "timestamp": "2026-08-03T08:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress報告によると、8月2日時点でトウモロコシは61%が良好〜優秀、大豆は63%が良好〜優秀と評価されている。両作物とも平年レベルの良好な生育状況が続いており、市場予想の範囲内の定期進捗報告。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 61% Good to Excellent; Soybeans 63% Good to Excellent as of Aug. 2 - DTN Progressive Farmer",
+    "timestamp": "2026-08-03T08:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress報告によると、8月2日時点でトウモロコシは61%が良好〜優秀、大豆は63%が良好〜優秀と評価されている。両作物とも平年レベルの良好な生育状況が続いており、市場予想の範囲内の定期進捗報告。"
+  },
+  {
+    "title": "Opec-Plus Rolls Back 2023 Cut, Sets Stage for Output Surge - Energy Intelligence",
+    "timestamp": "2026-08-03T21:01:37+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が2023年に実施した減産措置を撤回し、原油増産へ舵を切る発表。供給サイドの大幅な緩和によって市場に上向きプレッシャーが加わり、特に過去数ヶ月の需給タイト化への反動として価格下落圧力が強まる見通し。地政学的リスクプレミアムの縮小も懸念される。"
+  },
+  {
+    "title": "Opec-Plus Rolls Back 2023 Cut, Sets Stage for Output Surge - Energy Intelligence",
+    "timestamp": "2026-08-03T21:01:37+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPEC+が2023年に実施した減産措置を撤回し、原油増産へ舵を切る発表。供給サイドの大幅な緩和によって市場に上向きプレッシャーが加わり、特に過去数ヶ月の需給タイト化への反動として価格下落圧力が強まる見通し。地政学的リスクプレミアムの縮小も懸念される。"
   }
 ]
