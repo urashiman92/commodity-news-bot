@@ -1,16 +1,5 @@
 [
   {
-    "title": "Fed金利据え置きと中東情勢緊迫で、金現物が2%近く急騰し4,100ドルの大台を回復 - BigGo ファイナンス",
-    "timestamp": "2026-07-31T00:43:04+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRBが金利据え置きを決定し、同時に中東情勢の緊迫化により金現物が2%近く上昇して4,100ドル/オンスを回復。金利据え置きは市場予想通りで、地政学リスク回避需要が相場を支援。"
-  },
-  {
     "title": "本日（7月31日）の金価格：SJCの金価格はわずかに上昇。 - Vietnam.vn",
     "timestamp": "2026-07-31T01:16:26+00:00",
     "importance": 1,
@@ -31,28 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月31日時点で金価格が上昇基調を継続している。具体的な上昇要因や価格水準の詳細は記事概要からは不明。市場の既存トレンドを記述したコメンタリー記事と考えられる。"
-  },
-  {
-    "title": "原油価格、7月に20%超の月間上昇へ――米イラン衝突激化と在庫急減が支援 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-31T00:19:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月の原油価格が20%超の月間上昇を記録。米イラン衝突激化と在庫急減が支援要因。既知の地政学的リスクと統計結果の後付け解説。"
-  },
-  {
-    "title": "激しい値動きの末、原油価格は下落した。 - Vietnam.vn",
-    "timestamp": "2026-07-31T00:33:25+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が激しい値動きの後、下落で決着した。具体的なボラティリティ要因や下落幅が記事から不明。相場の振り返り評論と推定される。"
   },
   {
     "title": "金価格は小幅下落も、2月以来初の月間上昇へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -187,17 +154,6 @@
     "summary": "アジア地域の原油価格が供給量増加に伴い下落している。供給過剰圧力が相場を押し下げている状況。市場参加者への一般的な観測記事。"
   },
   {
-    "title": "本日（7月31日）の燃料価格：世界の原油価格は落ち着きを見せ、国内の新価格が発表されました。 - Vietnam.vn",
-    "timestamp": "2026-07-31T00:54:08+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月31日のベトナム国内燃料価格改定に関するニュース。世界原油価格は落ち着きを見せており、市場は安定的に推移している状況が報じられている。"
-  },
-  {
     "title": "決算:住友商事の純利益11%増 4〜6月、銅価格上昇で資源好調 - 日本経済新聞",
     "timestamp": "2026-07-31T07:34:44+00:00",
     "importance": 2,
@@ -229,17 +185,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格（SJC金、9999金リング）と世界金価格の2026年7月31日午後の相場情報を掲載。定期的な価格報告であり、新規の需給情報やイベントは含まれていない。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況･30日 3日ぶり大幅反発 - Moomoo",
-    "timestamp": "2026-07-31T00:03:42+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物が3日ぶりに大幅反発した。市場概況レベルの相場振り返りニュース。具体的な材料や反発理由の記載がなく詳細不明。"
   },
   {
     "title": "金価格は利益確定の圧力に逆転、5ヶ月ぶりのブレイクスルーを目指して - Laodong.vn",
@@ -1450,5 +1395,71 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "7月31日の主要国際商品市況に関する日次レポート。具体的な価格データや市場動向の詳細が記事概要に示されていない。市況全般の定期更新版と推定される。"
+  },
+  {
+    "title": "本日（8月3日）の金価格：買い手は引き続き損失を被っている。 - Vietnam.vn",
+    "timestamp": "2026-08-02T22:34:51+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月3日時点で金価格は買い手が損失を被る状況が継続している。市場環境は引き続き売り圧力が優勢であり、買い場を探る投資家の心理が弱い状態。特段の新規イベントはなく相場の振り返り報道。"
+  },
+  {
+    "title": "$金/米ドル (XAUUSD.CFD)$ $金先物(2612) (GCmain.US)$ $SPDR ゴールド・シェア (GLD.US)$ - Moomoo",
+    "timestamp": "2026-08-02T07:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格とGLD、金先物に関するリンク集。具体的なニュース内容が不明。市場動向の単なる提示と考えられる。"
+  },
+  {
+    "title": "米国とイスラエルがイランへの攻撃を一時的に延期した場合、今週の金価格はどうなるだろうか？ - Vietnam.vn",
+    "timestamp": "2026-08-02T22:36:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国とイスラエルがイランへの攻撃を一時的に延期。地政学的緊張の緩和により、リスク資産への逃避需要が減少する可能性。金は有事資産としての買い圧力が弱まる局面。"
+  },
+  {
+    "title": "2026年8月3日午前時点の金価格：一般的な金地金は1オンスあたり1億3700万～1億4100万ベトナムドンで取引されている。 - Vietnam.vn",
+    "timestamp": "2026-08-02T22:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムにおける金地金の現物価格（1オンス当たり1億3700万～1億4100万ベトナムドン）を報道したもの。特定時点での地域相場の報告であり、市場への新規情報なし。"
+  },
+  {
+    "title": "ブレント原油先物 (UKOIL-F) は8月2日に下降 8.09%：需要の見通しは変化しているのか？ - TradingKey",
+    "timestamp": "2026-08-02T22:11:16+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油先物が8月2日に8.09%の大幅下落。需要見通しの悪化が背景にあるとみられる。記事は相場動向の解説と分析。"
+  },
+  {
+    "title": "需給の時代は終わった──コモディティ市場を動かす「地政学」の力学 - Forbes JAPAN",
+    "timestamp": "2026-08-03T00:52:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "従来の需給バランス分析に加えて、地政学的要因がコモディティ価格を決定する重要な要素となっているという解説記事。ウクライナ情勢やME緊張など既知の地政学リスクが市場に織り込まれている現状を分析。"
   }
 ]
