@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll - Reuters",
-    "timestamp": "2026-07-31T11:07:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロイターの調査により、中東の供給途絶が継続する中で原油価格の上昇が予想されている。地政学的リスクと供給不安定性が価格上昇の主要因として指摘されており、市場参加者の見方を集約したコメンタリー報告である。"
-  },
-  {
     "title": "USDA reports lift grain markets as stronger corn and soybean prices open sales window - Agrolatam",
     "timestamp": "2026-07-31T18:49:20+00:00",
     "importance": 3,
@@ -97,17 +86,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "インド国営石油会社（IOC）が中東供給途絶への対応として過去最高水準のスポット市場での原油買い付けを実施。中東地域の地政学的リスク顕在化により、世界最大級の原油買い手がスポット調達を急増させた。供給逼迫の懸念が急速に高まり、原油価格上昇圧力が強まっている。"
-  },
-  {
-    "title": "Russia imports gasoline cargo from Morocco, market sources say - Reuters",
-    "timestamp": "2026-07-31T09:49:45+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアがモロッコからガソリンカーゴを輸入したと市場筋が報じた。西側制裁下でのロシアのエネルギー調達ルートの多様化を示唆する事例。ただし単一カーゴ報道のため市場への直接的な価格インパクトは限定的と考えられる。"
   },
   {
     "title": "EIA: China draws crude stocks as imports slide 32% - Oil & Gas Journal",
@@ -264,28 +242,6 @@
     "summary": "シェブロンが過去6年間で最高の四半期利益を記録し、アナリスト予想を上回った。石油メジャーの好調な業績は、現在の原油価格水準（WTI/Brent）の堅調性と企業キャッシュフロー改善を示唆している。エネルギーセクター全体の収益性向上は、石油開発投資継続と供給インセンティブを支援する要因となる。"
   },
   {
-    "title": "Oil’s Depleted Buffer: How Low Inventories Amplify Supply Shocks - internationalbanker.com",
-    "timestamp": "2026-07-31T09:50:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国原油在庫が歴史的な低水準に低下し、供給ショック時のバッファ機能が減弱していることを指摘。在庫枯渇状態では地政学的リスクや予期しない供給断絶が価格に直結し、ボラティリティ拡大と価格上昇圧力が顕著化する懸念。低い在庫水準が市場の脆弱性を露呈させている。"
-  },
-  {
-    "title": "Oil’s Depleted Buffer: How Low Inventories Amplify Supply Shocks - internationalbanker.com",
-    "timestamp": "2026-07-31T09:50:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国原油在庫が歴史的な低水準に低下し、供給ショック時のバッファ機能が減弱していることを指摘。在庫枯渇状態では地政学的リスクや予期しない供給断絶が価格に直結し、ボラティリティ拡大と価格上昇圧力が顕著化する懸念。低い在庫水準が市場の脆弱性を露呈させている。"
-  },
-  {
     "title": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - Reuters",
     "timestamp": "2026-08-02T23:41:00+00:00",
     "importance": 3,
@@ -328,5 +284,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インド株式市場がブレント原油の下落と好決算シーズンを好感して上昇。原油価格の軟化がコモディティ価格全般に対して複合的な影響を与えている。好決算は経済活動の堅調さを示唆し、エネルギー需要への安心感につながる。"
+  },
+  {
+    "title": "OPEC 7 Decide to Boost Production Quota - Rigzone",
+    "timestamp": "2026-08-03T11:15:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの一部加盟国7カ国が石油生産枠の引き上げを決定した。供給増加により原油市場への下押し圧力が生じる。既に報道されていた減産延長からの方針転換であり、市場は段階的な供給緩和を織り込んでいる可能性がある。"
+  },
+  {
+    "title": "Kazakhstan OPEC+ Oil Production Target Rises After Output Agreement - The Times Of Central Asia",
+    "timestamp": "2026-08-03T11:57:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "カザフスタンのOPEC+における石油生産目標が増産合意により引き上げられた。同国は中央アジア有数の産油国であり、OPEC+の生産調整枠組み内での目標上方修正は市場の供給予想に影響する。具体的な増産規模や実施時期の詳細は本報道から不明だが、OPEC+の協調減産基調から微調整段階への転換を示唆している。"
+  },
+  {
+    "title": "Emerging-Market Stocks Fall as Korea Chipmakers Slide Once Again - bloomberg.com",
+    "timestamp": "2026-08-03T10:05:35+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "韓国半導体メーカー株の下落に連動して新興国株が売られている。半導体セクターの不調は景気敏感性が高く、工業需要の先行指標として機能するため、銅などの工業用金属やエネルギー関連商品に下押し圧力となる可能性がある。"
   }
 ]
