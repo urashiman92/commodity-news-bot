@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（7月31日）の金価格：絶えず変動しており、2026年9月までの予測は「不確実」なままだ。 - Vietnam.vn",
-    "timestamp": "2026-07-31T19:58:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月31日時点での金価格は継続的に変動している。2026年9月までの予測については不確実性が残るとの見方が示されている。具体的な価格水準や変動要因については詳細が不明。"
-  },
-  {
     "title": "NY金先物：反落、ドル持ち直しと利上げ観測再燃が重し(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-07-31T22:49:47+00:00",
     "importance": 3,
@@ -286,17 +275,6 @@
     "summary": "7月の原油価格上昇は供給懸念が主要因と報じられている。地政学的リスクや産油国の供給制約が市場心理を支えた形。既に価格に反映済みの事象の振り返り解説。"
   },
   {
-    "title": "OPECプラス有志国、自主減産終了の公算 「紙上の増産」にじむ苦境 - 日本経済新聞",
-    "timestamp": "2026-07-31T20:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OPECプラス有志国が自主減産を終了する見通し。市場では実質的な増産が困難との見方が広がっており、「紙上の増産」に留まる可能性が高い。供給回復期待が限定的であることを示唆。"
-  },
-  {
     "title": "トランプ氏に翻弄される日本経済…原油高騰の影響は「最低でも2年か」アメリカのガソリン備蓄激減で「日本がお金を積んでも買えない」国際政治学者も警鐘 - times.abema.tv",
     "timestamp": "2026-08-01T04:50:00+00:00",
     "importance": 4,
@@ -427,17 +405,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "中東情勢の緊迫化は地政学リスクとして認識されており、本来はリスクオフで金が買われやすい環境である。しかし金価格が急落したのは、市場が中東紛争の限定的影響を評価した、またはドル高・金利上昇などの反金要因が優越したことを示唆している。"
-  },
-  {
-    "title": "原油価格の高騰がエネルギー大手の利益を押し上げ、エクソン・モービルは4年ぶりの高水準の利益となったものの市場予想には届かず、一方シェブロンは予想を上回り6年ぶりの最高益を記録した。 - Moomoo",
-    "timestamp": "2026-07-31T19:40:55+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油高騰によりエクソン・モービルとシェブロンの利益が増加。エクソンは予想未達、シェブロンは予想上回りで明暗が分かれた。既に市場が織り込んでいる景気変動の延長線。"
   },
   {
     "title": "本日8月1日、金価格は全面的に急落した。 - Vietnam.vn",
@@ -1494,5 +1461,60 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "タイソン・フーズのQ3決算で鶏肉部門が4.88億ドルの営業利益を達成し、高付加価値事業への転換を示唆。一方、牛肉部門の損失が1.38億ドルに拡大し、セグメント間の収益格差が顕著化。食肉メーカーのコモディティ化からの脱却動向を反映。"
+  },
+  {
+    "title": "カンザスシティ小麦価格はUSX691.12のサポート付近を維持し、短期トレンドは依然として圧力下にあります。 - Traders Union",
+    "timestamp": "2026-08-03T12:35:36+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦がUSX691.12のサポートレベル付近で推移している。短期トレンドは依然として下落圧力にある状況が続いている。"
+  },
+  {
+    "title": "本日8月3日の金価格は、あらゆる方向に変動した。 - Vietnam.vn",
+    "timestamp": "2026-08-03T18:41:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月3日の金価格は複数方向への変動を記録。具体的な価格変動幅や要因については記事概要では不明。ベトナムの地域ニュースであり、グローバル市場への影響は限定的。"
+  },
+  {
+    "title": "金価格が小幅上昇、原油安とドル軟化が支援 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-03T01:23:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が小幅上昇。原油安とドル軟化が支援材料となった。既知の市場要因に基づく通常の値動き。"
+  },
+  {
+    "title": "NY外為：ドル軟調、NY原油先物は80ドル割れ、米イラン交渉再開 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-03T15:19:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル軟調を受けてNY原油先物が80ドル割れとなった。米イラン交渉の再開により供給懸念が後退し、原油需給が緩和方向と見られている。"
+  },
+  {
+    "title": "トランプ氏が対イラン攻撃を見送り、原油価格は下落もホルムズ海峡の航行は不透明に - mezha.net",
+    "timestamp": "2026-08-03T18:02:27+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイラン攻撃を見送った決定により、地政学的緊張の緩和で原油価格は下落。ただしホルムズ海峡の航行不確実性は継続し、供給リスク要因は残存。"
   }
 ]
