@@ -1,27 +1,5 @@
 [
   {
-    "title": "USDA reports lift grain markets as stronger corn and soybean prices open sales window - Agrolatam",
-    "timestamp": "2026-07-31T18:49:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの定期レポート発表によりトウモロコシと大豆の価格が上昇し、売却機会が広がった。強化された穀物価格により農家や流通業者の販売ウインドウが開いた状況。報告内容の具体的な数値が記事から明確でないため、予想比のサプライズ度は判定困難。"
-  },
-  {
-    "title": "USDA reports lift grain markets as stronger corn and soybean prices open sales window - Agrolatam",
-    "timestamp": "2026-07-31T18:49:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAの定期レポート発表によりトウモロコシと大豆の価格が上昇し、売却機会が広がった。強化された穀物価格により農家や流通業者の販売ウインドウが開いた状況。報告内容の具体的な数値が記事から明確でないため、予想比のサプライズ度は判定困難。"
-  },
-  {
     "title": "Copper price rally gathers pace amid global supply squeeze - Mining.com.au",
     "timestamp": "2026-07-31T22:03:59+00:00",
     "importance": 4,
@@ -42,28 +20,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "銅相場が世界的な供給逼迫を背景にラリーを加速させている。グローバルサプライチェーンの混乱と鉱山生産の制約が価格上昇圧力となっており、特に電動車やクリーンエネルギー関連需要の増加が支援材料となっている。"
-  },
-  {
-    "title": "Serbia secures US sanctions waiver for its Russian-owned NIS oil firm, energy minister says - Reuters",
-    "timestamp": "2026-07-31T19:26:11+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "セルビアが米国からロシア系石油企業NISに対する制裁除外措置を確保したと発表。ロシア産原油の欧州への供給経路が限定的に確保される見通しで、供給逼迫懸念が緩和。ウクライナ情勢下での西側制裁強化の中での異例の対ロシア制裁緩和は地政学的な政策転換を示唆。"
-  },
-  {
-    "title": "Serbia secures US sanctions waiver for its Russian-owned NIS oil firm, energy minister says - Reuters",
-    "timestamp": "2026-07-31T19:26:11+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "セルビアが米国からロシア系石油企業NISに対する制裁除外措置を確保したと発表。ロシア産原油の欧州への供給経路が限定的に確保される見通しで、供給逼迫懸念が緩和。ウクライナ情勢下での西側制裁強化の中での異例の対ロシア制裁緩和は地政学的な政策転換を示唆。"
   },
   {
     "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices. - marketwatch.com",
@@ -405,5 +361,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア産原油施設への攻撃戦略をシフトさせており、ロシア石油供給の不確実性が大幅に高まっている。ドローン・ミサイル攻撃の標的変更により、露国の重要な産油地帯・パイプライン・精製施設が脅威にさらされ、欧州向け供給断絶リスクが顕在化している。"
+  },
+  {
+    "title": "OPEC+ approves September output hike, completes 2023 cuts rollback - Oil & Gas Journal",
+    "timestamp": "2026-08-03T17:28:23+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月の石油生産量引き上げを承認し、2023年の減産ロールバックを完了した。この決定は2023年の生産調整政策の最終段階を示すもので、段階的な供給増加を通じて市場への供給圧力を継続する方針を反映している。既報の減産計画の延長線上にあり、市場予想の範囲内での決定。"
+  },
+  {
+    "title": "OPEC+ raises oil output for sixth straight month in September - Yahoo Finance",
+    "timestamp": "2026-08-03T12:13:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月に6ヶ月連続で原油生産量を引き上げた。段階的な増産政策の継続により、市場への供給圧力が続く。既報の増産計画の一貫性を示すもので、サプライズは限定的。"
   }
 ]
