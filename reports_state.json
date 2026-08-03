@@ -1,27 +1,5 @@
 [
   {
-    "title": "Copper price rally gathers pace amid global supply squeeze - Mining.com.au",
-    "timestamp": "2026-07-31T22:03:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅相場が世界的な供給逼迫を背景にラリーを加速させている。グローバルサプライチェーンの混乱と鉱山生産の制約が価格上昇圧力となっており、特に電動車やクリーンエネルギー関連需要の増加が支援材料となっている。"
-  },
-  {
-    "title": "Copper price rally gathers pace amid global supply squeeze - Mining.com.au",
-    "timestamp": "2026-07-31T22:03:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅相場が世界的な供給逼迫を背景にラリーを加速させている。グローバルサプライチェーンの混乱と鉱山生産の制約が価格上昇圧力となっており、特に電動車やクリーンエネルギー関連需要の増加が支援材料となっている。"
-  },
-  {
     "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices. - marketwatch.com",
     "timestamp": "2026-08-01T11:00:00+00:00",
     "importance": 3,
@@ -396,28 +374,6 @@
     "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況（優良率など）を報告。具体的な数値がないため詳細評価は困難だが、作物状況が市場予想と大きく乖離する場合には相場変動要因となり得る。"
   },
   {
-    "title": "Is The U.S. ‘Gas Tank’ Running On Empty? Are Reported Shortages Real? - Forbes",
-    "timestamp": "2026-07-31T23:17:27+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国のガソリン在庫水準に関する解説記事。報道されている供給不足が実際に存在するのか、またはEIA統計との乖離があるのかを検証するコンテンツ。エネルギー市場の需給バランスについての議論的分析で、既報の統計情報の再検討が主眼。"
-  },
-  {
-    "title": "Is The U.S. ‘Gas Tank’ Running On Empty? Are Reported Shortages Real? - Forbes",
-    "timestamp": "2026-07-31T23:17:27+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国のガソリン在庫水準に関する解説記事。報道されている供給不足が実際に存在するのか、またはEIA統計との乖離があるのかを検証するコンテンツ。エネルギー市場の需給バランスについての議論的分析で、既報の統計情報の再検討が主眼。"
-  },
-  {
     "title": "USDA Crop Progress: Corn Rated 61% Good to Excellent; Soybeans 63% Good to Excellent as of Aug. 2 - DTN Progressive Farmer",
     "timestamp": "2026-08-03T08:04:00+00:00",
     "importance": 2,
@@ -460,5 +416,27 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "OPEC+が2023年に実施した減産措置を撤回し、原油増産へ舵を切る発表。供給サイドの大幅な緩和によって市場に上向きプレッシャーが加わり、特に過去数ヶ月の需給タイト化への反動として価格下落圧力が強まる見通し。地政学的リスクプレミアムの縮小も懸念される。"
+  },
+  {
+    "title": "USDA crop report shows corn and soybean quality drop - Farm Progress",
+    "timestamp": "2026-08-03T21:54:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの作物進捗レポートでトウモロコシと大豆の品質低下が報告された。品質の悪化は収量や等級に直結し、買い手の需要・価格形成に影響を与える。具体的な品質指標（タンパク質含有率、水分率等）の数値が明記されていないため、市場反応の大きさは不明。"
+  },
+  {
+    "title": "USDA crop report shows corn and soybean quality drop - Farm Progress",
+    "timestamp": "2026-08-03T21:54:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAの作物進捗レポートでトウモロコシと大豆の品質低下が報告された。品質の悪化は収量や等級に直結し、買い手の需要・価格形成に影響を与える。具体的な品質指標（タンパク質含有率、水分率等）の数値が明記されていないため、市場反応の大きさは不明。"
   }
 ]
