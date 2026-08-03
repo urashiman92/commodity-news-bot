@@ -1,16 +1,5 @@
 [
   {
-    "title": "米日・イランの緊張が高まり、原油価格がバレル当たり3ドル上昇 - VOI.id",
-    "timestamp": "2026-07-31T17:51:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国・日本とイランの地政学的緊張の高まりを受け、原油価格がバレル当たり3ドル上昇した。中東の地政学リスクが原油供給途絶への懸念を喚起している。詳細な緊張の内容や規模が不明だが、実現力のある市場反応を示している。"
-  },
-  {
     "title": "本日（7月31日）の金価格：絶えず変動しており、2026年9月までの予測は「不確実」なままだ。 - Vietnam.vn",
     "timestamp": "2026-07-31T19:58:32+00:00",
     "importance": 1,
@@ -1461,5 +1450,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "外交的シグナルを受けて原油価格が急落した。具体的な外交内容は記事から不明だが、地政学的な緊張緩和を示唆する可能性がある。中東情勢やOPEC関連の動きに関連する可能性がある。"
+  },
+  {
+    "title": "本日の金価格（8月3日）：SJCの金地金と金指輪は同価格で販売されました。 - Vietnam.vn",
+    "timestamp": "2026-08-03T17:08:15+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金地金と金指輪が同価格で販売されたというローカルニュース。地域的な価格表示に関する報道で、グローバル金市場の需給や価格動向に直接的な影響はない。"
+  },
+  {
+    "title": "NY外為：ドル軟調、NY原油先物は80ドル割れ、米イラン交渉再開 - ｄメニューニュース",
+    "timestamp": "2026-08-03T15:19:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン交渉の再開観測によりドルが軟調となり、NY原油先物は80ドルを割れた。交渉進展によるイラン原油供給増加への懸念が相場を押し下げている。"
+  },
+  {
+    "title": "欧州国債に買い、独10年債利回り低下 原油急落でインフレ警戒後退 - BigGo ファイナンス",
+    "timestamp": "2026-08-03T17:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油急落によりインフレ懸念が後退し、欧州国債が買われた。独10年債利回りが低下する動き。原油下落が金利低下を通じて原油需要を圧迫する可能性。"
+  },
+  {
+    "title": "【タイソン・フーズ Q3 2026 決算説明会】鶏肉部門が営業利益4.88億ドルを達成、コモディティ企業からの脱却を証明—牛肉部門は損失1.38億ドルに拡大 - BigGo ファイナンス",
+    "timestamp": "2026-08-03T15:34:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "タイソン・フーズのQ3決算で鶏肉部門が4.88億ドルの営業利益を達成し、高付加価値事業への転換を示唆。一方、牛肉部門の損失が1.38億ドルに拡大し、セグメント間の収益格差が顕著化。食肉メーカーのコモディティ化からの脱却動向を反映。"
   }
 ]
