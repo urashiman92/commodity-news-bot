@@ -1,104 +1,5 @@
 [
   {
-    "title": "本日（7月31日）の金価格：SJCの金価格はわずかに上昇。 - Vietnam.vn",
-    "timestamp": "2026-07-31T01:16:26+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格がわずかに上昇したとの報道。日次の軽微な価格変動を伝えるローカルニュース。グローバル金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "本日（7月31日）の金価格：上昇継続 - Vietnam.vn",
-    "timestamp": "2026-07-31T01:50:55+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "7月31日時点で金価格が上昇基調を継続している。具体的な上昇要因や価格水準の詳細は記事概要からは不明。市場の既存トレンドを記述したコメンタリー記事と考えられる。"
-  },
-  {
-    "title": "金価格は小幅下落も、2月以来初の月間上昇へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-31T02:34:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は日中小幅下落したものの、月間ベースでは2月以来初となる上昇を見込む状況。短期的な調整の中でも、中期的な上昇トレンドが継続している。"
-  },
-  {
-    "title": "ドル反発で金価格に圧力、スポット金は一時4,100ドルの大台割れ - BigGo ファイナンス",
-    "timestamp": "2026-07-31T02:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ドル反発により金価格が圧力を受け、スポット金が一時4,100ドルを割り込んだ。ドル高は金の相対的な価値低下につながる。市場メカニズムの通常の動き。"
-  },
-  {
-    "title": "金価格と株価は同時に上昇した。 - Vietnam.vn",
-    "timestamp": "2026-07-31T02:42:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格と株価が同時に上昇したという相場観測の報道。通常は逆相関する両資産が協調上昇する珍しい局面を指摘。リスク選好と安全資産需要が同時に高まった可能性を示唆。"
-  },
-  {
-    "title": "2026年7月31日、今日の金価格は異例の静けさを見せており、投資家は守りの姿勢を取っている。この機会を捉えるのは誰だろうか？ - Vietnam.vn",
-    "timestamp": "2026-07-31T03:02:12+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年7月31日時点で金価格は静かな値動きを見せており、投資家は守りの姿勢を取っている。市場の現況分析記事で、大きな価格変動を示唆するものではない。"
-  },
-  {
-    "title": "7月31日午前：国内の金価格が上昇し、世界の金価格を1オンスあたり約1300万ベトナムドン上回った。 - Vietnam.vn",
-    "timestamp": "2026-07-31T03:15:53+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が世界相場を1オンスあたり約1,300万ベトナムドン上回っている。国内市場の局所的な価格差を報じたもの。"
-  },
-  {
-    "title": "ブレント原油先物 (UKOIL-F) は7月31日に下降 2.10%：動きの背後に何があるのか？ - TradingKey",
-    "timestamp": "2026-07-31T04:46:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油先物が7月31日に2.10%下落した。具体的な下落理由について詳細な説明がなく、記事は相場の振り返り・解説の性質。±3%程度の日中変動は通常のボラティリティ範囲。"
-  },
-  {
-    "title": "原油価格が下落したが月間で約20％の上昇を維持 - mezha.net",
-    "timestamp": "2026-07-31T03:24:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格は日中下落したものの、月間ベースでは約20%の上昇を維持している。短期的な調整の中でも強気地合いが続いている状況。"
-  },
-  {
     "title": "アジアの金価格は、4カ月連続の下落局面を脱する見込みだ。 - Vietnam.vn",
     "timestamp": "2026-07-31T07:39:43+00:00",
     "importance": 2,
@@ -130,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJCゴールドおよびブランドゴールドリングの価格予測についての解説記事。本日7月31日の価格が上昇するか下落するかを扱ったコモディティ関連の地域ニュース。"
-  },
-  {
-    "title": "トランプ氏のSNS投稿が世界市場を攪乱 原油先物の巨額取引にインサイダー取引の疑念 - BigGo ファイナンス",
-    "timestamp": "2026-07-31T03:17:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏のSNS投稿が原油先物市場に急激な影響を与えた。巨額の取引にインサイダー取引の疑念が浮上し、市場の混乱と規制リスクが懸念される。政治家の発言による予測不可能な市場変動が顕在化。"
   },
   {
     "title": "アジアの原油価格は、「黒い黄金」の供給量増加に伴い下落した。 - Vietnam.vn",
@@ -220,17 +110,6 @@
     "summary": "ユーロ圏の7月インフレ率が前年比2.9%と、原油価格上昇の影響で加速した。エネルギー価格が消費者物価上昇の主要因となっている。"
   },
   {
-    "title": "原油が1％超下落、ホルムズ海峡のタンカー航行継続で米イラン戦争懸念を相殺 - BigGo ファイナンス",
-    "timestamp": "2026-07-31T03:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン緊張の高まりにもかかわらず、ホルムズ海峡のタンカー航行が継続されたことで戦争懸念が後退。地政学リスク軽減により原油は1％超下落した。"
-  },
-  {
     "title": "7月31日の金価格は、非常に異例な動きを見せた。 - Vietnam.vn",
     "timestamp": "2026-07-31T13:04:14+00:00",
     "importance": 2,
@@ -240,17 +119,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月31日の金価格が「非常に異例な動き」を見せたとの報道。具体的な価格水準や変動幅、原因が明記されていない。ベトナムローカルニュースソースのため、グローバル市場への影響度は限定的と考えられる。"
-  },
-  {
-    "title": "Gold Price on 24 July 2026 - Gold Price",
-    "timestamp": "2026-07-31T03:16:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年7月24日時点の金価格を報じるニュース。具体的な価格データが記事本文から確認できないため、単なる価格情報配信と判断される。"
   },
   {
     "title": "ややドル買い、ＮＹ原油先物や米債利回り上昇で＝ロンドン為替 - みんかぶ FX/為替",
@@ -372,28 +240,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月31日時点での金価格は継続的に変動している。2026年9月までの予測については不確実性が残るとの見方が示されている。具体的な価格水準や変動要因については詳細が不明。"
-  },
-  {
-    "title": "Antam gold price rises to IDR 2,623,000 per gram on Friday (31/7) - IDNFinancials",
-    "timestamp": "2026-07-31T04:30:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアAntam社の金価格が1グラム当たりIDR 2,623,000に上昇した。これはインドネシア国内の金価格動向を示す定期的な相場報告。"
-  },
-  {
-    "title": "米国原油先物 (USOIL-F) は7月31日に下降 2.22%：なぜ起こったのか - TradingKey",
-    "timestamp": "2026-07-31T04:11:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "7月31日に米国原油先物が2.22%下落した。記事はこの日の価格変動を事後的に解説するもの。通常のボラティリティ範囲内の変動と考えられる。"
   },
   {
     "title": "欧州小麦先物、7月の急騰後に利益確定売りで下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1461,5 +1307,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "従来の需給バランス分析に加えて、地政学的要因がコモディティ価格を決定する重要な要素となっているという解説記事。ウクライナ情勢やME緊張など既知の地政学リスクが市場に織り込まれている現状を分析。"
+  },
+  {
+    "title": "本日（8月3日）の金価格：週明けから急騰。 - Vietnam.vn",
+    "timestamp": "2026-08-03T02:24:58+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が週明けから急騰したことを伝えるニュース。具体的な上昇要因や数値は明記されていない。既に動いた相場の事後的な報道と考えられる。"
+  },
+  {
+    "title": "金価格が上昇、原油安と対イラン交渉で買いが優勢 - Межа. Новини України.",
+    "timestamp": "2026-08-03T03:45:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油価格の下落と米国とイラン間の交渉進展を背景に金買いが優勢となり金価格が上昇した。インフレ懸念の緩和と地政学リスク低下が同時に作用している。"
+  },
+  {
+    "title": "8月3日朝の金価格更新:世界の金価格が反転 - Laodong.vn",
+    "timestamp": "2026-08-03T01:28:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月3日朝時点での金価格が反転したという市場レポート。具体的な価格水準や反転の背景要因については記事概要からは不明。"
+  },
+  {
+    "title": "8月3日の金価格：価格は全体的に横ばい。 - Vietnam.vn",
+    "timestamp": "2026-08-03T00:50:14+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月3日の金価格は全体的に横ばい推移。特段の材料なく値動きは限定的。ベトナムの市場情報の日常的な価格レポート。"
+  },
+  {
+    "title": "今週の金価格は変動すると予想されている。 - Vietnam.vn",
+    "timestamp": "2026-08-03T00:53:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースメディアが今週の金価格が変動すると予想していることを報じている。具体的な予想方向や要因は記事概要には示されていない。"
+  },
+  {
+    "title": "2026年8月3日の金価格：世界の金価格は下落圧力にさらされ、サンノゼの金価格は引き続き下落するのか？ - Vietnam.vn",
+    "timestamp": "2026-08-03T01:37:23+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月3日時点での金価格に関するコメンタリー記事。世界的な下落圧力を指摘し、引き続きの価格下落の可能性を論じている。具体的な下落要因の詳細は記事概要からは不明。"
+  },
+  {
+    "title": "本日（8月3日）の金価格：サンノゼ（SJC）の金価格は横ばい、世界の金価格は小幅上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-03T01:01:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月3日の金価格は、サンノゼ（SJC）で横ばい、世界市場では小幅上昇。日次の価格動向に関する定型的な相場振り返り。"
+  },
+  {
+    "title": "本日の燃料価格（8月3日）：週明け、WTI原油とブレント原油の価格が下落。 - Vietnam.vn",
+    "timestamp": "2026-08-03T00:32:36+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月3日（月）の週明けにWTI原油とブレント原油が下落した。具体的な下落要因は記事概要に記載されていない。市場動向の日次報告であり、既に織り込まれた値動きの振り返り。"
+  },
+  {
+    "title": "原油先物5ドル超安、米のイラン攻撃見送り受け - topics.smt.docomo.ne.jp",
+    "timestamp": "2026-08-02T22:28:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン攻撃を見送ったことで地政学的リスク低下と判断され、原油先物が5ドル超下落した。中東緊張緩和は供給途絶懸念の後退を意味する。短期的な価格調整圧力が強い。"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／原油相場にらみ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-03T04:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "カナダドル・円相場と原油相場の関連性を扱う為替デイリー見通し。原油価格の動きがカナダドルに影響を与える可能性について解説。具体的な材料や予想数値は記事概要では不明。"
   }
 ]
