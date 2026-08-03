@@ -88,17 +88,6 @@
     "summary": "インド国営石油会社（IOC）が中東供給途絶への対応として過去最高水準のスポット市場での原油買い付けを実施。中東地域の地政学的リスク顕在化により、世界最大級の原油買い手がスポット調達を急増させた。供給逼迫の懸念が急速に高まり、原油価格上昇圧力が強まっている。"
   },
   {
-    "title": "EIA: China draws crude stocks as imports slide 32% - Oil & Gas Journal",
-    "timestamp": "2026-07-31T16:48:07+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "中国が原油在庫を取り崩す一方、原油輸入が32%減少したことが報告された。在庫放出は需要不足を示唆し、中国の経済活動鈍化が原油需要減につながっている。輸入急減は需給バランスの悪化を加速させ、原油相場の下押し圧力となる。"
-  },
-  {
     "title": "Tricky talks at OPEC - economist.com",
     "timestamp": "2026-08-02T00:00:00+00:00",
     "importance": 3,
@@ -185,28 +174,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が9月の原油生産量を増加させることを発表。ただし将来的には生産調整の一時停止が見込まれている。供給増加は短期的には価格押し下げ要因となるが、その後の減産シグナルが相殺する可能性がある。"
-  },
-  {
-    "title": "Data Center Boom Fueling Demand for Workforce Housing - Bloomberg",
-    "timestamp": "2026-07-31T17:48:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "データセンター建設ブームに伴い、労働者向住宅需要が急増している。AI・クラウドインフラ投資拡大がデータセンター建設を加速させ、建設資材（銅配線・構造用鋼材など）と建設労働力の需要が増加。インフレ圧力とコモディティ需要の構造的上昇トレンドを示唆。"
-  },
-  {
-    "title": "Data Center Boom Fueling Demand for Workforce Housing - Bloomberg",
-    "timestamp": "2026-07-31T17:48:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "データセンター建設ブームに伴い、労働者向住宅需要が急増している。AI・クラウドインフラ投資拡大がデータセンター建設を加速させ、建設資材（銅配線・構造用鋼材など）と建設労働力の需要が増加。インフレ圧力とコモディティ需要の構造的上昇トレンドを示唆。"
   },
   {
     "title": "OPEC+ Agree To Boost Oil Output. It May Not Reflect In Market Soon. - International Business Times",
@@ -361,5 +328,82 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "RFD-TVによる8月3日付の定期的な作物進捗・畜産生産レポート。米国の地域別の穀物成長状況と畜産動向を定例報告するもの。詳細なデータ値が提供されていないため、市場への具体的なインパクト評価は限定的。"
+  },
+  {
+    "title": "Arable Market Report – 3 August 2026 - AHDB",
+    "timestamp": "2026-08-03T17:19:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "2026年8月3日のAHDB穀物市場レポート。具体的な数値やデータが提供されたURLの奥にあるため、現時点では詳細な内容確認が困難。AHDBは英国の農業・園芸開発局で定期的に穀物市場分析を発表している通常の市場レポート。"
+  },
+  {
+    "title": "Arable Market Report – 3 August 2026 - AHDB",
+    "timestamp": "2026-08-03T17:19:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2026年8月3日のAHDB穀物市場レポート。具体的な数値やデータが提供されたURLの奥にあるため、現時点では詳細な内容確認が困難。AHDBは英国の農業・園芸開発局で定期的に穀物市場分析を発表している通常の市場レポート。"
+  },
+  {
+    "title": "Arable Market Report – 3 August 2026 - AHDB",
+    "timestamp": "2026-08-03T17:19:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2026年8月3日のAHDB穀物市場レポート。具体的な数値やデータが提供されたURLの奥にあるため、現時点では詳細な内容確認が困難。AHDBは英国の農業・園芸開発局で定期的に穀物市場分析を発表している通常の市場レポート。"
+  },
+  {
+    "title": "Brazil’s Oil Output Hits Record as War Drives Up Non-OPEC Supply - Bloomberg.com",
+    "timestamp": "2026-08-03T16:36:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ブラジルの石油生産が過去最高を更新し、ウクライナ戦争によるロシア産油の供給制約をOPEC非加盟国の増産で補う構図が鮮明化している。非OPEC産油国の供給増加は、OPECの減産努力を相殺し、世界的な供給緩和圧力をもたらす。"
+  },
+  {
+    "title": "Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-08-03T08:30:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "クウェートの石油生産が急増し、OPEC全体の減産撤回が完了した。これはOPEC主導の2年以上にわたる減産政策の終焉を意味し、市場供給の大幅な増加が見込まれる。原油価格は供給サイドのサプライズに直面し、下押し圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "Trump demands lower gas prices from oil companies, chides Chevron CEO - Reuters",
+    "timestamp": "2026-08-03T16:26:59+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がシェブロンCEOを含む石油企業に対してガソリン価格の低下を要求。政治的圧力による発言であり、市場メカニズムに基づかない介入的なコメンタリー。石油企業の上流投資抑制リスクを高める可能性がある。"
+  },
+  {
+    "title": "Ukraine’s Shifting Strikes Deepen Uncertainty Around Russian Oil - Bloomberg.com",
+    "timestamp": "2026-08-03T14:23:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア産原油施設への攻撃戦略をシフトさせており、ロシア石油供給の不確実性が大幅に高まっている。ドローン・ミサイル攻撃の標的変更により、露国の重要な産油地帯・パイプライン・精製施設が脅威にさらされ、欧州向け供給断絶リスクが顕在化している。"
   }
 ]
