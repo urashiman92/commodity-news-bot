@@ -1,38 +1,5 @@
 [
   {
-    "title": "原油価格に影響を与える「要素」と、投資家向けの洞察。 - Vietnam.vn",
-    "timestamp": "2026-07-31T16:34:52+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格に影響を与える要素と投資家向け洞察についての解説記事。既知の要因の整理と観測値の提示に留まる。"
-  },
-  {
-    "title": "イランがホルムズ海峡で船舶の通行を封鎖、原油価格が上昇 - Межа. Новини України.",
-    "timestamp": "2026-07-31T17:15:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランがホルムズ海峡で船舶通行を封鎖し、原油価格が上昇。ホルムズ海峡は世界の石油供給の約30%が通過する重要な海上輸送路であり、供給途絶リスクが急速に高まった。地政学的な緊張激化が市場に即座に反映されている。"
-  },
-  {
-    "title": "原油価格がベトナムのコーヒー輸出に与える影響。 - Vietnam.vn",
-    "timestamp": "2026-07-31T16:31:14+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇がベトナムのコーヒー輸出産業に与える影響について解説するニュース。輸送費やエネルギーコストの増加によるコーヒー生産・流通コストの上昇が議論されている。"
-  },
-  {
     "title": "米日・イランの緊張が高まり、原油価格がバレル当たり3ドル上昇 - VOI.id",
     "timestamp": "2026-07-31T17:51:14+00:00",
     "importance": 4,
@@ -53,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月31日時点での金価格は継続的に変動している。2026年9月までの予測については不確実性が残るとの見方が示されている。具体的な価格水準や変動要因については詳細が不明。"
-  },
-  {
-    "title": "欧州小麦先物、7月の急騰後に利益確定売りで下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-07-31T17:21:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "欧州小麦先物が7月の急騰後に利益確定売りにより下落。技術的なポジション調整局面。ファンダメンタルズの大きな変化を示唆していない。"
   },
   {
     "title": "NY金先物：反落、ドル持ち直しと利上げ観測再燃が重し(フィスコ) - Yahoo!ファイナンス",
@@ -1461,5 +1417,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン戦争の膠着とそれに伴う原油価格上昇がトランプ大統領の支持率低下につながっているが、11月の中間選挙での民主党への波及効果は限定的との政治解説。既に報道されたイラン情勢と原油上昇の既知の事実を踏まえた観測記事。"
+  },
+  {
+    "title": "金価格ディリーレポート（2026年8月3日）WGC最新レポートで中銀の上期金購入が2022年以来の低水準、金価格は上げ幅を失う - ブリオンボールト",
+    "timestamp": "2026-08-03T08:04:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "WGCの最新レポートで、中央銀行の2026年上期の金購入が2022年以来の低水準であることが明らかになった。需要減少により金価格は上昇幅を失い調整圧力が高まっている。"
+  },
+  {
+    "title": "金価格の急落を受け、各国中央銀行は記録的な額の金を購入している。 - Vietnam.vn",
+    "timestamp": "2026-08-03T15:05:47+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の下落局面において、各国中央銀行が記録的規模の金買い越しを実施している。需給バランスの逆転が金価格の下支え要因となっている。"
+  },
+  {
+    "title": "2026年8月3日の金価格：SJC 1億3750万～1億4100万ベトナムドン/オンス、買い+50万ベトナムドン。 - Vietnam.vn",
+    "timestamp": "2026-08-03T15:17:12+00:00",
+    "importance": 1,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が1億3750万～1億4100万ベトナムドン/オンスで取引されており、買値が前日比+50万ベトナムドン上昇した。地域の金価格動向を記録したニュース。"
+  },
+  {
+    "title": "新たな外交的シグナルを受けて、世界の原油価格は反転し、急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-03T13:58:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "外交的シグナルを受けて原油価格が急落した。具体的な外交内容は記事から不明だが、地政学的な緊張緩和を示唆する可能性がある。中東情勢やOPEC関連の動きに関連する可能性がある。"
   }
 ]
