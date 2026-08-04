@@ -1,16 +1,5 @@
 [
   {
-    "title": "イラン・米国緊張と原油急騰、ロシア・ウクライナ戦争激化、ドローン戦拡大が日本経済に及ぼす深刻な影響 - ニコニコニュース",
-    "timestamp": "2026-08-01T20:30:23+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン・米国の地政学的緊張、ロシア・ウクライナ戦争の激化、ドローン戦の拡大により原油価格が急騰。これらの要因は既に市場で織り込まれつつある既報事象の解説・分析記事。"
-  },
-  {
     "title": "本日（8月2日）の金価格：1オンスあたり90万ベトナムドン下落 - Vietnam.vn",
     "timestamp": "2026-08-02T01:24:51+00:00",
     "importance": 1,
@@ -1659,5 +1648,49 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティー市場で銘柄別に上下分かれた。天然ガス、銀、銅、トウモロコシ、小麦は上昇し、原油、ガソリン、金、大豆は下落。市場内での相対的な強弱が変化。"
+  },
+  {
+    "title": "原油先物5％超安、3週間ぶり安値 米イラン協議進展への期待で - ロイター",
+    "timestamp": "2026-08-04T19:51:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン協議の進展期待により原油先物が5%超下落し、3週間ぶりの安値を更新。地政学的リスク軽減を材料に売り圧力が強まった。供給懸念の緩和が価格を押し下げた。"
+  },
+  {
+    "title": "原油先物5％超安、3週間ぶり安値 米イラン協議進展への期待で - ニューズウィーク日本版",
+    "timestamp": "2026-08-04T19:51:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン協議の進展期待により原油先物が5%超下落し、3週間ぶりの安値を更新。地政学的緊張の緩和見通しが売り圧力となった。協議の実現性については市場でも段階的に織り込まれている状況。"
+  },
+  {
+    "title": "WTI原油のミッドランド価格差、火曜日の取引で縮小 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-04T18:11:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油のミッドランド価格差が火曜日の取引で縮小した。価格差の変動は局所的な供給・需要バランスの反映。全体的な原油相場への直接的な影響は限定的。"
+  },
+  {
+    "title": "総合商社７社の金属関連部門／資源価格上昇で好業績／４～６月期 - 日刊鉄鋼新聞 Japan Metal Daily",
+    "timestamp": "2026-08-04T20:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "日本の総合商社7社が4～6月期に資源価格上昇により金属関連部門で好業績を達成。銅を含む金属価格の上昇が商社の利益増加に寄与。既に市場で認識されている価格上昇トレンドの確認報道。"
   }
 ]
