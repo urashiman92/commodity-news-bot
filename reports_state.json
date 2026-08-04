@@ -570,5 +570,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イラン和平交渉への期待感から原油価格が下落した一方、株価は上昇。同時に円が買われており、日本銀行による追加介入の可能性を市場が警戒している。金など無利子資産への需要も変動する局面となっている。"
+  },
+  {
+    "title": "OPEC output rose in July, led by Gulf nations - Transport Topics",
+    "timestamp": "2026-08-04T18:01:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECは7月の石油生産量を増加させ、湾岸諸国（サウジアラビア、UAE等）がこの増産を主導した。これは既知の減産合意からの段階的な生産調整の継続を反映している。"
   }
 ]
