@@ -526,5 +526,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの7月の海上石油製品輸出が前月比33%の大幅減少となった。制裁強化とインフラ制約による供給支障が顕在化。グローバルな石油製品供給逼迫懸念が高まり、精製マージンと国際価格に上昇圧力が生じる。"
+  },
+  {
+    "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows - Bloomberg.com",
+    "timestamp": "2026-08-04T17:33:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの7月石油生産量調査によると、湾岸諸国を中心にOPEC全体の生産が増加した。サウジアラビアなど主要産油国の増産が確認され、市場では供給増加による原油価格への下押し圧力が注視される。ただし具体的な生産数値が示されていないため詳細な影響判断は限定的。"
+  },
+  {
+    "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
+    "timestamp": "2026-08-03T21:29:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン和平交渉への期待感から原油価格が下落した一方、株価は上昇。同時に円が買われており、日本銀行による追加介入の可能性を市場が警戒している。金など無利子資産への需要も変動する局面となっている。"
+  },
+  {
+    "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
+    "timestamp": "2026-08-03T21:29:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "イラン和平交渉への期待感から原油価格が下落した一方、株価は上昇。同時に円が買われており、日本銀行による追加介入の可能性を市場が警戒している。金など無利子資産への需要も変動する局面となっている。"
+  },
+  {
+    "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
+    "timestamp": "2026-08-03T21:29:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イラン和平交渉への期待感から原油価格が下落した一方、株価は上昇。同時に円が買われており、日本銀行による追加介入の可能性を市場が警戒している。金など無利子資産への需要も変動する局面となっている。"
   }
 ]
