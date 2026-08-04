@@ -1,16 +1,5 @@
 [
   {
-    "title": "2026年8月2日、金価格は米イラン紛争以来最大の急上昇を記録した。4000ドルは重要な「防衛線」であり、新たな上昇トレンドが明確に現れているのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-08-01T16:44:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が米イラン紛争以来の大幅上昇を記録し、4000ドル水準が心理的サポートレベルとして注目されている。地政学的リスク高まりと有事需要が背景。新たな上昇トレンド形成の可能性が指摘されている。"
-  },
-  {
     "title": "イラン・米国緊張と原油急騰、ロシア・ウクライナ戦争激化、ドローン戦拡大が日本経済に及ぼす深刻な影響 - ニコニコニュース",
     "timestamp": "2026-08-01T20:30:23+00:00",
     "importance": 4,
@@ -1571,5 +1560,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東の供給リスク懸念を背景に原油価格が回復した。地政学的リスクが支援要因となっている状況。既報のリスク要因が継続している。"
+  },
+  {
+    "title": "シカゴ小麦先物、火曜日のCBOT取引開始時に下落見込み 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-04T13:28:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "シカゴCBOT小麦先物が火曜日の取引開始時に下落する見込みとの報道。具体的な下落要因や市場情報が不足している観測記事。"
+  },
+  {
+    "title": "本日（8月4日）の最新の金価格は急落：「金市場」は依然として低迷しており、買い手はますます減少している。 - Vietnam.vn",
+    "timestamp": "2026-08-04T12:19:21+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場における価格急落と買い手減少を報じるニュース。市場が既に低迷局面にあり、需要弱化が続いている状況の解説記事。"
+  },
+  {
+    "title": "8月4日午後、国内の金価格は回復した。 - Vietnam.vn",
+    "timestamp": "2026-08-04T13:14:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月4日午後、ベトナム国内の金価格が回復した。具体的な回復幅や要因は記事概要からは不明。市場の振り返りレベルのニュース。"
+  },
+  {
+    "title": "トウモロコシ先物、米中西部の降雨予報を受けて下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-04T13:28:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米中西部で降雨予報が発表され、トウモロコシ先物が下落した。降雨は作物の生育に好材料とみなされ、供給懸念が緩和された。既に報じられている天気見通しの反映と考えられる。"
+  },
+  {
+    "title": "中西部の降雨改善予測を受け、大豆先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-04T13:29:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "米中西部の降雨改善予測が報道され、大豆先物が下落した。降雨改善は干ばつリスク軽減を意味し、供給懸念の緩和が価格を押し下げた。市場の既定路線内の動き。"
   }
 ]
