@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices. - marketwatch.com",
-    "timestamp": "2026-08-01T11:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がイラン情勢の緊迫化に伴い石油産出枠の段階的引き上げを継続する可能性がある。しかし記事のタイトルが示唆するように、増産措置は原油価格の低下には直結しないとの見解。地政学的リスクプレミアムと供給増加圧力が相殺される可能性を指摘。"
-  },
-  {
     "title": "Tricky talks at OPEC - economist.com",
     "timestamp": "2026-08-02T00:00:00+00:00",
     "importance": 3,
@@ -460,5 +449,71 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECが9月の石油増産を合意し、自主的な減産措置の段階的な撤廃が完了する見通し。これまでの減産ロールバック計画の最終段階であり、市場は事前に織り込まれていた動き。供給増加により原油価格には上昇圧力が緩む可能性がある一方、需要動向と地政学的リスクが価格を支える材料となる。"
+  },
+  {
+    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
+    "timestamp": "2026-08-04T12:05:49+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
+  },
+  {
+    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
+    "timestamp": "2026-08-04T12:05:49+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
+  },
+  {
+    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
+    "timestamp": "2026-08-04T12:05:49+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
+  },
+  {
+    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
+    "timestamp": "2026-08-04T12:05:49+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
+  },
+  {
+    "title": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - Reuters",
+    "timestamp": "2026-08-04T10:50:06+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "シリアが米国に対し、ロシア産原油の輸入を大幅削減する意思を示唆した。同国はロシア産原油への依存を急速に低下させる方針。地政学的な転換点となり、ロシア産原油の販路喪失は供給再配分とWTI下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts - Reuters",
+    "timestamp": "2026-08-02T15:31:15+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+は9月の原油増産を決定し、自発的な減産措置の段階的な巻き戻しを完了する運びとなった。これは2023年以降続いてきた減産政策の解除段階における定例決定であり、市場には概ね織り込み済みの内容である。段階的な供給増加により、短期的には原油価格への上値抑制要因となる可能性がある。"
   }
 ]
