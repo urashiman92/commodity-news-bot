@@ -11,17 +11,6 @@
     "summary": "OPEC+がイラン情勢の緊迫化に伴い石油産出枠の段階的引き上げを継続する可能性がある。しかし記事のタイトルが示唆するように、増産措置は原油価格の低下には直結しないとの見解。地政学的リスクプレミアムと供給増加圧力が相殺される可能性を指摘。"
   },
   {
-    "title": "Indian Oil Buys Record Spot Market Crude on Mideast Supply Hit - Bloomberg.com",
-    "timestamp": "2026-08-01T09:30:37+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "インド国営石油会社（IOC）が中東供給途絶への対応として過去最高水準のスポット市場での原油買い付けを実施。中東地域の地政学的リスク顕在化により、世界最大級の原油買い手がスポット調達を急増させた。供給逼迫の懸念が急速に高まり、原油価格上昇圧力が強まっている。"
-  },
-  {
     "title": "Tricky talks at OPEC - economist.com",
     "timestamp": "2026-08-02T00:00:00+00:00",
     "importance": 3,
@@ -460,5 +449,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "アジア株がウォール街の上昇に追随して堅調に推移している。原油価格は安定的に推移しており、特段の方向性を示していない。市場全体は現在のリスクオン環境を反映した動きが続いている。"
+  },
+  {
+    "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - whbl.com",
+    "timestamp": "2026-08-03T03:18:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが9月の石油増産を合意し、自主的な減産措置の段階的な撤廃が完了する見通し。これまでの減産ロールバック計画の最終段階であり、市場は事前に織り込まれていた動き。供給増加により原油価格には上昇圧力が緩む可能性がある一方、需要動向と地政学的リスクが価格を支える材料となる。"
   }
 ]
