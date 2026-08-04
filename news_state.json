@@ -1,27 +1,5 @@
 [
   {
-    "title": "【Infographie】原油価格高騰の影響 (時事通信) - Yahoo!ニュース",
-    "timestamp": "2026-08-01T05:31:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格高騰がもたらす経済への影響をインフォグラフィックで解説したニュース。エネルギー価格上昇による消費者・企業へのコスト圧力が示唆される。"
-  },
-  {
-    "title": "金価格は依然としてもみ合い、反転の兆候はまだ確認されていません - Laodong.vn",
-    "timestamp": "2026-08-01T07:17:17+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は現在もみ合い圏内にあり、明確な反転の兆候が確認されていない。テクニカル的には方向性が定まらない状況が続いている。"
-  },
-  {
     "title": "8月1日午後、金価格は予想外に反転し、多くの銘柄で大幅な下落が見られた。 - Vietnam.vn",
     "timestamp": "2026-08-01T09:14:21+00:00",
     "importance": 2,
@@ -42,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格（SJC）が1オンスあたり1億3700万～1億4100万ベトナムドンで下落した。地域市場の日次相場動向を示すニュース。"
-  },
-  {
-    "title": "本日（8月1日午後）の金価格：国内および国際的な金価格は同時に下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-01T07:42:18+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月1日午後、国内および国際的な金価格が同時に下落した。特定の下落要因は記事から明確ではなく、日次の相場変動を伝えるニュース。"
   },
   {
     "title": "インド石油、原油価格変動で2026年第1四半期に純損失を計上 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -86,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月1日に金価格が全面的に急落した。具体的な下落要因は記事概要に記載されていない。市場の技術的調整または利益確定の可能性が考えられる。"
-  },
-  {
-    "title": "トランプがイランを再び攻撃すると脅した後、原油価格が急騰 - VOI.id",
-    "timestamp": "2026-08-01T07:44:02+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がイランへの再度の軍事攻撃を脅した直後、地政学的リスクプレミアムが急速に反映され原油価格が急騰した。中東地政学緊張の再燃が供給リスクを顕在化させた。"
   },
   {
     "title": "2026年8月2日、金価格は米イラン紛争以来最大の急上昇を記録した。4000ドルは重要な「防衛線」であり、新たな上昇トレンドが明確に現れているのだろうか？ - Vietnam.vn",
@@ -1417,5 +1373,104 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "3日の主要国際商品市況に関するニュース記事。具体的な価格動向や市場材料の詳細が不明。市場サマリーの定期配信と推察される。"
+  },
+  {
+    "title": "8月4日朝、国内の金価格が急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-04T06:16:28+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月4日朝、ベトナムの国内金価格が急落した。具体的な下落幅や原因については記事から明確に判読できない。国内市場の動きであり、グローバル市場への直接的な影響は限定的と考えられる。"
+  },
+  {
+    "title": "世界の金価格は安定を保ち、原油価格は回復した。 - Vietnam.vn",
+    "timestamp": "2026-08-04T03:44:51+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界の金価格は安定的に推移し、原油価格は回復傾向にあるとの報道。具体的な価格水準や変動幅の情報は不足している。市場トレンドの振り返りに過ぎない。"
+  },
+  {
+    "title": "トランプ氏のイランに関する措置を受けて、金価格は急騰したが、原油価格は下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-04T04:03:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "トランプ氏のイラン措置によりリスク資産が売却される中、金は安全資産として急騰。一方、中東紛争激化の懸念にもかかわらず原油が下落し、需要減速の懸念が供給リスクを上回った可能性がある。"
+  },
+  {
+    "title": "本日（8月4日）の金価格：買値と売値に予想外の差が発生。 - Vietnam.vn",
+    "timestamp": "2026-08-04T05:04:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場で8月4日の買値と売値に予想外の差が発生したことを報じるローカルニュース。市場の流動性やスプレッド拡大を反映している可能性。"
+  },
+  {
+    "title": "［動画］原油相場、当面は「戦時下のレンジ」で推移 - トウシル",
+    "timestamp": "2026-08-04T06:53:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が「戦時下のレンジ」で推移すると述べるアナリスト解説。既に認識されている地政学リスク要因の枠内での相場見通しを示している。"
+  },
+  {
+    "title": "原油価格が下落、長期金利も低下し株式市場は堅調に商いをスタート - 日経CNBC online",
+    "timestamp": "2026-08-03T23:18:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が下落し、長期金利も低下している。株式市場は堅調に推移している。金利低下が株式買い材料となっている状況。"
+  },
+  {
+    "title": "東京為替：ドル・円は戻り一服、原油相場にらみ 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-04T04:58:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル円相場が戻り一服の状況。原油相場の動向を睨みながら為替市場が推移している。既存の価格トレンドの中での技術的な調整局面。"
+  },
+  {
+    "title": "東京為替：ドル・円は戻り一服、原油相場にらみ - ｄメニューニュース",
+    "timestamp": "2026-08-04T04:58:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東京為替でドル・円相場が戻り一服の状況。原油相場の動きを注視しながら、通貨と商品の相互作用を観察している段階。具体的な供給ショックや需要変化は報じられていない。"
+  },
+  {
+    "title": "原油価格の下落を受けて、米国株は上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-04T06:18:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落がリスク資産心理を改善し、米国株が上昇した。インフレ圧力の緩和をポジティブに評価される環境が続いている。"
   }
 ]
