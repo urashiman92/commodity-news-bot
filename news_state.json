@@ -33,28 +33,6 @@
     "summary": "ベトナムの金価格が1オンスあたり1億4100万ベトナムドンまで下落した。地域的な価格報道であり、グローバル市場への直接的な影響は限定的。"
   },
   {
-    "title": "2026年8月2日現在の金価格：金地金は一律1オンスあたり1億4100万ベトナムドンに達した。 - Vietnam.vn",
-    "timestamp": "2026-08-01T22:37:05+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムにおける金地金の現物価格をVND建てで報告したもの。特定日時の価格情報であり、新規の市場材料ではない。"
-  },
-  {
-    "title": "2026年8月2日現在の金価格：市場全体が同じ水準に収束し、1つのブランドだけが例外的にその水準から外れた。 - Vietnam.vn",
-    "timestamp": "2026-08-01T23:13:13+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場において、市場全体が同一の価格水準に収束し、1つのブランドのみが例外的に乖離しているという市場観測。地域的な価格形成の状況報告。"
-  },
-  {
     "title": "本日の燃料価格（8月2日）：ブレント原油が1バレル90ドルを突破、国内燃料価格はどうなるのか？ - Vietnam.vn",
     "timestamp": "2026-08-02T00:28:13+00:00",
     "importance": 3,
@@ -1736,5 +1714,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米国の銅輸入が急増し、銅価格が$6,711.9のレジスタンスレベルに接近している。需要の増加を示唆する動きで、テクニカルレベルでの価格圧力が高まっている。"
+  },
+  {
+    "title": "欧州小麦先物、原油安を受けて下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-04T18:07:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "原油価格の下落が連動して欧州小麦先物を押し下げている。エネルギーコスト低下は生産コスト減少を意味するため、供給サイド圧力が働いている。既知の相関関係に基づく機械的な値動き。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4077ドル｜米長期金利の下落により、買い優勢の模様(2026年8月5日) - OANDA証券",
+    "timestamp": "2026-08-04T23:05:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4077ドルまで上昇。米長期金利の下落が買い材料となっている。市場は金利低下環境で金への需要が高まる展開を織り込んでいる状況。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･4日 3日ぶり反発 - Moomoo",
+    "timestamp": "2026-08-04T20:42:28+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物が3日ぶりに反発した。市場概況レベルの日次動向報告である。具体的な材料や反発の理由が記事要約には示されていない。"
+  },
+  {
+    "title": "本日（8月5日）の金価格：予想外に再び上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-04T22:28:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月5日の金価格が予想外に再び上昇したことを報じるニュース。具体的な上昇要因や背景については記事概要から不明。市場反応としての値動きを記述しているが、その原因やサプライズの度合いを判断する情報が不足している。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランが合意するとの見方が強まり、原油価格は2営業日続落（2026年8月5日） - OANDA証券",
+    "timestamp": "2026-08-04T23:15:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの合意観測の強まりを受けWTI原油が2営業日続落。イラン原油供給増加への懸念がアップサイドを抑制している。市場は既に合意の可能性を織り込み始めている。"
+  },
+  {
+    "title": "カナダ産農産物への10％関税がコーン先物を1.61％安に押し下げる - Traders Union",
+    "timestamp": "2026-08-04T17:14:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "カナダ産農産物への10％関税発動に伴い、コーン先物が1.61％下落。北米の主要穀物生産国への関税措置により供給懸念が後退。短期的には価格押し下げ圧力が継続する可能性。"
+  },
+  {
+    "title": "４日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-04T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "4日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や個別商品の詳細情報は記事内容が不明なため、総合的な市場評論と判断される。"
   }
 ]
