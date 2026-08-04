@@ -1,27 +1,5 @@
 [
   {
-    "title": "中東情勢の緊迫化を受けて、金価格は急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-01T13:33:38+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中東情勢の緊迫化は地政学リスクとして認識されており、本来はリスクオフで金が買われやすい環境である。しかし金価格が急落したのは、市場が中東紛争の限定的影響を評価した、またはドル高・金利上昇などの反金要因が優越したことを示唆している。"
-  },
-  {
-    "title": "本日8月1日、金価格は全面的に急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-01T15:16:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月1日に金価格が全面的に急落した。具体的な下落要因は記事概要に記載されていない。市場の技術的調整または利益確定の可能性が考えられる。"
-  },
-  {
     "title": "2026年8月2日、金価格は米イラン紛争以来最大の急上昇を記録した。4000ドルは重要な「防衛線」であり、新たな上昇トレンドが明確に現れているのだろうか？ - Vietnam.vn",
     "timestamp": "2026-08-01T16:44:51+00:00",
     "importance": 3,
@@ -196,17 +174,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムのニュースサイトによる8月2日の燃料価格レポート。世界原油価格が週間を通じて変動したことを報じているが、具体的な数値や要因の詳細は不明。"
-  },
-  {
-    "title": "米石油大手２社、大幅増益｜四国新聞WEB朝刊 - 四国新聞",
-    "timestamp": "2026-08-01T14:38:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米石油大手2社が大幅増益を報告。原油価格の堅調推移と生産・販売体制の効率化が寄与。業界全体の収益性向上を示唆する。"
   },
   {
     "title": "本日（8月2日）の金価格：全般的に急落。 - Vietnam.vn",
@@ -1527,5 +1494,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が80ドル台に反落。ドル買いの勢いが一服したことが背景。為替市場の技術的な調整による相対的な値動き。"
+  },
+  {
+    "title": "TSX先物が上昇、金価格高騰・原油は中東和平交渉期待で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-04T12:50:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が高騰し、TSX先物も上昇。一方、中東和平交渉への期待から原油は下落。コモディティ市場内での資産配分シフトが発生。"
+  },
+  {
+    "title": "【金投資家インデックス】金価格は下げ止まるも、金利先行き不透明感で金投資はさらに後退 - ブリオンボールト",
+    "timestamp": "2026-08-04T06:57:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は下げ止まったものの、金利見通しの不確実性により金投資は後退傾向。金投資家指数が低下を示唆している。"
+  },
+  {
+    "title": "2026年8月5日現在、金価格は依然として高値圏にあり、1オンスあたり4,200ドル付近で苦戦しており、短期的な見通しは厳しい。 - Vietnam.vn",
+    "timestamp": "2026-08-04T13:54:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は1オンス4,200ドル付近で高値圏での調整を余儀なくされている。短期的な見通しは弱気姿勢が強まっており、押し目買いは難しい局面。既知の高値水準での上値抵抗が市場心理を圧迫している。"
+  },
+  {
+    "title": "アントムの金価格は1グラムあたり2,616万ルピアに上昇 - VOI.ID",
+    "timestamp": "2026-08-04T12:10:15+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金小売業者アントムでの金価格が1グラムあたり2,616万ルピアに上昇。ローカルな価格報告であり、グローバル金相場の動向や背景要因が不明確。"
+  },
+  {
+    "title": "米財務長官「イラン合意、きょうか明日にも」 原油先物が急落 - nikkei.com",
+    "timestamp": "2026-08-04T14:34:32+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米財務長官がイラン核合意の再開が間近と発言。イラン産原油の供給増加の見通しから先物相場が急落。既に市場で協議進展が認識されていた中での続報。"
+  },
+  {
+    "title": "原油価格反発、アマゾン時価総額3兆ドル突破 アジア株は大半が上昇 - finance.biggo.jp",
+    "timestamp": "2026-08-04T09:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が反発した。アマゾンの時価総額が3兆ドルを突破。アジア株式市場は大半が上昇。"
+  },
+  {
+    "title": "中東からの供給リスクに対する懸念が根強く残る中、原油価格は回復した。 - Vietnam.vn",
+    "timestamp": "2026-08-04T13:30:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の供給リスク懸念を背景に原油価格が回復した。地政学的リスクが支援要因となっている状況。既報のリスク要因が継続している。"
   }
 ]
