@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC, Allies Increase Oil Output for Sixth Time in a Row - WSJ",
-    "timestamp": "2026-08-02T11:57:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECおよび同盟国が6度連続で石油生産を増加させたことが報じられた。段階的な増産政策の継続により、市場への供給圧力が継続している。前月の増産決定から一貫した姿勢であり、予想の範囲内の発表と考えられる。"
-  },
-  {
-    "title": "Opec+ agrees output rise in September amid uneasy pause in Iran war - thenationalnews.com",
-    "timestamp": "2026-08-02T11:48:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月の石油生産量引き上げに合意した。イラン情勢の緊張緩和の兆しがある中での決定だが、具体的な増産規模は明記されていない。市場予想の範囲内での調整と見られる。"
-  },
-  {
     "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - CNBC",
     "timestamp": "2026-08-02T13:09:44+00:00",
     "importance": 4,
@@ -625,5 +603,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "イエメンの親イラン系勢力フーシ派がアラビア海紅海でサウジアラビアのタンカーを攻撃したと発表。紅海はスエズ運河経由で世界石油輸送の約12％が通過する重要航路であり、供給ルート遮断リスクが顕在化。地政学的リスク急上昇により原油価格の上昇圧力が強まる。"
+  },
+  {
+    "title": "Strategists Expect USA Crude Build in Next EIA Report - Rigzone",
+    "timestamp": "2026-08-05T11:17:19+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA原油在庫レポートの次回発表で、戦略家らが米国原油在庫の積み増し（ビルド）を予想している。在庫増加シナリオが市場に認識されることで、供給余剰感が高まり原油価格に下方圧力がかかると見られる。"
+  },
+  {
+    "title": "Strength in Stocks and Lower Crude Prices Weigh on the Dollar - TradingView",
+    "timestamp": "2026-08-04T19:33:13+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "株価上昇とドル安圧力が市場で観察される中、原油価格の下落がドル相場に重しとなっている。株価強気相場はリスク資産需要を高める一方、原油安はドル指数を押し下げている。この環境は金などのドル建てコモディティの需給バランスに二律背反的な影響をもたらす可能性がある。"
+  },
+  {
+    "title": "Strength in Stocks and Lower Crude Prices Weigh on the Dollar - TradingView",
+    "timestamp": "2026-08-04T19:33:13+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "株価上昇とドル安圧力が市場で観察される中、原油価格の下落がドル相場に重しとなっている。株価強気相場はリスク資産需要を高める一方、原油安はドル指数を押し下げている。この環境は金などのドル建てコモディティの需給バランスに二律背反的な影響をもたらす可能性がある。"
+  },
+  {
+    "title": "Strength in Stocks and Lower Crude Prices Weigh on the Dollar - TradingView",
+    "timestamp": "2026-08-04T19:33:13+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "株価上昇とドル安圧力が市場で観察される中、原油価格の下落がドル相場に重しとなっている。株価強気相場はリスク資産需要を高める一方、原油安はドル指数を押し下げている。この環境は金などのドル建てコモディティの需給バランスに二律背反的な影響をもたらす可能性がある。"
   }
 ]
