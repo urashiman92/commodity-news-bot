@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ Agree To Boost Oil Output. It May Not Reflect In Market Soon. - International Business Times",
-    "timestamp": "2026-08-02T16:10:45+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が石油増産に合意したが、市場への実際の影響は限定的である可能性が指摘されている。増産決定は既に市場で予想されていた可能性が高く、実際の供給増加までには時間差が生じることが懸念されている。"
-  },
-  {
     "title": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - Reuters",
     "timestamp": "2026-08-02T23:41:00+00:00",
     "importance": 3,
@@ -418,17 +407,6 @@
     "summary": "シリアが米国に対し、ロシア産原油の輸入を大幅削減する意思を示唆した。同国はロシア産原油への依存を急速に低下させる方針。地政学的な転換点となり、ロシア産原油の販路喪失は供給再配分とWTI下押し圧力をもたらす可能性がある。"
   },
   {
-    "title": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts - Reuters",
-    "timestamp": "2026-08-02T15:31:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+は9月の原油増産を決定し、自発的な減産措置の段階的な巻き戻しを完了する運びとなった。これは2023年以降続いてきた減産政策の解除段階における定例決定であり、市場には概ね織り込み済みの内容である。段階的な供給増加により、短期的には原油価格への上値抑制要因となる可能性がある。"
-  },
-  {
     "title": "Russian July seaborne oil product exports drop 33% m/m, data from sources shows - Reuters",
     "timestamp": "2026-08-04T09:33:43+00:00",
     "importance": 4,
@@ -669,5 +647,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イラン国営石油会社の銀行口座が債務により凍結されたと報じられた。イランは世界有数の石油生産国であり、同国の資金繰り悪化は石油輸出能力の低下につながる可能性が高い。地政学的リスク要因として、原油供給タイトニング圧力が強まる。"
+  },
+  {
+    "title": "US Total Weekly EIA Crude Oil Stocks Fall by 400,000 Barrels After Prior 11.0 Million Decrease - marketscreener.com",
+    "timestamp": "2026-08-05T14:33:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の週間原油在庫が40万バレル減少した。前週の1,100万バレルの大幅減少から減速したが、引き続き在庫低下傾向が続いている。在庫圧縮は供給逼迫を示唆し、原油価格の上昇材料となる。"
   }
 ]
