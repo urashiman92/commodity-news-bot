@@ -1,38 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4045ドル｜米長期金利の上昇が影響し、売り優勢だった模様(2026年8月3日) - OANDA証券",
-    "timestamp": "2026-08-02T23:05:21+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4045ドルまで下落。米長期金利の上昇が主因で売り優勢となった。ドル高・実質金利上昇環境は金にとって逆風材料。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：エネルギー供給への不安感が高まり、原油価格は反発（2026年8月3日） - OANDA証券",
-    "timestamp": "2026-08-02T23:14:40+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "エネルギー供給への不安感の高まりが原油価格の反発を支えている状況を解説したコメンタリー。具体的な供給ショック情報は記事から判読できない。市場の心理的要因がドライバーとなっている。"
-  },
-  {
-    "title": "７月３１日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-02T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "7月31日の主要国際商品市況に関する日次レポート。具体的な価格データや市場動向の詳細が記事概要に示されていない。市況全般の定期更新版と推定される。"
-  },
-  {
     "title": "需給の時代は終わった──コモディティ市場を動かす「地政学」の力学 - Forbes JAPAN",
     "timestamp": "2026-08-03T00:52:00+00:00",
     "importance": 3,
@@ -1956,5 +1923,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場の午前10時台の動向レポート。ダウ平均が600ドル高となる中、WTI原油先物は0.92ドル安で推移。株高の中での原油小幅下落。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4247ドル｜ホルムズ海峡開放期待によるインフレ懸念後退が影響した模様(2026年8月6日) - OANDA証券",
+    "timestamp": "2026-08-05T23:03:41+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4247ドルまで上昇。ホルムズ海峡開放期待によりインフレ懸念が後退し、金売却圧力が軽減された。既知の地政学リスク緩和の反映。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの合意が近いとの見方が強まり、原油価格は3営業日続落（2026年8月6日） - OANDA証券",
+    "timestamp": "2026-08-05T23:12:58+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの核合意再開の可能性が高まり、対イラン制裁緩和による原油供給増加の懸念から、WTI原油は3営業日続落している。供給増加見通しが価格を圧迫している。"
+  },
+  {
+    "title": "NY為替：米イラン和平合意期待に原油価格下落 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-05T21:33:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の和平合意への期待が高まり、地政学的リスク低下による原油売却圧力が発生。イラン産油の市場復帰懸念により原油価格が下落。"
+  },
+  {
+    "title": "(NEXT FUNDS)NOMURA原油インデックス上場【1699】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-08-05T21:51:25+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NOMURA原油インデックス上場投信（1699）の株価情報ページ。特定のニュースイベントではなく、既存上場商品の株価データ表示。"
+  },
+  {
+    "title": "５日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-05T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "5日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や商品別の騰落状況を報じたものと推測される。詳細なデータがないため詳しい分析は困難。"
   }
 ]
