@@ -1,16 +1,5 @@
 [
   {
-    "title": "2026年8月3日現在、金価格は引き続き下落しており、市場は激しい綱引き状態にあり、突破口を開く勢いは見られない。 - Vietnam.vn",
-    "timestamp": "2026-08-02T15:38:03+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が引き続き下落トレンドにあり、市場は買い手と売り手の綱引き状態。明確な方向性や突破口が見られない膠着した相場環境が続いている。"
-  },
-  {
     "title": "米イラン“戦闘再開”で原油生産「西半球シフト」加速、中東のシェアはいずれ30％前後に低下!? - ダイヤモンド・オンライン",
     "timestamp": "2026-08-02T19:30:00+00:00",
     "importance": 3,
@@ -1879,5 +1868,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "Investing.comによる原油先物（CL）の取引情報ページ。特定のニュースイベントではなく、プラットフォームの取引ページへのリンク掲載と見られる。"
+  },
+  {
+    "title": "世界の金価格はまるでジェットコースターのようだ。 - Vietnam.vn",
+    "timestamp": "2026-08-05T15:24:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の変動性が高い状況についての解説記事。具体的な価格水準や変動要因は記載されていない。既知のボラティリティについての観測コメント。"
+  },
+  {
+    "title": "先週（5月3日～9日）、金価格は徐々に回復し、国内価格と国際価格の差は1オンスあたり約300万ベトナムドンに縮小した。 - Vietnam.vn",
+    "timestamp": "2026-08-05T14:11:20+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が先週（5月3～9日）に徐々に回復。国内価格と国際価格のスプレッドが1オンスあたり約300万ベトナムドンまで縮小した。"
+  },
+  {
+    "title": "WTI原油先物が本日下落している理由とは 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-05T14:11:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が本日下落している状況について、理由の解説記事。具体的な下落要因の詳細は記事タイトルのみでは不明。"
+  },
+  {
+    "title": "フーシ派、サウジ石油タンカーへの攻撃を主張 原油価格が1％超反発、ホルムズ海峡航行再開に暗雲 - finance.biggo.jp",
+    "timestamp": "2026-08-05T10:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派がサウジアラビアの石油タンカーへの攻撃を主張。原油価格は1%超反発し、ホルムズ海峡の航行リスク懸念が再燃。地政学的緊張の継続を示唆。"
+  },
+  {
+    "title": "📈 パランティア・テクノロジーズ急騰、原油価格下落でウォール街は最高値を更新 - Moomoo",
+    "timestamp": "2026-08-05T01:16:31+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "パランティア・テクノロジーズ（AI関連株）が急騰し、ウォール街が最高値を更新したというニュース。原油価格下落との相関関係は不明確で、テック株とコモディティの連動性が低い。"
+  },
+  {
+    "title": "WTI原油、ホルムズ海峡再開協議で供給懸念が後退し74ドル近辺へ下落 米株高も重し - VT Markets",
+    "timestamp": "2026-08-05T08:14:50+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡再開協議により地政学的供給懸念が緩和され、WTI原油は74ドル近辺へ下落。米株高も原油需要見通しの弱気材料として作用している。"
   }
 ]
