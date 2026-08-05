@@ -1,27 +1,5 @@
 [
   {
-    "title": "Tricky talks at OPEC - economist.com",
-    "timestamp": "2026-08-02T00:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの交渉が難航していることを報じるコメンタリー。減産合意の継続や追加調整をめぐる加盟国間の立場の相違が浮き彫りになっている。具体的な交渉内容や決定時期については詳細が不明。"
-  },
-  {
-    "title": "Tricky talks at OPEC - economist.com",
-    "timestamp": "2026-08-02T00:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECの交渉が難航していることを報じるコメンタリー。減産合意の継続や追加調整をめぐる加盟国間の立場の相違が浮き彫りになっている。具体的な交渉内容や決定時期については詳細が不明。"
-  },
-  {
     "title": "OPEC eyes 185K+ bpd output boost before year-end freeze - Shafaq News | Latest breaking news in Iraq and the world - shafaq.com",
     "timestamp": "2026-08-02T09:04:37+00:00",
     "importance": 3,
@@ -592,5 +570,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの石油流出量が7週間ぶりの低水準に達した。精油所ストライキの一時休止が背景。供給減少により原油相場に上向きの圧力がかかる可能性があるが、短期的な需給調整の範囲内。"
+  },
+  {
+    "title": "Dollar Pressured by Strength in Stocks and Lower Crude Prices - TradingView",
+    "timestamp": "2026-08-04T14:36:16+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "株式市場の堅調とエネルギー価格の下落がドル売り圧力を生じさせている。原油価格の低下は投資家のリスク選好を高め、ドル買いニーズを減少させている。一方、金はドル弱含みで支援材料となる可能性がある。"
+  },
+  {
+    "title": "Dollar Pressured by Strength in Stocks and Lower Crude Prices - TradingView",
+    "timestamp": "2026-08-04T14:36:16+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "株式市場の堅調とエネルギー価格の下落がドル売り圧力を生じさせている。原油価格の低下は投資家のリスク選好を高め、ドル買いニーズを減少させている。一方、金はドル弱含みで支援材料となる可能性がある。"
+  },
+  {
+    "title": "Dollar Pressured by Strength in Stocks and Lower Crude Prices - TradingView",
+    "timestamp": "2026-08-04T14:36:16+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "株式市場の堅調とエネルギー価格の下落がドル売り圧力を生じさせている。原油価格の低下は投資家のリスク選好を高め、ドル買いニーズを減少させている。一方、金はドル弱含みで支援材料となる可能性がある。"
+  },
+  {
+    "title": "OPEC oil production rose again last month, with gains in Kuwait, Saudi Arabia and Iraq, though opaque shipping data made output harder to track - Crypto Briefing",
+    "timestamp": "2026-08-04T21:41:41+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの原油生産が先月再び増加し、クウェート、サウジアラビア、イラクで増産が見られた。ただし海運データの不透明性により正確な生産量把握が困難となっている。既報の増産トレンドの継続報告であり、市場予想範囲内。"
   }
 ]
