@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC eyes 185K+ bpd output boost before year-end freeze - Shafaq News | Latest breaking news in Iraq and the world - shafaq.com",
-    "timestamp": "2026-08-02T09:04:37+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが年末の減産凍結前に日量18.5万バレル以上の増産を検討していることが報じられた。加盟国の生産能力活用と市場安定化の意図が背景と考えられる。年末の政策決定に向けた事前調整段階の報道である。"
-  },
-  {
-    "title": "OPEC+ set for September quota increase followed by pause, sources say - Reuters",
-    "timestamp": "2026-08-02T08:12:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は9月に生産枠の引き上げを実施し、その後の増産を一時停止する方針。供給面での小幅な緩和が進む一方で、増産ペースの鈍化により市場の供給懸念は限定的。原油価格への上昇圧力は緩やかで、市場予想の範囲内の展開と考えられる。"
-  },
-  {
     "title": "OPEC, Allies Increase Oil Output for Sixth Time in a Row - WSJ",
     "timestamp": "2026-08-02T11:57:00+00:00",
     "importance": 3,
@@ -614,5 +592,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECの原油生産が先月再び増加し、クウェート、サウジアラビア、イラクで増産が見られた。ただし海運データの不透明性により正確な生産量把握が困難となっている。既報の増産トレンドの継続報告であり、市場予想範囲内。"
+  },
+  {
+    "title": "OPEC+ oil output hike is irrelevant for now, not for later - Reuters",
+    "timestamp": "2026-08-03T00:31:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の増産決定は現在の市場環境では実質的な影響が限定的であり、むしろ将来的な意味が大きいとの見方。供給増加計画は既に市場で織り込まれており、直近の価格変動要因としては弱い状況を指摘。"
+  },
+  {
+    "title": "Brazil’s Oil Output Hits Record as War Drives Up Non-OPEC Supply - gCaptain",
+    "timestamp": "2026-08-04T16:59:11+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ブラジルの原油生産量が過去最高を記録し、ウクライナ戦争に伴うOPEC外の供給増加が加速している。非OPEC産油国の供給増加は市場の供給過剰圧力となり、原油価格への下押し要因として作用する可能性がある。"
+  },
+  {
+    "title": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea - Reuters",
+    "timestamp": "2026-08-05T07:27:57+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンの親イラン系勢力フーシ派がアラビア海紅海でサウジアラビアのタンカーを攻撃したと発表。紅海はスエズ運河経由で世界石油輸送の約12％が通過する重要航路であり、供給ルート遮断リスクが顕在化。地政学的リスク急上昇により原油価格の上昇圧力が強まる。"
   }
 ]
