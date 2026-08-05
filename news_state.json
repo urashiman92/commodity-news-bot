@@ -1,38 +1,5 @@
 [
   {
-    "title": "イランがトランプ氏のホルムズ合意を否定、原油上昇もビットコインは静観 - BeInCrypto",
-    "timestamp": "2026-08-02T13:01:42+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランがトランプ氏のホルムズ海峡合意を否定。地政学的緊張が再燃し原油価格は上昇。ただしホルムズ海峡での実質的な供給遮断は起きていない状況。"
-  },
-  {
-    "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-08-02T13:15:44+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Yahoo!ファイナンスによるNEXT NOTES ドバイ原油先物ダブル・ブルETN【2038】の銘柄情報ページの掲載。具体的なニュースイベントではなく、金融商品の情報リンクである。"
-  },
-  {
-    "title": "原油価格の下落にもかかわらず、燃料価格が落ち着く可能性は低い。 - Vietnam.vn",
-    "timestamp": "2026-08-02T15:10:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が下落している一方で、燃料価格は低下しにくい状況が続く見通し。下流産業の構造的要因が原油安を相殺している可能性。"
-  },
-  {
     "title": "2026年8月3日現在、金価格は引き続き下落しており、市場は激しい綱引き状態にあり、突破口を開く勢いは見られない。 - Vietnam.vn",
     "timestamp": "2026-08-02T15:38:03+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が引き続き下落トレンドにあり、市場は買い手と売り手の綱引き状態。明確な方向性や突破口が見られない膠着した相場環境が続いている。"
-  },
-  {
-    "title": "本日8月2日の金価格は急落し、買い手は大きな損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-08-02T14:25:21+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月2日のベトナム市場で金価格が急落したとの報道。買い手が損失を被ったが、具体的な下落原因や下落幅が記事から不明。地域限定的なニュースの可能性が高い。"
   },
   {
     "title": "米イラン“戦闘再開”で原油生産「西半球シフト」加速、中東のシェアはいずれ30％前後に低下!? - ダイヤモンド・オンライン",
@@ -1901,5 +1857,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米国の輸入需要逼迫により世界銅供給が引き締まる見通しから、銅業株が上昇。機関投資家は銅価格の中長期的な上昇基調を予想している。"
+  },
+  {
+    "title": "本日（8月5日午後）の金価格：金地金価格は1オンスあたり1億4200万ベトナムドンに迫る。 - Vietnam.vn",
+    "timestamp": "2026-08-05T11:23:07+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金価格が1オンス当たり1億4200万ベトナムドンに接近している。ローカル市場の価格報告であり、グローバル金相場の新たな情報は含まれていない。"
+  },
+  {
+    "title": "Crude Oil Perpetual Futures 取引 (CL) - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-05T02:17:01+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Investing.comによる原油先物（CL）の取引情報ページ。特定のニュースイベントではなく、プラットフォームの取引ページへのリンク掲載と見られる。"
   }
 ]
