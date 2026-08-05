@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - CNBC",
-    "timestamp": "2026-08-02T13:09:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが9月の石油増産を決定し、自主的な減産措置の段階的解除を完了する。2023年から続く減産政策の最終段階として、市場予想通りの段階的な生産回復が進行。供給増加局面へのシフトが確定し、原油価格への下押し圧力となる可能性がある。"
-  },
-  {
-    "title": "OPEC+ boosts September oil output, future pause foreseen | Daily Sabah - Daily Sabah",
-    "timestamp": "2026-08-02T12:21:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月の原油生産量を増加させることを発表。ただし将来的には生産調整の一時停止が見込まれている。供給増加は短期的には価格押し下げ要因となるが、その後の減産シグナルが相殺する可能性がある。"
-  },
-  {
     "title": "OPEC+ Agree To Boost Oil Output. It May Not Reflect In Market Soon. - International Business Times",
     "timestamp": "2026-08-02T16:10:45+00:00",
     "importance": 2,
@@ -647,5 +625,49 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "株価上昇とドル安圧力が市場で観察される中、原油価格の下落がドル相場に重しとなっている。株価強気相場はリスク資産需要を高める一方、原油安はドル指数を押し下げている。この環境は金などのドル建てコモディティの需給バランスに二律背反的な影響をもたらす可能性がある。"
+  },
+  {
+    "title": "Strategists Expect USA Crude Build in Next EIA Report - Rigzone",
+    "timestamp": "2026-08-05T11:38:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計の次回発表でストラテジストが米国原油在庫の増加を予想している。供給増加見通しは原油価格に下押し圧力となる。市場予想の範囲内で織り込み済みの動きと見られる。"
+  },
+  {
+    "title": "Southern Corn Conditions and Yield Expectations - Oklahoma Farm Report",
+    "timestamp": "2026-08-05T13:35:06+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "オクラホマ州のトウモロコシ作況・収量見通しに関する定期レポート。南部地域の生育状況が評価されている。具体的な収量数値や作況指数がレポート内容の鍵となるが、詳細は確認が必要。"
+  },
+  {
+    "title": "Iran state oil company's bank accounts frozen over debt, Fars news agency reports - Reuters",
+    "timestamp": "2026-08-05T13:12:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン国営石油会社の銀行口座が債務により凍結されたと報じられた。イランは世界有数の石油生産国であり、同国の資金繰り悪化は石油輸出能力の低下につながる可能性が高い。地政学的リスク要因として、原油供給タイトニング圧力が強まる。"
+  },
+  {
+    "title": "Iran state oil company's bank accounts frozen over debt, Fars news agency reports - Reuters",
+    "timestamp": "2026-08-05T13:12:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イラン国営石油会社の銀行口座が債務により凍結されたと報じられた。イランは世界有数の石油生産国であり、同国の資金繰り悪化は石油輸出能力の低下につながる可能性が高い。地政学的リスク要因として、原油供給タイトニング圧力が強まる。"
   }
 ]
