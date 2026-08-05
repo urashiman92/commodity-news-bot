@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（8月2日）の最新の金価格は依然として重要な水準にある。顧客は引き続き「姿を消し」、今週末の金取引市場は閑散としている。 - Vietnam.vn",
-    "timestamp": "2026-08-02T11:00:58+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月2日の金価格は重要な水準を維持している。週末にかけて取引量が減少し、市場参加者が減少している状況。相場の閑散化による低流動性の環境報告。"
-  },
-  {
     "title": "イランがトランプ氏のホルムズ合意を否定、原油上昇もビットコインは静観 - BeInCrypto",
     "timestamp": "2026-08-02T13:01:42+00:00",
     "importance": 3,
@@ -1791,5 +1780,126 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "中国の7月コモディティ価格指数が前年同月比15.5%上昇した。中国の景気回復やインフレ圧力を示唆する指標。商品全般への需要強化とコモディティ相場の上値支持要因となる可能性。"
+  },
+  {
+    "title": "本日（8月5日正午）の金価格：国内の金価格は反転上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-05T07:36:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が8月5日正午時点で反転上昇したことを報じるニュース。地域的な価格動向の記録に過ぎない。国際的な金市場全体への直接的な影響は限定的。"
+  },
+  {
+    "title": "金価格が3営業日中3回目に上昇、弱いドルと原油安が支援 - Межа. Новини України.",
+    "timestamp": "2026-08-05T07:58:14+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3営業日連続で上昇。ドル弱化と原油安が買い材料となった。短期的な技術的反発の様相。"
+  },
+  {
+    "title": "2026年8月5日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-05T08:53:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・先物OP市場に関する定期的な市場ウォッチ記事。金先物とは直接関連性がなく、日本株指数先物市場の取引情報の報道。"
+  },
+  {
+    "title": "速報 5-8：原油価格が急落、金価格は4,100ドルまで上昇後反転、株価は軒並み上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-05T07:36:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油が急落、金は4,100ドル付近で反転、株価上昇という複数資産クラスの同時変動を報じている。各資産の具体的な下落/上昇幅が示されていないため詳細な分析が困難。"
+  },
+  {
+    "title": "金価格が1オンスあたり4,100ドルを突破しました。利益確定すべきでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-08-05T08:30:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり4,100ドルを突破した。記事は利益確定の是非を問う解説記事。既に実現した価格水準についての相場評論。"
+  },
+  {
+    "title": "在庫減少を反映しない原油相場はリスク要因、相場は常に正しいのか？＜コモディティ特集＞ - 株探",
+    "timestamp": "2026-08-05T04:30:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が減少しているにもかかわらず、相場がそれを十分に反映していないという指摘。市場のプライシング機能に乖離が生じている可能性を問う解説記事。"
+  },
+  {
+    "title": "世界の原油価格は急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-05T08:30:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が急落した。市場報道であるが、具体的な原因・下落幅・時期が記事概要に不明確。コモディティ投資家にとっては下落トレンドの確認として注視対象。"
+  },
+  {
+    "title": "ＮＹ市場、原油先物が７５ドル台と１か月ぶりの安値水準…ダウは２日連続で最高値更新し終値で初の５万４０００ドル台 - ｄメニューニュース",
+    "timestamp": "2026-08-05T01:19:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が75ドル台と1ヶ月ぶりの安値まで下落。一方でダウは2日連続で最高値更新し54,000ドル台に到達。株高と原油安が同時進行。"
+  },
+  {
+    "title": "原油価格とトウモロコシ価格が同時に急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-05T08:43:31+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "原油価格の急落に連動してトウモロコシ価格も同時下落。バイオ燃料需要減少と景気減速懸念が圧迫要因。エネルギー価格との相関性を反映した既定路線の動き。"
+  },
+  {
+    "title": "【非鉄金属トップ3徹底比較】住友金属鉱山・三菱マテリアル・JX金属の2025年度本決算 銅価格史上最高値・AI半導体材料急伸・配当2倍増配の全貌を8軸で解説 Jason Collins (itoFuJkohx) - Mshale",
+    "timestamp": "2026-08-05T00:33:48+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "日本非鉄金属大手3社の2025年度決算好調を解説。銅価格史上最高値、AI半導体材料需要増加、配当2倍増などが特徴。業界全体の好況を反映した既知の動向の整理。"
+  },
+  {
+    "title": "香港株の動き｜銅業株が軒並み上昇、米国の輸入需要逼迫で世界供給が引き締まる、機関投資家は銅価格の中長期的な上昇基調を予想 - Moomoo",
+    "timestamp": "2026-08-05T03:04:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国の輸入需要逼迫により世界銅供給が引き締まる見通しから、銅業株が上昇。機関投資家は銅価格の中長期的な上昇基調を予想している。"
   }
 ]
