@@ -680,5 +680,60 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "米ドル相場が株価上昇と米経済指標の弱さにより下落している。ドル安は一般的にコモディティ価格を支援する傾向にあるが、本報道はコモディティ市場の具体的な動向や数値を欠いており、マクロ環境の解説に留まっている。"
+  },
+  {
+    "title": "EIA reports a rise in US crude oil stocks - engine.online",
+    "timestamp": "2026-08-06T06:02:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告した。在庫積み増しは原油供給が需要を上回っていることを示唆し、原油価格に下押し圧力をもたらす可能性がある。具体的な在庫増加数量が示されていないため、サプライズ度の判定は困難である。"
+  },
+  {
+    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-06T05:53:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-06T05:53:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-06T05:53:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-06T05:53:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
   }
 ]
