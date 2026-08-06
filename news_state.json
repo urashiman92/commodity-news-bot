@@ -1,71 +1,5 @@
 [
   {
-    "title": "【マーケット】金価格が反発、イラン核合意期待で原油急落・利上げ観測後退 - BigGo ファイナンス",
-    "timestamp": "2026-08-03T14:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "イラン核合意期待による原油急落と金利上昇観測の後退が、金価格の反発を支援。ドル弱化とリスク資産圧力軽減が金にポジティブ。"
-  },
-  {
-    "title": "金価格は本日2026年8月4日に急騰したが、正確な市場の底値を特定する必要はなかった。圧力はFRBからもたらされた。 - Vietnam.vn",
-    "timestamp": "2026-08-03T13:01:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年8月4日に金価格が急騰。FRB（米連邦準備制度）の政策スタンスが上昇要因として指摘されている。金の底値を特定する必要がないほどの上昇との報道。"
-  },
-  {
-    "title": "膠着状態に陥ったイラン戦争とそれにともなう原油価格上昇でドナルド·トランプ米国大統領支持率が30%台序盤に留まっているが、3ヶ月後に迫った米国中間選挙(11月3日)で民主党が得る「反射利益」は制限的で.. - 매일경제",
-    "timestamp": "2026-08-03T13:09:04+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン戦争の膠着とそれに伴う原油価格上昇がトランプ大統領の支持率低下につながっているが、11月の中間選挙での民主党への波及効果は限定的との政治解説。既に報道されたイラン情勢と原油上昇の既知の事実を踏まえた観測記事。"
-  },
-  {
-    "title": "金価格の急落を受け、各国中央銀行は記録的な額の金を購入している。 - Vietnam.vn",
-    "timestamp": "2026-08-03T15:05:47+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の下落局面において、各国中央銀行が記録的規模の金買い越しを実施している。需給バランスの逆転が金価格の下支え要因となっている。"
-  },
-  {
-    "title": "2026年8月3日の金価格：SJC 1億3750万～1億4100万ベトナムドン/オンス、買い+50万ベトナムドン。 - Vietnam.vn",
-    "timestamp": "2026-08-03T15:17:12+00:00",
-    "importance": 1,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が1億3750万～1億4100万ベトナムドン/オンスで取引されており、買値が前日比+50万ベトナムドン上昇した。地域の金価格動向を記録したニュース。"
-  },
-  {
-    "title": "新たな外交的シグナルを受けて、世界の原油価格は反転し、急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-03T13:58:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "外交的シグナルを受けて原油価格が急落した。具体的な外交内容は記事から不明だが、地政学的な緊張緩和を示唆する可能性がある。中東情勢やOPEC関連の動きに関連する可能性がある。"
-  },
-  {
     "title": "本日の金価格（8月3日）：SJCの金地金と金指輪は同価格で販売されました。 - Vietnam.vn",
     "timestamp": "2026-08-03T17:08:15+00:00",
     "importance": 1,
@@ -75,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金地金と金指輪が同価格で販売されたというローカルニュース。地域的な価格表示に関する報道で、グローバル金市場の需給や価格動向に直接的な影響はない。"
-  },
-  {
-    "title": "NY外為：ドル軟調、NY原油先物は80ドル割れ、米イラン交渉再開 - ｄメニューニュース",
-    "timestamp": "2026-08-03T15:19:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン交渉の再開観測によりドルが軟調となり、NY原油先物は80ドルを割れた。交渉進展によるイラン原油供給増加への懸念が相場を押し下げている。"
   },
   {
     "title": "欧州国債に買い、独10年債利回り低下 原油急落でインフレ警戒後退 - BigGo ファイナンス",
@@ -121,17 +44,6 @@
     "summary": "8月3日の金価格は複数方向への変動を記録。具体的な価格変動幅や要因については記事概要では不明。ベトナムの地域ニュースであり、グローバル市場への影響は限定的。"
   },
   {
-    "title": "NY外為：ドル軟調、NY原油先物は80ドル割れ、米イラン交渉再開 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-03T15:19:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル軟調を受けてNY原油先物が80ドル割れとなった。米イラン交渉の再開により供給懸念が後退し、原油需給が緩和方向と見られている。"
-  },
-  {
     "title": "トランプ氏が対イラン攻撃を見送り、原油価格は下落もホルムズ海峡の航行は不透明に - mezha.net",
     "timestamp": "2026-08-03T18:02:27+00:00",
     "importance": 4,
@@ -152,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の緩和期待により原油価格が下落。同時にNYダウが約1カ月ぶりの最高値を更新し、リスク資産全般に買いが入った。地政学的リスクの後退がエネルギー市場のプレッシャーとなっている。"
-  },
-  {
-    "title": "JX金属の株価は今後どうなる？IPO後4倍超の急騰銘柄を徹底分析！チャート・業績・銅価格から読み解く投資戦略 Aroldis Chapman (vzK1XUAymC) - Mshale",
-    "timestamp": "2026-08-03T15:15:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属の株価分析記事。IPO後の急騰要因をチャート・業績・銅価格から検討している解説記事。銅価格そのものの新規ニュースではなく、既存銘柄の投資戦略論。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4055ドル｜米長期金利の下落が影響し、買いが入った模様(2026年8月4日) - OANDA証券",
@@ -2055,5 +1956,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属が2027年3月期の経営予想を上方修正。銅などの非鉄金属価格の底堅さと需要回復を背景に増益見通し。銅市場の需給バランス改善を示唆。"
+  },
+  {
+    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-08-06T13:10:07+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油価格連動型上場投信（1671）のYahoo!ファイナンス掲載ページ。投信の株価・株式情報を扱うデータ提供記事。"
+  },
+  {
+    "title": "【速報】ドル・円158円台、原油価格が上昇｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-06T14:16:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル円が158円台に上昇しており、それに伴って原油価格も上昇している。ドル高・円安環境が原油買いを促進している状況を報じている。"
+  },
+  {
+    "title": "サウジ、アジア向け主力原油価格を小幅引き下げ 6年ぶり低水準｜Infoseekニュース - Infoseek",
+    "timestamp": "2026-08-06T11:21:48+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラムコがアジア向けアラビアンライト原油の公式売却価格（OSP）を小幅引き下げた。6年ぶりの低水準となり、需要減速やベンチマーク原油の軟調を反映している。"
+  },
+  {
+    "title": "銅価格が過去最高値、6.85ドルが次の焦点 - BeInCrypto",
+    "timestamp": "2026-08-06T14:21:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高値を更新し、次の抵抗線が6.85ドルと指摘されている。EV需要や脱炭素関連の構造的な需要増加が背景。テクニカル分析に基づく相場観の提示。"
+  },
+  {
+    "title": "決算:JX金属の純利益上方修正 27年3月期、銅価格高騰・半導体材料も好調 - 日本経済新聞",
+    "timestamp": "2026-08-06T11:40:34+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が2027年3月期の純利益を上方修正。銅価格の高騰と半導体材料部門の好調が要因。銅精錬企業の業績改善を示唆する決算発表。"
   }
 ]
