@@ -1,49 +1,5 @@
 [
   {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, August 3, 2026 - rfdtv.com",
-    "timestamp": "2026-08-03T15:03:29+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "RFD-TVによる8月3日付の定期的な作物進捗・畜産生産レポート。米国の地域別の穀物成長状況と畜産動向を定例報告するもの。詳細なデータ値が提供されていないため、市場への具体的なインパクト評価は限定的。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, August 3, 2026 - rfdtv.com",
-    "timestamp": "2026-08-03T15:03:29+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "RFD-TVによる8月3日付の定期的な作物進捗・畜産生産レポート。米国の地域別の穀物成長状況と畜産動向を定例報告するもの。詳細なデータ値が提供されていないため、市場への具体的なインパクト評価は限定的。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, August 3, 2026 - rfdtv.com",
-    "timestamp": "2026-08-03T15:03:29+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "RFD-TVによる8月3日付の定期的な作物進捗・畜産生産レポート。米国の地域別の穀物成長状況と畜産動向を定例報告するもの。詳細なデータ値が提供されていないため、市場への具体的なインパクト評価は限定的。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, August 3, 2026 - rfdtv.com",
-    "timestamp": "2026-08-03T15:03:29+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "RFD-TVによる8月3日付の定期的な作物進捗・畜産生産レポート。米国の地域別の穀物成長状況と畜産動向を定例報告するもの。詳細なデータ値が提供されていないため、市場への具体的なインパクト評価は限定的。"
-  },
-  {
     "title": "Arable Market Report – 3 August 2026 - AHDB",
     "timestamp": "2026-08-03T17:19:56+00:00",
     "importance": 1,
@@ -97,17 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "トランプ前大統領がシェブロンCEOを含む石油企業に対してガソリン価格の低下を要求。政治的圧力による発言であり、市場メカニズムに基づかない介入的なコメンタリー。石油企業の上流投資抑制リスクを高める可能性がある。"
-  },
-  {
-    "title": "Ukraine’s Shifting Strikes Deepen Uncertainty Around Russian Oil - Bloomberg.com",
-    "timestamp": "2026-08-03T14:23:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア産原油施設への攻撃戦略をシフトさせており、ロシア石油供給の不確実性が大幅に高まっている。ドローン・ミサイル攻撃の標的変更により、露国の重要な産油地帯・パイプライン・精製施設が脅威にさらされ、欧州向け供給断絶リスクが顕在化している。"
   },
   {
     "title": "OPEC+ approves September output hike, completes 2023 cuts rollback - Oil & Gas Journal",
@@ -702,5 +647,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがアジア向け主要原油銘柄の価格を引き下げた。ホルムズ海峡を巡る地政学的緊張の緩和に関する協議が進展している兆候として市場で受け止められている。価格引き下げは供給過剰懸念と地政学リスク低下を反映している。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the August WASDE Report - agriculture.com",
+    "timestamp": "2026-08-06T15:07:28+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE報告書を前にした農家向けの事前ガイダンス記事。WASDE（世界農業需給報告書）は毎月定期発表される重要な統計で、米国穀物の作付面積・生産量・在庫見通しが更新される。農家のポジション調整やリスク管理の判断材料となる。具体的な予想数値は記事本体の確認が必要。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the August WASDE Report - agriculture.com",
+    "timestamp": "2026-08-06T15:07:28+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月のWASDE報告書を前にした農家向けの事前ガイダンス記事。WASDE（世界農業需給報告書）は毎月定期発表される重要な統計で、米国穀物の作付面積・生産量・在庫見通しが更新される。農家のポジション調整やリスク管理の判断材料となる。具体的な予想数値は記事本体の確認が必要。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the August WASDE Report - agriculture.com",
+    "timestamp": "2026-08-06T15:07:28+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "8月のWASDE報告書を前にした農家向けの事前ガイダンス記事。WASDE（世界農業需給報告書）は毎月定期発表される重要な統計で、米国穀物の作付面積・生産量・在庫見通しが更新される。農家のポジション調整やリスク管理の判断材料となる。具体的な予想数値は記事本体の確認が必要。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the August WASDE Report - agriculture.com",
+    "timestamp": "2026-08-06T15:07:28+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "8月のWASDE報告書を前にした農家向けの事前ガイダンス記事。WASDE（世界農業需給報告書）は毎月定期発表される重要な統計で、米国穀物の作付面積・生産量・在庫見通しが更新される。農家のポジション調整やリスク管理の判断材料となる。具体的な予想数値は記事本体の確認が必要。"
+  },
+  {
+    "title": "All eyes on the August WASDE - Brownfield Ag News",
+    "timestamp": "2026-08-06T14:20:31+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE（米国農務省作物・需給報告）が注目を集めている。同報告は米国の穀物・大豆の生産量・作付面積・在庫見通しを示す定期統計であり、穀物市場への影響は極めて大きい。8月発表は秋の収穫期を控えた重要タイミングで、生産見通しの上下修正が市場を大きく動かす可能性がある。"
+  },
+  {
+    "title": "All eyes on the August WASDE - Brownfield Ag News",
+    "timestamp": "2026-08-06T14:20:31+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月のWASDE（米国農務省作物・需給報告）が注目を集めている。同報告は米国の穀物・大豆の生産量・作付面積・在庫見通しを示す定期統計であり、穀物市場への影響は極めて大きい。8月発表は秋の収穫期を控えた重要タイミングで、生産見通しの上下修正が市場を大きく動かす可能性がある。"
+  },
+  {
+    "title": "All eyes on the August WASDE - Brownfield Ag News",
+    "timestamp": "2026-08-06T14:20:31+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "8月のWASDE（米国農務省作物・需給報告）が注目を集めている。同報告は米国の穀物・大豆の生産量・作付面積・在庫見通しを示す定期統計であり、穀物市場への影響は極めて大きい。8月発表は秋の収穫期を控えた重要タイミングで、生産見通しの上下修正が市場を大きく動かす可能性がある。"
+  },
+  {
+    "title": "All eyes on the August WASDE - Brownfield Ag News",
+    "timestamp": "2026-08-06T14:20:31+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "8月のWASDE（米国農務省作物・需給報告）が注目を集めている。同報告は米国の穀物・大豆の生産量・作付面積・在庫見通しを示す定期統計であり、穀物市場への影響は極めて大きい。8月発表は秋の収穫期を控えた重要タイミングで、生産見通しの上下修正が市場を大きく動かす可能性がある。"
+  },
+  {
+    "title": "USDA crop report shows corn and soybean quality drop - farmprogress.com",
+    "timestamp": "2026-08-06T02:24:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの定期穀物進捗レポートでトウモロコシと大豆の品質低下が報告された。天候悪化やその他の栽培条件の悪化が原因と推定され、収量や等級の低下による供給懸念が生じている。品質低下は製粉・飼料利用での価値低下につながる可能性がある。"
+  },
+  {
+    "title": "USDA crop report shows corn and soybean quality drop - farmprogress.com",
+    "timestamp": "2026-08-06T02:24:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAの定期穀物進捗レポートでトウモロコシと大豆の品質低下が報告された。天候悪化やその他の栽培条件の悪化が原因と推定され、収量や等級の低下による供給懸念が生じている。品質低下は製粉・飼料利用での価値低下につながる可能性がある。"
+  },
+  {
+    "title": "Ukraine Says It Hit Two of Russia’s Oil Refineries Overnight - Bloomberg.com",
+    "timestamp": "2026-08-06T08:44:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアの石油精製施設2カ所を夜間に攻撃したと発表。ロシアの石油精製能力低下は欧州向けエネルギー供給逼迫につながり、原油価格の上昇圧力となる。地政学的リスク顕在化により市場が敏感に反応する可能性が高い。"
   }
 ]
