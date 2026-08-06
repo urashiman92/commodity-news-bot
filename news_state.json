@@ -1,82 +1,5 @@
 [
   {
-    "title": "金価格は横ばいです。 - Vietnam.vn",
-    "timestamp": "2026-08-03T06:55:49+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が横ばいで推移している状況の報道。具体的な価格水準や変動幅の記載がなく、単純な相場観測の伝達に過ぎない。"
-  },
-  {
-    "title": "金価格が6ヶ月で大幅下落、買い手は1テールあたり3650万ドンの損失 - Laodong.vn",
-    "timestamp": "2026-08-03T08:01:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金買い手が過去6ヶ月間の金価格下落により1テールあたり3650万ドンの損失を被った。既に発生した価格下落を事後的に報じたもの。"
-  },
-  {
-    "title": "本日（8月3日午後）の金価格：PNJの金指輪の価格は逆方向に取引されています。 - Vietnam.vn",
-    "timestamp": "2026-08-03T07:01:46+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのPNJ社の金指輪価格が逆方向に取引されているとの報道。地域的な小売価格情報であり、国際金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "8月3日午前の金価格は、世界市場で若干上昇したものの、1オンスあたり約1200万ベトナムドンの差で、ほとんど変動が見られなかった。 - Vietnam.vn",
-    "timestamp": "2026-08-03T06:56:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月3日午前の金価格は世界市場で若干上昇したが、1オンスあたり約1200万ベトナムドン前後でほぼ変動なし。ベトナム市場の日次相場観測記事で、市場への実質的な新情報なし。"
-  },
-  {
-    "title": "日本向けサウジ原油価格、2カ月連続下落 OPEC増産も下押し圧力 - 日本経済新聞",
-    "timestamp": "2026-08-03T07:20:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本向けサウジ原油価格が2カ月連続で下落。OPEC増産決定による供給増加圧力が相場を押し下げている。需給バランスの悪化により価格は弱含みで推移。"
-  },
-  {
-    "title": "米国の天候が改善したことを受け、大豆価格は5％以上下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-03T07:00:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "米国の天候改善により大豆価格が5%以上下落した。供給面での懸念が軽減されたことが売り要因。季節的な天候変動としては想定内の動き。"
-  },
-  {
-    "title": "三菱商事、4〜6月期純利益47%増の2985億円 銅や原料炭の市況上昇が寄与 - BigGo ファイナンス",
-    "timestamp": "2026-08-03T05:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "三菱商事の4〜6月期純利益が47%増の2985億円となり、銅や原料炭の市況上昇が業績を牽引。商社決算の好調は銅需要の堅調性を反映している。"
-  },
-  {
     "title": "2026年8月3日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-08-03T10:09:00+00:00",
     "importance": 1,
@@ -86,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "日経225先物の証拠金・先物オプション市場に関する定期的な市場ウォッチ記事。日経平均株価関連の技術的な市場情報であり、コモディティ（特に金）への直接的な影響はない。"
-  },
-  {
-    "title": "ムトゥート・ファイナンス株が11%急落、金価格下落で利ざや悪化 - BigGo ファイナンス",
-    "timestamp": "2026-08-03T07:55:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ムトゥート・ファイナンス株が11%下落。金価格下落に伴い、同社の利ざやが悪化したことが要因。金関連企業の収益性悪化を示唆する個別銘柄ニュース。"
   },
   {
     "title": "世界の金価格は急騰する一方、原油価格は急落した。 - Vietnam.vn",
@@ -196,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン戦争の膠着とそれに伴う原油価格上昇がトランプ大統領の支持率低下につながっているが、11月の中間選挙での民主党への波及効果は限定的との政治解説。既に報道されたイラン情勢と原油上昇の既知の事実を踏まえた観測記事。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年8月3日）WGC最新レポートで中銀の上期金購入が2022年以来の低水準、金価格は上げ幅を失う - ブリオンボールト",
-    "timestamp": "2026-08-03T08:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "WGCの最新レポートで、中央銀行の2026年上期の金購入が2022年以来の低水準であることが明らかになった。需要減少により金価格は上昇幅を失い調整圧力が高まっている。"
   },
   {
     "title": "金価格の急落を受け、各国中央銀行は記録的な額の金を購入している。 - Vietnam.vn",
@@ -2033,5 +1934,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "コノコフィリップスが決算を発表予定。原油価格変動の中での経営成績が注目される。大手石油メジャーの利益・キャッシュフロー動向は市場参加者の確認事項。"
+  },
+  {
+    "title": "USX714.50のレジスタンス下で停滞中：カンザスシティ小麦価格はブレイクアウトできるか？ - Traders Union",
+    "timestamp": "2026-08-05T12:24:46+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦がUSX714.50のレジスタンスレベルで停滞している状況を分析した相場解説。技術的なブレイクアウト可能性についての市場観測記事。"
+  },
+  {
+    "title": "金価格が急騰、ダウ平均株価は過去最高値を更新。 - Vietnam.vn",
+    "timestamp": "2026-08-06T05:29:28+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急騰し、同時にダウ平均が過去最高値を更新した。株価上昇局面での金価格上昇は、インフレ懸念や通貨不安による同時上昇の可能性を示唆している。"
+  },
+  {
+    "title": "【石油・原油価格高騰 製造業実態調査】製造業の9割超が石油・原油高騰の影響を実感──調達コスト増加・価格転嫁にも限界 - PR TIMES",
+    "timestamp": "2026-08-06T07:19:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本の製造業9割超が原油高騰の影響を受けており、調達コスト増加が課題。価格転嫁に限界があることで利益圧迫が続く状況が浮き彫りに。需要面での価格押し上げ圧力は限定的だが、コスト構造の硬直性を示唆。"
+  },
+  {
+    "title": "銅価格の高騰は、銅関税への賭けによって過去最高の6,703ドルまで押し上げられた。 - ebc.com",
+    "timestamp": "2026-08-06T03:01:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高の6,703ドルまで上昇した。上昇要因は銅関税導入への市場の先回り買いと見られる。政治的リスクファクターが価格を押し上げている。"
+  },
+  {
+    "title": "【衝撃】JX金属がストップ高した本当の理由。銅でなく「光通信」だった Godzilla (qGTW7oDCcc) - Mshale",
+    "timestamp": "2026-08-05T23:56:03+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属のストップ高は銅相場ではなく光通信関連事業への期待が主因である。同社の非銅事業セグメント（高機能材料・電子材料など）が評価される。銅投資家にとっては直接的な供給・需要変化ではなく、企業評価軸の再検討に過ぎない。"
   }
 ]
