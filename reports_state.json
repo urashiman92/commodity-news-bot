@@ -1,49 +1,5 @@
 [
   {
-    "title": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - Reuters",
-    "timestamp": "2026-08-02T23:41:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビア産原油を積載した2隻のタンカーが週末にかけて紅海を離脱した。紅海での海運リスク（フーシ派による船舶攻撃）が継続する中での輸送確認は、原油供給安定性への懸念を若干緩和。ただし根本的な地政学リスクは解消されていない。"
-  },
-  {
-    "title": "OPEC+ oil output hike is irrelevant for now, not for later - Reuters",
-    "timestamp": "2026-08-03T00:35:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の増産決定について、現在の市場環境では影響は限定的だが、将来的には重要性を持つという見方。供給サイドの増産は既に市場に織り込まれており、短期的な原油価格への圧力は限定的。ただし、長期的な供給動向として注視の必要あり。"
-  },
-  {
-    "title": "Indian stocks rise on Brent dip, shock-free earnings season - Reuters",
-    "timestamp": "2026-08-03T02:39:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド株式市場がブレント原油の下落と好決算シーズンを好感して上昇。原油価格の軟化がコモディティ価格全般に対して複合的な影響を与えている。好決算は経済活動の堅調さを示唆し、エネルギー需要への安心感につながる。"
-  },
-  {
-    "title": "Indian stocks rise on Brent dip, shock-free earnings season - Reuters",
-    "timestamp": "2026-08-03T02:39:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場がブレント原油の下落と好決算シーズンを好感して上昇。原油価格の軟化がコモディティ価格全般に対して複合的な影響を与えている。好決算は経済活動の堅調さを示唆し、エネルギー需要への安心感につながる。"
-  },
-  {
     "title": "OPEC 7 Decide to Boost Production Quota - Rigzone",
     "timestamp": "2026-08-03T11:15:35+00:00",
     "importance": 3,
@@ -341,17 +297,6 @@
     "summary": "アジア株がウォール街の上昇に追随して堅調に推移している。原油価格は安定的に推移しており、特段の方向性を示していない。市場全体は現在のリスクオン環境を反映した動きが続いている。"
   },
   {
-    "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts - whbl.com",
-    "timestamp": "2026-08-03T03:18:45+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが9月の石油増産を合意し、自主的な減産措置の段階的な撤廃が完了する見通し。これまでの減産ロールバック計画の最終段階であり、市場は事前に織り込まれていた動き。供給増加により原油価格には上昇圧力が緩む可能性がある一方、需要動向と地政学的リスクが価格を支える材料となる。"
-  },
-  {
     "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
     "timestamp": "2026-08-04T12:05:49+00:00",
     "importance": 4,
@@ -528,17 +473,6 @@
     "summary": "OPECの原油生産が先月再び増加し、クウェート、サウジアラビア、イラクで増産が見られた。ただし海運データの不透明性により正確な生産量把握が困難となっている。既報の増産トレンドの継続報告であり、市場予想範囲内。"
   },
   {
-    "title": "OPEC+ oil output hike is irrelevant for now, not for later - Reuters",
-    "timestamp": "2026-08-03T00:31:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の増産決定は現在の市場環境では実質的な影響が限定的であり、むしろ将来的な意味が大きいとの見方。供給増加計画は既に市場で織り込まれており、直近の価格変動要因としては弱い状況を指摘。"
-  },
-  {
     "title": "Brazil’s Oil Output Hits Record as War Drives Up Non-OPEC Supply - gCaptain",
     "timestamp": "2026-08-04T16:59:11+00:00",
     "importance": 3,
@@ -680,5 +614,71 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間統計で米国原油在庫が247.9万バレル増加し、市場予想の在庫減少（ドロー）に反して増加した。供給過剰の圧力が示唆され、需要懸念と相まって原油価格の下押し要因となる可能性がある。在庫積増は今後の原油相場にとって弱気材料。"
+  },
+  {
+    "title": "Grain Markets Await WASDE as Corn and Soybeans Struggle Despite Strong Export Demand - Agrolatam",
+    "timestamp": "2026-08-05T21:27:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国農務省のWASDE（世界農業需給見通し）発表を控えて、トウモロコシと大豆の市場が注視されている。輸出需要は堅調だが、先物価格は頭打ちとなっており、WASDE発表での在庫・生産量予想が価格方向性を左右する重要なターニングポイントとなっている。"
+  },
+  {
+    "title": "Grain Markets Await WASDE as Corn and Soybeans Struggle Despite Strong Export Demand - Agrolatam",
+    "timestamp": "2026-08-05T21:27:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国農務省のWASDE（世界農業需給見通し）発表を控えて、トウモロコシと大豆の市場が注視されている。輸出需要は堅調だが、先物価格は頭打ちとなっており、WASDE発表での在庫・生産量予想が価格方向性を左右する重要なターニングポイントとなっている。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 61% Good to Excellent; Soybeans 63% Good to Excellent as of Aug. 2 - DTN Progressive Farmer",
+    "timestamp": "2026-08-03T08:42:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA週間進捗レポート（8月2日時点）でトウモロコシが61%、大豆が63%のGood to Excellent評価を達成。両作物ともほぼ例年並みの生育状況を示しており、大きな天候被害や作況の大幅な悪化は報告されていない。定例の進捗報告に過ぎず、市場の価格予想への実質的な影響は限定的。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 61% Good to Excellent; Soybeans 63% Good to Excellent as of Aug. 2 - DTN Progressive Farmer",
+    "timestamp": "2026-08-03T08:42:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA週間進捗レポート（8月2日時点）でトウモロコシが61%、大豆が63%のGood to Excellent評価を達成。両作物ともほぼ例年並みの生育状況を示しており、大きな天候被害や作況の大幅な悪化は報告されていない。定例の進捗報告に過ぎず、市場の価格予想への実質的な影響は限定的。"
+  },
+  {
+    "title": "Dollar Slides on Stock Strength and Weakness in US Economic Reports - TradingView",
+    "timestamp": "2026-08-05T14:35:53+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "米ドル相場が株価上昇と米経済指標の弱さにより下落している。ドル安は一般的にコモディティ価格を支援する傾向にあるが、本報道はコモディティ市場の具体的な動向や数値を欠いており、マクロ環境の解説に留まっている。"
+  },
+  {
+    "title": "Dollar Slides on Stock Strength and Weakness in US Economic Reports - TradingView",
+    "timestamp": "2026-08-05T14:35:53+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "米ドル相場が株価上昇と米経済指標の弱さにより下落している。ドル安は一般的にコモディティ価格を支援する傾向にあるが、本報道はコモディティ市場の具体的な動向や数値を欠いており、マクロ環境の解説に留まっている。"
   }
 ]
