@@ -1,27 +1,5 @@
 [
   {
-    "title": "Asia stocks move higher on Wall Street lead, oil steady - Reuters",
-    "timestamp": "2026-08-04T00:38:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株がウォール街の上昇に追随して堅調に推移している。原油価格は安定的に推移しており、特段の方向性を示していない。市場全体は現在のリスクオン環境を反映した動きが続いている。"
-  },
-  {
-    "title": "Asia stocks move higher on Wall Street lead, oil steady - Reuters",
-    "timestamp": "2026-08-04T00:38:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株がウォール街の上昇に追随して堅調に推移している。原油価格は安定的に推移しており、特段の方向性を示していない。市場全体は現在のリスクオン環境を反映した動きが続いている。"
-  },
-  {
     "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
     "timestamp": "2026-08-04T12:05:49+00:00",
     "importance": 4,
@@ -636,5 +614,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアから米国への原油出荷がゼロに落ち込む。米国の製油所がサウジ産原油からの切り替えを進めており、構造的な需要減少を示唆。OPEC主要産油国の米国市場シェア喪失は市場バランスの大きな転換点。"
+  },
+  {
+    "title": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap - Bloomberg",
+    "timestamp": "2026-08-06T22:10:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化がアジア株式市場に下押し圧力をもたらす一方、地政学リスク上昇を受け原油価格は上昇。中東地域の地政学的不確実性の高まりは、供給ショックリスクをプライシングさせており、エネルギーコモディティの上昇トレンドが継続している。"
+  },
+  {
+    "title": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap - Bloomberg",
+    "timestamp": "2026-08-06T22:10:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イラン情勢の緊迫化がアジア株式市場に下押し圧力をもたらす一方、地政学リスク上昇を受け原油価格は上昇。中東地域の地政学的不確実性の高まりは、供給ショックリスクをプライシングさせており、エネルギーコモディティの上昇トレンドが継続している。"
   }
 ]
