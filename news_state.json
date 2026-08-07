@@ -1,16 +1,5 @@
 [
   {
-    "title": "2026年8月4日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-04T08:53:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・先物オプション市場に関する定期的な市場ウォッチ記事。株価指数先物市場の技術的な指標や取引環境の変化を解説した内容。"
-  },
-  {
     "title": "8月4日午後の金価格：SJC金は反転上昇、市場はFRBからのシグナルを待つ。 - Vietnam.vn",
     "timestamp": "2026-08-04T10:49:09+00:00",
     "importance": 2,
@@ -86,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米財務長官がイラン核合意の再開が間近と発言。イラン産原油の供給増加の見通しから先物相場が急落。既に市場で協議進展が認識されていた中での続報。"
-  },
-  {
-    "title": "原油価格反発、アマゾン時価総額3兆ドル突破 アジア株は大半が上昇 - finance.biggo.jp",
-    "timestamp": "2026-08-04T09:35:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が反発した。アマゾンの時価総額が3兆ドルを突破。アジア株式市場は大半が上昇。"
   },
   {
     "title": "中東からの供給リスクに対する懸念が根強く残る中、原油価格は回復した。 - Vietnam.vn",
@@ -2077,5 +2055,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "NY市場で銅価格が上昇した。銅はAIデータセンター・電力インフラ需要の増加で注目されている。米AI関連株への波及効果について解説したニュース。"
+  },
+  {
+    "title": "本日（8月7日午後）の金価格：SJCの金価格はわずかに下落しました。 - Vietnam.vn",
+    "timestamp": "2026-08-07T08:22:38+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が8月7日午後にわずかに下落した。地域レベルの日次価格変動の報告。市場全体への影響は限定的。"
+  },
+  {
+    "title": "本日（8月7日）の金価格：下落傾向 - Vietnam.vn",
+    "timestamp": "2026-08-07T06:51:00+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月7日時点での金価格が下落傾向にあることを報じるニュース。ベトナムメディアによる日次の価格動向レポート。具体的な下落率や要因についての詳細は記事本文を確認する必要がある。"
+  },
+  {
+    "title": "国内の金価格が予想外の変動を見せている。 - Vietnam.vn",
+    "timestamp": "2026-08-07T07:40:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が予想外の変動を見せているとの報道。具体的な変動幅や原因は記事概要では明確でない。地域限定的なニュースであり、グローバル市場への直接的な影響は限定的と考えられる。"
+  },
+  {
+    "title": "2026年8月7日午前の金価格：反転して下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-07T07:40:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月7日午前の金相場が反転して下落した。日中の値動きを記録したニュースで、特定の材料イベントではなく相場解説。"
+  },
+  {
+    "title": "7日香港株＝神経質な展開か、中東情勢と原油相場を注視(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-07T01:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "香港株式市場が中東情勢と原油相場の動向に注視される見通し。市場心理が不安定化する可能性がある。具体的な新規材料や統計発表ではなく相場観測記事。"
+  },
+  {
+    "title": "原油価格の下落でドイツ国債が反発、6月以来最高の週間パフォーマンス 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-07T08:06:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落がドイツ国債の買い要因となり、6月以来最高の週間パフォーマンスを記録した。原油安がインフレ圧力軽減を見込ませ、債券市場に好感されている。"
+  },
+  {
+    "title": "銅価格1.5万ドル超え予想、原油は70ドル台へ下落か——大手金融機関の見解が真っ二つ - BigGo ファイナンス",
+    "timestamp": "2026-08-07T08:36:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "大手金融機関が銅価格1.5万ドル超えを予想する一方、原油は70ドル台への下落を見込むなど見解が分かれている。銅強気の背景には需要回復期待がある見通し。"
   }
 ]
