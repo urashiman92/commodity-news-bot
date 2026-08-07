@@ -1,16 +1,5 @@
 [
   {
-    "title": "米財務長官「イラン合意、きょうか明日にも」 原油先物が急落 - nikkei.com",
-    "timestamp": "2026-08-04T14:34:32+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米財務長官がイラン核合意の再開が間近と発言。イラン産原油の供給増加の見通しから先物相場が急落。既に市場で協議進展が認識されていた中での続報。"
-  },
-  {
     "title": "イランの報道を受けて原油価格が下落、エネルギー株が軟調 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-04T16:20:00+00:00",
     "importance": 3,
@@ -427,17 +416,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇がEV販売増加を促進するとの予測。ガソリン車からの代替需要が高まることで、ガソリン需要が減少する可能性。"
-  },
-  {
-    "title": "中国のコモディティ価格指数 7月は前年同月比15.5%増 - japanese.cri.cn",
-    "timestamp": "2026-08-04T14:27:31+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "中国の7月コモディティ価格指数が前年同月比15.5%上昇した。中国の景気回復やインフレ圧力を示唆する指標。商品全般への需要強化とコモディティ相場の上値支持要因となる可能性。"
   },
   {
     "title": "本日（8月5日正午）の金価格：国内の金価格は反転上昇。 - Vietnam.vn",
@@ -2121,5 +2099,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランがホルムズ海峡での敵対船舶禁止案を提起し、同海峡の再開を巡る地政学的緊張が高まっている。ホルムズ海峡は世界の石油輸送量の約3割が通過する戦略的要衝であり、封鎖リスクは原油供給を大きく脅かす。先物価格は上昇基調が続いている。"
+  },
+  {
+    "title": "UBSは2027年上半期までに金価格が5,000ドル/オンスに達すると予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-07T12:09:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UBS主要投資銀行が2027年上半期までに金価格が5,000ドル/オンスに達すると予測。現在の価格水準から20-30%程度の上昇を見込む強気シナリオ。地政学的リスクとインフレ懸念が支援要因。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ43ドル高、原油先物0.24ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-07T14:59:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の相場速報。ダウ平均43ドル高、WTI原油先物0.24ドル高で推移。定期的な市場レポートの一環。"
+  },
+  {
+    "title": "NY原油先物、一時1.2%上昇－イランがホルムズで目標攻撃との報を受け（Bloomberg） - Yahoo!ニュース",
+    "timestamp": "2026-08-06T22:12:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランがホルムズ海峡での目標攻撃を実施したとの報道により、NY原油先物が一時1.2%上昇。中東の地政学的緊張が再び高まり、世界の重要な石油輸送ルートの供給懸念が浮上。"
   }
 ]
