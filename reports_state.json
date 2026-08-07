@@ -658,5 +658,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "紅海での米国・イスラエルの軍事活動によるサウジアラビアの石油出荷ルート寸断が深刻化。タンカーがエジプト・スエズ運河経由で積み荷を隠蔽する動きが活発化し、実際の供給逼迫度が可視化されにくくなっている。間接ルートの利用増加により輸送コスト上昇と供給リスク顕在化。"
+  },
+  {
+    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Manitoba Co-operator",
+    "timestamp": "2026-08-07T17:04:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE報告書でトウモロコシと大豆の作付面積・生産量が市場予想を下回る見通しをアナリストが予測している。具体的な数値は報道からは不明だが、市場では小型の作物減収が織り込まれ始めている。供給タイトニングへの懸念が価格上昇圧力につながる可能性。"
+  },
+  {
+    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Manitoba Co-operator",
+    "timestamp": "2026-08-07T17:04:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月のWASDE報告書でトウモロコシと大豆の作付面積・生産量が市場予想を下回る見通しをアナリストが予測している。具体的な数値は報道からは不明だが、市場では小型の作物減収が織り込まれ始めている。供給タイトニングへの懸念が価格上昇圧力につながる可能性。"
+  },
+  {
+    "title": "US Senate Passes Russia Sanctions Bill Championed by Graham - Bloomberg.com",
+    "timestamp": "2026-08-07T17:23:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米上院がロシア制裁法案を可決。ロシアはエネルギー・穀物輸出国として世界的に重要で、制裁強化は供給懸念から原油・ガスなどエネルギーコモディティの上昇圧力に。地政学リスク顕在化によりコモディティ全般の買い安全資産シフトも予想される。"
+  },
+  {
+    "title": "US Senate Passes Russia Sanctions Bill Championed by Graham - Bloomberg.com",
+    "timestamp": "2026-08-07T17:23:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米上院がロシア制裁法案を可決。ロシアはエネルギー・穀物輸出国として世界的に重要で、制裁強化は供給懸念から原油・ガスなどエネルギーコモディティの上昇圧力に。地政学リスク顕在化によりコモディティ全般の買い安全資産シフトも予想される。"
   }
 ]
