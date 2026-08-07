@@ -1,49 +1,5 @@
 [
   {
-    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
-    "timestamp": "2026-08-04T12:05:49+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
-  },
-  {
-    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
-    "timestamp": "2026-08-04T12:05:49+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
-  },
-  {
-    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
-    "timestamp": "2026-08-04T12:05:49+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
-  },
-  {
-    "title": "USDA August Crop Production Report known to spark wild swings - farmprogress.com",
-    "timestamp": "2026-08-04T12:05:49+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
-  },
-  {
     "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows - Bloomberg.com",
     "timestamp": "2026-08-04T17:33:14+00:00",
     "importance": 3,
@@ -383,28 +339,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "API週間レポートで原油在庫が予想外に増加したことが明らかになった。市場は在庫積み増しを弱気シグナルと解釈し、原油価格に下押し圧力が生じる可能性が高い。供給過剰のシグナルとして投資家から注視される。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-04T11:58:54+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから脱退表明し、組織の結束力が大幅に低下。産油国間の足並みの乱れにより、協調減産体制の維持が困難になる可能性が高まった。原油供給の競争激化やプライスウォーのリスクが顕著に増加し、原油価格の下押し要因となる。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-04T11:58:54+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECから脱退表明し、組織の結束力が大幅に低下。産油国間の足並みの乱れにより、協調減産体制の維持が困難になる可能性が高まった。原油供給の競争激化やプライスウォーのリスクが顕著に増加し、原油価格の下押し要因となる。"
   },
   {
     "title": "Oil refinery in Russia's Yaroslavl is on fire after Ukrainian drone attack, governor says - reuters.com",
