@@ -44,28 +44,6 @@
     "summary": "USDA8月穀物生産レポートは市場で大きな値動きを引き起こす可能性が高い定期発表である。本レポートは米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積・生産予想の重要な更新となり、市場心理に大きな影響を与えることで知られている。予想値からの乖離幅次第で穀物市場全体に急騰・急落をもたらす可能性がある。"
   },
   {
-    "title": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - Reuters",
-    "timestamp": "2026-08-04T10:50:06+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "シリアが米国に対し、ロシア産原油の輸入を大幅削減する意思を示唆した。同国はロシア産原油への依存を急速に低下させる方針。地政学的な転換点となり、ロシア産原油の販路喪失は供給再配分とWTI下押し圧力をもたらす可能性がある。"
-  },
-  {
-    "title": "Russian July seaborne oil product exports drop 33% m/m, data from sources shows - Reuters",
-    "timestamp": "2026-08-04T09:33:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの7月の海上石油製品輸出が前月比33%の大幅減少となった。制裁強化とインフラ制約による供給支障が顕在化。グローバルな石油製品供給逼迫懸念が高まり、精製マージンと国際価格に上昇圧力が生じる。"
-  },
-  {
     "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows - Bloomberg.com",
     "timestamp": "2026-08-04T17:33:14+00:00",
     "importance": 3,
@@ -669,5 +647,49 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDAの定期作物レポートで、トウモロコシと大豆の品質低下が報告された。収穫期の天候不順や成熟度不足が品質指標を悪化させており、等級構成の改善を伴わない供給量減少に相当。品質低下は精製・流通効率を低下させるため、実質的な有効供給量が減少する可能性がある。"
+  },
+  {
+    "title": "Top Tips: Will USDA crop report reset assumptions? - Farm Progress",
+    "timestamp": "2026-08-06T19:29:41+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA作物進捗レポートが市場の既存想定をリセットする可能性についての解説記事。米国穀物の作付・生育状況の最新データが発表される予定で、市場コンセンサスからの乖離幅が注目される。報告内容によってはトウモロコシ・大豆・小麦の価格想定が大きく修正される可能性。"
+  },
+  {
+    "title": "Top Tips: Will USDA crop report reset assumptions? - Farm Progress",
+    "timestamp": "2026-08-06T19:29:41+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA作物進捗レポートが市場の既存想定をリセットする可能性についての解説記事。米国穀物の作付・生育状況の最新データが発表される予定で、市場コンセンサスからの乖離幅が注目される。報告内容によってはトウモロコシ・大豆・小麦の価格想定が大きく修正される可能性。"
+  },
+  {
+    "title": "Top Tips: Will USDA crop report reset assumptions? - Farm Progress",
+    "timestamp": "2026-08-06T19:29:41+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA作物進捗レポートが市場の既存想定をリセットする可能性についての解説記事。米国穀物の作付・生育状況の最新データが発表される予定で、市場コンセンサスからの乖離幅が注目される。報告内容によってはトウモロコシ・大豆・小麦の価格想定が大きく修正される可能性。"
+  },
+  {
+    "title": "Top Tips: Will USDA crop report reset assumptions? - Farm Progress",
+    "timestamp": "2026-08-06T19:29:41+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA作物進捗レポートが市場の既存想定をリセットする可能性についての解説記事。米国穀物の作付・生育状況の最新データが発表される予定で、市場コンセンサスからの乖離幅が注目される。報告内容によってはトウモロコシ・大豆・小麦の価格想定が大きく修正される可能性。"
   }
 ]
