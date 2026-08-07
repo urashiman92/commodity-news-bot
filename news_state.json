@@ -11,17 +11,6 @@
     "summary": "金価格が4077ドルまで上昇。米長期金利の下落が買い材料となっている。市場は金利低下環境で金への需要が高まる展開を織り込んでいる状況。"
   },
   {
-    "title": "本日（8月5日）の金価格：予想外に再び上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-04T22:28:05+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月5日の金価格が予想外に再び上昇したことを報じるニュース。具体的な上昇要因や背景については記事概要から不明。市場反応としての値動きを記述しているが、その原因やサプライズの度合いを判断する情報が不足している。"
-  },
-  {
     "title": "WTI原油見通し(市況ニュース)：米国とイランが合意するとの見方が強まり、原油価格は2営業日続落（2026年8月5日） - OANDA証券",
     "timestamp": "2026-08-04T23:15:30+00:00",
     "importance": 3,
@@ -2099,5 +2088,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY原油が続伸し、金が大幅反発した。相場の技術的な反発や短期的な需給調整による値動き。"
+  },
+  {
+    "title": "NY金先物は反発、弱い米雇用統計でFRB利下げ観測が強まりドル安・金利低下が支援｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-07T22:44:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米雇用統計が予想を下回り、FRBの利下げ観測が強まった。ドル安と金利低下が進行し、金先物を支援。金は伝統的な利下げ局面での強気相場が形成される可能性。"
+  },
+  {
+    "title": "米7月雇用統計が予想外の減少、金価格は週間7%超上昇で7カ月ぶり高騰 - BigGo ファイナンス",
+    "timestamp": "2026-08-07T22:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米7月雇用統計が市場予想を下回る減少を記録し、景気減速懸念が浮上。金は安全資産として買われ、週間7%超の上昇で7ヶ月ぶりの高値を付けた。"
+  },
+  {
+    "title": "【原油ウォッチ】緊張が続くサウジアラビアvsフーシ派、日本は原油の輸入元の多角化を急げ(1/3) - JBpress",
+    "timestamp": "2026-08-07T21:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアとフーシ派の緊張が継続し、中東での供給リスクが存在。日本は原油輸入元の多角化戦略の強化が課題。既知の地政学的リスクについての解説記事。"
   }
 ]
