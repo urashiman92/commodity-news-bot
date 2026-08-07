@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油先物5％超安、3週間ぶり安値　米イラン協議進展への期待で - ｄメニューニュース",
-    "timestamp": "2026-08-04T20:07:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン協議の進展期待により原油先物が5%超下落し3週間ぶりの安値を記録。イラン核合意の可能性が高まれば、イラン産原油の供給制裁緩和につながる見込み。地政学的リスク低下が価格に大きく織り込まれた。"
-  },
-  {
     "title": "NYダウ最高値更新 一時1000ドル超高 中東情勢懸念後退で 原油先物は大幅下落 - テレ朝NEWS",
     "timestamp": "2026-08-04T21:52:10+00:00",
     "importance": 3,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4077ドルまで上昇。米長期金利の下落が買い材料となっている。市場は金利低下環境で金への需要が高まる展開を織り込んでいる状況。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況･4日 3日ぶり反発 - Moomoo",
-    "timestamp": "2026-08-04T20:42:28+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物が3日ぶりに反発した。市場概況レベルの日次動向報告である。具体的な材料や反発の理由が記事要約には示されていない。"
   },
   {
     "title": "本日（8月5日）の金価格：予想外に再び上昇。 - Vietnam.vn",
@@ -110,17 +88,6 @@
     "summary": "ベトナムSJCが金の販売価格を引き下げた一方で、世界金価格は22ドル上昇。地域レベルの価格調整ニュースで、グローバル相場のボラティリティは限定的。"
   },
   {
-    "title": "オーラ・ミネラルズ決算迫る：金価格下落でマージンは耐えられるか 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-04T20:06:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金鉱山大手オーラ・ミネラルズの決算発表が控えており、金価格下落が採掘企業のマージンに与える影響が焦点。コスト構造が耐性を持つか否かが投資家の関心事。"
-  },
-  {
     "title": "世界の金価格は8月5日朝、4100ドルを超えた。 - Vietnam.vn",
     "timestamp": "2026-08-05T03:07:24+00:00",
     "importance": 2,
@@ -185,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が2日続落後に下げ一服となった。ホルムズ海峡の航行再開が価格に影響を与える重要な観点として注視されている。市場は供給途絶リスクの緩和を織り込みつつある。"
-  },
-  {
-    "title": "ＮＹ市場、原油先物が７５ドル台と１か月ぶりの安値水準…ダウは２日連続で最高値更新し終値で初の５万４０００ドル台 - 読売新聞",
-    "timestamp": "2026-08-04T20:39:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場で原油先物が75ドル台と1か月ぶりの安値水準となった。同時にダウ指数は2日連続で最高値を更新し初の54000ドル台を記録。株高と原油安が同時進行している状況。"
   },
   {
     "title": "原油先物は下げ一服、2日続落後　ホルムズ海峡の航行再開に注目 - ｄメニューニュース",
@@ -2121,5 +2077,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "日銀がAI関連のインフレリスクに警戒を強めている。原油価格下落後の潜在的なインフレ圧力として注視される。金融引き締め政策の転換可能性を示唆。"
+  },
+  {
+    "title": "世界の食料価格、約3年ぶり高水準－穀物輸出懸念に悪天候重なる - TBS NEWS DIG",
+    "timestamp": "2026-08-07T19:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "世界の食料価格が約3年ぶりの高水準に上昇。穀物輸出懸念と悪天候が複合的に作用している。小麦を含む穀物市場への上値圧力が強まる局面。"
+  },
+  {
+    "title": "大豆先物価格見通し：USX1,187のレジスタンス付近でのもみ合い - tradersunion.com",
+    "timestamp": "2026-08-07T12:36:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,187ドル付近でレジスタンスレベルでのもみ合い相場を形成している。技術的な価格ポイント周辺での値動きについての観測コメント。"
   }
 ]
