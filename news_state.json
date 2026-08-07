@@ -1,16 +1,5 @@
 [
   {
-    "title": "NYダウ最高値更新 一時1000ドル超高 中東情勢懸念後退で 原油先物は大幅下落 - テレ朝NEWS",
-    "timestamp": "2026-08-04T21:52:10+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢懸念が後退し、リスクオフムードが緩和。NYダウが史上最高値を更新する一方で、原油先物は需要見通しの改善とドル高圧力で大幅下落。株式市場の好況が原油価格の押し下げ要因となった。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4077ドル｜米長期金利の下落により、買い優勢の模様(2026年8月5日) - OANDA証券",
     "timestamp": "2026-08-04T23:05:29+00:00",
     "importance": 3,
@@ -163,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が2日続落後に下げ一服。ホルムズ海峡の航行再開が注視されており、供給懸念の緩和が価格の下支え要因となっている。"
-  },
-  {
-    "title": "NYダウ最高値更新 一時1000ドル超高 中東情勢懸念後退で 原油先物は大幅下落｜Quebee キュエビー - QAB 琉球朝日放送",
-    "timestamp": "2026-08-04T21:52:10+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢への懸念が後退し、リスクオフムードが緩和。NYダウが最高値を更新する一方で、原油先物は地政学リスク低減を受けて大幅下落。"
   },
   {
     "title": "４日の主要国際商品市況 - みんかぶ",
@@ -2099,5 +2077,27 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "大豆先物がUSX1,187ドル付近でレジスタンスレベルでのもみ合い相場を形成している。技術的な価格ポイント周辺での値動きについての観測コメント。"
+  },
+  {
+    "title": "金価格、27年上半期に5000ドルまで上昇へ 足元にはリスクも＝ＵＢＳ - TradingView",
+    "timestamp": "2026-08-07T09:51:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UBSアナリストが2027年上半期の金価格が5000ドルまで上昇する可能性を提示。長期的な上昇シナリオを示唆しつつも、近期のリスク要因も存在する見通し。"
+  },
+  {
+    "title": "NY原油・金相場（7日）－原油が続伸 金は大幅反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-07T22:02:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油が続伸し、金が大幅反発した。相場の技術的な反発や短期的な需給調整による値動き。"
   }
 ]
