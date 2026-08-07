@@ -33,17 +33,6 @@
     "summary": "OPECの原油生産が先月再び増加し、クウェート、サウジアラビア、イラクで増産が見られた。ただし海運データの不透明性により正確な生産量把握が困難となっている。既報の増産トレンドの継続報告であり、市場予想範囲内。"
   },
   {
-    "title": "Brazil’s Oil Output Hits Record as War Drives Up Non-OPEC Supply - gCaptain",
-    "timestamp": "2026-08-04T16:59:11+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ブラジルの原油生産量が過去最高を記録し、ウクライナ戦争に伴うOPEC外の供給増加が加速している。非OPEC産油国の供給増加は市場の供給過剰圧力となり、原油価格への下押し要因として作用する可能性がある。"
-  },
-  {
     "title": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea - Reuters",
     "timestamp": "2026-08-05T07:27:57+00:00",
     "importance": 4,
@@ -636,5 +625,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中国が2023年10月以降で最大規模の金準備買い増しを実施し、買い入れペースが加速している。中央銀行による大規模買いは金市場全体に強気シグナルを送り、金価格の上昇圧力となる可能性が高い。地政学的リスク回避と中国の金融・外為戦略の継続を示唆。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+    "timestamp": "2026-08-07T14:41:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表によるUSA原油在庫が週間ベースで増加した。在庫の積み増しは原油供給の相対的な緩和を示唆し、価格圧力となる傾向。具体的な増加量が記事から特定できないため、詳細な影響度は判断困難。"
+  },
+  {
+    "title": "Strategists Expect USA Crude Build in Next EIA Report - Yahoo Finance",
+    "timestamp": "2026-08-05T14:14:54+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "次週のEIA原油在庫レポートで米国原油の積み増し（在庫増加）が予想されている。戦略家らのコンセンサス予想では原油在庫が増加する見通しで、供給過剰感が強まる可能性がある。定期発表の事前予想報道であり、市場予想の範囲内と判断される。"
   }
 ]
