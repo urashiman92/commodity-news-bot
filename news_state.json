@@ -1,38 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4077ドル｜米長期金利の下落により、買い優勢の模様(2026年8月5日) - OANDA証券",
-    "timestamp": "2026-08-04T23:05:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4077ドルまで上昇。米長期金利の下落が買い材料となっている。市場は金利低下環境で金への需要が高まる展開を織り込んでいる状況。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランが合意するとの見方が強まり、原油価格は2営業日続落（2026年8月5日） - OANDA証券",
-    "timestamp": "2026-08-04T23:15:30+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの合意観測の強まりを受けWTI原油が2営業日続落。イラン原油供給増加への懸念がアップサイドを抑制している。市場は既に合意の可能性を織り込み始めている。"
-  },
-  {
-    "title": "４日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-04T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "4日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や個別商品の詳細情報は記事内容が不明なため、総合的な市場評論と判断される。"
-  },
-  {
     "title": "8月5日朝の金価格更新:世界価格が予想外に上昇 - Laodong.vn",
     "timestamp": "2026-08-05T00:15:29+00:00",
     "importance": 2,
@@ -141,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が2日続落後に下げ一服。ホルムズ海峡の航行再開が注視されており、供給懸念の緩和が価格の下支え要因となっている。"
-  },
-  {
-    "title": "４日の主要国際商品市況 - みんかぶ",
-    "timestamp": "2026-08-04T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "4日の主要国際商品市況の日次レポート。具体的な価格データや変動方向は記事内容が不明。定期的な市況報告記事と考えられる。"
   },
   {
     "title": "8月5日午前：世界の金価格は4,100ドルに迫り、国内の金価格も軒並み上昇。 - Vietnam.vn",
@@ -2121,5 +2077,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジアラビアとフーシ派の緊張が継続し、中東での供給リスクが存在。日本は原油輸入元の多角化戦略の強化が課題。既知の地政学的リスクについての解説記事。"
+  },
+  {
+    "title": "本日（8月8日）の金価格：金と他の金価格との価格差は縮小しています。 - Vietnam.vn",
+    "timestamp": "2026-08-07T22:19:34+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムにおける8月8日の金価格について、国内金と国際金の価格差が縮小していることを報じている。相場動向の解説・振り返りニュース。"
+  },
+  {
+    "title": "NY市場動向（取引終了）:ダウ151.83ドル高（速報）、原油先物0.21ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-07T23:34:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場ではダウ平均が151.83ドル上昇した一方、WTI原油先物は0.21ドル下落。株式市場と原油の方向性が乖離する典型的な取引終了時点の市場動向報告。"
+  },
+  {
+    "title": "米国の雇用統計発表を控え、株価とドルは横ばい。湾岸地域の緊張が高まる中、原油価格は上昇した。 - TradingView",
+    "timestamp": "2026-08-07T08:14:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国雇用統計発表を控えて株価・ドルは方向感が乏しい中、湾岸地域の地政学的緊張が原油買い材料として機能し原油価格は上昇。金融市場と商品市場の非対称な値動きを反映。"
   }
 ]
