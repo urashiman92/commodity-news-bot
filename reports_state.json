@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows - Bloomberg.com",
-    "timestamp": "2026-08-04T17:33:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの7月石油生産量調査によると、湾岸諸国を中心にOPEC全体の生産が増加した。サウジアラビアなど主要産油国の増産が確認され、市場では供給増加による原油価格への下押し圧力が注視される。ただし具体的な生産数値が示されていないため詳細な影響判断は限定的。"
-  },
-  {
-    "title": "OPEC output rose in July, led by Gulf nations - Transport Topics",
-    "timestamp": "2026-08-04T18:01:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECは7月の石油生産量を増加させ、湾岸諸国（サウジアラビア、UAE等）がこの増産を主導した。これは既知の減産合意からの段階的な生産調整の継続を反映している。"
-  },
-  {
     "title": "OPEC oil production rose again last month, with gains in Kuwait, Saudi Arabia and Iraq, though opaque shipping data made output harder to track - Crypto Briefing",
     "timestamp": "2026-08-04T21:41:41+00:00",
     "importance": 2,
@@ -647,5 +625,38 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "次週のEIA原油在庫レポートで米国原油の積み増し（在庫増加）が予想されている。戦略家らのコンセンサス予想では原油在庫が増加する見通しで、供給過剰感が強まる可能性がある。定期発表の事前予想報道であり、市場予想の範囲内と判断される。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+    "timestamp": "2026-08-07T14:42:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が週間ベースで増加したことが報告された。在庫の積み増しは需要の弱さまたは供給過剰を示唆し、原油価格に対する下押し圧力となる。具体的な在庫増加量や絶対水準は記事から不明。"
+  },
+  {
+    "title": "Copper 'Fingerprint' Reveals New Drill Targets Beyond Known Mineralized Corridor - Streetwise Reports",
+    "timestamp": "2026-08-07T15:14:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅鉱床の「フィンガープリント」技術を用いた地球化学的分析により、既知の鉱化帯の外側に新たなドリルターゲットが特定された。この探査技術の進展は、銅資源の拡張可能性を示唆し、中期的な供給サイドの安定性向上に貢献する可能性がある。"
+  },
+  {
+    "title": "Oil Ships Signal Egypt and Suez to Mask Saudi Red Sea Loadings - bloomberg.com",
+    "timestamp": "2026-08-07T08:56:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海での米国・イスラエルの軍事活動によるサウジアラビアの石油出荷ルート寸断が深刻化。タンカーがエジプト・スエズ運河経由で積み荷を隠蔽する動きが活発化し、実際の供給逼迫度が可視化されにくくなっている。間接ルートの利用増加により輸送コスト上昇と供給リスク顕在化。"
   }
 ]
