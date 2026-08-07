@@ -1,148 +1,5 @@
 [
   {
-    "title": "Arable Market Report – 3 August 2026 - AHDB",
-    "timestamp": "2026-08-03T17:19:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "2026年8月3日のAHDB穀物市場レポート。具体的な数値やデータが提供されたURLの奥にあるため、現時点では詳細な内容確認が困難。AHDBは英国の農業・園芸開発局で定期的に穀物市場分析を発表している通常の市場レポート。"
-  },
-  {
-    "title": "Arable Market Report – 3 August 2026 - AHDB",
-    "timestamp": "2026-08-03T17:19:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "2026年8月3日のAHDB穀物市場レポート。具体的な数値やデータが提供されたURLの奥にあるため、現時点では詳細な内容確認が困難。AHDBは英国の農業・園芸開発局で定期的に穀物市場分析を発表している通常の市場レポート。"
-  },
-  {
-    "title": "Arable Market Report – 3 August 2026 - AHDB",
-    "timestamp": "2026-08-03T17:19:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "2026年8月3日のAHDB穀物市場レポート。具体的な数値やデータが提供されたURLの奥にあるため、現時点では詳細な内容確認が困難。AHDBは英国の農業・園芸開発局で定期的に穀物市場分析を発表している通常の市場レポート。"
-  },
-  {
-    "title": "Brazil’s Oil Output Hits Record as War Drives Up Non-OPEC Supply - Bloomberg.com",
-    "timestamp": "2026-08-03T16:36:33+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ブラジルの石油生産が過去最高を更新し、ウクライナ戦争によるロシア産油の供給制約をOPEC非加盟国の増産で補う構図が鮮明化している。非OPEC産油国の供給増加は、OPECの減産努力を相殺し、世界的な供給緩和圧力をもたらす。"
-  },
-  {
-    "title": "Trump demands lower gas prices from oil companies, chides Chevron CEO - Reuters",
-    "timestamp": "2026-08-03T16:26:59+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がシェブロンCEOを含む石油企業に対してガソリン価格の低下を要求。政治的圧力による発言であり、市場メカニズムに基づかない介入的なコメンタリー。石油企業の上流投資抑制リスクを高める可能性がある。"
-  },
-  {
-    "title": "OPEC+ approves September output hike, completes 2023 cuts rollback - Oil & Gas Journal",
-    "timestamp": "2026-08-03T17:28:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月の石油生産量引き上げを承認し、2023年の減産ロールバックを完了した。この決定は2023年の生産調整政策の最終段階を示すもので、段階的な供給増加を通じて市場への供給圧力を継続する方針を反映している。既報の減産計画の延長線上にあり、市場予想の範囲内での決定。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-03T21:31:11.847436+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況（優良率など）を報告。具体的な数値がないため詳細評価は困難だが、作物状況が市場予想と大きく乖離する場合には相場変動要因となり得る。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-03T21:31:11.847436+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況（優良率など）を報告。具体的な数値がないため詳細評価は困難だが、作物状況が市場予想と大きく乖離する場合には相場変動要因となり得る。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-03T21:31:11.847436+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育ステージ、作物状況（優良率など）を報告。具体的な数値がないため詳細評価は困難だが、作物状況が市場予想と大きく乖離する場合には相場変動要因となり得る。"
-  },
-  {
-    "title": "Opec-Plus Rolls Back 2023 Cut, Sets Stage for Output Surge - Energy Intelligence",
-    "timestamp": "2026-08-03T21:01:37+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が2023年に実施した減産措置を撤回し、原油増産へ舵を切る発表。供給サイドの大幅な緩和によって市場に上向きプレッシャーが加わり、特に過去数ヶ月の需給タイト化への反動として価格下落圧力が強まる見通し。地政学的リスクプレミアムの縮小も懸念される。"
-  },
-  {
-    "title": "Opec-Plus Rolls Back 2023 Cut, Sets Stage for Output Surge - Energy Intelligence",
-    "timestamp": "2026-08-03T21:01:37+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPEC+が2023年に実施した減産措置を撤回し、原油増産へ舵を切る発表。供給サイドの大幅な緩和によって市場に上向きプレッシャーが加わり、特に過去数ヶ月の需給タイト化への反動として価格下落圧力が強まる見通し。地政学的リスクプレミアムの縮小も懸念される。"
-  },
-  {
-    "title": "USDA crop report shows corn and soybean quality drop - Farm Progress",
-    "timestamp": "2026-08-03T21:54:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの作物進捗レポートでトウモロコシと大豆の品質低下が報告された。品質の悪化は収量や等級に直結し、買い手の需要・価格形成に影響を与える。具体的な品質指標（タンパク質含有率、水分率等）の数値が明記されていないため、市場反応の大きさは不明。"
-  },
-  {
-    "title": "USDA crop report shows corn and soybean quality drop - Farm Progress",
-    "timestamp": "2026-08-03T21:54:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの作物進捗レポートでトウモロコシと大豆の品質低下が報告された。品質の悪化は収量や等級に直結し、買い手の需要・価格形成に影響を与える。具体的な品質指標（タンパク質含有率、水分率等）の数値が明記されていないため、市場反応の大きさは不明。"
-  },
-  {
     "title": "Asia stocks move higher on Wall Street lead, oil steady - Reuters",
     "timestamp": "2026-08-04T00:38:00+00:00",
     "importance": 1,
@@ -240,39 +97,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECの7月石油生産量調査によると、湾岸諸国を中心にOPEC全体の生産が増加した。サウジアラビアなど主要産油国の増産が確認され、市場では供給増加による原油価格への下押し圧力が注視される。ただし具体的な生産数値が示されていないため詳細な影響判断は限定的。"
-  },
-  {
-    "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
-    "timestamp": "2026-08-03T21:29:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン和平交渉への期待感から原油価格が下落した一方、株価は上昇。同時に円が買われており、日本銀行による追加介入の可能性を市場が警戒している。金など無利子資産への需要も変動する局面となっている。"
-  },
-  {
-    "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
-    "timestamp": "2026-08-03T21:29:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "イラン和平交渉への期待感から原油価格が下落した一方、株価は上昇。同時に円が買われており、日本銀行による追加介入の可能性を市場が警戒している。金など無利子資産への需要も変動する局面となっている。"
-  },
-  {
-    "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
-    "timestamp": "2026-08-03T21:29:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イラン和平交渉への期待感から原油価格が下落した一方、株価は上昇。同時に円が買われており、日本銀行による追加介入の可能性を市場が警戒している。金など無利子資産への需要も変動する局面となっている。"
   },
   {
     "title": "OPEC output rose in July, led by Gulf nations - Transport Topics",
@@ -768,5 +592,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの石油精製施設2カ所を夜間に攻撃したと発表。ロシアの石油精製能力低下は欧州向けエネルギー供給逼迫につながり、原油価格の上昇圧力となる。地政学的リスク顕在化により市場が敏感に反応する可能性が高い。"
+  },
+  {
+    "title": "Will USDA Lower Corn Yields? Farmers Are Watching the August WASDE Closely - Agrolatam",
+    "timestamp": "2026-08-06T17:54:20+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDEレポートにおいて、USDAがトウモロコシの単収見通しを引き下げる可能性が高まっている。農家が同発表を注視しており、市場では単収低下予想が織り込まれ始めている。実際の下方修正が発表されれば、供給見通しの悪化によりトウモロコシ価格は上昇圧力を受ける可能性がある。"
+  },
+  {
+    "title": "StoneX Survey Points to Trend Corn Yield Ahead of Next WASDE Report - RFD-TV",
+    "timestamp": "2026-08-06T18:15:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "StoneXのサーベイがトウモロコシの作況動向を指摘し、次回WASDE報告を前に市場の関心を喚起している。具体的な収量予想値は記事タイトルから不明だが、トレンド分析はWASDE発表前のポジショニングに影響を与える可能性がある。"
+  },
+  {
+    "title": "EXCLUSIVE: Russia's oil output rises in July on firm exports, refinery run recovery, sources say - Reuters",
+    "timestamp": "2026-08-06T14:59:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの7月石油生産量が増加したとロイターが報道。堅調な輸出と製油所稼働率の回復が主因。西側制裁下でも生産維持・増加の動きが続いており、グローバル石油供給の不確実性は緩和傾向。ただし既報の継続観測範囲内の動き。"
+  },
+  {
+    "title": "Saudi Crude Shipments to US Plunge to Zero as Oil Refiners Pivot - Bloomberg.com",
+    "timestamp": "2026-08-06T17:47:22+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアから米国への原油出荷がゼロに落ち込む。米国の製油所がサウジ産原油からの切り替えを進めており、構造的な需要減少を示唆。OPEC主要産油国の米国市場シェア喪失は市場バランスの大きな転換点。"
   }
 ]
