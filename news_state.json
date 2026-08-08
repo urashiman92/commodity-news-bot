@@ -11,17 +11,6 @@
     "summary": "NY市場ではダウが堅調も株全体では混合。金先物が4300ドル台に急騰し、リスク回避姿勢が強まっている。ハイテク株の弱さと金の上昇は、市場の不確実性を反映。"
   },
   {
-    "title": "本日8月5日の金価格は、全般的に急騰した。 - vietnam.vn",
-    "timestamp": "2026-08-05T16:35:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月5日の金価格が全般的に急騰したというニュース。具体的な騰落率や騰落理由の記載がなく、詳細情報が不足している。市場の動きの事後報告と考えられる。"
-  },
-  {
     "title": "金価格、2026年1月からの下落トレンドを突破 - BeInCrypto",
     "timestamp": "2026-08-05T19:17:23+00:00",
     "importance": 3,
@@ -42,28 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が6ヶ月間の低迷を経て急騰。主要なプレーヤーが市場で予想外の動きを示した。具体的な要因や騰落率の詳細は記事要約からは判断不可。"
-  },
-  {
-    "title": "本日2026年8月6日、金価格は急騰しており、最も重要な上昇要因が整い、再投資に適した価格水準が明らかになった。 - vietnam.vn",
-    "timestamp": "2026-08-05T16:34:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急騰しており、複数の上昇要因が揃ったと報じられている。アナリストが再投資に適した価格水準を指摘しているが、具体的な要因や数値は記事概要では不明。"
-  },
-  {
-    "title": "AIが基本金属を追い求める、銅価格からニッケル価格まで上昇 - VOI.ID",
-    "timestamp": "2026-08-05T16:49:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "AI需要の拡大がベースメタル（基本金属）需要を押し上げている。銅やニッケルなど電気・電子産業向け金属が幅広く上昇。AI産業の急速な成長がコモディティ市場の構造的な上昇圧力となっている。"
   },
   {
     "title": "8月5日の金価格：金の指輪はSJCの金地金よりも高価です。 - Vietnam.vn",
@@ -2165,5 +2132,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油高がインフレ圧力となる一方、雇用悪化が中央銀行の利上げペース鈍化をもたらすマクロ環境を分析。金など代替資産が両要因の恩恵を受ける見解。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、小麦が上昇 銅が下落 - TradingView",
+    "timestamp": "2026-08-07T22:40:33+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米国コモディティ市場で原油、ガソリン、天然ガス、貴金属、小麦が上昇した一方、銅が下落。複数商品の混在した値動きを記録。"
   }
 ]
