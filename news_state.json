@@ -11,28 +11,6 @@
     "summary": "金価格の変動性が高い状況についての解説記事。具体的な価格水準や変動要因は記載されていない。既知のボラティリティについての観測コメント。"
   },
   {
-    "title": "先週（5月3日～9日）、金価格は徐々に回復し、国内価格と国際価格の差は1オンスあたり約300万ベトナムドンに縮小した。 - Vietnam.vn",
-    "timestamp": "2026-08-05T14:11:20+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が先週（5月3～9日）に徐々に回復。国内価格と国際価格のスプレッドが1オンスあたり約300万ベトナムドンまで縮小した。"
-  },
-  {
-    "title": "WTI原油先物が本日下落している理由とは 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-05T14:11:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が本日下落している状況について、理由の解説記事。具体的な下落要因の詳細は記事タイトルのみでは不明。"
-  },
-  {
     "title": "NY市場、ダウ433ドル高もハイテク安いまち――金先物は4300ドル台に急騰 - BigGo ファイナンス",
     "timestamp": "2026-08-05T17:55:00+00:00",
     "importance": 3,
@@ -2165,5 +2143,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇がインド・ルピーの対ドル相場を押し下げている。ルピーが95.28まで下落し、エネルギー輸入国としてのインドの通貨圧力が強まっている。原油高による輸入コスト増加と経常収支悪化が継続的な課題。"
+  },
+  {
+    "title": "金価格は本日8月8日、非常に力強い反発を見せて取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-08T14:06:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が8月8日に力強い反発を示して取引を終えた。詳細な背景情報が不足しているが、短期的な技術的リバウンドと推察される。市場心理の改善や特定のファンダメンタルズについては記事から判断不可。"
+  },
+  {
+    "title": "NY金先物：反発、弱い米雇用統計でFRB利下げ観測が強まりドル安・金利低下が支援 - TradingView",
+    "timestamp": "2026-08-08T00:19:32+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米雇用統計が予想より弱い結果となり、FRBの利下げ観測が強まった。ドル安と実質金利低下が金買いを誘発し、NY金先物は反発した。"
+  },
+  {
+    "title": "Gold Price on 07 August 2026 - Gold Price",
+    "timestamp": "2026-08-08T04:21:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月7日時点の金価格の報道。具体的な価格水準や変動要因が記事本文で示されていないため、市場への影響度は判断不可。"
+  },
+  {
+    "title": "NY原油・金相場（7日）－原油が続伸 金は大幅反発 - Moomoo",
+    "timestamp": "2026-08-08T03:37:53+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油が続伸、金が大幅反発した相場の振り返り。原油の上昇要因や金の反発理由については、記事概要では詳細が不明。"
   }
 ]
