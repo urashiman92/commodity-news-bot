@@ -330,17 +330,6 @@
     "summary": "JX金属が通期純利益を1410億円に上方修正。銅などの非鉄金属価格の好況を反映したが、市場予想を下回る結果。企業の好決算も価格上昇余地は限定的と判断される。"
   },
   {
-    "title": "米コモディティー市場－天然ガス、金、銀、銅、小麦が上昇 原油、ガソリン、トウモロコシ、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-05T22:31:51+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で混合相場。天然ガス、金、銀、銅、小麦は上昇したが、原油、ガソリン、トウモロコシ、大豆は下落。市場参加者の買い物かごの内容に相反する動きが見られた。"
-  },
-  {
     "title": "8月6日朝、世界の金価格が急騰した。 - Vietnam.vn",
     "timestamp": "2026-08-06T10:51:31+00:00",
     "importance": 2,
@@ -2099,5 +2088,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムで8月9日の金価格が上昇し、金地金と金指輪の両方が急騰した。地域的な価格上昇の報道で、グローバル市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "2026年8月9日の金価格：SJC金価格、9999金リング価格、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-08-08T22:17:29+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を報道したニュース。SJC金価格と世界金価格の相場データを提供している。市場参加者への価格情報提供であり、市場を動かすファンダメンタルズの発表ではない。"
+  },
+  {
+    "title": "本日（8月9日）の金価格：全般的に急上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-08T22:50:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が8月9日に全般的に急上昇したとの報道。具体的な上昇幅や原因は記事概要では不明。市場の日々の値動きに関する速報・解説記事と思われる。"
+  },
+  {
+    "title": "本日（8月9日）の金価格：国内価格は急騰したが、国際価格は横ばいだった。 - Vietnam.vn",
+    "timestamp": "2026-08-08T22:50:23+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金国内価格が急騰した一方で、国際価格は横ばいで推移。国内と国際価格の乖離が発生している状況の報道。"
+  },
+  {
+    "title": "中国が大規模な攻勢を開始したことを受け、金価格は1カ月ぶりの高値に急騰した。 - Vietnam.vn",
+    "timestamp": "2026-08-08T22:50:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中国の大規模攻勢報道を受けて金価格が1ヶ月ぶりの高値に上昇した。地政学リスク回避需要が金買いを促進している。ただしニュースソースが限定的で詳細が不明。"
   }
 ]
