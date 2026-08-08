@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY市場、ダウ433ドル高もハイテク安いまち――金先物は4300ドル台に急騰 - BigGo ファイナンス",
-    "timestamp": "2026-08-05T17:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY市場ではダウが堅調も株全体では混合。金先物が4300ドル台に急騰し、リスク回避姿勢が強まっている。ハイテク株の弱さと金の上昇は、市場の不確実性を反映。"
-  },
-  {
     "title": "金価格、2026年1月からの下落トレンドを突破 - BeInCrypto",
     "timestamp": "2026-08-05T19:17:23+00:00",
     "importance": 3,
@@ -185,17 +174,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金利低下圧力の緩和により、金価格の上昇機会を待つ市場観測。金利低下は金の実質利回り低下を招くため、金価格の上昇要因となる。既に織り込まれた見方の枠内での解説。"
-  },
-  {
-    "title": "株式市場はまちまち、ナスダックは下落；金価格は急騰 - TradingView",
-    "timestamp": "2026-08-05T17:34:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "株式市場（特にナスダック）の下落を背景に、金価格が急騰している。リスク回避姿勢の強まりが金買いを促進。"
   },
   {
     "title": "原油先物は下落、イラン・オマーン協議進展で中東和平に期待 - Reuters",
@@ -2143,5 +2121,27 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米国コモディティ市場で原油、ガソリン、天然ガス、貴金属、小麦が上昇した一方、銅が下落。複数商品の混在した値動きを記録。"
+  },
+  {
+    "title": "世界の食料価格、約3年ぶり高水準－穀物輸出懸念に悪天候重なる - newsdig.tbs.co.jp",
+    "timestamp": "2026-08-07T19:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "世界の食料価格が約3年ぶりの高水準に上昇。穀物輸出懸念と悪天候が重なり、小麦を含む穀物相場の上値圧力が継続。供給面の制約が強まっている。"
+  },
+  {
+    "title": "原油高が続く局面で、相場連動性の低い銘柄に偏重すべきでない理由 野村證券ストラテジストが解説 - nomura.co.jp",
+    "timestamp": "2026-08-08T09:57:57+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "野村證券ストラテジストが、原油高環境下で相場連動性の低い銘柄への過度な集中投資を避けるべきとの見解を解説。原油連動性の高い銘柄のポートフォリオでの位置付けの重要性を指摘している。"
   }
 ]
