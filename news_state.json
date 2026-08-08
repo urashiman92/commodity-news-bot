@@ -1,16 +1,5 @@
 [
   {
-    "title": "8月5日朝の金価格更新:世界価格が予想外に上昇 - Laodong.vn",
-    "timestamp": "2026-08-05T00:15:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月5日朝時点での金価格が予想外に上昇したとの報道。具体的な上昇幅や要因については記事概要では不明確。ベトナム国内向けの定期的な相場情報提供記事と推定される。"
-  },
-  {
     "title": "中東外交とFRBの見通しが重なり、金相場は横ばい 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-05T02:20:00+00:00",
     "importance": 2,
@@ -75,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイラン・ホルムズ海峡関連の合意を5日中に発表する見込みとの報道。3日続落した原油先物は供給懸念の緩和を受けて下押し圧力が続いている。ホルムズ海峡での地政学リスク低下が価格を押し下げている。"
-  },
-  {
-    "title": "イランとの戦争で原油価格が上昇、アラムコの純利益は44％増 - arabnews.jp",
-    "timestamp": "2026-08-05T01:08:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランとの紛争による地政学的リスクで原油価格が上昇。サウジアラムコの純利益が44%増加し、エネルギー企業の収益性が向上。供給不安による価格プレミアムが発生している。"
   },
   {
     "title": "原油先物は下げ一服、2日続落後 ホルムズ海峡の航行再開に注目 - ニューズウィーク日本版",
@@ -275,17 +253,6 @@
     "summary": "世界の原油価格が急落した。市場報道であるが、具体的な原因・下落幅・時期が記事概要に不明確。コモディティ投資家にとっては下落トレンドの確認として注視対象。"
   },
   {
-    "title": "ＮＹ市場、原油先物が７５ドル台と１か月ぶりの安値水準…ダウは２日連続で最高値更新し終値で初の５万４０００ドル台 - ｄメニューニュース",
-    "timestamp": "2026-08-05T01:19:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が75ドル台と1ヶ月ぶりの安値まで下落。一方でダウは2日連続で最高値更新し54,000ドル台に到達。株高と原油安が同時進行。"
-  },
-  {
     "title": "原油価格とトウモロコシ価格が同時に急落した。 - Vietnam.vn",
     "timestamp": "2026-08-05T08:43:31+00:00",
     "importance": 3,
@@ -295,17 +262,6 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "原油価格の急落に連動してトウモロコシ価格も同時下落。バイオ燃料需要減少と景気減速懸念が圧迫要因。エネルギー価格との相関性を反映した既定路線の動き。"
-  },
-  {
-    "title": "【非鉄金属トップ3徹底比較】住友金属鉱山・三菱マテリアル・JX金属の2025年度本決算 銅価格史上最高値・AI半導体材料急伸・配当2倍増配の全貌を8軸で解説 Jason Collins (itoFuJkohx) - Mshale",
-    "timestamp": "2026-08-05T00:33:48+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "日本非鉄金属大手3社の2025年度決算好調を解説。銅価格史上最高値、AI半導体材料需要増加、配当2倍増などが特徴。業界全体の好況を反映した既知の動向の整理。"
   },
   {
     "title": "香港株の動き｜銅業株が軒並み上昇、米国の輸入需要逼迫で世界供給が引き締まる、機関投資家は銅価格の中長期的な上昇基調を予想 - Moomoo",
@@ -383,17 +339,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イエメンのフーシ派がサウジアラビアの石油タンカーへの攻撃を主張。原油価格は1%超反発し、ホルムズ海峡の航行リスク懸念が再燃。地政学的緊張の継続を示唆。"
-  },
-  {
-    "title": "📈 パランティア・テクノロジーズ急騰、原油価格下落でウォール街は最高値を更新 - Moomoo",
-    "timestamp": "2026-08-05T01:16:31+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "パランティア・テクノロジーズ（AI関連株）が急騰し、ウォール街が最高値を更新したというニュース。原油価格下落との相関関係は不明確で、テック株とコモディティの連動性が低い。"
   },
   {
     "title": "WTI原油、ホルムズ海峡再開協議で供給懸念が後退し74ドル近辺へ下落 米株高も重し - VT Markets",
@@ -2110,5 +2055,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国雇用統計発表を控えて株価・ドルは方向感が乏しい中、湾岸地域の地政学的緊張が原油買い材料として機能し原油価格は上昇。金融市場と商品市場の非対称な値動きを反映。"
+  },
+  {
+    "title": "世界食料価格、３年半ぶり高水準＝穀物や植物油値上がり―７月 - ｄメニューニュース",
+    "timestamp": "2026-08-07T22:19:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "FAO発表の7月世界食料価格指数が3年半ぶりの高水準を記録。穀物と植物油の値上がりが主因。供給懸念と需要の堅調さが価格を支援。"
+  },
+  {
+    "title": "本日（8月8日）の金価格：国内金価格と国際金価格の差が縮小しました。 - Vietnam.vn",
+    "timestamp": "2026-08-07T23:38:55+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの8月8日時点の金価格について、国内金価格と国際金価格のスプレッド（価格差）が縮小したことを報じた相場解説。地域的な価格収束を示すが、グローバル金市場への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "3日間で300ドル上昇！金価格がショートスクイーズを発生させ、買い追いの相場はなお終わらない可能性 - Moomoo",
+    "timestamp": "2026-08-07T16:48:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3日間で300ドル上昇し、ショートスクイーズが発生している。買い追いの相場が継続している可能性が指摘されている。テクニカル的な売り圧力解放が価格上昇を牽引している。"
+  },
+  {
+    "title": "8月8日朝の金価格更新:引き続き上昇 - Laodong.vn",
+    "timestamp": "2026-08-08T00:26:37+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月8日朝時点の金価格が前日比で上昇しているとの観測記事。特定の新規要因なく、既存のトレンドを報じたもの。"
+  },
+  {
+    "title": "NY金先物：反発、弱い米雇用統計でFRB利下げ観測が強まりドル安・金利低下が支援(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-08T00:19:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米雇用統計が弱い結果となり、FRBの利下げ観測が強まった。ドル安と金利低下が進行し、金相場を支援。為替と金利の二重効果で反発。"
+  },
+  {
+    "title": "NY原油先物：反落、OPECプラスの増産合意とホルムズ海峡緊張緩和期待で売り優勢(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-08T00:21:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスが増産に合意し、同時にホルムズ海峡の地政学的緊張が緩和するとの期待が広がった。供給増加と地政学リスク低下により、NY原油先物は売り優勢で反落した。"
   }
 ]
