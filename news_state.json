@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（8月5日午後）の金価格：金地金価格は1オンスあたり1億4200万ベトナムドンに迫る。 - Vietnam.vn",
-    "timestamp": "2026-08-05T11:23:07+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金価格が1オンス当たり1億4200万ベトナムドンに接近している。ローカル市場の価格報告であり、グローバル金相場の新たな情報は含まれていない。"
-  },
-  {
     "title": "世界の金価格はまるでジェットコースターのようだ。 - Vietnam.vn",
     "timestamp": "2026-08-05T15:24:00+00:00",
     "importance": 2,
@@ -2154,5 +2143,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油高がマクロ経済への懸念を通じて株価を押し下げ、ダウ平均は464ドル下落し連騰記録が途切れた。原油上昇自体は既存トレンドの延長であり、市場への影響は相対的なもの。"
+  },
+  {
+    "title": "UAEの金価格が小幅上昇、国内相場は国際金相場とドル相場の動きに連動 - VT Markets",
+    "timestamp": "2026-08-07T23:21:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UAE国内の金価格が小幅上昇。国際金相場とドル相場の連動性を確認する観測記事。特段の新規要因による変動ではなく、既知の相関関係の説明。"
+  },
+  {
+    "title": "原油高で個別株は？米CPIと日経平均の攻防 Washington Dc Immigration Arrests Ruling (ja3XLscEfj) - Mshale",
+    "timestamp": "2026-08-08T08:35:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "タイトルと概要に矛盾があり、記事内容が不明確。米CPI・日経平均・原油の関連性は示唆されるが、具体的なニュースソースが特定できない。"
+  },
+  {
+    "title": "円安進行 一時1ドル＝158円台半ばまで下落 NY市場での原油価格上昇をきっかけに - article.auone.jp",
+    "timestamp": "2026-08-07T13:17:20+00:00",
+    "importance": 3,
+    "direction": "上�昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場で原油価格が上昇したことをきっかけに円安が進行し、一時1ドル=158円台半ばまで下落。原油高と円安の連動により、ドル建て原油の円換算価格はさらに上昇圧力を受ける可能性。"
   }
 ]
