@@ -1,27 +1,5 @@
 [
   {
-    "title": "世界の金価格は8月5日朝、4100ドルを超えた。 - Vietnam.vn",
-    "timestamp": "2026-08-05T03:07:24+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8月5日朝に1オンスあたり4100ドルを超えた。既に上昇傾向にあった金相場が節目を更新した形での報道。"
-  },
-  {
-    "title": "原油先物、3日続落－米政府が5日中のホルムズ合意発表目指すとの報道 - Bloomberg.com",
-    "timestamp": "2026-08-05T03:30:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン・ホルムズ海峡関連の合意を5日中に発表する見込みとの報道。3日続落した原油先物は供給懸念の緩和を受けて下押し圧力が続いている。ホルムズ海峡での地政学リスク低下が価格を押し下げている。"
-  },
-  {
     "title": "8月5日午前：世界の金価格は4,100ドルに迫り、国内の金価格も軒並み上昇。 - Vietnam.vn",
     "timestamp": "2026-08-05T05:07:03+00:00",
     "importance": 2,
@@ -75,28 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金価格が1オンスあたり1億4050万ベトナムドンに上昇したとの報告。ベトナム国内市場の日次価格情報で、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "原油先物、3日続落－米政府が5日中のホルムズ合意発表目指すとの報道 - Bloomberg.com",
-    "timestamp": "2026-08-05T03:30:45+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米政府がホルムズ海峡での合意を5日中に発表する見通しが報じられた。地政学的緊張の緩和期待が原油先物を3日連続で押し下げている。供給リスク低減への楽観が相場を重くしている。"
-  },
-  {
-    "title": "在庫減少を反映しない原油相場はリスク要因、相場は常に正しいのか？＜コモディティ特集＞(株探ニュース) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-05T04:30:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が減少しているにもかかわらず、原油相場がそれを十分に反映していないという指摘。相場形成メカニズムと市場効率性についての解説記事。"
   },
   {
     "title": "原油価格の高騰により、世界の電気自動車販売台数は急増すると予測されている。 - Vietnam.vn",
@@ -163,17 +119,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンスあたり4,100ドルを突破した。記事は利益確定の是非を問う解説記事。既に実現した価格水準についての相場評論。"
-  },
-  {
-    "title": "在庫減少を反映しない原油相場はリスク要因、相場は常に正しいのか？＜コモディティ特集＞ - 株探",
-    "timestamp": "2026-08-05T04:30:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が減少しているにもかかわらず、相場がそれを十分に反映していないという指摘。市場のプライシング機能に乖離が生じている可能性を問う解説記事。"
   },
   {
     "title": "世界の原油価格は急落した。 - Vietnam.vn",
@@ -2077,5 +2022,82 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "2026年8月8日時点での金価格急騰について、その原因を解説するニュース記事。具体的な急騰理由は記事から不明だが、金が買い優位の相場環境にあることは確認される。"
+  },
+  {
+    "title": "世界食料価格、３年半ぶり高水準＝穀物や植物油値上がり―７月 - Infoseek",
+    "timestamp": "2026-08-08T01:00:35+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "FAO食料価格指数が7月に3年半ぶりの高水準に達した。穀物と植物油が主な上昇要因。需給逼迫と天候不安による供給懸念が背景。"
+  },
+  {
+    "title": "NY原油先物：反落、OPECプラスの増産合意とホルムズ海峡緊張緩和期待で売り優勢 - ｄメニューニュース",
+    "timestamp": "2026-08-08T00:21:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスが増産に合意し、ホルムズ海峡の緊張緩和期待が広がったことで、NY原油先物は売り優勢となり反落した。供給増加とリスク軽減が同時に進む市場環境を反映している。"
+  },
+  {
+    "title": "NY原油先物：反落、OPECプラスの増産合意とホルムズ海峡緊張緩和期待で売り優勢 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-08T00:21:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスが増産に合意し、同時にホルムズ海峡の地政学的緊張が緩和される期待が高まった。供給増加と地政学リスク低下の二重要因で売り圧力が強まり、NY原油先物は反落。"
+  },
+  {
+    "title": "【ETF หุ้นญี่ปุ่นที่มีความเคลื่อนไหวมากที่สุด】 WTI Crude Oil ETF ปรับตัวเพิ่มขึ้น 3.52% - Moomoo",
+    "timestamp": "2026-08-07T13:20:46+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油ETFが3.52%上昇した。ただしニュース概要に具体的な材料が記載されていない。単なる日次の値動き報告と見られる。"
+  },
+  {
+    "title": "高騰する原油価格がもたらした影響…2強のコンビニが好調な業績を記録 - jp.ajunews.com",
+    "timestamp": "2026-08-07T06:40:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油高騰がコンビニ業績に好影響を与えた例として報じられている。これはコンビニの燃料・物流コスト上昇が必ずしも悪影響に限定されず、客数増加や商品単価上昇で相殺された可能性を示唆。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、小麦が上昇 銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-07T22:40:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油、ガソリン、天然ガス、金、銀、小麦が上昇し、銅が下落した日次の相場動向レポート。エネルギーと貴金属の強気姿勢が目立つ一方、銅は売圧を受けた。"
+  },
+  {
+    "title": "エサリアム、トークン化商品市場の65.7%を占める - Coinfomania",
+    "timestamp": "2026-08-07T12:57:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "イーサリアムがトークン化商品市場の65.7%を占めるとの報告。ブロックチェーン上での商品トークン化における市場シェアを示す統計情報。暗号資産プラットフォームの市場動向を示すデータ。"
   }
 ]
