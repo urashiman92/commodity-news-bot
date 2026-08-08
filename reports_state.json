@@ -1,27 +1,5 @@
 [
   {
-    "title": "Strategists Expect USA Crude Build in Next EIA Report - Rigzone",
-    "timestamp": "2026-08-05T11:17:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫レポートの次回発表で、戦略家らが米国原油在庫の積み増し（ビルド）を予想している。在庫増加シナリオが市場に認識されることで、供給余剰感が高まり原油価格に下方圧力がかかると見られる。"
-  },
-  {
-    "title": "Strategists Expect USA Crude Build in Next EIA Report - Rigzone",
-    "timestamp": "2026-08-05T11:38:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計の次回発表でストラテジストが米国原油在庫の増加を予想している。供給増加見通しは原油価格に下押し圧力となる。市場予想の範囲内で織り込み済みの動きと見られる。"
-  },
-  {
     "title": "Southern Corn Conditions and Yield Expectations - Oklahoma Farm Report",
     "timestamp": "2026-08-05T13:35:06+00:00",
     "importance": 2,
@@ -724,5 +702,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアのイルスキー製油所にドローン攻撃を実施し、火災が発生。同製油所はロシア南部の主要精製施設であり、日産能力は約6万バレル。供給途絶リスクが原油価格上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "Fire at Russia's Ilsky oil refinery put out after Ukrainian drone attack - Reuters",
+    "timestamp": "2026-08-08T09:30:47+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナによるドローン攻撃がロシアのイルスキー製油所に火災を引き起こした。ロシアの重要な石油精製インフラへの直撃は供給途絶リスクを高め、欧州・アジア市場への精製製品供給に支障の可能性。地政学的サプライズとして原油価格上昇圧力となる。"
   }
 ]
