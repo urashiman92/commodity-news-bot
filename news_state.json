@@ -1,27 +1,5 @@
 [
   {
-    "title": "8月5日午前：世界の金価格は4,100ドルに迫り、国内の金価格も軒並み上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-05T05:07:03+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,100ドル水準に接近し、ベトナム国内の金価格も連動して上昇している。世界的な金相場の強気トレンドが継続している状況の報道。"
-  },
-  {
-    "title": "2026年8月5日現在の金価格：反転上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-05T05:07:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年8月5日時点で金価格が反転上昇している。具体的な上昇要因や背景については記事から不明だが、技術的なリバウンドか中期トレンドの転換点の可能性。"
-  },
-  {
     "title": "本日（8月5日）の金価格：再び上昇。 - Vietnam.vn",
     "timestamp": "2026-08-05T05:41:00+00:00",
     "importance": 2,
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金価格が1オンスあたり1億4050万ベトナムドンに上昇したとの報告。ベトナム国内市場の日次価格情報で、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "原油価格の高騰により、世界の電気自動車販売台数は急増すると予測されている。 - Vietnam.vn",
-    "timestamp": "2026-08-05T05:07:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇がEV販売増加を促進するとの予測。ガソリン車からの代替需要が高まることで、ガソリン需要が減少する可能性。"
   },
   {
     "title": "本日（8月5日正午）の金価格：国内の金価格は反転上昇。 - Vietnam.vn",
@@ -2099,5 +2066,60 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "イーサリアムがトークン化商品市場の65.7%を占めるとの報告。ブロックチェーン上での商品トークン化における市場シェアを示す統計情報。暗号資産プラットフォームの市場動向を示すデータ。"
+  },
+  {
+    "title": "金価格（8月8日）：急騰 - Vietnam.vn",
+    "timestamp": "2026-08-08T02:58:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が8月8日に急騰したというニュース。詳細な要因や騰落幅が記事概要では不明。市場の短期的な値動きを報じたもの。"
+  },
+  {
+    "title": "本日の燃料価格（8月8日）：ブレント原油価格が1ドル以上上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-08T04:12:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月8日のブレント原油が1ドル以上上昇した。日次の価格変動レポートであり、相場の日常的な振動を記録したニュース。"
+  },
+  {
+    "title": "米雇用統計の発表を前に、日本株は小幅安で引け、原油価格は上昇した。 - Moomoo",
+    "timestamp": "2026-08-07T13:12:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米雇用統計発表控えで、市場全体は慎重姿勢だが原油は上昇。日本株が小幅安の中、原油が独立した値動きを示唆。リスク資産と商品の値動きの乖離が生じている。"
+  },
+  {
+    "title": "本日の燃料価格（7月18日）：世界の原油価格は反転上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-08T03:01:04+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "7月18日の原油価格が反転上昇した。ベトナムからの日次燃料価格レポート。具体的なファンダメンタルズの言及なし。"
+  },
+  {
+    "title": "なぜ本日コーン先物価格は安定しているのか？レジスタンス水準に注目 - tradersunion.com",
+    "timestamp": "2026-08-07T12:59:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "コーン先物が本日相対的に安定している状況を解説。テクニカル分析の観点からレジスタンス水準が注視されている。既報イベントの価格推移を振り返るもの。"
   }
 ]
