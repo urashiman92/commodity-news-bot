@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（8月5日）の金価格：再び上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-05T05:41:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月5日の金価格が再び上昇したことを報じた記事。具体的な上昇要因や価格水準の記載がなく、単なる日次の相場推移を伝えるもの。"
-  },
-  {
-    "title": "2026年8月5日の金価格：SJCが売りを減らし、世界の金価格は急騰。 - Vietnam.vn",
-    "timestamp": "2026-08-05T05:40:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金が売却を減らしたことと、それに伴う世界金価格の上昇を報じるニュース。ベトナム国内市場の需給変化を示しているが、グローバルな構造的な需給シフトではない。"
-  },
-  {
-    "title": "本日8月5日の金価格：SJCの金価格は1オンスあたり1億4050万ベトナムドンに上昇しました。 - Vietnam.vn",
-    "timestamp": "2026-08-05T05:40:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が1オンスあたり1億4050万ベトナムドンに上昇したとの報告。ベトナム国内市場の日次価格情報で、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
     "title": "本日（8月5日正午）の金価格：国内の金価格は反転上昇。 - Vietnam.vn",
     "timestamp": "2026-08-05T07:36:48+00:00",
     "importance": 2,
@@ -2121,5 +2088,60 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "コーン先物が本日相対的に安定している状況を解説。テクニカル分析の観点からレジスタンス水準が注視されている。既報イベントの価格推移を振り返るもの。"
+  },
+  {
+    "title": "金価格が上昇、米国株は過去最高値を更新。 - Vietnam.vn",
+    "timestamp": "2026-08-08T04:03:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が上昇し、米国株が過去最高値を更新したというニュース。一般的に金と株価は逆相関関係にあるが、両者の同時上昇は珍しい現象。詳細な背景や騰落幅の情報が不足している。"
+  },
+  {
+    "title": "世界の金価格は8月8日朝、1オンスあたり4,368ドルを突破した。 - Vietnam.vn",
+    "timestamp": "2026-08-08T04:40:12+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,368ドルを突破した。8月の金相場は地政学的不安やドル弱含みを背景に堅調。既に報道されている価格動向の続報。"
+  },
+  {
+    "title": "本日8月8日の金価格：世界の金価格が100ドル上昇、SJCの金価格も上昇するだろうか？ - Vietnam.vn",
+    "timestamp": "2026-08-08T04:12:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界の金価格が100ドル上昇した。ベトナムのSJC金価格も連動して上昇する見込み。既に発生した相場変動の確認・解説記事。"
+  },
+  {
+    "title": "原油価格の下落は、金価格の上昇への道を開く。 - Vietnam.vn",
+    "timestamp": "2026-08-08T04:12:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落が金価格の上昇につながる可能性を指摘するコメンタリー。原油と金は逆相関の傾向があり、エネルギーコスト低下がインフレ圧力軽減から金需要増加につながるという論理。"
+  },
+  {
+    "title": "来週（8/10～8/14）の日経平均株価の予想レンジは6万3000～6万9000円！ 中東情勢と原油価格に警戒しつつ、調整一巡のAI･半導体関連の押し目を狙おう！ - ダイヤモンド・オンライン",
+    "timestamp": "2026-08-07T11:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "来週の日経平均株価予想レンジを提示するコメンタリー記事。中東情勢と原油価格への言及があるが、具体的な新規情報やイベント発表ではなく市場展開予測。"
   }
 ]
