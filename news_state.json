@@ -1,38 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4247ドル｜ホルムズ海峡開放期待によるインフレ懸念後退が影響した模様(2026年8月6日) - OANDA証券",
-    "timestamp": "2026-08-05T23:03:41+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4247ドルまで上昇。ホルムズ海峡開放期待によりインフレ懸念が後退し、金売却圧力が軽減された。既知の地政学リスク緩和の反映。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの合意が近いとの見方が強まり、原油価格は3営業日続落（2026年8月6日） - OANDA証券",
-    "timestamp": "2026-08-05T23:12:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの核合意再開の可能性が高まり、対イラン制裁緩和による原油供給増加の懸念から、WTI原油は3営業日続落している。供給増加見通しが価格を圧迫している。"
-  },
-  {
-    "title": "５日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-05T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "5日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や商品別の騰落状況を報じたものと推測される。詳細なデータがないため詳しい分析は困難。"
-  },
-  {
     "title": "金価格が7週間ぶり高値、ホルムズ海峡再開に期待 - Reuters",
     "timestamp": "2026-08-06T01:08:00+00:00",
     "importance": 3,
@@ -119,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の再開可能性について市場が注視している状況。原油価格は変動しているが、具体的な供給障害解決の進展は未確認。既に認識されている懸念材料への市場反応。"
-  },
-  {
-    "title": "５日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-05T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "5日の主要国際商品市況に関する定期的な市況報道。具体的な価格動向や材料については記事の詳細が不明。"
   },
   {
     "title": "金価格が7週間ぶり高値、ホルムズ海峡再開に期待（ロイター） - Yahoo!ニュース",
@@ -2132,5 +2088,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "中国の大規模攻勢報道を受けて金価格が1ヶ月ぶりの高値に上昇した。地政学リスク回避需要が金買いを促進している。ただしニュースソースが限定的で詳細が不明。"
+  },
+  {
+    "title": "NY原油先物：反落、OPECプラスの増産合意とホルムズ海峡緊張緩和期待で売り優勢 - topics.smt.docomo.ne.jp",
+    "timestamp": "2026-08-08T00:21:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスが増産合意し、同時にホルムズ海峡の地政学的緊張緩和期待が浮上したことで、NY原油先物は売り優勢となり反落。供給増加懸念と地政学リスク低下が価格下押し要因に。"
   }
 ]
