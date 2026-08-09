@@ -55,17 +55,6 @@
     "summary": "8月7日朝の金価格が予想外に反転したと報じられている。詳細な価格水準や反転の理由は記事概要から不明。定期的な相場情報の一部と思われる。"
   },
   {
-    "title": "金価格は本日8月6日、力強い上昇傾向を継続して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-08-06T16:58:23+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月6日の金価格は上昇傾向で取引を終えた。具体的な上昇率や材料については記事概要に記載されていない。市場の一般的なセンチメントを述べたのみの報道。"
-  },
-  {
     "title": "WTI原油見通し(市況ニュース)：ホルムズ海峡の開放には時間がかかるとの見通しから、原油価格は4営業日ぶりに上昇（2026年8月7日） - OANDA証券",
     "timestamp": "2026-08-06T23:14:35+00:00",
     "importance": 2,
@@ -1934,5 +1923,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の閉鎖状態が再び発生した場合の原油価格シナリオを解説する記事。既知のリスク要因の長期分析となっており、新規サプライズ情報ではない。"
+  },
+  {
+    "title": "ExxonMobil Doubled Its Profit to $14.5 Billion. Why Falling Oil Is the Real Test - TIKR.com",
+    "timestamp": "2026-08-09T16:44:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ExxonMobilが利益を14.5億ドルに倍増させたと報告。ただしタイトルから、記事の主眼は「原油下落時の企業収益力の真価」を問う解説であり、今後の油価下落局面が実質的なテスト局面となることを示唆している。"
   }
 ]
