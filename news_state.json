@@ -1,27 +1,5 @@
 [
   {
-    "title": "【石油・原油価格高騰 製造業実態調査】製造業の9割超が石油・原油高騰の影響を実感──調達コスト増加・価格転嫁にも限界 - 時事ドットコム",
-    "timestamp": "2026-08-06T09:45:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "製造業の9割超が原油高騰の影響を受けており、調達コスト増加が深刻化している。価格転嫁の限界が指摘されており、企業収益圧迫が顕在化している。"
-  },
-  {
-    "title": "ホルムズ海峡の再開観測で原油価格が下落、供給不安はなお消えない - Межа. Новини України.",
-    "timestamp": "2026-08-06T09:53:47+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再開見通しにより原油価格が下落した。ただし供給途絶リスクは依然として存在する。地政学的緊張は解消されていない。"
-  },
-  {
     "title": "8月6日朝、世界の金価格が急騰した。 - Vietnam.vn",
     "timestamp": "2026-08-06T10:51:31+00:00",
     "importance": 2,
@@ -339,17 +317,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "IAMGoldの決算発表が控えており、金価格下落局面での利益率維持可能性が焦点。鉱山会社の収益性評価は金相場と採掘コストの関係に左右される。個別企業決算だが金市場の需給シグナルとなる可能性。"
-  },
-  {
-    "title": "7月雇用統計プレビュー：金価格が4,300ドルにタッチ―金曜日の雇用統計発表は次の上昇の原動力となるか？ - Moomoo",
-    "timestamp": "2026-08-06T10:19:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,300ドルに到達し、高値圏で推移している。7月雇用統計は市場の大きな関心事となっており、発表結果次第で金価格の次の上昇トレンドが決まる可能性がある。雇用が予想より弱い場合、FRBの利下げ期待が高まり金買いが加速する見込み。"
   },
   {
     "title": "今日の金価格 7月8日:一斉に下落 - ja.laodong.vn",
@@ -2022,5 +1989,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン情勢による原油価格の乱高下を受け、日本の中東依存構造が改めて注視されている。専門家が日本が直ちに取るべき対応策を提唱する解説記事。既報のイラン関連ニュースをベースにした分析・提言コンテンツ。"
+  },
+  {
+    "title": "SJCの金価格は引き続き高値を維持している。 - Vietnam.vn",
+    "timestamp": "2026-08-09T10:07:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が高値を維持している状況についての報道。既に形成されている相場トレンドの継続に関する解説記事と見られる。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$$ブレント先物(期近) (BZcurrent.US)$ イランの... - Moomoo",
+    "timestamp": "2026-08-09T08:57:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランに関連する地政学的なニュースが報道されている。イランは中東の主要石油供給国であり、同国に関わるイベントは原油市場に供給懸念をもたらす。詳細が不明なため、具体的なサプライズ度は判断困難。"
   }
 ]
