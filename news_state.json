@@ -1,27 +1,5 @@
 [
   {
-    "title": "【速報】ドル・円158円台、原油価格が上昇｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-06T14:16:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円が158円台に上昇しており、それに伴って原油価格も上昇している。ドル高・円安環境が原油買いを促進している状況を報じている。"
-  },
-  {
-    "title": "銅価格が過去最高値、6.85ドルが次の焦点 - BeInCrypto",
-    "timestamp": "2026-08-06T14:21:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高値を更新し、次の抵抗線が6.85ドルと指摘されている。EV需要や脱炭素関連の構造的な需要増加が背景。テクニカル分析に基づく相場観の提示。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4240ドル｜米長期金利の上昇により、売り優勢だった模様(2026年8月7日) - OANDA証券",
     "timestamp": "2026-08-06T23:06:00+00:00",
     "importance": 3,
@@ -152,17 +130,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランがホルムズ海峡の敵対的船舶通航禁止を審議との報道により、原油先物が3ドル超上昇。ホルムズ海峡は世界の石油輸送の約20-30%が通過する戦略的要衝であり、供給途絶リスクが急速に上昇した。地政学的緊張の高まりが短期的な価格プレミアムを生み出している。"
-  },
-  {
-    "title": "米国の銅輸入関税決定が銅価格をレンジ内にとどめる - Traders Union",
-    "timestamp": "2026-08-06T14:11:36+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国の銅輸入関税決定に関する市場解説。現在のところ銅価格はレンジ内に留まっており、大きな方向性は示されていない。関税政策の市場への影響度は予測段階。"
   },
   {
     "title": "６日の主要国際商品市況 - 株探",
@@ -1945,5 +1912,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が急落している。同時期に株式と債券市場は安定を保っている。アセットクラス間での値動きの乖離が注目される。"
+  },
+  {
+    "title": "金価格は本日、2026年8月10日に「興味深い戦い」に突入し、1オンスあたり4,500ドルへの比較的容易な道のりを歩むことになるだろう。 - Vietnam.vn",
+    "timestamp": "2026-08-09T14:13:19+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリストが金価格の1オンス4,500ドルへの上昇見通しを示唆。現在の相場で4,500ドルが比較的容易に到達可能な水準と判断。市場で既に認識されている強気見通しの追認。"
   }
 ]
