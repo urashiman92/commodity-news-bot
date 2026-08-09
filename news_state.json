@@ -1,27 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4240ドル｜米長期金利の上昇により、売り優勢だった模様(2026年8月7日) - OANDA証券",
-    "timestamp": "2026-08-06T23:06:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4240ドルまで下落。米長期金利の上昇が売り圧力となった。実ファンダメンタルズの変化というより金利動向に対する市場反応。"
-  },
-  {
-    "title": "イラン、ホルムズ海峡封鎖の動き再燃 金価格は急騰後反落、原油は3ドル超上昇 - BigGo ファイナンス",
-    "timestamp": "2026-08-06T23:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "イランがホルムズ海峡封鎖の動きを再燃させ、地政学的リスクが急速に高まった。金は急騰後反落し、原油は3ドル超上昇するなど商品市場全体が不安定化。中東の供給リスク再燃は金価格の下支え要因になる可能性。"
-  },
-  {
     "title": "金価格が急上昇 多くの金宝飾品ブランドが1グラム当たり前日比1300円超の値上げ - Record China",
     "timestamp": "2026-08-07T00:10:01+00:00",
     "importance": 2,
@@ -31,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が急上昇し、宝飾品ブランド各社が1グラム当たり1300円超の値上げを実施した。現物相場の上昇を反映した小売価格調整。"
-  },
-  {
-    "title": "8月7日朝の金価格更新:世界の金価格が予想外に反転 - Laodong.vn",
-    "timestamp": "2026-08-06T23:20:19+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月7日朝の金価格が予想外に反転したと報じられている。詳細な価格水準や反転の理由は記事概要から不明。定期的な相場情報の一部と思われる。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：ホルムズ海峡の開放には時間がかかるとの見通しから、原油価格は4営業日ぶりに上昇（2026年8月7日） - OANDA証券",
-    "timestamp": "2026-08-06T23:14:35+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の開放に時間がかかるとの見通しから原油価格が4営業日ぶりに上昇。供給制約懸念が相場を下支え。既知の地政学的リスク要因の継続的な解釈。"
-  },
-  {
-    "title": "６日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-06T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "6日の主要国際商品市況の日次レポート。具体的な価格データや市場動向の詳細が記事本文なしで判断できない。"
   },
   {
     "title": "本日（8月7日）の金価格：予想外の反転と下落。 - Vietnam.vn",
@@ -97,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "7月8日の金相場が一斉に下落した。具体的な下落要因や数値は記事概要に記載されていない。定期的な市場動向の報告記事と考えられる。"
-  },
-  {
-    "title": "本日（8月7日）の金価格：引き続き力強い上昇傾向を維持。 - Vietnam.vn",
-    "timestamp": "2026-08-06T23:18:18+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8月7日時点で引き続き強気の上昇傾向を維持している。ベトナムの地元ニュースサイトによる相場観測記事。既に進行中のトレンドを述べたもの。"
   },
   {
     "title": "原油先物続伸、ホルムズ海峡再開巡り警戒 イランが敵対船舶禁止案 - Reuters",
@@ -1934,5 +1868,115 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月9日のブレント原油先物が3.14%上昇した。記事はこの値動きの背景にある市場要因を解説するコメンタリー記事である。具体的な需給ショックや指標発表の記載がなく、相場の事後分析と思われる。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4341ドル｜米雇用統計が予想を下回った影響で、買い優勢だった模様(2026年8月10日) - OANDA証券",
+    "timestamp": "2026-08-09T23:04:16+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米雇用統計が予想を下回ったことで、金は買い優勢となり4341ドルまで上昇した。弱い雇用指標は利下げ期待を支援し、利子を生まない金への投資妙味が増した。"
+  },
+  {
+    "title": "本日（8月10日）の金価格：金地金購入者は1週間で損益分岐点に達した。 - Vietnam.vn",
+    "timestamp": "2026-08-09T23:10:21+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムにおける金地金購入者が1週間で損益分岐点に達したという相場観測記事。金価格の短期的な上昇を反映した現地市場のコメンタリー。"
+  },
+  {
+    "title": "本日8月10日の金価格：SJC、BTMC、PNJ、DOJIは価格を維持し、週初めのシグナルを待っている。 - Vietnam.vn",
+    "timestamp": "2026-08-09T22:41:31+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売業者（SJC、BTMC、PNJ、DOJI）が8月10日の金価格を維持している。週初のマーケットシグナルを待つ様子見局面。"
+  },
+  {
+    "title": "本日（8月10日）の金価格：急騰後、市場は落ち着きを取り戻した。 - Vietnam.vn",
+    "timestamp": "2026-08-09T23:10:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は急騰後に落ち着きを取り戻した。市場が一時的なボラティリティから正常化したことを示している。既に起きた値動きの振り返りコメンタリー。"
+  },
+  {
+    "title": "2026年8月10日の金価格：SJC金価格、9999金リング価格、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-08-09T22:39:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を扱う日次レポート。SJC金とグローバル金相場の価格情報を掲載したニュース記事。"
+  },
+  {
+    "title": "本日（2026年8月10日）の金価格：SJCゴールドは1オンスあたり1億4400万ベトナムドン、金の指輪は1オンスあたり1億4550万ベトナムドンで販売されています。 - Vietnam.vn",
+    "timestamp": "2026-08-09T22:15:35+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月10日のベトナム国内金価格をSJCゴールドが1オンス1億4400万ベトナムドン、金の指輪が1億4550万ベトナムドンで取引されている。地域の金小売価格の日次報告。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：イランとオマーンの合意期待が高まった影響で、原油価格は反落（2026年8月10日） - OANDA証券",
+    "timestamp": "2026-08-09T23:13:31+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランとオマーンの合意期待が市場で高まり、原油供給の増加懸念から原油価格が反落。地政学リスク低下による供給緩和シナリオが相場に織り込まれた。"
+  },
+  {
+    "title": "ホルムズ海峡の航行再開に不透明感、供給懸念で原油価格が上昇 - Межа. Новини України.",
+    "timestamp": "2026-08-09T23:08:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の航行再開時期が不透明になっており、供給途絶懸念が高まっている。世界原油供給の約3割が通過する同海峡の通航リスクは価格への直接的な上方圧力となっている。"
+  },
+  {
+    "title": "原油価格は岐路に立たされている。1バレル140ドルまで急騰するのか、それとも沈静化に向かう​​のか？ - Vietnam.vn",
+    "timestamp": "2026-08-09T23:10:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が140ドルまで上昇するか沈静化するかの分岐点にあるという市場分析。現在の価格水準と今後の方向性についての観測論評。"
+  },
+  {
+    "title": "７日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-09T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "7日の主要国際商品市況についての相場レポート。具体的な価格データや変動要因が記事本文に含まれていないため、実質的な分析が困難。"
   }
 ]
