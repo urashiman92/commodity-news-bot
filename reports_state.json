@@ -1,27 +1,5 @@
 [
   {
-    "title": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap - Bloomberg",
-    "timestamp": "2026-08-06T22:10:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン情勢の緊迫化がアジア株式市場に下押し圧力をもたらす一方、地政学リスク上昇を受け原油価格は上昇。中東地域の地政学的不確実性の高まりは、供給ショックリスクをプライシングさせており、エネルギーコモディティの上昇トレンドが継続している。"
-  },
-  {
-    "title": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap - Bloomberg",
-    "timestamp": "2026-08-06T22:10:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イラン情勢の緊迫化がアジア株式市場に下押し圧力をもたらす一方、地政学リスク上昇を受け原油価格は上昇。中東地域の地政学的不確実性の高まりは、供給ショックリスクをプライシングさせており、エネルギーコモディティの上昇トレンドが継続している。"
-  },
-  {
     "title": "China’s Central Bank Adds 20 Tons to Gold Reserves in July - Bloomberg.com",
     "timestamp": "2026-08-07T08:13:46+00:00",
     "importance": 3,
@@ -361,5 +339,38 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "8月のUSDA月次レポート公表を前に、大豆の作況評価が連続で低下している一方、タイムリーな降雨により緩和の可能性がある。レポート公表時に収量予想が引き下げられるかが焦点。降雨効果と作況悪化のバランスが価格方向を左右する。"
+  },
+  {
+    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - The Western Producer",
+    "timestamp": "2026-08-07T17:01:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月WASDE報告書でアナリストがトウモロコシと大豆の作付面積・収量の減少を予測している。同報告書は毎月10日前後に発表される定期統計であり、市場のポジション再調整を促す可能性がある。具体的な数値は記事タイトルのみでは不明だが、作物作況が市場予想を下回る可能性が示唆されている。"
+  },
+  {
+    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - The Western Producer",
+    "timestamp": "2026-08-07T17:01:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月WASDE報告書でアナリストがトウモロコシと大豆の作付面積・収量の減少を予測している。同報告書は毎月10日前後に発表される定期統計であり、市場のポジション再調整を促す可能性がある。具体的な数値は記事タイトルのみでは不明だが、作物作況が市場予想を下回る可能性が示唆されている。"
+  },
+  {
+    "title": "Saudi Says Fire at Aramco Refinery in Jazan Was Extinguished - Bloomberg.com",
+    "timestamp": "2026-08-09T12:28:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのアラムコ社ジャザン製油所で発生した火災が消火された。供給途絶の懸念は解消されたが、火災の規模や生産への影響は明記されていない。短期的な原油価格上昇圧力は限定的と判断される。"
   }
 ]
