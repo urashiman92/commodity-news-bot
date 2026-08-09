@@ -253,17 +253,6 @@
     "summary": "日経225先物の証拠金・オプション市場に関する定期的なマーケットウォッチ記事。市場参加者向けの取引条件情報の提供。貴金属・コモディティ市場への直接的な影響なし。"
   },
   {
-    "title": "$金先物(2612) (GCmain.US)$ - Moomoo",
-    "timestamp": "2026-08-06T06:20:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物の取引プラットフォーム上での価格表示に関する記事。具体的なニュース内容や市場材料の記載がない。"
-  },
-  {
     "title": "8月7日朝の金価格更新:世界の金価格が予想外に反転 - Laodong.vn",
     "timestamp": "2026-08-06T23:20:19+00:00",
     "importance": 2,
@@ -526,17 +515,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "コスモエネルギーHDが1Q決算で黒字転換。原油価格上昇がプラス要因として機能。個別企業の好決算報告であり、原油市場そのものへの直接的な新情報は限定的。"
-  },
-  {
-    "title": "ＪＸ金属[5016]：通期業績予想の修正に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-    "timestamp": "2026-08-06T06:30:00+00:00",
-    "importance": 2,
-    "direction": "unknown",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が2026年8月期の通期業績予想を修正した。具体的な修正内容（上方/下方、幅）が記事概要に記載されていないため詳細不明。銅関連企業の業績修正は市場に影響する可能性がある。"
   },
   {
     "title": "ホルムズ海峡封鎖：銅価格は$6.7415のサポートを試すか？ - Traders Union",
@@ -2044,5 +2022,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1週間で300ドル近く上昇した。アナリスト予測を含むコメンタリー記事。具体的な上昇要因や今後の見通しの詳細は記事本文が必要。"
+  },
+  {
+    "title": "政府監察局は、国内の金価格が世界価格よりも高い理由を特定した。 - Vietnam.vn",
+    "timestamp": "2026-08-09T06:32:04+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの政府監察局が、国内金価格が世界価格より高い理由を特定した。流通規制や流動性制限などの構造的要因が背景とみられる。市場全体への直接的な影響は限定的。"
+  },
+  {
+    "title": "本日の金価格（8月9日）：宝田、萬海、米紅では価格表示方法が異なります。 - Vietnam.vn",
+    "timestamp": "2026-08-09T06:08:13+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムにおける8月9日の金価格を複数の流通業者（宝田、萬海、米紅）の価格表示方法の相違について報道したもの。各業者で価格表示方法が異なることを指摘。"
   }
 ]
