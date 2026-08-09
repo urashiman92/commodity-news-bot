@@ -55,17 +55,6 @@
     "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
   },
   {
-    "title": "EXCLUSIVE: Sinopec steps up Russian oil imports to offset Mideast supply cuts, traders and tracker say - Reuters",
-    "timestamp": "2026-08-06T04:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国国営企業シノペックがロシア産原油の輸入を増加させ、中東供給不足を補完する動きが報道された。地政学的リスク（中東情勢）とロシア産原油の代替利用が原油需給バランスに影響を与える構図。供給源の多角化は価格上昇圧力となる一方、代替供給で価格上昇幅は抑制される。"
-  },
-  {
     "title": "Oil refinery in Russia's Yaroslavl is on fire after Ukrainian drone attack, governor says - reuters.com",
     "timestamp": "2026-08-06T09:19:31+00:00",
     "importance": 4,
@@ -550,28 +539,6 @@
     "summary": "ウクライナによるドローン攻撃がロシアのイルスキー製油所に火災を引き起こした。ロシアの重要な石油精製インフラへの直撃は供給途絶リスクを高め、欧州・アジア市場への精製製品供給に支障の可能性。地政学的サプライズとして原油価格上昇圧力となる。"
   },
   {
-    "title": "US crude inventories rise while fuel stocks decline, EIA says - Investing.com",
-    "timestamp": "2026-08-06T03:22:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫統計で、米国原油在庫が上昇する一方、ガソリンと留出油などの製品在庫が減少したと報告された。原油供給の増加傾向と製品需要の強さが混在する市場構図を示唆しており、短期的な需給バランスの不均衡を反映している。"
-  },
-  {
-    "title": "US crude inventories rise while fuel stocks decline, EIA says - Investing.com",
-    "timestamp": "2026-08-06T03:22:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIAの週間在庫統計で、米国原油在庫が上昇する一方、ガソリンと留出油などの製品在庫が減少したと報告された。原油供給の増加傾向と製品需要の強さが混在する市場構図を示唆しており、短期的な需給バランスの不均衡を反映している。"
-  },
-  {
     "title": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains - reuters.com",
     "timestamp": "2026-08-07T10:05:00+00:00",
     "importance": 4,
@@ -603,5 +570,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "トランプ政権が米国防需要に対応するため鉱物プロジェクトに30億ドルの投資を発表。防衛関連のサプライチェーン強化を狙い、銅・リチウム・希土類など戦略的鉱物の国内供給確保が加速。国防産業拡大と鉱物需要の急増が見込まれる。"
+  },
+  {
+    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Grainews",
+    "timestamp": "2026-08-07T17:22:47+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE報告書において、アナリストらがトウモロコシと大豆の作付面積・生産量の減少を予想している。これは天候不順や市場環境の影響を反映しており、穀物相場の上昇要因となる可能性が高い。月次定期発表のため織り込みが進む可能性も存在する。"
+  },
+  {
+    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Grainews",
+    "timestamp": "2026-08-07T17:22:47+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月のWASDE報告書において、アナリストらがトウモロコシと大豆の作付面積・生産量の減少を予想している。これは天候不順や市場環境の影響を反映しており、穀物相場の上昇要因となる可能性が高い。月次定期発表のため織り込みが進む可能性も存在する。"
   }
 ]
