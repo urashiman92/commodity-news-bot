@@ -1,16 +1,5 @@
 [
   {
-    "title": "大豆先物価格はUSX1,166のサポートを維持できるか、売り手が主導権を握り続けるのか？ - Traders Union",
-    "timestamp": "2026-08-06T12:19:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,166のサポートレベルで支持されるか注視。売り手が優位性を保っており、下値リスクが懸念される。テクニカルサポート維持が相場転換の鍵となる可能性。"
-  },
-  {
     "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
     "timestamp": "2026-08-06T13:10:07+00:00",
     "importance": 1,
@@ -317,17 +306,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "コスモエネルギーHDが1Q決算で黒字転換。原油価格上昇がプラス要因として機能。個別企業の好決算報告であり、原油市場そのものへの直接的な新情報は限定的。"
-  },
-  {
-    "title": "ホルムズ海峡封鎖：銅価格は$6.7415のサポートを試すか？ - Traders Union",
-    "timestamp": "2026-08-06T12:14:34+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ホルムズ海峡の封鎖リスクが銅価格に上昇圧力。海上輸送の混乱により供給懸念が高まる。主要海運ルートの封鎖は銅を含む商品全般に供給ショックをもたらす可能性。"
   },
   {
     "title": "クイックリーディング7-8：原油価格が再び急騰。今日の金価格の変動は？ - Vietnam.vn",
@@ -1945,5 +1923,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムSJC金の価格が1オンス当たり1億4100万～1億4400万ドンで横ばい状態にあることを報じたニュース。特段の価格変動なし。"
+  },
+  {
+    "title": "政府の調査官は、ベトナムにおける世界水準を上回る金価格の「犯人」を特定した。 - Vietnam.vn",
+    "timestamp": "2026-08-09T11:14:54+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで世界水準を上回る金価格の原因を政府調査官が特定した。ローカルマーケット固有の価格形成要因の解明であり、グローバル金市場への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "JX金属（5016）、2027年3月期1Qは営業利益+176%で通期上方修正。銅高と半導体材料の二本柱を読む - LIMO | くらしとお金の経済メディア",
+    "timestamp": "2026-08-09T12:20:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が2027年3月期1Qで営業利益176%増を達成し通期上方修正。銅価格上昇と半導体材料事業の好調が寄与。既報の銅相場堅調トレンドの延長線上での好決算。"
   }
 ]
