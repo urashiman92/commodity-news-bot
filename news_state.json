@@ -1,16 +1,5 @@
 [
   {
-    "title": "8月6日朝、世界の金価格が急騰した。 - Vietnam.vn",
-    "timestamp": "2026-08-06T10:51:31+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月6日朝に世界的な金価格の急騰が報じられた。具体的な急騰要因は記事概要から不明。金市場における短期的な価格変動を報道するもの。"
-  },
-  {
     "title": "サウジ、アジア向け主力原油価格を小幅引き下げ 6年ぶり低水準 - Reuters",
     "timestamp": "2026-08-06T11:22:02+00:00",
     "importance": 3,
@@ -482,17 +471,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月7日時点で世界の原油価格が3ドル以上上昇したという価格変動の報道。具体的な上昇要因は明記されていない。日次の燃料価格レポートの一つ。"
-  },
-  {
-    "title": "JX金属、1Q営業益814億円 AI関連需要や市況改善で通期営業益を420億円上方修正（ビジネス＋IT） - Yahoo!ニュース",
-    "timestamp": "2026-08-06T10:35:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が1Q営業益814億円を計上し、通期営業益を420億円上方修正。AI関連需要の拡大と銅市況改善が業績を牽引。銅需要の構造的な強さが確認された。"
   },
   {
     "title": "好決算と中東和平期待で世界市場が上昇、金価格は約4％急騰 - Межа. Новини України.",
@@ -2011,5 +1989,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランに関連する地政学的なニュースが報道されている。イランは中東の主要石油供給国であり、同国に関わるイベントは原油市場に供給懸念をもたらす。詳細が不明なため、具体的なサプライズ度は判断困難。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$$ブレント先物(期近) (BZcurrent.US)$ 🔴 イ... - Moomoo",
+    "timestamp": "2026-08-09T10:43:49+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物とブレント先物の価格動向に関するMoomooの配信記事。タイトルが途中で切れており、具体的な市場情報や分析内容が不明。"
   }
 ]
