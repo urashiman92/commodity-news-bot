@@ -11,50 +11,6 @@
     "summary": "EIAが米国原油在庫の増加を報告した。在庫積み増しは原油供給が需要を上回っていることを示唆し、原油価格に下押し圧力をもたらす可能性がある。具体的な在庫増加数量が示されていないため、サプライズ度の判定は困難である。"
   },
   {
-    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-06T05:53:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
-  },
-  {
-    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-06T05:53:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
-  },
-  {
-    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-06T05:53:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
-  },
-  {
-    "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-06T05:53:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "AI関連の相場上昇が一服し、アジア株式市場の調整が見込まれている。AI相場の冷却は、リスク資産買い圧力の低下を意味し、ドル強化・金利上昇シナリオへの転換示唆。これはリスク資産としてのコモディティ全般に下押し圧力をもたらす可能性がある。"
-  },
-  {
     "title": "Oil refinery in Russia's Yaroslavl is on fire after Ukrainian drone attack, governor says - reuters.com",
     "timestamp": "2026-08-06T09:19:31+00:00",
     "importance": 4,
@@ -592,5 +548,16 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "8月のWASDE報告書において、アナリストらがトウモロコシと大豆の作付面積・生産量の減少を予想している。これは天候不順や市場環境の影響を反映しており、穀物相場の上昇要因となる可能性が高い。月次定期発表のため織り込みが進む可能性も存在する。"
+  },
+  {
+    "title": "Fire extinguished at Aramco refinery in Jazan, Saudi Arabia says - Reuters",
+    "timestamp": "2026-08-09T01:48:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのアラムコ傘下ジャザン製油所で火災が発生し、その後鎮火されたことが報告された。製油所の操業状況や供給への影響は報道では未詳だが、中東の主要製油施設での火災は供給懸念材料として機能し、原油価格に上方圧力をもたらす可能性がある。"
   }
 ]
