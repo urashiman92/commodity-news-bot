@@ -1,27 +1,5 @@
 [
   {
-    "title": "ホルムズ海峡再開計画への懸念から、原油価格が上昇した。 - vietnam.vn",
-    "timestamp": "2026-08-07T17:17:02+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再開計画に対する懸念が原油価格を押し上げた。地政学的リスク要因が市場心理に影響している。供給途絶リスクへの警戒が相場を支持。"
-  },
-  {
-    "title": "本日8月7日の金価格は、一部で下落して引けた一方、他の部分では急騰した。 - vietnam.vn",
-    "timestamp": "2026-08-07T17:39:39+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月7日の金価格は一部地域で下落、他地域で急騰と方向性が分かれた。市場参加者による相場振り返り記事と考えられる。具体的な価格変動幅や要因が明記されていない。"
-  },
-  {
     "title": "日銀、警戒強める「AI発インフレ」 原油価格下落後の火種に - 日本経済新聞",
     "timestamp": "2026-08-07T20:00:00+00:00",
     "importance": 3,
@@ -1945,5 +1923,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "映画『アングリースクワッド 公務員と7人の詐欺師』の舞台あいさつに関する記事。キャスト（川栄李奈、森川葵、内野聖陽）のトークイベントを報道したもの。銅や商品市場とは無関係。"
+  },
+  {
+    "title": "カンザスシティ小麦価格がUSX717.13のサポートをテスト：注目すべき主要レベル - tradersunion.com",
+    "timestamp": "2026-08-10T12:25:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦先物がUSX717.13のサポートレベルをテストしている。技術的な価格水準の解説記事で、市場観測・チャート分析の類。"
+  },
+  {
+    "title": "中東戦争下でも下落する金価格、各国中銀は「買い場」と判断 - BigGo ファイナンス",
+    "timestamp": "2026-08-10T16:55:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中東情勢の緊張下でも金価格が下落している状況を報道。各国中央銀行は金を買い場と判断し、買い増しを継続している。地政学的リスクプレミアムが既に織り込まれている可能性を示唆。"
+  },
+  {
+    "title": "本日の金価格：1オンスあたり50万ベトナムドン下落。専門家は今週の上昇を予測。 - Vietnam.vn",
+    "timestamp": "2026-08-10T15:56:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1オンスあたり50万ドン下落した。専門家は今週の上昇を予測している。地域的な価格情報で、グローバル市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "金価格が1週間で7%超上昇、背後にある二大要因とは - Record China",
+    "timestamp": "2026-08-10T14:55:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間で7%超上昇。ニュースは既に発生した価格上昇を解説する記事で、背後要因（地政学的緊張やドル弱含みなど）を振り返るもの。投資家への後付け分析。"
+  },
+  {
+    "title": "米原油先物、再び上昇80ドル台に 米イランの交渉停滞懸念で - 日本経済新聞",
+    "timestamp": "2026-08-10T16:53:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が80ドル台に上昇。米イランの核交渉停滞が要因。地政学的リスク要因として認識されているが、既知の懸念事項の再確認。"
   }
 ]
