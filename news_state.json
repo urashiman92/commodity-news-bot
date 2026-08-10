@@ -22,28 +22,6 @@
     "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ情報。日本株指数先物市場の取引環境に関する技術的な情報提供。"
   },
   {
-    "title": "商品市場：MXV指数は3営業日連続で上昇、エネルギーセクターが市場を牽引。 - Vietnam.vn",
-    "timestamp": "2026-08-07T10:43:23+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "ベトナムのMXV指数が3営業日連続で上昇し、エネルギーセクターが買い材料となっている。地域的な商品市場の回復傾向を示唆している。"
-  },
-  {
-    "title": "中東情勢の緊張で原油価格が大幅上昇 - VOV World",
-    "timestamp": "2026-08-07T10:41:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東の地政学的緊張が高まり、原油価格が大幅に上昇した。供給リスクへの懸念が市場心理を押し上げている。具体的な緊張の内容や価格変動幅が不明確であるため、詳細な分析には追加情報が必要。"
-  },
-  {
     "title": "UBSは2027年上半期までに金価格が5,000ドル/オンスに達すると予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-07T12:09:00+00:00",
     "importance": 3,
@@ -1934,5 +1912,71 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金が新高値を更新しブレイクアウトしたと報じられている。一方、CPI指標は市場に織り込まれきっていない状態が続いている。テクニカルな買いシグナルと金利見通しの不確実性が交錯している。"
+  },
+  {
+    "title": "豪州小麦が豊作見通し 世界供給を下支え - CHOSUNBIZ - Chosunbiz",
+    "timestamp": "2026-08-10T05:16:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "オーストラリアの小麦が豊作見通しとなり、世界的な小麦供給の逼迫懸念が緩和される見込み。供給増加により世界市場への下押し圧力が生じる。市場では既に豪州好天の報道が織り込まれつつある。"
+  },
+  {
+    "title": "2026年8月10日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-10T09:14:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金および先物オプション市場の定期ウォッチ記事。市場参加者向けの技術情報提供。金市場への直接的な影響なし。"
+  },
+  {
+    "title": "8月10日午後：金価格が再び上昇。 - vietnam.vn",
+    "timestamp": "2026-08-10T10:13:26+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月10日午後の金価格が再び上昇したことを報じるニュース。具体的な上昇要因や数値は明記されていない。既に進行中の相場トレンドの振り返り・観測記事と考えられる。"
+  },
+  {
+    "title": "国内の金価格は反転し、本日午後には60万ベトナムドン上昇した。 - vietnam.vn",
+    "timestamp": "2026-08-10T10:30:40+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格が反転し、本日午後に60万ベトナムドン上昇した。市場の局所的な価格変動を報じたもの。"
+  },
+  {
+    "title": "NY為替見通し＝ドル円、イラン情勢や原油価格動向を睨みながらの展開か(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-10T10:31:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル円相場の見通しについて、イラン情勢と原油価格動向が主要な注視対象との解説。為替市場の動きを分析するコモンタリー記事であり、原油への直接的な新規情報は含まない。"
+  },
+  {
+    "title": "ブレント原油価格は週初めに1バレルあたり84ドルを超えた。 - vietnam.vn",
+    "timestamp": "2026-08-10T10:09:55+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油価格が週初めに84ドル/バレルを超えた。現在の価格水準を報道する事実記事である。市場の既存動向を伝えるもので、新規のニュースイベントではない。"
   }
 ]
