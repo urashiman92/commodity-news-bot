@@ -1,27 +1,5 @@
 [
   {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Manitoba Co-operator",
-    "timestamp": "2026-08-07T17:04:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "8月のWASDE報告書でトウモロコシと大豆の作付面積・生産量が市場予想を下回る見通しをアナリストが予測している。具体的な数値は報道からは不明だが、市場では小型の作物減収が織り込まれ始めている。供給タイトニングへの懸念が価格上昇圧力につながる可能性。"
-  },
-  {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Manitoba Co-operator",
-    "timestamp": "2026-08-07T17:04:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "8月のWASDE報告書でトウモロコシと大豆の作付面積・生産量が市場予想を下回る見通しをアナリストが予測している。具体的な数値は報道からは不明だが、市場では小型の作物減収が織り込まれ始めている。供給タイトニングへの懸念が価格上昇圧力につながる可能性。"
-  },
-  {
     "title": "US Senate Passes Russia Sanctions Bill Championed by Graham - Bloomberg.com",
     "timestamp": "2026-08-07T17:23:31+00:00",
     "importance": 4,
@@ -185,28 +163,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのアラムコ傘下ジャザン製油所で火災が発生し、その後鎮火されたことが報告された。製油所の操業状況や供給への影響は報道では未詳だが、中東の主要製油施設での火災は供給懸念材料として機能し、原油価格に上方圧力をもたらす可能性がある。"
-  },
-  {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - The Western Producer",
-    "timestamp": "2026-08-07T17:01:26+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "8月WASDE報告書でアナリストがトウモロコシと大豆の作付面積・収量の減少を予測している。同報告書は毎月10日前後に発表される定期統計であり、市場のポジション再調整を促す可能性がある。具体的な数値は記事タイトルのみでは不明だが、作物作況が市場予想を下回る可能性が示唆されている。"
-  },
-  {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - The Western Producer",
-    "timestamp": "2026-08-07T17:01:26+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "8月WASDE報告書でアナリストがトウモロコシと大豆の作付面積・収量の減少を予測している。同報告書は毎月10日前後に発表される定期統計であり、市場のポジション再調整を促す可能性がある。具体的な数値は記事タイトルのみでは不明だが、作物作況が市場予想を下回る可能性が示唆されている。"
   },
   {
     "title": "Saudi Says Fire at Aramco Refinery in Jazan Was Extinguished - Bloomberg.com",
@@ -548,5 +504,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "7月のOPEC原油生産量が前月比117万バレル/日（bpd）増加したことがロイターサーベイで確認された。本数値はOPECの段階的な減産調整解除方針に沿った動きであり、市場予想の範囲内。短期的な上値抵抗になる可能性がある。"
+  },
+  {
+    "title": "DTN Digital Yield Tour Estimates US Average of 178.5 BPA Corn, 52.1 BPA Soybeans for 2026 - DTN Progressive Farmer",
+    "timestamp": "2026-08-10T12:49:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "DTN Digital Yield Tourが2026年の米国平均トウモロコシ収量を178.5 BPA、大豆を52.1 BPAと推定。これらは比較的高い収量水準であり、豊作シナリオを示唆している。市場コンセンサスとの比較が不明であるが、高い収量見通しは供給圧力を強める要因となる。"
+  },
+  {
+    "title": "DTN Digital Yield Tour Estimates US Average of 178.5 BPA Corn, 52.1 BPA Soybeans for 2026 - DTN Progressive Farmer",
+    "timestamp": "2026-08-10T12:49:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "DTN Digital Yield Tourが2026年の米国平均トウモロコシ収量を178.5 BPA、大豆を52.1 BPAと推定。これらは比較的高い収量水準であり、豊作シナリオを示唆している。市場コンセンサスとの比較が不明であるが、高い収量見通しは供給圧力を強める要因となる。"
   }
 ]
