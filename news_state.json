@@ -33,17 +33,6 @@
     "summary": "米7月雇用統計が市場予想を下回る減少を記録し、景気減速懸念が浮上。金は安全資産として買われ、週間7%超の上昇で7ヶ月ぶりの高値を付けた。"
   },
   {
-    "title": "【原油ウォッチ】緊張が続くサウジアラビアvsフーシ派、日本は原油の輸入元の多角化を急げ(1/3) - JBpress",
-    "timestamp": "2026-08-07T21:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアとフーシ派の緊張が継続し、中東での供給リスクが存在。日本は原油輸入元の多角化戦略の強化が課題。既知の地政学的リスクについての解説記事。"
-  },
-  {
     "title": "本日（8月8日）の金価格：金と他の金価格との価格差は縮小しています。 - Vietnam.vn",
     "timestamp": "2026-08-07T22:19:34+00:00",
     "importance": 1,
@@ -526,17 +515,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の不安定化により、米国のエネルギー政策の戦略性欠如が露呈。ロシアが地政学的な混乱から恩恵を受ける構図が指摘される。供給不確実性の高まりで原油相場を支援する要因となる。"
-  },
-  {
-    "title": "【原油ウォッチ】緊張が続くサウジアラビアvsフーシ派、日本は原油の輸入元の多角化を急げ(1/3) - jbpress.ismedia.jp",
-    "timestamp": "2026-08-07T21:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアとフーシ派の緊張が継続し、ホルムズ海峡周辺の供給リスクが存在。日本は原油輸入の多角化が必要との指摘。既知の地政学的リスクの警告解説。"
   },
   {
     "title": "本日（8月9日）の金価格：金地金と金指輪の両方が急騰。 - Vietnam.vn",
@@ -1923,5 +1901,49 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "2025年産大豆の収穫後入札で国産大豆価格が3.9%上昇。九州産が高値で取引された。国内供給量の限定や需要の堅調さを反映。"
+  },
+  {
+    "title": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退 - ロイター",
+    "timestamp": "2026-08-10T20:33:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランが賠償問題で応酬し、ホルムズ海峡の通航再開見通しが後退。地政学的緊張の再高まりにより、原油先物は5%の大幅上昇。供給リスクの急速な顕在化。"
+  },
+  {
+    "title": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退 - ニューズウィーク日本版",
+    "timestamp": "2026-08-10T20:32:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の賠償請求の応酬により地政学的緊張が急速に高まった。ホルムズ海峡の通航安全性への懸念から供給リスクが顕在化。先物5%高騰で市場が大きく反応。"
+  },
+  {
+    "title": "原油先物5％高、米イランが賠償巡り応酬　ホルムズ再開の見通し後退 - ｄメニューニュース",
+    "timestamp": "2026-08-10T20:43:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の賠償問題を巡る応酬により地政学リスクが急増。ホルムズ海峡再開の見通しが後退し、供給懸念が台頭。原油先物が5％上昇で市場に大きなインパクト。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ82ドル安、原油先物2.67ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-10T14:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の動向レポート。ダウ平均は小幅安で推移する一方、原油先物は2.67ドル上昇。詳細な材料は不明だが、市場混合材料を示唆。"
   }
 ]
