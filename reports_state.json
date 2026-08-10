@@ -1,27 +1,5 @@
 [
   {
-    "title": "US Senate Passes Russia Sanctions Bill Championed by Graham - Bloomberg.com",
-    "timestamp": "2026-08-07T17:23:31+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米上院がロシア制裁法案を可決。ロシアはエネルギー・穀物輸出国として世界的に重要で、制裁強化は供給懸念から原油・ガスなどエネルギーコモディティの上昇圧力に。地政学リスク顕在化によりコモディティ全般の買い安全資産シフトも予想される。"
-  },
-  {
-    "title": "US Senate Passes Russia Sanctions Bill Championed by Graham - Bloomberg.com",
-    "timestamp": "2026-08-07T17:23:31+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米上院がロシア制裁法案を可決。ロシアはエネルギー・穀物輸出国として世界的に重要で、制裁強化は供給懸念から原油・ガスなどエネルギーコモディティの上昇圧力に。地政学リスク顕在化によりコモディティ全般の買い安全資産シフトも予想される。"
-  },
-  {
     "title": "Will USDA's WASDE Report Trigger a Grain Market Rally? - Agrolatam",
     "timestamp": "2026-08-07T21:33:45+00:00",
     "importance": 3,
@@ -53,28 +31,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDA のWASDE月間レポート発表が穀物市場に与える影響を分析するコメンタリー。米国の小麦・トウモロコシ・大豆の作付面積、生産量予想、在庫見通しが市場ラリーのトリガーになるかが焦点。具体的な予想数値は提供されていないため詳細判断は困難。"
-  },
-  {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Country Guide",
-    "timestamp": "2026-08-07T17:18:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "8月のWASDEレポートでトウモロコシと大豆の作付面積・生産量が予想より縮小すると予測されている。アナリスト間で小作付面積の見込みが広がっており、供給懸念から価格上昇圧力が強まる可能性が高い。天候不順や農家の作付戦略変更が背景と考えられる。"
-  },
-  {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Country Guide",
-    "timestamp": "2026-08-07T17:18:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "8月のWASDEレポートでトウモロコシと大豆の作付面積・生産量が予想より縮小すると予測されている。アナリスト間で小作付面積の見込みが広がっており、供給懸念から価格上昇圧力が強まる可能性が高い。天候不順や農家の作付戦略変更が背景と考えられる。"
   },
   {
     "title": "Petrobras likely to beat 2026 oil production target, CEO says - Reuters",
@@ -130,28 +86,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナによるドローン攻撃がロシアのイルスキー製油所に火災を引き起こした。ロシアの重要な石油精製インフラへの直撃は供給途絶リスクを高め、欧州・アジア市場への精製製品供給に支障の可能性。地政学的サプライズとして原油価格上昇圧力となる。"
-  },
-  {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Grainews",
-    "timestamp": "2026-08-07T17:22:47+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "8月のWASDE報告書において、アナリストらがトウモロコシと大豆の作付面積・生産量の減少を予想している。これは天候不順や市場環境の影響を反映しており、穀物相場の上昇要因となる可能性が高い。月次定期発表のため織り込みが進む可能性も存在する。"
-  },
-  {
-    "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Grainews",
-    "timestamp": "2026-08-07T17:22:47+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "8月のWASDE報告書において、アナリストらがトウモロコシと大豆の作付面積・生産量の減少を予想している。これは天候不順や市場環境の影響を反映しており、穀物相場の上昇要因となる可能性が高い。月次定期発表のため織り込みが進む可能性も存在する。"
   },
   {
     "title": "Fire extinguished at Aramco refinery in Jazan, Saudi Arabia says - Reuters",
@@ -526,5 +460,27 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "DTN Digital Yield Tourが2026年の米国平均トウモロコシ収量を178.5 BPA、大豆を52.1 BPAと推定。これらは比較的高い収量水準であり、豊作シナリオを示唆している。市場コンセンサスとの比較が不明であるが、高い収量見通しは供給圧力を強める要因となる。"
+  },
+  {
+    "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows - TradingView",
+    "timestamp": "2026-08-10T14:30:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの7月の原油生産量がさらに増加し、湾岸産油国が主導していることがロイターの調査で明らかになった。湾岸諸国（サウジアラビア、UAE等）の増産が全体を牽引。市場予想範囲内の段階的な増産継続の報告。"
+  },
+  {
+    "title": "Opec oil output rises 1.17 million bpd in July, Reuters survey finds - marketscreener.com",
+    "timestamp": "2026-08-10T14:32:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの7月の原油生産量が前月比で117万バレル/日（1.17 million bpd）増加したことがロイター調査で判明した。これはOPECの段階的な減産調整の終了やサウジアラビアなど主要加盟国の生産調整の動きを反映している。供給増加は価格下押し圧力となる可能性がある。"
   }
 ]
