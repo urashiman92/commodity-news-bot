@@ -438,5 +438,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "小麦",
     "summary": "オーストラリアの小麦作柄が回復し、グローバルな供給逼迫局面で重要な時期に生産増が期待される。干ばつ影響からの回復により、世界小麦市場の供給懸念が緩和され、価格下押し圧力が強まる見通し。"
+  },
+  {
+    "title": "Volatile July Weather Likely Dented U.S. Midwest Corn Yields - Successful Farming",
+    "timestamp": "2026-08-10T10:41:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国中西部で7月の不安定な気象がトウモロコシの収量に悪影響を及ぼす可能性が高まっている。異常高温、干ばつ、または降雨不足が生育期の重要な時期に発生したと見られる。今後のWASDEレポート等で減産見通しが織り込まれれば、トウモロコシ価格の上昇圧力となる。"
+  },
+  {
+    "title": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - Reuters",
+    "timestamp": "2026-08-10T13:11:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "オマン沖でロシア制裁対象下のタンカーから大規模な原油流出が発生。流出範囲が広大な海域に拡大している。ロシア産原油の海上輸送に関わる突発的なサプライズイベントであり、グローバルな原油供給懸念とエネルギーセキュリティリスクが急速に高まった。"
+  },
+  {
+    "title": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - Reuters",
+    "timestamp": "2026-08-10T13:11:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "オマン沖でロシア制裁対象下のタンカーから大規模な原油流出が発生。流出範囲が広大な海域に拡大している。ロシア産原油の海上輸送に関わる突発的なサプライズイベントであり、グローバルな原油供給懸念とエネルギーセキュリティリスクが急速に高まった。"
+  },
+  {
+    "title": "Global stocks tick up with Hormuz and inflation in focus - Reuters",
+    "timestamp": "2026-08-10T00:25:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の地政学的リスクとインフレ懸念がコモディティ市場の焦点となっている。グローバル株式の小幅上昇と並行して、原油価格は供給懸念とドル強気相場の相殺作用を受けている。インフレ動向と金融政策の先行き不透明性が全コモディティに影響を及ぼしており、市場の方向性判断が困難な局面。"
+  },
+  {
+    "title": "Global stocks tick up with Hormuz and inflation in focus - Reuters",
+    "timestamp": "2026-08-10T00:25:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ホルムズ海峡の地政学的リスクとインフレ懸念がコモディティ市場の焦点となっている。グローバル株式の小幅上昇と並行して、原油価格は供給懸念とドル強気相場の相殺作用を受けている。インフレ動向と金融政策の先行き不透明性が全コモディティに影響を及ぼしており、市場の方向性判断が困難な局面。"
+  },
+  {
+    "title": "Russia Says 13 Killed in Ukraine Attack on Tatarstan Energy Hub - Bloomberg.com",
+    "timestamp": "2026-08-10T12:17:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのタタールスタン地域のエネルギーハブがウクライナの攻撃を受け、13人が死亡。ロシアの重要なエネルギーインフラが損傷を受けたことで、ロシアの石油・ガス供給能力への懸念が高まる。地政学的緊張の激化がコモディティ市場全体のリスク資産として作用する可能性。"
+  },
+  {
+    "title": "Russia Says 13 Killed in Ukraine Attack on Tatarstan Energy Hub - Bloomberg.com",
+    "timestamp": "2026-08-10T12:17:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアのタタールスタン地域のエネルギーハブがウクライナの攻撃を受け、13人が死亡。ロシアの重要なエネルギーインフラが損傷を受けたことで、ロシアの石油・ガス供給能力への懸念が高まる。地政学的緊張の激化がコモディティ市場全体のリスク資産として作用する可能性。"
   }
 ]
