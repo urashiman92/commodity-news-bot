@@ -1,16 +1,5 @@
 [
   {
-    "title": "China’s Central Bank Adds 20 Tons to Gold Reserves in July - Bloomberg.com",
-    "timestamp": "2026-08-07T08:13:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "中国人民銀行が7月に金準備を20トン増加させた。これは中央銀行による継続的な金買い入れの一環であり、グローバルな金需要強化要因となっている。中国は世界最大の金消費国であり、準備増加は金価格の下支え要因として機能する。"
-  },
-  {
     "title": "USDA August WASDE Preview: Soybean Ratings Slide, But Rains Arrive — Will the 53-Bushel Yield Forecast Hold? - finance.biggo.com",
     "timestamp": "2026-08-07T09:35:00+00:00",
     "importance": 3,
@@ -471,5 +460,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "小麦",
     "summary": "黒海地域の供給途絶によって小麦価格が1週間で最高値を記録した。同地域はウクライナ・ロシアを中心とした世界有数の小麦供給源であり、地政学的紛争や輸送インフラの破壊が供給途絶を引き起こしている。この供給ショックは世界穀物市場全体への波及リスクが高い。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-08-08T00:37:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計により、米国の原油・ガソリン在庫が前週比で減少したと報告された。需要の堅調さが在庫減少の主要因とされている。在庫低下は原油価格の上昇圧力となるシグナル。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-08-08T00:37:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計により、米国の原油・ガソリン在庫が前週比で減少したと報告された。需要の堅調さが在庫減少の主要因とされている。在庫低下は原油価格の上昇圧力となるシグナル。"
+  },
+  {
+    "title": "Special Reports - dtnpf.com",
+    "timestamp": "2026-08-08T19:25:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "リンク先が「Crop Progress/Production」の特別レポートへのポインタのみで、具体的な内容・数値が提供されていません。一般的にはUSDA穀物進捗レポートは作付・生育状況の定期情報を提供しますが、本報告に関する予想値との乖離やサプライズの有無は判定不可能です。"
+  },
+  {
+    "title": "Special Reports - dtnpf.com",
+    "timestamp": "2026-08-08T19:25:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "リンク先が「Crop Progress/Production」の特別レポートへのポインタのみで、具体的な内容・数値が提供されていません。一般的にはUSDA穀物進捗レポートは作付・生育状況の定期情報を提供しますが、本報告に関する予想値との乖離やサプライズの有無は判定不可能です。"
+  },
+  {
+    "title": "Special Reports - dtnpf.com",
+    "timestamp": "2026-08-08T19:25:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "リンク先が「Crop Progress/Production」の特別レポートへのポインタのみで、具体的な内容・数値が提供されていません。一般的にはUSDA穀物進捗レポートは作付・生育状況の定期情報を提供しますが、本報告に関する予想値との乖離やサプライズの有無は判定不可能です。"
   }
 ]
