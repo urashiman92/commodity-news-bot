@@ -1,38 +1,5 @@
 [
   {
-    "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
-    "timestamp": "2026-08-07T14:41:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によるUSA原油在庫が週間ベースで増加した。在庫の積み増しは原油供給の相対的な緩和を示唆し、価格圧力となる傾向。具体的な増加量が記事から特定できないため、詳細な影響度は判断困難。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
-    "timestamp": "2026-08-07T14:42:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間ベースで増加したことが報告された。在庫の積み増しは需要の弱さまたは供給過剰を示唆し、原油価格に対する下押し圧力となる。具体的な在庫増加量や絶対水準は記事から不明。"
-  },
-  {
-    "title": "Copper 'Fingerprint' Reveals New Drill Targets Beyond Known Mineralized Corridor - Streetwise Reports",
-    "timestamp": "2026-08-07T15:14:37+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅鉱床の「フィンガープリント」技術を用いた地球化学的分析により、既知の鉱化帯の外側に新たなドリルターゲットが特定された。この探査技術の進展は、銅資源の拡張可能性を示唆し、中期的な供給サイドの安定性向上に貢献する可能性がある。"
-  },
-  {
     "title": "CBOT Weekly: Analysts predict smaller corn, soy crops in August WASDE report - Manitoba Co-operator",
     "timestamp": "2026-08-07T17:04:12+00:00",
     "importance": 3,
@@ -515,5 +482,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアのタタールスタン地域のエネルギーハブがウクライナの攻撃を受け、13人が死亡。ロシアの重要なエネルギーインフラが損傷を受けたことで、ロシアの石油・ガス供給能力への懸念が高まる。地政学的緊張の激化がコモディティ市場全体のリスク資産として作用する可能性。"
+  },
+  {
+    "title": "RFD-TV State Crop Progress and Livestock Production Weekly Update — Monday, August 10, 2026 - RFD-TV",
+    "timestamp": "2026-08-10T14:53:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年8月10日のRFD-TV週次穀物進捗レポート。米国主要農業地帯の作物進捗状況と家畜生産動向を定期報告。具体的データへのアクセスが制限されているため、市場への影響度は判定困難。通常の週次統計更新の可能性が高い。"
+  },
+  {
+    "title": "RFD-TV State Crop Progress and Livestock Production Weekly Update — Monday, August 10, 2026 - RFD-TV",
+    "timestamp": "2026-08-10T14:53:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年8月10日のRFD-TV週次穀物進捗レポート。米国主要農業地帯の作物進捗状況と家畜生産動向を定期報告。具体的データへのアクセスが制限されているため、市場への影響度は判定困難。通常の週次統計更新の可能性が高い。"
+  },
+  {
+    "title": "RFD-TV State Crop Progress and Livestock Production Weekly Update — Monday, August 10, 2026 - RFD-TV",
+    "timestamp": "2026-08-10T14:53:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年8月10日のRFD-TV週次穀物進捗レポート。米国主要農業地帯の作物進捗状況と家畜生産動向を定期報告。具体的データへのアクセスが制限されているため、市場への影響度は判定困難。通常の週次統計更新の可能性が高い。"
+  },
+  {
+    "title": "RFD-TV State Crop Progress and Livestock Production Weekly Update — Monday, August 10, 2026 - RFD-TV",
+    "timestamp": "2026-08-10T14:53:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年8月10日のRFD-TV週次穀物進捗レポート。米国主要農業地帯の作物進捗状況と家畜生産動向を定期報告。具体的データへのアクセスが制限されているため、市場への影響度は判定困難。通常の週次統計更新の可能性が高い。"
+  },
+  {
+    "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows - Reuters",
+    "timestamp": "2026-08-10T14:33:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "7月のOPEC石油生産量が増加し、湾岸産油国が主導したとロイターの調査で示された。これは既知の産出動向の継続であり、市場予想の範囲内の変化と判断される。OPEC増産傾向の確認は原油相場に上値材料となるが、劇的なサプライズではない。"
+  },
+  {
+    "title": "OPEC oil output rises 1.17 million bpd in July, Reuters survey finds - TradingView",
+    "timestamp": "2026-08-10T14:30:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "7月のOPEC原油生産量が前月比117万バレル/日（bpd）増加したことがロイターサーベイで確認された。本数値はOPECの段階的な減産調整解除方針に沿った動きであり、市場予想の範囲内。短期的な上値抵抗になる可能性がある。"
   }
 ]
