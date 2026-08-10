@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY原油・金相場（7日）－原油が続伸 金は大幅反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-07T22:02:16+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油が続伸し、金が大幅反発した。相場の技術的な反発や短期的な需給調整による値動き。"
-  },
-  {
     "title": "NY金先物は反発、弱い米雇用統計でFRB利下げ観測が強まりドル安・金利低下が支援｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-08-07T22:44:00+00:00",
     "importance": 4,
@@ -33,17 +22,6 @@
     "summary": "米7月雇用統計が市場予想を下回る減少を記録し、景気減速懸念が浮上。金は安全資産として買われ、週間7%超の上昇で7ヶ月ぶりの高値を付けた。"
   },
   {
-    "title": "本日（8月8日）の金価格：金と他の金価格との価格差は縮小しています。 - Vietnam.vn",
-    "timestamp": "2026-08-07T22:19:34+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムにおける8月8日の金価格について、国内金と国際金の価格差が縮小していることを報じている。相場動向の解説・振り返りニュース。"
-  },
-  {
     "title": "NY市場動向（取引終了）:ダウ151.83ドル高（速報）、原油先物0.21ドル安｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-08-07T23:34:00+00:00",
     "importance": 1,
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場ではダウ平均が151.83ドル上昇した一方、WTI原油先物は0.21ドル下落。株式市場と原油の方向性が乖離する典型的な取引終了時点の市場動向報告。"
-  },
-  {
-    "title": "世界食料価格、３年半ぶり高水準＝穀物や植物油値上がり―７月 - ｄメニューニュース",
-    "timestamp": "2026-08-07T22:19:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "FAO発表の7月世界食料価格指数が3年半ぶりの高水準を記録。穀物と植物油の値上がりが主因。供給懸念と需要の堅調さが価格を支援。"
   },
   {
     "title": "本日（8月8日）の金価格：国内金価格と国際金価格の差が縮小しました。 - Vietnam.vn",
@@ -1945,5 +1912,115 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午前10時台の動向レポート。ダウ平均は小幅安で推移する一方、原油先物は2.67ドル上昇。詳細な材料は不明だが、市場混合材料を示唆。"
+  },
+  {
+    "title": "今日の金価格（8月11日）：金は突破口を待っているのか？ - Vietnam.vn",
+    "timestamp": "2026-08-10T21:53:12+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が次の突破口を待機している状況についての相場解説記事。市場が方向性を模索中であることを示唆しており、具体的なファンダメンタルズ変化ではなく、テクニカル的な局面評価。"
+  },
+  {
+    "title": "NY為替：米イラン交渉の行方が不透明となりNY原油価格が上昇 - ｄメニューニュース",
+    "timestamp": "2026-08-10T22:18:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン交渉の先行き不透明化により、中東地政学リスク懸念が高まった。原油供給途絶リスク要因として価格を押し上げている。交渉進展状況の不確実性が相場変動要因。"
+  },
+  {
+    "title": "NY為替：米イラン交渉の行方が不透明となりNY原油価格が上昇 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-10T21:39:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン核交渉の先行き不透明感を受けNY原油価格が上昇。地政学的リスク要因の高まりが相場を支持。イラン産原油の供給制限懸念が背景。"
+  },
+  {
+    "title": "トランプ氏、イランに「報復的賠償要求」…WTIが5%急騰、NY株式市場は下落 - BigGo ファイナンス",
+    "timestamp": "2026-08-10T21:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイランへの報復的賠償要求を表明。地政学的緊張の高まりにより供給懸念が急速に拡大。WTIは5%急騰し市場は敏感に反応。"
+  },
+  {
+    "title": "原油先物5％高、米イランが賠償巡り応酬 ホルムズ再開の見通し後退（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-08-10T20:37:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの賠償問題を巡る緊張が高まり、ホルムズ海峡再開の見通しが後退。地政学的リスクが顕在化し、原油先物が5%上昇。供給途絶懸念が買いを誘った。"
+  },
+  {
+    "title": "米国コーンベルトの干ばつと輸出混乱がコーン先物を狭いレンジにとどめる - Traders Union",
+    "timestamp": "2026-08-10T17:14:39+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米国コーンベルトの干ばつと輸出混乱という相反する要因がコーン先物相場を狭いレンジに押さえ込んでいる。供給リスク（干ばつ）と需要減退リスク（輸出混乱）が相殺している状況。"
+  },
+  {
+    "title": "レジスタンス付近でのもみ合い：コーン先物価格は上値を試せるか？ - Traders Union",
+    "timestamp": "2026-08-10T12:47:38+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がレジスタンス水準付近でもみ合い状態。テクニカル観点から上値抵抗への接近を指摘した相場解説。具体的なファンダメンタル要因の記載なし。"
+  },
+  {
+    "title": "大豆先物、USX1,174サポート付近での価格もみ合い：テクニカル見通し - Traders Union",
+    "timestamp": "2026-08-10T12:19:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,174ドル近辺でもみ合い相場となっていることについてのテクニカル分析記事。特定のサポートレベル付近での値動きを技術的に解説した観測コメント。"
+  },
+  {
+    "title": "銅価格予想：強気派は$6,725のレジスタンス突破を狙い、HGは$6.61付近を維持 - Traders Union",
+    "timestamp": "2026-08-10T14:09:42+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は$6.61付近で推移中。強気派は$6,725のレジスタンス突破を狙っている。アナリスト見解に基づく相場予想の提示。"
+  },
+  {
+    "title": "銅価格は$6,635のレジスタンス付近で揉み合い：テクニカル見通し - Traders Union",
+    "timestamp": "2026-08-10T12:13:47+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が$6,635のレジスタンスレベル付近で値動き幅を限定している。テクニカル分析に基づいた相場観測。ファンダメンタルズの新たな材料ではなく、技術的な価格水準の議論。"
   }
 ]
