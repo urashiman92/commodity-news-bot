@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の金価格が急騰し、国内価格と国際価格の差が縮まっている。 - Vietnam.vn",
-    "timestamp": "2026-08-07T16:28:42+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が急騰しており、ベトナムの国内金価格と国際価格のスプレッドが縮小している。国際金相場の上昇トレンドが継続し、各国市場での価格収斂が進行中。"
-  },
-  {
     "title": "ホルムズ海峡再開計画への懸念から、原油価格が上昇した。 - vietnam.vn",
     "timestamp": "2026-08-07T17:17:02+00:00",
     "importance": 3,
@@ -141,17 +130,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの8月8日時点の金価格について、国内金価格と国際金価格のスプレッド（価格差）が縮小したことを報じた相場解説。地域的な価格収束を示すが、グローバル金市場への直接的なインパクトは限定的。"
-  },
-  {
-    "title": "3日間で300ドル上昇！金価格がショートスクイーズを発生させ、買い追いの相場はなお終わらない可能性 - Moomoo",
-    "timestamp": "2026-08-07T16:48:31+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3日間で300ドル上昇し、ショートスクイーズが発生している。買い追いの相場が継続している可能性が指摘されている。テクニカル的な売り圧力解放が価格上昇を牽引している。"
   },
   {
     "title": "8月8日朝の金価格更新:引き続き上昇 - Laodong.vn",
@@ -405,17 +383,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇がインフレ懸念を再燃させている。インド株指数への悪影響が懸念される。エネルギーコスト上昇が新興国経済に圧力。"
-  },
-  {
-    "title": "8月7日のSouthern Copper Corp (SCCO) 値動きは3.53%上昇：完全な分析 - TradingKey",
-    "timestamp": "2026-08-07T16:16:15+00:00",
-    "importance": 1,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "Southern Copper Corp (SCCO)が8月7日に3.53%上昇した。単一企業の日中値動きの解説記事であり、銅相場全体への構造的な影響は不明。"
   },
   {
     "title": "2026年8月8日午後の金価格：9999金、指輪、世界の金の価格。 - Vietnam.vn",
@@ -1934,5 +1901,49 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "中国国内トウモロコシ価格が先週も軟調に推移した。供給過剰や需要低迷の継続を示唆する動き。"
+  },
+  {
+    "title": "本日2026年8月11日の金価格は約8％上昇し、利益確定の機会が生まれたものの、市場は依然として非常に不安定な状態にある。その理由は、中国の金購入ペースの加速にある。 - Vietnam.vn",
+    "timestamp": "2026-08-10T16:13:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が8%上昇し利益確定の機会が出現。中国の加速する金購入が買い圧力の主要因。市場は依然高いボラティリティを維持している。"
+  },
+  {
+    "title": "NY市場動向（午後0時台）：ダウ42ドル安、原油先物3.06ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-10T16:19:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午後の動き。原油先物が3.06ドル高となり、同時期にダウが42ドル安で推移している。市場内での相対的な値動きを報じた相場リポート。"
+  },
+  {
+    "title": "ホルムズ海峡の不安定化に伴う株式市場と原油価格の動向。 - Vietnam.vn",
+    "timestamp": "2026-08-10T14:32:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の不安定化が報じられ、原油価格上昇圧力となっている。世界原油供給の約30%がこの海峡を通過するため、地政学リスクが顕在化。株式市場も連動した値動きを見せている。"
+  },
+  {
+    "title": "川栄李奈＆森川葵、トークの奪い合いバトル勃発！？間に挟まれた内野聖陽はタジタジ… 映画『アングリースクワッド 公務員と7人の詐欺師』上映前初日舞台あいさつ Copper Price (iVRsWl1kdj) - Mshale",
+    "timestamp": "2026-08-10T14:48:27+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "映画『アングリースクワッド 公務員と7人の詐欺師』の舞台あいさつに関する記事。キャスト（川栄李奈、森川葵、内野聖陽）のトークイベントを報道したもの。銅や商品市場とは無関係。"
   }
 ]
