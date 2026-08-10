@@ -1,27 +1,5 @@
 [
   {
-    "title": "【UBS予測】金価格、2027年初頭に5000ドル到達へ FRB利下げ再開で - BigGo ファイナンス",
-    "timestamp": "2026-08-07T11:25:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "UBSが2027年初頭の金価格が5000ドルに到達すると予測。FRB利下げ再開を背景とした長期見通し。金利低下で無利息資産の金に資金流入の可能性。"
-  },
-  {
-    "title": "2026年8月7日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-07T11:19:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ情報。日本株指数先物市場の取引環境に関する技術的な情報提供。"
-  },
-  {
     "title": "UBSは2027年上半期までに金価格が5,000ドル/オンスに達すると予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-07T12:09:00+00:00",
     "importance": 3,
@@ -451,17 +429,6 @@
     "summary": "原油価格の下落が金価格の上昇につながる可能性を指摘するコメンタリー。原油と金は逆相関の傾向があり、エネルギーコスト低下がインフレ圧力軽減から金需要増加につながるという論理。"
   },
   {
-    "title": "来週（8/10～8/14）の日経平均株価の予想レンジは6万3000～6万9000円！ 中東情勢と原油価格に警戒しつつ、調整一巡のAI･半導体関連の押し目を狙おう！ - ダイヤモンド・オンライン",
-    "timestamp": "2026-08-07T11:40:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "来週の日経平均株価予想レンジを提示するコメンタリー記事。中東情勢と原油価格への言及があるが、具体的な新規情報やイベント発表ではなく市場展開予測。"
-  },
-  {
     "title": "金価格の新たな予測 - Vietnam.vn",
     "timestamp": "2026-08-08T04:40:30+00:00",
     "importance": 2,
@@ -515,17 +482,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇がインフレ懸念を再燃させている。インド株指数への悪影響が懸念される。エネルギーコスト上昇が新興国経済に圧力。"
-  },
-  {
-    "title": "銅価格が先ほど史上最高値を更新し、1ポンドあたり6.816ドルに達しました。 - Moomoo",
-    "timestamp": "2026-08-07T11:25:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が史上最高値の1ポンドあたり6.816ドルを更新。需要堅調と供給逼迫が背景。EV普及やエネルギー転換による中期的な需給タイト化を反映。"
   },
   {
     "title": "8月7日のSouthern Copper Corp (SCCO) 値動きは3.53%上昇：完全な分析 - TradingKey",
@@ -1978,5 +1934,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ブレント原油価格が週初めに84ドル/バレルを超えた。現在の価格水準を報道する事実記事である。市場の既存動向を伝えるもので、新規のニュースイベントではない。"
+  },
+  {
+    "title": "米雇用指標の弱含みでバイナンス金先物が25億ドル急増 - BeInCrypto",
+    "timestamp": "2026-08-10T10:24:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国の雇用指標が弱い結果となったことを受けて、バイナンス金先物に25億ドルの急増が報告された。これは暗号資産市場における金関連商品への資金流入を示唆している。"
+  },
+  {
+    "title": "銅とコバルトの価格が急騰し、核心鉱物の供給網の確保が国内産業界の主要課題として浮上している。 電気自動車·バッテリーとAI拡散による電力インフラストラクチャー投資で需要が増える中で、気象異変と資源保有.. - 매일경제",
+    "timestamp": "2026-08-10T08:54:53+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "EV・バッテリー・AI関連インフラ投資による銅・コバルト需要増加が見込まれる中、気象変動と地政学的リスクが供給網の不安定性を高めている。韓国産業界が核心鉱物の調達確保を重要課題として認識。"
   }
 ]
