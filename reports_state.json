@@ -33,17 +33,6 @@
     "summary": "USDA のWASDE月間レポート発表が穀物市場に与える影響を分析するコメンタリー。米国の小麦・トウモロコシ・大豆の作付面積、生産量予想、在庫見通しが市場ラリーのトリガーになるかが焦点。具体的な予想数値は提供されていないため詳細判断は困難。"
   },
   {
-    "title": "Petrobras likely to beat 2026 oil production target, CEO says - Reuters",
-    "timestamp": "2026-08-07T20:33:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ブラジルの国営石油会社ペトロブラスのCEOが、2026年の石油生産目標を上回る可能性があると発表。同社は生産能力の拡大と新規プロジェクトの進捗により、従来の目標を超過達成する見通しを示した。ブラジルは世界有数の産油国であり、供給増加予想は市場に影響を与える。"
-  },
-  {
     "title": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
     "timestamp": "2026-08-07T22:20:38+00:00",
     "importance": 4,
@@ -515,5 +504,49 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDAが8月WASDEレポートで今後の穀物作付面積・生産量見通しを再評価する。トウモロコシ、大豆、小麦の供給見通しが改めて検討される定期統計発表。気象条件や生育進捗を織り込んだ数字が焦点となり、市場予想との乖離幅により相場が反応する可能性がある。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-10T21:03:20.294493+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗状況と生育状況を定期更新。市場では予想されていた発表だが、具体的な進捗率データがないため影響度は限定的。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-10T21:03:20.294493+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗状況と生育状況を定期更新。市場では予想されていた発表だが、具体的な進捗率データがないため影響度は限定的。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-10T21:03:20.294493+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗状況と生育状況を定期更新。市場では予想されていた発表だが、具体的な進捗率データがないため影響度は限定的。"
+  },
+  {
+    "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows - marketscreener.com",
+    "timestamp": "2026-08-10T14:31:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ロイター調査によると、OPEC加盟国の石油生産量が7月さらに増加し、湾岸産油国が主導したことが判明。供給増加トレンドが継続している状況を示唆。生産回復ペースは市場予想の範囲内と考えられる。"
   }
 ]
