@@ -22,17 +22,6 @@
     "summary": "ベトナムの金市場における世界価格と国内価格のスプレッドが縮小したことを報じるニュース。8月7日の金価格の値動きについての観測記事。"
   },
   {
-    "title": "本日（8月7日）の燃料価格：世界の原油価格は上昇、国内価格は軒並み下落。 - Vietnam.vn",
-    "timestamp": "2026-08-07T06:49:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月7日時点で世界原油価格は上昇局面にある一方、ベトナム国内燃料価格は下落。国内価格と国際価格の乖離を報じた日次相場コメンタリー。"
-  },
-  {
     "title": "国際銅価格が年初来高値に迫る、コンゴ精鉱輸出禁止で供給逼迫警戒 - BigGo ファイナンス",
     "timestamp": "2026-08-07T07:25:00+00:00",
     "importance": 4,
@@ -295,17 +284,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月7日の金価格は一部地域で下落、他地域で急騰と方向性が分かれた。市場参加者による相場振り返り記事と考えられる。具体的な価格変動幅や要因が明記されていない。"
-  },
-  {
-    "title": "$金先物(2612) (GCmain.US)$ 再び高値更新を狙う - Moomoo",
-    "timestamp": "2026-08-07T06:43:03+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物が高値更新を目指す展開を示唆するコメンタリー。具体的なニュース内容は記事URLが不完全のため詳細不明。テクニカル分析に基づく相場観の提示と思われる。"
   },
   {
     "title": "日銀、警戒強める「AI発インフレ」 原油価格下落後の火種に - 日本経済新聞",
@@ -581,17 +559,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油ETFが3.52%上昇した。ただしニュース概要に具体的な材料が記載されていない。単なる日次の値動き報告と見られる。"
-  },
-  {
-    "title": "高騰する原油価格がもたらした影響…2強のコンビニが好調な業績を記録 - jp.ajunews.com",
-    "timestamp": "2026-08-07T06:40:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油高騰がコンビニ業績に好影響を与えた例として報じられている。これはコンビニの燃料・物流コスト上昇が必ずしも悪影響に限定されず、客数増加や商品単価上昇で相殺された可能性を示唆。"
   },
   {
     "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、小麦が上昇 銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -2011,5 +1978,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中国7月統計で原油価格下落がCPI低下に寄与。PPIの上昇ペースも鈍化。需要減速とエネルギー価格下押しが継続中。"
+  },
+  {
+    "title": "豪州小麦が豊作見通し 世界供給を下支え - Chosunbiz",
+    "timestamp": "2026-08-10T05:16:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "豪州の小麦が豊作見通しとなり、世界的な小麦供給が増加する見込み。供給増加は国際相場の下押し要因となる可能性がある。既に豊作予想は市場で認識されている段階。"
+  },
+  {
+    "title": "本日（8月10日午後）の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-08-10T05:48:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月10日午後の金価格が全般的に下落した。ベトナムローカルの相場レポートであり、グローバルな新規材料ではない。既に織り込まれた値動きの確認報道。"
+  },
+  {
+    "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ロイター",
+    "timestamp": "2026-08-10T05:46:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再開時期が不透明なままであり、供給リスク要因が解消されていない。この不確実性が原油先物を押し上げている。地政学的なリスクプレミアムが継続している。"
+  },
+  {
+    "title": "ホルムズ海峡の再開をめぐる不透明感から原油価格が上昇 - arabnews.jp",
+    "timestamp": "2026-08-10T02:08:18+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再開時期が不透明であることが、供給途絶リスクの認識を高めている。世界原油供給の約3割が通過する重要海峡の通行制限は、供給ショックの可能性を意識させる。地政学的リスク要因として原油価格を押し上げている。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-08-10T06:12:55+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の取引情報を示すMoomooのページ。具体的な価格変動やニュースイベントの記載がなく、単なるプラットフォーム表示のみ。"
+  },
+  {
+    "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ニューズウィーク日本版",
+    "timestamp": "2026-08-10T05:45:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再開時期が不透明なため、供給途絶リスクが継続している。原油先物は上昇し、市場は地政学的リスクプレミアムを織り込んでいる。海峡の通航再開がいつになるかが価格変動の焦点。"
+  },
+  {
+    "title": "外為サマリー：１５８円３０銭前後で推移、原油価格の上昇もドル買い要因に - 株探",
+    "timestamp": "2026-08-10T06:41:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の上昇がドル買い要因となり、ドル円相場が158円30銭前後で推移している。原油高とドル強化の相関関係を指摘する市場解説。"
+  },
+  {
+    "title": "今週の経済ニュース：銅価格が示す好景気の兆し、米国の債務残高が40兆ドルに迫る、対中依存低減に向けたトランプの20億ドルの公約、ほか - Benzinga Japan",
+    "timestamp": "2026-08-09T10:51:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が好景気の先行指標として上昇を示唆。米国債務増加と中国依存低減の対策が並行して進む。銅需要の中期的な堅調性が市場で認識されている。"
+  },
+  {
+    "title": "中国非鉄金属企業、上半期の利益が94%増、AI需要で関連金属が高騰 - ニコニコニュース",
+    "timestamp": "2026-08-10T06:00:19+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "中国非鉄金属企業の上半期利益が94%増加し、AI需要に支えられた。銅をはじめとする関連金属価格が高騰傾向を示している。需要サイドの強気シグナルが価格下支え要因となっている。"
   }
 ]
