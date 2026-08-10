@@ -1,38 +1,5 @@
 [
   {
-    "title": "Will USDA's WASDE Report Trigger a Grain Market Rally? - Agrolatam",
-    "timestamp": "2026-08-07T21:33:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA のWASDE月間レポート発表が穀物市場に与える影響を分析するコメンタリー。米国の小麦・トウモロコシ・大豆の作付面積、生産量予想、在庫見通しが市場ラリーのトリガーになるかが焦点。具体的な予想数値は提供されていないため詳細判断は困難。"
-  },
-  {
-    "title": "Will USDA's WASDE Report Trigger a Grain Market Rally? - Agrolatam",
-    "timestamp": "2026-08-07T21:33:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA のWASDE月間レポート発表が穀物市場に与える影響を分析するコメンタリー。米国の小麦・トウモロコシ・大豆の作付面積、生産量予想、在庫見通しが市場ラリーのトリガーになるかが焦点。具体的な予想数値は提供されていないため詳細判断は困難。"
-  },
-  {
-    "title": "Will USDA's WASDE Report Trigger a Grain Market Rally? - Agrolatam",
-    "timestamp": "2026-08-07T21:33:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA のWASDE月間レポート発表が穀物市場に与える影響を分析するコメンタリー。米国の小麦・トウモロコシ・大豆の作付面積、生産量予想、在庫見通しが市場ラリーのトリガーになるかが焦点。具体的な予想数値は提供されていないため詳細判断は困難。"
-  },
-  {
     "title": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
     "timestamp": "2026-08-07T22:20:38+00:00",
     "importance": 4,
@@ -548,5 +515,71 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "ロイター調査によると、OPEC加盟国の石油生産量が7月さらに増加し、湾岸産油国が主導したことが判明。供給増加トレンドが継続している状況を示唆。生産回復ペースは市場予想の範囲内と考えられる。"
+  },
+  {
+    "title": "Could One USDA Report Wipe Billions Off Grain Markets Overnight? - Agrolatam",
+    "timestamp": "2026-08-10T21:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDEレポートが穀物市場に数十億ドル規模の価格変動をもたらす可能性があることを指摘している。単一の公式統計発表が市場全体に劇的な影響を与える可能性を強調。供給見通しの大幅な上方/下方修正が価格に直撃する構図を警告している。"
+  },
+  {
+    "title": "Could One USDA Report Wipe Billions Off Grain Markets Overnight? - Agrolatam",
+    "timestamp": "2026-08-10T21:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDEレポートが穀物市場に数十億ドル規模の価格変動をもたらす可能性があることを指摘している。単一の公式統計発表が市場全体に劇的な影響を与える可能性を強調。供給見通しの大幅な上方/下方修正が価格に直撃する構図を警告している。"
+  },
+  {
+    "title": "Could One USDA Report Wipe Billions Off Grain Markets Overnight? - Agrolatam",
+    "timestamp": "2026-08-10T21:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDEレポートが穀物市場に数十億ドル規模の価格変動をもたらす可能性があることを指摘している。単一の公式統計発表が市場全体に劇的な影響を与える可能性を強調。供給見通しの大幅な上方/下方修正が価格に直撃する構図を警告している。"
+  },
+  {
+    "title": "Could One USDA Report Wipe Billions Off Grain Markets Overnight? - Agrolatam",
+    "timestamp": "2026-08-10T21:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDA WASDEレポートが穀物市場に数十億ドル規模の価格変動をもたらす可能性があることを指摘している。単一の公式統計発表が市場全体に劇的な影響を与える可能性を強調。供給見通しの大幅な上方/下方修正が価格に直撃する構図を警告している。"
+  },
+  {
+    "title": "Corn quality holds steady while soybeans slip in USDA report - Farm Progress",
+    "timestamp": "2026-08-10T19:53:36+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポートでトウモロコシの品質は安定を維持した一方で、大豆の品質が低下傾向を示した。両穀物の作況進捗に対する品質の相対的な乖離は、将来の歩留まりと収量見通しに影響を与える可能性がある。定期的な作況更新として市場の大きな織り込み対象外と見られる。"
+  },
+  {
+    "title": "Corn quality holds steady while soybeans slip in USDA report - Farm Progress",
+    "timestamp": "2026-08-10T19:53:36+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progressレポートでトウモロコシの品質は安定を維持した一方で、大豆の品質が低下傾向を示した。両穀物の作況進捗に対する品質の相対的な乖離は、将来の歩留まりと収量見通しに影響を与える可能性がある。定期的な作況更新として市場の大きな織り込み対象外と見られる。"
   }
 ]
