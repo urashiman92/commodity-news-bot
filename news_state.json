@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY市場動向（午前10時台）：ダウ43ドル高、原油先物0.24ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-07T14:59:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前10時台の相場速報。ダウ平均43ドル高、WTI原油先物0.24ドル高で推移。定期的な市場レポートの一環。"
-  },
-  {
     "title": "世界の金価格が急騰し、国内価格と国際価格の差が縮まっている。 - Vietnam.vn",
     "timestamp": "2026-08-07T16:28:42+00:00",
     "importance": 3,
@@ -1912,5 +1901,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の再開見通しが悪化したことで、原油供給リスクが高まった。中東地政学の緊張反映で原油価格が上昇。世界最大級の石油輸送ルートの途絶リスクは供給逼迫シナリオを織り込む。"
+  },
+  {
+    "title": "国際原油価格が3%超上昇、米石油・ガス株が全面高——アパッチが5%超高でけん引 - BigGo ファイナンス",
+    "timestamp": "2026-08-10T15:05:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油価格が3%超上昇し、米石油・ガス関連株が買われた。アパッチが5%超高でけん引している。既に織り込まれた相場反応の振り返り。"
+  },
+  {
+    "title": "中国の物価関連統計（26年7月）～原油価格下落の影響でCPIは低下、PPIの上昇も一服 - nli-research.co.jp",
+    "timestamp": "2026-08-10T01:49:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中国の2026年7月統計で、原油価格下落がCPI低下に寄与。PPIの上昇ペースも鈍化。需要大国の物価動向が原油相場へのダウンサイドプレッシャーを示唆。"
+  },
+  {
+    "title": "中国国内トウモロコシ価格は先週、軟調なまま推移した - Sunsirs",
+    "timestamp": "2026-08-10T02:10:02+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "中国国内トウモロコシ価格が先週も軟調に推移した。供給過剰や需要低迷の継続を示唆する動き。"
   }
 ]
