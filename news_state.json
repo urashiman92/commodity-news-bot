@@ -1,27 +1,5 @@
 [
   {
-    "title": "NY市場動向（取引終了）:ダウ151.83ドル高（速報）、原油先物0.21ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-07T23:34:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場ではダウ平均が151.83ドル上昇した一方、WTI原油先物は0.21ドル下落。株式市場と原油の方向性が乖離する典型的な取引終了時点の市場動向報告。"
-  },
-  {
-    "title": "本日（8月8日）の金価格：国内金価格と国際金価格の差が縮小しました。 - Vietnam.vn",
-    "timestamp": "2026-08-07T23:38:55+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの8月8日時点の金価格について、国内金価格と国際金価格のスプレッド（価格差）が縮小したことを報じた相場解説。地域的な価格収束を示すが、グローバル金市場への直接的なインパクトは限定的。"
-  },
-  {
     "title": "8月8日朝の金価格更新:引き続き上昇 - Laodong.vn",
     "timestamp": "2026-08-08T00:26:37+00:00",
     "importance": 2,
@@ -2033,5 +2011,27 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "大豆先物がUSDA需給報告の発表を控えて上昇している。同報告は需給見通しの重要な指標として市場の注視を集めている。報告内容次第で相場が大きく変動する可能性がある。"
+  },
+  {
+    "title": "2026年8月11日現在の金価格：急騰後、価格は落ち着きを見せ、国内の金価格は勢いを失いつつある。 - Vietnam.vn",
+    "timestamp": "2026-08-10T23:21:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムでの金価格が急騰後に落ち着きを見せており、国内での上昇勢いが減速している。既に上昇した金価格が調整局面に入った状況の報道。"
+  },
+  {
+    "title": "本日の燃料価格（8月11日）：世界の原油価格が急騰、ブレント原油は88ドル近辺。 - Vietnam.vn",
+    "timestamp": "2026-08-10T23:34:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が88ドル近辺で推移し、世界的に原油価格が急騰している。記事はベトナムの燃料価格を報じたもので、上昇トレンドを反映している。"
   }
 ]
