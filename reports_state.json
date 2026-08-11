@@ -592,5 +592,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国とイランの外交的膠着状態の継続が背景となり、原油価格は上昇基調を見せている。中東地政学リスクへの警戒が供給懸念を支えており、価格の上昇圧力が働いている。一方、アジア株式市場は方向感を欠いており、コモディティ価格上昇がリスク資産に与える影響は限定的な状況。"
+  },
+  {
+    "title": "Corn quality holds steady while soybeans slip in USDA report - farmprogress.com",
+    "timestamp": "2026-08-10T19:53:36+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress定期レポートでトウモロコシの品質は安定を維持する一方で、大豆の品質が前週比で悪化した。天候やその他の条件による作物生育進度の通常的な変動を示唆するもので、全体的には市場予想の範囲内の進捗状況である。"
+  },
+  {
+    "title": "Corn quality holds steady while soybeans slip in USDA report - farmprogress.com",
+    "timestamp": "2026-08-10T19:53:36+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress定期レポートでトウモロコシの品質は安定を維持する一方で、大豆の品質が前週比で悪化した。天候やその他の条件による作物生育進度の通常的な変動を示唆するもので、全体的には市場予想の範囲内の進捗状況である。"
+  },
+  {
+    "title": "Oil Holds Three-Day Gain as Trump Demands Cloud Hormuz Outlook - Bloomberg.com",
+    "timestamp": "2026-08-10T22:02:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がホルムズ海峡の見通しに関して発言し、原油相場が3営業日連続の上昇を維持している。ホルムズ海峡は世界の石油供給の約3割が通過する重要な海上ルートであり、地政学的なリスク要因として原油価格を下支えしている。"
   }
 ]
