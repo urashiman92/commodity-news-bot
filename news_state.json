@@ -2187,5 +2187,71 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ先物がテクニカル分析に基づいて売り圧力の強まりを指摘されている。アナリスト見解であり、既に市場で織り込まれている可能性が高い。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、供給懸念高まる - ロイター",
+    "timestamp": "2026-08-11T20:12:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新し、供給懸念が強まっている。市場心理として供給リスク要因が意識されている局面。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、供給懸念高まる - ニューズウィーク日本版",
+    "timestamp": "2026-08-11T20:11:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新し、供給懸念の高まりが価格を支えている。市場の注目は供給サイドのリスク要因に集まっており、短期的な上値圧力が継続する状況。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、供給懸念高まる - ｄメニューニュース",
+    "timestamp": "2026-08-11T20:25:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新。供給懸念の高まりが価格上昇を支援。ニュースソースは解説的な報道で、具体的な供給ショック内容は提示されていない。"
+  },
+  {
+    "title": "原油先物は1週間ぶり高値付近で小動き、米イラン合意期待後退（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-08-11T05:32:46+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン核合意再開の期待が後退し、原油先物は1週間ぶり高値付近で小幅な値動きに留まっている。供給リスク軽減期待の減少が背景。"
+  },
+  {
+    "title": "コーン先物は、コーン輸出検査がUSDA目標を上回った後もほとんど変化なし - Traders Union",
+    "timestamp": "2026-08-11T16:15:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "USDA目標を上回るコーン輸出検査が報告されたが、先物相場はほぼ反応せず。良好な輸出検査データが市場で既に織り込まれていることを示唆している。"
+  },
+  {
+    "title": "USDAの需給報告を前に大豆先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-11T19:26:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "USDAの需給報告発表を控えて大豆先物が下落。市場参加者が報告内容を先読みして売却圧力が高まっている。USDA発表は定期的な重要指標で相場を大きく動かす可能性がある。"
   }
 ]
