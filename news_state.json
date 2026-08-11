@@ -33,17 +33,6 @@
     "summary": "金価格が300ドル近く上昇し、市場では最悪期が過ぎたとの見方が広がっている。アナリストは来週の金価格見通しを「明るい」と評価している。"
   },
   {
-    "title": "原油高で個別株は？米CPIと日経平均の攻防 Washington Dc Immigration Arrests Ruling (ja3XLscEfj) - Mshale",
-    "timestamp": "2026-08-08T08:35:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "タイトルと概要に矛盾があり、記事内容が不明確。米CPI・日経平均・原油の関連性は示唆されるが、具体的なニュースソースが特定できない。"
-  },
-  {
     "title": "金価格は本日8月8日、非常に力強い反発を見せて取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-08T14:06:48+00:00",
     "importance": 2,
@@ -2077,5 +2066,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の悪化を受けて原油価格が上昇。同時にドル金利上昇でドル円も159円台に戻す。米ドル強化による相場への影響が注視されている。"
+  },
+  {
+    "title": "世界の金価格が1オンスあたり4400ドルを突破し、新たな節目に向かっている。 - Vietnam.vn",
+    "timestamp": "2026-08-11T08:28:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4400ドルを突破し新高値を更新。インフレ懸念や地政学的リスク、低金利環境が買い支える。技術的な節目越えで心理的サポートが形成される。"
+  },
+  {
+    "title": "金価格が上昇、原油安と対イラン交渉で買いが優勢 - Межа. Новини України.",
+    "timestamp": "2026-08-11T07:32:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が上昇。原油安とイラン核交渉進展が買い材料。安全資産需要と地政学的リスク軽減の複合要因。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ カップ・アンド・ハンドルでブレイクアウト、週足ゴールデンクロスも間近か？ - Moomoo",
+    "timestamp": "2026-08-11T08:39:56+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物がテクニカル分析上のカップ・アンド・ハンドルパターンでブレイクアウトし、週足ゴールデンクロスが近づいているとの指摘。チャート形成に基づく上昇シグナルの観測。"
+  },
+  {
+    "title": "原油価格が小幅に下落、ホルムズ海峡の再開期待が紅海リスクに打ち消される - Межа. Новини України.",
+    "timestamp": "2026-08-11T07:33:26+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再開期待と紅海の地政学的リスクが相互に作用。供給増加観測と供給懸念が相殺され、原油価格は小幅下落に留まる。市場は両要因のバランスを探索中。"
   }
 ]
