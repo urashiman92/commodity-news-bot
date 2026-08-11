@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日2026年8月9日の金価格は300ドル近く上昇し、最悪期は過ぎ去り、来週の金価格の見通しは「明るい」。 - Vietnam.vn",
-    "timestamp": "2026-08-08T10:57:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が300ドル近く上昇し、市場では最悪期が過ぎたとの見方が広がっている。アナリストは来週の金価格見通しを「明るい」と評価している。"
-  },
-  {
     "title": "金価格は本日8月8日、非常に力強い反発を見せて取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-08T14:06:48+00:00",
     "importance": 2,
@@ -2077,5 +2066,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格は小幅下落。ホルムズ海峡の再開期待が供給懸念を緩和する一方、紅海リスクが上昇圧力として相殺。相反する要因が均衡している状況。"
+  },
+  {
+    "title": "8月11日午後：金価格は反転し、急落した。 - vietnam.vn",
+    "timestamp": "2026-08-11T10:37:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月11日午後の金価格が反転して急落した。具体的な下落理由は記事概要では明記されていない。市場の短期的なボラティリティ変動を伝える日次ニュース。"
+  },
+  {
+    "title": "非公式市場で大幅ドン高進行、マネロン摘発と金価格差縮小が背景［会員限定］ - VIETJOベトナムニュース",
+    "timestamp": "2026-08-11T04:59:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの非公式市場でドン高が進行。マネーロンダリング摘発強化と国際金価格との価格差縮小が背景。金市場への直接的な供給圧力は限定的。"
+  },
+  {
+    "title": "2026年8月11日午後の金価格：9999金、指輪、および火曜日の世界の金価格。 - vietnam.vn",
+    "timestamp": "2026-08-11T10:32:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトによる金価格情報の定期配信。2026年8月11日午後の現物金（9999金）と指輪、世界金価格の相場情報を報道したもの。"
+  },
+  {
+    "title": "カナダコモディティ市場では、ホルムズ海峡を巡る不透明感が継続する中、原油価格が上昇し、金価格は小幅に下落しています。 - Moomoo",
+    "timestamp": "2026-08-11T03:40:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "ホルムズ海峡の地政学的不透明感を背景に原油価格が上昇。一方、金価格は小幅下落。カナダコモディティ市場全体では原油が相対的に堅調。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、銅、小麦、大豆が上昇 トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-10T22:33:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油、貴金属、農産物など多数の商品が上昇。トウモロコシのみ下落。複数商品の同時上昇は一般的な相場動向の報道。"
   }
 ]
