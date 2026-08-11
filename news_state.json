@@ -1,27 +1,5 @@
 [
   {
-    "title": "［株式週間展望］原油価格動向や中東情勢に注目 6万5千円前後か - 沖縄タイムス社",
-    "timestamp": "2026-08-08T18:57:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本の株価動向についての週間展望記事。原油価格と中東情勢が株式市場に影響する可能性があることを指摘している。具体的な供給ショックや価格予測は明記されていない。"
-  },
-  {
-    "title": "中東混乱でロシアが得た「漁夫の利」、戦略性欠如のトランプエネルギー政策が招いた逆風 - ダイヤモンド・オンライン",
-    "timestamp": "2026-08-08T19:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の不安定化により、米国のエネルギー政策の戦略性欠如が露呈。ロシアが地政学的な混乱から恩恵を受ける構図が指摘される。供給不確実性の高まりで原油相場を支援する要因となる。"
-  },
-  {
     "title": "本日（8月9日）の金価格：金地金と金指輪の両方が急騰。 - Vietnam.vn",
     "timestamp": "2026-08-08T22:02:12+00:00",
     "importance": 2,
@@ -361,17 +339,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属が2027年3月期1Qで営業利益176%増を達成し通期上方修正。銅価格上昇と半導体材料事業の好調が寄与。既報の銅相場堅調トレンドの延長線上での好決算。"
-  },
-  {
-    "title": "原油価格が急落し株式と債券は安定を保つ - mezha.net",
-    "timestamp": "2026-08-08T19:42:09+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が急落している。同時期に株式と債券市場は安定を保っている。アセットクラス間での値動きの乖離が注目される。"
   },
   {
     "title": "金価格は本日、2026年8月10日に「興味深い戦い」に突入し、1オンスあたり4,500ドルへの比較的容易な道のりを歩むことになるだろう。 - Vietnam.vn",
@@ -2209,5 +2176,16 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "カンザスシティ小麦が売られ過ぎ水準にあり、テクニカル的なサポートレベルの維持可能性が議論されている。アナリスト見解で現物需給への直接的な新情報はない。"
+  },
+  {
+    "title": "コーン先物価格、売り圧力が強まる：テクニカル見通し - Traders Union",
+    "timestamp": "2026-08-11T12:47:34+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がテクニカル分析に基づいて売り圧力の強まりを指摘されている。アナリスト見解であり、既に市場で織り込まれている可能性が高い。"
   }
 ]
