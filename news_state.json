@@ -11,28 +11,6 @@
     "summary": "金価格が8月8日に力強い反発を示して取引を終えた。詳細な背景情報が不足しているが、短期的な技術的リバウンドと推察される。市場心理の改善や特定のファンダメンタルズについては記事から判断不可。"
   },
   {
-    "title": "黄金時代か？世界の終わり前か？ゴールド相場が激しく揺れている。 - Moomoo",
-    "timestamp": "2026-08-08T12:08:29+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ゴールド相場が変動している旨の解説記事。金が「黄金時代」か「リスク局面」かの議論を提示。具体的な要因や価格変動幅は記事概要から不明。"
-  },
-  {
-    "title": "金相場は反転上昇するのか？ウォール街の投資銀行：今こそ買いの絶好機である。 - Moomoo",
-    "timestamp": "2026-08-08T13:41:58+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ウォール街の投資銀行が金の買いシグナルを発信。現在の金相場が反転上昇の好機と判断。機関投資家による強気見解の表出。"
-  },
-  {
     "title": "［株式週間展望］原油価格動向や中東情勢に注目 6万5千円前後か - 沖縄タイムス社",
     "timestamp": "2026-08-08T18:57:00+00:00",
     "importance": 2,
@@ -2143,5 +2121,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国株式市場の動向を扱う解説記事。雇用統計鈍化と原油相場の不安が背景とされているが、S&P500先物は小幅高で推移。原油相場への直接的な具体的影響は記事概要からは不明確。"
+  },
+  {
+    "title": "インド国債が下落、原油価格の上昇が圧迫要因に 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-11T12:47:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "インド国債が原油価格上昇による圧迫を受けて下落。原油高がインドのエネルギーコスト増加と財政悪化懸念につながっている。コモディティと債券市場の連動を示す相場動向。"
+  },
+  {
+    "title": "本日の米国株式市場：雇用統計の鈍化と原油相場の不安を背景に、S&P 500先物が小幅高 - simplywall.st",
+    "timestamp": "2026-08-11T10:44:14+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株式市場の小幅高を伝える相場解説記事。雇用統計の鈍化と原油相場の不安が背景とされているが、具体的な数字や原油価格への直接的な影響言及は不明。"
   }
 ]
