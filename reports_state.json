@@ -143,28 +143,6 @@
     "summary": "黒海地域の供給途絶によって小麦価格が1週間で最高値を記録した。同地域はウクライナ・ロシアを中心とした世界有数の小麦供給源であり、地政学的紛争や輸送インフラの破壊が供給途絶を引き起こしている。この供給ショックは世界穀物市場全体への波及リスクが高い。"
   },
   {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-08-08T00:37:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計により、米国の原油・ガソリン在庫が前週比で減少したと報告された。需要の堅調さが在庫減少の主要因とされている。在庫低下は原油価格の上昇圧力となるシグナル。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-08-08T00:37:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計により、米国の原油・ガソリン在庫が前週比で減少したと報告された。需要の堅調さが在庫減少の主要因とされている。在庫低下は原油価格の上昇圧力となるシグナル。"
-  },
-  {
     "title": "Special Reports - dtnpf.com",
     "timestamp": "2026-08-08T19:25:43+00:00",
     "importance": 1,
@@ -581,5 +559,27 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDAのWASDE（世界農業需給予測）レポートは、トウモロコシと大豆の作付面積・生産量・在庫見通しを定期発表する定例統計。市場は供給見通しの修正を注視し、価格変動につながる可能性がある。具体的な予想比やデータが記事から明確でないため、サプライズ度は不確定。"
+  },
+  {
+    "title": "Oil Holds Gains, Asian Stocks Set for Muted Open: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-10T22:08:16+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油は上昇基調を保持している一方、アジア株式市場は慎重な展開が予想されている。市場全体では混合的なシグナルが出ており、コモディティセクターへの需要見通しは不確実性が高い状況。具体的な価格水準や在庫データは記事から確認できない。"
+  },
+  {
+    "title": "Oil Holds Gains, Asian Stocks Set for Muted Open: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-10T22:08:16+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油は上昇基調を保持している一方、アジア株式市場は慎重な展開が予想されている。市場全体では混合的なシグナルが出ており、コモディティセクターへの需要見通しは不確実性が高い状況。具体的な価格水準や在庫データは記事から確認できない。"
   }
 ]
