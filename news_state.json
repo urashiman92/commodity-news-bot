@@ -2253,5 +2253,60 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "USDAの需給報告発表を控えて大豆先物が下落。市場参加者が報告内容を先読みして売却圧力が高まっている。USDA発表は定期的な重要指標で相場を大きく動かす可能性がある。"
+  },
+  {
+    "title": "ＮＹダウ終値、１８４ドル安の５万３７９１ドル…原油先物価格が上昇し相場の重しに - 読売新聞",
+    "timestamp": "2026-08-11T20:29:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが184ドル安で取引を終えた。原油先物価格の上昇が株式市場の重しとなった。インフレ懸念やリスク資産の調整圧力が背景。"
+  },
+  {
+    "title": "原油先物1週間ぶり高値、供給懸念高まる（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-08-11T20:26:34+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1週間ぶりの高値を更新。供給懸念が材料となり買い圧力が高まっている。既知の供給リスク要因による相場上昇の続報。"
+  },
+  {
+    "title": "NYダウは続落し184ドル安 中東情勢見通せず、原油先物も上昇 - 日本経済新聞",
+    "timestamp": "2026-08-11T20:38:21+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の不確実性が高まり、リスク回避姿勢からNYダウが184ドル安となった。これに伴い、地政学リスクプレミアムの上乗せにより原油先物が上昇した。中東紛争懸念による供給リスク意識の高まりが原油相場を支援している。"
+  },
+  {
+    "title": "ホルムズ海峡の航行再開に不透明感、供給懸念で原油価格が上昇 - Межа. Новини України.",
+    "timestamp": "2026-08-11T19:38:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の航行再開が不透明な状況にあり、中東発の供給懸念が市場を支援している。地政学的リスクが依然として存在し、原油価格が上昇圧力を受けている。航行再開のタイミングと条件が不確実なため、価格の先行き見通しに不確定性がある。"
+  },
+  {
+    "title": "レジスタンステスト：大豆先物価格はUSX1,180を上抜けできるか？ - Traders Union",
+    "timestamp": "2026-08-11T12:19:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,180のレジスタンスレベルをテストしている状況の技術的分析。上抜けの可能性を検討するチャート解説である。"
   }
 ]
