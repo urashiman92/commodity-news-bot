@@ -790,5 +790,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECの原油生産が再び増加しているが、割当目標に対しては依然として下回っている状況が報告されている。生産の上昇トレンドは確認されるものの、目標達成には至っておらず、供給面での課題が継続している。"
+  },
+  {
+    "title": "Corn price commentary: Futures fall marginally ahead of the WASDE report - Fastmarkets",
+    "timestamp": "2026-08-11T13:33:11+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE発表を控えたトウモロコシ先物が小幅下落。市場参加者がレポート前に利益確定売りを進める動きが見られた。発表内容が明らかになるまで、投資家は様子見姿勢を保つと予想される。"
+  },
+  {
+    "title": "Corn Hangs Near Key Support Ahead of WASDE, Cattle Stuck in a Range, Energy Surges - The Globe and Mail",
+    "timestamp": "2026-08-10T21:22:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDE発表を控えたトウモロコシ市場は重要なサポートレベル付近で推移。エネルギー市場は上昇圧力が強まる一方、畜牛相場はレンジ相場に留まっている。WASDE統計の結果次第でトウモロコシの需給見通しが大きく変わる可能性。"
+  },
+  {
+    "title": "Russia’s Crude Oil Shipments Tumble to the Lowest Since May - Bloomberg.com",
+    "timestamp": "2026-08-11T13:43:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの原油出荷量が5月以来の最低水準に低下したと報道された。これは西側制裁強化、タンカー制限、および代替ルート活用の困難さを反映している。供給減少にもかかわらず原油価格下落圧力の背景には、グローバル需要懸念やドル高が存在する可能性がある。"
   }
 ]
