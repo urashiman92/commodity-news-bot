@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の金価格が急騰、SJCの金価格は1オンスあたり500万ベトナムドン上昇：前回のような急落が再び起こるのか？ - Vietnam.vn",
-    "timestamp": "2026-08-08T07:30:08+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界的な金価格の上昇に連動し、ベトナムのSJC金価格が1オンス当たり500万ベトナムドン上昇した。記事は過去の急落との比較を交えた価格変動に関する解説である。"
-  },
-  {
     "title": "2026年8月8日午後の金価格：9999金、指輪、世界の金の価格。 - Vietnam.vn",
     "timestamp": "2026-08-08T09:59:59+00:00",
     "importance": 1,
@@ -240,17 +229,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金が週間7%超の急騰を記録し、半年ぶりの大幅高となった。UBSは金の目標価格を5000ドルに設定し、強気見通しを提示している。地政学リスクやドル弱含みが背景。"
-  },
-  {
-    "title": "金価格予想：FRB利上げ期待の後退で魅力高まる、4,500ドル到達の可能性は？ - TradingKey",
-    "timestamp": "2026-08-08T08:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB利上げ期待の後退が金の買い圧力を強化する見通し。技術的には4,500ドルへの上昇余地が指摘されている。低金利環境は金の非利息資産としての相対的魅力を高める。"
   },
   {
     "title": "8月9日の金価格：全般的に上昇。 - Vietnam.vn",
@@ -2044,5 +2022,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国株式市場が反落し、原油価格上昇と金利上昇が売り圧力となった。コモディティ価格上昇はインフレ懸念につながり、リスク資産売却につながる逆風。"
+  },
+  {
+    "title": "金価格が二カ月超ぶり高値、米インフレ統計を前に上昇後は小幅安 - Межа. Новини України.",
+    "timestamp": "2026-08-11T07:19:55+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2カ月ぶりの高値を付けた。米インフレ統計発表を控えた上昇だが、その後は小幅な下落に転じた。材料発表前後での典型的な値動きの記事。"
+  },
+  {
+    "title": "非公式市場で大幅ドン高進行、マネロン摘発と金価格差縮小が背景 - viet-kabu.com",
+    "timestamp": "2026-08-11T04:59:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの非公式市場でドン高が進行。マネロン摘発強化と国際金価格との裁定機会縮小が背景。為替市場の局所的な動きで、コモディティ投資家への直接的影響は限定的。"
+  },
+  {
+    "title": "本日（8月11日午後）の金価格：急騰 - Vietnam.vn",
+    "timestamp": "2026-08-11T07:34:51+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月11日午後の金価格が急騰したとの報道。具体的な騰落率や騰落要因が記事概要では明記されていない。ベトナムローカルメディアの速報性のある価格レポート。"
+  },
+  {
+    "title": "$WTI 原油先物(2609) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ $RH PetroGas (T13.SG)$ - Moomoo",
+    "timestamp": "2026-08-11T07:20:30+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物とブレント先物の銘柄リンク表示のみで、具体的なニュース内容や価格動向の情報がない。コモディティ投資家向けの実質的な分析対象データが不足している。"
+  },
+  {
+    "title": "中央情勢またやや悪化で原油価格もドル金利も上昇、 ドル円159円台まで戻り米介入への見返りも意識に - zai.diamond.jp",
+    "timestamp": "2026-08-11T05:50:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の悪化を受けて原油価格が上昇。同時にドル金利上昇でドル円も159円台に戻す。米ドル強化による相場への影響が注視されている。"
   }
 ]
