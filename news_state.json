@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（8月9日）の金価格：金地金と金指輪の両方が急騰。 - Vietnam.vn",
-    "timestamp": "2026-08-08T22:02:12+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムで8月9日の金価格が上昇し、金地金と金指輪の両方が急騰した。地域的な価格上昇の報道で、グローバル市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "2026年8月9日の金価格：SJC金価格、9999金リング価格、および世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-08-08T22:17:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報を報道したニュース。SJC金価格と世界金価格の相場データを提供している。市場参加者への価格情報提供であり、市場を動かすファンダメンタルズの発表ではない。"
-  },
-  {
     "title": "本日（8月9日）の金価格：全般的に急上昇。 - Vietnam.vn",
     "timestamp": "2026-08-08T22:50:23+00:00",
     "importance": 2,
@@ -2308,5 +2286,49 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "大豆先物がUSX1,180のレジスタンスレベルをテストしている状況の技術的分析。上抜けの可能性を検討するチャート解説である。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（11日）原油は4日続伸 - Moomoo",
+    "timestamp": "2026-08-11T22:21:07+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油が4日続伸。金先物市場の日次概況を伝えるマーケットレポート。"
+  },
+  {
+    "title": "本日（8月12日）の金価格：高値維持は困難、下落リスクあり。 - Vietnam.vn",
+    "timestamp": "2026-08-11T22:02:16+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月12日時点の金価格について、アナリストが高値維持は困難であり下落リスクがあると指摘。現在の相場水準から調整の可能性を示唆している。"
+  },
+  {
+    "title": "2026年8月12日の金価格：SJC金価格、9999金リング価格、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-08-11T22:13:30+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格に関する日次の価格情報を報じたもの。SJC金、9999金リング、世界金価格の相場報道。"
+  },
+  {
+    "title": "米EIA、今年・来年の原油価格予測を大幅上方修正、ブレント原油2026年は87ドルに - BigGo ファイナンス",
+    "timestamp": "2026-08-11T19:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米EIAが2024年・2025年の原油価格見通しを大幅上方修正し、2026年ブレント原油を87ドルと予測。需給逼迫への認識が強まったことを示唆している。"
   }
 ]
