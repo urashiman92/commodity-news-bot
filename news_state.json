@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（8月9日）の金価格：全般的に急上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-08T22:50:23+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が8月9日に全般的に急上昇したとの報道。具体的な上昇幅や原因は記事概要では不明。市場の日々の値動きに関する速報・解説記事と思われる。"
-  },
-  {
-    "title": "本日（8月9日）の金価格：国内価格は急騰したが、国際価格は横ばいだった。 - Vietnam.vn",
-    "timestamp": "2026-08-08T22:50:23+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金国内価格が急騰した一方で、国際価格は横ばいで推移。国内と国際価格の乖離が発生している状況の報道。"
-  },
-  {
-    "title": "中国が大規模な攻勢を開始したことを受け、金価格は1カ月ぶりの高値に急騰した。 - Vietnam.vn",
-    "timestamp": "2026-08-08T22:50:23+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中国の大規模攻勢報道を受けて金価格が1ヶ月ぶりの高値に上昇した。地政学リスク回避需要が金買いを促進している。ただしニュースソースが限定的で詳細が不明。"
-  },
-  {
     "title": "金価格上昇の最大の障害は、すでにピークを過ぎた可能性がある。 - Vietnam.vn",
     "timestamp": "2026-08-08T23:49:01+00:00",
     "importance": 3,
@@ -2330,5 +2297,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米EIAが2024年・2025年の原油価格見通しを大幅上方修正し、2026年ブレント原油を87ドルと予測。需給逼迫への認識が強まったことを示唆している。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4368ドル｜直近は上昇を続けていたこともあり、利益確定売りが出た模様(2026年8月12日) - OANDA証券",
+    "timestamp": "2026-08-11T23:04:33+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4368ドルまで下落した。直近の上昇トレンド後の利益確定売りが主因。短期的な調整局面と見られる。"
+  },
+  {
+    "title": "金価格が上昇、中国の金準備高は過去最高水準に迫る。 - Vietnam.vn",
+    "timestamp": "2026-08-11T23:32:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の上昇に伴い、中国の金準備高が過去最高水準に接近している。中国による戦略的な金の買い増しが続く中、価格上昇が準備高の増加を後押ししている状況。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの合意期待が後退した影響で、原油価格は2営業日続伸（2026年8月12日） - OANDA証券",
+    "timestamp": "2026-08-11T23:13:49+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの核合意期待が後退したことで、供給リスク懸念が高まり原油価格が2営業日続伸した。地政学的な不確実性が相場を支援している状況。"
+  },
+  {
+    "title": "本日の燃料価格（8月12日）：世界の原油価格は上昇を続けている。 - Vietnam.vn",
+    "timestamp": "2026-08-11T23:32:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムのニュースサイトが8月12日時点での世界原油価格の上昇継続を報じている。具体的な価格水準や上昇要因の詳細は記事本文なしでは不明。通常の相場レポートと考えられる。"
+  },
+  {
+    "title": "モーニング娘。 『LOVEマシーン』 (MV) Copper Price (1rmj1NUWPs) - Mshale",
+    "timestamp": "2026-08-11T14:48:27+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "モーニング娘。のMVと銅価格を結びつけたと思われるニュース。銅市場に関連する実質的な情報が不明。"
+  },
+  {
+    "title": "１１日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-11T22:50:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "11日の主要国際商品市況を扱う振り返り記事。具体的な価格動向や主要商品の詳細は記事本文を確認する必要がある。スケジュール化された指標発表や突発ニュースではなく相場解説の類と推定される。"
+  },
+  {
+    "title": "１１日の主要国際商品市況 - みんかぶ",
+    "timestamp": "2026-08-11T22:50:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "11日の主要国際商品市況をまとめたニュース記事。具体的な価格データや市場動向の詳細は記事サマリーからは不明。市場の定期的な相場振り返り報道と考えられる。"
   }
 ]
