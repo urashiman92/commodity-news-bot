@@ -614,5 +614,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "トランプ前大統領がホルムズ海峡の見通しに関して発言し、原油相場が3営業日連続の上昇を維持している。ホルムズ海峡は世界の石油供給の約3割が通過する重要な海上ルートであり、地政学的なリスク要因として原油価格を下支えしている。"
+  },
+  {
+    "title": "Chinese copper's share of available LME stocks falls to 42% in July - Business Recorder",
+    "timestamp": "2026-08-10T11:28:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "2024年7月のLME銅在庫における中国産銅の占有率が42%に低下した。これは中国の銅需要が堅調であることを示唆する一方で、LME在庫全体の国別構成の変化が銅価格の需給バランスを反映している。中国の金属在庫管理と輸入戦略の継続的なシフトを示す定期的な統計更新。"
+  },
+  {
+    "title": "OPEC Output Climbs 1.17 mmbbl/d in July as Gulf Supplies Recover - Egypt Oil & Gas",
+    "timestamp": "2026-08-11T06:47:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの7月の原油生産が前月比で日量117万バレル増加し、湾岸地域の供給が回復したことを報告。イランの制裁回避やサウジアラビア等の増産により、OPEC全体の供給圧力が高まる展開。市場予想の範囲内での増産報告となっている。"
+  },
+  {
+    "title": "Oil rises as Iran and US trade demands for reopening Strait of Hormuz - Reuters",
+    "timestamp": "2026-08-11T07:27:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イランと米国がホルムズ海峡の再開をめぐる要求を応酬し、地政学的緊張が高まっている。ホルムズ海峡は世界の石油供給の約20-30%が通過する重要な輸送路であり、封鎖リスクは原油価格の急騰要因となる。市場は供給途絶への懸念から原油買いで反応している。"
   }
 ]
