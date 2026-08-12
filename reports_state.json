@@ -1,16 +1,5 @@
 [
   {
-    "title": "Fire extinguished at Aramco refinery in Jazan, Saudi Arabia says - Reuters",
-    "timestamp": "2026-08-09T01:48:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのアラムコ傘下ジャザン製油所で火災が発生し、その後鎮火されたことが報告された。製油所の操業状況や供給への影響は報道では未詳だが、中東の主要製油施設での火災は供給懸念材料として機能し、原油価格に上方圧力をもたらす可能性がある。"
-  },
-  {
     "title": "Saudi Says Fire at Aramco Refinery in Jazan Was Extinguished - Bloomberg.com",
     "timestamp": "2026-08-09T12:28:27+00:00",
     "importance": 2,
@@ -977,5 +966,93 @@
     "source": "鉱業・金属レポート",
     "commodity": "金",
     "summary": "バブ・エル・マンデブ海峡近辺での武装勢力によるストライキ報告を受け、原油は上昇した。一方、貴金属は下落。地政学的リスクが原油の上値を支える一方、金等の安全資産への買いは限定的である。供給リスク懸念が市場に緊張をもたらしている。"
+  },
+  {
+    "title": "Soybeans, corn, wheat down ahead of WASDE update - Brownfield Ag News",
+    "timestamp": "2026-08-11T22:26:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDE更新を控えた事前売却により、大豆・トウモロコシ・小麦が同時に下落。市場参加者がWASDE発表前のポジション調整を進めている。具体的な価格下げ幅は報道では明示されていないが、穀物複合相場全体が軟調。"
+  },
+  {
+    "title": "Soybeans, corn, wheat down ahead of WASDE update - Brownfield Ag News",
+    "timestamp": "2026-08-11T22:26:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE更新を控えた事前売却により、大豆・トウモロコシ・小麦が同時に下落。市場参加者がWASDE発表前のポジション調整を進めている。具体的な価格下げ幅は報道では明示されていないが、穀物複合相場全体が軟調。"
+  },
+  {
+    "title": "Soybeans, corn, wheat down ahead of WASDE update - Brownfield Ag News",
+    "timestamp": "2026-08-11T22:26:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDE更新を控えた事前売却により、大豆・トウモロコシ・小麦が同時に下落。市場参加者がWASDE発表前のポジション調整を進めている。具体的な価格下げ幅は報道では明示されていないが、穀物複合相場全体が軟調。"
+  },
+  {
+    "title": "Corn Hangs Near Key Support Ahead of WASDE, Cattle Stuck in a Range, Energy Surges - The Globe and Mail",
+    "timestamp": "2026-08-10T21:22:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "cattle",
+    "summary": "WASDE発表を控えてトウモロコシが重要サポートレベル付近で推移。畜牛相場はレンジ相場で膠着状態が続く一方、エネルギー相場は堅調に推移。WASDE統計発表前の様子見局面で、市場は主要穀物と畜産物の需給見通し更新を待機中。"
+  },
+  {
+    "title": "Watch for price rally in wheat as global production drops - Farm Progress",
+    "timestamp": "2026-08-11T09:03:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "世界的な小麦生産量の減少を背景に、小麦価格の上昇が予想される。供給サイドの圧力が強まる中、投資家は価格反発の局面に注視する必要がある。具体的な減産規模や地域別の詳細データは記事本文で確認が必要。"
+  },
+  {
+    "title": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters",
+    "timestamp": "2026-08-12T00:59:47+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とイランの核合意（JCPOA）に関する交渉の先行き不透明性が高まっており、サプライズとしてイラン産原油の供給リスクが急速に顕在化している。核合意の破綻懸念が現物原油の供給逼迫懸念を招き、原油価格の上昇要因となっている。中東地政学リスクの再燃により市場のリスク・プレミアムが拡大している。"
+  },
+  {
+    "title": "Chile Cuts Copper Production Forecast Again as Mine Woes Persist - Bloomberg.com",
+    "timestamp": "2026-08-11T16:54:03+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "チリが銅生産見通しを再度下方修正。鉱山の操業問題が継続しており、世界最大級の銅生産国からの供給減少が確定。銅需給ひっ迫構図が深刻化し、価格上昇圧力が強まる局面。"
+  },
+  {
+    "title": "Chile Cuts Copper Production Forecast Again as Mine Woes Persist - Bloomberg.com",
+    "timestamp": "2026-08-11T16:54:03+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "チリが銅生産見通しを再度下方修正。鉱山の操業問題が継続しており、世界最大級の銅生産国からの供給減少が確定。銅需給ひっ迫構図が深刻化し、価格上昇圧力が強まる局面。"
   }
 ]
