@@ -11,17 +11,6 @@
     "summary": "ベトナムのSJC金価格が高値を維持している状況についての報道。既に形成されている相場トレンドの継続に関する解説記事と見られる。"
   },
   {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$$ブレント先物(期近) (BZcurrent.US)$ イランの... - Moomoo",
-    "timestamp": "2026-08-09T08:57:38+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランに関連する地政学的なニュースが報道されている。イランは中東の主要石油供給国であり、同国に関わるイベントは原油市場に供給懸念をもたらす。詳細が不明なため、具体的なサプライズ度は判断困難。"
-  },
-  {
     "title": "$WTI 原油先物(2609) (CLmain.US)$$ブレント先物(期近) (BZcurrent.US)$ 🔴 イ... - Moomoo",
     "timestamp": "2026-08-09T10:43:49+00:00",
     "importance": 1,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物とブレント先物の価格動向に関するMoomooの配信記事。タイトルが途中で切れており、具体的な市場情報や分析内容が不明。"
-  },
-  {
-    "title": "本日（2026年8月9日）の金価格：SJC金は1オンスあたり1億4100万～1億4400万ベトナムドンで、変動なし。 - Vietnam.vn",
-    "timestamp": "2026-08-09T08:20:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金が1オンスあたり1億4100万～1億4400万VNDで推移。本日の価格に変動なし。地域的な参考相場の報道。"
   },
   {
     "title": "本日（2026年8月9日）の金価格：SJC金は1オンスあたり1億4100万～1億4400万ベトナムドンで横ばい。 - Vietnam.vn",
@@ -2495,5 +2473,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "カナダドル円相場が原油価格と連動する傾向に関する為替解説記事。原油相場の動向がカナダドルの変動要因となることを指摘。FX市場における通貨ペアと商品相場の関連性についての観測記事。"
+  },
+  {
+    "title": "金価格は5,600ドルから4,000ドル以下まで「ジェットコースター」のように乱高下：年末にはどのようなシナリオが待ち受けているのか？ - Vietnam.vn",
+    "timestamp": "2026-08-12T07:19:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が5,600ドルから4,000ドル以下まで大きく変動している状況についての分析記事。年末に向けた相場展開のシナリオを解説。"
+  },
+  {
+    "title": "中東和平交渉の停滞を受け、原油価格が急騰。 - Vietnam.vn",
+    "timestamp": "2026-08-12T09:00:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東和平交渉の停滞により、地政学的リスク懸念が高まり原油価格が急騰。中東は世界有数の石油供給地域であり、紛争リスクの上昇は供給途絶への懸念を招く。既存のイランやサウジアラビア等の供給リスク要因が顕在化する可能性。"
+  },
+  {
+    "title": "長城科技、上半期の売上高75.82億人民元で20%増収も、銅価格上昇が販売数量を圧迫 - BigGo ファイナンス",
+    "timestamp": "2026-08-12T02:06:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "長城科技の上半期売上高は75.82億人民元で20%増収を達成。ただし銅価格上昇により販売数量が圧迫されており、増収は価格上昇によるものと判明。"
   }
 ]
