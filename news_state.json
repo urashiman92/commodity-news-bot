@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は本日8月9日、大幅高で取引を終え、買い手は損益分岐点で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-08-09T14:43:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月9日の金市場で大幅な価格上昇が記録された。買い手が損益分岐点で取引を終えたと報道されている。ベトナム市場の局所的な動向を伝える記事。"
-  },
-  {
     "title": "ExxonMobil Doubled Its Profit to $14.5 Billion. Why Falling Oil Is the Real Test - TIKR.com",
     "timestamp": "2026-08-09T16:44:00+00:00",
     "importance": 3,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が回復し、来週の上昇傾向継続が予想されているという相場解説記事。具体的な価格水準や上昇根拠の詳細は記事概要からは不明確。"
-  },
-  {
-    "title": "FRB高官 原油価格下落が妥当 中東情勢は緊迫化も【モーサテ】 Toulouse – Lyon (aGIBliYgJ8) - Mshale",
-    "timestamp": "2026-08-09T14:21:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "FRB高官が原油価格の下落は妥当との見解を示唆。インフレ抑制観点からの発言と解釈される。一方で中東情勢の緊迫化は供給リスク要因として残存。"
   },
   {
     "title": "石油元売り３社・第１四半期決算／高騰前の原油が押し上げ好調 – - 電気新聞ウェブサイト",
@@ -460,17 +438,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月10日のブレント原油先物の値動きについての解説記事。在庫、ドル相場、地政学的要因などの複数の要因が価格変動に影響した可能性を分析している。具体的な価格変動幅やトリガーイベントの詳細は不明。"
-  },
-  {
-    "title": "中国の物価関連統計（26年7月）～原油価格下落の影響でCPIは低下、PPIの上昇も一服 - nli-research.co.jp",
-    "timestamp": "2026-08-09T15:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中国7月統計で原油価格下落がCPI低下に寄与。PPIの上昇ペースも鈍化。需要減速とエネルギー価格下押しが継続中。"
   },
   {
     "title": "豪州小麦が豊作見通し 世界供給を下支え - Chosunbiz",
@@ -2517,5 +2484,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が82.90ドルで取引されている速報。現在の価格ポイント情報であり、具体的な新規要因や市場イベントは明記されていない。"
+  },
+  {
+    "title": "本日2026年8月13日の金価格は、4,400ドル/オンスの大台を回復し、大幅な上昇を見せています。今年の後半、市場はどのような展開を見せるでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-08-12T15:07:50+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,400ドル/オンスの大台を回復し上昇を示している。記事は現在の相場水準を報道し、今後の展開を予想する解説記事。予想の範囲内の動き。"
+  },
+  {
+    "title": "米・イラン交渉の行き詰まりで原油価格が90ドルに迫る - jp.ajunews.com",
+    "timestamp": "2026-08-12T06:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン核協議の行き詰まりにより、地政学的リスクが高まっている。イラン産原油供給途絶の懸念から原油価格が90ドルに接近。供給サイドの不確実性が相場を支援。"
   }
 ]
