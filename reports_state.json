@@ -1571,5 +1571,71 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAの週間石油レポート（2026年8月12日）によると、原油在庫が増加した一方で、製油所稼働率は高水準を維持している。在庫増加は需要の弱さまたは供給過剰を示唆し下落圧力となる可能性がある一方、製油所稼働率の高さは石油製品需要が堅調であることを示唆する。両指標の相反する信号により、市場への影響は方向性が不確定。"
+  },
+  {
+    "title": "USDA’s August report predicts 2026 U.S. corn crop at 2nd highest on record - The Mighty 790 KFGO",
+    "timestamp": "2026-08-12T18:45:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの8月Crop Progressレポートにおいて、2026年度の米国トウモロコシ収穫量が過去2番目の高水準に達すると予測された。豊作予想は供給増加を示唆し、トウモロコシ相場に下押し圧力をもたらす可能性が高い。"
+  },
+  {
+    "title": "Corn Faces Pre-USDA Report Pressure on Tuesday - TradingView",
+    "timestamp": "2026-08-11T21:42:05+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA報告書発表を控えたトウモロコシ相場が売り圧力に直面している。火曜日のUSDA公式統計（おそらくWASDE月次報告書またはCrop Progress週次）の発表を控え、市場ポジション調整による売却圧力が高まっている状況。供給見通しや作況に関する懸念が価格下押し要因となっている。"
+  },
+  {
+    "title": "USDA Cuts Corn Stocks as August WASDE Reshapes the 2026/27 U.S. Grain Outlook - Agrolatam",
+    "timestamp": "2026-08-12T18:04:53+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA8月WASDE報告でトウモロコシ在庫が削減され、2026/27年度の米国穀物見通しが抜本的に見直された。在庫削減は供給逼迫を示唆し、穀物市場全体に上昇圧力をもたらす可能性がある。具体的な削減数値は本文未公開だが、穀物相場への構造的な影響が予想される。"
+  },
+  {
+    "title": "USDA Cuts Corn Stocks as August WASDE Reshapes the 2026/27 U.S. Grain Outlook - Agrolatam",
+    "timestamp": "2026-08-12T18:04:53+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA8月WASDE報告でトウモロコシ在庫が削減され、2026/27年度の米国穀物見通しが抜本的に見直された。在庫削減は供給逼迫を示唆し、穀物市場全体に上昇圧力をもたらす可能性がある。具体的な削減数値は本文未公開だが、穀物相場への構造的な影響が予想される。"
+  },
+  {
+    "title": "USDA Cuts Corn Stocks as August WASDE Reshapes the 2026/27 U.S. Grain Outlook - Agrolatam",
+    "timestamp": "2026-08-12T18:04:53+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA8月WASDE報告でトウモロコシ在庫が削減され、2026/27年度の米国穀物見通しが抜本的に見直された。在庫削減は供給逼迫を示唆し、穀物市場全体に上昇圧力をもたらす可能性がある。具体的な削減数値は本文未公開だが、穀物相場への構造的な影響が予想される。"
+  },
+  {
+    "title": "Russia's Orsk refinery halted processing after August 11 drone attack, sources say - Reuters",
+    "timestamp": "2026-08-12T09:41:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのオルスク製油所が8月11日のドローン攻撃により操業停止。ロシアの主要製油施設の被害は供給途絶の懸念を生じさせ、原油価格の上昇圧力となる。ウクライナ情勢による供給ショックは市場で大きく反応する可能性がある。"
   }
 ]
