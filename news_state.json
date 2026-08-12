@@ -1,49 +1,5 @@
 [
   {
-    "title": "今日の金価格（8月10日）：高い変動性、投資家はどのような点に注意すべきか？ - Vietnam.vn",
-    "timestamp": "2026-08-09T22:10:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月10日の金価格について、高い変動性が指摘されている解説記事。投資家への注意喚起が主内容。具体的な価格動向や新規材料の記載がない。"
-  },
-  {
-    "title": "ドル円、157.89円までじり高 原油先物価格の上昇が支えに(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-09T22:20:51+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格の上昇がドル円相場を157.89円まで押し上げた。ドル高・円安進行の背景には原油価格上昇による米国インフレ圧力とドル買い需要がある。既に報道された相場動向の振り返り解説。"
-  },
-  {
-    "title": "ドル円、157.89円までじり高 原油先物価格の上昇が支えに｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-09T22:17:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格の上昇がドル買い圧力となり、ドル円が157.89円まで上昇。通常のマクロ連動性を示す動き。"
-  },
-  {
-    "title": "ブレント原油先物 (UKOIL-F) 急上昇 3.14% on 8月9日：市場は何を取引しているのか？ - TradingKey",
-    "timestamp": "2026-08-09T22:11:13+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月9日のブレント原油先物が3.14%上昇した。記事はこの値動きの背景にある市場要因を解説するコメンタリー記事である。具体的な需給ショックや指標発表の記載がなく、相場の事後分析と思われる。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4341ドル｜米雇用統計が予想を下回った影響で、買い優勢だった模様(2026年8月10日) - OANDA証券",
     "timestamp": "2026-08-09T23:04:16+00:00",
     "importance": 3,
@@ -97,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報を扱う日次レポート。SJC金とグローバル金相場の価格情報を掲載したニュース記事。"
-  },
-  {
-    "title": "本日（2026年8月10日）の金価格：SJCゴールドは1オンスあたり1億4400万ベトナムドン、金の指輪は1オンスあたり1億4550万ベトナムドンで販売されています。 - Vietnam.vn",
-    "timestamp": "2026-08-09T22:15:35+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年8月10日のベトナム国内金価格をSJCゴールドが1オンス1億4400万ベトナムドン、金の指輪が1億4550万ベトナムドンで取引されている。地域の金小売価格の日次報告。"
   },
   {
     "title": "WTI原油見通し(市況ニュース)：イランとオマーンの合意期待が高まった影響で、原油価格は反落（2026年8月10日） - OANDA証券",
@@ -2561,5 +2506,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NYダウが184ドル安で終値した。原油先物価格の上昇が株式市場の重しになったことが報じられている。原油高がエネルギーコスト懸念として株価を圧迫。"
+  },
+  {
+    "title": "本日（8月13日）の金価格：急騰し、1オンスあたり1億4500万ベトナムドンに迫る。 - Vietnam.vn",
+    "timestamp": "2026-08-12T22:10:54+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムドン建てでの金価格が1オンスあたり1億4500万ドンに接近。ドル安またはグローバルな金価格上昇を反映した動き。ベトナム国内市場の報道。"
   }
 ]
