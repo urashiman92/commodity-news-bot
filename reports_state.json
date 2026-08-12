@@ -1054,5 +1054,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "チリが銅生産見通しを再度下方修正。鉱山の操業問題が継続しており、世界最大級の銅生産国からの供給減少が確定。銅需給ひっ迫構図が深刻化し、価格上昇圧力が強まる局面。"
+  },
+  {
+    "title": "Oil futures: Crude up with Hormuz flows constrained, US stocks rise - Quantum Commodity Intelligence",
+    "timestamp": "2026-08-12T05:51:57+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の原油流量制約とUS在庫増加が報道される。地政学的供給懸念に対し、米国在庫の積み上がりが相殺圧力となっているが、海峡流量制約は中期的な上値支持要因として機能。EIA週間統計の定例発表の継続報道。"
+  },
+  {
+    "title": "Corn Faces Pre-USDA Report Pressure on Tuesday - Yahoo Finance",
+    "timestamp": "2026-08-11T21:42:05+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "火曜日のUSDA作物進捗報告書（Crop Progress）発表を控え、トウモロコシが売り圧力に直面している。市場参加者は作付面積や生育進捗の見直しを警戒しており、供給見通しの変更が価格に影響を与える可能性がある。同報告は毎週公表される定期統計であり、市場の関心度が高い。"
   }
 ]
