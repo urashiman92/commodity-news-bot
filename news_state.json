@@ -1,38 +1,5 @@
 [
   {
-    "title": "SJCの金価格は引き続き高値を維持している。 - Vietnam.vn",
-    "timestamp": "2026-08-09T10:07:31+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が高値を維持している状況についての報道。既に形成されている相場トレンドの継続に関する解説記事と見られる。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$$ブレント先物(期近) (BZcurrent.US)$ 🔴 イ... - Moomoo",
-    "timestamp": "2026-08-09T10:43:49+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とブレント先物の価格動向に関するMoomooの配信記事。タイトルが途中で切れており、具体的な市場情報や分析内容が不明。"
-  },
-  {
-    "title": "本日（2026年8月9日）の金価格：SJC金は1オンスあたり1億4100万～1億4400万ベトナムドンで横ばい。 - Vietnam.vn",
-    "timestamp": "2026-08-09T10:44:09+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムSJC金の価格が1オンス当たり1億4100万～1億4400万ドンで横ばい状態にあることを報じたニュース。特段の価格変動なし。"
-  },
-  {
     "title": "政府の調査官は、ベトナムにおける世界水準を上回る金価格の「犯人」を特定した。 - Vietnam.vn",
     "timestamp": "2026-08-09T11:14:54+00:00",
     "importance": 2,
@@ -669,17 +636,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇がドル買い要因となり、ドル円相場が158円30銭前後で推移している。原油高とドル強化の相関関係を指摘する市場解説。"
-  },
-  {
-    "title": "今週の経済ニュース：銅価格が示す好景気の兆し、米国の債務残高が40兆ドルに迫る、対中依存低減に向けたトランプの20億ドルの公約、ほか - Benzinga Japan",
-    "timestamp": "2026-08-09T10:51:23+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が好景気の先行指標として上昇を示唆。米国債務増加と中国依存低減の対策が並行して進む。銅需要の中期的な堅調性が市場で認識されている。"
   },
   {
     "title": "中国非鉄金属企業、上半期の利益が94%増、AI需要で関連金属が高騰 - ニコニコニュース",
@@ -2506,5 +2462,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "長城科技の上半期売上高は75.82億人民元で20%増収を達成。ただし銅価格上昇により販売数量が圧迫されており、増収は価格上昇によるものと判明。"
+  },
+  {
+    "title": "米国のインフレ統計発表を前に、金価格は1オンスあたり4400ドルに迫っている。 - Vietnam.vn",
+    "timestamp": "2026-08-12T09:16:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国インフレ統計発表を控え、金価格が1オンス4400ドル付近まで上昇している。インフレデータは金の実質金利感応度が高いため、投資家の注目が集まっている。"
+  },
+  {
+    "title": "その日の終わりまでに、金価格は50万ベトナムドン上昇した一方、多くの銀行で米ドルの為替レートは急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-12T10:20:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1日で50万ドン上昇した。同時期に米ドルの為替レートは多くの銀行で下落。ローカル市場の動きを報じた記事。"
+  },
+  {
+    "title": "ドル・円は軟調、原油相場の値下がりで｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-12T09:45:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場の値下がりに伴いドル円相場が軟調となっている。原油価格の下落がドル需要の減少につながり、円買い圧力が生じている。FX市場の振り返り・解説記事。"
+  },
+  {
+    "title": "欧州為替：ドル・円は軟調、原油相場の値下がりで 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-12T09:45:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場の値下がりがドル・円の軟調を招いているとの解説記事。原油価格の低下がエネルギー通貨であるドルの売却圧力につながっている状況を述べている。"
+  },
+  {
+    "title": "欧州為替：ドル・円は軟調、原油相場の値下がりで - ｄメニューニュース",
+    "timestamp": "2026-08-12T09:34:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場の値下がりがドル・円相場に影響を与えている。エネルギー価格下落に伴う通貨相場の連動を報じた相場解説記事。具体的な原油下落要因や数値は記事から不明。"
+  },
+  {
+    "title": "さだまさし 防人の詩 Copper Price (KLKkahO55B) - Mshale",
+    "timestamp": "2026-08-12T07:54:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "タイトルに「さだまさし 防人の詩」という楽曲名が含まれており、銅価格に関する実質的なニュースコンテンツが不明確です。提供されたリンク先の詳細情報がないため、市場関連性を判断できません。"
   }
 ]
