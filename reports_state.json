@@ -1791,5 +1791,82 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDAが8月の定期レポートでトウモロコシと大豆の収量見通しを引き下げた。これは天候不順や生育不良を反映した重要な下方修正であり、作付面積別の収量減少は市場予想を上回るサプライズとなる可能性が高い。供給タイト化懸念から両コモディティともに上昇圧力が生じる。"
+  },
+  {
+    "title": "USDA August WASDE Calls for Lower Yields, Higher Harvested Area for Corn and Soybeans - American Ag Network",
+    "timestamp": "2026-08-12T16:38:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA8月WASDEレポートで、トウモロコシと大豆の単収低下が見込まれる一方、作付面積の増加が予想されている。単収減少は供給懸念を高め価格上昇圧力となる可能性がある一方、作付面積増加は供給量を部分的に相殺する要因となる。市場はこれら相反する要因のバランスを探っている。"
+  },
+  {
+    "title": "USDA August WASDE Calls for Lower Yields, Higher Harvested Area for Corn and Soybeans - American Ag Network",
+    "timestamp": "2026-08-12T16:38:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA8月WASDEレポートで、トウモロコシと大豆の単収低下が見込まれる一方、作付面積の増加が予想されている。単収減少は供給懸念を高め価格上昇圧力となる可能性がある一方、作付面積増加は供給量を部分的に相殺する要因となる。市場はこれら相反する要因のバランスを探っている。"
+  },
+  {
+    "title": "CBOT Weekly: Corn cuts stand out in August WASDE - Manitoba Co-operator",
+    "timestamp": "2026-08-12T20:53:11+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE発表でトウモロコシの生産見通しが下方修正された。タイトルで「Corn cuts stand out」と強調されており、米国産トウモロコシの供給懸念が市場の焦点。穀物相場全般への下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "CBOT Weekly: Corn cuts stand out in August WASDE - Manitoba Co-operator",
+    "timestamp": "2026-08-12T20:53:11+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月のWASDE発表でトウモロコシの生産見通しが下方修正された。タイトルで「Corn cuts stand out」と強調されており、米国産トウモロコシの供給懸念が市場の焦点。穀物相場全般への下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "CBOT Weekly: Corn cuts stand out in August WASDE - Manitoba Co-operator",
+    "timestamp": "2026-08-12T20:53:11+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "8月のWASDE発表でトウモロコシの生産見通しが下方修正された。タイトルで「Corn cuts stand out」と強調されており、米国産トウモロコシの供給懸念が市場の焦点。穀物相場全般への下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "Copper hits fresh Comex record as supply concerns mount - Mining.com.au",
+    "timestamp": "2026-08-12T21:11:15+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅がComex史上最高値を更新した。供給不安懸念の高まりが価格押し上げの主要因となっている。チリやペルーなどの主要生産国における鉱業活動の制約や地政学的リスクにより、世界的な銅供給の逼迫が顕在化している。"
+  },
+  {
+    "title": "Copper hits fresh Comex record as supply concerns mount - Mining.com.au",
+    "timestamp": "2026-08-12T21:11:15+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅がComex史上最高値を更新した。供給不安懸念の高まりが価格押し上げの主要因となっている。チリやペルーなどの主要生産国における鉱業活動の制約や地政学的リスクにより、世界的な銅供給の逼迫が顕在化している。"
   }
 ]
