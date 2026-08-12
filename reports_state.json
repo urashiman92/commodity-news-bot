@@ -1,16 +1,5 @@
 [
   {
-    "title": "Saudi Says Fire at Aramco Refinery in Jazan Was Extinguished - Bloomberg.com",
-    "timestamp": "2026-08-09T12:28:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのアラムコ社ジャザン製油所で発生した火災が消火された。供給途絶の懸念は解消されたが、火災の規模や生産への影響は明記されていない。短期的な原油価格上昇圧力は限定的と判断される。"
-  },
-  {
     "title": "Asia stocks edge higher, oil up amid Gulf confusion - Reuters",
     "timestamp": "2026-08-10T00:25:00+00:00",
     "importance": 2,
@@ -1098,5 +1087,115 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "国際エネルギー機関（IEA）が2026年の石油供給見通しを引き下げた。ホルムズ海峡の再開が予想より遅れることが主因。地政学的緊張の長期化がコモディティ市場に供給不安をもたらし、原油価格への上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "API: US crude oil inventories surge, product stocks tumble more - Quantum Commodity Intelligence",
+    "timestamp": "2026-08-11T21:26:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国石油協会（API）が原油在庫の大幅な増加を報告する一方、ガソリンや留出油などの製品在庫は予想以上に減少した。原油供給過剰と製品需要の綱引きが続く状況を示しており、短期的な価格圧力は複雑な様相を呈している。"
+  },
+  {
+    "title": "API: US crude oil inventories surge, product stocks tumble more - Quantum Commodity Intelligence",
+    "timestamp": "2026-08-11T21:26:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国石油協会（API）が原油在庫の大幅な増加を報告する一方、ガソリンや留出油などの製品在庫は予想以上に減少した。原油供給過剰と製品需要の綱引きが続く状況を示しており、短期的な価格圧力は複雑な様相を呈している。"
+  },
+  {
+    "title": "USDA Report Looms as Grain Markets Brace for a Volatile Yield Surprise - Agrolatam",
+    "timestamp": "2026-08-12T13:10:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA穀物レポート発表を控え、穀物市場はイールドサプライズへの警戒感が高まっている。タイトルから収穫量予想に大きな変動が見込まれる可能性が示唆されており、市場のボラティリティが急速に上昇する前夜の状況と考えられる。"
+  },
+  {
+    "title": "USDA Report Looms as Grain Markets Brace for a Volatile Yield Surprise - Agrolatam",
+    "timestamp": "2026-08-12T13:10:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA穀物レポート発表を控え、穀物市場はイールドサプライズへの警戒感が高まっている。タイトルから収穫量予想に大きな変動が見込まれる可能性が示唆されており、市場のボラティリティが急速に上昇する前夜の状況と考えられる。"
+  },
+  {
+    "title": "USDA Report Looms as Grain Markets Brace for a Volatile Yield Surprise - Agrolatam",
+    "timestamp": "2026-08-12T13:10:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA穀物レポート発表を控え、穀物市場はイールドサプライズへの警戒感が高まっている。タイトルから収穫量予想に大きな変動が見込まれる可能性が示唆されており、市場のボラティリティが急速に上昇する前夜の状況と考えられる。"
+  },
+  {
+    "title": "Saudis Report Million-Barrel Output Rebound in July to OPEC - Bloomberg.com",
+    "timestamp": "2026-08-12T12:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアが7月の石油生産量を前月比で日量100万バレル増加させ、OPECに報告した。これはOPEC減産合意の枠組み内での生産調整であり、市場への供給圧力は限定的。サウジの主導的な生産管理姿勢を示す定例報告。"
+  },
+  {
+    "title": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
+    "timestamp": "2026-08-12T12:37:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが石油需要見通しを再び引き下げ。ホルムズ海峡をめぐる交渉が停滞している状況を反映している。需要予想の継続的な下方修正は、原油価格に対する弱気シグナルとなっており、市場は供給過剰への懸念を強めている。"
+  },
+  {
+    "title": "OPEC: Saudi crude production rebounds by more than 1 MMbpd in July - World Oil",
+    "timestamp": "2026-08-12T12:28:53+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアの原油生産が7月に日量100万バレル以上増加した。これはOPECの段階的な増産計画の一環であり、市場予想の範囲内での回復。供給増加は原油価格に下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "OPEC crude production jumps 1.7M bpd in July - Anadolu Ajansı",
+    "timestamp": "2026-08-12T13:23:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの原油生産が7月に日量170万バレル増加したと報告された。この増産は市場の需給バランスに影響を与え、原油価格に対する上昇圧力をもたらす可能性がある。具体的な増産規模は170万バレル/日と大幅である。"
+  },
+  {
+    "title": "OPEC further lowers 2026 global oil demand growth forecast - reuters.com",
+    "timestamp": "2026-08-12T12:12:46+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要減速の継続的な調整であり、電動車普及加速やエネルギー効率改善による構造的な需要減が背景。市場予想の範囲内の下方修正と見られ、既に部分的に織り込まれている可能性が高い。"
   }
 ]
