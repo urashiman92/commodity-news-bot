@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格は1オンスあたり300ドル近くまで急騰した後も、上昇を続けるだろうか？ - Vietnam.vn",
-    "timestamp": "2026-08-09T07:17:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス当たり300ドル近くまで急騰した後の今後の上昇余地について、アナリストが見通しを述べている。既に価格上昇が実現しており、継続性に関する解説記事。"
-  },
-  {
-    "title": "金価格は、1週間で1オンスあたり300ドルを突破する急騰を見せた後の予測。 - Vietnam.vn",
-    "timestamp": "2026-08-09T07:35:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で1オンスあたり300ドル超の急騰を記録した。この上昇後の今後の価格予測についての解説記事。背景にある需給要因やマクロ環境の変化への市場反応と見られる。"
-  },
-  {
-    "title": "世界の金価格は来週、1オンスあたり4,450ドルを超える見込みだ。 - Vietnam.vn",
-    "timestamp": "2026-08-09T07:22:04+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が来週1オンス当たり4,450ドルを超える見込みとの観測。既存の上昇トレンドの継続を示唆するアナリスト予測。具体的な新規要因は示されていない。"
-  },
-  {
     "title": "SJCの金価格は引き続き高値を維持している。 - Vietnam.vn",
     "timestamp": "2026-08-09T10:07:31+00:00",
     "importance": 2,
@@ -229,17 +196,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月10日の金価格について、高い変動性が指摘されている解説記事。投資家への注意喚起が主内容。具体的な価格動向や新規材料の記載がない。"
-  },
-  {
-    "title": "金価格の現状維持は、次の大きな動きを隠しているかもしれない - Moomoo",
-    "timestamp": "2026-08-09T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が現在、狭いレンジで推移していることが指摘されている。この現状維持の背後に大きな価格変動の可能性が隠されているとの見方が示唆されている。具体的なトリガーや方向性は明示されていない。"
   },
   {
     "title": "ドル円、157.89円までじり高 原油先物価格の上昇が支えに(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -2517,5 +2473,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅生産者の利益と収益が連続減少しており、供給減少圧力が生じる可能性がある。供給削減に至った場合、短期的には銅価格の下支え要因となる可能性がある一方、既に市場に織り込まれているリスクでもある。"
+  },
+  {
+    "title": "国内の金価格は、世界の金価格との差をほぼ縮めつつある。 - Vietnam.vn",
+    "timestamp": "2026-08-12T07:01:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格が世界金価格との価格差を縮小させている。市場の効率化を示す動きだが、グローバル金相場全体への直接的な影響は限定的。"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／原油相場にらみ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-12T04:15:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "カナダドル円相場が原油価格と連動する傾向に関する為替解説記事。原油相場の動向がカナダドルの変動要因となることを指摘。FX市場における通貨ペアと商品相場の関連性についての観測記事。"
   }
 ]
