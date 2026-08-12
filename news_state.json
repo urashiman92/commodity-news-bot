@@ -1,38 +1,5 @@
 [
   {
-    "title": "米国の雇用情勢の悪化が金価格を4500ドルに向けて押し上げている。 - Vietnam.vn",
-    "timestamp": "2026-08-09T03:50:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の雇用情勢悪化が金相場の上昇要因として機能している。安全資産の需要増加と金利低下期待が金を4500ドル水準へ押し上げている。既知の経済減速トレンドの継続を反映した相場観。"
-  },
-  {
-    "title": "先週、世界の金価格は1オンスあたり300ドル以上上昇したが、短期的なリスクは依然として大きい。 - Vietnam.vn",
-    "timestamp": "2026-08-09T03:50:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "先週の金価格は1オンスあたり300ドル以上上昇した。ただし、短期的なリスク要因が依然として存在している。市場では利益確定売りの圧力が高まる可能性が指摘されている。"
-  },
-  {
-    "title": "金価格は1週間で300ドル近く上昇した。専門家は次に何を予測しているのか？ - Vietnam.vn",
-    "timestamp": "2026-08-09T04:51:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で300ドル近く上昇した。アナリスト予測を含むコメンタリー記事。具体的な上昇要因や今後の見通しの詳細は記事本文が必要。"
-  },
-  {
     "title": "政府監察局は、国内の金価格が世界価格よりも高い理由を特定した。 - Vietnam.vn",
     "timestamp": "2026-08-09T06:32:04+00:00",
     "importance": 2,
@@ -2484,5 +2451,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午前の相場動向を報じた記事。原油先物は小幅上昇（0.09ドル高）。ダウ平均も73ドル高で堅調だが、具体的なファンダメンタルズ要因は記事から読み取れない。"
+  },
+  {
+    "title": "小麦とコーヒー市場では、売り圧力が再び優勢となった。 - Vietnam.vn",
+    "timestamp": "2026-08-12T05:16:09+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "小麦とコーヒー市場で売り圧力が再び優勢になったという相場動向の報告。既に進行中の価格下落トレンドの継続を示すもの。市場心理の悪化を反映した技術的な売り圧力である。"
+  },
+  {
+    "title": "ウォール街のアナリスト84%が金価格の上昇を予想、CPIデータが短期的な反発の鍵に - BigGo ファイナンス",
+    "timestamp": "2026-08-12T03:27:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ウォール街のアナリスト84%が金価格の上昇を予想している。CPIデータが短期的な反発の鍵となる見通し。インフレ懸念や金融不確実性が背景にある。"
+  },
+  {
+    "title": "金価格は小幅に下落したが、米ドルは安定した状態を維持した。 - Vietnam.vn",
+    "timestamp": "2026-08-12T03:02:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は小幅下落したが、米ドルは安定を維持。金と米ドルの相関性を示唆するニュース。特段の市場変動要因は報じられていない。"
+  },
+  {
+    "title": "新興国市場はもはや原油価格を恐れない - ピクテ・ジャパン",
+    "timestamp": "2026-08-12T04:37:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ピクテ・ジャパンが新興国市場は原油価格変動への耐性が高まったと指摘する解説記事。新興国経済の構造変化と金融政策の独立性向上を背景とした観測コメント。"
+  },
+  {
+    "title": "商品市場概況：原油高、銅相場は横ばい、金価格は下落 - Moomoo",
+    "timestamp": "2026-08-11T22:40:24+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "原油は上昇傾向だが、銅相場は横ばいで特段の変動がない。金価格は下落している。複数商品の市場概況をまとめた解説記事。"
   }
 ]
