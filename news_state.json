@@ -1,16 +1,5 @@
 [
   {
-    "title": "ExxonMobil Doubled Its Profit to $14.5 Billion. Why Falling Oil Is the Real Test - TIKR.com",
-    "timestamp": "2026-08-09T16:44:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ExxonMobilが利益を14.5億ドルに倍増させたと報告。ただしタイトルから、記事の主眼は「原油下落時の企業収益力の真価」を問う解説であり、今後の油価下落局面が実質的なテスト局面となることを示唆している。"
-  },
-  {
     "title": "本日（8月9日午後）の金価格：金価格の回復と来週の上昇傾向継続の理由。 - Vietnam.vn",
     "timestamp": "2026-08-09T17:38:08+00:00",
     "importance": 2,
@@ -2528,5 +2517,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "インドネシアのAntam金価格が1グラムあたりIDR 30,000下落した。インドネシア国内の金先物相場の日々の変動を報じた記事。"
+  },
+  {
+    "title": "ASXプレビュー：米国のインフレ統計発表を前に金価格が下落し、オーストラリア株は安値スタートの見込み。コモンウェルス・バンク・オブ・オーストラリアは下半期の現金収益および総純営業収入が増加 - Moomoo",
+    "timestamp": "2026-08-12T14:37:02+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国インフレ統計発表を控えて金価格が下落している。金利上昇懸念で金需要が減少。オーストラリア株も安値での寄り付きが予想されている。"
+  },
+  {
+    "title": "NY市場動向（午後0時台）：ダウ40ドル高、原油先物0.07ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-12T16:34:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午後0時台の株価と原油先物の値動きを伝える市場リポート。ダウ平均は40ドル高、WTI原油先物は0.07ドル高と微動程度。具体的な材料や背景情報なし。"
   }
 ]
