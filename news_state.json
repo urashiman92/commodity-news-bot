@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は本日、2026年8月10日に「興味深い戦い」に突入し、1オンスあたり4,500ドルへの比較的容易な道のりを歩むことになるだろう。 - Vietnam.vn",
-    "timestamp": "2026-08-09T14:13:19+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリストが金価格の1オンス4,500ドルへの上昇見通しを示唆。現在の相場で4,500ドルが比較的容易に到達可能な水準と判断。市場で既に認識されている強気見通しの追認。"
-  },
-  {
     "title": "金価格は本日8月9日、大幅高で取引を終え、買い手は損益分岐点で取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-09T14:43:38+00:00",
     "importance": 2,
@@ -438,17 +427,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米雇用統計が予想より弱い結果となり、FRBの利上げ観測が後退。金利上昇圧力が減少することで、利回りを生まない金は買い需要が増加。金価格は4,300ドル台で支持されている。"
-  },
-  {
-    "title": "金価格が1週間で7%超上昇 背後にある二大要因とは - CGTN Japanese",
-    "timestamp": "2026-08-09T13:59:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で7%超上昇した。背後に二大要因が存在する。詳細は記事本文に記載。"
   },
   {
     "title": "本日（8月10日）の金価格：若干下落。 - Vietnam.vn",
@@ -2495,5 +2473,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ブレント原油が1バレル89ドルを突破した。足元の地政学的緊張やOPEC+の供給調整が価格を支えている状況を反映している。"
+  },
+  {
+    "title": "中国の金宝飾品価格が1グラム1330元台に高騰、七夕商戦と投資家の様子見姿勢が交錯 - BigGo ファイナンス",
+    "timestamp": "2026-08-12T12:56:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中国の金宝飾品価格が1グラム1330元台に上昇。七夕商戦による季節的需要増と投資家の様子見姿勢が混在している局面。"
+  },
+  {
+    "title": "金価格は本日8月12日、大幅高で取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-12T13:04:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム市場で金が8月12日に大幅高で取引を終了した。具体的な価格上昇率や上昇要因は記事から不明。市場の振り返りコメントと判断される。"
+  },
+  {
+    "title": "国内の金価格は世界価格よりわずか400万ベトナムドン高いだけで、ここ数年で最低水準となっている。 - Vietnam.vn",
+    "timestamp": "2026-08-12T13:04:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格が世界価格との差（プレミアム）を400万ドン（約3000円相当）に縮小し、数年来の最低水準に。国内需要の減速や国際価格への収斂を示唆。"
+  },
+  {
+    "title": "【速報】NY原油先物82.90ドル(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-12T13:47:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が82.90ドルで取引されている速報。現在の価格ポイント情報であり、具体的な新規要因や市場イベントは明記されていない。"
   }
 ]
