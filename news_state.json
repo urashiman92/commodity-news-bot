@@ -1,27 +1,5 @@
 [
   {
-    "title": "週間相場シナリオ｜新高値更新、金価格がブレイクアウト――しかしCPIはまだ沈黙 - Moomoo",
-    "timestamp": "2026-08-10T09:14:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金が新高値を更新しブレイクアウトしたと報じられている。一方、CPI指標は市場に織り込まれきっていない状態が続いている。テクニカルな買いシグナルと金利見通しの不確実性が交錯している。"
-  },
-  {
-    "title": "2026年8月10日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-10T09:14:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金および先物オプション市場の定期ウォッチ記事。市場参加者向けの技術情報提供。金市場への直接的な影響なし。"
-  },
-  {
     "title": "8月10日午後：金価格が再び上昇。 - vietnam.vn",
     "timestamp": "2026-08-10T10:13:26+00:00",
     "importance": 2,
@@ -75,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米国の雇用指標が弱い結果となったことを受けて、バイナンス金先物に25億ドルの急増が報告された。これは暗号資産市場における金関連商品への資金流入を示唆している。"
-  },
-  {
-    "title": "銅とコバルトの価格が急騰し、核心鉱物の供給網の確保が国内産業界の主要課題として浮上している。 電気自動車·バッテリーとAI拡散による電力インフラストラクチャー投資で需要が増える中で、気象異変と資源保有.. - 매일경제",
-    "timestamp": "2026-08-10T08:54:53+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "EV・バッテリー・AI関連インフラ投資による銅・コバルト需要増加が見込まれる中、気象変動と地政学的リスクが供給網の不安定性を高めている。韓国産業界が核心鉱物の調達確保を重要課題として認識。"
   },
   {
     "title": "8月10日の金価格は、非常に異例な動きを見せた。 - Vietnam.vn",
@@ -2484,5 +2451,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "古河機金が通期利益予想を上方修正。銅価格上昇と固定資産売却益が寄与。銅市場の需給逼迫継続を示唆する企業動向。"
+  },
+  {
+    "title": "金価格、高値更新後に一服 ステート・ストリートは年末5,000ドル到達を予想 - BigGo ファイナンス",
+    "timestamp": "2026-08-13T09:35:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は高値更新後に調整局面を迎えている。ステート・ストリートは年末までに5,000ドル到達を予想しており、強気見通しが継続している。現在の調整は健全な利益確定と見られる。"
+  },
+  {
+    "title": "金価格は、2カ月ぶりの高値をつけた後、小幅に下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-13T09:11:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は2カ月ぶりの高値をつけた後、小幅に下落した。短期的な利確売りと見られる。基調としては堅調を維持している可能性がある。"
+  },
+  {
+    "title": "中国国内の石油価格、14日深夜に年内5回目の引き下げへ 満タン給油で約11元お得に - BigGo ファイナンス",
+    "timestamp": "2026-08-13T09:11:25+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中国が国内石油価格を14日深夜に年内5回目の引き下げを実施予定。満タン給油で約11元（約200円相当）のコスト削減となる。中国の需要減速を反映した定期的な価格調整。"
+  },
+  {
+    "title": "世界的な需要見通しの悪化を受け、原油価格は小幅に下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-13T09:12:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界的な需要見通しの悪化が報じられ、原油価格は小幅に下落した。需要減速シナリオは既に市場で認識されている懸念材料であり、大幅な変動には至らず。"
+  },
+  {
+    "title": "古河機金、通期予想を上方修正　銅価格上昇や固定資産売却益で - ｄメニューニュース",
+    "timestamp": "2026-08-13T07:22:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "古河機金が通期予想を上方修正。銅価格の上昇トレンドが続いていることが収益改善につながった。固定資産売却益も寄与。"
+  },
+  {
+    "title": "古河機金、通期予想を上方修正 銅価格上昇や固定資産売却益で｜Infoseekニュース - Infoseek",
+    "timestamp": "2026-08-13T07:22:28+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "古河機金が通期予想を上方修正。銅価格上昇と固定資産売却益が要因。銅市場の需給環境改善を反映した企業業績の底堅さを示唆。"
   }
 ]
