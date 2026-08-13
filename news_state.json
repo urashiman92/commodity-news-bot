@@ -1,16 +1,5 @@
 [
   {
-    "title": "8月10日の金価格は、非常に異例な動きを見せた。 - Vietnam.vn",
-    "timestamp": "2026-08-10T12:55:23+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月10日の金価格が異例な動きを見せたとの報道。具体的な価格方向や変動幅、原因が不明。ベトナムメディアの解説記事と考えられる。"
-  },
-  {
     "title": "国際原油価格が3%超上昇、米石油・ガス株が全面高——アパッチが5%超高でけん引 - BigGo ファイナンス",
     "timestamp": "2026-08-10T15:05:00+00:00",
     "importance": 2,
@@ -64,17 +53,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "映画『アングリースクワッド 公務員と7人の詐欺師』の舞台あいさつに関する記事。キャスト（川栄李奈、森川葵、内野聖陽）のトークイベントを報道したもの。銅や商品市場とは無関係。"
-  },
-  {
-    "title": "カンザスシティ小麦価格がUSX717.13のサポートをテスト：注目すべき主要レベル - tradersunion.com",
-    "timestamp": "2026-08-10T12:25:35+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦先物がUSX717.13のサポートレベルをテストしている。技術的な価格水準の解説記事で、市場観測・チャート分析の類。"
   },
   {
     "title": "中東戦争下でも下落する金価格、各国中銀は「買い場」と判断 - BigGo ファイナンス",
@@ -253,28 +231,6 @@
     "summary": "米国コーンベルトの干ばつと輸出混乱という相反する要因がコーン先物相場を狭いレンジに押さえ込んでいる。供給リスク（干ばつ）と需要減退リスク（輸出混乱）が相殺している状況。"
   },
   {
-    "title": "レジスタンス付近でのもみ合い：コーン先物価格は上値を試せるか？ - Traders Union",
-    "timestamp": "2026-08-10T12:47:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物がレジスタンス水準付近でもみ合い状態。テクニカル観点から上値抵抗への接近を指摘した相場解説。具体的なファンダメンタル要因の記載なし。"
-  },
-  {
-    "title": "大豆先物、USX1,174サポート付近での価格もみ合い：テクニカル見通し - Traders Union",
-    "timestamp": "2026-08-10T12:19:35+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,174ドル近辺でもみ合い相場となっていることについてのテクニカル分析記事。特定のサポートレベル付近での値動きを技術的に解説した観測コメント。"
-  },
-  {
     "title": "銅価格予想：強気派は$6,725のレジスタンス突破を狙い、HGは$6.61付近を維持 - Traders Union",
     "timestamp": "2026-08-10T14:09:42+00:00",
     "importance": 2,
@@ -284,17 +240,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格は$6.61付近で推移中。強気派は$6,725のレジスタンス突破を狙っている。アナリスト見解に基づく相場予想の提示。"
-  },
-  {
-    "title": "銅価格は$6,635のレジスタンス付近で揉み合い：テクニカル見通し - Traders Union",
-    "timestamp": "2026-08-10T12:13:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が$6,635のレジスタンスレベル付近で値動き幅を限定している。テクニカル分析に基づいた相場観測。ファンダメンタルズの新たな材料ではなく、技術的な価格水準の議論。"
   },
   {
     "title": "NY原油・金相場（10日）－原油が3日続伸 金も続伸(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -2517,5 +2462,60 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "J.P.モルガンがコモディティ市場の現状を2022年と比較する分析を提示。具体的な価格予測や新しい情報は含まれていない。既存のコモディティ相場観に関するアナリスト見解である。"
+  },
+  {
+    "title": "LBMA調査：年末の金価格は4,500ドルまで上昇へ 最も強気な予想は7,150ドル - BigGo ファイナンス",
+    "timestamp": "2026-08-13T07:39:50+00:00",
+    "importance": 3,
+    "direction": "上�昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "LBMA調査で年末の金価格が4,500ドル、強気シナリオで7,150ドルまで上昇と予想。市場参加者の楽観的見通しが示された。ただし予想幅が大きく、実現には地政学リスクやドル相場が重要。"
+  },
+  {
+    "title": "金価格が8月に400ドル急騰、中央銀行の買い増しと地政学リスクが相場を押し上げる - Межа. Новини України.",
+    "timestamp": "2026-08-13T13:39:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月に金価格が400ドル急騰した。中央銀行の買い増しと地政学リスクが上昇要因。すでに現物化した相場の振り返り報道。"
+  },
+  {
+    "title": "アシアナ航空は、原油価格の高騰と為替レートの変動により、11億ドル以上の損失を出した。 - Vietnam.vn",
+    "timestamp": "2026-08-13T13:12:07+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アシアナ航空が原油価格高騰と為替変動で11億ドル超の損失を計上。航空業界の燃油費負担の深刻さを示す事例。原油価格の構造的上昇圧力を市場に想起させる。"
+  },
+  {
+    "title": "欧州国債概況12日 独10年債利回り、横ばい圏 原油先物は一進一退 - 日本経済新聞",
+    "timestamp": "2026-08-12T16:25:54+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州国債市場が横ばい圏で推移する中、原油先物は一進一退の動きを見せている。欧州金利環境と原油市場の相互関係を示唆するコメンタリー記事。"
+  },
+  {
+    "title": "キュアエクレールは誰？みなさんは誰だとおもう？（名探偵プリキュア より） Copper Price (v1Bq5abd9Y) - Mshale",
+    "timestamp": "2026-08-12T22:41:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "プリキュアアニメのキャラクター考察記事。銅価格との関連性なし。ニュース配信システムの誤分類と推定。"
   }
 ]
