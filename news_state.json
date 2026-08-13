@@ -1,27 +1,5 @@
 [
   {
-    "title": "今日の金価格（8月11日）：金は突破口を待っているのか？ - Vietnam.vn",
-    "timestamp": "2026-08-10T21:53:12+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が次の突破口を待機している状況についての相場解説記事。市場が方向性を模索中であることを示唆しており、具体的なファンダメンタルズ変化ではなく、テクニカル的な局面評価。"
-  },
-  {
-    "title": "NY為替：米イラン交渉の行方が不透明となりNY原油価格が上昇 - ｄメニューニュース",
-    "timestamp": "2026-08-10T22:18:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン交渉の先行き不透明化により、中東地政学リスク懸念が高まった。原油供給途絶リスク要因として価格を押し上げている。交渉進展状況の不確実性が相場変動要因。"
-  },
-  {
     "title": "NY原油・金相場（10日）－原油が3日続伸 金も続伸(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
     "timestamp": "2026-08-10T22:36:00+00:00",
     "importance": 2,
@@ -495,17 +473,6 @@
     "summary": "ホルムズ海峡の地政学的不透明感を背景に原油価格が上昇。一方、金価格は小幅下落。カナダコモディティ市場全体では原油が相対的に堅調。"
   },
   {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、銅、小麦、大豆が上昇 トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-10T22:33:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油、貴金属、農産物など多数の商品が上昇。トウモロコシのみ下落。複数商品の同時上昇は一般的な相場動向の報道。"
-  },
-  {
     "title": "金価格が2カ月超ぶり高値、イラン協議と米インフレに注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-11T01:09:00+00:00",
     "importance": 3,
@@ -625,17 +592,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇圧力が一服し、景気敏感株に買いが入った。ホルムズ海峡に関する協議が進展し、地政学的リスクが軽減。NYダウが反発した。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、銅、小麦、大豆が上昇 トウモロコシが下落 - TradingView",
-    "timestamp": "2026-08-10T22:33:16+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油、貴金属、農産物など複数商品が上昇した日次の相場サマリー。トウモロコシのみ下落。市場全体としては穏やかな上昇基調。"
   },
   {
     "title": "売られ過ぎの状況がさらなる売りを抑える中、カンザスシティ小麦価格はサポートを維持できるか？ - Traders Union",
@@ -2407,5 +2363,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が2%超下落。需要減速の兆しと米国の在庫急増が売り圧力となった。EIA週間在庫統計の結果と見られる。"
+  },
+  {
+    "title": "本日（8月14日）の金価格：2カ月ぶりの高値に迫る。 - Vietnam.vn",
+    "timestamp": "2026-08-13T22:08:52+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2ヶ月ぶりの高値に接近している。市場は段階的に上昇トレンドを形成している。ベトナムの金市場動向の報道。"
+  },
+  {
+    "title": "2026年8月14日の金価格：SJC金価格、9999金リング価格、および金曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-08-13T22:13:14+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報（SJC金、9999金リング、世界金価格）の日次レポート。定期的な価格情報配信であり、新規材料や市場イベントは含まれていない。"
+  },
+  {
+    "title": "原油先物が2％超反落、米在庫急増と需要減速の兆しで - BigGo ファイナンス",
+    "timestamp": "2026-08-13T21:57:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油在庫の予期せぬ増加と需要減速の兆候を受け、原油先物が2%超下落。EIA週間在庫統計の定期発表に基づく市場反応。供給過剰と需要鈍化が価格に悪材料として作用。"
+  },
+  {
+    "title": "Crude Oil Perpetual Futures 分析 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-13T09:20:36+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Investing.comによる原油先物の技術分析記事。具体的な価格動向や市場変動要因の情報は記事概要から判断不可。市場解説・アナリスト見解の可能性が高い。"
+  },
+  {
+    "title": "米コモディティー市場－大豆が上昇 原油、ガソリン、天然ガス、金、銀、銅、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-13T22:29:20+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で大豆が上昇した一方、原油・ガソリン・天然ガス・貴金属・銅など広範な商品が下落。複数商品の混在した動きを示す市場観測レポート。"
   }
 ]
