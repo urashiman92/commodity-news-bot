@@ -1,49 +1,5 @@
 [
   {
-    "title": "Asia stocks edge higher, oil up amid Gulf confusion - Reuters",
-    "timestamp": "2026-08-10T00:25:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が上昇する中、原油価格も買われている。湾岸地域での不透明感（「Gulf confusion」）が地政学的リスク要因として意識されており、供給懸念からの買いが入っていると考えられる。具体的な数値や事象の詳細は記事タイトルからは判断できない。"
-  },
-  {
-    "title": "Asia stocks edge higher, oil up amid Gulf confusion - Reuters",
-    "timestamp": "2026-08-10T00:25:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が上昇する中、原油価格も買われている。湾岸地域での不透明感（「Gulf confusion」）が地政学的リスク要因として意識されており、供給懸念からの買いが入っていると考えられる。具体的な数値や事象の詳細は記事タイトルからは判断できない。"
-  },
-  {
-    "title": "China is balancing Asia's crude oil demand by itself - Reuters",
-    "timestamp": "2026-08-10T01:16:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国がアジアの原油需要バランスを自らの需要調整で担っている状況についての解説報道。中国の経済成長率鈍化と石油化学産業の需給調整により、アジア全体の原油需給が相対的に安定している。既知の市場トレンドの継続報道。"
-  },
-  {
-    "title": "China is balancing Asia's crude oil demand by itself - Reuters",
-    "timestamp": "2026-08-10T01:16:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国がアジアの原油需要バランスを自らの需要調整で担っている状況についての解説報道。中国の経済成長率鈍化と石油化学産業の需給調整により、アジア全体の原油需給が相対的に安定している。既知の市場トレンドの継続報道。"
-  },
-  {
     "title": "Wheat Hits Highest in a Week on Supply Disruptions in Black Sea - Bloomberg.com",
     "timestamp": "2026-08-10T03:23:00+00:00",
     "importance": 3,
@@ -119,28 +75,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "オマン沖でロシア制裁対象下のタンカーから大規模な原油流出が発生。流出範囲が広大な海域に拡大している。ロシア産原油の海上輸送に関わる突発的なサプライズイベントであり、グローバルな原油供給懸念とエネルギーセキュリティリスクが急速に高まった。"
-  },
-  {
-    "title": "Global stocks tick up with Hormuz and inflation in focus - Reuters",
-    "timestamp": "2026-08-10T00:25:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の地政学的リスクとインフレ懸念がコモディティ市場の焦点となっている。グローバル株式の小幅上昇と並行して、原油価格は供給懸念とドル強気相場の相殺作用を受けている。インフレ動向と金融政策の先行き不透明性が全コモディティに影響を及ぼしており、市場の方向性判断が困難な局面。"
-  },
-  {
-    "title": "Global stocks tick up with Hormuz and inflation in focus - Reuters",
-    "timestamp": "2026-08-10T00:25:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ホルムズ海峡の地政学的リスクとインフレ懸念がコモディティ市場の焦点となっている。グローバル株式の小幅上昇と並行して、原油価格は供給懸念とドル強気相場の相殺作用を受けている。インフレ動向と金融政策の先行き不透明性が全コモディティに影響を及ぼしており、市場の方向性判断が困難な局面。"
   },
   {
     "title": "Russia Says 13 Killed in Ukraine Attack on Tatarstan Energy Hub - Bloomberg.com",
@@ -2000,5 +1934,60 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "8月WASDEレポートで2025-26年度の大豆油のバイオ燃料向け使用量見積もりが上方修正された。バイオ燃料需要の増加は大豆油価格を支える要因となり、連動して大豆相場にも上昇圧力をもたらす。原油価格とバイオ燃料の相対価値関係も重要な材料となる。"
+  },
+  {
+    "title": "WASDE Shock: USDA Yield Cuts, Acreage Revisions Trigger Rallies Across Grain Markets - 101.5 WKKG",
+    "timestamp": "2026-08-12T18:10:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDEレポートで穀物の収量見直しと作付面積の修正が発表され、穀物市場全体で上昇相場が形成された。収量低下と供給調整による逼迫懸念が価格上昇を牽引。複数穀物での同時ショックが市場参加者の予想を上回るサプライズとなった。"
+  },
+  {
+    "title": "WASDE Shock: USDA Yield Cuts, Acreage Revisions Trigger Rallies Across Grain Markets - 101.5 WKKG",
+    "timestamp": "2026-08-12T18:10:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDEレポートで穀物の収量見直しと作付面積の修正が発表され、穀物市場全体で上昇相場が形成された。収量低下と供給調整による逼迫懸念が価格上昇を牽引。複数穀物での同時ショックが市場参加者の予想を上回るサプライズとなった。"
+  },
+  {
+    "title": "WASDE Shock: USDA Yield Cuts, Acreage Revisions Trigger Rallies Across Grain Markets - 101.5 WKKG",
+    "timestamp": "2026-08-12T18:10:55+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDEレポートで穀物の収量見直しと作付面積の修正が発表され、穀物市場全体で上昇相場が形成された。収量低下と供給調整による逼迫懸念が価格上昇を牽引。複数穀物での同時ショックが市場参加者の予想を上回るサプライズとなった。"
+  },
+  {
+    "title": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks - Reuters",
+    "timestamp": "2026-08-13T01:08:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "需要見通しの下方修正により原油価格が下落した。米国とイラン間の核合意交渉の膠着状態にもかかわらず、需要面の弱さが価格を圧迫。供給サイドのリスク要因よりも需要減速の懸念が市場心理を支配している。"
+  },
+  {
+    "title": "Venezuela looks to UK-held gold reserves for reconstruction as inflation surges - Reuters",
+    "timestamp": "2026-08-12T21:48:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "ベネズエラがインフレ急騰（公式発表では3000%超）への対抗策として、英国が保管する同国の金準備（推定1400トン超）の返還・活用を要求。地政学的緊張の高まりと新興国の金準備へのアクセス権争いが顕在化。国家レベルの金資産をめぐる紛争は金市場の需給と価格シグナルに直結。"
   }
 ]
