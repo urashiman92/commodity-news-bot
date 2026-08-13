@@ -1,71 +1,5 @@
 [
   {
-    "title": "本日（8月10日午後）の金価格：全般的に下落。 - Vietnam.vn",
-    "timestamp": "2026-08-10T05:48:17+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月10日午後の金価格が全般的に下落した。ベトナムローカルの相場レポートであり、グローバルな新規材料ではない。既に織り込まれた値動きの確認報道。"
-  },
-  {
-    "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ロイター",
-    "timestamp": "2026-08-10T05:46:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再開時期が不透明なままであり、供給リスク要因が解消されていない。この不確実性が原油先物を押し上げている。地政学的なリスクプレミアムが継続している。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ - Moomoo",
-    "timestamp": "2026-08-10T06:12:55+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物の取引情報を示すMoomooのページ。具体的な価格変動やニュースイベントの記載がなく、単なるプラットフォーム表示のみ。"
-  },
-  {
-    "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ニューズウィーク日本版",
-    "timestamp": "2026-08-10T05:45:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再開時期が不透明なため、供給途絶リスクが継続している。原油先物は上昇し、市場は地政学的リスクプレミアムを織り込んでいる。海峡の通航再開がいつになるかが価格変動の焦点。"
-  },
-  {
-    "title": "外為サマリー：１５８円３０銭前後で推移、原油価格の上昇もドル買い要因に - 株探",
-    "timestamp": "2026-08-10T06:41:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇がドル買い要因となり、ドル円相場が158円30銭前後で推移している。原油高とドル強化の相関関係を指摘する市場解説。"
-  },
-  {
-    "title": "中国非鉄金属企業、上半期の利益が94%増、AI需要で関連金属が高騰 - ニコニコニュース",
-    "timestamp": "2026-08-10T06:00:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "中国非鉄金属企業の上半期利益が94%増加し、AI需要に支えられた。銅をはじめとする関連金属価格が高騰傾向を示している。需要サイドの強気シグナルが価格下支え要因となっている。"
-  },
-  {
     "title": "国内および世界の金価格は同時に反転し、下落した。 - Vietnam.vn",
     "timestamp": "2026-08-10T07:24:29+00:00",
     "importance": 2,
@@ -75,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金の国内価格と世界価格が同時に反転して下落した。ベトナムを含む市場全体での価格調整。既に織り込まれた相場の振り返りニュース。"
-  },
-  {
-    "title": "世界の金価格は約2カ月ぶりの高値を記録し、国内市場では新たな展開が見られる。 - Vietnam.vn",
-    "timestamp": "2026-08-10T06:10:12+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が約2ヶ月ぶりの高値を更新。ベトナム国内市場での新しい展開も報告されている。既存のトレンド継続を示唆するニュース。"
-  },
-  {
-    "title": "原油先物上昇、ホルムズ海峡再開巡る不透明感続く - ｄメニューニュース",
-    "timestamp": "2026-08-10T05:45:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再開見通しが不透明であることが、原油先物を押し上げている。供給途絶リスクへの懸念が継続している状況。"
-  },
-  {
-    "title": "午後：債券サマリー 先物は続落、日銀の早期利上げ観測や時間外の原油先物高が影響 - minkabu.jp",
-    "timestamp": "2026-08-10T06:43:01+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日銀の早期利上げ観測により債券先物が続落。時間外の原油先物高が影響を与えている。金利上昇がドル高を招き、原油需要見通しに対する懸念が背景。"
   },
   {
     "title": "週間相場シナリオ｜新高値更新、金価格がブレイクアウト――しかしCPIはまだ沈黙 - Moomoo",
@@ -207,17 +108,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月10日の金価格が異例な動きを見せたとの報道。具体的な価格方向や変動幅、原因が不明。ベトナムメディアの解説記事と考えられる。"
-  },
-  {
-    "title": "WTI原油、ベアフラッグ70%進捗で売り場接近：毎時更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-10T07:11:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油がベアフラッグパターンの形成途上にあり、70%進捗地点に達している。テクニカル分析では売り場が接近していることを示唆しており、下降トレンド継続の可能性を指摘。"
   },
   {
     "title": "ホルムズ海峡再開の見通しが暗くなったことを受け、原油価格は再び上昇した。 - Vietnam.vn",
@@ -2528,5 +2418,60 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で原油、貴金属、穀物が広く上昇し銅のみ下落。複数商品の同方向動きは市場全体のリスクオン・インフレ懸念を反映。"
+  },
+  {
+    "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - finance.yahoo.co.jp",
+    "timestamp": "2026-08-13T04:08:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物のダブル・ブルETN（2036）に関する情報ページへのリンク。特定のニュースイベントではなく、金融商品の情報ページそのもの。"
+  },
+  {
+    "title": "国内外の金価格差、約410万VNDに急縮小 数年ぶりの低水準 - Viet-kabu.com",
+    "timestamp": "2026-08-13T05:56:28+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格と国際金価格の差が約410万VNDまで縮小し、数年ぶりの低水準となった。価格差の縮小は国内金市場の国際市場との連動性が高まっていることを示唆している。仲介取引業者の利鞘が圧縮される一方、価格発見機能の効率化につながる。"
+  },
+  {
+    "title": "世界の原油価格が下落傾向にある中、8月13日午後3時のガソリンとディーゼル燃料の価格はどうなっているでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-08-12T23:15:37+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムにおけるガソリン・ディーゼル価格の現況報告。世界原油価格の下落傾向に連動した国内価格動向の観測記事。"
+  },
+  {
+    "title": "商品市場：農産物価格が全般的に上昇し、MXV指数は下降傾向から反転して上昇に転じた。 - Vietnam.vn",
+    "timestamp": "2026-08-13T06:13:14+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "農産物全般の価格が上昇し、MXV指数が下降トレンドから反転した。トウモロコシを含む商品市場で広範な価格上昇が観測されている。"
+  },
+  {
+    "title": "古河機械金属[5715]：業績予想の修正に関するお知らせ 2026年8月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+    "timestamp": "2026-08-13T06:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "古河機械金属が業績予想を修正したことを発表。銅関連企業の業績修正だが、具体的な修正内容や銅市場への直接的な影響は記事から不明。"
   }
 ]
