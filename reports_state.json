@@ -1,38 +1,5 @@
 [
   {
-    "title": "August WASDE to Take Another Look Into Upcoming Crop Sizes - DTN Progressive Farmer",
-    "timestamp": "2026-08-10T15:55:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが8月WASDEレポートで今後の穀物作付面積・生産量見通しを再評価する。トウモロコシ、大豆、小麦の供給見通しが改めて検討される定期統計発表。気象条件や生育進捗を織り込んだ数字が焦点となり、市場予想との乖離幅により相場が反応する可能性がある。"
-  },
-  {
-    "title": "August WASDE to Take Another Look Into Upcoming Crop Sizes - DTN Progressive Farmer",
-    "timestamp": "2026-08-10T15:55:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAが8月WASDEレポートで今後の穀物作付面積・生産量見通しを再評価する。トウモロコシ、大豆、小麦の供給見通しが改めて検討される定期統計発表。気象条件や生育進捗を織り込んだ数字が焦点となり、市場予想との乖離幅により相場が反応する可能性がある。"
-  },
-  {
-    "title": "August WASDE to Take Another Look Into Upcoming Crop Sizes - DTN Progressive Farmer",
-    "timestamp": "2026-08-10T15:55:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが8月WASDEレポートで今後の穀物作付面積・生産量見通しを再評価する。トウモロコシ、大豆、小麦の供給見通しが改めて検討される定期統計発表。気象条件や生育進捗を織り込んだ数字が焦点となり、市場予想との乖離幅により相場が反応する可能性がある。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-08-10T21:03:20.294493+00:00",
     "importance": 2,
@@ -2066,5 +2033,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "テク株がS&P500を過去最高水準へ押し上げる一方で、原油価格とプロデューサー物価指数が軟化している。この二面性は、景気減速懸念とインフレ圧力の緩和が同時進行していることを示唆しており、リスク資産と商品市場の方向性が乖離している状態。"
+  },
+  {
+    "title": "Lower yield, ending stocks guesses support corn - Brownfield Ag News",
+    "timestamp": "2026-08-12T22:40:07+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの収量見通しの引き下げと期末在庫予想の低下が報道されている。Crop Progress は定期的な作物進捗統計であり、低い収量推定と在庫減少予想がトウモロコシ価格を支えている材料として市場に評価されている。"
+  },
+  {
+    "title": "Copper Prices Surge Past $14,800: Will New Mines Help Ease the Supply Crunch? - CarbonCredits.com",
+    "timestamp": "2026-08-13T16:46:20+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が1トン当たり14,800ドルを超える水準に上昇している。供給逼迫の懸念が価格を押し上げている一方で、新規鉱山プロジェクトが供給不足の緩和に貢献できるかが焦点となっている。電動車(EV)やグリーンエネルギーインフラへの需要増が銅の長期的な需給ひっ迫を強めている。"
+  },
+  {
+    "title": "Copper Prices Surge Past $14,800: Will New Mines Help Ease the Supply Crunch? - CarbonCredits.com",
+    "timestamp": "2026-08-13T16:46:20+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅価格が1トン当たり14,800ドルを超える水準に上昇している。供給逼迫の懸念が価格を押し上げている一方で、新規鉱山プロジェクトが供給不足の緩和に貢献できるかが焦点となっている。電動車(EV)やグリーンエネルギーインフラへの需要増が銅の長期的な需給ひっ迫を強めている。"
   }
 ]
