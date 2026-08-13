@@ -1,38 +1,5 @@
 [
   {
-    "title": "Ukraine kills 13, including child, in drone attack on Russian city of Nizhnekamsk, officials say - reuters.com",
-    "timestamp": "2026-08-10T06:57:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア中部のニジニカムスク市にドローン攻撃を実施し、13名が死亡（うち1名は子ども）。同市はロシア最大級の石油化学複合施設およびタタルスタン石油が立地する重要エネルギーインフラ拠点。ロシア国内の重要産業施設への攻撃継続により、原油供給リスクが顕在化する可能性がある。"
-  },
-  {
-    "title": "Ukraine kills 13, including child, in drone attack on Russian city of Nizhnekamsk, officials say - reuters.com",
-    "timestamp": "2026-08-10T06:57:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナがロシア中部のニジニカムスク市にドローン攻撃を実施し、13名が死亡（うち1名は子ども）。同市はロシア最大級の石油化学複合施設およびタタルスタン石油が立地する重要エネルギーインフラ拠点。ロシア国内の重要産業施設への攻撃継続により、原油供給リスクが顕在化する可能性がある。"
-  },
-  {
-    "title": "Australian Wheat Crop Rebounds at Crucial Time for Global Supply - Bloomberg.com",
-    "timestamp": "2026-08-10T07:02:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "小麦",
-    "summary": "オーストラリアの小麦作柄が回復し、グローバルな供給逼迫局面で重要な時期に生産増が期待される。干ばつ影響からの回復により、世界小麦市場の供給懸念が緩和され、価格下押し圧力が強まる見通し。"
-  },
-  {
     "title": "Volatile July Weather Likely Dented U.S. Midwest Corn Yields - Successful Farming",
     "timestamp": "2026-08-10T10:41:53+00:00",
     "importance": 3,
@@ -1978,5 +1945,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "金",
     "summary": "ベネズエラがインフレ急騰（公式発表では3000%超）への対抗策として、英国が保管する同国の金準備（推定1400トン超）の返還・活用を要求。地政学的緊張の高まりと新興国の金準備へのアクセス権争いが顕在化。国家レベルの金資産をめぐる紛争は金市場の需給と価格シグナルに直結。"
+  },
+  {
+    "title": "August WASDE maintains outlook for 2026-’27 corn use in ethanol - Ethanol Producer Magazine",
+    "timestamp": "2026-08-12T23:08:56+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月WASDEレポートで2026-27年度のトウモロコシのエタノール用途見通しが据え置かれた。定期的なWASDE発表の一部であり、エタノール需要の市場予想から大きな乖離がないことを示唆している。具体的な数値変更がない、またはわずかな調整に留まっている。"
+  },
+  {
+    "title": "EIA reports massive rise in US crude oil stocks - engine.online",
+    "timestamp": "2026-08-13T07:02:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の大幅増加を報告した。在庫増加はサプライ圧力の増加を示唆し、原油価格に下押し圧力となる。具体的な在庫増加数値が明記されていないため、増加幅の大きさを判断できない。需給バランスの悪化により、短期的には原油価格の調整が予想される。"
+  },
+  {
+    "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
+    "timestamp": "2026-08-13T01:02:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格が1バレル90ドル未満で推移し、米ドルが2週間ぶりの高値を記録。イランの地政学的リスクが市場の焦点となっている。ドル高はコモディティ全般に下落圧力をもたらす一方、原油に対するイラン情勢の不確実性が価格を支援する可能性がある。"
+  },
+  {
+    "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
+    "timestamp": "2026-08-13T01:02:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "原油価格が1バレル90ドル未満で推移し、米ドルが2週間ぶりの高値を記録。イランの地政学的リスクが市場の焦点となっている。ドル高はコモディティ全般に下落圧力をもたらす一方、原油に対するイラン情勢の不確実性が価格を支援する可能性がある。"
+  },
+  {
+    "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
+    "timestamp": "2026-08-13T01:02:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格が1バレル90ドル未満で推移し、米ドルが2週間ぶりの高値を記録。イランの地政学的リスクが市場の焦点となっている。ドル高はコモディティ全般に下落圧力をもたらす一方、原油に対するイラン情勢の不確実性が価格を支援する可能性がある。"
   }
 ]
