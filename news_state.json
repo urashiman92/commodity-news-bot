@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日2026年8月11日の金価格は約8％上昇し、利益確定の機会が生まれたものの、市場は依然として非常に不安定な状態にある。その理由は、中国の金購入ペースの加速にある。 - Vietnam.vn",
-    "timestamp": "2026-08-10T16:13:55+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8%上昇し利益確定の機会が出現。中国の加速する金購入が買い圧力の主要因。市場は依然高いボラティリティを維持している。"
-  },
-  {
-    "title": "NY市場動向（午後0時台）：ダウ42ドル安、原油先物3.06ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-10T16:19:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後の動き。原油先物が3.06ドル高となり、同時期にダウが42ドル安で推移している。市場内での相対的な値動きを報じた相場リポート。"
-  },
-  {
     "title": "中東戦争下でも下落する金価格、各国中銀は「買い場」と判断 - BigGo ファイナンス",
     "timestamp": "2026-08-10T16:55:00+00:00",
     "importance": 3,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "中東情勢の緊張下でも金価格が下落している状況を報道。各国中央銀行は金を買い場と判断し、買い増しを継続している。地政学的リスクプレミアムが既に織り込まれている可能性を示唆。"
-  },
-  {
-    "title": "本日の金価格：1オンスあたり50万ベトナムドン下落。専門家は今週の上昇を予測。 - Vietnam.vn",
-    "timestamp": "2026-08-10T15:56:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が1オンスあたり50万ドン下落した。専門家は今週の上昇を予測している。地域的な価格情報で、グローバル市場への直接的な影響は限定的。"
   },
   {
     "title": "米原油先物、再び上昇80ドル台に 米イランの交渉停滞懸念で - 日本経済新聞",
@@ -2484,5 +2451,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油が81ドル割れまで下落。米・イラン交渉の進展が限定的であることが背景。地政学リスク低下で売り圧力が優位。"
+  },
+  {
+    "title": "原油相場が反落、WTIは一時81ドル割れ－米・イラン交渉に進展なく（Bloomberg） - news.yahoo.co.jp",
+    "timestamp": "2026-08-13T16:03:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が81ドル割れまで反落。米・イラン核協議の進展がなく、地政学的リスク低下が相場を押し下げた。供給懸念の後退が売り圧力となっている。"
   }
 ]
