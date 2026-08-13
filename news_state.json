@@ -1,60 +1,5 @@
 [
   {
-    "title": "8月10日午後：金価格が再び上昇。 - vietnam.vn",
-    "timestamp": "2026-08-10T10:13:26+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月10日午後の金価格が再び上昇したことを報じるニュース。具体的な上昇要因や数値は明記されていない。既に進行中の相場トレンドの振り返り・観測記事と考えられる。"
-  },
-  {
-    "title": "国内の金価格は反転し、本日午後には60万ベトナムドン上昇した。 - vietnam.vn",
-    "timestamp": "2026-08-10T10:30:40+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの国内金価格が反転し、本日午後に60万ベトナムドン上昇した。市場の局所的な価格変動を報じたもの。"
-  },
-  {
-    "title": "NY為替見通し＝ドル円、イラン情勢や原油価格動向を睨みながらの展開か(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-10T10:31:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円相場の見通しについて、イラン情勢と原油価格動向が主要な注視対象との解説。為替市場の動きを分析するコモンタリー記事であり、原油への直接的な新規情報は含まない。"
-  },
-  {
-    "title": "ブレント原油価格は週初めに1バレルあたり84ドルを超えた。 - vietnam.vn",
-    "timestamp": "2026-08-10T10:09:55+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油価格が週初めに84ドル/バレルを超えた。現在の価格水準を報道する事実記事である。市場の既存動向を伝えるもので、新規のニュースイベントではない。"
-  },
-  {
-    "title": "米雇用指標の弱含みでバイナンス金先物が25億ドル急増 - BeInCrypto",
-    "timestamp": "2026-08-10T10:24:44+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の雇用指標が弱い結果となったことを受けて、バイナンス金先物に25億ドルの急増が報告された。これは暗号資産市場における金関連商品への資金流入を示唆している。"
-  },
-  {
     "title": "8月10日の金価格は、非常に異例な動きを見せた。 - Vietnam.vn",
     "timestamp": "2026-08-10T12:55:23+00:00",
     "importance": 2,
@@ -2517,5 +2462,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "古河機金が通期予想を上方修正。銅価格上昇と固定資産売却益が要因。銅市場の需給環境改善を反映した企業業績の底堅さを示唆。"
+  },
+  {
+    "title": "投資家が買いに殺到したため、金価格は2カ月ぶりの高値をつけた。 - Vietnam.vn",
+    "timestamp": "2026-08-13T10:28:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "投資家の買いニーズにより金価格が2ヶ月ぶりの高値を更新した。既存トレンドの継続を示す相場情報であり、新規の価格駆動力とはなっていない。"
+  },
+  {
+    "title": "欧米為替：デイリー見通し カナダドル・円／原油相場にらみ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-13T04:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "カナダドル・円相場と原油相場の関連性に関する為替デイリー見通し。カナダドルは原油価格と正相関しており、原油相場の動向が通貨ペアのドライバーとなる可能性を指摘している。"
   }
 ]
