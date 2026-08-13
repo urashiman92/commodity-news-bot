@@ -1,16 +1,5 @@
 [
   {
-    "title": "国内および世界の金価格は同時に反転し、下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-10T07:24:29+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金の国内価格と世界価格が同時に反転して下落した。ベトナムを含む市場全体での価格調整。既に織り込まれた相場の振り返りニュース。"
-  },
-  {
     "title": "週間相場シナリオ｜新高値更新、金価格がブレイクアウト――しかしCPIはまだ沈黙 - Moomoo",
     "timestamp": "2026-08-10T09:14:18+00:00",
     "importance": 3,
@@ -108,17 +97,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月10日の金価格が異例な動きを見せたとの報道。具体的な価格方向や変動幅、原因が不明。ベトナムメディアの解説記事と考えられる。"
-  },
-  {
-    "title": "ホルムズ海峡再開の見通しが暗くなったことを受け、原油価格は再び上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-10T08:32:22+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再開見通しが悪化したことで、原油供給リスクが高まった。中東地政学の緊張反映で原油価格が上昇。世界最大級の石油輸送ルートの途絶リスクは供給逼迫シナリオを織り込む。"
   },
   {
     "title": "国際原油価格が3%超上昇、米石油・ガス株が全面高——アパッチが5%超高でけん引 - BigGo ファイナンス",
@@ -2473,5 +2451,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "古河機械金属が業績予想を修正したことを発表。銅関連企業の業績修正だが、具体的な修正内容や銅市場への直接的な影響は記事から不明。"
+  },
+  {
+    "title": "金価格予想：FRB利上げ期待の後退で魅力高まる、4,500ドル到達の可能性は？ - TradingKey",
+    "timestamp": "2026-08-12T23:08:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの利上げ期待が後退し、金の魅力が高まっているとの分析。金価格が4,500ドルに到達する可能性について言及。利上げ環境の転換が金投資の追い風となる見方。"
+  },
+  {
+    "title": "トウモロコシ先物4%高 米国の単位収穫下振れ、欧州熱波も影響 - 日本経済新聞",
+    "timestamp": "2026-08-13T07:46:53+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの単位収穫量が下振れし、欧州の熱波による作況悪化も重なり、供給懸念が急速に高まった。先物価格が4%上昇し、マーケットは供給逼迫シナリオを織り込み始めている。グローバルな穀物需給の引き締まりがコモディティ全体のリスク要因として浮上。"
+  },
+  {
+    "title": "古河機金、通期予想を上方修正 銅価格上昇や固定資産売却益で（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-08-13T07:22:28+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "古河機金が通期利益予想を上方修正。銅価格上昇と固定資産売却益が寄与。銅市場の需給逼迫継続を示唆する企業動向。"
   }
 ]
