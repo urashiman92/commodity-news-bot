@@ -1,16 +1,5 @@
 [
   {
-    "title": "Ukrainian military says it attacked oil refinery in Russia's Orsk - Reuters",
-    "timestamp": "2026-08-11T08:48:08+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナ軍がロシア南部オルスク製油所への攻撃を発表。同製油所は日量約30万バレルの精製能力を持つロシア主要施設。ウクライナによる奥地への攻撃エスカレーションはロシア石油供給リスクを高め、原油価格への上昇圧力材料となる。"
-  },
-  {
     "title": "WASDE Surprise Looms as Trade War, Weather and China Reshape Grain Markets - Agrolatam",
     "timestamp": "2026-08-11T12:31:25+00:00",
     "importance": 4,
@@ -231,28 +220,6 @@
     "summary": "イラクがOPEC内での原油生産枠の拡大を要求している。同国の財政圧力と新規油田開発への投資ニーズが背景。OPEC減産合意との緊張関係が生じており、原油市場の供給シナリオに影響を与える可能性がある。"
   },
   {
-    "title": "[MARKET ANALYSIS] Crude edges higher as strikes are reported near Bab el-Mandeb; Precious metals dip - Newsquawk",
-    "timestamp": "2026-08-11T09:19:32+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "バブ・エル・マンデブ海峡近辺での武装勢力によるストライキ報告を受け、原油は上昇した。一方、貴金属は下落。地政学的リスクが原油の上値を支える一方、金等の安全資産への買いは限定的である。供給リスク懸念が市場に緊張をもたらしている。"
-  },
-  {
-    "title": "[MARKET ANALYSIS] Crude edges higher as strikes are reported near Bab el-Mandeb; Precious metals dip - Newsquawk",
-    "timestamp": "2026-08-11T09:19:32+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "バブ・エル・マンデブ海峡近辺での武装勢力によるストライキ報告を受け、原油は上昇した。一方、貴金属は下落。地政学的リスクが原油の上値を支える一方、金等の安全資産への買いは限定的である。供給リスク懸念が市場に緊張をもたらしている。"
-  },
-  {
     "title": "Soybeans, corn, wheat down ahead of WASDE update - Brownfield Ag News",
     "timestamp": "2026-08-11T22:26:40+00:00",
     "importance": 3,
@@ -284,17 +251,6 @@
     "source": "WASDE関連",
     "commodity": "小麦",
     "summary": "WASDE更新を控えた事前売却により、大豆・トウモロコシ・小麦が同時に下落。市場参加者がWASDE発表前のポジション調整を進めている。具体的な価格下げ幅は報道では明示されていないが、穀物複合相場全体が軟調。"
-  },
-  {
-    "title": "Watch for price rally in wheat as global production drops - Farm Progress",
-    "timestamp": "2026-08-11T09:03:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "世界的な小麦生産量の減少を背景に、小麦価格の上昇が予想される。供給サイドの圧力が強まる中、投資家は価格反発の局面に注視する必要がある。具体的な減産規模や地域別の詳細データは記事本文で確認が必要。"
   },
   {
     "title": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters",
@@ -1989,5 +1945,82 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "WASDE August 2026レポートは穀物市場の主要マクロトレンドを分析。定期的なUSDA作物進捗・生産予測更新であり、トウモロコシ・小麦・大豆の供給見通し、世界需給バランス、在庫レベルの変動が織り込まれる。具体的な数値は提供されていないが、北米の天候パターンと生育ステージが価格感応度の焦点。"
+  },
+  {
+    "title": "INFB Chief Economist Weighs in on USDA Record Yield Predictions - Morning Ag Clips",
+    "timestamp": "2026-08-14T09:04:30+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA が記録的な収穫量予測を発表し、INFB チーフエコノミストがこれを分析。記録的な単収予測は供給量の大幅増加を示唆し、穀物価格の下押し圧力となる。市場では既に織り込みが進みつつあるが、実績との乖離が価格変動を決定づける。"
+  },
+  {
+    "title": "INFB Chief Economist Weighs in on USDA Record Yield Predictions - Morning Ag Clips",
+    "timestamp": "2026-08-14T09:04:30+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA が記録的な収穫量予測を発表し、INFB チーフエコノミストがこれを分析。記録的な単収予測は供給量の大幅増加を示唆し、穀物価格の下押し圧力となる。市場では既に織り込みが進みつつあるが、実績との乖離が価格変動を決定づける。"
+  },
+  {
+    "title": "INFB Chief Economist Weighs in on USDA Record Yield Predictions - Morning Ag Clips",
+    "timestamp": "2026-08-14T09:04:30+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA が記録的な収穫量予測を発表し、INFB チーフエコノミストがこれを分析。記録的な単収予測は供給量の大幅増加を示唆し、穀物価格の下押し圧力となる。市場では既に織り込みが進みつつあるが、実績との乖離が価格変動を決定づける。"
+  },
+  {
+    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - energynow.com",
+    "timestamp": "2026-08-13T21:13:20+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA統計により、米国原油在庫が1年近くの高水準に上昇したことが報告された。同時に輸出と輸入が減少している。在庫の積み増しは市場の供給過剰感を示唆し、原油価格に下押し圧力が生じている。"
+  },
+  {
+    "title": "Stocks near record highs; benign US inflation eclipses oil rally - Reuters",
+    "timestamp": "2026-08-14T02:32:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国株が過去最高値付近で推移する中、インフレが良好に抑制されている。ベンイン（温和）なインフレ環境は金利据え置き・利下げ期待を支持し、金には好材料だが、同時に原油相場の上昇基調が市場の注目を後退させている。ドル強化圧力が限定的な環境が続く可能性を示唆。"
+  },
+  {
+    "title": "Stocks near record highs; benign US inflation eclipses oil rally - Reuters",
+    "timestamp": "2026-08-14T02:32:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国株が過去最高値付近で推移する中、インフレが良好に抑制されている。ベンイン（温和）なインフレ環境は金利据え置き・利下げ期待を支持し、金には好材料だが、同時に原油相場の上昇基調が市場の注目を後退させている。ドル強化圧力が限定的な環境が続く可能性を示唆。"
+  },
+  {
+    "title": "Stocks near record highs; benign US inflation eclipses oil rally - Reuters",
+    "timestamp": "2026-08-14T02:32:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株が過去最高値付近で推移する中、インフレが良好に抑制されている。ベンイン（温和）なインフレ環境は金利据え置き・利下げ期待を支持し、金には好材料だが、同時に原油相場の上昇基調が市場の注目を後退させている。ドル強化圧力が限定的な環境が続く可能性を示唆。"
   }
 ]
