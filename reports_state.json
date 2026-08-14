@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC Output Climbs 1.17 mmbbl/d in July as Gulf Supplies Recover - Egypt Oil & Gas",
-    "timestamp": "2026-08-11T06:47:25+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの7月の原油生産が前月比で日量117万バレル増加し、湾岸地域の供給が回復したことを報告。イランの制裁回避やサウジアラビア等の増産により、OPEC全体の供給圧力が高まる展開。市場予想の範囲内での増産報告となっている。"
-  },
-  {
-    "title": "Oil rises as Iran and US trade demands for reopening Strait of Hormuz - Reuters",
-    "timestamp": "2026-08-11T07:27:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イランと米国がホルムズ海峡の再開をめぐる要求を応酬し、地政学的緊張が高まっている。ホルムズ海峡は世界の石油供給の約20-30%が通過する重要な輸送路であり、封鎖リスクは原油価格の急騰要因となる。市場は供給途絶への懸念から原油買いで反応している。"
-  },
-  {
     "title": "Ukrainian military says it attacked oil refinery in Russia's Orsk - Reuters",
     "timestamp": "2026-08-11T08:48:08+00:00",
     "importance": 4,
@@ -1934,5 +1912,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "インドの石油輸入に占めるロシア産原油のシェアが7月に過去最高水準へ急増した。これは西側制裁強化に伴う迂回取引の加速とOPEC+の供給構造変化を示唆する。新興国へのロシア原油シフトが加速すれば、スポット市場の需給バランス悪化と価格上昇圧力につながる可能性がある。"
+  },
+  {
+    "title": "Top Tips: WASDE played a hot hand – what’s next? - Farm Progress",
+    "timestamp": "2026-08-13T19:02:47+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDEレポートが市場に大きな影響を与えた状況を報告する記事。具体的な作付面積や生産量の数値が示されていないため、詳細な評価は困難だが、穀物複合体に対する重要な月次発表であることは確実。投資家は次回のWASDE発表に向けたポジション調整を検討する必要がある。"
+  },
+  {
+    "title": "Top Tips: WASDE played a hot hand – what’s next? - Farm Progress",
+    "timestamp": "2026-08-13T19:02:47+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDEレポートが市場に大きな影響を与えた状況を報告する記事。具体的な作付面積や生産量の数値が示されていないため、詳細な評価は困難だが、穀物複合体に対する重要な月次発表であることは確実。投資家は次回のWASDE発表に向けたポジション調整を検討する必要がある。"
+  },
+  {
+    "title": "Top Tips: WASDE played a hot hand – what’s next? - Farm Progress",
+    "timestamp": "2026-08-13T19:02:47+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDEレポートが市場に大きな影響を与えた状況を報告する記事。具体的な作付面積や生産量の数値が示されていないため、詳細な評価は困難だが、穀物複合体に対する重要な月次発表であることは確実。投資家は次回のWASDE発表に向けたポジション調整を検討する必要がある。"
+  },
+  {
+    "title": "Top Tips: WASDE played a hot hand – what’s next? - Farm Progress",
+    "timestamp": "2026-08-13T19:02:47+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDEレポートが市場に大きな影響を与えた状況を報告する記事。具体的な作付面積や生産量の数値が示されていないため、詳細な評価は困難だが、穀物複合体に対する重要な月次発表であることは確実。投資家は次回のWASDE発表に向けたポジション調整を検討する必要がある。"
+  },
+  {
+    "title": "WASDE August 2026: The Macro Trends That Matter for Grain Markets - DTN Progressive Farmer",
+    "timestamp": "2026-08-12T10:15:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE August 2026レポートは穀物市場の主要マクロトレンドを分析。定期的なUSDA作物進捗・生産予測更新であり、トウモロコシ・小麦・大豆の供給見通し、世界需給バランス、在庫レベルの変動が織り込まれる。具体的な数値は提供されていないが、北米の天候パターンと生育ステージが価格感応度の焦点。"
+  },
+  {
+    "title": "WASDE August 2026: The Macro Trends That Matter for Grain Markets - DTN Progressive Farmer",
+    "timestamp": "2026-08-12T10:15:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "WASDE August 2026レポートは穀物市場の主要マクロトレンドを分析。定期的なUSDA作物進捗・生産予測更新であり、トウモロコシ・小麦・大豆の供給見通し、世界需給バランス、在庫レベルの変動が織り込まれる。具体的な数値は提供されていないが、北米の天候パターンと生育ステージが価格感応度の焦点。"
+  },
+  {
+    "title": "WASDE August 2026: The Macro Trends That Matter for Grain Markets - DTN Progressive Farmer",
+    "timestamp": "2026-08-12T10:15:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "WASDE August 2026レポートは穀物市場の主要マクロトレンドを分析。定期的なUSDA作物進捗・生産予測更新であり、トウモロコシ・小麦・大豆の供給見通し、世界需給バランス、在庫レベルの変動が織り込まれる。具体的な数値は提供されていないが、北米の天候パターンと生育ステージが価格感応度の焦点。"
   }
 ]
