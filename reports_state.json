@@ -1,71 +1,5 @@
 [
   {
-    "title": "Grain prices sink before WASDE, putting U.S. farm margins under fresh pressure - Agrolatam",
-    "timestamp": "2026-08-11T20:22:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "WASDE（米農務省穀物需給報告）発表前に穀物価格が下落し、米国農家のマージンが圧迫されている。小麦・トウモロコシ・大豆が同時に弱含みとなり、農業経営の採算性が悪化する可能性が指摘されている。市場は供給増加や需要懸念を先読みして売却圧力をかけている。"
-  },
-  {
-    "title": "Grain prices sink before WASDE, putting U.S. farm margins under fresh pressure - Agrolatam",
-    "timestamp": "2026-08-11T20:22:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米農務省穀物需給報告）発表前に穀物価格が下落し、米国農家のマージンが圧迫されている。小麦・トウモロコシ・大豆が同時に弱含みとなり、農業経営の採算性が悪化する可能性が指摘されている。市場は供給増加や需要懸念を先読みして売却圧力をかけている。"
-  },
-  {
-    "title": "Grain prices sink before WASDE, putting U.S. farm margins under fresh pressure - Agrolatam",
-    "timestamp": "2026-08-11T20:22:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "WASDE（米農務省穀物需給報告）発表前に穀物価格が下落し、米国農家のマージンが圧迫されている。小麦・トウモロコシ・大豆が同時に弱含みとなり、農業経営の採算性が悪化する可能性が指摘されている。市場は供給増加や需要懸念を先読みして売却圧力をかけている。"
-  },
-  {
-    "title": "Will USDA's WASDE push U.S. grain prices even lower? - Agrolatam",
-    "timestamp": "2026-08-11T20:28:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASIDEレポートが米国穀物価格のさらなる下押し圧力となる可能性が指摘されている。小麦・トウモロコシ・大豆の供給見通しに関する定期発表であり、市場では価格下落シナリオが懸念されている。具体的な生産量や在庫数字の詳細は記事本文で確認が必要。"
-  },
-  {
-    "title": "Will USDA's WASDE push U.S. grain prices even lower? - Agrolatam",
-    "timestamp": "2026-08-11T20:28:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASIDEレポートが米国穀物価格のさらなる下押し圧力となる可能性が指摘されている。小麦・トウモロコシ・大豆の供給見通しに関する定期発表であり、市場では価格下落シナリオが懸念されている。具体的な生産量や在庫数字の詳細は記事本文で確認が必要。"
-  },
-  {
-    "title": "Will USDA's WASDE push U.S. grain prices even lower? - Agrolatam",
-    "timestamp": "2026-08-11T20:28:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASIDEレポートが米国穀物価格のさらなる下押し圧力となる可能性が指摘されている。小麦・トウモロコシ・大豆の供給見通しに関する定期発表であり、市場では価格下落シナリオが懸念されている。具体的な生産量や在庫数字の詳細は記事本文で確認が必要。"
-  },
-  {
     "title": "Soybeans, corn, wheat down ahead of WASDE update - Brownfield Ag News",
     "timestamp": "2026-08-11T22:26:40+00:00",
     "importance": 3,
@@ -1582,17 +1516,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDA WASDE報告で複数穀物の収量見通しが下方修正され、作付面積の調整も発表された。これらの供給サイドの悪化は穀物市場全般のラリーをもたらし、特にトウモロコシと大豆で顕著な上昇圧力が生じている。市場予想を大きく外した収量低下が相場急騰を誘発。"
-  },
-  {
-    "title": "US crude oil inventories surge by 9 million barrels in latest API report - Crypto Briefing",
-    "timestamp": "2026-08-11T20:44:01+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国原油在庫がAPI報告で900万バレル増加した。在庫の急増は供給過剰シグナルであり、原油価格に下押し圧力をもたらす可能性がある。ただし予想比については記事から判断不可。"
   },
   {
     "title": "Opec-Plus Lifts Crude Output for Second Straight Month - Energy Intelligence",
