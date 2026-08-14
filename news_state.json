@@ -33,17 +33,6 @@
     "summary": "原油先物が1週間ぶりの高値を更新。供給懸念の高まりが価格上昇を支援。ニュースソースは解説的な報道で、具体的な供給ショック内容は提示されていない。"
   },
   {
-    "title": "コーン先物は、コーン輸出検査がUSDA目標を上回った後もほとんど変化なし - Traders Union",
-    "timestamp": "2026-08-11T16:15:44+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "USDA目標を上回るコーン輸出検査が報告されたが、先物相場はほぼ反応せず。良好な輸出検査データが市場で既に織り込まれていることを示唆している。"
-  },
-  {
     "title": "USDAの需給報告を前に大豆先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-11T19:26:00+00:00",
     "importance": 4,
@@ -2286,5 +2275,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル売りが一段落したことを受け、原油価格と米10年債利回りが上昇。ドル弱含みが商品価格（原油）押し上げに作用した。既に市場に織り込まれた相場の振り返りコメント。"
+  },
+  {
+    "title": "金価格が急落に転じ、急騰後約2%下落 - Laodong.vn",
+    "timestamp": "2026-08-14T10:22:24+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急騰後に約2%下落に転じた。短期的な調整局面の報道。ボラティリティ範囲内の値動き。"
+  },
+  {
+    "title": "原油相場上昇、米財務長官の対イラン発言見極めムード－WTI 81ドル台 - Bloomberg.com",
+    "timestamp": "2026-08-14T16:32:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が81ドル台で推移。米財務長官のイラン関連発言が注視されており、地政学的リスク要因として相場を下支えしている状況。"
+  },
+  {
+    "title": "NY外為：ドル売り一段落、原油価格や米10年債利回りは上昇 - ｄメニューニュース",
+    "timestamp": "2026-08-14T16:18:13+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル売りの一服により、原油価格と米10年債利回りが上昇した。マクロ環境の変化を反映した相場の動きであり、供給・需要ファンダメンタルズの変化ではない。"
+  },
+  {
+    "title": "さだまさし 防人の詩 Copper Price (KLKkahO55B) - Mshale",
+    "timestamp": "2026-08-14T08:08:47+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "タイトルが日本の歌手「さだまさし」の曲名であり、銅価格との関連性が不明。ニュースソースとしての信頼性に疑問がある。"
   }
 ]
