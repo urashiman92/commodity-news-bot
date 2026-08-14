@@ -22,39 +22,6 @@
     "summary": "米国がイラン関連の戦争による石油供給途絶が2027年まで継続する可能性があると見解を示した。中東地政学リスクの深刻化により、原油の供給不安が大幅に高まる。この長期的な供給ショック懸念は市場の価格押し上げ圧力として機能する。"
   },
   {
-    "title": "Russia Budget Gap Spikes Despite Oil Windfall Driven by Iran War - Bloomberg.com",
-    "timestamp": "2026-08-11T15:06:51+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの予算赤字が予想外に急増。イラン紛争に起因する地政学的緊張で一時的に原油価格が上昇し、オイル収入が増加したにもかかわらず、軍事費および地政学的リスク対応コストの急増が赤字を拡大させた。地政学リスク継続による原油供給懸念と、ロシア経済の構造的脆弱性の露呈がコモディティ市場の不確実性を高めている。"
-  },
-  {
-    "title": "Russia Budget Gap Spikes Despite Oil Windfall Driven by Iran War - Bloomberg.com",
-    "timestamp": "2026-08-11T15:06:51+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "ロシアの予算赤字が予想外に急増。イラン紛争に起因する地政学的緊張で一時的に原油価格が上昇し、オイル収入が増加したにもかかわらず、軍事費および地政学的リスク対応コストの急増が赤字を拡大させた。地政学リスク継続による原油供給懸念と、ロシア経済の構造的脆弱性の露呈がコモディティ市場の不確実性を高めている。"
-  },
-  {
-    "title": "Russia Budget Gap Spikes Despite Oil Windfall Driven by Iran War - Bloomberg.com",
-    "timestamp": "2026-08-11T15:06:51+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの予算赤字が予想外に急増。イラン紛争に起因する地政学的緊張で一時的に原油価格が上昇し、オイル収入が増加したにもかかわらず、軍事費および地政学的リスク対応コストの急増が赤字を拡大させた。地政学リスク継続による原油供給懸念と、ロシア経済の構造的脆弱性の露呈がコモディティ市場の不確実性を高めている。"
-  },
-  {
     "title": "Grain prices sink before WASDE, putting U.S. farm margins under fresh pressure - Agrolatam",
     "timestamp": "2026-08-11T20:22:48+00:00",
     "importance": 3,
@@ -119,17 +86,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDA WASIDEレポートが米国穀物価格のさらなる下押し圧力となる可能性が指摘されている。小麦・トウモロコシ・大豆の供給見通しに関する定期発表であり、市場では価格下落シナリオが懸念されている。具体的な生産量や在庫数字の詳細は記事本文で確認が必要。"
-  },
-  {
-    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - EnergyNow.com",
-    "timestamp": "2026-08-11T13:51:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPEC内での原油生産枠の拡大を要求している。同国の財政圧力と新規油田開発への投資ニーズが背景。OPEC減産合意との緊張関係が生じており、原油市場の供給シナリオに影響を与える可能性がある。"
   },
   {
     "title": "Soybeans, corn, wheat down ahead of WASDE update - Brownfield Ag News",
@@ -1890,5 +1846,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国株が過去最高値付近で推移する中、インフレが良好に抑制されている。ベンイン（温和）なインフレ環境は金利据え置き・利下げ期待を支持し、金には好材料だが、同時に原油相場の上昇基調が市場の注目を後退させている。ドル強化圧力が限定的な環境が続く可能性を示唆。"
+  },
+  {
+    "title": "Turkey cuts Russian oil imports as Black Sea export disruptions curb supplies, data shows - Reuters",
+    "timestamp": "2026-08-14T12:54:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "黒海での輸出混乱によるロシア産油の供給減少を受け、トルコがロシア産原油の輸入を削減している。黒海での地政学的リスクがロシア産油の供給制約となり、代替供給源への需要シフトが発生。原油の地域別スプレッドに影響を与える可能性がある。"
   }
 ]
