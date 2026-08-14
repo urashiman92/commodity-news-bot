@@ -1,16 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4368ドル｜直近は上昇を続けていたこともあり、利益確定売りが出た模様(2026年8月12日) - OANDA証券",
-    "timestamp": "2026-08-11T23:04:33+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4368ドルまで下落した。直近の上昇トレンド後の利益確定売りが主因。短期的な調整局面と見られる。"
-  },
-  {
     "title": "金価格が上昇、中国の金準備高は過去最高水準に迫る。 - Vietnam.vn",
     "timestamp": "2026-08-11T23:32:51+00:00",
     "importance": 3,
@@ -22,17 +11,6 @@
     "summary": "金価格の上昇に伴い、中国の金準備高が過去最高水準に接近している。中国による戦略的な金の買い増しが続く中、価格上昇が準備高の増加を後押ししている状況。"
   },
   {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの合意期待が後退した影響で、原油価格は2営業日続伸（2026年8月12日） - OANDA証券",
-    "timestamp": "2026-08-11T23:13:49+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの核合意期待が後退したことで、供給リスク懸念が高まり原油価格が2営業日続伸した。地政学的な不確実性が相場を支援している状況。"
-  },
-  {
     "title": "本日の燃料価格（8月12日）：世界の原油価格は上昇を続けている。 - Vietnam.vn",
     "timestamp": "2026-08-11T23:32:43+00:00",
     "importance": 2,
@@ -42,28 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムのニュースサイトが8月12日時点での世界原油価格の上昇継続を報じている。具体的な価格水準や上昇要因の詳細は記事本文なしでは不明。通常の相場レポートと考えられる。"
-  },
-  {
-    "title": "１１日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-11T22:50:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "11日の主要国際商品市況を扱う振り返り記事。具体的な価格動向や主要商品の詳細は記事本文を確認する必要がある。スケジュール化された指標発表や突発ニュースではなく相場解説の類と推定される。"
-  },
-  {
-    "title": "１１日の主要国際商品市況 - みんかぶ",
-    "timestamp": "2026-08-11T22:50:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "11日の主要国際商品市況をまとめたニュース記事。具体的な価格データや市場動向の詳細は記事サマリーからは不明。市場の定期的な相場振り返り報道と考えられる。"
   },
   {
     "title": "NY金先物は小幅続伸、米利上げ観測後退が支え｜FX・為替ニュース - ザイFX！",
@@ -130,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランがホルムズ海峡の封鎖継続を宣言し、原油価格が上昇している。同海峡は世界の原油輸送の約30%を占める戦略的要所であり、供給懸念が価格を押し上げている。"
-  },
-  {
-    "title": "１１日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-11T22:50:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "11日の主要国際商品市況に関する市場サマリー記事。具体的な価格動向や市場要因の詳細が不明。"
   },
   {
     "title": "金相場価格デイリーコメント週間まとめ（8/3〜8/7）｜水野崇 - mbp-japan.com",
@@ -2275,5 +2220,49 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で原油、金属、農産物など広範な商品が上昇。複数セクターの同時上昇を報じるマーケット動向の解説記事。具体的な値動き幅や上昇理由が不明。"
+  },
+  {
+    "title": "UBSは、金価格が2027年までに1オンスあたり5000ドルに達すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-08-14T23:11:08+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UBS（大手金融機関）が金価格が2027年までに1オンスあたり5000ドルに達すると予測。現在の価格（約2,300-2,400ドル）からの約2倍以上の上昇シナリオ。インフレ懸念や金利低下期待などが背景にある見通し。"
+  },
+  {
+    "title": "本日2026年8月15日の金価格は大きく変動し、SJCの金価格と金の指輪価格はともに下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-14T23:11:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が下落した。SJC金とジュエリー価格の両方で下げ幅を記録。市場全体での調整局面の延長と見られる。"
+  },
+  {
+    "title": "トランプ氏「ホルムズ海峡を米国領に」 原油価格の高止まり正当化 - 日本経済新聞",
+    "timestamp": "2026-08-14T21:27:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がホルムズ海峡の米国領化を提唱し、地政学的リスク増大による原油高を正当化。ただし発言段階で実現可能性は低く、既知のトランプ型レトリック。"
+  },
+  {
+    "title": "本日の燃料価格（8月15日）：世界の原油価格が上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-14T23:03:01+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月15日時点での世界原油価格が上昇したとの報道。ベトナムの燃料価格情報サイトによる日次レポート。具体的な上昇要因や幅は記事から不明確。"
   }
 ]
