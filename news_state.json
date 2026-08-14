@@ -1,27 +1,5 @@
 [
   {
-    "title": "8月11日午後：金価格は反転し、急落した。 - vietnam.vn",
-    "timestamp": "2026-08-11T10:37:18+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月11日午後の金価格が反転して急落した。具体的な下落理由は記事概要では明記されていない。市場の短期的なボラティリティ変動を伝える日次ニュース。"
-  },
-  {
-    "title": "2026年8月11日午後の金価格：9999金、指輪、および火曜日の世界の金価格。 - vietnam.vn",
-    "timestamp": "2026-08-11T10:32:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのニュースサイトによる金価格情報の定期配信。2026年8月11日午後の現物金（9999金）と指輪、世界金価格の相場情報を報道したもの。"
-  },
-  {
     "title": "TSX先物が小幅上昇、米インフレ指標と原油価格の動向に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-11T11:56:00+00:00",
     "importance": 2,
@@ -42,17 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "インド国債が原油価格上昇による圧迫を受けて下落。原油高がインドのエネルギーコスト増加と財政悪化懸念につながっている。コモディティと債券市場の連動を示す相場動向。"
-  },
-  {
-    "title": "本日の米国株式市場：雇用統計の鈍化と原油相場の不安を背景に、S&P 500先物が小幅高 - simplywall.st",
-    "timestamp": "2026-08-11T10:44:14+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株式市場の小幅高を伝える相場解説記事。雇用統計の鈍化と原油相場の不安が背景とされているが、具体的な数字や原油価格への直接的な影響言及は不明。"
   },
   {
     "title": "本日2026年8月12日の金価格は1オンスあたり4,400ドルを下回りました。純度9999の金指輪がサプライズとなりました。借入はなく、貴金属への「全額投資」もありませんでした。 - Vietnam.vn",
@@ -2385,5 +2352,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "中国非鉄金属企業の上半期利益が94%増加。AI需要の拡大により銅などの関連金属が高騰し、企業業績が大幅改善。需要面からの銅価格支援要因が確認された。"
+  },
+  {
+    "title": "2026年8月14日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-14T10:02:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。金市場への直接的な影響はない。"
+  },
+  {
+    "title": "ドル・円：ドル・円は下げ渋り、原油相場を注視｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-14T03:45:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル・円相場が下値を堅持している状況を伝えるFX解説記事。原油相場の動向が為替に影響を与える可能性があるとの指摘。実際の原油相場の具体的な動きや指標値は記事概要に含まれていない。"
   }
 ]
