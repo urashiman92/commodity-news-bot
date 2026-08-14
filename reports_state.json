@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil prices rise, Asia stocks drift amid US-Iran stalemate - Reuters",
-    "timestamp": "2026-08-11T01:41:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国とイランの外交的膠着状態の継続が背景となり、原油価格は上昇基調を見せている。中東地政学リスクへの警戒が供給懸念を支えており、価格の上昇圧力が働いている。一方、アジア株式市場は方向感を欠いており、コモディティ価格上昇がリスク資産に与える影響は限定的な状況。"
-  },
-  {
     "title": "OPEC Output Climbs 1.17 mmbbl/d in July as Gulf Supplies Recover - Egypt Oil & Gas",
     "timestamp": "2026-08-11T06:47:25+00:00",
     "importance": 3,
@@ -1890,5 +1879,38 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国原油在庫がAPI報告で900万バレル増加した。在庫の急増は供給過剰シグナルであり、原油価格に下押し圧力をもたらす可能性がある。ただし予想比については記事から判断不可。"
+  },
+  {
+    "title": "Opec-Plus Lifts Crude Output for Second Straight Month - Energy Intelligence",
+    "timestamp": "2026-08-13T21:43:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が2ヶ月連続で原油生産量を引き上げた。市場の需要回復期待と在庫低下圧力の中での段階的な増産は、既に織り込まれていた方針の継続実施。供給側の緩和姿勢が徐々に進行している状況を示唆している。"
+  },
+  {
+    "title": "Russia Daily Oil Output Almost Million Barrels Below OPEC+ Quota - Bloomberg",
+    "timestamp": "2026-08-12T13:29:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ロシアの日量原油生産が、OPEC+のクォータより約100万バレル/日下回っている状況が報じられた。制裁や技術的制約によるロシアの減産が続いており、OPEC+全体の供給バランスに影響を与えている。市場では既に認識されている状況の確認報道。"
+  },
+  {
+    "title": "Second Supertanker Seen Loading at Saudi Oil Hub in Persian Gulf - Bloomberg",
+    "timestamp": "2026-08-13T17:02:32+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのペルシャ湾の石油積み出し拠点で2隻目のスーパータンカーが積み込みを行っているのが確認された。サウジの原油輸出活動が継続・拡大している兆候であり、供給面での安定性が示唆される。具体的な積み込み量や出荷先は報道から明確でない。"
   }
 ]
