@@ -2319,5 +2319,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "タイトルが日本の歌手「さだまさし」の曲名であり、銅価格との関連性が不明。ニュースソースとしての信頼性に疑問がある。"
+  },
+  {
+    "title": "【速報】NY原油先物81ドル台で底堅く推移(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-14T18:00:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が81ドル台で底堅い推移を続けている。具体的な材料を欠く相場解説で、現在の価格水準の安定性を指摘するコメンタリー。"
+  },
+  {
+    "title": "【速報】NY原油先物81ドル台で底堅く推移｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-14T17:55:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が81ドル台で底堅く推移している状況を報じた速報記事。具体的な新規材料や統計発表ではなく、現在の価格水準の状況解説。"
+  },
+  {
+    "title": "NY外為：ドル売り一段落、原油価格や米10年債利回りは上昇 - topics.smt.docomo.ne.jp",
+    "timestamp": "2026-08-14T16:24:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル売り圧力が一段落し、それに伴い原油価格と米10年債利回りが上昇。ドル弱化が商品価格の上昇を支援する典型的な相関関係を示す相場振り返り。"
   }
 ]
