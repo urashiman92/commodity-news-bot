@@ -1,16 +1,5 @@
 [
   {
-    "title": "ニューヨーク原油・金先物市場概況（11日）原油は4日続伸 - Moomoo",
-    "timestamp": "2026-08-11T22:21:07+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク原油が4日続伸。金先物市場の日次概況を伝えるマーケットレポート。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4368ドル｜直近は上昇を続けていたこともあり、利益確定売りが出た模様(2026年8月12日) - OANDA証券",
     "timestamp": "2026-08-11T23:04:33+00:00",
     "importance": 2,
@@ -273,17 +262,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ピクテ・ジャパンが新興国市場は原油価格変動への耐性が高まったと指摘する解説記事。新興国経済の構造変化と金融政策の独立性向上を背景とした観測コメント。"
-  },
-  {
-    "title": "商品市場概況：原油高、銅相場は横ばい、金価格は下落 - Moomoo",
-    "timestamp": "2026-08-11T22:40:24+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "原油は上昇傾向だが、銅相場は横ばいで特段の変動がない。金価格は下落している。複数商品の市場概況をまとめた解説記事。"
   },
   {
     "title": "小麦先物 (WHEAT-F) は8月12日に急激に動いた：在庫、ドル、それとも地政学的要因か？ - TradingKey",
@@ -2242,5 +2220,60 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY原油と金相場が反発した。市場は引き続き両資産の値動きに注目している。具体的な材料や数値は記事概要から不明。"
+  },
+  {
+    "title": "台幣黃金 | TAIFEX_TGF 2026/10 先物チャートとリアルタイム相場 - BigGo ファイナンス",
+    "timestamp": "2026-08-14T12:24:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "台湾の金先物(TAIFEX_TGF)2026年10月限月のチャートとリアルタイム相場情報を提供するページ。金融データプラットフォームによる市場データの表示・提供に関するニュース。"
+  },
+  {
+    "title": "本日8月15日の原油価格：米イラン交渉の停滞を受け上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-14T22:35:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン交渉が停滞し、地政学的緊張が高まったことが原油価格上昇の要因。イランの核合意に関わる交渉の進展不透明性が市場を刺激。供給途絶リスクの懸念材料。"
+  },
+  {
+    "title": "買われ過ぎの状況：大豆先物価格はさらなる下落を回避できるか？ - Traders Union",
+    "timestamp": "2026-08-14T12:23:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物が買われ過ぎ状況にあり、テクニカル的に調整下落のリスクが高まっている。オーバーボート指標が示唆する売却圧力が近期的な価格押し下げ要因となる可能性がある。"
+  },
+  {
+    "title": "ロス・ペランブレス鉱山の供給再開が銅価格に重し、$6,585のサポートで推移 - Traders Union",
+    "timestamp": "2026-08-14T12:18:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ロス・ペランブレス鉱山の供給再開がチリの銅供給を増加させ、銅価格に下押し圧力をもたらしている。現在$6,585がサポートレベルとして機能している。供給側の材料として相場の重しになっている。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、銅、トウモロコシ、小麦、大豆が上昇(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-14T22:33:40+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油、金属、農産物など広範な商品が上昇。複数セクターの同時上昇を報じるマーケット動向の解説記事。具体的な値動き幅や上昇理由が不明。"
   }
 ]
