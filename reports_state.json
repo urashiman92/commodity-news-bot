@@ -55,17 +55,6 @@
     "summary": "ホルムズ海峡の原油流量制約とUS在庫増加が報道される。地政学的供給懸念に対し、米国在庫の積み上がりが相殺圧力となっているが、海峡流量制約は中期的な上値支持要因として機能。EIA週間統計の定例発表の継続報道。"
   },
   {
-    "title": "Corn Faces Pre-USDA Report Pressure on Tuesday - Yahoo Finance",
-    "timestamp": "2026-08-11T21:42:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "火曜日のUSDA作物進捗報告書（Crop Progress）発表を控え、トウモロコシが売り圧力に直面している。市場参加者は作付面積や生育進捗の見直しを警戒しており、供給見通しの変更が価格に影響を与える可能性がある。同報告は毎週公表される定期統計であり、市場の関心度が高い。"
-  },
-  {
     "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
     "timestamp": "2026-08-12T06:52:22+00:00",
     "importance": 3,
@@ -130,28 +119,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "国際エネルギー機関（IEA）が2026年の石油供給見通しを引き下げた。ホルムズ海峡の再開が予想より遅れることが主因。地政学的緊張の長期化がコモディティ市場に供給不安をもたらし、原油価格への上昇圧力となる可能性が高い。"
-  },
-  {
-    "title": "API: US crude oil inventories surge, product stocks tumble more - Quantum Commodity Intelligence",
-    "timestamp": "2026-08-11T21:26:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国石油協会（API）が原油在庫の大幅な増加を報告する一方、ガソリンや留出油などの製品在庫は予想以上に減少した。原油供給過剰と製品需要の綱引きが続く状況を示しており、短期的な価格圧力は複雑な様相を呈している。"
-  },
-  {
-    "title": "API: US crude oil inventories surge, product stocks tumble more - Quantum Commodity Intelligence",
-    "timestamp": "2026-08-11T21:26:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国石油協会（API）が原油在庫の大幅な増加を報告する一方、ガソリンや留出油などの製品在庫は予想以上に減少した。原油供給過剰と製品需要の綱引きが続く状況を示しており、短期的な価格圧力は複雑な様相を呈している。"
   },
   {
     "title": "USDA Report Looms as Grain Markets Brace for a Volatile Yield Surprise - Agrolatam",
@@ -581,17 +548,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "USDAの8月Crop Progressレポートにおいて、2026年度の米国トウモロコシ収穫量が過去2番目の高水準に達すると予測された。豊作予想は供給増加を示唆し、トウモロコシ相場に下押し圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "Corn Faces Pre-USDA Report Pressure on Tuesday - TradingView",
-    "timestamp": "2026-08-11T21:42:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA報告書発表を控えたトウモロコシ相場が売り圧力に直面している。火曜日のUSDA公式統計（おそらくWASDE月次報告書またはCrop Progress週次）の発表を控え、市場ポジション調整による売却圧力が高まっている状況。供給見通しや作況に関する懸念が価格下押し要因となっている。"
   },
   {
     "title": "USDA Cuts Corn Stocks as August WASDE Reshapes the 2026/27 U.S. Grain Outlook - Agrolatam",
@@ -1791,5 +1747,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEの国営石油企業ADNOCがOPEC脱退を発表し、独立した成長戦略を追求する。中東地域紛争の激化とOPEC減産体制の弱体化により、供給サイドの不確実性が大幅に増加。OPECの統率力低下は原油市場の需給バランスに構造的変化をもたらす。"
+  },
+  {
+    "title": "USDA August WASDE Calls for Lower Yields, Higher Harvested Area for Corn and Soybeans - American Ag Network",
+    "timestamp": "2026-08-12T19:28:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA 8月WASDE報告書でトウモロコシと大豆の作付面積の増加が見込まれる一方、単収（利回り）は低下が予想されている。供給量の増減と価格へのインパクトが相反する可能性があり、市場は供給見通しの精密性を注視している。"
+  },
+  {
+    "title": "USDA August WASDE Calls for Lower Yields, Higher Harvested Area for Corn and Soybeans - American Ag Network",
+    "timestamp": "2026-08-12T19:28:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA 8月WASDE報告書でトウモロコシと大豆の作付面積の増加が見込まれる一方、単収（利回り）は低下が予想されている。供給量の増減と価格へのインパクトが相反する可能性があり、市場は供給見通しの精密性を注視している。"
+  },
+  {
+    "title": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say - Reuters",
+    "timestamp": "2026-08-14T14:21:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア黒海のシェスハリ石油積み出し基地がドローン攻撃により積み出しを停止。同基地はロシアの主要石油積み出し施設の一つであり、供給途絶は世界石油市場への直接的な影響が避けられない。ウクライナ情勢の激化による供給リスク顕在化は市場心理を大きく変える。"
+  },
+  {
+    "title": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say - Reuters",
+    "timestamp": "2026-08-14T14:21:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア黒海のシェスハリ石油積み出し基地がドローン攻撃により積み出しを停止。同基地はロシアの主要石油積み出し施設の一つであり、供給途絶は世界石油市場への直接的な影響が避けられない。ウクライナ情勢の激化による供給リスク顕在化は市場心理を大きく変える。"
   }
 ]
