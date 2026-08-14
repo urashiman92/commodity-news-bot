@@ -1912,5 +1912,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのペルシャ湾の石油積み出し拠点で2隻目のスーパータンカーが積み込みを行っているのが確認された。サウジの原油輸出活動が継続・拡大している兆候であり、供給面での安定性が示唆される。具体的な積み込み量や出荷先は報道から明確でない。"
+  },
+  {
+    "title": "CBOT Weekly: Corn cuts stand out in August WASDE - The Western Producer",
+    "timestamp": "2026-08-12T21:03:59+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE（米農務省作物見通し）でトウモロコシの生産量見通しが引き下げられた。CBOTではコーン先物が下落、マーケットの注目を集めた。具体的な削減幅や理由については当該レポートで詳述されている可能性がある。"
+  },
+  {
+    "title": "Russian share of India's oil imports surges to record high in July - Reuters",
+    "timestamp": "2026-08-14T04:56:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インドの石油輸入に占めるロシア産原油のシェアが7月に過去最高水準へ急増した。これは西側制裁強化に伴う迂回取引の加速とOPEC+の供給構造変化を示唆する。新興国へのロシア原油シフトが加速すれば、スポット市場の需給バランス悪化と価格上昇圧力につながる可能性がある。"
   }
 ]
