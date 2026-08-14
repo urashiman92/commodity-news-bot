@@ -22,28 +22,6 @@
     "summary": "8月11日の金価格が「非常に奇妙な動き」を見せているとの報道。具体的な価格変動幅や原因が不明確。相場の振り返り・観測記事と考えられる。"
   },
   {
-    "title": "三菱マ出資の銅精錬所が操業停止、インドネシアからの出荷に遅れ - TBS NEWS DIG",
-    "timestamp": "2026-08-11T13:16:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "三菱マテリアルが出資するインドネシアの銅精錬所が操業停止。インドネシアからの銅精鉱出荷に遅れが生じる可能性。世界的な銅供給逼迫懸念が強まる局面での供給障害。"
-  },
-  {
-    "title": "フランコ・ネバダの決算発表、金価格の変動がロイヤルティモデルを試す 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-11T14:09:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "フランコ・ネバダの決算発表において、金価格の変動がロイヤルティモデルの収益性に影響を与えている。金鉱山企業の決算は既に市場で織り込まれた情報の解説である。"
-  },
-  {
     "title": "NYダウ反発、原油高の一服で景気敏感株に買い ホルムズ海峡協議進展が追い風 - BigGo ファイナンス",
     "timestamp": "2026-08-11T16:05:00+00:00",
     "importance": 3,
@@ -2308,5 +2286,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル・円相場が下値を堅持している状況を伝えるFX解説記事。原油相場の動向が為替に影響を与える可能性があるとの指摘。実際の原油相場の具体的な動きや指標値は記事概要に含まれていない。"
+  },
+  {
+    "title": "金価格は本日8月14日、大幅に下落して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-14T13:19:01+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月14日の金価格は本日の取引で大幅に下落して終了した。具体的な下落率や要因は記事から不明。ベトナムの金市場における日次の値動きレポート。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-08-14T13:09:48+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomooプラットフォーム上のWTI原油先物の価格表示（2610）に関する記事。具体的なニュース内容や価格変動情報が提供されていない単なるリンク表示。"
   }
 ]
