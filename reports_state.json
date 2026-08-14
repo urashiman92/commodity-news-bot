@@ -1835,5 +1835,38 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "米国の銅輸入が12年ぶりの高水準に達し、LME在庫が14%減少した。在庫の急速な減少がデリバリープレミアムを上昇させており、供給不足のシグナルが強まっている。逼迫した市場環境が銅価格の上方圧力につながる可能性が高い。"
+  },
+  {
+    "title": "USDA Reports Record Corn, Soybean Acreage Planted - AGDAILY",
+    "timestamp": "2026-08-14T13:15:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが記録的なトウモロコシと大豆の作付面積を報告。供給増加見通しにより両穀物は下押し圧力を受ける。作付面積の拡大は豊作シナリオを示唆し、在庫増加と価格押し下げが予想される。"
+  },
+  {
+    "title": "USDA Reports Record Corn, Soybean Acreage Planted - AGDAILY",
+    "timestamp": "2026-08-14T13:15:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが記録的なトウモロコシと大豆の作付面積を報告。供給増加見通しにより両穀物は下押し圧力を受ける。作付面積の拡大は豊作シナリオを示唆し、在庫増加と価格押し下げが予想される。"
+  },
+  {
+    "title": "ADNOC unbound: War, OPEC exit launch Emirates oil giant on quest for growth - Reuters",
+    "timestamp": "2026-08-13T12:28:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEの国営石油企業ADNOCがOPEC脱退を発表し、独立した成長戦略を追求する。中東地域紛争の激化とOPEC減産体制の弱体化により、供給サイドの不確実性が大幅に増加。OPECの統率力低下は原油市場の需給バランスに構造的変化をもたらす。"
   }
 ]
