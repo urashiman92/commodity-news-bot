@@ -1,27 +1,5 @@
 [
   {
-    "title": "世界の金価格が1オンスあたり4400ドルを突破し、新たな節目に向かっている。 - Vietnam.vn",
-    "timestamp": "2026-08-11T08:28:23+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4400ドルを突破し新高値を更新。インフレ懸念や地政学的リスク、低金利環境が買い支える。技術的な節目越えで心理的サポートが形成される。"
-  },
-  {
-    "title": "$WTI 原油先物(2609) (CLmain.US)$ カップ・アンド・ハンドルでブレイクアウト、週足ゴールデンクロスも間近か？ - Moomoo",
-    "timestamp": "2026-08-11T08:39:56+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物がテクニカル分析上のカップ・アンド・ハンドルパターンでブレイクアウトし、週足ゴールデンクロスが近づいているとの指摘。チャート形成に基づく上昇シグナルの観測。"
-  },
-  {
     "title": "8月11日午後：金価格は反転し、急落した。 - vietnam.vn",
     "timestamp": "2026-08-11T10:37:18+00:00",
     "importance": 2,
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "TSX先物が小幅上昇。米インフレ指標と原油価格の動向に注目が集まっている。現時点では方向感が限定的な状況。"
-  },
-  {
-    "title": "本日の米国株式市場：雇用統計の鈍化と原油相場の不安を背景に、S&P 500先物が小幅高 - simplywall.st",
-    "timestamp": "2026-08-11T09:34:15+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株式市場の動向を扱う解説記事。雇用統計鈍化と原油相場の不安が背景とされているが、S&P500先物は小幅高で推移。原油相場への直接的な具体的影響は記事概要からは不明確。"
   },
   {
     "title": "インド国債が下落、原油価格の上昇が圧迫要因に 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -108,17 +75,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月11日の金価格が「非常に奇妙な動き」を見せているとの報道。具体的な価格変動幅や原因が不明確。相場の振り返り・観測記事と考えられる。"
-  },
-  {
-    "title": "米イランの対立で原油価格が上昇、株価は下落 - TradingView",
-    "timestamp": "2026-08-11T08:44:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イランの対立激化により原油価格が上昇。地政学的リスクが市場に織り込まれている。一方、株価下落により投資家のリスク回避姿勢が強まっている。"
   },
   {
     "title": "三菱マ出資の銅精錬所が操業停止、インドネシアからの出荷に遅れ - TBS NEWS DIG",
@@ -2319,5 +2275,115 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "米農務省がトウモロコシ収穫量を下方修正。熱波による作況悪化に加え、欧州でも不作懸念が浮上。先物相場は4%高騰し、供給逼迫感が強まっている。"
+  },
+  {
+    "title": "金価格が1週間で7%超上昇 背後にある二大要因とは - AFPBB News",
+    "timestamp": "2026-08-14T05:52:21+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間で7%超上昇。背後には二大要因があると報道されている。具体的な要因の詳細は記事の概要からは不明だが、金の上昇トレンドが継続している状況。"
+  },
+  {
+    "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-08-14T07:48:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "純金上場信託(1540)の株価情報ページ。金現物に連動するETFの定期的な相場データ配信。特定のニュースイベントではなく、金融情報サイトの通常コンテンツ更新。"
+  },
+  {
+    "title": "ウォール街と個人投資家が異例の同時強気、金価格見通しで一致 米連邦準備制度理事会（FRB）の利上げ選択肢は依然残ると機関が警鐘 - BigGo ファイナンス",
+    "timestamp": "2026-08-14T03:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ウォール街と個人投資家が金相場の強気見通しで異例に一致。FRBの利上げ選択肢残存を背景にインフレヘッジ需要が堅調。市場センチメント改善を示唆。"
+  },
+  {
+    "title": "年末までの金価格を左右する5つの要因。 - Vietnam.vn",
+    "timestamp": "2026-08-14T07:06:18+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "年末までの金価格に影響を与える5つの要因についての解説記事。具体的な要因の内容は不明だが、金投資家にとって注視すべき複数のドライバーがあることを示唆している。"
+  },
+  {
+    "title": "金価格が1週間で7%超上昇 背後にある二大要因とは - AFPBB News",
+    "timestamp": "2026-08-14T05:50:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間で7%超上昇した。背景には複数の要因が存在。詳細な要因分析は記事概要からは判断できないが、マクロ環境の変化を反映した動きと考えられる。"
+  },
+  {
+    "title": "原油先物が続落、26年需要見通し引き下げで売り優勢 金も下落 - BigGo ファイナンス",
+    "timestamp": "2026-08-14T07:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "2026年の原油需要見通しが引き下げられたことを受け、原油先物が続落。金も同時に下落している。需要減速懸念が市場で売り優勢となっている。"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ渋り、原油相場を注視 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-14T07:15:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東京為替市場でドル・円が下げ渋りの動き。原油相場が為替市場の注視対象となっている。ドル・円の動きと原油価格の連動性に注目が集まる状況。"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ渋り、原油相場を注視 - ｄメニューニュース",
+    "timestamp": "2026-08-14T07:08:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東京市場でドル・円相場が下げ渋る中、原油相場の動向が注視されている。為替と原油の連動性が意識されている状況。具体的な新規情報は不明。"
+  },
+  {
+    "title": "銅価格見通し：供給逼迫で価格は1万4000ドル突破、1万5000ドルに達するか？ - TradingKey",
+    "timestamp": "2026-08-13T17:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅の供給逼迫が継続し、価格が1万4000ドルを突破する可能性が指摘されている。1万5000ドル達成の可能性についての市場評論。既存トレンドの継続観測。"
+  },
+  {
+    "title": "中国非鉄金属企業、上半期の利益が94%増 AI需要で関連金属が高騰 - AFPBB News",
+    "timestamp": "2026-08-14T06:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "中国非鉄金属企業の上半期利益が94%増加。AI需要の拡大により銅などの関連金属が高騰し、企業業績が大幅改善。需要面からの銅価格支援要因が確認された。"
   }
 ]
