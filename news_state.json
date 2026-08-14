@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格が上昇、中国の金準備高は過去最高水準に迫る。 - Vietnam.vn",
-    "timestamp": "2026-08-11T23:32:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の上昇に伴い、中国の金準備高が過去最高水準に接近している。中国による戦略的な金の買い増しが続く中、価格上昇が準備高の増加を後押ししている状況。"
-  },
-  {
-    "title": "本日の燃料価格（8月12日）：世界の原油価格は上昇を続けている。 - Vietnam.vn",
-    "timestamp": "2026-08-11T23:32:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムのニュースサイトが8月12日時点での世界原油価格の上昇継続を報じている。具体的な価格水準や上昇要因の詳細は記事本文なしでは不明。通常の相場レポートと考えられる。"
-  },
-  {
     "title": "NY金先物は小幅続伸、米利上げ観測後退が支え｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-08-11T23:59:00+00:00",
     "importance": 3,
@@ -2264,5 +2242,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月15日時点での世界原油価格が上昇したとの報道。ベトナムの燃料価格情報サイトによる日次レポート。具体的な上昇要因や幅は記事から不明確。"
+  },
+  {
+    "title": "ホルムズ海峡でタンカー再び攻撃 米国の対イラン圧力強化 国際原油価格は週間で約6%上昇 - BigGo ファイナンス",
+    "timestamp": "2026-08-14T23:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡でタンカー攻撃が再発生し、米国のイラン圧力が強化される中で供給リスクが顕在化。週間で約6%の原油価格上昇は地政学的リスク要因の市場への強い反映。"
   }
 ]
