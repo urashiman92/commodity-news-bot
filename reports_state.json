@@ -1,27 +1,5 @@
 [
   {
-    "title": "Analyst expects higher corn yield in USDA’s August report - Brownfield Ag News",
-    "timestamp": "2026-08-11T16:44:58+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "アナリストがUSDA8月レポートでトウモロコシの単収が上方修正される見通しを示唆。作況が良好な地域の進展により、前月比での単収改善が予想される。8月の定期穀物進捗報告に先立つ市場予想形成段階の論評。"
-  },
-  {
-    "title": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027 - Bloomberg.com",
-    "timestamp": "2026-08-11T17:08:23+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がイラン関連の戦争による石油供給途絶が2027年まで継続する可能性があると見解を示した。中東地政学リスクの深刻化により、原油の供給不安が大幅に高まる。この長期的な供給ショック懸念は市場の価格押し上げ圧力として機能する。"
-  },
-  {
     "title": "Grain prices sink before WASDE, putting U.S. farm margins under fresh pressure - Agrolatam",
     "timestamp": "2026-08-11T20:22:48+00:00",
     "importance": 3,
@@ -130,28 +108,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国とイランの核合意（JCPOA）に関する交渉の先行き不透明性が高まっており、サプライズとしてイラン産原油の供給リスクが急速に顕在化している。核合意の破綻懸念が現物原油の供給逼迫懸念を招き、原油価格の上昇要因となっている。中東地政学リスクの再燃により市場のリスク・プレミアムが拡大している。"
-  },
-  {
-    "title": "Chile Cuts Copper Production Forecast Again as Mine Woes Persist - Bloomberg.com",
-    "timestamp": "2026-08-11T16:54:03+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "チリが銅生産見通しを再度下方修正。鉱山の操業問題が継続しており、世界最大級の銅生産国からの供給減少が確定。銅需給ひっ迫構図が深刻化し、価格上昇圧力が強まる局面。"
-  },
-  {
-    "title": "Chile Cuts Copper Production Forecast Again as Mine Woes Persist - Bloomberg.com",
-    "timestamp": "2026-08-11T16:54:03+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "チリが銅生産見通しを再度下方修正。鉱山の操業問題が継続しており、世界最大級の銅生産国からの供給減少が確定。銅需給ひっ迫構図が深刻化し、価格上昇圧力が強まる局面。"
   },
   {
     "title": "Oil futures: Crude up with Hormuz flows constrained, US stocks rise - Quantum Commodity Intelligence",
@@ -1857,5 +1813,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "黒海での輸出混乱によるロシア産油の供給減少を受け、トルコがロシア産原油の輸入を削減している。黒海での地政学的リスクがロシア産油の供給制約となり、代替供給源への需要シフトが発生。原油の地域別スプレッドに影響を与える可能性がある。"
+  },
+  {
+    "title": "US Copper Imports Hit 12-Year High, Cutting LME Stocks 14% & Raising Delivery Premiums - Crux Investor",
+    "timestamp": "2026-08-14T12:37:17+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "米国の銅輸入が12年ぶりの高水準に達し、LME在庫が14%減少した。在庫の急速な減少がデリバリープレミアムを上昇させており、供給不足のシグナルが強まっている。逼迫した市場環境が銅価格の上方圧力につながる可能性が高い。"
+  },
+  {
+    "title": "US Copper Imports Hit 12-Year High, Cutting LME Stocks 14% & Raising Delivery Premiums - Crux Investor",
+    "timestamp": "2026-08-14T12:37:17+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "米国の銅輸入が12年ぶりの高水準に達し、LME在庫が14%減少した。在庫の急速な減少がデリバリープレミアムを上昇させており、供給不足のシグナルが強まっている。逼迫した市場環境が銅価格の上方圧力につながる可能性が高い。"
   }
 ]
