@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日2026年8月12日の金価格は1オンスあたり4,400ドルを下回りました。純度9999の金指輪がサプライズとなりました。借入はなく、貴金属への「全額投資」もありませんでした。 - Vietnam.vn",
-    "timestamp": "2026-08-11T15:01:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年8月12日の金価格が1オンス4,400ドルを下回ったと報道。ベトナムのニュースソースで金指輪に関する記事。具体的な市場ファンダメンタルズへの言及がなく、通常の相場報道とみられる。"
-  },
-  {
-    "title": "8月11日の今日の金価格は、非常に奇妙な動きを見せている。 - Vietnam.vn",
-    "timestamp": "2026-08-11T14:58:11+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月11日の金価格が「非常に奇妙な動き」を見せているとの報道。具体的な価格変動幅や原因が不明確。相場の振り返り・観測記事と考えられる。"
-  },
-  {
     "title": "NYダウ反発、原油高の一服で景気敏感株に買い ホルムズ海峡協議進展が追い風 - BigGo ファイナンス",
     "timestamp": "2026-08-11T16:05:00+00:00",
     "importance": 3,
@@ -218,17 +196,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムのニュースサイトが8月12日時点での世界原油価格の上昇継続を報じている。具体的な価格水準や上昇要因の詳細は記事本文なしでは不明。通常の相場レポートと考えられる。"
-  },
-  {
-    "title": "モーニング娘。 『LOVEマシーン』 (MV) Copper Price (1rmj1NUWPs) - Mshale",
-    "timestamp": "2026-08-11T14:48:27+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "モーニング娘。のMVと銅価格を結びつけたと思われるニュース。銅市場に関連する実質的な情報が不明。"
   },
   {
     "title": "１１日の主要国際商品市況 - 株探",
@@ -460,17 +427,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が1週間ぶりの高値を更新し上昇トレンドを示唆。同時に金価格は4400ドル割れ、米国株は下落と、リスク資産が売られている局面。複合的なマクロ環境の反映。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ73ドル高、原油先物0.09ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-11T14:43:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前の相場動向を報じた記事。原油先物は小幅上昇（0.09ドル高）。ダウ平均も73ドル高で堅調だが、具体的なファンダメンタルズ要因は記事から読み取れない。"
   },
   {
     "title": "小麦とコーヒー市場では、売り圧力が再び優勢となった。 - Vietnam.vn",
@@ -2308,5 +2264,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "Moomooプラットフォーム上のWTI原油先物の価格表示（2610）に関する記事。具体的なニュース内容や価格変動情報が提供されていない単なるリンク表示。"
+  },
+  {
+    "title": "金価格が反落、トレーダーはFRB見通しを再評価 - VT Markets",
+    "timestamp": "2026-08-14T11:20:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が反落し、トレーダーがFRB（米国連邦準備制度）の金融政策見通しを再評価している。金利見通しの変化が金需要に影響を与えている可能性がある。"
   }
 ]
