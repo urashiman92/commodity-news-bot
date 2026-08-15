@@ -1,16 +1,5 @@
 [
   {
-    "title": "小麦先物 (WHEAT-F) は8月12日に急激に動いた：在庫、ドル、それとも地政学的要因か？ - TradingKey",
-    "timestamp": "2026-08-12T05:30:55+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "8月12日の小麦先物の急激な値動きについて、在庫・ドル・地政学的要因の複合的な影響を分析した解説記事。既に発生した値動きの事後的な原因分析。"
-  },
-  {
     "title": "本日（8月12日午後）の金価格：金地金の価格は全般的に上昇しました。 - vietnam.vn",
     "timestamp": "2026-08-12T06:01:09+00:00",
     "importance": 1,
@@ -2209,5 +2198,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がホルムズ海峡の米国領化を発言し、地政学リスクプレミアムを正当化。既知のポジショニングの延長線上の発言であり、供給遮断懸念を理由に原油高を支持する姿勢を示唆。"
+  },
+  {
+    "title": "本日（8月15日）の金価格：金地金と金指輪はともに下落。 - Vietnam.vn",
+    "timestamp": "2026-08-15T04:11:35+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金と金指輪が8月15日に下落した。市場の日々の価格変動を報じた記事で、具体的な下落率や市場ドライバーは不明。"
   }
 ]
