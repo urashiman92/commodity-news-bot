@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters",
-    "timestamp": "2026-08-12T00:59:47+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国とイランの核合意（JCPOA）に関する交渉の先行き不透明性が高まっており、サプライズとしてイラン産原油の供給リスクが急速に顕在化している。核合意の破綻懸念が現物原油の供給逼迫懸念を招き、原油価格の上昇要因となっている。中東地政学リスクの再燃により市場のリスク・プレミアムが拡大している。"
-  },
-  {
     "title": "Oil futures: Crude up with Hormuz flows constrained, US stocks rise - Quantum Commodity Intelligence",
     "timestamp": "2026-08-12T05:51:57+00:00",
     "importance": 3,
@@ -1758,5 +1747,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシア黒海のシェスハリ石油積み出し基地がドローン攻撃により積み出しを停止。同基地はロシアの主要石油積み出し施設の一つであり、供給途絶は世界石油市場への直接的な影響が避けられない。ウクライナ情勢の激化による供給リスク顕在化は市場心理を大きく変える。"
+  },
+  {
+    "title": "Market Analyst and Trader Expectations Determine Price Responses from USDA Reports - Farms.com",
+    "timestamp": "2026-08-13T12:22:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "本レポートはUSDA発表（WASDE等）に対する市場価格反応のメカニズムを解説するコメンタリー記事である。市場参加者の事前予想と実績値のギャップが価格変動の大きさを決定することを指摘しており、予想と一致すれば価格反応は限定的、乖離すれば大きく動く可能性があることを強調している。具体的な新規統計数値は含まれていない。"
+  },
+  {
+    "title": "Market Analyst and Trader Expectations Determine Price Responses from USDA Reports - Farms.com",
+    "timestamp": "2026-08-13T12:22:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "本レポートはUSDA発表（WASDE等）に対する市場価格反応のメカニズムを解説するコメンタリー記事である。市場参加者の事前予想と実績値のギャップが価格変動の大きさを決定することを指摘しており、予想と一致すれば価格反応は限定的、乖離すれば大きく動く可能性があることを強調している。具体的な新規統計数値は含まれていない。"
+  },
+  {
+    "title": "Market Analyst and Trader Expectations Determine Price Responses from USDA Reports - Farms.com",
+    "timestamp": "2026-08-13T12:22:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "本レポートはUSDA発表（WASDE等）に対する市場価格反応のメカニズムを解説するコメンタリー記事である。市場参加者の事前予想と実績値のギャップが価格変動の大きさを決定することを指摘しており、予想と一致すれば価格反応は限定的、乖離すれば大きく動く可能性があることを強調している。具体的な新規統計数値は含まれていない。"
+  },
+  {
+    "title": "Market Analyst and Trader Expectations Determine Price Responses from USDA Reports - Farms.com",
+    "timestamp": "2026-08-13T12:22:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "本レポートはUSDA発表（WASDE等）に対する市場価格反応のメカニズムを解説するコメンタリー記事である。市場参加者の事前予想と実績値のギャップが価格変動の大きさを決定することを指摘しており、予想と一致すれば価格反応は限定的、乖離すれば大きく動く可能性があることを強調している。具体的な新規統計数値は含まれていない。"
   }
 ]
