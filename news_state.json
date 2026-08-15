@@ -1,16 +1,5 @@
 [
   {
-    "title": "ブレント原油価格が1バレル89ドルを突破。 - Vietnam.vn",
-    "timestamp": "2026-08-12T12:20:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が1バレル89ドルを突破した。足元の地政学的緊張やOPEC+の供給調整が価格を支えている状況を反映している。"
-  },
-  {
     "title": "中国の金宝飾品価格が1グラム1330元台に高騰、七夕商戦と投資家の様子見姿勢が交錯 - BigGo ファイナンス",
     "timestamp": "2026-08-12T12:56:00+00:00",
     "importance": 2,
@@ -97,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午後0時台の株価と原油先物の値動きを伝える市場リポート。ダウ平均は40ドル高、WTI原油先物は0.07ドル高と微動程度。具体的な材料や背景情報なし。"
-  },
-  {
-    "title": "大豆先物価格、USX1,166サポート付近でのもみ合い：テクニカル見通し - Traders Union",
-    "timestamp": "2026-08-12T12:21:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,166付近でサポートレベルを形成し、もみ合い相場が続いている。テクニカル分析に基づく相場観の提示で、ファンダメンタルズ的な新規材料ではない。"
   },
   {
     "title": "非商業トレーダー、ユーロネクストの小麦ポジションを削減 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2121,5 +2099,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金市場において、国内金価格と国際価格の差が大幅に縮小し、市場が正常化に向かっている。市場の需給バランスが改善されつつある状況を示唆。"
+  },
+  {
+    "title": "8月17日～21日の週の金価格：専門家の90％が上昇を予測しており、1オンスあたり4,500ドルの水準が注目されている。 - vietnam.vn",
+    "timestamp": "2026-08-15T12:18:52+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリスト90%が金価格の上昇を予測し、1オンス4,500ドルが注目水準とされている。強気コンセンサスの存在を示すコメンタリー記事で、既に広く知られた見方である。"
+  },
+  {
+    "title": "ドル不信が背景に…金価格の見通しは？【フォワードルッキング】 - テレ東BIZ",
+    "timestamp": "2026-08-15T01:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル弱化が金価格の上昇圧力となっている。ドル不信がドル資産の代替需要として金を支持している。今後の金価格見通しについての解説記事。"
   }
 ]
