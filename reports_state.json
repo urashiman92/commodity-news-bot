@@ -1,49 +1,5 @@
 [
   {
-    "title": "USDA Report Looms as Grain Markets Brace for a Volatile Yield Surprise - Agrolatam",
-    "timestamp": "2026-08-12T13:10:09+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA穀物レポート発表を控え、穀物市場はイールドサプライズへの警戒感が高まっている。タイトルから収穫量予想に大きな変動が見込まれる可能性が示唆されており、市場のボラティリティが急速に上昇する前夜の状況と考えられる。"
-  },
-  {
-    "title": "USDA Report Looms as Grain Markets Brace for a Volatile Yield Surprise - Agrolatam",
-    "timestamp": "2026-08-12T13:10:09+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA穀物レポート発表を控え、穀物市場はイールドサプライズへの警戒感が高まっている。タイトルから収穫量予想に大きな変動が見込まれる可能性が示唆されており、市場のボラティリティが急速に上昇する前夜の状況と考えられる。"
-  },
-  {
-    "title": "USDA Report Looms as Grain Markets Brace for a Volatile Yield Surprise - Agrolatam",
-    "timestamp": "2026-08-12T13:10:09+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA穀物レポート発表を控え、穀物市場はイールドサプライズへの警戒感が高まっている。タイトルから収穫量予想に大きな変動が見込まれる可能性が示唆されており、市場のボラティリティが急速に上昇する前夜の状況と考えられる。"
-  },
-  {
-    "title": "OPEC crude production jumps 1.7M bpd in July - Anadolu Ajansı",
-    "timestamp": "2026-08-12T13:23:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの原油生産が7月に日量170万バレル増加したと報告された。この増産は市場の需給バランスに影響を与え、原油価格に対する上昇圧力をもたらす可能性がある。具体的な増産規模は170万バレル/日と大幅である。"
-  },
-  {
     "title": "WASDE Preview: Corn Production, Wheat Losses and Sorghum Conditions Put Grain Markets in Focus - RFD-TV",
     "timestamp": "2026-08-12T14:56:47+00:00",
     "importance": 3,
@@ -75,28 +31,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "USDAの月次WASDE報告書のプレビュー記事。トウモロコシの生産見通し、小麦の作況不良、ソルガムの生育状況が市場の焦点。穀物市場全体に対する重要な統計発表を控えた注目度が高い状況。"
-  },
-  {
-    "title": "OPEC crude production jumps 1.7M bpd in July - Anadolu Ajansı",
-    "timestamp": "2026-08-12T13:23:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの原油生産が7月に日量170万バレル急増した。この大幅な増産は、減産合意からの方針転換を示唆し、原油市場に供給圧力をもたらす可能性がある。市場が織り込んでいなかった増産規模であり、油価下押し要因として機能するリスクが高い。"
-  },
-  {
-    "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters",
-    "timestamp": "2026-08-12T13:35:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの紅海油田からの石油輸出が、フーシ派による攻撃脅威の高まりにより遮断される状況が発生。戦略的に重要な海上輸送ルートの混乱により、グローバル石油供給チェーンに急性的なリスクが生じている。地政学的緊張の急速な深刻化により、原油価格の上昇圧力が強まる見通し。"
   },
   {
     "title": "USDA August WASDE Calls for Lower Yields, Higher Harvested Area for Corn and Soybeans - americanagnetwork.com",
@@ -253,39 +187,6 @@
     "summary": "USDAが8月のCrop Production報告とWASDE（世界農産物需給見通し）レポートを発表。米国のトウモロコシ、大豆、小麦の作付面積・生産量見通しが更新される定例統計。市場予想との乖離度が価格変動を決める。"
   },
   {
-    "title": "Could USDA's August Report Shock U.S. Grain Markets? - Agrolatam",
-    "timestamp": "2026-08-12T13:13:34+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの8月レポートが米国穀物市場に衝撃を与える可能性があるとの指摘。同レポートは作付面積、生産量、在庫見通しなど重要統計を含む定期発表であり、市場の織り込み状況によっては大きな値動きを誘発する可能性がある。具体的な予想値や実績値の記載がないため詳細な評価は困難。"
-  },
-  {
-    "title": "Could USDA's August Report Shock U.S. Grain Markets? - Agrolatam",
-    "timestamp": "2026-08-12T13:13:34+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの8月レポートが米国穀物市場に衝撃を与える可能性があるとの指摘。同レポートは作付面積、生産量、在庫見通しなど重要統計を含む定期発表であり、市場の織り込み状況によっては大きな値動きを誘発する可能性がある。具体的な予想値や実績値の記載がないため詳細な評価は困難。"
-  },
-  {
-    "title": "Could USDA's August Report Shock U.S. Grain Markets? - Agrolatam",
-    "timestamp": "2026-08-12T13:13:34+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの8月レポートが米国穀物市場に衝撃を与える可能性があるとの指摘。同レポートは作付面積、生産量、在庫見通しなど重要統計を含む定期発表であり、市場の織り込み状況によっては大きな値動きを誘発する可能性がある。具体的な予想値や実績値の記載がないため詳細な評価は困難。"
-  },
-  {
     "title": "USDA raises corn, soybean crop guesses on acreage increases - Brownfield Ag News",
     "timestamp": "2026-08-12T16:30:39+00:00",
     "importance": 3,
@@ -317,17 +218,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECが石油需要の増加を認識しつつも、成長見通しを引き下げた。これは需要の堅調さと経済見通しの不確実性が混在する市場状況を反映している。具体的な見通し数値や引き下げ幅が明確でないため、市場への織り込み状況が不透明。"
-  },
-  {
-    "title": "Russia Daily Oil Output Almost Million Barrels Below OPEC+ Quota - Bloomberg.com",
-    "timestamp": "2026-08-12T13:29:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの日量原油生産がOPEC+クォータより約100万バレル/日下回っている。これは西側制裁とウクライナ侵攻の影響を反映し、供給逼迫懸念を強める。OPEC+の減産枠組みが機能していない状況となり、市場の供給不安が加速する。"
   },
   {
     "title": "EIA Weekly Petroleum Report August 12, 2026: Crude Stocks Up, Refinery Runs High - News and Statistics - IndexBox",
@@ -1186,17 +1076,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が2ヶ月連続で原油生産量を引き上げた。市場の需要回復期待と在庫低下圧力の中での段階的な増産は、既に織り込まれていた方針の継続実施。供給側の緩和姿勢が徐々に進行している状況を示唆している。"
-  },
-  {
-    "title": "Russia Daily Oil Output Almost Million Barrels Below OPEC+ Quota - Bloomberg",
-    "timestamp": "2026-08-12T13:29:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ロシアの日量原油生産が、OPEC+のクォータより約100万バレル/日下回っている状況が報じられた。制裁や技術的制約によるロシアの減産が続いており、OPEC+全体の供給バランスに影響を与えている。市場では既に認識されている状況の確認報道。"
   },
   {
     "title": "Second Supertanker Seen Loading at Saudi Oil Hub in Persian Gulf - Bloomberg",
