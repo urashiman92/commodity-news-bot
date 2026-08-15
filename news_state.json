@@ -11,17 +11,6 @@
     "summary": "NY市場午後0時台の株価と原油先物の値動きを伝える市場リポート。ダウ平均は40ドル高、WTI原油先物は0.07ドル高と微動程度。具体的な材料や背景情報なし。"
   },
   {
-    "title": "非商業トレーダー、ユーロネクストの小麦ポジションを削減 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-12T16:11:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "非商業トレーダー（投機筋）がユーロネクスト小麦先物のポジションを削減。相場が上昇局面から調整局面へ移行した可能性を示唆。投機買いの巻き戻しが発生。"
-  },
-  {
     "title": "トウモロコシ先物、USDAの供給減少予測を受けて上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-12T18:53:00+00:00",
     "importance": 4,
@@ -2077,5 +2066,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "世界的な株価下落を受けて原油価格が反発した。リスク資産の売却局面でのセーフハーブン的な動きか、または技術的なリバウンド。既知の相場展開の振り返り解説。"
+  },
+  {
+    "title": "NY金先物：反発、米インフレ鈍化でFRBの利上げ観測が後退 - TradingView",
+    "timestamp": "2026-08-14T23:56:49+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米インフレ指標が鈍化し、FRBによる追加利上げ観測が後退。金は利上げ圧力の緩和で反発。既報の経済指標を踏まえた相場解説。"
+  },
+  {
+    "title": "【原油ウォッチ】イラン情勢の混迷続くも、需要低迷で上値重く…米国はガソリン価格高騰、「輸出禁止検討」の噂も(1/3) - JBpress",
+    "timestamp": "2026-08-14T21:00:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢は緊張継続も、グローバル需要低迷が原油の上値を抑制。米国ガソリン高騰への対応として輸出禁止検討の観測あり。供給リスクと需要弱さの綱引き状態。"
   }
 ]
