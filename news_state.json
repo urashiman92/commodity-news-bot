@@ -1,16 +1,5 @@
 [
   {
-    "title": "金相場価格デイリーコメント週間まとめ（8/3〜8/7）｜水野崇 - mbp-japan.com",
-    "timestamp": "2026-08-12T01:42:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月3日～7日の金相場の週間振り返りコメント。特定の価格方向性は示されておらず、専門家による相場分析・解説の記事。"
-  },
-  {
     "title": "金価格、ホルムズ海峡の不透明感とCPIでFed政策に注目集まる 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-12T02:22:00+00:00",
     "importance": 3,
@@ -20,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格はホルムズ海峡の地政学リスクと米国CPI発表に注目。Fed政策決定が今後の価格方向を左右する重要局面。"
-  },
-  {
-    "title": "本日（8月12日）の金価格：反転して急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-12T02:02:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月12日の金価格が反転して急落した。ベトナムメディアによる当日の相場振り返り報道。具体的な急落理由の記載がなく、詳細は不明。"
-  },
-  {
-    "title": "ホルムズ海峡封鎖続く中、原油価格が約2週間ぶり高値に接近 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-12T01:34:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の封鎖が継続する中、原油価格が約2週間ぶりの高値圏に接近。地政学的リスク要因が供給懸念を継続させている。"
-  },
-  {
-    "title": "速報（8月12日）：原油価格が1週間ぶりの高値を更新、金価格は4400ドルを下回り、米国株は引き続き下落。 - Vietnam.vn",
-    "timestamp": "2026-08-12T02:02:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が1週間ぶりの高値を更新し上昇トレンドを示唆。同時に金価格は4400ドル割れ、米国株は下落と、リスク資産が売られている局面。複合的なマクロ環境の反映。"
   },
   {
     "title": "小麦とコーヒー市場では、売り圧力が再び優勢となった。 - Vietnam.vn",
@@ -174,17 +130,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東和平交渉の停滞により、地政学的リスク懸念が高まり原油価格が急騰。中東は世界有数の石油供給地域であり、紛争リスクの上昇は供給途絶への懸念を招く。既存のイランやサウジアラビア等の供給リスク要因が顕在化する可能性。"
-  },
-  {
-    "title": "長城科技、上半期の売上高75.82億人民元で20%増収も、銅価格上昇が販売数量を圧迫 - BigGo ファイナンス",
-    "timestamp": "2026-08-12T02:06:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "長城科技の上半期売上高は75.82億人民元で20%増収を達成。ただし銅価格上昇により販売数量が圧迫されており、増収は価格上昇によるものと判明。"
   },
   {
     "title": "米国のインフレ統計発表を前に、金価格は1オンスあたり4400ドルに迫っている。 - Vietnam.vn",
@@ -2220,5 +2165,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が反発。中東地政学リスクによる供給懸念が価格を下支えしている。既に報じられている中東情勢の緊張が継続している状況。"
+  },
+  {
+    "title": "NY原油先物：反発、中東情勢の緊張継続で供給懸念が下支え 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-14T23:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が反発した。中東情勢の緊張が継続しており、供給懸念が価格を下支えしている。市場は地政学的リスクプレミアムを織り込んでいる状況。"
+  },
+  {
+    "title": "NY外為：ドル売り一段落、原油価格や米10年債利回りは上昇｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-15T01:36:06+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル売りの一段落により、ドル建て商品である原油価格が上昇。同時に米10年債利回りも上昇している相場環境を解説するコメンタリー記事。"
   }
 ]
