@@ -1,16 +1,5 @@
 [
   {
-    "title": "小麦とコーヒー市場では、売り圧力が再び優勢となった。 - Vietnam.vn",
-    "timestamp": "2026-08-12T05:16:09+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "小麦とコーヒー市場で売り圧力が再び優勢になったという相場動向の報告。既に進行中の価格下落トレンドの継続を示すもの。市場心理の悪化を反映した技術的な売り圧力である。"
-  },
-  {
     "title": "小麦先物 (WHEAT-F) は8月12日に急激に動いた：在庫、ドル、それとも地政学的要因か？ - TradingKey",
     "timestamp": "2026-08-12T05:30:55+00:00",
     "importance": 2,
@@ -2209,5 +2198,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月15日朝の金価格上昇を報じたニュース。具体的な上昇幅や要因が記事概要に記載されていない。単なる日次の値動き報告と見られる。"
+  },
+  {
+    "title": "トランプ氏「ホルムズ海峡を米国領に」 原油価格の高止まり正当化 - nikkei.com",
+    "timestamp": "2026-08-14T21:27:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がホルムズ海峡の米国領化を発言し、地政学リスクプレミアムを正当化。既知のポジショニングの延長線上の発言であり、供給遮断懸念を理由に原油高を支持する姿勢を示唆。"
   }
 ]
