@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（8月12日午後）の金価格：金地金の価格は全般的に上昇しました。 - vietnam.vn",
-    "timestamp": "2026-08-12T06:01:09+00:00",
-    "importance": 1,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金価格が8月12日午後に全般的に上昇した。ただし、具体的な上昇率や上昇要因については記事に記載されていない。"
-  },
-  {
     "title": "国内の金価格は、世界の金価格との差をほぼ縮めつつある。 - Vietnam.vn",
     "timestamp": "2026-08-12T07:01:04+00:00",
     "importance": 2,
@@ -198,17 +187,6 @@
     "summary": "金価格が4,400ドル/オンスの大台を回復し上昇を示している。記事は現在の相場水準を報道し、今後の展開を予想する解説記事。予想の範囲内の動き。"
   },
   {
-    "title": "米・イラン交渉の行き詰まりで原油価格が90ドルに迫る - jp.ajunews.com",
-    "timestamp": "2026-08-12T06:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン核協議の行き詰まりにより、地政学的リスクが高まっている。イラン産原油供給途絶の懸念から原油価格が90ドルに接近。供給サイドの不確実性が相場を支援。"
-  },
-  {
     "title": "市場開始30分前｜金価格は4,400ドルを上回り、注目される7月消費者物価指数（CPI） - Moomoo",
     "timestamp": "2026-08-12T13:00:50+00:00",
     "importance": 4,
@@ -295,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油在庫が増加し下押し要因となる一方、ホルムズ海峡の地政学的な合意進展が上値圧力として機能。両要因が相殺されもみ合い展開となっている。"
-  },
-  {
-    "title": "ＮＹダウ終値、１８４ドル安の５万３７９１ドル…原油先物価格が上昇し相場の重しに - au Webポータル",
-    "timestamp": "2026-08-12T06:00:02+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NYダウが184ドル安で終値した。原油先物価格の上昇が株式市場の重しになったことが報じられている。原油高がエネルギーコスト懸念として株価を圧迫。"
   },
   {
     "title": "本日（8月13日）の金価格：急騰し、1オンスあたり1億4500万ベトナムドンに迫る。 - Vietnam.vn",
@@ -2209,5 +2176,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金地金と金指輪が8月15日に下落した。市場の日々の価格変動を報じた記事で、具体的な下落率や市場ドライバーは不明。"
+  },
+  {
+    "title": "石油タンカーへの攻撃に対する懸念から、ブレント原油価格は6％上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-15T05:53:04+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "石油タンカーへの攻撃懸念により、ブレント原油が6%上昇。供給ルート途絶の地政学的リスクが顕在化。エネルギー安全保障上の重大な懸念材料。"
   }
 ]
