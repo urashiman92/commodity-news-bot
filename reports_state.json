@@ -1012,17 +1012,6 @@
     "summary": "ロシアの黒海封鎖によりウクライナの農産物が港湾で滞留し、輸出が遮断されている。ウクライナは世界の小麦供給の約10%、トウモロコシの約15%を占めており、この供給途絶は世界的な食料価格上昇圧力となっている。農民の絶望的な状況が報告されている。"
   },
   {
-    "title": "Oil slips on weaker demand outlook and higher US stocks amid supply disruptions - whbl.com",
-    "timestamp": "2026-08-12T07:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫統計により、米国原油在庫が増加したことが報告された。需要見通しの弱化と在庫の増加が原油価格を押し下げている。一方、供給途絶リスク（地政学的要因など）が存在するため、上下両方向の要因が混在している状況。"
-  },
-  {
     "title": "USDA boosts crop estimates despite smaller yields - FarmWeekNow",
     "timestamp": "2026-08-12T20:30:00+00:00",
     "importance": 3,
@@ -1274,39 +1263,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国がイラン対する無期限の海上封鎖を検討しており、石油供給の不足が深刻化している。イランからの原油輸出制限は全球供給に大きな影響を与え、地政学的リスクプレミアムが急速に上昇。中東地域の緊張激化により、エネルギー市場全体が不安定化している。"
-  },
-  {
-    "title": "WASDE Shock: USDA Yield Cuts, Acreage Revisions Trigger Rallies Across Grain Markets - wwbl.com",
-    "timestamp": "2026-08-12T07:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASDE報告で複数穀物の収量見通しが下方修正され、作付面積の調整も発表された。これらの供給サイドの悪化は穀物市場全般のラリーをもたらし、特にトウモロコシと大豆で顕著な上昇圧力が生じている。市場予想を大きく外した収量低下が相場急騰を誘発。"
-  },
-  {
-    "title": "WASDE Shock: USDA Yield Cuts, Acreage Revisions Trigger Rallies Across Grain Markets - wwbl.com",
-    "timestamp": "2026-08-12T07:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDE報告で複数穀物の収量見通しが下方修正され、作付面積の調整も発表された。これらの供給サイドの悪化は穀物市場全般のラリーをもたらし、特にトウモロコシと大豆で顕著な上昇圧力が生じている。市場予想を大きく外した収量低下が相場急騰を誘発。"
-  },
-  {
-    "title": "WASDE Shock: USDA Yield Cuts, Acreage Revisions Trigger Rallies Across Grain Markets - wwbl.com",
-    "timestamp": "2026-08-12T07:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDE報告で複数穀物の収量見通しが下方修正され、作付面積の調整も発表された。これらの供給サイドの悪化は穀物市場全般のラリーをもたらし、特にトウモロコシと大豆で顕著な上昇圧力が生じている。市場予想を大きく外した収量低下が相場急騰を誘発。"
   },
   {
     "title": "Opec-Plus Lifts Crude Output for Second Straight Month - Energy Intelligence",
