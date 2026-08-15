@@ -1,38 +1,5 @@
 [
   {
-    "title": "August WASDE increases estimate for 2025-’26 soybean oil use in biofuel - Biomass Magazine",
-    "timestamp": "2026-08-12T23:09:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "8月WASDEレポートで2025-26年度の大豆油のバイオ燃料向け使用量見積もりが上方修正された。バイオ燃料需要の増加は大豆油価格を支える要因となり、連動して大豆相場にも上昇圧力をもたらす。原油価格とバイオ燃料の相対価値関係も重要な材料となる。"
-  },
-  {
-    "title": "August WASDE increases estimate for 2025-’26 soybean oil use in biofuel - Biomass Magazine",
-    "timestamp": "2026-08-12T23:09:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "原油",
-    "summary": "8月WASDEレポートで2025-26年度の大豆油のバイオ燃料向け使用量見積もりが上方修正された。バイオ燃料需要の増加は大豆油価格を支える要因となり、連動して大豆相場にも上昇圧力をもたらす。原油価格とバイオ燃料の相対価値関係も重要な材料となる。"
-  },
-  {
-    "title": "August WASDE increases estimate for 2025-’26 soybean oil use in biofuel - Biomass Magazine",
-    "timestamp": "2026-08-12T23:09:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "8月WASDEレポートで2025-26年度の大豆油のバイオ燃料向け使用量見積もりが上方修正された。バイオ燃料需要の増加は大豆油価格を支える要因となり、連動して大豆相場にも上昇圧力をもたらす。原油価格とバイオ燃料の相対価値関係も重要な材料となる。"
-  },
-  {
     "title": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks - Reuters",
     "timestamp": "2026-08-13T01:08:00+00:00",
     "importance": 3,
@@ -42,17 +9,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "需要見通しの下方修正により原油価格が下落した。米国とイラン間の核合意交渉の膠着状態にもかかわらず、需要面の弱さが価格を圧迫。供給サイドのリスク要因よりも需要減速の懸念が市場心理を支配している。"
-  },
-  {
-    "title": "August WASDE maintains outlook for 2026-’27 corn use in ethanol - Ethanol Producer Magazine",
-    "timestamp": "2026-08-12T23:08:56+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "8月WASDEレポートで2026-27年度のトウモロコシのエタノール用途見通しが据え置かれた。定期的なWASDE発表の一部であり、エタノール需要の市場予想から大きな乖離がないことを示唆している。具体的な数値変更がない、またはわずかな調整に留まっている。"
   },
   {
     "title": "EIA reports massive rise in US crude oil stocks - engine.online",
@@ -97,28 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油価格が1バレル90ドル未満で推移し、米ドルが2週間ぶりの高値を記録。イランの地政学的リスクが市場の焦点となっている。ドル高はコモディティ全般に下落圧力をもたらす一方、原油に対するイラン情勢の不確実性が価格を支援する可能性がある。"
-  },
-  {
-    "title": "Wheat Markets Rally While Cattle Markets Catch Curveball from WASDE Report - Northern Ag Network",
-    "timestamp": "2026-08-12T23:09:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE月例レポートにより、小麦市場は買われて上昇した一方、畜牛市場は予想外の数字に打撃を受けた。報告書の内容から市場参加者の反応が分かれており、特に畜牛（肉牛・飼料牛）セクターで予想外の展開が生じている。"
-  },
-  {
-    "title": "Wheat Markets Rally While Cattle Markets Catch Curveball from WASDE Report - Northern Ag Network",
-    "timestamp": "2026-08-12T23:09:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE月例レポートにより、小麦市場は買われて上昇した一方、畜牛市場は予想外の数字に打撃を受けた。報告書の内容から市場参加者の反応が分かれており、特に畜牛（肉牛・飼料牛）セクターで予想外の展開が生じている。"
   },
   {
     "title": "Nigeria crude output tops OPEC quota for third month - Quantum Commodity Intelligence",
@@ -240,17 +174,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "テク株がS&P500を過去最高水準へ押し上げる一方で、原油価格とプロデューサー物価指数が軟化している。この二面性は、景気減速懸念とインフレ圧力の緩和が同時進行していることを示唆しており、リスク資産と商品市場の方向性が乖離している状態。"
-  },
-  {
-    "title": "Lower yield, ending stocks guesses support corn - Brownfield Ag News",
-    "timestamp": "2026-08-12T22:40:07+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国トウモロコシの収量見通しの引き下げと期末在庫予想の低下が報道されている。Crop Progress は定期的な作物進捗統計であり、低い収量推定と在庫減少予想がトウモロコシ価格を支えている材料として市場に評価されている。"
   },
   {
     "title": "Copper Prices Surge Past $14,800: Will New Mines Help Ease the Supply Crunch? - CarbonCredits.com",
@@ -636,5 +559,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金利引き上げ予想の後退により株式市場が上昇する一方、原油価格は下落した。FRBの金融引き締め観測の緩和は、利子を生まない金にとっては支援材料となる可能性がある。しかし同時に原油需要の弱含み懸念がドル相場強化につながり、ドル建てコモディティの上値抑制要因となっている。"
+  },
+  {
+    "title": "Iran’s Daily Oil Output Rises 26,000 Barrels in a Month: OPEC - Financial Tribune",
+    "timestamp": "2026-08-15T14:04:37+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イランの日産石油生産量が1ヶ月間で26,000バレル増加したとOPECが報告。増加幅は比較的小さく、市場への直接的なインパクトは限定的。イランの制裁下での産出増加は注視対象だが、既に報道されている継続的なトレンドの一部と見られる。"
+  },
+  {
+    "title": "Indian Refiners Snap Up Crude Months Ahead as Wars Upend Supply - Bloomberg.com",
+    "timestamp": "2026-08-14T07:14:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インドの製油所が地政学的リスク（複数の紛争）に対応し、数ヶ月先の原油を大量購入している。供給不安定性の高まりに対する防衛的な在庫積み増しであり、需要側の先制的な買い動きが原油需給を引き締める要因となっている。"
   }
 ]
