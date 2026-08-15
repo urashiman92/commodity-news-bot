@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（8月13日）の金価格：急騰し、1オンスあたり1億4500万ベトナムドンに迫る。 - Vietnam.vn",
-    "timestamp": "2026-08-12T22:10:54+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムドン建てでの金価格が1オンスあたり1億4500万ドンに接近。ドル安またはグローバルな金価格上昇を反映した動き。ベトナム国内市場の報道。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4408ドル｜米国の利上げ観測後退が影響し、買い優勢の模様(2026年8月13日) - OANDA証券",
     "timestamp": "2026-08-12T23:06:04+00:00",
     "importance": 3,
@@ -2044,5 +2033,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "OXYONはOccidental Petroleum（OXY）の株価に連動するトークン化商品。原油価格と配当金がトークン価格に影響する仕組みについての解説記事。"
+  },
+  {
+    "title": "金価格１６０倍、再び脚光 中銀積み増し、揺らぐドル一極―「ニクソン・ショック」５５年 - jiji.com",
+    "timestamp": "2026-08-15T22:01:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニクソン・ショック55年の節目で、金価格が160倍に上昇したことが再注目されている。中央銀行による金積み増しとドル一極体制の動揺が背景。現在の金買いトレンドの構造的要因を解説する記事。"
+  },
+  {
+    "title": "本日（8月16日）の金価格：綱引き状態の中、回復基調。 - Vietnam.vn",
+    "timestamp": "2026-08-15T21:52:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月16日の金価格は綱引き状態の中で回復基調を示している。具体的な価格水準や変動要因の詳細は記事概要では不明。市場の需給バランスが錯綜している状況と考えられる。"
+  },
+  {
+    "title": "金価格１６０倍、再び脚光＝中銀積み増し、揺らぐドル一極―「ニクソン・ショック」５５年 - 時事通信ニュース",
+    "timestamp": "2026-08-15T05:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニクソン・ショック55周年を機に、金価格が1969年比で160倍に上昇したことが報道された。中央銀行による金の積み増しやドル一極体制の揺らぎが背景にあり、金の投資需要が継続している。"
   }
 ]
