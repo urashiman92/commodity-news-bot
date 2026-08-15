@@ -1,16 +1,5 @@
 [
   {
-    "title": "【速報】NY原油先物82.90ドル(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-12T13:47:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が82.90ドルで取引されている速報。現在の価格ポイント情報であり、具体的な新規要因や市場イベントは明記されていない。"
-  },
-  {
     "title": "本日2026年8月13日の金価格は、4,400ドル/オンスの大台を回復し、大幅な上昇を見せています。今年の後半、市場はどのような展開を見せるでしょうか？ - Vietnam.vn",
     "timestamp": "2026-08-12T15:07:50+00:00",
     "importance": 2,
@@ -427,17 +416,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が1バレル1ドル超下落。需要見通しの悪化と米国の在庫急増が売り圧力となった。市場心理の悪化を反映した値動き。"
-  },
-  {
-    "title": "【速報】NY原油先物82.90ドル｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-12T13:47:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が82.90ドルで取引されている速報。単一時点の価格引用のみで、特定の材料や変動要因が記述されていない。"
   },
   {
     "title": "世界の農産物価格は軒並み上昇している。 - Vietnam.vn",
@@ -2088,5 +2066,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "複数の専門家が来週の金価格上昇を予測している。アナリスト見解であり、既に市場で織り込まれている可能性が高い。具体的な材料や根拠が不明確。"
+  },
+  {
+    "title": "金価格は本日8月15日、非常に力強い反発を見せて取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-15T13:15:41+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月15日の金価格が力強い反発を見せた。ベトナムメディアによる相場の振り返り報道。具体的な要因や価格水準の記載がない。"
   }
 ]
