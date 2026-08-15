@@ -11,17 +11,6 @@
     "summary": "小麦とコーヒー市場で売り圧力が再び優勢になったという相場動向の報告。既に進行中の価格下落トレンドの継続を示すもの。市場心理の悪化を反映した技術的な売り圧力である。"
   },
   {
-    "title": "ウォール街のアナリスト84%が金価格の上昇を予想、CPIデータが短期的な反発の鍵に - BigGo ファイナンス",
-    "timestamp": "2026-08-12T03:27:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ウォール街のアナリスト84%が金価格の上昇を予想している。CPIデータが短期的な反発の鍵となる見通し。インフレ懸念や金融不確実性が背景にある。"
-  },
-  {
     "title": "新興国市場はもはや原油価格を恐れない - ピクテ・ジャパン",
     "timestamp": "2026-08-12T04:37:03+00:00",
     "importance": 2,
@@ -273,17 +262,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4,400ドル超で推移している。7月CPI発表が市場の注目焦点。インフレ指標次第でFRB政策と金の実質利回りが変動する可能性。"
-  },
-  {
-    "title": "Antam gold price plunges IDR 30,000 per gram on Wednesday (12/8) - idnfinancials.com",
-    "timestamp": "2026-08-12T03:50:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアのAntam金価格が1グラムあたりIDR 30,000下落した。インドネシア国内の金先物相場の日々の変動を報じた記事。"
   },
   {
     "title": "ASXプレビュー：米国のインフレ統計発表を前に金価格が下落し、オーストラリア株は安値スタートの見込み。コモンウェルス・バンク・オブ・オーストラリアは下半期の現金収益および総純営業収入が増加 - Moomoo",
@@ -2209,5 +2187,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月15日時点で金価格が再び上昇したというベトナム現地メディアの報道。具体的な上昇幅や背景要因は記事概要から明確ではない。定期的な市場動向リポートと推定される。"
+  },
+  {
+    "title": "先週、世界の金価格は1％近く上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-15T03:57:27+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "先週の金価格は1%近い上昇を記録した。変動幅は限定的で、通常のボラティリティ範囲内の値動き。具体的な上昇要因の記述がなく、単なる相場の振り返りと判断される。"
+  },
+  {
+    "title": "NY市場動向（取引終了）:ダウ107.58ドル安（速報）、原油先物1.15ドル高 ｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-14T23:33:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場ではダウ平均が小幅下落する中、WTI原油先物は1.15ドル上昇で取引を終了。株式と原油の逆相関を示す値動きだが、具体的な材料は記事から不明。"
+  },
+  {
+    "title": "石油の雫となって逃げまくれ 『Crude Oil』が配信開始、跳ねて伸びてフォークリフトも乗りこなすシュールアクション - AppBank",
+    "timestamp": "2026-08-15T03:04:54+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "スマートフォン向けゲームアプリ『Crude Oil』が配信開始。プレイヤーが石油の雫となって逃げるシュールなアクションゲーム。"
   }
 ]
