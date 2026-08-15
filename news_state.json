@@ -11,17 +11,6 @@
     "summary": "USDAが定期レポートでトウモロコシの供給減少を予測し、先物価格が上昇した。供給逼迫が価格押し上げの主要因。詳細な予想との比較が不明なため、サプライズ度は判定困難。"
   },
   {
-    "title": "原油はもみ合い、米在庫増加－ホルムズ海峡巡る合意の進展に注目 - Bloomberg.com",
-    "timestamp": "2026-08-12T16:53:08+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米原油在庫が増加し下押し要因となる一方、ホルムズ海峡の地政学的な合意進展が上値圧力として機能。両要因が相殺されもみ合い展開となっている。"
-  },
-  {
     "title": "本日（8月13日）の金価格：急騰し、1オンスあたり1億4500万ベトナムドンに迫る。 - Vietnam.vn",
     "timestamp": "2026-08-12T22:10:54+00:00",
     "importance": 2,
@@ -2066,5 +2055,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン情勢は緊張継続も、グローバル需要低迷が原油の上値を抑制。米国ガソリン高騰への対応として輸出禁止検討の観測あり。供給リスクと需要弱さの綱引き状態。"
+  },
+  {
+    "title": "金価格が予想外に10％急騰：複数の銀行が最新の予測を発表。 - Vietnam.vn",
+    "timestamp": "2026-08-15T17:01:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が予想外に10％急騰したと報じられている。複数の銀行が相次いで予測を発表している。市場心理と機関投資家の見方が強気に転じた可能性がある。"
   }
 ]
