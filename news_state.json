@@ -11,39 +11,6 @@
     "summary": "金価格は高値更新後に調整局面を迎えている。ステート・ストリートは年末までに5,000ドル到達を予想しており、強気見通しが継続している。現在の調整は健全な利益確定と見られる。"
   },
   {
-    "title": "金価格は、2カ月ぶりの高値をつけた後、小幅に下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-13T09:11:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は2カ月ぶりの高値をつけた後、小幅に下落した。短期的な利確売りと見られる。基調としては堅調を維持している可能性がある。"
-  },
-  {
-    "title": "中国国内の石油価格、14日深夜に年内5回目の引き下げへ 満タン給油で約11元お得に - BigGo ファイナンス",
-    "timestamp": "2026-08-13T09:11:25+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中国が国内石油価格を14日深夜に年内5回目の引き下げを実施予定。満タン給油で約11元（約200円相当）のコスト削減となる。中国の需要減速を反映した定期的な価格調整。"
-  },
-  {
-    "title": "世界的な需要見通しの悪化を受け、原油価格は小幅に下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-13T09:12:33+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界的な需要見通しの悪化が報じられ、原油価格は小幅に下落した。需要減速シナリオは既に市場で認識されている懸念材料であり、大幅な変動には至らず。"
-  },
-  {
     "title": "投資家が買いに殺到したため、金価格は2カ月ぶりの高値をつけた。 - Vietnam.vn",
     "timestamp": "2026-08-13T10:28:43+00:00",
     "importance": 2,
@@ -119,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場の午前10時台の相場動向を伝える定時ニュース。ダウ指数が128ドル上昇する中、WTI原油先物は2.77ドル下落。市場の方向性が異なる展開となっている。"
-  },
-  {
-    "title": "Crude Oil Perpetual Futures 取引 (CL) - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-13T09:21:36+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Investing.comによる原油先物（CL）の取引情報ページ。具体的な価格変動やニュース内容は記事本文が不明。単なるプラットフォーム案内と推定される。"
   },
   {
     "title": "金価格が8月に入って反騰転換した。 米国連邦準備制度(Fed·連邦準備制度)の金利凍結期待が大きくなった中で、グローバル中央銀行の金買い入れも金価格上昇を支持している。13日、インベスティングドットコ.. - 매일경제",
@@ -317,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油在庫の予期せぬ増加と需要減速の兆候を受け、原油先物が2%超下落。EIA週間在庫統計の定期発表に基づく市場反応。供給過剰と需要鈍化が価格に悪材料として作用。"
-  },
-  {
-    "title": "Crude Oil Perpetual Futures 分析 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-13T09:20:36+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Investing.comによる原油先物の技術分析記事。具体的な価格動向や市場変動要因の情報は記事概要から判断不可。市場解説・アナリスト見解の可能性が高い。"
   },
   {
     "title": "米コモディティー市場－大豆が上昇 原油、ガソリン、天然ガス、金、銀、銅、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -1835,5 +1780,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJCゴールドが1オンス当たり1億4400万ベトナムドンの販売価格を維持している。単なる現地相場の定時報告。"
+  },
+  {
+    "title": "8月16日午後の金価格：SJCゴールドは1オンスあたり1億4400万ベトナムドンで販売価格を維持しています。 - vietnam.vn",
+    "timestamp": "2026-08-16T09:20:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJCゴールドが8月16日午後の金価格を1オンスあたり1億4400万ベトナムドンで維持。地域的な金小売価格の日次更新で、グローバル市場への直接的な影響は限定的。"
   }
 ]
