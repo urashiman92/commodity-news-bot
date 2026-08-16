@@ -1,27 +1,5 @@
 [
   {
-    "title": "Tech stocks power S&P 500 to record high as oil, producer inflation weaken - Reuters",
-    "timestamp": "2026-08-13T14:18:46+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "テク株がS&P500を過去最高水準へ押し上げる一方で、原油価格とプロデューサー物価指数が軟化している。この二面性は、景気減速懸念とインフレ圧力の緩和が同時進行していることを示唆しており、リスク資産と商品市場の方向性が乖離している状態。"
-  },
-  {
-    "title": "Tech stocks power S&P 500 to record high as oil, producer inflation weaken - Reuters",
-    "timestamp": "2026-08-13T14:18:46+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "テク株がS&P500を過去最高水準へ押し上げる一方で、原油価格とプロデューサー物価指数が軟化している。この二面性は、景気減速懸念とインフレ圧力の緩和が同時進行していることを示唆しており、リスク資産と商品市場の方向性が乖離している状態。"
-  },
-  {
     "title": "Copper Prices Surge Past $14,800: Will New Mines Help Ease the Supply Crunch? - CarbonCredits.com",
     "timestamp": "2026-08-13T16:46:20+00:00",
     "importance": 3,
@@ -383,5 +361,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "Peter Thielがアルゼンチンのシェールオイル輸出企業Vistaに出資したことが報じられた。同社はパタゴニア地域のシェール油田開発に従事する企業で、Thielのような著名投資家の参入は同国の石油セクターへの信頼感を示唆する。ただし個別企業への投資報道であり、即座の原油価格への大きな影響は限定的。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - energynow.com",
+    "timestamp": "2026-08-15T13:13:13+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計により、米国の原油とガソリン在庫が先週減少したことが報告された。強い需要が在庫減少の主因。在庫の減少は原油需給のタイト化を示唆し、価格上昇圧力となる。"
   }
 ]
