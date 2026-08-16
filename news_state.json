@@ -1,16 +1,5 @@
 [
   {
-    "title": "米コモディティー市場－大豆が上昇 原油、ガソリン、天然ガス、金、銀、銅、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-13T22:29:20+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で大豆が上昇した一方、原油・ガソリン・天然ガス・貴金属・銅など広範な商品が下落。複数商品の混在した動きを示す市場観測レポート。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4351ドル｜利益確定売りの勢いが強まった模様(2026年8月14日) - OANDA証券",
     "timestamp": "2026-08-13T23:04:47+00:00",
     "importance": 2,
@@ -1648,5 +1637,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "韓国の石油精製4社が前年度の1.2兆ウォン赤字から8.8兆ウォン黒字へ転換。一方、石油化学企業は原料高・製品安で採算悪化懸念との対比報道。"
+  },
+  {
+    "title": "本日（8月17日）の金価格：絶えず変動しています。 - Vietnam.vn",
+    "timestamp": "2026-08-16T22:24:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム現地の金価格が8月17日に変動しているという日次レポート。具体的な価格変動幅や方向性、変動要因についての詳細情報がない。"
+  },
+  {
+    "title": "本日（2026年8月17日）の金価格：SJC金、9999金、BTMCプレーンリング、フークイ金。 - Vietnam.vn",
+    "timestamp": "2026-08-16T22:14:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金、9999金など）の日次相場情報。地域的な市場ニュースであり、グローバルコモディティ市場への直接的なインパクトは限定的。"
   }
 ]
