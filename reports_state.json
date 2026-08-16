@@ -1,38 +1,5 @@
 [
   {
-    "title": "Copper Prices Surge Past $14,800: Will New Mines Help Ease the Supply Crunch? - CarbonCredits.com",
-    "timestamp": "2026-08-13T16:46:20+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が1トン当たり14,800ドルを超える水準に上昇している。供給逼迫の懸念が価格を押し上げている一方で、新規鉱山プロジェクトが供給不足の緩和に貢献できるかが焦点となっている。電動車(EV)やグリーンエネルギーインフラへの需要増が銅の長期的な需給ひっ迫を強めている。"
-  },
-  {
-    "title": "Copper Prices Surge Past $14,800: Will New Mines Help Ease the Supply Crunch? - CarbonCredits.com",
-    "timestamp": "2026-08-13T16:46:20+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅価格が1トン当たり14,800ドルを超える水準に上昇している。供給逼迫の懸念が価格を押し上げている一方で、新規鉱山プロジェクトが供給不足の緩和に貢献できるかが焦点となっている。電動車(EV)やグリーンエネルギーインフラへの需要増が銅の長期的な需給ひっ迫を強めている。"
-  },
-  {
-    "title": "An Influx of Middle Eastern Oil Is Finally Hitting American Shores - Bloomberg.com",
-    "timestamp": "2026-08-13T17:18:59+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東からの原油供給が米国市場に本格流入し始めた。これは米国のシェールオイル生産との競争が激化することを意味し、国内原油価格に下押し圧力がかかる可能性がある。地政学的なサプライチェーン再編の進展を示唆している。"
-  },
-  {
     "title": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens - Reuters",
     "timestamp": "2026-08-13T22:01:51+00:00",
     "importance": 4,
@@ -64,17 +31,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が2ヶ月連続で原油生産量を引き上げた。市場の需要回復期待と在庫低下圧力の中での段階的な増産は、既に織り込まれていた方針の継続実施。供給側の緩和姿勢が徐々に進行している状況を示唆している。"
-  },
-  {
-    "title": "Second Supertanker Seen Loading at Saudi Oil Hub in Persian Gulf - Bloomberg",
-    "timestamp": "2026-08-13T17:02:32+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのペルシャ湾の石油積み出し拠点で2隻目のスーパータンカーが積み込みを行っているのが確認された。サウジの原油輸出活動が継続・拡大している兆候であり、供給面での安定性が示唆される。具体的な積み込み量や出荷先は報道から明確でない。"
   },
   {
     "title": "Russian share of India's oil imports surges to record high in July - Reuters",
@@ -372,5 +328,16 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAの週間在庫統計により、米国の原油とガソリン在庫が先週減少したことが報告された。強い需要が在庫減少の主因。在庫の減少は原油需給のタイト化を示唆し、価格上昇圧力となる。"
+  },
+  {
+    "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
+    "timestamp": "2026-08-15T16:37:59+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が原油増産を発表する一方で、実現可能性と需要動向に疑問を呈するコメンタリー。タイトルの「Can it Deliver and Who Will Buy?」という問いかけが、増産計画の実行性と買い手確保の懸念を反映している。市場心理に対して供給拡大は下押し材料だが、実行への信頼度が限定的。"
   }
 ]
