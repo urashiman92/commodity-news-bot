@@ -44,17 +44,6 @@
     "summary": "WTI原油が81ドル割れまで反落。米・イラン核協議の進展がなく、地政学的リスク低下が相場を押し下げた。供給懸念の後退が売り圧力となっている。"
   },
   {
-    "title": "8月13日の金価格は、非常に異例な展開を見せた。 - Vietnam.vn",
-    "timestamp": "2026-08-13T14:15:27+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月13日の金価格が非常に異例な展開を示したとの報道。具体的な価格動向や要因が記事概要に記載されていない。詳細な分析には本文確認が必要。"
-  },
-  {
     "title": "トウモロコシ先物、前日の急騰後に利益確定売りで下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-13T18:22:00+00:00",
     "importance": 2,
@@ -1780,5 +1769,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は上昇余地があるとの専門家見解。損失投資家の出口戦略や市場の「火付け役」の必要性が指摘されている。既に報告済みの相場観に基づくコメンタリー。"
+  },
+  {
+    "title": "テスラ 新車を発表 急速充電の料金を“3年間無料”に イラン情勢による原油価格高騰を逆手にEV普及を狙う｜TBS NEWS DIG Austin Weather (s2aQ2o9TYK) - Mshale",
+    "timestamp": "2026-08-16T12:56:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "テスラが新車発表時に充電3年無料キャンペーンを実施。イラン情勢による原油高騰を背景にEV普及促進を狙う戦略。EV需要増加は長期的に石油需要減少圧力となる。"
   }
 ]
