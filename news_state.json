@@ -1,27 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4351ドル｜利益確定売りの勢いが強まった模様(2026年8月14日) - OANDA証券",
-    "timestamp": "2026-08-13T23:04:47+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4351ドルまで下落した。利益確定売りが強まっている。市場の技術的な調整局面と考えられる。"
-  },
-  {
-    "title": "本日（8月14日）の金価格：利益確定売りにより反転し下落。 - Vietnam.vn",
-    "timestamp": "2026-08-13T22:47:08+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月14日の金価格は利益確定売りにより反転し下落した。技術的なポジション調整による売却圧力が作用。短期的な相場振り返りコメンタリー。"
-  },
-  {
     "title": "本日（8月14日）の金価格：国内の金価格は下落したが、世界の金価格より1オンスあたり570万ベトナムドン高い水準を維持している。 - Vietnam.vn",
     "timestamp": "2026-08-13T23:22:22+00:00",
     "importance": 1,
@@ -31,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの国内金価格が下落。ただし世界相場との価格差（1オンス当たり570万ドン）は変わらず。地域的な市場動向を示すローカルニュース。"
-  },
-  {
-    "title": "今日の株式見通し＝堅調、米株上昇や原油価格下落など好感 - ロイター",
-    "timestamp": "2026-08-13T22:47:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米株上昇と原油価格下落が日本株相場を支援するとの見通しを示したコモンタリー記事。原油下落はインフレ圧力緩和を示唆しポジティブ要因だが、具体的な数値や新規情報なし。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国の原油在庫の増加や石油需要の減少見通しが影響し、原油価格は2営業日連続で下落（2026年8月14日） - OANDA証券",
-    "timestamp": "2026-08-13T23:13:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の原油在庫増加と石油需要減少見通しにより、WTI原油が2営業日連続で下落。供給過剰気味と需要鈍化の懸念が相場を圧迫している。"
   },
   {
     "title": "本日の燃料価格（8月14日）：世界の原油価格が2％以上下落。 - Vietnam.vn",
@@ -108,28 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が週間ベースで上昇。イランの地政学的リスクと供給不安が価格を支援している。既知の懸念材料による緩やかな上昇相場。"
-  },
-  {
-    "title": "１３日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-13T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "13日の主要国際商品市況の日次レポート。具体的な価格動向・商品別の変動幅などは記事概要では不明。市場の振り返り・解説的な内容と推定される。"
-  },
-  {
-    "title": "１３日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-13T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "13日の主要国際商品市況についての定期報道。具体的な価格動向や数値が記事内容に不明なため、市場への影響度は判断不可。"
   },
   {
     "title": "黒海穀物回廊が崩壊寸前 ウクライナの穀物輸出、8月は76％急減 - BigGo ファイナンス",
@@ -1659,5 +1593,82 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格（SJC金、9999金など）の日次相場情報。地域的な市場ニュースであり、グローバルコモディティ市場への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4376ドル｜ドルインデックスの下落や米経済指標の結果が影響した模様(2026年8月17日) - OANDA証券",
+    "timestamp": "2026-08-16T23:06:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4376ドルまで上昇した。ドルインデックスの下落と米経済指標が上昇を支えた。テクニカルな市場動向に基づく解説ニュース。"
+  },
+  {
+    "title": "《865》堀江貴文のブログでは言えない話【金価格高騰 「黄金の国ジパング」再来か？】｜堀江貴文(ホリエモン) - note",
+    "timestamp": "2026-08-16T23:12:27+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "堀江貴文による金価格高騰に関する個人的な見解・コメンタリー記事。金価格が上昇している現象について述べているが、具体的な新規ファンダメンタルズや統計データは含まれていない。"
+  },
+  {
+    "title": "本日（8月17日）の金価格：買値と売値の差は依然として大きい。 - Vietnam.vn",
+    "timestamp": "2026-08-16T22:48:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格について、買値と売値のスプレッドが依然として大きいことを報じている。ローカル市場の流動性や市場構造に関する観測記事。"
+  },
+  {
+    "title": "本日2026年8月17日、金価格は上昇すると予測されており、SJCの金価格は急騰すると見込まれていますか？ - Vietnam.vn",
+    "timestamp": "2026-08-16T23:12:14+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格予測に関する記事。SJC金の上昇予測を扱っているが、具体的な材料や根拠が不明。地域限定的なニュースで国際市場への波及力は限定的。"
+  },
+  {
+    "title": "本日（8月17日）のガソリンおよび原油価格：WTIは下落、ブレントは88ドル台を維持。 - Vietnam.vn",
+    "timestamp": "2026-08-16T23:12:14+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月17日の原油相場はWTIが下落、ブレント原油は88ドル台で推移。日中の価格変動を報じたマーケットレポートで、特に新規材料なし。"
+  },
+  {
+    "title": "本日の燃料価格（8月17日）：世界の原油価格は上昇傾向にあります。 - Vietnam.vn",
+    "timestamp": "2026-08-16T23:12:17+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムメディアが8月17日時点での世界原油価格の上昇傾向を報道。具体的な価格数値や上昇要因の詳細は記事概要からは不明。定期的な燃料価格情報の報道記事。"
+  },
+  {
+    "title": "１４日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-16T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "14日の主要国際商品市況に関する市場レポート。具体的な価格データや動向は記事内容が不明な状況。"
   }
 ]
