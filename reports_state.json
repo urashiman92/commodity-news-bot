@@ -1,38 +1,5 @@
 [
   {
-    "title": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens - Reuters",
-    "timestamp": "2026-08-13T22:01:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がイラン対する無期限の海上封鎖を検討しており、石油供給の不足が深刻化している。イランからの原油輸出制限は全球供給に大きな影響を与え、地政学的リスクプレミアムが急速に上昇。中東地域の緊張激化により、エネルギー市場全体が不安定化している。"
-  },
-  {
-    "title": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens - Reuters",
-    "timestamp": "2026-08-13T22:01:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国がイラン対する無期限の海上封鎖を検討しており、石油供給の不足が深刻化している。イランからの原油輸出制限は全球供給に大きな影響を与え、地政学的リスクプレミアムが急速に上昇。中東地域の緊張激化により、エネルギー市場全体が不安定化している。"
-  },
-  {
-    "title": "Opec-Plus Lifts Crude Output for Second Straight Month - Energy Intelligence",
-    "timestamp": "2026-08-13T21:43:04+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が2ヶ月連続で原油生産量を引き上げた。市場の需要回復期待と在庫低下圧力の中での段階的な増産は、既に織り込まれていた方針の継続実施。供給側の緩和姿勢が徐々に進行している状況を示唆している。"
-  },
-  {
     "title": "Russian share of India's oil imports surges to record high in July - Reuters",
     "timestamp": "2026-08-14T04:56:00+00:00",
     "importance": 4,
@@ -262,5 +229,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、原油生産量が過去最高に近い水準まで増加。これはOPECの減産合意を事実上無視する動きで、市場で予想外の供給増加をもたらす。OPECの統制力低下を示す重大な転換点。"
+  },
+  {
+    "title": "April World Oil Production Drops Again - Peak Oil Barrel",
+    "timestamp": "2026-08-16T03:49:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "4月の世界石油生産量が再び減少したとのレポート。OPECを含む主要産油国の減産が継続している可能性が高い。供給面での構造的な逼迫が示唆され、原油価格の上値支持要因となる。具体的な生産量数値は記事タイトルのみでは不明。"
   }
 ]
