@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油相場が反落、WTIは一時81ドル割れ－米・イラン交渉に進展なく - bloomberg.com",
-    "timestamp": "2026-08-13T15:43:41+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が81ドル割れまで下落。米・イラン交渉の進展が限定的であることが背景。地政学リスク低下で売り圧力が優位。"
-  },
-  {
     "title": "原油相場が反落、WTIは一時81ドル割れ－米・イラン交渉に進展なく（Bloomberg） - news.yahoo.co.jp",
     "timestamp": "2026-08-13T16:03:15+00:00",
     "importance": 3,
@@ -1758,5 +1747,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "テスラが新車発表時に充電3年無料キャンペーンを実施。イラン情勢による原油高騰を背景にEV普及促進を狙う戦略。EV需要増加は長期的に石油需要減少圧力となる。"
+  },
+  {
+    "title": "国内の金価格は世界価格にますます近づいており、専門家は来週も価格が上昇し続けると予測している。 - Vietnam.vn",
+    "timestamp": "2026-08-16T15:43:01+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格が世界価格に接近している。専門家は来週も上昇継続を予測している。国内市場の価格収束を示す観測記事。"
   }
 ]
