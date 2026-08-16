@@ -1,27 +1,5 @@
 [
   {
-    "title": "金（ゴールド）週間見通し｜金価格は反発、今回は何が違うのか｜4,500ドル目前の2つの買い 2026年8月13日 - 外為どっとコム",
-    "timestamp": "2026-08-13T03:36:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が反発し、4,500ドル目前の水準まで上昇。アナリストが買いシグナル2つを指摘し、今回の上昇局面に注目している。具体的な買い要因の詳細は記事本文で解説されている見通し。"
-  },
-  {
-    "title": "世界の金価格が急騰し、1オンスあたり4400ドルを突破した。 - Vietnam.vn",
-    "timestamp": "2026-08-13T03:27:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4400ドルを突破し、新高値を更新した。地政学的リスクやドル弱含みなどの複合要因が支援している。コモディティ投資家にとって、金の強気トレンド継続の重要なシグナル。"
-  },
-  {
     "title": "国内外の金価格差、約410万VNDに急縮小 数年ぶりの低水準 - Viet-kabu.com",
     "timestamp": "2026-08-13T04:47:48+00:00",
     "importance": 3,
@@ -42,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの国内金価格と国際金価格の差が約410万VND（ベトナムドン）に縮小した。この価格差は数年ぶりの低水準となっており、市場の裁定機会が縮小していることを示唆している。"
-  },
-  {
-    "title": "金価格は年末までに1オンスあたり4,500ドル近くに達すると予測されている。 - Vietnam.vn",
-    "timestamp": "2026-08-13T03:27:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリストが年末までに金価格が1オンス4,500ドル近くまで上昇すると予測。現在の市場価値観が既に織り込まれている可能性が高い。"
   },
   {
     "title": "世界の農産物価格は軒並み上昇している。 - Vietnam.vn",
@@ -218,17 +185,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "投資家の買いニーズにより金価格が2ヶ月ぶりの高値を更新した。既存トレンドの継続を示す相場情報であり、新規の価格駆動力とはなっていない。"
-  },
-  {
-    "title": "欧米為替：デイリー見通し カナダドル・円／原油相場にらみ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-13T04:04:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "カナダドル・円相場と原油相場の関連性に関する為替デイリー見通し。カナダドルは原油価格と正相関しており、原油相場の動向が通貨ペアのドライバーとなる可能性を指摘している。"
   },
   {
     "title": "2026年8月13日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -1868,5 +1824,60 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が国際価格より1オンスあたり約500万ベトナムドン高い状況を報道。国内市場の需給逼迫やマージンの存在を示唆する事象。"
+  },
+  {
+    "title": "【図解】金価格160倍、再び脚光＝中銀積み増し、揺らぐドル一極―「ニクソン・ショック」55年 (時事通信) - Yahoo!ニュース",
+    "timestamp": "2026-08-15T23:38:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニクソン・ショック55年を機に、金価格が55年間で約160倍に上昇した歴史的背景を解説。中央銀行の金積み増しとドル一極体制の動揺が、金の再評価を支えている。"
+  },
+  {
+    "title": "金価格は上昇しているが、購入者は依然として損失を出している。 - Vietnam.vn",
+    "timestamp": "2026-08-16T03:37:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は上昇しているものの、過去の高値での購入者が依然として損失を抱えている状況を指摘するコメンタリー。現在の価格上昇が過去のピークに追いついていないことを示唆している。"
+  },
+  {
+    "title": "本日の燃料価格（8月16日）：世界の原油価格が上昇した1週間。 - Vietnam.vn",
+    "timestamp": "2026-08-16T03:30:34+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月16日時点で世界の原油価格が1週間で上昇したことを報じた記事。ベトナムの燃料価格トレンド解説。既に発生済みの価格動向の振り返り。"
+  },
+  {
+    "title": "今日のガソリン価格 8月16日:世界の原油価格が7%以上上昇 - Laodong.vn",
+    "timestamp": "2026-08-16T03:57:51+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月16日時点で世界の原油価格が7%以上上昇したとの報道。ベトナムのガソリン価格への影響を解説するコメンタリー記事。既に市場で織り込まれた価格変動の事後的な説明。"
+  },
+  {
+    "title": "20260625 正源司陽子 のオールナイトニッポンX Copper Price (NPdbAvT8LG) - Mshale",
+    "timestamp": "2026-08-16T01:45:34+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ラジオ番組の配信記事と見られ、銅価格との直接的な関連性が不明確。番組タイトルと銅価格が並列されているだけで、具体的な銅市場分析や価格見通しの内容が不明。"
   }
 ]
