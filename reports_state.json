@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks - Reuters",
-    "timestamp": "2026-08-13T01:08:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "需要見通しの下方修正により原油価格が下落した。米国とイラン間の核合意交渉の膠着状態にもかかわらず、需要面の弱さが価格を圧迫。供給サイドのリスク要因よりも需要減速の懸念が市場心理を支配している。"
-  },
-  {
     "title": "EIA reports massive rise in US crude oil stocks - engine.online",
     "timestamp": "2026-08-13T07:02:30+00:00",
     "importance": 3,
@@ -20,39 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の大幅増加を報告した。在庫増加はサプライ圧力の増加を示唆し、原油価格に下押し圧力となる。具体的な在庫増加数値が明記されていないため、増加幅の大きさを判断できない。需給バランスの悪化により、短期的には原油価格の調整が予想される。"
-  },
-  {
-    "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
-    "timestamp": "2026-08-13T01:02:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格が1バレル90ドル未満で推移し、米ドルが2週間ぶりの高値を記録。イランの地政学的リスクが市場の焦点となっている。ドル高はコモディティ全般に下落圧力をもたらす一方、原油に対するイラン情勢の不確実性が価格を支援する可能性がある。"
-  },
-  {
-    "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
-    "timestamp": "2026-08-13T01:02:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "原油価格が1バレル90ドル未満で推移し、米ドルが2週間ぶりの高値を記録。イランの地政学的リスクが市場の焦点となっている。ドル高はコモディティ全般に下落圧力をもたらす一方、原油に対するイラン情勢の不確実性が価格を支援する可能性がある。"
-  },
-  {
-    "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
-    "timestamp": "2026-08-13T01:02:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油価格が1バレル90ドル未満で推移し、米ドルが2週間ぶりの高値を記録。イランの地政学的リスクが市場の焦点となっている。ドル高はコモディティ全般に下落圧力をもたらす一方、原油に対するイラン情勢の不確実性が価格を支援する可能性がある。"
   },
   {
     "title": "Nigeria crude output tops OPEC quota for third month - Quantum Commodity Intelligence",
