@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油先物2％超下落、需要減速の兆しや米在庫急増で（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-08-13T20:47:59+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が2%超下落。米在庫の急増と需要減速の兆しが売り圧力となった。経済成長鈍化への警戒感が市場に広がっている。"
-  },
-  {
     "title": "本日（8月14日）の金価格：2カ月ぶりの高値に迫る。 - Vietnam.vn",
     "timestamp": "2026-08-13T22:08:52+00:00",
     "importance": 2,
@@ -1648,5 +1637,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が13週連続で下落している。既に市場で認識されている弱気トレンドの継続を報じるもの。累積的な下げ幅が大きい可能性があるが、新規の外部ショックではない。"
+  },
+  {
+    "title": "金価格最新情報、2026年8月17日午前：SJC、プレーンゴールドリング9999 BTMC DOJI Phu Quy - Vietnam.vn",
+    "timestamp": "2026-08-16T21:11:17+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC、BTMC、DOJI、Phu Quyなど複数の小売業者における金の現物（プレーンゴールドリング9999）の価格情報の日次更新。ローカル市場の参考相場を示すもの。"
   }
 ]
