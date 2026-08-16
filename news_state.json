@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格、高値更新後に一服 ステート・ストリートは年末5,000ドル到達を予想 - BigGo ファイナンス",
-    "timestamp": "2026-08-13T09:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は高値更新後に調整局面を迎えている。ステート・ストリートは年末までに5,000ドル到達を予想しており、強気見通しが継続している。現在の調整は健全な利益確定と見られる。"
-  },
-  {
     "title": "投資家が買いに殺到したため、金価格は2カ月ぶりの高値をつけた。 - Vietnam.vn",
     "timestamp": "2026-08-13T10:28:43+00:00",
     "importance": 2,
@@ -1791,5 +1780,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJCゴールドが8月16日午後の金価格を1オンスあたり1億4400万ベトナムドンで維持。地域的な金小売価格の日次更新で、グローバル市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "投資家たちは、金価格が1オンスあたり4500ドルを突破するための、米連邦準備制度理事会（FRB）からのシグナルを待っている。 - Vietnam.vn",
+    "timestamp": "2026-08-16T09:32:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金投資家がFRBのシグナル待ちで、金価格が4500ドル/オンスを突破することに期待を寄せている。利下げ観測や金融緩和の可能性が金の買い要因となっている。"
+  },
+  {
+    "title": "金価格は1週間の力強い上昇を経て4,500ドルに達すると予測されている：専門家は価格が4,500ドルに達すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-08-16T05:54:59+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間の強気相場を経て、4,500ドルへの到達を予測するアナリスト見解。既に上昇トレンドが進行中であり、技術的な価格目標の提示。"
+  },
+  {
+    "title": "【vlog】胃腸炎で2週間オフ→復帰したボディビルダーの1週間 Crude Oil Price (SvGEHjV2hr) - Mshale",
+    "timestamp": "2026-08-16T01:58:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ボディビルダーの胃腸炎休場と復帰に関するvlog動画。原油価格とは無関係なコンテンツ。タイトルと内容の不一致が顕著。"
   }
 ]
