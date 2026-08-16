@@ -11,17 +11,6 @@
     "summary": "金価格が反発し、4,500ドル目前の水準まで上昇。アナリストが買いシグナル2つを指摘し、今回の上昇局面に注目している。具体的な買い要因の詳細は記事本文で解説されている見通し。"
   },
   {
-    "title": "金価格が4,400ドル突破で2カ月ぶり高値 米イラン情勢が反落の鍵に - BigGo ファイナンス",
-    "timestamp": "2026-08-13T02:25:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,400ドルを突破し2カ月ぶりの高値を更新。地政学的リスク（米イラン情勢）がサポート要因となっている。今後の相場展開は米イラン関係の動向が鍵となる見通し。"
-  },
-  {
     "title": "世界の金価格が急騰し、1オンスあたり4400ドルを突破した。 - Vietnam.vn",
     "timestamp": "2026-08-13T03:27:29+00:00",
     "importance": 3,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンス4400ドルを突破し、新高値を更新した。地政学的リスクやドル弱含みなどの複合要因が支援している。コモディティ投資家にとって、金の強気トレンド継続の重要なシグナル。"
-  },
-  {
-    "title": "金価格、CPIを受けた上昇後も4,400ドル近辺で推移 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-13T02:25:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格がCPI発表後に上昇したが、現在は4,400ドル付近で推移している。市場が上昇後の水準で安定している状況を報道している。"
   },
   {
     "title": "国内外の金価格差、約410万VNDに急縮小 数年ぶりの低水準 - Viet-kabu.com",
@@ -75,28 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "アナリストが年末までに金価格が1オンス4,500ドル近くまで上昇すると予測。現在の市場価値観が既に織り込まれている可能性が高い。"
-  },
-  {
-    "title": "弱い需要見通しが供給不安を上回り、原油価格が1%下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-13T03:09:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "需要見通しの弱さが供給不安を上回り、原油価格が1%下落した。現在の市場では需要懸念が支配的な相場心理を反映している。"
-  },
-  {
-    "title": "原油価格が1バレル1ドル超下落、需要見通し悪化と米国の在庫急増が重しに - Межа. Новини України.",
-    "timestamp": "2026-08-13T03:14:55+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が1バレル1ドル超下落。需要見通しの悪化と米国の在庫急増が売り圧力となった。市場心理の悪化を反映した値動き。"
   },
   {
     "title": "世界の農産物価格は軒並み上昇している。 - Vietnam.vn",
@@ -1901,5 +1857,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月16日の金価格が全般的に急上昇したと報じられている。ベトナムメディアによる当日の価格動向レポート。具体的な上昇要因や価格水準の記載がないため、詳細な分析は困難。"
+  },
+  {
+    "title": "国内の金価格は、世界の金価格よりも1オンスあたり約500万ベトナムドン高い。 - Vietnam.vn",
+    "timestamp": "2026-08-16T02:45:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が国際価格より1オンスあたり約500万ベトナムドン高い状況を報道。国内市場の需給逼迫やマージンの存在を示唆する事象。"
   }
 ]
