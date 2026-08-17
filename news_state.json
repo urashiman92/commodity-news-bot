@@ -55,17 +55,6 @@
     "summary": "ドル売りが一段落したことを受け、原油価格と米10年債利回りが上昇。ドル弱含みが商品価格（原油）押し上げに作用した。既に市場に織り込まれた相場の振り返りコメント。"
   },
   {
-    "title": "金価格が急落に転じ、急騰後約2%下落 - Laodong.vn",
-    "timestamp": "2026-08-14T10:22:24+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急騰後に約2%下落に転じた。短期的な調整局面の報道。ボラティリティ範囲内の値動き。"
-  },
-  {
     "title": "原油相場上昇、米財務長官の対イラン発言見極めムード－WTI 81ドル台 - Bloomberg.com",
     "timestamp": "2026-08-14T16:32:40+00:00",
     "importance": 3,
@@ -1659,5 +1648,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格がロンドン市場で過去最高値に接近している。米国への流入継続と需給ひっ迫が背景。構造的な供給不足懸念が強まっている。"
+  },
+  {
+    "title": "中央銀行が金購入を増やしていることから、金価格が再び上昇している。 - Vietnam.vn",
+    "timestamp": "2026-08-17T10:11:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界の中央銀行による金購入増加が金価格を支援している。中央銀行の金準備増加トレンドは継続的な需要要因。価格上昇は既知トレンドの延長線上。"
+  },
+  {
+    "title": "2026年8月17日午後の金価格：SJC金価格、9999金リング価格、および月曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-08-17T10:50:41+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金とその他の金価格情報を伝える定期的な価格報告。具体的な価格変動や市場材料への言及がない。単なる価格情報提供の記事。"
+  },
+  {
+    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫（Bloomberg） - Yahoo!ニュース",
+    "timestamp": "2026-08-17T09:04:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格がロンドン市場で過去最高値に迫っている。米国への流入が継続し、需給ひっ迫が価格を支えている。構造的な需給タイトさが相場上昇基調を維持。"
+  },
+  {
+    "title": "コンゴの輸出禁止で銅価格が急騰、供給不安がロンドン市場を揺さぶる - Межа. Новини України.",
+    "timestamp": "2026-08-17T08:35:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "コンゴが銅輸出禁止措置を実施、世界最大級の銅産出国からの供給途絶が発生。ロンドン金属取引所で銅価格が急騰し、市場に大きな供給不安をもたらしている。"
   }
 ]
