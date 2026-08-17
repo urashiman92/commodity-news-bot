@@ -22,17 +22,6 @@
     "summary": "Moomooプラットフォーム上のWTI原油先物の価格表示（2610）に関する記事。具体的なニュース内容や価格変動情報が提供されていない単なるリンク表示。"
   },
   {
-    "title": "金価格が反落、トレーダーはFRB見通しを再評価 - VT Markets",
-    "timestamp": "2026-08-14T11:20:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が反落し、トレーダーがFRB（米国連邦準備制度）の金融政策見通しを再評価している。金利見通しの変化が金需要に影響を与えている可能性がある。"
-  },
-  {
     "title": "NY外為：ドル売り一段落、原油価格や米10年債利回りは上昇(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-08-14T15:30:01+00:00",
     "importance": 2,
@@ -1692,5 +1681,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "コンゴが銅輸出禁止措置を実施、世界最大級の銅産出国からの供給途絶が発生。ロンドン金属取引所で銅価格が急騰し、市場に大きな供給不安をもたらしている。"
+  },
+  {
+    "title": "8月17日午後、国内の金価格が予想外に下落した。 - vietnam.vn",
+    "timestamp": "2026-08-17T11:08:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が8月17日午後に予想外に下落した。具体的な下落率や原因については記事概要から不明である。ローカル市場レベルのニュースと考えられる。"
+  },
+  {
+    "title": "原油市場他： 米国とイランとの対立の先鋭化により、7月下旬に90ドルを突破する場面が見られたものの、その後若干落ち着きを見せる原油価格：石油・天然ガス資源情報 - journal.jogmec.go.jp",
+    "timestamp": "2026-08-17T05:18:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの対立激化により7月下旬に原油が90ドルを超えたが、その後落ち着きを見せている。地政学的緊張が価格上昇をもたらしたものの、現在は調整局面にある状況の振り返り。"
+  },
+  {
+    "title": "原油価格は安定推移しており、市場はレバノンの情勢とホルムズ海峡のリスクに注目しています。 - Moomoo",
+    "timestamp": "2026-08-16T22:06:49+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格は現在安定推移している。市場はレバノン情勢とホルムズ海峡の地政学リスクに注視しており、供給途絶の可能性が潜在的な上昇圧力となっている。"
+  },
+  {
+    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫 - Bloomberg.com",
+    "timestamp": "2026-08-17T09:04:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格がロンドン市場で過去最高値に迫っている。米国への流入が続いており、需給がひっ迫している状況を報道している。既に価格上昇トレンドは進行中で、その背景要因を解説するもの。"
   }
 ]
