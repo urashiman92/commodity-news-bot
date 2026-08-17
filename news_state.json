@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY原油・金相場（14日）－原油、金がともに反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-14T22:11:33+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油と金相場が反発した。市場は引き続き両資産の値動きに注目している。具体的な材料や数値は記事概要から不明。"
-  },
-  {
     "title": "本日8月15日の原油価格：米イラン交渉の停滞を受け上昇。 - Vietnam.vn",
     "timestamp": "2026-08-14T22:35:39+00:00",
     "importance": 3,
@@ -1780,5 +1769,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が84ドル台で半月ぶりの高値を更新。米イラン情勢の緊迫化が買いを誘発。地政学的リスク回避の買いが優勢となっている。"
+  },
+  {
+    "title": "今日の金価格（8月18日）：急騰中、今金を買うべきでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-08-17T22:01:15+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月18日の金価格が急騰している局面についての記事。投資判断を求める論説記事で、具体的な上昇要因や数値は記事概要には記載されていない。"
+  },
+  {
+    "title": "本日8月18日の金価格：サンノゼ（SJC）の金価格は小幅上昇し、世界の金価格は過去最高値に近づきました。 - Vietnam.vn",
+    "timestamp": "2026-08-17T22:01:13+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム現物市場（SJC）の金価格が小幅上昇。世界の金価格は過去最高値に近づいている状況の報告。"
+  },
+  {
+    "title": "原油先物2％超上昇、米イラン交渉停滞で供給懸念 - ｄメニューニュース",
+    "timestamp": "2026-08-17T19:52:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン交渉の停滞により、中東からの原油供給途絶への懸念が高まった。原油先物は2%超の上昇で反応。地政学的リスク要因が顕在化。"
   }
 ]
