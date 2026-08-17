@@ -165,17 +165,6 @@
     "summary": "NY原油と金相場が反発した。市場は引き続き両資産の値動きに注目している。具体的な材料や数値は記事概要から不明。"
   },
   {
-    "title": "台幣黃金 | TAIFEX_TGF 2026/10 先物チャートとリアルタイム相場 - BigGo ファイナンス",
-    "timestamp": "2026-08-14T12:24:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "台湾の金先物(TAIFEX_TGF)2026年10月限月のチャートとリアルタイム相場情報を提供するページ。金融データプラットフォームによる市場データの表示・提供に関するニュース。"
-  },
-  {
     "title": "本日8月15日の原油価格：米イラン交渉の停滞を受け上昇。 - Vietnam.vn",
     "timestamp": "2026-08-14T22:35:39+00:00",
     "importance": 3,
@@ -185,28 +174,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン交渉が停滞し、地政学的緊張が高まったことが原油価格上昇の要因。イランの核合意に関わる交渉の進展不透明性が市場を刺激。供給途絶リスクの懸念材料。"
-  },
-  {
-    "title": "買われ過ぎの状況：大豆先物価格はさらなる下落を回避できるか？ - Traders Union",
-    "timestamp": "2026-08-14T12:23:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物が買われ過ぎ状況にあり、テクニカル的に調整下落のリスクが高まっている。オーバーボート指標が示唆する売却圧力が近期的な価格押し下げ要因となる可能性がある。"
-  },
-  {
-    "title": "ロス・ペランブレス鉱山の供給再開が銅価格に重し、$6,585のサポートで推移 - Traders Union",
-    "timestamp": "2026-08-14T12:18:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ロス・ペランブレス鉱山の供給再開がチリの銅供給を増加させ、銅価格に下押し圧力をもたらしている。現在$6,585がサポートレベルとして機能している。供給側の材料として相場の重しになっている。"
   },
   {
     "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、銅、トウモロコシ、小麦、大豆が上昇(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -1736,5 +1703,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "日経225先物の証拠金・先物オプション市場に関する定期的なマーケットウォッチ記事。日本株指数先物のテクニカル・ポジション情報の提供。"
+  },
+  {
+    "title": "米イラン間の交渉が停滞する中、原油価格は変動している。 - Vietnam.vn",
+    "timestamp": "2026-08-17T11:25:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の交渉停滞を受けて原油価格が変動している。交渉進展への不確実性が市場で認識されている。既に報じられた事象の続報扱い。"
+  },
+  {
+    "title": "WisdomTree 銅上場投信【1693】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-08-17T09:40:06+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "WisdomTree銅上場投信（1693）のYahoo!ファイナンス掲載情報。銅ETFの株価・株式情報ページの更新・掲載で、新しいニュースイベントではなくファイナンス情報サービスの通常更新。"
   }
 ]
