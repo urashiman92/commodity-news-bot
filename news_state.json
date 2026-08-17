@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油相場上昇、米財務長官の対イラン発言見極めムード－WTI 81ドル台 - Bloomberg.com",
-    "timestamp": "2026-08-14T16:32:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が81ドル台で推移。米財務長官のイラン関連発言が注視されており、地政学的リスク要因として相場を下支えしている状況。"
-  },
-  {
     "title": "【速報】NY原油先物81ドル台で底堅く推移(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-08-14T18:00:48+00:00",
     "importance": 2,
@@ -31,39 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が81ドル台で底堅く推移している状況を報じた速報記事。具体的な新規材料や統計発表ではなく、現在の価格水準の状況解説。"
-  },
-  {
-    "title": "NY外為：ドル売り一段落、原油価格や米10年債利回りは上昇 - topics.smt.docomo.ne.jp",
-    "timestamp": "2026-08-14T16:24:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル売り圧力が一段落し、それに伴い原油価格と米10年債利回りが上昇。ドル弱化が商品価格の上昇を支援する典型的な相関関係を示す相場振り返り。"
-  },
-  {
-    "title": "NY市場、ダウ72ドル安で小動き 原油先物は0.42ドル高に反発 - BigGo ファイナンス",
-    "timestamp": "2026-08-14T16:25:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場は小幅なボラティリティで推移し、ダウ平均は72ドル安。原油先物は0.42ドル高で反発したが、変動幅は限定的。株式市場との連動性が弱く、市場の方向性は不明確。"
-  },
-  {
-    "title": "ウクライナ・ロシア緊張でシカゴ小麦先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-14T16:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ウクライナ・ロシア間の緊張激化により、シカゴ小麦先物が上昇。両国は世界の小麦供給の約3割を占めており、地政学リスクが供給懸念を引き起こしている。供給途絶リスクがプレミアムを形成。"
   },
   {
     "title": "8月14日（金）の金価格：アンタムは3万6000ルピア下落、ガレリ24とUBSは上昇 - BigGo ファイナンス",
@@ -1736,5 +1692,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が過去1ヶ月間で約8％上昇した。この記事は既に起こった値動きの振り返りと今後の見通しについての解説。"
+  },
+  {
+    "title": "銅冠銅箔、時価総額1,000億元の裏で：董事会秘書兼財務責任者・王俊林氏が56歳で病死 - BigGo ファイナンス",
+    "timestamp": "2026-08-17T16:25:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅冠銅箔の董事会秘書兼財務責任者が56歳で病死。同社は時価総額1,000億元の銅箔メーカー。主要な経営幹部の急逝は企業統治リスクを示唆。"
+  },
+  {
+    "title": "銅価格は$6,598.5のサポートを維持できるか、継続的な在庫不足が買い手を支える中で注目されています。 - tradersunion.com",
+    "timestamp": "2026-08-17T12:21:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が$6,598.5のサポートレベルを維持できるかが焦点。継続的な在庫不足が買い手を支えている状況。テクニカルレベルでの相場観測記事。"
   }
 ]
