@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日8月14日、大幅に下落して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-08-14T13:19:01+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月14日の金価格は本日の取引で大幅に下落して終了した。具体的な下落率や要因は記事から不明。ベトナムの金市場における日次の値動きレポート。"
-  },
-  {
-    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
-    "timestamp": "2026-08-14T13:09:48+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Moomooプラットフォーム上のWTI原油先物の価格表示（2610）に関する記事。具体的なニュース内容や価格変動情報が提供されていない単なるリンク表示。"
-  },
-  {
     "title": "NY外為：ドル売り一段落、原油価格や米10年債利回りは上昇(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-08-14T15:30:01+00:00",
     "importance": 2,
@@ -1725,5 +1703,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "WisdomTree銅上場投信（1693）のYahoo!ファイナンス掲載情報。銅ETFの株価・株式情報ページの更新・掲載で、新しいニュースイベントではなくファイナンス情報サービスの通常更新。"
+  },
+  {
+    "title": "金価格は本日8月17日、大幅に上昇して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-17T13:23:57+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月17日の金価格は大幅に上昇して取引を終えた。ただしニュースソースは事実報道のみで、上昇要因の具体的な説明がない。既に相場に織り込まれた日中の値動き報告と判断される。"
+  },
+  {
+    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-08-17T11:37:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油価格連動型上場投信【1671】の株価・株式情報ページの案内。ファンドそのものの価格動向や運用情報ではなく、金融サイトのリンク掲載。"
+  },
+  {
+    "title": "【速報】NY原油先物続伸82.82ドル、中東和平揺らぐ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-17T13:15:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が82.82ドルまで続伸。中東地域の和平交渉が不安定化し、供給リスク懸念が買い圧力を支える。地政学的リスク要因が価格を下支え。"
   }
 ]
