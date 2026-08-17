@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は1グラムあたり36,000ルピアから2,664万ルピアに下落 - VOI.ID",
-    "timestamp": "2026-08-14T06:33:03+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアの金価格が1グラムあたり36,000ルピアから2,664万ルピアに下落したと報道。ローカル市場の価格変動を伝える記事で、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
     "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
     "timestamp": "2026-08-14T07:48:03+00:00",
     "importance": 1,
@@ -64,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "東京市場でドル・円相場が下げ渋る中、原油相場の動向が注視されている。為替と原油の連動性が意識されている状況。具体的な新規情報は不明。"
-  },
-  {
-    "title": "中国非鉄金属企業、上半期の利益が94%増 AI需要で関連金属が高騰 - AFPBB News",
-    "timestamp": "2026-08-14T06:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "中国非鉄金属企業の上半期利益が94%増加。AI需要の拡大により銅などの関連金属が高騰し、企業業績が大幅改善。需要面からの銅価格支援要因が確認された。"
   },
   {
     "title": "2026年8月14日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -1637,5 +1615,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の通航量がゼロになったという重大な供給リスクが発生。一方で需要懸念も存在し、市場は相反する要因で価格が横ばい推移している状況。"
+  },
+  {
+    "title": "小麦価格が急騰し、世界的な供給への懸念が高まっている。 - Vietnam.vn",
+    "timestamp": "2026-08-17T06:14:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "小麦価格が急騰し、世界的な供給懸念が発生している。供給ショックまたは地政学的要因による価格上昇が報告されている。詳細な原因が明確でないため、市場の注視が必要。"
+  },
+  {
+    "title": "東京為替：ドル・円は失速、原油相場は軟化 - ｄメニューニュース",
+    "timestamp": "2026-08-17T05:47:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東京為替でドル円が失速し、それに伴い原油相場も軟化している。ドル安が進行する中での原油価格の調整局面と見られる。"
+  },
+  {
+    "title": "中東情勢には原油価格上昇のリスクがあり、世界の主要中央銀行はインフレ抑制と経済成長維持という政策上のジレンマに直面しています。 - Moomoo",
+    "timestamp": "2026-08-17T02:26:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢が原油価格上昇リスクを提示。世界中央銀行はインフレ抑制と経済成長維持のジレンマに直面。地政学リスク顕在化で供給懸念が浮上。"
+  },
+  {
+    "title": "LME銅現物プレミアムが4年ぶり高水準 ジェフリーズが2026年の世界供給不足44万トンを警告 - BigGo ファイナンス",
+    "timestamp": "2026-08-17T06:41:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅の現物プレミアムが4年ぶりの高水準に上昇。ジェフリーズが2026年に世界供給不足44万トンを予測し、需給逼迫への懸念が強まっている。EV・再生可能エネルギー投資拡大による需要増加が背景。"
   }
 ]
