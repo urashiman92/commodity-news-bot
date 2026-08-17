@@ -121,17 +121,6 @@
     "summary": "イランの日産石油生産量が1ヶ月間で26,000バレル増加したとOPECが報告。増加幅は比較的小さく、市場への直接的なインパクトは限定的。イランの制裁下での産出増加は注視対象だが、既に報道されている継続的なトレンドの一部と見られる。"
   },
   {
-    "title": "Indian Refiners Snap Up Crude Months Ahead as Wars Upend Supply - Bloomberg.com",
-    "timestamp": "2026-08-14T07:14:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "インドの製油所が地政学的リスク（複数の紛争）に対応し、数ヶ月先の原油を大量購入している。供給不安定性の高まりに対する防衛的な在庫積み増しであり、需要側の先制的な買い動きが原油需給を引き締める要因となっている。"
-  },
-  {
     "title": "Russian Regions Report New Fuel Crunch As Kyiv Hits Refineries - Bloomberg.com",
     "timestamp": "2026-08-14T16:37:11+00:00",
     "importance": 4,
@@ -251,5 +240,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "日本銀行の利上げ観測と財政懸念により日本国債利回りが上昇。日本金利の上昇はドル相場に波及し、ドル建てコモディティの価格形成に影響。特に金は無利子資産として名目金利上昇圧力を受けやすく、一方で円安進行はドル建て商品の日本国内需要に複合的に作用する。"
+  },
+  {
+    "title": "Asian Refiners Ask to Pick Up Saudi Oil Outside Risky Red Sea - Bloomberg.com",
+    "timestamp": "2026-08-17T06:07:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海情勢の悪化により、アジア製油所がサウジアラビア産原油の引き取り場所を紅海外での積み替えを要求。地政学的リスク回避行動が活発化。海上輸送リスク増加により、迂回ルート利用による輸送コスト上昇と供給経路の多様化圧力が生じている。"
+  },
+  {
+    "title": "Korea Eximbank to Lend $1 Billion to Glencore for Copper Supply - Bloomberg.com",
+    "timestamp": "2026-08-17T03:36:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "韓国輸出入銀行（Korea Eximbank）がグレンコア社に10億ドルの融資を提供し、銅供給の確保・安定化を支援する発表。銅鉱山開発やサプライチェーン強化への融資であり、供給側からのサポートが明示された。銅需要が堅調な中で供給の安定性が高まる見通し。"
+  },
+  {
+    "title": "Korea Eximbank to Lend $1 Billion to Glencore for Copper Supply - Bloomberg.com",
+    "timestamp": "2026-08-17T03:36:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "韓国輸出入銀行（Korea Eximbank）がグレンコア社に10億ドルの融資を提供し、銅供給の確保・安定化を支援する発表。銅鉱山開発やサプライチェーン強化への融資であり、供給側からのサポートが明示された。銅需要が堅調な中で供給の安定性が高まる見通し。"
   }
 ]
