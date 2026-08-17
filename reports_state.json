@@ -44,39 +44,6 @@
     "summary": "USDA が記録的な収穫量予測を発表し、INFB チーフエコノミストがこれを分析。記録的な単収予測は供給量の大幅増加を示唆し、穀物価格の下押し圧力となる。市場では既に織り込みが進みつつあるが、実績との乖離が価格変動を決定づける。"
   },
   {
-    "title": "Stocks near record highs; benign US inflation eclipses oil rally - Reuters",
-    "timestamp": "2026-08-14T02:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株が過去最高値付近で推移する中、インフレが良好に抑制されている。ベンイン（温和）なインフレ環境は金利据え置き・利下げ期待を支持し、金には好材料だが、同時に原油相場の上昇基調が市場の注目を後退させている。ドル強化圧力が限定的な環境が続く可能性を示唆。"
-  },
-  {
-    "title": "Stocks near record highs; benign US inflation eclipses oil rally - Reuters",
-    "timestamp": "2026-08-14T02:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国株が過去最高値付近で推移する中、インフレが良好に抑制されている。ベンイン（温和）なインフレ環境は金利据え置き・利下げ期待を支持し、金には好材料だが、同時に原油相場の上昇基調が市場の注目を後退させている。ドル強化圧力が限定的な環境が続く可能性を示唆。"
-  },
-  {
-    "title": "Stocks near record highs; benign US inflation eclipses oil rally - Reuters",
-    "timestamp": "2026-08-14T02:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株が過去最高値付近で推移する中、インフレが良好に抑制されている。ベンイン（温和）なインフレ環境は金利据え置き・利下げ期待を支持し、金には好材料だが、同時に原油相場の上昇基調が市場の注目を後退させている。ドル強化圧力が限定的な環境が続く可能性を示唆。"
-  },
-  {
     "title": "Turkey cuts Russian oil imports as Black Sea export disruptions curb supplies, data shows - Reuters",
     "timestamp": "2026-08-14T12:54:24+00:00",
     "importance": 3,
@@ -251,5 +218,16 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME（ロンドン金属取引所）の銅在庫が42日間連続で下落し、2014年以来最長の下落期間を記録した。これは銅需要の堅調さを示唆する一方で、在庫枯渇への懸念からテクニカルな売圧力が生じている可能性がある。市場センチメント分析により、投資家間で供給逼迫懸念と価格調整圧力の綱引きが続いている。"
+  },
+  {
+    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
+    "timestamp": "2026-08-15T13:52:47+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECからの離脱を検討していることが報じられているが、アナリストRussellは同国の離脱が原油価格に予想されるほどの影響を与えない可能性があると指摘。UAEの産油量や市場シェアの規模から判断して、OPEC減産政策の実効性への懸念は限定的との見方。"
   }
 ]
