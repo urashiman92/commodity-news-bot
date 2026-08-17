@@ -1,16 +1,5 @@
 [
   {
-    "title": "欧米為替：デイリー見通し カナダドル・円／原油相場にらみ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-14T04:19:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "カナダドル・円相場の変動が原油価格と連動する関係を分析する為替解説記事。通常の定期見通しコンテンツであり、具体的な新しい市場材料を含まない。"
-  },
-  {
     "title": "金価格は1グラムあたり36,000ルピアから2,664万ルピアに下落 - VOI.ID",
     "timestamp": "2026-08-14T06:33:03+00:00",
     "importance": 2,
@@ -1626,5 +1615,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "韓国の個人投資家が4ヵ月ぶりに金を買い越した。金価格の反騰局面での需要回復を示唆する観測記事。今後の上昇継続性が市場の焦点。"
+  },
+  {
+    "title": "商品市場：原油価格と小麦価格はともに約6％上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-17T04:17:18+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "原油と小麦がともに約6％上昇した市場動向の報道。具体的な上昇要因や発表日時が明記されていない。相場の振り返り・解説的な性質の記事。"
+  },
+  {
+    "title": "金価格は嵐を乗り越える：下半期には4つの逆風が待ち受ける。 - Vietnam.vn",
+    "timestamp": "2026-08-17T04:43:42+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は下半期に4つの逆風に直面する見通し。記事は金相場の課題要因を整理した解説記事。既知のリスク要因の総括と予想される圧力について述べている。"
+  },
+  {
+    "title": "8月17日朝、金価格は上昇を続けた。 - Vietnam.vn",
+    "timestamp": "2026-08-17T04:33:27+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月17日朝の金価格が上昇を続けているとの報道。具体的な上昇要因や数値は不明。定期的な市場動向の振り返り記事。"
   }
 ]
