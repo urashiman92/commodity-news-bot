@@ -1,16 +1,5 @@
 [
   {
-    "title": "2026年8月14日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-14T10:02:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。金市場への直接的な影響はない。"
-  },
-  {
     "title": "金価格は本日8月14日、大幅に下落して取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-14T13:19:01+00:00",
     "importance": 2,
@@ -1637,5 +1626,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "LMEの銅価格が過去最高値に迫っている。市場は需要堅調とエネルギー転換関連の需要拡大を背景に上昇局面を継続している。既に報じられた強気トレンドの継続を示唆するもの。"
+  },
+  {
+    "title": "先週は、圧倒的な買い圧力により原油と小麦の価格が上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-17T09:17:06+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "先週の小麦と原油は買い圧力により価格が上昇した。具体的な買いの要因や数値は記載されていない。相場の事後的な値動き説明にとどまる。"
+  },
+  {
+    "title": "速報（8月17日）：原油価格は今週6％上昇、世界の金価格は上昇基調を維持。 - Vietnam.vn",
+    "timestamp": "2026-08-17T08:46:07+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が今週6％上昇し、金価格も上昇基調を維持している。ただし概要のみで背景要因が不明確。定期的な週次レビューの性質が強い。"
+  },
+  {
+    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫 - Bloomberg.com",
+    "timestamp": "2026-08-17T08:24:03+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格がロンドン市場で過去最高値に接近している。米国への流入継続と需給ひっ迫が背景。構造的な供給不足懸念が強まっている。"
   }
 ]
