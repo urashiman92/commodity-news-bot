@@ -55,17 +55,6 @@
     "summary": "ベトナムの金価格が下落した。SJC金とジュエリー価格の両方で下げ幅を記録。市場全体での調整局面の延長と見られる。"
   },
   {
-    "title": "トランプ氏「ホルムズ海峡を米国領に」 原油価格の高止まり正当化 - 日本経済新聞",
-    "timestamp": "2026-08-14T21:27:26+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏がホルムズ海峡の米国領化を提唱し、地政学的リスク増大による原油高を正当化。ただし発言段階で実現可能性は低く、既知のトランプ型レトリック。"
-  },
-  {
     "title": "本日の燃料価格（8月15日）：世界の原油価格が上昇。 - Vietnam.vn",
     "timestamp": "2026-08-14T23:03:01+00:00",
     "importance": 2,
@@ -251,17 +240,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月15日朝の金価格上昇を報じたニュース。具体的な上昇幅や要因が記事概要に記載されていない。単なる日次の値動き報告と見られる。"
-  },
-  {
-    "title": "トランプ氏「ホルムズ海峡を米国領に」 原油価格の高止まり正当化 - nikkei.com",
-    "timestamp": "2026-08-14T21:27:26+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏がホルムズ海峡の米国領化を発言し、地政学リスクプレミアムを正当化。既知のポジショニングの延長線上の発言であり、供給遮断懸念を理由に原油高を支持する姿勢を示唆。"
   },
   {
     "title": "本日（8月15日）の金価格：金地金と金指輪はともに下落。 - Vietnam.vn",
@@ -1758,5 +1736,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格の上昇に伴い、製錬企業の手数料収入が圧迫される構造について論じたニュース。製錬企業は金銀や硫酸などの副産物販売で収益を補完している実態を解説。"
+  },
+  {
+    "title": "小麦先物、先週の上昇後に利益確定売りで下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-17T20:35:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "小麦先物は先週の上昇後、利益確定売りにより下落。テクニカルな調整局面であり、相場の振り返り報道。ファンダメンタルズの大きな変化ではなく、短期的な値動きの解説。"
+  },
+  {
+    "title": "金価格：中央銀行の需要と2026年見通しの乖離 - FinanceFeeds",
+    "timestamp": "2026-08-17T18:33:19+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中央銀行の金需要と2026年の金価格見通しに乖離が生じている状況を分析したレポート。中銀の継続的な買い需要が価格下支え要因となっている一方で、2026年見通しではこの需要トレンドの持続性に不確実性がある。"
+  },
+  {
+    "title": "ＮＹダウ続落、終値２７２ドル安の５万３４５９ドル…原油先物市場の上昇重荷に - 読売新聞",
+    "timestamp": "2026-08-17T21:16:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが272ドル続落した。原油先物相場の上昇がダウの重荷となった。株式市場と原油市場の連動性を示す動き。"
+  },
+  {
+    "title": "NY原油先物相場続伸、終値84ドル台 半月ぶり高値水準 米イラン情勢受け、買いが優勢 - 産経ニュース",
+    "timestamp": "2026-08-17T21:21:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が84ドル台で半月ぶりの高値を更新。米イラン情勢の緊迫化が買いを誘発。地政学的リスク回避の買いが優勢となっている。"
   }
 ]
