@@ -1,38 +1,5 @@
 [
   {
-    "title": "【速報】NY原油先物81ドル台で底堅く推移(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-14T18:00:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が81ドル台で底堅い推移を続けている。具体的な材料を欠く相場解説で、現在の価格水準の安定性を指摘するコメンタリー。"
-  },
-  {
-    "title": "【速報】NY原油先物81ドル台で底堅く推移｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-14T17:55:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が81ドル台で底堅く推移している状況を報じた速報記事。具体的な新規材料や統計発表ではなく、現在の価格水準の状況解説。"
-  },
-  {
-    "title": "8月14日（金）の金価格：アンタムは3万6000ルピア下落、ガレリ24とUBSは上昇 - BigGo ファイナンス",
-    "timestamp": "2026-08-14T18:19:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアの金価格について、8月14日時点でのブランド別の価格動向を報じた記事。アンタムは前日比で3万6000ルピア下落し、ガレリ24とUBSは上昇した。"
-  },
-  {
     "title": "原油相場上昇、米財務長官の対イラン発言見極めムード－WTI 81ドル台 - TBS NEWS DIG",
     "timestamp": "2026-08-14T21:00:00+00:00",
     "importance": 3,
@@ -152,17 +119,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米インフレ指標の鈍化によりFRBの利上げ観測が後退。金は利上げ終了や利下げ期待で反発。既報のインフレ鈍化トレンドの続報。"
-  },
-  {
-    "title": "金が無秩序に急落、1両あたり200万ドンも下落 - BigGo ファイナンス",
-    "timestamp": "2026-08-14T18:24:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場で金価格が1両あたり200万ドン下落したと報道。地域的な価格下落であり、グローバル市場への直接的な影響は限定的と判断される。"
   },
   {
     "title": "本日（8月15日）の金価格：米ドル安に伴い上昇。 - Vietnam.vn",
@@ -1725,5 +1681,16 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ先物が小幅上昇。プロ・ファーマーの作物ツアー開催を控えた相場観測記事。具体的な需給要因や統計データには言及されていない。"
+  },
+  {
+    "title": "NY市場午後：ダウ188ドル安もSOXは2.7%高、金先物が最高値圏 - BigGo ファイナンス",
+    "timestamp": "2026-08-17T17:37:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY市場で金先物が最高値圏で推移。ダウ平均は小幅安だがハイテク株（SOX）は2.7%上昇と堅調。金の上昇は金利動向や地政学的リスク、ドル動向など複合要因と考えられる。"
   }
 ]
