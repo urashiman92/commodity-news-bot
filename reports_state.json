@@ -1,16 +1,5 @@
 [
   {
-    "title": "Russian share of India's oil imports surges to record high in July - Reuters",
-    "timestamp": "2026-08-14T04:56:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インドの石油輸入に占めるロシア産原油のシェアが7月に過去最高水準へ急増した。これは西側制裁強化に伴う迂回取引の加速とOPEC+の供給構造変化を示唆する。新興国へのロシア原油シフトが加速すれば、スポット市場の需給バランス悪化と価格上昇圧力につながる可能性がある。"
-  },
-  {
     "title": "INFB Chief Economist Weighs in on USDA Record Yield Predictions - Morning Ag Clips",
     "timestamp": "2026-08-14T09:04:30+00:00",
     "importance": 4,
@@ -229,5 +218,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPECからの離脱を検討していることが報じられているが、アナリストRussellは同国の離脱が原油価格に予想されるほどの影響を与えない可能性があると指摘。UAEの産油量や市場シェアの規模から判断して、OPEC減産政策の実効性への懸念は限定的との見方。"
+  },
+  {
+    "title": "Copper Heads Toward Record High on LME as Supply Tensions Build - Bloomberg.com",
+    "timestamp": "2026-08-17T01:45:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅がLME（ロンドン金属取引所）で史上最高値に向かっている。サプライチェーンの緊張が高まり、供給面での懸念が強まっている。エネルギー転換やEV需要の急増に対して鉱山生産の停滞や地政学的リスク（ペルー・チリなど主要産地の政情不安）が供給を圧迫している。"
   }
 ]
