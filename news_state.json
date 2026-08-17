@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油相場上昇、米財務長官の対イラン発言見極めムード－WTI 81ドル台 - TBS NEWS DIG",
-    "timestamp": "2026-08-14T21:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米財務長官のイラン関連発言を受けて原油相場が上昇し、WTI原油が81ドル台で推移している。市場がその影響を見極めようとしている段階で、地政学リスク要因として注視されている。"
-  },
-  {
     "title": "NY原油・金相場（14日）－原油、金がともに反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
     "timestamp": "2026-08-14T22:11:33+00:00",
     "importance": 2,
@@ -449,17 +438,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米インフレ指標が鈍化し、FRBによる追加利上げ観測が後退。金は利上げ圧力の緩和で反発。既報の経済指標を踏まえた相場解説。"
-  },
-  {
-    "title": "【原油ウォッチ】イラン情勢の混迷続くも、需要低迷で上値重く…米国はガソリン価格高騰、「輸出禁止検討」の噂も(1/3) - JBpress",
-    "timestamp": "2026-08-14T21:00:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン情勢は緊張継続も、グローバル需要低迷が原油の上値を抑制。米国ガソリン高騰への対応として輸出禁止検討の観測あり。供給リスクと需要弱さの綱引き状態。"
   },
   {
     "title": "金価格が予想外に10％急騰：複数の銀行が最新の予測を発表。 - Vietnam.vn",
@@ -1758,5 +1736,27 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "大豆先物が上昇。クラッシュペース（収穫遅延）の加速と原油高が支援材料となっている。複数のファンダメンタルズが価格押し上げに作用。"
+  },
+  {
+    "title": "原油先物2％超上昇、米イラン交渉停滞で供給懸念 - ニューズウィーク日本版",
+    "timestamp": "2026-08-17T19:52:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン交渉が停滞し、イラン産原油供給の制裁解除の可能性が遠のいたことで供給懸念が浮上。原油先物は2%超上昇。地政学的なリスク要因の具現化による連想買い。"
+  },
+  {
+    "title": "銅高騰も製錬手数料0ドル収益は金銀硫酸で補う - Chosunbiz",
+    "timestamp": "2026-08-17T21:02:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の上昇に伴い、製錬企業の手数料収入が圧迫される構造について論じたニュース。製錬企業は金銀や硫酸などの副産物販売で収益を補完している実態を解説。"
   }
 ]
