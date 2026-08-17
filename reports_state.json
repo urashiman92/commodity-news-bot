@@ -1,27 +1,5 @@
 [
   {
-    "title": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say - Reuters",
-    "timestamp": "2026-08-14T14:21:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア黒海のシェスハリ石油積み出し基地がドローン攻撃により積み出しを停止。同基地はロシアの主要石油積み出し施設の一つであり、供給途絶は世界石油市場への直接的な影響が避けられない。ウクライナ情勢の激化による供給リスク顕在化は市場心理を大きく変える。"
-  },
-  {
-    "title": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say - Reuters",
-    "timestamp": "2026-08-14T14:21:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア黒海のシェスハリ石油積み出し基地がドローン攻撃により積み出しを停止。同基地はロシアの主要石油積み出し施設の一つであり、供給途絶は世界石油市場への直接的な影響が避けられない。ウクライナ情勢の激化による供給リスク顕在化は市場心理を大きく変える。"
-  },
-  {
     "title": "Iran’s Daily Oil Output Rises 26,000 Barrels in a Month: OPEC - Financial Tribune",
     "timestamp": "2026-08-15T14:04:37+00:00",
     "importance": 2,
@@ -185,5 +163,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "韓国輸出入銀行（Korea Eximbank）がグレンコア社に10億ドルの融資を提供し、銅供給の確保・安定化を支援する発表。銅鉱山開発やサプライチェーン強化への融資であり、供給側からのサポートが明示された。銅需要が堅調な中で供給の安定性が高まる見通し。"
+  },
+  {
+    "title": "Saudis Offer Oil From Near Oman in Possible Sign of Shuttling - bloomberg.com",
+    "timestamp": "2026-08-17T13:38:50+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがオマーン沖近くで原油供給を提示している。これはタンカー間での原油移積（シャトリング）の可能性を示唆しており、サウジが迂回ルートでの販売を模索していることを示唆。供給ルートの多様化は市場への供給懸念を軽減し、原油価格に下押し圧力となる。"
+  },
+  {
+    "title": "US Stocks Waver; Tech Shares Gain on Anthropic Revenue Jump - bloomberg.com",
+    "timestamp": "2026-08-17T12:41:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株式市場の変動に関するレポートであり、テクノロジーセクターがAnthropicの売上増加で上昇する一方、市場全体では方向性が不明確。コモディティ市場への直接的な影響は限定的で、テック企業の収益動向はコモディティ投資家にとって二次的な関連性にとどまる。"
   }
 ]
