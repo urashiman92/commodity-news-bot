@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY金先物が反落、2カ月ぶり高値から失速 原油在庫急増で利下げ観測に冷水 - BigGo ファイナンス",
-    "timestamp": "2026-08-14T00:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が2カ月ぶり高値から反落。原油在庫の急増がFRBの利下げ観測に冷水を浴びせ、リスク資産への選好が強まり金から資金が流出。ドル強化圧力も金売却を誘発。"
-  },
-  {
     "title": "金価格が$4,400を割り込む――FRBの利上げ観測とホルムズ海峡交渉が上昇を抑制 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-14T00:59:00+00:00",
     "importance": 3,
@@ -20,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が$4,400を割り込んだ。FRBの利上げ観測の強まりとホルムズ海峡交渉の進展が上昇圧力を相殺した。ドル高と実質金利上昇が金にとって逆風となっている。"
-  },
-  {
-    "title": "原油価格は週間ベースで上昇、イランと供給不安が支援 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-14T00:14:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が週間ベースで上昇。イランの地政学的リスクと供給不安が価格を支援している。既知の懸念材料による緩やかな上昇相場。"
-  },
-  {
-    "title": "黒海穀物回廊が崩壊寸前 ウクライナの穀物輸出、8月は76％急減 - BigGo ファイナンス",
-    "timestamp": "2026-08-14T00:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ウクライナの穀物輸出が8月に76%急減し、黒海穀物回廊が機能不全に陥っている。世界最大級の小麦供給源からの供給途絶が現実化している。供給逼迫による小麦価格の上昇圧力が強まる。"
   },
   {
     "title": "金相場、足元で反落も回復基調　中国人民銀行の大量購入が下支え - 財経新聞",
@@ -1637,5 +1604,49 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "14日の主要国際商品市況に関する市場レポート。具体的な価格データや動向は記事内容が不明な状況。"
+  },
+  {
+    "title": "LBMAは、世界の金価格が2026年末までに1オンスあたり4,500ドル前後で推移すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-08-17T00:16:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "LBMAが2026年末までの金価格を1オンス4,500ドル前後と予測。現在の価格から約15-20%の上昇を見込む強気シナリオ。既存の強気見通しの域を出ない観測。"
+  },
+  {
+    "title": "今週、金価格は急騰すると予想されている。 - Vietnam.vn",
+    "timestamp": "2026-08-17T00:10:29+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が今週急騰すると予想されているとの報道。具体的な材料や根拠は記事概要からは不明。アナリスト見解の類と推定される。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議の不透明感が高まり、原油価格は3営業日ぶりに上昇（2026年8月17日） - oanda.jp",
+    "timestamp": "2026-08-16T23:18:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの和平協議の不透明感により、地政学的リスク懸念が再燃。3営業日ぶりにWTI原油が上昇。既報事象の相場解説記事である。"
+  },
+  {
+    "title": "イランが米軍にホルムズ海峡の通行禁止令 国際原油価格と金が早朝一斉に上昇 - BigGo ファイナンス",
+    "timestamp": "2026-08-17T00:05:00+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランが米軍によるホルムズ海峡通行禁止令を発表。世界の石油輸送の約3割が通過する重要海峡の封鎖脅威により、原油と金が急騰。地政学リスクの顕在化。"
   }
 ]
