@@ -11,28 +11,6 @@
     "summary": "インドネシアの金価格が1グラムあたり36,000ルピアから2,664万ルピアに下落したと報道。ローカル市場の価格変動を伝える記事で、グローバルな金市場への直接的な影響は限定的。"
   },
   {
-    "title": "原油価格、調整役は中国 「高値づかみ」せず上値抑制 100ドル割れ水準続く - 日本経済新聞",
-    "timestamp": "2026-08-14T05:30:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中国が原油の「高値づかみ」を避け、買い控えることで原油価格の上値を抑制している状況を解説。現在100ドル割れの水準が続いており、中国の需要管理が価格のキーファクターとなっている。"
-  },
-  {
-    "title": "金価格が1週間で7%超上昇 背後にある二大要因とは - AFPBB News",
-    "timestamp": "2026-08-14T05:52:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で7%超上昇。背後には二大要因があると報道されている。具体的な要因の詳細は記事の概要からは不明だが、金の上昇トレンドが継続している状況。"
-  },
-  {
     "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
     "timestamp": "2026-08-14T07:48:03+00:00",
     "importance": 1,
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "年末までの金価格に影響を与える5つの要因についての解説記事。具体的な要因の内容は不明だが、金投資家にとって注視すべき複数のドライバーがあることを示唆している。"
-  },
-  {
-    "title": "金価格が1週間で7%超上昇 背後にある二大要因とは - AFPBB News",
-    "timestamp": "2026-08-14T05:50:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で7%超上昇した。背景には複数の要因が存在。詳細な要因分析は記事概要からは判断できないが、マクロ環境の変化を反映した動きと考えられる。"
   },
   {
     "title": "原油先物が続落、26年需要見通し引き下げで売り優勢 金も下落 - BigGo ファイナンス",
@@ -1648,5 +1615,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月17日朝の金価格が上昇を続けているとの報道。具体的な上昇要因や数値は不明。定期的な市場動向の振り返り記事。"
+  },
+  {
+    "title": "本日（8月17日）の金価格：予想外の急落。 - Vietnam.vn",
+    "timestamp": "2026-08-17T05:16:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月17日の金価格が予想外に急落したと報道。ただしニュースソースが限定的で、具体的な下落幅や原因が不明。"
+  },
+  {
+    "title": "ホルムズ海峡の通航量がゼロに 原油価格は供給リスクと需要懸念の間で横ばい - finance.biggo.jp",
+    "timestamp": "2026-08-17T02:05:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の通航量がゼロになったという重大な供給リスクが発生。一方で需要懸念も存在し、市場は相反する要因で価格が横ばい推移している状況。"
   }
 ]
