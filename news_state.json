@@ -1,16 +1,5 @@
 [
   {
-    "title": "ホルムズ海峡でタンカー再び攻撃 米国の対イラン圧力強化 国際原油価格は週間で約6%上昇 - BigGo ファイナンス",
-    "timestamp": "2026-08-14T23:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡でタンカー攻撃が再発生し、米国のイラン圧力が強化される中で供給リスクが顕在化。週間で約6%の原油価格上昇は地政学的リスク要因の市場への強い反映。"
-  },
-  {
     "title": "再び上昇!？金価格の行方は【フォワードルッキング完全版】｜モーサテサタデー - テレ東BIZ",
     "timestamp": "2026-08-15T00:00:00+00:00",
     "importance": 2,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米インフレ指標の鈍化によりFRBの利上げ観測が後退。金は利上げ終了や利下げ期待で反発。既報のインフレ鈍化トレンドの続報。"
-  },
-  {
-    "title": "本日（8月15日）の金価格：米ドル安に伴い上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-14T23:36:52+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月15日の金価格が米ドル安を背景に上昇した。ドル安環境は金の購買力を高め、国際商品市場での金の需要を支援する。通常の相場解説ニュース。"
   },
   {
     "title": "NY原油先物：反発、中東情勢の緊張継続で供給懸念が下支え - ｄメニューニュース",
@@ -141,17 +119,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "先週の金価格は1%近い上昇を記録した。変動幅は限定的で、通常のボラティリティ範囲内の値動き。具体的な上昇要因の記述がなく、単なる相場の振り返りと判断される。"
-  },
-  {
-    "title": "NY市場動向（取引終了）:ダウ107.58ドル安（速報）、原油先物1.15ドル高 ｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-14T23:33:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場ではダウ平均が小幅下落する中、WTI原油先物は1.15ドル上昇で取引を終了。株式と原油の逆相関を示す値動きだが、具体的な材料は記事から不明。"
   },
   {
     "title": "石油の雫となって逃げまくれ 『Crude Oil』が配信開始、跳ねて伸びてフォークリフトも乗りこなすシュールアクション - AppBank",
@@ -1802,5 +1769,49 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で原油、ガソリン、金、銀、トウモロコシ、大豆が上昇し、天然ガスのみ下落。複数商品の異なる値動きを報じた相場振り返り記事。"
+  },
+  {
+    "title": "本日8月18日の金価格：SJC、BTMC、DOJI、PNJは世界の金価格の上昇に合わせて上昇するのか？ - Vietnam.vn",
+    "timestamp": "2026-08-17T22:48:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの主要金小売業者（SJC、BTMC、DOJI、PNJ）の8月18日の金価格動向についての報道。世界金価格の上昇がベトナムの国内金価格に波及するかの追跡記事。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平合意への期待感が後退した影響で、原油価格は2営業日連続で上昇（2026年8月18日） - OANDA証券",
+    "timestamp": "2026-08-17T23:14:26+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの和平合意期待が後退したことで、地政学リスク回避売りが弱まり原油は2営業日連続で上昇。ただしアナリスト解説であり既に市場に織り込まれた動きの振り返り。"
+  },
+  {
+    "title": "原油相場上昇、米国が対イラン戦争終結を急がない姿勢示唆 - Bloomberg.com",
+    "timestamp": "2026-08-17T23:05:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン紛争の終結を急がない姿勢を示唆したことで、地政学的リスク要因が継続。供給遮断懸念が残存し、原油相場の上昇圧力が継続している。"
+  },
+  {
+    "title": "銅価格が史上最高値なのに製錬手数料「0ウォン」…金・銀・硫酸で持ちこたえる製錬各社 - BigGo ファイナンス",
+    "timestamp": "2026-08-17T22:33:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が史上最高値を更新する中、韓国の銅製錬企業が製錬手数料ゼロで操業を余儀なくされている。金・銀・硫酸の副産物販売により採算を維持している状況。供給サイドの収益悪化が続く可能性を示唆。"
   }
 ]
