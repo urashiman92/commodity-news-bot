@@ -185,5 +185,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国株式市場の変動に関するレポートであり、テクノロジーセクターがAnthropicの売上増加で上昇する一方、市場全体では方向性が不明確。コモディティ市場への直接的な影響は限定的で、テック企業の収益動向はコモディティ投資家にとって二次的な関連性にとどまる。"
+  },
+  {
+    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - energynow.com",
+    "timestamp": "2026-08-15T13:14:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4月の石油生産を日量137,000バレル増加させることを検討している。これは段階的な増産再開の継続を示すもので、市場に織り込まれている範囲内の動き。供給の徐々の緩和が価格抑制圧力として機能する見通し。"
+  },
+  {
+    "title": "Russia's Black Sea Novorossiysk port resumes oil loadings after drone attack, sources say - Reuters",
+    "timestamp": "2026-08-17T10:57:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの黒海主要港ノボロシスク港がドローン攻撃後に石油積み出しを再開した。同港はロシア原油輸出の重要拠点であり、供給中断リスクが一時的に緩和される。ウクライナ紛争の長期化に伴う供給不安定性は継続している。"
   }
 ]
