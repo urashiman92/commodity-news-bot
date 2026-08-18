@@ -1934,5 +1934,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物の現在価格表示のみで、特定のニュースイベントや市場材料を含まない。単なる価格ティッカー情報である。"
+  },
+  {
+    "title": "〈投信ニュース〉今週の新規設定 ロンドン金価格連動目指す - nikkei.com",
+    "timestamp": "2026-08-18T05:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ロンドン金価格に連動する新規投信が設定された。日本の投資家向けに金への投資手段が提供される動き。金市場そのものへの直接的な需給変化はない。"
+  },
+  {
+    "title": "銅現物が急騰、先物との価格差5年ぶり 米国外で供給不安 - BigGo ファイナンス",
+    "timestamp": "2026-08-18T07:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅現物価格が先物との価格差が5年ぶりの水準となるほど急騰。米国外での供給不安が背景。物理的な銅需給の逼迫を示唆する重要なシグナル。"
   }
 ]
