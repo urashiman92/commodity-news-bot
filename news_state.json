@@ -1,16 +1,5 @@
 [
   {
-    "title": "石油タンカーへの攻撃に対する懸念から、ブレント原油価格は6％上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-15T05:53:04+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "石油タンカーへの攻撃懸念により、ブレント原油が6%上昇。供給ルート途絶の地政学的リスクが顕在化。エネルギー安全保障上の重大な懸念材料。"
-  },
-  {
     "title": "来週の金価格：専門家は上昇シナリオを強く支持している。 - Vietnam.vn",
     "timestamp": "2026-08-15T07:11:35+00:00",
     "importance": 2,
@@ -53,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格が8月15日午後に反転上昇し、金の指輪が1テールあたり約1億4500万ベトナムドンまで上昇した。地域的な価格変動の報告であり、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "Gold Price on 14 August 2026 - Gold Price",
-    "timestamp": "2026-08-15T05:13:55+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年8月14日時点での金価格の単純な価格表示。具体的な価格数値が記事本文に示されていない。市場動向を示す分析情報が含まれていない。"
   },
   {
     "title": "金価格の差は大幅に縮小し、市場は徐々に正常に戻りつつある。 - Vietnam.vn",
@@ -163,17 +141,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月16日の金価格は綱引き状態の中で回復基調を示している。具体的な価格水準や変動要因の詳細は記事概要では不明。市場の需給バランスが錯綜している状況と考えられる。"
-  },
-  {
-    "title": "金価格１６０倍、再び脚光＝中銀積み増し、揺らぐドル一極―「ニクソン・ショック」５５年 - 時事通信ニュース",
-    "timestamp": "2026-08-15T05:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニクソン・ショック55周年を機に、金価格が1969年比で160倍に上昇したことが報道された。中央銀行による金の積み増しやドル一極体制の揺らぎが背景にあり、金の投資需要が継続している。"
   },
   {
     "title": "【図解】金価格160倍、再び脚光＝中銀積み増し、揺らぐドル一極―「ニクソン・ショック」55年（時事通信） - Yahoo!ニュース",
@@ -1901,5 +1868,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月18日、原油価格が1バレル91ドルまで急騰し、同時に金価格も上昇した。複数コモディティの同時上昇が観測されている。詳細な上昇要因は記事概要からは不明。"
+  },
+  {
+    "title": "金オプションのスキューがコール優勢に転換 サスケハナ「資金流入は1月以来の強さ」 - BigGo ファイナンス",
+    "timestamp": "2026-08-18T04:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金オプション市場のスキューがコール優勢に転換し、買い圧力の強さが示唆されている。サスケハナによると資金流入は1月以来の水準。市場参加者の金上昇期待が高まっている可能性。"
+  },
+  {
+    "title": "株価 1100円以上の値下がり 原油先物価格上昇などを受けて - news.web.nhk",
+    "timestamp": "2026-08-18T05:13:07+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格の上昇が日本株式市場に下押し圧力をもたらし、日経平均が1100円以上下落。エネルギー関連企業やインポーター企業への悪影響が顕在化。"
+  },
+  {
+    "title": "原油価格が急騰、米国の戦略備蓄は42年ぶりの低水準に減少。 - Vietnam.vn",
+    "timestamp": "2026-08-18T05:40:42+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の戦略石油備蓄（SPR）が42年ぶりの低水準に減少し、供給逼迫懸念から原油価格が急騰。供給サイドの脆弱性が顕在化し、価格上振れのリスク要因として機能。"
+  },
+  {
+    "title": "穀物メジャーのカーギル、通期増益－市場のボラティリティーが追い風 - Bloomberg.com",
+    "timestamp": "2026-08-18T03:39:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "穀物メジャーのカーギルが通期増益を達成。市場のボラティリティーが取引利益をもたらした。大豆を含む穀物商人企業の業況改善を示唆。"
   }
 ]
