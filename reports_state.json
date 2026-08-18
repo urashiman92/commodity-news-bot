@@ -22,17 +22,6 @@
     "summary": "Peter Thielがアルゼンチンのシェールオイル輸出企業Vistaに出資したことが報じられた。同社はパタゴニア地域のシェール油田開発に従事する企業で、Thielのような著名投資家の参入は同国の石油セクターへの信頼感を示唆する。ただし個別企業への投資報道であり、即座の原油価格への大きな影響は限定的。"
   },
   {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - energynow.com",
-    "timestamp": "2026-08-15T13:13:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫統計により、米国の原油とガソリン在庫が先週減少したことが報告された。強い需要が在庫減少の主因。在庫の減少は原油需給のタイト化を示唆し、価格上昇圧力となる。"
-  },
-  {
     "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
     "timestamp": "2026-08-15T16:37:59+00:00",
     "importance": 3,
@@ -75,17 +64,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME（ロンドン金属取引所）の銅在庫が42日間連続で下落し、2014年以来最長の下落期間を記録した。これは銅需要の堅調さを示唆する一方で、在庫枯渇への懸念からテクニカルな売圧力が生じている可能性がある。市場センチメント分析により、投資家間で供給逼迫懸念と価格調整圧力の綱引きが続いている。"
-  },
-  {
-    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
-    "timestamp": "2026-08-15T13:52:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECからの離脱を検討していることが報じられているが、アナリストRussellは同国の離脱が原油価格に予想されるほどの影響を与えない可能性があると指摘。UAEの産油量や市場シェアの規模から判断して、OPEC減産政策の実効性への懸念は限定的との見方。"
   },
   {
     "title": "Copper Heads Toward Record High on LME as Supply Tensions Build - Bloomberg.com",
@@ -174,17 +152,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国株式市場の変動に関するレポートであり、テクノロジーセクターがAnthropicの売上増加で上昇する一方、市場全体では方向性が不明確。コモディティ市場への直接的な影響は限定的で、テック企業の収益動向はコモディティ投資家にとって二次的な関連性にとどまる。"
-  },
-  {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - energynow.com",
-    "timestamp": "2026-08-15T13:14:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の石油生産を日量137,000バレル増加させることを検討している。これは段階的な増産再開の継続を示すもので、市場に織り込まれている範囲内の動き。供給の徐々の緩和が価格抑制圧力として機能する見通し。"
   },
   {
     "title": "Russia's Black Sea Novorossiysk port resumes oil loadings after drone attack, sources say - Reuters",
@@ -605,17 +572,6 @@
     "summary": "米国の長期金利上昇と原油価格の同時上昇により、マクロ環境に相反する圧力が生じている。株価指数先物の下落は金利上昇による割引率上昇が主因。原油上昇は供給懸念やドル弱含みを反映しており、インフレ圧力が継続している可能性を示唆している。"
   },
   {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
-    "timestamp": "2026-08-15T13:14:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の原油増産を検討中で、日量137,000バレルの引き上げを考慮している。これは段階的な緩和政策の継続を示唆するもので、供給増加による価格下押し圧力が働く。市場はすでに減産緩和の可能性を織り込みつつある。"
-  },
-  {
     "title": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz - Reuters",
     "timestamp": "2026-08-18T07:57:44+00:00",
     "importance": 4,
@@ -680,5 +636,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
+  },
+  {
+    "title": "USDA August Crop Report Notes Lower Row Crop Yields - DTN Progressive Farmer",
+    "timestamp": "2026-08-17T08:23:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA8月穀物報告書で主要穀物（トウモロコシ・大豆・小麦）の作付面積予想が下方修正され、単収見通しが低下。特にトウモロコシと大豆の作況不良が顕著で、干ばつなど気象リスクが供給逼迫シナリオを強化。商品相場の上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "USDA August Crop Report Notes Lower Row Crop Yields - DTN Progressive Farmer",
+    "timestamp": "2026-08-17T08:23:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA8月穀物報告書で主要穀物（トウモロコシ・大豆・小麦）の作付面積予想が下方修正され、単収見通しが低下。特にトウモロコシと大豆の作況不良が顕著で、干ばつなど気象リスクが供給逼迫シナリオを強化。商品相場の上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "USDA August Crop Report Notes Lower Row Crop Yields - DTN Progressive Farmer",
+    "timestamp": "2026-08-17T08:23:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA8月穀物報告書で主要穀物（トウモロコシ・大豆・小麦）の作付面積予想が下方修正され、単収見通しが低下。特にトウモロコシと大豆の作況不良が顕著で、干ばつなど気象リスクが供給逼迫シナリオを強化。商品相場の上昇圧力が強まる見通し。"
   }
 ]
