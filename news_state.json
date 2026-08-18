@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は8月15日午後に反転上昇し、金の指輪は1テールあたり1億4500万ベトナムドン近くまで高騰した。 - Vietnam.vn",
-    "timestamp": "2026-08-15T09:57:41+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が8月15日午後に反転上昇し、金の指輪が1テールあたり約1億4500万ベトナムドンまで上昇した。地域的な価格変動の報告であり、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
     "title": "金価格の差は大幅に縮小し、市場は徐々に正常に戻りつつある。 - Vietnam.vn",
     "timestamp": "2026-08-15T10:53:21+00:00",
     "importance": 2,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "アナリスト90%が金価格の上昇を予測し、1オンス4,500ドルが注目水準とされている。強気コンセンサスの存在を示すコメンタリー記事で、既に広く知られた見方である。"
-  },
-  {
-    "title": "専門家が来週の金価格の上昇傾向を一斉に予測 - Laodong.vn",
-    "timestamp": "2026-08-15T09:58:04+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "複数の専門家が来週の金価格上昇を予測している。アナリスト見解であり、既に市場で織り込まれている可能性が高い。具体的な材料や根拠が不明確。"
   },
   {
     "title": "金価格は本日8月15日、非常に力強い反発を見せて取引を終えた。 - Vietnam.vn",
@@ -1989,5 +1967,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格がロンドン市場で過去最高値に迫っている。米国への流入が続き、需給ひっ迫が価格を支えている。強気相場が続いており、投資家の関心が高い。"
+  },
+  {
+    "title": "米政策の不透明感を背景に金価格が1オンス4,450ドルへ反発 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-18T09:47:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国政策の不透明感を背景に金価格が1オンス4,450ドルまで反発した。有事資産としての金の需要増が価格を支えている。既知のトレンドの継続報告である。"
+  },
+  {
+    "title": "ウルフ・リサーチ、米イラン対立の中で原油価格は安定推移と予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-18T09:46:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ウルフ・リサーチがアナリスト見解として、米イラン対立が存在する状況下でも原油価格は安定推移するとの予測を発表。既に折り込まれた地政学的リスク評価の域を出ていない。"
   }
 ]
