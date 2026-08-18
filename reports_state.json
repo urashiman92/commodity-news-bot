@@ -504,5 +504,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ハーバード大学のLinda Hill教授がAI時代におけるリーダーシップの必要性について述べたコメンタリー。AI導入時代では組織がより俊敏性（agility）を求められるという経営学的な見解であり、コモディティ市場の需給・価格に直接的な影響を与えるものではない。"
+  },
+  {
+    "title": "Oil Rebounds Amid Inventory Drawdowns, Iran War Uncertainty: Economist Says 'Stay Long' - Stocktwits",
+    "timestamp": "2026-08-15T20:55:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA原油在庫の減少と中東地政学リスク（イラン関連の不確実性）が原油価格の反発を支えている。エコノミストは「ロングポジション継続」を推奨。在庫減少は需給バランス改善を示唆し、イラン問題は供給リスク要因として機能している。"
+  },
+  {
+    "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
+    "timestamp": "2026-08-18T07:12:54+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国30年債利回りが2007年以来の高水準に到達。地政学的リスク（戦争）と原油供給懸念が重なり、インフレ圧力とFRB追加利上げ観測が高まっている。長期金利上昇は金価格に下落圧力を与える一方、原油価格は供給リスク懸念で上昇圧力を受ける状況。"
+  },
+  {
+    "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
+    "timestamp": "2026-08-18T07:12:54+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国30年債利回りが2007年以来の高水準に到達。地政学的リスク（戦争）と原油供給懸念が重なり、インフレ圧力とFRB追加利上げ観測が高まっている。長期金利上昇は金価格に下落圧力を与える一方、原油価格は供給リスク懸念で上昇圧力を受ける状況。"
+  },
+  {
+    "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
+    "timestamp": "2026-08-18T07:12:54+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国30年債利回りが2007年以来の高水準に到達。地政学的リスク（戦争）と原油供給懸念が重なり、インフレ圧力とFRB追加利上げ観測が高まっている。長期金利上昇は金価格に下落圧力を与える一方、原油価格は供給リスク懸念で上昇圧力を受ける状況。"
   }
 ]
