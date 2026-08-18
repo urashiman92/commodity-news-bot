@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（8月16日）の金価格：トレンドを反転し上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-15T23:33:52+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月16日の金価格がトレンドを反転して上昇した。詳細は記事未提示のため、価格上昇そのものの報告のみ。具体的な上昇要因や数値が不明。"
-  },
-  {
-    "title": "2026年8月16日現在の金価格：世界の金価格は変動しているが、国内価格は高止まりしている。 - Vietnam.vn",
-    "timestamp": "2026-08-15T23:39:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が高止まりしている一方で、世界の金価格は変動している状況について報じたコメンタリー記事。特定の新規ファンダメンタルズ情報は含まれていない。"
-  },
-  {
-    "title": "本日8月16日の金価格：SJCの金価格は軒並み上昇、1億4500万ドルの大台は近いのか？ - Vietnam.vn",
-    "timestamp": "2026-08-15T23:39:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムSJC金価格が上昇し、1億4500万ドルの心理的節目に接近。市場心理の強気転換を反映した価格動向。地域的な相場解説記事。"
-  },
-  {
     "title": "専門家は来週、金価格が上昇すると予測している。 - Vietnam.vn",
     "timestamp": "2026-08-16T00:37:52+00:00",
     "importance": 2,
@@ -75,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が国際価格より1オンスあたり約500万ベトナムドン高い状況を報道。国内市場の需給逼迫やマージンの存在を示唆する事象。"
-  },
-  {
-    "title": "【図解】金価格160倍、再び脚光＝中銀積み増し、揺らぐドル一極―「ニクソン・ショック」55年 (時事通信) - Yahoo!ニュース",
-    "timestamp": "2026-08-15T23:38:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニクソン・ショック55年を機に、金価格が55年間で約160倍に上昇した歴史的背景を解説。中央銀行の金積み増しとドル一極体制の動揺が、金の再評価を支えている。"
   },
   {
     "title": "金価格は上昇しているが、購入者は依然として損失を出している。 - Vietnam.vn",
@@ -2209,5 +2165,27 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "18日の主要国際商品市況の定期レポート。具体的な商品別の価格変動や市場トレンドについての記事。"
+  },
+  {
+    "title": "黒海の混乱がユーロネクスト小麦相場を押し上げ、需要低迷を相殺 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-18T17:32:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海地域の地政学的混乱がユーロネクスト小麦先物の上昇圧力となっている。需要低迷という下押し要因を相殺するほどの供給懸念が作用している。既知の地政学リスクの継続による相場変動"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議の進展が見られないことが影響し、原油価格は3営業日連続で上昇（2026年8月19日） - OANDA証券",
+    "timestamp": "2026-08-18T23:13:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの和平協議進展の鈍化により、中東地政学リスクが高まったと解釈され、原油価格が3営業日連続で上昇。供給リスク懸念が価格を支援している。"
   }
 ]
