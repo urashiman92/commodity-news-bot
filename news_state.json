@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は8月15日（土）の朝に上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-15T04:07:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月15日朝の金価格上昇を報じたニュース。具体的な上昇幅や要因が記事概要に記載されていない。単なる日次の値動き報告と見られる。"
-  },
-  {
-    "title": "本日（8月15日）の金価格：金地金と金指輪はともに下落。 - Vietnam.vn",
-    "timestamp": "2026-08-15T04:11:35+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金と金指輪が8月15日に下落した。市場の日々の価格変動を報じた記事で、具体的な下落率や市場ドライバーは不明。"
-  },
-  {
     "title": "石油タンカーへの攻撃に対する懸念から、ブレント原油価格は6％上昇した。 - Vietnam.vn",
     "timestamp": "2026-08-15T05:53:04+00:00",
     "importance": 4,
@@ -163,17 +141,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が予想外に10％急騰したと報じられている。複数の銀行が相次いで予測を発表している。市場心理と機関投資家の見方が強気に転じた可能性がある。"
-  },
-  {
-    "title": "OXYONがOXYを追跡するのはなぜ？原油価格、配当金、トークン化株式の価格設定について解説 - MEXC",
-    "timestamp": "2026-08-15T04:36:14+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OXYONはOccidental Petroleum（OXY）の株価に連動するトークン化商品。原油価格と配当金がトークン価格に影響する仕組みについての解説記事。"
   },
   {
     "title": "金価格１６０倍、再び脚光 中銀積み増し、揺らぐドル一極―「ニクソン・ショック」５５年 - jiji.com",
@@ -1901,5 +1868,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が過去最高値に近づいている。電気自動車需要やエネルギー転換需要、供給逼迫が背景。技術的レジスタンス水準への接近を示唆。"
+  },
+  {
+    "title": "世界の金価格が4400ドルを超え、原油価格も1バレル90ドルを超えた。 - Vietnam.vn",
+    "timestamp": "2026-08-18T04:03:12+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4400ドル超、原油価格が1バレル90ドル超に達した。両コモディティが堅調な推移を示している。ただし具体的な新規イベントではなく、相場観測の報道。"
+  },
+  {
+    "title": "三井E＆S－丸三が目標株価引き下げ 原油価格高止まりを反映〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-18T04:06:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "三井E&S株の目標株価が引き下げられた。アナリスト側が原油価格の高止まり環境を反映した調整。既知の原油相場動向を踏まえたポジティブ材料の減少評価。"
+  },
+  {
+    "title": "速報（8月18日）：原油価格が1バレル91ドルに急騰、金価格も急上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-18T04:38:33+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月18日、原油価格が1バレル91ドルまで急騰し、同時に金価格も上昇した。複数コモディティの同時上昇が観測されている。詳細な上昇要因は記事概要からは不明。"
   }
 ]
