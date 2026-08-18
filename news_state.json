@@ -2044,5 +2044,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "マイクロ金先物（MGC2612）の取引情報が提示されているのみで、具体的なニュースイベントや価格変動要因が不明確である。単なる銘柄表示・取引プラットフォームの記事リンクと見られる。"
+  },
+  {
+    "title": "本日2026年8月19日の金価格は下落しており、国内価格は世界的な動向に密接に追随し、短期的な投機の場としては機能しなくなっている。 - vietnam.vn",
+    "timestamp": "2026-08-18T14:55:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "本日の金価格は下落。ベトナム国内の金価格は世界的な動向に密接に連動しており、短期的な投機機会が減少している状況を報じている。"
+  },
+  {
+    "title": "原油相場は3日続伸、大きな値動き－米イランの対立は膠着状態 - Bloomberg.com",
+    "timestamp": "2026-08-18T16:05:31+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油は3日続伸で値動きが大きい。米イラン対立は膠着状態が続いており、地政学的緊張の即時的な悪化はない。上昇トレンドは技術的・需給要因に基づくもの。"
+  },
+  {
+    "title": "ホルムズ海峡で再び貨物船攻撃 米イラン停戦崩壊で原油価格が90ドル突破 - BigGo ファイナンス",
+    "timestamp": "2026-08-18T10:47:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡でカーゴ船への攻撃が発生し、米イラン間の停戦が崩壊。世界有数の石油輸送要路における地政学リスクの急激な悪化により、原油価格が90ドルを突破した。"
   }
 ]
