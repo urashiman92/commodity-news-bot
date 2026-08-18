@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日2026年8月16日の金価格は、9週間ぶりの高値水準に達しており、ウォール街では来週のさらなる上昇に大きく賭けている。 - Vietnam.vn",
-    "timestamp": "2026-08-15T14:50:42+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が9週間ぶりの高値水準に到達。ウォール街のアナリストが来週のさらなる上昇を予想している。既に上昇トレンドが形成されている状況の観測記事。"
-  },
-  {
-    "title": "原油価格が急騰し、大手石油会社11社は第2四半期に1210億ドルの利益を上げた。 - Vietnam.vn",
-    "timestamp": "2026-08-15T14:50:42+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "第2四半期に原油価格上昇により大手石油11社が1210億ドルの利益を計上した。既に報じられた価格上昇の結果を事後的に集計したもの。"
-  },
-  {
     "title": "金価格が予想外に10％急騰：複数の銀行が最新の予測を発表。 - Vietnam.vn",
     "timestamp": "2026-08-15T17:01:59+00:00",
     "importance": 3,
@@ -2011,5 +1989,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が8月18日も上昇を続けたというニュース。具体的な上昇率や理由は提供されていない。相場の技術的な振り返りと考えられる。"
+  },
+  {
+    "title": "黒海の混乱が下落を抑制、小麦先物はやや軟調 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-18T13:34:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "小麦先物がやや軟調に推移している中、黒海地域の地政学的混乱が価格下落を抑制する要因となっている。供給懸念が下値を支えており、上下の圧力が拮抗した状況。"
+  },
+  {
+    "title": "黒海の輸出停止で小麦価格が上昇、米国産への需要が拡大 - Межа. Новини України.",
+    "timestamp": "2026-08-18T14:40:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ウクライナ情勢による黒海経由の小麦輸出停止が発生し、世界的な小麦供給逼迫懸念から価格が上昇。米国産小麦への需要が拡大している。"
+  },
+  {
+    "title": "専門家は、来週金価格が再び上昇すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-08-18T11:59:08+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの専門家が来週の金価格上昇を予測している。既存のトレンド分析に基づく観測的なコメント。具体的な新規材料は含まれていない。"
+  },
+  {
+    "title": "USDAが作物状況評価を引き下げ、トウモロコシ先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-18T13:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが作物状況評価を引き下げたことでトウモロコシ先物が上昇。供給見通しの悪化は価格押し上げ要因となった。定期的なUSDA評価発表だが、引き下げ幅の具体的な数値が不明。"
   }
 ]
