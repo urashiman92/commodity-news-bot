@@ -1,16 +1,5 @@
 [
   {
-    "title": "来週の金価格：専門家は上昇シナリオを強く支持している。 - Vietnam.vn",
-    "timestamp": "2026-08-15T07:11:35+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリストらが来週の金価格上昇シナリオを支持しているとの見解が報道されている。専門家の強気コメントが報じられているが、具体的な材料は不明。"
-  },
-  {
     "title": "銅価格が史上最高値の1トン当たり15,000ドルに到達？スーパーサイクルの到来か、それとも2008年の再来か？ - Moomoo",
     "timestamp": "2026-08-15T08:42:13+00:00",
     "importance": 3,
@@ -1934,5 +1923,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ロンドン金価格に連動する新規投信が設定される。国内投資家の金へのアクセス手段が増える。既存商品との差別化は不明。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-08-18T06:30:36+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の現在価格表示のみで、特定のニュースイベントや市場材料を含まない。単なる価格ティッカー情報である。"
   }
 ]
