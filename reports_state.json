@@ -11,17 +11,6 @@
     "summary": "Peter Thielがアルゼンチンのシェールオイル輸出企業Vistaに出資したことが報じられた。同社はパタゴニア地域のシェール油田開発に従事する企業で、Thielのような著名投資家の参入は同国の石油セクターへの信頼感を示唆する。ただし個別企業への投資報道であり、即座の原油価格への大きな影響は限定的。"
   },
   {
-    "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
-    "timestamp": "2026-08-15T16:37:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が原油増産を発表する一方で、実現可能性と需要動向に疑問を呈するコメンタリー。タイトルの「Can it Deliver and Who Will Buy?」という問いかけが、増産計画の実行性と買い手確保の懸念を反映している。市場心理に対して供給拡大は下押し材料だが、実行への信頼度が限定的。"
-  },
-  {
     "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - energynow.com",
     "timestamp": "2026-08-15T19:19:22+00:00",
     "importance": 4,
@@ -691,5 +680,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの主要港を脅かし、ロシアの石油流出が一段と悪化している。同国の主要海上輸送ルートが遮断される危機にあり、供給減少圧力が急速に強まっている。黒海経由の輸出能力が制限されれば、グローバル原油供給への直接的な打撃となる。"
+  },
+  {
+    "title": "Opec-Plus: July Output Bounce Begins to Disappear in August - Energy Intelligence",
+    "timestamp": "2026-08-18T15:15:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC＋が7月に実現した増産は8月に失速し始めているとの報告。加盟国の遵守率低下や技術的制約により、合意した増産ペースの維持が困難化している。市場の需給緩和シナリオが強まり、原油価格への下方圧力が増す可能性。"
+  },
+  {
+    "title": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb - Reuters",
+    "timestamp": "2026-08-18T16:31:13+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "テクノロジー株売却がウォール街を2週間ぶりの安値に押し下げる一方、原油価格と米債利回りは上昇している。金利上昇環境は金などの無利子資産に下落圧力をもたらす可能性があるが、原油は供給懸念や景気敏感性の影響を受けている。市場内での資産配分シフトが顕著。"
+  },
+  {
+    "title": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb - Reuters",
+    "timestamp": "2026-08-18T16:31:13+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "テクノロジー株売却がウォール街を2週間ぶりの安値に押し下げる一方、原油価格と米債利回りは上昇している。金利上昇環境は金などの無利子資産に下落圧力をもたらす可能性があるが、原油は供給懸念や景気敏感性の影響を受けている。市場内での資産配分シフトが顕著。"
+  },
+  {
+    "title": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb - Reuters",
+    "timestamp": "2026-08-18T16:31:13+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "テクノロジー株売却がウォール街を2週間ぶりの安値に押し下げる一方、原油価格と米債利回りは上昇している。金利上昇環境は金などの無利子資産に下落圧力をもたらす可能性があるが、原油は供給懸念や景気敏感性の影響を受けている。市場内での資産配分シフトが顕著。"
+  },
+  {
+    "title": "European shares slip as oil prices and bond yields surge on Middle East fears - Reuters",
+    "timestamp": "2026-08-18T09:19:18+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東情勢の緊張化により原油価格が急騰し、それに連動して債券利回りも上昇。この地政学的リスク要因がリスク資産である欧州株を圧迫する一方、原油は供給懸念で買われ、金は利回り上昇による圧力で複雑な展開。中東由来のエネルギー危機リスクが市場全体に波及している。"
+  },
+  {
+    "title": "European shares slip as oil prices and bond yields surge on Middle East fears - Reuters",
+    "timestamp": "2026-08-18T09:19:18+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "中東情勢の緊張化により原油価格が急騰し、それに連動して債券利回りも上昇。この地政学的リスク要因がリスク資産である欧州株を圧迫する一方、原油は供給懸念で買われ、金は利回り上昇による圧力で複雑な展開。中東由来のエネルギー危機リスクが市場全体に波及している。"
+  },
+  {
+    "title": "European shares slip as oil prices and bond yields surge on Middle East fears - Reuters",
+    "timestamp": "2026-08-18T09:19:18+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中東情勢の緊張化により原油価格が急騰し、それに連動して債券利回りも上昇。この地政学的リスク要因がリスク資産である欧州株を圧迫する一方、原油は供給懸念で買われ、金は利回り上昇による圧力で複雑な展開。中東由来のエネルギー危機リスクが市場全体に波及している。"
   }
 ]
