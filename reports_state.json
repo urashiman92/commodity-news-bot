@@ -625,5 +625,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがホルムズ海峡内からの石油積み出しと販売を再開した。この発表はホルムズ海峡の地政学的リスク軽減を示唆し、供給途絶の懸念が後退することで原油価格の上昇圧力となる。中東の地域紛争やイラン制裁の影響を受けやすい重要な積出地点での供給正常化は、市場に大きな影響を与える。"
+  },
+  {
+    "title": "USDA Crop Report shows corn and soybean quality ratings decline - Farm Progress",
+    "timestamp": "2026-08-18T11:40:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポートでトウモロコシと大豆の品質格付けが低下したことが示された。品質低下は収穫量や等級別流通に影響し、最終的な収益性と市場供給に懸念を生じさせる。具体的な格付け低下率は記事から確認不可だが、作物品質の悪化は相場の下押し圧力となる可能性がある。"
+  },
+  {
+    "title": "USDA Crop Report shows corn and soybean quality ratings decline - Farm Progress",
+    "timestamp": "2026-08-18T11:40:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progressレポートでトウモロコシと大豆の品質格付けが低下したことが示された。品質低下は収穫量や等級別流通に影響し、最終的な収益性と市場供給に懸念を生じさせる。具体的な格付け低下率は記事から確認不可だが、作物品質の悪化は相場の下押し圧力となる可能性がある。"
+  },
+  {
+    "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
+    "timestamp": "2026-08-18T12:51:16+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
+  },
+  {
+    "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
+    "timestamp": "2026-08-18T12:51:16+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
+  },
+  {
+    "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
+    "timestamp": "2026-08-18T12:51:16+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
   }
 ]
