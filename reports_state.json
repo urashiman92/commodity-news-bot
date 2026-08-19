@@ -1065,5 +1065,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国債利回りが数十年ぶりの高水準に上昇し、金価格が下落している。無利子資産である金は利回り上昇局面で売却圧力を受けやすく、高い実質金利環境では需要が減少する傾向。債券利回り急騰はマクロリスク資産全般に影響を与える環境を示唆。"
+  },
+  {
+    "title": "Cattle Futures Decline Amid Plant Closures and USDA Reports - agronews.com",
+    "timestamp": "2026-08-19T06:45:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国の食肉処理施設の閉鎖によって畜牛市場に供給ショックが生じており、先物価格が下落している。USDA報告書と相まって、畜牛および関連食肉コモディティの需給構造に変化が生じている可能性が高い。処理能力の制約は肉牛販売圧力につながり、価格下押し要因として作用している。"
+  },
+  {
+    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - energynow.com",
+    "timestamp": "2026-08-18T15:08:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC内での石油生産枠の拡大を要求している。同国は財政難と新規油田開発への投資需要が背景にあり、現在の割り当てでは十分な歳入確保が難しい状況。OPEC内での生産枠配分をめぐる交渉は継続中。"
   }
 ]
