@@ -110,17 +110,6 @@
     "summary": "ベトナムの国内金価格が世界価格に接近している。専門家は来週も上昇継続を予測している。国内市場の価格収束を示す観測記事。"
   },
   {
-    "title": "波场 TRON 業界週報：根強いインフレと原油価格が BTC 反発に影響を及ぼす可能性 - odaily.news",
-    "timestamp": "2026-08-16T06:59:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "TRON業界レポートで、インフレ持続と原油価格がBTC反発に影響する可能性を指摘。暗号資産とコモディティの関連性についての解説記事。具体的な原油価格動向や数値データは記事概要では不明。"
-  },
-  {
     "title": "【写真】原油価格、13週連続下落 - 매일경제",
     "timestamp": "2026-08-16T08:55:43+00:00",
     "importance": 3,
@@ -2231,5 +2220,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "BHPの利益が30%増加し、銅が鉱山事業の収益性で鉄鉱石を上回った。配当が4年ぶりの高水準に設定された。エネルギー転換需要を背景とした銅相場の強さが反映されている。"
+  },
+  {
+    "title": "世界の金価格がなぜ突然急落したのか？ - Vietnam.vn",
+    "timestamp": "2026-08-19T07:11:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落した背景について解説するニュース記事。具体的な下落理由（ドル上昇、金利上昇、リスク選好度の向上など）が記事に含まれている可能性が高い。現在の相場状況を振り返るコンテンツと推定される。"
+  },
+  {
+    "title": "原油価格が3週間ぶりの高値に上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-19T06:31:21+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が3週間ぶりの高値に上昇した。具体的なドライバーや材料が記事概要に明記されていない。既に市場で織り込まれている可能性が高い。"
   }
 ]
