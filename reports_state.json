@@ -1021,5 +1021,49 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME銅在庫が63,000トン増加し、市場の供給逼迫感が緩和された。バックワーデーション（先物プレミアム）の縮小は、物理的な供給不足が解消に向かっていることを示唆している。在庫増加により銅の需給バランスが改善し、価格上昇圧力が減少。"
+  },
+  {
+    "title": "Argentina’s July Corn Exports Hit Record as Bumper Crop Offsets Harvest Delays - Successful Farming",
+    "timestamp": "2026-08-17T10:58:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "アルゼンチンが7月のトウモロコシ輸出で記録的な水準を達成した。豊作により収穫の遅延がオフセットされた。大幅な供給増加がグローバル市場に供給圧力を加える可能性が高い。"
+  },
+  {
+    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
+    "timestamp": "2026-08-18T15:26:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEのOPEC脱退の可能性について、アナリストのRussell氏は予想ほど原油価格に影響しないとの見方を示�ている。これはUAEの生産量がOPEC内で限定的であり、市場全体への供給ショックが限定的と解釈される。既報されている動向の続報的位置付けであり、新規の価格材料としての重要度は低い。"
+  },
+  {
+    "title": "Gold retreats as bond yields surge to highest levels in decades - Reuters",
+    "timestamp": "2026-08-18T01:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りが数十年ぶりの高水準に上昇し、金価格が下落している。無利子資産である金は利回り上昇局面で売却圧力を受けやすく、高い実質金利環境では需要が減少する傾向。債券利回り急騰はマクロリスク資産全般に影響を与える環境を示唆。"
+  },
+  {
+    "title": "Gold retreats as bond yields surge to highest levels in decades - Reuters",
+    "timestamp": "2026-08-18T01:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国債利回りが数十年ぶりの高水準に上昇し、金価格が下落している。無利子資産である金は利回り上昇局面で売却圧力を受けやすく、高い実質金利環境では需要が減少する傾向。債券利回り急騰はマクロリスク資産全般に影響を与える環境を示唆。"
   }
 ]
