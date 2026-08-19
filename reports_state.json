@@ -999,5 +999,16 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "2026年8月19日のEIA週間石油在庫統計では、原油在庫が増加する一方、ガソリン価格は大幅に跳ね上がった。在庫増加は供給圧力を示唆するが、同時にガソリン価格の上昇は需要堅調または精製能力制約を示唆しており、相反する信号となっている。"
+  },
+  {
+    "title": "United States EIA Crude Oil Stocks Change above forecasts (-0.6M) in August 14: Actual (4.405M) - FXStreet",
+    "timestamp": "2026-08-19T14:30:57+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国のEIA原油在庫が8月14日に440.5万バレルの増加となり、市場予想の減少（-60万バレル）を大幅に上回った。在庫が予想に反して増加したことで、需要弱化またはサプライ過剰の懸念が浮上し、原油価格の下押し圧力となる可能性がある。"
   }
 ]
