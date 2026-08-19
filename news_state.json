@@ -22,17 +22,6 @@
     "summary": "金価格が今週急騰すると予想されているとの報道。具体的な材料や根拠は記事概要からは不明。アナリスト見解の類と推定される。"
   },
   {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議の不透明感が高まり、原油価格は3営業日ぶりに上昇（2026年8月17日） - oanda.jp",
-    "timestamp": "2026-08-16T23:18:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの和平協議の不透明感により、地政学的リスク懸念が再燃。3営業日ぶりにWTI原油が上昇。既報事象の相場解説記事である。"
-  },
-  {
     "title": "イランが米軍にホルムズ海峡の通行禁止令 国際原油価格と金が早朝一斉に上昇 - BigGo ファイナンス",
     "timestamp": "2026-08-17T00:05:00+00:00",
     "importance": 5,
@@ -2462,5 +2451,38 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "19日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や変動要因の詳細は記事本文にアクセスが必要。"
+  },
+  {
+    "title": "8月20日朝の金価格更新:1オンスあたり4,500米ドルに迫る - Laodong.vn",
+    "timestamp": "2026-08-19T23:29:50+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,500米ドルに接近している。継続的な上昇トレンドが報道されている。既に織り込まれている価格水準への到達を伝えるニュース。"
+  },
+  {
+    "title": "金価格4,360ドル：FRB議事録が利上げ確率28～33%を試す - FinanceFeeds",
+    "timestamp": "2026-08-19T19:11:42+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRB議事録から次回利上げ確率が28～33%と低い水準であることが確認された。金は実質金利低下の期待が支援し、4,360ドル近辺で推移している。利上げ観測の後退は金に強気要因。"
+  },
+  {
+    "title": "NY外為：ドル下げ止まる、原油価格が上昇、UAEイラン関係悪化 - 株探",
+    "timestamp": "2026-08-19T17:22:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "UAE・イラン関係の悪化が地政学的リスクとして認識され、原油価格が上昇。ドル安基調が一服する中で、供給懸念が相場を支える形となっている。"
   }
 ]
