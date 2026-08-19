@@ -2451,5 +2451,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "DRDGOLDの2026年度利益が金価格上昇により急増見込み。既知の金価格上昇トレンドの企業業績への波及を報じた記事。金採掘企業の収益性向上を示唆。"
+  },
+  {
+    "title": "世界の金価格は突如として急騰し、1オンスあたり152ドル近くに達した。 - vietnam.vn",
+    "timestamp": "2026-08-19T19:47:15+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス152ドル近くまで急騰したとの報道。ただしニュースソースが限定的で、具体的な上昇要因が不明。既に市場で織り込まれた動きの事後報告の可能性が高い。"
+  },
+  {
+    "title": "NY外為：ドル下げ止まる、原油価格が上昇、UAEイラン関係悪化 - ｄメニューニュース",
+    "timestamp": "2026-08-19T17:22:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "UAE・イラン関係の悪化により地政学的リスクが高まり、原油価格が上昇。ドル安基調も支援材料。中東の緊張が原油供給リスク要因として認識されている。"
+  },
+  {
+    "title": "銅価格は$6.3434のサポート付近で推移しており、売られ過ぎの状況がさらなる売り圧力を抑えています。 - Traders Union",
+    "timestamp": "2026-08-19T12:19:34+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は$6.3434のサポートレベル付近で推移中。売られ過ぎ（オーバーソールド）の状況が下値を支えており、これ以上の売り圧力が限定的と指摘されている。"
   }
 ]
