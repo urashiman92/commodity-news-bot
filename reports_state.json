@@ -812,5 +812,38 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME(ロンドン金属取引所)の銅在庫が急増している。市場は需要動向を注視しており、在庫積み上がりは需要弱化の可能性を示唆する。銅価格は需給バランスの悪化圧力に直面している。"
+  },
+  {
+    "title": "Distillate Stocks Sink Further as US Crude Inventories Barely Budge - Investing.com",
+    "timestamp": "2026-08-19T06:03:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計で、米国原油在庫がほぼ横ばいだった一方、留分油（ディーゼル等）在庫が継続的に低下した。供給面での逼迫感が徐々に高まっており、エネルギーコモディティの需給構造に対する市場の懸念が反映されている。"
+  },
+  {
+    "title": "Distillate Stocks Sink Further as US Crude Inventories Barely Budge - Investing.com",
+    "timestamp": "2026-08-19T06:03:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計で、米国原油在庫がほぼ横ばいだった一方、留分油（ディーゼル等）在庫が継続的に低下した。供給面での逼迫感が徐々に高まっており、エネルギーコモディティの需給構造に対する市場の懸念が反映されている。"
+  },
+  {
+    "title": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz - reuters.com",
+    "timestamp": "2026-08-18T16:22:27+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがホルムズ海峡内からの石油積み出しと販売を再開した。同海峡は世界の海上石油輸送の約30%が通過する極めて重要な地点であり、供給リスクが軽減されることで市場は緊張緩和を評価。地政学的リスクプレミアムの縮小が予想される。"
   }
 ]
