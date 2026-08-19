@@ -1087,5 +1087,60 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "イラクがOPEC内での石油生産枠の拡大を要求している。同国は財政難と新規油田開発への投資需要が背景にあり、現在の割り当てでは十分な歳入確保が難しい状況。OPEC内での生産枠配分をめぐる交渉は継続中。"
+  },
+  {
+    "title": "CBOT Weekly: Corn cuts stand out in August WASDE - Farmtario",
+    "timestamp": "2026-08-19T16:10:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE（米農務省作物見通し）でトウモロコシの生産予想が引き下げられた。CBOTのトウモロコシ先物は売り圧力を受けたが、市場予想の範囲内での調整。供給見通しの悪化にもかかわらず、下げ幅は限定的。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-08-18T20:45:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農務省の定期的な作物進捗レポート（Crop Progress）は、トウモロコシ、小麦、大豆などの生育段階と作付面積の現況を報告する。本レポートは予定された週次統計であり、市場はすでに同時期の平年値との比較を織り込んでいる可能性が高い。具体的な数値が提示されていないため、予想比のサプライズ度は判断不可。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-08-18T20:45:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国農務省の定期的な作物進捗レポート（Crop Progress）は、トウモロコシ、小麦、大豆などの生育段階と作付面積の現況を報告する。本レポートは予定された週次統計であり、市場はすでに同時期の平年値との比較を織り込んでいる可能性が高い。具体的な数値が提示されていないため、予想比のサプライズ度は判断不可。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-08-18T20:45:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農務省の定期的な作物進捗レポート（Crop Progress）は、トウモロコシ、小麦、大豆などの生育段階と作付面積の現況を報告する。本レポートは予定された週次統計であり、市場はすでに同時期の平年値との比較を織り込んでいる可能性が高い。具体的な数値が提示されていないため、予想比のサプライズ度は判断不可。"
+  },
+  {
+    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - EnergyNow.com",
+    "timestamp": "2026-08-18T15:08:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC内での生産枠の拡大を要求している。財政収入圧力と新規油田投資の必要性が背景。同国の増産意欲は供給サイドの潜在圧力となり、OPECの減産合意の実行難易度が上昇する可能性がある。"
   }
 ]
