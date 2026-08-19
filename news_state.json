@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格は本日8月16日も安定していたものの、買い手は依然として大きな損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-08-16T13:32:57+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は8月16日も安定した推移となった。しかし買い手は依然として大きな損失を被っているという市場観測。既に織り込まれた相場局面の振り返り解説。"
-  },
-  {
-    "title": "金価格は本日2026年8月17日、上昇を加速させる余地があり、専門家は現在損失を出している投資家に対し出口戦略を提案しており、市場には「火付け役」が必要だ。 - Vietnam.vn",
-    "timestamp": "2026-08-16T13:22:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は上昇余地があるとの専門家見解。損失投資家の出口戦略や市場の「火付け役」の必要性が指摘されている。既に報告済みの相場観に基づくコメンタリー。"
-  },
-  {
-    "title": "テスラ 新車を発表 急速充電の料金を“3年間無料”に イラン情勢による原油価格高騰を逆手にEV普及を狙う｜TBS NEWS DIG Austin Weather (s2aQ2o9TYK) - Mshale",
-    "timestamp": "2026-08-16T12:56:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "テスラが新車発表時に充電3年無料キャンペーンを実施。イラン情勢による原油高騰を背景にEV普及促進を狙う戦略。EV需要増加は長期的に石油需要減少圧力となる。"
-  },
-  {
     "title": "国内の金価格は世界価格にますます近づいており、専門家は来週も価格が上昇し続けると予測している。 - Vietnam.vn",
     "timestamp": "2026-08-16T15:43:01+00:00",
     "importance": 2,
@@ -2352,5 +2319,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル円相場が原油価格と連動して上昇一服との相場観。為替と原油の相関性についての解説記事。具体的な原油価格動向の材料は記載されていない。"
+  },
+  {
+    "title": "世界の金価格、約2%の急落後、再び上昇 - Laodong.vn",
+    "timestamp": "2026-08-19T12:44:42+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が約2%の急落後に再び上昇した。短期的な変動の振り返り記事。トレンド転換や新規材料に乏しい。"
+  },
+  {
+    "title": "2026年8月19日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-19T10:14:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場観測記事。技術的な市場データの更新情報であり、コモディティ価格の直接的な変動要因ではない。"
+  },
+  {
+    "title": "本日8月19日の金価格は、全面的に急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-19T12:59:32+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月19日に金価格が全面的に急落した。金現物市場での売り圧力が生じている。市場の定期的な値動きの報告と見られる。"
+  },
+  {
+    "title": "貿易摩擦と需要急増により、銅価格は過去最高値を更新した。 - Vietnam.vn",
+    "timestamp": "2026-08-19T12:59:32+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高値を更新。米中間の貿易摩擦激化と世界的な需要増加が背景。EVやインフラ投資需要が支援材料となっている。"
   }
 ]
