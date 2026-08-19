@@ -1010,5 +1010,16 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国のEIA原油在庫が8月14日に440.5万バレルの増加となり、市場予想の減少（-60万バレル）を大幅に上回った。在庫が予想に反して増加したことで、需要弱化またはサプライ過剰の懸念が浮上し、原油価格の下押し圧力となる可能性がある。"
+  },
+  {
+    "title": "LME Copper Stocks Jump 63,000 Tonnes, Narrowing Backwardation and Easing Tightness - News and Statistics - IndexBox",
+    "timestamp": "2026-08-19T17:40:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "LME銅在庫が63,000トン増加し、市場の供給逼迫感が緩和された。バックワーデーション（先物プレミアム）の縮小は、物理的な供給不足が解消に向かっていることを示唆している。在庫増加により銅の需給バランスが改善し、価格上昇圧力が減少。"
   }
 ]
