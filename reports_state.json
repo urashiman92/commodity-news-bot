@@ -922,5 +922,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシア西部港からの石油輸出が計画比15%下回っているとトレーダーが報告。制裁やインフラ制約による供給減少が示唆され、グローバルな供給逼迫圧力が強まる可能性がある。ウクライナ情勢の継続的な影響を反映。"
+  },
+  {
+    "title": "Relatively tame August WASDE from the USDA this year - graincentral.com",
+    "timestamp": "2026-08-18T06:42:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のUSDA WASDE発表は市場予想の範囲内で大きなサプライズがなく、比較的おとなしい内容となった。定期的な穀物供給見通しの更新であり、既存のポジションに対する大きな再評価材料には乏しい。"
+  },
+  {
+    "title": "Relatively tame August WASDE from the USDA this year - graincentral.com",
+    "timestamp": "2026-08-18T06:42:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "8月のUSDA WASDE発表は市場予想の範囲内で大きなサプライズがなく、比較的おとなしい内容となった。定期的な穀物供給見通しの更新であり、既存のポジションに対する大きな再評価材料には乏しい。"
+  },
+  {
+    "title": "Relatively tame August WASDE from the USDA this year - graincentral.com",
+    "timestamp": "2026-08-18T06:42:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月のUSDA WASDE発表は市場予想の範囲内で大きなサプライズがなく、比較的おとなしい内容となった。定期的な穀物供給見通しの更新であり、既存のポジションに対する大きな再評価材料には乏しい。"
+  },
+  {
+    "title": "Sunflower seeds: USDA maintains record crop forecast - Mundus Agri",
+    "timestamp": "2026-08-18T10:57:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが2024年のヒマワリ種子作付面積を過去最高水準で据え置いた。記録的な作付面積の維持は、油糧種子市場全体での供給増加を意味し、大豆などの競合油糧種子への下落圧力となる。市場予想範囲内の据え置きで大きなサプライズはなし。"
+  },
+  {
+    "title": "Sunflower seeds: USDA maintains record crop forecast - Mundus Agri",
+    "timestamp": "2026-08-18T10:57:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが2024年のヒマワリ種子作付面積を過去最高水準で据え置いた。記録的な作付面積の維持は、油糧種子市場全体での供給増加を意味し、大豆などの競合油糧種子への下落圧力となる。市場予想範囲内の据え置きで大きなサプライズはなし。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Status Report August 19, 2026: Crude Stocks Up, Gasoline Prices Jump - News and Statistics - IndexBox",
+    "timestamp": "2026-08-19T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "2026年8月19日のEIA週間石油在庫統計では、原油在庫が増加する一方、ガソリン価格は大幅に跳ね上がった。在庫増加は供給圧力を示唆するが、同時にガソリン価格の上昇は需要堅調または精製能力制約を示唆しており、相反する信号となっている。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Status Report August 19, 2026: Crude Stocks Up, Gasoline Prices Jump - News and Statistics - IndexBox",
+    "timestamp": "2026-08-19T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "2026年8月19日のEIA週間石油在庫統計では、原油在庫が増加する一方、ガソリン価格は大幅に跳ね上がった。在庫増加は供給圧力を示唆するが、同時にガソリン価格の上昇は需要堅調または精製能力制約を示唆しており、相反する信号となっている。"
   }
 ]
