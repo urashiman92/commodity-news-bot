@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界最大の石油会社11社が、1200億ドル以上もの利益を計上した。 - Vietnam.vn",
-    "timestamp": "2026-08-16T07:51:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界最大の石油会社11社が1200億ドル以上の利益を計上した。高油価環境下での企業の好業績を報じるもの。既に市場に織り込まれた事象の事後報告。"
-  },
-  {
     "title": "本日（8月16日午後）の金価格：SJCゴールドは1オンスあたり1億4400万ベトナムドンで販売価格を維持しています。 - vietnam.vn",
     "timestamp": "2026-08-16T08:34:10+00:00",
     "importance": 1,
@@ -2242,5 +2231,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が3週間ぶりの高値に上昇した。具体的なドライバーや材料が記事概要に明記されていない。既に市場で織り込まれている可能性が高い。"
+  },
+  {
+    "title": "アジアの金価格は、米連邦準備制度理事会（FRB）からの手がかりを待つ中、小幅に上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-19T07:49:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アジアの金価格が小幅上昇。FRBからの政策手がかりを市場が注視している状況。特段の材料はなく、方向感を模索する相場環境。"
+  },
+  {
+    "title": "本日の燃料価格（8月19日）：世界の原油価格が3週間ぶりの高値に上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-19T08:16:39+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が3週間ぶりの高値に上昇した。ただしニュースは価格変動の事実報告に過ぎず、具体的な供給/需要ショック要因は記載されていない。"
+  },
+  {
+    "title": "銅は無視できない存在になりつつあります。 - Moomoo",
+    "timestamp": "2026-08-19T06:37:56+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅が市場で無視できない存在になりつつあるというコメンタリー記事。具体的なファンダメンタルズや価格予想は提示されていない。"
   }
 ]
