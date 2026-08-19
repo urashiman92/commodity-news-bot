@@ -1,16 +1,5 @@
 [
   {
-    "title": "専門家は来週、金価格が上昇すると予測している。 - Vietnam.vn",
-    "timestamp": "2026-08-16T00:37:52+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "専門家が来週の金価格上昇を予測。ただし具体的な根拠や市場要因の詳細が不明。アナリスト見解の域を出ないニュース。"
-  },
-  {
     "title": "金価格が急騰、予想を覆す動き：金を買い集めている「大物投資家」とは？ - Vietnam.vn",
     "timestamp": "2026-08-16T01:02:04+00:00",
     "importance": 3,
@@ -119,17 +108,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格動向に関する週間レポート。SJC、バオティンミンチャウ、ドージ、フークイなど複数の国内金販売業者の価格変動を記録したもの。"
-  },
-  {
-    "title": "暗号資産のテザー、金購入の理由 Why Is Tether Looking Like a Central Bank?｜【WEEKLY】2026年8月16日号 - バロンズ・ダイジェスト",
-    "timestamp": "2026-08-16T00:04:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "暗号資産テザーが金を購入し、中央銀行のような行動を取り始めている。資産の裏付けとしての金購入は、ステーブルコイン信頼性向上を示唆。金需要の新規セクターとしての暗号資産発行体の台頭。"
   },
   {
     "title": "今日の金価格 8月16日:1週間で420万ドン/テールの巨額損失 - Laodong.vn",
@@ -2187,5 +2165,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの和平協議進展の鈍化により、中東地政学リスクが高まったと解釈され、原油価格が3営業日連続で上昇。供給リスク懸念が価格を支援している。"
+  },
+  {
+    "title": "投資ファンドが売り浴びせ、金価格が下落。 - Vietnam.vn",
+    "timestamp": "2026-08-19T00:19:03+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "投資ファンドによる売却により金価格が下落した。短期的な売り圧力による技術的な下げで、構造的な変化ではない。"
+  },
+  {
+    "title": "米イラン対立が激化、UAEがイランとの取引を停止 金価格と原油価格の動きはまちまち - BigGo ファイナンス",
+    "timestamp": "2026-08-18T23:26:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米イラン対立が激化し、UAEがイランとの取引を停止。金価格と原油価格の反応は対照的。地政学リスク懸念は限定的に映る。"
+  },
+  {
+    "title": "原油相場は3日続伸、大きな値動き－米イランの対立は膠着状態 - TBS NEWS DIG",
+    "timestamp": "2026-08-19T00:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が3日続伸し大きな値動きを見せている。米イラン対立は膠着状態が続いており、地政学的リスク材料は限定的。相場の技術的な反発局面を述べた解説記事。"
+  },
+  {
+    "title": "イランと米国のホルムズ海峡をめぐる対立が続き、原油価格が4日続伸 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-19T00:14:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランと米国のホルムズ海峡をめぐる対立が継続している。4日連続で原油価格が上昇しており、地政学的リスクプレミアムが市場に反映されている。"
+  },
+  {
+    "title": "１８日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-08-18T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "18日の主要国際商品市況に関する定期的な市場報告。具体的な価格データや市況詳細が示されていないため、詳細な分析が不可能。"
   }
 ]
