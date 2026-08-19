@@ -1,16 +1,5 @@
 [
   {
-    "title": "8月16日の金価格：金価格は1オンスあたり4,350ドル以上を維持、専門家はどのような予測を立てているのか？ - Vietnam.vn",
-    "timestamp": "2026-08-16T05:00:46+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月16日時点で金価格が1オンス4,350ドル超で推移している現況報告。専門家による将来予測を含むコメンタリー記事。具体的な新規ニュースイベントではなく相場の解説。"
-  },
-  {
     "title": "8月16日現在の金価格：SJCの金、バオティンミンチャウの金指輪、ドージ、フークイの金価格は、1週間でどのように変動したのでしょうか？ - Vietnam.vn",
     "timestamp": "2026-08-16T06:05:13+00:00",
     "importance": 1,
@@ -163,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "TRON業界レポートで、インフレ持続と原油価格がBTC反発に影響する可能性を指摘。暗号資産とコモディティの関連性についての解説記事。具体的な原油価格動向や数値データは記事概要では不明。"
-  },
-  {
-    "title": "国内の金価格は現在、世界価格よりわずか500万ベトナムドン高いだけだ。 - Vietnam.vn",
-    "timestamp": "2026-08-16T04:34:33+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が世界価格とほぼ同水準に接近し、国内プレミアムが500万VND（約25-30USD相当）に縮小。通常の流動性指標を示すローカル市場情報。"
   },
   {
     "title": "【写真】原油価格、13週連続下落 - 매일경제",
@@ -2231,5 +2209,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が4日続伸し、ホルムズ海峡を巡る地政学的不透明感が相場を支持。供給リスク要因が価格下支え要因として機能している状況を分析。"
+  },
+  {
+    "title": "本日（8月19日）の金価格：急落 - Vietnam.vn",
+    "timestamp": "2026-08-19T03:45:37+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月19日の金価格が急落したというニュース。具体的な下落要因や数値が記載されていない。市場の日々の値動きに関する速報的なポジショニング記事。"
+  },
+  {
+    "title": "金価格が1オンスあたり4,400ドルを突破。米国の経済指標と連邦準備制度理事会（FRB）はこれにどのような影響を与えるのか？ - Vietnam.vn",
+    "timestamp": "2026-08-19T04:30:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり4,400ドルを突破した。米国の経済指標とFRBの政策が価格動向に影響を与えている。金は伝統的にインフレヘッジと低金利環境で買われやすい。"
   }
 ]
