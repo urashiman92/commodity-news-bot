@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格は上昇しているが、購入者は依然として損失を出している。 - Vietnam.vn",
-    "timestamp": "2026-08-16T03:37:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は上昇しているものの、過去の高値での購入者が依然として損失を抱えている状況を指摘するコメンタリー。現在の価格上昇が過去のピークに追いついていないことを示唆している。"
-  },
-  {
-    "title": "本日の燃料価格（8月16日）：世界の原油価格が上昇した1週間。 - Vietnam.vn",
-    "timestamp": "2026-08-16T03:30:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月16日時点で世界の原油価格が1週間で上昇したことを報じた記事。ベトナムの燃料価格トレンド解説。既に発生済みの価格動向の振り返り。"
-  },
-  {
-    "title": "今日のガソリン価格 8月16日:世界の原油価格が7%以上上昇 - Laodong.vn",
-    "timestamp": "2026-08-16T03:57:51+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月16日時点で世界の原油価格が7%以上上昇したとの報道。ベトナムのガソリン価格への影響を解説するコメンタリー記事。既に市場で織り込まれた価格変動の事後的な説明。"
-  },
-  {
-    "title": "今日の金価格：振り出しに戻る。専門家の90％が来週の価格上昇を予測。 - Vietnam.vn",
-    "timestamp": "2026-08-16T03:28:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が直近の変動から振り出しに戻る動きを見せている。アナリスト90%が来週の価格上昇を予測しており、市場センチメントは強気基調。ただし既に織り込まれた観測値である可能性が高い。"
-  },
-  {
     "title": "8月16日の金価格：金価格は1オンスあたり4,350ドル以上を維持、専門家はどのような予測を立てているのか？ - Vietnam.vn",
     "timestamp": "2026-08-16T05:00:46+00:00",
     "importance": 2,
@@ -2264,5 +2220,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月19日時点で世界原油価格が3週間ぶりの高値を更新。市場内での相対的な価格上昇を報じているが、具体的な上昇要因や数値が不明確。"
+  },
+  {
+    "title": "原油先物は4日続伸、ホルムズ海峡巡る不透明感続く（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-08-19T01:16:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が4日続伸し、ホルムズ海峡を巡る地政学的不透明感が相場を支持。供給リスク要因が価格下支え要因として機能している状況を分析。"
   }
 ]
