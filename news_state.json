@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格最新情報、2026年8月17日午前：SJC、プレーンゴールドリング9999 BTMC DOJI Phu Quy - Vietnam.vn",
-    "timestamp": "2026-08-16T21:11:17+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC、BTMC、DOJI、Phu Quyなど複数の小売業者における金の現物（プレーンゴールドリング9999）の価格情報の日次更新。ローカル市場の参考相場を示すもの。"
-  },
-  {
     "title": "2026年8月17日の金価格：SJC金価格、9999金リング価格、および週初めの世界金価格。 - Vietnam.vn",
     "timestamp": "2026-08-16T22:00:00+00:00",
     "importance": 1,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格に関する定期的な価格情報報道。SJC金とグローバル金価格の週初相場を記録したニュース。市場動向を示すものだが、新規情報や変動要因は含まれていない。"
-  },
-  {
-    "title": "1.2兆ウォンの赤字だったのに8.8兆ウォンの黒字を記録した石油精製4社...石油化学各社は「売れば売るほど損」の懸念 - 매일경제",
-    "timestamp": "2026-08-16T21:08:58+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "韓国の石油精製4社が前年度の1.2兆ウォン赤字から8.8兆ウォン黒字へ転換。一方、石油化学企業は原料高・製品安で採算悪化懸念との対比報道。"
   },
   {
     "title": "本日（8月17日）の金価格：絶えず変動しています。 - Vietnam.vn",
@@ -2495,5 +2473,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン協議が予定されていない状況が続き、地政学的緊張が解けていない。ホルムズ海峡を通じた原油供給途絶リスクが市場で警戒されており、原油価格は高値圏で推移している。"
+  },
+  {
+    "title": "金相場復活なら連動高も､営業益3.6倍の資源リサイクル株 - 四季報オンライン",
+    "timestamp": "2026-08-19T21:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の回復シナリオを背景に、資源リサイクル企業の営業益が3.6倍まで拡大する可能性を指摘。金価格上昇時にこうした関連企業の株価が連動上昇することを示唆している。"
+  },
+  {
+    "title": "ウェルズ・ファーゴが2026年の金価格予測を大幅に下方修正：熱狂はそろそろ冷める時なのか？ - Vietnam.vn",
+    "timestamp": "2026-08-19T19:23:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ウェルズ・ファルゴが2026年の金価格見通しを下方修正。高い金価格は調整局面を迎える可能性を示唆。金の過熱感が冷める時期が来たとの見方。"
+  },
+  {
+    "title": "NY外為：ドル下げ止まる、原油価格が上昇、UAEイラン関係悪化｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-19T17:29:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "UAE・イラン関係が悪化し、中東地政学リスクが高まった。原油価格が上昇している。ドル下げ止まりの動きも相場を支援。"
   }
 ]
