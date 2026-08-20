@@ -11,28 +11,6 @@
     "summary": "紅海情勢の悪化により、アジア製油所がサウジアラビア産原油の引き取り場所を紅海外での積み替えを要求。地政学的リスク回避行動が活発化。海上輸送リスク増加により、迂回ルート利用による輸送コスト上昇と供給経路の多様化圧力が生じている。"
   },
   {
-    "title": "Korea Eximbank to Lend $1 Billion to Glencore for Copper Supply - Bloomberg.com",
-    "timestamp": "2026-08-17T03:36:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "韓国輸出入銀行（Korea Eximbank）がグレンコア社に10億ドルの融資を提供し、銅供給の確保・安定化を支援する発表。銅鉱山開発やサプライチェーン強化への融資であり、供給側からのサポートが明示された。銅需要が堅調な中で供給の安定性が高まる見通し。"
-  },
-  {
-    "title": "Korea Eximbank to Lend $1 Billion to Glencore for Copper Supply - Bloomberg.com",
-    "timestamp": "2026-08-17T03:36:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "韓国輸出入銀行（Korea Eximbank）がグレンコア社に10億ドルの融資を提供し、銅供給の確保・安定化を支援する発表。銅鉱山開発やサプライチェーン強化への融資であり、供給側からのサポートが明示された。銅需要が堅調な中で供給の安定性が高まる見通し。"
-  },
-  {
     "title": "Saudis Offer Oil From Near Oman in Possible Sign of Shuttling - bloomberg.com",
     "timestamp": "2026-08-17T13:38:50+00:00",
     "importance": 3,
@@ -1208,5 +1186,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "金",
     "summary": "金価格が6月初旬の高値付近で推移している。債券利回りの低下が主な支援材料となっており、低金利環境が金（無利子資産）の相対的な魅力を高めている。テクニカル的には重要なレジスタンスレベルでの値動きに注目が集まっている。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Rise, Distillate Stocks Fall – EIA - EnergyNow.com",
+    "timestamp": "2026-08-19T21:39:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計で米国原油とガソリン在庫が増加した一方、留分油（ディーゼル）在庫は減少。在庫動向の分散は、エネルギー需給の不均衡を示唆。具体的な数値が明記されていないため詳細評価は困難だが、在庫増加は需要弱さの可能性を反映。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Rise, Distillate Stocks Fall – EIA - EnergyNow.com",
+    "timestamp": "2026-08-19T21:39:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計で米国原油とガソリン在庫が増加した一方、留分油（ディーゼル）在庫は減少。在庫動向の分散は、エネルギー需給の不均衡を示唆。具体的な数値が明記されていないため詳細評価は困難だが、在庫増加は需要弱さの可能性を反映。"
   }
 ]
