@@ -473,39 +473,6 @@
     "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
   },
   {
-    "title": "USDA August Crop Report Notes Lower Row Crop Yields - DTN Progressive Farmer",
-    "timestamp": "2026-08-17T08:23:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA8月穀物報告書で主要穀物（トウモロコシ・大豆・小麦）の作付面積予想が下方修正され、単収見通しが低下。特にトウモロコシと大豆の作況不良が顕著で、干ばつなど気象リスクが供給逼迫シナリオを強化。商品相場の上昇圧力が強まる見通し。"
-  },
-  {
-    "title": "USDA August Crop Report Notes Lower Row Crop Yields - DTN Progressive Farmer",
-    "timestamp": "2026-08-17T08:23:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA8月穀物報告書で主要穀物（トウモロコシ・大豆・小麦）の作付面積予想が下方修正され、単収見通しが低下。特にトウモロコシと大豆の作況不良が顕著で、干ばつなど気象リスクが供給逼迫シナリオを強化。商品相場の上昇圧力が強まる見通し。"
-  },
-  {
-    "title": "USDA August Crop Report Notes Lower Row Crop Yields - DTN Progressive Farmer",
-    "timestamp": "2026-08-17T08:23:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA8月穀物報告書で主要穀物（トウモロコシ・大豆・小麦）の作付面積予想が下方修正され、単収見通しが低下。特にトウモロコシと大豆の作況不良が顕著で、干ばつなど気象リスクが供給逼迫シナリオを強化。商品相場の上昇圧力が強まる見通し。"
-  },
-  {
     "title": "Energy Stocks Soar to Record as Oil Rises on Trump’s Hard Line - Bloomberg.com",
     "timestamp": "2026-08-18T13:59:04+00:00",
     "importance": 4,
@@ -1307,5 +1274,49 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要減速の見込みは、原油相場の上値を抑制する圧力となる。2026年の需要成長が市場予想より弱いシナリオは、価格軟化圧力として機能するが、既に一部で予想された内容の可能性が高い。"
+  },
+  {
+    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
+    "timestamp": "2026-08-19T21:10:46+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストのBousso氏は、湾岸地域の戦後の市場シェア争いでOPECが劣位になる可能性を指摘。サウジアラビアやUAEなど湾岸産油国による増産競争がOPEC全体の価格支配力を弱める見通し。市場シェア重視の動きが原油価格に下向き圧力となる可能性。"
+  },
+  {
+    "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks - Reuters",
+    "timestamp": "2026-08-20T06:28:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "小麦",
+    "summary": "黒海地域での攻撃により、世界の小麦供給に対する懸念が急速に高まっている。ウクライナは世界の小麦輸出の重要な供給源であり、同地域からの輸出途絶は世界的な供給逼迫を引き起こす可能性がある。買い手各国が代替供給源の確保に動いており、小麦価格は上昇圧力を受けている。"
+  },
+  {
+    "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks - Reuters",
+    "timestamp": "2026-08-20T06:28:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "黒海地域での攻撃により、世界の小麦供給に対する懸念が急速に高まっている。ウクライナは世界の小麦輸出の重要な供給源であり、同地域からの輸出途絶は世界的な供給逼迫を引き起こす可能性がある。買い手各国が代替供給源の確保に動いており、小麦価格は上昇圧力を受けている。"
+  },
+  {
+    "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+    "timestamp": "2026-08-20T05:30:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国がロシア産原油の輸入を増加させており、インド精製業者の競争力を圧迫している。中国の地政学的優位性とロシアからの割安供給により、インド精製業者がスポット市場での調達機会を失いつつある。原油価格には直接的な下押し圧力となる可能性がある。"
   }
 ]
