@@ -1,27 +1,5 @@
 [
   {
-    "title": "Japan’s Bond Yields Climb on BOJ Hike Bets, Fiscal Concerns - bloomberg.com",
-    "timestamp": "2026-08-17T03:10:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "日本銀行の利上げ観測と財政懸念により日本国債利回りが上昇。日本金利の上昇はドル相場に波及し、ドル建てコモディティの価格形成に影響。特に金は無利子資産として名目金利上昇圧力を受けやすく、一方で円安進行はドル建て商品の日本国内需要に複合的に作用する。"
-  },
-  {
-    "title": "Japan’s Bond Yields Climb on BOJ Hike Bets, Fiscal Concerns - bloomberg.com",
-    "timestamp": "2026-08-17T03:10:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "日本銀行の利上げ観測と財政懸念により日本国債利回りが上昇。日本金利の上昇はドル相場に波及し、ドル建てコモディティの価格形成に影響。特に金は無利子資産として名目金利上昇圧力を受けやすく、一方で円安進行はドル建て商品の日本国内需要に複合的に作用する。"
-  },
-  {
     "title": "Asian Refiners Ask to Pick Up Saudi Oil Outside Risky Red Sea - Bloomberg.com",
     "timestamp": "2026-08-17T06:07:00+00:00",
     "importance": 3,
@@ -1197,5 +1175,38 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "穀物市場が天候不安と供給懸念を背景に上昇している。Crop Progress報告に基づく気象リスクと在庫逼迫が価格押し上げ要因。小麦・トウモロコシ・大豆の主要穀物商品が同時に上昇圧力を受けている状況。"
+  },
+  {
+    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
+    "timestamp": "2026-08-19T23:59:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAがブラジルのコーヒー生産が記録的水準に達すると発表。特にアラビカ種の生産が回復し、ブラジルの総生産量が過去最高を更新する見通し。供給増加見込みによりコーヒー関連のコモディティ価格に下押し圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
+    "timestamp": "2026-08-19T23:59:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAがブラジルのコーヒー生産が記録的水準に達すると発表。特にアラビカ種の生産が回復し、ブラジルの総生産量が過去最高を更新する見通し。供給増加見込みによりコーヒー関連のコモディティ価格に下押し圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "Gold hovers near early-June high on lower bond yields - Reuters",
+    "timestamp": "2026-08-20T01:07:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "金価格が6月初旬の高値付近で推移している。債券利回りの低下が主な支援材料となっており、低金利環境が金（無利子資産）の相対的な魅力を高めている。テクニカル的には重要なレジスタンスレベルでの値動きに注目が集まっている。"
   }
 ]
