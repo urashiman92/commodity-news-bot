@@ -1,16 +1,5 @@
 [
   {
-    "title": "8月17日午後、国内の金価格が予想外に下落した。 - vietnam.vn",
-    "timestamp": "2026-08-17T11:08:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が8月17日午後に予想外に下落した。具体的な下落率や原因については記事概要から不明である。ローカル市場レベルのニュースと考えられる。"
-  },
-  {
     "title": "米イラン間の交渉が停滞する中、原油価格は変動している。 - Vietnam.vn",
     "timestamp": "2026-08-17T11:25:03+00:00",
     "importance": 2,
@@ -53,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が82.82ドルまで続伸。中東地域の和平交渉が不安定化し、供給リスク懸念が買い圧力を支える。地政学的リスク要因が価格を下支え。"
-  },
-  {
-    "title": "イランと米国、60日間の期限延長で合意 原油先物は一時1ドル超下落、米株主要3指数先物は上昇 - Moomoo",
-    "timestamp": "2026-08-17T11:15:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランと米国が核協議の期限を60日延長することで合意。原油先物は緊張緩和を織り込み1ドル超下落。地政学的リスク低減が材料。"
   },
   {
     "title": "利益確定売りで小麦先物が下落、黒海の緊張続く 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -834,17 +812,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物価格の上昇に伴いドル買いが進み、円相場が値下がりしている。これは為替市場の通常の連動関係を示すもので、原油価格の上昇そのものの要因は報道されていない。"
-  },
-  {
-    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫 - TBS NEWS DIG",
-    "timestamp": "2026-08-17T11:09:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格がロンドン市場で過去最高値に迫っている。米国への流入が続き、需給ひっ迫が価格を支えている。強気相場が続いており、投資家の関心が高い。"
   },
   {
     "title": "米政策の不透明感を背景に金価格が1オンス4,450ドルへ反発 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2462,5 +2429,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイラン間の地政学的緊張が継続している状況下で、原油価格が上昇基調を保っている。既知の緊張要因が相場に織り込まれている段階と考えられる。"
+  },
+  {
+    "title": "2026年8月20日午後の金価格：SJC金価格、9999金リング価格、および木曜日の世界金価格。 - Vietnam.vn",
+    "timestamp": "2026-08-20T10:26:26+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を報道するニュース。SJC金とリング金の価格およびグローバル金価格の定期的な市場報告。"
   }
 ]
