@@ -1,16 +1,5 @@
 [
   {
-    "title": "Saudis Offer Oil From Near Oman in Possible Sign of Shuttling - bloomberg.com",
-    "timestamp": "2026-08-17T13:38:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがオマーン沖近くで原油供給を提示している。これはタンカー間での原油移積（シャトリング）の可能性を示唆しており、サウジが迂回ルートでの販売を模索していることを示唆。供給ルートの多様化は市場への供給懸念を軽減し、原油価格に下押し圧力となる。"
-  },
-  {
     "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, Aug. 17, 2026 - RFD-TV",
     "timestamp": "2026-08-17T16:58:54+00:00",
     "importance": 1,
@@ -526,17 +515,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中東情勢の緊張化により原油価格が急騰し、それに連動して債券利回りも上昇。この地政学的リスク要因がリスク資産である欧州株を圧迫する一方、原油は供給懸念で買われ、金は利回り上昇による圧力で複雑な展開。中東由来のエネルギー危機リスクが市場全体に波及している。"
-  },
-  {
-    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
-    "timestamp": "2026-08-17T13:17:26+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECからの離脱を検討している報道について、アナリストRussellは原油価格への予想されるような悪影響は限定的との見解を示している。既に市場で予想されている可能性が高く、実際の供給減少にはつながらない見込み。"
   },
   {
     "title": "Guyana now entitled to nearly 40% of production from oil block, president says - Reuters",
@@ -1351,5 +1329,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中国がサウジアラビア産原油の入札で購入したが、全体的には中国の原油輸入が抑制されたままという状況が報告されている。これは需要が低迷していることを示唆し、原油価格への直接的なサポート材料には乏しい。"
+  },
+  {
+    "title": "US, Indian fuel exporters profiting from supply uncertainty during wars - Reuters",
+    "timestamp": "2026-08-19T11:53:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国およびインドの燃料輸出業者が、ウクライナ・中東での紛争に伴う供給不確実性を背景に利益を拡大している。戦争による供給リスクプレミアムが原油価格を押し上げ、これらの主要輸出国の競争力が強化される構図。供給逼迫懸念が継続する限り、エネルギーコモディティの価格支持要因となる。"
+  },
+  {
+    "title": "US, Indian fuel exporters profiting from supply uncertainty during wars - Reuters",
+    "timestamp": "2026-08-19T11:53:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国およびインドの燃料輸出業者が、ウクライナ・中東での紛争に伴う供給不確実性を背景に利益を拡大している。戦争による供給リスクプレミアムが原油価格を押し上げ、これらの主要輸出国の競争力が強化される構図。供給逼迫懸念が継続する限り、エネルギーコモディティの価格支持要因となる。"
+  },
+  {
+    "title": "US Stock Futures Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
+    "timestamp": "2026-08-20T12:13:11+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国株先物が下落する中、原油価格と米国債利回りが上昇している。Walmartなど小売株の不調が報じられている。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は上昇基調を示唆している。"
+  },
+  {
+    "title": "US Stock Futures Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
+    "timestamp": "2026-08-20T12:13:11+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株先物が下落する中、原油価格と米国債利回りが上昇している。Walmartなど小売株の不調が報じられている。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は上昇基調を示唆している。"
   }
 ]
