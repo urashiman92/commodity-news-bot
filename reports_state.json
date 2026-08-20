@@ -1,16 +1,5 @@
 [
   {
-    "title": "Asian Refiners Ask to Pick Up Saudi Oil Outside Risky Red Sea - Bloomberg.com",
-    "timestamp": "2026-08-17T06:07:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海情勢の悪化により、アジア製油所がサウジアラビア産原油の引き取り場所を紅海外での積み替えを要求。地政学的リスク回避行動が活発化。海上輸送リスク増加により、迂回ルート利用による輸送コスト上昇と供給経路の多様化圧力が生じている。"
-  },
-  {
     "title": "Saudis Offer Oil From Near Oman in Possible Sign of Shuttling - bloomberg.com",
     "timestamp": "2026-08-17T13:38:50+00:00",
     "importance": 3,
@@ -1263,5 +1252,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金相場が$4,500付近で保ち合い。米国債買い戻し（Treasury Buyback）によって長期金利が低下し、金にとって支援材料となっている。利回り低下は無利子資産である金の相対的な魅力を高める。ドル金利の動向が引き続き重要な注視点。"
+  },
+  {
+    "title": "Japan's exports surge on chips demand, imports hit record on oil costs - Reuters",
+    "timestamp": "2026-08-20T00:23:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "日本の輸出が半導体需要の回復により急伸する一方、輸入は原油価格上昇により過去最高水準に達した。チップ需要の増加は銅などベースメタルの需要見通しを支持する一方、エネルギーコスト高は日本の製造業収益性を圧迫。これはアジア地域の需給バランスの二面性を反映している。"
+  },
+  {
+    "title": "Japan's exports surge on chips demand, imports hit record on oil costs - Reuters",
+    "timestamp": "2026-08-20T00:23:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "銅",
+    "summary": "日本の輸出が半導体需要の回復により急伸する一方、輸入は原油価格上昇により過去最高水準に達した。チップ需要の増加は銅などベースメタルの需要見通しを支持する一方、エネルギーコスト高は日本の製造業収益性を圧迫。これはアジア地域の需給バランスの二面性を反映している。"
+  },
+  {
+    "title": "Japan's exports surge on chips demand, imports hit record on oil costs - Reuters",
+    "timestamp": "2026-08-20T00:23:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "日本の輸出が半導体需要の回復により急伸する一方、輸入は原油価格上昇により過去最高水準に達した。チップ需要の増加は銅などベースメタルの需要見通しを支持する一方、エネルギーコスト高は日本の製造業収益性を圧迫。これはアジア地域の需給バランスの二面性を反映している。"
   }
 ]
