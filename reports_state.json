@@ -1208,5 +1208,38 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIA週間在庫統計で米国原油とガソリン在庫が増加した一方、留分油（ディーゼル）在庫は減少。在庫動向の分散は、エネルギー需給の不均衡を示唆。具体的な数値が明記されていないため詳細評価は困難だが、在庫増加は需要弱さの可能性を反映。"
+  },
+  {
+    "title": "EIA: US commercial crude stocks up for 3rd week, Cushing resumes slide - Quantum Commodity Intelligence",
+    "timestamp": "2026-08-19T15:43:02+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計によると、米国商業用原油在庫が3週連続で増加した。一方、戦略上重要なクッシング地点の在庫は減少トレンドに戻った。在庫増加は供給過剰圧力を示唆する一方、クッシングの減少は流動性改善の兆候となる。"
+  },
+  {
+    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
+    "timestamp": "2026-08-20T00:59:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "ブラジルのコーヒー生産が記録的な水準に達し、特にアラビカ種の作付が回復。ブラジルはグローバルコーヒー供給の約3分の1を占めており、豊作は国際商品相場に供給圧力をもたらす。コーヒー先物は下押し圧力を受ける可能性が高い。"
+  },
+  {
+    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
+    "timestamp": "2026-08-20T00:59:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "ブラジルのコーヒー生産が記録的な水準に達し、特にアラビカ種の作付が回復。ブラジルはグローバルコーヒー供給の約3分の1を占めており、豊作は国際商品相場に供給圧力をもたらす。コーヒー先物は下押し圧力を受ける可能性が高い。"
   }
 ]
