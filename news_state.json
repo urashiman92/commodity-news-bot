@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は軒並み上昇し、中央銀行の為替レートは過去最高値を更新した。 - Vietnam.vn",
-    "timestamp": "2026-08-17T03:13:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が広範に上昇し、中央銀行の金購入活動を背景に過去最高値を更新。地政学リスクやインフレ懸念により金への需要が堅調に推移。"
-  },
-  {
     "title": "商品市場：原油価格と小麦価格はともに約6％上昇した。 - Vietnam.vn",
     "timestamp": "2026-08-17T04:17:18+00:00",
     "importance": 2,
@@ -75,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "東京為替でドル円が失速し、それに伴い原油相場も軟化している。ドル安が進行する中での原油価格の調整局面と見られる。"
-  },
-  {
-    "title": "中東情勢には原油価格上昇のリスクがあり、世界の主要中央銀行はインフレ抑制と経済成長維持という政策上のジレンマに直面しています。 - Moomoo",
-    "timestamp": "2026-08-17T02:26:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢が原油価格上昇リスクを提示。世界中央銀行はインフレ抑制と経済成長維持のジレンマに直面。地政学リスク顕在化で供給懸念が浮上。"
   },
   {
     "title": "LME銅現物プレミアムが4年ぶり高水準 ジェフリーズが2026年の世界供給不足44万トンを警告 - BigGo ファイナンス",
@@ -2506,5 +2484,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "日本伸銅協会の新会長が、伸銅品のグリーンブランド創設と未利用銅リサイクル材の活用、新技術開発を表明。サステナビリティ強化による需要拡大と銅使用量増加を示唆。"
+  },
+  {
+    "title": "黒海穀物輸出が事実上停止　ロシア・ウクライナの攻撃激化で - ｄメニューニュース",
+    "timestamp": "2026-08-20T01:07:00+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア・ウクライナ紛争の激化により黒海からの穀物輸出が事実上停止。黒海は世界の小麦輸出の約30%を供給する重要な流通ルート。供給途絶により小麦価格は急騰圧力が強まる。"
+  },
+  {
+    "title": "8月20日の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-08-20T02:00:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月20日の金相場が全般的に下落。特定の新たなカタリストが報じられていない日次の相場振り返り。ベトナムメディアによる定期的な市場レポート。"
+  },
+  {
+    "title": "WTI 原油先物(2610)のリアルタイムチャート - Moomoo",
+    "timestamp": "2026-08-20T01:32:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "MoomooプラットフォームによるWTI原油先物のリアルタイムチャート表示ページ。市場データ配信であり、特定のニュースイベントや価格変動要因を含まない。"
   }
 ]
