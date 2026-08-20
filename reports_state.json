@@ -308,17 +308,6 @@
     "summary": "銅市場で供給逼迫が深刻化し、重要なスプレッド（先物の期間差）が大きく拡大している。供給制約の急速な悪化が市場心理を大きく変え、物理需給の逼迫を示唆するシグナルが点灯した。スプレッドの拡大は近い将来の供給不足懸念を反映し、銅価格の上昇圧力が強まっている。"
   },
   {
-    "title": "French Power Hits 19-Month High on Tighter Nuclear, Solar Supply - Bloomberg.com",
-    "timestamp": "2026-08-17T10:41:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "フランスの電力価格が19ヶ月ぶりの高値を更新。核電力と太陽光発電の供給逼迫が主因。供給制約によるエネルギー価格上昇圧力は、広くエネルギーコモディティ市場に影響を与える可能性がある。"
-  },
-  {
     "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
     "timestamp": "2026-08-18T07:12:54+00:00",
     "importance": 4,
@@ -1362,5 +1351,27 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "米国の銅輸入が12年ぶりの高水準に達する一方、LME(ロンドン金属取引所)の銅在庫が急落している。この需給逆転現象は、国内精錬能力の不足と世界的な銅需要の強さを示唆。在庫枯渇は価格上昇圧力となる一方、輸入増加は国内産業の競争力低下を反映。"
+  },
+  {
+    "title": "What the August WASDE said about corn and soybean production - Agweek",
+    "timestamp": "2026-08-20T10:32:06+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE（米国農業省の作物見通し）がトウモロコシと大豆の生産見通しを公表。農業市場の重要な定期統計であり、作付面積、作柄指数、生産量予想などが含まれている。具体的な数値比較なしの記事タイトルのため、前月比での上下方向は不明。"
+  },
+  {
+    "title": "What the August WASDE said about corn and soybean production - Agweek",
+    "timestamp": "2026-08-20T10:32:06+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "8月のWASDE（米国農業省の作物見通し）がトウモロコシと大豆の生産見通しを公表。農業市場の重要な定期統計であり、作付面積、作柄指数、生産量予想などが含まれている。具体的な数値比較なしの記事タイトルのため、前月比での上下方向は不明。"
   }
 ]
