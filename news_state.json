@@ -1,27 +1,5 @@
 [
   {
-    "title": "先週は、圧倒的な買い圧力により原油と小麦の価格が上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-17T09:17:06+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "先週の小麦と原油は買い圧力により価格が上昇した。具体的な買いの要因や数値は記載されていない。相場の事後的な値動き説明にとどまる。"
-  },
-  {
-    "title": "速報（8月17日）：原油価格は今週6％上昇、世界の金価格は上昇基調を維持。 - Vietnam.vn",
-    "timestamp": "2026-08-17T08:46:07+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が今週6％上昇し、金価格も上昇基調を維持している。ただし概要のみで背景要因が不明確。定期的な週次レビューの性質が強い。"
-  },
-  {
     "title": "中央銀行が金購入を増やしていることから、金価格が再び上昇している。 - Vietnam.vn",
     "timestamp": "2026-08-17T10:11:20+00:00",
     "importance": 3,
@@ -44,28 +22,6 @@
     "summary": "ベトナムのSJC金とその他の金価格情報を伝える定期的な価格報告。具体的な価格変動や市場材料への言及がない。単なる価格情報提供の記事。"
   },
   {
-    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫（Bloomberg） - Yahoo!ニュース",
-    "timestamp": "2026-08-17T09:04:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格がロンドン市場で過去最高値に迫っている。米国への流入が継続し、需給ひっ迫が価格を支えている。構造的な需給タイトさが相場上昇基調を維持。"
-  },
-  {
-    "title": "コンゴの輸出禁止で銅価格が急騰、供給不安がロンドン市場を揺さぶる - Межа. Новини України.",
-    "timestamp": "2026-08-17T08:35:49+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "コンゴが銅輸出禁止措置を実施、世界最大級の銅産出国からの供給途絶が発生。ロンドン金属取引所で銅価格が急騰し、市場に大きな供給不安をもたらしている。"
-  },
-  {
     "title": "8月17日午後、国内の金価格が予想外に下落した。 - vietnam.vn",
     "timestamp": "2026-08-17T11:08:52+00:00",
     "importance": 2,
@@ -75,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が8月17日午後に予想外に下落した。具体的な下落率や原因については記事概要から不明である。ローカル市場レベルのニュースと考えられる。"
-  },
-  {
-    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫 - Bloomberg.com",
-    "timestamp": "2026-08-17T09:04:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格がロンドン市場で過去最高値に迫っている。米国への流入が続いており、需給がひっ迫している状況を報道している。既に価格上昇トレンドは進行中で、その背景要因を解説するもの。"
   },
   {
     "title": "2026年8月17日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -526,17 +471,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月18日の金価格が全般的に上昇したとのニュース。具体的な上昇幅や原因は記事概要では不明。ベトナムの報道であり、局所的な市場情報の可能性。"
-  },
-  {
-    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫 - TBS NEWS DIG",
-    "timestamp": "2026-08-17T09:04:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格がロンドン市場で過去最高値に迫っている。米国への流入が続いており、需給がひっ迫している状況が続いている。"
   },
   {
     "title": "豪ＢＨＰ通期利益は予想超え、銅がけん引 配当4年ぶり高水準｜Infoseekニュース - Infoseek",
@@ -2528,5 +2462,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン間の地政学的緊張が続く中、原油供給懸念が意識されている。先物は小幅上昇で、市場は膠着状態を反映している。現在のところ大きな供給途絶には至っていない。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-08-20T09:16:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の価格情報ページと思われるが、具体的なニュースコンテンツや価格変動データが含まれていない。ただのポータルページリンクのため、投資判断材料として機能しない。"
+  },
+  {
+    "title": "原油価格の高騰を抑制していた3つの要因は、徐々に消滅しつつある。 - Vietnam.vn",
+    "timestamp": "2026-08-20T08:06:23+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の上昇を抑制していた3つの要因が徐々に消滅しつつあるとの指摘。具体的な要因の詳細は記事概要から不明だが、抑制要因の減少は価格上昇圧力を意味する。上値余地があるシナリオへの転換を示唆している。"
   }
 ]
