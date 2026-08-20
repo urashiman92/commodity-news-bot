@@ -1,38 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-17T20:45:16.372945+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSのCrop Progress報告は、米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を定期的に更新する公式統計。具体的な数値や進捗率の詳細がないため、市場インパクトの評価は限定的。定例報告として相場織込み済みの可能性が高い。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-17T20:45:16.372945+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSのCrop Progress報告は、米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を定期的に更新する公式統計。具体的な数値や進捗率の詳細がないため、市場インパクトの評価は限定的。定例報告として相場織込み済みの可能性が高い。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-17T20:45:16.372945+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSのCrop Progress報告は、米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を定期的に更新する公式統計。具体的な数値や進捗率の詳細がないため、市場インパクトの評価は限定的。定例報告として相場織込み済みの可能性が高い。"
-  },
-  {
     "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
     "timestamp": "2026-08-17T21:24:45+00:00",
     "importance": 4,
@@ -1494,5 +1461,38 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "DTN Progressive Farmerの作物進捗レポート（Crop Progress）は、米国農業の定期的な作付・生育状況を報告するもの。具体的な数値情報がURLのみで本文が不明であるため、詳細な分析は困難。通常は作付進捗率や生育段階のマイルストーン更新となる。"
+  },
+  {
+    "title": "West Texas Oil Producers Pushing Power Demand ‘Through the Roof’ - Bloomberg.com",
+    "timestamp": "2026-08-20T18:45:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "テキサス西部の石油生産者がAI・データセンター関連の電力需要急増に対応するため、発電・電力インフラ投資を大幅拡大。電力需要増加が石油・ガスの発電用途需要を押し上げ、また関連インフラ整備に銅などの非鉄金属需要も増加見込み。エネルギー複合需要の構造的変化を示唆する重要なトレンド。"
+  },
+  {
+    "title": "West Texas Oil Producers Pushing Power Demand ‘Through the Roof’ - Bloomberg.com",
+    "timestamp": "2026-08-20T18:45:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "テキサス西部の石油生産者がAI・データセンター関連の電力需要急増に対応するため、発電・電力インフラ投資を大幅拡大。電力需要増加が石油・ガスの発電用途需要を押し上げ、また関連インフラ整備に銅などの非鉄金属需要も増加見込み。エネルギー複合需要の構造的変化を示唆する重要なトレンド。"
+  },
+  {
+    "title": "West Texas Oil Producers Pushing Power Demand ‘Through the Roof’ - Bloomberg.com",
+    "timestamp": "2026-08-20T18:45:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "テキサス西部の石油生産者がAI・データセンター関連の電力需要急増に対応するため、発電・電力インフラ投資を大幅拡大。電力需要増加が石油・ガスの発電用途需要を押し上げ、また関連インフラ整備に銅などの非鉄金属需要も増加見込み。エネルギー複合需要の構造的変化を示唆する重要なトレンド。"
   }
 ]
