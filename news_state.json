@@ -1,38 +1,5 @@
 [
   {
-    "title": "銅高騰も製錬手数料0ドル収益は金銀硫酸で補う - Chosunbiz",
-    "timestamp": "2026-08-17T21:02:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格の上昇に伴い、製錬企業の手数料収入が圧迫される構造について論じたニュース。製錬企業は金銀や硫酸などの副産物販売で収益を補完している実態を解説。"
-  },
-  {
-    "title": "ＮＹダウ続落、終値２７２ドル安の５万３４５９ドル…原油先物市場の上昇重荷に - 読売新聞",
-    "timestamp": "2026-08-17T21:16:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NYダウが272ドル続落した。原油先物相場の上昇がダウの重荷となった。株式市場と原油市場の連動性を示す動き。"
-  },
-  {
-    "title": "NY原油先物相場続伸、終値84ドル台 半月ぶり高値水準 米イラン情勢受け、買いが優勢 - 産経ニュース",
-    "timestamp": "2026-08-17T21:21:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が84ドル台で半月ぶりの高値を更新。米イラン情勢の緊迫化が買いを誘発。地政学的リスク回避の買いが優勢となっている。"
-  },
-  {
     "title": "今日の金価格（8月18日）：急騰中、今金を買うべきでしょうか？ - Vietnam.vn",
     "timestamp": "2026-08-17T22:01:15+00:00",
     "importance": 2,
@@ -2418,5 +2385,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が単日で4%急騰し4,500ドル台を回復。この急騰により関連株式も大きく上昇。シルバークレスト（SVM.US）など金鉱株が9%超の高値で終える。"
+  },
+  {
+    "title": "原油先物1カ月ぶり高値、トランプ氏の対イラン圧力強化で供給懸念再燃 - ロイター",
+    "timestamp": "2026-08-20T20:53:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏によるイラン圧力強化がニュースとして報じられ、原油先物が1カ月ぶりの高値を更新した。イラン制裁強化による供給減少懸念が相場を押し上げている。地政学的リスク要因として原油投資家に重要。"
+  },
+  {
+    "title": "原油先物1カ月ぶり高値、トランプ氏の対イラン圧力強化で供給懸念再燃 - ニューズウィーク日本版",
+    "timestamp": "2026-08-20T20:53:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏によるイラン圧力強化が報道され、原油先物が1ヶ月ぶりの高値を更新した。イランからの供給途絶懸念が再燃し、地政学リスク要因として機能している。"
+  },
+  {
+    "title": "原油先物1カ月ぶり高値、トランプ氏の対イラン圧力強化で供給懸念再燃 - Infoseek",
+    "timestamp": "2026-08-20T20:53:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ前大統領によるイラン圧力強化が報道され、原油先物が1カ月ぶり高値を記録。イラン供給途絶リスクが市場心理を押し上げている。地政学的な供給懸念が再度浮上。"
   }
 ]
