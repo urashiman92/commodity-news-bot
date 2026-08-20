@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（8月17日）の金価格：予想外の急落。 - Vietnam.vn",
-    "timestamp": "2026-08-17T05:16:18+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月17日の金価格が予想外に急落したと報道。ただしニュースソースが限定的で、具体的な下落幅や原因が不明。"
-  },
-  {
     "title": "小麦価格が急騰し、世界的な供給への懸念が高まっている。 - Vietnam.vn",
     "timestamp": "2026-08-17T06:14:29+00:00",
     "importance": 4,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "小麦価格が急騰し、世界的な供給懸念が発生している。供給ショックまたは地政学的要因による価格上昇が報告されている。詳細な原因が明確でないため、市場の注視が必要。"
-  },
-  {
-    "title": "東京為替：ドル・円は失速、原油相場は軟化 - ｄメニューニュース",
-    "timestamp": "2026-08-17T05:47:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京為替でドル円が失速し、それに伴い原油相場も軟化している。ドル安が進行する中での原油価格の調整局面と見られる。"
   },
   {
     "title": "LME銅現物プレミアムが4年ぶり高水準 ジェフリーズが2026年の世界供給不足44万トンを警告 - BigGo ファイナンス",
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油が売られ過ぎの状態にあり、技術的な反発の可能性を指摘するコメンタリー。オーバーソールド状態からの回復局面を想定している。"
-  },
-  {
-    "title": "東京為替：ドル・円は失速、原油相場は軟化 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-17T05:47:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京市場でドル・円が失速し、それに伴い原油相場も軟化している。ドル安進行に伴うドル建て商品の売り圧力が作用している状況。"
   },
   {
     "title": "ロンドン金属取引所（LME）における銅価格は、過去最高値に迫っている。 - Vietnam.vn",
@@ -163,17 +130,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が8月17日午後に予想外に下落した。具体的な下落率や原因については記事概要から不明である。ローカル市場レベルのニュースと考えられる。"
-  },
-  {
-    "title": "原油市場他： 米国とイランとの対立の先鋭化により、7月下旬に90ドルを突破する場面が見られたものの、その後若干落ち着きを見せる原油価格：石油・天然ガス資源情報 - journal.jogmec.go.jp",
-    "timestamp": "2026-08-17T05:18:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの対立激化により7月下旬に原油が90ドルを超えたが、その後落ち着きを見せている。地政学的緊張が価格上昇をもたらしたものの、現在は調整局面にある状況の振り返り。"
   },
   {
     "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫 - Bloomberg.com",
@@ -2517,5 +2473,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格の上昇に伴い、貴金属リサイクル関連銘柄が買われている。記事はこうした関連株の動きを伝えるもの。金相場の上昇トレンド自体は既に織り込まれた内容。"
+  },
+  {
+    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念 - ロイター",
+    "timestamp": "2026-08-20T05:47:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の地政学的緊張の膠着状態により、中東地域の原油供給に対する懸念が支持材料となった。小幅上昇で推移しており、市場は様子見姿勢。紛争激化のリスクが先物を下支え。"
+  },
+  {
+    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念 - ニューズウィーク日本版",
+    "timestamp": "2026-08-20T05:46:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の軍事紧張が膠着状態にあり、供給リスクへの懸念から原油先物が小幅上昇。地政学的な不確実性が価格を支えている状況。"
   }
 ]
