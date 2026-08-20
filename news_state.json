@@ -1,27 +1,5 @@
 [
   {
-    "title": "今日の金価格（8月18日）：急騰中、今金を買うべきでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-08-17T22:01:15+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月18日の金価格が急騰している局面についての記事。投資判断を求める論説記事で、具体的な上昇要因や数値は記事概要には記載されていない。"
-  },
-  {
-    "title": "本日8月18日の金価格：サンノゼ（SJC）の金価格は小幅上昇し、世界の金価格は過去最高値に近づきました。 - Vietnam.vn",
-    "timestamp": "2026-08-17T22:01:13+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム現物市場（SJC）の金価格が小幅上昇。世界の金価格は過去最高値に近づいている状況の報告。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4416ドル｜米国の利上げ観測後退が影響している模様(2026年8月18日) - OANDA証券",
     "timestamp": "2026-08-17T23:04:52+00:00",
     "importance": 3,
@@ -2418,5 +2396,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月20日に金価格が急騰したとの報道。具体的な騰落幅や原因は記事から不明。市場のボラティリティを示す単純な値動き報告と見られる。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（20日）原油は5日続伸 - Moomoo",
+    "timestamp": "2026-08-20T22:10:35+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油先物が5日続伸した。金先物市場の概況も含まれている。市場動向の事後的な振り返り記事である。"
+  },
+  {
+    "title": "原油先物1カ月ぶり高値、トランプ氏の対イラン圧力強化で供給懸念再燃 - ｄメニューニュース",
+    "timestamp": "2026-08-20T21:02:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイランへの圧力を強化し、供給懸念が再燃。原油先物は1カ月ぶりの高値まで上昇。地政学的リスクプレミアムが価格に織り込まれている。"
   }
 ]
