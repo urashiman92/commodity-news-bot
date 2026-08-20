@@ -11,17 +11,6 @@
     "summary": "サウジアラビアがオマーン沖近くで原油供給を提示している。これはタンカー間での原油移積（シャトリング）の可能性を示唆しており、サウジが迂回ルートでの販売を模索していることを示唆。供給ルートの多様化は市場への供給懸念を軽減し、原油価格に下押し圧力となる。"
   },
   {
-    "title": "US Stocks Waver; Tech Shares Gain on Anthropic Revenue Jump - bloomberg.com",
-    "timestamp": "2026-08-17T12:41:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株式市場の変動に関するレポートであり、テクノロジーセクターがAnthropicの売上増加で上昇する一方、市場全体では方向性が不明確。コモディティ市場への直接的な影響は限定的で、テック企業の収益動向はコモディティ投資家にとって二次的な関連性にとどまる。"
-  },
-  {
     "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, Aug. 17, 2026 - RFD-TV",
     "timestamp": "2026-08-17T16:58:54+00:00",
     "importance": 1,
@@ -97,17 +86,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ギリシャ籍の石油タンカーがロシア支配下の黒海で攻撃を受けた。同地域はロシアのウクライナ侵攻に伴う地政学的緊張が続く中での事象であり、海上輸送ルートの安全脅威が具体化。原油供給チェーンへの直接的なリスク顕在化により、市場は供給不安定化を織り込む可能性が高い。"
-  },
-  {
-    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-17T12:51:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECがイラン・サウジアラビア関係改善後の湾岸地域におけるシェア争奪戦で劣位に立つ可能性が高いというアナリスト見解。イランやアラビア半島の非OPEC加盟国による増産圧力がOPECの市場シェアを蚕食し、既存の減産合意の効果が減殺される懸念を示唆している。"
   },
   {
     "title": "Copper Heads Toward Record High on LME as Supply Tensions Build - bloomberg.com",
@@ -196,17 +174,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国ディーゼルクラック（ディーゼル先物価格と原油先物価格の価差）が初めて1バレルあたり100ドルを超過した。供給途絶によるサプライズ供給ショックが背景。ディーゼル製品の供給逼迫が深刻化し、市場心理が大きく悪化している状況を示唆。"
-  },
-  {
-    "title": "Saudi Aramco offers crude outside Hormuz to some Asian refiners, sources say - Reuters",
-    "timestamp": "2026-08-17T13:05:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラムコが一部のアジア製油所に対し、ホルムズ海峡外での原油供給を提示している。地政学的リスク回避やホルムズ海峡の混雑緩和を意図した動きと見られるが、供給量の詳細は明かされていない。中東の地政学的緊張が背景にある可能性がある。"
   },
   {
     "title": "Stocks Fall, Oil Gains on Middle East Uncertainty: Markets Wrap - Bloomberg.com",
@@ -1351,5 +1318,38 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "8月のWASDE（米国農業省の作物見通し）がトウモロコシと大豆の生産見通しを公表。農業市場の重要な定期統計であり、作付面積、作柄指数、生産量予想などが含まれている。具体的な数値比較なしの記事タイトルのため、前月比での上下方向は不明。"
+  },
+  {
+    "title": "A Pre- and Post-Report Look at the 2026 U.S. Soybean Yield - Successful Farming",
+    "timestamp": "2026-08-20T11:14:38+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年米国大豆の収量見通しに関する事前・事後レポート。具体的な数値や予想変更幅が記事タイトルのみからは判断できない。定期的な作物進捗分析の一環と見られるが、詳細内容へのアクセスがないため、市場サプライズ度は不確定。"
+  },
+  {
+    "title": "Forget OPEC+ Output Hike – Duration of Hormuz Disruption is What Matters - EnergyNow.com",
+    "timestamp": "2026-08-18T11:54:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の通行障害の継続期間が、OPEC+の増産決定よりも原油価格に与える影響が大きいという分析。地政学的リスク要因がファンダメンタルズを上回る可能性を指摘。供給途絶の長期化シナリオが価格上昇圧力となる。"
+  },
+  {
+    "title": "China Buys Saudi Crude in Rare Tender as Imports Stay Muted - Bloomberg.com",
+    "timestamp": "2026-08-20T09:43:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中国がサウジアラビア産原油の入札で購入したが、全体的には中国の原油輸入が抑制されたままという状況が報告されている。これは需要が低迷していることを示唆し、原油価格への直接的なサポート材料には乏しい。"
   }
 ]
