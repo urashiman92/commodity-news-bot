@@ -22,17 +22,6 @@
     "summary": "原油価格が今週6％上昇し、金価格も上昇基調を維持している。ただし概要のみで背景要因が不明確。定期的な週次レビューの性質が強い。"
   },
   {
-    "title": "銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫 - Bloomberg.com",
-    "timestamp": "2026-08-17T08:24:03+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格がロンドン市場で過去最高値に接近している。米国への流入継続と需給ひっ迫が背景。構造的な供給不足懸念が強まっている。"
-  },
-  {
     "title": "中央銀行が金購入を増やしていることから、金価格が再び上昇している。 - Vietnam.vn",
     "timestamp": "2026-08-17T10:11:20+00:00",
     "importance": 3,
@@ -2517,5 +2506,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油の価格情報記事。具体的なニュース内容が提供されていないため、分析対象となるイベントが特定できない状況。"
+  },
+  {
+    "title": "住友鉱が切り返し急、米財務省のバイバック上限増額で金利低下し金先物相場が急上昇 - 株探",
+    "timestamp": "2026-08-20T00:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米財務省がバイバック上限を増額し、市場の金利低下予想が強まった。金利低下は金の実質利回り低下につながり、金先物が上昇。住友鉱も株価が切り返し上昇した。"
+  },
+  {
+    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念 - ｄメニューニュース",
+    "timestamp": "2026-08-20T05:46:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の地政学的緊張が続く中、原油供給懸念が意識されている。先物は小幅上昇で、市場は膠着状態を反映している。現在のところ大きな供給途絶には至っていない。"
   }
 ]
