@@ -1,16 +1,5 @@
 [
   {
-    "title": "米イラン間の交渉が停滞する中、原油価格は変動している。 - Vietnam.vn",
-    "timestamp": "2026-08-17T11:25:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の交渉停滞を受けて原油価格が変動している。交渉進展への不確実性が市場で認識されている。既に報じられた事象の続報扱い。"
-  },
-  {
     "title": "金価格は本日8月17日、大幅に上昇して取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-17T13:23:57+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月17日の金価格は大幅に上昇して取引を終えた。ただしニュースソースは事実報道のみで、上昇要因の具体的な説明がない。既に相場に織り込まれた日中の値動き報告と判断される。"
-  },
-  {
-    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-08-17T11:37:45+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油価格連動型上場投信【1671】の株価・株式情報ページの案内。ファンドそのものの価格動向や運用情報ではなく、金融サイトのリンク掲載。"
   },
   {
     "title": "【速報】NY原油先物続伸82.82ドル、中東和平揺らぐ(フィスコ) - Yahoo!ファイナンス",
@@ -2440,5 +2418,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報を報道するニュース。SJC金とリング金の価格およびグローバル金価格の定期的な市場報告。"
+  },
+  {
+    "title": "モルガン・スタンレー、2027年の金価格見通しを発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-20T11:24:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "モルガン・スタンレーが2027年の金価格見通しを発表した。アナリスト予想による中期的な価格展望だが、具体的な目標値や根拠が記事から不明。"
+  },
+  {
+    "title": "8月20日午後の金価格は、午前中と比べてわずかに下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-20T11:49:30+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月20日午後の金価格が午前中比でわずかに下落した。特定の材料は示されておらず、日中の通常的な値動きの報告。"
   }
 ]
