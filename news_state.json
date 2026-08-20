@@ -1,38 +1,5 @@
 [
   {
-    "title": "商品市場：原油価格と小麦価格はともに約6％上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-17T04:17:18+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "原油と小麦がともに約6％上昇した市場動向の報道。具体的な上昇要因や発表日時が明記されていない。相場の振り返り・解説的な性質の記事。"
-  },
-  {
-    "title": "金価格は嵐を乗り越える：下半期には4つの逆風が待ち受ける。 - Vietnam.vn",
-    "timestamp": "2026-08-17T04:43:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は下半期に4つの逆風に直面する見通し。記事は金相場の課題要因を整理した解説記事。既知のリスク要因の総括と予想される圧力について述べている。"
-  },
-  {
-    "title": "8月17日朝、金価格は上昇を続けた。 - Vietnam.vn",
-    "timestamp": "2026-08-17T04:33:27+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月17日朝の金価格が上昇を続けているとの報道。具体的な上昇要因や数値は不明。定期的な市場動向の振り返り記事。"
-  },
-  {
     "title": "本日（8月17日）の金価格：予想外の急落。 - Vietnam.vn",
     "timestamp": "2026-08-17T05:16:18+00:00",
     "importance": 2,
@@ -97,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "東京市場でドル・円が失速し、それに伴い原油相場も軟化している。ドル安進行に伴うドル建て商品の売り圧力が作用している状況。"
-  },
-  {
-    "title": "ドル円、159円台で下げ渋り 原油と米金利が支え - BigGo ファイナンス",
-    "timestamp": "2026-08-17T04:35:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円が159円台で下げ止まっている。原油価格の堅調と米金利上昇がドル買い圧力として機能している。既に織り込まれた相場観の述べ立て。"
   },
   {
     "title": "ロンドン金属取引所（LME）における銅価格は、過去最高値に迫っている。 - Vietnam.vn",
@@ -2528,5 +2484,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米国債利回り上昇と原油高により金相場が上値の重い調整局面に入った。ドル強化と機会費用上昇が金の買い圧力を減弱させている。短期的には金の上昇余地が制限される見通し。"
+  },
+  {
+    "title": "JPモルガンの金価格予想達成、5000ドル視野か - BeInCrypto",
+    "timestamp": "2026-08-20T04:36:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "JPモルガンが提示していた金価格予想が現実化し、次のターゲットとして5000ドル到達の可能性が指摘されている。既存の強気相場観がさらに強化される材料。"
+  },
+  {
+    "title": "世界の金価格が4,500ドルを突破。 - Vietnam.vn",
+    "timestamp": "2026-08-20T04:20:33+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,500ドルを突破したことを報じるニュース。コモディティ市場では心理的なレジスタンス突破として注目される。具体的な原因（金融緩和・インフレ懸念・地政学リスク等）が記事から不明。"
+  },
+  {
+    "title": "ＡＲＥＨＤ－急騰 金価格が急騰 貴金属リサイクル関連に買い - Moomoo",
+    "timestamp": "2026-08-20T00:34:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の上昇に伴い、貴金属リサイクル関連銘柄が買われている。記事はこうした関連株の動きを伝えるもの。金相場の上昇トレンド自体は既に織り込まれた内容。"
   }
 ]
