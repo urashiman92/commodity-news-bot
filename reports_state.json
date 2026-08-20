@@ -1,16 +1,5 @@
 [
   {
-    "title": "Copper Heads Toward Record High on LME as Supply Tensions Build - Bloomberg.com",
-    "timestamp": "2026-08-17T01:45:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "銅がLME（ロンドン金属取引所）で史上最高値に向かっている。サプライチェーンの緊張が高まり、供給面での懸念が強まっている。エネルギー転換やEV需要の急増に対して鉱山生産の停滞や地政学的リスク（ペルー・チリなど主要産地の政情不安）が供給を圧迫している。"
-  },
-  {
     "title": "Japan’s Bond Yields Climb on BOJ Hike Bets, Fiscal Concerns - bloomberg.com",
     "timestamp": "2026-08-17T03:10:00+00:00",
     "importance": 3,
@@ -1142,5 +1131,71 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "イラクがOPEC内での生産枠の拡大を要求している。財政収入圧力と新規油田投資の必要性が背景。同国の増産意欲は供給サイドの潜在圧力となり、OPECの減産合意の実行難易度が上昇する可能性がある。"
+  },
+  {
+    "title": "Grain Trends: US crop area up to balance reduced yields 19 August 2026 Premium - Irish Farmers Journal",
+    "timestamp": "2026-08-19T22:15:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "2026年8月のWASDEレポートで、米国の穀物作付面積が増加し、減少する単収を相殺する動きが示される。小麦、トウモロコシ、大豆の作付戦略が市場の供給懸念に対応。単収低下の要因（天候・病害など）と面積増加のバランスが今後の価格方向性を決定。"
+  },
+  {
+    "title": "Grain Trends: US crop area up to balance reduced yields 19 August 2026 Premium - Irish Farmers Journal",
+    "timestamp": "2026-08-19T22:15:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2026年8月のWASDEレポートで、米国の穀物作付面積が増加し、減少する単収を相殺する動きが示される。小麦、トウモロコシ、大豆の作付戦略が市場の供給懸念に対応。単収低下の要因（天候・病害など）と面積増加のバランスが今後の価格方向性を決定。"
+  },
+  {
+    "title": "Grain Trends: US crop area up to balance reduced yields 19 August 2026 Premium - Irish Farmers Journal",
+    "timestamp": "2026-08-19T22:15:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2026年8月のWASDEレポートで、米国の穀物作付面積が増加し、減少する単収を相殺する動きが示される。小麦、トウモロコシ、大豆の作付戦略が市場の供給懸念に対応。単収低下の要因（天候・病害など）と面積増加のバランスが今後の価格方向性を決定。"
+  },
+  {
+    "title": "Grain Markets Climb on Weather and Supply Concerns - Farms.com",
+    "timestamp": "2026-08-17T20:49:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "穀物市場が天候不安と供給懸念を背景に上昇している。Crop Progress報告に基づく気象リスクと在庫逼迫が価格押し上げ要因。小麦・トウモロコシ・大豆の主要穀物商品が同時に上昇圧力を受けている状況。"
+  },
+  {
+    "title": "Grain Markets Climb on Weather and Supply Concerns - Farms.com",
+    "timestamp": "2026-08-17T20:49:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "穀物市場が天候不安と供給懸念を背景に上昇している。Crop Progress報告に基づく気象リスクと在庫逼迫が価格押し上げ要因。小麦・トウモロコシ・大豆の主要穀物商品が同時に上昇圧力を受けている状況。"
+  },
+  {
+    "title": "Grain Markets Climb on Weather and Supply Concerns - Farms.com",
+    "timestamp": "2026-08-17T20:49:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "穀物市場が天候不安と供給懸念を背景に上昇している。Crop Progress報告に基づく気象リスクと在庫逼迫が価格押し上げ要因。小麦・トウモロコシ・大豆の主要穀物商品が同時に上昇圧力を受けている状況。"
   }
 ]
