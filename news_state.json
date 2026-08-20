@@ -1,60 +1,5 @@
 [
   {
-    "title": "LBMAは、世界の金価格が2026年末までに1オンスあたり4,500ドル前後で推移すると予測している。 - Vietnam.vn",
-    "timestamp": "2026-08-17T00:16:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "LBMAが2026年末までの金価格を1オンス4,500ドル前後と予測。現在の価格から約15-20%の上昇を見込む強気シナリオ。既存の強気見通しの域を出ない観測。"
-  },
-  {
-    "title": "今週、金価格は急騰すると予想されている。 - Vietnam.vn",
-    "timestamp": "2026-08-17T00:10:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が今週急騰すると予想されているとの報道。具体的な材料や根拠は記事概要からは不明。アナリスト見解の類と推定される。"
-  },
-  {
-    "title": "イランが米軍にホルムズ海峡の通行禁止令 国際原油価格と金が早朝一斉に上昇 - BigGo ファイナンス",
-    "timestamp": "2026-08-17T00:05:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが米軍によるホルムズ海峡通行禁止令を発表。世界の石油輸送の約3割が通過する重要海峡の封鎖脅威により、原油と金が急騰。地政学リスクの顕在化。"
-  },
-  {
-    "title": "8月17日の金価格：世界の金価格と国内の金価格の差が縮小。 - Vietnam.vn",
-    "timestamp": "2026-08-17T00:32:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムにおいて8月17日時点で、国内金価格と世界金価格の価格差が縮小傾向にあることを報じている。市場の価格収束を示す技術的な動きであり、新規ニュースではない。"
-  },
-  {
-    "title": "週明け、世界の金価格は上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-17T00:30:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "週明けに世界の金価格が上昇したとの報道。具体的な上昇幅や理由は記事概要に明記されていない。定期的な市場動向の振り返り記事と考えられる。"
-  },
-  {
     "title": "原油先物は横ばい、米イラン交渉停滞 ホルムズ通航減速（ロイター） - Yahoo!ニュース",
     "timestamp": "2026-08-17T01:18:19+00:00",
     "importance": 2,
@@ -2484,5 +2429,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "UAE・イラン関係の悪化が地政学的リスクとして認識され、原油価格が上昇。ドル安基調が一服する中で、供給懸念が相場を支える形となっている。"
+  },
+  {
+    "title": "ＡＲＥＨＤ－急騰 金価格が急騰 貴金属リサイクル関連に買い(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-20T00:34:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急騰し、貴金属リサイクル関連銘柄に買いが入った。既存の金価格上昇トレンドの継続を受けた関連産業への投資機会の一環。"
+  },
+  {
+    "title": "金価格、2カ月ぶりの高値を記録──夏場の停滞抜け出す - Forbes JAPAN",
+    "timestamp": "2026-08-20T00:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2ヶ月ぶりの高値を更新し、夏場の停滞局面から脱出した。季節的な需要回復とポジション調整が背景と考えられる。"
+  },
+  {
+    "title": "NY金先物は反発、米金利低下観測とドル安を支えに買い優勢｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-19T23:52:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反発し、買い優勢となっている。米金利低下観測とドル安が支援要因として機能している。マクロ環境の変化が金の魅力度を高めている状況。"
+  },
+  {
+    "title": "ベトナム国内金価格が8月19日の取引で1両あたり最大210万ドン急落 - BigGo ファイナンス",
+    "timestamp": "2026-08-19T18:22:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が8月19日の取引で1両あたり最大210万ドン（約1.5-2%程度）下落した。ローカルマーケットの日次変動を報じたもの。"
+  },
+  {
+    "title": "金価格が4,500ドルを突破。 - Vietnam.vn",
+    "timestamp": "2026-08-20T00:36:16+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,500ドルを突破したというニュース。グローバルなインフレ懸念、地政学リスク、中央銀行の金買いなどの既知のドライバーが価格上昇を支持していると考えられる。"
+  },
+  {
+    "title": "本日の燃料価格（8月20日）：世界の原油価格は上昇を続けている。 - Vietnam.vn",
+    "timestamp": "2026-08-20T00:54:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月20日時点で世界の原油価格が上昇基調を継続していることを報じた記事。ベトナムの燃料価格情報をまとめた日次レポート。具体的な上昇要因や価格水準の詳細は記事概要から判断不可。"
+  },
+  {
+    "title": "原油価格は2027年まで高止まりする可能性がある。 - Vietnam.vn",
+    "timestamp": "2026-08-20T00:54:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アナリスト見解として2027年まで原油価格が高止まりする可能性が指摘されている。供給制約やエネルギー需要の構造的要因が背景と考えられる。既報道の観測値であり市場織り込み済みと推定。"
+  },
+  {
+    "title": "１９日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-08-19T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "19日の主要国際商品市況を報じるニュース。具体的な価格変動や市場動向の詳細は記事本文が確認できないため、一般的な市況レポートと判断される。"
   }
 ]
