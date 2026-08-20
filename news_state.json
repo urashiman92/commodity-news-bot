@@ -1,16 +1,5 @@
 [
   {
-    "title": "銅冠銅箔、時価総額1,000億元の裏で：董事会秘書兼財務責任者・王俊林氏が56歳で病死 - BigGo ファイナンス",
-    "timestamp": "2026-08-17T16:25:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅冠銅箔の董事会秘書兼財務責任者が56歳で病死。同社は時価総額1,000億元の銅箔メーカー。主要な経営幹部の急逝は企業統治リスクを示唆。"
-  },
-  {
     "title": "NY市場午後：ダウ188ドル安もSOXは2.7%高、金先物が最高値圏 - BigGo ファイナンス",
     "timestamp": "2026-08-17T17:37:46+00:00",
     "importance": 3,
@@ -2462,5 +2451,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が88.74ドルで続伸している。具体的な上昇理由や背景情報が記事概要から不明。相場の技術的な動きの報告に留まっている。"
+  },
+  {
+    "title": "ブレント原油一時93ドル超－トランプ氏の対イラン経済措置の表明受け - Bloomberg.com",
+    "timestamp": "2026-08-20T09:09:15+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がイランに対する経済措置を表明し、ブレント原油が93ドルを超えた。イラン制裁による供給懸念が市場を押し上げた。地政学的リスク再燃が価格上昇を加速させている。"
   }
 ]
