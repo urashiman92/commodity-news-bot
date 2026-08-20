@@ -330,28 +330,6 @@
     "summary": "フランスの電力価格が19ヶ月ぶりの高値を更新。核電力と太陽光発電の供給逼迫が主因。供給制約によるエネルギー価格上昇圧力は、広くエネルギーコモディティ市場に影響を与える可能性がある。"
   },
   {
-    "title": "A2 Milk Sees Slow Recovery From China Formula Supply Problem - Bloomberg.com",
-    "timestamp": "2026-08-17T05:36:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "A2ミルクが中国の粉ミルク供給問題からの回復が緩やかであることを報告。同社は乳製品コモディティ関連企業として市場の需要回復速度が想定より遅延していることを示唆。既に織り込まれつつある段階的な回復シナリオの確認報告。"
-  },
-  {
-    "title": "AI Era Demands More Agile Leaders, Harvard’s Linda Hill Says - Bloomberg.com",
-    "timestamp": "2026-08-17T05:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ハーバード大学のLinda Hill教授がAI時代におけるリーダーシップの必要性について述べたコメンタリー。AI導入時代では組織がより俊敏性（agility）を求められるという経営学的な見解であり、コモディティ市場の需給・価格に直接的な影響を与えるものではない。"
-  },
-  {
     "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
     "timestamp": "2026-08-18T07:12:54+00:00",
     "importance": 4,
@@ -1241,5 +1219,49 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "ブラジルのコーヒー生産が記録的な水準に達し、特にアラビカ種の作付が回復。ブラジルはグローバルコーヒー供給の約3分の1を占めており、豊作は国際商品相場に供給圧力をもたらす。コーヒー先物は下押し圧力を受ける可能性が高い。"
+  },
+  {
+    "title": "EIA reports another rise in US crude oil stocks - engine.online",
+    "timestamp": "2026-08-20T05:33:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の再度の増加を報告した。在庫の継続的な増加は供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす可能性がある。具体的な増加量や総在庫レベルが明記されていないため、サプライズ度の判定は限定的。"
+  },
+  {
+    "title": "US EIA Heating Oil Stocks Change (Aug/14) -0.537M (Prev. 0.192M) - Newsquawk",
+    "timestamp": "2026-08-19T14:30:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "8月14日のEIA暖房油在庫が前週比で-0.537M（百万バレル）の減少。前週は+0.192Mの増加だったため、在庫減少へのトレンド転換を示唆。暖房油需要の季節的パターン内での通常の変動と見られる。"
+  },
+  {
+    "title": "Gold Holds Near $4,500 as US Treasury Buyback Sends Yields Lower - Bloomberg.com",
+    "timestamp": "2026-08-19T23:34:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "金相場が$4,500付近で保ち合い。米国債買い戻し（Treasury Buyback）によって長期金利が低下し、金にとって支援材料となっている。利回り低下は無利子資産である金の相対的な魅力を高める。ドル金利の動向が引き続き重要な注視点。"
+  },
+  {
+    "title": "Gold Holds Near $4,500 as US Treasury Buyback Sends Yields Lower - Bloomberg.com",
+    "timestamp": "2026-08-19T23:34:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "金相場が$4,500付近で保ち合い。米国債買い戻し（Treasury Buyback）によって長期金利が低下し、金にとって支援材料となっている。利回り低下は無利子資産である金の相対的な魅力を高める。ドル金利の動向が引き続き重要な注視点。"
   }
 ]
