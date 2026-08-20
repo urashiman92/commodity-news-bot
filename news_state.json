@@ -1,27 +1,5 @@
 [
   {
-    "title": "中央銀行が金購入を増やしていることから、金価格が再び上昇している。 - Vietnam.vn",
-    "timestamp": "2026-08-17T10:11:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の中央銀行による金購入増加が金価格を支援している。中央銀行の金準備増加トレンドは継続的な需要要因。価格上昇は既知トレンドの延長線上。"
-  },
-  {
-    "title": "2026年8月17日午後の金価格：SJC金価格、9999金リング価格、および月曜日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-08-17T10:50:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金とその他の金価格情報を伝える定期的な価格報告。具体的な価格変動や市場材料への言及がない。単なる価格情報提供の記事。"
-  },
-  {
     "title": "8月17日午後、国内の金価格が予想外に下落した。 - vietnam.vn",
     "timestamp": "2026-08-17T11:08:52+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が8月17日午後に予想外に下落した。具体的な下落率や原因については記事概要から不明である。ローカル市場レベルのニュースと考えられる。"
-  },
-  {
-    "title": "2026年8月17日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-17T10:33:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・先物オプション市場に関する定期的なマーケットウォッチ記事。日本株指数先物のテクニカル・ポジション情報の提供。"
   },
   {
     "title": "米イラン間の交渉が停滞する中、原油価格は変動している。 - Vietnam.vn",
@@ -2484,5 +2451,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月20日のブレント原油先物が2.24%上昇した。記事はこの値動きの要因を解説する分析記事であるが、具体的な根拠が提示されていない。通常のボラティリティ範囲内での変動と考えられる。"
+  },
+  {
+    "title": "米国とイラン間の緊張が続く中、原油価格は上昇を続けている。 - Vietnam.vn",
+    "timestamp": "2026-08-20T10:43:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の地政学的緊張が継続している状況下で、原油価格が上昇基調を保っている。既知の緊張要因が相場に織り込まれている段階と考えられる。"
   }
 ]
