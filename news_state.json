@@ -1,38 +1,5 @@
 [
   {
-    "title": "LME銅現物プレミアムが4年ぶり高水準 ジェフリーズが2026年の世界供給不足44万トンを警告 - BigGo ファイナンス",
-    "timestamp": "2026-08-17T06:41:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "LME銅の現物プレミアムが4年ぶりの高水準に上昇。ジェフリーズが2026年に世界供給不足44万トンを予測し、需給逼迫への懸念が強まっている。EV・再生可能エネルギー投資拡大による需要増加が背景。"
-  },
-  {
-    "title": "WTI原油、売られ過ぎで反発の火種：毎時更新中 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-17T07:07:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が売られ過ぎの状態にあり、技術的な反発の可能性を指摘するコメンタリー。オーバーソールド状態からの回復局面を想定している。"
-  },
-  {
-    "title": "ロンドン金属取引所（LME）における銅価格は、過去最高値に迫っている。 - Vietnam.vn",
-    "timestamp": "2026-08-17T07:12:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "LMEの銅価格が過去最高値に迫っている。市場は需要堅調とエネルギー転換関連の需要拡大を背景に上昇局面を継続している。既に報じられた強気トレンドの継続を示唆するもの。"
-  },
-  {
     "title": "先週は、圧倒的な買い圧力により原油と小麦の価格が上昇した。 - Vietnam.vn",
     "timestamp": "2026-08-17T09:17:06+00:00",
     "importance": 2,
@@ -295,17 +262,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY市場で金先物が最高値圏で推移。ダウ平均は小幅安だがハイテク株（SOX）は2.7%上昇と堅調。金の上昇は金利動向や地政学的リスク、ドル動向など複合要因と考えられる。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年8月17日）債務懸念が強まる中、米イールドカーブのスティープ化とともに金価格が上昇 - ブリオンボールト",
-    "timestamp": "2026-08-17T07:25:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国債務懸念の高まりと米イールドカーブのスティープ化が金価格を押し上げている。リスク資産回避と実質金利低下が金に好材料として作用。定期的な市場解説レポート。"
   },
   {
     "title": "ブレント原油先物が急騰、停戦失効と호르ムズ海峡の混乱が背景 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2528,5 +2484,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの紛争懸念によりホルムズ海峡の地政学リスクが再認識されている。現在のところ価格は小幅動で織り込み途上。供給遮断リスクが顕在化すれば急騰要因になる可能性。"
+  },
+  {
+    "title": "金価格、2カ月ぶりの高値を記録──夏場の停滞抜け出す - Yahoo!ニュース",
+    "timestamp": "2026-08-20T03:41:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2カ月ぶりの高値を更新し、夏場の停滞局面から抜け出した。季節的な需要回復やマクロ環境の変化が背景。テクニカルな抵抗線突破による継続性の注視が必要。"
+  },
+  {
+    "title": "世界の金価格は、2か月以上ぶりに4,500ドルを突破した。 - Vietnam.vn",
+    "timestamp": "2026-08-20T05:41:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2ヶ月ぶりに1オンス4,500ドルを突破した。世界的なインフレ懸念や地政学リスクなどの背景要因がある。"
+  },
+  {
+    "title": "ＷＴＩ原油 - 日本経済新聞",
+    "timestamp": "2026-08-20T07:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油の価格情報記事。具体的なニュース内容が提供されていないため、分析対象となるイベントが特定できない状況。"
   }
 ]
