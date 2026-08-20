@@ -55,17 +55,6 @@
     "summary": "米イラン間の交渉停滞を受けて原油価格が変動している。交渉進展への不確実性が市場で認識されている。既に報じられた事象の続報扱い。"
   },
   {
-    "title": "WisdomTree 銅上場投信【1693】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-08-17T09:40:06+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "WisdomTree銅上場投信（1693）のYahoo!ファイナンス掲載情報。銅ETFの株価・株式情報ページの更新・掲載で、新しいニュースイベントではなくファイナンス情報サービスの通常更新。"
-  },
-  {
     "title": "金価格は本日8月17日、大幅に上昇して取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-17T13:23:57+00:00",
     "importance": 2,
@@ -2484,5 +2473,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇を抑制していた3つの要因が徐々に消滅しつつあるとの指摘。具体的な要因の詳細は記事概要から不明だが、抑制要因の減少は価格上昇圧力を意味する。上値余地があるシナリオへの転換を示唆している。"
+  },
+  {
+    "title": "ブレント原油先物 (UKOIL-F) は8月20日に上昇 2.24%：なぜ起こったのか - TradingKey",
+    "timestamp": "2026-08-20T08:36:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月20日のブレント原油先物が2.24%上昇した。記事はこの値動きの要因を解説する分析記事であるが、具体的な根拠が提示されていない。通常のボラティリティ範囲内での変動と考えられる。"
   }
 ]
