@@ -1,16 +1,5 @@
 [
   {
-    "title": "小麦価格が急騰し、世界的な供給への懸念が高まっている。 - Vietnam.vn",
-    "timestamp": "2026-08-17T06:14:29+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "小麦価格が急騰し、世界的な供給懸念が発生している。供給ショックまたは地政学的要因による価格上昇が報告されている。詳細な原因が明確でないため、市場の注視が必要。"
-  },
-  {
     "title": "LME銅現物プレミアムが4年ぶり高水準 ジェフリーズが2026年の世界供給不足44万トンを警告 - BigGo ファイナンス",
     "timestamp": "2026-08-17T06:41:33+00:00",
     "importance": 4,
@@ -2495,5 +2484,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン間の軍事紧張が膠着状態にあり、供給リスクへの懸念から原油先物が小幅上昇。地政学的な不確実性が価格を支えている状況。"
+  },
+  {
+    "title": "金相場が1オンス4,500ドル超を維持、アジアの金鉱株が急騰 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-20T05:51:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場が1オンス4,500ドル超で堅調に推移している。アジアの金鉱株が急騰しており、金価格の上昇が関連銘柄に波及している。高金価格環境は鉱山企業の収益性向上を意味する。"
+  },
+  {
+    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-08-20T05:46:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン紛争の膠着状態が続く中、供給途絶リスクへの懸念から原油先物は小幅上昇。地政学的プレミアムは継続している。"
+  },
+  {
+    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念｜Infoseekニュース - Infoseek",
+    "timestamp": "2026-08-20T05:46:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の紛争が膠着状態にあることで、中東の供給リスク懸念が相場を下支え。原油先物は小幅な上昇に留まっている。地政学的リスクは織り込まれつつある。"
+  },
+  {
+    "title": "原油価格は小幅に動く、米国とイランの戦争でホルムズ海峡のリスクを警戒 - mezha.net",
+    "timestamp": "2026-08-20T05:55:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの紛争懸念によりホルムズ海峡の地政学リスクが再認識されている。現在のところ価格は小幅動で織り込み途上。供給遮断リスクが顕在化すれば急騰要因になる可能性。"
   }
 ]
