@@ -44,17 +44,6 @@
     "summary": "OPECアナリストBoossoがホルムズ海峡再開がOPECの市場支配力を弱める可能性を指摘。同海峡は世界原油輸送の約30%を占める重要インフラであり、再開による供給増加圧力はOPECの減産努力を無効化するリスクを警告している。地政学的緊張緩和が供給サイドの不確実性を低減させる構図。"
   },
   {
-    "title": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions - Reuters",
-    "timestamp": "2026-08-17T19:13:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国ディーゼルクラック（ディーゼル先物価格と原油先物価格の価差）が初めて1バレルあたり100ドルを超過した。供給途絶によるサプライズ供給ショックが背景。ディーゼル製品の供給逼迫が深刻化し、市場心理が大きく悪化している状況を示唆。"
-  },
-  {
     "title": "Stocks Fall, Oil Gains on Middle East Uncertainty: Markets Wrap - Bloomberg.com",
     "timestamp": "2026-08-17T22:07:13+00:00",
     "importance": 3,
@@ -1439,5 +1428,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの主要製油所タネコ(Taneco)と小規模石油ターミナルへの攻撃を実施したと発表。ロシアの石油精製能力の喪失は欧州エネルギー市場に波及し、供給逼迫懸念から原油価格の上昇圧力となる。地政学的リスク要因の顕在化により市場センチメント悪化。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-08-20T19:46:56.120518+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが発表した商業用赤肉生産統計で、前年同期比2%の減少を記録。これは畜産物供給減少を示唆し、飼料需要（トウモロコシ・大豆）の減少につながる可能性がある。米国畜産業の景気後退シグナルとして注視される。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-08-20T19:46:56.120518+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが発表した商業用赤肉生産統計で、前年同期比2%の減少を記録。これは畜産物供給減少を示唆し、飼料需要（トウモロコシ・大豆）の減少につながる可能性がある。米国畜産業の景気後退シグナルとして注視される。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-08-20T19:46:56.120518+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが発表した商業用赤肉生産統計で、前年同期比2%の減少を記録。これは畜産物供給減少を示唆し、飼料需要（トウモロコシ・大豆）の減少につながる可能性がある。米国畜産業の景気後退シグナルとして注視される。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-08-20T09:59:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "DTN Progressive Farmerの作物進捗レポート（Crop Progress）は、米国農業の定期的な作付・生育状況を報告するもの。具体的な数値情報がURLのみで本文が不明であるため、詳細な分析は困難。通常は作付進捗率や生育段階のマイルストーン更新となる。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-08-20T09:59:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "DTN Progressive Farmerの作物進捗レポート（Crop Progress）は、米国農業の定期的な作付・生育状況を報告するもの。具体的な数値情報がURLのみで本文が不明であるため、詳細な分析は困難。通常は作付進捗率や生育段階のマイルストーン更新となる。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-08-20T09:59:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "DTN Progressive Farmerの作物進捗レポート（Crop Progress）は、米国農業の定期的な作付・生育状況を報告するもの。具体的な数値情報がURLのみで本文が不明であるため、詳細な分析は困難。通常は作付進捗率や生育段階のマイルストーン更新となる。"
   }
 ]
