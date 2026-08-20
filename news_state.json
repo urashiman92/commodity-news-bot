@@ -1,27 +1,5 @@
 [
   {
-    "title": "原油相場は小幅高、中東情勢の緊迫化と供給継続の兆候が綱引き - Bloomberg.com",
-    "timestamp": "2026-08-17T14:39:06+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場は小幅高で推移。中東情勢の緊迫化が上値を支える一方で、供給継続の兆候が買い圧力を抑制している。両要因が相殺され、方向感に乏しい展開。"
-  },
-  {
-    "title": "金価格は1ヶ月で約8％上昇しましたが、今後の動向はどうなるでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-08-17T15:07:10+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が過去1ヶ月間で約8％上昇した。この記事は既に起こった値動きの振り返りと今後の見通しについての解説。"
-  },
-  {
     "title": "銅冠銅箔、時価総額1,000億元の裏で：董事会秘書兼財務責任者・王俊林氏が56歳で病死 - BigGo ファイナンス",
     "timestamp": "2026-08-17T16:25:00+00:00",
     "importance": 2,
@@ -2440,5 +2418,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡封鎖懸念により、Eミニ原油先物が2.6%急騰。中東での地政学的リスク顕在化で、原油供給の大幅な制約が懸念される。コモディティ市場で供給ショックが価格に即座に反映された。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ363ドル高、原油先物1.53ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-20T14:56:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場の午前10時台の時点値として、ダウが363ドル上昇し原油先物が1.53ドル上昇している。リスクオン相場の一部として原油も連動している様子。"
+  },
+  {
+    "title": "中国の洛陽モリブデン（CMOC）、上半期純利益161億元で過去最高 銅・金の二極戦略が本格始動、コバルト在庫が最大の変動要因に - BigGo ファイナンス",
+    "timestamp": "2026-08-20T14:40:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "中国最大手鉱山企業CMOCの上半期純利益が161億元で過去最高を更新。銅・金の二極化戦略が進展し、コバルト在庫が今後の相場変動の主要因と指摘される。"
   }
 ]
