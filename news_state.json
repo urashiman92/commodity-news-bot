@@ -1,38 +1,5 @@
 [
   {
-    "title": "株価 1100円以上の値下がり 原油先物価格上昇などを受けて - news.web.nhk",
-    "timestamp": "2026-08-18T05:13:07+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格の上昇が日本株式市場に下押し圧力をもたらし、日経平均が1100円以上下落。エネルギー関連企業やインポーター企業への悪影響が顕在化。"
-  },
-  {
-    "title": "原油価格が急騰、米国の戦略備蓄は42年ぶりの低水準に減少。 - Vietnam.vn",
-    "timestamp": "2026-08-18T05:40:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の戦略石油備蓄（SPR）が42年ぶりの低水準に減少し、供給逼迫懸念から原油価格が急騰。供給サイドの脆弱性が顕在化し、価格上振れのリスク要因として機能。"
-  },
-  {
-    "title": "〈投信ニュース〉今週の新規設定 ロンドン金価格連動目指す - 日本経済新聞",
-    "timestamp": "2026-08-18T05:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ロンドン金価格に連動する新規投信が設定される。国内投資家の金へのアクセス手段が増える。既存商品との差別化は不明。"
-  },
-  {
     "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
     "timestamp": "2026-08-18T06:30:36+00:00",
     "importance": 1,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物の現在価格表示のみで、特定のニュースイベントや市場材料を含まない。単なる価格ティッカー情報である。"
-  },
-  {
-    "title": "〈投信ニュース〉今週の新規設定 ロンドン金価格連動目指す - nikkei.com",
-    "timestamp": "2026-08-18T05:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ロンドン金価格に連動する新規投信が設定された。日本の投資家向けに金への投資手段が提供される動き。金市場そのものへの直接的な需給変化はない。"
   },
   {
     "title": "銅現物が急騰、先物との価格差5年ぶり 米国外で供給不安 - BigGo ファイナンス",
@@ -2319,5 +2275,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が高騰し歴史的高値圏にある。今後、更なる最高値更新か急落かの相場展開を巡る評論記事。具体的な新規イベントではなく相場見通しについての分析コンテンツ。"
+  },
+  {
+    "title": "世界の金価格は8月20日に下落幅を縮小した。 - Vietnam.vn",
+    "timestamp": "2026-08-21T05:13:46+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月20日の金価格は前日比で下落幅を縮小した。日中の値動きの振り返りニュースであり、特定の新規材料がない相場の日々の動き。"
+  },
+  {
+    "title": "原油価格と金利の上昇やウォルマートの決算内容下振れなどが投資家心理の重荷に - 日経CNBC online",
+    "timestamp": "2026-08-20T23:19:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇と金利上昇が相まって投資家心理を圧迫。ウォルマートの決算下振れは経済減速懸念を示唆。複数のネガティブ要因が重なり市場センチメント悪化。"
+  },
+  {
+    "title": "LME銅在庫が急増 世界需給に変化の兆し（日刊産業新聞） - Yahoo!ニュース",
+    "timestamp": "2026-08-21T04:29:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅在庫が急増し、市場の需給バランスが緩和する兆候が見られた。世界的な銅需要の伸び鈍化またはリサイクル供給増加の可能性が示唆されている。在庫増加は価格下押し圧力となる。"
   }
 ]
