@@ -1,27 +1,5 @@
 [
   {
-    "title": "USDA Crop Report shows corn and soybean quality ratings decline - Farm Progress",
-    "timestamp": "2026-08-18T11:40:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progressレポートでトウモロコシと大豆の品質格付けが低下したことが示された。品質低下は収穫量や等級別流通に影響し、最終的な収益性と市場供給に懸念を生じさせる。具体的な格付け低下率は記事から確認不可だが、作物品質の悪化は相場の下押し圧力となる可能性がある。"
-  },
-  {
-    "title": "USDA Crop Report shows corn and soybean quality ratings decline - Farm Progress",
-    "timestamp": "2026-08-18T11:40:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progressレポートでトウモロコシと大豆の品質格付けが低下したことが示された。品質低下は収穫量や等級別流通に影響し、最終的な収益性と市場供給に懸念を生じさせる。具体的な格付け低下率は記事から確認不可だが、作物品質の悪化は相場の下押し圧力となる可能性がある。"
-  },
-  {
     "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
     "timestamp": "2026-08-18T12:51:16+00:00",
     "importance": 3,
@@ -328,28 +306,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシア西部港からの石油輸出が計画比15%下回っているとトレーダーが報告。制裁やインフラ制約による供給減少が示唆され、グローバルな供給逼迫圧力が強まる可能性がある。ウクライナ情勢の継続的な影響を反映。"
-  },
-  {
-    "title": "Sunflower seeds: USDA maintains record crop forecast - Mundus Agri",
-    "timestamp": "2026-08-18T10:57:51+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが2024年のヒマワリ種子作付面積を過去最高水準で据え置いた。記録的な作付面積の維持は、油糧種子市場全体での供給増加を意味し、大豆などの競合油糧種子への下落圧力となる。市場予想範囲内の据え置きで大きなサプライズはなし。"
-  },
-  {
-    "title": "Sunflower seeds: USDA maintains record crop forecast - Mundus Agri",
-    "timestamp": "2026-08-18T10:57:51+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2024年のヒマワリ種子作付面積を過去最高水準で据え置いた。記録的な作付面積の維持は、油糧種子市場全体での供給増加を意味し、大豆などの競合油糧種子への下落圧力となる。市場予想範囲内の据え置きで大きなサプライズはなし。"
   },
   {
     "title": "EIA Weekly Petroleum Status Report August 19, 2026: Crude Stocks Up, Gasoline Prices Jump - News and Statistics - IndexBox",
@@ -1241,5 +1197,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+がホルムズ海峡の再開時に石油産出の増加で合意。地政学的リスク（海峡閉鎖）の緩和シグナルは市場に大きなインパクト。供給懸念の軽減により原油価格は上昇圧力を受ける可能性が高い。同時に増産合意は中期的な価格抑制要因となる可能性も。"
+  },
+  {
+    "title": "Saudis Shuttle Oil North on Sinokor Tankers to Evade Houthis - Bloomberg.com",
+    "timestamp": "2026-08-21T07:09:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがシノコール・タンカーズを利用し、フーシ派の脅威を回避するため紅海北部経由での石油輸送ルート変更を実施。これまでのスエズ運河経由から代替ルートへのシフトにより、海上輸送コスト増加と配送時間延長が発生。中東からの石油供給の地政学的リスク顕在化により、原油価格の上値支持要因となる。"
   }
 ]
