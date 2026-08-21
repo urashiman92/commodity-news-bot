@@ -1,16 +1,5 @@
 [
   {
-    "title": "金利上昇とブレント原油価格の下落が株式市場を押し下げる中、BTC価格は64,000ドルに - CoinDesk",
-    "timestamp": "2026-08-18T10:44:37+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "金利上昇局面でブレント原油が下落し株式市場が押し下げられている。一般的なマクロ環境の悪化を反映した相場動向。仮想通貨市場はBTC64,000ドルで推移しており、原油市場との直接的な連動性は限定的。"
-  },
-  {
     "title": "8月18日午後：世界の金価格は下落を続け、国内の金価格は「落ち着きを取り戻した」。 - Vietnam.vn",
     "timestamp": "2026-08-18T11:00:06+00:00",
     "importance": 2,
@@ -119,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油は3日続伸で値動きが大きい。米イラン対立は膠着状態が続いており、地政学的緊張の即時的な悪化はない。上昇トレンドは技術的・需給要因に基づくもの。"
-  },
-  {
-    "title": "ホルムズ海峡で再び貨物船攻撃 米イラン停戦崩壊で原油価格が90ドル突破 - BigGo ファイナンス",
-    "timestamp": "2026-08-18T10:47:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡でカーゴ船への攻撃が発生し、米イラン間の停戦が崩壊。世界有数の石油輸送要路における地政学リスクの急激な悪化により、原油価格が90ドルを突破した。"
   },
   {
     "title": "金鉱株が下落、金価格は利回り上昇で後退 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2275,5 +2253,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "国際両備フェリーが中東情勢による原油高騰を受け、岡山～小豆島間で燃油サーチャージを導入。既に報じられた原油価格上昇への企業側の対応事例。"
+  },
+  {
+    "title": "$金先物(2612) (GCmain.US)$ とことん行かんかーい！ - Moomoo",
+    "timestamp": "2026-08-21T09:45:34+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物相場が期待する上昇を実現していないことへの市場参加者の声。具体的なファンダメンタルズやテクニカルの根拠を欠いた相場観の表現。"
   }
 ]
