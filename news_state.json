@@ -1,82 +1,5 @@
 [
   {
-    "title": "アングル：金価格が回復傾向、中銀・機関投資家需要が支援 - ロイター",
-    "timestamp": "2026-08-18T01:49:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が回復傾向を示しており、中央銀行と機関投資家の需要が支援要因となっている。既存のトレンドの確認と需要サイドからの強気見通しを解説したもの。"
-  },
-  {
-    "title": "金価格が4,420ドルを突破。 - Vietnam.vn",
-    "timestamp": "2026-08-18T01:03:24+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,420ドルを突破した。既存トレンドの継続報告。具体的な買い・売り要因の記載がない。"
-  },
-  {
-    "title": "今日の金価格：上昇を継続、ETFへの強い買い流入あり。 - Vietnam.vn",
-    "timestamp": "2026-08-18T01:53:40+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が上昇を続けており、ETFへの買い流入が強まっている。これは既に進行中の上昇トレンドの確認報道。"
-  },
-  {
-    "title": "外為サマリー：一時１５９円５０銭台に上昇、原油価格の上昇を警戒 - 株探",
-    "timestamp": "2026-08-18T01:37:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円が一時159円50銭まで上昇。原油価格の上昇が円安要因として警戒されている。為替市場での動きに関する解説記事。"
-  },
-  {
-    "title": "原油価格が小幅上昇、イラン危機が継続する中で下支え 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-18T01:37:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン情勢の緊張が継続する中、原油価格は小幅な上昇を維持している。供給リスク要因により相場は下支えされている状態。既知の地政学的リスクの継続報道。"
-  },
-  {
-    "title": "原油価格の反発を受け、ウォール街は下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-18T01:03:23+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が反発する中、米国株式市場（ウォール街）が下落した。原油高がエネルギー企業以外の企業収益圧迫や金利上昇懸念を招いた可能性。"
-  },
-  {
-    "title": "銅価格が最高値更新 必和必拓（BHP）通期利益30％増 銅部門の収益が初めて鉄鉱石を上回る - BigGo ファイナンス",
-    "timestamp": "2026-08-18T01:32:41+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "BHP通期利益30％増で銅部門収益が初めて鉄鉱石を上回った。銅価格が最高値を更新し、主要鉱山企業の収益性向上が鮮明。供給側の強気姿勢が継続する可能性を示唆。"
-  },
-  {
     "title": "INPEXが大幅反発、一時5月下旬以来の高値 NY原油は85ドル台に上昇 - BigGo ファイナンス",
     "timestamp": "2026-08-18T02:37:43+00:00",
     "importance": 3,
@@ -108,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格上昇がインフレ懸念を招き、日経平均が1500円超の下落を記録。株式市場がエネルギーコスト上昇による経済への悪影響を織り込んだ。"
-  },
-  {
-    "title": "為替本日の注目点】ＷＴＩ原油価格８４ドル台に(サーチナ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-18T01:44:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油価格が84ドル台で推移している状況についての解説記事。現在の価格水準は市場参加者にとって既知の情報であり、特段の新規材料を含まない。"
   },
   {
     "title": "日経平均、一時1500円超値下がり　原油価格上昇でインフレ警戒感広がる - ｄメニューニュース",
@@ -627,17 +539,6 @@
     "summary": "米イラン和平交渉の期待が後退したことで、地政学的リスク懸念が再燃し原油先物が3週間ぶりの高値を更新。供給途絶懸念が価格を押し上げている。和平交渉の進展不透明性が継続的な上値支持要因。"
   },
   {
-    "title": "銅価格が最高値更新 必和必拓（BHP）通期利益30％増 銅部門の収益が初めて鉄鉱石を上回る - BigGo ファイナンス",
-    "timestamp": "2026-08-18T01:26:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高値を更新し、BHP通期利益が30%増加。銅部門の収益が初めて鉄鉱石を上回り、銅需要の強さと市場支配力を示唆している。エネルギー転換・電気自動車需要拡大の構造的な銅需給逼迫が継続。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4334ドル｜イラン情勢の悪化による原油価格の上昇が影響した模様(2026年8月19日) - OANDA証券",
     "timestamp": "2026-08-18T23:03:49+00:00",
     "importance": 3,
@@ -669,17 +570,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイラン情勢の軍事的解決を急がない姿勢を示唆したことで、地政学的リスク低下への懸念が後退。供給途絶リスク継続で原油相場が上昇。"
-  },
-  {
-    "title": "BHP、銅が成長を牽引しH2 2026年利益が30%増加 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-18T01:12:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "BHPが銅主導での利益成長を見込み、H2 2026年の利益30%増加を予想。世界的な銅需要の強気見通しを示唆。大手鉱山企業による向こう見通しは市場センチメント改善につながる可能性。"
   },
   {
     "title": "１８日の主要国際商品市況 - 株探",
@@ -2429,5 +2319,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ブレント原油価格は比較的安定している一方で、ディーゼル燃料の供給不足が石油市場全体に上昇圧力を加えている。精製製品と原油の価格乖離が発生している市場環境を指摘する解説記事。"
+  },
+  {
+    "title": "世界の金価格は1オンスあたり4,500ドル前後で推移している。 - Vietnam.vn",
+    "timestamp": "2026-08-21T00:50:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり4,500ドル前後で推移していることを報じたもの。現在の価格水準の事実報告であり、新規の情報要素に乏しい。"
+  },
+  {
+    "title": "日本市場、米長期金利反発し株・債券安へ－原油価格上昇も重しに - Bloomberg.com",
+    "timestamp": "2026-08-20T23:11:37+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米長期金利が反発し、日本の株式・債券市場が下落。一方、原油価格は上昇しているが、全体的には金利上昇が主導する市場動向の解説記事。"
+  },
+  {
+    "title": "原油価格、1カ月ぶり高値から下落も週間では上昇へ――米イラン緊張が続く 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-21T01:26:00+00:00",
+    "importance": 3,
+    "direction": "上�昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油は1ヶ月ぶり高値から調整局面にあるも、週間ベースでは上昇を維持。米イラン緊張の継続が相場を下支えしている。地政学的リスクプレミアムが価格形成の主要因。"
+  },
+  {
+    "title": "原油先物、2週連続上昇へ 米イラン戦争膠着で供給懸念 - ニューズウィーク日本版",
+    "timestamp": "2026-08-21T02:14:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの軍事衝突が膠着状態にあることで、中東からの石油供給途絶リスクが継続的に意識されている。この懸念が原油先物を2週連続で押し上げている。既に報じられた地政学的緊張の延長線上での相場動き。"
+  },
+  {
+    "title": "２０日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-08-20T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "20日の主要国際商品市況の定期報道。具体的な価格データや市場動向の詳細が記事本文なしでは判断不可。"
   }
 ]
