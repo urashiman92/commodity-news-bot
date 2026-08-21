@@ -1,38 +1,5 @@
 [
   {
-    "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
-    "timestamp": "2026-08-18T12:51:16+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
-  },
-  {
-    "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
-    "timestamp": "2026-08-18T12:51:16+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
-  },
-  {
-    "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
-    "timestamp": "2026-08-18T12:51:16+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イランとの交渉が膠着状態にある中、地政学的リスク回避により原油価格が上昇。同時に米国債利回りも上昇し、米国株式市場は下落見通し。原油は上昇圧力を受ける一方、利回り上昇は無利子資産である金の下落圧力となる混合シグナル。"
-  },
-  {
     "title": "Energy Stocks Soar to Record as Oil Rises on Trump’s Hard Line - Bloomberg.com",
     "timestamp": "2026-08-18T13:59:04+00:00",
     "importance": 4,
@@ -737,17 +704,6 @@
     "summary": "2026年米国大豆の収量見通しに関する事前・事後レポート。具体的な数値や予想変更幅が記事タイトルのみからは判断できない。定期的な作物進捗分析の一環と見られるが、詳細内容へのアクセスがないため、市場サプライズ度は不確定。"
   },
   {
-    "title": "Forget OPEC+ Output Hike – Duration of Hormuz Disruption is What Matters - EnergyNow.com",
-    "timestamp": "2026-08-18T11:54:29+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の通行障害の継続期間が、OPEC+の増産決定よりも原油価格に与える影響が大きいという分析。地政学的リスク要因がファンダメンタルズを上回る可能性を指摘。供給途絶の長期化シナリオが価格上昇圧力となる。"
-  },
-  {
     "title": "China Buys Saudi Crude in Rare Tender as Imports Stay Muted - Bloomberg.com",
     "timestamp": "2026-08-20T09:43:05+00:00",
     "importance": 2,
@@ -1208,5 +1164,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがシノコール・タンカーズを利用し、フーシ派の脅威を回避するため紅海北部経由での石油輸送ルート変更を実施。これまでのスエズ運河経由から代替ルートへのシフトにより、海上輸送コスト増加と配送時間延長が発生。中東からの石油供給の地政学的リスク顕在化により、原油価格の上値支持要因となる。"
+  },
+  {
+    "title": "USDA trims wheat stocks as corn, soybean production forecasts shift - High Plains Journal",
+    "timestamp": "2026-08-21T12:56:15+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDEレポートで小麦在庫が下方修正される一方、トウモロコシと大豆の生産予想が調整された。複数の穀物在庫・生産見通しの同時修正は、北米穀物市場全体のバランス変化を示唆している。具体的な修正幅は記事タイトルのみでは不明確だが、作付・生産量見直しは価格形成に影響。"
+  },
+  {
+    "title": "USDA trims wheat stocks as corn, soybean production forecasts shift - High Plains Journal",
+    "timestamp": "2026-08-21T12:56:15+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDEレポートで小麦在庫が下方修正される一方、トウモロコシと大豆の生産予想が調整された。複数の穀物在庫・生産見通しの同時修正は、北米穀物市場全体のバランス変化を示唆している。具体的な修正幅は記事タイトルのみでは不明確だが、作付・生産量見直しは価格形成に影響。"
+  },
+  {
+    "title": "USDA trims wheat stocks as corn, soybean production forecasts shift - High Plains Journal",
+    "timestamp": "2026-08-21T12:56:15+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDEレポートで小麦在庫が下方修正される一方、トウモロコシと大豆の生産予想が調整された。複数の穀物在庫・生産見通しの同時修正は、北米穀物市場全体のバランス変化を示唆している。具体的な修正幅は記事タイトルのみでは不明確だが、作付・生産量見直しは価格形成に影響。"
+  },
+  {
+    "title": "Saudi Arabia top buyer of Russian seaborne fuel oil in July, data shows​ - Reuters",
+    "timestamp": "2026-08-21T09:35:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "7月時点でサウジアラビアがロシア産重油（燃料油）の最大購入国となったことが取引データで判明。これはロシア産エネルギー製品の貿易フローを示す定期的なレポートで、制裁回避の取引構造を確認させるものであるが、新たな価格インパクトは限定的。"
   }
 ]
