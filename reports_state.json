@@ -1,60 +1,5 @@
 [
   {
-    "title": "Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-08-18T20:56:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIA週間在庫統計において、原油在庫がほぼ変動がない一方で、留分油（ディーゼル・暖房油）在庫が大幅に減少している。供給不均衡が顕在化しており、精製マージンと需要動向の乖離が市場の注視ポイントとなっている。"
-  },
-  {
-    "title": "Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-08-18T20:56:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国EIA週間在庫統計において、原油在庫がほぼ変動がない一方で、留分油（ディーゼル・暖房油）在庫が大幅に減少している。供給不均衡が顕在化しており、精製マージンと需要動向の乖離が市場の注視ポイントとなっている。"
-  },
-  {
-    "title": "Copper, Gold, and Silver Outlook: Ole Hansen on Tariffs, AI Demand, and Record Prices - News and Statistics - IndexBox",
-    "timestamp": "2026-08-18T21:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Ole Hansen氏によるコモディティ見通しレポート。銅と金は過去最高値更新の局面にあり、AI需要と米関税政策が主要なドライバーとして機能。金利・ドル動向、地政学的リスク、AI関連産業の電力・銅需要が複合的に価格を支える一方、金融引き締めリスクが金下落圧力。"
-  },
-  {
-    "title": "Copper, Gold, and Silver Outlook: Ole Hansen on Tariffs, AI Demand, and Record Prices - News and Statistics - IndexBox",
-    "timestamp": "2026-08-18T21:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "Ole Hansen氏によるコモディティ見通しレポート。銅と金は過去最高値更新の局面にあり、AI需要と米関税政策が主要なドライバーとして機能。金利・ドル動向、地政学的リスク、AI関連産業の電力・銅需要が複合的に価格を支える一方、金融引き締めリスクが金下落圧力。"
-  },
-  {
-    "title": "Copper, Gold, and Silver Outlook: Ole Hansen on Tariffs, AI Demand, and Record Prices - News and Statistics - IndexBox",
-    "timestamp": "2026-08-18T21:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銀",
-    "summary": "Ole Hansen氏によるコモディティ見通しレポート。銅と金は過去最高値更新の局面にあり、AI需要と米関税政策が主要なドライバーとして機能。金利・ドル動向、地政学的リスク、AI関連産業の電力・銅需要が複合的に価格を支える一方、金融引き締めリスクが金下落圧力。"
-  },
-  {
     "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
     "timestamp": "2026-08-18T22:15:35+00:00",
     "importance": 2,
@@ -240,39 +185,6 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "8月のWASDE（米農務省作物見通し）でトウモロコシの生産予想が引き下げられた。CBOTのトウモロコシ先物は売り圧力を受けたが、市場予想の範囲内での調整。供給見通しの悪化にもかかわらず、下げ幅は限定的。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-08-18T20:45:58+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国農務省の定期的な作物進捗レポート（Crop Progress）は、トウモロコシ、小麦、大豆などの生育段階と作付面積の現況を報告する。本レポートは予定された週次統計であり、市場はすでに同時期の平年値との比較を織り込んでいる可能性が高い。具体的な数値が提示されていないため、予想比のサプライズ度は判断不可。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-08-18T20:45:58+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国農務省の定期的な作物進捗レポート（Crop Progress）は、トウモロコシ、小麦、大豆などの生育段階と作付面積の現況を報告する。本レポートは予定された週次統計であり、市場はすでに同時期の平年値との比較を織り込んでいる可能性が高い。具体的な数値が提示されていないため、予想比のサプライズ度は判断不可。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-08-18T20:45:58+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国農務省の定期的な作物進捗レポート（Crop Progress）は、トウモロコシ、小麦、大豆などの生育段階と作付面積の現況を報告する。本レポートは予定された週次統計であり、市場はすでに同時期の平年値との比較を織り込んでいる可能性が高い。具体的な数値が提示されていないため、予想比のサプライズ度は判断不可。"
   },
   {
     "title": "Grain Trends: US crop area up to balance reduced yields 19 August 2026 Premium - Irish Farmers Journal",
@@ -1164,5 +1076,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "グローバル株式市場は厳しい1週間を終え、債券利回りと原油価格が高止まりしている状況が報道されている。金利上昇環境が継続する中、リスク資産と無利子資産の価格動向に分化が生じており、コモディティ市場全体に対して異なる方向性の圧力が作用している。"
+  },
+  {
+    "title": "Corn Has the Volume, but the August WASDE Says Margins Still Matter - AgroLatam",
+    "timestamp": "2026-08-21T14:34:18+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "8月のWASDE報告書はトウモロコシの取引量は豊富だが、利幅の重要性が依然として続くことを指摘。タイトルは価格ボリュームと収益性のバランスが市場の主要テーマであることを示唆。供給量と需要の関係が安定的であっても、マージン圧力が生産者と関係者のポジション決定を左右する状況。"
+  },
+  {
+    "title": "Will Iraq leave OPEC, or will OPEC allow Iraq to double exports within six years? - Energy News Beat",
+    "timestamp": "2026-08-21T20:41:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC離脱するか、あるいはOPECがイラクの6年以内の輸出倍増を容認するかという二者択一の構図が浮上。イラクは現在の生産制約に不満を抱いており、OPECの生産割当枠の拡大交渉が焦点。この決定は中東の供給構図と原油価格に重要な含意を持つ。"
+  },
+  {
+    "title": "Iran War Hands OPEC’s Swing Producer Crown to America: Bousso - EnergyNow.com",
+    "timestamp": "2026-08-21T19:32:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化によりOPECの調整産油国（スイングプロデューサー）の地位が従来のサウジアラビアから米国にシフトする可能性が指摘されている。地政学的リスク要因により原油供給の不確実性が高まり、価格上昇圧力が強まる見通し。米国のシェール生産能力が供給調整の主導権を握るシナリオは市場構造の大きな転換を意味する。"
   }
 ]
