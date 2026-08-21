@@ -1,16 +1,5 @@
 [
   {
-    "title": "【本日の材料と銘柄】金価格が回復傾向(フィスコ) - finance.yahoo.co.jp",
-    "timestamp": "2026-08-18T22:43:13+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が回復傾向にあるとの観測記事。具体的な値動きや要因は不明だが、既に方向性が報じられている。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4334ドル｜イラン情勢の悪化による原油価格の上昇が影響した模様(2026年8月19日) - OANDA証券",
     "timestamp": "2026-08-18T23:03:49+00:00",
     "importance": 3,
@@ -2209,5 +2198,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油先物が87.06ドルで引け、前日比0.26%上昇。微小な変動幅であり、特段の材料を示さない日々の相場振り返り。"
+  },
+  {
+    "title": "金価格、3カ月ぶり高値の約4661ドルを記録──ドル安で貴金属価格が再び上昇基調に - Yahoo!ニュース",
+    "timestamp": "2026-08-21T22:02:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3カ月ぶりの高値である約4661ドルを記録。ドル安進行が背景で、貴金属相場が上昇基調を取り戻している。既知のドル安トレンドの延長線上での値動き。"
+  },
+  {
+    "title": "NY金先物：続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-21T22:16:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が続伸。米長期金利上昇にもかかわらず、株価下落と地政学リスクが質への逃避買いを誘発。安全資産としての金の需要が優勢。"
+  },
+  {
+    "title": "世界の金価格が急騰しているのに、なぜSJCの金価格は国際価格よりも低いのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-08-21T22:42:58+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が国際価格より低い理由についての解説記事。世界金価格上昇時の価格乖離メカニズムを分析している。市場メカニズムの説明であり、新規の価格変動要因ではない。"
+  },
+  {
+    "title": "NY原油先物：小反落、対イラン制裁強化観測での上昇分を時間外で削る展開 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-21T22:17:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が小幅反落。対イラン制裁強化期待による上昇分を時間外で削る展開。既に織り込み始めた相場の調整局面と見られる。"
+  },
+  {
+    "title": "NY原油先物：小反落、対イラン制裁強化観測での上昇分を時間外で削る展開(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-21T22:20:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が小反落。対イラン制裁強化観測での上昇分が時間外取引で削られた。地政学的リスク要因と利益確定売りのバランスが取れた展開。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ379ドル高、原油先物0.50ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-21T14:30:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の相場情報報道。ダウ指数は379ドル高で推移する一方、WTI原油先物は0.50ドル安で小幅下落。市場全体は堅調だが原油は弱含み。"
   }
 ]
