@@ -1,16 +1,5 @@
 [
   {
-    "title": "INPEXが大幅反発、一時5月下旬以来の高値 NY原油は85ドル台に上昇 - BigGo ファイナンス",
-    "timestamp": "2026-08-18T02:37:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油が85ドル台に上昇し、INPEXが5月下旬以来の高値まで反発した。市場全体の原油価格上昇トレンドを受けた関連銘柄の追随買いと考えられる。"
-  },
-  {
     "title": "8月18日午前、国内の金価格は上昇したが、世界の金価格は下落した。 - Vietnam.vn",
     "timestamp": "2026-08-18T03:46:16+00:00",
     "importance": 1,
@@ -42,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格上昇を受けてインフレ警戒感が広がり、日経平均が1500円超の下落。株式市場の調整局面。原油高がエネルギーコストを押し上げ、経済成長への懸念が材料。"
-  },
-  {
-    "title": "穀物メジャーのカーギル、通期増益－市場のボラティリティーが追い風 - bloomberg.com",
-    "timestamp": "2026-08-18T02:38:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "穀物メジャーのカーギルが通期増益を達成。市場のボラティリティが利益増加に寄与したことが報じられた。穀物市場の価格変動を活用した取引利益の拡大を示唆。"
   },
   {
     "title": "銅価格は過去最高値に近づいている。 - Vietnam.vn",
@@ -284,17 +262,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月18日午後時点で世界の金価格は下落が継続している。ベトナム国内の金価格は「落ち着きを取り戻した」と報道。既存のトレンドの継続報告。"
-  },
-  {
-    "title": "穀物メジャーのカーギル、通期増益－市場のボラティリティーが追い風 - Infoseek",
-    "timestamp": "2026-08-18T02:38:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "穀物メジャーのカーギルが市場のボラティリティーを背景に通期増益を達成。価格変動を活用した取引利益が拡大し、穀物商社の収益性が向上。大豆を含む穀物市場の価格ボラティリティーが企業業績にプラス。"
   },
   {
     "title": "金価格は2026年末までに1オンスあたり5,200米ドルに上昇すると予測されています - Laodong.vn",
@@ -2374,5 +2341,38 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "20日の主要国際商品市況の定期報道。具体的な価格データや市場動向の詳細が記事本文なしでは判断不可。"
+  },
+  {
+    "title": "金価格、ドル安と米国債買い戻しを追い風に週間上昇を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-21T02:21:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が週間で上昇を維持。ドル安進行と米国債買い戻し需要が価格上昇を支援。既知の複数要因の組み合わせによる継続的な上昇トレンド。"
+  },
+  {
+    "title": "原油先物、2週連続上昇へ 米イラン戦争膠着で供給懸念 - ロイター",
+    "timestamp": "2026-08-21T02:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの地政学的緊張が継続する中、原油供給懸念から先物相場は2週連続の上昇トレンドを維持。既知の膠着状態が相場の上値支持要因として機能している状況の整理記事。"
+  },
+  {
+    "title": "東京株式（前引け）＝前日比２０８円安、原油価格の上昇などを警戒 - 株探",
+    "timestamp": "2026-08-21T02:52:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東京株式市場が前日比208円安で前引け。原油価格の上昇が株価下押し要因として機能している。インフレ懸念と企業利益圧迫への警戒感。"
   }
 ]
