@@ -1,27 +1,5 @@
 [
   {
-    "title": "Supply Crunch Grips Copper Market as Key Spread Flares Out - Bloomberg.com",
-    "timestamp": "2026-08-18T02:43:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "銅市場で供給逼迫が深刻化し、重要なスプレッド（先物の期間差）が大きく拡大している。供給制約の急速な悪化が市場心理を大きく変え、物理需給の逼迫を示唆するシグナルが点灯した。スプレッドの拡大は近い将来の供給不足懸念を反映し、銅価格の上昇圧力が強まっている。"
-  },
-  {
-    "title": "Supply Crunch Grips Copper Market as Key Spread Flares Out - Bloomberg.com",
-    "timestamp": "2026-08-18T02:43:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "銅市場で供給逼迫が深刻化し、重要なスプレッド（先物の期間差）が大きく拡大している。供給制約の急速な悪化が市場心理を大きく変え、物理需給の逼迫を示唆するシグナルが点灯した。スプレッドの拡大は近い将来の供給不足懸念を反映し、銅価格の上昇圧力が強まっている。"
-  },
-  {
     "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
     "timestamp": "2026-08-18T07:12:54+00:00",
     "importance": 4,
@@ -1362,5 +1340,16 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版が発表されました。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗状況や生育状況に関する定期統計ですが、具体的な数値がリンク先に未掲載のため詳細は不明です。"
+  },
+  {
+    "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
+    "timestamp": "2026-08-21T01:50:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とイランの緊張関係が激化し、地政学的リスクが高まっている。中東地域の供給懸念を背景に、原油は2週連続の週間上昇が見込まれている。イランの核問題や地域紛争が石油市場の重要なサプライショック要因として機能している。"
   }
 ]
