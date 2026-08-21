@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は2026年末までに1オンスあたり5,200米ドルに上昇すると予測されています - Laodong.vn",
-    "timestamp": "2026-08-18T12:14:56+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリストが2026年末の金価格を1オンス5,200米ドルに上昇すると予測。現在の相場から見た強気シナリオだが、既報のアナリスト予測の域を出ない。市場への実質的なインパクトは限定的。"
-  },
-  {
     "title": "金価格は本日8月18日も上昇を続けた。 - Vietnam.vn",
     "timestamp": "2026-08-18T14:00:40+00:00",
     "importance": 2,
@@ -42,17 +31,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "ウクライナ情勢による黒海経由の小麦輸出停止が発生し、世界的な小麦供給逼迫懸念から価格が上昇。米国産小麦への需要が拡大している。"
-  },
-  {
-    "title": "専門家は、来週金価格が再び上昇すると予測している。 - Vietnam.vn",
-    "timestamp": "2026-08-18T11:59:08+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの専門家が来週の金価格上昇を予測している。既存のトレンド分析に基づく観測的なコメント。具体的な新規材料は含まれていない。"
   },
   {
     "title": "USDAが作物状況評価を引き下げ、トウモロコシ先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -119,17 +97,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "低金利環境が金価格の上昇要因となるというコメンタリー。金は利息生まない資産のため、低金利下では相対的な魅力が高まる。既知のメカニズムの説明記事。"
-  },
-  {
-    "title": "記録的な銅価格は銅相場を支えられるか？ - Traders Union",
-    "timestamp": "2026-08-18T12:19:33+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が記録的な水準に達している。投資家の間で、この高値が持続可能かどうかについて関心が集まっている。需給バランスと市場心理の継続性が焦点。"
   },
   {
     "title": "原油先物3週間ぶり高値、米イラン和平交渉巡る期待後退 - ロイター",
@@ -2297,5 +2264,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "神奈川県海老名市の銅製シンボル像が盗難被害。銅価格高騰が背景にあると報道。現在の銅相場では金属スクラップの経済価値が上昇。"
+  },
+  {
+    "title": "国内の金価格は世界の金価格よりも低い！ - Vietnam.vn",
+    "timestamp": "2026-08-21T12:29:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が世界相場より低いという観測報道。国内市場の価格形成メカニズムに関する解説であり、市場の方向性を示すものではない。"
   }
 ]
