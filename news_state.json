@@ -1,49 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4334ドル｜イラン情勢の悪化による原油価格の上昇が影響した模様(2026年8月19日) - OANDA証券",
-    "timestamp": "2026-08-18T23:03:49+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4334ドルまで下落。イラン情勢悪化に伴う原油価格上昇が、相対的にドル高・実質金利上昇をもたらし、金売圧につながった。既報イベントの相場への織り込み局面。"
-  },
-  {
-    "title": "本日8月19日の金価格：SJCの金価格は世界的なトレンドに沿って下落するリスクがあるのか​​？ - Vietnam.vn",
-    "timestamp": "2026-08-18T23:06:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムSJCの金価格が世界的なトレンドに沿って下落するリスクについての解説記事。現在の金相場動向を背景にした観測コメント。"
-  },
-  {
-    "title": "１８日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-18T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "18日の主要国際商品市況の定期レポート。具体的な商品別の価格変動や市場トレンドについての記事。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議の進展が見られないことが影響し、原油価格は3営業日連続で上昇（2026年8月19日） - OANDA証券",
-    "timestamp": "2026-08-18T23:13:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの和平協議進展の鈍化により、中東地政学リスクが高まったと解釈され、原油価格が3営業日連続で上昇。供給リスク懸念が価格を支援している。"
-  },
-  {
     "title": "投資ファンドが売り浴びせ、金価格が下落。 - Vietnam.vn",
     "timestamp": "2026-08-19T00:19:03+00:00",
     "importance": 2,
@@ -86,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランと米国のホルムズ海峡をめぐる対立が継続している。4日連続で原油価格が上昇しており、地政学的リスクプレミアムが市場に反映されている。"
-  },
-  {
-    "title": "１８日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-18T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "18日の主要国際商品市況に関する定期的な市場報告。具体的な価格データや市況詳細が示されていないため、詳細な分析が不可能。"
   },
   {
     "title": "金相場、大幅下落後に下げ止まる――原油高・債券利回り上昇が圧迫、FED議事録に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2264,5 +2209,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午前10時台の相場情報報道。ダウ指数は379ドル高で推移する一方、WTI原油先物は0.50ドル安で小幅下落。市場全体は堅調だが原油は弱含み。"
+  },
+  {
+    "title": "NY金先物は続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 - ザイFX！",
+    "timestamp": "2026-08-21T22:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が続伸。米長期金利上昇という金に逆風の中でも、株価下落と地政学リスクの高まりにより、安全資産への逃避買いが優勢。質への需要が金価格を支えている。"
   }
 ]
