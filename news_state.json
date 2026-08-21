@@ -1,16 +1,5 @@
 [
   {
-    "title": "銅現物が急騰、先物との価格差5年ぶり 米国外で供給不安 - BigGo ファイナンス",
-    "timestamp": "2026-08-18T07:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅現物価格が先物との価格差が5年ぶりの水準となるほど急騰。米国外での供給不安が背景。物理的な銅需給の逼迫を示唆する重要なシグナル。"
-  },
-  {
     "title": "AIインフラ需要が銅価格を高値圏で下支え 供給逼迫と下流の様子見が綱引き - BigGo ファイナンス",
     "timestamp": "2026-08-18T08:06:00+00:00",
     "importance": 3,
@@ -372,17 +361,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムSJCの金価格が世界的なトレンドに沿って下落するリスクについての解説記事。現在の金相場動向を背景にした観測コメント。"
-  },
-  {
-    "title": "原油相場上昇、米国が対イラン戦争終結を急がない姿勢示唆 - TBS NEWS DIG",
-    "timestamp": "2026-08-18T06:50:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン情勢の軍事的解決を急がない姿勢を示唆したことで、地政学的リスク低下への懸念が後退。供給途絶リスク継続で原油相場が上昇。"
   },
   {
     "title": "１８日の主要国際商品市況 - 株探",
@@ -2308,5 +2286,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金と原油の両者が高止まり・上昇基調にあるという市場観測の報道。既に市場に織り込まれている状況の確認的なニュース。"
+  },
+  {
+    "title": "金利急騰でも金価格が同時上昇…財政不安が新たな燃料に - BigGo ファイナンス",
+    "timestamp": "2026-08-21T06:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金利上昇局面において金価格が同時に上昇する異例の現象が発生。従来は逆相関関係にあるが、財政不安がリスク資産回避（セーフヘイブン需要）を促進。インフレヘッジおよび政府債務懸念が金の買い要因となっている。"
+  },
+  {
+    "title": "逆張り指標から見た通り金相場が底打ち - 早見雄二郎",
+    "timestamp": "2026-08-21T07:09:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリスト早見雄二郎氏が逆張り指標に基づき、金相場が底打ちしたと指摘。テクニカル分析の観点から上昇転換の可能性を提示している。"
+  },
+  {
+    "title": "２１日の米国債券市場見通し＝中東情勢と原油価格に注意 速報 - kabushiki.jp",
+    "timestamp": "2026-08-21T07:29:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国債券市場の見通しを扱う解説記事。中東情勢と原油価格の連動に注意を促している。具体的な新規材料や統計発表は含まれていない。"
   }
 ]
