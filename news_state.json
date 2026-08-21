@@ -1,27 +1,5 @@
 [
   {
-    "title": "速報（8月18日）：原油価格が1バレル91ドルに急騰、金価格も急上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-18T04:38:33+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月18日、原油価格が1バレル91ドルまで急騰し、同時に金価格も上昇した。複数コモディティの同時上昇が観測されている。詳細な上昇要因は記事概要からは不明。"
-  },
-  {
-    "title": "金オプションのスキューがコール優勢に転換 サスケハナ「資金流入は1月以来の強さ」 - BigGo ファイナンス",
-    "timestamp": "2026-08-18T04:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金オプション市場のスキューがコール優勢に転換し、買い圧力の強さが示唆されている。サスケハナによると資金流入は1月以来の水準。市場参加者の金上昇期待が高まっている可能性。"
-  },
-  {
     "title": "株価 1100円以上の値下がり 原油先物価格上昇などを受けて - news.web.nhk",
     "timestamp": "2026-08-18T05:13:07+00:00",
     "importance": 3,
@@ -2330,5 +2308,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅が金と比較して投資選択肢として安定性を持つことを論じた解説記事。銅の投資価値や特性についてのコメンタリー。"
+  },
+  {
+    "title": "金価格は高騰しており、新たな最高値を更新するか、それとも再び急落するか？ - Vietnam.vn",
+    "timestamp": "2026-08-21T04:51:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が高騰し歴史的高値圏にある。今後、更なる最高値更新か急落かの相場展開を巡る評論記事。具体的な新規イベントではなく相場見通しについての分析コンテンツ。"
   }
 ]
