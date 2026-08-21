@@ -99,17 +99,6 @@
     "summary": "金価格が回復傾向にあるとの観測記事。具体的な値動きや要因は不明だが、既に方向性が報じられている。"
   },
   {
-    "title": "NY金先物相場、下げ渋り 4451ドル台で推移 - Moomoo",
-    "timestamp": "2026-08-18T15:20:34+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物相場が4451ドル台で推移し、下げ渋りの状態にある。相場の現在値の報告に過ぎず、具体的な新材料や価格変動の要因は不明。"
-  },
-  {
     "title": "米天然ガス先物が上昇、原油価格の上昇が追い風に 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-18T20:09:00+00:00",
     "importance": 2,
@@ -2242,5 +2231,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が最高値を更新し、主要銅鉱山企業フリーポート・マクモランの株価が急騰。需要堅調と供給逼迫懸念が背景。グリーンエネルギー転換需要が銅市場を押し上げている。"
+  },
+  {
+    "title": "原油価格は供給リスクを背景に、2週連続の上昇に向かっている。 - Vietnam.vn",
+    "timestamp": "2026-08-21T15:53:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が供給リスクを背景に2週連続で上昇している。ニュース記事は既に進行中の相場動向を報じたもの。供給懸念は継続要因として機能している。"
   }
 ]
