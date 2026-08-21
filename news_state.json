@@ -1,16 +1,5 @@
 [
   {
-    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
-    "timestamp": "2026-08-18T06:30:36+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物の現在価格表示のみで、特定のニュースイベントや市場材料を含まない。単なる価格ティッカー情報である。"
-  },
-  {
     "title": "銅現物が急騰、先物との価格差5年ぶり 米国外で供給不安 - BigGo ファイナンス",
     "timestamp": "2026-08-18T07:25:00+00:00",
     "importance": 4,
@@ -2308,5 +2297,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "LME銅在庫が急増し、市場の需給バランスが緩和する兆候が見られた。世界的な銅需要の伸び鈍化またはリサイクル供給増加の可能性が示唆されている。在庫増加は価格下押し圧力となる。"
+  },
+  {
+    "title": "世界の金価格は高止まりしており、原油価格も上昇を続けている。 - Vietnam.vn",
+    "timestamp": "2026-08-21T06:11:30+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金と原油の両者が高止まり・上昇基調にあるという市場観測の報道。既に市場に織り込まれている状況の確認的なニュース。"
   }
 ]
