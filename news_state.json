@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油相場は3日続伸、大きな値動き－米イランの対立は膠着状態 - Bloomberg.com",
-    "timestamp": "2026-08-18T16:05:31+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油は3日続伸で値動きが大きい。米イラン対立は膠着状態が続いており、地政学的緊張の即時的な悪化はない。上昇トレンドは技術的・需給要因に基づくもの。"
-  },
-  {
     "title": "金鉱株が下落、金価格は利回り上昇で後退 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-18T17:36:00+00:00",
     "importance": 3,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は米国利回り上昇の影響で後退している。金鉱株も連動して下落。利回り上昇は金の実質利回りを圧迫する要因として作用。"
-  },
-  {
-    "title": "低金利は金価格の上昇要因となる。 - Vietnam.vn",
-    "timestamp": "2026-08-18T16:30:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "低金利環境が金価格の上昇要因となるというコメンタリー。金は利息生まない資産のため、低金利下では相対的な魅力が高まる。既知のメカニズムの説明記事。"
   },
   {
     "title": "原油先物3週間ぶり高値、米イラン和平交渉巡る期待後退 - ロイター",
@@ -2242,5 +2220,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が供給リスクを背景に2週連続で上昇している。ニュース記事は既に進行中の相場動向を報じたもの。供給懸念は継続要因として機能している。"
+  },
+  {
+    "title": "金価格が3カ月ぶり高値、債券市場に不安 - BeInCrypto",
+    "timestamp": "2026-08-21T16:28:21+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3カ月ぶりの高値を更新。債券市場の不安が安全資産需要を支える。インフレ懸念や金融不安定性を背景とした定番の金買い。"
   }
 ]
