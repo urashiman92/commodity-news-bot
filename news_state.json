@@ -1,38 +1,5 @@
 [
   {
-    "title": "黒海の輸出停止で小麦価格が上昇、米国産への需要が拡大 - Межа. Новини України.",
-    "timestamp": "2026-08-18T14:40:49+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ウクライナ情勢による黒海経由の小麦輸出停止が発生し、世界的な小麦供給逼迫懸念から価格が上昇。米国産小麦への需要が拡大している。"
-  },
-  {
-    "title": "$マイクロ金先物2612 (MGC2612.US)$ - Moomoo",
-    "timestamp": "2026-08-18T14:46:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "マイクロ金先物（MGC2612）の取引情報が提示されているのみで、具体的なニュースイベントや価格変動要因が不明確である。単なる銘柄表示・取引プラットフォームの記事リンクと見られる。"
-  },
-  {
-    "title": "本日2026年8月19日の金価格は下落しており、国内価格は世界的な動向に密接に追随し、短期的な投機の場としては機能しなくなっている。 - vietnam.vn",
-    "timestamp": "2026-08-18T14:55:49+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "本日の金価格は下落。ベトナム国内の金価格は世界的な動向に密接に連動しており、短期的な投機機会が減少している状況を報じている。"
-  },
-  {
     "title": "原油相場は3日続伸、大きな値動き－米イランの対立は膠着状態 - Bloomberg.com",
     "timestamp": "2026-08-18T16:05:31+00:00",
     "importance": 2,
@@ -2264,5 +2231,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東の地政学的影響により原油価格が変動している。石油関連企業の業績がこれに左右されている。具体的な価格変動幅や最新イベント詳細が記事から不明。"
+  },
+  {
+    "title": "フリーポート・マクモラン・カッパー・アンド・ゴールド株が急騰、銅価格が最高値更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-21T13:52:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が最高値を更新し、主要銅鉱山企業フリーポート・マクモランの株価が急騰。需要堅調と供給逼迫懸念が背景。グリーンエネルギー転換需要が銅市場を押し上げている。"
   }
 ]
