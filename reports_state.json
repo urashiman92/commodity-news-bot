@@ -1,16 +1,5 @@
 [
   {
-    "title": "Russia’s Oil-Flow Slump Deepens as Ukraine Threatens Key Port - Bloomberg.com",
-    "timestamp": "2026-08-18T14:01:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの主要港を脅かし、ロシアの石油流出が一段と悪化している。同国の主要海上輸送ルートが遮断される危機にあり、供給減少圧力が急速に強まっている。黒海経由の輸出能力が制限されれば、グローバル原油供給への直接的な打撃となる。"
-  },
-  {
     "title": "Opec-Plus: July Output Bounce Begins to Disappear in August - Energy Intelligence",
     "timestamp": "2026-08-18T15:15:03+00:00",
     "importance": 3,
@@ -581,28 +570,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "日本の輸出が半導体需要の回復により急伸する一方、輸入は原油価格上昇により過去最高水準に達した。チップ需要の増加は銅などベースメタルの需要見通しを支持する一方、エネルギーコスト高は日本の製造業収益性を圧迫。これはアジア地域の需給バランスの二面性を反映している。"
-  },
-  {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-08-18T14:37:21+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要減速の見込みは、原油相場の上値を抑制する圧力となる。2026年の需要成長が市場予想より弱いシナリオは、価格軟化圧力として機能するが、既に一部で予想された内容の可能性が高い。"
-  },
-  {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-08-18T14:37:21+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要減速の見込みは、原油相場の上値を抑制する圧力となる。2026年の需要成長が市場予想より弱いシナリオは、価格軟化圧力として機能するが、既に一部で予想された内容の可能性が高い。"
   },
   {
     "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
@@ -1186,5 +1153,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "7月時点でサウジアラビアがロシア産重油（燃料油）の最大購入国となったことが取引データで判明。これはロシア産エネルギー製品の貿易フローを示す定期的なレポートで、制裁回避の取引構造を確認させるものであるが、新たな価格インパクトは限定的。"
+  },
+  {
+    "title": "Ukraine Strikes Major Oil Refinery Deep Inside Russia - Bloomberg.com",
+    "timestamp": "2026-08-21T09:58:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア内陸部の主要石油精製所を攻撃したと報じられた。ロシアの精製能力が直撃を受けることで、欧州向けエネルギー供給がさらに逼迫する可能性が高い。地政学的リスクの再燃により、原油相場は上昇圧力を強める。"
   }
 ]
