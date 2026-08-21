@@ -11,17 +11,6 @@
     "summary": "投資ファンドによる売却により金価格が下落した。短期的な売り圧力による技術的な下げで、構造的な変化ではない。"
   },
   {
-    "title": "米イラン対立が激化、UAEがイランとの取引を停止 金価格と原油価格の動きはまちまち - BigGo ファイナンス",
-    "timestamp": "2026-08-18T23:26:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米イラン対立が激化し、UAEがイランとの取引を停止。金価格と原油価格の反応は対照的。地政学リスク懸念は限定的に映る。"
-  },
-  {
     "title": "原油相場は3日続伸、大きな値動き－米イランの対立は膠着状態 - TBS NEWS DIG",
     "timestamp": "2026-08-19T00:00:00+00:00",
     "importance": 3,
@@ -2220,5 +2209,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が続伸。米長期金利上昇という金に逆風の中でも、株価下落と地政学リスクの高まりにより、安全資産への逃避買いが優勢。質への需要が金価格を支えている。"
+  },
+  {
+    "title": "NY市場反発、ダウ428ドル高 金先物は2.3%急伸 - BigGo ファイナンス",
+    "timestamp": "2026-08-21T19:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY市場がダウ平均428ドル高で反発し、金先物が2.3%上昇した。株式市場の回復と金の同時上昇は、リスク選好とインフレ懸念が混在する相場環境を示唆している。"
+  },
+  {
+    "title": "NY金先物：続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 - ｄメニューニュース",
+    "timestamp": "2026-08-21T23:37:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物は続伸。米長期金利上昇という金の逆風要因があるにもかかわらず、株価下落と地政学リスクの高まりが「質への逃避」需要を優勢にしている。安全資産としての金の買い支えが機能している局面を示唆。"
+  },
+  {
+    "title": "今日の金価格（8月22日）：劇的な反転 - Vietnam.vn",
+    "timestamp": "2026-08-21T23:27:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月22日の金価格が劇的に反転したことを報じている。具体的な価格変動幅や反転の要因が記事概要に明記されていない。市場の日中の値動きを記録した定期的な相場評論と考えられる。"
   }
 ]
