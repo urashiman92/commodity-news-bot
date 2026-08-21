@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（8月19日）の金価格：1オンスあたり4,400ドルを下回る - Vietnam.vn",
-    "timestamp": "2026-08-18T22:06:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月19日の金価格が1オンスあたり4,400ドルを下回った。高値圏での調整局面を示唆する相場心理を反映している。"
-  },
-  {
-    "title": "2026年8月19日の金価格：SJC金価格、9999金リング価格、および水曜日の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-08-18T22:16:36+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトによる2026年8月19日の金価格相場報告。SJC金やリング金の現地価格と世界金価格の日次更新に過ぎない。"
-  },
-  {
     "title": "【本日の材料と銘柄】金価格が回復傾向(フィスコ) - finance.yahoo.co.jp",
     "timestamp": "2026-08-18T22:43:13+00:00",
     "importance": 2,
@@ -2187,5 +2165,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ニューヨーク原油先物が21日に上昇した市場概況の報道。具体的な上昇率や要因の詳細は記事概要からは不明。相場の日次振り返りレベルの報道。"
+  },
+  {
+    "title": "金価格、3カ月ぶり高値の約4661ドルを記録──ドル安で貴金属価格が再び上昇基調に - Forbes JAPAN",
+    "timestamp": "2026-08-21T22:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3カ月ぶりの高値約4661ドルを記録。ドル安進行が貴金属価格を押し上げている。既知要因による緩やかな上昇基調が続いている。"
+  },
+  {
+    "title": "NY原油・金相場（21日）－原油が上昇 金は3日続伸(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-21T21:55:49+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油が上昇、金は3日続伸した。市場全体としては堅調な動きだが、具体的な要因情報が不足している。"
+  },
+  {
+    "title": "国際原油価格が急騰する中でも石油製品の上限価格を凍結…精油各社の損失補填、財政負担が拡大へ - BigGo ファイナンス",
+    "timestamp": "2026-08-21T22:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油価格の上昇にもかかわらず、政府が石油製品の上限価格を凍結し、精油各社の損失補填が拡大している。市場メカニズムの歪みが継続し、供給インセンティブが低下する懸念がある。"
+  },
+  {
+    "title": "米原油先物は1バレル当たり87.06ドルで引け、23セント（0.26％）高となりました。 - Moomoo",
+    "timestamp": "2026-08-21T19:42:32+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が87.06ドルで引け、前日比0.26%上昇。微小な変動幅であり、特段の材料を示さない日々の相場振り返り。"
   }
 ]
