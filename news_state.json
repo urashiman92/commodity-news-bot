@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は本日8月18日も上昇を続けた。 - Vietnam.vn",
-    "timestamp": "2026-08-18T14:00:40+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8月18日も上昇を続けたというニュース。具体的な上昇率や理由は提供されていない。相場の技術的な振り返りと考えられる。"
-  },
-  {
     "title": "黒海の輸出停止で小麦価格が上昇、米国産への需要が拡大 - Межа. Новини України.",
     "timestamp": "2026-08-18T14:40:49+00:00",
     "importance": 4,
@@ -2264,5 +2253,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は高値から調整局面にあるものの、直近の金高を受けてニューモント・マイニングが時間外取引で堅調に推移。金鉱山株の金価格への連動性を示す相場観測。"
+  },
+  {
+    "title": "石油関連、業績かく乱 中東影響で原油価格変動 - 日刊工業新聞",
+    "timestamp": "2026-08-21T11:22:07+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の地政学的影響により原油価格が変動している。石油関連企業の業績がこれに左右されている。具体的な価格変動幅や最新イベント詳細が記事から不明。"
   }
 ]
