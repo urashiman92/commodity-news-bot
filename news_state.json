@@ -1,27 +1,5 @@
 [
   {
-    "title": "世界の金価格がなぜ突然急落したのか？ - Vietnam.vn",
-    "timestamp": "2026-08-19T07:11:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落した背景について解説するニュース記事。具体的な下落理由（ドル上昇、金利上昇、リスク選好度の向上など）が記事に含まれている可能性が高い。現在の相場状況を振り返るコンテンツと推定される。"
-  },
-  {
-    "title": "アジアの金価格は、米連邦準備制度理事会（FRB）からの手がかりを待つ中、小幅に上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-19T07:49:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アジアの金価格が小幅上昇。FRBからの政策手がかりを市場が注視している状況。特段の材料はなく、方向感を模索する相場環境。"
-  },
-  {
     "title": "本日の燃料価格（8月19日）：世界の原油価格が3週間ぶりの高値に上昇。 - Vietnam.vn",
     "timestamp": "2026-08-19T08:16:39+00:00",
     "importance": 2,
@@ -2209,5 +2187,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの燃料価格報道で、世界原油価格が上昇したことを報じている。具体的な上昇要因や価格幅が不明であり、定期的な価格レポートと推察される。"
+  },
+  {
+    "title": "世界の金価格が4600ドルを突破。 - Vietnam.vn",
+    "timestamp": "2026-08-22T07:52:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり4600ドルを突破した。金は2024年を通じて上昇トレンドが続いており、地政学リスクと中央銀行の買い継続が支援している。"
+  },
+  {
+    "title": "驚くべき金価格 - Vietnam.vn",
+    "timestamp": "2026-08-22T06:38:23+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムメディアによる金価格に関する記事。具体的な価格動向や新規情報は不明。単なる相場解説の可能性が高い。"
   }
 ]
