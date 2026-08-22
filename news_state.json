@@ -1,38 +1,5 @@
 [
   {
-    "title": "世界の金価格、約2%の急落後、再び上昇 - Laodong.vn",
-    "timestamp": "2026-08-19T12:44:42+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が約2%の急落後に再び上昇した。短期的な変動の振り返り記事。トレンド転換や新規材料に乏しい。"
-  },
-  {
-    "title": "本日8月19日の金価格は、全面的に急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-19T12:59:32+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月19日に金価格が全面的に急落した。金現物市場での売り圧力が生じている。市場の定期的な値動きの報告と見られる。"
-  },
-  {
-    "title": "貿易摩擦と需要急増により、銅価格は過去最高値を更新した。 - Vietnam.vn",
-    "timestamp": "2026-08-19T12:59:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高値を更新。米中間の貿易摩擦激化と世界的な需要増加が背景。EVやインフラ投資需要が支援材料となっている。"
-  },
-  {
     "title": "今から始める金投資 - 読売新聞",
     "timestamp": "2026-08-19T15:34:49+00:00",
     "importance": 2,
@@ -64,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が相反する方向に変動する中、依然として安全資産としての地位を保持していることを確認するコラム記事。5,600ドル/オンスへの到達時期についての観測コメント。"
-  },
-  {
-    "title": "原油価格が高騰！ホルムズ海峡の膠着状態を巡る駆け引き、ウォール街の投資銀行が警鐘 - Moomoo",
-    "timestamp": "2026-08-19T12:52:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡における地政学的緊張がウォール街の投資銀行から警鐘を受けている。海峡は世界の原油供給の重要な通路であり、膠着状態が価格上昇圧力につながっている。今後の駆け引き動向が市場に大きな影響を与える可能性がある。"
   },
   {
     "title": "NY外為：ドル下げ止まる、原油価格が上昇、UAEイラン関係悪化 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2077,5 +2033,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "神奈川県海老名市の銅像が盗難被害に遭った。銅価格高騰が盗難動機の背景にある可能性が指摘されている。小規模事案だが銅需給の逼迫感を反映した事例。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況・21日 3日続伸 - TradingView",
+    "timestamp": "2026-08-21T20:28:04+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物が3日続伸。市場概況の報道で、具体的な上昇要因は記事概要に記載されていない。テクニカルな続伸トレンドの報告。"
+  },
+  {
+    "title": "NY原油先物：小反落、対イラン制裁強化観測での上昇分を時間外で削る展開 - 投資情報のフィスコ",
+    "timestamp": "2026-08-21T23:03:59+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物は対イラン制裁強化観測で上昇した後、時間外取引で上昇分を削る展開となった。市場は地政学的リスクと利益確定の綱引き状態にある。"
   }
 ]
