@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の金価格は突如として急騰し、1オンスあたり152ドル近くに達した。 - vietnam.vn",
-    "timestamp": "2026-08-19T19:47:15+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス152ドル近くまで急騰したとの報道。ただしニュースソースが限定的で、具体的な上昇要因が不明。既に市場で織り込まれた動きの事後報告の可能性が高い。"
-  },
-  {
     "title": "金相場復活なら連動高も､営業益3.6倍の資源リサイクル株 - 四季報オンライン",
     "timestamp": "2026-08-19T21:00:00+00:00",
     "importance": 3,
@@ -284,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランがホルムズ海峡への通航料課税を検討していると報じられているが、専門家は原油価格への上昇圧力は限定的と分析。既知の地政学的リスク要因の範囲内の評価。"
-  },
-  {
-    "title": "新会長に聞く／日本伸銅協会・加藤和照氏（三井住友金属鉱山伸銅社長）／伸銅品グリーンブランド創設へ／未利用銅リサイクル材活用、新技術検討 - 日刊鉄鋼新聞 Japan Metal Daily",
-    "timestamp": "2026-08-19T20:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "日本伸銅協会の新会長が、伸銅品のグリーンブランド創設と未利用銅リサイクル材の活用、新技術開発を表明。サステナビリティ強化による需要拡大と銅使用量増加を示唆。"
   },
   {
     "title": "黒海穀物輸出が事実上停止　ロシア・ウクライナの攻撃激化で - ｄメニューニュース",
@@ -1989,5 +1967,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金地金が1タエル1476万ドンまで上昇し、1カ月超ぶりの高値を更新した。国際金価格の上昇トレンドをベトナム国内市場が追随した形。ローカルマーケットの価格動向を報じたニュース。"
+  },
+  {
+    "title": "金価格が3カ月ぶり高値、4,600ドル突破 ETF資金が大量流入 - BigGo ファイナンス",
+    "timestamp": "2026-08-22T19:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3カ月ぶりの高値で4,600ドルを突破した。ETF資金の大量流入が買い支えている。インフレ懸念と安全資産需要が背景と考えられる。"
+  },
+  {
+    "title": "金価格は4,500ドルに向かっている。その上昇の背景には何があるのだろうか？ Jablíčkář.COM - Jablíčkář.cz",
+    "timestamp": "2026-08-22T19:04:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,500ドルを目指す上昇トレンドにあるというアナリスト解説。具体的な上昇要因は記事要約からは判明せず、詳細な背景分析が必要。"
   }
 ]
