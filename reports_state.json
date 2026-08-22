@@ -11,28 +11,6 @@
     "summary": "LME(ロンドン金属取引所)の銅在庫が急増している。市場は需要動向を注視しており、在庫積み上がりは需要弱化の可能性を示唆する。銅価格は需給バランスの悪化圧力に直面している。"
   },
   {
-    "title": "Distillate Stocks Sink Further as US Crude Inventories Barely Budge - Investing.com",
-    "timestamp": "2026-08-19T06:03:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計で、米国原油在庫がほぼ横ばいだった一方、留分油（ディーゼル等）在庫が継続的に低下した。供給面での逼迫感が徐々に高まっており、エネルギーコモディティの需給構造に対する市場の懸念が反映されている。"
-  },
-  {
-    "title": "Distillate Stocks Sink Further as US Crude Inventories Barely Budge - Investing.com",
-    "timestamp": "2026-08-19T06:03:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計で、米国原油在庫がほぼ横ばいだった一方、留分油（ディーゼル等）在庫が継続的に低下した。供給面での逼迫感が徐々に高まっており、エネルギーコモディティの需給構造に対する市場の懸念が反映されている。"
-  },
-  {
     "title": "Copper Holds Loss as Deliveries to LME Mitigate Supply Crunch - Bloomberg.com",
     "timestamp": "2026-08-19T07:14:33+00:00",
     "importance": 3,
@@ -141,17 +119,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME銅在庫が63,000トン増加し、市場の供給逼迫感が緩和された。バックワーデーション（先物プレミアム）の縮小は、物理的な供給不足が解消に向かっていることを示唆している。在庫増加により銅の需給バランスが改善し、価格上昇圧力が減少。"
-  },
-  {
-    "title": "Cattle Futures Decline Amid Plant Closures and USDA Reports - agronews.com",
-    "timestamp": "2026-08-19T06:45:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国の食肉処理施設の閉鎖によって畜牛市場に供給ショックが生じており、先物価格が下落している。USDA報告書と相まって、畜牛および関連食肉コモディティの需給構造に変化が生じている可能性が高い。処理能力の制約は肉牛販売圧力につながり、価格下押し要因として作用している。"
   },
   {
     "title": "CBOT Weekly: Corn cuts stand out in August WASDE - Farmtario",
