@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日の燃料価格（8月19日）：世界の原油価格が3週間ぶりの高値を記録。 - Vietnam.vn",
-    "timestamp": "2026-08-19T03:19:02+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月19日時点で世界原油価格が3週間ぶりの高値を更新。市場内での相対的な価格上昇を報じているが、具体的な上昇要因や数値が不明確。"
-  },
-  {
-    "title": "本日（8月19日）の金価格：急落 - Vietnam.vn",
-    "timestamp": "2026-08-19T03:45:37+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月19日の金価格が急落したというニュース。具体的な下落要因や数値が記載されていない。市場の日々の値動きに関する速報的なポジショニング記事。"
-  },
-  {
     "title": "金価格が1オンスあたり4,400ドルを突破。米国の経済指標と連邦準備制度理事会（FRB）はこれにどのような影響を与えるのか？ - Vietnam.vn",
     "timestamp": "2026-08-19T04:30:15+00:00",
     "importance": 3,
@@ -31,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンスあたり4,400ドルを突破した。米国の経済指標とFRBの政策が価格動向に影響を与えている。金は伝統的にインフレヘッジと低金利環境で買われやすい。"
-  },
-  {
-    "title": "野村金連動 - 日本経済新聞",
-    "timestamp": "2026-08-19T04:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "野村グループが金価格連動商品に関する記事。具体的な市場イベントや統計発表の報道ではなく、金融商品の解説または相場観測と推定される。実際のニュース内容にアクセスできないため詳細な分析は困難。"
-  },
-  {
-    "title": "金価格は全般的に下落し、SJCゴールドは1ポンドあたり約1億4270万ベトナムドンまで値下がりした。 - Vietnam.vn",
-    "timestamp": "2026-08-19T03:35:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム市場でSJCゴールドが1ポンド約1億4270万ベトナムドンまで下落した。金は全般的に売り圧力を受けている。ローカル市場の価格情報で、グローバル相場の継続的な弱気展開を反映している。"
   },
   {
     "title": "世界の金価格がなぜ突然急落したのか？ - Vietnam.vn",
@@ -2209,5 +2165,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月17日～21日の金相場についてのアナリスト週間まとめ。過去1週間の相場動向を振り返るコメンタリーで、特定の新規ニュースイベントではなく、既に消化された相場の解説。"
+  },
+  {
+    "title": "金価格が4,600ドル突破で3カ月ぶり高値 アナリストは4,700ドルを視野に - BigGo ファイナンス",
+    "timestamp": "2026-08-22T02:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,600ドルを突破し3カ月ぶりの高値を更新。アナリストは4,700ドルを次のターゲットとして見ている。既存トレンドの継続を示唆するテクニカル分析コメント。"
+  },
+  {
+    "title": "本日（8月22日）の金価格：全般的に急騰。 - Vietnam.vn",
+    "timestamp": "2026-08-22T03:18:34+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの現地ニュースサイトが8月22日の金価格を報道。全般的に急騰した旨を伝えている。具体的な騰落率や騰落要因の記載がないため、詳細は不明。"
   }
 ]
