@@ -1,60 +1,5 @@
 [
   {
-    "title": "欧州為替：ドル・円は上昇一服、原油相場に連動(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-19T10:18:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円相場の上昇が一服し、原油相場との連動性が言及されている。為替と原油の相関関係についての解説記事。"
-  },
-  {
-    "title": "UBSが金価格の目標を1オンス5,400ドルに設定、上昇トレンドは継続か 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-19T10:24:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "UBSが金価格の目標を1オンス5,400ドルに設定。現在の価格水準からの上昇余地を示唆し、強気見通しを表明。金市場における主要投資銀行のポジティブな見解として注目される。"
-  },
-  {
-    "title": "ドル・円は上昇一服、原油相場に連動｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-19T10:29:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円相場が上昇の一服を見せており、原油相場に連動した動きが観察されている。為替と原油の相関関係についての解説記事。"
-  },
-  {
-    "title": "欧州為替：ドル・円は上昇一服、原油相場に連動 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-19T10:18:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円相場が原油相場との連動を示しており、上昇が一服した状況。為替と商品相場の相関性が注目されている。具体的な原油価格の方向性や変動幅は記事では不明確。"
-  },
-  {
-    "title": "欧州為替：ドル・円は上昇一服、原油相場に連動 - ｄメニューニュース",
-    "timestamp": "2026-08-19T10:18:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円相場が原油価格と連動して上昇一服との相場観。為替と原油の相関性についての解説記事。具体的な原油価格動向の材料は記載されていない。"
-  },
-  {
     "title": "世界の金価格、約2%の急落後、再び上昇 - Laodong.vn",
     "timestamp": "2026-08-19T12:44:42+00:00",
     "importance": 2,
@@ -2088,5 +2033,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡封鎖リスクがあっても原油が200ドルに到達していない現状について、市場の適応力と需給バランスの変化を分析した解説記事。地政学的リスク織り込み済みで、市場が落ち着いている状況を報道。"
+  },
+  {
+    "title": "米イラン対立激化で原油価格6%超上昇 台湾中油が来週の油価凍結を発表 - BigGo ファイナンス",
+    "timestamp": "2026-08-22T10:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの対立激化により原油価格が6%超上昇。地政学的リスク拡大で供給懸念が急増。台湾中油は価格変動への対応として来週の油価を凍結すると発表。"
+  },
+  {
+    "title": "河童兄妹からの手紙「誘拐されました」 神奈川県海老名市で市民に愛されるシンボルの銅像が盗難 銅価格高騰が背景に？ - TBS NEWS DIG",
+    "timestamp": "2026-08-22T09:32:25+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "神奈川県海老名市の銅製シンボル像が盗難被害。銅価格高騰が盗難動機の背景と推測される。市民の愛されたランドマークが失われたが、銅スクラップ市場への供給圧力は限定的。"
   }
 ]
