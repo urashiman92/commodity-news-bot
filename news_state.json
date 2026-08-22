@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格が1オンスあたり4,400ドルを突破。米国の経済指標と連邦準備制度理事会（FRB）はこれにどのような影響を与えるのか？ - Vietnam.vn",
-    "timestamp": "2026-08-19T04:30:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンスあたり4,400ドルを突破した。米国の経済指標とFRBの政策が価格動向に影響を与えている。金は伝統的にインフレヘッジと低金利環境で買われやすい。"
-  },
-  {
     "title": "世界の金価格がなぜ突然急落したのか？ - Vietnam.vn",
     "timestamp": "2026-08-19T07:11:37+00:00",
     "importance": 3,
@@ -2187,5 +2176,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの現地ニュースサイトが8月22日の金価格を報道。全般的に急騰した旨を伝えている。具体的な騰落率や騰落要因の記載がないため、詳細は不明。"
+  },
+  {
+    "title": "一方、金価格が上がったからといって、上昇分がそのまま投資家の収益に戻るわけではない。 - 매일경제",
+    "timestamp": "2026-08-22T01:51:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格上昇時に投資家の収益がそのまま増加するわけではないという解説記事。取引コストや手数料などの要因が実収益を圧迫することを指摘している。"
+  },
+  {
+    "title": "トランプ大統領がイランの取引相手国への制裁をほのめかし、原油価格が上昇 - arabnews.jp",
+    "timestamp": "2026-08-22T01:08:23+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がイランの取引相手国への制裁を示唆。地政学的リスクプレミアムが加算される。供給途絶懸念により原油価格が上昇圧力を受けている。"
+  },
+  {
+    "title": "なぜ原油価格は1バレル150ドルまで上昇しないのか？ - Vietnam.vn",
+    "timestamp": "2026-08-22T04:10:19+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が150ドルに達しない理由を考察するコメンタリー記事。市場心理や需給バランス、マクロ要因の分析が含まれると推定。既に織り込まれている過去の価格動向に関する解説。"
   }
 ]
