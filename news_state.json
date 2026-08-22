@@ -1,38 +1,5 @@
 [
   {
-    "title": "ロンドン勢、原油相場にらんで神経質、ユーロドルは再び高値を更新＝ロンドン為替 - みんかぶ FX/為替",
-    "timestamp": "2026-08-19T09:40:44+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ロンドン市場で原油相場の動向を注視する神経質な雰囲気が報告されている。同時にユーロドルが高値を更新しており、為替市場の動きも記録されている。具体的な原油価格の方向性や材料は明記されていない。"
-  },
-  {
-    "title": "アジアの原油価格は4営業日連続で上昇した。 - vietnam.vn",
-    "timestamp": "2026-08-19T09:25:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アジアの原油価格が4営業日連続で上昇したことを報じるニュース。具体的な上昇要因や数値は記載されていない。テクニカルな値動きの報告に過ぎない。"
-  },
-  {
-    "title": "ドル売り一服、ＮＹ原油先物が８６ドル台へ買われる＝ロンドン為替 - みんかぶ FX/為替",
-    "timestamp": "2026-08-19T09:23:44+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル売り圧力の一服により、NY原油先物が86ドル台まで買われた。為替動向に連動した相場の振り返りニュース。"
-  },
-  {
     "title": "アジアの金価格は、市場が米連邦準備制度理事会（FRB）の議事録を待つ中、ほとんど動きを見せなかった。 - vietnam.vn",
     "timestamp": "2026-08-19T10:08:44+00:00",
     "importance": 2,
@@ -209,17 +176,6 @@
     "summary": "ホルムズ海峡における地政学的緊張がウォール街の投資銀行から警鐘を受けている。海峡は世界の原油供給の重要な通路であり、膠着状態が価格上昇圧力につながっている。今後の駆け引き動向が市場に大きな影響を与える可能性がある。"
   },
   {
-    "title": "$インテル (INTC.US)$ 原油価格の乱高下が株式市場に影響 - Moomoo",
-    "timestamp": "2026-08-19T09:33:46+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の変動が株式市場に影響を与えているという一般的な解説記事。インテル（INTC）という個別銘柄名が含まれているが、原油市場との直接的な関連性が不明確。"
-  },
-  {
     "title": "NY外為：ドル下げ止まる、原油価格が上昇、UAEイラン関係悪化 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-19T17:22:00+00:00",
     "importance": 3,
@@ -240,17 +196,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "UAEとイラン関係が悪化し、地政学的リスク懸念から原油価格が上昇。ドル下げ止まりも価格を支援。中東地域の緊張が供給リスク要因として認識される。"
-  },
-  {
-    "title": "DRDGOLDの2026年度利益が急増、金価格上昇が業績を押し上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-19T09:50:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "DRDGOLDの2026年度利益が金価格上昇により急増見込み。既知の金価格上昇トレンドの企業業績への波及を報じた記事。金採掘企業の収益性向上を示唆。"
   },
   {
     "title": "世界の金価格は突如として急騰し、1オンスあたり152ドル近くに達した。 - vietnam.vn",
@@ -2165,5 +2110,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4,600ドルを突破した後、来週ジャクソンホール会議、米イラン制裁、PCEデータが相次いで発表される。これらのマクロイベントが市場を試す局面を迎える。金は不確実性が高まる中で買われやすい傾向。"
+  },
+  {
+    "title": "金価格が再び急騰し、大手投資家が8トン以上の金を買い集める事態となった。 - Vietnam.vn",
+    "timestamp": "2026-08-22T08:37:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急騰し、大手投資家が8トン以上の金を買い集めている。機関投資家の積極的な買い行動が観察されており、需要面での強気姿勢を示唆している。"
   }
 ]
