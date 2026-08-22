@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日の燃料価格（8月19日）：世界の原油価格が3週間ぶりの高値に上昇。 - Vietnam.vn",
-    "timestamp": "2026-08-19T08:16:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格が3週間ぶりの高値に上昇した。ただしニュースは価格変動の事実報告に過ぎず、具体的な供給/需要ショック要因は記載されていない。"
-  },
-  {
     "title": "2026年8月19日午後の金価格：9999金、指輪、および水曜日の世界の金価格。 - vietnam.vn",
     "timestamp": "2026-08-19T09:03:22+00:00",
     "importance": 1,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのニュースサイトが2026年8月19日午後の金価格（9999金、指輪、世界相場）を報道。定期的な金価格情報の更新記事と考えられる。"
-  },
-  {
-    "title": "専門家ウェルズ・ファーゴが金価格の新たな見通しを明かす - Laodong.vn",
-    "timestamp": "2026-08-19T08:10:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ウェルズ・ファーゴの専門家が金価格の新たな見通しを発表。具体的な内容は記事の詳細が不明だが、アナリスト見解の域にとどまる。既に織り込まれた観測の可能性が高い。"
   },
   {
     "title": "ロンドン勢、原油相場にらんで神経質、ユーロドルは再び高値を更新＝ロンドン為替 - みんかぶ FX/為替",
@@ -108,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "長野県のレギュラーガソリン価格は176.3円で前週から横ばい。来週の原油価格上昇予想があるも、政府の補助金増額により価格据え置きが見込まれている。"
-  },
-  {
-    "title": "チリ第2四半期GDP、前年比0.2％減 銅生産低迷で鉱業が足かせ - BigGo ファイナンス",
-    "timestamp": "2026-08-19T07:56:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "チリ第2四半期GDPが前年比0.2％減と低迷。銅生産の不振が鉱業セクターの足かせとなった。世界最大級の銅生産国の経済減速は銅需要の弱さを示唆。"
   },
   {
     "title": "UBSが金価格の目標を1オンス5,400ドルに設定、上昇トレンドは継続か 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2209,5 +2176,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムメディアによる金価格に関する記事。具体的な価格動向や新規情報は不明。単なる相場解説の可能性が高い。"
+  },
+  {
+    "title": "金価格が3カ月ぶり高値の約4661ドルを記録、米財務省の国債買い戻し拡大などが牽引 - 東京報道新聞",
+    "timestamp": "2026-08-22T08:07:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3カ月ぶりの高値約4661ドルを記録。米財務省の国債買い戻し拡大が金需要を下支え。ドル弱含みと金融緩和観測が価格上昇を牽引。"
+  },
+  {
+    "title": "金価格が4,600ドル突破後、ジャクソンホール・米イラン制裁・PCEが来週相次ぎ市場を試す - BigGo ファイナンス",
+    "timestamp": "2026-08-22T07:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,600ドルを突破した後、来週ジャクソンホール会議、米イラン制裁、PCEデータが相次いで発表される。これらのマクロイベントが市場を試す局面を迎える。金は不確実性が高まる中で買われやすい傾向。"
   }
 ]
