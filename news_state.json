@@ -1,38 +1,5 @@
 [
   {
-    "title": "投資ファンドが売り浴びせ、金価格が下落。 - Vietnam.vn",
-    "timestamp": "2026-08-19T00:19:03+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "投資ファンドによる売却により金価格が下落した。短期的な売り圧力による技術的な下げで、構造的な変化ではない。"
-  },
-  {
-    "title": "原油相場は3日続伸、大きな値動き－米イランの対立は膠着状態 - TBS NEWS DIG",
-    "timestamp": "2026-08-19T00:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場が3日続伸し大きな値動きを見せている。米イラン対立は膠着状態が続いており、地政学的リスク材料は限定的。相場の技術的な反発局面を述べた解説記事。"
-  },
-  {
-    "title": "イランと米国のホルムズ海峡をめぐる対立が続き、原油価格が4日続伸 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-19T00:14:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランと米国のホルムズ海峡をめぐる対立が継続している。4日連続で原油価格が上昇しており、地政学的リスクプレミアムが市場に反映されている。"
-  },
-  {
     "title": "金相場、大幅下落後に下げ止まる――原油高・債券利回り上昇が圧迫、FED議事録に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-19T01:33:00+00:00",
     "importance": 3,
@@ -2242,5 +2209,60 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月22日の金価格が劇的に反転したことを報じている。具体的な価格変動幅や反転の要因が記事概要に明記されていない。市場の日中の値動きを記録した定期的な相場評論と考えられる。"
+  },
+  {
+    "title": "世界の金価格が4600ドルを突破。 - Vietnam.vn",
+    "timestamp": "2026-08-22T00:42:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4600ドルを突破した。世界的なインフレ懸念や地政学リスク、中央銀行の金買いなどが相場を支えている。この水準は2024年の継続的な上昇トレンドの延長線上にある。"
+  },
+  {
+    "title": "NY金先物：続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 - ｄメニューニュース",
+    "timestamp": "2026-08-21T22:16:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が続伸。米長期金利上昇にもかかわらず、株価下落と地政学リスクが質への逃避買いを優位にしている。リスク資産回避の流れで金買いが継続。"
+  },
+  {
+    "title": "トランプ大統領のコメントで原油価格が上昇し、ベッセント財務長官の秘策、バイバックの効果は1日のみに - Yahoo!ニュース",
+    "timestamp": "2026-08-22T00:45:30+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領の発言により原油価格が上昇した。ただしベッセント財務長官によるバイバック施策の効果は1日限りに終わった。政治的なコメントによる短期的な価格変動。"
+  },
+  {
+    "title": "NY原油先物：小反落、対イラン制裁強化観測での上昇分を時間外で削る展開 - ｄメニューニュース",
+    "timestamp": "2026-08-21T23:18:59+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物は対イラン制裁強化観測による上昇を時間外取引で調整。地政学的な上昇圧力が存在するものの、その後の利益確定売りで小反落となった。"
+  },
+  {
+    "title": "銅価格のレジスタンステスト：注目すべきブレイクアウト水準 - Traders Union",
+    "timestamp": "2026-08-21T12:20:47+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格のテクニカル分析で注目すべきレジスタンス水準とブレイクアウト可能性を解説している。テクニカルポイントの考察記事であり、ファンダメンタルズ情報ではない。"
   }
 ]
