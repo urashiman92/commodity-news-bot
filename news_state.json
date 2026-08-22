@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY外為：ドル下げ止まる、原油価格が上昇、UAEイラン関係悪化 - ｄメニューニュース",
-    "timestamp": "2026-08-19T18:13:37+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "UAEとイラン関係が悪化し、地政学的リスク懸念から原油価格が上昇。ドル下げ止まりも価格を支援。中東地域の緊張が供給リスク要因として認識される。"
-  },
-  {
     "title": "世界の金価格は突如として急騰し、1オンスあたり152ドル近くに達した。 - vietnam.vn",
     "timestamp": "2026-08-19T19:47:15+00:00",
     "importance": 2,
@@ -2011,5 +2000,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "神奈川県海老名市の銅製シンボル像が盗難被害。銅価格高騰に伴う盗難事件の増加傾向を示唆。スクラップ銅の需給逼迫を反映した市場現象。"
+  },
+  {
+    "title": "金価格は本日8月22日、依然として非常に力強い上昇を示して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-22T18:19:53+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月22日の金相場が力強い上昇で取引を終えた。具体的な価格水準や上昇要因の詳細は記事概要に記載されていない。市場センチメントの強気姿勢を示す一般的な評価。"
   }
 ]
