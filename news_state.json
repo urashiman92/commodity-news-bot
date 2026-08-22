@@ -1,49 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4523ドル｜米財務省の長期債買い入れオペの規模増加発表が影響した模様(2026年8月20日) - OANDA証券",
-    "timestamp": "2026-08-19T23:03:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米財務省が長期債買い入れオペの規模増加を発表し、金価格が4523ドルまで上昇した。金融緩和的なシグナルが安全資産としての金需要を支援した形。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：直近は上昇を続けていたものの調整が入り、原油価格は4営業日ぶりに下落（2026年8月20日） - OANDA証券",
-    "timestamp": "2026-08-19T23:13:26+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油は直近4営業日の上昇トレンドから調整局面に入り、4営業日ぶりに下落した。テクニカルな利確売りと見られる。短期的なボラティリティの正常化。"
-  },
-  {
-    "title": "銅価格はトランプ氏の次の経済政策を暗示しているのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-08-19T23:10:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "トランプ氏の経済政策が銅価格に与える影響についての解説記事。政策の具体的な内容や市場反応については記事内容から判断不可。銅価格の変動と政策の関連性を分析する観測論。"
-  },
-  {
-    "title": "１９日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-19T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "19日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や変動要因の詳細は記事本文にアクセスが必要。"
-  },
-  {
     "title": "8月20日朝の金価格更新:1オンスあたり4,500米ドルに迫る - Laodong.vn",
     "timestamp": "2026-08-19T23:29:50+00:00",
     "importance": 2,
@@ -121,17 +77,6 @@
     "summary": "アナリスト見解として2027年まで原油価格が高止まりする可能性が指摘されている。供給制約やエネルギー需要の構造的要因が背景と考えられる。既報道の観測値であり市場織り込み済みと推定。"
   },
   {
-    "title": "１９日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-19T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "19日の主要国際商品市況を報じるニュース。具体的な価格変動や市場動向の詳細は記事本文が確認できないため、一般的な市況レポートと判断される。"
-  },
-  {
     "title": "黒海穀物輸出が事実上停止 ロシア・ウクライナの攻撃激化で - ロイター",
     "timestamp": "2026-08-20T01:08:00+00:00",
     "importance": 5,
@@ -207,28 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ大統領がイランへの追加制裁を発表。供給途絶リスク要因として認識されるが、原油価格は安定で大きな反応がない。市場はすでに地政学的緊張を織り込んでいる可能性。"
-  },
-  {
-    "title": "イランがホルムズ海峡に通航料を課しても原油価格は上昇しない 専門家が考察 - Forbes JAPAN",
-    "timestamp": "2026-08-19T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランがホルムズ海峡に通航料を課す可能性についての専門家解説。専門家は原油価格への上昇圧力は限定的と見ている。既に市場で織り込まれている議論の一つ。"
-  },
-  {
-    "title": "イランがホルムズ海峡に通航料を課しても原油価格は上昇しない 専門家が考察 - Yahoo!ニュース",
-    "timestamp": "2026-08-19T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランがホルムズ海峡への通航料課税を検討していると報じられているが、専門家は原油価格への上昇圧力は限定的と分析。既知の地政学的リスク要因の範囲内の評価。"
   },
   {
     "title": "黒海穀物輸出が事実上停止　ロシア・ウクライナの攻撃激化で - ｄメニューニュース",
@@ -1989,5 +1912,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "タイの金市場で朝方取引開始時に250バーツの上昇を記録し、金装飾品が71,950バーツで推移。タイ国内市場の日次値動きに関する報道。"
+  },
+  {
+    "title": "金鉱株ラリーがやって来た 金価格も「最大の逆風」にあらがい上昇中 - Forbes JAPAN",
+    "timestamp": "2026-08-22T23:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金鉱株が上昇トレンドを見せており、金価格も強気相場を継続中。市場の逆風要因があるなか、金への投資需要が堅調に推移している。"
+  },
+  {
+    "title": "本日（8月23日）の金価格：上昇傾向が継続。 - Vietnam.vn",
+    "timestamp": "2026-08-22T23:12:21+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月23日の金価格が上昇傾向を継続している。ベトナムメディアによる相場解説記事。具体的な要因や数値が不明。"
   }
 ]
