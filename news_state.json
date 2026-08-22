@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日8月19日、予想外に急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-19T02:21:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8月19日に予想外に急落した。具体的な下落理由や背景情報が記事から不明。金利上昇やドル強化などの構造的要因の可能性あり。"
-  },
-  {
-    "title": "世界の金価格と原油価格は逆方向に動く。 - Vietnam.vn",
-    "timestamp": "2026-08-19T03:04:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格と原油価格が逆方向に動く傾向についての解説記事。ドル強化や金利環境といった共通の経済要因が両者に異なる影響を与えることを指摘しているもの。"
-  },
-  {
     "title": "本日の燃料価格（8月19日）：世界の原油価格が3週間ぶりの高値を記録。 - Vietnam.vn",
     "timestamp": "2026-08-19T03:19:02+00:00",
     "importance": 2,
@@ -2220,5 +2198,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "AIデータセンター需要の急増と銅の供給逼迫が重なり、銅価格が史上最高値に接近している。需給両面から銅相場の構造的な上昇圧力が続いている。米国銅関連銘柄への投資機会を評価する記事。"
+  },
+  {
+    "title": "金相場価格デイリーコメント週間まとめ（8/17〜8/21）｜水野崇 - mbp-japan.com",
+    "timestamp": "2026-08-22T02:27:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月17日～21日の金相場についてのアナリスト週間まとめ。過去1週間の相場動向を振り返るコメンタリーで、特定の新規ニュースイベントではなく、既に消化された相場の解説。"
   }
 ]
