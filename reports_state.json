@@ -66,28 +66,6 @@
     "summary": "EIAが米国原油在庫の再度の増加を報告した。在庫の継続的な増加は供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす可能性がある。具体的な増加量や総在庫レベルが明記されていないため、サプライズ度の判定は限定的。"
   },
   {
-    "title": "Gold Holds Near $4,500 as US Treasury Buyback Sends Yields Lower - Bloomberg.com",
-    "timestamp": "2026-08-19T23:34:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "金相場が$4,500付近で保ち合い。米国債買い戻し（Treasury Buyback）によって長期金利が低下し、金にとって支援材料となっている。利回り低下は無利子資産である金の相対的な魅力を高める。ドル金利の動向が引き続き重要な注視点。"
-  },
-  {
-    "title": "Gold Holds Near $4,500 as US Treasury Buyback Sends Yields Lower - Bloomberg.com",
-    "timestamp": "2026-08-19T23:34:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金相場が$4,500付近で保ち合い。米国債買い戻し（Treasury Buyback）によって長期金利が低下し、金にとって支援材料となっている。利回り低下は無利子資産である金の相対的な魅力を高める。ドル金利の動向が引き続き重要な注視点。"
-  },
-  {
     "title": "Japan's exports surge on chips demand, imports hit record on oil costs - Reuters",
     "timestamp": "2026-08-20T00:23:00+00:00",
     "importance": 3,
@@ -229,28 +207,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国EIA週間統計で原油在庫が再び増加。供給過剰の継続を示唆し、需給バランスの緩和を反映している。具体的な在庫増加量は記事から不明だが、連続増加パターンは価格の下押し圧力となる。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-08-19T23:07:16+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "米国インフレデータの好転期待がコモディティ市場の楽観ムードを支え、原油価格はわずかに上昇。ただしOPECの供給懸念が相殺要因となっており、上値は限定的。FRB金利据え置き観測が金利敏感性の高いコモディティ全般に好影響を与えている状況。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-08-19T23:07:16+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国インフレデータの好転期待がコモディティ市場の楽観ムードを支え、原油価格はわずかに上昇。ただしOPECの供給懸念が相殺要因となっており、上値は限定的。FRB金利据え置き観測が金利敏感性の高いコモディティ全般に好影響を与えている状況。"
   },
   {
     "title": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says - Reuters",
@@ -658,17 +614,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア内陸部の主要石油精製所を攻撃したと報じられた。ロシアの精製能力が直撃を受けることで、欧州向けエネルギー供給がさらに逼迫する可能性が高い。地政学的リスクの再燃により、原油相場は上昇圧力を強める。"
-  },
-  {
-    "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
-    "timestamp": "2026-08-19T23:14:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が追加的な原油増産を承認し、ホルムズ海峡経由の輸出が回復し始めている。供給側の段階的な生産引き上げは市場の安定化を示唆しており、地政学的リスク緩和と需要回復への対応という戦略的判断と考えられる。"
   },
   {
     "title": "Iraq Wants to Double Oil Outputand Needs OPEC to Get Out of the Way - Crude Oil Prices Today | OilPrice.com",
