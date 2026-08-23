@@ -1,38 +1,5 @@
 [
   {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-08-20T19:46:56.120518+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが発表した商業用赤肉生産統計で、前年同期比2%の減少を記録。これは畜産物供給減少を示唆し、飼料需要（トウモロコシ・大豆）の減少につながる可能性がある。米国畜産業の景気後退シグナルとして注視される。"
-  },
-  {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-08-20T19:46:56.120518+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが発表した商業用赤肉生産統計で、前年同期比2%の減少を記録。これは畜産物供給減少を示唆し、飼料需要（トウモロコシ・大豆）の減少につながる可能性がある。米国畜産業の景気後退シグナルとして注視される。"
-  },
-  {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-08-20T19:46:56.120518+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが発表した商業用赤肉生産統計で、前年同期比2%の減少を記録。これは畜産物供給減少を示唆し、飼料需要（トウモロコシ・大豆）の減少につながる可能性がある。米国畜産業の景気後退シグナルとして注視される。"
-  },
-  {
     "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
     "timestamp": "2026-08-21T01:50:00+00:00",
     "importance": 4,
@@ -352,36 +319,25 @@
     "summary": "フーシ派による紅海での船舶攻撃脅威がサウジアラビアの石油物流に再び混乱をもたらしている。紅海はスエズ運河経由で世界原油供給の約12-15%が通過する重要な海上輸送路であり、攻撃リスクの高まりは供給チェーン寸断と原油価格上昇圧力を招く。地政学的リスク再燃により市場の不確実性が増加。"
   },
   {
-    "title": "US Stocks Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
-    "timestamp": "2026-08-20T20:21:01+00:00",
+    "title": "European stocks gain, but inflation worries drive weekly decline - Reuters",
+    "timestamp": "2026-08-21T16:38:49+00:00",
     "importance": 3,
     "direction": "混合",
     "event_type": "commentary",
     "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株が下落する中、原油と長期金利が上昇。これは金利上昇環境を示唆し、金などの無利子資産には下押し圧力となる一方、原油は需要懸念よりもドルベースやジオポリティカル要因が優位。小売売上不振（Walmart）は景気減速シグナルで、需要側からのコモディティ圧力材料。"
-  },
-  {
-    "title": "US Stocks Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
-    "timestamp": "2026-08-20T20:21:01+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
+    "source": "Reuters商品ニュース",
     "commodity": "金",
-    "summary": "米国株が下落する中、原油と長期金利が上昇。これは金利上昇環境を示唆し、金などの無利子資産には下押し圧力となる一方、原油は需要懸念よりもドルベースやジオポリティカル要因が優位。小売売上不振（Walmart）は景気減速シグナルで、需要側からのコモディティ圧力材料。"
+    "summary": "欧州株式は上昇したものの、インフレ懸念がコモディティ市場全体の重しとなり週間では下落。FRBの金融引き締め継続見通しが、無利子資産である金や他のコモディティの需要見通しを圧迫。インフレ・金利上昇のジレンマが市場を支配している。"
   },
   {
-    "title": "US Stocks Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
-    "timestamp": "2026-08-20T20:21:01+00:00",
+    "title": "European stocks gain, but inflation worries drive weekly decline - Reuters",
+    "timestamp": "2026-08-21T16:38:49+00:00",
     "importance": 3,
     "direction": "混合",
     "event_type": "commentary",
     "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
+    "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
-    "summary": "米国株が下落する中、原油と長期金利が上昇。これは金利上昇環境を示唆し、金などの無利子資産には下押し圧力となる一方、原油は需要懸念よりもドルベースやジオポリティカル要因が優位。小売売上不振（Walmart）は景気減速シグナルで、需要側からのコモディティ圧力材料。"
+    "summary": "欧州株式は上昇したものの、インフレ懸念がコモディティ市場全体の重しとなり週間では下落。FRBの金融引き締め継続見通しが、無利子資産である金や他のコモディティの需要見通しを圧迫。インフレ・金利上昇のジレンマが市場を支配している。"
   }
 ]
