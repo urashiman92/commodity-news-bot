@@ -1,60 +1,5 @@
 [
   {
-    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
-    "timestamp": "2026-08-19T23:59:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAがブラジルのコーヒー生産が記録的水準に達すると発表。特にアラビカ種の生産が回復し、ブラジルの総生産量が過去最高を更新する見通し。供給増加見込みによりコーヒー関連のコモディティ価格に下押し圧力が生じる可能性が高い。"
-  },
-  {
-    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
-    "timestamp": "2026-08-19T23:59:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAがブラジルのコーヒー生産が記録的水準に達すると発表。特にアラビカ種の生産が回復し、ブラジルの総生産量が過去最高を更新する見通し。供給増加見込みによりコーヒー関連のコモディティ価格に下押し圧力が生じる可能性が高い。"
-  },
-  {
-    "title": "Gold hovers near early-June high on lower bond yields - Reuters",
-    "timestamp": "2026-08-20T01:07:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "金価格が6月初旬の高値付近で推移している。債券利回りの低下が主な支援材料となっており、低金利環境が金（無利子資産）の相対的な魅力を高めている。テクニカル的には重要なレジスタンスレベルでの値動きに注目が集まっている。"
-  },
-  {
-    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
-    "timestamp": "2026-08-20T00:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "ブラジルのコーヒー生産が記録的な水準に達し、特にアラビカ種の作付が回復。ブラジルはグローバルコーヒー供給の約3分の1を占めており、豊作は国際商品相場に供給圧力をもたらす。コーヒー先物は下押し圧力を受ける可能性が高い。"
-  },
-  {
-    "title": "USDA: Record Brazil Production Driven by Rebounding Arabica Crop - stonex.com",
-    "timestamp": "2026-08-20T00:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "ブラジルのコーヒー生産が記録的な水準に達し、特にアラビカ種の作付が回復。ブラジルはグローバルコーヒー供給の約3分の1を占めており、豊作は国際商品相場に供給圧力をもたらす。コーヒー先物は下押し圧力を受ける可能性が高い。"
-  },
-  {
     "title": "EIA reports another rise in US crude oil stocks - engine.online",
     "timestamp": "2026-08-20T05:33:39+00:00",
     "importance": 2,
@@ -64,39 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の再度の増加を報告した。在庫の継続的な増加は供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす可能性がある。具体的な増加量や総在庫レベルが明記されていないため、サプライズ度の判定は限定的。"
-  },
-  {
-    "title": "Japan's exports surge on chips demand, imports hit record on oil costs - Reuters",
-    "timestamp": "2026-08-20T00:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "日本の輸出が半導体需要の回復により急伸する一方、輸入は原油価格上昇により過去最高水準に達した。チップ需要の増加は銅などベースメタルの需要見通しを支持する一方、エネルギーコスト高は日本の製造業収益性を圧迫。これはアジア地域の需給バランスの二面性を反映している。"
-  },
-  {
-    "title": "Japan's exports surge on chips demand, imports hit record on oil costs - Reuters",
-    "timestamp": "2026-08-20T00:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "銅",
-    "summary": "日本の輸出が半導体需要の回復により急伸する一方、輸入は原油価格上昇により過去最高水準に達した。チップ需要の増加は銅などベースメタルの需要見通しを支持する一方、エネルギーコスト高は日本の製造業収益性を圧迫。これはアジア地域の需給バランスの二面性を反映している。"
-  },
-  {
-    "title": "Japan's exports surge on chips demand, imports hit record on oil costs - Reuters",
-    "timestamp": "2026-08-20T00:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "日本の輸出が半導体需要の回復により急伸する一方、輸入は原油価格上昇により過去最高水準に達した。チップ需要の増加は銅などベースメタルの需要見通しを支持する一方、エネルギーコスト高は日本の製造業収益性を圧迫。これはアジア地域の需給バランスの二面性を反映している。"
   },
   {
     "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks - Reuters",
