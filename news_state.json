@@ -1,60 +1,5 @@
 [
   {
-    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念 - ロイター",
-    "timestamp": "2026-08-20T05:47:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の地政学的緊張の膠着状態により、中東地域の原油供給に対する懸念が支持材料となった。小幅上昇で推移しており、市場は様子見姿勢。紛争激化のリスクが先物を下支え。"
-  },
-  {
-    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念 - ニューズウィーク日本版",
-    "timestamp": "2026-08-20T05:46:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の軍事紧張が膠着状態にあり、供給リスクへの懸念から原油先物が小幅上昇。地政学的な不確実性が価格を支えている状況。"
-  },
-  {
-    "title": "金相場が1オンス4,500ドル超を維持、アジアの金鉱株が急騰 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-20T05:51:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場が1オンス4,500ドル超で堅調に推移している。アジアの金鉱株が急騰しており、金価格の上昇が関連銘柄に波及している。高金価格環境は鉱山企業の収益性向上を意味する。"
-  },
-  {
-    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-08-20T05:46:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン紛争の膠着状態が続く中、供給途絶リスクへの懸念から原油先物は小幅上昇。地政学的プレミアムは継続している。"
-  },
-  {
-    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念｜Infoseekニュース - Infoseek",
-    "timestamp": "2026-08-20T05:46:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の紛争が膠着状態にあることで、中東の供給リスク懸念が相場を下支え。原油先物は小幅な上昇に留まっている。地政学的リスクは織り込まれつつある。"
-  },
-  {
     "title": "原油価格は小幅に動く、米国とイランの戦争でホルムズ海峡のリスクを警戒 - mezha.net",
     "timestamp": "2026-08-20T05:55:52+00:00",
     "importance": 4,
@@ -66,17 +11,6 @@
     "summary": "米国とイランの紛争懸念によりホルムズ海峡の地政学リスクが再認識されている。現在のところ価格は小幅動で織り込み途上。供給遮断リスクが顕在化すれば急騰要因になる可能性。"
   },
   {
-    "title": "世界の金価格は、2か月以上ぶりに4,500ドルを突破した。 - Vietnam.vn",
-    "timestamp": "2026-08-20T05:41:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が2ヶ月ぶりに1オンス4,500ドルを突破した。世界的なインフレ懸念や地政学リスクなどの背景要因がある。"
-  },
-  {
     "title": "ＷＴＩ原油 - 日本経済新聞",
     "timestamp": "2026-08-20T07:00:00+00:00",
     "importance": 1,
@@ -86,17 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油の価格情報記事。具体的なニュース内容が提供されていないため、分析対象となるイベントが特定できない状況。"
-  },
-  {
-    "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念 - ｄメニューニュース",
-    "timestamp": "2026-08-20T05:46:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の地政学的緊張が続く中、原油供給懸念が意識されている。先物は小幅上昇で、市場は膠着状態を反映している。現在のところ大きな供給途絶には至っていない。"
   },
   {
     "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
@@ -1846,5 +1769,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月23日時点で世界の原油価格が高止まり状態にあることを報じた記事。市場の現状を記述したもので、新規の価格変動要因は明記されていない。"
+  },
+  {
+    "title": "本日（8月23日正午）の金価格：依然として高水準を維持。 - Vietnam.vn",
+    "timestamp": "2026-08-23T05:49:09+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムメディアが8月23日正午時点の金価格について、依然として高水準を維持していると報じた。具体的な価格動向や新規材料についての詳細は記事概要からは不明。"
   }
 ]
