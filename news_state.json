@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格が劇的に反転し、3つの「勢力」が激しい争いを繰り広げている。 - Vietnam.vn",
-    "timestamp": "2026-08-20T23:38:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が劇的に反転し、複数の市場勢力による値動きが報道されている。テクニカル・ファンダメンタルズ・地政学など異なる要因が金価格に影響を与えている状況を指摘。"
-  },
-  {
-    "title": "本日（2026年8月21日）の金価格：急騰中のSJC金価格は、さらに上昇を加速する可能性がある。 - Vietnam.vn",
-    "timestamp": "2026-08-20T23:38:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が急騰しており、さらなる上昇の可能性を指摘するコメンタリー記事。ベトナムローカルの金市場に関する解説で、グローバル市場への直接的な新情報は限定的。"
-  },
-  {
-    "title": "本日の燃料価格（8月21日）：世界の原油価格は高止まりしている。 - Vietnam.vn",
-    "timestamp": "2026-08-20T23:22:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月21日時点での世界原油価格が高止まり状態にあることを報じる記事。現状の価格水準を確認する日次レポート。具体的な価格変動や新規ニュースは不明。"
-  },
-  {
     "title": "【金相場見通し】ドル相場と金利動向で予測 金（ゴールド）相場の中期展望 〜4,400ドル台の攻防はいつまで続くのか - 外為どっとコム",
     "timestamp": "2026-08-21T00:30:00+00:00",
     "importance": 2,
@@ -64,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月21日時点で金価格が全般的に上昇したと報じられている。ベトナムローカルニュースの日次相場レポート。具体的な上昇幅や要因は記事概要からは不明。"
-  },
-  {
-    "title": "日本市場、米長期金利反発し株・債券安へ－原油価格上昇も重しに（Bloomberg） - Yahoo!ニュース",
-    "timestamp": "2026-08-20T23:39:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米長期金利の反発に伴い日本の株・債券市場が軟調。一方で原油価格は上昇し、エネルギーコモディティには上値抵抗。金利上昇と原油高の相反する影響が市場に混在している。"
   },
   {
     "title": "ブレント原油価格は落ち着いているものの、ディーゼル燃料の供給不足により石油市場は過熱気味だ。 - Vietnam.vn",
@@ -165,17 +121,6 @@
     "summary": "8月21日の金価格が引き続き急騰している状況をレポートするニュース。具体的な数値や主要な上昇要因の記載がない。金相場全体のトレンド継続を伝える報道。"
   },
   {
-    "title": "原油価格の変動を超えて、戦争被害が長引く中で精製燃料不足が深刻化 - BigGo ファイナンス",
-    "timestamp": "2026-08-20T23:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "戦争被害の長期化により精製燃料の供給が深刻化している。原油価格変動以上に製品供給不足がリスク要因。ファンダメンタルズの悪化が顕在化。"
-  },
-  {
     "title": "金価格は高騰しており、新たな最高値を更新するか、それとも再び急落するか？ - Vietnam.vn",
     "timestamp": "2026-08-21T04:51:45+00:00",
     "importance": 2,
@@ -196,17 +141,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月20日の金価格は前日比で下落幅を縮小した。日中の値動きの振り返りニュースであり、特定の新規材料がない相場の日々の動き。"
-  },
-  {
-    "title": "原油価格と金利の上昇やウォルマートの決算内容下振れなどが投資家心理の重荷に - 日経CNBC online",
-    "timestamp": "2026-08-20T23:19:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格上昇と金利上昇が相まって投資家心理を圧迫。ウォルマートの決算下振れは経済減速懸念を示唆。複数のネガティブ要因が重なり市場センチメント悪化。"
   },
   {
     "title": "LME銅在庫が急増 世界需給に変化の兆し（日刊産業新聞） - Yahoo!ニュース",
@@ -1549,5 +1483,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の高騰がプラスチック製容器のコスト増につながり、ボトル入り飲料水の価格が2～4％上昇する見込み。既知の原油高による波及効果の観測レポート。"
+  },
+  {
+    "title": "2026年8月24日の金価格：世界的な価格高騰、SJCの金価格はどこまで上昇するのか？ - Vietnam.vn",
+    "timestamp": "2026-08-23T23:18:18+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC）が世界的な金価格高騰に連動して上昇している。記事はベトナム国内の金市場における価格動向の解説。"
+  },
+  {
+    "title": "$金先物(2612) (GCmain.US)$ - Moomoo",
+    "timestamp": "2026-08-23T07:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物の価格情報ページへのリンク。具体的なニュース内容や価格変動情報は記載されていない。投資プラットフォームMoomooの相場データへのアクセスポイント。"
+  },
+  {
+    "title": "8月24日朝の金価格更新:ポジティブな心理で週明け - Laodong.vn",
+    "timestamp": "2026-08-23T23:12:58+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月24日朝の金価格がポジティブな心理で週明けを迎えている。市場センチメントが買い優位であることが示唆されている。"
+  },
+  {
+    "title": "世界の金価格が4,600ドルを突破したが、サンノゼの金価格は出遅れている。専門家は3つの理由を指摘している。 - Vietnam.vn",
+    "timestamp": "2026-08-23T23:18:18+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界の金価格が4,600ドルを突破する中、サンノゼ地域の金価格が出遅れている。専門家が3つの理由を指摘しているが、地域的な価格乖離に関する解説記事。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平合意の先行き不透明感が影響し、原油価格は2営業日続伸（2026年8月24日） - OANDA証券",
+    "timestamp": "2026-08-23T23:17:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの和平合意見通しの不透明感により、原油価格は2営業日続伸。地政学的リスク要因が価格を支持している。"
   }
 ]
