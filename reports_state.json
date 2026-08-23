@@ -33,17 +33,6 @@
     "summary": "2025年8月時点での粗米在庫が前年同月比で12%増加したことが報告された。米国の供給圧力が高まっていることを示唆する定例統計。穀物全体の供給環境が軟調であることを確認させる内容。"
   },
   {
-    "title": "USA Crude Oil Stocks See Another Build - Rigzone",
-    "timestamp": "2026-08-20T15:46:24+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが発表した米国原油在庫が継続して増加している。在庫の積み上がりは原油供給過剰の懸念を示唆し、価格下押し圧力となる。具体的な在庫増加量の数値情報は記事タイトルのみでは不明確だが、複数週連続での在庫増加は需要弱化または供給過剰を意味する。"
-  },
-  {
     "title": "Copper Price Forecast: LME Squeeze Unwinds Toward $6.30 - FXEmpire",
     "timestamp": "2026-08-20T17:11:00+00:00",
     "importance": 3,
@@ -119,39 +108,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "テキサス西部の石油生産者がAI・データセンター関連の電力需要急増に対応するため、発電・電力インフラ投資を大幅拡大。電力需要増加が石油・ガスの発電用途需要を押し上げ、また関連インフラ整備に銅などの非鉄金属需要も増加見込み。エネルギー複合需要の構造的変化を示唆する重要なトレンド。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-08-20T16:33:22+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版が発表されました。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗状況や生育状況に関する定期統計ですが、具体的な数値がリンク先に未掲載のため詳細は不明です。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-08-20T16:33:22+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版が発表されました。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗状況や生育状況に関する定期統計ですが、具体的な数値がリンク先に未掲載のため詳細は不明です。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-08-20T16:33:22+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版が発表されました。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗状況や生育状況に関する定期統計ですが、具体的な数値がリンク先に未掲載のため詳細は不明です。"
   },
   {
     "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
@@ -328,17 +284,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSが7月の米国乳生産統計を発表。主要24州での生産量は194億ポンドで前年同月比2.3%増加。乳生産増加は飼料需要（トウモロコシ・大豆）の継続的な需要圧力を示唆し、穀物相場への下押し圧力となる可能性がある。"
-  },
-  {
-    "title": "USA Crude Oil Stocks See Another Build - Rigzone",
-    "timestamp": "2026-08-20T15:50:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が再び増加したとの報告。在庫積み増しはWTI原油の需給緩和を意味し、価格下押し圧力となる。EIAの週間在庫統計は定期的に発表される重要指標だが、具体的な増加量や前週比が未記載のため詳細な評価が困難。"
   },
   {
     "title": "Global stocks close out a tough week as bond yields, oil stay high - Reuters",
