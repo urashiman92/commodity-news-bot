@@ -1,16 +1,5 @@
 [
   {
-    "title": "黒海の穀物回廊が機能不全寸前 ロシア・ウクライナの小麦輸出急減で世界食料価格高騰の恐れ - BigGo ファイナンス",
-    "timestamp": "2026-08-20T13:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海穀物回廊の機能不全により、ロシア・ウクライナからの小麦輸出が急減している。世界的な食料価格上昇圧力が高まる可能性がある。地政学リスクによる供給懸念が継続。"
-  },
-  {
     "title": "NY市場動向（午前10時台）：ダウ363ドル高、原油先物1.53ドル高｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-08-20T14:56:00+00:00",
     "importance": 2,
@@ -53,17 +42,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "BHPの銅事業へのシフト戦略が成功していることを伝える解説記事。銅需要の増加とエネルギー転換への対応が背景。既に市場で認識されている既定路線の内容。"
-  },
-  {
-    "title": "米株動向｜金価格が単日で4%急騰し4,500ドル台を回復、シルバークレスト（SVM.US）株価は9%超の高値で終える - Moomoo",
-    "timestamp": "2026-08-20T13:07:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が単日で4%急騰し4,500ドル台を回復。この急騰により関連株式も大きく上昇。シルバークレスト（SVM.US）など金鉱株が9%超の高値で終える。"
   },
   {
     "title": "原油先物1カ月ぶり高値、トランプ氏の対イラン圧力強化で供給懸念再燃 - ロイター",
@@ -1637,5 +1615,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は過去1週間で上昇したが、記事のタイトルから買い手が依然として含み損を抱えていることが示唆されている。これは相場の振り返りと市場参加者の心理状態に関するコメンタリー。"
+  },
+  {
+    "title": "金価格は本日8月23日、買い手が利益を上げたため、大幅に上昇して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-23T12:45:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月23日の金価格は買い手による利益確定で大幅上昇して取引終了。単日の相場振り返りコメンタリーで、具体的な材料や数値は記載されていない。"
+  },
+  {
+    "title": "世界の原油在庫は再び減少した。 - Vietnam.vn",
+    "timestamp": "2026-08-23T12:54:18+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界的な原油在庫が減少傾向を示した。在庫減少は供給逼迫を示唆し、原油価格の上昇要因となる。EIAなどの定期的な在庫統計の一部と考えられる。"
   }
 ]
