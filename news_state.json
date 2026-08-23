@@ -1,71 +1,5 @@
 [
   {
-    "title": "黒海穀物輸出が事実上停止 ロシア・ウクライナの攻撃激化で - ロイター",
-    "timestamp": "2026-08-20T01:08:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナの攻撃激化により黒海穀物輸出が事実上停止。黒海はグローバル小麦供給の約3割を占める重要な輸出ルート。供給途絶による急速な逼迫感が価格を大きく押し上げる可能性。"
-  },
-  {
-    "title": "黒海穀物輸出が事実上停止 ロシア・ウクライナの攻撃激化で｜Infoseekニュース - Infoseek",
-    "timestamp": "2026-08-20T01:07:19+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナの攻撃激化により黒海穀物輸出が事実上停止。黒海は世界の小麦輸出の約30%を占める主要供給源であり、供給ショックが顕在化。国際穀物価格の急騰につながる可能性が高い。"
-  },
-  {
-    "title": "NY金先物が急反発、1日で142ドル高 利上げ観測後退とドル安で買い - BigGo ファイナンス",
-    "timestamp": "2026-08-20T01:09:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が1日で142ドル上昇し急反発。利上げ観測の後退とドル安が買い圧力となった。マクロ環境の転換で金の魅力が相対的に高まった。"
-  },
-  {
-    "title": "黒海穀物輸出が事実上停止　ロシア・ウクライナの攻撃激化で - ｄメニューニュース",
-    "timestamp": "2026-08-20T01:07:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナ紛争の激化により黒海からの穀物輸出が事実上停止。黒海は世界の小麦輸出の約30%を供給する重要な流通ルート。供給途絶により小麦価格は急騰圧力が強まる。"
-  },
-  {
-    "title": "8月20日の金価格：全般的に下落。 - Vietnam.vn",
-    "timestamp": "2026-08-20T02:00:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月20日の金相場が全般的に下落。特定の新たなカタリストが報じられていない日次の相場振り返り。ベトナムメディアによる定期的な市場レポート。"
-  },
-  {
-    "title": "WTI 原油先物(2610)のリアルタイムチャート - Moomoo",
-    "timestamp": "2026-08-20T01:32:37+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "MoomooプラットフォームによるWTI原油先物のリアルタイムチャート表示ページ。市場データ配信であり、特定のニュースイベントや価格変動要因を含まない。"
-  },
-  {
     "title": "米国債利回り急騰と原油高の挟み撃ち 金相場は短期的に上値重く調整局面 - finance.biggo.jp",
     "timestamp": "2026-08-20T03:29:46+00:00",
     "importance": 3,
@@ -1835,5 +1769,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国のイラン制裁強化とディーゼル精製マージンの過去最高が原油上昇要因。2週連続での上昇トレンドが続いている。既に市場で認識されている要因の継続報道。"
+  },
+  {
+    "title": "今年初め、史上最高値を記録した金価格が再び反騰する姿を見せると、投資家の動きが忙しくなった。 金価格に追従して収益を出す金融商品に巨額を投入する一方、実物金を求める姿も現れている。21日、金融投資業界.. - 매일경제",
+    "timestamp": "2026-08-23T00:01:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金は年初の史上最高値から再び反騰する動きが見られ、投資家の買い姿勢が活発化している。金融商品への巨額投入と実物金需要の両方が増加している。"
+  },
+  {
+    "title": "8月23日の金価格：世界の金価格と国内の金価格の差が縮小。 - Vietnam.vn",
+    "timestamp": "2026-08-23T01:49:59+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が世界金価格に接近している状況についての相場解説。サヤが縮小する傾向は市場効率化を示唆しているが、新規情報ではない。"
   }
 ]
