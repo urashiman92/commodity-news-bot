@@ -1,49 +1,5 @@
 [
   {
-    "title": "Rice Stocks",
-    "timestamp": "2026-08-20T16:52:22.241590+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "2025年8月時点での粗米在庫が前年同月比で12%増加したことが報告された。米国の供給圧力が高まっていることを示唆する定例統計。穀物全体の供給環境が軟調であることを確認させる内容。"
-  },
-  {
-    "title": "Rice Stocks",
-    "timestamp": "2026-08-20T16:52:22.241590+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "2025年8月時点での粗米在庫が前年同月比で12%増加したことが報告された。米国の供給圧力が高まっていることを示唆する定例統計。穀物全体の供給環境が軟調であることを確認させる内容。"
-  },
-  {
-    "title": "Rice Stocks",
-    "timestamp": "2026-08-20T16:52:22.241590+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "2025年8月時点での粗米在庫が前年同月比で12%増加したことが報告された。米国の供給圧力が高まっていることを示唆する定例統計。穀物全体の供給環境が軟調であることを確認させる内容。"
-  },
-  {
-    "title": "Copper Price Forecast: LME Squeeze Unwinds Toward $6.30 - FXEmpire",
-    "timestamp": "2026-08-20T17:11:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "LME銅市場における逼迫状態（スクイーズ）が解消局面を迎え、価格が$6.30に向けて調整される見通しが示されている。現在の過度な価値プレミアムが正常化する過程を指摘するレポート。"
-  },
-  {
     "title": "Livestock Slaughter",
     "timestamp": "2026-08-20T19:46:56.120518+00:00",
     "importance": 3,
