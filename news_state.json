@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY市場動向（午前10時台）：ダウ363ドル高、原油先物1.53ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-20T14:56:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場の午前10時台の時点値として、ダウが363ドル上昇し原油先物が1.53ドル上昇している。リスクオン相場の一部として原油も連動している様子。"
-  },
-  {
     "title": "原油価格上昇でノースダコタ州の油田活動が増加へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-20T17:25:00+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格上昇に伴い、ノースダコタ州のバッケン油田における石油掘削活動が増加する見通し。既知の価格上昇トレンドに対する通常の産業的応答。"
-  },
-  {
-    "title": "BHP、銅事業へのシフトが奏功（Lex） - 日本経済新聞",
-    "timestamp": "2026-08-20T15:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "BHPの銅事業へのシフト戦略が成功していることを伝える解説記事。銅需要の増加とエネルギー転換への対応が背景。既に市場で認識されている既定路線の内容。"
   },
   {
     "title": "原油先物1カ月ぶり高値、トランプ氏の対イラン圧力強化で供給懸念再燃 - ロイター",
@@ -1681,5 +1659,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの国内金価格が国際価格との乖離を縮小させている。市場の効率化が進行中で、アービトラージ機会の消滅を示唆。"
+  },
+  {
+    "title": "黒海輸送「途絶」懸念で穀物高騰 ロシアとウクライナ双方が港湾攻撃 - 日本経済新聞",
+    "timestamp": "2026-08-23T15:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア・ウクライナが黒海の港湾施設を相互攻撃し、穀物輸送途絶の懸念が急速に高まった。黒海は世界小麦輸出の約30%を経由する重要な輸送路であり、供給経路の遮断は価格高騰を招く。ウクライナからの穀物流出が実質的に停止する可能性がある。"
+  },
+  {
+    "title": "8月23日の金価格：金価格は1オンスあたり4,600ドル以上を維持、専門家はさらなる上昇を予測？ - Vietnam.vn",
+    "timestamp": "2026-08-23T13:48:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,600ドル以上を維持している。専門家がさらなる上昇を予測している。既に高値圏での現状報告と観測論評。"
   }
 ]
