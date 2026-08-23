@@ -1,27 +1,5 @@
 [
   {
-    "title": "JPモルガンの金価格予想達成、5000ドル視野か - BeInCrypto",
-    "timestamp": "2026-08-20T04:36:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "JPモルガンが提示していた金価格予想が現実化し、次のターゲットとして5000ドル到達の可能性が指摘されている。既存の強気相場観がさらに強化される材料。"
-  },
-  {
-    "title": "世界の金価格が4,500ドルを突破。 - Vietnam.vn",
-    "timestamp": "2026-08-20T04:20:33+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,500ドルを突破したことを報じるニュース。コモディティ市場では心理的なレジスタンス突破として注目される。具体的な原因（金融緩和・インフレ懸念・地政学リスク等）が記事から不明。"
-  },
-  {
     "title": "原油先物は小幅上昇、米イラン戦争の膠着で供給懸念 - ロイター",
     "timestamp": "2026-08-20T05:47:00+00:00",
     "importance": 3,
@@ -1802,5 +1780,71 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "純金上場信託(1540)の株価情報ページの掲載。リアルタイム株価データとPTS情報を提供するもので、特定のニュースイベントではなく、投資情報プラットフォームの定常的なコンテンツ。"
+  },
+  {
+    "title": "金鉱株ラリーがやって来た 金価格も「最大の逆風」にあらがい上昇中 - Yahoo!ニュース",
+    "timestamp": "2026-08-23T02:55:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金鉱株が上昇ラリーを示現。金価格も強気ドルなどの逆風にもかかわらず上昇基調を保つ。金融緩和期待や地政学リスクが下支え要因か。"
+  },
+  {
+    "title": "金価格は本日2026年8月23日に急騰し、重要な節目を超えました。これは、金の需要が「回復」し、ロシア中央銀行が引き続き金を売却していることが背景にあります。 - Vietnam.vn",
+    "timestamp": "2026-08-23T04:22:28+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が重要な節目を超えて上昇。需要回復とロシア中央銀行の売却継続が背景。2026年8月時点での相場動向を報じた解説記事。"
+  },
+  {
+    "title": "本日8月23日の金価格：SJC金は上昇を続け、金の指輪は1億5000万ベトナムドンに迫る。 - Vietnam.vn",
+    "timestamp": "2026-08-23T04:12:32+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が上昇を続けており、金の指輪が1億5000万ベトナムドンに接近している。地域的な金価格トレンドを報じたもので、グローバル市場への影響は限定的。"
+  },
+  {
+    "title": "本日の燃料価格（8月23日）：世界の原油価格が上昇した1週間。 - Vietnam.vn",
+    "timestamp": "2026-08-23T04:12:27+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月23日時点でこの1週間の世界原油価格の上昇を報じるベトナムの燃料価格ニュース。具体的な上昇要因や数値の記載がなく、相場の振り返り報道と推定される。"
+  },
+  {
+    "title": "人民日報が論文掲載：中国の世界経済成長への寄与率は30％前後を維持、新エネ優位性が国際原油価格の圧力を相殺 - BigGo ファイナンス",
+    "timestamp": "2026-08-23T04:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中国が世界経済成長に30％前後寄与しており、新エネルギー産業の拡大が国際原油価格に下押し圧力をかけている。中国の公式見解として経済貢献度を強調しつつ、エネ転換による石油需要減を示唆。"
+  },
+  {
+    "title": "本日（8月23日）の燃料価格：世界の原油価格は高止まりしている。 - Vietnam.vn",
+    "timestamp": "2026-08-23T04:14:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月23日時点で世界の原油価格が高止まり状態にあることを報じた記事。市場の現状を記述したもので、新規の価格変動要因は明記されていない。"
   }
 ]
