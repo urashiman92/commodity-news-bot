@@ -1,27 +1,5 @@
 [
   {
-    "title": "US Stock Futures Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
-    "timestamp": "2026-08-20T12:13:11+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株先物が下落する中、原油価格と米国債利回りが上昇している。Walmartなど小売株の不調が報じられている。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は上昇基調を示唆している。"
-  },
-  {
-    "title": "US Stock Futures Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
-    "timestamp": "2026-08-20T12:13:11+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株先物が下落する中、原油価格と米国債利回りが上昇している。Walmartなど小売株の不調が報じられている。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は上昇基調を示唆している。"
-  },
-  {
     "title": "USA Crude Oil Stocks See Another Build - Rigzone",
     "timestamp": "2026-08-20T14:55:29+00:00",
     "importance": 2,
@@ -97,17 +75,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME銅市場における逼迫状態（スクイーズ）が解消局面を迎え、価格が$6.30に向けて調整される見通しが示されている。現在の過度な価値プレミアムが正常化する過程を指摘するレポート。"
-  },
-  {
-    "title": "Ukraine Says It Hit Russia’s Taneco Refinery, Small Oil Terminal - Bloomberg.com",
-    "timestamp": "2026-08-20T11:57:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの主要製油所タネコ(Taneco)と小規模石油ターミナルへの攻撃を実施したと発表。ロシアの石油精製能力の喪失は欧州エネルギー市場に波及し、供給逼迫懸念から原油価格の上昇圧力となる。地政学的リスク要因の顕在化により市場センチメント悪化。"
   },
   {
     "title": "Livestock Slaughter",
@@ -515,5 +482,27 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の減少を報告。精製業者が処理量を増加させたことが在庫低下の主要因。需給改善を示唆するシグナルだが、予想の範囲内の動き。短期的には価格支援材料となる可能性。"
+  },
+  {
+    "title": "Dow Jones Top Energy Headlines at 12 AM ET: OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - Moomoo",
+    "timestamp": "2026-08-21T07:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国が再度の増産を実施する一方、ホルムズ海峡の海上交通が回復局面に入ったと報じられた。供給増加と需要改善の同時進行により、供給過剰懸念が緩和される可能性がある一方で、増産は原油価格に対して下向きの圧力となる見込み。"
+  },
+  {
+    "title": "Saudis Oil Logistics Roiled Again by Houthis’ Red Sea Threat - Bloomberg.com",
+    "timestamp": "2026-08-23T11:30:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派による紅海での船舶攻撃脅威がサウジアラビアの石油物流に再び混乱をもたらしている。紅海はスエズ運河経由で世界原油供給の約12-15%が通過する重要な海上輸送路であり、攻撃リスクの高まりは供給チェーン寸断と原油価格上昇圧力を招く。地政学的リスク再燃により市場の不確実性が増加。"
   }
 ]
