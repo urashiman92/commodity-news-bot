@@ -11,17 +11,6 @@
     "summary": "WTI原油先物の価格情報ページと思われるが、具体的なニュースコンテンツや価格変動データが含まれていない。ただのポータルページリンクのため、投資判断材料として機能しない。"
   },
   {
-    "title": "原油価格の高騰を抑制していた3つの要因は、徐々に消滅しつつある。 - Vietnam.vn",
-    "timestamp": "2026-08-20T08:06:23+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇を抑制していた3つの要因が徐々に消滅しつつあるとの指摘。具体的な要因の詳細は記事概要から不明だが、抑制要因の減少は価格上昇圧力を意味する。上値余地があるシナリオへの転換を示唆している。"
-  },
-  {
     "title": "ブレント原油先物 (UKOIL-F) は8月20日に上昇 2.24%：なぜ起こったのか - TradingKey",
     "timestamp": "2026-08-20T08:36:10+00:00",
     "importance": 2,
@@ -614,17 +603,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "戦争被害の長期化により精製燃料の供給が深刻化している。原油価格変動以上に製品供給不足がリスク要因。ファンダメンタルズの悪化が顕在化。"
-  },
-  {
-    "title": "金よりも安定した銅投資の選択肢 - jp.ajunews.com",
-    "timestamp": "2026-08-20T08:04:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅が金と比較して投資選択肢として安定性を持つことを論じた解説記事。銅の投資価値や特性についてのコメンタリー。"
   },
   {
     "title": "金価格は高騰しており、新たな最高値を更新するか、それとも再び急落するか？ - Vietnam.vn",
@@ -1769,5 +1747,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの国内金価格と国際金価格の差が数年来の最低水準に縮小している。市場の効率性向上を示唆するが、グローバルな金相場の方向性には直結しない地域的な話題。"
+  },
+  {
+    "title": "金価格は1オンスあたり4,600ドルを突破し、専門家は来週もこの貴金属価格の上昇傾向が続くと予測している。 - Vietnam.vn",
+    "timestamp": "2026-08-23T06:51:51+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,600ドルを突破した。アナリストは来週も上昇傾向が継続すると予測している。既に達成された事実の事後的な観測コメント。"
   }
 ]
