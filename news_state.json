@@ -1,38 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4518ドル｜前日に大きく上昇したこともあり、調整が入った模様(2026年8月21日) - OANDA証券",
-    "timestamp": "2026-08-20T23:06:11+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4518ドルまで下落。前日の大幅上昇後の調整局面と見られる。テクニカルな利益確定売りが発生した模様。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの戦争長期化による原油供給懸念から、原油価格は反発（2026年8月21日） - OANDA証券",
-    "timestamp": "2026-08-20T23:15:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの戦争長期化による原油供給懸念から、WTI原油価格が反発。地政学リスクが相場を支援している。既報の地政学的緊張の継続に基づく解説記事。"
-  },
-  {
-    "title": "２０日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-20T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "20日の主要国際商品市況の日次レポート。具体的な価格データや市場動向の詳細は記事本体で確認が必要。定期的な市場サマリー報道。"
-  },
-  {
     "title": "金価格が劇的に反転し、3つの「勢力」が激しい争いを繰り広げている。 - Vietnam.vn",
     "timestamp": "2026-08-20T23:38:42+00:00",
     "importance": 2,
@@ -99,17 +66,6 @@
     "summary": "8月21日時点で金価格が全般的に上昇したと報じられている。ベトナムローカルニュースの日次相場レポート。具体的な上昇幅や要因は記事概要からは不明。"
   },
   {
-    "title": "日本市場、米長期金利反発し株・債券安へ－原油価格上昇も重しに - Bloomberg",
-    "timestamp": "2026-08-20T23:11:37+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米長期金利の反発により日本の株式・債券市場が売られた。同時に原油価格も上昇しており、相場変動の背景は金利上昇という共通要因。エネルギーコストの上昇材料としては限定的。"
-  },
-  {
     "title": "日本市場、米長期金利反発し株・債券安へ－原油価格上昇も重しに（Bloomberg） - Yahoo!ニュース",
     "timestamp": "2026-08-20T23:39:24+00:00",
     "importance": 3,
@@ -143,17 +99,6 @@
     "summary": "金価格が1オンスあたり4,500ドル前後で推移していることを報じたもの。現在の価格水準の事実報告であり、新規の情報要素に乏しい。"
   },
   {
-    "title": "日本市場、米長期金利反発し株・債券安へ－原油価格上昇も重しに - Bloomberg.com",
-    "timestamp": "2026-08-20T23:11:37+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米長期金利が反発し、日本の株式・債券市場が下落。一方、原油価格は上昇しているが、全体的には金利上昇が主導する市場動向の解説記事。"
-  },
-  {
     "title": "原油価格、1カ月ぶり高値から下落も週間では上昇へ――米イラン緊張が続く 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-21T01:26:00+00:00",
     "importance": 3,
@@ -174,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イランの軍事衝突が膠着状態にあることで、中東からの石油供給途絶リスクが継続的に意識されている。この懸念が原油先物を2週連続で押し上げている。既に報じられた地政学的緊張の延長線上での相場動き。"
-  },
-  {
-    "title": "２０日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-20T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "20日の主要国際商品市況の定期報道。具体的な価格データや市場動向の詳細が記事本文なしでは判断不可。"
   },
   {
     "title": "金価格、ドル安と米国債買い戻しを追い風に週間上昇を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1593,5 +1527,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の封鎖が継続中であり、世界の石油在庫が減少している。主要な海上輸送経路の混乱により供給逼迫圧力が存在。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は反発し4602ドル｜米国の国債買い戻しや利上げ観測後退が影響している模様(2026年8月24日) - OANDA証券",
+    "timestamp": "2026-08-23T23:07:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4602ドルまで反発。米国の国債買い戻しと利上げ観測の後退が支援材料となった。ドル弱化と低金利環境が金の相対的な魅力を高めている。"
+  },
+  {
+    "title": "原油価格の高騰により、この夏、ボトル入り飲料水の価格が2～4％上昇する見込みだ。 - ENTREVUE.FR",
+    "timestamp": "2026-08-23T09:44:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の高騰がプラスチック製容器のコスト増につながり、ボトル入り飲料水の価格が2～4％上昇する見込み。既知の原油高による波及効果の観測レポート。"
   }
 ]
