@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA reports another rise in US crude oil stocks - engine.online",
-    "timestamp": "2026-08-20T05:33:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の再度の増加を報告した。在庫の継続的な増加は供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす可能性がある。具体的な増加量や総在庫レベルが明記されていないため、サプライズ度の判定は限定的。"
-  },
-  {
     "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks - Reuters",
     "timestamp": "2026-08-20T06:28:00+00:00",
     "importance": 4,
@@ -31,17 +20,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "黒海地域での攻撃により、世界の小麦供給に対する懸念が急速に高まっている。ウクライナは世界の小麦輸出の重要な供給源であり、同地域からの輸出途絶は世界的な供給逼迫を引き起こす可能性がある。買い手各国が代替供給源の確保に動いており、小麦価格は上昇圧力を受けている。"
-  },
-  {
-    "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-    "timestamp": "2026-08-20T05:30:07+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国がロシア産原油の輸入を増加させており、インド精製業者の競争力を圧迫している。中国の地政学的優位性とロシアからの割安供給により、インド精製業者がスポット市場での調達機会を失いつつある。原油価格には直接的な下押し圧力となる可能性がある。"
   },
   {
     "title": "What the August WASDE said about corn and soybean production - Agweek",
