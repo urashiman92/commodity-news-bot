@@ -1,16 +1,5 @@
 [
   {
-    "title": "ＷＴＩ原油 - 日本経済新聞",
-    "timestamp": "2026-08-20T07:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油の価格情報記事。具体的なニュース内容が提供されていないため、分析対象となるイベントが特定できない状況。"
-  },
-  {
     "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
     "timestamp": "2026-08-20T09:16:37+00:00",
     "importance": 1,
@@ -240,17 +229,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。金市場とは関連のない株価指数先物の技術的情報であり、コモディティ投資に直接的な影響はない。"
-  },
-  {
-    "title": "住友金属鉱山株価は上がる?金・銅価格と好決算で今後の株価を予想 - EBC Financial Group",
-    "timestamp": "2026-08-20T06:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "住友金属鉱山の好決算と金・銅価格上昇が株価上昇要因として挙げられている。銅などの商品市場が堅調であることが同社業績を支えている状況を解説する記事。"
   },
   {
     "title": "米株動向｜金価格が単日で4%急騰し4,500ドル台を回復、シルバークレスト（SVM.US）株価は9%超の高値で終える - Moomoo",
@@ -1780,5 +1758,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金の初心者向け解説記事。身近な金製品とニュースで報じられる金価格の仕組みの違いについて説明している。市場の新規参入者向けの教育的コンテンツ。"
+  },
+  {
+    "title": "金価格の高騰期は終わったのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-08-23T07:18:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の高騰局面が終了したかどうかを問う論説記事。記事の具体的な内容や根拠が不明なため詳細な分析は困難。相場観の一つの見方として位置付けられる。"
+  },
+  {
+    "title": "国内金価格と国際金価格の差は、ここ数年で最低水準となっている。 - Vietnam.vn",
+    "timestamp": "2026-08-23T06:09:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの国内金価格と国際金価格の差が数年来の最低水準に縮小している。市場の効率性向上を示唆するが、グローバルな金相場の方向性には直結しない地域的な話題。"
   }
 ]
