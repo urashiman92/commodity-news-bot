@@ -1,16 +1,5 @@
 [
   {
-    "title": "A Pre- and Post-Report Look at the 2026 U.S. Soybean Yield - Successful Farming",
-    "timestamp": "2026-08-20T11:14:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年米国大豆の収量見通しに関する事前・事後レポート。具体的な数値や予想変更幅が記事タイトルのみからは判断できない。定期的な作物進捗分析の一環と見られるが、詳細内容へのアクセスがないため、市場サプライズ度は不確定。"
-  },
-  {
     "title": "US Stock Futures Fall as Oil, Yields Climb While Walmart Slumps - Bloomberg.com",
     "timestamp": "2026-08-20T12:13:11+00:00",
     "importance": 2,
@@ -42,17 +31,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国EIA週間統計で原油在庫が再び増加。供給過剰の継続を示唆し、需給バランスの緩和を反映している。具体的な在庫増加量は記事から不明だが、連続増加パターンは価格の下押し圧力となる。"
-  },
-  {
-    "title": "Ukraine hits Russia's TANECO oil refinery, oil terminal, military says - Reuters",
-    "timestamp": "2026-08-20T11:15:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナ軍がロシアの主要製油所TANECOと石油ターミナルへの攻撃を実施。ロシアの石油精製能力低下とバルト海経由の輸出インフラ損傷により、ロシアの供給サイドに新たなショックが発生。短期的には欧州向けエネルギー価格上昇圧力が高まり、市場心理も悪化の可能性。"
   },
   {
     "title": "Rice Stocks",
@@ -526,17 +504,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が追加的な石油増産を承認し、ホルムズ海峡経由の輸出が回復局面に入ったと報告。供給不安の緩和とホルムズ海峡での地政学的リスク低下がポジティブに評価される。原油市場における供給面の不確実性が減少する見通し。"
-  },
-  {
-    "title": "A Pre- and Post-Report Look at the 2026 U.S. Soybean Yield - Successful Farming",
-    "timestamp": "2026-08-20T11:14:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年米国大豆収量について、作付前後の見通しを比較・分析するレポート。具体的な収量予想値や変更幅が記事本文なしのため詳細は不明だが、通常の季節進捗コメンタリーと見られる。投資家への直接的なポジション変更シグナルは限定的。"
   },
   {
     "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
