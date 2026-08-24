@@ -1,27 +1,5 @@
 [
   {
-    "title": "原油価格は供給リスクを背景に、2週連続の上昇に向かっている。 - Vietnam.vn",
-    "timestamp": "2026-08-21T15:53:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が供給リスクを背景に2週連続で上昇している。ニュース記事は既に進行中の相場動向を報じたもの。供給懸念は継続要因として機能している。"
-  },
-  {
-    "title": "金価格が3カ月ぶり高値、債券市場に不安 - BeInCrypto",
-    "timestamp": "2026-08-21T16:28:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶりの高値を更新。債券市場の不安が安全資産需要を支える。インフレ懸念や金融不安定性を背景とした定番の金買い。"
-  },
-  {
     "title": "米国債買い戻し期待が下支え 金価格は高値圏で揉み合い、4500ドルの大台を維持 - BigGo ファイナンス",
     "timestamp": "2026-08-21T18:06:00+00:00",
     "importance": 3,
@@ -1692,5 +1670,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイランへの新たな制裁措置を発表する予定であることを受け、原油価格が下落した。制裁発表前の先制的な売却と見られる。地政学的リスク要因にもかかわらず価格は反応限定的。"
+  },
+  {
+    "title": "インドの小麦輸出禁止解除はカンザスシティ小麦価格に圧力をかけるか？ - Traders Union",
+    "timestamp": "2026-08-24T12:49:35+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "インドの小麦輸出禁止解除の可能性が報道されている。供給増加によりカンザスシティ小麦先物に下押し圧力がかかると予想される。既に一部で報じられている事象の分析記事と考えられる。"
+  },
+  {
+    "title": "4,700ドルに迫る金価格の急騰を引き起こした要因は何だったのか？ - Vietnam.vn",
+    "timestamp": "2026-08-24T16:07:49+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,700ドル水準に接近する急騰を記録。この上昇の要因を解説するコメンタリー記事。地政学的リスク、インフレ懸念、金利環境などが背景と考えられる。"
+  },
+  {
+    "title": "2026年8月24日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-24T09:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・先物OP市場に関する定期的な市場ウォッチ記事。金カテゴリに分類されているが、実際には株価指数先物に関する解説記事である。"
+  },
+  {
+    "title": "USX1,230での買い支え：大豆先物価格はサポートを維持できるか？ - Traders Union",
+    "timestamp": "2026-08-24T12:37:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,230でテクニカルサポートを形成している状況についての相場解説。テクニカル分析に基づくサポートレベルの維持可否についての観測記事。"
+  },
+  {
+    "title": "銅価格予想：HGが1.12％上昇、$6,495のサポートに注目 - Traders Union",
+    "timestamp": "2026-08-24T15:12:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅先物（HG）が1.12%上昇し、$6,495がサポートレベルとして注目されている。技術的な価格レベルの指摘であり、ファンダメンタルズ変化を伴わない。"
   }
 ]
