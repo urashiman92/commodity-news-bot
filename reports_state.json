@@ -1,38 +1,5 @@
 [
   {
-    "title": "USDA trims wheat stocks as corn, soybean production forecasts shift - High Plains Journal",
-    "timestamp": "2026-08-21T12:56:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASDEレポートで小麦在庫が下方修正される一方、トウモロコシと大豆の生産予想が調整された。複数の穀物在庫・生産見通しの同時修正は、北米穀物市場全体のバランス変化を示唆している。具体的な修正幅は記事タイトルのみでは不明確だが、作付・生産量見直しは価格形成に影響。"
-  },
-  {
-    "title": "USDA trims wheat stocks as corn, soybean production forecasts shift - High Plains Journal",
-    "timestamp": "2026-08-21T12:56:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDEレポートで小麦在庫が下方修正される一方、トウモロコシと大豆の生産予想が調整された。複数の穀物在庫・生産見通しの同時修正は、北米穀物市場全体のバランス変化を示唆している。具体的な修正幅は記事タイトルのみでは不明確だが、作付・生産量見直しは価格形成に影響。"
-  },
-  {
-    "title": "USDA trims wheat stocks as corn, soybean production forecasts shift - High Plains Journal",
-    "timestamp": "2026-08-21T12:56:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDEレポートで小麦在庫が下方修正される一方、トウモロコシと大豆の生産予想が調整された。複数の穀物在庫・生産見通しの同時修正は、北米穀物市場全体のバランス変化を示唆している。具体的な修正幅は記事タイトルのみでは不明確だが、作付・生産量見直しは価格形成に影響。"
-  },
-  {
     "title": "Iraq Wants to Double Oil Outputand Needs OPEC to Get Out of the Way - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-08-21T18:30:00+00:00",
     "importance": 4,
@@ -361,5 +328,49 @@
     "source": "WASDE関連",
     "commodity": "小麦",
     "summary": "WASDE関連のファーム・プログレス記事で、トウモロコシ・大豆・小麦のサプライチェーン懸念が価格上昇トリガーとなる可能性を指摘。供給面での逼迫が顕在化すれば、複数穀物への同時上値圧力が生じるシナリオが提示されている。具体的な在庫数値や作付データは記事見出しからは不明確。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-08-23T19:06:07+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから脱退を表明し、組織の結束力と市場支配力が大幅に低下。OPEC+の減産体制が弱体化し、価格戦争のリスクが急速に高まっている。構成国の離脱はOPECの歴史上でも極めて異例であり、原油価格の下押し圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-08-23T19:06:07+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECから脱退を表明し、組織の結束力と市場支配力が大幅に低下。OPEC+の減産体制が弱体化し、価格戦争のリスクが急速に高まっている。構成国の離脱はOPECの歴史上でも極めて異例であり、原油価格の下押し圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "India Lifts Wheat Export Ban in Boost to War Hit Global Supply - Bloomberg",
+    "timestamp": "2026-08-24T09:08:09+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "インドが小麦輸出禁止措置を解除。同国は世界最大級の小麦輸出国であり、この禁止解除によりウクライナ戦争で打撃を受けた世界的な小麦供給逼迫に対する重要なリリーフとなる。世界の小麦在庫危機の緩和が期待され、国際小麦価格には下押し圧力がかかる。"
+  },
+  {
+    "title": "India Lifts Wheat Export Ban in Boost to War Hit Global Supply - Bloomberg",
+    "timestamp": "2026-08-24T09:08:09+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インドが小麦輸出禁止措置を解除。同国は世界最大級の小麦輸出国であり、この禁止解除によりウクライナ戦争で打撃を受けた世界的な小麦供給逼迫に対する重要なリリーフとなる。世界の小麦在庫危機の緩和が期待され、国際小麦価格には下押し圧力がかかる。"
   }
 ]
