@@ -1,27 +1,5 @@
 [
   {
-    "title": "世界の金価格が急騰しているのに、なぜSJCの金価格は国際価格よりも低いのでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-08-21T22:42:58+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が国際価格より低い理由についての解説記事。世界金価格上昇時の価格乖離メカニズムを分析している。市場メカニズムの説明であり、新規の価格変動要因ではない。"
-  },
-  {
-    "title": "NY原油先物：小反落、対イラン制裁強化観測での上昇分を時間外で削る展開(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-21T22:20:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が小反落。対イラン制裁強化観測での上昇分が時間外取引で削られた。地政学的リスク要因と利益確定売りのバランスが取れた展開。"
-  },
-  {
     "title": "NY金先物は続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 - ザイFX！",
     "timestamp": "2026-08-21T22:57:00+00:00",
     "importance": 3,
@@ -350,17 +328,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月22日の金相場が力強い上昇で取引を終えた。具体的な価格水準や上昇要因の詳細は記事概要に記載されていない。市場センチメントの強気姿勢を示す一般的な評価。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、金、銀、銅、トウモロコシ、大豆が上昇 小麦が下落 - TradingView",
-    "timestamp": "2026-08-21T22:32:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油、ガソリン、天然ガス、貴金属、銅、穀物が広範に上昇。小麦のみ下落。複数セクターの同時上昇を示唆。"
   },
   {
     "title": "SJC金地金が1タエル1476万ドンに急騰、1カ月超ぶり高値 - BigGo ファイナンス",
@@ -1714,5 +1681,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が10年で5倍超に上昇した後、プロアナリストが売却を勧める見解を示している。過度な上昇後の調整圧力を示唆するコメンタリー。"
+  },
+  {
+    "title": "小麦先物 (WHEAT-F) は8月23日に上昇 2.02%：その理由はこれです - TradingKey",
+    "timestamp": "2026-08-24T02:26:14+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "8月23日の小麦先物が2.02%上昇した。具体的な上昇要因は記事概要では明示されていない。技術的なポジション調整またはセッション内の通常のボラティリティと考えられる。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（24日）原油は反落 - Moomoo",
+    "timestamp": "2026-08-24T22:27:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "24日のニューヨーク原油先物市場で原油が反落した。金市場の同日の具体的な動きについては記事概要では詳述されていない。市場動向の事後的な振り返り・解説である。"
+  },
+  {
+    "title": "今日の金価格（8月25日）：衝撃的な上昇 - Vietnam.vn",
+    "timestamp": "2026-08-24T22:46:56+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月25日の金価格が上昇したとするベトナムのニュース報道。具体的な上昇幅や理由が不明確で、市場評論の可能性が高い。"
   }
 ]
