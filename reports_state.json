@@ -1,16 +1,5 @@
 [
   {
-    "title": "Iranian Oil Supply to Chinese Refiners Squeezed by US Blockade - Bloomberg.com",
-    "timestamp": "2026-08-21T05:19:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国による制裁強化によりイランから中国への石油供給が圧迫されている。イランは中国向け原油輸出の主要な供給国であり、この供給途絶は世界的な原油逼迫要因となる。米国の制裁強化による突発的なサプライ・ショックとして機能し、原油価格の上昇圧力が強まる見通し。"
-  },
-  {
     "title": "Saudis Shuttle Oil North on Sinokor Tankers to Evade Houthis - Bloomberg.com",
     "timestamp": "2026-08-21T07:09:15+00:00",
     "importance": 3,
@@ -306,5 +295,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中国石油化工（Sinopec）の上半期利益が前年比19.3%増加し、市場予想を上回った。イラン情勢緊迫化と需要減少という逆風にもかかわらず、精製マージン改善と原油価格安定が利益を支えた。中国エネルギー企業の堅調さを示唆する重要な指標。"
+  },
+  {
+    "title": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports - Reuters",
+    "timestamp": "2026-08-24T00:11:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ExxonMobilがガイアナの主要油田施設で火災発生後に操業を一時停止。ガイアナは世界第2位の原油増産国で、同社が主要オペレーターを担う重要な供給源。供給寸断リスクは原油価格の上昇圧力となる可能性が高い。復旧期間が不透明な点で市場への警戒感が高まっている。"
+  },
+  {
+    "title": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-21T20:04:11+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "週末のマーケットラップ報道。株式市場が乱高下の1週間を終えて反発し、ビットコインが上昇。コモディティ市場全般への直接的な具体的データは記事から不明だが、リスク資産全体のセンチメント改善を反映している可能性がある。"
+  },
+  {
+    "title": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-21T20:04:11+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "週末のマーケットラップ報道。株式市場が乱高下の1週間を終えて反発し、ビットコインが上昇。コモディティ市場全般への直接的な具体的データは記事から不明だが、リスク資産全体のセンチメント改善を反映している可能性がある。"
+  },
+  {
+    "title": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-21T20:04:11+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "週末のマーケットラップ報道。株式市場が乱高下の1週間を終えて反発し、ビットコインが上昇。コモディティ市場全般への直接的な具体的データは記事から不明だが、リスク資産全体のセンチメント改善を反映している可能性がある。"
   }
 ]
