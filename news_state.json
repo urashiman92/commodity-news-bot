@@ -429,17 +429,6 @@
     "summary": "WisdomTree WTI原油上場投信(1690)の株価情報ページへのリンク。具体的なニュース内容や価格変動データなし。"
   },
   {
-    "title": "河童兄妹からの手紙「誘拐されました」 神奈川県海老名市で市民に愛されるシンボルの銅像が盗難 銅価格高騰が背景に？ - au Webポータル",
-    "timestamp": "2026-08-21T16:30:10+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "神奈川県海老名市の銅像が盗難被害に遭った。銅価格高騰が盗難動機の背景にある可能性が指摘されている。小規模事案だが銅需給の逼迫感を反映した事例。"
-  },
-  {
     "title": "ニューヨーク金先物市場概況・21日 3日続伸 - TradingView",
     "timestamp": "2026-08-21T20:28:04+00:00",
     "importance": 2,
@@ -1725,5 +1714,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅先物（HG）が1.12%上昇し、$6,495がサポートレベルとして注目されている。技術的な価格レベルの指摘であり、ファンダメンタルズ変化を伴わない。"
+  },
+  {
+    "title": "本日8月24日の金価格：3ヶ月ぶりの高値水準に達し、FRBからのシグナルを待っている。 - Vietnam.vn",
+    "timestamp": "2026-08-24T16:44:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3ヶ月ぶりの高値水準に到達。市場参加者はFRB（米連邦準備制度理事会）の金利政策シグナルを注視している状況。既知の上昇トレンドの継続と見解。"
+  },
+  {
+    "title": "中国黒竜江省で生鮮トウモロコシが収穫期 - au Webポータル",
+    "timestamp": "2026-08-24T15:12:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "中国黒竜江省でトウモロコシの収穫期を迎えたという季節的なニュース。中国は主要トウモロコシ消費国だが、本ニュースは既定路線の定期的な農作業報告。"
   }
 ]
