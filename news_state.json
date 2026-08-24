@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は高騰しており、新たな最高値を更新するか、それとも再び急落するか？ - Vietnam.vn",
-    "timestamp": "2026-08-21T04:51:45+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が高騰し歴史的高値圏にある。今後、更なる最高値更新か急落かの相場展開を巡る評論記事。具体的な新規イベントではなく相場見通しについての分析コンテンツ。"
-  },
-  {
     "title": "世界の金価格は8月20日に下落幅を縮小した。 - Vietnam.vn",
     "timestamp": "2026-08-21T05:13:46+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月20日の金価格は前日比で下落幅を縮小した。日中の値動きの振り返りニュースであり、特定の新規材料がない相場の日々の動き。"
-  },
-  {
-    "title": "LME銅在庫が急増 世界需給に変化の兆し（日刊産業新聞） - Yahoo!ニュース",
-    "timestamp": "2026-08-21T04:29:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "LME銅在庫が急増し、市場の需給バランスが緩和する兆候が見られた。世界的な銅需要の伸び鈍化またはリサイクル供給増加の可能性が示唆されている。在庫増加は価格下押し圧力となる。"
   },
   {
     "title": "世界の金価格は高止まりしており、原油価格も上昇を続けている。 - Vietnam.vn",
@@ -1637,5 +1615,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月24日時点での原油価格が反転し下落した。詳細な下落理由は記事概要には明記されていない。市場の日次的な値動きの報道と推察される。"
+  },
+  {
+    "title": "本日（8月24日）の金価格：若干上昇。 - Vietnam.vn",
+    "timestamp": "2026-08-24T03:56:05+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月24日の金価格が若干上昇したとの報道。具体的な上昇幅や主要因の記載がなく、日次の値動き情報に留まる。市場への実質的なインパクトは限定的。"
+  },
+  {
+    "title": "本日8月24日の金価格は、1オンスあたり4,600ドルを突破し、市場で新たな買いポジションが出現したことで支えられている。 - Vietnam.vn",
+    "timestamp": "2026-08-24T04:56:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,600ドルを突破し、新規買いポジションに支えられている。既に史上高値圏での推移が続く中での値動きで、市場心理の反映に過ぎない。"
   }
 ]
