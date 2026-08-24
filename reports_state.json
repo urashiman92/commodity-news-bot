@@ -361,5 +361,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インドが小麦輸出禁止措置を解除。同国は世界最大級の小麦輸出国であり、この禁止解除によりウクライナ戦争で打撃を受けた世界的な小麦供給逼迫に対する重要なリリーフとなる。世界の小麦在庫危機の緩和が期待され、国際小麦価格には下押し圧力がかかる。"
+  },
+  {
+    "title": "Chinese refiner Sinopec to boost oil imports from outside the Gulf - Reuters",
+    "timestamp": "2026-08-24T10:43:43+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国の大型石油精製企業シノペックが湾岸地域以外からの原油輸入を増加させる方針を発表。サウジアラビア等からの依存度低減と調達源の多角化を進める。供給ソース変化による地政学的リスク管理の動きであり、ただし全体的な輸入量の大幅変更は示唆されていない。"
+  },
+  {
+    "title": "China’s Oil Demand ‘Very Likely’ Peaked Last Year, Sinopec Says - Bloomberg",
+    "timestamp": "2026-08-24T09:13:32+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中国石油大手シノペックが、中国の石油需要は昨年（2023年）にピークを迎えた可能性が「非常に高い」と発表。電気自動車の急速な普及と経済成長率の鈍化が背景。今後の需要減速が確実視される場合、世界最大の石油消費国からの需要減退が原油価格に下押し圧力を与える可能性が高い。"
+  },
+  {
+    "title": "China’s Oil Demand ‘Very Likely’ Peaked Last Year, Sinopec Says - Bloomberg",
+    "timestamp": "2026-08-24T09:13:32+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中国石油大手シノペックが、中国の石油需要は昨年（2023年）にピークを迎えた可能性が「非常に高い」と発表。電気自動車の急速な普及と経済成長率の鈍化が背景。今後の需要減速が確実視される場合、世界最大の石油消費国からの需要減退が原油価格に下押し圧力を与える可能性が高い。"
   }
 ]
