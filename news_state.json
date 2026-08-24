@@ -1,16 +1,5 @@
 [
   {
-    "title": "【原油ウォッチ】原油価格は年末に「60ドル台」も？ホルムズ海峡の「支配権」めぐり米国とイランが攻防(1/3) - JBpress",
-    "timestamp": "2026-08-21T21:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランのホルムズ海峡支配権をめぐる地政学的緊張が継続。年末の原油価格が60ドル台まで上昇する可能性についての分析記事。海峡支配権問題は既存の懸念材料として市場で認識されている。"
-  },
-  {
     "title": "金価格、3カ月ぶり高値の約4661ドルを記録──ドル安で貴金属価格が再び上昇基調に - Forbes JAPAN",
     "timestamp": "2026-08-21T22:00:00+00:00",
     "importance": 3,
@@ -1725,5 +1714,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NYダウが140ドル上昇した相場展開を報道。長期金利低下と原油先物価格の下落が株価を支援。既に市場に織り込まれた動きの事後的な解説。"
+  },
+  {
+    "title": "約40年ぶりの歴史的な円安水準… 小麦価格はさらに上昇？パン店は中東情勢とのダブルパンチ ｢価格に負けないパンを作っていく｣ - TBS NEWS DIG",
+    "timestamp": "2026-08-24T15:38:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "約40年ぶりの円安水準により、輸入小麦のコスト増加が加速。中東情勢による国際小麦価格上昇との二重の圧力でパン店が経営圧迫を受けている。"
+  },
+  {
+    "title": "米原油先物2.3％安、利益確定売り 対イラン制裁強化も反応薄 - ロイター",
+    "timestamp": "2026-08-24T21:09:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が2.3%下落した。利益確定売りが主因で、対イラン制裁強化などの地政学的イベントは相場に大きな影響を与えていない。既に織り込まれている可能性が高い。"
+  },
+  {
+    "title": "米原油先物2.3％安、利益確定売り 対イラン制裁強化も反応薄 - ニューズウィーク日本版",
+    "timestamp": "2026-08-24T21:09:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が2.3%下落。利益確定売りが主因で、対イラン制裁強化というポジティブ材料も相場に反応されず。テクニカルな売り圧力が地政学リスク評価を上回った。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況･24日 反落 - Moomoo",
+    "timestamp": "2026-08-24T21:05:03+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物市場が24日に反落した。具体的な反落要因は記事概要では不明。市場の日々の値動きを報じた相場概況記事。"
+  },
+  {
+    "title": "米原油先物2.3％安、利益確定売り　対イラン制裁強化も反応薄 - ｄメニューニュース",
+    "timestamp": "2026-08-24T21:20:22+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が2.3%下落。利益確定売りが主因。対イラン制裁強化というジオポリティカルリスク要因も市場の反応は限定的。"
   }
 ]
