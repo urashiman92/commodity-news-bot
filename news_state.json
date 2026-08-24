@@ -1,16 +1,5 @@
 [
   {
-    "title": "東京株式（前引け）＝前日比２０８円安、原油価格の上昇などを警戒 - 株探",
-    "timestamp": "2026-08-21T02:52:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京株式市場が前日比208円安で前引け。原油価格の上昇が株価下押し要因として機能している。インフレ懸念と企業利益圧迫への警戒感。"
-  },
-  {
     "title": "金価格は高騰しており、新たな最高値を更新するか、それとも再び急落するか？ - Vietnam.vn",
     "timestamp": "2026-08-21T04:51:45+00:00",
     "importance": 2,
@@ -1604,5 +1593,27 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "21日の主要国際商品市況に関する市場振り返り記事。具体的な価格変動や市場ドライバーの詳細が不明。定期的な市況レポートの一編。"
+  },
+  {
+    "title": "金価格は本日2026年8月24日も上昇傾向を続け、SJCの金価格は1オンスあたり最大140万ベトナムドン上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-24T03:21:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が小幅上昇し、SJCで1オンスあたり最大140万ベトナムドン上昇した。現地市場の日次値動き報告であり、グローバル金価格への影響は限定的。"
+  },
+  {
+    "title": "原油先物1％下落、米の対イラン追加制裁発表控え - ｄメニューニュース",
+    "timestamp": "2026-08-23T23:55:02+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国による対イラン追加制裁発表を控えて、原油先物が1％下落した。制裁の詳細が不明な中での先制売却。イラン産原油の供給制限期待は限定的と見込まれている。"
   }
 ]
