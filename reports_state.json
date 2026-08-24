@@ -1,38 +1,5 @@
 [
   {
-    "title": "Milk Production",
-    "timestamp": "2026-08-21T19:39:00.505111+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが7月の米国乳生産統計を発表。主要24州での生産量は194億ポンドで前年同月比2.3%増加。乳生産増加は飼料需要（トウモロコシ・大豆）の継続的な需要圧力を示唆し、穀物相場への下押し圧力となる可能性がある。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-08-21T19:39:00.505111+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが7月の米国乳生産統計を発表。主要24州での生産量は194億ポンドで前年同月比2.3%増加。乳生産増加は飼料需要（トウモロコシ・大豆）の継続的な需要圧力を示唆し、穀物相場への下押し圧力となる可能性がある。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-08-21T19:39:00.505111+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが7月の米国乳生産統計を発表。主要24州での生産量は194億ポンドで前年同月比2.3%増加。乳生産増加は飼料需要（トウモロコシ・大豆）の継続的な需要圧力を示唆し、穀物相場への下押し圧力となる可能性がある。"
-  },
-  {
     "title": "Will Iraq leave OPEC, or will OPEC allow Iraq to double exports within six years? - Energy News Beat",
     "timestamp": "2026-08-21T20:41:06+00:00",
     "importance": 3,
@@ -42,17 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "イラクがOPEC離脱するか、あるいはOPECがイラクの6年以内の輸出倍増を容認するかという二者択一の構図が浮上。イラクは現在の生産制約に不満を抱いており、OPECの生産割当枠の拡大交渉が焦点。この決定は中東の供給構図と原油価格に重要な含意を持つ。"
-  },
-  {
-    "title": "Iran War Hands OPEC’s Swing Producer Crown to America: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-21T19:32:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラン情勢の緊迫化によりOPECの調整産油国（スイングプロデューサー）の地位が従来のサウジアラビアから米国にシフトする可能性が指摘されている。地政学的リスク要因により原油供給の不確実性が高まり、価格上昇圧力が強まる見通し。米国のシェール生産能力が供給調整の主導権を握るシナリオは市場構造の大きな転換を意味する。"
   },
   {
     "title": "What Pro Farmer’s Shocking Yield Estimates Mean for the Market - AgWeb",
@@ -449,5 +405,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国戦略石油備蓄（SPR）が370万バレル減少し、1982年以来の最低水準に低下した。SPRはエネルギー安全保障の重要な指標であり、この歴史的な低水準は原油需給のひっ迫を示唆している。供給余力の低下は価格上昇圧力をもたらす可能性が高い。"
+  },
+  {
+    "title": "Chickens and Eggs",
+    "timestamp": "2026-08-24T19:46:10.052958+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが7月の卵生産統計を発表。卵生産が前年同月比4%増加した一方、採卵用ひな孵化は2%減少、ブロイラー用ひなは1%増加。供給面での回復基調を示しつつも、採卵鶏群の動きに弱さが見られ、市場への影響は限定的。"
+  },
+  {
+    "title": "Chickens and Eggs",
+    "timestamp": "2026-08-24T19:46:10.052958+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが7月の卵生産統計を発表。卵生産が前年同月比4%増加した一方、採卵用ひな孵化は2%減少、ブロイラー用ひなは1%増加。供給面での回復基調を示しつつも、採卵鶏群の動きに弱さが見られ、市場への影響は限定的。"
+  },
+  {
+    "title": "Cold Storage",
+    "timestamp": "2026-08-24T19:46:14.558404+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "2026年7月31日時点の冷蔵倉庫内の天然チーズ在庫は、前月比ではやや減少したものの、前年同月比では微増となった。季節的な在庫変動の範囲内であり、市場に大きなインパクトはない状況。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
+    "timestamp": "2026-08-24T17:45:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
+    "timestamp": "2026-08-24T17:45:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
+    "timestamp": "2026-08-24T17:45:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
+    "timestamp": "2026-08-24T17:45:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
   }
 ]
