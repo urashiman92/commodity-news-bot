@@ -1,16 +1,5 @@
 [
   {
-    "title": "フリーポート・マクモラン・カッパー・アンド・ゴールド株が急騰、銅価格が最高値更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-21T13:52:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が最高値を更新し、主要銅鉱山企業フリーポート・マクモランの株価が急騰。需要堅調と供給逼迫懸念が背景。グリーンエネルギー転換需要が銅市場を押し上げている。"
-  },
-  {
     "title": "原油価格は供給リスクを背景に、2週連続の上昇に向かっている。 - Vietnam.vn",
     "timestamp": "2026-08-21T15:53:39+00:00",
     "importance": 3,
@@ -163,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が小反落。対イラン制裁強化観測での上昇分が時間外取引で削られた。地政学的リスク要因と利益確定売りのバランスが取れた展開。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ379ドル高、原油先物0.50ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-21T14:30:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前10時台の相場情報報道。ダウ指数は379ドル高で推移する一方、WTI原油先物は0.50ドル安で小幅下落。市場全体は堅調だが原油は弱含み。"
   },
   {
     "title": "NY金先物は続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 - ザイFX！",
@@ -1670,5 +1648,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "金・銅相場の上昇を背景に、鉱山関連株が買われている。1ヵ月で株価が54%上昇した銘柄が紹介されている。コモディティ価格上昇に連動した既定方針の株式相場への反映。"
+  },
+  {
+    "title": "ゴールド2倍レバレッジETFが月間27%急騰 ゴールドマン・サックスは金価格5,500ドル到達を予想 - BigGo ファイナンス",
+    "timestamp": "2026-08-24T13:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールド2倍レバレッジETFが月間27%上昇。ゴールドマン・サックスが金価格の5,500ドル到達を予想。強気相場継続を示唆。"
+  },
+  {
+    "title": "大豆価格は、供給と需要の両方からの圧力により急激に上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-24T12:17:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆価格が供給と需要の両面から圧力を受けて急騰している。供給不足と需要増加が同時に作用する状況。具体的な数値や地域情報が限定的。"
   }
 ]
