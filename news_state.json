@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY金先物は続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 - ザイFX！",
-    "timestamp": "2026-08-21T22:57:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が続伸。米長期金利上昇という金に逆風の中でも、株価下落と地政学リスクの高まりにより、安全資産への逃避買いが優勢。質への需要が金価格を支えている。"
-  },
-  {
     "title": "NY金先物：続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢 - ｄメニューニュース",
     "timestamp": "2026-08-21T23:37:35+00:00",
     "importance": 3,
@@ -209,17 +198,6 @@
     "summary": "金価格が急騰し、大手投資家が8トン以上の金を買い集めている。機関投資家の積極的な買い行動が観察されており、需要面での強気姿勢を示唆している。"
   },
   {
-    "title": "原油200ドルなぜ回避？ホルムズ海峡封鎖と世界市場の適応力 - TBS NEWS DIG",
-    "timestamp": "2026-08-21T23:00:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡封鎖リスクがあっても原油が200ドルに到達していない現状について、市場の適応力と需給バランスの変化を分析した解説記事。地政学的リスク織り込み済みで、市場が落ち着いている状況を報道。"
-  },
-  {
     "title": "米イラン対立激化で原油価格6%超上昇 台湾中油が来週の油価凍結を発表 - BigGo ファイナンス",
     "timestamp": "2026-08-22T10:05:00+00:00",
     "importance": 4,
@@ -262,17 +240,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WisdomTree WTI原油上場投信(1690)の株価情報ページへのリンク。具体的なニュース内容や価格変動データなし。"
-  },
-  {
-    "title": "NY原油先物：小反落、対イラン制裁強化観測での上昇分を時間外で削る展開 - 投資情報のフィスコ",
-    "timestamp": "2026-08-21T23:03:59+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物は対イラン制裁強化観測で上昇した後、時間外取引で上昇分を削る展開となった。市場は地政学的リスクと利益確定の綱引き状態にある。"
   },
   {
     "title": "世界の金価格は週を4,600米ドル/オンス以上で終えました。 - Laodong.vn",
@@ -1714,5 +1681,60 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "8月25日の金価格が上昇したとするベトナムのニュース報道。具体的な上昇幅や理由が不明確で、市場評論の可能性が高い。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4651ドル｜米長期金利の低下が影響し、金が買われた模様(2026年8月25日) - OANDA証券",
+    "timestamp": "2026-08-24T23:04:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4651ドルまで上昇した。米長期金利の低下が金買いを促した。実績値と背景要因の相場解説記事。"
+  },
+  {
+    "title": "金価格が3カ月ぶりの高値を更新、ビットコインへの資金流入は過去最高を記録。 - Vietnam.vn",
+    "timestamp": "2026-08-24T22:55:21+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3ヶ月ぶりの高値を更新。同時にビットコインへの資金流入が過去最高を記録。リスク資産と安全資産への同時流入を示唆。"
+  },
+  {
+    "title": "ＮＹダウ続伸、１４０ドル高の５万３４１７ドル…長期金利低下や原油先物価格下落が相場支える - 読売新聞",
+    "timestamp": "2026-08-24T20:40:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが140ドル高で続伸。長期金利低下と原油先物価格の下落が相場を支えた。この記事は株価指数の上昇を報じるもので、原油価格の下落が副次的な要因として言及されている。"
+  },
+  {
+    "title": "米原油先物2.3％安、利益確定売り　対イラン制裁強化も反応薄 - ｄメニューニュース",
+    "timestamp": "2026-08-24T21:09:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が2.3%下落。利益確定売りが主因。対イラン制裁強化というポジティブ材料も既に市場に織り込まれており、反応が限定的。"
+  },
+  {
+    "title": "２４日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-24T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "24日の主要国際商品市況についての日次相場振り返り。具体的な価格変動や各商品の方向性は記事本体の確認が必要。"
   }
 ]
