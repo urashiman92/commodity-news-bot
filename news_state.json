@@ -1,49 +1,5 @@
 [
   {
-    "title": "世界の金価格は高止まりしており、原油価格も上昇を続けている。 - Vietnam.vn",
-    "timestamp": "2026-08-21T06:11:30+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金と原油の両者が高止まり・上昇基調にあるという市場観測の報道。既に市場に織り込まれている状況の確認的なニュース。"
-  },
-  {
-    "title": "金利急騰でも金価格が同時上昇…財政不安が新たな燃料に - BigGo ファイナンス",
-    "timestamp": "2026-08-21T06:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金利上昇局面において金価格が同時に上昇する異例の現象が発生。従来は逆相関関係にあるが、財政不安がリスク資産回避（セーフヘイブン需要）を促進。インフレヘッジおよび政府債務懸念が金の買い要因となっている。"
-  },
-  {
-    "title": "逆張り指標から見た通り金相場が底打ち - 早見雄二郎",
-    "timestamp": "2026-08-21T07:09:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリスト早見雄二郎氏が逆張り指標に基づき、金相場が底打ちしたと指摘。テクニカル分析の観点から上昇転換の可能性を提示している。"
-  },
-  {
-    "title": "２１日の米国債券市場見通し＝中東情勢と原油価格に注意 速報 - kabushiki.jp",
-    "timestamp": "2026-08-21T07:29:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国債券市場の見通しを扱う解説記事。中東情勢と原油価格の連動に注意を促している。具体的な新規材料や統計発表は含まれていない。"
-  },
-  {
     "title": "【動画】ピクテ・ゴールド｜金価格はゴールデン・クロスを形成 足元上昇の理由と今後の上昇のシナリオは？＜塚本 卓治＞ - ピクテ・ジャパン",
     "timestamp": "2026-08-21T08:12:10+00:00",
     "importance": 2,
@@ -207,17 +163,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は米国債買い戻し期待を背景に高値圏で推移。4500ドルの心理的サポートレベルを維持している状況。金融緩和シナリオへの継続的な織り込み。"
-  },
-  {
-    "title": "２１日の米国債券市場見通し＝中東情勢と原油価格に注意(ウエルスアドバイザー) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-21T07:29:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "21日の米国債券市場見通しについて、中東情勢と原油価格が注視ポイントとして指摘されている。解説記事であり、具体的な新規情報は含まれていない。"
   },
   {
     "title": "【原油ウォッチ】原油価格は年末に「60ドル台」も？ホルムズ海峡の「支配権」めぐり米国とイランが攻防(1/3) - JBpress",
@@ -1670,5 +1615,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ゴールドマン・サックスが年末の金価格が4900ドルを超える可能性を指摘。オプション市場の需要が価格上昇をサポート。既存の上昇トレンド継続の観測"
+  },
+  {
+    "title": "国内外の金価格差200万VND未満に縮小、需要低迷と個人売却が背景に［会員限定］ - VIETJOベトナムニュース",
+    "timestamp": "2026-08-24T07:11:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格差が200万VND未満に縮小した。需要低迷と個人投資家の売却圧力が背景。国内外の価格差が縮小することで、アービトラージ機会が減少している。"
+  },
+  {
+    "title": "年末の金価格、オプション需要で4900ドル超えも＝ゴールドマン - ｄメニューニュース",
+    "timestamp": "2026-08-24T05:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスがオプション需要による年末の金価格上昇シナリオを提示。4900ドル超えの可能性を指摘。既存の強気見通しの延長線上の観測。"
+  },
+  {
+    "title": "世界の金価格が3ヶ月間高止まりしている理由。 - Vietnam.vn",
+    "timestamp": "2026-08-24T05:40:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3ヶ月間高止まりしている現象について、ベトナムメディアが分析記事を掲載。地政学的リスク、インフレ懸念、実質金利低下などが支持要因と考えられる。既に織り込まれた状況の事後解説。"
+  },
+  {
+    "title": "WTI原油、$87.69が分水嶺の高値圏膠着：リアルタイム更新中 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-24T07:07:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が$87.69付近で高値圏に膠着している状況の技術的分析。特定の価格水準が抵抗線として機能していることを指摘するリアルタイム解説。"
   }
 ]
