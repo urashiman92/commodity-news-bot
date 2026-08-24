@@ -253,28 +253,6 @@
     "summary": "欧州株式は上昇したものの、インフレ懸念がコモディティ市場全体の重しとなり週間では下落。FRBの金融引き締め継続見通しが、無利子資産である金や他のコモディティの需要見通しを圧迫。インフレ・金利上昇のジレンマが市場を支配している。"
   },
   {
-    "title": "China Materials Stocks Emerge From Slump as New Market Leaders - Bloomberg.com",
-    "timestamp": "2026-08-21T02:15:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "中国の素材関連株が低迷から回復し、新たな市場リーダーとして浮上している。これは中国経済の回復期待と素材セクターへの再評価を示唆するもの。銅などの工業用金属需要の増加につながる可能性が高い。"
-  },
-  {
-    "title": "China Materials Stocks Emerge From Slump as New Market Leaders - Bloomberg.com",
-    "timestamp": "2026-08-21T02:15:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国の素材関連株が低迷から回復し、新たな市場リーダーとして浮上している。これは中国経済の回復期待と素材セクターへの再評価を示唆するもの。銅などの工業用金属需要の増加につながる可能性が高い。"
-  },
-  {
     "title": "Russia Considers Grain Purchases to Offset Export Disruptions - Bloomberg.com",
     "timestamp": "2026-08-22T14:03:26+00:00",
     "importance": 3,
@@ -306,5 +284,27 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "2026年のりんご作付面積が前年比7%減少することが報告された。米国農務省の作付報告方法の進化により、より正確な統計が公表されている。りんごなどの果実類の生産減は食料インフレ圧力を部分的に緩和する一方、供給逼迫懸念も生じる可能性がある。"
+  },
+  {
+    "title": "Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand - Reuters",
+    "timestamp": "2026-08-23T10:07:43+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国石油化工（Sinopec）の上半期利益が前年比19.3%増加し、市場予想を上回った。イラン情勢緊迫化と需要減少という逆風にもかかわらず、精製マージン改善と原油価格安定が利益を支えた。中国エネルギー企業の堅調さを示唆する重要な指標。"
+  },
+  {
+    "title": "Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand - Reuters",
+    "timestamp": "2026-08-23T10:07:43+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中国石油化工（Sinopec）の上半期利益が前年比19.3%増加し、市場予想を上回った。イラン情勢緊迫化と需要減少という逆風にもかかわらず、精製マージン改善と原油価格安定が利益を支えた。中国エネルギー企業の堅調さを示唆する重要な指標。"
   }
 ]
