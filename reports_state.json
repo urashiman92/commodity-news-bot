@@ -1,16 +1,5 @@
 [
   {
-    "title": "Saudis Shuttle Oil North on Sinokor Tankers to Evade Houthis - Bloomberg.com",
-    "timestamp": "2026-08-21T07:09:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがシノコール・タンカーズを利用し、フーシ派の脅威を回避するため紅海北部経由での石油輸送ルート変更を実施。これまでのスエズ運河経由から代替ルートへのシフトにより、海上輸送コスト増加と配送時間延長が発生。中東からの石油供給の地政学的リスク顕在化により、原油価格の上値支持要因となる。"
-  },
-  {
     "title": "USDA trims wheat stocks as corn, soybean production forecasts shift - High Plains Journal",
     "timestamp": "2026-08-21T12:56:15+00:00",
     "importance": 3,
@@ -198,17 +187,6 @@
     "summary": "EIAが米国原油在庫の減少を報告。精製業者が処理量を増加させたことが在庫低下の主要因。需給改善を示唆するシグナルだが、予想の範囲内の動き。短期的には価格支援材料となる可能性。"
   },
   {
-    "title": "Dow Jones Top Energy Headlines at 12 AM ET: OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - Moomoo",
-    "timestamp": "2026-08-21T07:00:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECおよび同盟国が再度の増産を実施する一方、ホルムズ海峡の海上交通が回復局面に入ったと報じられた。供給増加と需要改善の同時進行により、供給過剰懸念が緩和される可能性がある一方で、増産は原油価格に対して下向きの圧力となる見込み。"
-  },
-  {
     "title": "Saudis Oil Logistics Roiled Again by Houthis’ Red Sea Threat - Bloomberg.com",
     "timestamp": "2026-08-23T11:30:00+00:00",
     "importance": 4,
@@ -339,5 +317,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "週末のマーケットラップ報道。株式市場が乱高下の1週間を終えて反発し、ビットコインが上昇。コモディティ市場全般への直接的な具体的データは記事から不明だが、リスク資産全体のセンチメント改善を反映している可能性がある。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-08-24T07:29:44.017398+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが7月の米国牛乳生産を発表。24主要州での生産量は194億ポンドで、前年同月比2.3%の増加。供給増加は乳製品市場に供給圧力をもたらし、飼料需要（トウモロコシ・大豆）にも影響を与える可能性がある。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-08-24T07:29:44.017398+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが7月の米国牛乳生産を発表。24主要州での生産量は194億ポンドで、前年同月比2.3%の増加。供給増加は乳製品市場に供給圧力をもたらし、飼料需要（トウモロコシ・大豆）にも影響を与える可能性がある。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-08-24T07:29:44.017398+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが7月の米国牛乳生産を発表。24主要州での生産量は194億ポンドで、前年同月比2.3%の増加。供給増加は乳製品市場に供給圧力をもたらし、飼料需要（トウモロコシ・大豆）にも影響を与える可能性がある。"
   }
 ]
