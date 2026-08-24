@@ -132,28 +132,6 @@
     "summary": "フーシ派による紅海での船舶攻撃脅威がサウジアラビアの石油物流に再び混乱をもたらしている。紅海はスエズ運河経由で世界原油供給の約12-15%が通過する重要な海上輸送路であり、攻撃リスクの高まりは供給チェーン寸断と原油価格上昇圧力を招く。地政学的リスク再燃により市場の不確実性が増加。"
   },
   {
-    "title": "European stocks gain, but inflation worries drive weekly decline - Reuters",
-    "timestamp": "2026-08-21T16:38:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "欧州株式は上昇したものの、インフレ懸念がコモディティ市場全体の重しとなり週間では下落。FRBの金融引き締め継続見通しが、無利子資産である金や他のコモディティの需要見通しを圧迫。インフレ・金利上昇のジレンマが市場を支配している。"
-  },
-  {
-    "title": "European stocks gain, but inflation worries drive weekly decline - Reuters",
-    "timestamp": "2026-08-21T16:38:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "欧州株式は上昇したものの、インフレ懸念がコモディティ市場全体の重しとなり週間では下落。FRBの金融引き締め継続見通しが、無利子資産である金や他のコモディティの需要見通しを圧迫。インフレ・金利上昇のジレンマが市場を支配している。"
-  },
-  {
     "title": "Russia Considers Grain Purchases to Offset Export Disruptions - Bloomberg.com",
     "timestamp": "2026-08-22T14:03:26+00:00",
     "importance": 3,
@@ -394,5 +372,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中国石油大手シノペックが、中国の石油需要は昨年（2023年）にピークを迎えた可能性が「非常に高い」と発表。電気自動車の急速な普及と経済成長率の鈍化が背景。今後の需要減速が確実視される場合、世界最大の石油消費国からの需要減退が原油価格に下押し圧力を与える可能性が高い。"
+  },
+  {
+    "title": "Russia's Perm oil refinery halted operations after August 21 drone attack, sources say - Reuters",
+    "timestamp": "2026-08-24T14:30:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのペルム製油所が8月21日のドローン攻撃により操業停止。同製油所は日産約120,000バレルの処理能力を有する重要な製油施設。ロシアの石油精製能力の低下は欧州市場のエネルギー逼迫を招き、原油価格上昇圧力となる。地政学的リスク再燃を示唆。"
   }
 ]
