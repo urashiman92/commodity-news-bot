@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の金価格は8月20日に下落幅を縮小した。 - Vietnam.vn",
-    "timestamp": "2026-08-21T05:13:46+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月20日の金価格は前日比で下落幅を縮小した。日中の値動きの振り返りニュースであり、特定の新規材料がない相場の日々の動き。"
-  },
-  {
     "title": "世界の金価格は高止まりしており、原油価格も上昇を続けている。 - Vietnam.vn",
     "timestamp": "2026-08-21T06:11:30+00:00",
     "importance": 2,
@@ -1637,5 +1626,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンス4,600ドルを突破し、新規買いポジションに支えられている。既に史上高値圏での推移が続く中での値動きで、市場心理の反映に過ぎない。"
+  },
+  {
+    "title": "年末の金価格、オプション需要で4900ドル超えも＝ゴールドマン - ロイター",
+    "timestamp": "2026-08-24T05:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが年末の金価格が4900ドルを超える可能性を指摘。オプション需要が価格上昇の要因となる見込み。強気な相場見通しを示唆している。"
+  },
+  {
+    "title": "年末の金価格、オプション需要で4900ドル超えも＝ゴールドマン（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-08-24T05:14:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが年末にかけての金価格が4900ドルを超える可能性があるとの見解を示唆。オプション需要がサポート要因として機能する可能性を指摘している。"
+  },
+  {
+    "title": "年末の金価格、オプション需要で4900ドル超えも＝ゴールドマン - ニューズウィーク日本版",
+    "timestamp": "2026-08-24T05:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが年末の金価格について、オプション需要を背景に4900ドルを超える可能性があると予測。既存の上昇トレンドの継続観測であり、市場コンセンサス内の見通し。"
+  },
+  {
+    "title": "年末の金価格、オプション需要で4900ドル超えも＝ゴールドマン - Infoseek",
+    "timestamp": "2026-08-24T05:14:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが年末の金価格が4900ドルを超える可能性を指摘。オプション市場の需要が価格上昇をサポート。既存の上昇トレンド継続の観測"
   }
 ]
