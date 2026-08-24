@@ -1,16 +1,5 @@
 [
   {
-    "title": "国内の金価格は世界の金価格よりも低い！ - Vietnam.vn",
-    "timestamp": "2026-08-21T12:29:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が世界相場より低いという観測報道。国内市場の価格形成メカニズムに関する解説であり、市場の方向性を示すものではない。"
-  },
-  {
     "title": "金価格、高値から少し調整も直近の金高を好感し、ニューモントは時間外でしっかり＝米国株個別 - - みんかぶ FX/為替",
     "timestamp": "2026-08-21T13:00:44+00:00",
     "importance": 2,
@@ -284,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物は対イラン制裁強化観測による上昇を時間外取引で調整。地政学的な上昇圧力が存在するものの、その後の利益確定売りで小反落となった。"
-  },
-  {
-    "title": "銅価格のレジスタンステスト：注目すべきブレイクアウト水準 - Traders Union",
-    "timestamp": "2026-08-21T12:20:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格のテクニカル分析で注目すべきレジスタンス水準とブレイクアウト可能性を解説している。テクニカルポイントの考察記事であり、ファンダメンタルズ情報ではない。"
   },
   {
     "title": "NY原油先物：小反落、対イラン制裁強化観測での上昇分を時間外で削る展開 - ｄメニューニュース",
@@ -1637,5 +1615,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "Moomooによる原油先物の相場解説記事。具体的な値動き要因や新規ニュースの記載なし。既に公開されている相場情報の振り返り・観測コメント。"
+  },
+  {
+    "title": "ビットコイン上昇余地を示す3指標──金先物、BTC.D、Coinbaseプレミアム【価格分析】（NADA NEWS） - Yahoo!ニュース",
+    "timestamp": "2026-08-24T10:55:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ビットコインの上昇余地を示す3つのテクニカル指標（金先物、BTC.D、Coinbaseプレミアム）について解説。現在のテクニカル環境が強気シグナルを示しているとの分析。"
+  },
+  {
+    "title": "原油価格上昇への最善のヘッジはS&P500のこのセクター 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-24T11:56:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇時のヘッジ手段としてS&P500の特定セクターが有効であるという投資アドバイス記事。原油価格そのものの方向性には言及していない解説記事。"
   }
 ]
