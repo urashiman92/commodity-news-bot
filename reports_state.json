@@ -1,16 +1,5 @@
 [
   {
-    "title": "Will Iraq leave OPEC, or will OPEC allow Iraq to double exports within six years? - Energy News Beat",
-    "timestamp": "2026-08-21T20:41:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPEC離脱するか、あるいはOPECがイラクの6年以内の輸出倍増を容認するかという二者択一の構図が浮上。イラクは現在の生産制約に不満を抱いており、OPECの生産割当枠の拡大交渉が焦点。この決定は中東の供給構図と原油価格に重要な含意を持つ。"
-  },
-  {
     "title": "What Pro Farmer’s Shocking Yield Estimates Mean for the Market - AgWeb",
     "timestamp": "2026-08-21T23:04:00+00:00",
     "importance": 4,
@@ -42,17 +31,6 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "Pro Farmer社が衝撃的な収量見積もりを発表。この推定値が市場に大きな影響を与える可能性がある。具体的な収量数字については提供されたメタデータからは確認できないが、見出しの「Shocking（衝撃的）」という表現から、従来予想を大幅に上回る豊作見通しが示唆される。市場センチメント上は供給増加による価格下押し圧力が懸念される。"
-  },
-  {
-    "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
-    "timestamp": "2026-08-21T19:54:48+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が追加的な石油増産を承認し、ホルムズ海峡経由の輸出が回復局面に入ったと報告。供給不安の緩和とホルムズ海峡での地政学的リスク低下がポジティブに評価される。原油市場における供給面の不確実性が減少する見通し。"
   },
   {
     "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
@@ -141,39 +119,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ExxonMobilがガイアナの主要油田施設で火災発生後に操業を一時停止。ガイアナは世界第2位の原油増産国で、同社が主要オペレーターを担う重要な供給源。供給寸断リスクは原油価格の上昇圧力となる可能性が高い。復旧期間が不透明な点で市場への警戒感が高まっている。"
-  },
-  {
-    "title": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-21T20:04:11+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "週末のマーケットラップ報道。株式市場が乱高下の1週間を終えて反発し、ビットコインが上昇。コモディティ市場全般への直接的な具体的データは記事から不明だが、リスク資産全体のセンチメント改善を反映している可能性がある。"
-  },
-  {
-    "title": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-21T20:04:11+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "週末のマーケットラップ報道。株式市場が乱高下の1週間を終えて反発し、ビットコインが上昇。コモディティ市場全般への直接的な具体的データは記事から不明だが、リスク資産全体のセンチメント改善を反映している可能性がある。"
-  },
-  {
-    "title": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-21T20:04:11+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "週末のマーケットラップ報道。株式市場が乱高下の1週間を終えて反発し、ビットコインが上昇。コモディティ市場全般への直接的な具体的データは記事から不明だが、リスク資産全体のセンチメント改善を反映している可能性がある。"
   },
   {
     "title": "Milk Production",
@@ -482,5 +427,60 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-24T20:49:46.867887+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSの定期的なCrop Progress報告は、米国の主要穀物（トウモロコシ・小麦・大豆）の播種進捗、生育段階、および圃場状態を追跡する。これは週次で発表される統計であり、市場が予想する作付・収穫タイムラインの確認材料となるが、大幅な予想乖離が示されない限り相場への即時的なインパクトは限定的である。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-24T20:49:46.867887+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSの定期的なCrop Progress報告は、米国の主要穀物（トウモロコシ・小麦・大豆）の播種進捗、生育段階、および圃場状態を追跡する。これは週次で発表される統計であり、市場が予想する作付・収穫タイムラインの確認材料となるが、大幅な予想乖離が示されない限り相場への即時的なインパクトは限定的である。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-24T20:49:46.867887+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSの定期的なCrop Progress報告は、米国の主要穀物（トウモロコシ・小麦・大豆）の播種進捗、生育段階、および圃場状態を追跡する。これは週次で発表される統計であり、市場が予想する作付・収穫タイムラインの確認材料となるが、大幅な予想乖離が示されない限り相場への即時的なインパクトは限定的である。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
+    "timestamp": "2026-08-24T08:07:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの8月23日付Crop Progress統計によると、トウモロコシは57%、大豆は60%が良好～優良（Good to Excellent）と評価された。両作物とも安定した生育状況を示しており、今後の収穫予測に向けた基準情報として機能する。事前予想との対比がないため、市場反応度は不透明。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
+    "timestamp": "2026-08-24T08:07:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAの8月23日付Crop Progress統計によると、トウモロコシは57%、大豆は60%が良好～優良（Good to Excellent）と評価された。両作物とも安定した生育状況を示しており、今後の収穫予測に向けた基準情報として機能する。事前予想との対比がないため、市場反応度は不透明。"
   }
 ]
