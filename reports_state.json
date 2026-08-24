@@ -1,49 +1,5 @@
 [
   {
-    "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
-    "timestamp": "2026-08-21T01:50:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国とイランの緊張関係が激化し、地政学的リスクが高まっている。中東地域の供給懸念を背景に、原油は2週連続の週間上昇が見込まれている。イランの核問題や地域紛争が石油市場の重要なサプライショック要因として機能している。"
-  },
-  {
-    "title": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
-    "timestamp": "2026-08-21T01:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が週間ベースで弱気となっており、債券利回りと原油価格が高水準を維持している。金利上昇環境が続く中、金などの無利子資産に下落圧力がかかる一方、高い石油価格がエネルギーコモディティの上値を支えている。マクロ環境の不確実性がコモディティ全般に影響を与えている状況。"
-  },
-  {
-    "title": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
-    "timestamp": "2026-08-21T01:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "アジア株が週間ベースで弱気となっており、債券利回りと原油価格が高水準を維持している。金利上昇環境が続く中、金などの無利子資産に下落圧力がかかる一方、高い石油価格がエネルギーコモディティの上値を支えている。マクロ環境の不確実性がコモディティ全般に影響を与えている状況。"
-  },
-  {
-    "title": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
-    "timestamp": "2026-08-21T01:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が週間ベースで弱気となっており、債券利回りと原油価格が高水準を維持している。金利上昇環境が続く中、金などの無利子資産に下落圧力がかかる一方、高い石油価格がエネルギーコモディティの上値を支えている。マクロ環境の不確実性がコモディティ全般に影響を与えている状況。"
-  },
-  {
     "title": "Iranian Oil Supply to Chinese Refiners Squeezed by US Blockade - Bloomberg.com",
     "timestamp": "2026-08-21T05:19:00+00:00",
     "importance": 4,
@@ -163,39 +119,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSが7月の米国乳生産統計を発表。主要24州での生産量は194億ポンドで前年同月比2.3%増加。乳生産増加は飼料需要（トウモロコシ・大豆）の継続的な需要圧力を示唆し、穀物相場への下押し圧力となる可能性がある。"
-  },
-  {
-    "title": "Global stocks close out a tough week as bond yields, oil stay high - Reuters",
-    "timestamp": "2026-08-21T01:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "グローバル株式市場は厳しい1週間を終え、債券利回りと原油価格が高止まりしている状況が報道されている。金利上昇環境が継続する中、リスク資産と無利子資産の価格動向に分化が生じており、コモディティ市場全体に対して異なる方向性の圧力が作用している。"
-  },
-  {
-    "title": "Global stocks close out a tough week as bond yields, oil stay high - Reuters",
-    "timestamp": "2026-08-21T01:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "グローバル株式市場は厳しい1週間を終え、債券利回りと原油価格が高止まりしている状況が報道されている。金利上昇環境が継続する中、リスク資産と無利子資産の価格動向に分化が生じており、コモディティ市場全体に対して異なる方向性の圧力が作用している。"
-  },
-  {
-    "title": "Global stocks close out a tough week as bond yields, oil stay high - Reuters",
-    "timestamp": "2026-08-21T01:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "グローバル株式市場は厳しい1週間を終え、債券利回りと原油価格が高止まりしている状況が報道されている。金利上昇環境が継続する中、リスク資産と無利子資産の価格動向に分化が生じており、コモディティ市場全体に対して異なる方向性の圧力が作用している。"
   },
   {
     "title": "Corn Has the Volume, but the August WASDE Says Margins Still Matter - AgroLatam",
@@ -372,5 +295,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアが輸出支障を補うため穀物（特に小麦）の購入を検討している。これは国内需要確保と輸出減少への対抗措置と考えられる。ロシアは世界最大級の小麦輸出国であり、購入増加は国内在庫圧迫を示唆し、グローバルな供給バランスに影響を与える可能性がある。"
+  },
+  {
+    "title": "2026 Apple Crop Down 7% as Forecast Reporting Evolves - The Packer",
+    "timestamp": "2026-08-23T01:02:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年のりんご作付面積が前年比7%減少することが報告された。米国農務省の作付報告方法の進化により、より正確な統計が公表されている。りんごなどの果実類の生産減は食料インフレ圧力を部分的に緩和する一方、供給逼迫懸念も生じる可能性がある。"
   }
 ]
