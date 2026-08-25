@@ -1,27 +1,5 @@
 [
   {
-    "title": "金相場価格デイリーコメント週間まとめ（8/17〜8/21）｜水野崇 - mbp-japan.com",
-    "timestamp": "2026-08-22T02:27:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月17日～21日の金相場についてのアナリスト週間まとめ。過去1週間の相場動向を振り返るコメンタリーで、特定の新規ニュースイベントではなく、既に消化された相場の解説。"
-  },
-  {
-    "title": "本日（8月22日）の金価格：全般的に急騰。 - Vietnam.vn",
-    "timestamp": "2026-08-22T03:18:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの現地ニュースサイトが8月22日の金価格を報道。全般的に急騰した旨を伝えている。具体的な騰落率や騰落要因の記載がないため、詳細は不明。"
-  },
-  {
     "title": "なぜ原油価格は1バレル150ドルまで上昇しないのか？ - Vietnam.vn",
     "timestamp": "2026-08-22T04:10:19+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が150ドルに達しない理由を考察するコメンタリー記事。市場心理や需給バランス、マクロ要因の分析が含まれると推定。既に織り込まれている過去の価格動向に関する解説。"
-  },
-  {
-    "title": "本日の原油価格（2026年8月22日）：WTI原油は86ドル超、ブレント原油は94ドル近辺。 - Vietnam.vn",
-    "timestamp": "2026-08-22T02:24:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "2026年8月22日時点のWTI原油86ドル超、ブレント原油94ドル近辺の価格報告。単なる日中の相場情報提供であり、特定の新規材料や市場変動要因は明記されていない。"
   },
   {
     "title": "本日の燃料価格（8月22日）：世界の原油価格が上昇。 - Vietnam.vn",
@@ -185,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "野村證券ストラテジストが、原油と日本株の過度な連動は一時的であり一巡すると分析。従来の相場構図への回帰を示唆。次の相場展開を視野に入れた見通しを提示。"
-  },
-  {
-    "title": "河童兄妹からの手紙「誘拐されました」 神奈川県海老名市で市民に愛されるシンボルの銅像が盗難 銅価格高騰が背景に？ - au Webポータル",
-    "timestamp": "2026-08-22T02:59:15+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "神奈川県海老名市の銅製シンボル像が盗難被害。銅価格高騰に伴う盗難事件の増加傾向を示唆。スクラップ銅の需給逼迫を反映した市場現象。"
   },
   {
     "title": "金価格は本日8月22日、依然として非常に力強い上昇を示して取引を終えた。 - Vietnam.vn",
@@ -1813,5 +1769,93 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "8月24日のトウモロコシ先物が2.33%上昇。単日の値動きについて、背景要因を解説するコメンタリー記事。具体的な供給・需要ショックは記事から不明。"
+  },
+  {
+    "title": "穀物在庫豊富だというが…全世界に「小麦価格急騰」の恐怖 - ｄメニューニュース",
+    "timestamp": "2026-08-24T23:43:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "在庫が豊富という通説に反して、世界的に小麦価格上昇の懸念が存在することを指摘するコメンタリー記事。市場が直面する潜在的な価格リスク要因に焦点を当てている。"
+  },
+  {
+    "title": "ＳＰＤＲや野村金連動が４日続伸、金価格は約３カ月ぶり高値圏に上昇◇ - みんかぶ",
+    "timestamp": "2026-08-25T02:14:45+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金ETF（SPDR、野村金連動）が4日続伸し、金価格が約3カ月ぶりの高値圏に上昇した。金市場全体の上昇トレンドを示す相場観測。"
+  },
+  {
+    "title": "ベッセント財務長官の執念、金価格４７００に接近 - 三菱マテリアル GOLDPARK",
+    "timestamp": "2026-08-25T02:52:13+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベッセント米財務長官が強いドル政策を推し進めており、金価格が4700ドル水準に接近している。強いドル志向は金需要の抑制要因だが、市場では既に認識されている政策方針である。"
+  },
+  {
+    "title": "金価格急騰で個人マネーが殺到… ACE KRX金現物ETF、個人買い越し額2000億ウォン突破 - BigGo ファイナンス",
+    "timestamp": "2026-08-25T03:01:09+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "韓国の金現物ETF（ACE KRX）で個人投資家による買い越し額が2000億ウォンを突破した。金価格急騰に伴う個人マネーの流入を報じるもの。既に進行中の金相場上昇トレンドの後追い動向。"
+  },
+  {
+    "title": "世界の金価格は3カ月ぶりの高値水準に上昇した。 - Vietnam.vn",
+    "timestamp": "2026-08-25T02:51:47+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3ヶ月ぶりの高値水準に上昇した。市場は既に上昇トレンドを認識しており、特段の新規材料を示唆していない。既知の上昇局面の進行状況を報じたもの。"
+  },
+  {
+    "title": "本日（8月25日）の燃料価格：世界の原油価格は2営業日連続で下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-25T02:56:06+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月25日時点で世界原油価格が2営業日連続で下落している。ベトナムの燃料価格ニュースとして報じられており、既に発生した事象の振り返り・解説である。"
+  },
+  {
+    "title": "米国の関税がカナダ製品の貿易を混乱させ、コーン先物は下落 - Traders Union",
+    "timestamp": "2026-08-24T19:13:42+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米国がカナダ製品への関税を発動し、カナダからのトウモロコシ輸入が混乱。供給不安の緩和とカナダ産需要の減少がコーン先物を押し下げた。貿易摩擦の継続は市場不確実性を増す。"
+  },
+  {
+    "title": "中国の紫金鉱業、銅生産目標に下振れ圧力－コンゴ鉱山の浸水が影響 - Infoseek",
+    "timestamp": "2026-08-25T02:13:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "中国大手の紫金鉱業がコンゴの鉱山浸水により銅生産目標の達成が困難に。主要銅生産者の減産は供給逼迫を意味する。"
   }
 ]
