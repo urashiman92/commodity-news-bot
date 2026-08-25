@@ -1,27 +1,5 @@
 [
   {
-    "title": "8月23日朝の金価格更新:ブレイクスルー週後に上昇予測 - Laodong.vn",
-    "timestamp": "2026-08-22T23:22:26+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのメディアが金価格の朝のアップデートを報道。先週のブレイクスルー後、今週の上昇を予測している。テクニカルな観測記事と見られる。"
-  },
-  {
-    "title": "本日（8月23日）の金価格：指輪の金価格が地金価格を上回りました。 - Vietnam.vn",
-    "timestamp": "2026-08-22T23:26:06+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムで指輪などの加工金製品の価格が地金価格を上回った。市場での価格水準を報道したもので、地政学的・供給側の重要情報ではない。"
-  },
-  {
     "title": "今年初め、史上最高値を記録した金価格が再び反騰する姿を見せると、投資家の動きが忙しくなった。 金価格に追従して収益を出す金融商品に巨額を投入する一方、実物金を求める姿も現れている。21日、金融投資業界.. - 매일경제",
     "timestamp": "2026-08-23T00:01:09+00:00",
     "importance": 3,
@@ -2275,5 +2253,27 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "25日の主要国際商品市況に関する日次の相場報告記事。具体的な価格変動データなしに市況全般をまとめた定期的なマーケットレポート。個別商品の材料や市場動向の解説。"
+  },
+  {
+    "title": "原油相場が下落、エネルギー株下落したほか消費関連株がダウ平均を圧迫 - 日経CNBC online",
+    "timestamp": "2026-08-25T23:18:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が下落し、これに連動してエネルギー株が売られた。消費関連株の下落も加わり、ダウ平均全体に下押し圧力がかかった状況。"
+  },
+  {
+    "title": "米原油先物が続落、ホルムズ再開期待で - ｄメニューニュース",
+    "timestamp": "2026-08-25T23:27:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡再開の期待を背景に米原油先物が続落している。供給懸念の緩和が価格を押し下げている。地政学的リスク軽減がポジティブ要因として作用している。"
   }
 ]
