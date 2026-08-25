@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格が3カ月ぶり高値、4,600ドル突破 ETF資金が大量流入 - BigGo ファイナンス",
-    "timestamp": "2026-08-22T19:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶりの高値で4,600ドルを突破した。ETF資金の大量流入が買い支えている。インフレ懸念と安全資産需要が背景と考えられる。"
-  },
-  {
     "title": "2026年8月23日の金価格：SJC金価格、9999金リング価格、および週末の世界金価格。 - Vietnam.vn",
     "timestamp": "2026-08-22T22:34:19+00:00",
     "importance": 1,
@@ -2110,5 +2099,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "欧州市場で株式と債券が上昇し、原油価格の下落が投資家のリスク選好を改善させた。原油安はインフレ懸念の緩和を示唆しており、金融資産全般への支援材料となっている。"
+  },
+  {
+    "title": "金、3カ月ぶり高値から後退 米インフレ指標待ち - ロイター",
+    "timestamp": "2026-08-25T01:16:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金が3カ月ぶり高値から調整局面に入った。米インフレ指標の発表を控え、市場が様子見姿勢に。金利上昇見通しが金相場の上値を抑制している。"
+  },
+  {
+    "title": "原油先物3%超安、1週間ぶり安値 対イラン制裁の影響限定的との見方 - ロイター",
+    "timestamp": "2026-08-25T20:03:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が3%超下落し1週間ぶりの安値をつけた。対イラン制裁の市場への実際の影響が限定的との見方が広がっている。地政学的リスクプレミアムの調整局面と考えられる。"
+  },
+  {
+    "title": "原油先物3%超安、1週間ぶり安値 対イラン制裁の影響限定的との見方 - ニューズウィーク日本版",
+    "timestamp": "2026-08-25T20:02:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が3%超の下落で1週間ぶりの安値を付けた。対イラン制裁の市場への影響が限定的との見方が広がっており、供給懸念が後退している。地政学的リスク織り込みが剥落している状況。"
+  },
+  {
+    "title": "原油先物3%超安、1週間ぶり安値　対イラン制裁の影響限定的との見方 - ｄメニューニュース",
+    "timestamp": "2026-08-25T20:12:28+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が3%超下落し1週間ぶりの安値を更新。対イラン制裁が原油市場に与える影響が限定的との見方が広がっている。市場は懸念材料の後退を織り込みつつある。"
   }
 ]
