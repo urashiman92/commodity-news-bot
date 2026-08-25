@@ -11,17 +11,6 @@
     "summary": "金価格が3カ月ぶりの高値で4,600ドルを突破した。ETF資金の大量流入が買い支えている。インフレ懸念と安全資産需要が背景と考えられる。"
   },
   {
-    "title": "金価格は4,500ドルに向かっている。その上昇の背景には何があるのだろうか？ Jablíčkář.COM - Jablíčkář.cz",
-    "timestamp": "2026-08-22T19:04:59+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,500ドルを目指す上昇トレンドにあるというアナリスト解説。具体的な上昇要因は記事要約からは判明せず、詳細な背景分析が必要。"
-  },
-  {
     "title": "2026年8月23日の金価格：SJC金価格、9999金リング価格、および週末の世界金価格。 - Vietnam.vn",
     "timestamp": "2026-08-22T22:34:19+00:00",
     "importance": 1,
@@ -2099,5 +2088,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が底値圏にある可能性が指摘されている。上昇と下落の相反する力学が価格動向を左右している状況にある。"
+  },
+  {
+    "title": "原油相場、26年末に60ドル 経済産業研究所の藤氏 - 日本経済新聞",
+    "timestamp": "2026-08-25T19:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "経済産業研究所のアナリストが2026年末の原油相場を60ドル/バレルと予想。現在の相場水準（70ドル台）からの値下がり見通しを示している。地政学的リスク緩和と供給増加が背景。"
+  },
+  {
+    "title": "【欧州市況】株、債券ともに上昇－原油価格下落が投資家心理を後押し - Bloomberg",
+    "timestamp": "2026-08-25T17:27:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州市場で株式と債券が上昇し、原油価格の下落が投資家のリスク選好を改善させた。原油安はインフレ懸念の緩和を示唆しており、金融資産全般への支援材料となっている。"
   }
 ]
