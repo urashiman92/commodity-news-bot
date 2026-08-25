@@ -1,16 +1,5 @@
 [
   {
-    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-08-22T12:50:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の減少を報告。精製業者が処理量を増加させたことが在庫低下の主要因。需給改善を示唆するシグナルだが、予想の範囲内の動き。短期的には価格支援材料となる可能性。"
-  },
-  {
     "title": "Saudis Oil Logistics Roiled Again by Houthis’ Red Sea Threat - Bloomberg.com",
     "timestamp": "2026-08-23T11:30:00+00:00",
     "importance": 4,
@@ -559,5 +548,49 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "米国の原油およびガソリン在庫が先週減少したことがEIAから発表された。これは需要の強さが供給を上回っていることを示唆している。在庫減少は一般的にコモディティ価格の上値支持材料となり、特に原油市場でポジティブに解釈される傾向がある。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
+    "timestamp": "2026-08-24T11:26:15+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要減速の継続的な下方修正は、長期的な原油価格の上昇圧力を減弱させるシグナル。需要減速への懸念が高まる中、供給サイドの圧力も相まって原油相場に重しとなる可能性が高い。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
+    "timestamp": "2026-08-24T11:26:15+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要減速の継続的な下方修正は、長期的な原油価格の上昇圧力を減弱させるシグナル。需要減速への懸念が高まる中、供給サイドの圧力も相まって原油相場に重しとなる可能性が高い。"
+  },
+  {
+    "title": "European Stocks Advance as Oil Prices Drop; Siemens Energy Up - Bloomberg",
+    "timestamp": "2026-08-25T07:18:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "欧州株式市場が上昇し、原油価格の下落が支援材料となった。エネルギー関連ではシーメンスエナジーが買われた。原油安は製造業企業の利益改善期待を高め、一方でエネルギーセクターへの下落圧力となる混合シグナル。"
+  },
+  {
+    "title": "European Stocks Advance as Oil Prices Drop; Siemens Energy Up - Bloomberg",
+    "timestamp": "2026-08-25T07:18:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "欧州株式市場が上昇し、原油価格の下落が支援材料となった。エネルギー関連ではシーメンスエナジーが買われた。原油安は製造業企業の利益改善期待を高め、一方でエネルギーセクターへの下落圧力となる混合シグナル。"
   }
 ]
