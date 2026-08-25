@@ -1,16 +1,5 @@
 [
   {
-    "title": "米イラン対立激化で原油価格6%超上昇 台湾中油が来週の油価凍結を発表 - BigGo ファイナンス",
-    "timestamp": "2026-08-22T10:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの対立激化により原油価格が6%超上昇。地政学的リスク拡大で供給懸念が急増。台湾中油は価格変動への対応として来週の油価を凍結すると発表。"
-  },
-  {
     "title": "世界の金価格は週を4,600米ドル/オンス以上で終えました。 - Laodong.vn",
     "timestamp": "2026-08-22T14:58:21+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が週間で4,600ドル/オンス以上の水準で終了した。既に市場で形成された価格水準の事後報告であり、新規の材料ではない。"
-  },
-  {
-    "title": "非日常的な原油と日本株の過度な連動は一巡するとみる 次の相場も視野に 野村證券ストラテジストが解説 - nomura.co.jp",
-    "timestamp": "2026-08-22T10:46:51+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "野村證券ストラテジストが、原油と日本株の過度な連動は一時的であり一巡すると分析。従来の相場構図への回帰を示唆。次の相場展開を視野に入れた見通しを提示。"
   },
   {
     "title": "金価格は本日8月22日、依然として非常に力強い上昇を示して取引を終えた。 - Vietnam.vn",
@@ -1967,5 +1945,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米政権がイランへの軍事攻撃ではなく経済的締め付けを選択した方針が報じられた。軍事衝突回避の観測から原油相場が下げ止まり局面へ。地政学的リスク軽減で供給懸念が後退。"
+  },
+  {
+    "title": "ロシア産穀物の輸出が急減、港湾停止で小麦価格と農業に打撃 - Межа. Новини України.",
+    "timestamp": "2026-08-25T10:20:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア産穀物の輸出が港湾停止により急減している。供給ショックにより小麦を含む穀物市場の上値圧力となる見込み。地政学リスクによる供給途絶で市場参加者の懸念が高まる。"
+  },
+  {
+    "title": "金相場の下落が高級品需要を直撃、ラオプ・ゴールドの成長が減速 - FashionNetwork France",
+    "timestamp": "2026-08-25T10:42:58+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の下落がラオプ・ゴールドなど高級品メーカーの需要減少につながっている。金価格の低下は装飾品産業に負の影響を与えており、企業成長が減速傾向。"
+  },
+  {
+    "title": "金先物(2612)のリアルタイムチャート - Moomoo",
+    "timestamp": "2026-08-25T05:29:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物(2612)のリアルタイムチャートページへのリンク。具体的な価格動向や市場イベントについての情報が含まれていない。"
   }
 ]
