@@ -2033,5 +2033,71 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金先物のリアルタイムチャート表示ページ。具体的なニュース内容や市場変動要因の記載がない。"
+  },
+  {
+    "title": "インドは小麦輸出禁止措置を解除し、世界的な食糧不足の緩和に貢献する。 - Vietnam.vn",
+    "timestamp": "2026-08-25T06:09:07+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "インドが小麦輸出禁止措置を解除。世界的な供給逼迫の緩和要因となる。主要供給国からの新規供給増加により、国際小麦価格に下押し圧力。"
+  },
+  {
+    "title": "本日（8月25日午後）の金価格：予想外の急落。 - Vietnam.vn",
+    "timestamp": "2026-08-25T14:26:01+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月25日午後の金価格が予想外に急落した。ベトナムメディアによる相場解説記事。具体的な下落要因や数値は記事概要には記載されていない。"
+  },
+  {
+    "title": "金価格、5月中旬以来の高値 上昇基調が継続 (ロイター) - Yahoo!ニュース",
+    "timestamp": "2026-08-25T01:16:08+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が5月中旬以来の高値に上昇し、上昇基調が継続している。インフレ懸念や地政学リスク、金利環境などの背景要因により、金の買い需要が支えている。"
+  },
+  {
+    "title": "NYオープン-買い先行、米金利低下や原油価格の下落を好感 - Moomoo",
+    "timestamp": "2026-08-25T13:41:24+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYオープン時点で買い先行となり、米金利低下と原油価格下落の動きが観測されている。市場はリスク資産を好感する環境。"
+  },
+  {
+    "title": "原油価格は2営業日連続で下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-25T13:43:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が2営業日連続で下落した。具体的な下落要因や規模は記事概要に記載されていない。相場の振り返りコメンタリーと考えられる。"
+  },
+  {
+    "title": "コモディティラウンドアップ ： 原油価格が後退、 LME 銅が過去最高を記録、金が 3 ヶ月ぶりの最高を記録 - Sunsirs",
+    "timestamp": "2026-08-25T00:23:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "複数コモディティの値動きを集約した定期ラウンドアップ。原油は後退した一方、銅は過去最高、金は3ヶ月高を記録。異なる商品間での強弱分化が見られる。"
   }
 ]
