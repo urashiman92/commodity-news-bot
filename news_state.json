@@ -1,27 +1,5 @@
 [
   {
-    "title": "世界の金価格が4600ドルを突破。 - Vietnam.vn",
-    "timestamp": "2026-08-22T00:42:23+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4600ドルを突破した。世界的なインフレ懸念や地政学リスク、中央銀行の金買いなどが相場を支えている。この水準は2024年の継続的な上昇トレンドの延長線上にある。"
-  },
-  {
-    "title": "トランプ大統領のコメントで原油価格が上昇し、ベッセント財務長官の秘策、バイバックの効果は1日のみに - Yahoo!ニュース",
-    "timestamp": "2026-08-22T00:45:30+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領の発言により原油価格が上昇した。ただしベッセント財務長官によるバイバック施策の効果は1日限りに終わった。政治的なコメントによる短期的な価格変動。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（8/17〜8/21）｜水野崇 - mbp-japan.com",
     "timestamp": "2026-08-22T02:27:49+00:00",
     "importance": 2,
@@ -1725,5 +1703,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油は利益確定売りの圧力で3営業日ぶりに下落。テクニカル的な調整局面の継続。短期的な売却圧力が優位の相場環境。"
+  },
+  {
+    "title": "穀物在庫豊富だというが…全世界に「小麦価格急騰」の恐怖（中央日報日本語版） - Yahoo!ニュース",
+    "timestamp": "2026-08-24T23:47:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "タイトルが「穀物在庫豊富」と「小麦価格急騰の恐怖」という相反する内容を示唆。在庫充分にもかかわらず価格上昇圧力が存在する複雑な市場環境を指摘。今後の供給不安やファンダメンタルズの不透明性が焦点。"
+  },
+  {
+    "title": "NY金先物は続伸、地政学リスクや金融政策の先行き不透明感を支えに買い優勢｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-25T00:16:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が続伸している。地政学リスクと金融政策の不透明感が買い要因となっており、金の安全資産としての需要が支えになっている。"
+  },
+  {
+    "title": "金価格は10年前の5倍以上に…まだ上がる？ プロが「今のうちに売ったほうがいい」と話すワケ - マイナビニュース",
+    "timestamp": "2026-08-24T22:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が10年前比で5倍以上に上昇した現状を踏まえ、専門家が売却推奨の見解を示唆。現在の高水準が持続可能かについての議論が生じている。"
+  },
+  {
+    "title": "２４日の主要国際商品市況 (2026年8月25日掲載) - ライブドアニュース",
+    "timestamp": "2026-08-24T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年8月24日の主要国際商品市況の定期報道。具体的な価格変動やニュースの詳細が提供されていない。市場動向の日次振り返り記事と考えられる。"
+  },
+  {
+    "title": "２４日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-08-24T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "24日の主要国際商品市況の値動きを報じたニュース。具体的な価格変動や材料が明記されていない。"
   }
 ]
