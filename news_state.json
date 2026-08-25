@@ -11,17 +11,6 @@
     "summary": "金価格が1オンスあたり4600ドルを突破した。金は2024年を通じて上昇トレンドが続いており、地政学リスクと中央銀行の買い継続が支援している。"
   },
   {
-    "title": "驚くべき金価格 - Vietnam.vn",
-    "timestamp": "2026-08-22T06:38:23+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムメディアによる金価格に関する記事。具体的な価格動向や新規情報は不明。単なる相場解説の可能性が高い。"
-  },
-  {
     "title": "金価格が3カ月ぶり高値の約4661ドルを記録、米財務省の国債買い戻し拡大などが牽引 - 東京報道新聞",
     "timestamp": "2026-08-22T08:07:41+00:00",
     "importance": 3,
@@ -1901,5 +1890,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が急落し、コーヒー価格が5％以上急騰した。異なるコモディティ間での逆相関動きが生じている。詳細な原因は記事概要では不明。"
+  },
+  {
+    "title": "金先物(2612)のリアルタイムチャート - Moomoo",
+    "timestamp": "2026-08-25T03:55:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物のリアルタイムチャート提供を案内するMoomooの記事。具体的な市場動向や新規情報は含まれておらず、単なるツール紹介である。"
+  },
+  {
+    "title": "供給緩和への懸念から、原油価格は反転して下落に転じた。 - Vietnam.vn",
+    "timestamp": "2026-08-25T06:23:21+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "供給緩和への懸念を背景に原油価格が反転下落。市場は需給バランスの悪化を織り込み始めた。既に報じられている供給増加トレンドの延長線上の相場調整と考えられる。"
+  },
+  {
+    "title": "米国の対イラン制裁強化で原油価格が反発、供給への影響を市場が見極める - Межа. Новини України.",
+    "timestamp": "2026-08-25T06:07:12+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン制裁を強化し、原油市場が反発した。イラン産原油の供給減少が市場懸念材料となっている。実際の供給量への影響を市場が見極める段階。"
   }
 ]
