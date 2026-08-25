@@ -1,38 +1,5 @@
 [
   {
-    "title": "世界の金価格が4600ドルを突破。 - Vietnam.vn",
-    "timestamp": "2026-08-22T07:52:37+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンスあたり4600ドルを突破した。金は2024年を通じて上昇トレンドが続いており、地政学リスクと中央銀行の買い継続が支援している。"
-  },
-  {
-    "title": "金価格が3カ月ぶり高値の約4661ドルを記録、米財務省の国債買い戻し拡大などが牽引 - 東京報道新聞",
-    "timestamp": "2026-08-22T08:07:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶりの高値約4661ドルを記録。米財務省の国債買い戻し拡大が金需要を下支え。ドル弱含みと金融緩和観測が価格上昇を牽引。"
-  },
-  {
-    "title": "金価格が4,600ドル突破後、ジャクソンホール・米イラン制裁・PCEが来週相次ぎ市場を試す - BigGo ファイナンス",
-    "timestamp": "2026-08-22T07:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,600ドルを突破した後、来週ジャクソンホール会議、米イラン制裁、PCEデータが相次いで発表される。これらのマクロイベントが市場を試す局面を迎える。金は不確実性が高まる中で買われやすい傾向。"
-  },
-  {
     "title": "金価格が再び急騰し、大手投資家が8トン以上の金を買い集める事態となった。 - Vietnam.vn",
     "timestamp": "2026-08-22T08:37:43+00:00",
     "importance": 3,
@@ -1912,5 +1879,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイラン制裁を強化し、原油市場が反発した。イラン産原油の供給減少が市場懸念材料となっている。実際の供給量への影響を市場が見極める段階。"
+  },
+  {
+    "title": "世界の金価格が急騰する一方、銀価格は予想外に下落した。 - Vietnam.vn",
+    "timestamp": "2026-08-25T08:30:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が上昇する一方で銀価格が下落した。両貴金属の価格推移がディカップリングしている状況。市場観測記事として既に報じられた事象の振り返り。"
+  },
+  {
+    "title": "金先物(2612)のリアルタイムチャート - Moomoo",
+    "timestamp": "2026-08-25T04:41:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物のリアルタイムチャート表示に関するニュース。具体的なニュース内容や市場イベントの情報が不足している。チャートツール紹介と考えられる。"
+  },
+  {
+    "title": "1ヵ月で株価「7,460円→11,475円」を記録…金・銅相場の上昇を受け、買いが集まった〈注目株〉【8月24日の国内株式市場概況】 - ニコニコニュース",
+    "timestamp": "2026-08-25T02:54:34+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "金・銅相場の上昇トレンドに連動し、鉱山関連株が買われている。1ヵ月で株価が54%上昇した銘柄が注目されている。市場解説記事であり、既に織り込まれた相場の振り返り。"
   }
 ]
