@@ -11,17 +11,6 @@
     "summary": "8月17日～21日の金相場についてのアナリスト週間まとめ。過去1週間の相場動向を振り返るコメンタリーで、特定の新規ニュースイベントではなく、既に消化された相場の解説。"
   },
   {
-    "title": "金価格が4,600ドル突破で3カ月ぶり高値 アナリストは4,700ドルを視野に - BigGo ファイナンス",
-    "timestamp": "2026-08-22T02:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,600ドルを突破し3カ月ぶりの高値を更新。アナリストは4,700ドルを次のターゲットとして見ている。既存トレンドの継続を示唆するテクニカル分析コメント。"
-  },
-  {
     "title": "本日（8月22日）の金価格：全般的に急騰。 - Vietnam.vn",
     "timestamp": "2026-08-22T03:18:34+00:00",
     "importance": 2,
@@ -31,28 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの現地ニュースサイトが8月22日の金価格を報道。全般的に急騰した旨を伝えている。具体的な騰落率や騰落要因の記載がないため、詳細は不明。"
-  },
-  {
-    "title": "一方、金価格が上がったからといって、上昇分がそのまま投資家の収益に戻るわけではない。 - 매일경제",
-    "timestamp": "2026-08-22T01:51:22+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格上昇時に投資家の収益がそのまま増加するわけではないという解説記事。取引コストや手数料などの要因が実収益を圧迫することを指摘している。"
-  },
-  {
-    "title": "トランプ大統領がイランの取引相手国への制裁をほのめかし、原油価格が上昇 - arabnews.jp",
-    "timestamp": "2026-08-22T01:08:23+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領がイランの取引相手国への制裁を示唆。地政学的リスクプレミアムが加算される。供給途絶懸念により原油価格が上昇圧力を受けている。"
   },
   {
     "title": "なぜ原油価格は1バレル150ドルまで上昇しないのか？ - Vietnam.vn",
@@ -1758,5 +1725,93 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "24日の主要国際商品市況の値動きを報じたニュース。具体的な価格変動や材料が明記されていない。"
+  },
+  {
+    "title": "金価格、5月中旬以来の高値 上昇基調が継続 - ロイター",
+    "timestamp": "2026-08-25T01:16:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が5月中旬以来の高値を更新し、上昇基調が継続している。ドル弱含みやリスク回避の買い需要が支援要因と考えられる。テクニカル面でも上値抵抗を上抜けした局面。"
+  },
+  {
+    "title": "金価格、5月中旬以来の高値 上昇基調が継続 - ニューズウィーク日本版",
+    "timestamp": "2026-08-25T01:16:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が5月中旬以来の高値を更新し、上昇基調が継続している。既存トレンドの延長であり、既に市場で織り込まれた相場動向の解説記事。"
+  },
+  {
+    "title": "8月25日の金価格：上昇傾向を継続。 - Vietnam.vn",
+    "timestamp": "2026-08-25T01:06:37+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月25日時点の金価格が上昇傾向を継続している。ベトナムのメディアによる市場振り返り記事。具体的な価格変動幅や要因は記事概要から判断不可。"
+  },
+  {
+    "title": "原油先物は横ばい、米国の対イラン制裁強化の影響見極め - ロイター",
+    "timestamp": "2026-08-25T01:54:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の対イラン制裁強化という地政学的リスク要因が存在するにもかかわらず、原油先物は横ばいで推移。市場は制裁の具体的な供給への影響を見極めている段階。"
+  },
+  {
+    "title": "原油先物は横ばい、米国の対イラン制裁強化の影響見極め - ニューズウィーク日本版",
+    "timestamp": "2026-08-25T01:54:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の対イラン制裁強化という地政学的イベントが報道されているが、市場は現在様子見局面。原油先物は横ばいで、投資家が制裁の実際の供給影響を見極めている段階。"
+  },
+  {
+    "title": "米国のイラン制裁強化を受け、原油価格が小幅上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-25T01:33:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン制裁を強化したことにより、中東の供給リスク懸念が高まった。原油価格は小幅上昇に留まっており、市場は追加制裁の供給面への実質的インパクトをまだ限定的と評価している。"
+  },
+  {
+    "title": "原油先物は横ばい、米国の対イラン制裁強化の影響見極め - ｄメニューニュース",
+    "timestamp": "2026-08-25T01:54:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国のイラン制裁強化による原油供給への影響を市場が見極めている段階。原油先物は現在横ばい推移。制裁の具体的な実施内容と市場への波及効果の確認を待機中。"
+  },
+  {
+    "title": "トウモロコシ先物 (CORN-F) は8月24日に上昇 2.33%：動きの背後に何があるのか？ - TradingKey",
+    "timestamp": "2026-08-24T04:01:09+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "8月24日のトウモロコシ先物が2.33%上昇。単日の値動きについて、背景要因を解説するコメンタリー記事。具体的な供給・需要ショックは記事から不明。"
   }
 ]
