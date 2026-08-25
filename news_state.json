@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の金価格は週を4,600米ドル/オンス以上で終えました。 - Laodong.vn",
-    "timestamp": "2026-08-22T14:58:21+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が週間で4,600ドル/オンス以上の水準で終了した。既に市場で形成された価格水準の事後報告であり、新規の材料ではない。"
-  },
-  {
     "title": "金価格は本日8月22日、依然として非常に力強い上昇を示して取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-22T18:19:53+00:00",
     "importance": 2,
@@ -2099,5 +2088,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "複数コモディティの値動きを集約した定期ラウンドアップ。原油は後退した一方、銅は過去最高、金は3ヶ月高を記録。異なる商品間での強弱分化が見られる。"
+  },
+  {
+    "title": "穀物在庫豊富だというが…全世界に「小麦価格急騰」の恐怖 - ｄメニューニュース",
+    "timestamp": "2026-08-24T23:58:42+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "穀物在庫が豊富とされているにもかかわらず、全世界で小麦価格急騰の懸念が生じている。在庫統計と市場心理のギャップが注目されている。"
   }
 ]
