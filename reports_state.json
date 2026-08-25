@@ -616,25 +616,47 @@
     "summary": "ウクライナがロシア領土へのドローン攻撃を強化し、ロシアの石油流出経路が混乱。複数拠点への同時攻撃により、ロシアの主要石油輸送インフラが損傷。地政学的リスク顕在化により、原油供給の不確実性が急速に高まる状況。"
   },
   {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-08-22T18:16:13+00:00",
-    "importance": 4,
-    "direction": "下落",
+    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "timestamp": "2026-08-25T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
     "event_type": "scheduled",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長予想を引き下げた。需要減速見通しは原油価格への下押し圧力となり、今後の供給政策決定にも影響を及ぼす可能性が高い。EV普及やエネルギー転換の加速が背景と考えられる。"
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "コモディティ全般",
+    "summary": "FRBの2026年7月の公定歩合会議記録。金融政策スタンスが議論されたと考えられるが、具体的な金利変更内容や声明が提示されていないため詳細な判断困難。一般的にFRB引き締め姿勢は金（無利子資産）に下落圧力、ドル強化を通じて原油・銅などドル建てコモディティに下押し圧力となる可能性。"
   },
   {
-    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-08-22T18:16:13+00:00",
-    "importance": 4,
-    "direction": "下落",
+    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "timestamp": "2026-08-25T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
     "event_type": "scheduled",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長予想を引き下げた。需要減速見通しは原油価格への下押し圧力となり、今後の供給政策決定にも影響を及ぼす可能性が高い。EV普及やエネルギー転換の加速が背景と考えられる。"
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "金",
+    "summary": "FRBの2026年7月の公定歩合会議記録。金融政策スタンスが議論されたと考えられるが、具体的な金利変更内容や声明が提示されていないため詳細な判断困難。一般的にFRB引き締め姿勢は金（無利子資産）に下落圧力、ドル強化を通じて原油・銅などドル建てコモディティに下押し圧力となる可能性。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "timestamp": "2026-08-25T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "原油",
+    "summary": "FRBの2026年7月の公定歩合会議記録。金融政策スタンスが議論されたと考えられるが、具体的な金利変更内容や声明が提示されていないため詳細な判断困難。一般的にFRB引き締め姿勢は金（無利子資産）に下落圧力、ドル強化を通じて原油・銅などドル建てコモディティに下押し圧力となる可能性。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "timestamp": "2026-08-25T18:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "銅",
+    "summary": "FRBの2026年7月の公定歩合会議記録。金融政策スタンスが議論されたと考えられるが、具体的な金利変更内容や声明が提示されていないため詳細な判断困難。一般的にFRB引き締め姿勢は金（無利子資産）に下落圧力、ドル強化を通じて原油・銅などドル建てコモディティに下押し圧力となる可能性。"
   }
 ]
