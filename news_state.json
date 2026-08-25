@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格が再び急騰し、大手投資家が8トン以上の金を買い集める事態となった。 - Vietnam.vn",
-    "timestamp": "2026-08-22T08:37:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急騰し、大手投資家が8トン以上の金を買い集めている。機関投資家の積極的な買い行動が観察されており、需要面での強気姿勢を示唆している。"
-  },
-  {
     "title": "米イラン対立激化で原油価格6%超上昇 台湾中油が来週の油価凍結を発表 - BigGo ファイナンス",
     "timestamp": "2026-08-22T10:05:00+00:00",
     "importance": 4,
@@ -42,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンス4,600ドルを突破した後、さらなる上昇傾向が続くかについての市場解説。現在の価格水準と今後の展望に関するアナリスト観測。"
-  },
-  {
-    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-08-22T08:48:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WisdomTree WTI原油上場投信(1690)の株価情報ページへのリンク。具体的なニュース内容や価格変動データなし。"
   },
   {
     "title": "世界の金価格は週を4,600米ドル/オンス以上で終えました。 - Laodong.vn",
@@ -1912,5 +1890,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "金・銅相場の上昇トレンドに連動し、鉱山関連株が買われている。1ヵ月で株価が54%上昇した銘柄が注目されている。市場解説記事であり、既に織り込まれた相場の振り返り。"
+  },
+  {
+    "title": "金先物が3カ月ぶり高値圏で伸び悩み、利益確定売りが上値抑える - BigGo ファイナンス",
+    "timestamp": "2026-08-25T03:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物が3カ月ぶりの高値圏に達しているが、利益確定売りにより上値が抑えられている。テクニカルな抵抗により値動きが伸び悩んでいる状況。"
+  },
+  {
+    "title": "世界の金価格は4700ドルに近づいている。 - Vietnam.vn",
+    "timestamp": "2026-08-25T08:46:39+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4700ドル付近に接近している状況を報じた記事。既に進行中の上昇トレンドを追認する内容で、市場では既に織り込まれている可能性が高い。"
+  },
+  {
+    "title": "金先物(2612)のリアルタイムチャート - Moomoo",
+    "timestamp": "2026-08-25T03:09:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物のリアルタイムチャート表示ページ。具体的なニュースイベントや価格変動の要因となる情報が含まれていない。"
+  },
+  {
+    "title": "米利上げ観測と強いドルが金価格の勢いを削ぐ - Межа. Новини України.",
+    "timestamp": "2026-08-25T07:33:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米利上げ観測と強いドルが金価格の上昇圧力を抑制している。利上げはドル高につながり、ドル建て金の割高感が強まるため、金需要が減退する構図。既知の相場メカニズムの確認報道。"
+  },
+  {
+    "title": "原油価格上昇がGulf Keystoneの生産停止を相殺、株価9.3%高 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-25T08:56:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Gulf Keystoneの生産停止というネガティブ要因があるものの、原油価格全体の上昇により同社株が9.3%上昇した。個別企業の短期的な株価変動を報じたもの。"
+  },
+  {
+    "title": "銅価格が最高値更新後に1.42万ドルへ反落 市場はFRB議長の年次講演待ち - BigGo ファイナンス",
+    "timestamp": "2026-08-25T08:06:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が最高値更新後に1.42万ドルまで反落。市場参加者がFRB議長の年次講演発表を控え様子見姿勢。技術的な利確売りと金融政策の見通し不透明感が背景。"
+  },
+  {
+    "title": "中国の紫金鉱業、銅生産目標に下振れ圧力−コンゴ鉱山の浸水が影響 - ｄメニューニュース",
+    "timestamp": "2026-08-25T02:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "中国の大手鉱山企業・紫金鉱業がコンゴの鉱山浸水により銅生産目標の達成が困難になる見通し。世界最大級の銅生産者の減産圧力は供給逼迫要因となる。既報道の継続・悪化が確認された形。"
   }
 ]
