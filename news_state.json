@@ -1,16 +1,5 @@
 [
   {
-    "title": "2026年8月23日の金価格：SJC金価格、9999金リング価格、および週末の世界金価格。 - Vietnam.vn",
-    "timestamp": "2026-08-22T22:34:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報に関する定期的な市場レポート。SJC金とグローバル金価格の週末相場を報じている。"
-  },
-  {
     "title": "金鉱株ラリーがやって来た 金価格も「最大の逆風」にあらがい上昇中 - Forbes JAPAN",
     "timestamp": "2026-08-22T23:00:00+00:00",
     "importance": 3,
@@ -2231,5 +2220,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ビットコインが8万ドルを突破し、それに伴いドル安が進行している。ドル安環境では金などの代替資産の需要が増加し、金価格も上昇している。暗号資産と貴金属の相互関連性を示す相場動向。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（25日）原油は続落 - Moomoo",
+    "timestamp": "2026-08-25T22:34:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油市場が続落した市場概況の報道。金先物市場も言及されているが、具体的な数値や材料は記事概要に不明。定期的な市場振り返り記事と見られる。"
+  },
+  {
+    "title": "年末の金価格について、ゴールドマン・サックス・グループの最新予測が発表されました。 - Moomoo",
+    "timestamp": "2026-08-25T12:47:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが年末の金価格予測を発表。アナリスト見解であり、市場に既に織り込まれている可能性が高い。具体的な予測値や根拠が記事から不明。"
+  },
+  {
+    "title": "国際原油価格、米国とイランの対立緩和への期待で急落…ブレント原油3．89％安（中央日報日本語版） - Yahoo!ニュース",
+    "timestamp": "2026-08-25T22:37:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの対立緩和への期待が市場に広がり、原油価格が売られた。ブレント原油が3.89%の下落。地政学的リスク軽減を材料に、供給懸念が後退。"
   }
 ]
