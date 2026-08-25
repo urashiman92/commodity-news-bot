@@ -537,5 +537,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシア南部の石油精製所がドローン攻撃により火災が発生した。ウクライナ紛争に関連した供給ショックイベントであり、ロシアの精製能力の一部喪失が懸念される。供給逼迫への懸念から原油価格は上昇圧力を受ける見通し。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-08-24T22:13:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油およびガソリン在庫が先週減少したことがEIAから発表された。これは需要の強さが供給を上回っていることを示唆している。在庫減少は一般的にコモディティ価格の上値支持材料となり、特に原油市場でポジティブに解釈される傾向がある。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-08-24T22:13:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国の原油およびガソリン在庫が先週減少したことがEIAから発表された。これは需要の強さが供給を上回っていることを示唆している。在庫減少は一般的にコモディティ価格の上値支持材料となり、特に原油市場でポジティブに解釈される傾向がある。"
   }
 ]
