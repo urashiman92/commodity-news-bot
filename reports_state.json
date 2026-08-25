@@ -504,5 +504,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国最大の石油精製企業シノペックの新CEO就任に伴う経営方針転換のニュース。世界最大級の精製企業の経営陣交代であり、精製能力の活用戦略やエネルギーミックス方針が変わる可能性がある。原油需要パターンや製品供給戦略に中期的影響を及ぼす可能性がある。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
+    "timestamp": "2026-08-24T08:47:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポート（8月23日時点）によると、トウモロコシは57%、大豆は60%が良好～優秀と評価された。良好な作況指数は供給安定性を示唆し、生産量の堅調見通しは価格下押し圧力となる。夏場の天候が良好に推移した結果の反映と考えられる。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
+    "timestamp": "2026-08-24T08:47:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progressレポート（8月23日時点）によると、トウモロコシは57%、大豆は60%が良好～優秀と評価された。良好な作況指数は供給安定性を示唆し、生産量の堅調見通しは価格下押し圧力となる。夏場の天候が良好に推移した結果の反映と考えられる。"
   }
 ]
