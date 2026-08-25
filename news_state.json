@@ -1,27 +1,5 @@
 [
   {
-    "title": "金鉱株ラリーがやって来た 金価格も「最大の逆風」にあらがい上昇中 - Forbes JAPAN",
-    "timestamp": "2026-08-22T23:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金鉱株が上昇トレンドを見せており、金価格も強気相場を継続中。市場の逆風要因があるなか、金への投資需要が堅調に推移している。"
-  },
-  {
-    "title": "本日（8月23日）の金価格：上昇傾向が継続。 - Vietnam.vn",
-    "timestamp": "2026-08-22T23:12:21+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月23日の金価格が上昇傾向を継続している。ベトナムメディアによる相場解説記事。具体的な要因や数値が不明。"
-  },
-  {
     "title": "8月23日朝の金価格更新:ブレイクスルー週後に上昇予測 - Laodong.vn",
     "timestamp": "2026-08-22T23:22:26+00:00",
     "importance": 2,
@@ -42,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムで指輪などの加工金製品の価格が地金価格を上回った。市場での価格水準を報道したもので、地政学的・供給側の重要情報ではない。"
-  },
-  {
-    "title": "金鉱株ラリーがやって来た 金価格も「最大の逆風」にあらがい上昇中 - Yahoo!ニュース",
-    "timestamp": "2026-08-22T23:12:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金鉱株が上昇トレンドを示している。金価格も米ドル強化などの逆風に抗して上昇。金融緩和期待や地政学リスクが支援要因。"
   },
   {
     "title": "今年初め、史上最高値を記録した金価格が再び反騰する姿を見せると、投資家の動きが忙しくなった。 金価格に追従して収益を出す金融商品に巨額を投入する一方、実物金を求める姿も現れている。21日、金融投資業界.. - 매일경제",
@@ -317,17 +284,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が再び急騰し、米大手金融機関が年末の価格目標を発表した。インフレ懸念や地政学リスク、金融不安が金需要を支えている。アナリスト予想が強気見通しで市場心理を反映している。"
-  },
-  {
-    "title": "金鉱株ラリーがやって来た 金価格も「最大の逆風」にあらがい上昇中 - Yahoo!ニュース",
-    "timestamp": "2026-08-22T23:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金鉱株が上昇ラリーを見せており、金価格も強気相場を続けている。ドル高やFRB金利高止まりという「最大の逆風」に抗しながらも上昇傾向を維持している。金鉱企業の採算性改善と金価格の堅調さが投資家心理を好転させている。"
   },
   {
     "title": "国内の金銀価格は人為的に抑制されているのか？ - Vietnam.vn",
@@ -2253,5 +2209,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの対立緩和への期待が市場に広がり、原油価格が売られた。ブレント原油が3.89%の下落。地政学的リスク軽減を材料に、供給懸念が後退。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4659ドル｜米長期金利が低下した影響で、買い優勢の模様(2026年8月26日) - OANDA証券",
+    "timestamp": "2026-08-25T23:05:07+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4659ドルまで上昇。米長期金利の低下が買いを誘った。既知の金利動向に基づいた市場反応の解説。"
+  },
+  {
+    "title": "金価格はもみ合い、多くの相反する要因の影響を受ける - Laodong.vn",
+    "timestamp": "2026-08-25T23:00:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は複数の相反する要因の影響を受けてもみ合い相場が続いている。特定の強気・弱気材料が圧倒的ではなく、市場では方向性の判断が難しい状況にある。"
+  },
+  {
+    "title": "今日の株式見通し＝底堅い、原油価格・米金利低下が支え イベント前の様子見も - ロイター",
+    "timestamp": "2026-08-25T23:05:59+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "株式市場が底堅く推移する見通しが示されている。原油価格の支援と米金利低下が相場を下支えしている。イベント前の様子見姿勢が市場全体に見られている。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平交渉再開の期待感が高まり、原油価格は2営業日続落（2026年8月26日） - OANDA証券",
+    "timestamp": "2026-08-25T23:10:06+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの和平交渉再開期待により、地政学リスクプレミアムが縮小。これまでの緊張の緩和見通しから原油需給の緩みが意識され、2営業日連続で価格が下押しされている。"
+  },
+  {
+    "title": "米原油先物が続落、ホルムズ再開期待で - ニューズウィーク日本版",
+    "timestamp": "2026-08-25T23:15:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の通行再開期待により米原油先物が続落。供給リスク低下で売圧が強まる。地政学的緊張の緩和が価格を押し下げ。"
+  },
+  {
+    "title": "２５日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-25T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "25日の主要国際商品市況に関する日次の相場報告記事。具体的な価格変動データなしに市況全般をまとめた定期的なマーケットレポート。個別商品の材料や市場動向の解説。"
   }
 ]
