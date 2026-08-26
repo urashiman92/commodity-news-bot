@@ -1,16 +1,5 @@
 [
   {
-    "title": "【今週の注目トピック(3)】話題のテーマ『金価格が回復傾向』など(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-23T11:37:01+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が回復傾向にあることについての週間トピック解説。既に進行中の価格回復をまとめた相場観察記事。具体的なファンダメンタル要因の詳細は記事本体で確認が必要。"
-  },
-  {
     "title": "金価格は本日8月23日、買い手が利益を上げたため、大幅に上昇して取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-08-23T12:45:43+00:00",
     "importance": 2,
@@ -2550,5 +2539,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米国の関税政策懸念が銅相場の上昇トレンドを歪めている。BHP等の大手鉱山企業にとって、需要減少リスクが相場上昇の恩恵を相殺する可能性。市場では既に関税懸念が織り込まれつつある。"
+  },
+  {
+    "title": "金価格が3カ月ぶり高値更新後に反落 ウォール街は年末4,900ドル到達を予想 - BigGo ファイナンス",
+    "timestamp": "2026-08-26T11:56:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3カ月ぶり高値を更新後に反落。ウォール街は年末4,900ドル到達を予想している。短期的には利益確定売りだが、強気な見通しが示されている。"
+  },
+  {
+    "title": "2026年8月26日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-26T09:52:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。特定の価格変動やイベントに基づく内容ではなく、市場情報の提供が主。"
+  },
+  {
+    "title": "円相場 いくぶん値上がり 原油先物価格の下落受け - NHKニュース",
+    "timestamp": "2026-08-26T12:26:51+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格の下落に伴い円が値上がりした。為替相場の通常の連動性を示すニュース。原油安は円高圧力として機能している。"
+  },
+  {
+    "title": "(NEXT FUNDS)NOMURA原油インデックス上場【1699】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-08-26T09:50:53+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NOMURA原油インデックス上場投信（1699）の株価情報ページ。ETFの価格・取引情報の提示であり、新規ニュース性なし。"
   }
 ]
