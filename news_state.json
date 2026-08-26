@@ -1,16 +1,5 @@
 [
   {
-    "title": "黒海輸送「途絶」懸念で穀物高騰 ロシアとウクライナ双方が港湾攻撃 - 日本経済新聞",
-    "timestamp": "2026-08-23T15:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナが黒海の港湾施設を相互攻撃し、穀物輸送途絶の懸念が急速に高まった。黒海は世界小麦輸出の約30%を経由する重要な輸送路であり、供給経路の遮断は価格高騰を招く。ウクライナからの穀物流出が実質的に停止する可能性がある。"
-  },
-  {
     "title": "本日2026年8月24日の金価格は、1オンスあたり4,600ドルを突破し、市場で新たな買いポジションが出現したことで支えられている。 - Vietnam.vn",
     "timestamp": "2026-08-23T17:14:09+00:00",
     "importance": 2,
@@ -2539,5 +2528,27 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "LME銅価格が史上最高値を更新した後も上昇が継続している。供給ひっ迫の状況が依然として続いており、価格を支えている。"
+  },
+  {
+    "title": "$金先物(2612) (GCmain.US)$ 4500まで押し目 - Moomoo",
+    "timestamp": "2026-08-26T13:22:57+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物が4500ドルまで押し目を形成したとの市場解説。テクニカル的な調整局面を指摘するコメンタリー。具体的なファンダメンタルズ要因の記載がない。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-08-26T13:51:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の現在価格（2610）をMoomooプラットフォームで表示するリンク記事。具体的なニュース内容や市場催触要因は記載されていない。"
   }
 ]
