@@ -1,60 +1,5 @@
 [
   {
-    "title": "金価格は本日8月23日、買い手が利益を上げたため、大幅に上昇して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-08-23T12:45:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月23日の金価格は買い手による利益確定で大幅上昇して取引終了。単日の相場振り返りコメンタリーで、具体的な材料や数値は記載されていない。"
-  },
-  {
-    "title": "世界の原油在庫は再び減少した。 - Vietnam.vn",
-    "timestamp": "2026-08-23T12:54:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界的な原油在庫が減少傾向を示した。在庫減少は供給逼迫を示唆し、原油価格の上昇要因となる。EIAなどの定期的な在庫統計の一部と考えられる。"
-  },
-  {
-    "title": "金価格が再び急騰、米大手各社が年末の価格目標を発表。 - Vietnam.vn",
-    "timestamp": "2026-08-23T13:18:01+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が再び急騰し、米大手金融機関が年末の価格目標を発表した。インフレ懸念や地政学リスク、金融不安が金需要を支えている。アナリスト予想が強気見通しで市場心理を反映している。"
-  },
-  {
-    "title": "国内の金銀価格は人為的に抑制されているのか？ - Vietnam.vn",
-    "timestamp": "2026-08-23T13:50:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金銀価格が人為的に抑制されているかについての論説記事。国内市場の価格形成メカニズムに関する問題提起だが、具体的な根拠や新規情報が不明。"
-  },
-  {
-    "title": "ホルムズ海峡における緊張の高まりは、原油埋蔵量の枯渇を招く恐れがある。 - Vietnam.vn",
-    "timestamp": "2026-08-23T13:44:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡での緊張激化により、中東からの原油供給途絶リスクが高まっている。世界の原油輸送の約3割がホルムズ海峡を経由するため、地政学的リスクが急速に高まっている。海峡封鎖などの供給ショックが発生すれば、原油価格の大幅上昇が見込まれる。"
-  },
-  {
     "title": "国内の金価格が国際価格と大きく異ならなくなった時。 - Vietnam.vn",
     "timestamp": "2026-08-23T14:19:42+00:00",
     "importance": 2,
@@ -75,17 +20,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "ロシア・ウクライナが黒海の港湾施設を相互攻撃し、穀物輸送途絶の懸念が急速に高まった。黒海は世界小麦輸出の約30%を経由する重要な輸送路であり、供給経路の遮断は価格高騰を招く。ウクライナからの穀物流出が実質的に停止する可能性がある。"
-  },
-  {
-    "title": "8月23日の金価格：金価格は1オンスあたり4,600ドル以上を維持、専門家はさらなる上昇を予測？ - Vietnam.vn",
-    "timestamp": "2026-08-23T13:48:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,600ドル以上を維持している。専門家がさらなる上昇を予測している。既に高値圏での現状報告と観測論評。"
   },
   {
     "title": "本日2026年8月24日の金価格は、1オンスあたり4,600ドルを突破し、市場で新たな買いポジションが出現したことで支えられている。 - Vietnam.vn",
@@ -2583,5 +2517,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NOMURA原油インデックス上場投信（1699）の株価情報ページ。ETFの価格・取引情報の提示であり、新規ニュース性なし。"
+  },
+  {
+    "title": "黒海港湾の混乱でCBOT小麦先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-26T13:27:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海港湾の混乱により、ウクライナからの小麦輸出が制限される懸念が生じている。供給逼迫への警戒からCBOT小麦先物が買われた。黒海地域は世界の主要穀物輸出地帯であり、供給ショックのリスクが高い。"
+  },
+  {
+    "title": "トウモロコシ先物、2023年7月以来の最高値を更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-26T13:33:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物が2023年7月以来の最高値を更新した。価格上昇トレンドが継続している。供給懸念や需要見通しが支援要因と推測される。"
+  },
+  {
+    "title": "LME銅価格、最高値更新後も上昇継続－供給ひっ迫なお続く (Bloomberg) - Yahoo!ニュース",
+    "timestamp": "2026-08-26T05:24:27+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅価格が史上最高値を更新した後も上昇が継続している。供給ひっ迫の状況が依然として続いており、価格を支えている。"
   }
 ]
