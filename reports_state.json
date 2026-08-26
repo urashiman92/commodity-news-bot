@@ -374,17 +374,6 @@
     "summary": "トウモロコシの相場上昇が米国農家の収益性に対する懸念をもたらしている。2026年の利益率が歩留まり不安によって脅かされる可能性があり、WASDE関連の作柄情報が注視される。価格上昇は好材料だが、単収の低下リスクが相殺する形で市場心理は錯綜している。"
   },
   {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
-    "timestamp": "2026-08-23T22:42:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEが2024年にOPEC脱退後、原油生産量を日量500万バレルを超える水準まで増産する計画。IEAがこの見通しを報告。OPECの減産合意体制が弱まり、供給増加の可能性が浮上している。"
-  },
-  {
     "title": "Russia's Afipsky oil refinery on fire after drone attack, two dead, governor says - Reuters",
     "timestamp": "2026-08-25T05:26:00+00:00",
     "importance": 4,
@@ -1054,5 +1043,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "湾岸地域の株式市場が原油価格の下落を受けて軟調に推移している。パキスタン仲介によるイラン関連の協議が注視されている。原油相場の弱含みが地域資産価値に圧力をかけている局面。"
+  },
+  {
+    "title": "US EIA Crude Oil Stocks Change (Aug/21) 0.095M vs. Exp. 0.6M (Prev. 4.405M) - Newsquawk",
+    "timestamp": "2026-08-26T14:30:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "2021年8月のEIA原油在庫統計が予想を大幅に下回った。在庫増加量は0.095M bblで、市場予想0.6M bblを67%下回った。前週の4.405M bblからの鈍化が明らかで、需要回復と供給調整が同時に進行中を示唆する。"
   }
 ]
