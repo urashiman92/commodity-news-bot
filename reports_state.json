@@ -812,5 +812,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナによるロシア油田・インフラへの攻撃により、ロシアからの石油供給が減少。インド精製業者が代替供給先の探索を拡大している。地政学的リスクが原油供給に直結し、価格上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "SHFE/LME price ratio continues to weaken, demand is poor, and the morning market is quiet [SMM Yangshan spot copper] - Shanghai Metals Market",
+    "timestamp": "2026-08-25T09:29:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "上海先物取引所（SHFE）とロンドン金属取引所（LME）の銅価格比率が継続して弱化している。需要が低迷し、朝場の取引は閑散としている状況。価格の国際間裁定機会の縮小を示唆している。"
+  },
+  {
+    "title": "SHFE/LME price ratio continues to weaken, demand is poor, and the morning market is quiet [SMM Yangshan spot copper] - Shanghai Metals Market",
+    "timestamp": "2026-08-25T09:29:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "上海先物取引所（SHFE）とロンドン金属取引所（LME）の銅価格比率が継続して弱化している。需要が低迷し、朝場の取引は閑散としている状況。価格の国際間裁定機会の縮小を示唆している。"
+  },
+  {
+    "title": "Saudi Oil Logistics Roiled Again by Houthis’ Red Sea Threat - Bloomberg",
+    "timestamp": "2026-08-23T11:30:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派による紅海での脅威がサウジアラビアの石油物流に再び混乱をもたらしている。紅海航路の不安定化により、中東からの原油輸送ルートが阻害される可能性が高まり、供給途絶リスクが顕在化。地政学的リスクプレミアムが原油価格に織り込まれやすい状況。"
   }
 ]
