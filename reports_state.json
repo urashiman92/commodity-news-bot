@@ -11,28 +11,6 @@
     "summary": "フーシ派による紅海での船舶攻撃脅威がサウジアラビアの石油物流に再び混乱をもたらしている。紅海はスエズ運河経由で世界原油供給の約12-15%が通過する重要な海上輸送路であり、攻撃リスクの高まりは供給チェーン寸断と原油価格上昇圧力を招く。地政学的リスク再燃により市場の不確実性が増加。"
   },
   {
-    "title": "Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand - Reuters",
-    "timestamp": "2026-08-23T10:07:43+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国石油化工（Sinopec）の上半期利益が前年比19.3%増加し、市場予想を上回った。イラン情勢緊迫化と需要減少という逆風にもかかわらず、精製マージン改善と原油価格安定が利益を支えた。中国エネルギー企業の堅調さを示唆する重要な指標。"
-  },
-  {
-    "title": "Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand - Reuters",
-    "timestamp": "2026-08-23T10:07:43+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国石油化工（Sinopec）の上半期利益が前年比19.3%増加し、市場予想を上回った。イラン情勢緊迫化と需要減少という逆風にもかかわらず、精製マージン改善と原油価格安定が利益を支えた。中国エネルギー企業の堅調さを示唆する重要な指標。"
-  },
-  {
     "title": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports - Reuters",
     "timestamp": "2026-08-24T00:11:00+00:00",
     "importance": 4,
@@ -889,5 +867,49 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "非貴金属鉱業株（特に銅関連）に対する強気見通しを提示するコメンタリー。エネルギー転換やインフラ投資の長期的な需要増加を背景に、鉱業セクターの投資魅力が高まっている状況を分析。具体的な数値や根拠は記事へのアクセスが必要。"
+  },
+  {
+    "title": "UAE Leaves OPEC! Crude Oil Prices Spike – Crisis Or Opportunity For India? | OPEC Latest News Paul Reed (HOSL3XWxVA) - Mshale",
+    "timestamp": "2026-08-26T05:17:18+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから離脱を表明し、原油市場に大きな衝撃を与えた。OPEC結束の弱体化を意味し、供給管理体制の不確実性が高まった。インドを含む石油輸入国にとっては価格変動リスクが増大する一方、供給面での緩和要因となる可能性もある。"
+  },
+  {
+    "title": "UAE Leaves OPEC! Crude Oil Prices Spike – Crisis Or Opportunity For India? | OPEC Latest News Paul Reed (HOSL3XWxVA) - Mshale",
+    "timestamp": "2026-08-26T05:17:18+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECから離脱を表明し、原油市場に大きな衝撃を与えた。OPEC結束の弱体化を意味し、供給管理体制の不確実性が高まった。インドを含む石油輸入国にとっては価格変動リスクが増大する一方、供給面での緩和要因となる可能性もある。"
+  },
+  {
+    "title": "Copper Climbs From Record-High Close With Supply Still Tight - Bloomberg.com",
+    "timestamp": "2026-08-26T08:11:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅が過去最高値から上昇を継続しており、供給逼迫が継続している状況が報告されている。需給バランスの不均衡が価格支持要因となっており、記録的な高値水準での推移が続いている。グローバルな供給制約が銅相場の強気展開を支えている。"
+  },
+  {
+    "title": "Copper Climbs From Record-High Close With Supply Still Tight - Bloomberg.com",
+    "timestamp": "2026-08-26T08:11:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "銅が過去最高値から上昇を継続しており、供給逼迫が継続している状況が報告されている。需給バランスの不均衡が価格支持要因となっており、記録的な高値水準での推移が続いている。グローバルな供給制約が銅相場の強気展開を支えている。"
   }
 ]
