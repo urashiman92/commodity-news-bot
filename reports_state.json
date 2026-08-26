@@ -889,5 +889,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "銅が過去最高値から上昇を継続しており、供給逼迫が継続している状況が報告されている。需給バランスの不均衡が価格支持要因となっており、記録的な高値水準での推移が続いている。グローバルな供給制約が銅相場の強気展開を支えている。"
+  },
+  {
+    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Yahoo Finance",
+    "timestamp": "2026-08-26T14:37:41+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計で米国原油在庫がほぼ横ばいであった一方、ガソリン在庫は減少した。原油需給は小動き続く中でガソリン需要が相対的に堅調であることを示唆している。在庫動向は定例統計の範囲内の変動と見られる。"
+  },
+  {
+    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Yahoo Finance",
+    "timestamp": "2026-08-26T14:37:41+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計で米国原油在庫がほぼ横ばいであった一方、ガソリン在庫は減少した。原油需給は小動き続く中でガソリン需要が相対的に堅調であることを示唆している。在庫動向は定例統計の範囲内の変動と見られる。"
+  },
+  {
+    "title": "U.S. Hay Supply Forecasted to Drop 7.2% in 2026 Despite Strong Carryover Stocks - drovers.com",
+    "timestamp": "2026-08-26T13:35:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年の米国乾草供給量は前年比7.2%減少と予想されている。強固な繰越在庫があるため市場への即座の圧迫は限定的だが、供給減少トレンドは飼料コスト上昇を通じて畜産業界全体に波及する可能性がある。干ばつ条件や生産面積縮小が主因と考えられる。"
+  },
+  {
+    "title": "U.S. Hay Supply Forecasted to Drop 7.2% in 2026 Despite Strong Carryover Stocks - drovers.com",
+    "timestamp": "2026-08-26T13:35:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年の米国乾草供給量は前年比7.2%減少と予想されている。強固な繰越在庫があるため市場への即座の圧迫は限定的だが、供給減少トレンドは飼料コスト上昇を通じて畜産業界全体に波及する可能性がある。干ばつ条件や生産面積縮小が主因と考えられる。"
+  },
+  {
+    "title": "U.S. Hay Supply Forecasted to Drop 7.2% in 2026 Despite Strong Carryover Stocks - drovers.com",
+    "timestamp": "2026-08-26T13:35:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年の米国乾草供給量は前年比7.2%減少と予想されている。強固な繰越在庫があるため市場への即座の圧迫は限定的だが、供給減少トレンドは飼料コスト上昇を通じて畜産業界全体に波及する可能性がある。干ばつ条件や生産面積縮小が主因と考えられる。"
+  },
+  {
+    "title": "As Nigeria's Dangote refinery nears record IPO, investors focus on oil supply costs - Reuters",
+    "timestamp": "2026-08-26T06:01:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ナイジェリアのダンゴート製油所がIPO（上場）を控え、投資家の関心が原油調達コストに集中している。同製油所はアフリカ最大級の製油能力を持ち、IPOは過去最大規模となる見通し。投資家は収益性を左右する原油供給コストと長期契約条件を重視している。"
+  },
+  {
+    "title": "As Nigeria's Dangote refinery nears record IPO, investors focus on oil supply costs - Reuters",
+    "timestamp": "2026-08-26T06:01:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ナイジェリアのダンゴート製油所がIPO（上場）を控え、投資家の関心が原油調達コストに集中している。同製油所はアフリカ最大級の製油能力を持ち、IPOは過去最大規模となる見通し。投資家は収益性を左右する原油供給コストと長期契約条件を重視している。"
+  },
+  {
+    "title": "Ukraine Says It Hit Major Oil Refinery in Russia’s Volga Region - Bloomberg",
+    "timestamp": "2026-08-26T10:55:39+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア・ボルガ地域の主要石油精製所を攻撃したと発表。ロシアの石油精製能力に対する直接的な脅威であり、欧州向けエネルギー供給の混乱と原油供給逼迫が懸念される。地政学的リスク再燃により市場は上昇圧力に直面。"
   }
 ]
