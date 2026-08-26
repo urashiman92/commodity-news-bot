@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（8月23日正午）の金価格：依然として高水準を維持。 - Vietnam.vn",
-    "timestamp": "2026-08-23T05:49:09+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムメディアが8月23日正午時点の金価格について、依然として高水準を維持していると報じた。具体的な価格動向や新規材料についての詳細は記事概要からは不明。"
-  },
-  {
     "title": "【初心者向け解説】身近な「金」とニュースの「金価格」って？ その仕組みを解説 - 週刊大阪日日新聞",
     "timestamp": "2026-08-23T06:17:13+00:00",
     "importance": 1,
@@ -2451,5 +2440,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格高騰に伴い、エアコン室外機の盗難被害が4年で約13倍に急増。銅の高スクラップ価値が犯罪インセンティブを増加させている。社会問題化する一方、銅需要と価格の堅調さを示唆している。"
+  },
+  {
+    "title": "アサカ理研の株価急伸 金価格上昇で、レアアース期待も - 日本経済新聞",
+    "timestamp": "2026-08-26T05:37:27+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格上昇に連動してアサカ理研の株価が上昇。金関連銘柄としての反応と、レアアース事業への期待が複合的に影響。既知の金価格上昇トレンドの延長線上での銘柄別の動き。"
+  },
+  {
+    "title": "金価格続伸｜池田正一 - mbp-japan.com",
+    "timestamp": "2026-08-26T01:43:46+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が続伸している状況についての解説記事。アナリスト・池田正一氏による金相場の振り返りと観測。具体的な上昇要因や価格水準については記事本文が不明。"
+  },
+  {
+    "title": "LME銅価格、最高値更新後も上昇継続－供給ひっ迫なお続く - Bloomberg",
+    "timestamp": "2026-08-26T05:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅価格が最高値を更新した後も上昇継続している。供給ひっ迫の状況が依然として継続していることが背景。構造的な供給不足が価格を支えている。"
+  },
+  {
+    "title": "LME銅価格、最高値更新後も上昇継続－供給ひっ迫なお続く(Bloomberg) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-26T05:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅価格が最高値を更新後も上昇を継続している。供給ひっ迫の状況が引き続き市場を支えている。既に織り込まれたトレンドの続報。"
   }
 ]
