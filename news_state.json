@@ -1,38 +1,5 @@
 [
   {
-    "title": "スエズ運河400%貨物増で供給懸念後退、原油相場下押しか - BeInCrypto",
-    "timestamp": "2026-08-23T18:39:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "スエズ運河の貨物通行量が400%増加し、紅海での供給途絶懸念が緩和される見通し。供給リスク低下により原油相場への上昇圧力が減少する可能性がある。"
-  },
-  {
-    "title": "米イラン緊張で世界の原油価格、週間で6％超上昇 - BigGo ファイナンス",
-    "timestamp": "2026-08-23T18:20:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イランの緊張関係が高まり、地政学リスクプレミアムが顕在化。週間で原油価格が6%超上昇し、供給途絶リスクが意識されている。コモディティ投資家にとってポジション再評価の重要な局面。"
-  },
-  {
-    "title": "ホルムズ海峡は依然として封鎖されており、世界の石油在庫は減少している。 - Vietnam.vn",
-    "timestamp": "2026-08-23T18:36:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の封鎖が継続中であり、世界の石油在庫が減少している。主要な海上輸送経路の混乱により供給逼迫圧力が存在。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は反発し4602ドル｜米国の国債買い戻しや利上げ観測後退が影響している模様(2026年8月24日) - OANDA証券",
     "timestamp": "2026-08-23T23:07:44+00:00",
     "importance": 3,
@@ -2517,5 +2484,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物の現在価格（2610）をMoomooプラットフォームで表示するリンク記事。具体的なニュース内容や市場催触要因は記載されていない。"
+  },
+  {
+    "title": "欧州猛暑と黒海リスク、農産物生産を直撃 小麦先物は3年ぶり高値圏 - 日本経済新聞",
+    "timestamp": "2026-08-26T20:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "欧州の猛暑と黒海地政学リスクが重なり、小麦などの農産物生産が直撃されている。小麦先物が3年ぶりの高値圏に上昇し、供給懸念が顕在化している。"
+  },
+  {
+    "title": "トウモロコシと小麦先物、水曜日に数年ぶりの高値を記録 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-26T18:33:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "トウモロコシと小麦先物が数年ぶりの高値を水曜日に記録した。供給不安やウクライナ情勢など複合要因が背景。既に進行中の上昇トレンドの続報である。"
+  },
+  {
+    "title": "金価格上昇、ETFに集まるマネー 中長期の投資家がドルから退避 - 日本経済新聞",
+    "timestamp": "2026-08-26T20:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が上昇し、ETFへの資金流入が増加している。中長期投資家がドル資産から退避する動きが背景。インフレ懸念や金利低下期待などの構造的要因が継続。"
+  },
+  {
+    "title": "金価格は本日8月26日、全面安で取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-26T18:22:04+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月26日の金相場は全面安で終了。ベトナムメディアの日次相場レポート。具体的な下落率や材料不明のため詳細分析は困難。"
+  },
+  {
+    "title": "NY市場、ダウ103ドル安に転落 原油先物は続落で81ドル台 - BigGo ファイナンス",
+    "timestamp": "2026-08-26T16:25:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株式市場がダウ平均103ドル安で推移する中、原油先物も続落して81ドル台での取引。株式市場の弱気ムードが商品セクター全体に波及している状況。"
+  },
+  {
+    "title": "イランとオマーンがホルムズ海峡の再開について交渉を続ける中、原油価格は下落を続けた。 - Vietnam.vn",
+    "timestamp": "2026-08-26T16:40:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランとオマーンがホルムズ海峡再開について交渉中であり、供給懸念の緩和が価格下落を招いている。地政学的リスク低減への期待が相場を圧迫。"
+  },
+  {
+    "title": "銅価格1万4000ドル台回復で「過去最高値」に迫る、AI需要と供給不安が支え中東情勢と米金利が揺さぶる相場の行方 - ダイヤモンド・オンライン",
+    "timestamp": "2026-08-26T19:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が1万4000ドル台で過去最高値に迫っている。AI需要と供給不安が相場を支える一方、中東情勢と米金利が変動要因として作用している。"
   }
 ]
