@@ -77,28 +77,6 @@
     "summary": "WASDE関連のファーム・プログレス記事で、トウモロコシ・大豆・小麦のサプライチェーン懸念が価格上昇トリガーとなる可能性を指摘。供給面での逼迫が顕在化すれば、複数穀物への同時上値圧力が生じるシナリオが提示されている。具体的な在庫数値や作付データは記事見出しからは不明確。"
   },
   {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-23T19:06:07+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから脱退を表明し、組織の結束力と市場支配力が大幅に低下。OPEC+の減産体制が弱体化し、価格戦争のリスクが急速に高まっている。構成国の離脱はOPECの歴史上でも極めて異例であり、原油価格の下押し圧力が強まる可能性が高い。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-23T19:06:07+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECから脱退を表明し、組織の結束力と市場支配力が大幅に低下。OPEC+の減産体制が弱体化し、価格戦争のリスクが急速に高まっている。構成国の離脱はOPECの歴史上でも極めて異例であり、原油価格の下押し圧力が強まる可能性が高い。"
-  },
-  {
     "title": "India Lifts Wheat Export Ban in Boost to War Hit Global Supply - Bloomberg",
     "timestamp": "2026-08-24T09:08:09+00:00",
     "importance": 4,
@@ -977,5 +955,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア・ボルガ地域の主要石油精製所を攻撃したと発表。ロシアの石油精製能力に対する直接的な脅威であり、欧州向けエネルギー供給の混乱と原油供給逼迫が懸念される。地政学的リスク再燃により市場は上昇圧力に直面。"
+  },
+  {
+    "title": "United States and Canadian Hogs",
+    "timestamp": "2026-08-26T19:18:58.844935+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "米国およびカナダの豚在庫が小幅増加したことが報告された。豚肉生産の供給サイドにはポジティブだが、在庫増加幅は微増に留まっており、市場への大きなインパクトは限定的。飼料穀物（トウモロコシ・大豆粕）への間接的な需要圧力はわずか。"
+  },
+  {
+    "title": "United States and Canadian Hogs",
+    "timestamp": "2026-08-26T19:18:58.844935+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "米国およびカナダの豚在庫が小幅増加したことが報告された。豚肉生産の供給サイドにはポジティブだが、在庫増加幅は微増に留まっており、市場への大きなインパクトは限定的。飼料穀物（トウモロコシ・大豆粕）への間接的な需要圧力はわずか。"
+  },
+  {
+    "title": "United States and Canadian Hogs",
+    "timestamp": "2026-08-26T19:18:58.844935+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "米国およびカナダの豚在庫が小幅増加したことが報告された。豚肉生産の供給サイドにはポジティブだが、在庫増加幅は微増に留まっており、市場への大きなインパクトは限定的。飼料穀物（トウモロコシ・大豆粕）への間接的な需要圧力はわずか。"
+  },
+  {
+    "title": "Peanut Stocks and Processing",
+    "timestamp": "2026-08-26T19:19:07.054230+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASサスが発表した落花生在庫レポートで、殻付き食用グレードの季節累計処理量が前年同期比2％減少。商業貯蔵における落花生総在庫は32億ポンドと報告された。処理量の鈍化は需要の弱さを示唆し、在庫水準も堅調に推移。"
+  },
+  {
+    "title": "United States and Canadian Cattle",
+    "timestamp": "2026-08-26T19:19:11.188276+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDAとカナダの公式統計により、米国とカナダの牛群在庫が前年同期比で1%増加したことが確認された。畜牛供給の緩やかな回復傾向を示しており、牛肉供給の増加圧力につながる可能性がある。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Status Report August 26, 2026: Crude Stocks Up, Product Draws - News and Statistics - IndexBox",
+    "timestamp": "2026-08-26T17:30:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間石油在庫報告（2026年8月26日）によると、原油在庫が増加した一方で、ガソリンなどの石油製品在庫は減少した。在庫の増減方向が混合的で、供給過剰感と需要堅調の両信号が混在している状況を示唆している。"
+  },
+  {
+    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-08-26T14:37:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAが発表した週間在庫統計によると、原油在庫がほぼ変動なし（微動）である一方、ガソリン在庫は減少した。原油供給の安定性を示すが、需要側のガソリン在庫減少が相殺し、全体的には市場への大きなインパクトは限定的と見られる。"
+  },
+  {
+    "title": "Tariff Fears Spark Record Copper Stockpile Surge - Investing News Network",
+    "timestamp": "2026-08-26T18:15:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "米国の関税懸念を背景に、銅の取引所在庫が過去最高水準に急増した。関税導入への先制的な買い控えと在庫積み増しにより、需要後退の可能性が高まっている。記録的な在庫増加は銅価格に下押し圧力をもたらす懸念材料。"
+  },
+  {
+    "title": "Gulf stocks muted as oil declines; Pakistan-mediated Iran talks in focus - Reuters",
+    "timestamp": "2026-08-26T08:16:59+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "湾岸地域の株式市場が原油価格の下落を受けて軟調に推移している。パキスタン仲介によるイラン関連の協議が注視されている。原油相場の弱含みが地域資産価値に圧力をかけている局面。"
   }
 ]
