@@ -187,17 +187,6 @@
     "summary": "金価格が4602ドルまで反発。米国の国債買い戻しと利上げ観測の後退が支援材料となった。ドル弱化と低金利環境が金の相対的な魅力を高めている。"
   },
   {
-    "title": "原油価格の高騰により、この夏、ボトル入り飲料水の価格が2～4％上昇する見込みだ。 - ENTREVUE.FR",
-    "timestamp": "2026-08-23T09:44:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の高騰がプラスチック製容器のコスト増につながり、ボトル入り飲料水の価格が2～4％上昇する見込み。既知の原油高による波及効果の観測レポート。"
-  },
-  {
     "title": "2026年8月24日の金価格：世界的な価格高騰、SJCの金価格はどこまで上昇するのか？ - Vietnam.vn",
     "timestamp": "2026-08-23T23:18:18+00:00",
     "importance": 2,
@@ -2506,5 +2495,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油価格の下落が日本株（東証）の上昇要因となった。原油安は企業の輸送コスト低下やインフレ緩和につながり、株式市場にポジティブに評価された。"
+  },
+  {
+    "title": "本日（2026年8月26日）の金価格：トレンドの反転、SJCの金地金と金指輪が同時に下落。 - Vietnam.vn",
+    "timestamp": "2026-08-26T09:31:27+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格がトレンド反転し、SJC金地金と金指輪が同時に下落した。地域限定のローカルニュースであり、グローバル金市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "東証続伸、終値４０５円高 米原油価格下落が追い風 | 全国のニュース - 福井新聞社",
+    "timestamp": "2026-08-26T06:42:52+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油価格の下落を受けて東京株式市場が続伸し、日経平均が405円高で終場。原油安が追い風となり株式市場がプラス局面を維持している状況の相場解説。"
+  },
+  {
+    "title": "COMEX銅が1.8%上昇、1万5000ドルの大台に接近：上昇は続くか？ - TradingKey",
+    "timestamp": "2026-08-25T17:32:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "COMEX銅が1.8%上昇し、15,000ドル水準に接近。アナリストによる相場解説記事で、今後の上昇持続可能性を問う内容。具体的な新規供給障害やファンダメンタルズ変化の報道ではなく、既存トレンドの観測記事。"
   }
 ]
