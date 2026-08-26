@@ -11,17 +11,6 @@
     "summary": "フーシ派による紅海での船舶攻撃脅威がサウジアラビアの石油物流に再び混乱をもたらしている。紅海はスエズ運河経由で世界原油供給の約12-15%が通過する重要な海上輸送路であり、攻撃リスクの高まりは供給チェーン寸断と原油価格上昇圧力を招く。地政学的リスク再燃により市場の不確実性が増加。"
   },
   {
-    "title": "2026 Apple Crop Down 7% as Forecast Reporting Evolves - The Packer",
-    "timestamp": "2026-08-23T01:02:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年のりんご作付面積が前年比7%減少することが報告された。米国農務省の作付報告方法の進化により、より正確な統計が公表されている。りんごなどの果実類の生産減は食料インフレ圧力を部分的に緩和する一方、供給逼迫懸念も生じる可能性がある。"
-  },
-  {
     "title": "Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand - Reuters",
     "timestamp": "2026-08-23T10:07:43+00:00",
     "importance": 3,
@@ -691,5 +680,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が上昇基調となる一方、原油価格は引き続き下落傾向を示している。低金利環境がリスク資産を支援する中、エネルギー価格は需要懸念やドル高圧力の影響を受けている。アジア地域のコモディティ市場では混合的な動きが予想される。"
+  },
+  {
+    "title": "Trading Day: Oil, yields slide - Reuters",
+    "timestamp": "2026-08-25T21:47:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油とイールド（米国債利回り）が同時に下落する相場環境が形成されている。原油価格の低下は需要懸念やドル強化圧力を示唆し、イールド低下は景気後退懸念やFRBの金融引き締め終了期待を反映している。この環境下ではリスク資産全般に対する圧力が強まる可能性がある。"
+  },
+  {
+    "title": "Trading Day: Oil, yields slide - Reuters",
+    "timestamp": "2026-08-25T21:47:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油とイールド（米国債利回り）が同時に下落する相場環境が形成されている。原油価格の低下は需要懸念やドル強化圧力を示唆し、イールド低下は景気後退懸念やFRBの金融引き締め終了期待を反映している。この環境下ではリスク資産全般に対する圧力が強まる可能性がある。"
   }
 ]
