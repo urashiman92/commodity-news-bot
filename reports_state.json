@@ -1,126 +1,5 @@
 [
   {
-    "title": "Chinese refiner Sinopec to boost oil imports from outside the Gulf - Reuters",
-    "timestamp": "2026-08-24T10:43:43+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国の大型石油精製企業シノペックが湾岸地域以外からの原油輸入を増加させる方針を発表。サウジアラビア等からの依存度低減と調達源の多角化を進める。供給ソース変化による地政学的リスク管理の動きであり、ただし全体的な輸入量の大幅変更は示唆されていない。"
-  },
-  {
-    "title": "Russia's Perm oil refinery halted operations after August 21 drone attack, sources say - Reuters",
-    "timestamp": "2026-08-24T14:30:30+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアのペルム製油所が8月21日のドローン攻撃により操業停止。同製油所は日産約120,000バレルの処理能力を有する重要な製油施設。ロシアの石油精製能力の低下は欧州市場のエネルギー逼迫を招き、原油価格上昇圧力となる。地政学的リスク再燃を示唆。"
-  },
-  {
-    "title": "Yemen’s Houthi Rebels Attack Saudi Oil Supertanker in Red Sea - Bloomberg",
-    "timestamp": "2026-08-24T15:57:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イエメンの親イラン勢力フーシ派がサウジアラビアのタンカーを紅海で攻撃。紅海はスエズ運河経由で世界原油の約12-15%が通過する重要なシーレーン。地政学リスクの急速な高まりにより、原油供給途絶の懸念が市場に織り込まれる可能性が高い。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 - Reuters",
-    "timestamp": "2026-08-24T15:29:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が370万バレル減少し、1982年以来の最低水準に低下した。SPRはエネルギー安全保障の重要な指標であり、この歴史的な低水準は原油需給のひっ迫を示唆している。供給余力の低下は価格上昇圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "Chickens and Eggs",
-    "timestamp": "2026-08-24T19:46:10.052958+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが7月の卵生産統計を発表。卵生産が前年同月比4%増加した一方、採卵用ひな孵化は2%減少、ブロイラー用ひなは1%増加。供給面での回復基調を示しつつも、採卵鶏群の動きに弱さが見られ、市場への影響は限定的。"
-  },
-  {
-    "title": "Chickens and Eggs",
-    "timestamp": "2026-08-24T19:46:10.052958+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが7月の卵生産統計を発表。卵生産が前年同月比4%増加した一方、採卵用ひな孵化は2%減少、ブロイラー用ひなは1%増加。供給面での回復基調を示しつつも、採卵鶏群の動きに弱さが見られ、市場への影響は限定的。"
-  },
-  {
-    "title": "Cold Storage",
-    "timestamp": "2026-08-24T19:46:14.558404+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "2026年7月31日時点の冷蔵倉庫内の天然チーズ在庫は、前月比ではやや減少したものの、前年同月比では微増となった。季節的な在庫変動の範囲内であり、市場に大きなインパクトはない状況。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
-    "timestamp": "2026-08-24T17:45:33+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
-    "timestamp": "2026-08-24T17:45:33+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
-    "timestamp": "2026-08-24T17:45:33+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, August 24, 2026 - RFD-TV",
-    "timestamp": "2026-08-24T17:45:33+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "8月24日（2026年）のRFD-TV週間穀物生産進捗レポート。米国主要穀物（トウモロコシ、小麦、大豆）および畜産の進捗状況を定期報告。具体的な数値は提供されたRSSタイトルのみからは抽出不可。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-08-24T20:49:46.867887+00:00",
     "importance": 2,
@@ -229,28 +108,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "米国の原油およびガソリン在庫が先週減少したことがEIAから発表された。これは需要の強さが供給を上回っていることを示唆している。在庫減少は一般的にコモディティ価格の上値支持材料となり、特に原油市場でポジティブに解釈される傾向がある。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-08-24T11:26:15+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要減速の継続的な下方修正は、長期的な原油価格の上昇圧力を減弱させるシグナル。需要減速への懸念が高まる中、供給サイドの圧力も相まって原油相場に重しとなる可能性が高い。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-08-24T11:26:15+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要減速の継続的な下方修正は、長期的な原油価格の上昇圧力を減弱させるシグナル。需要減速への懸念が高まる中、供給サイドの圧力も相まって原油相場に重しとなる可能性が高い。"
   },
   {
     "title": "European Stocks Advance as Oil Prices Drop; Siemens Energy Up - Bloomberg",
@@ -836,39 +693,6 @@
     "summary": "2021年8月のEIA原油在庫統計が予想を大幅に下回った。在庫増加量は0.095M bblで、市場予想0.6M bblを67%下回った。前週の4.405M bblからの鈍化が明らかで、需要回復と供給調整が同時に進行中を示唆する。"
   },
   {
-    "title": "Arable Market Report – 24 August 2026 - AHDB",
-    "timestamp": "2026-08-24T14:35:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "AHDB発行の2026年8月24日付穀物市場レポート。主要穀物（小麦・大麦・トウモロコシ・大豆）の市場動向に関する定期更新。具体的な数値やサプライズとなる統計が記事タイトルのみからは判別不可。"
-  },
-  {
-    "title": "Arable Market Report – 24 August 2026 - AHDB",
-    "timestamp": "2026-08-24T14:35:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "AHDB発行の2026年8月24日付穀物市場レポート。主要穀物（小麦・大麦・トウモロコシ・大豆）の市場動向に関する定期更新。具体的な数値やサプライズとなる統計が記事タイトルのみからは判別不可。"
-  },
-  {
-    "title": "Arable Market Report – 24 August 2026 - AHDB",
-    "timestamp": "2026-08-24T14:35:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "AHDB発行の2026年8月24日付穀物市場レポート。主要穀物（小麦・大麦・トウモロコシ・大豆）の市場動向に関する定期更新。具体的な数値やサプライズとなる統計が記事タイトルのみからは判別不可。"
-  },
-  {
     "title": "EIA reports a small rise in US crude oil stocks - engine.online",
     "timestamp": "2026-08-27T07:05:52+00:00",
     "importance": 1,
@@ -889,28 +713,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "表層から244メートル区間で銅換算品位0.42%、全体831メートルで0.27%という探査結果が報告された。銅鉱床の品質と規模を示唆する数値で、プロジェクト開発の進展を示している。具体的な埋蔵量推定値や経済性評価は記事から不明。"
-  },
-  {
-    "title": "What is OPEC? The oil cartel's structure and global role explained - qz.com",
-    "timestamp": "2026-08-24T17:48:52+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの構造と世界的役割に関する解説記事。カルテル組織としてのOPECの仕組みと国際石油市場への影響力について説明したコンテンツ。新たな政策発表や統計データではなく、既存知見の整理・説明記事である。"
-  },
-  {
-    "title": "What is OPEC? The oil cartel's structure and global role explained - qz.com",
-    "timestamp": "2026-08-24T17:48:52+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECの構造と世界的役割に関する解説記事。カルテル組織としてのOPECの仕組みと国際石油市場への影響力について説明したコンテンツ。新たな政策発表や統計データではなく、既存知見の整理・説明記事である。"
   },
   {
     "title": "OPEC+ loses oil market sway in Iran war as China gains influence - 927thevan.com",
@@ -988,5 +790,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "原油相場は小幅安となっており、市場参加者はホルムズ海峡を巡る交渉動向とロシアのリスク要因を見極めている段階。地政学的な不確実性と供給要因のバランスが価格形成を左右している状況。"
+  },
+  {
+    "title": "Citrus Fruits",
+    "timestamp": "2026-08-27T20:32:54.626816+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの柑橘類生産統計で、利用可能生産量が前年比6%増加し、生産額は11%の増加となった。供給量の増加は市場に供給圧力をもたらす一方、価格上昇による売上高の増加が観察されており、需給バランスの変化を示唆している。"
+  },
+  {
+    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
+    "timestamp": "2026-08-27T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
+  },
+  {
+    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
+    "timestamp": "2026-08-27T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
+  },
+  {
+    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
+    "timestamp": "2026-08-27T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
+  },
+  {
+    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
+    "timestamp": "2026-08-27T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
+  },
+  {
+    "title": "Some areas are seeing disappointing crop yield estimates - Agweek",
+    "timestamp": "2026-08-27T10:30:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国の一部地域で穀物の収量見積もりが期待を下回っている。Agweekのレポートが複数地域での失望的な収量予測を報道しており、特に小麦・トウモロコシ・大豆に悪影響の兆候。供給懸念が高まる局面。"
+  },
+  {
+    "title": "Some areas are seeing disappointing crop yield estimates - Agweek",
+    "timestamp": "2026-08-27T10:30:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国の一部地域で穀物の収量見積もりが期待を下回っている。Agweekのレポートが複数地域での失望的な収量予測を報道しており、特に小麦・トウモロコシ・大豆に悪影響の兆候。供給懸念が高まる局面。"
+  },
+  {
+    "title": "Some areas are seeing disappointing crop yield estimates - Agweek",
+    "timestamp": "2026-08-27T10:30:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国の一部地域で穀物の収量見積もりが期待を下回っている。Agweekのレポートが複数地域での失望的な収量予測を報道しており、特に小麦・トウモロコシ・大豆に悪影響の兆候。供給懸念が高まる局面。"
+  },
+  {
+    "title": "China Gains Oil Market Influence as OPEC+ Loses Sway in Iran War - The China-Global South Project",
+    "timestamp": "2026-08-27T09:42:48+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "中国がOPEC+の影響力低下に乗じて原油市場での地位を強化している。イラン戦争関連の地政学的混乱を背景に、OPEC+の協調減産政策の有効性が減少し、中国が価格決定力を増す構図。グローバルサウスの石油需要シフトが加速。"
+  },
+  {
+    "title": "More Sudanese oil available for marine fuel blending as China demand eases - Reuters",
+    "timestamp": "2026-08-27T05:30:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "スーダン産原油が海洋燃料ブレンド向けに供給増加する可能性が報じられた。中国の石油需要が鈍化する中で、スーダン油が従来の用途から海上燃料市場へシフトしている。供給圧力が増加する形でブレント原油に軽度の下落圧力をもたらす可能性がある。"
   }
 ]
