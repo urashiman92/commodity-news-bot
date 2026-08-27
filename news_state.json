@@ -1,60 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は反発し4602ドル｜米国の国債買い戻しや利上げ観測後退が影響している模様(2026年8月24日) - OANDA証券",
-    "timestamp": "2026-08-23T23:07:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4602ドルまで反発。米国の国債買い戻しと利上げ観測の後退が支援材料となった。ドル弱化と低金利環境が金の相対的な魅力を高めている。"
-  },
-  {
-    "title": "2026年8月24日の金価格：世界的な価格高騰、SJCの金価格はどこまで上昇するのか？ - Vietnam.vn",
-    "timestamp": "2026-08-23T23:18:18+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC）が世界的な金価格高騰に連動して上昇している。記事はベトナム国内の金市場における価格動向の解説。"
-  },
-  {
-    "title": "8月24日朝の金価格更新:ポジティブな心理で週明け - Laodong.vn",
-    "timestamp": "2026-08-23T23:12:58+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月24日朝の金価格がポジティブな心理で週明けを迎えている。市場センチメントが買い優位であることが示唆されている。"
-  },
-  {
-    "title": "世界の金価格が4,600ドルを突破したが、サンノゼの金価格は出遅れている。専門家は3つの理由を指摘している。 - Vietnam.vn",
-    "timestamp": "2026-08-23T23:18:18+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が4,600ドルを突破する中、サンノゼ地域の金価格が出遅れている。専門家が3つの理由を指摘しているが、地域的な価格乖離に関する解説記事。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平合意の先行き不透明感が影響し、原油価格は2営業日続伸（2026年8月24日） - OANDA証券",
-    "timestamp": "2026-08-23T23:17:31+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの和平合意見通しの不透明感により、原油価格は2営業日続伸。地政学的リスク要因が価格を支持している。"
-  },
-  {
     "title": "本日（8月24日）の金価格：金地金投資家は1週間で利益を上げた。 - Vietnam.vn",
     "timestamp": "2026-08-24T00:14:49+00:00",
     "importance": 2,
@@ -77,39 +22,6 @@
     "summary": "金価格の反発に伴い、ITCEN GLOBALが急騰した。記事は金価格の上昇を受けた個別銘柄の値動きを報じたもの。金価格の基調変化ではなく、銘柄固有のニュースと見られる。"
   },
   {
-    "title": "原油先物1％下落、米の対イラン追加制裁発表控え - ロイター",
-    "timestamp": "2026-08-23T23:42:22+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国による対イラン追加制裁発表を控えて原油先物が1％下落。市場は制裁による供給途絶のリスクと、既に価格に織り込まれている可能性のバランスを探っている。"
-  },
-  {
-    "title": "原油先物1％下落、米の対イラン追加制裁発表控え（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-08-23T23:49:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン追加制裁を予定しており、市場はその発表を控えて原油先物が1%下落した。既に制裁強化の可能性が報じられており、市場では織り込み段階と考えられる。"
-  },
-  {
-    "title": "原油先物1％下落、米の対イラン追加制裁発表控え - ニューズウィーク日本版",
-    "timestamp": "2026-08-23T23:42:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン追加制裁を発表予定であるとの観測から、原油先物が1%下落した。市場は供給懸念より需要減退懸念が優位の状況を反映している。制裁強化は原油供給制限要因だが、既にある程度織り込まれている可能性がある。"
-  },
-  {
     "title": "米国がイラン追加制裁を準備、原油価格は約1%下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-24T00:22:00+00:00",
     "importance": 3,
@@ -119,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイラン追加制裁を準備しているとの報道。原油価格は約1%下落。地政学的緊張の高まりが認識されつつも、市場の反応は限定的。"
-  },
-  {
-    "title": "原油先物1％下落、米の対イラン追加制裁発表控え - Infoseek",
-    "timestamp": "2026-08-23T23:42:04+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国による対イラン追加制裁発表を控えて原油先物が1％下落。制裁強化による供給懸念の織り込みと、市場の様子見姿勢が影響。発表前の調整売りの色合い。"
   },
   {
     "title": "原油1%安、対イラン追加制裁発表を前に利益確定の売り - BigGo ファイナンス",
@@ -209,28 +110,6 @@
     "summary": "Moomooプラットフォームに掲載されたWTI原油先物の価格情報表示。具体的なニュースイベントや市場材料の情報が記事本文に含まれていない。"
   },
   {
-    "title": "原油先物1％下落、米の対イラン追加制裁発表控え - ｄメニューニュース",
-    "timestamp": "2026-08-23T23:42:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン追加制裁を発表予定であることを受け、原油先物が1％下落。制裁強化はイラン産油の供給制約を意図するものだが、市場は既に織り込み段階と判断される。"
-  },
-  {
-    "title": "２１日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-23T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "21日の主要国際商品市況に関する市場振り返り記事。具体的な価格変動や市場ドライバーの詳細が不明。定期的な市況レポートの一編。"
-  },
-  {
     "title": "金価格は本日2026年8月24日も上昇傾向を続け、SJCの金価格は1オンスあたり最大140万ベトナムドン上昇した。 - Vietnam.vn",
     "timestamp": "2026-08-24T03:21:10+00:00",
     "importance": 2,
@@ -240,17 +119,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格が小幅上昇し、SJCで1オンスあたり最大140万ベトナムドン上昇した。現地市場の日次値動き報告であり、グローバル金価格への影響は限定的。"
-  },
-  {
-    "title": "原油先物1％下落、米の対イラン追加制裁発表控え - ｄメニューニュース",
-    "timestamp": "2026-08-23T23:55:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国による対イラン追加制裁発表を控えて、原油先物が1％下落した。制裁の詳細が不明な中での先制売却。イラン産原油の供給制限期待は限定的と見込まれている。"
   },
   {
     "title": "金価格1オンス4500ドル時代、誰も語らない買い手の正体 - Yahoo!ニュース",
@@ -2561,5 +2429,137 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が1万4000ドル台で過去最高値に迫っている。AI需要と供給不安が相場を支える一方、中東情勢と米金利が変動要因として作用している。"
+  },
+  {
+    "title": "1564. 気候変動に伴う水不足が世界の小麦価格の上昇リスクを高める可能性 - jircas.go.jp",
+    "timestamp": "2026-08-26T21:04:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "気候変動による水不足が世界の小麦供給を圧迫し、価格上昇リスクを高める可能性を指摘。主要生産地の灌漑水利用可能性の低下が懸念材料。中期的な構造的リスク要因として認識される。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4594ドル｜米国の利上げ観測の高まりが影響し、売り優勢だった模様(2026年8月27日) - OANDA証券",
+    "timestamp": "2026-08-26T23:04:06+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4594ドルまで下落。米国の利上げ観測の高まりが売り圧力となった。金は利上げ環境では利回りのない資産として敬遠される傾向が続く。"
+  },
+  {
+    "title": "アントアンの金価格は18,000ルピア上昇、セグラムは276.8万ルピアで評価 - VOI.ID",
+    "timestamp": "2026-08-26T21:53:01+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金小売価格が18,000ルピア上昇し、1グラムあたり276.8万ルピアで評価された。ローカル市場の日次変動を報じたもの。"
+  },
+  {
+    "title": "世界の金価格は1オンスあたり4,600ドルを下回った。 - Vietnam.vn",
+    "timestamp": "2026-08-26T20:47:33+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,600ドルを下回った。市場の調整局面を反映した相場動向。足元の金価格の軟調さを伝えるニュース。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議の先行き不透明感や原油需給の逼迫が意識され、原油価格は3営業日ぶりに上昇（2026年8月27日） - OANDA証券",
+    "timestamp": "2026-08-26T23:08:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの和平協議の先行き不透明感と原油需給の逼迫感が意識され、WTI原油が3営業日ぶりに上昇。地政学的リスク要因と需給の引き締まりが価格を支えている。"
+  },
+  {
+    "title": "原油価格の一段の低下が確認されるまでは 金融政策と長期金利の見通しは不透明感が強い状態が続くか - 日経CNBC online",
+    "timestamp": "2026-08-26T23:19:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格のさらなる低下確認までは、金融政策と長期金利の見通しが不透明な状態が続く可能性を指摘したコメンタリー。現在の市場環境における不確実性が強調されている。"
+  },
+  {
+    "title": "ホルムズ海峡の通航再開期待が高まり、国際原油価格は3日続落 - BigGo ファイナンス",
+    "timestamp": "2026-08-26T23:26:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の通航再開見通しが強まったことで、供給懸念が後退し原油価格が3営業日連続で下落。地政学リスク軽減が相場の重しとなっている。"
+  },
+  {
+    "title": "NY市場動向（午後2時台）：ダウ123ドル安、原油先物0.20ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-26T18:44:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午後2時台の相場振り返り。ダウ平均は123ドル安、WTI原油先物は0.20ドル安で推移。軽微な下落を伴うセッション。"
+  },
+  {
+    "title": "本日の燃料価格（8月27日）：世界の原油価格は引き続き下落しています。 - Vietnam.vn",
+    "timestamp": "2026-08-26T23:46:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "8月27日時点で世界原油価格が引き続き下落している状況の報道。ベトナムの燃料価格情報として既存トレンドの継続を伝えるもの。"
+  },
+  {
+    "title": "Crude Oil Perpetual Futures 分析 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-26T15:16:36+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Investing.comによる原油先物の技術分析記事。具体的な市場イベントや統計データなしに、チャート分析や相場観測の解説と推測される。"
+  },
+  {
+    "title": "室外機の盗難被害、たった4年で約13倍と急増 銅価格高騰が影響か (2026年8月26日掲載) - ライブドアニュース",
+    "timestamp": "2026-08-26T23:44:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の高騰により室外機盗難被害が4年で13倍に急増。スクラップ銅の需要増加が背景。銅スクラップ市場の需給ひっ迫を示唆。"
+  },
+  {
+    "title": "２６日の主要国際商品市況 - 株探",
+    "timestamp": "2026-08-26T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "26日の国際商品市況を集計したニュース配信。具体的な価格変動や市場動向の詳細が不明。日次相場の振り返り記事と推定される。"
   }
 ]
