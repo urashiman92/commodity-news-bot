@@ -1,104 +1,5 @@
 [
   {
-    "title": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports - Reuters",
-    "timestamp": "2026-08-24T00:11:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ExxonMobilがガイアナの主要油田施設で火災発生後に操業を一時停止。ガイアナは世界第2位の原油増産国で、同社が主要オペレーターを担う重要な供給源。供給寸断リスクは原油価格の上昇圧力となる可能性が高い。復旧期間が不透明な点で市場への警戒感が高まっている。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-08-24T07:29:44.017398+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが7月の米国牛乳生産を発表。24主要州での生産量は194億ポンドで、前年同月比2.3%の増加。供給増加は乳製品市場に供給圧力をもたらし、飼料需要（トウモロコシ・大豆）にも影響を与える可能性がある。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-08-24T07:29:44.017398+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが7月の米国牛乳生産を発表。24主要州での生産量は194億ポンドで、前年同月比2.3%の増加。供給増加は乳製品市場に供給圧力をもたらし、飼料需要（トウモロコシ・大豆）にも影響を与える可能性がある。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-08-24T07:29:44.017398+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが7月の米国牛乳生産を発表。24主要州での生産量は194億ポンドで、前年同月比2.3%の増加。供給増加は乳製品市場に供給圧力をもたらし、飼料需要（トウモロコシ・大豆）にも影響を与える可能性がある。"
-  },
-  {
-    "title": "Will supply concerns trigger higher corn, bean and wheat prices? - Farm Progress",
-    "timestamp": "2026-08-24T09:01:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE関連のファーム・プログレス記事で、トウモロコシ・大豆・小麦のサプライチェーン懸念が価格上昇トリガーとなる可能性を指摘。供給面での逼迫が顕在化すれば、複数穀物への同時上値圧力が生じるシナリオが提示されている。具体的な在庫数値や作付データは記事見出しからは不明確。"
-  },
-  {
-    "title": "Will supply concerns trigger higher corn, bean and wheat prices? - Farm Progress",
-    "timestamp": "2026-08-24T09:01:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE関連のファーム・プログレス記事で、トウモロコシ・大豆・小麦のサプライチェーン懸念が価格上昇トリガーとなる可能性を指摘。供給面での逼迫が顕在化すれば、複数穀物への同時上値圧力が生じるシナリオが提示されている。具体的な在庫数値や作付データは記事見出しからは不明確。"
-  },
-  {
-    "title": "Will supply concerns trigger higher corn, bean and wheat prices? - Farm Progress",
-    "timestamp": "2026-08-24T09:01:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE関連のファーム・プログレス記事で、トウモロコシ・大豆・小麦のサプライチェーン懸念が価格上昇トリガーとなる可能性を指摘。供給面での逼迫が顕在化すれば、複数穀物への同時上値圧力が生じるシナリオが提示されている。具体的な在庫数値や作付データは記事見出しからは不明確。"
-  },
-  {
-    "title": "India Lifts Wheat Export Ban in Boost to War Hit Global Supply - Bloomberg",
-    "timestamp": "2026-08-24T09:08:09+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "小麦",
-    "summary": "インドが小麦輸出禁止措置を解除。同国は世界最大級の小麦輸出国であり、この禁止解除によりウクライナ戦争で打撃を受けた世界的な小麦供給逼迫に対する重要なリリーフとなる。世界の小麦在庫危機の緩和が期待され、国際小麦価格には下押し圧力がかかる。"
-  },
-  {
-    "title": "India Lifts Wheat Export Ban in Boost to War Hit Global Supply - Bloomberg",
-    "timestamp": "2026-08-24T09:08:09+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インドが小麦輸出禁止措置を解除。同国は世界最大級の小麦輸出国であり、この禁止解除によりウクライナ戦争で打撃を受けた世界的な小麦供給逼迫に対する重要なリリーフとなる。世界の小麦在庫危機の緩和が期待され、国際小麦価格には下押し圧力がかかる。"
-  },
-  {
     "title": "Chinese refiner Sinopec to boost oil imports from outside the Gulf - Reuters",
     "timestamp": "2026-08-24T10:43:43+00:00",
     "importance": 3,
@@ -108,28 +9,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国の大型石油精製企業シノペックが湾岸地域以外からの原油輸入を増加させる方針を発表。サウジアラビア等からの依存度低減と調達源の多角化を進める。供給ソース変化による地政学的リスク管理の動きであり、ただし全体的な輸入量の大幅変更は示唆されていない。"
-  },
-  {
-    "title": "China’s Oil Demand ‘Very Likely’ Peaked Last Year, Sinopec Says - Bloomberg",
-    "timestamp": "2026-08-24T09:13:32+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中国石油大手シノペックが、中国の石油需要は昨年（2023年）にピークを迎えた可能性が「非常に高い」と発表。電気自動車の急速な普及と経済成長率の鈍化が背景。今後の需要減速が確実視される場合、世界最大の石油消費国からの需要減退が原油価格に下押し圧力を与える可能性が高い。"
-  },
-  {
-    "title": "China’s Oil Demand ‘Very Likely’ Peaked Last Year, Sinopec Says - Bloomberg",
-    "timestamp": "2026-08-24T09:13:32+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国石油大手シノペックが、中国の石油需要は昨年（2023年）にピークを迎えた可能性が「非常に高い」と発表。電気自動車の急速な普及と経済成長率の鈍化が背景。今後の需要減速が確実視される場合、世界最大の石油消費国からの需要減退が原油価格に下押し圧力を与える可能性が高い。"
   },
   {
     "title": "Russia's Perm oil refinery halted operations after August 21 drone attack, sources say - Reuters",
@@ -143,28 +22,6 @@
     "summary": "ロシアのペルム製油所が8月21日のドローン攻撃により操業停止。同製油所は日産約120,000バレルの処理能力を有する重要な製油施設。ロシアの石油精製能力の低下は欧州市場のエネルギー逼迫を招き、原油価格上昇圧力となる。地政学的リスク再燃を示唆。"
   },
   {
-    "title": "Non-ferrous Metals Industry Weekly Report (August 14–20, 2026) - Sunsirs",
-    "timestamp": "2026-08-24T01:46:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "非鉄金属業界の週間レポート（2026年8月14-20日）。具体的な統計数値やデータが提供されていないため、市場への実質的なインパクトを判断することができない。レポートタイトルのみで内容が不明。"
-  },
-  {
-    "title": "Non-ferrous Metals Industry Weekly Report (August 14–20, 2026) - Sunsirs",
-    "timestamp": "2026-08-24T01:46:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "非鉄金属業界の週間レポート（2026年8月14-20日）。具体的な統計数値やデータが提供されていないため、市場への実質的なインパクトを判断することができない。レポートタイトルのみで内容が不明。"
-  },
-  {
     "title": "Yemen’s Houthi Rebels Attack Saudi Oil Supertanker in Red Sea - Bloomberg",
     "timestamp": "2026-08-24T15:57:35+00:00",
     "importance": 4,
@@ -174,39 +31,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "イエメンの親イラン勢力フーシ派がサウジアラビアのタンカーを紅海で攻撃。紅海はスエズ運河経由で世界原油の約12-15%が通過する重要なシーレーン。地政学リスクの急速な高まりにより、原油供給途絶の懸念が市場に織り込まれる可能性が高い。"
-  },
-  {
-    "title": "May WASDE report to reveal first look at new crop outlook - Farm Progress",
-    "timestamp": "2026-08-24T08:34:14+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "5月のWASDE報告書は新穀作物（2024年産）の初期見通しを示す定期発表。米国農業省による作付面積、生産予想、需給見通しが提示される。市場が第1四半期の作物状況を把握する重要な指標となる。"
-  },
-  {
-    "title": "May WASDE report to reveal first look at new crop outlook - Farm Progress",
-    "timestamp": "2026-08-24T08:34:14+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "5月のWASDE報告書は新穀作物（2024年産）の初期見通しを示す定期発表。米国農業省による作付面積、生産予想、需給見通しが提示される。市場が第1四半期の作物状況を把握する重要な指標となる。"
-  },
-  {
-    "title": "May WASDE report to reveal first look at new crop outlook - Farm Progress",
-    "timestamp": "2026-08-24T08:34:14+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "5月のWASDE報告書は新穀作物（2024年産）の初期見通しを示す定期発表。米国農業省による作付面積、生産予想、需給見通しが提示される。市場が第1四半期の作物状況を把握する重要な指標となる。"
   },
   {
     "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 - Reuters",
@@ -330,28 +154,6 @@
     "summary": "USDA NASSの定期的なCrop Progress報告は、米国の主要穀物（トウモロコシ・小麦・大豆）の播種進捗、生育段階、および圃場状態を追跡する。これは週次で発表される統計であり、市場が予想する作付・収穫タイムラインの確認材料となるが、大幅な予想乖離が示されない限り相場への即時的なインパクトは限定的である。"
   },
   {
-    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
-    "timestamp": "2026-08-24T08:07:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの8月23日付Crop Progress統計によると、トウモロコシは57%、大豆は60%が良好～優良（Good to Excellent）と評価された。両作物とも安定した生育状況を示しており、今後の収穫予測に向けた基準情報として機能する。事前予想との対比がないため、市場反応度は不透明。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
-    "timestamp": "2026-08-24T08:07:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの8月23日付Crop Progress統計によると、トウモロコシは57%、大豆は60%が良好～優良（Good to Excellent）と評価された。両作物とも安定した生育状況を示しており、今後の収穫予測に向けた基準情報として機能する。事前予想との対比がないため、市場反応度は不透明。"
-  },
-  {
     "title": "Corn Rally Raises Stakes for U.S. Farms as Yield Doubts Threaten 2026 Margins - AgroLatam",
     "timestamp": "2026-08-24T21:38:30+00:00",
     "importance": 3,
@@ -394,28 +196,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国最大の石油精製企業シノペックの新CEO就任に伴う経営方針転換のニュース。世界最大級の精製企業の経営陣交代であり、精製能力の活用戦略やエネルギーミックス方針が変わる可能性がある。原油需要パターンや製品供給戦略に中期的影響を及ぼす可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
-    "timestamp": "2026-08-24T08:47:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progressレポート（8月23日時点）によると、トウモロコシは57%、大豆は60%が良好～優秀と評価された。良好な作況指数は供給安定性を示唆し、生産量の堅調見通しは価格下押し圧力となる。夏場の天候が良好に推移した結果の反映と考えられる。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 60% Good to Excellent as of Aug. 23 - DTN Progressive Farmer",
-    "timestamp": "2026-08-24T08:47:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progressレポート（8月23日時点）によると、トウモロコシは57%、大豆は60%が良好～優秀と評価された。良好な作況指数は供給安定性を示唆し、生産量の堅調見通しは価格下押し圧力となる。夏場の天候が良好に推移した結果の反映と考えられる。"
   },
   {
     "title": "Drone Strike Sparks Fire at Oil Refinery in Southern Russia - Bloomberg",
@@ -1054,5 +834,159 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "2021年8月のEIA原油在庫統計が予想を大幅に下回った。在庫増加量は0.095M bblで、市場予想0.6M bblを67%下回った。前週の4.405M bblからの鈍化が明らかで、需要回復と供給調整が同時に進行中を示唆する。"
+  },
+  {
+    "title": "Arable Market Report – 24 August 2026 - AHDB",
+    "timestamp": "2026-08-24T14:35:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "AHDB発行の2026年8月24日付穀物市場レポート。主要穀物（小麦・大麦・トウモロコシ・大豆）の市場動向に関する定期更新。具体的な数値やサプライズとなる統計が記事タイトルのみからは判別不可。"
+  },
+  {
+    "title": "Arable Market Report – 24 August 2026 - AHDB",
+    "timestamp": "2026-08-24T14:35:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "AHDB発行の2026年8月24日付穀物市場レポート。主要穀物（小麦・大麦・トウモロコシ・大豆）の市場動向に関する定期更新。具体的な数値やサプライズとなる統計が記事タイトルのみからは判別不可。"
+  },
+  {
+    "title": "Arable Market Report – 24 August 2026 - AHDB",
+    "timestamp": "2026-08-24T14:35:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "AHDB発行の2026年8月24日付穀物市場レポート。主要穀物（小麦・大麦・トウモロコシ・大豆）の市場動向に関する定期更新。具体的な数値やサプライズとなる統計が記事タイトルのみからは判別不可。"
+  },
+  {
+    "title": "EIA reports a small rise in US crude oil stocks - engine.online",
+    "timestamp": "2026-08-27T07:05:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の小幅な増加を報告した。タイトルは「small rise」と表現されており、市場予想の範囲内の通常的な在庫変動と考えられる。具体的な在庫数量の記載がないため、大きなサプライズはないとみられる。"
+  },
+  {
+    "title": "831 Meters at 0.27% Copper Equivalent From Surface, Including 244 Meters at 0.42% CuEq - Streetwise Reports",
+    "timestamp": "2026-08-25T07:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "表層から244メートル区間で銅換算品位0.42%、全体831メートルで0.27%という探査結果が報告された。銅鉱床の品質と規模を示唆する数値で、プロジェクト開発の進展を示している。具体的な埋蔵量推定値や経済性評価は記事から不明。"
+  },
+  {
+    "title": "What is OPEC? The oil cartel's structure and global role explained - qz.com",
+    "timestamp": "2026-08-24T17:48:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの構造と世界的役割に関する解説記事。カルテル組織としてのOPECの仕組みと国際石油市場への影響力について説明したコンテンツ。新たな政策発表や統計データではなく、既存知見の整理・説明記事である。"
+  },
+  {
+    "title": "What is OPEC? The oil cartel's structure and global role explained - qz.com",
+    "timestamp": "2026-08-24T17:48:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECの構造と世界的役割に関する解説記事。カルテル組織としてのOPECの仕組みと国際石油市場への影響力について説明したコンテンツ。新たな政策発表や統計データではなく、既存知見の整理・説明記事である。"
+  },
+  {
+    "title": "OPEC+ loses oil market sway in Iran war as China gains influence - 927thevan.com",
+    "timestamp": "2026-08-27T08:39:03+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラン情勢緊迫化に伴い、従来のOPEC+の市場支配力が低下し、中国の影響力が相対的に増加している。地政学的リスクプレミアムが存在する一方で、供給削減の実効性が減弱し、市場メカニズムの主導権が多極化している状況。"
+  },
+  {
+    "title": "OPEC+ loses oil market sway in Iran war as China gains influence - 927thevan.com",
+    "timestamp": "2026-08-27T08:39:03+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "イラン情勢緊迫化に伴い、従来のOPEC+の市場支配力が低下し、中国の影響力が相対的に増加している。地政学的リスクプレミアムが存在する一方で、供給削減の実効性が減弱し、市場メカニズムの主導権が多極化している状況。"
+  },
+  {
+    "title": "OPEC+ loses oil market sway in Iran war as China gains influence - Reuters",
+    "timestamp": "2026-08-27T07:14:25+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化に伴い、OPEC+の原油市場への影響力が低下している。一方で中国がエネルギー外交を通じて市場支配力を強化する動きが加速。従来のOPEC減産による価格支配メカニズムが多極化する傾向を示唆。"
+  },
+  {
+    "title": "Oil extends losses on hopes Middle East talks could ease supply woes - Reuters",
+    "timestamp": "2026-08-27T01:20:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東地域の外交交渉進展への期待感から原油価格が下落している。地政学的リスク低下による供給懸念の緩和が価格押し下げ要因となっており、市場は紛争激化リスクの後退を織り込み始めている。ただし具体的な交渉成果は未定で、今後の動向が不透明な状況である。"
+  },
+  {
+    "title": "Wheat Hits Three-Year High as Russia Prepares to Escalate War - Bloomberg.com",
+    "timestamp": "2026-08-27T03:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシアのウクライナ戦争エスカレーション懸念により、小麦が3年ぶりの高値を更新した。ロシアとウクライナは世界の小麦供給の約30%を占める主要生産国であり、地政学的リスクの急速な悪化が供給逼迫への懸念を急騰させている。コモディティ市場全般にリスク・オン圧力が加わる可能性が高い。"
+  },
+  {
+    "title": "Wheat Hits Three-Year High as Russia Prepares to Escalate War - Bloomberg.com",
+    "timestamp": "2026-08-27T03:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアのウクライナ戦争エスカレーション懸念により、小麦が3年ぶりの高値を更新した。ロシアとウクライナは世界の小麦供給の約30%を占める主要生産国であり、地政学的リスクの急速な悪化が供給逼迫への懸念を急騰させている。コモディティ市場全般にリスク・オン圧力が加わる可能性が高い。"
+  },
+  {
+    "title": "Oil Edges Lower as Traders Weigh Hormuz Talks and Russia Risk - Bloomberg.com",
+    "timestamp": "2026-08-27T05:13:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油相場は小幅安となっており、市場参加者はホルムズ海峡を巡る交渉動向とロシアのリスク要因を見極めている段階。地政学的な不確実性と供給要因のバランスが価格形成を左右している状況。"
   }
 ]
