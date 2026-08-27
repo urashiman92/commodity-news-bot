@@ -1,214 +1,5 @@
 [
   {
-    "title": "速報（8月24日）：米ドルが再び上昇、金価格は小幅下落。 - Vietnam.vn",
-    "timestamp": "2026-08-24T09:06:14+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米ドル再上昇に伴い金価格が小幅下落。ドル高は金の実質金利を上昇させ、ドル建て金の割高感につながる。市場参加者の既知の関係性であり、目立った変動ではない。"
-  },
-  {
-    "title": "$WTI 原油先物(2610) (CLmain.US)$ 突っ走れ - Moomoo",
-    "timestamp": "2026-08-24T08:47:57+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Moomooによる原油先物の相場解説記事。具体的な値動き要因や新規ニュースの記載なし。既に公開されている相場情報の振り返り・観測コメント。"
-  },
-  {
-    "title": "ビットコイン上昇余地を示す3指標──金先物、BTC.D、Coinbaseプレミアム【価格分析】（NADA NEWS） - Yahoo!ニュース",
-    "timestamp": "2026-08-24T10:55:04+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ビットコインの上昇余地を示す3つのテクニカル指標（金先物、BTC.D、Coinbaseプレミアム）について解説。現在のテクニカル環境が強気シグナルを示しているとの分析。"
-  },
-  {
-    "title": "原油価格上昇への最善のヘッジはS&P500のこのセクター 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-24T11:56:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格上昇時のヘッジ手段としてS&P500の特定セクターが有効であるという投資アドバイス記事。原油価格そのものの方向性には言及していない解説記事。"
-  },
-  {
-    "title": "米ドルに対する懸念の高まりを受け、金価格は3カ月ぶりの高値に近づいている。 - Vietnam.vn",
-    "timestamp": "2026-08-24T12:16:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米ドル懸念の高まりを背景に、金価格が3カ月ぶりの高値圏に接近している。ドル弱含み環境が金の買い需要を支援している。既に相場に織り込まれている可能性が高い。"
-  },
-  {
-    "title": "金価格、半年間の調整終了 上昇派が主要トレンド回復 - BeInCrypto",
-    "timestamp": "2026-08-24T12:39:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は半年間の調整局面を終了し、上昇トレンドが主要な相場方向として認識されている。テクニカル的に調整完了のシグナルが示唆されている。"
-  },
-  {
-    "title": "原油高が米株の新たな脅威に モルガン・スタンレーはブレント原油が第4四半期に100ドル到達と予想 - BigGo ファイナンス",
-    "timestamp": "2026-08-24T13:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "モルガン・スタンレーがブレント原油の第4四半期での100ドル到達を予想。原油高が米株の新たなリスク要因として浮上。エネルギー価格上昇が企業利益を圧迫する懸念。"
-  },
-  {
-    "title": "ゴールド2倍レバレッジETFが月間27%急騰 ゴールドマン・サックスは金価格5,500ドル到達を予想 - BigGo ファイナンス",
-    "timestamp": "2026-08-24T13:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ゴールド2倍レバレッジETFが月間27%上昇。ゴールドマン・サックスが金価格の5,500ドル到達を予想。強気相場継続を示唆。"
-  },
-  {
-    "title": "大豆価格は、供給と需要の両方からの圧力により急激に上昇した。 - Vietnam.vn",
-    "timestamp": "2026-08-24T12:17:25+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆価格が供給と需要の両面から圧力を受けて急騰している。供給不足と需要増加が同時に作用する状況。具体的な数値や地域情報が限定的。"
-  },
-  {
-    "title": "米国がイランに対する新たな制裁措置を発表するのを前に、原油価格は下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-24T14:35:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランへの新たな制裁措置を発表する予定であることを受け、原油価格が下落した。制裁発表前の先制的な売却と見られる。地政学的リスク要因にもかかわらず価格は反応限定的。"
-  },
-  {
-    "title": "インドの小麦輸出禁止解除はカンザスシティ小麦価格に圧力をかけるか？ - Traders Union",
-    "timestamp": "2026-08-24T12:49:35+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "インドの小麦輸出禁止解除の可能性が報道されている。供給増加によりカンザスシティ小麦先物に下押し圧力がかかると予想される。既に一部で報じられている事象の分析記事と考えられる。"
-  },
-  {
-    "title": "4,700ドルに迫る金価格の急騰を引き起こした要因は何だったのか？ - Vietnam.vn",
-    "timestamp": "2026-08-24T16:07:49+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,700ドル水準に接近する急騰を記録。この上昇の要因を解説するコメンタリー記事。地政学的リスク、インフレ懸念、金利環境などが背景と考えられる。"
-  },
-  {
-    "title": "2026年8月24日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-24T09:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・先物OP市場に関する定期的な市場ウォッチ記事。金カテゴリに分類されているが、実際には株価指数先物に関する解説記事である。"
-  },
-  {
-    "title": "USX1,230での買い支え：大豆先物価格はサポートを維持できるか？ - Traders Union",
-    "timestamp": "2026-08-24T12:37:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,230でテクニカルサポートを形成している状況についての相場解説。テクニカル分析に基づくサポートレベルの維持可否についての観測記事。"
-  },
-  {
-    "title": "銅価格予想：HGが1.12％上昇、$6,495のサポートに注目 - Traders Union",
-    "timestamp": "2026-08-24T15:12:39+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅先物（HG）が1.12%上昇し、$6,495がサポートレベルとして注目されている。技術的な価格レベルの指摘であり、ファンダメンタルズ変化を伴わない。"
-  },
-  {
-    "title": "本日8月24日の金価格：3ヶ月ぶりの高値水準に達し、FRBからのシグナルを待っている。 - Vietnam.vn",
-    "timestamp": "2026-08-24T16:44:04+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3ヶ月ぶりの高値水準に到達。市場参加者はFRB（米連邦準備制度理事会）の金利政策シグナルを注視している状況。既知の上昇トレンドの継続と見解。"
-  },
-  {
-    "title": "中国黒竜江省で生鮮トウモロコシが収穫期 - au Webポータル",
-    "timestamp": "2026-08-24T15:12:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "中国黒竜江省でトウモロコシの収穫期を迎えたという季節的なニュース。中国は主要トウモロコシ消費国だが、本ニュースは既定路線の定期的な農作業報告。"
-  },
-  {
-    "title": "金価格が3カ月超ぶり高値、ドル安と米国債買い戻し計画が相場を押し上げる - Межа. Новини України.",
-    "timestamp": "2026-08-24T18:21:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3ヶ月超ぶりの高値を更新。ドル安進行と米国債買い戻し計画が相場を下支え。金利低下環境が金にポジティブに作用している。"
-  },
-  {
-    "title": "大豆先物が下落、原油安が圧迫も堅調な輸出が下支え 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-24T19:02:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物は原油安による価格圧迫を受けて下落している。一方で堅調な輸出需要が相場の下支え要因として機能している。複数の相反する要因が市場で均衡している状況。"
-  },
-  {
     "title": "原油価格の高騰により、ヨーロッパでは電気自動車の販売台数が急増している。 - Vietnam.vn",
     "timestamp": "2026-08-24T19:46:25+00:00",
     "importance": 3,
@@ -229,17 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NYダウが140ドル上昇した相場展開を報道。長期金利低下と原油先物価格の下落が株価を支援。既に市場に織り込まれた動きの事後的な解説。"
-  },
-  {
-    "title": "約40年ぶりの歴史的な円安水準… 小麦価格はさらに上昇？パン店は中東情勢とのダブルパンチ ｢価格に負けないパンを作っていく｣ - TBS NEWS DIG",
-    "timestamp": "2026-08-24T15:38:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "約40年ぶりの円安水準により、輸入小麦のコスト増加が加速。中東情勢による国際小麦価格上昇との二重の圧力でパン店が経営圧迫を受けている。"
   },
   {
     "title": "米原油先物2.3％安、利益確定売り 対イラン制裁強化も反応薄 - ロイター",
@@ -284,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油先物が2.3%下落。利益確定売りが主因。対イラン制裁強化というジオポリティカルリスク要因も市場の反応は限定的。"
-  },
-  {
-    "title": "金相場が重要レジスタンス突破、4,900ドル再浮上 - Yellow.com",
-    "timestamp": "2026-08-24T19:04:35+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場が重要なテクニカルレジスタンスレベルである4,900ドルを突破し、上昇トレンドが継続している。チャートブレイクによる技術的なサポートが確認された局面。"
   },
   {
     "title": "金価格、15週ぶり高値の4738ドル──市場は26日米PCE公表と28日ウォーシュ講演を待つ - Forbes JAPAN",
@@ -614,17 +383,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "8月25日時点で世界原油価格が2営業日連続で下落している。ベトナムの燃料価格ニュースとして報じられており、既に発生した事象の振り返り・解説である。"
-  },
-  {
-    "title": "米国の関税がカナダ製品の貿易を混乱させ、コーン先物は下落 - Traders Union",
-    "timestamp": "2026-08-24T19:13:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "米国がカナダ製品への関税を発動し、カナダからのトウモロコシ輸入が混乱。供給不安の緩和とカナダ産需要の減少がコーン先物を押し下げた。貿易摩擦の継続は市場不確実性を増す。"
   },
   {
     "title": "中国の紫金鉱業、銅生産目標に下振れ圧力－コンゴ鉱山の浸水が影響 - Infoseek",
@@ -2429,5 +2187,137 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "26日の主要国際商品市況に関する定期的な市況報道。具体的な内容が不明であるため、各商品の価格動向は把握できない。通常の市場振り返り記事と考えられる。"
+  },
+  {
+    "title": "金価格、５０００ドルに接近すればレベル４の警戒警報覚悟 - 三菱マテリアル GOLDPARK",
+    "timestamp": "2026-08-27T06:11:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が5000ドルに接近した場合、警戒警報（レベル4）を発令する可能性が示唆された。現在の金相場が歴史的高値圏にあることを反映した市場解説。"
+  },
+  {
+    "title": "金価格は本日8月27日、大幅に下落して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-08-27T16:10:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月27日の金価格が大幅に下落して取引を終えた。具体的な下落率や背景要因の記述がないため、相場の振り返りコメントと推定される。"
+  },
+  {
+    "title": "Gold Price on 26 August 2026 - Gold Price",
+    "timestamp": "2026-08-27T03:31:04+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月26日の金価格に関する記事。具体的な価格データや市場イベントの記述がなく、単なる日付付きの価格情報ページと思われる。市場への実質的なインパクトは不明。"
+  },
+  {
+    "title": "原油価格が比較的落ち着いていることがユーロの支え＝ＮＹ為替 - みんかぶ FX/為替",
+    "timestamp": "2026-08-27T15:15:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が比較的落ち着いている状況がユーロ相場の支え要因になっているとの市場解説。原油高がエネルギーコストを押し上げ、ユーロ圏経済に重しとなるため、落ち着きが好材料とされている。"
+  },
+  {
+    "title": "NY外為：ドル伸び悩む、原油価格が反落、ホルムズ海峡経由輸出加速 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-27T15:50:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル伸び悩みの中、原油価格が反落。ホルムズ海峡経由の輸出が加速している状況。供給懸念の緩和が価格下押し要因となっている。"
+  },
+  {
+    "title": "中東での協議により供給不安が緩和されるとの期待から、原油価格は下落幅を拡大 - arabnews.jp",
+    "timestamp": "2026-08-27T06:08:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東での協議が供給不安の緩和につながるとの見方から、原油価格が下落幅を拡大している。地政学的リスク軽減への期待が相場を圧迫している状況。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ43ドル安、原油先物0.73ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-08-27T14:31:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の相場動向を報じたもので、原油先物が0.73ドル上昇。ダウ平均は小幅安で推移。定期的な市場報道の一つ。"
+  },
+  {
+    "title": "モープラＦＴ【業界ウオッチ「石油関連株 原油相場変動の影響は」】 - tv-tokyo.co.jp",
+    "timestamp": "2026-08-27T03:47:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "石油関連株と原油相場の変動との関連性を扱う業界解説。原油価格変動がセクターに与える影響について分析した番組企画と思われる。既に織り込まれた相場観の解説コンテンツ。"
+  },
+  {
+    "title": "NY外為：ドル伸び悩む、原油価格が反落、ホルムズ海峡経由輸出加速 - ｄメニューニュース",
+    "timestamp": "2026-08-27T15:50:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル指数が伸び悩む中、ホルムズ海峡経由の原油輸出が加速している。供給増加圧力により原油価格は反落している。地政学的リスク緩和を示唆。"
+  },
+  {
+    "title": "ホルムズ海峡の再開の見通しを受けて、アジアの原油価格は下落を続けている。 - Vietnam.vn",
+    "timestamp": "2026-08-27T13:05:02+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の再開見通しを受け、アジアの原油価格が下落傾向を継続。供給リスク低下への市場反応が継続。既報事象の相場評価段階。"
+  },
+  {
+    "title": "渋谷ハチ公前 桑田佳祐ゲリラLIVE！！ Copper Price (Kd1ExVLbuo) - Mshale",
+    "timestamp": "2026-08-27T03:51:36+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "渋谷ハチ公前での桑田佳祐ゲリラライブに関するニュース。銅価格とは無関係のエンタメ情報がカテゴリ誤分類されたと推定される。"
+  },
+  {
+    "title": "２６日の主要国際商品市況 (2026年8月27日掲載) - ライブドアニュース",
+    "timestamp": "2026-08-26T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年8月26日の主要国際商品市況の定期報告。具体的な価格データや市場動向の詳細が不明。ルーチンの市況レポート。"
   }
 ]
