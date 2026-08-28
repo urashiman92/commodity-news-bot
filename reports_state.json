@@ -1,71 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-24T20:49:46.867887+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSの定期的なCrop Progress報告は、米国の主要穀物（トウモロコシ・小麦・大豆）の播種進捗、生育段階、および圃場状態を追跡する。これは週次で発表される統計であり、市場が予想する作付・収穫タイムラインの確認材料となるが、大幅な予想乖離が示されない限り相場への即時的なインパクトは限定的である。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-24T20:49:46.867887+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSの定期的なCrop Progress報告は、米国の主要穀物（トウモロコシ・小麦・大豆）の播種進捗、生育段階、および圃場状態を追跡する。これは週次で発表される統計であり、市場が予想する作付・収穫タイムラインの確認材料となるが、大幅な予想乖離が示されない限り相場への即時的なインパクトは限定的である。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-08-24T20:49:46.867887+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSの定期的なCrop Progress報告は、米国の主要穀物（トウモロコシ・小麦・大豆）の播種進捗、生育段階、および圃場状態を追跡する。これは週次で発表される統計であり、市場が予想する作付・収穫タイムラインの確認材料となるが、大幅な予想乖離が示されない限り相場への即時的なインパクトは限定的である。"
-  },
-  {
-    "title": "Corn Rally Raises Stakes for U.S. Farms as Yield Doubts Threaten 2026 Margins - AgroLatam",
-    "timestamp": "2026-08-24T21:38:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシの相場上昇が米国農家の収益性に対する懸念をもたらしている。2026年の利益率が歩留まり不安によって脅かされる可能性があり、WASDE関連の作柄情報が注視される。価格上昇は好材料だが、単収の低下リスクが相殺する形で市場心理は錯綜している。"
-  },
-  {
-    "title": "Corn Rally Raises Stakes for U.S. Farms as Yield Doubts Threaten 2026 Margins - AgroLatam",
-    "timestamp": "2026-08-24T21:38:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "トウモロコシの相場上昇が米国農家の収益性に対する懸念をもたらしている。2026年の利益率が歩留まり不安によって脅かされる可能性があり、WASDE関連の作柄情報が注視される。価格上昇は好材料だが、単収の低下リスクが相殺する形で市場心理は錯綜している。"
-  },
-  {
-    "title": "Russia's Afipsky oil refinery on fire after drone attack, two dead, governor says - Reuters",
-    "timestamp": "2026-08-25T05:26:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアのアフィプスキー製油所がドローン攻撃により火災発生、2名死亡。同製油所は日産約10万バレル（露の主要製油所の一つ）の処理能力を有する重要施設。ロシア国内の精製能力低下により、原油供給逼迫が懸念される。"
-  },
-  {
     "title": "New Sinopec boss presses reset for world's biggest oil refiner - Reuters",
     "timestamp": "2026-08-25T06:31:00+00:00",
     "importance": 3,
@@ -88,28 +22,6 @@
     "summary": "ロシア南部の石油精製所がドローン攻撃により火災が発生した。ウクライナ紛争に関連した供給ショックイベントであり、ロシアの精製能力の一部喪失が懸念される。供給逼迫への懸念から原油価格は上昇圧力を受ける見通し。"
   },
   {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-08-24T22:13:02+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油およびガソリン在庫が先週減少したことがEIAから発表された。これは需要の強さが供給を上回っていることを示唆している。在庫減少は一般的にコモディティ価格の上値支持材料となり、特に原油市場でポジティブに解釈される傾向がある。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-08-24T22:13:02+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国の原油およびガソリン在庫が先週減少したことがEIAから発表された。これは需要の強さが供給を上回っていることを示唆している。在庫減少は一般的にコモディティ価格の上値支持材料となり、特に原油市場でポジティブに解釈される傾向がある。"
-  },
-  {
     "title": "European Stocks Advance as Oil Prices Drop; Siemens Energy Up - Bloomberg",
     "timestamp": "2026-08-25T07:18:28+00:00",
     "importance": 2,
@@ -130,28 +42,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "欧州株式市場が上昇し、原油価格の下落が支援材料となった。エネルギー関連ではシーメンスエナジーが買われた。原油安は製造業企業の利益改善期待を高め、一方でエネルギーセクターへの下落圧力となる混合シグナル。"
-  },
-  {
-    "title": "Stocks Rise Before Nvidia’s Earnings as Oil Falls: Markets Wrap - Bloomberg",
-    "timestamp": "2026-08-24T22:09:52+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "Nvidia決算発表を控える中、株式市場は上昇基調。一方、原油相場は下落している。この混合シグナルは、テクノロジー関連の好調が金利動向への期待と相殺される一方、原油は需要懸念や供給緩和圧力を反映している状況を示唆している。"
-  },
-  {
-    "title": "Stocks Rise Before Nvidia’s Earnings as Oil Falls: Markets Wrap - Bloomberg",
-    "timestamp": "2026-08-24T22:09:52+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Nvidia決算発表を控える中、株式市場は上昇基調。一方、原油相場は下落している。この混合シグナルは、テクノロジー関連の好調が金利動向への期待と相殺される一方、原油は需要懸念や供給緩和圧力を反映している状況を示唆している。"
   },
   {
     "title": "Laopu Gold’s Growth Slows as Bullion Slide Hits Luxury Demand - Bloomberg",
@@ -218,17 +108,6 @@
     "source": "FRB金融政策",
     "commodity": "銅",
     "summary": "FRBの2026年7月の公定歩合会議記録。金融政策スタンスが議論されたと考えられるが、具体的な金利変更内容や声明が提示されていないため詳細な判断困難。一般的にFRB引き締め姿勢は金（無利子資産）に下落圧力、ドル強化を通じて原油・銅などドル建てコモディティに下押し圧力となる可能性。"
-  },
-  {
-    "title": "Corn sees gains on lower yield guess - Brownfield Ag News",
-    "timestamp": "2026-08-25T00:08:16+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国農務省（USDA）のCrop Progress統計において、トウモロコシの収穫量予想が引き下げられたことが報告された。収穫量の下方修正は供給減少を意味し、市場はこれに対してトウモロコシ価格の上昇で反応した。具体的な修正幅は報道タイトルからは明確でないが、市場心理は供給懸念方向に傾いている。"
   },
   {
     "title": "Asian Stocks Set to Gain as Oil Extends Declines: Markets Wrap - Bloomberg",
@@ -900,5 +779,115 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "スーダン産原油が海洋燃料ブレンド向けに供給増加する可能性が報じられた。中国の石油需要が鈍化する中で、スーダン油が従来の用途から海上燃料市場へシフトしている。供給圧力が増加する形でブレント原油に軽度の下落圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "US Northern Plains wheat harvest outpaces average - World Grain",
+    "timestamp": "2026-08-27T11:40:15+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国北部平原地域の小麦収穫が平年ペースを上回っているとの報告。収穫の進捗が良好であることは、単位面積当たりの収量見通しの上振れを示唆し、米国小麦供給量の増加につながる可能性がある。市場では既に織り込み済みと見られるが、最終生産量確定までは注視が必要。"
+  },
+  {
+    "title": "Zinc price jumps to 4-year high as LME stocks plunge 64% - Mining.com",
+    "timestamp": "2026-08-27T20:59:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "亜鉛価格が4年ぶりの高値を付け、ロンドン金属取引所(LME)の在庫が64%急減した。この急激な在庫減少は供給逼迫を示唆しており、亜鉛の需給ひっ迫が鮮明化している。工業用途の拡大と在庫枯渇が価格上昇を加速させている。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-08-26T18:29:23+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国インフレデータへの楽観視が原油価格を下支えし、小幅高で推移。一方、OPECの供給削減懸念が重石となっており、上下のバランスが拮抗している状況。インフレ鈍化期待はドル高圧力を通じて金にはやや下向き。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-08-26T18:29:23+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "金",
+    "summary": "米国インフレデータへの楽観視が原油価格を下支えし、小幅高で推移。一方、OPECの供給削減懸念が重石となっており、上下のバランスが拮抗している状況。インフレ鈍化期待はドル高圧力を通じて金にはやや下向き。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-08-26T18:29:23+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国インフレデータへの楽観視が原油価格を下支えし、小幅高で推移。一方、OPECの供給削減懸念が重石となっており、上下のバランスが拮抗している状況。インフレ鈍化期待はドル高圧力を通じて金にはやや下向き。"
+  },
+  {
+    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
+    "timestamp": "2026-08-26T18:38:58+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECのアナリストBousso氏が、ホルムズ海峡の再開通がOPECの減産政策を無効化する可能性を指摘。地政学的リスク軽減に伴う供給安定化がOPEC加盟国の価格支持メカニズムを損なう懸念を提示。既報の地政学緊張緩和シナリオの延長線上の解説。"
+  },
+  {
+    "title": "Trump administration discusses taking stake in Venezuela oil, Axios reports - Reuters",
+    "timestamp": "2026-08-27T21:18:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ政権がベネズエラ石油への出資検討を議論。ベネズエラは世界有数の石油埋蔵国だが制裁下にあり、米国資本参入は地政学的に大きなシフト。短期的には米国産油量増加期待で原油売却圧力、長期的には供給確保による価格安定化期待が混在。"
+  },
+  {
+    "title": "Two killed in oil tanker fire off South Korea, Yonhap reports - Reuters",
+    "timestamp": "2026-08-27T23:57:20+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "韓国沖で石油タンカーが火災を起こし、2名が死亡した。タンカー火災は一時的な原油供給への懸念材料となるが、重大な構造的供給障害ではない。地政学的リスク意識の高まりが原油価格に軽微な上昇圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Venezuela Weighs OPEC Exit as US Discusses Oil Fields Stake - Bloomberg",
+    "timestamp": "2026-08-28T01:53:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ベネズエラがOPEC離脱を検討し、米国が同国油田の利権取得を協議している。これはOPEC減産体制の弱体化を意味し、供給サイドの地政学リスクが急速に変動。ベネズエラは世界最大級の埋蔵量を保有するため、離脱は原油市場の需給構造に大きな影響を与える可能性がある。"
+  },
+  {
+    "title": "Soap Is Shale's Latest Breakthrough to Boost US Oil Production - Bloomberg",
+    "timestamp": "2026-08-27T10:00:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国シェールオイル産業において、石鹸などの化学薬品を活用した採掘技術の進展が報告された。この技術革新により米国の石油生産能力が向上し、生産性向上による供給量増加が期待される。ただし具体的な生産量の数値や実装時期については報道から明確でない。"
   }
 ]
