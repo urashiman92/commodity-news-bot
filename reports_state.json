@@ -1,27 +1,5 @@
 [
   {
-    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Yahoo Finance",
-    "timestamp": "2026-08-26T14:37:41+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計で米国原油在庫がほぼ横ばいであった一方、ガソリン在庫は減少した。原油需給は小動き続く中でガソリン需要が相対的に堅調であることを示唆している。在庫動向は定例統計の範囲内の変動と見られる。"
-  },
-  {
-    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Yahoo Finance",
-    "timestamp": "2026-08-26T14:37:41+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計で米国原油在庫がほぼ横ばいであった一方、ガソリン在庫は減少した。原油需給は小動き続く中でガソリン需要が相対的に堅調であることを示唆している。在庫動向は定例統計の範囲内の変動と見られる。"
-  },
-  {
     "title": "United States and Canadian Hogs",
     "timestamp": "2026-08-26T19:18:58.844935+00:00",
     "importance": 2,
@@ -75,39 +53,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDAとカナダの公式統計により、米国とカナダの牛群在庫が前年同期比で1%増加したことが確認された。畜牛供給の緩やかな回復傾向を示しており、牛肉供給の増加圧力につながる可能性がある。"
-  },
-  {
-    "title": "EIA Weekly Petroleum Status Report August 26, 2026: Crude Stocks Up, Product Draws - News and Statistics - IndexBox",
-    "timestamp": "2026-08-26T17:30:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間石油在庫報告（2026年8月26日）によると、原油在庫が増加した一方で、ガソリンなどの石油製品在庫は減少した。在庫の増減方向が混合的で、供給過剰感と需要堅調の両信号が混在している状況を示唆している。"
-  },
-  {
-    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-08-26T14:37:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIAが発表した週間在庫統計によると、原油在庫がほぼ変動なし（微動）である一方、ガソリン在庫は減少した。原油供給の安定性を示すが、需要側のガソリン在庫減少が相殺し、全体的には市場への大きなインパクトは限定的と見られる。"
-  },
-  {
-    "title": "Tariff Fears Spark Record Copper Stockpile Surge - Investing News Network",
-    "timestamp": "2026-08-26T18:15:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "米国の関税懸念を背景に、銅の取引所在庫が過去最高水準に急増した。関税導入への先制的な買い控えと在庫積み増しにより、需要後退の可能性が高まっている。記録的な在庫増加は銅価格に下押し圧力をもたらす懸念材料。"
   },
   {
     "title": "EIA reports a small rise in US crude oil stocks - engine.online",
@@ -330,39 +275,6 @@
     "summary": "亜鉛価格が4年ぶりの高値を付け、ロンドン金属取引所(LME)の在庫が64%急減した。この急激な在庫減少は供給逼迫を示唆しており、亜鉛の需給ひっ迫が鮮明化している。工業用途の拡大と在庫枯渇が価格上昇を加速させている。"
   },
   {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-08-26T18:29:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "米国インフレデータへの楽観視が原油価格を下支えし、小幅高で推移。一方、OPECの供給削減懸念が重石となっており、上下のバランスが拮抗している状況。インフレ鈍化期待はドル高圧力を通じて金にはやや下向き。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-08-26T18:29:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "金",
-    "summary": "米国インフレデータへの楽観視が原油価格を下支えし、小幅高で推移。一方、OPECの供給削減懸念が重石となっており、上下のバランスが拮抗している状況。インフレ鈍化期待はドル高圧力を通じて金にはやや下向き。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-08-26T18:29:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国インフレデータへの楽観視が原油価格を下支えし、小幅高で推移。一方、OPECの供給削減懸念が重石となっており、上下のバランスが拮抗している状況。インフレ鈍化期待はドル高圧力を通じて金にはやや下向き。"
-  },
-  {
     "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
     "timestamp": "2026-08-26T18:38:58+00:00",
     "importance": 3,
@@ -528,17 +440,6 @@
     "summary": "米国の原油在庫がわずかに上昇したとのEIA報告。「わずか」という表現から、在庫増加幅は限定的と推測される。通常の週間在庫統計の定例報告で、特段の供給ショックやサプライズ要因は示唆されていない。"
   },
   {
-    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-08-26T14:37:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計によると、米国原油在庫はほぼ変化なし（\"Barely Budge\"）である一方、ガソリン在庫は低下した。供給面での特段の変動がなく、需給がほぼバランスしている状況を示唆している。原油価格への直接的な上下圧力は限定的。"
-  },
-  {
     "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
     "timestamp": "2026-08-28T19:15:53+00:00",
     "importance": 3,
@@ -559,5 +460,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+がホルムズ海峡再開時の増産に合意したとの報道。地政学的リスク軽減シグナルとして受け取られるが、条件付き（海峡再開時点）のため即座の影響は限定的。供給増加の可能性は中期的に原油価格の上値を抑制する可能性がある。"
+  },
+  {
+    "title": "Turkey boosts diesel imports from US, India after Russia ban prompts diversification - Reuters",
+    "timestamp": "2026-08-27T15:05:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア産ディーゼル禁輸に伴い、トルコが米国およびインドからのディーゼル輸入を大幅に増加させている。サプライチェーンの多角化が進行中であり、地政学的な供給シフトが確実に進展。ロシア制裁の迂回効果と非OPEC産油国への需要シフトが継続。"
+  },
+  {
+    "title": "Turkey boosts diesel imports from US, India after Russia ban prompts diversification - Reuters",
+    "timestamp": "2026-08-27T15:05:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア産ディーゼル禁輸に伴い、トルコが米国およびインドからのディーゼル輸入を大幅に増加させている。サプライチェーンの多角化が進行中であり、地政学的な供給シフトが確実に進展。ロシア制裁の迂回効果と非OPEC産油国への需要シフトが継続。"
   }
 ]
