@@ -1,49 +1,5 @@
 [
   {
-    "title": "Asian Stocks Set to Gain as Oil Extends Declines: Markets Wrap - Bloomberg",
-    "timestamp": "2026-08-25T22:08:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が上昇基調となる一方、原油価格は引き続き下落傾向を示している。低金利環境がリスク資産を支援する中、エネルギー価格は需要懸念やドル高圧力の影響を受けている。アジア地域のコモディティ市場では混合的な動きが予想される。"
-  },
-  {
-    "title": "Asian Stocks Set to Gain as Oil Extends Declines: Markets Wrap - Bloomberg",
-    "timestamp": "2026-08-25T22:08:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が上昇基調となる一方、原油価格は引き続き下落傾向を示している。低金利環境がリスク資産を支援する中、エネルギー価格は需要懸念やドル高圧力の影響を受けている。アジア地域のコモディティ市場では混合的な動きが予想される。"
-  },
-  {
-    "title": "Trading Day: Oil, yields slide - Reuters",
-    "timestamp": "2026-08-25T21:47:51+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油とイールド（米国債利回り）が同時に下落する相場環境が形成されている。原油価格の低下は需要懸念やドル強化圧力を示唆し、イールド低下は景気後退懸念やFRBの金融引き締め終了期待を反映している。この環境下ではリスク資産全般に対する圧力が強まる可能性がある。"
-  },
-  {
-    "title": "Trading Day: Oil, yields slide - Reuters",
-    "timestamp": "2026-08-25T21:47:51+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油とイールド（米国債利回り）が同時に下落する相場環境が形成されている。原油価格の低下は需要懸念やドル強化圧力を示唆し、イールド低下は景気後退懸念やFRBの金融引き締め終了期待を反映している。この環境下ではリスク資産全般に対する圧力が強まる可能性がある。"
-  },
-  {
     "title": "HK Stock Market Watch | Copper stocks lead gains as LME and COMEX copper hit record highs - Moomoo",
     "timestamp": "2026-08-26T02:19:04+00:00",
     "importance": 4,
@@ -86,17 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株がNvidiaの決算前で様子見ムードとなる中、原油は緩和傾向を示している。ホルムズ海峡の地政学的緊張が一時的に和らぐとの期待から油価が軟化。テック企業決算と地政学的なリスク回避が市場心理を複雑にしている状況。"
-  },
-  {
-    "title": "US Crude Oil Inventories Surge by 4.2M Barrels, Far Exceeding Forecasts - CryptoRank",
-    "timestamp": "2026-08-26T00:21:39+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が420万バレル増加し、市場予想を大幅に上回った。在庫の予想外の積み上がりは、供給過剰感を強める材料となり、原油相場に下押し圧力をもたらす。EIAの週間在庫発表は市場参加者が注視する重要な指標であり、予想を4割以上上回る増加幅は明確なサプライズ。"
   },
   {
     "title": "Be Cautious Betting on August WASDE - Southern Farm Network",
@@ -152,28 +97,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナによるロシア油田・インフラへの攻撃により、ロシアからの石油供給が減少。インド精製業者が代替供給先の探索を拡大している。地政学的リスクが原油供給に直結し、価格上昇圧力となる可能性が高い。"
-  },
-  {
-    "title": "Are new tariffs a threat to copper stocks? - The Globe and Mail",
-    "timestamp": "2026-08-25T20:00:01+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "新関税がベースメタル、特に銅株に与える影響を分析する記事。米国の新たな関税政策により、銅を含むベースメタルの需要見通しと製造業の投資意欲が低下する可能性を指摘。銅は建設・電機産業の需要減退に直結するため、注視が必要。"
-  },
-  {
-    "title": "Are new tariffs a threat to copper stocks? - The Globe and Mail",
-    "timestamp": "2026-08-25T20:00:01+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "新関税がベースメタル、特に銅株に与える影響を分析する記事。米国の新たな関税政策により、銅を含むベースメタルの需要見通しと製造業の投資意欲が低下する可能性を指摘。銅は建設・電機産業の需要減退に直結するため、注視が必要。"
   },
   {
     "title": "The Bullish Case For Non-Precious Metals Mining Stocks - t.co",
@@ -834,5 +757,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがオマーン湾での原油販売を開始し、ホルムズ海峡への依存低下傾向が示唆された。これは地政学的リスク（イラン対立やホルムズ海峡封鎖懸念）への対抗措置と見られ、サウジの戦略的な供給ルート多角化を反映している。ホルムズ海峡経由の輸出削減は中東供給の不確実性低下を意味するが、同時に代替ルート活用による供給分散は地政学プレミアムの縮小につながる可能性がある。"
+  },
+  {
+    "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-08-28T18:30:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ベネズエラがOPECの創設メンバーであり、かつての重要な産油国であるにもかかわらず、現在の経済危機と政治情勢によりOPEC内での求心力が低下。ベネズエラの離脱の可能性がOPECの団結力を試す要因となり、今後の減産合意の実効性に影響を与える可能性がある。"
   }
 ]
