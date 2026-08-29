@@ -1,38 +1,5 @@
 [
   {
-    "title": "欧州猛暑と黒海リスク、農産物生産を直撃 小麦先物は3年ぶり高値圏 - 日本経済新聞",
-    "timestamp": "2026-08-26T20:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "欧州の猛暑と黒海地政学リスクが重なり、小麦などの農産物生産が直撃されている。小麦先物が3年ぶりの高値圏に上昇し、供給懸念が顕在化している。"
-  },
-  {
-    "title": "金価格上昇、ETFに集まるマネー 中長期の投資家がドルから退避 - 日本経済新聞",
-    "timestamp": "2026-08-26T20:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が上昇し、ETFへの資金流入が増加している。中長期投資家がドル資産から退避する動きが背景。インフレ懸念や金利低下期待などの構造的要因が継続。"
-  },
-  {
-    "title": "1564. 気候変動に伴う水不足が世界の小麦価格の上昇リスクを高める可能性 - jircas.go.jp",
-    "timestamp": "2026-08-26T21:04:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "気候変動による水不足が世界の小麦供給を圧迫し、価格上昇リスクを高める可能性を指摘。主要生産地の灌漑水利用可能性の低下が懸念材料。中期的な構造的リスク要因として認識される。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4594ドル｜米国の利上げ観測の高まりが影響し、売り優勢だった模様(2026年8月27日) - OANDA証券",
     "timestamp": "2026-08-26T23:04:06+00:00",
     "importance": 3,
@@ -42,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4594ドルまで下落。米国の利上げ観測の高まりが売り圧力となった。金は利上げ環境では利回りのない資産として敬遠される傾向が続く。"
-  },
-  {
-    "title": "アントアンの金価格は18,000ルピア上昇、セグラムは276.8万ルピアで評価 - VOI.ID",
-    "timestamp": "2026-08-26T21:53:01+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアの金小売価格が18,000ルピア上昇し、1グラムあたり276.8万ルピアで評価された。ローカル市場の日次変動を報じたもの。"
-  },
-  {
-    "title": "世界の金価格は1オンスあたり4,600ドルを下回った。 - Vietnam.vn",
-    "timestamp": "2026-08-26T20:47:33+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,600ドルを下回った。市場の調整局面を反映した相場動向。足元の金価格の軟調さを伝えるニュース。"
   },
   {
     "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議の先行き不透明感や原油需給の逼迫が意識され、原油価格は3営業日ぶりに上昇（2026年8月27日） - OANDA証券",
@@ -1285,5 +1230,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "アナリストが原油価格の強気シナリオ（120ドル）と弱気シナリオ（60ドル）の2つの見通しを提示。現在の市場環境における相場の広いレンジを示唆している。"
+  },
+  {
+    "title": "2026年8月29日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
+    "timestamp": "2026-08-29T19:55:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を掲載したニュース。金地金、9999金リング、国際金の価格表を提供している。日次の価格情報であり市場の新規情報ではない。"
   }
 ]
