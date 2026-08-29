@@ -22,50 +22,6 @@
     "summary": "EIA週間在庫統計で米国原油在庫がほぼ横ばいであった一方、ガソリン在庫は減少した。原油需給は小動き続く中でガソリン需要が相対的に堅調であることを示唆している。在庫動向は定例統計の範囲内の変動と見られる。"
   },
   {
-    "title": "U.S. Hay Supply Forecasted to Drop 7.2% in 2026 Despite Strong Carryover Stocks - drovers.com",
-    "timestamp": "2026-08-26T13:35:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年の米国乾草供給量は前年比7.2%減少と予想されている。強固な繰越在庫があるため市場への即座の圧迫は限定的だが、供給減少トレンドは飼料コスト上昇を通じて畜産業界全体に波及する可能性がある。干ばつ条件や生産面積縮小が主因と考えられる。"
-  },
-  {
-    "title": "U.S. Hay Supply Forecasted to Drop 7.2% in 2026 Despite Strong Carryover Stocks - drovers.com",
-    "timestamp": "2026-08-26T13:35:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年の米国乾草供給量は前年比7.2%減少と予想されている。強固な繰越在庫があるため市場への即座の圧迫は限定的だが、供給減少トレンドは飼料コスト上昇を通じて畜産業界全体に波及する可能性がある。干ばつ条件や生産面積縮小が主因と考えられる。"
-  },
-  {
-    "title": "U.S. Hay Supply Forecasted to Drop 7.2% in 2026 Despite Strong Carryover Stocks - drovers.com",
-    "timestamp": "2026-08-26T13:35:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年の米国乾草供給量は前年比7.2%減少と予想されている。強固な繰越在庫があるため市場への即座の圧迫は限定的だが、供給減少トレンドは飼料コスト上昇を通じて畜産業界全体に波及する可能性がある。干ばつ条件や生産面積縮小が主因と考えられる。"
-  },
-  {
-    "title": "Ukraine Says It Hit Major Oil Refinery in Russia’s Volga Region - Bloomberg",
-    "timestamp": "2026-08-26T10:55:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア・ボルガ地域の主要石油精製所を攻撃したと発表。ロシアの石油精製能力に対する直接的な脅威であり、欧州向けエネルギー供給の混乱と原油供給逼迫が懸念される。地政学的リスク再燃により市場は上昇圧力に直面。"
-  },
-  {
     "title": "United States and Canadian Hogs",
     "timestamp": "2026-08-26T19:18:58.844935+00:00",
     "importance": 2,
@@ -152,17 +108,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "米国の関税懸念を背景に、銅の取引所在庫が過去最高水準に急増した。関税導入への先制的な買い控えと在庫積み増しにより、需要後退の可能性が高まっている。記録的な在庫増加は銅価格に下押し圧力をもたらす懸念材料。"
-  },
-  {
-    "title": "US EIA Crude Oil Stocks Change (Aug/21) 0.095M vs. Exp. 0.6M (Prev. 4.405M) - Newsquawk",
-    "timestamp": "2026-08-26T14:30:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "2021年8月のEIA原油在庫統計が予想を大幅に下回った。在庫増加量は0.095M bblで、市場予想0.6M bblを67%下回った。前週の4.405M bblからの鈍化が明らかで、需要回復と供給調整が同時に進行中を示唆する。"
   },
   {
     "title": "EIA reports a small rise in US crude oil stocks - engine.online",
@@ -581,5 +526,38 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫がわずかに上昇したとのEIA報告。「わずか」という表現から、在庫増加幅は限定的と推測される。通常の週間在庫統計の定例報告で、特段の供給ショックやサプライズ要因は示唆されていない。"
+  },
+  {
+    "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-08-26T14:37:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計によると、米国原油在庫はほぼ変化なし（\"Barely Budge\"）である一方、ガソリン在庫は低下した。供給面での特段の変動がなく、需給がほぼバランスしている状況を示唆している。原油価格への直接的な上下圧力は限定的。"
+  },
+  {
+    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
+    "timestamp": "2026-08-28T19:15:53+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストのBousso氏は、湾岸地域の戦後の市場シェア争いにおいてOPECが劣位に立つ可能性が高いとコメント。湾岸産油国（特にサウジアラビア・UAE）による積極的な増産戦略により、OPECの市場支配力が低下するリスクを指摘。価格維持機能の弱化が懸念される。"
+  },
+  {
+    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
+    "timestamp": "2026-08-27T22:30:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+がホルムズ海峡再開時の増産に合意したとの報道。地政学的リスク軽減シグナルとして受け取られるが、条件付き（海峡再開時点）のため即座の影響は限定的。供給増加の可能性は中期的に原油価格の上値を抑制する可能性がある。"
   }
 ]
