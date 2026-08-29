@@ -1,60 +1,5 @@
 [
   {
-    "title": "United States and Canadian Hogs",
-    "timestamp": "2026-08-26T19:18:58.844935+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "米国およびカナダの豚在庫が小幅増加したことが報告された。豚肉生産の供給サイドにはポジティブだが、在庫増加幅は微増に留まっており、市場への大きなインパクトは限定的。飼料穀物（トウモロコシ・大豆粕）への間接的な需要圧力はわずか。"
-  },
-  {
-    "title": "United States and Canadian Hogs",
-    "timestamp": "2026-08-26T19:18:58.844935+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "米国およびカナダの豚在庫が小幅増加したことが報告された。豚肉生産の供給サイドにはポジティブだが、在庫増加幅は微増に留まっており、市場への大きなインパクトは限定的。飼料穀物（トウモロコシ・大豆粕）への間接的な需要圧力はわずか。"
-  },
-  {
-    "title": "United States and Canadian Hogs",
-    "timestamp": "2026-08-26T19:18:58.844935+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "米国およびカナダの豚在庫が小幅増加したことが報告された。豚肉生産の供給サイドにはポジティブだが、在庫増加幅は微増に留まっており、市場への大きなインパクトは限定的。飼料穀物（トウモロコシ・大豆粕）への間接的な需要圧力はわずか。"
-  },
-  {
-    "title": "Peanut Stocks and Processing",
-    "timestamp": "2026-08-26T19:19:07.054230+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASサスが発表した落花生在庫レポートで、殻付き食用グレードの季節累計処理量が前年同期比2％減少。商業貯蔵における落花生総在庫は32億ポンドと報告された。処理量の鈍化は需要の弱さを示唆し、在庫水準も堅調に推移。"
-  },
-  {
-    "title": "United States and Canadian Cattle",
-    "timestamp": "2026-08-26T19:19:11.188276+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDAとカナダの公式統計により、米国とカナダの牛群在庫が前年同期比で1%増加したことが確認された。畜牛供給の緩やかな回復傾向を示しており、牛肉供給の増加圧力につながる可能性がある。"
-  },
-  {
     "title": "EIA reports a small rise in US crude oil stocks - engine.online",
     "timestamp": "2026-08-27T07:05:52+00:00",
     "importance": 1,
@@ -273,17 +218,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "亜鉛価格が4年ぶりの高値を付け、ロンドン金属取引所(LME)の在庫が64%急減した。この急激な在庫減少は供給逼迫を示唆しており、亜鉛の需給ひっ迫が鮮明化している。工業用途の拡大と在庫枯渇が価格上昇を加速させている。"
-  },
-  {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-26T18:38:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECのアナリストBousso氏が、ホルムズ海峡の再開通がOPECの減産政策を無効化する可能性を指摘。地政学的リスク軽減に伴う供給安定化がOPEC加盟国の価格支持メカニズムを損なう懸念を提示。既報の地政学緊張緩和シナリオの延長線上の解説。"
   },
   {
     "title": "Trump administration discusses taking stake in Venezuela oil, Axios reports - Reuters",
