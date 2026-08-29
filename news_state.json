@@ -11,17 +11,6 @@
     "summary": "欧州の猛暑と黒海地政学リスクが重なり、小麦などの農産物生産が直撃されている。小麦先物が3年ぶりの高値圏に上昇し、供給懸念が顕在化している。"
   },
   {
-    "title": "トウモロコシと小麦先物、水曜日に数年ぶりの高値を記録 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-26T18:33:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "トウモロコシと小麦先物が数年ぶりの高値を水曜日に記録した。供給不安やウクライナ情勢など複合要因が背景。既に進行中の上昇トレンドの続報である。"
-  },
-  {
     "title": "金価格上昇、ETFに集まるマネー 中長期の投資家がドルから退避 - 日本経済新聞",
     "timestamp": "2026-08-26T20:00:00+00:00",
     "importance": 3,
@@ -31,28 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が上昇し、ETFへの資金流入が増加している。中長期投資家がドル資産から退避する動きが背景。インフレ懸念や金利低下期待などの構造的要因が継続。"
-  },
-  {
-    "title": "金価格は本日8月26日、全面安で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-08-26T18:22:04+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月26日の金相場は全面安で終了。ベトナムメディアの日次相場レポート。具体的な下落率や材料不明のため詳細分析は困難。"
-  },
-  {
-    "title": "銅価格1万4000ドル台回復で「過去最高値」に迫る、AI需要と供給不安が支え中東情勢と米金利が揺さぶる相場の行方 - ダイヤモンド・オンライン",
-    "timestamp": "2026-08-26T19:25:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が1万4000ドル台で過去最高値に迫っている。AI需要と供給不安が相場を支える一方、中東情勢と米金利が変動要因として作用している。"
   },
   {
     "title": "1564. 気候変動に伴う水不足が世界の小麦価格の上昇リスクを高める可能性 - jircas.go.jp",
@@ -130,17 +97,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の通航再開見通しが強まったことで、供給懸念が後退し原油価格が3営業日連続で下落。地政学リスク軽減が相場の重しとなっている。"
-  },
-  {
-    "title": "NY市場動向（午後2時台）：ダウ123ドル安、原油先物0.20ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-26T18:44:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後2時台の相場振り返り。ダウ平均は123ドル安、WTI原油先物は0.20ドル安で推移。軽微な下落を伴うセッション。"
   },
   {
     "title": "本日の燃料価格（8月27日）：世界の原油価格は引き続き下落しています。 - Vietnam.vn",
@@ -1252,5 +1208,82 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が予想外に急落した。ベトナムのメディアが今後の展開を分析・解説している。具体的な下落理由や規模は記事内容が不明のため詳細は判断困難。"
+  },
+  {
+    "title": "アジアの小麦と米の価格は数年来の高値を記録し、コーヒー価格は横ばいだった。 - Vietnam.vn",
+    "timestamp": "2026-08-29T19:22:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "アジアの小麦と米の価格が数年来の高値を更新。コーヒーは横ばい。穀物市場の需給逼迫が継続している。"
+  },
+  {
+    "title": "本日8月29日の金価格は、全般的に急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-29T18:37:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月29日の金価格が全般的に急落した。具体的な急落要因は記事から不明だが、市場の技術的調整またはマクロ環境の変化の可能性。コモディティ投資家は下げの背景を他のニュースと併せて確認が必要。"
+  },
+  {
+    "title": "NY金先物：急落、ウォーシュFRB議長のタカ派発言で9月利上げ観測が急浮上 - TradingView",
+    "timestamp": "2026-08-28T23:14:17+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRB議長のタカ派発言により9月利上げ観測が浮上。金利上昇は金の実質利回りを悪化させるため金先物が急落。米金利動向は金価格の重要な方向付け要因。"
+  },
+  {
+    "title": "2026年8月29日現在の金価格：指輪の金価格は週末にかけて1オンスあたり最大200万ベトナムドン下落しました。 - Vietnam.vn",
+    "timestamp": "2026-08-29T19:35:02+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が週末にかけて1オンスあたり最大200万ベトナムドン下落した。地域的な価格調整であり、グローバル金市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "2026年8月29日の金価格：世界的な価格が急落、SJCの金価格は150万ベトナムドン下落。 - Vietnam.vn",
+    "timestamp": "2026-08-29T19:35:02+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年8月29日、世界的な金価格が急落し、ベトナム国内のSJC金価格も150万ベトナムドン下落した。グローバル市場の下落を受けた追随的な価格調整。"
+  },
+  {
+    "title": "石油関連株 原油相場変動の影響は｜日経モーニングプラスFT（モープラFT） - テレ東BIZ",
+    "timestamp": "2026-08-29T16:18:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "石油関連株と原油相場の関係性について解説する番組企画。具体的な価格変動要因やポジション提言は示されていない。テレビ解説コンテンツの告知記事。"
+  },
+  {
+    "title": "原油価格予測：120ドルの強気シナリオ対60ドルの弱気シナリオ - FinanceFeeds",
+    "timestamp": "2026-08-29T14:26:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アナリストが原油価格の強気シナリオ（120ドル）と弱気シナリオ（60ドル）の2つの見通しを提示。現在の市場環境における相場の広いレンジを示唆している。"
   }
 ]
