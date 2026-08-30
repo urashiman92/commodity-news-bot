@@ -1,71 +1,5 @@
 [
   {
-    "title": "Citrus Fruits",
-    "timestamp": "2026-08-27T20:32:54.626816+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSの柑橘類生産統計で、利用可能生産量が前年比6%増加し、生産額は11%の増加となった。供給量の増加は市場に供給圧力をもたらす一方、価格上昇による売上高の増加が観察されており、需給バランスの変化を示唆している。"
-  },
-  {
-    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
-    "timestamp": "2026-08-27T19:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
-  },
-  {
-    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
-    "timestamp": "2026-08-27T19:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
-  },
-  {
-    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
-    "timestamp": "2026-08-27T19:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
-  },
-  {
-    "title": "“It’s the grain demand, stupid” - Ohio's Country Journal",
-    "timestamp": "2026-08-27T19:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "オハイオ・カントリー・ジャーナルによる穀物需要に焦点を当てた解説記事。WASDE関連のコンテンツとして、穀物価格の変動要因として需要サイドの重要性を強調。供給よりも需要構造の変化が穀物相場を左右する可能性を指摘している。"
-  },
-  {
-    "title": "Zinc price jumps to 4-year high as LME stocks plunge 64% - Mining.com",
-    "timestamp": "2026-08-27T20:59:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "亜鉛価格が4年ぶりの高値を付け、ロンドン金属取引所(LME)の在庫が64%急減した。この急激な在庫減少は供給逼迫を示唆しており、亜鉛の需給ひっ迫が鮮明化している。工業用途の拡大と在庫枯渇が価格上昇を加速させている。"
-  },
-  {
     "title": "Trump administration discusses taking stake in Venezuela oil, Axios reports - Reuters",
     "timestamp": "2026-08-27T21:18:09+00:00",
     "importance": 4,
@@ -273,5 +207,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ベネズエラがOPEC脱退を検討している一方、米国がベネズエラの油田権益について協議を進めている。これはOPEC減産体制の崩壊リスクと、米国による制裁回避・交渉カードの活用を示唆。ベネズエラの原油生産能力（推定100万バレル/日以上の潜在力）がOPECの枠外で市場に流入する可能性がある。"
+  },
+  {
+    "title": "Venezuela's Potential OPEC Exit: Implications for Global Oil Supply and Geopolitics - News and Statistics - IndexBox",
+    "timestamp": "2026-08-29T00:42:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ベネズエラのOPEC脱退の可能性が浮上。ベネズエラは世界最大級の石油埋蔵量を保有するも政治情勢の悪化により供給能力が大幅に低下。脱退が実現すればOPECの減産統制力が弱化し、グローバルな原油供給構造と地政学リスク評価が大きく変わる可能性がある。"
   }
 ]
