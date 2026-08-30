@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格は本日8月27日、大幅に下落して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-08-27T16:10:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月27日の金価格が大幅に下落して取引を終えた。具体的な下落率や背景要因の記述がないため、相場の振り返りコメントと推定される。"
-  },
-  {
-    "title": "原油価格が比較的落ち着いていることがユーロの支え＝ＮＹ為替 - みんかぶ FX/為替",
-    "timestamp": "2026-08-27T15:15:44+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が比較的落ち着いている状況がユーロ相場の支え要因になっているとの市場解説。原油高がエネルギーコストを押し上げ、ユーロ圏経済に重しとなるため、落ち着きが好材料とされている。"
-  },
-  {
-    "title": "NY外為：ドル伸び悩む、原油価格が反落、ホルムズ海峡経由輸出加速 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-27T15:50:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル伸び悩みの中、原油価格が反落。ホルムズ海峡経由の輸出が加速している状況。供給懸念の緩和が価格下押し要因となっている。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ43ドル安、原油先物0.73ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-27T14:31:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前10時台の相場動向を報じたもので、原油先物が0.73ドル上昇。ダウ平均は小幅安で推移。定期的な市場報道の一つ。"
-  },
-  {
-    "title": "NY外為：ドル伸び悩む、原油価格が反落、ホルムズ海峡経由輸出加速 - ｄメニューニュース",
-    "timestamp": "2026-08-27T15:50:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル指数が伸び悩む中、ホルムズ海峡経由の原油輸出が加速している。供給増加圧力により原油価格は反落している。地政学的リスク緩和を示唆。"
-  },
-  {
-    "title": "ホルムズ海峡の再開の見通しを受けて、アジアの原油価格は下落を続けている。 - Vietnam.vn",
-    "timestamp": "2026-08-27T13:05:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の再開見通しを受け、アジアの原油価格が下落傾向を継続。供給リスク低下への市場反応が継続。既報事象の相場評価段階。"
-  },
-  {
     "title": "小麦が3年ぶり高値、黒海輸出への懸念深まる - BigGo ファイナンス",
     "timestamp": "2026-08-27T18:06:00+00:00",
     "importance": 4,
@@ -1219,5 +1153,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "銅は14,200ドル付近で抵抗線に直面して頭打ちとなる一方、銀は180ドルを目指す強気相場が形成中との観測。コモディティ市場内での資産間パフォーマンスの分岐が鮮明化。"
+  },
+  {
+    "title": "金価格高止まり追い風 中国の赤峰黄金、上期純利益56%増 - BigGo ファイナンス",
+    "timestamp": "2026-08-30T12:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中国の主要金鉱山企業・赤峰黄金が上期純利益56%増を報告。金価格の高止まりが業績改善の主要因。中国の金生産動向を示す参考情報。"
+  },
+  {
+    "title": "金価格は本日8月30日、大幅高で取引を終えたが、買い手は依然として大きな損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-08-30T14:13:09+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月30日の金価格は大幅高で終了したものの、買い手の含み損は依然として解消されていない状況を述べたニュース。過去の買値水準と現在値のギャップを指摘する相場観測。"
+  },
+  {
+    "title": "$SPDRゴールド・シェア (GLD.US)$ 金価格が直近で3%急落、金のブル相場は終了したのか？ - Moomoo",
+    "timestamp": "2026-08-30T07:45:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が直近で3%急落し、ブル相場終了の可能性について市場で議論されている。技術的な調整局面の側面が強い。"
+  },
+  {
+    "title": "本日2026年5月4日、金価格は概ね下落傾向にあり、短期的には多くの課題が残っています。専門家は来週に向けてより楽観的な見方をしているのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-08-30T14:46:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年5月4日時点で金価格は下落傾向を示している。短期的な課題が指摘される一方、専門家は来週に向けてやや楽観的な見方を示している。既知の価格動向に関するアナリスト解説。"
+  },
+  {
+    "title": "本日（2026年8月31日）の金価格は売られ過ぎの状態です。市場は米国の金利だけに依存しているわけではありません。投資家はFOMO（機会損失への恐怖）に陥らないようにすべきです。 - Vietnam.vn",
+    "timestamp": "2026-08-30T14:51:12+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が売られ過ぎ状態にあるというアナリスト見解。市場が米国金利に過度に依存していると指摘。投資家へのFOMO警告。"
+  },
+  {
+    "title": "原油価格はこの3つで9割わかる！需要・供給・市場心理から - Mshale",
+    "timestamp": "2026-08-30T14:48:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格を決める3要因（需要・供給・市場心理）について解説した教育的記事。実際の価格変動要因を整理したコモディティ基礎知識の提供が目的。"
+  },
+  {
+    "title": "【速報】9月の電気・ガス料金 大手14社全て値上がり 中東情勢の再悪化で原油価格など上昇 政府の補助金も縮小 - au Webポータル",
+    "timestamp": "2026-08-30T10:05:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢悪化と政府補助金縮小を背景に、9月の電気・ガス料金が大手14社全て値上がり。原油価格上昇が電力・ガス市場に波及。日本の需要サイドへのコスト転嫁が進む。"
+  },
+  {
+    "title": "石油関連株 原油相場変動の影響は｜日経モーニングプラスFT（モープラFT） - テレ東BIZ",
+    "timestamp": "2026-08-29T21:29:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "テレビ東京の経済番組で石油関連株と原油相場の関係性について解説。既に報じられた相場変動の振り返りと業界への影響分析。"
+  },
+  {
+    "title": "伊藤智洋氏「相場のパターン分析 ～シカゴ大豆相場でみる相場習性～」 Alavés Vs Barcelona (EjQi5UqhGw) - Mshale",
+    "timestamp": "2026-08-30T14:27:16+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "伊藤智洋氏によるシカゴ大豆相場のパターン分析・相場習性に関する解説記事。相場の技術的分析視点での考察であり、新規供給情報や需給ニュースではない。"
+  },
+  {
+    "title": "【千賀滉大 投球ダイジェスト】メッツvsマーリンズ MLB2025シーズン 4.2 Copper Price (NfdxfB8w0h) - Mshale",
+    "timestamp": "2026-08-30T12:42:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "MLBの野球試合（メッツ対マーリンズ）における千賀滉大選手の投球内容に関するニュース。銅価格との直接的な関連性はない。"
   }
 ]
