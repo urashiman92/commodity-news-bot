@@ -1,82 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4594ドル｜米国の利上げ観測の高まりが影響し、売り優勢だった模様(2026年8月27日) - OANDA証券",
-    "timestamp": "2026-08-26T23:04:06+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4594ドルまで下落。米国の利上げ観測の高まりが売り圧力となった。金は利上げ環境では利回りのない資産として敬遠される傾向が続く。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議の先行き不透明感や原油需給の逼迫が意識され、原油価格は3営業日ぶりに上昇（2026年8月27日） - OANDA証券",
-    "timestamp": "2026-08-26T23:08:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの和平協議の先行き不透明感と原油需給の逼迫感が意識され、WTI原油が3営業日ぶりに上昇。地政学的リスク要因と需給の引き締まりが価格を支えている。"
-  },
-  {
-    "title": "原油価格の一段の低下が確認されるまでは 金融政策と長期金利の見通しは不透明感が強い状態が続くか - 日経CNBC online",
-    "timestamp": "2026-08-26T23:19:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格のさらなる低下確認までは、金融政策と長期金利の見通しが不透明な状態が続く可能性を指摘したコメンタリー。現在の市場環境における不確実性が強調されている。"
-  },
-  {
-    "title": "ホルムズ海峡の通航再開期待が高まり、国際原油価格は3日続落 - BigGo ファイナンス",
-    "timestamp": "2026-08-26T23:26:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の通航再開見通しが強まったことで、供給懸念が後退し原油価格が3営業日連続で下落。地政学リスク軽減が相場の重しとなっている。"
-  },
-  {
-    "title": "本日の燃料価格（8月27日）：世界の原油価格は引き続き下落しています。 - Vietnam.vn",
-    "timestamp": "2026-08-26T23:46:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "8月27日時点で世界原油価格が引き続き下落している状況の報道。ベトナムの燃料価格情報として既存トレンドの継続を伝えるもの。"
-  },
-  {
-    "title": "室外機の盗難被害、たった4年で約13倍と急増 銅価格高騰が影響か (2026年8月26日掲載) - ライブドアニュース",
-    "timestamp": "2026-08-26T23:44:02+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格の高騰により室外機盗難被害が4年で13倍に急増。スクラップ銅の需要増加が背景。銅スクラップ市場の需給ひっ迫を示唆。"
-  },
-  {
-    "title": "２６日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-26T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "26日の国際商品市況を集計したニュース配信。具体的な価格変動や市場動向の詳細が不明。日次相場の振り返り記事と推定される。"
-  },
-  {
     "title": "シカゴ小麦先物、3年ぶり高値－ロシアとウクライナの戦闘激化懸念 - Bloomberg.com",
     "timestamp": "2026-08-27T07:01:54+00:00",
     "importance": 4,
@@ -108,17 +31,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "ベトナムの株価指数MXVが2,900ポイントまで上昇し、小麦価格が1年間で43%上昇したとの報道。既に進行中の価格上昇トレンドの確認報道。"
-  },
-  {
-    "title": "ロシアがミサイル攻撃強化を検討 黒海穀物供給途絶の懸念で小麦がストップ高、3年ぶり高値 - BigGo ファイナンス",
-    "timestamp": "2026-08-26T23:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシアが黒海への軍事攻撃強化を検討し、穀物輸出ルート途絶の懸念が高まった。小麦先物がストップ高となり、3年ぶりの高値を付けた。供給リスクの顕在化が価格上昇を加速させている。"
   },
   {
     "title": "金相場は高値圏でもみ合い：中央銀行の買いが下支えとなるも、短期の追随売買はリスク・リワードが悪化 - Moomoo",
@@ -165,28 +77,6 @@
     "summary": "金価格は4,600ドル近辺で安定推移。インフレ懸念が後退する中、パウエルFRB議長の講演が注目される。現在の価格水準は既に市場に織り込まれた状況。"
   },
   {
-    "title": "金価格が3カ月ぶり高値から反落 ナティクシスが年末目標を5000ドルに引き上げ - BigGo ファイナンス",
-    "timestamp": "2026-08-26T23:25:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は3カ月ぶり高値から反落したが、ナティクシスが年末目標を5000ドルに引き上げた。上値圏での調整局面と見られる。"
-  },
-  {
-    "title": "NY金先物は続落、直近の急伸一服でPCE統計とジャクソンホール講演を前に利益確定売り｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-08-27T00:18:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が続落。直近の急騰後の利益確定売りが主因。PCE統計とジャクソンホール講演を控えた調整局面と判断される。"
-  },
-  {
     "title": "本日8月27日の金価格：米国のインフレ統計発表後、1％以上下落。 - Vietnam.vn",
     "timestamp": "2026-08-27T04:24:17+00:00",
     "importance": 3,
@@ -220,17 +110,6 @@
     "summary": "原油先物が続落。ホルムズ海峡巡る協議が進展し、供給改善への期待が相場を押し下げている。地政学リスクの緩和が価格低下に寄与。"
   },
   {
-    "title": "中東外交への期待で原油価格が続落、4日連続の下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-26T23:54:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東外交への期待感から原油価格が4日連続で下落。地政学的リスク低下への織り込みが進む。市場は紛争緩和シナリオを反映した調整局面。"
-  },
-  {
     "title": "米国の足を引っ張る中東情勢で原油価格は高止まり、 中間選挙の後の動きも気になりドル円の腰とても強い - ザイFX！",
     "timestamp": "2026-08-27T06:24:00+00:00",
     "importance": 3,
@@ -240,28 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の緊迫化により原油価格が高止まりしている状況を解説。米国中間選挙後の価格動向と強いドル円の関係性について観測コメント。既知の要因がまとめられた相場振り返り記事。"
-  },
-  {
-    "title": "米コモディティー市場－ガソリン、天然ガス、トウモロコシ、小麦、大豆が上昇 原油、金、銀、銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-26T22:28:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で上昇銘柄（ガソリン、天然ガス、穀物）と下落銘柄（原油、貴金属、銅）が混在している市場の日次値動きを報じたニュース。エネルギーと農産物で強弱が分かれている状況。"
-  },
-  {
-    "title": "２６日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-26T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "26日の主要国際商品市況に関する定期的な市況報道。具体的な内容が不明であるため、各商品の価格動向は把握できない。通常の市場振り返り記事と考えられる。"
   },
   {
     "title": "金価格、５０００ドルに接近すればレベル４の警戒警報覚悟 - 三菱マテリアル GOLDPARK",
@@ -383,17 +240,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "渋谷ハチ公前での桑田佳祐ゲリラライブに関するニュース。銅価格とは無関係のエンタメ情報がカテゴリ誤分類されたと推定される。"
-  },
-  {
-    "title": "２６日の主要国際商品市況 (2026年8月27日掲載) - ライブドアニュース",
-    "timestamp": "2026-08-26T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2026年8月26日の主要国際商品市況の定期報告。具体的な価格データや市場動向の詳細が不明。ルーチンの市況レポート。"
   },
   {
     "title": "小麦が3年ぶり高値、黒海輸出への懸念深まる - BigGo ファイナンス",
@@ -1241,5 +1087,82 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報を掲載したニュース。金地金、9999金リング、国際金の価格表を提供している。日次の価格情報であり市場の新規情報ではない。"
+  },
+  {
+    "title": "本日（8月30日）の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-08-29T22:55:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月30日の金価格が全般的に下落した。特定の材料や急落要因の記載なし。日次の相場変動を報じたニュース。"
+  },
+  {
+    "title": "8月30日朝の金価格更新:急落後の予想外の予測を受け取る - Laodong.vn",
+    "timestamp": "2026-08-29T23:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月30日朝の金価格が急落後に予想外の予測を受け取ったとするニュース。具体的な予測内容や価格変動幅が不明。ベトナムの地域ニュースソースであり、グローバル市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "金価格は1日で1オンスあたり150ドル近く下落し、さらなる下落が予想されるか？ - Vietnam.vn",
+    "timestamp": "2026-08-29T23:31:01+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1日で1オンスあたり150ドル近く下落した。記事では追加下落の可能性が指摘されている。既に起きた値動きの解説・観測記事と判断される。"
+  },
+  {
+    "title": "度重なる急激な変動の後、来週の金価格はどうなるでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-08-30T00:13:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が近日中に急激な変動を経験した後の来週の値動き見通しについての解説記事。アナリストの相場観や技術的分析の提示が予想される。"
+  },
+  {
+    "title": "2026年8月30日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
+    "timestamp": "2026-08-29T22:25:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトが2026年8月30日時点の金地金、9999金リング、国際金の価格を掲載。定期的な価格表示の更新であり、特定の市場イベントや供給・需要ショックを示唆するものではない。"
+  },
+  {
+    "title": "8月29日朝、連邦準備制度理事会（FRB）議長の声明を受けて、世界および国内の金価格は急落した。 - Vietnam.vn",
+    "timestamp": "2026-08-29T22:26:34+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月29日、FRB議長の声明を受けて金価格が急落。金は米ドル金利に逆相関するため、FRBの金融政策シグナルが相場を大きく左右。具体的な声明内容が不明だが、利上げ継続や強気スタンスが示唆されたと推察される。"
+  },
+  {
+    "title": "【イラン情勢混迷】原油価格がまた高騰 日本の漁業･酪農に影響懸念 メーカーは値上げや出荷制限の可能性も Automotive Industry (3y9JT43oNz) - Mshale",
+    "timestamp": "2026-08-29T13:06:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢の不安定化により原油価格が高騰。日本の漁業・酪農など下流産業への燃料費コスト増加による影響が顕在化。メーカーの値上げ・出荷制限の可能性が指摘されている。"
   }
 ]
