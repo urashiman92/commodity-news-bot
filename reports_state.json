@@ -44,50 +44,6 @@
     "summary": "イラン情勢の緊迫化に伴い、OPEC+の原油市場への影響力が低下している。一方で中国がエネルギー外交を通じて市場支配力を強化する動きが加速。従来のOPEC減産による価格支配メカニズムが多極化する傾向を示唆。"
   },
   {
-    "title": "Oil extends losses on hopes Middle East talks could ease supply woes - Reuters",
-    "timestamp": "2026-08-27T01:20:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東地域の外交交渉進展への期待感から原油価格が下落している。地政学的リスク低下による供給懸念の緩和が価格押し下げ要因となっており、市場は紛争激化リスクの後退を織り込み始めている。ただし具体的な交渉成果は未定で、今後の動向が不透明な状況である。"
-  },
-  {
-    "title": "Wheat Hits Three-Year High as Russia Prepares to Escalate War - Bloomberg.com",
-    "timestamp": "2026-08-27T03:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "小麦",
-    "summary": "ロシアのウクライナ戦争エスカレーション懸念により、小麦が3年ぶりの高値を更新した。ロシアとウクライナは世界の小麦供給の約30%を占める主要生産国であり、地政学的リスクの急速な悪化が供給逼迫への懸念を急騰させている。コモディティ市場全般にリスク・オン圧力が加わる可能性が高い。"
-  },
-  {
-    "title": "Wheat Hits Three-Year High as Russia Prepares to Escalate War - Bloomberg.com",
-    "timestamp": "2026-08-27T03:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアのウクライナ戦争エスカレーション懸念により、小麦が3年ぶりの高値を更新した。ロシアとウクライナは世界の小麦供給の約30%を占める主要生産国であり、地政学的リスクの急速な悪化が供給逼迫への懸念を急騰させている。コモディティ市場全般にリスク・オン圧力が加わる可能性が高い。"
-  },
-  {
-    "title": "Oil Edges Lower as Traders Weigh Hormuz Talks and Russia Risk - Bloomberg.com",
-    "timestamp": "2026-08-27T05:13:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油相場は小幅安となっており、市場参加者はホルムズ海峡を巡る交渉動向とロシアのリスク要因を見極めている段階。地政学的な不確実性と供給要因のバランスが価格形成を左右している状況。"
-  },
-  {
     "title": "Citrus Fruits",
     "timestamp": "2026-08-27T20:32:54.626816+00:00",
     "importance": 2,
@@ -185,17 +141,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "中国がOPEC+の影響力低下に乗じて原油市場での地位を強化している。イラン戦争関連の地政学的混乱を背景に、OPEC+の協調減産政策の有効性が減少し、中国が価格決定力を増す構図。グローバルサウスの石油需要シフトが加速。"
-  },
-  {
-    "title": "More Sudanese oil available for marine fuel blending as China demand eases - Reuters",
-    "timestamp": "2026-08-27T05:30:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "スーダン産原油が海洋燃料ブレンド向けに供給増加する可能性が報じられた。中国の石油需要が鈍化する中で、スーダン油が従来の用途から海上燃料市場へシフトしている。供給圧力が増加する形でブレント原油に軽度の下落圧力をもたらす可能性がある。"
   },
   {
     "title": "US Northern Plains wheat harvest outpaces average - World Grain",
@@ -416,5 +361,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシア産ディーゼル禁輸に伴い、トルコが米国およびインドからのディーゼル輸入を大幅に増加させている。サプライチェーンの多角化が進行中であり、地政学的な供給シフトが確実に進展。ロシア制裁の迂回効果と非OPEC産油国への需要シフトが継続。"
+  },
+  {
+    "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports - Reuters",
+    "timestamp": "2026-08-30T02:01:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がベネズエラの実業家ベタンクール氏のオイルベンチャーに35%の株式を取得する。米国とベネズエラ間の経済関係改善を示唆し、ベネズエラの原油輸出制裁緩和の可能性が浮上。長期的な原油供給増加につながる可能性がある。"
   }
 ]
