@@ -1,16 +1,5 @@
 [
   {
-    "title": "Trump administration discusses taking stake in Venezuela oil, Axios reports - Reuters",
-    "timestamp": "2026-08-27T21:18:09+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ政権がベネズエラ石油への出資検討を議論。ベネズエラは世界有数の石油埋蔵国だが制裁下にあり、米国資本参入は地政学的に大きなシフト。短期的には米国産油量増加期待で原油売却圧力、長期的には供給確保による価格安定化期待が混在。"
-  },
-  {
     "title": "Two killed in oil tanker fire off South Korea, Yonhap reports - Reuters",
     "timestamp": "2026-08-27T23:57:20+00:00",
     "importance": 2,
@@ -99,17 +88,6 @@
     "summary": "ベネズエラがOPECから脱退する可能性についての分析記事。脱退が実現すればOPEC加盟国減少による結束力低下と、米国制裁下のベネズエラ産原油が市場から排除される供給減少が相殺される一方、Chevronなど米国石油企業がベネズエラ権益の獲得機会を得る可能性を指摘している。"
   },
   {
-    "title": "Vexit? Venezuela weighs OPEC exit as US ties deepen, Bloomberg reports - investingLive",
-    "timestamp": "2026-08-27T22:31:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ベネズエラがOPEC脱退を検討している。同国は米国との関係強化に伴い、OPECからの離脱を天秤にかけている状況。ベネズエラは世界最大級の原油埋蔵量を保有しており、脱退は供給構造の大きな変化となる可能性がある。地政学的緊張とOPEC結束力の動揺が懸念される。"
-  },
-  {
     "title": "Saudis Sell Oil from Gulf of Oman in Sign of More Hormuz Exits - Bloomberg.com",
     "timestamp": "2026-08-28T09:01:42+00:00",
     "importance": 4,
@@ -154,17 +132,6 @@
     "summary": "OPECアナリストのBousso氏は、湾岸地域の戦後の市場シェア争いにおいてOPECが劣位に立つ可能性が高いとコメント。湾岸産油国（特にサウジアラビア・UAE）による積極的な増産戦略により、OPECの市場支配力が低下するリスクを指摘。価格維持機能の弱化が懸念される。"
   },
   {
-    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
-    "timestamp": "2026-08-27T22:30:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がホルムズ海峡再開時の増産に合意したとの報道。地政学的リスク軽減シグナルとして受け取られるが、条件付き（海峡再開時点）のため即座の影響は限定的。供給増加の可能性は中期的に原油価格の上値を抑制する可能性がある。"
-  },
-  {
     "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports - Reuters",
     "timestamp": "2026-08-30T02:01:00+00:00",
     "importance": 3,
@@ -198,17 +165,6 @@
     "summary": "ロシア西部のキリシ製油所がドローン攻撃により火災発生。同製油所は日産約30万バレルの処理能力を持つ主要施設で、ロシアの精製能力の約3-4%に相当。ウクライナ紛争に伴う供給リスクが再度顕在化し、原油価格の上昇圧力となる見通し。"
   },
   {
-    "title": "Venezuela Weighs OPEC Exit as US Discusses Oil Fields Stake - bloomberg.com",
-    "timestamp": "2026-08-27T22:19:23+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ベネズエラがOPEC脱退を検討している一方、米国がベネズエラの油田権益について協議を進めている。これはOPEC減産体制の崩壊リスクと、米国による制裁回避・交渉カードの活用を示唆。ベネズエラの原油生産能力（推定100万バレル/日以上の潜在力）がOPECの枠外で市場に流入する可能性がある。"
-  },
-  {
     "title": "Venezuela's Potential OPEC Exit: Implications for Global Oil Supply and Geopolitics - News and Statistics - IndexBox",
     "timestamp": "2026-08-29T00:42:00+00:00",
     "importance": 4,
@@ -218,5 +174,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "ベネズエラのOPEC脱退の可能性が浮上。ベネズエラは世界最大級の石油埋蔵量を保有するも政治情勢の悪化により供給能力が大幅に低下。脱退が実現すればOPECの減産統制力が弱化し、グローバルな原油供給構造と地政学リスク評価が大きく変わる可能性がある。"
+  },
+  {
+    "title": "PetroChina H1 profit jumps 22%, fuel sales fall as China demand weakens - Reuters",
+    "timestamp": "2026-08-30T15:08:58+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "PetroChina上半期利益が前年同期比22%増加し、石油・ガス価格の堅調さを反映。ただし燃料販売量が減少しており、中国国内需要の弱さが顕在化。経済減速が需要圧力として原油市場の上値を抑制する懸念。"
+  },
+  {
+    "title": "PetroChina H1 profit jumps 22%, fuel sales fall as China demand weakens - Reuters",
+    "timestamp": "2026-08-30T15:08:58+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "PetroChina上半期利益が前年同期比22%増加し、石油・ガス価格の堅調さを反映。ただし燃料販売量が減少しており、中国国内需要の弱さが顕在化。経済減速が需要圧力として原油市場の上値を抑制する懸念。"
   }
 ]
