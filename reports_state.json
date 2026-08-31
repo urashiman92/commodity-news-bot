@@ -1,49 +1,5 @@
 [
   {
-    "title": "USA Crude Oil Stocks Rise Slightly - Rigzone",
-    "timestamp": "2026-08-28T15:14:44+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で米国の原油在庫が小幅上昇したと報告された。「わずかな上昇」との表現から、通常レベルの在庫増加と考えられる。市場予想の範囲内の動きで、価格への大きなインパクトは限定的と想定される。"
-  },
-  {
-    "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-08-28T18:30:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ベネズエラがOPECの創設メンバーであり、かつての重要な産油国であるにもかかわらず、現在の経済危機と政治情勢によりOPEC内での求心力が低下。ベネズエラの離脱の可能性がOPECの団結力を試す要因となり、今後の減産合意の実効性に影響を与える可能性がある。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Rise Slightly - Rigzone",
-    "timestamp": "2026-08-28T15:39:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫がわずかに上昇したとのEIA報告。「わずか」という表現から、在庫増加幅は限定的と推測される。通常の週間在庫統計の定例報告で、特段の供給ショックやサプライズ要因は示唆されていない。"
-  },
-  {
-    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-28T19:15:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストのBousso氏は、湾岸地域の戦後の市場シェア争いにおいてOPECが劣位に立つ可能性が高いとコメント。湾岸産油国（特にサウジアラビア・UAE）による積極的な増産戦略により、OPECの市場支配力が低下するリスクを指摘。価格維持機能の弱化が懸念される。"
-  },
-  {
     "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports - Reuters",
     "timestamp": "2026-08-30T02:01:00+00:00",
     "importance": 3,
@@ -196,5 +152,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "イラン情勢の緊迫化により中東産油国の供給不安が高まる中、アジア系製油所がアルゼンチン産油の買い付けを急増させている。従来の中東依存から供給源の多角化が進み、シェール産油国と新興産油国のプレミアム圧縮が予想される。地政学リスクによる供給ショック懸念が原油価格を支持している。"
+  },
+  {
+    "title": "Could Lower Corn Yields Push Prices to $6 in September? - Successful Farming",
+    "timestamp": "2026-08-31T17:20:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "本レポートは、トウモロコシの収量低下がトウモロコシ価格を9月に1ブッシェル6ドルまで押し上げる可能性を指摘している。WASDE関連の分析記事として、供給サイド（収量）の悪化シナリオを提示しており、価格上昇圧力のシナリオに言及している。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
+    "timestamp": "2026-08-31T15:28:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
+    "timestamp": "2026-08-31T15:28:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
+    "timestamp": "2026-08-31T15:28:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
+    "timestamp": "2026-08-31T15:28:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
+  },
+  {
+    "title": "Corn Rally Reaches $5.40 Selling Zone as U.S. Yield Concerns Build - AgroLatam",
+    "timestamp": "2026-08-31T19:42:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシが$5.40の売却圏まで上昇した。米国の利回り懸念が強まっており、供給リスクが市場を支配している。Crop Progress等の定期統計発表に基づくもので、歴史的な価格水準への接近は投資家にとって重要なシグナルとなっている。"
+  },
+  {
+    "title": "Oil to hold above $80 a barrel as Middle East supply risks persist - Reuters",
+    "timestamp": "2026-08-31T11:08:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の供給リスクが継続する中、原油価格は1バレル80ドル以上を維持する見通しが示されている。地政学的緊張がサポート要因となり、供給途絶のリスクが価格下支えとして作用している。現在の価格水準は需給タイトネスと地政学的プレミアムを反映している。"
+  },
+  {
+    "title": "Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters",
+    "timestamp": "2026-08-31T11:57:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシアの穀物輸出がウクライナ情勢に伴う黒海貿易の混乱を受け、バルト海経由へのシフトを余儀なくされている。黒海経由の輸出ルートは地政学的リスクで寸断状態にあり、代替ルート開拓は輸送コスト増加と供給経路の複雑化を招く。グローバルな小麦供給の不確実性が高まり、価格上昇圧力が継続。"
+  },
+  {
+    "title": "Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters",
+    "timestamp": "2026-08-31T11:57:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの穀物輸出がウクライナ情勢に伴う黒海貿易の混乱を受け、バルト海経由へのシフトを余儀なくされている。黒海経由の輸出ルートは地政学的リスクで寸断状態にあり、代替ルート開拓は輸送コスト増加と供給経路の複雑化を招く。グローバルな小麦供給の不確実性が高まり、価格上昇圧力が継続。"
+  },
+  {
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - Reuters",
+    "timestamp": "2026-08-31T16:19:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に落ち込んだ。SPRは供給不安時の重要なバッファであり、その枯渇は原油の上値支持を弱める一方、地政学リスク時の供給保証能力の喪失を意味する。バイデン政権による過去の放出政策が影響。"
+  },
+  {
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - Reuters",
+    "timestamp": "2026-08-31T16:19:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に落ち込んだ。SPRは供給不安時の重要なバッファであり、その枯渇は原油の上値支持を弱める一方、地政学リスク時の供給保証能力の喪失を意味する。バイデン政権による過去の放出政策が影響。"
   }
 ]
