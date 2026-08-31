@@ -11,61 +11,6 @@
     "summary": "EIA週間原油在庫統計で米国の原油在庫が小幅上昇したと報告された。「わずかな上昇」との表現から、通常レベルの在庫増加と考えられる。市場予想の範囲内の動きで、価格への大きなインパクトは限定的と想定される。"
   },
   {
-    "title": "Copper rises, set for eighth weekly gain on falling LME stocks - Business Recorder",
-    "timestamp": "2026-08-28T06:37:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が上昇し、8週連続での週間ベースでの上げを見込んでいる。LME（ロンドン金属取引所）の在庫減少が価格上昇を支えている。在庫の継続的な減少が需給タイト化を示唆し、銅の構造的な強気要因となっている。"
-  },
-  {
-    "title": "Venezuela weighs OPEC exit as producer group faces growing fragmentation - World Oil",
-    "timestamp": "2026-08-28T13:41:53+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ベネズエラがOPEC離脱を検討しており、OPEC内の結束が急速に弱体化している。加盟国間の利益相反と減産合意の実行が困難化する可能性が高まり、供給サイドの不確実性が急増。OPEC減産体制の崩壊シナリオが市場で再評価される可能性が生じた。"
-  },
-  {
-    "title": "Venezuela weighs OPEC exit as producer group faces growing fragmentation - World Oil",
-    "timestamp": "2026-08-28T13:41:53+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "ベネズエラがOPEC離脱を検討しており、OPEC内の結束が急速に弱体化している。加盟国間の利益相反と減産合意の実行が困難化する可能性が高まり、供給サイドの不確実性が急増。OPEC減産体制の崩壊シナリオが市場で再評価される可能性が生じた。"
-  },
-  {
-    "title": "Chevron Could Be Big Winner If Venezuela Pulls Out of OPEC - 24/7 Wall St.",
-    "timestamp": "2026-08-28T11:48:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ベネズエラがOPECから脱退する可能性についての分析記事。脱退が実現すればOPEC加盟国減少による結束力低下と、米国制裁下のベネズエラ産原油が市場から排除される供給減少が相殺される一方、Chevronなど米国石油企業がベネズエラ権益の獲得機会を得る可能性を指摘している。"
-  },
-  {
-    "title": "Saudis Sell Oil from Gulf of Oman in Sign of More Hormuz Exits - Bloomberg.com",
-    "timestamp": "2026-08-28T09:01:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがオマーン湾での原油販売を開始し、ホルムズ海峡への依存低下傾向が示唆された。これは地政学的リスク（イラン対立やホルムズ海峡封鎖懸念）への対抗措置と見られ、サウジの戦略的な供給ルート多角化を反映している。ホルムズ海峡経由の輸出削減は中東供給の不確実性低下を意味するが、同時に代替ルート活用による供給分散は地政学プレミアムの縮小につながる可能性がある。"
-  },
-  {
     "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-08-28T18:30:00+00:00",
     "importance": 4,
@@ -196,5 +141,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が売却される中、原油価格が上昇し、長期金利が高水準を維持している。米国金利の高止まりがドル高圧力となり、ドル建てコモディティの価格抑制要因となる一方、原油は需要懸念や地政学リスク、あるいはサプライサイド要因で上昇している可能性がある。リスク資産売却とコモディティ価格の乖離は市場不安を示唆。"
+  },
+  {
+    "title": "Corn prices climb before harvest as demand stays strong and yield questions linger - Brownfield Ag News",
+    "timestamp": "2026-08-31T13:02:57+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ価格が収穫前に上昇している。需要が堅調に推移する一方で、収穫高に関する不確実性が残存している。供給面での懸念と需要の堅さが価格を支持している状況が続いている。"
+  },
+  {
+    "title": "LatAm gushers and possible Venezuela exit a nightmare for Opec - Arabian Gulf Business Insight | AGBI",
+    "timestamp": "2026-08-31T10:40:58+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ラテンアメリカの石油生産急増とベネズエラのOPEC離脱の可能性が、OPEC減産政策に対する重大な脅威となっている。特にブラジルやガイアナなど新規産油国の急速な産出増加により、OPEC+ の市場支配力が著しく低下し、減産による価格維持戦略の有効性が大きく損なわれる懸念が示唆されている。"
+  },
+  {
+    "title": "Europe stocks edge lower as oil jumps; monthly gain in sight - Reuters",
+    "timestamp": "2026-08-31T08:30:29+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "欧州株が軟調に推移する中、原油価格は上昇している。月間ベースではコモディティ全般に上昇余地がある見通し。原油高は輸入国である欧州の景気重荷となる一方、エネルギー関連株には支援材料となる複雑な展開。"
+  },
+  {
+    "title": "Europe stocks edge lower as oil jumps; monthly gain in sight - Reuters",
+    "timestamp": "2026-08-31T08:30:29+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "欧州株が軟調に推移する中、原油価格は上昇している。月間ベースではコモディティ全般に上昇余地がある見通し。原油高は輸入国である欧州の景気重荷となる一方、エネルギー関連株には支援材料となる複雑な展開。"
+  },
+  {
+    "title": "Asia Refiners Scoop Up Argentine Oil as Iran War Hits Supply - Bloomberg.com",
+    "timestamp": "2026-08-31T06:20:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化により中東産油国の供給不安が高まる中、アジア系製油所がアルゼンチン産油の買い付けを急増させている。従来の中東依存から供給源の多角化が進み、シェール産油国と新興産油国のプレミアム圧縮が予想される。地政学リスクによる供給ショック懸念が原油価格を支持している。"
   }
 ]
