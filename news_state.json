@@ -1,16 +1,5 @@
 [
   {
-    "title": "FRB議長ウォーシュ氏がタカ派発言、金価格は4,560ドルを割り込む - BigGo ファイナンス",
-    "timestamp": "2026-08-28T15:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB議長ウォーシュ氏がタカ派的な発言を行い、金価格が4,560ドル以下に下落した。高金利継続への懸念が機械的に金価格を圧迫している。"
-  },
-  {
     "title": "NY金先物：急落、ウォーシュFRB議長のタカ派発言で9月利上げ観測が急浮上 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-08-28T23:14:00+00:00",
     "importance": 4,
@@ -20,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "FRB議長のタカ派発言により9月利上げ観測が高まった。金利上昇は金の利回りを相対的に低下させるため、金先物は急落。ドル強化も金価格の下押し要因。"
-  },
-  {
-    "title": "【8月の金市場】金価格は4,500～5,000ドルへ再上昇するのか――中央銀行の金買いと米財政リスクが支える「金再評価」の行方 - ゴールドオンライン",
-    "timestamp": "2026-08-28T20:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月の金市場見通しとして、中央銀行による買い需要と米国の財政リスク要因により、金価格が4,500～5,000ドルへの再上昇が見込まれている。既存の構造的支援要因（中銀買い・財政不安）が継続中であることを確認するもの。"
-  },
-  {
-    "title": "エジプトの金価格が急騰、ジャクソンホールでのウォーシュ議長講演を控え21金は6490ポンドを記録 - BigGo ファイナンス",
-    "timestamp": "2026-08-28T18:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "エジプト金市場で21金が6490ポンドまで上昇。ジャクソンホール経済シンポジウムでのFRB議長講演控えで、金利低下期待が金買いを牽引。米金融政策の転換シグナル待機の中での上昇。"
   },
   {
     "title": "【注目トピックス 市況・概況】NY金先物：急落、ウォーシュFRB議長のタカ派発言で9月利上げ観測が急浮上 - マネーポストWEB",
@@ -108,28 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が小幅反落。金融政策の不透明性からリスク回避の売りが相場を圧迫している。市場センチメントの悪化が原油需要見通しを弱気にさせている。"
-  },
-  {
-    "title": "大豆先物、中国の需要増加を受けて契約最高値を更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-28T20:09:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物が契約最高値を更新した。中国の需要増加が主な牽引役。市場はタイト感を強めている。"
-  },
-  {
-    "title": "リアルタイムアンケートオンライン｜チュートリアル Copper Price (HNVZ6PUuDS) - Mshale",
-    "timestamp": "2026-08-28T16:15:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格に関するリアルタイムアンケートのチュートリアル記事。具体的なニュースイベントではなく、オンラインツールの使用方法説明と推定される。市場への直接的な影響はない。"
   },
   {
     "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
@@ -1428,5 +1373,126 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "戦時下におけるコモディティ市場の動向に関する解説記事。地政学的緊張がコモディティ価格に与える影響について論じたものと考えられる。具体的なデータや新規情報がないため、既存情報の振り返りと推測される。"
+  },
+  {
+    "title": "トルコの黒海穀物計画提案を受け、CBOT小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-31T19:32:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "トルコが黒海穀物回廊に代わる新たな穀物輸出計画を提案。小麦供給懸念の緩和が価格下押し要因に。ウクライナ産小麦の代替ルート確保により供給安定期待が広がった。"
+  },
+  {
+    "title": "大口ヒモ付きアルミ地金価格／１０～１２月は２０円安、６７０円／５四半期ぶり反落も高値水準 - 日刊鉄鋼新聞 Japan Metal Daily",
+    "timestamp": "2026-08-31T20:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10～12月期の大口ヒモ付きアルミ地金価格が670円で前期比20円安。5四半期ぶりの反落だが絶対水準としては依然高値を維持している状況。"
+  },
+  {
+    "title": "世界の金価格は下落を続け、1オンスあたり4400ドルに迫っている。 - Vietnam.vn",
+    "timestamp": "2026-08-31T16:31:59+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が下落を続け、1オンスあたり4400ドルに接近している。報道は価格動向の現況報告であり、既に市場で織り込まれた傾向の述べ立てと考えられる。"
+  },
+  {
+    "title": "連邦準備制度の利上げ懸念で金価格が3%下落、アジアの金鉱株も急落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-31T06:26:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの利上げ懸念を背景に金価格が3%下落した。利上げ環境では金利を生まないコモディティの相対的な魅力が低下する。アジア金鉱株も連動して急落。"
+  },
+  {
+    "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ロイター",
+    "timestamp": "2026-08-31T20:24:09+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン間の軍事衝突が再燃し、原油先物が2.5%超上昇した。中東地域での地政学的緊張の高まりが、原油供給の不安定性を増している。地域の主要産油国であるイランを含む紛争リスクが顕在化した。"
+  },
+  {
+    "title": "米・イランが1カ月ぶりに攻撃応酬－原油価格上昇、戦闘長期化を警戒 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-08-31T18:54:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランが1ヶ月ぶりに攻撃応酬を実施。中東地政学リスクが再燃し原油価格が上昇。戦闘の長期化懸念が市場圧迫要因。"
+  },
+  {
+    "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ニューズウィーク日本版",
+    "timestamp": "2026-08-31T20:23:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン間の軍事衝突が再燃し、中東地域での地政学的リスクが急速に高まった。原油先物が2.5%超上昇し、市場は中東からの石油供給途絶の可能性を織り込み始めている。イランは世界有数の産油国であり、紛争の拡大は世界的な供給不安を招く。"
+  },
+  {
+    "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ｄメニューニュース",
+    "timestamp": "2026-08-31T20:32:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の軍事衝突リスクが再燃し、中東地域の地政学的緊張が高まっている。ペルシャ湾経由の石油供給の断絶懸念から原油先物が2.5％超上昇した。中東産油国への有事プレミアムが価格に織り込まれている。"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ渋り、原油相場は底堅い 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-31T05:46:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東京市場でドル・円は下げ渋りながら推移。原油相場は底堅い動きを見せている。為替と商品相場の相互作用による軽微な相場解説。"
+  },
+  {
+    "title": "【ベッセント米財務長官】「原油価格は下落」(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-08-31T14:32:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベッセント米財務長官が原油価格の下落を述べた。政策当局者による相場観コメントだが、具体的な根拠や新規情報が不明。既に市場で織り込まれている可能性が高い。"
+  },
+  {
+    "title": "大豆先物、利益確定売りで高値から反落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-08-31T19:37:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物が高値から利益確定売りにより反落した。技術的なポジション調整による売圧。需給ファンダメンタルズに大きな変化なし。"
   }
 ]
