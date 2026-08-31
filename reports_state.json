@@ -273,5 +273,170 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に落ち込んだ。SPRは供給不安時の重要なバッファであり、その枯渇は原油の上値支持を弱める一方、地政学リスク時の供給保証能力の喪失を意味する。バイデン政権による過去の放出政策が影響。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-31T23:52:41.669335+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育段階、作物状態を報告。予想との乖離幅が不明なため、具体的な市場インパクトは判断不可。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-31T23:52:41.669335+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育段階、作物状態を報告。予想との乖離幅が不明なため、具体的な市場インパクトは判断不可。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-08-31T23:52:41.669335+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育段階、作物状態を報告。予想との乖離幅が不明なため、具体的な市場インパクトは判断不可。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 58% Good to Excellent as of Aug. 30 - DTN Progressive Farmer",
+    "timestamp": "2026-08-31T08:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポート（8月30日時点）によると、トウモロコシは57%が良好～秀良、大豆は58%が良好～秀良と評価された。両作物ともほぼ平年並みの生育状況を示しており、市場予想の範囲内の結果である。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Rated 57% Good to Excellent; Soybeans 58% Good to Excellent as of Aug. 30 - DTN Progressive Farmer",
+    "timestamp": "2026-08-31T08:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progressレポート（8月30日時点）によると、トウモロコシは57%が良好～秀良、大豆は58%が良好～秀良と評価された。両作物ともほぼ平年並みの生育状況を示しており、市場予想の範囲内の結果である。"
+  },
+  {
+    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
+    "timestamp": "2026-08-31T21:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
+  },
+  {
+    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
+    "timestamp": "2026-08-31T21:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
+  },
+  {
+    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
+    "timestamp": "2026-08-31T21:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
+  },
+  {
+    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
+    "timestamp": "2026-08-31T21:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "綿花",
+    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
+  },
+  {
+    "title": "Could Corn Prices Rally Beyond $5.40 as U.S. Yields Fall? - AgroLatam",
+    "timestamp": "2026-08-31T19:42:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの収量低下シナリオが注目されており、価格が$5.40を超える上昇の可能性が指摘されている。Crop Progress等の収量データが市場予想を下回る場合、供給不安から急騰の余地がある。ただし具体的な最新収量数値が示されていないため、現段階では見通しベースの解説と考えられる。"
+  },
+  {
+    "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
+    "timestamp": "2026-08-29T02:36:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が原油産出量の増加を発表する予定だが、実際の増産実現性と需要家（バイヤー）の存在について疑問が呈示されている。供給増加は価格下落圧力だが、増産実行不可能性や需要不足が顕在化すれば相殺される可能性がある。"
+  },
+  {
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - reuters.com",
+    "timestamp": "2026-08-31T16:19:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に低下した。SPR枯渇はエネルギー供給逼迫の懸念を高め、原油価格の上値支持要因となる。政府備蓄の枯渇は市場の心理的なセーフティネット喪失を意味し、供給不安定化時の価格変動性が増大する可能性がある。"
+  },
+  {
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - reuters.com",
+    "timestamp": "2026-08-31T16:19:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に低下した。SPR枯渇はエネルギー供給逼迫の懸念を高め、原油価格の上値支持要因となる。政府備蓄の枯渇は市場の心理的なセーフティネット喪失を意味し、供給不安定化時の価格変動性が増大する可能性がある。"
+  },
+  {
+    "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-31T22:06:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化がエネルギー市場のリスクプレミアムを押し上げ、原油価格が上昇。これに伴いアジア株式市場は下落圧力を受ける見通し。地政学的リスクによる供給懸念が市場心理を悪化させている。"
+  },
+  {
+    "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-08-31T22:06:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イラン情勢の緊迫化がエネルギー市場のリスクプレミアムを押し上げ、原油価格が上昇。これに伴いアジア株式市場は下落圧力を受ける見通し。地政学的リスクによる供給懸念が市場心理を悪化させている。"
   }
 ]
