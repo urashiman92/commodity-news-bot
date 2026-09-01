@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（8月30日）の金価格：全般的に下落。 - Vietnam.vn",
-    "timestamp": "2026-08-29T22:55:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月30日の金価格が全般的に下落した。特定の材料や急落要因の記載なし。日次の相場変動を報じたニュース。"
-  },
-  {
-    "title": "8月30日朝の金価格更新:急落後の予想外の予測を受け取る - Laodong.vn",
-    "timestamp": "2026-08-29T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月30日朝の金価格が急落後に予想外の予測を受け取ったとするニュース。具体的な予測内容や価格変動幅が不明。ベトナムの地域ニュースソースであり、グローバル市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "金価格は1日で1オンスあたり150ドル近く下落し、さらなる下落が予想されるか？ - Vietnam.vn",
-    "timestamp": "2026-08-29T23:31:01+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1日で1オンスあたり150ドル近く下落した。記事では追加下落の可能性が指摘されている。既に起きた値動きの解説・観測記事と判断される。"
-  },
-  {
     "title": "度重なる急激な変動の後、来週の金価格はどうなるでしょうか？ - Vietnam.vn",
     "timestamp": "2026-08-30T00:13:42+00:00",
     "importance": 2,
@@ -42,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が近日中に急激な変動を経験した後の来週の値動き見通しについての解説記事。アナリストの相場観や技術的分析の提示が予想される。"
-  },
-  {
-    "title": "2026年8月30日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
-    "timestamp": "2026-08-29T22:25:46+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトが2026年8月30日時点の金地金、9999金リング、国際金の価格を掲載。定期的な価格表示の更新であり、特定の市場イベントや供給・需要ショックを示唆するものではない。"
-  },
-  {
-    "title": "8月29日朝、連邦準備制度理事会（FRB）議長の声明を受けて、世界および国内の金価格は急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-29T22:26:34+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月29日、FRB議長の声明を受けて金価格が急落。金は米ドル金利に逆相関するため、FRBの金融政策シグナルが相場を大きく左右。具体的な声明内容が不明だが、利上げ継続や強気スタンスが示唆されたと推察される。"
   },
   {
     "title": "金相場価格デイリーコメント週間まとめ（8/24〜8/28）｜水野崇 - mbp-japan.com",
@@ -1549,5 +1494,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格上昇がインフレ懸念を引き起こし、債券売却と株価下落を招いている。エネルギーコモディティと金融市場のクロスアセット連動を示唆している。"
+  },
+  {
+    "title": "本日9月2日の金価格：債券利回りと米ドルの上昇を受け、2％以上下落し、2週間ぶりの安値となった。 - Vietnam.vn",
+    "timestamp": "2026-09-01T22:56:19+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2%以上下落し2週間ぶりの安値を付けた。債券利回りの上昇と米ドル強化が主要な下押し要因。既知の金融環境シフトの延長線上での値動き。"
+  },
+  {
+    "title": "金価格が下落、米雇用統計と中東情勢が利上げ観測を左右 - Межа. Новини України.",
+    "timestamp": "2026-09-01T06:52:06+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米雇用統計の結果が金価格を下落させた。中東情勢の緊張は存在するが、米国の利上げ観測が金相場の方向性を左右している。"
+  },
+  {
+    "title": "建国記念日（9月2日）の金価格：世界的な価格は急落したが、国内価格は安定していた。 - Vietnam.vn",
+    "timestamp": "2026-09-01T21:54:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの建国記念日（9月2日）における金価格動向についての報道。世界的には金価格が急落したが、国内価格は安定を維持した。国内市場と国際市場の価格乖離を記録したニュース。"
+  },
+  {
+    "title": "米国とイランの交戦再開に国際原油価格急騰…WTI90ドル突破 - ｄメニューニュース",
+    "timestamp": "2026-09-01T22:26:42+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事交戦が再開され、地政学的緊張が急速に高まった。WTI原油が90ドルを突破し、大幅な価格上昇が発生。中東地域の主要供給インフラへのリスク懸念から市場が反応。"
+  },
+  {
+    "title": "原油先物が4ドル超急騰、5週間ぶり高値 米イラン戦闘再開で供給懸念 - BigGo ファイナンス",
+    "timestamp": "2026-09-01T21:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の戦闘再開により、中東地域からの原油供給が脅かされるとの懸念が急速に広がった。原油先物は4ドル超の急騰を記録し、5週間ぶりの高値水準に到達した。地政学的リスク要因が相場を大きく押し上げている。"
+  },
+  {
+    "title": "東京為替見通し＝ドル円、原油価格と米長期金利上昇で堅調推移も円買い介入に警戒か - ザイFX！",
+    "timestamp": "2026-09-01T23:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル円相場は原油価格上昇と米長期金利上昇によりドル高基調で推移。ただし日本銀行による円買い介入の可能性が警戒材料となっている。為替相場の見通し解説記事。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国がイランに攻撃を行ったとの報道が影響し、原油価格は2営業日続伸（2026年9月2日） - OANDA証券",
+    "timestamp": "2026-09-01T23:15:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国によるイラン攻撃との報道が地政学的リスク要因として認識され、原油価格は2営業日続伸。中東の地政学的緊張が供給懸念を喚起。"
+  },
+  {
+    "title": "原油価格の上昇がインフレ懸念を煽り、債券利回りが上昇。株価は下落した。 - TradingView",
+    "timestamp": "2026-09-01T16:34:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の上昇によりインフレ懸念が高まり、債券利回りが上昇した。これに伴い株価は下落。原油相場の基本的な需給・インフレ連動メカニズムを反映した相場展開。"
+  },
+  {
+    "title": "FRBウォーシュ氏の発言は銅価格をさらに押し下げるか？ - Traders Union",
+    "timestamp": "2026-09-01T12:19:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "FRB高官ウォーシュ氏の発言が報道されており、金融引き締め基調が継続される可能性を示唆。ドル強化と景気減速懸念が銅需要を圧迫し価格下押し圧力となる見通し。"
   }
 ]
