@@ -407,17 +407,6 @@
     "summary": "イラン情勢の緊迫化がエネルギー市場のリスクプレミアムを押し上げ、原油価格が上昇。これに伴いアジア株式市場は下落圧力を受ける見通し。地政学的リスクによる供給懸念が市場心理を悪化させている。"
   },
   {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-08-29T21:29:35+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストのBousso氏が、ホルムズ海峡の再開がOPECの減産戦略に悪影響を及ぼす可能性を指摘。同海峡は世界の石油供給の約3分の1が通過する重要拠点であり、再開による供給増加が価格下押し圧力となることを警告している。"
-  },
-  {
     "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks - Reuters",
     "timestamp": "2026-09-01T00:56:00+00:00",
     "importance": 4,
@@ -636,5 +625,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEが2020年のOPEC離脱後、原油生産量が過去最高水準に接近していると報じられた。OPEC減産合意から外れた同国の増産は供給競争を激化させ、OPECの市場支配力を低下させる重要な転換点。地政学的な供給シフトが進行中。"
+  },
+  {
+    "title": "Turning to Technology, USDA Leaders Want Fewer Surprises in Acreage, Yield Estimates - DTN Progressive Farmer",
+    "timestamp": "2026-09-01T09:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの指導部が、作付面積・単収推定値のサプライズを減らすため技術活用に転換する方針を示した。現在のシステムの精度改善を目指す継続的な取り組みで、即座の大きな影響は限定的。農業統計の透明性と予測可能性向上を狙う。"
+  },
+  {
+    "title": "Turning to Technology, USDA Leaders Want Fewer Surprises in Acreage, Yield Estimates - DTN Progressive Farmer",
+    "timestamp": "2026-09-01T09:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAの指導部が、作付面積・単収推定値のサプライズを減らすため技術活用に転換する方針を示した。現在のシステムの精度改善を目指す継続的な取り組みで、即座の大きな影響は限定的。農業統計の透明性と予測可能性向上を狙う。"
+  },
+  {
+    "title": "Turning to Technology, USDA Leaders Want Fewer Surprises in Acreage, Yield Estimates - DTN Progressive Farmer",
+    "timestamp": "2026-09-01T09:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAの指導部が、作付面積・単収推定値のサプライズを減らすため技術活用に転換する方針を示した。現在のシステムの精度改善を目指す継続的な取り組みで、即座の大きな影響は限定的。農業統計の透明性と予測可能性向上を狙う。"
+  },
+  {
+    "title": "Turning to Technology, USDA Leaders Want Fewer Surprises in Acreage, Yield Estimates - DTN Progressive Farmer",
+    "timestamp": "2026-09-01T09:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAの指導部が、作付面積・単収推定値のサプライズを減らすため技術活用に転換する方針を示した。現在のシステムの精度改善を目指す継続的な取り組みで、即座の大きな影響は限定的。農業統計の透明性と予測可能性向上を狙う。"
   }
 ]
