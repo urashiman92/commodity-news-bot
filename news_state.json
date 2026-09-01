@@ -1,49 +1,5 @@
 [
   {
-    "title": "アジアの小麦と米の価格は数年来の高値を記録し、コーヒー価格は横ばいだった。 - Vietnam.vn",
-    "timestamp": "2026-08-29T19:22:58+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "アジアの小麦と米の価格が数年来の高値を更新。コーヒーは横ばい。穀物市場の需給逼迫が継続している。"
-  },
-  {
-    "title": "2026年8月29日現在の金価格：指輪の金価格は週末にかけて1オンスあたり最大200万ベトナムドン下落しました。 - Vietnam.vn",
-    "timestamp": "2026-08-29T19:35:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が週末にかけて1オンスあたり最大200万ベトナムドン下落した。地域的な価格調整であり、グローバル金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "2026年8月29日の金価格：世界的な価格が急落、SJCの金価格は150万ベトナムドン下落。 - Vietnam.vn",
-    "timestamp": "2026-08-29T19:35:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年8月29日、世界的な金価格が急落し、ベトナム国内のSJC金価格も150万ベトナムドン下落した。グローバル市場の下落を受けた追随的な価格調整。"
-  },
-  {
-    "title": "2026年8月29日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
-    "timestamp": "2026-08-29T19:55:18+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報を掲載したニュース。金地金、9999金リング、国際金の価格表を提供している。日次の価格情報であり市場の新規情報ではない。"
-  },
-  {
     "title": "本日（8月30日）の金価格：全般的に下落。 - Vietnam.vn",
     "timestamp": "2026-08-29T22:55:13+00:00",
     "importance": 2,
@@ -416,17 +372,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢悪化と政府補助金縮小を背景に、9月の電気・ガス料金が大手14社全て値上がり。原油価格上昇が電力・ガス市場に波及。日本の需要サイドへのコスト転嫁が進む。"
-  },
-  {
-    "title": "石油関連株 原油相場変動の影響は｜日経モーニングプラスFT（モープラFT） - テレ東BIZ",
-    "timestamp": "2026-08-29T21:29:39+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "テレビ東京の経済番組で石油関連株と原油相場の関係性について解説。既に報じられた相場変動の振り返りと業界への影響分析。"
   },
   {
     "title": "伊藤智洋氏「相場のパターン分析 ～シカゴ大豆相場でみる相場習性～」 Alavés Vs Barcelona (EjQi5UqhGw) - Mshale",
@@ -1549,5 +1494,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が88.74ドルで続伸している。速報的な価格更新であるが、具体的な供給ショックやファンダメンタルズの変化は記事から不明。"
+  },
+  {
+    "title": "米国がイランに再び空爆、トランプ氏「極めて正当」 原油価格は高騰 - 朝日新聞",
+    "timestamp": "2026-09-01T19:38:19+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイランに対して空爆を実施し、トランプ氏が正当性を主張。中東での軍事紛争激化により原油供給リスクが高まり、原油価格が急騰。イラン産原油の供給途絶や地域情勢不安定化がコモディティ市場に大きな影響。"
+  },
+  {
+    "title": "原油先物4ドル超急騰、5週間ぶり高値 イラン情勢緊迫化で - ニューズウィーク日本版",
+    "timestamp": "2026-09-01T20:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化により原油先物が4ドル超急騰し、5週間ぶりの高値を更新。中東地政学リスクの顕在化で供給懸念が急速に高まった。5%前後の急上昇は市場参加者にとって予想外の展開。"
+  },
+  {
+    "title": "原油先物4ドル超急騰、5週間ぶり高値　イラン情勢緊迫化で - ｄメニューニュース",
+    "timestamp": "2026-09-01T20:19:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化により原油先物が4ドル超急騰し、5週間ぶりの高値を更新。中東地政学リスクが供給懸念を材料に価格を大きく押し上げた。"
+  },
+  {
+    "title": "原油先物4ドル超急騰、5週間ぶり高値 イラン情勢緊迫化で - Infoseek",
+    "timestamp": "2026-09-01T20:13:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン情勢の緊迫化を受け、原油先物が4ドル超上昇し5週間ぶりの高値を付けた。地政学的リスクによる供給懸念が市場を買い圧力で支配。コモディティ投資家にとって注視すべき地政学イベント。"
+  },
+  {
+    "title": "原油価格の高騰がインフレ懸念を煽り、債券の売り圧力が強まる中、株価も下落した - TradingView",
+    "timestamp": "2026-09-01T12:23:42+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇がインフレ懸念を引き起こし、債券売却と株価下落を招いている。エネルギーコモディティと金融市場のクロスアセット連動を示唆している。"
   }
 ]
