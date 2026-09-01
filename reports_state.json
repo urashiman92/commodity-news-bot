@@ -614,5 +614,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "金鉱株が8月に数十年ぶりの好成績を記録した。これは通貨供給量増加への懸念や実質金利低下による「通貨切り下げ取引」の再燃が背景。金融緩和環境が金および金鉱株の需要を支援している状況が続いている。"
+  },
+  {
+    "title": "Crop progress: Soybean ratings tilt lower - Farm Progress",
+    "timestamp": "2026-08-31T21:12:24+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農務省の定期Crop Progress報告において、大豆の生育評価（good/excellent rating）が低下傾向を示した。降雨不足や生育地域の天候悪化が懸念される。今後のWASDEレポートで生産量見通しが下方修正される可能性がある。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow",
+    "timestamp": "2026-09-01T14:27:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEが2020年のOPEC離脱後、原油生産量が過去最高水準に接近していると報じられた。OPEC減産合意から外れた同国の増産は供給競争を激化させ、OPECの市場支配力を低下させる重要な転換点。地政学的な供給シフトが進行中。"
   }
 ]
