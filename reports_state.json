@@ -11,17 +11,6 @@
     "summary": "米国がベネズエラの実業家ベタンクール氏のオイルベンチャーに35%の株式を取得する。米国とベネズエラ間の経済関係改善を示唆し、ベネズエラの原油輸出制裁緩和の可能性が浮上。長期的な原油供給増加につながる可能性がある。"
   },
   {
-    "title": "Russia extends ban on diesel exports until September 30 - Reuters",
-    "timestamp": "2026-08-29T13:54:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアがディーゼル輸出禁止を2024年9月30日まで延長することを発表。同禁止措置は2022年のウクライナ侵攻後に導入され、既に複数回延長されている。供給逼迫局面が継続することで、WTIおよびブレント原油の価格下支え要因となる可能性がある。"
-  },
-  {
     "title": "Drone Strike Causes Blaze at Oil Refinery in Russia’s Kirishi - bloomberg.com",
     "timestamp": "2026-08-30T09:59:40+00:00",
     "importance": 4,
@@ -429,17 +418,6 @@
     "summary": "OPECアナリストのBousso氏が、ホルムズ海峡の再開がOPECの減産戦略に悪影響を及ぼす可能性を指摘。同海峡は世界の石油供給の約3分の1が通過する重要拠点であり、再開による供給増加が価格下押し圧力となることを警告している。"
   },
   {
-    "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
-    "timestamp": "2026-08-29T12:04:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が石油産出量のさらなる増加を承認した。ホルムズ海峡経由の輸出が回復基調にあることが背景。供給増加は市場の懸念緩和につながるが、需要見通しとのバランスが価格方向を左右する。"
-  },
-  {
     "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks - Reuters",
     "timestamp": "2026-09-01T00:56:00+00:00",
     "importance": 4,
@@ -504,5 +482,137 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インド株式市場が上昇圧力と下落圧力の綱引き状態にある。経済成長への楽観論がある一方で、原油価格の上昇と債券利回りの上昇がリスク資産を圧迫している。金利上昇は特に金などの無利子資産に下押し圧力をもたらす環境が続いている。"
+  },
+  {
+    "title": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters",
+    "timestamp": "2026-09-01T12:31:35+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡でサウジアラビア産油を運搬するタンカー2隻が攻撃された。ホルムズ海峡は世界の石油供給の約30%が通過する重要な輸送ルートであり、地政学リスクの急上昇は原油供給の混乱懸念につながる。地域情勢の緊迫化により、タンカー運賃上昇と原油価格への上値圧力が予想される。"
+  },
+  {
+    "title": "EXCLUSIVE: Russia cuts expected 2026 oil output to 17-year low on war fallout, draft forecasts show - Reuters",
+    "timestamp": "2026-09-01T10:53:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが2026年の石油生産量を17年ぶりの低水準に引き下げると予想されることが明らかになった。ウクライナ戦争の影響による経済制裁と設備老朽化が主因。同国の生産量低下はグローバル供給逼迫を意味し、原油価格の上昇要因として機能する可能性が高い。"
+  },
+  {
+    "title": "US stock indexes open lower as high yields, oil prices dent sentiment - Reuters",
+    "timestamp": "2026-09-01T13:38:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国株が高利回り環境と原油価格上昇を背景に下落オープン。高金利継続観測は金などの無利子資産に下押し圧力。原油価格の上昇がリスク資産全般の重しとなり、市場センチメント悪化でコモディティ関連銘柄も売圧。既知の金融環境が再確認される展開。"
+  },
+  {
+    "title": "US stock indexes open lower as high yields, oil prices dent sentiment - Reuters",
+    "timestamp": "2026-09-01T13:38:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国株が高利回り環境と原油価格上昇を背景に下落オープン。高金利継続観測は金などの無利子資産に下押し圧力。原油価格の上昇がリスク資産全般の重しとなり、市場センチメント悪化でコモディティ関連銘柄も売圧。既知の金融環境が再確認される展開。"
+  },
+  {
+    "title": "US stock indexes open lower as high yields, oil prices dent sentiment - Reuters",
+    "timestamp": "2026-09-01T13:38:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株が高利回り環境と原油価格上昇を背景に下落オープン。高金利継続観測は金などの無利子資産に下押し圧力。原油価格の上昇がリスク資産全般の重しとなり、市場センチメント悪化でコモディティ関連銘柄も売圧。既知の金融環境が再確認される展開。"
+  },
+  {
+    "title": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears - Reuters",
+    "timestamp": "2026-09-01T01:46:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格の上昇がインフレ懸念を招き、債券売却とリスク資産の下落をもたらしている。高い石油価格は消費者物価圧力を高め、FRBの金利引き上げ圧力につながる可能性がある。このシナリオは金などの無利子資産と金利感応度の高い株式に対して相反する影響をもたらしている。"
+  },
+  {
+    "title": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears - Reuters",
+    "timestamp": "2026-09-01T01:46:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "原油価格の上昇がインフレ懸念を招き、債券売却とリスク資産の下落をもたらしている。高い石油価格は消費者物価圧力を高め、FRBの金利引き上げ圧力につながる可能性がある。このシナリオは金などの無利子資産と金利感応度の高い株式に対して相反する影響をもたらしている。"
+  },
+  {
+    "title": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears - Reuters",
+    "timestamp": "2026-09-01T01:46:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格の上昇がインフレ懸念を招き、債券売却とリスク資産の下落をもたらしている。高い石油価格は消費者物価圧力を高め、FRBの金利引き上げ圧力につながる可能性がある。このシナリオは金などの無利子資産と金利感応度の高い株式に対して相反する影響をもたらしている。"
+  },
+  {
+    "title": "Dollar gains as oil, yield increases revive inflation fears - Reuters",
+    "timestamp": "2026-09-01T01:24:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ドル高進行に伴い、原油価格と米国債利回りの上昇がインフレ懸念を再燃させている。ドル高はドル建てコモディティ（原油・金）の価格下押し要因となる一方、名目金利上昇は実質金利を通じて無利子資産である金に下落圧力を与える。短期的には複雑な値動きが予想される局面。"
+  },
+  {
+    "title": "Dollar gains as oil, yield increases revive inflation fears - Reuters",
+    "timestamp": "2026-09-01T01:24:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "ドル高進行に伴い、原油価格と米国債利回りの上昇がインフレ懸念を再燃させている。ドル高はドル建てコモディティ（原油・金）の価格下押し要因となる一方、名目金利上昇は実質金利を通じて無利子資産である金に下落圧力を与える。短期的には複雑な値動きが予想される局面。"
+  },
+  {
+    "title": "Dollar gains as oil, yield increases revive inflation fears - Reuters",
+    "timestamp": "2026-09-01T01:24:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ドル高進行に伴い、原油価格と米国債利回りの上昇がインフレ懸念を再燃させている。ドル高はドル建てコモディティ（原油・金）の価格下押し要因となる一方、名目金利上昇は実質金利を通じて無利子資産である金に下落圧力を与える。短期的には複雑な値動きが予想される局面。"
+  },
+  {
+    "title": "Gold Stocks Cap Best August in Decades in Debasement Trade Redux - Bloomberg.com",
+    "timestamp": "2026-09-01T11:57:34+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "金鉱株が8月に数十年ぶりの好成績を記録した。これは通貨供給量増加への懸念や実質金利低下による「通貨切り下げ取引」の再燃が背景。金融緩和環境が金および金鉱株の需要を支援している状況が続いている。"
   }
 ]
