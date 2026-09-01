@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日8月29日の金価格：世界の金価格は3％以上下落したが、SJCの金価格は予想外に逆方向に動いた。 - Vietnam.vn",
-    "timestamp": "2026-08-29T06:29:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月29日、国際金相場が3%以上下落する中、ベトナムのSJC金相場は逆方向に上昇。地域限定的な価格乖離現象。"
-  },
-  {
-    "title": "黒海の戦争リスクが小麦価格を押し上げ、シカゴ相場は2023年7月以来の高値に - Межа. Новини України.",
-    "timestamp": "2026-08-29T07:16:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海地域の戦争リスク懸念により小麦価格が上昇し、シカゴ相場が2023年7月以来の高値を付けた。ウクライナは世界有数の小麦供給国であり、地政学的不安定性が供給制約要因となっている。既知のリスク要因であるが、相場新高値は継続的な地政学プレミアムの存在を示唆している。"
-  },
-  {
-    "title": "$金先物(2612) (GCmain.US)$ 4500は維持できず、4350まで戻す。今は防戦中。 - Moomoo",
-    "timestamp": "2026-08-29T06:57:51+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物が4500ドルのサポートレベルを割り込み、4350ドルまで後退した。現在は防戦局面にある相場状況の報告。"
-  },
-  {
-    "title": "金価格が激しく変動する中、投資家はどうすべきでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-08-29T07:50:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の変動性について、投資家への対応策を問うコンテンツ記事。テクニカル分析や市場動向の解説に基づく投資アドバイス記事と推測される。具体的なニュースイベントではなく、相場展開の振り返りと一般的な投資戦略の提示。"
-  },
-  {
     "title": "10日間の上昇の後、世界の金価格は再び下落した。 - Vietnam.vn",
     "timestamp": "2026-08-29T11:44:42+00:00",
     "importance": 2,
@@ -53,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は10日間の上昇トレンドから転じて再び下落に転じた。短期的な利益確定売りまたは技術的な調整の可能性。上下動の繰り返しとなっており、明確な方向性は不透明。"
-  },
-  {
-    "title": "本日（8月29日）の金価格：4,600ドル前後で推移。 - Vietnam.vn",
-    "timestamp": "2026-08-29T08:46:38+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8月29日時点で4,600ドル前後で推移している。単なる価格報告であり、新規情報や市場変動の要因は含まれていない。"
-  },
-  {
-    "title": "連邦準備制度理事会（FRB）議長の強硬姿勢が、金価格の急落を引き起こした。 - Vietnam.vn",
-    "timestamp": "2026-08-29T07:48:59+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB議長の強硬なインフレ対抗姿勢により、金価格が急落した。金利上昇が進むと予想され、利回りなし資産である金の相対的な魅力が低下。ドル強化も金売却につながっている。"
-  },
-  {
-    "title": "CFTCデータ：原油価格がレンジ相場で推移する中、投機筋のロングエクスポージャーが小幅増加 - VT Markets",
-    "timestamp": "2026-08-29T09:24:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "CFTCデータにより投機筋のロングポジションが小幅増加したことが報告されている。原油はレンジ相場で推移しており、大きな方向性転換を示唆していない。既知の市場動向の継続的な観測記事。"
   },
   {
     "title": "本日8月30日、金価格は激しく変動しており、市場は大きな「戦い」に突入している。このような状況では、価格を追いかけるよりも忍耐が重要となる。 - Vietnam.vn",
@@ -1604,5 +1527,82 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "8月31日の主要国際商品市況に関するニュース。具体的な価格データ・変動幅・対前日比などの詳細情報は記事概要に記載されていない。"
+  },
+  {
+    "title": "カンザスシティ小麦価格はUSX638.18のサポートを下回り、セッション終了時には日中安値付近で推移 - Traders Union",
+    "timestamp": "2026-08-31T12:47:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦がサポートレベル638.18を下抜けし、セッション終了時に日中安値付近で推移。技術的な売り圧力が継続している状況。"
+  },
+  {
+    "title": "金価格3カ月高値から5.5%下落も、ゴールドマン・サックスは10%上昇予想 - BeInCrypto",
+    "timestamp": "2026-09-01T10:03:03+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は3カ月高値から5.5%下落し調整局面にあるが、ゴールドマン・サックスは今後10%上昇を予想している。直近の下落は技術的調整と見られ、中期的には上昇トレンドが継続する見込み。"
+  },
+  {
+    "title": "投資家が米国の雇用統計発表を待つ中、金価格は下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-01T08:52:59+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国の雇用統計発表を控え、投資家がリスク回避姿勢を強める中で金価格が下落した。雇用統計は市場予想に大きな影響を与える主要指標であり、発表待機局面での調整売りと見られる。"
+  },
+  {
+    "title": "アルミ新地金価格670円 5四半期ぶり値下がり 10―12月（日刊産業新聞） - Yahoo!ニュース",
+    "timestamp": "2026-09-01T05:30:33+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アルミ新地金価格が670円と5四半期ぶりに値下がりした。需要減弱や世界経済の不確実性が背景と考えられる。既に市場で織り込まれた緩やかなトレンド。"
+  },
+  {
+    "title": "［動画］インフレ再燃！？米国利上げ！？原油相場どうなる！？ - media.rakuten-sec.net",
+    "timestamp": "2026-09-01T08:17:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国インフレ再燃とFRBの利上げ可能性に関する解説動画。インフレ圧力が原油需要を通じて相場を押し上げる可能性を指摘。金融引き締めとの相互作用で相場変動リスクが存在。"
+  },
+  {
+    "title": "日本市場、中東緊張で原油価格上昇し株・債券下落へ－円はG20に注目 - Bloomberg.com",
+    "timestamp": "2026-08-31T23:04:09+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東地政学緊張の高まりにより原油価格が上昇。日本市場では株式・債券が下落する一方、円が買われる傾向。G20での円動向も注視材料。"
+  },
+  {
+    "title": "バラティンとニュージーランドは生物セキュリティを強化し、インドネシアのコモディティ市場へのアクセスを開きます - VOI.ID",
+    "timestamp": "2026-09-01T03:42:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "バラティン（パーム油関連企業）とニュージーランドがインドネシアとの生物セキュリティ協力を強化し、インドネシアのコモディティ市場へのアクセス拡大を実現。パーム油などの農産物輸出障壁の緩和につながる可能性。"
   }
 ]
