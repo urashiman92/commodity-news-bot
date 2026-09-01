@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（8月29日午後）の金価格：FRBからのシグナルを受けて急落。 - Vietnam.vn",
-    "timestamp": "2026-08-29T16:38:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB（米連邦準備制度理事会）からのシグナルを受けて、本日午後の金価格が急落した。金は一般的に金利上昇局面では売られる傾向があり、今回もこの構図が反映されたとみられる。"
-  },
-  {
     "title": "アジアの小麦と米の価格は数年来の高値を記録し、コーヒー価格は横ばいだった。 - Vietnam.vn",
     "timestamp": "2026-08-29T19:22:58+00:00",
     "importance": 3,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "アジアの小麦と米の価格が数年来の高値を更新。コーヒーは横ばい。穀物市場の需給逼迫が継続している。"
-  },
-  {
-    "title": "本日8月29日の金価格は、全般的に急落した。 - Vietnam.vn",
-    "timestamp": "2026-08-29T18:37:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月29日の金価格が全般的に急落した。具体的な急落要因は記事から不明だが、市場の技術的調整またはマクロ環境の変化の可能性。コモディティ投資家は下げの背景を他のニュースと併せて確認が必要。"
   },
   {
     "title": "2026年8月29日現在の金価格：指輪の金価格は週末にかけて1オンスあたり最大200万ベトナムドン下落しました。 - Vietnam.vn",
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "2026年8月29日、世界的な金価格が急落し、ベトナム国内のSJC金価格も150万ベトナムドン下落した。グローバル市場の下落を受けた追随的な価格調整。"
-  },
-  {
-    "title": "石油関連株 原油相場変動の影響は｜日経モーニングプラスFT（モープラFT） - テレ東BIZ",
-    "timestamp": "2026-08-29T16:18:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "石油関連株と原油相場の関係性について解説する番組企画。具体的な価格変動要因やポジション提言は示されていない。テレビ解説コンテンツの告知記事。"
   },
   {
     "title": "2026年8月29日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
@@ -350,17 +317,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が90ドルを割り込み、イランと米国間の外交接触が市場の注視を集めている。地政学的緊張の緩和期待が価格低下を推進。今後の外交進展次第で相場が変動する可能性。"
-  },
-  {
-    "title": "WTI 原油先物3511【CL3511】株価掲示板｜投資家のコメント - Moomoo",
-    "timestamp": "2026-08-29T18:25:35+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Moomooプラットフォームの投資家掲示板におけるWTI原油先物の関連コメント。具体的なニュース内容や市場に影響を与える新情報が示されていない。"
   },
   {
     "title": "WisdomTree 銅上場投信【1693】：株価・株式情報 - Yahoo!ファイナンス",
@@ -1560,5 +1516,38 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は世界市場の下落圧力を受けている。短期的には弱気だが、中期的な上昇トレンドは継続中とのアナリスト見解。既に織り込まれた解説記事。"
+  },
+  {
+    "title": "シカゴ小麦先物、3年半ぶりの高値に到達 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-01T15:59:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "シカゴ小麦先物が3年半ぶりの高値水準に到達した。供給逼迫やウクライナ情勢など複合的な要因が相場を支えている。既存の強気シナリオの延長線上での値動き。"
+  },
+  {
+    "title": "今夜、9月1日、世界の金価格は急落し、1オンスあたり4300ドル近くまで下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-01T16:30:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月1日、金価格が1オンスあたり4,300ドル近くまで急落した。市場が大きく反応した可能性がある。下落要因の詳細は記事概要では明示されていない。"
+  },
+  {
+    "title": "【速報】NY原油先物続伸88.74ドル(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-09-01T13:04:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が88.74ドルで続伸している。速報的な価格更新であるが、具体的な供給ショックやファンダメンタルズの変化は記事から不明。"
   }
 ]
