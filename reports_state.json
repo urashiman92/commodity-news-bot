@@ -1054,5 +1054,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの原油輸出が減少し、ホルムズ海峡からRedSea経由の輸送ルートにおいてタンカーが危険にさらされている。中東地政学リスク（イエメンフーシ派による攻撃やイラン関連の緊張）により、主要な石油輸送経路が脅かされており、供給懸念が急速に高まっている。"
+  },
+  {
+    "title": "Arable Market Report – 1 September 2026 - AHDB",
+    "timestamp": "2026-09-01T14:09:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "AHDBが2026年9月1日に穀物市場レポートを発表。WASDE関連の定期的な耕作地市場分析と見られるが、具体的な内容・数値が不明なため詳細評価不可。通常の季節的進捗報告と想定される。"
+  },
+  {
+    "title": "Arable Market Report – 1 September 2026 - AHDB",
+    "timestamp": "2026-09-01T14:09:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "AHDBが2026年9月1日に穀物市場レポートを発表。WASDE関連の定期的な耕作地市場分析と見られるが、具体的な内容・数値が不明なため詳細評価不可。通常の季節的進捗報告と想定される。"
+  },
+  {
+    "title": "Arable Market Report – 1 September 2026 - AHDB",
+    "timestamp": "2026-09-01T14:09:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "AHDBが2026年9月1日に穀物市場レポートを発表。WASDE関連の定期的な耕作地市場分析と見られるが、具体的な内容・数値が不明なため詳細評価不可。通常の季節的進捗報告と想定される。"
+  },
+  {
+    "title": "EIA: US crude stocks down after as runs reach eight-year high - Quantum Commodity Intelligence",
+    "timestamp": "2026-09-02T15:43:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間レポートで米国原油在庫が減少した一方、原油精製稼働率（原油処理量）が8年ぶりの高水準に達した。在庫の減少は需要堅調の兆候だが、精製稼働率の上昇により需給逼迫感は限定的。市場予想の範囲内の動きと評価される。"
+  },
+  {
+    "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - Reuters",
+    "timestamp": "2026-09-02T14:28:46+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+が日曜日の会合で現在の石油生産政策を据え置く見通しが報じられた。複数の関係者筋からの報告であり、既に市場で織り込まれている可能性が高い。政策の継続性は価格変動を抑制する方向に作用する。"
   }
 ]
