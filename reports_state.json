@@ -1109,5 +1109,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "OPEC+が日曜日の会合で現在の石油生産政策を据え置く見通しが報じられた。複数の関係者筋からの報告であり、既に市場で織り込まれている可能性が高い。政策の継続性は価格変動を抑制する方向に作用する。"
+  },
+  {
+    "title": "US crude stocks fall on strong refining activity and exports, EIA says - Reuters",
+    "timestamp": "2026-09-02T15:38:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の低下を報告。精製活動の強さと石油輸出の増加が在庫減少の主要因。市場予想の範囲内での結果だが、需要側の堅調さを示唆する内容。"
+  },
+  {
+    "title": "API Crude Oil Stocks Drop by 2.6M Barrels, Reversing Prior Build - CryptoRank",
+    "timestamp": "2026-09-02T00:11:25+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "API（米国石油協会）が発表した週間原油在庫統計で、前週の増加トレンドが反転し260万バレルの在庫減少となった。この数字は市場の需給バランスの小幅な改善を示唆するが、単一週の変動としては予想の範囲内。EIA公式統計を控えた事前指標としての位置づけ。"
+  },
+  {
+    "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - wdez.com",
+    "timestamp": "2026-09-02T15:03:51+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で石油生産政策を現状維持する見通し。複数の情報筋が政策変更がないことを示唆しており、市場予想の範囲内。既存の減産枠組みの継続が見込まれている。"
+  },
+  {
+    "title": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors - Reuters",
+    "timestamp": "2026-09-02T13:12:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがホルムズ海峡でイランによる船舶攻撃があり、2名の船員が殺害されたと発表。中東の地政学的緊張が急速に高まり、世界石油供給の約30%が通過するホルムズ海峡での安全保障リスクが顕著化。原油価格への上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors - Reuters",
+    "timestamp": "2026-09-02T13:12:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアがホルムズ海峡でイランによる船舶攻撃があり、2名の船員が殺害されたと発表。中東の地政学的緊張が急速に高まり、世界石油供給の約30%が通過するホルムズ海峡での安全保障リスクが顕著化。原油価格への上昇圧力が強まる見通し。"
   }
 ]
