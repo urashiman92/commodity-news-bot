@@ -1,16 +1,5 @@
 [
   {
-    "title": "Drone Strike Causes Blaze at Oil Refinery in Russia’s Kirishi - bloomberg.com",
-    "timestamp": "2026-08-30T09:59:40+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア西部のキリシ製油所がドローン攻撃により火災発生。同製油所は日産約30万バレルの処理能力を持つ主要施設で、ロシアの精製能力の約3-4%に相当。ウクライナ紛争に伴う供給リスクが再度顕在化し、原油価格の上昇圧力となる見通し。"
-  },
-  {
     "title": "PetroChina H1 profit jumps 22%, fuel sales fall as China demand weakens - Reuters",
     "timestamp": "2026-08-30T15:08:58+00:00",
     "importance": 3,
@@ -878,5 +867,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が下落圧力を受ける中、原油は上昇トレンドを継続している。原油価格の上昇とアジア株の軟調が対照的であり、エネルギーコストの上昇がアジア経済の重しになっている可能性がある。具体的な数値や OPEC 動向の詳細は記事から判断できない。"
+  },
+  {
+    "title": "US oil production data delayed as EIA cites technical glitch - investingLive",
+    "timestamp": "2026-09-01T21:20:54+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA（米国エネルギー情報庁）が技術的なシステム障害により米国原油生産データの発表を遅延させた。定期統計の遅延は市場の不確実性を一時的に高めるが、需給基本面そのものへの直接的な影響はない。発表復旧までの間、市場は限定的な値動きに留まる可能性が高い。"
+  },
+  {
+    "title": "Oil Stocks in US Strategic Petroleum Reserve Fall to Lowest Since 1983 - EnergyNow.com",
+    "timestamp": "2026-09-01T21:59:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下。40年ぶりの低いレベルとなり、供給タイトネスの懸念が高まる。SPRの大規模放出で需給が緩和していたが、その効果が限界に達したことを示唆。原油価格への上値支持要因として機能する可能性。"
+  },
+  {
+    "title": "Arkansas soybean harvest expected to be fast and furious - Farm Progress",
+    "timestamp": "2026-09-02T06:43:46+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "アーカンソー州の大豆収穫が急速に進行する見通し。収穫スピードの加速は、市場への供給圧力を強める要因となる。収穫が予定通り順調に進むことは、需給タイトネスが和らぐ可能性を示唆しており、大豆価格の下押し圧力となりやすい。"
+  },
+  {
+    "title": "5 Best Copper Stocks for 2026 and How to Invest - The Motley Fool",
+    "timestamp": "2026-09-01T17:33:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "モーティーフール誌が2026年向けの有望銅関連株5銘柄を特集。電気自動車普及と脱炭素需要による銅需要の長期的な上昇見通しが背景。具体的な価格目標やファンダメンタルズ予想値は記事内容が不透明だが、銅セクターへのポジティブなアウトルックを示唆。"
+  },
+  {
+    "title": "Venezuela's OPEC exit: structurally likely, not imminent - Kpler",
+    "timestamp": "2026-08-31T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ベネズエラのOPEC脱退は構造的に可能性が高いが、短期的には実現しないとKplerが分析。同国の石油生産能力の継続的な低下と米国との制裁関係が背景。脱退が実現しても市場への直接的な供給影響は限定的と見込まれる。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-08-31T12:25:57+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国インフレデータへの楽観視が原油相場を下支えし、小幅高で決着。OPEC供給制約の懸念は存在するが、米インフレ期待の緩和がドル弱含み環境を作り、原油の上値を限定。市場センチメントは混在している状況。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-08-31T12:25:57+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国インフレデータへの楽観視が原油相場を下支えし、小幅高で決着。OPEC供給制約の懸念は存在するが、米インフレ期待の緩和がドル弱含み環境を作り、原油の上値を限定。市場センチメントは混在している状況。"
   }
 ]
