@@ -1,16 +1,5 @@
 [
   {
-    "title": "世界の原油価格が週間で急落、ベトナム国内ガソリン価格も続落の見通し - BigGo ファイナンス",
-    "timestamp": "2026-08-30T18:06:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格が週間で急落した。ベトナム国内ガソリン価格も続落の見通しが示されている。既に発生した価格変動の報道・解説記事。"
-  },
-  {
     "title": "本日（2026年8月31日）の最新金価格：SJC、DOJI、PNJ、金の指輪、および世界の金価格。 - Vietnam.vn",
     "timestamp": "2026-08-30T22:15:27+00:00",
     "importance": 1,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金小売業者（SJC、DOJI、PNJ）による本日の金価格公表。国内小売価格と世界価格の日次情報提供。"
-  },
-  {
-    "title": "【カラオケ】女 泣き砂 日本海 - 川中美幸【1988年】 Crude Oil Price (MuEOnyaMzN) - Mshale",
-    "timestamp": "2026-08-30T18:37:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "このニュースは川中美幸の1988年のカラオケ動画であり、原油価格とは無関係です。ニュースフィードのエラーまたはメタデータの誤分類と考えられます。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4454ドル｜米国の利上げ観測の高まりが影響した模様(2026年8月31日) - OANDA証券",
@@ -1857,5 +1835,49 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "米国の再生可能燃料免除措置が大豆需要を支援する可能性を指摘する解説。バイオディーゼル生産に使用される大豆油の需要増加が価格下支えとなる見通し。"
+  },
+  {
+    "title": "金価格は、米ドルからの圧力とインフレ懸念により、3週間ぶりの安値をつけた。 - Vietnam.vn",
+    "timestamp": "2026-09-02T13:22:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3週間ぶりの安値を更新。米ドル強化とインフレ懸念が下押し圧力として作用している。現在の相場変動は既知の要因による通常のボラティリティ。"
+  },
+  {
+    "title": "NY外為：ドル下げ止まる、原油価格が反発(フィスコ) - finance.yahoo.co.jp",
+    "timestamp": "2026-09-02T18:00:30+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル相場が下げ止まる中、原油価格が反発している。ドル弱含みは原油（ドル建て資産）の買い圧力となる要因。為替動向と原油の相関性を示す市場評論。"
+  },
+  {
+    "title": "NY株式、国債利回りと原油価格の落ち着きで反発…10年債は一時4.81%の高値から後退 - BigGo ファイナンス",
+    "timestamp": "2026-09-02T15:58:53+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株が国債利回りと原油価格の落ち着きを受けて反発。10年債利回りが4.81%の高値から後退し、金融引き締め圧力が緩和。原油価格も同様に落ち着きを見せている状況。"
+  },
+  {
+    "title": "米イラン戦火再燃、終わり見えず 原油価格95ドル突破で世界経済に打撃 - BigGo ファイナンス",
+    "timestamp": "2026-09-02T13:26:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの軍事的な緊張が再燃し、原油価格が95ドルを突破した。中東地域の地政学的リスクが高まり、世界的なエネルギー供給に対する懸念が強まっている。紛争の長期化可能性が市場に影響を与えている。"
   }
 ]
