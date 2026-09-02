@@ -1,27 +1,5 @@
 [
   {
-    "title": "PetroChina H1 profit jumps 22%, fuel sales fall as China demand weakens - Reuters",
-    "timestamp": "2026-08-30T15:08:58+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "PetroChina上半期利益が前年同期比22%増加し、石油・ガス価格の堅調さを反映。ただし燃料販売量が減少しており、中国国内需要の弱さが顕在化。経済減速が需要圧力として原油市場の上値を抑制する懸念。"
-  },
-  {
-    "title": "PetroChina H1 profit jumps 22%, fuel sales fall as China demand weakens - Reuters",
-    "timestamp": "2026-08-30T15:08:58+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "PetroChina上半期利益が前年同期比22%増加し、石油・ガス価格の堅調さを反映。ただし燃料販売量が減少しており、中国国内需要の弱さが顕在化。経済減速が需要圧力として原油市場の上値を抑制する懸念。"
-  },
-  {
     "title": "Shares skid in Asia as oil climbs, yields stay high - Reuters",
     "timestamp": "2026-08-31T00:38:00+00:00",
     "importance": 3,
@@ -944,5 +922,137 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "米国インフレデータへの楽観視が原油相場を下支えし、小幅高で決着。OPEC供給制約の懸念は存在するが、米インフレ期待の緩和がドル弱含み環境を作り、原油の上値を限定。市場センチメントは混在している状況。"
+  },
+  {
+    "title": "US Corn and Soybean Yields Unlikely to Climb Heading Into Harvest - DTN Progressive Farmer",
+    "timestamp": "2026-09-01T14:40:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国のトウモロコシと大豆の収量が収穫時期に向けて上昇しにくいとのDTN Progressive Farmerの分析。現在の生育状況や気象条件から、市場が期待していた収量増加が実現しない可能性が指摘されている。収量が伸び悩めば供給懸念が生じ、価格押し上げ要因となる。"
+  },
+  {
+    "title": "US Corn and Soybean Yields Unlikely to Climb Heading Into Harvest - DTN Progressive Farmer",
+    "timestamp": "2026-09-01T14:40:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国のトウモロコシと大豆の収量が収穫時期に向けて上昇しにくいとのDTN Progressive Farmerの分析。現在の生育状況や気象条件から、市場が期待していた収量増加が実現しない可能性が指摘されている。収量が伸び悩めば供給懸念が生じ、価格押し上げ要因となる。"
+  },
+  {
+    "title": "EIA Cushing Crude Oil Stocks Change (Aug/28) 0.080M (Prev. 1.176M) - Newsquawk",
+    "timestamp": "2026-09-02T14:50:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが8月28日発表したクッシング地区原油在庫の変化は0.080百万バレルの増加となった。前週の1.176百万バレル増加から大幅に鈍化し、在庫積み増しペースが著しく減速したことが示唆される。クッシングは米国最大の原油貯蔵拠点であり、在庫圧力の緩和は原油市場にやや好材料。"
+  },
+  {
+    "title": "EIA: US crude stocks down as runs reach eight-year high - Quantum Commodity Intelligence",
+    "timestamp": "2026-09-02T15:43:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が減少する一方で、製油所の稼働率が8年ぶりの高水準に達した。在庫減少は需要の強さを示唆するが、高い稼働率は既に市場予想の範囲内と考えられる。原油価格への上昇圧力は限定的。"
+  },
+  {
+    "title": "U.S. Oil Stocks Drop as Fuel Demand Weakens - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-02T14:38:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表の米国原油在庫統計により、燃料需要の弱化を背景に原油在庫が減少した。需要の弱まりは価格下押し圧力となる。季節調整後の在庫動向は市場予想の範囲内と判断される。"
+  },
+  {
+    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
+    "timestamp": "2026-09-02T12:27:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
+  },
+  {
+    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
+    "timestamp": "2026-09-02T12:27:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
+  },
+  {
+    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
+    "timestamp": "2026-09-02T12:27:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
+  },
+  {
+    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
+    "timestamp": "2026-09-02T12:27:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
+  },
+  {
+    "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - WTAQ",
+    "timestamp": "2026-09-02T14:45:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が日曜日の会合で現在の原油生産政策を据え置く見通しが報じられた。複数の情報筋から政策変更なしとの見方が示されており、既存の減産合意の継続が予想されている。市場は既にこの結果を織り込んでいる可能性が高い。"
+  },
+  {
+    "title": "Sinopec extends bumper Russian oil buys, squeezing teapots, traders say - Reuters",
+    "timestamp": "2026-09-02T10:39:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国の国営石油企業シノペックがロシア産原油の大量購入を継続しており、国内の独立系精製業者（ティーポット）を圧迫している。ロシア産原油の割安感を背景にシノペックが優位性を保つ一方で、制裁回避とサプライチェーン多様化の地政学的影響が露呈している。"
+  },
+  {
+    "title": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea - Bloomberg.com",
+    "timestamp": "2026-09-02T14:01:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの原油輸出が減少し、ホルムズ海峡からRedSea経由の輸送ルートにおいてタンカーが危険にさらされている。中東地政学リスク（イエメンフーシ派による攻撃やイラン関連の緊張）により、主要な石油輸送経路が脅かされており、供給懸念が急速に高まっている。"
   }
 ]
