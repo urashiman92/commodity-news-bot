@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（2026年8月31日）の最新金価格：SJC、DOJI、PNJ、金の指輪、および世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-08-30T22:15:27+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売業者（SJC、DOJI、PNJ）による本日の金価格公表。国内小売価格と世界価格の日次情報提供。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4454ドル｜米国の利上げ観測の高まりが影響した模様(2026年8月31日) - OANDA証券",
     "timestamp": "2026-08-30T23:05:40+00:00",
     "importance": 3,
@@ -317,17 +306,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ペルシャ湾の地政学的緊張が急速に高まり、原油価格が急騰している。ブレント原油は1バレル90ドルを再び超えた。供給途絶の懸念から市場に大きな影響を与えている。"
-  },
-  {
-    "title": "【なぜ呼ばれない？】天才・山沢拓也、日本代表“落選”の本当の理由を徹底考察 #ラグビー #ラグビー部 #大学ラグビー Copper Price (PrrnrT0wsU) - Mshale",
-    "timestamp": "2026-08-30T22:13:12+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ラグビー選手の日本代表落選理由に関する考察記事。銅市場とは無関係なコンテンツ。カテゴリ分類の誤りと見られる。"
   },
   {
     "title": "２８日の主要国際商品市況 (2026年8月31日掲載) - ライブドアニュース",
@@ -1879,5 +1857,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イランの軍事的な緊張が再燃し、原油価格が95ドルを突破した。中東地域の地政学的リスクが高まり、世界的なエネルギー供給に対する懸念が強まっている。紛争の長期化可能性が市場に影響を与えている。"
+  },
+  {
+    "title": "2026年9月3日現在、金価格は引き続き下落傾向にあり、投資家は売りを続けており、FRBにはまだ「やるべきこと」があり、短期的な勢いは弱まっている。 - Vietnam.vn",
+    "timestamp": "2026-09-02T14:55:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は2026年9月3日時点で下落傾向が継続している。投資家による売却が続いており、FRBにはまだ政策調整の余地があるとの見方が出ている。短期的なモメンタムは減速している。"
+  },
+  {
+    "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - ロイター",
+    "timestamp": "2026-09-02T20:05:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事的緊張が再燃し、供給途絶リスクが高まった。原油先物は1%上昇で反応。中東地政学リスクが価格支援要因として機能。"
+  },
+  {
+    "title": "NY外為：ドル下げ止まる、原油価格が反発 - 株探",
+    "timestamp": "2026-09-02T17:54:33+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル相場が下げ止まる動きを見せる中、原油価格が反発している。ドル安が原油の買い圧力につながる典型的なパターン。"
+  },
+  {
+    "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - ニューズウィーク日本版",
+    "timestamp": "2026-09-02T20:04:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン攻撃を再開する可能性が報じられ、中東の地政学的リスクが急速に高まった。イランは主要な原油生産国であり、供給途絶への懸念から先物価格は1%上昇。今後の地政学的エスカレーションが注視される。"
+  },
+  {
+    "title": "米原油先物価格、一時1バレル＝90ドル台 米によるイランへの新たな攻撃受け（2026年9月1日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+    "timestamp": "2026-09-02T00:48:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイランに新たな攻撃を実施し、地政学的緊張が急速に高まった。米原油先物が90ドル台まで上昇し、供給リスク懸念が顕在化。中東情勢の不安定化が原油相場を大きく押し上げた。"
   }
 ]
