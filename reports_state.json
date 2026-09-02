@@ -669,5 +669,115 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDAの指導部が、作付面積・単収推定値のサプライズを減らすため技術活用に転換する方針を示した。現在のシステムの精度改善を目指す継続的な取り組みで、即座の大きな影響は限定的。農業統計の透明性と予測可能性向上を狙う。"
+  },
+  {
+    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-01T02:20:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間レポートにより、米国の原油在庫が低下したことが発表された。精製業者の処理稼働率が上昇し、在庫減少が加速している。需給バランスの改善を示唆する材料として、原油価格への下支え要因となる可能性がある。"
+  },
+  {
+    "title": "ADP jobs report, oil inventories and Fed Beige Book due Wednesday - Investing.com",
+    "timestamp": "2026-09-01T18:08:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "水曜日にADP雇用統計、EIA原油在庫、FRBベージュブックの3つの重要統計が同時発表される予定。ADP雇用データは米国経済の労働市場の堅調性を測り、原油在庫は需給バランスを示す。FRBベージュブックは金融政策スタンスを示唆し、全コモディティに波及する可能性がある。"
+  },
+  {
+    "title": "ADP jobs report, oil inventories and Fed Beige Book due Wednesday - Investing.com",
+    "timestamp": "2026-09-01T18:08:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "水曜日にADP雇用統計、EIA原油在庫、FRBベージュブックの3つの重要統計が同時発表される予定。ADP雇用データは米国経済の労働市場の堅調性を測り、原油在庫は需給バランスを示す。FRBベージュブックは金融政策スタンスを示唆し、全コモディティに波及する可能性がある。"
+  },
+  {
+    "title": "Stocks of crude oil in the US SPR fell by about 3.1mln barrels to 286.6mln barrels last week - Newsquawk",
+    "timestamp": "2026-08-31T16:33:38+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が先週310万バレル減少し、286.6百万バレルまで低下した。EIAの定例週間在庫報告に基づくもので、SPR放出が継続している。原油相場への直接的な圧力要因となる。"
+  },
+  {
+    "title": "S&P 500 forecast: Stocks undermined as yields rebound and crude rallies - stonex.com",
+    "timestamp": "2026-09-01T04:17:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "S&P500が利回り上昇と原油ラリーの圧力を受けている状況についての市場解説。長期金利の反発が株価の重荷となる一方、原油価格は上昇トレンド継続。金利上昇環境下でのコモディティ相場の分化が進行している可能性が示唆されている。"
+  },
+  {
+    "title": "S&P 500 forecast: Stocks undermined as yields rebound and crude rallies - stonex.com",
+    "timestamp": "2026-09-01T04:17:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "S&P500が利回り上昇と原油ラリーの圧力を受けている状況についての市場解説。長期金利の反発が株価の重荷となる一方、原油価格は上昇トレンド継続。金利上昇環境下でのコモディティ相場の分化が進行している可能性が示唆されている。"
+  },
+  {
+    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
+    "timestamp": "2026-09-01T21:26:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
+  },
+  {
+    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
+    "timestamp": "2026-09-01T21:26:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
+  },
+  {
+    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
+    "timestamp": "2026-09-01T21:26:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
+  },
+  {
+    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
+    "timestamp": "2026-09-01T21:26:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
   }
 ]
