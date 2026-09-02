@@ -1,16 +1,5 @@
 [
   {
-    "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports - Reuters",
-    "timestamp": "2026-08-30T02:01:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がベネズエラの実業家ベタンクール氏のオイルベンチャーに35%の株式を取得する。米国とベネズエラ間の経済関係改善を示唆し、ベネズエラの原油輸出制裁緩和の可能性が浮上。長期的な原油供給増加につながる可能性がある。"
-  },
-  {
     "title": "Drone Strike Causes Blaze at Oil Refinery in Russia’s Kirishi - bloomberg.com",
     "timestamp": "2026-08-30T09:59:40+00:00",
     "importance": 4,
@@ -779,5 +768,115 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
+  },
+  {
+    "title": "Crude Oil Inventories Drop, Surpassing Forecasts By Investing.com - Investing.com Nigeria",
+    "timestamp": "2026-09-01T21:39:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA原油在庫が予測を上回る大幅な減少を記録した。在庫の予想外の落ち込みは、サプライ引き締まりシグナルとして機能し、原油価格を下支えする要因となる。市場予想を超過した減少幅がサプライズと評価される。"
+  },
+  {
+    "title": "API reports a drop in US crude stocks – Trading Economics - engine.online",
+    "timestamp": "2026-09-02T05:47:18+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "API（米国石油協会）が米国原油在庫の減少を報告。在庫減少は供給逼迫のシグナルとして原油価格の上昇圧力となる。ただし具体的な減少量が記事から不明なため、サプライズの大きさは判断不可。EIA週間統計の先行指標として注視が必要。"
+  },
+  {
+    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
+    "timestamp": "2026-09-01T20:53:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAは2026年度農作物年度におけるFeedstock Flexibility Program（飼料柔軟性プログラム）での措置実施を予定していないと発表。本プログラムはトウモロコシなどの飼料穀物の利用柔軟性に関するもので、2026年度は供給・需給が標準的見通し内と判断された結果と考えられる。"
+  },
+  {
+    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
+    "timestamp": "2026-09-01T20:53:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAは2026年度農作物年度におけるFeedstock Flexibility Program（飼料柔軟性プログラム）での措置実施を予定していないと発表。本プログラムはトウモロコシなどの飼料穀物の利用柔軟性に関するもので、2026年度は供給・需給が標準的見通し内と判断された結果と考えられる。"
+  },
+  {
+    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
+    "timestamp": "2026-09-01T20:53:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAは2026年度農作物年度におけるFeedstock Flexibility Program（飼料柔軟性プログラム）での措置実施を予定していないと発表。本プログラムはトウモロコシなどの飼料穀物の利用柔軟性に関するもので、2026年度は供給・需給が標準的見通し内と判断された結果と考えられる。"
+  },
+  {
+    "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters",
+    "timestamp": "2026-09-02T00:43:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事衝突激化により、リスクオフ局面が発生。原油は地政学リスク低減で上昇、一方で債券利回り上昇に伴い金やその他コモディティは圧力を受ける。アジア株式市場は売却の影響を受けている。"
+  },
+  {
+    "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters",
+    "timestamp": "2026-09-02T00:43:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国とイランの軍事衝突激化により、リスクオフ局面が発生。原油は地政学リスク低減で上昇、一方で債券利回り上昇に伴い金やその他コモディティは圧力を受ける。アジア株式市場は売却の影響を受けている。"
+  },
+  {
+    "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters",
+    "timestamp": "2026-09-02T00:43:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国とイランの軍事衝突激化により、リスクオフ局面が発生。原油は地政学リスク低減で上昇、一方で債券利回り上昇に伴い金やその他コモディティは圧力を受ける。アジア株式市場は売却の影響を受けている。"
+  },
+  {
+    "title": "Asian Stocks Set for Declines as Oil Extends Gains: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-01T22:07:33+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株が下落圧力を受ける中、原油は上昇トレンドを継続している。原油価格の上昇とアジア株の軟調が対照的であり、エネルギーコストの上昇がアジア経済の重しになっている可能性がある。具体的な数値や OPEC 動向の詳細は記事から判断できない。"
+  },
+  {
+    "title": "Asian Stocks Set for Declines as Oil Extends Gains: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-01T22:07:33+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株が下落圧力を受ける中、原油は上昇トレンドを継続している。原油価格の上昇とアジア株の軟調が対照的であり、エネルギーコストの上昇がアジア経済の重しになっている可能性がある。具体的な数値や OPEC 動向の詳細は記事から判断できない。"
   }
 ]
