@@ -1,27 +1,5 @@
 [
   {
-    "title": "Could Lower Corn Yields Push Prices to $6 in September? - Successful Farming",
-    "timestamp": "2026-08-31T17:20:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "本レポートは、トウモロコシの収量低下がトウモロコシ価格を9月に1ブッシェル6ドルまで押し上げる可能性を指摘している。WASDE関連の分析記事として、供給サイド（収量）の悪化シナリオを提示しており、価格上昇圧力のシナリオに言及している。"
-  },
-  {
-    "title": "Corn Rally Reaches $5.40 Selling Zone as U.S. Yield Concerns Build - AgroLatam",
-    "timestamp": "2026-08-31T19:42:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国トウモロコシが$5.40の売却圏まで上昇した。米国の利回り懸念が強まっており、供給リスクが市場を支配している。Crop Progress等の定期統計発表に基づくもので、歴史的な価格水準への接近は投資家にとって重要なシグナルとなっている。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-08-31T23:52:41.669335+00:00",
     "importance": 2,
@@ -97,17 +75,6 @@
     "source": "Crop Progress/Production",
     "commodity": "綿花",
     "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
-  },
-  {
-    "title": "Could Corn Prices Rally Beyond $5.40 as U.S. Yields Fall? - AgroLatam",
-    "timestamp": "2026-08-31T19:42:23+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国トウモロコシの収量低下シナリオが注目されており、価格が$5.40を超える上昇の可能性が指摘されている。Crop Progress等の収量データが市場予想を下回る場合、供給不安から急騰の余地がある。ただし具体的な最新収量数値が示されていないため、現段階では見通しベースの解説と考えられる。"
   },
   {
     "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
@@ -427,17 +394,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "水曜日にADP雇用統計、EIA原油在庫、FRBベージュブックの3つの重要統計が同時発表される予定。ADP雇用データは米国経済の労働市場の堅調性を測り、原油在庫は需給バランスを示す。FRBベージュブックは金融政策スタンスを示唆し、全コモディティに波及する可能性がある。"
-  },
-  {
-    "title": "Stocks of crude oil in the US SPR fell by about 3.1mln barrels to 286.6mln barrels last week - Newsquawk",
-    "timestamp": "2026-08-31T16:33:38+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が先週310万バレル減少し、286.6百万バレルまで低下した。EIAの定例週間在庫報告に基づくもので、SPR放出が継続している。原油相場への直接的な圧力要因となる。"
   },
   {
     "title": "S&P 500 forecast: Stocks undermined as yields rebound and crude rallies - stonex.com",
@@ -1109,5 +1065,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの石油収入が6ヶ月ぶりの低水準に落ち込み、ウラル産原油の価格下落が主因。地政学的リスクとエネルギー市場の供給構造に関する重要なシグナルを示唆しており、原油相場の下押し圧力が継続している状況を反映している。"
+  },
+  {
+    "title": "The Russia-Ukraine War Has Been Impacting Global Wheat Prices - Farms.com",
+    "timestamp": "2026-09-03T10:13:23+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "ロシア・ウクライナ戦争が世界的な小麦価格に継続的な影響を与えている。両国は世界有数の小麦生産・輸出国であり、紛争による供給懸念と物流阻害がグローバル穀物市場の価格上昇圧力となっている。WASDE関連の報告として、供給リスク評価の更新が継続されている。"
+  },
+  {
+    "title": "The Russia-Ukraine War Has Been Impacting Global Wheat Prices - Farms.com",
+    "timestamp": "2026-09-03T10:13:23+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア・ウクライナ戦争が世界的な小麦価格に継続的な影響を与えている。両国は世界有数の小麦生産・輸出国であり、紛争による供給懸念と物流阻害がグローバル穀物市場の価格上昇圧力となっている。WASDE関連の報告として、供給リスク評価の更新が継続されている。"
+  },
+  {
+    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
+    "timestamp": "2026-09-01T20:54:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA は2026年度作物年のフィードストック柔軟性プログラム（FFP）に基づく措置の実施を予定していない。本プログラムはエタノール製造時のとうもろこし以外の代替原料利用を促進する制度で、今年度は発動なしとの判断。市場への大きなインパクトは限定的と考えられる。"
+  },
+  {
+    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
+    "timestamp": "2026-09-01T20:54:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA は2026年度作物年のフィードストック柔軟性プログラム（FFP）に基づく措置の実施を予定していない。本プログラムはエタノール製造時のとうもろこし以外の代替原料利用を促進する制度で、今年度は発動なしとの判断。市場への大きなインパクトは限定的と考えられる。"
+  },
+  {
+    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
+    "timestamp": "2026-09-01T20:54:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA は2026年度作物年のフィードストック柔軟性プログラム（FFP）に基づく措置の実施を予定していない。本プログラムはエタノール製造時のとうもろこし以外の代替原料利用を促進する制度で、今年度は発動なしとの判断。市場への大きなインパクトは限定的と考えられる。"
+  },
+  {
+    "title": "5 Best Copper Stocks for 2026 and How to Invest - The Motley Fool",
+    "timestamp": "2026-09-01T17:33:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "The Motley Fool による2026年の優良銅関連株5銘柄の投資ガイド記事。銅需要の長期的な堅調性（特にEV・再生可能エネルギー関連）を背景に、銅鉱山企業への投資機会を提示。具体的な企業名や目標株価は記事内容から未確認だが、銅セクターに対する前向きな見通しが示唆されている。"
+  },
+  {
+    "title": "OPEC Without Venezuela - Nowlebanon",
+    "timestamp": "2026-09-01T15:06:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ベネズエラのOPEC離脱を議論するレポート。ベネズエラは過去最大級の原油埋蔵量を保有するが、経済危機による生産能力喪失で既に世界供給への実質的寄与は限定的。OPEC内での減産交渉の力学変化が焦点。"
   }
 ]
