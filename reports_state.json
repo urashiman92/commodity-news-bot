@@ -1,16 +1,5 @@
 [
   {
-    "title": "Corn prices climb before harvest as demand stays strong and yield questions linger - Brownfield Ag News",
-    "timestamp": "2026-08-31T13:02:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ価格が収穫前に上昇している。需要が堅調に推移する一方で、収穫高に関する不確実性が残存している。供給面での懸念と需要の堅さが価格を支持している状況が続いている。"
-  },
-  {
     "title": "Could Lower Corn Yields Push Prices to $6 in September? - Successful Farming",
     "timestamp": "2026-08-31T17:20:24+00:00",
     "importance": 3,
@@ -22,50 +11,6 @@
     "summary": "本レポートは、トウモロコシの収量低下がトウモロコシ価格を9月に1ブッシェル6ドルまで押し上げる可能性を指摘している。WASDE関連の分析記事として、供給サイド（収量）の悪化シナリオを提示しており、価格上昇圧力のシナリオに言及している。"
   },
   {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
-    "timestamp": "2026-08-31T15:28:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
-    "timestamp": "2026-08-31T15:28:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
-    "timestamp": "2026-08-31T15:28:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Regional Update — Monday, Aug. 31, 2026 - RFD-TV",
-    "timestamp": "2026-08-31T15:28:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年8月31日のRFD-TV週間作物進捗レポート。米国地域別の穀物・畜産進捗を定例更新。具体的な作付・収穫進捗率や収量予想などの詳細データが記載されている見込み。市場予想との乖離度は現時点で不明。"
-  },
-  {
     "title": "Corn Rally Reaches $5.40 Selling Zone as U.S. Yield Concerns Build - AgroLatam",
     "timestamp": "2026-08-31T19:42:21+00:00",
     "importance": 4,
@@ -75,50 +20,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "米国トウモロコシが$5.40の売却圏まで上昇した。米国の利回り懸念が強まっており、供給リスクが市場を支配している。Crop Progress等の定期統計発表に基づくもので、歴史的な価格水準への接近は投資家にとって重要なシグナルとなっている。"
-  },
-  {
-    "title": "Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters",
-    "timestamp": "2026-08-31T11:57:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "小麦",
-    "summary": "ロシアの穀物輸出がウクライナ情勢に伴う黒海貿易の混乱を受け、バルト海経由へのシフトを余儀なくされている。黒海経由の輸出ルートは地政学的リスクで寸断状態にあり、代替ルート開拓は輸送コスト増加と供給経路の複雑化を招く。グローバルな小麦供給の不確実性が高まり、価格上昇圧力が継続。"
-  },
-  {
-    "title": "Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters",
-    "timestamp": "2026-08-31T11:57:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの穀物輸出がウクライナ情勢に伴う黒海貿易の混乱を受け、バルト海経由へのシフトを余儀なくされている。黒海経由の輸出ルートは地政学的リスクで寸断状態にあり、代替ルート開拓は輸送コスト増加と供給経路の複雑化を招く。グローバルな小麦供給の不確実性が高まり、価格上昇圧力が継続。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - Reuters",
-    "timestamp": "2026-08-31T16:19:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に落ち込んだ。SPRは供給不安時の重要なバッファであり、その枯渇は原油の上値支持を弱める一方、地政学リスク時の供給保証能力の喪失を意味する。バイデン政権による過去の放出政策が影響。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - Reuters",
-    "timestamp": "2026-08-31T16:19:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に落ち込んだ。SPRは供給不安時の重要なバッファであり、その枯渇は原油の上値支持を弱める一方、地政学リスク時の供給保証能力の喪失を意味する。バイデン政権による過去の放出政策が影響。"
   },
   {
     "title": "Crop Progress",
@@ -207,28 +108,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "米国トウモロコシの収量低下シナリオが注目されており、価格が$5.40を超える上昇の可能性が指摘されている。Crop Progress等の収量データが市場予想を下回る場合、供給不安から急騰の余地がある。ただし具体的な最新収量数値が示されていないため、現段階では見通しベースの解説と考えられる。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - reuters.com",
-    "timestamp": "2026-08-31T16:19:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に低下した。SPR枯渇はエネルギー供給逼迫の懸念を高め、原油価格の上値支持要因となる。政府備蓄の枯渇は市場の心理的なセーフティネット喪失を意味し、供給不安定化時の価格変動性が増大する可能性がある。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.1 million barrels to lowest level since 1982 - reuters.com",
-    "timestamp": "2026-08-31T16:19:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国戦略石油備蓄（SPR）が310万バレル減少し、1982年以来の最低水準に低下した。SPR枯渇はエネルギー供給逼迫の懸念を高め、原油価格の上値支持要因となる。政府備蓄の枯渇は市場の心理的なセーフティネット喪失を意味し、供給不安定化時の価格変動性が増大する可能性がある。"
   },
   {
     "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
@@ -781,28 +660,6 @@
     "summary": "モーティーフール誌が2026年向けの有望銅関連株5銘柄を特集。電気自動車普及と脱炭素需要による銅需要の長期的な上昇見通しが背景。具体的な価格目標やファンダメンタルズ予想値は記事内容が不透明だが、銅セクターへのポジティブなアウトルックを示唆。"
   },
   {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-08-31T12:25:57+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "米国インフレデータへの楽観視が原油相場を下支えし、小幅高で決着。OPEC供給制約の懸念は存在するが、米インフレ期待の緩和がドル弱含み環境を作り、原油の上値を限定。市場センチメントは混在している状況。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-08-31T12:25:57+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国インフレデータへの楽観視が原油相場を下支えし、小幅高で決着。OPEC供給制約の懸念は存在するが、米インフレ期待の緩和がドル弱含み環境を作り、原油の上値を限定。市場センチメントは混在している状況。"
-  },
-  {
     "title": "US Corn and Soybean Yields Unlikely to Climb Heading Into Harvest - DTN Progressive Farmer",
     "timestamp": "2026-09-01T14:40:00+00:00",
     "importance": 3,
@@ -1164,5 +1021,93 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は日曜日の会合で石油生産政策を据え置く見通し。複数の情報筋が方針変更がないとの見解を示唆。現在の減産枠組みを継続し、市場の現状維持を示唆する内容。"
+  },
+  {
+    "title": "Daily Livestock Report: What’s Driving Corn Prices Higher? - Meatingplace",
+    "timestamp": "2026-09-02T17:08:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "Meatingplaceの業界レポートがトウモロコシ価格上昇要因を分析。飼料穀物としてのトウモロコシは畜産業に直結するため、価格上昇は畜産コストの増加圧力となる。需給タイトや天候要因、あるいはWASDEの直近予測が価格を支持している可能性。"
+  },
+  {
+    "title": "Daily Livestock Report: What’s Driving Corn Prices Higher? - Meatingplace",
+    "timestamp": "2026-09-02T17:08:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "Meatingplaceの業界レポートがトウモロコシ価格上昇要因を分析。飼料穀物としてのトウモロコシは畜産業に直結するため、価格上昇は畜産コストの増加圧力となる。需給タイトや天候要因、あるいはWASDEの直近予測が価格を支持している可能性。"
+  },
+  {
+    "title": "View / OPEC’s new threat comes from within - Semafor",
+    "timestamp": "2026-09-03T11:06:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの内部的な脅威に関する解説記事。OPECの結束力低下や加盟国間の利害対立が、組織の減産政策の有効性を脅かす可能性を指摘。従来の外部要因（米国シェール、地政学）に加えて、内部分裂が価格変動要因として注視される必要がある。"
+  },
+  {
+    "title": "View / OPEC’s new threat comes from within - Semafor",
+    "timestamp": "2026-09-03T11:06:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECの内部的な脅威に関する解説記事。OPECの結束力低下や加盟国間の利害対立が、組織の減産政策の有効性を脅かす可能性を指摘。従来の外部要因（米国シェール、地政学）に加えて、内部分裂が価格変動要因として注視される必要がある。"
+  },
+  {
+    "title": "Russia Revises Oil Output Forecasts and Defends OPEC+'s Role - energynews.pro",
+    "timestamp": "2026-09-03T13:24:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ロシアが石油生産見通しを修正し、OPEC+の役割を擁護する声明を発表。ロシアはOPEC+の減産政策継続の重要性を強調し、市場安定性維持の姿勢を示した。具体的な生産数値の大幅な修正ではなく、政策方針の確認に留まる内容。"
+  },
+  {
+    "title": "Stocks gain as bonds recover; rising Gulf tensions boost oil - Reuters",
+    "timestamp": "2026-09-03T02:02:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "湾岸地域の地政学的緊張の高まりが原油相場を上押しする一方で、債券相場の回復がリスク資産全般を支援している。株式市場が堅調に推移する中、原油は地政学リスクプレミアムを織り込む動きが見られており、マクロ環境と供給リスクの二律背反的な影響が作用している。"
+  },
+  {
+    "title": "Stocks gain as bonds recover; rising Gulf tensions boost oil - Reuters",
+    "timestamp": "2026-09-03T02:02:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "湾岸地域の地政学的緊張の高まりが原油相場を上押しする一方で、債券相場の回復がリスク資産全般を支援している。株式市場が堅調に推移する中、原油は地政学リスクプレミアムを織り込む動きが見られており、マクロ環境と供給リスクの二律背反的な影響が作用している。"
+  },
+  {
+    "title": "Russia’s Oil Revenue Sinks to Six-Month Low as Urals Price Drops - Bloomberg.com",
+    "timestamp": "2026-09-03T12:56:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの石油収入が6ヶ月ぶりの低水準に落ち込み、ウラル産原油の価格下落が主因。地政学的リスクとエネルギー市場の供給構造に関する重要なシグナルを示唆しており、原油相場の下押し圧力が継続している状況を反映している。"
   }
 ]
