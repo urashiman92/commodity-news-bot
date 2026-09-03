@@ -1,49 +1,5 @@
 [
   {
-    "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ロイター",
-    "timestamp": "2026-08-31T20:24:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン間の軍事衝突が再燃し、原油先物が2.5%超上昇した。中東地域での地政学的緊張の高まりが、原油供給の不安定性を増している。地域の主要産油国であるイランを含む紛争リスクが顕在化した。"
-  },
-  {
-    "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ニューズウィーク日本版",
-    "timestamp": "2026-08-31T20:23:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン間の軍事衝突が再燃し、中東地域での地政学的リスクが急速に高まった。原油先物が2.5%超上昇し、市場は中東からの石油供給途絶の可能性を織り込み始めている。イランは世界有数の産油国であり、紛争の拡大は世界的な供給不安を招く。"
-  },
-  {
-    "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ｄメニューニュース",
-    "timestamp": "2026-08-31T20:32:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイラン間の軍事衝突リスクが再燃し、中東地域の地政学的緊張が高まっている。ペルシャ湾経由の石油供給の断絶懸念から原油先物が2.5％超上昇した。中東産油国への有事プレミアムが価格に織り込まれている。"
-  },
-  {
-    "title": "最高値に向かう？ 金価格､市場での｢信任低下｣が背景に - 四季報オンライン",
-    "timestamp": "2026-08-31T22:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が最高値圏への上昇を見せており、背景には市場での信任低下がある。株式市場や通貨への不安が金への需要を高めている。リスク回避の流れが金買い需要を支えている。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4449ドル｜米長期金利の上昇や原油高によるインフレ懸念が影響した模様(2026年9月1日) - OANDA証券",
     "timestamp": "2026-08-31T23:04:45+00:00",
     "importance": 3,
@@ -55,17 +11,6 @@
     "summary": "金価格が4449ドルまで下落した。米長期金利の上昇とインフレ懸念が重石。原油高の影響も指摘されている。"
   },
   {
-    "title": "金価格5%上昇でも120万ウォン（約14万円）の損失…投資方式で明暗 - BigGo ファイナンス",
-    "timestamp": "2026-08-31T21:25:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が5%上昇しても投資方式によっては損失が生じる事例を報道。レバレッジ商品やコスト構造の差により、現物価格の上昇が必ずしも投資家利益に直結しないことを指摘。投資商品選択の重要性を解説するコンテンツ。"
-  },
-  {
     "title": "本日（9月1日）の金価格：金指輪の価格は引き続き下落。 - Vietnam.vn",
     "timestamp": "2026-08-31T22:49:45+00:00",
     "importance": 2,
@@ -75,28 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムにおける9月1日の金指輪価格が引き続き下落している。単発の国別ローカルニュースであり、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "金価格の下落が加速、ウォーシュFRB議長の発言とイラン情勢の緊迫化受け - Yahoo!ニュース",
-    "timestamp": "2026-08-31T22:01:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB議長の発言による金利上昇期待と、イラン情勢緊迫化という相反する要因が市場に作用。金利上昇は金の実質利回りを悪化させ、下落圧力となっている。"
-  },
-  {
-    "title": "本日（9月1日）の金価格：金地金は安定、金指輪はまちまちの結果。 - Vietnam.vn",
-    "timestamp": "2026-08-31T21:49:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの9月1日の金価格は金地金は安定推移、金指輪は混合的な結果。単一国の局地的な小売価格動向の報道で、グローバルコモディティ市場への直接的な影響は限定的。"
   },
   {
     "title": "WTI原油見通し(市況ニュース)：米国とイランの武力衝突が影響し、原油価格は反発（2026年9月1日） - OANDA証券",
@@ -121,17 +44,6 @@
     "summary": "中東緊張が継続し、原油価格の上昇圧力が存在。日本株・債券は下落の可能性。G20開催で円相場が注視される。"
   },
   {
-    "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ｄメニューニュース",
-    "timestamp": "2026-08-31T20:40:12+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイラン間の軍事衝突が再燃し、中東での地政学的緊張が高まった。原油先物は2.5%を超える上昇で、供給途絶リスクが市場に織り込まれている。ホルムズ海峡経由の石油輸送への懸念が顕在化。"
-  },
-  {
     "title": "米連邦準備制度理事会（FRB）による利上げ予想と、原油価格の上昇による米国債利回りの上昇を受け、世界の金価格は下落した。 - Vietnam.vn",
     "timestamp": "2026-08-31T23:54:09+00:00",
     "importance": 2,
@@ -141,17 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "FRBの利上げ予想と原油高による米国債利回り上昇を背景に、金価格が下落した。利上げ環境では非利息生成資産である金の相対的な魅力が低下する。既知の市場メカニズムの反映。"
-  },
-  {
-    "title": "インフレ再燃！？米国利上げ！？原油相場どうなる！？ - Infoseek",
-    "timestamp": "2026-08-31T22:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国のインフレ再燃と利上げ継続の可能性について、原油相場への影響を論じた解説記事。インフレ懸念は需要面での価格押し上げ圧力となる一方、高金利は経済活動を抑制するため、方向性は不確実。"
   },
   {
     "title": "８月３１日の主要国際商品市況 - 株探",
@@ -165,17 +66,6 @@
     "summary": "8月31日の主要国際商品市況についての日次マーケットレポート。具体的な価格変動や材料についての詳細情報は記事概要からは不明。"
   },
   {
-    "title": "米コモディティー市場－原油、天然ガス、銅、トウモロコシが上昇 ガソリン、金、銀、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-31T22:32:19+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油・天然ガス・銅・トウモロコシが上昇する一方、ガソリン・金・銀・小麦・大豆が下落。市場参加者の個別銘柄での買い売り分岐が顕著。"
-  },
-  {
     "title": "本日（9月1日）の金価格：反転上昇。 - Vietnam.vn",
     "timestamp": "2026-09-01T02:10:29+00:00",
     "importance": 2,
@@ -185,17 +75,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月1日の金価格が反転上昇した。ベトナムメディアによる市場観測報道。具体的な上昇要因や数値は明記されていない。"
-  },
-  {
-    "title": "金価格の下落が加速、ウォーシュFRB議長の発言とイラン情勢の緊迫化受け - Forbes JAPAN",
-    "timestamp": "2026-08-31T22:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB議長の発言と地政学的緊張を背景に金価格が下落。ドル強化観測と安全資産買いの相殺が進む。イラン情勢は既報の範囲内の進展。"
   },
   {
     "title": "ウォール街のアナリストたちは、金価格の動向について意見が分かれている。市場は米国の雇用統計の発表を待っている。 - Vietnam.vn",
@@ -1835,5 +1714,126 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の緊張緩和を受けて原油価格が小幅に下落した。地政学的リスク低減が供給不安の軽減につながった。市場は安定化シグナルを織り込みつつある。"
+  },
+  {
+    "title": "プーチン大統領の和平発言を受け、欧州小麦相場が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-03T18:03:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "プーチン大統領が和平交渉に関する発言を行ったことを受け、ウクライナ情勢の緊張緩和期待が広がった。これにより地政学的リスク低下への連動で、欧州小麦相場が下落した。"
+  },
+  {
+    "title": "金価格が3％反発、9月の利上げ観測が後退──ドル安も支えに - Forbes JAPAN",
+    "timestamp": "2026-09-03T22:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3％反発し、9月のFOMC利上げ観測の後退が主因。ドル安も金の買い材料となった。マクロ環境の変化が金相場を支えている。"
+  },
+  {
+    "title": "本日（9月4日）の金価格：反転して再び上昇。 - Vietnam.vn",
+    "timestamp": "2026-09-03T21:51:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月4日の金価格が反転して再び上昇した。具体的な上昇要因や数値は記事概要から不明。日次の相場振り返り・解説記事と推定される。"
+  },
+  {
+    "title": "金価格が4400ドル台に上昇、トランプ氏発言でインフレ懸念和らぐ フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-03T11:14:18+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4400ドル台に上昇。トランプ氏の発言によりインフレ懸念が緩和された。既に織り込まれた政治的なポジション調整による相場変動。"
+  },
+  {
+    "title": "金価格が下落、投資家が6月FRB議事録に注目する - Межа. Новини України.",
+    "timestamp": "2026-09-03T18:27:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が下落している。投資家は6月のFRB議事録公開に注目しており、金融政策の方向性を探っている。議事録から金利据置きの判断根拠や今後の利上げシグナルが読み取られる見込み。"
+  },
+  {
+    "title": "原油先物まちまち、中東緊迫化とウクライナ和平の見通し見極めで - ロイター",
+    "timestamp": "2026-09-03T20:55:43+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が中東情勢の緊迫化とウクライナ和平見通しの二つの要因で方向感を欠いている。供給リスク（中東）と需要見通し（和平による地政学リスク低下）が相反する材料となっており、市場参加者が双方の不確実性を見極めようとしている。"
+  },
+  {
+    "title": "原油先物まちまち、中東緊迫化とウクライナ和平の見通し見極めで - ニューズウィーク日本版",
+    "timestamp": "2026-09-03T20:55:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の地政学的緊迫化と、ウクライナの和平見通しという相反する要因が原油市場で綱引き状態にある。現在のところ原油先物の値動きは両要因の不確実性を反映し、方向感が定まっていない。"
+  },
+  {
+    "title": "原油先物まちまち、中東緊迫化とウクライナ和平の見通し見極めで - ｄメニューニュース",
+    "timestamp": "2026-09-03T20:55:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊迫化とウクライナ和平交渉の進展見通しが、原油先物相場の方向性を左右する材料として注視されている。両要因が相反する影響を持つため、相場は方向感を模索している状況。"
+  },
+  {
+    "title": "農産物市場は下落基調で、コーヒーは3営業日連続で下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-03T20:42:06+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "農産物市場全体が下落基調で推移しており、コーヒーは3営業日連続で下落を記録した。アナリスト解説記事で既に市場トレンドが反映されている。"
+  },
+  {
+    "title": "コンゴの輸出禁止で銅価格が急騰、供給不安がロンドン市場を揺さぶる - Межа. Новини України.",
+    "timestamp": "2026-09-03T19:05:19+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "コンゴが銅の輸出禁止を実施し、世界有数の銅供給国からの供給遮断により市場に大きな供給不安が発生。ロンドン金属取引所で銅価格が急騰し、コモディティ市場全体に波及している。"
+  },
+  {
+    "title": "なぜ本日の銅価格は横ばいなのか？FRB利上げ観測と$6,675のレジスタンスに注目 - tradersunion.com",
+    "timestamp": "2026-09-03T12:22:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が6,675ドルのレジスタンスで推移している。FRB利上げ観測が市場心理に影響。技術的サポート・レジスタンスレベルでの値動き分析。"
   }
 ]
