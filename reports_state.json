@@ -1,38 +1,5 @@
 [
   {
-    "title": "Shares skid in Asia as oil climbs, yields stay high - Reuters",
-    "timestamp": "2026-08-31T00:38:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が売却される中、原油価格が上昇し、長期金利が高水準を維持している。米国金利の高止まりがドル高圧力となり、ドル建てコモディティの価格抑制要因となる一方、原油は需要懸念や地政学リスク、あるいはサプライサイド要因で上昇している可能性がある。リスク資産売却とコモディティ価格の乖離は市場不安を示唆。"
-  },
-  {
-    "title": "Shares skid in Asia as oil climbs, yields stay high - Reuters",
-    "timestamp": "2026-08-31T00:38:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "アジア株が売却される中、原油価格が上昇し、長期金利が高水準を維持している。米国金利の高止まりがドル高圧力となり、ドル建てコモディティの価格抑制要因となる一方、原油は需要懸念や地政学リスク、あるいはサプライサイド要因で上昇している可能性がある。リスク資産売却とコモディティ価格の乖離は市場不安を示唆。"
-  },
-  {
-    "title": "Shares skid in Asia as oil climbs, yields stay high - Reuters",
-    "timestamp": "2026-08-31T00:38:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が売却される中、原油価格が上昇し、長期金利が高水準を維持している。米国金利の高止まりがドル高圧力となり、ドル建てコモディティの価格抑制要因となる一方、原油は需要懸念や地政学リスク、あるいはサプライサイド要因で上昇している可能性がある。リスク資産売却とコモディティ価格の乖離は市場不安を示唆。"
-  },
-  {
     "title": "Corn prices climb before harvest as demand stays strong and yield questions linger - Brownfield Ag News",
     "timestamp": "2026-08-31T13:02:57+00:00",
     "importance": 3,
@@ -1164,5 +1131,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラビアがホルムズ海峡でイランによる船舶攻撃があり、2名の船員が殺害されたと発表。中東の地政学的緊張が急速に高まり、世界石油供給の約30%が通過するホルムズ海峡での安全保障リスクが顕著化。原油価格への上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "EIA Data Shows U.S. Crude Inventories Fall 4.5 Million Barrels as Demand Slumps - foreignpolicyjournal.com",
+    "timestamp": "2026-09-02T19:01:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計により、米国原油在庫が450万バレル減少したことが報告された。これは需要の落ち込みを背景としており、在庫減少は供給サイド改善を示唆するが、需要減退が主因であるため原油価格への下押し圧力が継続する見込み。"
+  },
+  {
+    "title": "Asian Stocks Set to Advance as Oil Pressures Ease: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-02T22:08:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株が上昇基調にある一因として、原油価格の圧力緩和が指摘されている。エネルギーコスト低下がインフレ懸念を和らげ、リスク資産買いを促進。ただしコモディティ全体への直接的な影響は限定的で、マクロ環境改善の観測論が主体。"
+  },
+  {
+    "title": "Asian Stocks Set to Advance as Oil Pressures Ease: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-02T22:08:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株が上昇基調にある一因として、原油価格の圧力緩和が指摘されている。エネルギーコスト低下がインフレ懸念を和らげ、リスク資産買いを促進。ただしコモディティ全体への直接的な影響は限定的で、マクロ環境改善の観測論が主体。"
   }
 ]
