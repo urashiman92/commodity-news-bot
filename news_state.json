@@ -1,27 +1,5 @@
 [
   {
-    "title": "トルコの黒海穀物計画提案を受け、CBOT小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-31T19:32:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "トルコが黒海穀物回廊に代わる新たな穀物輸出計画を提案。小麦供給懸念の緩和が価格下押し要因に。ウクライナ産小麦の代替ルート確保により供給安定期待が広がった。"
-  },
-  {
-    "title": "大口ヒモ付きアルミ地金価格／１０～１２月は２０円安、６７０円／５四半期ぶり反落も高値水準 - 日刊鉄鋼新聞 Japan Metal Daily",
-    "timestamp": "2026-08-31T20:00:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10～12月期の大口ヒモ付きアルミ地金価格が670円で前期比20円安。5四半期ぶりの反落だが絶対水準としては依然高値を維持している状況。"
-  },
-  {
     "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ロイター",
     "timestamp": "2026-08-31T20:24:09+00:00",
     "importance": 4,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米・イラン間の軍事衝突が再燃し、原油先物が2.5%超上昇した。中東地域での地政学的緊張の高まりが、原油供給の不安定性を増している。地域の主要産油国であるイランを含む紛争リスクが顕在化した。"
-  },
-  {
-    "title": "米・イランが1カ月ぶりに攻撃応酬－原油価格上昇、戦闘長期化を警戒 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-08-31T18:54:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランが1ヶ月ぶりに攻撃応酬を実施。中東地政学リスクが再燃し原油価格が上昇。戦闘の長期化懸念が市場圧迫要因。"
   },
   {
     "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ニューズウィーク日本版",
@@ -64,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイラン間の軍事衝突リスクが再燃し、中東地域の地政学的緊張が高まっている。ペルシャ湾経由の石油供給の断絶懸念から原油先物が2.5％超上昇した。中東産油国への有事プレミアムが価格に織り込まれている。"
-  },
-  {
-    "title": "大豆先物、利益確定売りで高値から反落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-31T19:37:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物が高値から利益確定売りにより反落した。技術的なポジション調整による売圧。需給ファンダメンタルズに大きな変化なし。"
   },
   {
     "title": "最高値に向かう？ 金価格､市場での｢信任低下｣が背景に - 四季報オンライン",
@@ -130,17 +86,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "FRB議長の発言による金利上昇期待と、イラン情勢緊迫化という相反する要因が市場に作用。金利上昇は金の実質利回りを悪化させ、下落圧力となっている。"
-  },
-  {
-    "title": "ゴールドマン、金価格4,900ドルを予想——中銀の買い入れが準備資産の構図を再編 - BigGo ファイナンス",
-    "timestamp": "2026-08-31T18:23:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ゴールドマン・サックスが金価格を4,900ドルまで上昇すると予想。中央銀行の金買い入れが準備資産の構成を変化させ、金需要の構造的な上昇要因となる可能性を指摘している。"
   },
   {
     "title": "本日（9月1日）の金価格：金地金は安定、金指輪はまちまちの結果。 - Vietnam.vn",
@@ -1725,5 +1670,170 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏が対イラン空襲は長引かないとの見通しを示唆。地政学的緊張緩和の可能性が市場に織り込まれ、原油価格は高値から反落。リスクプレミアムの縮小が価格押し下げ要因。"
+  },
+  {
+    "title": "プーチン氏がウクライナ和平の可能性を示唆、小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-03T19:24:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "プーチン氏がウクライナ和平の可能性を示唆したことを受け、小麦先物が下落した。ウクライナ紛争の終結見通しが高まれば、ウクライナからの小麦供給制約が緩和される見込み。供給懸念の軽減により価格圧力が生じている。"
+  },
+  {
+    "title": "【金価格見通し】ゴールド上昇基調継続で「年末5,000ドル」へ｜池水雄一 2026年9月3日 - 外為どっとコム",
+    "timestamp": "2026-09-03T06:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリスト池水雄一氏が金価格の年末5,000ドル到達を予想。上昇基調の継続を見込む強気見通しの提示。既存トレンドの延長線上での予測。"
+  },
+  {
+    "title": "金相場の急騰は投資需要が主導、米国債買い戻しだけが要因ではない＝アナリスト 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-03T16:01:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の上昇は米国債買い戻しだけでなく、投資需要が主導要因であるとアナリストが指摘。既に進行中の金価格上昇トレンドに対する解説。複数要因の組み合わせが価格上昇を支えている状況。"
+  },
+  {
+    "title": "金価格は本日9月4日に急騰するのか、それとも反転するのか？ゴールドマン・サックスは貴金属の新たな価格水準を予測しているが、その原動力は何だろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-03T15:40:59+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが金の新たな価格水準を予測している。記事は9月4日の金価格の上昇か反転かを問うもの。アナリスト見解に基づく相場観測記事。"
+  },
+  {
+    "title": "金価格、8週間で20%上昇後に調整。チャートが示すものは - Moomoo",
+    "timestamp": "2026-09-03T15:05:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は8週間で20%上昇後に調整局面を迎えている。テクニカル分析に基づいた相場の振り返り記事であり、チャートパターンの解説。既に上昇トレンドが織り込まれた段階での調整観測。"
+  },
+  {
+    "title": "金価格が4400ドル台に上昇、トランプ氏発言でインフレ懸念和らぐ フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-03T10:22:07+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4400ドル台に上昇。トランプ氏の発言によってインフレ懸念が和らぎ、相場が上昇した。既に市場で織り込まれつつある政治的シナリオの延長。"
+  },
+  {
+    "title": "金価格ディリーレポート（2026年9月3日）中央銀行の金準備を巡る政治的動きが注目される中、金相場は3.8％の下げを取り戻す - ブリオンボールト",
+    "timestamp": "2026-09-03T06:44:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場が前日の3.8%下落を部分的に取り戻した。中央銀行の金準備に関わる政治的動きが注視されている。市場は金の需要・供給バランスと政策姿勢の変化に反応している。"
+  },
+  {
+    "title": "シティ、金株は割安と判断――金価格は2027年末までに5,000ドルへ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-03T17:48:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "シティグループが金鉱株を割安と判断し、金価格は2027年末までに5,000ドルへ上昇するとの見通しを発表。現在の金価格から大幅な上昇余地を示唆しており、投資家のロングポジション検討を促す。"
+  },
+  {
+    "title": "「2010年ごろ」という大転換点…スマートフォンの普及が金相場を動かした【コモディティアナリストが解説】 - Yahoo!ニュース",
+    "timestamp": "2026-09-03T02:00:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2010年頃のスマートフォン普及が金相場の転換点になったという過去の相場変動に関するアナリスト解説。産業需要の構造的変化を振り返る分析記事。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-09-03T11:50:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の現在値を示すティッカー情報。具体的なニュースイベントや価格変動の要因に関する実質的な情報が含まれていない。"
+  },
+  {
+    "title": "米国とイランの軍事衝突で原油価格が95ドルに接近、ホルムズ海峡の輸送が細る - Межа. Новини України.",
+    "timestamp": "2026-09-03T19:03:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事衝突リスクが高まり、原油価格が95ドル近辺まで上昇。ホルムズ海峡の輸送混乱が懸念され、世界的な原油供給逼迫の危機が顕在化。地政学的緊張が急速に深刻化している。"
+  },
+  {
+    "title": "カルシ、無期限原油先物を米CFTCへ申請計画 - CoinPost",
+    "timestamp": "2026-09-03T04:40:08+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "暗号資産取引所カルシが米CFTCに無期限原油先物商品の申請を計画。ブロックチェーン基盤の原油先物取引の規制認可を目指す動き。既存の現物原油市場への直接的な需給インパクトは限定的。"
+  },
+  {
+    "title": "予測市場カルシ、WTI原油価格に連動する無期限先物を来週にも米CFTCへ承認申請へ - bitbank",
+    "timestamp": "2026-09-03T06:21:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "予測市場プラットフォーム「カルシ」がWTI原油連動の無期限先物商品をCFTCへ承認申請予定。暗号資産ベースの新しい取引手段の登場だが、原油市場全体への直接的な価格影響は限定的。"
+  },
+  {
+    "title": "投資家が企業決算や原油価格を注視する中、ウォール街の先物相場は低調に推移している - TradingView",
+    "timestamp": "2026-09-03T10:01:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ウォール街の先物相場が低調に推移している状況を伝えるコメンタリー記事。投資家が企業決算と原油価格動向を注視しており、市場が様子見姿勢の模様。"
+  },
+  {
+    "title": "中東情勢の緊張緩和を受け、原油価格は小幅に下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-03T11:43:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊張緩和を受けて原油価格が小幅に下落した。地政学的リスク低減が供給不安の軽減につながった。市場は安定化シグナルを織り込みつつある。"
   }
 ]
