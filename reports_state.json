@@ -33,72 +33,6 @@
     "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率、生育段階、作物状態を報告。予想との乖離幅が不明なため、具体的な市場インパクトは判断不可。"
   },
   {
-    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
-    "timestamp": "2026-08-31T21:40:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
-  },
-  {
-    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
-    "timestamp": "2026-08-31T21:40:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
-  },
-  {
-    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
-    "timestamp": "2026-08-31T21:40:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
-  },
-  {
-    "title": "Crop Progress Report August 31, 2026: Corn, Soybeans, Cotton, and More - News and Statistics - IndexBox",
-    "timestamp": "2026-08-31T21:40:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "綿花",
-    "summary": "USDA Crop Progress Reportは毎月末に発表される定期統計レポート。2026年8月31日版では、トウモロコシ、大豆、綿花などの生育進度と作況状況が報告される。具体的な進捗率は当該ソースから完全に確認できないため、サプライズ度や価格インパクトの正確な評価が困難。"
-  },
-  {
-    "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-31T22:06:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン情勢の緊迫化がエネルギー市場のリスクプレミアムを押し上げ、原油価格が上昇。これに伴いアジア株式市場は下落圧力を受ける見通し。地政学的リスクによる供給懸念が市場心理を悪化させている。"
-  },
-  {
-    "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-08-31T22:06:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イラン情勢の緊迫化がエネルギー市場のリスクプレミアムを押し上げ、原油価格が上昇。これに伴いアジア株式市場は下落圧力を受ける見通し。地政学的リスクによる供給懸念が市場心理を悪化させている。"
-  },
-  {
     "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks - Reuters",
     "timestamp": "2026-09-01T00:56:00+00:00",
     "importance": 4,
@@ -295,17 +229,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "金鉱株が8月に数十年ぶりの好成績を記録した。これは通貨供給量増加への懸念や実質金利低下による「通貨切り下げ取引」の再燃が背景。金融緩和環境が金および金鉱株の需要を支援している状況が続いている。"
-  },
-  {
-    "title": "Crop progress: Soybean ratings tilt lower - Farm Progress",
-    "timestamp": "2026-08-31T21:12:24+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国農務省の定期Crop Progress報告において、大豆の生育評価（good/excellent rating）が低下傾向を示した。降雨不足や生育地域の天候悪化が懸念される。今後のWASDEレポートで生産量見通しが下方修正される可能性がある。"
   },
   {
     "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow",
@@ -1142,5 +1065,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "ベネズエラのOPEC離脱を議論するレポート。ベネズエラは過去最大級の原油埋蔵量を保有するが、経済危機による生産能力喪失で既に世界供給への実質的寄与は限定的。OPEC内での減産交渉の力学変化が焦点。"
+  },
+  {
+    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-02T10:21:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが発表した米国原油在庫統計によると、製油所の稼働率向上に伴い原油在庫が減少した。製油所が原油処理量を増加させており、在庫積み増しの圧力が緩和されている。通常の季節的パターン内の動きと考えられる。"
+  },
+  {
+    "title": "Russia will slightly cut oil output this year, deputy PM Novak says - reuters.com",
+    "timestamp": "2026-09-03T06:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ロシアの副首相ノバク氏が、ロシアは2024年中に原油生産を若干削減する見通しを示唆した。具体的な削減量は明示されていないが、OPEC+の枠組み内での調整の一環と考えられる。市場では既に予想されていた継続的な減産政策の延長線。"
   }
 ]
