@@ -1,159 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4454ドル｜米国の利上げ観測の高まりが影響した模様(2026年8月31日) - OANDA証券",
-    "timestamp": "2026-08-30T23:05:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4454ドルまで下落した。米国の利上げ観測が強まったことが主な要因。金は実質金利上昇局面では売られやすい資産である。"
-  },
-  {
-    "title": "金価格、8月に10%超上昇 強気派はエキゾチック・オプションへシフトしコスト抑制 - BigGo ファイナンス",
-    "timestamp": "2026-08-30T23:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "8月の金価格が10%超上昇した。強気派がエキゾチック・オプションへシフトしてコスト抑制を図っている。既に起きた価格上昇の事後的な解説記事。"
-  },
-  {
-    "title": "本日（8月31日）の金価格：金の指輪は全ブランドで同時に下落。 - Vietnam.vn",
-    "timestamp": "2026-08-30T23:06:29+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムでの金の指輪価格が全ブランド同時に下落したとの報道。\n局地的な小売市場の動きであり、世界的な金価格動向を示すものではない。\n定期的な価格変動の範囲内と考えられる。"
-  },
-  {
-    "title": "三菱マテリアル－大幅反落 ウォーシュＦＲＢ議長発言を嫌気し金価格下落 非鉄株が安い(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-31T00:12:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB議長の発言を受けて金価格が下落し、金関連株である三菱マテリアルが大幅に反落した。ドル強化とリスク資産回帰の環境が金需要を圧迫している。"
-  },
-  {
-    "title": "8月31日朝の金価格更新:大幅な下落にもかかわらずポジティブな予測を受け取る - Laodong.vn",
-    "timestamp": "2026-08-30T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8月31日朝に大幅下落したが、アナリストからはポジティブな見通しが示されている。短期的な下落圧力と中期的な強気見通しの対比。"
-  },
-  {
-    "title": "本日（8月31日）の金価格：ピークに達した後、低水準で安定した。 - Vietnam.vn",
-    "timestamp": "2026-08-30T23:06:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が高値をつけた後、低水準で安定している状況を報じたもの。過去の価格変動を振り返る相場解説。"
-  },
-  {
-    "title": "原油先物が2％超上昇、米軍が新たにイラン攻撃 - Reuters",
-    "timestamp": "2026-08-30T22:25:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がイランへの新たな攻撃を実施し、原油先物は2%超の上昇を記録。中東の地政学リスクが顕在化。供給リスク増加への懸念が相場を押し上げた。"
-  },
-  {
-    "title": "原油先物が2％超上昇、米軍が新たにイラン攻撃 - Yahoo!ニュース",
-    "timestamp": "2026-08-30T23:39:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がイランに対して新たに攻撃を実施し、原油先物が2%超上昇した。中東の地政学リスクが再び高まり、供給途絶の懸念が相場を支えた。既報のイラン情勢紛争の延長としての動き。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米・イランの仲介国による働きかけでホルムズ海峡の回復期待が高まり、原油価格は3営業日ぶりに下落（2026年8月31日） - OANDA証券",
-    "timestamp": "2026-08-30T23:11:10+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの仲介国による外交的働きかけにより、ホルムズ海峡の地政学的リスク低下への期待が高まった。供給懸念の軽減を背景にWTI原油は3営業日ぶりに下落。既報事象の続報として市場に織り込まれている。"
-  },
-  {
-    "title": "米軍がラーラク島のイラン発射台を攻撃、原油価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-08-31T00:16:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がイランのラーラク島の発射台を攻撃。中東における地政学的緊張の急速なエスカレーション。原油価格は供給リスク懸念により上昇。"
-  },
-  {
-    "title": "原油先物が2％超上昇、米軍が新たにイラン攻撃 - ニューズウィーク日本版",
-    "timestamp": "2026-08-30T22:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がイランへの新たな攻撃を実施し、原油先物が2%超上昇。中東地政学リスクの顕在化により供給懸念が高まった。市場は地政学プレミアムを織り込む動きを示している。"
-  },
-  {
-    "title": "原油先物が2％超上昇、米軍が新たにイラン攻撃 - Infoseek",
-    "timestamp": "2026-08-30T22:25:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍によるイラン新規攻撃が報じられ、原油先物が2％超上昇。中東地政学リスクの顕在化により供給懸念が高まった。地域緊張の深刻化が価格を押し上げた。"
-  },
-  {
-    "title": "原油先物が2％超上昇、米軍が新たにイラン攻撃（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-08-30T22:32:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がイランに対して新たな攻撃を実施し、原油先物が2%超上昇した。中東の地政学的リスクが再燃し、供給懸念が相場を支援。イラン産油への直接的な影響は限定的だが、地域の緊張激化が警戒される。"
-  },
-  {
-    "title": "２８日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-30T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "28日の主要国際商品市況についての市場レポート。具体的な価格動向や商品別の変動内容の詳細が不明。日次の市況集計記事と推定される。"
-  },
-  {
     "title": "私の相場観 流通リスクで高騰する小麦相場 黒海戦闘激化の余波 - 中部経済新聞",
     "timestamp": "2026-08-31T05:35:12+00:00",
     "importance": 4,
@@ -306,28 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ペルシャ湾の地政学的緊張が急速に高まり、原油価格が急騰している。ブレント原油は1バレル90ドルを再び超えた。供給途絶の懸念から市場に大きな影響を与えている。"
-  },
-  {
-    "title": "２８日の主要国際商品市況 (2026年8月31日掲載) - ライブドアニュース",
-    "timestamp": "2026-08-30T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "8月28日の主要国際商品市況についての定期的なニュース報道。具体的な価格データや市場動向の詳細が記事から読み取れないため、正確な分析が困難。"
-  },
-  {
-    "title": "２８日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-30T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "28日の主要国際商品市況についての報道。具体的な価格変動データや市場動向が不明なため、市況の単なる日次報告と考えられます。"
   },
   {
     "title": "2026年8月31日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
@@ -1912,5 +1736,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国がイランに新たな攻撃を実施し、地政学的緊張が急速に高まった。米原油先物が90ドル台まで上昇し、供給リスク懸念が顕在化。中東情勢の不安定化が原油相場を大きく押し上げた。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4388ドル｜米長期金利やドルインデックスの低下が影響している模様(2026年9月3日) - OANDA証券",
+    "timestamp": "2026-09-02T23:05:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4388ドルまで下落。米長期金利低下とドルインデックス低下が影響している。テクニカルな相場解説で、予想の範囲内の動き。"
+  },
+  {
+    "title": "「2010年ごろ」という大転換点…スマートフォンの普及が金相場を動かした【コモディティアナリストが解説】 - ゴールドオンライン",
+    "timestamp": "2026-09-02T20:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "スマートフォン普及（2010年頃）が金相場の転換点となったことについての解説記事。デバイスの高性能化に伴い金の電子部品需要が増加し、金相場のファンダメンタルズが変化した。過去の相場動向を振り返る市場解説。"
+  },
+  {
+    "title": "本日（9月3日）の金価格：引き続き下落傾向。 - Vietnam.vn",
+    "timestamp": "2026-09-03T00:15:35+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月3日の金価格は引き続き下落傾向を示している。ベトナムメディアによる相場の日次振り返り報道。既に織り込まれた下落トレンドの継続。"
+  },
+  {
+    "title": "米債利回り急騰が金価格を直撃 金は200日移動平均線を割り込み2週間ぶり安値 - BigGo ファイナンス",
+    "timestamp": "2026-09-02T18:22:42+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米債利回りの急騰に伴い金価格が売却圧力を受けた。金は200日移動平均線を割り込み2週間ぶりの安値を記録。利回り上昇は金の実質利回りを高めるため、金売却につながる典型的な相場構図。"
+  },
+  {
+    "title": "本日（9月3日）の金価格：金指輪の価格が下落。 - Vietnam.vn",
+    "timestamp": "2026-09-02T23:16:30+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金指輪価格が下落した。金市場の日次変動を報じる定期的なニュース。市場への実質的な影響は軽微。"
+  },
+  {
+    "title": "原油3日続伸、米・イラン戦闘激化－ホルムズ海峡の混乱拡大を警戒 - Bloomberg.com",
+    "timestamp": "2026-09-02T21:12:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン間の戦闘激化により、ホルムズ海峡を経由する原油輸送路に対する混乱リスクが急速に高まっている。ホルムズ海峡は全世界の石油輸送の約30%が通過する重要な海上路であり、供給途絶の可能性から原油は3日続伸している。地政学的リスク発生に伴う供給ショック懸念が価格を押し上げている。"
+  },
+  {
+    "title": "【速報】NY原油先物続伸、91ドル台(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-09-02T14:44:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が91ドル台で続伸している。具体的な材料は記事からは不明だが、トレンドの継続を示唆。短期的なテクニカル反応と見られる。"
+  },
+  {
+    "title": "米イラン戦火再燃で国際原油価格が90ドル台に回帰、ホルムズ海峡が鍵握る - BigGo ファイナンス",
+    "timestamp": "2026-09-02T23:12:42+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の軍事緊張再燃により、国際原油価格が90ドル台へ上昇。ホルムズ海峡の供給リスクが価格を押し上げている。地政学的な供給途絶懸念が市場を牽引。"
+  },
+  {
+    "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - ｄメニューニュース",
+    "timestamp": "2026-09-02T20:15:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン攻撃を再開したことで中東の地政学的リスクが再び高まり、原油供給懸念が増加。先物は1%上昇で反応。"
   }
 ]
