@@ -22,17 +22,6 @@
     "summary": "10～12月期の大口ヒモ付きアルミ地金価格が670円で前期比20円安。5四半期ぶりの反落だが絶対水準としては依然高値を維持している状況。"
   },
   {
-    "title": "世界の金価格は下落を続け、1オンスあたり4400ドルに迫っている。 - Vietnam.vn",
-    "timestamp": "2026-08-31T16:31:59+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が下落を続け、1オンスあたり4400ドルに接近している。報道は価格動向の現況報告であり、既に市場で織り込まれた傾向の述べ立てと考えられる。"
-  },
-  {
     "title": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ロイター",
     "timestamp": "2026-08-31T20:24:09+00:00",
     "importance": 4,
@@ -75,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイラン間の軍事衝突リスクが再燃し、中東地域の地政学的緊張が高まっている。ペルシャ湾経由の石油供給の断絶懸念から原油先物が2.5％超上昇した。中東産油国への有事プレミアムが価格に織り込まれている。"
-  },
-  {
-    "title": "【ベッセント米財務長官】「原油価格は下落」(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-08-31T14:32:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベッセント米財務長官が原油価格の下落を述べた。政策当局者による相場観コメントだが、具体的な根拠や新規情報が不明。既に市場で織り込まれている可能性が高い。"
   },
   {
     "title": "大豆先物、利益確定売りで高値から反落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1714,5 +1692,38 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "9月3日のトウモロコシ先物の変動要因を分析する解説記事。在庫、ドル、地政学的要因の複数の可能性を提示。実際の価格変動幅や方向が明記されていない。"
+  },
+  {
+    "title": "NYダウ反発、一時298ドル高 原油先物は92ドル台で推移 - BigGo ファイナンス",
+    "timestamp": "2026-09-03T15:55:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが一時298ドル高で反発。原油先物は92ドル台で推移している相場観の報告。株式市場との連動性を示す一般的な市場動向の伝達。"
+  },
+  {
+    "title": "原油価格は在庫の逼迫度合いを示すものではない - Moomoo",
+    "timestamp": "2026-09-03T12:02:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomooが原油価格と在庫逼迫度の相関性に疑問を呈するコメンタリー。従来の在庫指標が価格決定要因として機能していない可能性を指摘。"
+  },
+  {
+    "title": "トランプ氏、対イラン空襲は「長引かない」と発言 原油価格は高値から反落、アジア株はまちまち - BigGo ファイナンス",
+    "timestamp": "2026-09-03T10:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏が対イラン空襲は長引かないとの見通しを示唆。地政学的緊張緩和の可能性が市場に織り込まれ、原油価格は高値から反落。リスクプレミアムの縮小が価格押し下げ要因。"
   }
 ]
