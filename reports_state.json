@@ -1164,5 +1164,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が上昇基調にある一因として、原油価格の圧力緩和が指摘されている。エネルギーコスト低下がインフレ懸念を和らげ、リスク資産買いを促進。ただしコモディティ全体への直接的な影響は限定的で、マクロ環境改善の観測論が主体。"
+  },
+  {
+    "title": "Crude oil technical analsysis: US crude oil inventories for -4.450M barrel vs -1.085M estimate. - investingLive",
+    "timestamp": "2026-09-02T15:04:09+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計で米国原油在庫が予想を大きく上回る-445万バレルの減少となった。市場予想は-108.5万バレルだったため、実績は予想の約4倍の減少規模となり、需要の堅調性と供給逼迫を示唆するシグナルとなった。この大幅な在庫減少は原油価格の上昇圧力となる。"
+  },
+  {
+    "title": "Will Venezuela leave OPEC after ‘colonial’ US oil deal? - The New Arab",
+    "timestamp": "2026-09-01T16:34:16+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ベネズエラがOPECからの脱退を検討している可能性が報じられた。米国とのオイルディール交渉に関連し、ベネズエラ政府は同取引を「植民地的」と批判。同国の脱退は世界的な原油供給体制に変動をもたらす可能性がある。"
+  },
+  {
+    "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight - Reuters",
+    "timestamp": "2026-09-03T02:41:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国の非農業部門雇用統計（NFP）発表を控えて、金が1%以上上昇した。雇用統計は米FRBの金融政策決定に重大な影響を与えるため、市場参加者がポジションを調整している。弱い雇用統計が出れば利下げ観測が高まり、金にはさらなる上昇要因となる可能性がある。"
+  },
+  {
+    "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight - Reuters",
+    "timestamp": "2026-09-03T02:41:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国の非農業部門雇用統計（NFP）発表を控えて、金が1%以上上昇した。雇用統計は米FRBの金融政策決定に重大な影響を与えるため、市場参加者がポジションを調整している。弱い雇用統計が出れば利下げ観測が高まり、金にはさらなる上昇要因となる可能性がある。"
   }
 ]
