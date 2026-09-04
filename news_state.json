@@ -1,16 +1,5 @@
 [
   {
-    "title": "米国がイランに再び空爆、トランプ氏「極めて正当」 原油価格は高騰 - 朝日新聞",
-    "timestamp": "2026-09-01T19:38:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランに対して空爆を実施し、トランプ氏が正当性を主張。中東での軍事紛争激化により原油供給リスクが高まり、原油価格が急騰。イラン産原油の供給途絶や地域情勢不安定化がコモディティ市場に大きな影響。"
-  },
-  {
     "title": "原油先物4ドル超急騰、5週間ぶり高値 イラン情勢緊迫化で - ニューズウィーク日本版",
     "timestamp": "2026-09-01T20:13:00+00:00",
     "importance": 4,
@@ -251,17 +240,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン情勢の緊迫化により原油先物が4ドル超の急騰を記録し、5週間ぶりの高値を更新。中東の地政学的リスクが顕在化し、供給途絶懸念から市場が反応。"
-  },
-  {
-    "title": "BT、銅線網リサイクルで27億ドル超の収益確保へ - BigGo ファイナンス",
-    "timestamp": "2026-09-01T18:54:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "BTが銅線網リサイクル事業で27億ドル超の収益を確保する見通しを発表。既存インフラの活用によるリサイクル銅の供給増加を意味する。長期的な銅需給バランスに対するポジティブシグナル。"
   },
   {
     "title": "小麦先物 (WHEAT-F) が 9月2日 に低下：注目すべき重要な要因 - tradingkey.com",
@@ -1923,5 +1901,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が横ばいで推移している状況を分析したコメンタリー。鉱山供給課題と技術的な重要水準に言及しており、現在の値動きの背景を解説している。"
+  },
+  {
+    "title": "小麦先物が下落、ロシア・ウクライナ和平交渉を市場が注視 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-04T19:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア・ウクライナの和平交渉進展の可能性を市場が好感し、小麦先物が下落。地政学リスク低下で供給懸念が後退。既に周知の交渉動向に基づく相場調整。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況･3日 小幅に4日続伸 - Moomoo",
+    "timestamp": "2026-09-04T05:34:18+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物が4日続伸し、小幅な上昇を続けている。市場概況の報道であり、具体的な需給ショックや供給材料の言及は見当たらない。継続的な買い圧力が存在するものの、値動きは限定的。"
+  },
+  {
+    "title": "大豆先物価格は、最近の動きの後に買い手が参入することで上昇を続けるのでしょうか？ - Traders Union",
+    "timestamp": "2026-09-04T12:19:38+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物が買い手の参入により上昇を続けるかについての市場解説。最近の価格動きの後に需要サイドの参入を想定している。市場センチメントの変化を示唆するが、具体的な供給・需要要因は明確でない。"
   }
 ]
