@@ -1,60 +1,5 @@
 [
   {
-    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
-    "timestamp": "2026-09-01T21:26:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
-  },
-  {
-    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
-    "timestamp": "2026-09-01T21:26:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
-  },
-  {
-    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
-    "timestamp": "2026-09-01T21:26:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
-  },
-  {
-    "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
-    "timestamp": "2026-09-01T21:26:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが衛星とAI技術を活用して作物推定精度の向上をテストする計画を発表。農家からの批判を受けての施策で、現在の推定モデルの改善を目指す。実装時期や精度向上幅については未発表であり、市場への即座の影響は限定的。"
-  },
-  {
-    "title": "Crude Oil Inventories Drop, Surpassing Forecasts By Investing.com - Investing.com Nigeria",
-    "timestamp": "2026-09-01T21:39:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫が予測を上回る大幅な減少を記録した。在庫の予想外の落ち込みは、サプライ引き締まりシグナルとして機能し、原油価格を下支えする要因となる。市場予想を超過した減少幅がサプライズと評価される。"
-  },
-  {
     "title": "API reports a drop in US crude stocks – Trading Economics - engine.online",
     "timestamp": "2026-09-02T05:47:18+00:00",
     "importance": 3,
@@ -64,39 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "API（米国石油協会）が米国原油在庫の減少を報告。在庫減少は供給逼迫のシグナルとして原油価格の上昇圧力となる。ただし具体的な減少量が記事から不明なため、サプライズの大きさは判断不可。EIA週間統計の先行指標として注視が必要。"
-  },
-  {
-    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
-    "timestamp": "2026-09-01T20:53:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAは2026年度農作物年度におけるFeedstock Flexibility Program（飼料柔軟性プログラム）での措置実施を予定していないと発表。本プログラムはトウモロコシなどの飼料穀物の利用柔軟性に関するもので、2026年度は供給・需給が標準的見通し内と判断された結果と考えられる。"
-  },
-  {
-    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
-    "timestamp": "2026-09-01T20:53:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAは2026年度農作物年度におけるFeedstock Flexibility Program（飼料柔軟性プログラム）での措置実施を予定していないと発表。本プログラムはトウモロコシなどの飼料穀物の利用柔軟性に関するもので、2026年度は供給・需給が標準的見通し内と判断された結果と考えられる。"
-  },
-  {
-    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
-    "timestamp": "2026-09-01T20:53:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAは2026年度農作物年度におけるFeedstock Flexibility Program（飼料柔軟性プログラム）での措置実施を予定していないと発表。本プログラムはトウモロコシなどの飼料穀物の利用柔軟性に関するもので、2026年度は供給・需給が標準的見通し内と判断された結果と考えられる。"
   },
   {
     "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters",
@@ -130,50 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国とイランの軍事衝突激化により、リスクオフ局面が発生。原油は地政学リスク低減で上昇、一方で債券利回り上昇に伴い金やその他コモディティは圧力を受ける。アジア株式市場は売却の影響を受けている。"
-  },
-  {
-    "title": "Asian Stocks Set for Declines as Oil Extends Gains: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-01T22:07:33+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株が下落圧力を受ける中、原油は上昇トレンドを継続している。原油価格の上昇とアジア株の軟調が対照的であり、エネルギーコストの上昇がアジア経済の重しになっている可能性がある。具体的な数値や OPEC 動向の詳細は記事から判断できない。"
-  },
-  {
-    "title": "Asian Stocks Set for Declines as Oil Extends Gains: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-01T22:07:33+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株が下落圧力を受ける中、原油は上昇トレンドを継続している。原油価格の上昇とアジア株の軟調が対照的であり、エネルギーコストの上昇がアジア経済の重しになっている可能性がある。具体的な数値や OPEC 動向の詳細は記事から判断できない。"
-  },
-  {
-    "title": "US oil production data delayed as EIA cites technical glitch - investingLive",
-    "timestamp": "2026-09-01T21:20:54+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA（米国エネルギー情報庁）が技術的なシステム障害により米国原油生産データの発表を遅延させた。定期統計の遅延は市場の不確実性を一時的に高めるが、需給基本面そのものへの直接的な影響はない。発表復旧までの間、市場は限定的な値動きに留まる可能性が高い。"
-  },
-  {
-    "title": "Oil Stocks in US Strategic Petroleum Reserve Fall to Lowest Since 1983 - EnergyNow.com",
-    "timestamp": "2026-09-01T21:59:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下。40年ぶりの低いレベルとなり、供給タイトネスの懸念が高まる。SPRの大規模放出で需給が緩和していたが、その効果が限界に達したことを示唆。原油価格への上値支持要因として機能する可能性。"
   },
   {
     "title": "Arkansas soybean harvest expected to be fast and furious - Farm Progress",
@@ -594,39 +462,6 @@
     "summary": "ロシア・ウクライナ戦争が世界的な小麦価格に継続的な影響を与えている。両国は世界有数の小麦生産・輸出国であり、紛争による供給懸念と物流阻害がグローバル穀物市場の価格上昇圧力となっている。WASDE関連の報告として、供給リスク評価の更新が継続されている。"
   },
   {
-    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
-    "timestamp": "2026-09-01T20:54:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA は2026年度作物年のフィードストック柔軟性プログラム（FFP）に基づく措置の実施を予定していない。本プログラムはエタノール製造時のとうもろこし以外の代替原料利用を促進する制度で、今年度は発動なしとの判断。市場への大きなインパクトは限定的と考えられる。"
-  },
-  {
-    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
-    "timestamp": "2026-09-01T20:54:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA は2026年度作物年のフィードストック柔軟性プログラム（FFP）に基づく措置の実施を予定していない。本プログラムはエタノール製造時のとうもろこし以外の代替原料利用を促進する制度で、今年度は発動なしとの判断。市場への大きなインパクトは限定的と考えられる。"
-  },
-  {
-    "title": "USDA: No actions expected under Feedstock Flexibility Program for crop year 2026 - Ethanol Producer Magazine",
-    "timestamp": "2026-09-01T20:54:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA は2026年度作物年のフィードストック柔軟性プログラム（FFP）に基づく措置の実施を予定していない。本プログラムはエタノール製造時のとうもろこし以外の代替原料利用を促進する制度で、今年度は発動なしとの判断。市場への大きなインパクトは限定的と考えられる。"
-  },
-  {
     "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
     "timestamp": "2026-09-02T10:21:27+00:00",
     "importance": 3,
@@ -878,5 +713,16 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫が週間ベースで減少したことが報告された。EIAの定期在庫統計は毎週発表される指標であり、在庫減少は需要堅調または供給制約を示唆する。ただし具体的な数値や前週比の変動幅が記事から明確でないため、相対的なインパクト評価は限定的。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-09-04T09:28:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後の独立的な増産計画により、来年の石油生産量を日量500万バレルを超える水準に引き上げる見通しをIEAが示唆。UAEの増産姿勢はOPEC減産合意の相対的な緩和を意味し、原油市場供給増加圧力となる。"
   }
 ]
