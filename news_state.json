@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格3カ月高値から5.5%下落も、ゴールドマン・サックスは10%上昇予想 - BeInCrypto",
-    "timestamp": "2026-09-01T10:03:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は3カ月高値から5.5%下落し調整局面にあるが、ゴールドマン・サックスは今後10%上昇を予想している。直近の下落は技術的調整と見られ、中期的には上昇トレンドが継続する見込み。"
-  },
-  {
-    "title": "シカゴ小麦価格は約3年ぶりの高値に上昇したが、小麦不足はなく、ロシア・ウクライナ輸出28％、黒海リスクが残り72％の価格を左右する可能性がある。 - EBC Financial Group",
-    "timestamp": "2026-09-01T10:04:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "シカゴ小麦は約3年ぶりの高値に上昇。世界的な小麦不足はないが、ロシア・ウクライナからの輸出が全体の28%を占めるため、黒海リスクが価格の72%を左右する構造。地政学的リスク要因が価格を下支え。"
-  },
-  {
-    "title": "金相場、史上最高値5608ドルから下落するも1オンス4437ドル。国内小売は25417円/gに（LIMO） - Yahoo!ニュース",
-    "timestamp": "2026-09-01T13:01:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場が史上最高値5608ドルから下落し、現在1オンス4437ドル前後で推移。国内小売価格は25417円/gで取引されている。既に高値から調整局面にある。"
-  },
-  {
-    "title": "金価格は本日9月1日、大幅に下落して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-09-01T13:48:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月1日の金価格が大幅に下落して取引を終えた。具体的な下落要因は記事概要からは不明。相場の振り返りニュースと考えられる。"
-  },
-  {
     "title": "2026年9月2日現在、金価格は世界市場の下落に伴い、ますます強い圧力にさらされている。しかし、中期的な上昇トレンドはまだ終わっていない。 - Vietnam.vn",
     "timestamp": "2026-09-01T14:47:48+00:00",
     "importance": 2,
@@ -75,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月1日、金価格が1オンスあたり4,300ドル近くまで急落した。市場が大きく反応した可能性がある。下落要因の詳細は記事概要では明示されていない。"
-  },
-  {
-    "title": "【速報】NY原油先物続伸88.74ドル(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-01T13:04:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が88.74ドルで続伸している。速報的な価格更新であるが、具体的な供給ショックやファンダメンタルズの変化は記事から不明。"
   },
   {
     "title": "米国がイランに再び空爆、トランプ氏「極めて正当」 原油価格は高騰 - 朝日新聞",
@@ -130,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン情勢の緊迫化を受け、原油先物が4ドル超上昇し5週間ぶりの高値を付けた。地政学的リスクによる供給懸念が市場を買い圧力で支配。コモディティ投資家にとって注視すべき地政学イベント。"
-  },
-  {
-    "title": "原油価格の高騰がインフレ懸念を煽り、債券の売り圧力が強まる中、株価も下落した - TradingView",
-    "timestamp": "2026-09-01T12:23:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格上昇がインフレ懸念を引き起こし、債券売却と株価下落を招いている。エネルギーコモディティと金融市場のクロスアセット連動を示唆している。"
   },
   {
     "title": "本日9月2日の金価格：債券利回りと米ドルの上昇を受け、2％以上下落し、2週間ぶりの安値となった。 - Vietnam.vn",
@@ -218,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の上昇によりインフレ懸念が高まり、債券利回りが上昇した。これに伴い株価は下落。原油相場の基本的な需給・インフレ連動メカニズムを反映した相場展開。"
-  },
-  {
-    "title": "FRBウォーシュ氏の発言は銅価格をさらに押し下げるか？ - Traders Union",
-    "timestamp": "2026-09-01T12:19:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "FRB高官ウォーシュ氏の発言が報道されており、金融引き締め基調が継続される可能性を示唆。ドル強化と景気減速懸念が銅需要を圧迫し価格下押し圧力となる見通し。"
   },
   {
     "title": "金価格の「下落」続く、米国の利上げ観測の強まりを受け - Yahoo!ニュース",
@@ -1934,5 +1857,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅先物（HG）は現在、$6.7471をレジスタンスとしながら横ばい推移している。テクニカル分析に基づいた価格予想であり、アナリスト見解である。具体的なファンダメンタルズ変化は示されていない。"
+  },
+  {
+    "title": "金価格は本日9月4日、全面的に大幅上昇して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-09-04T13:32:17+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が9月4日に全面的に大幅上昇した。具体的な上昇率や要因は記事概要に記載されていない。市場全体の金相場反映による局所的な報道の可能性が高い。"
+  },
+  {
+    "title": "2026年9月4日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-09-04T09:11:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。株価指数先物の市場データ観測。"
+  },
+  {
+    "title": "原油価格は、2026年7月中旬以来となる週間の大幅な上昇に向かっている。 - Vietnam.vn",
+    "timestamp": "2026-09-04T10:28:29+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が週間ベースで大幅に上昇し、2026年7月中旬以来の上げ幅となっている。既に発生している相場動向の報道であり、具体的な材料や原因は記事から不明。過去の水準との比較による振り返り的なニュース。"
+  },
+  {
+    "title": "供給懸念が原油価格を揺さぶり、短期的には高値圏でのもみ合いが続く見通し。ボックス相場の上値試しを待ちましょう。 - Moomoo",
+    "timestamp": "2026-09-04T03:40:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格は供給懸念により高値圏でのもみ合いが継続する見通し。短期的にはボックス相場の形成が続き、上値試しが期待される状況。アナリスト視点からの技術的相場解説。"
+  },
+  {
+    "title": "原油価格が急騰している。どの通貨が恩恵を受け、どの通貨が打撃を受けるのか？ - EBC Financial Group",
+    "timestamp": "2026-09-04T08:43:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の急騰に伴う通貨への影響を解説した記事。産油国通貨（カナダドル、ノルウェークローネ等）が恩恵を受ける一方、輸入国通貨が打撃を受ける可能性を指摘。"
   }
 ]
