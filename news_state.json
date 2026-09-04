@@ -11,39 +11,6 @@
     "summary": "金価格は3カ月高値から5.5%下落し調整局面にあるが、ゴールドマン・サックスは今後10%上昇を予想している。直近の下落は技術的調整と見られ、中期的には上昇トレンドが継続する見込み。"
   },
   {
-    "title": "投資家が米国の雇用統計発表を待つ中、金価格は下落した。 - Vietnam.vn",
-    "timestamp": "2026-09-01T08:52:59+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の雇用統計発表を控え、投資家がリスク回避姿勢を強める中で金価格が下落した。雇用統計は市場予想に大きな影響を与える主要指標であり、発表待機局面での調整売りと見られる。"
-  },
-  {
-    "title": "アルミ新地金価格670円 5四半期ぶり値下がり 10―12月（日刊産業新聞） - Yahoo!ニュース",
-    "timestamp": "2026-09-01T05:30:33+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アルミ新地金価格が670円と5四半期ぶりに値下がりした。需要減弱や世界経済の不確実性が背景と考えられる。既に市場で織り込まれた緩やかなトレンド。"
-  },
-  {
-    "title": "［動画］インフレ再燃！？米国利上げ！？原油相場どうなる！？ - media.rakuten-sec.net",
-    "timestamp": "2026-09-01T08:17:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国インフレ再燃とFRBの利上げ可能性に関する解説動画。インフレ圧力が原油需要を通じて相場を押し上げる可能性を指摘。金融引き締めとの相互作用で相場変動リスクが存在。"
-  },
-  {
     "title": "シカゴ小麦価格は約3年ぶりの高値に上昇したが、小麦不足はなく、ロシア・ウクライナ輸出28％、黒海リスクが残り72％の価格を左右する可能性がある。 - EBC Financial Group",
     "timestamp": "2026-09-01T10:04:00+00:00",
     "importance": 4,
@@ -185,17 +152,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が2%以上下落し2週間ぶりの安値を付けた。債券利回りの上昇と米ドル強化が主要な下押し要因。既知の金融環境シフトの延長線上での値動き。"
-  },
-  {
-    "title": "金価格が下落、米雇用統計と中東情勢が利上げ観測を左右 - Межа. Новини України.",
-    "timestamp": "2026-09-01T06:52:06+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米雇用統計の結果が金価格を下落させた。中東情勢の緊張は存在するが、米国の利上げ観測が金相場の方向性を左右している。"
   },
   {
     "title": "建国記念日（9月2日）の金価格：世界的な価格は急落したが、国内価格は安定していた。 - Vietnam.vn",
@@ -1901,5 +1857,82 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で原油・貴金属・銅・大豆が上昇し、天然ガス・穀物が下落。複数商品の混在した値動きが報告されている。"
+  },
+  {
+    "title": "金価格反発の真相 - GINZA CROSSING Talk 時代の開拓者たち - 日経CNBC online",
+    "timestamp": "2026-09-04T07:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の反発について、金銀取扱所のトークセッションで解説・分析されたもの。既に発生した価格変動の振り返りと観測であり、新規の材料ではない。"
+  },
+  {
+    "title": "シティ、金価格の下落を押し目買いの好機と見る 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-04T09:13:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "シティグループが金価格の現在の下落を買い場と評価している。機関投資家による強気見解であり、価格調整局面での需要喚起要因として機能する可能性がある。"
+  },
+  {
+    "title": "本日（9月4日午後）の金価格：反転上昇。 - Vietnam.vn",
+    "timestamp": "2026-09-04T06:48:59+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月4日午後の金価格が反転上昇した。具体的な上昇幅や背景要因は記事要約では不明。コモディティ市場の日々の値動きを伝える定型的なニュース。"
+  },
+  {
+    "title": "9月FOMC、利上げの確率は50%前後?金価格の今後を最新データで分析 - EBC Financial Group",
+    "timestamp": "2026-09-04T08:48:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月FOMCでの利上げ確率が50%前後とされており、金利動向の不確実性が高まっている。金は低金利環境で上昇しやすく、利上げ確率の低下は買い材料となる。市場がFRBの政策方向性を注視する中での重要な解説。"
+  },
+  {
+    "title": "シティとANZが中東供給混乱でブレント原油価格予測を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-04T09:12:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "シティとANZが中東供給混乱を背景にブレント原油の価格予測を引き上げた。両行は既知の地政学的リスクを織り込んだ見方を提示している。"
+  },
+  {
+    "title": "原油価格は4営業日連続で上昇し、ディーゼル価格は過去最高値に迫った。 - Vietnam.vn",
+    "timestamp": "2026-09-04T09:06:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が4営業日連続で上昇し、ディーゼル価格が過去最高値に接近している。市場では供給懸念や需要堅調が価格を支えている。"
+  },
+  {
+    "title": "銅価格予想：HGは横ばい推移、$6.7471がレジスタンス - Traders Union",
+    "timestamp": "2026-09-03T14:09:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅先物（HG）は現在、$6.7471をレジスタンスとしながら横ばい推移している。テクニカル分析に基づいた価格予想であり、アナリスト見解である。具体的なファンダメンタルズ変化は示されていない。"
   }
 ]
