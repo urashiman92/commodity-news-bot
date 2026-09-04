@@ -1,71 +1,5 @@
 [
   {
-    "title": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters",
-    "timestamp": "2026-09-01T12:31:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡でサウジアラビア産油を運搬するタンカー2隻が攻撃された。ホルムズ海峡は世界の石油供給の約30%が通過する重要な輸送ルートであり、地政学リスクの急上昇は原油供給の混乱懸念につながる。地域情勢の緊迫化により、タンカー運賃上昇と原油価格への上値圧力が予想される。"
-  },
-  {
-    "title": "US stock indexes open lower as high yields, oil prices dent sentiment - Reuters",
-    "timestamp": "2026-09-01T13:38:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株が高利回り環境と原油価格上昇を背景に下落オープン。高金利継続観測は金などの無利子資産に下押し圧力。原油価格の上昇がリスク資産全般の重しとなり、市場センチメント悪化でコモディティ関連銘柄も売圧。既知の金融環境が再確認される展開。"
-  },
-  {
-    "title": "US stock indexes open lower as high yields, oil prices dent sentiment - Reuters",
-    "timestamp": "2026-09-01T13:38:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国株が高利回り環境と原油価格上昇を背景に下落オープン。高金利継続観測は金などの無利子資産に下押し圧力。原油価格の上昇がリスク資産全般の重しとなり、市場センチメント悪化でコモディティ関連銘柄も売圧。既知の金融環境が再確認される展開。"
-  },
-  {
-    "title": "US stock indexes open lower as high yields, oil prices dent sentiment - Reuters",
-    "timestamp": "2026-09-01T13:38:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株が高利回り環境と原油価格上昇を背景に下落オープン。高金利継続観測は金などの無利子資産に下押し圧力。原油価格の上昇がリスク資産全般の重しとなり、市場センチメント悪化でコモディティ関連銘柄も売圧。既知の金融環境が再確認される展開。"
-  },
-  {
-    "title": "Gold Stocks Cap Best August in Decades in Debasement Trade Redux - Bloomberg.com",
-    "timestamp": "2026-09-01T11:57:34+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "金鉱株が8月に数十年ぶりの好成績を記録した。これは通貨供給量増加への懸念や実質金利低下による「通貨切り下げ取引」の再燃が背景。金融緩和環境が金および金鉱株の需要を支援している状況が続いている。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow",
-    "timestamp": "2026-09-01T14:27:38+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEが2020年のOPEC離脱後、原油生産量が過去最高水準に接近していると報じられた。OPEC減産合意から外れた同国の増産は供給競争を激化させ、OPECの市場支配力を低下させる重要な転換点。地政学的な供給シフトが進行中。"
-  },
-  {
     "title": "ADP jobs report, oil inventories and Fed Beige Book due Wednesday - Investing.com",
     "timestamp": "2026-09-01T18:08:17+00:00",
     "importance": 3,
@@ -286,28 +220,6 @@
     "summary": "モーティーフール誌が2026年向けの有望銅関連株5銘柄を特集。電気自動車普及と脱炭素需要による銅需要の長期的な上昇見通しが背景。具体的な価格目標やファンダメンタルズ予想値は記事内容が不透明だが、銅セクターへのポジティブなアウトルックを示唆。"
   },
   {
-    "title": "US Corn and Soybean Yields Unlikely to Climb Heading Into Harvest - DTN Progressive Farmer",
-    "timestamp": "2026-09-01T14:40:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国のトウモロコシと大豆の収量が収穫時期に向けて上昇しにくいとのDTN Progressive Farmerの分析。現在の生育状況や気象条件から、市場が期待していた収量増加が実現しない可能性が指摘されている。収量が伸び悩めば供給懸念が生じ、価格押し上げ要因となる。"
-  },
-  {
-    "title": "US Corn and Soybean Yields Unlikely to Climb Heading Into Harvest - DTN Progressive Farmer",
-    "timestamp": "2026-09-01T14:40:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国のトウモロコシと大豆の収量が収穫時期に向けて上昇しにくいとのDTN Progressive Farmerの分析。現在の生育状況や気象条件から、市場が期待していた収量増加が実現しない可能性が指摘されている。収量が伸び悩めば供給懸念が生じ、価格押し上げ要因となる。"
-  },
-  {
     "title": "EIA Cushing Crude Oil Stocks Change (Aug/28) 0.080M (Prev. 1.176M) - Newsquawk",
     "timestamp": "2026-09-02T14:50:00+00:00",
     "importance": 2,
@@ -416,39 +328,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの原油輸出が減少し、ホルムズ海峡からRedSea経由の輸送ルートにおいてタンカーが危険にさらされている。中東地政学リスク（イエメンフーシ派による攻撃やイラン関連の緊張）により、主要な石油輸送経路が脅かされており、供給懸念が急速に高まっている。"
-  },
-  {
-    "title": "Arable Market Report – 1 September 2026 - AHDB",
-    "timestamp": "2026-09-01T14:09:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "AHDBが2026年9月1日に穀物市場レポートを発表。WASDE関連の定期的な耕作地市場分析と見られるが、具体的な内容・数値が不明なため詳細評価不可。通常の季節的進捗報告と想定される。"
-  },
-  {
-    "title": "Arable Market Report – 1 September 2026 - AHDB",
-    "timestamp": "2026-09-01T14:09:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "AHDBが2026年9月1日に穀物市場レポートを発表。WASDE関連の定期的な耕作地市場分析と見られるが、具体的な内容・数値が不明なため詳細評価不可。通常の季節的進捗報告と想定される。"
-  },
-  {
-    "title": "Arable Market Report – 1 September 2026 - AHDB",
-    "timestamp": "2026-09-01T14:09:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "AHDBが2026年9月1日に穀物市場レポートを発表。WASDE関連の定期的な耕作地市場分析と見られるが、具体的な内容・数値が不明なため詳細評価不可。通常の季節的進捗報告と想定される。"
   },
   {
     "title": "EIA: US crude stocks down after as runs reach eight-year high - Quantum Commodity Intelligence",
@@ -803,17 +682,6 @@
     "summary": "The Motley Fool による2026年の優良銅関連株5銘柄の投資ガイド記事。銅需要の長期的な堅調性（特にEV・再生可能エネルギー関連）を背景に、銅鉱山企業への投資機会を提示。具体的な企業名や目標株価は記事内容から未確認だが、銅セクターに対する前向きな見通しが示唆されている。"
   },
   {
-    "title": "OPEC Without Venezuela - Nowlebanon",
-    "timestamp": "2026-09-01T15:06:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ベネズエラのOPEC離脱を議論するレポート。ベネズエラは過去最大級の原油埋蔵量を保有するが、経済危機による生産能力喪失で既に世界供給への実質的寄与は限定的。OPEC内での減産交渉の力学変化が焦点。"
-  },
-  {
     "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
     "timestamp": "2026-09-02T10:21:27+00:00",
     "importance": 3,
@@ -900,5 +768,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "大豆",
     "summary": "マレーシアの8月パーム油輸出がインド需要の弱さにより減少した。インドはパーム油の主要輸入国であり、需要減退は供給圧力として機能。大豆油などの代替植物油との価格競争環境を改善させる可能性がある。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
+    "timestamp": "2026-09-04T16:01:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
+    "timestamp": "2026-09-04T16:01:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
+    "timestamp": "2026-09-04T16:01:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
+    "timestamp": "2026-09-04T16:01:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
+    "timestamp": "2026-09-04T14:58:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが発表した米国原油在庫が週間ベースで減少した。在庫減少は原油需要の堅調性またはサプライの制約を示唆し、供給逼迫観測から価格上昇圧力となる。ただし、具体的な在庫減少量や市場予想比の情報が不明なため、サプライズ度の判定は困難。"
+  },
+  {
+    "title": "EIA data points to a decline in U.S. crude oil inventories; OPEC+ decision in focus - XTB.com",
+    "timestamp": "2026-09-02T18:01:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間統計が米国原油在庫の減少を示唆。供給面での改善シグナルは原油相場を支援する材料。OPEC+の今後の減産政策決定との関連性が注視される。市場は在庫動向とOPEC+政策のバランスを綿密に監視している。"
+  },
+  {
+    "title": "Wisconsin Corn Crop Faces Early Harvest as Drought Takes Toll - Successful Farming",
+    "timestamp": "2026-09-04T12:00:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "ウィスコンシン州のトウモロコシ作付地域が干ばつの影響を受け、予定より早い収穫時期を迎えている。干ばつによる作柄悪化が懸念され、収量低下の可能性がある。これは米国トウモロコシ生産量の見直し要因となる可能性が高い。"
+  },
+  {
+    "title": "HSBC Sees Limited Near-Term Impact on OPEC+ From UAE’s Departure - EnergyNow.com",
+    "timestamp": "2026-09-03T20:19:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "HSBCがUAEのOPEC+離脱による近期の市場影響は限定的との見解を示した。UAEは生産能力拡大志向でOPEC+の減産合意に不満を抱いていた。分析機関の評価では、既に織り込まれた可能性が高く、原油価格への直接的なショックは限定的と予想される。"
+  },
+  {
+    "title": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - Reuters",
+    "timestamp": "2026-09-04T15:12:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ヘッジファンド大手のシタデルが米国シェールオイル生産資産の買収を検討していることが報じられた。機関投資家による石油生産資産への大型M&A動向は、エネルギー転換期における既存石油事業への投資姿勢の重要な指標となる。市場では主要プレイヤーの投資姿勢として原油需給見通しに影響を与える可能性がある。"
   }
 ]
