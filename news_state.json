@@ -1,82 +1,5 @@
 [
   {
-    "title": "本日（9月1日）の金価格：反転上昇。 - Vietnam.vn",
-    "timestamp": "2026-09-01T02:10:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月1日の金価格が反転上昇した。ベトナムメディアによる市場観測報道。具体的な上昇要因や数値は明記されていない。"
-  },
-  {
-    "title": "ウォール街のアナリストたちは、金価格の動向について意見が分かれている。市場は米国の雇用統計の発表を待っている。 - Vietnam.vn",
-    "timestamp": "2026-09-01T03:35:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ウォール街のアナリストが金価格の今後について見解が分かれている状況。市場は米国雇用統計の発表を待機中。現時点では方向性が定まっていない。"
-  },
-  {
-    "title": "原油先物上昇、中東の供給混乱リスク再燃 米イラン戦闘再開で - ロイター",
-    "timestamp": "2026-09-01T01:32:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イランの戦闘再開により、中東の供給途絶リスクが急速に高まった。地政学的緊張の急激な悪化で、原油先物が上昇。市場は地域の主要供給国への直接的な影響を懸念している。"
-  },
-  {
-    "title": "1日寄り付き直後の日経平均は下落､中東悪化で原油相場上昇 - 四季報オンライン",
-    "timestamp": "2026-09-01T01:07:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の悪化により原油相場が上昇。一方、日経平均は寄り付き直後から下落。地政学的リスク上昇が原油の上値支持要因となっている。"
-  },
-  {
-    "title": "トランプ大統領がイランへの追加攻撃を警告、原油価格が続伸 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-01T00:43:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領がイランへの追加攻撃を警告し、地政学リスクが高まっている。イランは中東有数の石油生産国であり、供給途絶リスクが原油相場を押し上げている。追加制裁や軍事衝突の可能性が織り込まれた相場展開。"
-  },
-  {
-    "title": "米・イラン衝突再燃で国際原油価格が急騰…韓国精油株が一斉に上昇 - BigGo ファイナンス",
-    "timestamp": "2026-09-01T02:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン衝突の再燃により、国際原油価格が急騰した。地政学的リスクによる供給懸念で原油相場が上昇し、韓国の精油株が連動して上昇。コモディティ投資家にとって地政学的ショックはポジション見直しの重要なシグナル。"
-  },
-  {
-    "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - finance.yahoo.co.jp",
-    "timestamp": "2026-09-01T03:38:21+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NEXT NOTES ドバイ原油先物ダブル・ブル ETN【2038】の株価情報ページの更新。この商品は原油価格の2倍の値動きを狙うレバレッジ型ETN。ニュース自体はポジション商品の情報提供に過ぎない。"
-  },
-  {
     "title": "金価格3カ月高値から5.5%下落も、ゴールドマン・サックスは10%上昇予想 - BeInCrypto",
     "timestamp": "2026-09-01T10:03:03+00:00",
     "importance": 3,
@@ -119,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国インフレ再燃とFRBの利上げ可能性に関する解説動画。インフレ圧力が原油需要を通じて相場を押し上げる可能性を指摘。金融引き締めとの相互作用で相場変動リスクが存在。"
-  },
-  {
-    "title": "バラティンとニュージーランドは生物セキュリティを強化し、インドネシアのコモディティ市場へのアクセスを開きます - VOI.ID",
-    "timestamp": "2026-09-01T03:42:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "バラティン（パーム油関連企業）とニュージーランドがインドネシアとの生物セキュリティ協力を強化し、インドネシアのコモディティ市場へのアクセス拡大を実現。パーム油などの農産物輸出障壁の緩和につながる可能性。"
   },
   {
     "title": "シカゴ小麦価格は約3年ぶりの高値に上昇したが、小麦不足はなく、ロシア・ウクライナ輸出28％、黒海リスクが残り72％の価格を左右する可能性がある。 - EBC Financial Group",
@@ -1835,5 +1747,159 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "3日の主要国際商品市況に関する市場報告記事。具体的な価格データ・銘柄情報・変動要因の詳細が不明。"
+  },
+  {
+    "title": "金価格、ウォラー発言でFED利上げ観測が後退し4,500ドル近辺を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-04T01:13:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FED委員ウォラー氏の発言により、市場が利上げ継続の見通しを後退させた。これにより金の実質利回り低下が見込まれ、金価格は4,500ドル近辺で支持された。金利低下観測は金にとってポジティブに作用している。"
+  },
+  {
+    "title": "住友鉱がしっかり、米利上げ観測後退受けた金先物相場の上昇で - s.minkabu.jp",
+    "timestamp": "2026-09-04T00:11:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米利上げ観測の後退により金先物相場が上昇。これを受けて金関連銘柄である住友鉱が買われている。ドル弱化による金価格上昇の波及効果。"
+  },
+  {
+    "title": "9月4日の金価格：世界の金価格とSJC金地金価格は急騰した。 - Vietnam.vn",
+    "timestamp": "2026-09-04T04:23:31+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月4日の金価格が急騰したというニュース。世界金価格とベトナムのSJC金地金価格が同時に上昇。具体的な上昇率や要因については記事概要から不明。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･3日 大幅続伸 - Moomoo",
+    "timestamp": "2026-09-03T21:08:57+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物市場が3日に大幅続伸。具体的な上昇率や材料は記事概要に記載されていない。市場解説・相場振り返り的なニュース配信と推定される。"
+  },
+  {
+    "title": "原油先物堅調、週間では7月中旬以来の大幅上昇へ - Reuters",
+    "timestamp": "2026-09-04T01:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が堅調に推移し、週間ベースで7月中旬以来の大幅な上昇となっている。既に進行中のトレンドの継続を報じたもの。"
+  },
+  {
+    "title": "米・イランが1カ月ぶりに攻撃応酬－原油価格上昇、戦闘長期化を警戒 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-04T02:49:23+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランが1カ月ぶりに軍事的な攻撃応酬を再開した。中東地政学リスクの再燃により原油価格が上昇。戦闘の長期化懸念が市場心理を圧迫。"
+  },
+  {
+    "title": "原油先物堅調、週間では7月中旬以来の大幅上昇へ - ニューズウィーク日本版",
+    "timestamp": "2026-09-04T01:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が堅調に推移し、週間ベースで7月中旬以来の大幅な上昇を記録している。既存トレンドの継続が示唆されている。具体的な新規材料や供給ショックに関する情報は明記されていない。"
+  },
+  {
+    "title": "中東緊張で国際原油価格が4日続伸…韓国のS-Oilは10%急騰 - finance.biggo.jp",
+    "timestamp": "2026-09-04T01:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊張化により国際原油価格が4営業日連続で上昇。地政学的リスク要因が供給懸念を招いている。韓国S-Oil株が10%上昇するなど、石油関連企業の株価も連動して上昇している。"
+  },
+  {
+    "title": "原油先物堅調、週間では7月中旬以来の大幅上昇へ - ｄメニューニュース",
+    "timestamp": "2026-09-04T01:57:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が堅調に推移し、週間ベースで7月中旬以来の大幅上昇を記録。既に進行中の上昇トレンドの継続を示すコモディティ相場の振り返りニュース。"
+  },
+  {
+    "title": "米国とイランの対立激化で原油価格上昇、供給不安が市場を刺激 - Межа. Новини України.",
+    "timestamp": "2026-09-04T03:51:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの対立激化により供給不安が生じ、原油価格が上昇している。中東地政学リスクが市場心理に大きく作用。具体的な供給途絶の懸念が価格を支える。"
+  },
+  {
+    "title": "原油先物堅調、週間では7月中旬以来の大幅上昇へ - Infoseek",
+    "timestamp": "2026-09-04T01:57:21+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が堅調に推移し、週間ベースでは7月中旬以来の大幅な上昇となっている。この記事は相場の振り返りと現状説明が主体。具体的な新規供給ショックや需要変化の材料は明記されていない。"
+  },
+  {
+    "title": "市場が反転し、銅価格が急騰。 - Vietnam.vn",
+    "timestamp": "2026-09-04T04:55:38+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が急騰し市場が反転したとの報道。具体的な騰落幅や要因の詳細が不明。ニュースソースがVietnam.vnの解説記事と思われる。"
+  },
+  {
+    "title": "最高値の銅にどう投資する？ AIデータセンターで需要拡大、ETFや鉱山株も選択肢 - Bloomberg.com",
+    "timestamp": "2026-09-04T02:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅が過去最高値圏にあり、AI・データセンター需要が拡大している。投資家向けの投資手段（ETF・鉱山株）の選択肢を解説する記事。需要要因は既に市場に織り込まれているが、今後の需要構造変化は継続テーマ。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、金、銀、銅、大豆が上昇 天然ガス、トウモロコシ、小麦が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-09-03T22:26:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油・貴金属・銅・大豆が上昇し、天然ガス・穀物が下落。複数商品の混在した値動きが報告されている。"
   }
 ]
