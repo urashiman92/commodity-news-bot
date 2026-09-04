@@ -1,38 +1,5 @@
 [
   {
-    "title": "2026年9月2日現在、金価格は世界市場の下落に伴い、ますます強い圧力にさらされている。しかし、中期的な上昇トレンドはまだ終わっていない。 - Vietnam.vn",
-    "timestamp": "2026-09-01T14:47:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は世界市場の下落圧力を受けている。短期的には弱気だが、中期的な上昇トレンドは継続中とのアナリスト見解。既に織り込まれた解説記事。"
-  },
-  {
-    "title": "シカゴ小麦先物、3年半ぶりの高値に到達 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-01T15:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "シカゴ小麦先物が3年半ぶりの高値水準に到達した。供給逼迫やウクライナ情勢など複合的な要因が相場を支えている。既存の強気シナリオの延長線上での値動き。"
-  },
-  {
-    "title": "今夜、9月1日、世界の金価格は急落し、1オンスあたり4300ドル近くまで下落した。 - Vietnam.vn",
-    "timestamp": "2026-09-01T16:30:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月1日、金価格が1オンスあたり4,300ドル近くまで急落した。市場が大きく反応した可能性がある。下落要因の詳細は記事概要では明示されていない。"
-  },
-  {
     "title": "米国がイランに再び空爆、トランプ氏「極めて正当」 原油価格は高騰 - 朝日新聞",
     "timestamp": "2026-09-01T19:38:19+00:00",
     "importance": 4,
@@ -141,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国によるイラン攻撃との報道が地政学的リスク要因として認識され、原油価格は2営業日続伸。中東の地政学的緊張が供給懸念を喚起。"
-  },
-  {
-    "title": "原油価格の上昇がインフレ懸念を煽り、債券利回りが上昇。株価は下落した。 - TradingView",
-    "timestamp": "2026-09-01T16:34:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇によりインフレ懸念が高まり、債券利回りが上昇した。これに伴い株価は下落。原油相場の基本的な需給・インフレ連動メカニズムを反映した相場展開。"
   },
   {
     "title": "金価格の「下落」続く、米国の利上げ観測の強まりを受け - Yahoo!ニュース",
@@ -319,17 +275,6 @@
     "summary": "9月2日の小麦先物が低下した。ニュース概要のみで具体的な下落要因が不明。市場解説・振り返り記事と推定される。"
   },
   {
-    "title": "シカゴ小麦先物、3年半ぶりの高値に到達 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-01T16:09:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "シカゴ小麦先物が3年半ぶりの高値に到達。長期的な供給逼迫懸念やドル相場などの構造的要因が背景。既に市場で認識されている上昇トレンドの続報。"
-  },
-  {
     "title": "住友鉱山---大幅反落、金相場の続落などで非鉄大手が軟調 - 株探",
     "timestamp": "2026-09-02T05:23:15+00:00",
     "importance": 2,
@@ -482,17 +427,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの交戦再開により、地政学的リスク急増で原油価格が急騰。WTI90ドルを突破し、中東の主要供給地域の不安定化が価格に直結。コモディティ投資家にとって供給途絶リスクの顕在化。"
-  },
-  {
-    "title": "ジャクソンホールでのタカ派的なFRB発言を受け、銅価格が下落 - Traders Union",
-    "timestamp": "2026-09-01T15:11:38+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ジャクソンホールでのFRBのタカ派的発言を受けて銅価格が下落した。金利上昇見通しは景気減速懸念につながり、銅などのリスク資産の売りを誘った。既報の金融引き締め姿勢が相場に反映された形。"
   },
   {
     "title": "１日の主要国際商品市況 - みんかぶ",
@@ -1912,5 +1846,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の急騰に伴う通貨への影響を解説した記事。産油国通貨（カナダドル、ノルウェークローネ等）が恩恵を受ける一方、輸入国通貨が打撃を受ける可能性を指摘。"
+  },
+  {
+    "title": "金価格は本日2026年9月5日に回復し、中央銀行が引き続き注目すべき措置を講じていることから、再び投資に適した時期となった。 - Vietnam.vn",
+    "timestamp": "2026-09-04T14:57:20+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が本日回復し、中央銀行の継続的な政策姿勢が支援材料となった。投資家にとって再度買い場となった可能性を指摘する解説記事。"
+  },
+  {
+    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-09-04T12:37:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Yahoo!ファイナンスのWTI原油連動型上場投信【1671】の株価情報ページへのリンク。投信の現在値や市場データを表示するポータルサイトの記事で、新規情報や価格変動要因は含まれていない。"
+  },
+  {
+    "title": "【速報】NY原油先物反落、88.46ドルまで｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-04T14:44:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が88.46ドルまで反落した速報。具体的な要因や背景情報が不足しており、単なる価格動向の報道と見られる。"
+  },
+  {
+    "title": "リスクヘッジを行うことで、原油価格は1バレルあたり最大8ドル上昇する可能性がある。 - Vietnam.vn",
+    "timestamp": "2026-09-04T14:55:13+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "リスクヘッジ戦略の実施により原油価格が最大1バレルあたり8ドル上昇する可能性があるとの見方。アナリスト等による観測であり、具体的な市場動向や供給ショックに基づくものではない。"
+  },
+  {
+    "title": "【速報】NY原油先物反落、88.46ドルまで(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-09-04T14:44:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が88.46ドルまで反落した速報。具体的な下落要因や市場背景の詳細が不明。日中の値動きを伝える定期的な相場情報。"
+  },
+  {
+    "title": "銅鉱石供給が7年ぶりに減少へ モルガン・スタンレーが弱気に転換、銅価格は1.5万ドル視野 - BigGo ファイナンス",
+    "timestamp": "2026-09-04T15:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅鉱石供給が7年ぶりに減少する見通しが報道され、モルガン・スタンレーが従来の強気姿勢から弱気に転換。銅価格は1.5万ドル水準への上昇が視野に入った。"
+  },
+  {
+    "title": "なぜ今日の銅価格は横ばいなのか？鉱山供給の課題と注目すべき重要水準 - Traders Union",
+    "timestamp": "2026-09-04T12:41:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が横ばいで推移している状況を分析したコメンタリー。鉱山供給課題と技術的な重要水準に言及しており、現在の値動きの背景を解説している。"
   }
 ]
