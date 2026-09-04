@@ -1,38 +1,5 @@
 [
   {
-    "title": "Indian shares subdued as higher oil, bond yields counter growth optimism - reuters.com",
-    "timestamp": "2026-09-01T02:40:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド株式市場が上昇圧力と下落圧力の綱引き状態にある。経済成長への楽観論がある一方で、原油価格の上昇と債券利回りの上昇がリスク資産を圧迫している。金利上昇は特に金などの無利子資産に下押し圧力をもたらす環境が続いている。"
-  },
-  {
-    "title": "Indian shares subdued as higher oil, bond yields counter growth optimism - reuters.com",
-    "timestamp": "2026-09-01T02:40:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "インド株式市場が上昇圧力と下落圧力の綱引き状態にある。経済成長への楽観論がある一方で、原油価格の上昇と債券利回りの上昇がリスク資産を圧迫している。金利上昇は特に金などの無利子資産に下押し圧力をもたらす環境が続いている。"
-  },
-  {
-    "title": "Indian shares subdued as higher oil, bond yields counter growth optimism - reuters.com",
-    "timestamp": "2026-09-01T02:40:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場が上昇圧力と下落圧力の綱引き状態にある。経済成長への楽観論がある一方で、原油価格の上昇と債券利回りの上昇がリスク資産を圧迫している。金利上昇は特に金などの無利子資産に下押し圧力をもたらす環境が続いている。"
-  },
-  {
     "title": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters",
     "timestamp": "2026-09-01T12:31:35+00:00",
     "importance": 4,
@@ -86,72 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国株が高利回り環境と原油価格上昇を背景に下落オープン。高金利継続観測は金などの無利子資産に下押し圧力。原油価格の上昇がリスク資産全般の重しとなり、市場センチメント悪化でコモディティ関連銘柄も売圧。既知の金融環境が再確認される展開。"
-  },
-  {
-    "title": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears - Reuters",
-    "timestamp": "2026-09-01T01:46:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格の上昇がインフレ懸念を招き、債券売却とリスク資産の下落をもたらしている。高い石油価格は消費者物価圧力を高め、FRBの金利引き上げ圧力につながる可能性がある。このシナリオは金などの無利子資産と金利感応度の高い株式に対して相反する影響をもたらしている。"
-  },
-  {
-    "title": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears - Reuters",
-    "timestamp": "2026-09-01T01:46:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "原油価格の上昇がインフレ懸念を招き、債券売却とリスク資産の下落をもたらしている。高い石油価格は消費者物価圧力を高め、FRBの金利引き上げ圧力につながる可能性がある。このシナリオは金などの無利子資産と金利感応度の高い株式に対して相反する影響をもたらしている。"
-  },
-  {
-    "title": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears - Reuters",
-    "timestamp": "2026-09-01T01:46:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油価格の上昇がインフレ懸念を招き、債券売却とリスク資産の下落をもたらしている。高い石油価格は消費者物価圧力を高め、FRBの金利引き上げ圧力につながる可能性がある。このシナリオは金などの無利子資産と金利感応度の高い株式に対して相反する影響をもたらしている。"
-  },
-  {
-    "title": "Dollar gains as oil, yield increases revive inflation fears - Reuters",
-    "timestamp": "2026-09-01T01:24:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ドル高進行に伴い、原油価格と米国債利回りの上昇がインフレ懸念を再燃させている。ドル高はドル建てコモディティ（原油・金）の価格下押し要因となる一方、名目金利上昇は実質金利を通じて無利子資産である金に下落圧力を与える。短期的には複雑な値動きが予想される局面。"
-  },
-  {
-    "title": "Dollar gains as oil, yield increases revive inflation fears - Reuters",
-    "timestamp": "2026-09-01T01:24:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "ドル高進行に伴い、原油価格と米国債利回りの上昇がインフレ懸念を再燃させている。ドル高はドル建てコモディティ（原油・金）の価格下押し要因となる一方、名目金利上昇は実質金利を通じて無利子資産である金に下落圧力を与える。短期的には複雑な値動きが予想される局面。"
-  },
-  {
-    "title": "Dollar gains as oil, yield increases revive inflation fears - Reuters",
-    "timestamp": "2026-09-01T01:24:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ドル高進行に伴い、原油価格と米国債利回りの上昇がインフレ懸念を再燃させている。ドル高はドル建てコモディティ（原油・金）の価格下押し要因となる一方、名目金利上昇は実質金利を通じて無利子資産である金に下落圧力を与える。短期的には複雑な値動きが予想される局面。"
   },
   {
     "title": "Gold Stocks Cap Best August in Decades in Debasement Trade Redux - Bloomberg.com",
@@ -220,17 +121,6 @@
     "summary": "USDAの指導部が、作付面積・単収推定値のサプライズを減らすため技術活用に転換する方針を示した。現在のシステムの精度改善を目指す継続的な取り組みで、即座の大きな影響は限定的。農業統計の透明性と予測可能性向上を狙う。"
   },
   {
-    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-01T02:20:58+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間レポートにより、米国の原油在庫が低下したことが発表された。精製業者の処理稼働率が上昇し、在庫減少が加速している。需給バランスの改善を示唆する材料として、原油価格への下支え要因となる可能性がある。"
-  },
-  {
     "title": "ADP jobs report, oil inventories and Fed Beige Book due Wednesday - Investing.com",
     "timestamp": "2026-09-01T18:08:17+00:00",
     "importance": 3,
@@ -251,28 +141,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "水曜日にADP雇用統計、EIA原油在庫、FRBベージュブックの3つの重要統計が同時発表される予定。ADP雇用データは米国経済の労働市場の堅調性を測り、原油在庫は需給バランスを示す。FRBベージュブックは金融政策スタンスを示唆し、全コモディティに波及する可能性がある。"
-  },
-  {
-    "title": "S&P 500 forecast: Stocks undermined as yields rebound and crude rallies - stonex.com",
-    "timestamp": "2026-09-01T04:17:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "S&P500が利回り上昇と原油ラリーの圧力を受けている状況についての市場解説。長期金利の反発が株価の重荷となる一方、原油価格は上昇トレンド継続。金利上昇環境下でのコモディティ相場の分化が進行している可能性が示唆されている。"
-  },
-  {
-    "title": "S&P 500 forecast: Stocks undermined as yields rebound and crude rallies - stonex.com",
-    "timestamp": "2026-09-01T04:17:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "S&P500が利回り上昇と原油ラリーの圧力を受けている状況についての市場解説。長期金利の反発が株価の重荷となる一方、原油価格は上昇トレンド継続。金利上昇環境下でのコモディティ相場の分化が進行している可能性が示唆されている。"
   },
   {
     "title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters",
@@ -1021,5 +889,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "ロシアの副首相ノバク氏が、ロシアは2024年中に原油生産を若干削減する見通しを示唆した。具体的な削減量は明示されていないが、OPEC+の枠組み内での調整の一環と考えられる。市場では既に予想されていた継続的な減産政策の延長線。"
+  },
+  {
+    "title": "China Reports Discovery of Copper and Gold Deposit Exceeding 1 Million Tons - news.sbs.co.kr",
+    "timestamp": "2026-09-02T05:38:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "中国が銅と金の鉱床を合わせて100万トンを超える規模で発見したと報告。同国の金属資源確保戦略の一環として注目される。供給側のポジティブなニュースだが、実際の採掘・生産化までには時間がかかる見通し。"
+  },
+  {
+    "title": "China Reports Discovery of Copper and Gold Deposit Exceeding 1 Million Tons - news.sbs.co.kr",
+    "timestamp": "2026-09-02T05:38:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "中国が銅と金の鉱床を合わせて100万トンを超える規模で発見したと報告。同国の金属資源確保戦略の一環として注目される。供給側のポジティブなニュースだが、実際の採掘・生産化までには時間がかかる見通し。"
+  },
+  {
+    "title": "OPEC Set to Hold Oil Output Steady as Iran War Disrupts Supply - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-02T17:19:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECがイラン情勢による供給混乱を背景に石油産出量を据え置く方針を示唆。イラン関連の地政学的リスクが原油市場に上昇圧力を加える状況。供給不安定化による価格上昇の可能性が高い。"
   }
 ]
