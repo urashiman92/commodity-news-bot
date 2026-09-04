@@ -1,71 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4449ドル｜米長期金利の上昇や原油高によるインフレ懸念が影響した模様(2026年9月1日) - OANDA証券",
-    "timestamp": "2026-08-31T23:04:45+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4449ドルまで下落した。米長期金利の上昇とインフレ懸念が重石。原油高の影響も指摘されている。"
-  },
-  {
-    "title": "本日（9月1日）の金価格：金指輪の価格は引き続き下落。 - Vietnam.vn",
-    "timestamp": "2026-08-31T22:49:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムにおける9月1日の金指輪価格が引き続き下落している。単発の国別ローカルニュースであり、グローバルな金市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの武力衝突が影響し、原油価格は反発（2026年9月1日） - OANDA証券",
-    "timestamp": "2026-08-31T23:09:24+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの武力衝突が発生し、中東の地政学的リスクが高まった。供給懸念から原油価格が反発している。2026年9月時点での衝突報道は市場に新たなプレミアムを付与している可能性。"
-  },
-  {
-    "title": "日本市場、中東緊張で原油価格上昇し株・債券下落へ－円はG20に注目（Bloomberg） - Yahoo!ニュース",
-    "timestamp": "2026-08-31T23:04:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東緊張が継続し、原油価格の上昇圧力が存在。日本株・債券は下落の可能性。G20開催で円相場が注視される。"
-  },
-  {
-    "title": "米連邦準備制度理事会（FRB）による利上げ予想と、原油価格の上昇による米国債利回りの上昇を受け、世界の金価格は下落した。 - Vietnam.vn",
-    "timestamp": "2026-08-31T23:54:09+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "FRBの利上げ予想と原油高による米国債利回り上昇を背景に、金価格が下落した。利上げ環境では非利息生成資産である金の相対的な魅力が低下する。既知の市場メカニズムの反映。"
-  },
-  {
-    "title": "８月３１日の主要国際商品市況 - 株探",
-    "timestamp": "2026-08-31T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "8月31日の主要国際商品市況についての日次マーケットレポート。具体的な価格変動や材料についての詳細情報は記事概要からは不明。"
-  },
-  {
     "title": "本日（9月1日）の金価格：反転上昇。 - Vietnam.vn",
     "timestamp": "2026-09-01T02:10:29+00:00",
     "importance": 2,
@@ -143,28 +77,6 @@
     "summary": "NEXT NOTES ドバイ原油先物ダブル・ブル ETN【2038】の株価情報ページの更新。この商品は原油価格の2倍の値動きを狙うレバレッジ型ETN。ニュース自体はポジション商品の情報提供に過ぎない。"
   },
   {
-    "title": "８月３１日の主要国際商品市況 (2026年9月1日掲載) - ライブドアニュース",
-    "timestamp": "2026-08-31T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "8月31日の主要国際商品市況に関するニュース記事。具体的な商品価格や市場動向の詳細が記事本体に記載されていると考えられるが、ここからは確認できない。"
-  },
-  {
-    "title": "８月３１日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-08-31T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "8月31日の主要国際商品市況に関するニュース。具体的な価格データ・変動幅・対前日比などの詳細情報は記事概要に記載されていない。"
-  },
-  {
     "title": "金価格3カ月高値から5.5%下落も、ゴールドマン・サックスは10%上昇予想 - BeInCrypto",
     "timestamp": "2026-09-01T10:03:03+00:00",
     "importance": 3,
@@ -207,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国インフレ再燃とFRBの利上げ可能性に関する解説動画。インフレ圧力が原油需要を通じて相場を押し上げる可能性を指摘。金融引き締めとの相互作用で相場変動リスクが存在。"
-  },
-  {
-    "title": "日本市場、中東緊張で原油価格上昇し株・債券下落へ－円はG20に注目 - Bloomberg.com",
-    "timestamp": "2026-08-31T23:04:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東地政学緊張の高まりにより原油価格が上昇。日本市場では株式・債券が下落する一方、円が買われる傾向。G20での円動向も注視材料。"
   },
   {
     "title": "バラティンとニュージーランドは生物セキュリティを強化し、インドネシアのコモディティ市場へのアクセスを開きます - VOI.ID",
@@ -1835,5 +1736,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が6,675ドルのレジスタンスで推移している。FRB利上げ観測が市場心理に影響。技術的サポート・レジスタンスレベルでの値動き分析。"
+  },
+  {
+    "title": "住友金属鉱山－買い気配 金価格上昇を好感 米利上げ観測後退で長期金利低下(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-09-04T00:01:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米利上げ観測が後退し長期金利が低下したことで金価格が上昇。これを好感して住友金属鉱山が買い気配を呈示。金価格上昇は鉱山株の追い風となっている。"
+  },
+  {
+    "title": "住友鉱がしっかり、米利上げ観測後退受けた金先物相場の上昇で - kabutan.jp",
+    "timestamp": "2026-09-04T00:11:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米利上げ観測の後退を受けた金先物相場の上昇が、金関連銘柄の住友鉱を押し上げている。利上げペースの緩和は金需要を下支えする要因として機能。個別銘柄のセクター連動値上げ。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4472ドル｜米国の利上げ観測後退が影響した模様(2026年9月4日) - OANDA証券",
+    "timestamp": "2026-09-03T23:04:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4472ドルまで上昇した。米国の利上げ観測後退が主因となった。金利低下環境では利回りのない金の相対的魅力が高まる。"
+  },
+  {
+    "title": "【政治と“金”】1個8900円が11万円超に!? 止まらない金価格高騰、愛媛県議会が議員バッジを｢14金｣から｢銀台金張｣に - TBS NEWS DIG",
+    "timestamp": "2026-09-03T21:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "愛媛県議会が金価格高騰に対応し、議員バッジの素材を14金から銀台金張に変更。金の現物価格が約12倍に上昇したことを背景とした行政的対応。"
+  },
+  {
+    "title": "ドル安と米雇用統計待ちで金価格が続伸 - BigGo ファイナンス",
+    "timestamp": "2026-09-03T18:35:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル安進行と米雇用統計発表待機により、金価格が上昇している。ドル弱含みは金の相対的な購買力を高め、買い需要を刺激している。雇用統計は市場注視度の高いイベント。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：中東情勢の悪化によるホルムズ海峡の封鎖継続懸念から、原油価格は上昇（2026年9月4日） - OANDA証券",
+    "timestamp": "2026-09-03T23:14:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の悪化に伴うホルムズ海峡封鎖の継続懸念から、WTI原油価格が上昇している。ホルムズ海峡は世界の石油輸送の約30%が通過する重要な海上ルートであり、供給途絶リスクが原油相場の上昇要因となっている。"
+  },
+  {
+    "title": "本日（9月4日）の燃料価格：世界の原油価格は高止まり、E5ガソリン価格は急騰。 - Vietnam.vn",
+    "timestamp": "2026-09-04T00:14:55+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの燃料価格レポート。世界原油は高止まり継続、ガソリン（E5）が急騰しているとの報道。地域的な価格動向に関する定期報告。"
+  },
+  {
+    "title": "売られ過ぎの状況がさらなる下落を抑える中、コーン先物価格はサポートを維持できるか？ - Traders Union",
+    "timestamp": "2026-09-03T13:01:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物が売られ過ぎの状況にあり、テクニカルレベルでのサポートが下値を支えている状況を解説。現在の相場の技術的ポジションに関する観測記事。"
+  },
+  {
+    "title": "３日の主要国際商品市況 - kabutan.jp",
+    "timestamp": "2026-09-03T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "3日の主要国際商品市況に関する市場報告記事。具体的な価格データ・銘柄情報・変動要因の詳細が不明。"
   }
 ]
