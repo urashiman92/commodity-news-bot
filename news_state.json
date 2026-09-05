@@ -1,16 +1,5 @@
 [
   {
-    "title": "円が日中急騰1.2%、介入観測が浮上 金価格は4400ドルに接近 - BigGo ファイナンス",
-    "timestamp": "2026-09-02T15:41:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "円が日中1.2%急騰し、日銀の為替介入観測が浮上。金価格は4400ドル接近まで上昇。円高進行はドル建て金の上昇要因となる。"
-  },
-  {
     "title": "NY外為：ドル下げ止まる、原油価格が反発(フィスコ) - finance.yahoo.co.jp",
     "timestamp": "2026-09-02T18:00:30+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ドル相場が下げ止まる中、原油価格が反発している。ドル弱含みは原油（ドル建て資産）の買い圧力となる要因。為替動向と原油の相関性を示す市場評論。"
-  },
-  {
-    "title": "NY株式、国債利回りと原油価格の落ち着きで反発…10年債は一時4.81%の高値から後退 - BigGo ファイナンス",
-    "timestamp": "2026-09-02T15:58:53+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株が国債利回りと原油価格の落ち着きを受けて反発。10年債利回りが4.81%の高値から後退し、金融引き締め圧力が緩和。原油価格も同様に落ち着きを見せている状況。"
   },
   {
     "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - ロイター",
@@ -1670,5 +1648,27 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が週末に急落した。来週のさらなる変動の可能性が指摘されている。具体的な要因や今後の見通しは明記されていない。"
+  },
+  {
+    "title": "ロレックス、狙い目はゴールド製中古モデル－金相場急落で値ごろ感 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-05T04:50:07+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の急落に伴い、ロレックスのゴールド製中古モデルが相対的に割安感が出ている。金の実物資産価値が低下しており、装飾品としての需要判断を促すニュース。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況･4日 小幅に5日続伸 - moomoo.com",
+    "timestamp": "2026-09-04T20:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物が小幅に5日連続で上昇。具体的な値幅や上昇要因の記載がなく、技術的な買い継続の可能性。市場参加者の関心は限定的。"
   }
 ]
