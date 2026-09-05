@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY外為：ドル下げ止まる、原油価格が反発(フィスコ) - finance.yahoo.co.jp",
-    "timestamp": "2026-09-02T18:00:30+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル相場が下げ止まる中、原油価格が反発している。ドル弱含みは原油（ドル建て資産）の買い圧力となる要因。為替動向と原油の相関性を示す市場評論。"
-  },
-  {
     "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - ロイター",
     "timestamp": "2026-09-02T20:05:44+00:00",
     "importance": 4,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの軍事的緊張が再燃し、供給途絶リスクが高まった。原油先物は1%上昇で反応。中東地政学リスクが価格支援要因として機能。"
-  },
-  {
-    "title": "NY外為：ドル下げ止まる、原油価格が反発 - 株探",
-    "timestamp": "2026-09-02T17:54:33+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル相場が下げ止まる動きを見せる中、原油価格が反発している。ドル安が原油の買い圧力につながる典型的なパターン。"
   },
   {
     "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - ニューズウィーク日本版",
@@ -75,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月3日の金価格は引き続き下落傾向を示している。ベトナムメディアによる相場の日次振り返り報道。既に織り込まれた下落トレンドの継続。"
-  },
-  {
-    "title": "米債利回り急騰が金価格を直撃 金は200日移動平均線を割り込み2週間ぶり安値 - BigGo ファイナンス",
-    "timestamp": "2026-09-02T18:22:42+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米債利回りの急騰に伴い金価格が売却圧力を受けた。金は200日移動平均線を割り込み2週間ぶりの安値を記録。利回り上昇は金の実質利回りを高めるため、金売却につながる典型的な相場構図。"
   },
   {
     "title": "本日（9月3日）の金価格：金指輪の価格が下落。 - Vietnam.vn",
@@ -207,17 +174,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン情勢の不透明感が残存する中、原油先物は小幅な反落を示現。地政学リスクは継続的に価格を支えるが、顕著な変動は見られていない。市場は様子見姿勢を続けている。"
-  },
-  {
-    "title": "NY外為：ドル下げ止まる、原油価格が反発 - 47NEWS",
-    "timestamp": "2026-09-02T17:54:33+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル相場が下げ止まり、それに伴い原油価格が反発している。ドル安が原油買いを促進する構図が観察される。マクロ環境の通常の値動き。"
   },
   {
     "title": "原油先物は小幅反落、米イラン攻撃巡りなお不透明感 - Reuters",
@@ -350,17 +306,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ホルムズ海峡の船舶通過が急減しており、地政学的リスク要因として注視される。原油価格は現在小動きだが、供給途絶の潜在的脅威が存在。市場は慎重な様子見姿勢。"
-  },
-  {
-    "title": "【速報】NY原油先物続伸、91ドル台｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-09-02T17:43:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が91ドル台で続伸している。具体的な上昇要因や数字は記事から不明。速報形式だが、既報の価格動向の単純な続報と判断される。"
   },
   {
     "title": "トウモロコシ先物価格、約3年ぶり高値圏 減産懸念・需要増で - 日本経済新聞",
@@ -1670,5 +1615,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ニューヨーク原油先物が小幅に5日連続で上昇。具体的な値幅や上昇要因の記載がなく、技術的な買い継続の可能性。市場参加者の関心は限定的。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･4日 3日ぶり反落 - Moomoo",
+    "timestamp": "2026-09-05T01:45:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物が3日ぶりに反落。市場概況の定期レポートであり、具体的な材料や統計数値が不明。短期的な技術的調整の可能性が高い。"
+  },
+  {
+    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 - fisco.jp",
+    "timestamp": "2026-09-04T23:50:20+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が小幅反落。中東情勢による供給リスク懸念と米利上げ観測が相反する材料として作用している。既知の材料の綱引き状態。"
   }
 ]
