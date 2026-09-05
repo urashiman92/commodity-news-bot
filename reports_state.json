@@ -440,28 +440,6 @@
     "summary": "ロシアの副首相ノバク氏が、ロシアは2024年中に原油生産を若干削減する見通しを示唆した。具体的な削減量は明示されていないが、OPEC+の枠組み内での調整の一環と考えられる。市場では既に予想されていた継続的な減産政策の延長線。"
   },
   {
-    "title": "China Reports Discovery of Copper and Gold Deposit Exceeding 1 Million Tons - news.sbs.co.kr",
-    "timestamp": "2026-09-02T05:38:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "中国が銅と金の鉱床を合わせて100万トンを超える規模で発見したと報告。同国の金属資源確保戦略の一環として注目される。供給側のポジティブなニュースだが、実際の採掘・生産化までには時間がかかる見通し。"
-  },
-  {
-    "title": "China Reports Discovery of Copper and Gold Deposit Exceeding 1 Million Tons - news.sbs.co.kr",
-    "timestamp": "2026-09-02T05:38:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "中国が銅と金の鉱床を合わせて100万トンを超える規模で発見したと報告。同国の金属資源確保戦略の一環として注目される。供給側のポジティブなニュースだが、実際の採掘・生産化までには時間がかかる見通し。"
-  },
-  {
     "title": "OPEC Set to Hold Oil Output Steady as Iran War Disrupts Supply - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-09-02T17:19:52+00:00",
     "importance": 4,
@@ -702,5 +680,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "マレーシアのパーム油輸出が8月に前月比で減少した。主な要因はインド需要の弱化である。パーム油は世界の油脂市場の約35%を占める主要コモディティで、アジア地域での需要減少は植物油相場全般に下押し圧力をもたらす。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-09-04T22:58:53+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから脱退を決定し、OPECの結束力が大幅に減弱。これにより産油国間の価格調整メカニズムが機能不全に陥り、供給過剰による価格戦争のリスクが高まる。OPECの影響力低下は原油相場の下押し圧力となり、他のエネルギー・コモディティにも波及する可能性がある。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-09-04T22:58:53+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECから脱退を決定し、OPECの結束力が大幅に減弱。これにより産油国間の価格調整メカニズムが機能不全に陥り、供給過剰による価格戦争のリスクが高まる。OPECの影響力低下は原油相場の下押し圧力となり、他のエネルギー・コモディティにも波及する可能性がある。"
+  },
+  {
+    "title": "Copper at Risk of Rare Supply Decline as Mine Setbacks Mount - Bloomberg.com",
+    "timestamp": "2026-09-04T12:58:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅鉱山の操業トラブルが相次ぎ、供給減少のリスクが高まっている。複数の主要鉱山でのセットバック（操業停止・減産）により、銅の供給が数年ぶりに減少する可能性が指摘されている。電動車需要拡大やグリーン転換による構造的需要増の中での供給逼迫は、銅価格の上昇圧力となる。"
   }
 ]
