@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA Data Shows U.S. Crude Inventories Fall 4.5 Million Barrels as Demand Slumps - foreignpolicyjournal.com",
-    "timestamp": "2026-09-02T19:01:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫統計により、米国原油在庫が450万バレル減少したことが報告された。これは需要の落ち込みを背景としており、在庫減少は供給サイド改善を示唆するが、需要減退が主因であるため原油価格への下押し圧力が継続する見込み。"
-  },
-  {
     "title": "Asian Stocks Set to Advance as Oil Pressures Ease: Markets Wrap - Bloomberg.com",
     "timestamp": "2026-09-02T22:08:10+00:00",
     "importance": 2,
@@ -75,28 +64,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の減少を報告した。在庫減は原油供給の逼迫を示唆し、価格押し上げ要因となる。ただし具体的な減少量や週次比較データが記事から不明のため、サプライズ度の評価は限定的。EIA週間在庫は定例統計として市場が注視するデータである。"
-  },
-  {
-    "title": "Daily Livestock Report: What’s Driving Corn Prices Higher? - Meatingplace",
-    "timestamp": "2026-09-02T17:08:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "Meatingplaceの業界レポートがトウモロコシ価格上昇要因を分析。飼料穀物としてのトウモロコシは畜産業に直結するため、価格上昇は畜産コストの増加圧力となる。需給タイトや天候要因、あるいはWASDEの直近予測が価格を支持している可能性。"
-  },
-  {
-    "title": "Daily Livestock Report: What’s Driving Corn Prices Higher? - Meatingplace",
-    "timestamp": "2026-09-02T17:08:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "Meatingplaceの業界レポートがトウモロコシ価格上昇要因を分析。飼料穀物としてのトウモロコシは畜産業に直結するため、価格上昇は畜産コストの増加圧力となる。需給タイトや天候要因、あるいはWASDEの直近予測が価格を支持している可能性。"
   },
   {
     "title": "View / OPEC’s new threat comes from within - Semafor",
@@ -198,17 +165,6 @@
     "summary": "ロシアの副首相ノバク氏が、ロシアは2024年中に原油生産を若干削減する見通しを示唆した。具体的な削減量は明示されていないが、OPEC+の枠組み内での調整の一環と考えられる。市場では既に予想されていた継続的な減産政策の延長線。"
   },
   {
-    "title": "OPEC Set to Hold Oil Output Steady as Iran War Disrupts Supply - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-02T17:19:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECがイラン情勢による供給混乱を背景に石油産出量を据え置く方針を示唆。イラン関連の地政学的リスクが原油市場に上昇圧力を加える状況。供給不安定化による価格上昇の可能性が高い。"
-  },
-  {
     "title": "Russia Sanctions Bill Stalls in US House Amid Tariff Concerns - Bloomberg.com",
     "timestamp": "2026-09-03T19:50:49+00:00",
     "importance": 3,
@@ -295,17 +251,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが発表した米国原油在庫が週間ベースで減少した。在庫減少は原油需要の堅調性またはサプライの制約を示唆し、供給逼迫観測から価格上昇圧力となる。ただし、具体的な在庫減少量や市場予想比の情報が不明なため、サプライズ度の判定は困難。"
-  },
-  {
-    "title": "EIA data points to a decline in U.S. crude oil inventories; OPEC+ decision in focus - XTB.com",
-    "timestamp": "2026-09-02T18:01:35+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間統計が米国原油在庫の減少を示唆。供給面での改善シグナルは原油相場を支援する材料。OPEC+の今後の減産政策決定との関連性が注視される。市場は在庫動向とOPEC+政策のバランスを綿密に監視している。"
   },
   {
     "title": "Wisconsin Corn Crop Faces Early Harvest as Drought Takes Toll - Successful Farming",
@@ -517,17 +462,6 @@
     "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
   },
   {
-    "title": "OPEC Set to Hold Oil Output Steady as Iran War Disrupts Supply - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-02T19:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが石油生産量を据え置く方針を示唆する一方で、イラン関連の地政学的紛争がサプライチェーン混乱のリスクとなっている。供給面での不確実性が高まる中、OPECの慎重な対応姿勢が原油価格の上値抑制要因となる可能性がある。"
-  },
-  {
     "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - bloomberg.com",
     "timestamp": "2026-09-04T19:36:27+00:00",
     "importance": 4,
@@ -592,5 +526,38 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "DTN Progressive Farmerによる定期的なCrop Progress特別レポートです。米国穀物の生育進捗状況に関する更新と見られますが、具体的な数値や内容がリンク先に隠れているため、詳細な影響判定ができません。"
+  },
+  {
+    "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - Bloomberg.com",
+    "timestamp": "2026-09-04T19:36:27+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ政権の財務長官候補ベッセント氏がイラン戦争後の原油価格が40ドルまで低下する可能性を示唆。同時に低金利環境への言及から、金利低下がコモディティ全般に与える影響を指摘。地政学的リスクが価格を支える現在の相場に対する大きなサプライズとなっている。"
+  },
+  {
+    "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - Bloomberg.com",
+    "timestamp": "2026-09-04T19:36:27+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "トランプ政権の財務長官候補ベッセント氏がイラン戦争後の原油価格が40ドルまで低下する可能性を示唆。同時に低金利環境への言及から、金利低下がコモディティ全般に与える影響を指摘。地政学的リスクが価格を支える現在の相場に対する大きなサプライズとなっている。"
+  },
+  {
+    "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - Bloomberg.com",
+    "timestamp": "2026-09-04T19:36:27+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ政権の財務長官候補ベッセント氏がイラン戦争後の原油価格が40ドルまで低下する可能性を示唆。同時に低金利環境への言及から、金利低下がコモディティ全般に与える影響を指摘。地政学的リスクが価格を支える現在の相場に対する大きなサプライズとなっている。"
   }
 ]
