@@ -1,16 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4388ドル｜米長期金利やドルインデックスの低下が影響している模様(2026年9月3日) - OANDA証券",
-    "timestamp": "2026-09-02T23:05:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4388ドルまで下落。米長期金利低下とドルインデックス低下が影響している。テクニカルな相場解説で、予想の範囲内の動き。"
-  },
-  {
     "title": "本日（9月3日）の金価格：引き続き下落傾向。 - Vietnam.vn",
     "timestamp": "2026-09-03T00:15:35+00:00",
     "importance": 2,
@@ -1604,5 +1593,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン間の緊張激化により原油価格が上昇。紅海の海運封鎖脅威が供給途絶リスクを増加させ、価格を押し上げている。地政学的リスク要因が市場心理に影響。"
+  },
+  {
+    "title": "本日（9月6日）の金価格：金地金と金指輪はともに下落。 - Vietnam.vn",
+    "timestamp": "2026-09-05T21:50:19+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムにおいて9月6日の金地金と金指輪の価格が下落した。市場の日々の価格変動を報じたニュースで、具体的な下落率や要因の詳細は不明。"
+  },
+  {
+    "title": "9月6日朝の金価格更新:多くの専門家から相反する予測を受け取る - ja.laodong.vn",
+    "timestamp": "2026-09-05T23:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月6日朝の金価格について、複数の専門家から相反する予測が発表されている。市場では異なる見方が混在しており、短期的な価格方向性は不確定な状況。"
+  },
+  {
+    "title": "本日（2026年9月6日）の最新金価格：SJC、DOJI、PNJ、金の指輪、世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-09-05T22:26:28+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトが本日の金相場（SJC、DOJI、PNJなどベトナム国内業者および世界市場）を報道。ベトナム市場向けの定期的な価格情報配信。"
+  },
+  {
+    "title": "NY原油続伸、終値91ドル台 中東の供給不安で買い優勢 - au Webポータル",
+    "timestamp": "2026-09-05T13:11:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油が91ドル台まで上昇し続伸。中東における供給不安が買い材料となっており、市場は供給リスク要因を意識している。地政学的緊張が価格を下支えしている状況。"
   }
 ]
