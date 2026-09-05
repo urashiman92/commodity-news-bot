@@ -1,49 +1,5 @@
 [
   {
-    "title": "反騰を続けていた金価格がグローバル金利上昇の余波で再び下落している。 米国とイランの武力衝突再開で国際原油価格が急騰し、インフレの憂慮が大きくなったうえ、米国と日本の国債金利まで急騰すると、金価格に下.. - mk.co.kr",
-    "timestamp": "2026-09-02T09:07:48+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国とイランの武力衝突再開により原油急騰とインフレ懸念が拡大。同時に米国・日本の国債金利が急騰し、金価格の上昇要因と下落要因が相反。金利上昇が勝り金価格は再び下落局面へ。"
-  },
-  {
-    "title": "世界の金価格は100ドル以上下落し、SJCの金地金価格も下落を続けた。 - vietnam.vn",
-    "timestamp": "2026-09-02T09:31:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が100ドル以上下落し、ベトナムのSJC金地金価格も連動して下落。金相場の軟調な地合いが続いている状況の報道。"
-  },
-  {
-    "title": "背景には銅価格の高騰か…神社の「銅板」相次ぎ盗まれる 雨漏りで提灯などに被害も「悪質、元通りにしてもらいたい」【長野】 - 日テレNEWS NNN",
-    "timestamp": "2026-09-02T09:23:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "長野県内の神社で銅板が相次いで盗まれる被害が発生。銅価格の高騰が背盗の背景にある可能性が指摘されている。盗難による雨漏りなど二次被害も発生。"
-  },
-  {
-    "title": "「悪質、元通りにしてもらいたい」背景には銅価格の高騰か…神社の「銅板」相次ぎ盗まれる 雨漏りで提灯などに被害も【長野】 - TVer",
-    "timestamp": "2026-09-02T11:39:26+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "長野県の神社で銅板が相次ぎ盗まれる被害が報告。背景に銅価格の高騰があるとみられ、スクラップ銅の盗難が増加傾向。構造的には銅需要の堅調さを示唆。"
-  },
-  {
     "title": "小麦先物、数年ぶり高値後に続落見込み 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-02T13:30:00+00:00",
     "importance": 3,
@@ -1725,5 +1681,49 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場でエネルギー・銅が上昇する一方、貴金属と農産物が下落。市場参加者による相場の振り返り報道。"
+  },
+  {
+    "title": "ジェフリーズ、金価格が5,000ドルを超える3つのシナリオを提示 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-05T10:20:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ジェフリーズが金価格が5,000ドルを超える可能性を示唆する3つのシナリオを提示。アナリストの強気見通しが示されており、金投資家の心理を支援する要因となる。現在の金価格水準からは大幅な上昇を意味し、長期的な構造的強気シナリオを提言。"
+  },
+  {
+    "title": "2026年9月5日午後の金価格：金地金と金指輪の最新価格表。 - Vietnam.vn",
+    "timestamp": "2026-09-05T09:11:12+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金と金指輪の日次価格情報の更新。市場全体への影響を示す国際指標ではなく、ローカル市場の価格表示のみ。"
+  },
+  {
+    "title": "本日（2026年9月5日）の金価格：SJCの金価格は100万ベトナムドン下落し、1オンスあたり1億4460万～1億4760万ベトナムドンとなりました。 - Vietnam.vn",
+    "timestamp": "2026-09-05T09:50:00+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金小売価格（SJC）が100万ベトナムドン下落し、1オンスあたり1億4460万～1億4760万ベトナムドンとなった。ベトナムローカルの価格報告で、国際相場との連動性は限定的。"
+  },
+  {
+    "title": "原油価格が下落したが月間で約20％の上昇を維持 - Межа. Новини України.",
+    "timestamp": "2026-09-05T11:33:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格は日中下落したものの、月間ベースでは約20％の上昇を維持している。短期的な調整局面にあるが、月間トレンドは堅調。"
   }
 ]
