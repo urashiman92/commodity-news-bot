@@ -11,39 +11,6 @@
     "summary": "API（米国石油協会）が米国原油在庫の減少を報告。在庫減少は供給逼迫のシグナルとして原油価格の上昇圧力となる。ただし具体的な減少量が記事から不明なため、サプライズの大きさは判断不可。EIA週間統計の先行指標として注視が必要。"
   },
   {
-    "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters",
-    "timestamp": "2026-09-02T00:43:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国とイランの軍事衝突激化により、リスクオフ局面が発生。原油は地政学リスク低減で上昇、一方で債券利回り上昇に伴い金やその他コモディティは圧力を受ける。アジア株式市場は売却の影響を受けている。"
-  },
-  {
-    "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters",
-    "timestamp": "2026-09-02T00:43:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国とイランの軍事衝突激化により、リスクオフ局面が発生。原油は地政学リスク低減で上昇、一方で債券利回り上昇に伴い金やその他コモディティは圧力を受ける。アジア株式市場は売却の影響を受けている。"
-  },
-  {
-    "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields - Reuters",
-    "timestamp": "2026-09-02T00:43:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国とイランの軍事衝突激化により、リスクオフ局面が発生。原油は地政学リスク低減で上昇、一方で債券利回り上昇に伴い金やその他コモディティは圧力を受ける。アジア株式市場は売却の影響を受けている。"
-  },
-  {
     "title": "Arkansas soybean harvest expected to be fast and furious - Farm Progress",
     "timestamp": "2026-09-02T06:43:46+00:00",
     "importance": 2,
@@ -196,17 +163,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の低下を報告。精製活動の強さと石油輸出の増加が在庫減少の主要因。市場予想の範囲内での結果だが、需要側の堅調さを示唆する内容。"
-  },
-  {
-    "title": "API Crude Oil Stocks Drop by 2.6M Barrels, Reversing Prior Build - CryptoRank",
-    "timestamp": "2026-09-02T00:11:25+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API（米国石油協会）が発表した週間原油在庫統計で、前週の増加トレンドが反転し260万バレルの在庫減少となった。この数字は市場の需給バランスの小幅な改善を示唆するが、単一週の変動としては予想の範囲内。EIA公式統計を控えた事前指標としての位置づけ。"
   },
   {
     "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - wdez.com",
@@ -724,5 +680,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC脱退後の独立的な増産計画により、来年の石油生産量を日量500万バレルを超える水準に引き上げる見通しをIEAが示唆。UAEの増産姿勢はOPEC減産合意の相対的な緩和を意味し、原油市場供給増加圧力となる。"
+  },
+  {
+    "title": "Malaysian Palm Oil Exports Fell in August on Weak Indian Demand - bloomberg.com",
+    "timestamp": "2026-09-04T05:17:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "大豆",
+    "summary": "マレーシアのパーム油輸出が8月に前月比で減少した。主な要因はインド需要の弱化である。パーム油は世界の油脂市場の約35%を占める主要コモディティで、アジア地域での需要減少は植物油相場全般に下押し圧力をもたらす。"
+  },
+  {
+    "title": "Malaysian Palm Oil Exports Fell in August on Weak Indian Demand - bloomberg.com",
+    "timestamp": "2026-09-04T05:17:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "マレーシアのパーム油輸出が8月に前月比で減少した。主な要因はインド需要の弱化である。パーム油は世界の油脂市場の約35%を占める主要コモディティで、アジア地域での需要減少は植物油相場全般に下押し圧力をもたらす。"
   }
 ]
