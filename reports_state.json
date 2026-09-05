@@ -1,104 +1,5 @@
 [
   {
-    "title": "EIA Cushing Crude Oil Stocks Change (Aug/28) 0.080M (Prev. 1.176M) - Newsquawk",
-    "timestamp": "2026-09-02T14:50:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが8月28日発表したクッシング地区原油在庫の変化は0.080百万バレルの増加となった。前週の1.176百万バレル増加から大幅に鈍化し、在庫積み増しペースが著しく減速したことが示唆される。クッシングは米国最大の原油貯蔵拠点であり、在庫圧力の緩和は原油市場にやや好材料。"
-  },
-  {
-    "title": "EIA: US crude stocks down as runs reach eight-year high - Quantum Commodity Intelligence",
-    "timestamp": "2026-09-02T15:43:25+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が減少する一方で、製油所の稼働率が8年ぶりの高水準に達した。在庫減少は需要の強さを示唆するが、高い稼働率は既に市場予想の範囲内と考えられる。原油価格への上昇圧力は限定的。"
-  },
-  {
-    "title": "U.S. Oil Stocks Drop as Fuel Demand Weakens - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-02T14:38:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表の米国原油在庫統計により、燃料需要の弱化を背景に原油在庫が減少した。需要の弱まりは価格下押し圧力となる。季節調整後の在庫動向は市場予想の範囲内と判断される。"
-  },
-  {
-    "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - WTAQ",
-    "timestamp": "2026-09-02T14:45:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が日曜日の会合で現在の原油生産政策を据え置く見通しが報じられた。複数の情報筋から政策変更なしとの見方が示されており、既存の減産合意の継続が予想されている。市場は既にこの結果を織り込んでいる可能性が高い。"
-  },
-  {
-    "title": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea - Bloomberg.com",
-    "timestamp": "2026-09-02T14:01:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの原油輸出が減少し、ホルムズ海峡からRedSea経由の輸送ルートにおいてタンカーが危険にさらされている。中東地政学リスク（イエメンフーシ派による攻撃やイラン関連の緊張）により、主要な石油輸送経路が脅かされており、供給懸念が急速に高まっている。"
-  },
-  {
-    "title": "EIA: US crude stocks down after as runs reach eight-year high - Quantum Commodity Intelligence",
-    "timestamp": "2026-09-02T15:43:25+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間レポートで米国原油在庫が減少した一方、原油精製稼働率（原油処理量）が8年ぶりの高水準に達した。在庫の減少は需要堅調の兆候だが、精製稼働率の上昇により需給逼迫感は限定的。市場予想の範囲内の動きと評価される。"
-  },
-  {
-    "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - Reuters",
-    "timestamp": "2026-09-02T14:28:46+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+が日曜日の会合で現在の石油生産政策を据え置く見通しが報じられた。複数の関係者筋からの報告であり、既に市場で織り込まれている可能性が高い。政策の継続性は価格変動を抑制する方向に作用する。"
-  },
-  {
-    "title": "US crude stocks fall on strong refining activity and exports, EIA says - Reuters",
-    "timestamp": "2026-09-02T15:38:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の低下を報告。精製活動の強さと石油輸出の増加が在庫減少の主要因。市場予想の範囲内での結果だが、需要側の堅調さを示唆する内容。"
-  },
-  {
-    "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - wdez.com",
-    "timestamp": "2026-09-02T15:03:51+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で石油生産政策を現状維持する見通し。複数の情報筋が政策変更がないことを示唆しており、市場予想の範囲内。既存の減産枠組みの継続が見込まれている。"
-  },
-  {
     "title": "EIA Data Shows U.S. Crude Inventories Fall 4.5 Million Barrels as Demand Slumps - foreignpolicyjournal.com",
     "timestamp": "2026-09-02T19:01:00+00:00",
     "importance": 2,
@@ -130,17 +31,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株が上昇基調にある一因として、原油価格の圧力緩和が指摘されている。エネルギーコスト低下がインフレ懸念を和らげ、リスク資産買いを促進。ただしコモディティ全体への直接的な影響は限定的で、マクロ環境改善の観測論が主体。"
-  },
-  {
-    "title": "Crude oil technical analsysis: US crude oil inventories for -4.450M barrel vs -1.085M estimate. - investingLive",
-    "timestamp": "2026-09-02T15:04:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計で米国原油在庫が予想を大きく上回る-445万バレルの減少となった。市場予想は-108.5万バレルだったため、実績は予想の約4倍の減少規模となり、需要の堅調性と供給逼迫を示唆するシグナルとなった。この大幅な在庫減少は原油価格の上昇圧力となる。"
   },
   {
     "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight - Reuters",
@@ -185,28 +75,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の減少を報告した。在庫減は原油供給の逼迫を示唆し、価格押し上げ要因となる。ただし具体的な減少量や週次比較データが記事から不明のため、サプライズ度の評価は限定的。EIA週間在庫は定例統計として市場が注視するデータである。"
-  },
-  {
-    "title": "US EIA Gasoline Stocks Change (Aug/28) -1.173M vs. Exp. -1.9M (Prev. -2.536M) - newsquawk.com",
-    "timestamp": "2026-09-02T14:50:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "8月28日のEIA週間ガソリン在庫は-1.173M バレルの減少。市場予想-1.9M に対して減少幅が小さく、前週-2.536M からも減速。需要の弱さを示唆しており、原油価格への上昇圧力は限定的。"
-  },
-  {
-    "title": "OPEC+ Likely to Keep Oil Output Policy Unchanged on Sunday, Sources Say - US News Money",
-    "timestamp": "2026-09-02T14:03:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で石油生産政策を据え置く見通し。複数の情報筋が方針変更がないとの見解を示唆。現在の減産枠組みを継続し、市場の現状維持を示唆する内容。"
   },
   {
     "title": "Daily Livestock Report: What’s Driving Corn Prices Higher? - Meatingplace",
@@ -649,17 +517,6 @@
     "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
   },
   {
-    "title": "OPEC+ Likely to Stick With Plan for Quotas, Delegates Say - Bloomberg.com",
-    "timestamp": "2026-09-02T14:56:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の代表者らが、現在の生産割当計画を継続する方針を示唆した。既に市場に織り込まれた観測であり、大幅な政策変更は予定されていない。原油市場への直接的なショックは限定的と見られる。"
-  },
-  {
     "title": "OPEC Set to Hold Oil Output Steady as Iran War Disrupts Supply - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-09-02T19:00:00+00:00",
     "importance": 3,
@@ -702,5 +559,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米財務長官Bessent氏がイラン紛争後の原油価格を40ドル程度まで下落する可能性を指摘。同時に米金利低下見通しを示唆しており、利回り低下が金を含むコモディティ全般に下押し圧力をもたらす見通し。地政学リスク軽減と金融緩和の組み合わせが価格抑制要因。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-05T09:33:54+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "DTN Progressive Farmerによる定期的なCrop Progress特別レポートです。米国穀物の生育進捗状況に関する更新と見られますが、具体的な数値や内容がリンク先に隠れているため、詳細な影響判定ができません。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-05T09:33:54+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "DTN Progressive Farmerによる定期的なCrop Progress特別レポートです。米国穀物の生育進捗状況に関する更新と見られますが、具体的な数値や内容がリンク先に隠れているため、詳細な影響判定ができません。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-05T09:33:54+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "DTN Progressive Farmerによる定期的なCrop Progress特別レポートです。米国穀物の生育進捗状況に関する更新と見られますが、具体的な数値や内容がリンク先に隠れているため、詳細な影響判定ができません。"
   }
 ]
