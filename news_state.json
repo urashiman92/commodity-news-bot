@@ -1,60 +1,5 @@
 [
   {
-    "title": "本日9月2日の金価格：債券利回りと米ドルの上昇を受け、2％以上下落し、2週間ぶりの安値となった。 - Vietnam.vn",
-    "timestamp": "2026-09-01T22:56:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が2%以上下落し2週間ぶりの安値を付けた。債券利回りの上昇と米ドル強化が主要な下押し要因。既知の金融環境シフトの延長線上での値動き。"
-  },
-  {
-    "title": "米国とイランの交戦再開に国際原油価格急騰…WTI90ドル突破 - ｄメニューニュース",
-    "timestamp": "2026-09-01T22:26:42+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの軍事交戦が再開され、地政学的緊張が急速に高まった。WTI原油が90ドルを突破し、大幅な価格上昇が発生。中東地域の主要供給インフラへのリスク懸念から市場が反応。"
-  },
-  {
-    "title": "東京為替見通し＝ドル円、原油価格と米長期金利上昇で堅調推移も円買い介入に警戒か - ザイFX！",
-    "timestamp": "2026-09-01T23:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円相場は原油価格上昇と米長期金利上昇によりドル高基調で推移。ただし日本銀行による円買い介入の可能性が警戒材料となっている。為替相場の見通し解説記事。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国がイランに攻撃を行ったとの報道が影響し、原油価格は2営業日続伸（2026年9月2日） - OANDA証券",
-    "timestamp": "2026-09-01T23:15:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるイラン攻撃との報道が地政学的リスク要因として認識され、原油価格は2営業日続伸。中東の地政学的緊張が供給懸念を喚起。"
-  },
-  {
-    "title": "金価格の「下落」続く、米国の利上げ観測の強まりを受け - Yahoo!ニュース",
-    "timestamp": "2026-09-01T23:30:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の利上げ観測の強まりを受けて金価格が下落している。利上げは金の実質利回りを高め、利息を生まない金の相対的な魅力を減少させる。この関係性は市場参加者に周知の要因である。"
-  },
-  {
     "title": "金相場が続落、9月利上げ観測66％到達で1.5％安 - BigGo ファイナンス",
     "timestamp": "2026-09-02T00:35:00+00:00",
     "importance": 3,
@@ -110,17 +55,6 @@
     "summary": "9月2日朝に金価格が1オンスあたり100ドル以上の大幅下落を記録した。金の取引相場における日次の値動き報告。ベトナムの金融メディアによる相場更新記事。"
   },
   {
-    "title": "本日（9月2日）の金価格：世界の金価格が急落。 - Vietnam.vn",
-    "timestamp": "2026-09-01T22:40:54+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月2日時点での金価格が世界的に急落したとの報道。具体的な下落率や原因は記事概要から不明。定期的な相場変動の報道と見られる。"
-  },
-  {
     "title": "2026年9月2日現在の金価格：急落。 - Vietnam.vn",
     "timestamp": "2026-09-02T02:04:29+00:00",
     "importance": 2,
@@ -152,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が急騰し、世界的な債券売りが同時に発生している市場環境。オーストラリア株式市場（ASX200）は下落。複数市場のボラティリティが上昇している局面。"
-  },
-  {
-    "title": "本日（9月2日）の燃料価格：世界の原油価格は調整を前に急騰。 - Vietnam.vn",
-    "timestamp": "2026-09-01T23:55:15+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "9月2日時点で世界原油価格が調整前の急騰を記録。ベトナムの燃料価格動向を報じた記事。具体的な供給・需要ショックの言及は不明。"
   },
   {
     "title": "小麦先物 (WHEAT-F) が 9月2日 に低下：注目すべき重要な要因 - tradingkey.com",
@@ -198,17 +121,6 @@
     "summary": "金価格の下落に伴い、住友金属鉱山など非鉄金属関連株が売られた。金相場の軟調が鉱山株のセンチメント悪化につながっている。"
   },
   {
-    "title": "金価格の「下落」続く、米国の利上げ観測の強まりを受け - Forbes JAPAN",
-    "timestamp": "2026-09-01T23:30:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の利上げ観測強まりを受けて金価格が下落を続けている。利上げは金利を上昇させ、非利息資産である金の相対的な魅力を低下させる。既に市場で織り込まれた標準的な相場メカニズム。"
-  },
-  {
     "title": "NY金先物が急反落、200日線割れ 利上げ観測と原油高の板挟み - BigGo ファイナンス",
     "timestamp": "2026-09-02T01:37:00+00:00",
     "importance": 3,
@@ -229,17 +141,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米国の利上げ観測強まりを受けて金価格が下落している。利上げにより米ドル強化と実質金利上昇が起こり、利回りのない金の相対的な魅力が低下。既に織り込まれている傾向の継続を報じている。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4328ドル｜米長期金利の上昇が影響している模様(2026年9月2日) - OANDA証券",
-    "timestamp": "2026-09-01T23:04:06+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4328ドルまで下落。米長期金利の上昇が主な下押し要因。金利上昇は利付資産との相対的な競争力低下を意味する。"
   },
   {
     "title": "住友鉱---大幅反落、金相場の続落などで非鉄大手が軟調 - Moomoo",
@@ -319,28 +220,6 @@
     "summary": "ベトナムメディアによる9月2日時点の燃料価格レポート。世界の原油価格が引き続き高騰している状況を報じている。既に認識されている相場トレンドの確認記事。"
   },
   {
-    "title": "米国とイランの交戦再開に国際原油価格急騰…WTI90ドル突破 - 中央日報",
-    "timestamp": "2026-09-01T22:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの交戦再開により、地政学的リスク急増で原油価格が急騰。WTI90ドルを突破し、中東の主要供給地域の不安定化が価格に直結。コモディティ投資家にとって供給途絶リスクの顕在化。"
-  },
-  {
-    "title": "１日の主要国際商品市況 - みんかぶ",
-    "timestamp": "2026-09-01T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "日中の主要国際商品市況の日次サマリー記事。複数コモディティの価格動向を総覧するルーチンレポート。具体的な価格変動幅や原因は記事本文を確認が必要。"
-  },
-  {
     "title": "住友鉱は急反落、金価格下落で非鉄株に売り広がる - 株探",
     "timestamp": "2026-09-02T05:42:00+00:00",
     "importance": 3,
@@ -396,28 +275,6 @@
     "summary": "住友鉱山が大幅反落。金相場の続落が非鉄金属関連銘柄全般に悪影響を与えている。既存トレンドの延長線上での株価調整。"
   },
   {
-    "title": "【速報】日経平均、一時1800円値下がり 日本の長期金利3％上昇など世界的な金利上昇や原油価格上昇が今後の企業業績に及ぼす影響に警戒感 - TBS NEWS DIG",
-    "timestamp": "2026-09-02T00:07:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界的な金利上昇と原油価格上昇が進行中。日本の長期金利が3%に上昇し、日経平均が一時1800円下落。企業業績への悪影響を市場が警戒している。"
-  },
-  {
-    "title": "米イラン衝突激化で原油価格5%急騰 米株全面安のなかAppleは逆行高2.6% - BigGo ファイナンス",
-    "timestamp": "2026-09-01T23:11:27+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン衝突の激化により、地政学的リスク要因が顕在化。原油価格が5%の急騰を記録し、供給途絶リスクが市場に織り込まれた。リスクオフ環境でも原油は上昇、エネルギー資産の安全資産化が進行。"
-  },
-  {
     "title": "【為替本日の注目点】ＷＴＩ原油価格、７月以来となる９０ドル台に(サーチナ) - Yahoo!ファイナンス",
     "timestamp": "2026-09-02T01:14:00+00:00",
     "importance": 2,
@@ -427,17 +284,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油価格が7月以来となる90ドル台に上昇。既に市場で織り込まれた値動きの観測記事。既報の相場変動に対する振り返り解説。"
-  },
-  {
-    "title": "東京為替見通し＝ドル円、原油価格と米長期金利上昇で堅調推移も円買い介入に警戒か(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-01T23:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル円が原油価格と米長期金利上昇により堅調に推移している。ただし日本の円買い介入リスクに注意が必要。為替動向の解説記事。"
   },
   {
     "title": "背景には銅価格の高騰か…神社の「銅板」相次ぎ盗まれる 雨漏りで提灯などに被害も「悪質、元通りにしてもらいたい」【長野】 - 日テレNEWS NNN",
@@ -460,17 +306,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "長野県の神社で銅板が相次ぎ盗まれる被害が報告。背景に銅価格の高騰があるとみられ、スクラップ銅の盗難が増加傾向。構造的には銅需要の堅調さを示唆。"
-  },
-  {
-    "title": "米コモディティー市場－原油、トウモロコシ、小麦、大豆が上昇 ガソリン、天然ガス、金、銀、銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-01T22:24:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油・穀物（トウモロコシ・小麦・大豆）が上昇する一方、ガソリン・天然ガス・貴金属・銅が下落。相場は分散的な動きを示している。"
   },
   {
     "title": "小麦先物、数年ぶり高値後に続落見込み 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1868,5 +1703,115 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月5日の金価格が予想外に急落したというニュース。具体的な下落率や原因についての詳細情報が記事要約では不明。市場反応のみが報道されている状況。"
+  },
+  {
+    "title": "復活のきざし見せる金価格&金ファンドはどう組み入れる？ 純資産9000億円超の「ファインゴールド」の実力と、資産組み入れの“ポイント” - ｄメニューニュース",
+    "timestamp": "2026-09-04T22:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が復活の兆しを見せており、「ファインゴールド」など金ファンドへの組み入れが注目されている。純資産9000億円超の大型ファンドの実力と資産組み入れのポイントについて解説。"
+  },
+  {
+    "title": "NY金先物は反落、米8月雇用統計の上振れで利上げ観測が再燃｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-04T22:47:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米8月雇用統計が予想を上回る強い結果となり、FRBの利上げ再開観測が高まった。金利上昇局面では金は利息を生まない資産として売られる傾向。NY金先物は反落で反応。"
+  },
+  {
+    "title": "NY金先物：反落、米8月雇用統計の上振れで利上げ観測が再燃 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-04T22:21:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国8月雇用統計が予想を上回り、FRBの利上げ継続観測が再燃した。金は利上げ環境では実質金利上昇に伴う売圧が強まり、NY金先物は反落。"
+  },
+  {
+    "title": "本日（9月5日）の金価格：金地金と金指輪の両方が上昇しました。 - Vietnam.vn",
+    "timestamp": "2026-09-04T23:30:27+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金と金指輪の価格が9月5日に上昇した。地域的な価格動向の報道であり、グローバル市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "復活のきざし見せる金価格&金ファンドはどう組み入れる？ 純資産9000億円超の「ファインゴールド」の実力と、資産組み入れの“ポイント” | チバテレ＋プラス - 千葉テレビ放送",
+    "timestamp": "2026-09-04T22:13:18+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の回復傾向を背景に、純資産9000億円超の金ファンド「ファインゴールド」の実力と資産配分への組み入れポイントを解説した記事。既存の金復活トレンドの継続を追認する内容。"
+  },
+  {
+    "title": "NY金先物：反落、米8月雇用統計の上振れで利上げ観測が再燃 - ｄメニューニュース",
+    "timestamp": "2026-09-04T22:21:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国8月雇用統計が予想を上回り、FRBの利上げ継続観測が再燃した。利上げ見込みの強化は金の実質金利を上昇させ、利回りのない金の魅力を減少させる。NY金先物は反落で応じた。"
+  },
+  {
+    "title": "NY原油先物 終値 91.48ドル - みんかぶ FX/為替",
+    "timestamp": "2026-09-04T18:57:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物の終値が91.48ドルで取引を終了した。単なる日中の終値報告であり、新規の需給ニュースや統計発表ではない。既に市場に織り込まれた価格水準の報告値。"
+  },
+  {
+    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-04T22:22:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が小幅反落。中東の供給リスク懸念と米国の利上げ観測が相反する要因として作用している。既知の要因が交錯する典型的な相場解説。"
+  },
+  {
+    "title": "本日の燃料価格（9月5日）：世界の原油価格は高止まりしており、WTI原油価格は今週約10％上昇した。 - Vietnam.vn",
+    "timestamp": "2026-09-04T22:59:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油価格が今週約10%上昇し、世界の原油価格は高止まりしている状況が報告されている。既に進行中の価格上昇トレンドの確認報道。"
+  },
+  {
+    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 - ｄメニューニュース",
+    "timestamp": "2026-09-04T23:19:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が小幅反落。中東の供給リスク懸念と米利上げ観測が相反する要因として作用している。両要因が相殺され大きな方向性は出ていない。"
   }
 ]
