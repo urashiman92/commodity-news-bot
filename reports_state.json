@@ -33,50 +33,6 @@
     "summary": "EIA発表の米国原油在庫統計により、燃料需要の弱化を背景に原油在庫が減少した。需要の弱まりは価格下押し圧力となる。季節調整後の在庫動向は市場予想の範囲内と判断される。"
   },
   {
-    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
-    "timestamp": "2026-09-02T12:27:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
-  },
-  {
-    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
-    "timestamp": "2026-09-02T12:27:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
-  },
-  {
-    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
-    "timestamp": "2026-09-02T12:27:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
-  },
-  {
-    "title": "USDA Turns to Satellites and AI to Fix Its Crop Estimates - Technology Org",
-    "timestamp": "2026-09-02T12:27:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが衛星画像とAI技術を導入して穀物生産予測の精度向上を進めている。従来の実地調査に加え、衛星観測とAI分析により作付面積・生育状況の把握が改善される見通し。予測精度向上は市場の透明性向上に寄与し、価格変動の予測可能性が高まる可能性がある。"
-  },
-  {
     "title": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - WTAQ",
     "timestamp": "2026-09-02T14:45:37+00:00",
     "importance": 2,
@@ -86,17 +42,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が日曜日の会合で現在の原油生産政策を据え置く見通しが報じられた。複数の情報筋から政策変更なしとの見方が示されており、既存の減産合意の継続が予想されている。市場は既にこの結果を織り込んでいる可能性が高い。"
-  },
-  {
-    "title": "Sinopec extends bumper Russian oil buys, squeezing teapots, traders say - Reuters",
-    "timestamp": "2026-09-02T10:39:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国の国営石油企業シノペックがロシア産原油の大量購入を継続しており、国内の独立系精製業者（ティーポット）を圧迫している。ロシア産原油の割安感を背景にシノペックが優位性を保つ一方で、制裁回避とサプライチェーン多様化の地政学的影響が露呈している。"
   },
   {
     "title": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea - Bloomberg.com",
@@ -152,28 +97,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は日曜日の会合で石油生産政策を現状維持する見通し。複数の情報筋が政策変更がないことを示唆しており、市場予想の範囲内。既存の減産枠組みの継続が見込まれている。"
-  },
-  {
-    "title": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors - Reuters",
-    "timestamp": "2026-09-02T13:12:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがホルムズ海峡でイランによる船舶攻撃があり、2名の船員が殺害されたと発表。中東の地政学的緊張が急速に高まり、世界石油供給の約30%が通過するホルムズ海峡での安全保障リスクが顕著化。原油価格への上昇圧力が強まる見通し。"
-  },
-  {
-    "title": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors - Reuters",
-    "timestamp": "2026-09-02T13:12:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアがホルムズ海峡でイランによる船舶攻撃があり、2名の船員が殺害されたと発表。中東の地政学的緊張が急速に高まり、世界石油供給の約30%が通過するホルムズ海峡での安全保障リスクが顕著化。原油価格への上昇圧力が強まる見通し。"
   },
   {
     "title": "EIA Data Shows U.S. Crude Inventories Fall 4.5 Million Barrels as Demand Slumps - foreignpolicyjournal.com",
@@ -735,5 +658,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+の代表者らが、現在の生産割当計画を継続する方針を示唆した。既に市場に織り込まれた観測であり、大幅な政策変更は予定されていない。原油市場への直接的なショックは限定的と見られる。"
+  },
+  {
+    "title": "OPEC Set to Hold Oil Output Steady as Iran War Disrupts Supply - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-02T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが石油生産量を据え置く方針を示唆する一方で、イラン関連の地政学的紛争がサプライチェーン混乱のリスクとなっている。供給面での不確実性が高まる中、OPECの慎重な対応姿勢が原油価格の上値抑制要因となる可能性がある。"
+  },
+  {
+    "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - bloomberg.com",
+    "timestamp": "2026-09-04T19:36:27+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米財務長官Bessent氏がイラン紛争後の原油価格を40ドル程度まで下落する可能性を指摘。同時に米金利低下見通しを示唆しており、利回り低下が金を含むコモディティ全般に下押し圧力をもたらす見通し。地政学リスク軽減と金融緩和の組み合わせが価格抑制要因。"
+  },
+  {
+    "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - bloomberg.com",
+    "timestamp": "2026-09-04T19:36:27+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米財務長官Bessent氏がイラン紛争後の原油価格を40ドル程度まで下落する可能性を指摘。同時に米金利低下見通しを示唆しており、利回り低下が金を含むコモディティ全般に下押し圧力をもたらす見通し。地政学リスク軽減と金融緩和の組み合わせが価格抑制要因。"
+  },
+  {
+    "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - bloomberg.com",
+    "timestamp": "2026-09-04T19:36:27+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米財務長官Bessent氏がイラン紛争後の原油価格を40ドル程度まで下落する可能性を指摘。同時に米金利低下見通しを示唆しており、利回り低下が金を含むコモディティ全般に下押し圧力をもたらす見通し。地政学リスク軽減と金融緩和の組み合わせが価格抑制要因。"
   }
 ]
