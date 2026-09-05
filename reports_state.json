@@ -1,27 +1,5 @@
 [
   {
-    "title": "API reports a drop in US crude stocks – Trading Economics - engine.online",
-    "timestamp": "2026-09-02T05:47:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API（米国石油協会）が米国原油在庫の減少を報告。在庫減少は供給逼迫のシグナルとして原油価格の上昇圧力となる。ただし具体的な減少量が記事から不明なため、サプライズの大きさは判断不可。EIA週間統計の先行指標として注視が必要。"
-  },
-  {
-    "title": "Arkansas soybean harvest expected to be fast and furious - Farm Progress",
-    "timestamp": "2026-09-02T06:43:46+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "アーカンソー州の大豆収穫が急速に進行する見通し。収穫スピードの加速は、市場への供給圧力を強める要因となる。収穫が予定通り順調に進むことは、需給タイトネスが和らぐ可能性を示唆しており、大豆価格の下押し圧力となりやすい。"
-  },
-  {
     "title": "EIA Cushing Crude Oil Stocks Change (Aug/28) 0.080M (Prev. 1.176M) - Newsquawk",
     "timestamp": "2026-09-02T14:50:00+00:00",
     "importance": 2,
@@ -418,17 +396,6 @@
     "summary": "ロシア・ウクライナ戦争が世界的な小麦価格に継続的な影響を与えている。両国は世界有数の小麦生産・輸出国であり、紛争による供給懸念と物流阻害がグローバル穀物市場の価格上昇圧力となっている。WASDE関連の報告として、供給リスク評価の更新が継続されている。"
   },
   {
-    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-02T10:21:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが発表した米国原油在庫統計によると、製油所の稼働率向上に伴い原油在庫が減少した。製油所が原油処理量を増加させており、在庫積み増しの圧力が緩和されている。通常の季節的パターン内の動きと考えられる。"
-  },
-  {
     "title": "Russia will slightly cut oil output this year, deputy PM Novak says - reuters.com",
     "timestamp": "2026-09-03T06:35:00+00:00",
     "importance": 2,
@@ -713,5 +680,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "銅鉱山の操業トラブルが相次ぎ、供給減少のリスクが高まっている。複数の主要鉱山でのセットバック（操業停止・減産）により、銅の供給が数年ぶりに減少する可能性が指摘されている。電動車需要拡大やグリーン転換による構造的需要増の中での供給逼迫は、銅価格の上昇圧力となる。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-03T21:05:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-03T21:05:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-03T21:05:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-03T21:05:37+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
+  },
+  {
+    "title": "OPEC+ Likely to Stick With Plan for Quotas, Delegates Say - Bloomberg.com",
+    "timestamp": "2026-09-02T14:56:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の代表者らが、現在の生産割当計画を継続する方針を示唆した。既に市場に織り込まれた観測であり、大幅な政策変更は予定されていない。原油市場への直接的なショックは限定的と見られる。"
   }
 ]
