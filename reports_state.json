@@ -482,5 +482,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "紛争激化によるサプライ逼迫を背景に、米国ディーゼル価格が過去最高値を記録した。地政学的リスクの顕在化により、エネルギー市場全体が上昇圧力にさらされている。供給途絶の懸念が強まり、短期的なボラティリティが高まる見通し。"
+  },
+  {
+    "title": "OPEC+ keeps oil output policy unchanged for October - CNBC",
+    "timestamp": "2026-09-06T13:04:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は10月の石油生産方針を据え置くことを決定した。既存の減産合意を継続する内容であり、市場は予想どおりの結果と受け止めている。政策変更がないため、直近の原油価格への大きな上下圧力は限定的と考えられる。"
+  },
+  {
+    "title": "Russia, Ukraine Exchange Strikes as US Envoys Head for Kyiv - Bloomberg.com",
+    "timestamp": "2026-09-06T08:00:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア・ウクライナ間で軍事衝突が続く中、米国特使がキーウ訪問へ向かっている。地政学的緊張の継続はエネルギー市場に上昇圧力をもたらす一方、和平交渉進展の可能性は不確実性を残す。リスクオン・オフの転換点として注視が必要。"
+  },
+  {
+    "title": "Russia, Ukraine Exchange Strikes as US Envoys Head for Kyiv - Bloomberg.com",
+    "timestamp": "2026-09-06T08:00:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "ロシア・ウクライナ間で軍事衝突が続く中、米国特使がキーウ訪問へ向かっている。地政学的緊張の継続はエネルギー市場に上昇圧力をもたらす一方、和平交渉進展の可能性は不確実性を残す。リスクオン・オフの転換点として注視が必要。"
+  },
+  {
+    "title": "Russia, Ukraine Exchange Strikes as US Envoys Head for Kyiv - Bloomberg.com",
+    "timestamp": "2026-09-06T08:00:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア・ウクライナ間で軍事衝突が続く中、米国特使がキーウ訪問へ向かっている。地政学的緊張の継続はエネルギー市場に上昇圧力をもたらす一方、和平交渉進展の可能性は不確実性を残す。リスクオン・オフの転換点として注視が必要。"
   }
 ]
