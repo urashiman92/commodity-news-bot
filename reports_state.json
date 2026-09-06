@@ -1,27 +1,5 @@
 [
   {
-    "title": "Russia Sanctions Bill Stalls in US House Amid Tariff Concerns - Bloomberg.com",
-    "timestamp": "2026-09-03T19:50:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国下院でロシア制裁法案が関税懸念により足踏み状態となっている。制裁強化はロシア産原油・ガスの供給制限をもたらす可能性があり、原油価格の上昇圧力となる一方、広範な関税導入懸念はドル高・金利上昇につながり、コモディティ全般に下落圧力をもたらす可能性がある。地政学的リスクと保護主義政策の相反する影響が市場で綱引き状態にある。"
-  },
-  {
-    "title": "Russia Sanctions Bill Stalls in US House Amid Tariff Concerns - Bloomberg.com",
-    "timestamp": "2026-09-03T19:50:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国下院でロシア制裁法案が関税懸念により足踏み状態となっている。制裁強化はロシア産原油・ガスの供給制限をもたらす可能性があり、原油価格の上昇圧力となる一方、広範な関税導入懸念はドル高・金利上昇につながり、コモディティ全般に下落圧力をもたらす可能性がある。地政学的リスクと保護主義政策の相反する影響が市場で綱引き状態にある。"
-  },
-  {
     "title": "Malaysian August Palm Oil Exports Fell on Weak Indian Demand - Bloomberg.com",
     "timestamp": "2026-09-04T05:17:36+00:00",
     "importance": 2,
@@ -97,17 +75,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "ウィスコンシン州のトウモロコシ作付地域が干ばつの影響を受け、予定より早い収穫時期を迎えている。干ばつによる作柄悪化が懸念され、収量低下の可能性がある。これは米国トウモロコシ生産量の見直し要因となる可能性が高い。"
-  },
-  {
-    "title": "HSBC Sees Limited Near-Term Impact on OPEC+ From UAE’s Departure - EnergyNow.com",
-    "timestamp": "2026-09-03T20:19:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "HSBCがUAEのOPEC+離脱による近期の市場影響は限定的との見解を示した。UAEは生産能力拡大志向でOPEC+の減産合意に不満を抱いていた。分析機関の評価では、既に織り込まれた可能性が高く、原油価格への直接的なショックは限定的と予想される。"
   },
   {
     "title": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - Reuters",
@@ -251,50 +218,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "銅鉱山の操業トラブルが相次ぎ、供給減少のリスクが高まっている。複数の主要鉱山でのセットバック（操業停止・減産）により、銅の供給が数年ぶりに減少する可能性が指摘されている。電動車需要拡大やグリーン転換による構造的需要増の中での供給逼迫は、銅価格の上昇圧力となる。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-03T21:05:37+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-03T21:05:37+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-03T21:05:37+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-03T21:05:37+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "DTN Progressive Farmerによる作物進捗レポート（Crop Progress）の特別版。米国穀物の播種・成育状況に関する定期統計更新と考えられるが、具体的な数値や前週比データが不明なため詳細な影響度を判定できない。一般的には通常の進捗報告の範疇と推測される。"
   },
   {
     "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - bloomberg.com",
