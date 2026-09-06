@@ -11,17 +11,6 @@
     "summary": "ロシア・ウクライナ戦争による小麦供給の混乱が世界小麦価格に大きな上昇圧力を与えている。両国は世界の小麦生産量の約30%を占める主要供給国であり、戦争による生産・輸出の停滞が国際穀物市場全体にスパイラル効果をもたらしている。食糧安全保障への懸念から先物価格は歴史的高値圏で推移している。"
   },
   {
-    "title": "EIA reports a decline in US crude oil stocks - engine.online",
-    "timestamp": "2026-09-03T07:03:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の減少を報告した。在庫減は原油供給の逼迫を示唆し、価格押し上げ要因となる。ただし具体的な減少量や週次比較データが記事から不明のため、サプライズ度の評価は限定的。EIA週間在庫は定例統計として市場が注視するデータである。"
-  },
-  {
     "title": "View / OPEC’s new threat comes from within - Semafor",
     "timestamp": "2026-09-03T11:06:00+00:00",
     "importance": 3,
@@ -86,17 +75,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "ロシア・ウクライナ戦争が世界的な小麦価格に継続的な影響を与えている。両国は世界有数の小麦生産・輸出国であり、紛争による供給懸念と物流阻害がグローバル穀物市場の価格上昇圧力となっている。WASDE関連の報告として、供給リスク評価の更新が継続されている。"
-  },
-  {
-    "title": "Russia will slightly cut oil output this year, deputy PM Novak says - reuters.com",
-    "timestamp": "2026-09-03T06:35:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ロシアの副首相ノバク氏が、ロシアは2024年中に原油生産を若干削減する見通しを示唆した。具体的な削減量は明示されていないが、OPEC+の枠組み内での調整の一環と考えられる。市場では既に予想されていた継続的な減産政策の延長線。"
   },
   {
     "title": "Russia Sanctions Bill Stalls in US House Amid Tariff Concerns - Bloomberg.com",
@@ -504,5 +482,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの大型プロジェクト「ボストーク油田」が北極圏で初めて原油積み込みを開始した。同プロジェクトは日量60万バレル以上の生産能力を持つ大規模案件で、西側制裁下でのロシア石油産業の継続的な拡張を示す象徴的な事象。北極圏での新規供給源の立ち上げは市場供給構造に変化をもたらす可能性がある。"
+  },
+  {
+    "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say - The Lufkin Daily News",
+    "timestamp": "2026-09-06T07:38:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で石油産出政策を変更しないことが報道されている。既に織り込まれた観測報道であり、市場予想の範囲内での政策継続を示唆している。供給政策の現状維持は価格への直接的な新たな影響は限定的と考えられる。"
+  },
+  {
+    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
+    "timestamp": "2026-09-05T11:48:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEのOPEC離脱発表に対し、アナリストRussell氏は原油価格への想定される影響は限定的になるとの見解を示している。UAEの生産量は相対的に小さく、市場への実際の供給インパクトは市場が予想するほど大きくない可能性が指摘されている。"
+  },
+  {
+    "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say - Reuters",
+    "timestamp": "2026-09-06T07:39:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+が日曜日の会合で石油生産政策を現状維持することが報道された。市場は既にこの結果を織り込んでおり、政策変更がないという予想通りの展開。原油価格への直接的なサプライズは限定的と考えられる。"
   }
 ]
