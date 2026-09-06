@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日（9月3日）の金価格：引き続き下落傾向。 - Vietnam.vn",
-    "timestamp": "2026-09-03T00:15:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月3日の金価格は引き続き下落傾向を示している。ベトナムメディアによる相場の日次振り返り報道。既に織り込まれた下落トレンドの継続。"
-  },
-  {
-    "title": "本日（9月3日）の金価格：金指輪の価格が下落。 - Vietnam.vn",
-    "timestamp": "2026-09-02T23:16:30+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金指輪価格が下落した。金市場の日次変動を報じる定期的なニュース。市場への実質的な影響は軽微。"
-  },
-  {
-    "title": "米イラン戦火再燃で国際原油価格が90ドル台に回帰、ホルムズ海峡が鍵握る - BigGo ファイナンス",
-    "timestamp": "2026-09-02T23:12:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の軍事緊張再燃により、国際原油価格が90ドル台へ上昇。ホルムズ海峡の供給リスクが価格を押し上げている。地政学的な供給途絶懸念が市場を牽引。"
-  },
-  {
-    "title": "金価格、トランプ発言とFRBのインフレ懸念緩和で4,400ドル近辺を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-03T00:55:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,400ドル付近で推移している。トランプ発言とFRBのインフレ懸念緩和が相殺し、方向性は不明確。現在値の維持にとどまっている。"
-  },
-  {
     "title": "祝日明け、国内の金価格は急落した。 - Vietnam.vn",
     "timestamp": "2026-09-03T03:21:48+00:00",
     "importance": 2,
@@ -121,17 +77,6 @@
     "summary": "原油先物が小幅反落。米イラン間の攻撃懸念は継続するも、既に報道されている既知の不透明感であり、新たな供給ショックは明示されていない。市場は膠着状態を継続。"
   },
   {
-    "title": "２日の主要国際商品市況 - 株探",
-    "timestamp": "2026-09-02T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2日の主要国際商品市況に関する定期的な市場レポート。具体的な価格データや動向が記事本文なしに判断できない。"
-  },
-  {
     "title": "小麦先物 (WHEAT-F) は9月3日に下降 2.00%：動きの背後に何があるのか？ - tradingkey.com",
     "timestamp": "2026-09-03T08:12:30+00:00",
     "importance": 2,
@@ -207,28 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が小幅に下落した。具体的な下落要因は記事から明確でないが、日常的な値動きの範囲内。市場は既存の需給見通しを織り込んでいる状況と考えられる。"
-  },
-  {
-    "title": "米国とイランが相互攻撃、原油価格が90ドル突破 米株は3日続落 デルはAIサーバー見通しを5回目の上方修正 - BigGo ファイナンス",
-    "timestamp": "2026-09-03T00:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイラン間の相互攻撃により地政学的リスクが顕在化。原油価格が90ドルを突破し、供給途絶懸念が急速に高まった。中東情勢の不安定化は原油市場の重大なサプライズファクター。"
-  },
-  {
-    "title": "原油高・インフレで国債利回りも急騰 「危険水域に入った」と警鐘 - 동아일보",
-    "timestamp": "2026-09-03T00:13:12+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油高とインフレにより国債利回りが急騰し、市場が危険水域に入ったとの警告。コモディティ高騰とマクロ環境の悪化が同時に進行。金融引き締め加速の懸念が原油需要を圧迫する可能性を示唆。"
   },
   {
     "title": "原油価格が小動き、ホルムズ海峡の船舶通過が急減 - mezha.net",
@@ -1637,5 +1560,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油が91ドル台まで上昇し続伸。中東における供給不安が買い材料となっており、市場は供給リスク要因を意識している。地政学的緊張が価格を下支えしている状況。"
+  },
+  {
+    "title": "ロシア産穀物の輸出が急減、港湾停止で小麦価格と農業に打撃 - Межа. Новини України.",
+    "timestamp": "2026-09-05T22:18:27+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ロシア産穀物の輸出が港湾停止により急減している。供給制約により小麦価格は上昇圧力を受ける見通し。世界的な穀物供給に大きな影響を与える可能性。"
+  },
+  {
+    "title": "9月6日の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-09-06T00:50:25+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月6日の金価格が全般的に下落した。具体的な下落要因や値幅は記事要約から不明。定期的な価格レポートの一つ。"
+  },
+  {
+    "title": "「1カ月で10%上昇した」···五種の金投資法 - 매일경제",
+    "timestamp": "2026-09-05T22:12:55+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金投資の5つの投資手法を紹介する記事。1ヶ月で10%上昇したとの事例を取り上げており、金相場の強気相場を背景とした投資ガイド。具体的な市場情報や新規要因は含まれていない。"
+  },
+  {
+    "title": "本日（9月6日）の金価格：急落 - Vietnam.vn",
+    "timestamp": "2026-09-05T23:16:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月6日の金価格が急落したというニュース。具体的な下落率や原因は記事から不明。価格動向を伝えるのみで新規情報に乏しい。"
+  },
+  {
+    "title": "原油価格が下落、ホルムズ海峡の通航再開期待で４か月ぶり安値近く - Межа. Новини України.",
+    "timestamp": "2026-09-05T22:37:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の通航再開期待により原油価格が下落し、4か月ぶりの安値圏に接近。地政学的リスクの軽減が相場を圧迫。"
+  },
+  {
+    "title": "2026年9月6日現在の燃料価格：世界の原油価格は高止まり、国内価格は据え置き。 - Vietnam.vn",
+    "timestamp": "2026-09-05T23:48:19+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの燃料価格レポート。世界的に原油価格は高止まり状態が続く一方、ベトナム国内の燃料価格は据え置きとなった。供給・需要の地域的な不均衡を反映。"
+  },
+  {
+    "title": "原油価格は小幅に動く、米国とイランの戦争でホルムズ海峡のリスクを警戒 - Межа. Новини України.",
+    "timestamp": "2026-09-05T22:52:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの軍事的緊張がホルムズ海峡の供給リスクを高めている。原油価格は現在小幅な値動きだが、地政学的リスクプレミアムが織り込まれている状況。"
   }
 ]
