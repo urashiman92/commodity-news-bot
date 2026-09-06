@@ -1,82 +1,5 @@
 [
   {
-    "title": "The Russia-Ukraine War Has Been Impacting Global Wheat Prices - Farms.com",
-    "timestamp": "2026-09-03T10:00:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナ戦争による小麦供給の混乱が世界小麦価格に大きな上昇圧力を与えている。両国は世界の小麦生産量の約30%を占める主要供給国であり、戦争による生産・輸出の停滞が国際穀物市場全体にスパイラル効果をもたらしている。食糧安全保障への懸念から先物価格は歴史的高値圏で推移している。"
-  },
-  {
-    "title": "View / OPEC’s new threat comes from within - Semafor",
-    "timestamp": "2026-09-03T11:06:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの内部的な脅威に関する解説記事。OPECの結束力低下や加盟国間の利害対立が、組織の減産政策の有効性を脅かす可能性を指摘。従来の外部要因（米国シェール、地政学）に加えて、内部分裂が価格変動要因として注視される必要がある。"
-  },
-  {
-    "title": "View / OPEC’s new threat comes from within - Semafor",
-    "timestamp": "2026-09-03T11:06:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECの内部的な脅威に関する解説記事。OPECの結束力低下や加盟国間の利害対立が、組織の減産政策の有効性を脅かす可能性を指摘。従来の外部要因（米国シェール、地政学）に加えて、内部分裂が価格変動要因として注視される必要がある。"
-  },
-  {
-    "title": "Russia Revises Oil Output Forecasts and Defends OPEC+'s Role - energynews.pro",
-    "timestamp": "2026-09-03T13:24:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ロシアが石油生産見通しを修正し、OPEC+の役割を擁護する声明を発表。ロシアはOPEC+の減産政策継続の重要性を強調し、市場安定性維持の姿勢を示した。具体的な生産数値の大幅な修正ではなく、政策方針の確認に留まる内容。"
-  },
-  {
-    "title": "Russia’s Oil Revenue Sinks to Six-Month Low as Urals Price Drops - Bloomberg.com",
-    "timestamp": "2026-09-03T12:56:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油収入が6ヶ月ぶりの低水準に落ち込み、ウラル産原油の価格下落が主因。地政学的リスクとエネルギー市場の供給構造に関する重要なシグナルを示唆しており、原油相場の下押し圧力が継続している状況を反映している。"
-  },
-  {
-    "title": "The Russia-Ukraine War Has Been Impacting Global Wheat Prices - Farms.com",
-    "timestamp": "2026-09-03T10:13:23+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナ戦争が世界的な小麦価格に継続的な影響を与えている。両国は世界有数の小麦生産・輸出国であり、紛争による供給懸念と物流阻害がグローバル穀物市場の価格上昇圧力となっている。WASDE関連の報告として、供給リスク評価の更新が継続されている。"
-  },
-  {
-    "title": "The Russia-Ukraine War Has Been Impacting Global Wheat Prices - Farms.com",
-    "timestamp": "2026-09-03T10:13:23+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア・ウクライナ戦争が世界的な小麦価格に継続的な影響を与えている。両国は世界有数の小麦生産・輸出国であり、紛争による供給懸念と物流阻害がグローバル穀物市場の価格上昇圧力となっている。WASDE関連の報告として、供給リスク評価の更新が継続されている。"
-  },
-  {
     "title": "Russia Sanctions Bill Stalls in US House Amid Tariff Concerns - Bloomberg.com",
     "timestamp": "2026-09-03T19:50:49+00:00",
     "importance": 3,
@@ -515,5 +438,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "OPEC+が日曜日の会合で石油生産政策を現状維持することが報道された。市場は既にこの結果を織り込んでおり、政策変更がないという予想通りの展開。原油価格への直接的なサプライズは限定的と考えられる。"
+  },
+  {
+    "title": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ",
+    "timestamp": "2026-09-06T11:38:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国（OPEC+）が10月の原油生産量を据え置くことで合意した。既に報道されていた減産合意の継続方針に沿った定例の生産政策維持であり、市場が事前に織り込んでいた可能性が高い。大幅な新規減産や増産の決定はなく、現状維持のスタンス。"
+  },
+  {
+    "title": "OPEC+ Sticks With Plan to Keep Oil Output Quotas Unchanged - Bloomberg.com",
+    "timestamp": "2026-09-06T11:25:47+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が石油生産枠を据え置くことを決定。既に市場で織り込まれていた予想通りの決定であり、サプライズは限定的。供給政策の安定性は維持されるが、価格への新たなインパクトは小さい。"
+  },
+  {
+    "title": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
+    "timestamp": "2026-09-04T07:29:22+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "紛争激化によるサプライ逼迫を背景に、米国ディーゼル価格が過去最高値を記録した。地政学的リスクの顕在化により、エネルギー市場全体が上昇圧力にさらされている。供給途絶の懸念が強まり、短期的なボラティリティが高まる見通し。"
+  },
+  {
+    "title": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
+    "timestamp": "2026-09-04T07:29:22+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "紛争激化によるサプライ逼迫を背景に、米国ディーゼル価格が過去最高値を記録した。地政学的リスクの顕在化により、エネルギー市場全体が上昇圧力にさらされている。供給途絶の懸念が強まり、短期的なボラティリティが高まる見通し。"
   }
 ]
