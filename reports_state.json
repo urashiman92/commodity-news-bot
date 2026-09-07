@@ -1,16 +1,5 @@
 [
   {
-    "title": "Malaysian August Palm Oil Exports Fell on Weak Indian Demand - Bloomberg.com",
-    "timestamp": "2026-09-04T05:17:36+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "大豆",
-    "summary": "マレーシアの8月パーム油輸出がインド需要の弱さにより減少した。インドはパーム油の主要輸入国であり、需要減退は供給圧力として機能。大豆油などの代替植物油との価格競争環境を改善させる可能性がある。"
-  },
-  {
     "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
     "timestamp": "2026-09-04T16:01:42+00:00",
     "importance": 2,
@@ -121,28 +110,6 @@
     "summary": "9月のWASDE（米農務省作物・需給見通し）が発表され、トウモロコシの収穫量と単収が市場の精査対象となった。穀物市場全体の需給バランスが注視される中、米国の主要穀物の生産見通しが投資家の関心を集めている。具体的な単収・作付面積の数値は本レポートタイトルでは未開示だが、市場の予想値との乖離度合いが価格変動を左右する要因となる。"
   },
   {
-    "title": "U.S. corn and soybean yields unlikely to climb heading into harvest - FarmWeekNow",
-    "timestamp": "2026-09-04T05:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国のトウモロコシと大豆の収穫期到来を控えて、単収（yield）の上昇が見込みにくいとの見通しが報じられた。天候不良や生育遅延などの要因が収量を圧迫する可能性があり、WASDE発表に先立つ市場心理に影響を与える可能性がある。"
-  },
-  {
-    "title": "U.S. corn and soybean yields unlikely to climb heading into harvest - FarmWeekNow",
-    "timestamp": "2026-09-04T05:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国のトウモロコシと大豆の収穫期到来を控えて、単収（yield）の上昇が見込みにくいとの見通しが報じられた。天候不良や生育遅延などの要因が収量を圧迫する可能性があり、WASDE発表に先立つ市場心理に影響を与える可能性がある。"
-  },
-  {
     "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
     "timestamp": "2026-09-04T15:20:27+00:00",
     "importance": 2,
@@ -152,39 +119,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫が週間ベースで減少したことが報告された。EIAの定期在庫統計は毎週発表される指標であり、在庫減少は需要堅調または供給制約を示唆する。ただし具体的な数値や前週比の変動幅が記事から明確でないため、相対的なインパクト評価は限定的。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-09-04T09:28:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後の独立的な増産計画により、来年の石油生産量を日量500万バレルを超える水準に引き上げる見通しをIEAが示唆。UAEの増産姿勢はOPEC減産合意の相対的な緩和を意味し、原油市場供給増加圧力となる。"
-  },
-  {
-    "title": "Malaysian Palm Oil Exports Fell in August on Weak Indian Demand - bloomberg.com",
-    "timestamp": "2026-09-04T05:17:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "大豆",
-    "summary": "マレーシアのパーム油輸出が8月に前月比で減少した。主な要因はインド需要の弱化である。パーム油は世界の油脂市場の約35%を占める主要コモディティで、アジア地域での需要減少は植物油相場全般に下押し圧力をもたらす。"
-  },
-  {
-    "title": "Malaysian Palm Oil Exports Fell in August on Weak Indian Demand - bloomberg.com",
-    "timestamp": "2026-09-04T05:17:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "マレーシアのパーム油輸出が8月に前月比で減少した。主な要因はインド需要の弱化である。パーム油は世界の油脂市場の約35%を占める主要コモディティで、アジア地域での需要減少は植物油相場全般に下押し圧力をもたらす。"
   },
   {
     "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
@@ -385,28 +319,6 @@
     "summary": "OPEC+が石油生産枠を据え置くことを決定。既に市場で織り込まれていた予想通りの決定であり、サプライズは限定的。供給政策の安定性は維持されるが、価格への新たなインパクトは小さい。"
   },
   {
-    "title": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
-    "timestamp": "2026-09-04T07:29:22+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "紛争激化によるサプライ逼迫を背景に、米国ディーゼル価格が過去最高値を記録した。地政学的リスクの顕在化により、エネルギー市場全体が上昇圧力にさらされている。供給途絶の懸念が強まり、短期的なボラティリティが高まる見通し。"
-  },
-  {
-    "title": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
-    "timestamp": "2026-09-04T07:29:22+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "紛争激化によるサプライ逼迫を背景に、米国ディーゼル価格が過去最高値を記録した。地政学的リスクの顕在化により、エネルギー市場全体が上昇圧力にさらされている。供給途絶の懸念が強まり、短期的なボラティリティが高まる見通し。"
-  },
-  {
     "title": "OPEC+ keeps oil output policy unchanged for October - CNBC",
     "timestamp": "2026-09-06T13:04:02+00:00",
     "importance": 2,
@@ -460,5 +372,60 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が10月の石油生産増加を一時停止することを決定。これは供給制御による価格維持姿勢を示すもの。世界的な需要の不確実性と価格下押し圧力に対抗する戦略的な措置。既報の範囲内だが、市場の供給引き締め期待を改めて確認させるニュース。"
+  },
+  {
+    "title": "OPEC+ 7 Reveal October Output Plan - rigzone.com",
+    "timestamp": "2026-09-07T09:32:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が10月の石油生産計画を発表。7カ国グループによる協調減産・増産の方針が示されたと考えられるが、具体的な生産量調整幅や参加国の詳細が記事URLから確認不可。市場は既に段階的な減産終了の可能性を織り込んでいる可能性が高い。"
+  },
+  {
+    "title": "Goldman sees $120/bbl oil risk if attacks on Middle East vessels intensify, Bloomberg reports - Reuters",
+    "timestamp": "2026-09-07T05:49:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ゴールドマン・サックスが中東の船舶への攻撃が激化した場合、原油が1バレル120ドルまで上昇するリスクを指摘。現在の供給懸念を背景にした地政学的リスク評価。既存サプライチェーン脆弱性の可視化により市場心理に大きな影響を与える可能性。"
+  },
+  {
+    "title": "Russian Envoy Slams ‘Pressure Tactics’ Over Oil Sales to India - Bloomberg.com",
+    "timestamp": "2026-09-07T01:00:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの外交官がインドへの石油販売に対する「圧力戦術」を批判。米国の制裁圧力下でもロシアはインドとの石油取引を継続・強化する意向を示唆。地政学的な供給構図の変化が進行しているが、市場織り込み済みの既知事象。"
+  },
+  {
+    "title": "Palm Oil Climbs as Indonesian Forest Fires Puts Supply at Risk - Bloomberg.com",
+    "timestamp": "2026-09-07T04:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "大豆",
+    "summary": "インドネシアの森林火災がパーム油の供給リスクを高め、パーム油価格が上昇している。森林火災は予測困難な突発事象であり、世界最大級のパーム油生産国からの供給逼迫は食用油全体の価格上昇圧力となる。大豆油など代替油脂の需要増加も見込まれ、関連コモディティに波及効果が予想される。"
+  },
+  {
+    "title": "Palm Oil Climbs as Indonesian Forest Fires Puts Supply at Risk - Bloomberg.com",
+    "timestamp": "2026-09-07T04:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インドネシアの森林火災がパーム油の供給リスクを高め、パーム油価格が上昇している。森林火災は予測困難な突発事象であり、世界最大級のパーム油生産国からの供給逼迫は食用油全体の価格上昇圧力となる。大豆油など代替油脂の需要増加も見込まれ、関連コモディティに波及効果が予想される。"
   }
 ]
