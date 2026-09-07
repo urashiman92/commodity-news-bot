@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格は本日9月4日、全面的に大幅上昇して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-09-04T13:32:17+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が9月4日に全面的に大幅上昇した。具体的な上昇率や要因は記事概要に記載されていない。市場全体の金相場反映による局所的な報道の可能性が高い。"
-  },
-  {
-    "title": "金価格は本日2026年9月5日に回復し、中央銀行が引き続き注目すべき措置を講じていることから、再び投資に適した時期となった。 - Vietnam.vn",
-    "timestamp": "2026-09-04T14:57:20+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が本日回復し、中央銀行の継続的な政策姿勢が支援材料となった。投資家にとって再度買い場となった可能性を指摘する解説記事。"
-  },
-  {
-    "title": "【速報】NY原油先物反落、88.46ドルまで｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-09-04T14:44:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が88.46ドルまで反落した速報。具体的な要因や背景情報が不足しており、単なる価格動向の報道と見られる。"
-  },
-  {
-    "title": "リスクヘッジを行うことで、原油価格は1バレルあたり最大8ドル上昇する可能性がある。 - Vietnam.vn",
-    "timestamp": "2026-09-04T14:55:13+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "リスクヘッジ戦略の実施により原油価格が最大1バレルあたり8ドル上昇する可能性があるとの見方。アナリスト等による観測であり、具体的な市場動向や供給ショックに基づくものではない。"
-  },
-  {
-    "title": "【速報】NY原油先物反落、88.46ドルまで(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-04T14:44:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が88.46ドルまで反落した速報。具体的な下落要因や市場背景の詳細が不明。日中の値動きを伝える定期的な相場情報。"
-  },
-  {
-    "title": "銅鉱石供給が7年ぶりに減少へ モルガン・スタンレーが弱気に転換、銅価格は1.5万ドル視野 - BigGo ファイナンス",
-    "timestamp": "2026-09-04T15:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅鉱石供給が7年ぶりに減少する見通しが報道され、モルガン・スタンレーが従来の強気姿勢から弱気に転換。銅価格は1.5万ドル水準への上昇が視野に入った。"
-  },
-  {
     "title": "小麦先物が下落、ロシア・ウクライナ和平交渉を市場が注視 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-04T19:24:00+00:00",
     "importance": 3,
@@ -328,17 +262,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅の価格高騰に伴い、長野県で銅板や銅線の盗難が相次いでいる。人けのない場所や夜間を狙った窃盗事件が増加。銅需要の強さと価格上昇が間接的に市場活動を映し出している。"
-  },
-  {
-    "title": "カンザスシティ小麦価格予想：KEが1.26％下落、USX775.81のサポートに注目 - Traders Union",
-    "timestamp": "2026-09-04T16:14:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦先物(KE)が1.26%下落。775.81セントがサポートレベルとして機能している状況。テクニカル分析に基づく相場観測。"
   },
   {
     "title": "本日（9月5日午後）の金価格：金地金と金指輪はともに下落しました。 - Vietnam.vn",
@@ -1637,5 +1560,126 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格上昇に伴い、神社や霊園から銅板の盗難被害が相次いでいる。組織的な窃盗グループによる大量盗難の可能性が指摘されている。銅の需給逼迫と価格上昇が犯罪インセンティブを高めている。"
+  },
+  {
+    "title": "穀物市場レポート2026年9月7日：小麦、トウモロコシ、菜種、肥料の最新情報 - ニュースと統計 - IndexBox",
+    "timestamp": "2026-09-07T15:52:51+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "IndexBoxが発表した穀物市場の定期レポート。小麦、トウモロコシ、菜種、肥料の最新情報を含む統計情報の集約。具体的な内容は不明だがコモディティ市場全般の情報提供記事と推定される。"
+  },
+  {
+    "title": "本日2026年9月8日の金価格は、2日連続で急落しました。金価格上昇の障害は間もなく解消されるのでしょうか？中国人民銀行による予想外の動きが注目されます。 - Vietnam.vn",
+    "timestamp": "2026-09-07T14:53:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2日連続で急落している。中国人民銀行による予想外の動きが下値圧力となっており、市場参加者の注目を集めている。金価格上昇トレンドの転換点となる可能性がある。"
+  },
+  {
+    "title": "$金先物(2612) (GCmain.US)$ チョンチョン - moomoo.com",
+    "timestamp": "2026-09-07T02:36:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物に関するmoomoo.comの相場解説記事。具体的なニュース内容が不明確。定期的な市場コメンタリーと推測される。"
+  },
+  {
+    "title": "金価格が史上最高値を更新し、引き出しの中の石の指輪とゴールドバーが取引市場にあふれ出ている。 個人間取引プラットフォームには金付き物件があふれ、クリック数回で見知らぬ人と数百万ウォン分の実物金を売買す.. - 매일경제",
+    "timestamp": "2026-09-07T07:29:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "韓国で金価格が史上最高値を更新し、個人投資家が保有する金製品を売却する動きが活発化している。個人間取引プラットフォームで金関連商品の流通量が増加している。"
+  },
+  {
+    "title": "金価格は本日9月7日、引き続き急落した状態で取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-09-07T12:47:04+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月7日の金価格は引き続き急落した状態で取引を終えた。既に進行中の下落トレンドの継続を報じたもの。"
+  },
+  {
+    "title": "米国原油先物 (USOIL-F) は9月7日に上昇 2.11%：なぜ起こったのか - TradingKey",
+    "timestamp": "2026-09-07T15:06:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "9月7日の米国原油先物が2.11%上昇した。記事はこの値動きの背景を解説するコメンタリー。具体的な上昇要因は記事概要では明記されていない。"
+  },
+  {
+    "title": "原油価格が再び100ドルを突破、韓国産業界に深刻な影響 - jp.ajunews.com",
+    "timestamp": "2026-09-07T08:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドルを再び突破し、韓国の産業界に悪影響を及ぼしている。エネルギー集約的な製造業やインフレ圧力の懸念が増大。地域経済への波及効果が顕在化。"
+  },
+  {
+    "title": "USX540.25のレジスタンスでブレイクアウトを試み：コーン先物価格は勢いを取り戻せるか？ - Traders Union",
+    "timestamp": "2026-09-07T13:09:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がUSX540.25のレジスタンスレベルでのブレイクアウトを試みている状況についての相場解説。技術的な抵抗線での価格推移を分析し、今後の勢いの回復可能性を検討する観測レポート。"
+  },
+  {
+    "title": "大豆先物はUSX1,305のサポート付近で価格がもみ合い：注目すべき主要水準 - Traders Union",
+    "timestamp": "2026-09-07T12:47:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,305のサポート水準付近で値動きしている状況についての相場解説。テクニカルレベルの確認に関する観測記事。"
+  },
+  {
+    "title": "供給逼迫は銅価格を支えられるか？ - Traders Union",
+    "timestamp": "2026-09-07T12:36:33+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅の供給逼迫が価格を下支えする可能性についての分析・解説記事。供給面での制約が需要面でのマイナス要因と相殺するかに焦点。アナリスト見解であり、具体的な新規イベント情報は含まない。"
+  },
+  {
+    "title": "【画像】神社や霊園で銅板が盗まれる被害相次ぐ「一人ふたりの仕事ではない」 背景に銅価格の上昇 車による大量窃盗か - ライブドアニュース",
+    "timestamp": "2026-09-07T10:20:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "神社や霊園から銅板が盗まれる被害が相次いでいる。銅価格の上昇により盗難が組織化・大量化している。需給逼迫を示唆する供給サイドの課題。"
   }
 ]
