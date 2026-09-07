@@ -1,82 +1,5 @@
 [
   {
-    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
-    "timestamp": "2026-09-04T16:01:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
-    "timestamp": "2026-09-04T16:01:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
-    "timestamp": "2026-09-04T16:01:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the September WASDE Report - Successful Farming",
-    "timestamp": "2026-09-04T16:01:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "9月のWASDE報告書を前に農家向けの準備情報を提供する解説記事。具体的な予測数値や供給ショックは含まれず、農家が事前に知るべき背景情報や注視点をまとめたもの。市場に新規情報をもたらさない既報の延長線上の内容。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
-    "timestamp": "2026-09-04T14:58:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが発表した米国原油在庫が週間ベースで減少した。在庫減少は原油需要の堅調性またはサプライの制約を示唆し、供給逼迫観測から価格上昇圧力となる。ただし、具体的な在庫減少量や市場予想比の情報が不明なため、サプライズ度の判定は困難。"
-  },
-  {
-    "title": "Wisconsin Corn Crop Faces Early Harvest as Drought Takes Toll - Successful Farming",
-    "timestamp": "2026-09-04T12:00:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "ウィスコンシン州のトウモロコシ作付地域が干ばつの影響を受け、予定より早い収穫時期を迎えている。干ばつによる作柄悪化が懸念され、収量低下の可能性がある。これは米国トウモロコシ生産量の見直し要因となる可能性が高い。"
-  },
-  {
-    "title": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - Reuters",
-    "timestamp": "2026-09-04T15:12:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ヘッジファンド大手のシタデルが米国シェールオイル生産資産の買収を検討していることが報じられた。機関投資家による石油生産資産への大型M&A動向は、エネルギー転換期における既存石油事業への投資姿勢の重要な指標となる。市場では主要プレイヤーの投資姿勢として原油需給見通しに影響を与える可能性がある。"
-  },
-  {
     "title": "September WASDE Puts Corn Yields and Grain Markets Under the Microscope - AgroLatam",
     "timestamp": "2026-09-04T19:07:21+00:00",
     "importance": 3,
@@ -110,17 +33,6 @@
     "summary": "9月のWASDE（米農務省作物・需給見通し）が発表され、トウモロコシの収穫量と単収が市場の精査対象となった。穀物市場全体の需給バランスが注視される中、米国の主要穀物の生産見通しが投資家の関心を集めている。具体的な単収・作付面積の数値は本レポートタイトルでは未開示だが、市場の予想値との乖離度合いが価格変動を左右する要因となる。"
   },
   {
-    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
-    "timestamp": "2026-09-04T15:20:27+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間ベースで減少したことが報告された。EIAの定期在庫統計は毎週発表される指標であり、在庫減少は需要堅調または供給制約を示唆する。ただし具体的な数値や前週比の変動幅が記事から明確でないため、相対的なインパクト評価は限定的。"
-  },
-  {
     "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
     "timestamp": "2026-09-04T22:58:53+00:00",
     "importance": 4,
@@ -141,17 +53,6 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "UAEがOPECから脱退を決定し、OPECの結束力が大幅に減弱。これにより産油国間の価格調整メカニズムが機能不全に陥り、供給過剰による価格戦争のリスクが高まる。OPECの影響力低下は原油相場の下押し圧力となり、他のエネルギー・コモディティにも波及する可能性がある。"
-  },
-  {
-    "title": "Copper at Risk of Rare Supply Decline as Mine Setbacks Mount - Bloomberg.com",
-    "timestamp": "2026-09-04T12:58:29+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "銅鉱山の操業トラブルが相次ぎ、供給減少のリスクが高まっている。複数の主要鉱山でのセットバック（操業停止・減産）により、銅の供給が数年ぶりに減少する可能性が指摘されている。電動車需要拡大やグリーン転換による構造的需要増の中での供給逼迫は、銅価格の上昇圧力となる。"
   },
   {
     "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Lower Yields - bloomberg.com",
@@ -427,5 +328,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インドネシアの森林火災がパーム油の供給リスクを高め、パーム油価格が上昇している。森林火災は予測困難な突発事象であり、世界最大級のパーム油生産国からの供給逼迫は食用油全体の価格上昇圧力となる。大豆油など代替油脂の需要増加も見込まれ、関連コモディティに波及効果が予想される。"
+  },
+  {
+    "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times",
+    "timestamp": "2026-09-06T13:26:07+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC Plusが原油生産を据え置く決定をする一方で、米国とイランの軍事衝突が再開している。地政学リスクと供給政策の相互作用が原油市場の不確実性を高めている。短期的には供給懸念が価格を支えうるが、需要見通しの弱さが相殺効果を生む可能性がある。"
+  },
+  {
+    "title": "OPEC says it will pause oil output increases in October - WPLG Local 10",
+    "timestamp": "2026-09-07T11:36:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが10月の石油増産を一時停止すると発表。これまで段階的に増産を進めていた方針から転換し、供給制約の継続を示唆。市場は減産強化への舵切りと解釈し、原油価格上昇圧力が生じる。地政学リスクや需要弱化懸念との対比で注目される決定。"
+  },
+  {
+    "title": "Indian stocks slip to six-week low as IT slides, oil worries mount - Reuters",
+    "timestamp": "2026-09-07T10:20:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド株が6週間ぶりの安値を更新し、IT企業の売却が進む一方で原油懸念が高まっている。インド経済の鈍化と原油価格上昇への不安が市場全体の下押し圧力となり、エネルギー関連コストの上昇がコモディティ市場全体に影響を与える可能性がある。"
+  },
+  {
+    "title": "Indian stocks slip to six-week low as IT slides, oil worries mount - Reuters",
+    "timestamp": "2026-09-07T10:20:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド株が6週間ぶりの安値を更新し、IT企業の売却が進む一方で原油懸念が高まっている。インド経済の鈍化と原油価格上昇への不安が市場全体の下押し圧力となり、エネルギー関連コストの上昇がコモディティ市場全体に影響を与える可能性がある。"
+  },
+  {
+    "title": "Ukraine Resumes Attacks on Oil Refineries Deep Inside Russia - Bloomberg.com",
+    "timestamp": "2026-09-07T14:21:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア領内の石油精製施設への攻撃を再開したと報道された。ロシアは世界有数の石油生産国であり、精製能力への直接的な打撃はグローバルな石油供給の逼迫を招く。地政学的リスクの高まりにより原油価格は上昇圧力を受ける。"
+  },
+  {
+    "title": "China Oil Demand Revival Spurs Price Spikes From Congo to Brazil - Bloomberg.com",
+    "timestamp": "2026-09-07T06:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中国の石油需要回復がコンゴからブラジルまでの産油国における価格上昇を牽引している。需要サイドからの上昇圧力が世界的なコモディティ市場に波及する兆候が示唆されている。中国経済の回復基調が確認されれば、エネルギー関連コモディティ全般への需要増加が期待される。"
+  },
+  {
+    "title": "China Oil Demand Revival Spurs Price Spikes From Congo to Brazil - Bloomberg.com",
+    "timestamp": "2026-09-07T06:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中国の石油需要回復がコンゴからブラジルまでの産油国における価格上昇を牽引している。需要サイドからの上昇圧力が世界的なコモディティ市場に波及する兆候が示唆されている。中国経済の回復基調が確認されれば、エネルギー関連コモディティ全般への需要増加が期待される。"
+  },
+  {
+    "title": "EM Stocks Jump to 2-Month High as Tech Rally Offsets Higher Oil - Bloomberg.com",
+    "timestamp": "2026-09-07T10:08:35+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "新興市場株がテック関連の上昇により2ヶ月ぶりの高値を更新した。原油価格の上昇がコモディティ価格にプラスに作用する一方、テック好況によるドル強化圧力がコモディティ全般に下押し圧力をもたらしている。市場参加者のリスク選好姿勢がEM資産を支援している。"
+  },
+  {
+    "title": "EM Stocks Jump to 2-Month High as Tech Rally Offsets Higher Oil - Bloomberg.com",
+    "timestamp": "2026-09-07T10:08:35+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "新興市場株がテック関連の上昇により2ヶ月ぶりの高値を更新した。原油価格の上昇がコモディティ価格にプラスに作用する一方、テック好況によるドル強化圧力がコモディティ全般に下押し圧力をもたらしている。市場参加者のリスク選好姿勢がEM資産を支援している。"
   }
 ]
