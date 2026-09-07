@@ -1,115 +1,5 @@
 [
   {
-    "title": "本日（9月5日）の金価格：予想外の急落。 - Vietnam.vn",
-    "timestamp": "2026-09-04T21:40:32+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月5日の金価格が予想外に急落したというニュース。具体的な下落率や原因についての詳細情報が記事要約では不明。市場反応のみが報道されている状況。"
-  },
-  {
-    "title": "復活のきざし見せる金価格&金ファンドはどう組み入れる？ 純資産9000億円超の「ファインゴールド」の実力と、資産組み入れの“ポイント” - ｄメニューニュース",
-    "timestamp": "2026-09-04T22:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が復活の兆しを見せており、「ファインゴールド」など金ファンドへの組み入れが注目されている。純資産9000億円超の大型ファンドの実力と資産組み入れのポイントについて解説。"
-  },
-  {
-    "title": "NY金先物は反落、米8月雇用統計の上振れで利上げ観測が再燃｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-09-04T22:47:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米8月雇用統計が予想を上回る強い結果となり、FRBの利上げ再開観測が高まった。金利上昇局面では金は利息を生まない資産として売られる傾向。NY金先物は反落で反応。"
-  },
-  {
-    "title": "NY金先物：反落、米8月雇用統計の上振れで利上げ観測が再燃 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-04T22:21:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国8月雇用統計が予想を上回り、FRBの利上げ継続観測が再燃した。金は利上げ環境では実質金利上昇に伴う売圧が強まり、NY金先物は反落。"
-  },
-  {
-    "title": "本日（9月5日）の金価格：金地金と金指輪の両方が上昇しました。 - Vietnam.vn",
-    "timestamp": "2026-09-04T23:30:27+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金と金指輪の価格が9月5日に上昇した。地域的な価格動向の報道であり、グローバル市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "復活のきざし見せる金価格&金ファンドはどう組み入れる？ 純資産9000億円超の「ファインゴールド」の実力と、資産組み入れの“ポイント” | チバテレ＋プラス - 千葉テレビ放送",
-    "timestamp": "2026-09-04T22:13:18+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の回復傾向を背景に、純資産9000億円超の金ファンド「ファインゴールド」の実力と資産配分への組み入れポイントを解説した記事。既存の金復活トレンドの継続を追認する内容。"
-  },
-  {
-    "title": "NY金先物：反落、米8月雇用統計の上振れで利上げ観測が再燃 - ｄメニューニュース",
-    "timestamp": "2026-09-04T22:21:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国8月雇用統計が予想を上回り、FRBの利上げ継続観測が再燃した。利上げ見込みの強化は金の実質金利を上昇させ、利回りのない金の魅力を減少させる。NY金先物は反落で応じた。"
-  },
-  {
-    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-04T22:22:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が小幅反落。中東の供給リスク懸念と米国の利上げ観測が相反する要因として作用している。既知の要因が交錯する典型的な相場解説。"
-  },
-  {
-    "title": "本日の燃料価格（9月5日）：世界の原油価格は高止まりしており、WTI原油価格は今週約10％上昇した。 - Vietnam.vn",
-    "timestamp": "2026-09-04T22:59:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油価格が今週約10%上昇し、世界の原油価格は高止まりしている状況が報告されている。既に進行中の価格上昇トレンドの確認報道。"
-  },
-  {
-    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 - ｄメニューニュース",
-    "timestamp": "2026-09-04T23:19:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が小幅反落。中東の供給リスク懸念と米利上げ観測が相反する要因として作用している。両要因が相殺され大きな方向性は出ていない。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（8/31〜9/4）｜水野崇 - mbp-japan.com",
     "timestamp": "2026-09-05T02:15:00+00:00",
     "importance": 2,
@@ -132,17 +22,6 @@
     "summary": "金の底値買いを推奨するコメンタリー記事。金価格の上昇局面への参入を示唆している。既に市場で議論されている金買い観点の繰り返し。"
   },
   {
-    "title": "NY原油・金相場（4日）－原油が小幅に5日続伸 金は3日ぶりに反落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-04T21:50:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油は5日続伸で堅調に推移。金は3日ぶりの反落。両市場とも小幅な変動で、特に大きな材料がない通常の相場展開。"
-  },
-  {
     "title": "国内外の金価格の差が拡大：需要は低迷し、短期投機の時代は終わった。 - Vietnam.vn",
     "timestamp": "2026-09-05T02:51:01+00:00",
     "importance": 3,
@@ -152,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムにおいて国内外の金価格差が拡大し、需要が低迷している。短期投機による金買いの時代が終焉を迎えたことを示唆している。"
-  },
-  {
-    "title": "復活のきざし見せる金価格&金ファンドはどう組み入れる？ 純資産9000億円超の「ファインゴールド」の実力と、資産組み入れの“ポイント” - ｄメニューニュース",
-    "timestamp": "2026-09-04T23:48:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が回復傾向を示しており、純資産9000億円超の「ファインゴールド」など金投信の組み入れ方法を解説する記事。既知の金相場の上昇トレンドに関する投資アドバイス記事。"
   },
   {
     "title": "悪いニュースを受けて、世界の金価格は4,430ドルまで下落した。 - Vietnam.vn",
@@ -187,17 +55,6 @@
     "summary": "米イラン間の対立が再燃し、地政学的リスクが急速に高まった。今週の原油価格は約10％の上昇を記録し、供給途絶への懸念が市場を押し上げた。中東情勢の緊張化は継続的な上値圧力要因となる可能性がある。"
   },
   {
-    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 - ｄメニューニュース",
-    "timestamp": "2026-09-04T23:23:13+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が小幅反落。中東情勢による供給リスク懸念と米利上げ観測が相反する要因として作用。両要因が相殺され方向感に欠ける相場展開。"
-  },
-  {
     "title": "原油価格が80ドルを下回り急落、トランプ氏のイラン交渉表明で市場が反応 - mezha.net",
     "timestamp": "2026-09-05T00:28:34+00:00",
     "importance": 4,
@@ -207,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイラン交渉の意欲を表明したことで、イラン産原油の制裁緩和・供給増加への市場期待が高まった。原油価格が80ドル下回まで急落し、地政学リスク低下を織り込んでいる。"
-  },
-  {
-    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 - 投資情報のフィスコ",
-    "timestamp": "2026-09-04T23:50:20+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が小幅反落。中東の供給リスク要因と米利上げ観測が相互に作用して相殺されている状況を伝える相場解説。方向性が定まっていない模様。"
   },
   {
     "title": "「犯人を絶対に許さない」銅板や銅線、長野県でも盗難相次ぐ 銅の価格高騰、人けのない場所や夜間狙われ - chunichi.co.jp",
@@ -264,17 +110,6 @@
     "summary": "米財務長官が原油価格が40ドル/バレルまで下落する可能性を言及。供給過剰や需要弱化への懸念を反映した見方。市場では既に下値リスクが意識されている段階。"
   },
   {
-    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 - ｄメニューニュース",
-    "timestamp": "2026-09-04T22:22:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が小幅反落。中東の供給リスク要因と米利上げ観測の金利面での圧力が相互に作用している状況。マクロ環境と地政学リスクが均衡している局面を示唆。"
-  },
-  {
     "title": "米国が発表、原油価格が下落しオルムズ海峡の通航がほぼ正常化 - Межа. Новини України.",
     "timestamp": "2026-09-05T04:32:03+00:00",
     "importance": 2,
@@ -295,17 +130,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属がAIデータセンター需要やInP基板事業、日経平均採用により注目。銅など重要金属の需要増と企業ファンダメンタルズの強化が期待される。既知の成長要因を解説するコンテンツ。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、銅が上昇 金、銀、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-04T22:47:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場でエネルギー・銅が上昇する一方、貴金属と農産物が下落。市場参加者による相場の振り返り報道。"
   },
   {
     "title": "ジェフリーズ、金価格が5,000ドルを超える3つのシナリオを提示 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -416,17 +240,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ニューヨーク金先物が3日ぶりに反落。市場概況の定期レポートであり、具体的な材料や統計数値が不明。短期的な技術的調整の可能性が高い。"
-  },
-  {
-    "title": "NY原油先物：小幅反落、中東情勢の供給リスクと米利上げ観測が交錯 - fisco.jp",
-    "timestamp": "2026-09-04T23:50:20+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が小幅反落。中東情勢による供給リスク懸念と米利上げ観測が相反する材料として作用している。既知の材料の綱引き状態。"
   },
   {
     "title": "トランプ氏が対イラン攻撃を控え、原油価格が5％下落 供給増への期待で3週間ぶり安値 - Межа. Новини України.",
@@ -1670,5 +1483,115 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "日本の政治家による安全保障論議に関する報道。立憲民主党の岡田氏が「存立危機事態」について国会で質問したことについて、メディア関係者が評論している。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は2営業日続落し4406ドル｜米長期金利の上昇が影響した模様(2026年9月8日) - OANDA証券",
+    "timestamp": "2026-09-07T23:25:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は2営業日連続で下落し、4406ドルまで低下した。米長期金利の上昇が主な下落要因。金利上昇は金の相対的な魅力を低下させる。"
+  },
+  {
+    "title": "ウォール街は金価格が5000ドルに達すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-09-07T23:34:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ウォール街のアナリストが金価格の5000ドル到達を予測している。インフレ懸念や地政学的リスク、中央銀行の金買いなど、既に認識されている強気材料を反映したコンセンサス予測とみられる。"
+  },
+  {
+    "title": "本日（9月8日）の金価格：引き続き下落 - Vietnam.vn",
+    "timestamp": "2026-09-07T23:35:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が9月8日に引き続き下落している。既に進行中の下降トレンドの継続を伝える報道。新規の重大イベントは報じられていない。"
+  },
+  {
+    "title": "今週の金価格は先週と同じパターンを繰り返すだろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-07T22:57:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が先週と同じパターンを繰り返すかという技術的・相場観の論評。具体的な新規ファンダメンタルズ情報を含まない。市場材料としての新規性に乏しい。"
+  },
+  {
+    "title": "本日9月8日の金価格：SJC金価格は急落、世界の金価格は4,413ドルまで下落。 - Vietnam.vn",
+    "timestamp": "2026-09-07T23:13:22+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月8日、金価格が急落し世界相場が1オンス4,413ドルまで下落した。ベトナムのSJC金価格も同時に下落している。市場の既知の値動きを報じたもの。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国とイランの攻撃応酬による原油供給への懸念が強まり、原油価格は反発（2026年9月8日） - OANDA証券",
+    "timestamp": "2026-09-07T23:15:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの攻撃応酬により、中東地域からの原油供給途絶への懸念が高まった。地政学的リスク要因により原油価格が反発している。供給ショックの可能性がコモディティ市場の注目を集めている。"
+  },
+  {
+    "title": "本日の燃料価格（9月8日）：世界の原油価格が6週間ぶりの高値に上昇。 - Vietnam.vn",
+    "timestamp": "2026-09-07T23:34:13+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が6週間ぶりの高値に上昇した。市場全体のセンチメント改善が背景と考えられる。具体的な要因や数値の詳細は記事概要からは不明。"
+  },
+  {
+    "title": "さい銭ではなく屋根の銅板狙い慰霊施設で窃盗被害 神社や寺でも相次ぐ 背景に銅価格高騰か 静岡・掛川市 - au Webポータル",
+    "timestamp": "2026-09-07T11:11:39+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格高騰を背景に、神社や寺院、慰霊施設から屋根の銅板を狙った窃盗被害が相次いでいる。需給逼迫と高値が金属盗難の動機を強めている状況を報じたもの。"
+  },
+  {
+    "title": "さい銭ではなく屋根の銅板狙い慰霊施設で窃盗被害 神社や寺でも相次ぐ 背景に銅価格高騰か 静岡・掛川市 - 千葉テレビ放送株式会社",
+    "timestamp": "2026-09-07T10:01:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格高騰を背景に、神社や寺の屋根の銅板盗難事件が静岡県で相次いでいる。需要面での銅の利用価値の高さを示す事例。供給・需要ファンダメンタルズへの直接的な影響は軽微。"
+  },
+  {
+    "title": "７日の主要国際商品市況はレーバーデーの祝日で休場 - 株探",
+    "timestamp": "2026-09-07T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "9月第1月曜日の米国レーバーデーにより、主要国際商品市場が休場となる。市場参加者の流動性低下が予想される。"
   }
 ]
