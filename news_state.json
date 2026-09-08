@@ -1,27 +1,5 @@
 [
   {
-    "title": "トランプ氏が対イラン攻撃を控え、原油価格が5％下落 供給増への期待で3週間ぶり安値 - Межа. Новини України.",
-    "timestamp": "2026-09-05T19:56:01+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏がイラン攻撃を控える決定により、地政学的リスク低下への安心感から原油価格が5%下落。イラン供給増加の可能性が市場に織り込まれ、3週間ぶりの安値水準まで売られた。"
-  },
-  {
-    "title": "米イラン緊張で原油価格が上昇、紅海封鎖の脅威が価格を押し上げる - Межа. Новини України.",
-    "timestamp": "2026-09-05T18:38:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の緊張激化により原油価格が上昇。紅海の海運封鎖脅威が供給途絶リスクを増加させ、価格を押し上げている。地政学的リスク要因が市場心理に影響。"
-  },
-  {
     "title": "本日（9月6日）の金価格：金地金と金指輪はともに下落。 - Vietnam.vn",
     "timestamp": "2026-09-05T21:50:19+00:00",
     "importance": 1,
@@ -2000,5 +1978,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米国の関税引き上げ懸念を受けて銅価格が過去最高値まで急騰した。関税導入時の需要減退や供給チェーン混乱への先行き不安が買い圧力を生んでいる。地政学的リスクと政策不確実性が銅相場の上振れ要因として作用。"
+  },
+  {
+    "title": "サウスダコタ州穀物入札：トウモロコシ・大豆・小麦価格（2026年9月8日）| USDAレポート - ニュースと統計 - IndexBox",
+    "timestamp": "2026-09-08T19:30:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "サウスダコタ州の穀物入札（トウモロコシ・大豆・小麦）の価格情報をUSDAが報告。2026年9月8日時点の地域別価格データの定期発表。具体的な価格変動や市場への指向性は記事概要からは不明。"
+  },
+  {
+    "title": "金価格が小幅上昇し4,400ドル超え、ドル安が追い風—米インフレ指標待ち - BigGo ファイナンス",
+    "timestamp": "2026-09-08T18:45:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,400ドルを超え小幅上昇。ドル安が支援要因となっている。米インフレ指標の発表を控え、市場は様子見姿勢。"
+  },
+  {
+    "title": "原油先物は続伸、中東紛争の長期化リスクで供給に懸念 - ニューズウィーク日本版",
+    "timestamp": "2026-09-08T01:14:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東紛争の長期化リスクが供給不安を招き、原油先物が続伸している。地政学的リスクプレミアムが価格に組み込まれている状況が継続。既に報じられた紛争の続報として市場は反応。"
+  },
+  {
+    "title": "関税不透明感が銅相場を押し上げ、1トン1万5000ドルに迫る 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-08T15:04:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国の関税政策の不透明感が銅相場を支えており、1トン1万5000ドル手前まで上昇している。関税懸念が供給リスク材料として機能し、銅価格を下支えしている状況。"
+  },
+  {
+    "title": "1万4,600ドル！LME銅価格が過去最高値を更新、銅関連株が一斉高 - moomoo.com",
+    "timestamp": "2026-09-08T02:39:08+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅先物が1万4,600ドルの過去最高値を更新した。銅関連株が一斉に上昇。強気相場が継続中。"
   }
 ]
