@@ -1,16 +1,5 @@
 [
   {
-    "title": "Russia’s Giant Vostok Oil Loads First Crude on Arctic Tanker - Bloomberg.com",
-    "timestamp": "2026-09-05T17:50:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの大型プロジェクト「ボストーク油田」が北極圏で初めて原油積み込みを開始した。同プロジェクトは日量60万バレル以上の生産能力を持つ大規模案件で、西側制裁下でのロシア石油産業の継続的な拡張を示す象徴的な事象。北極圏での新規供給源の立ち上げは市場供給構造に変化をもたらす可能性がある。"
-  },
-  {
     "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say - The Lufkin Daily News",
     "timestamp": "2026-09-06T07:38:30+00:00",
     "importance": 2,
@@ -262,39 +251,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "新興市場株がテック関連の上昇により2ヶ月ぶりの高値を更新した。原油価格の上昇がコモディティ価格にプラスに作用する一方、テック好況によるドル強化圧力がコモディティ全般に下押し圧力をもたらしている。市場参加者のリスク選好姿勢がEM資産を支援している。"
-  },
-  {
-    "title": "May WASDE report to reveal first look at new crop outlook - Farm Progress",
-    "timestamp": "2026-09-05T14:47:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "5月のWASDE報告書が新穀（次期作）の初見通しを示す予定。米国農務省による作付面積・生産量・期末在庫などの重要予測が発表される。市場参加者が夏場の需給バランスを初めて公式評価する機会となり、トウモロコシ・大豆・小麦の価格方向を左右する可能性がある。"
-  },
-  {
-    "title": "May WASDE report to reveal first look at new crop outlook - Farm Progress",
-    "timestamp": "2026-09-05T14:47:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "5月のWASDE報告書が新穀（次期作）の初見通しを示す予定。米国農務省による作付面積・生産量・期末在庫などの重要予測が発表される。市場参加者が夏場の需給バランスを初めて公式評価する機会となり、トウモロコシ・大豆・小麦の価格方向を左右する可能性がある。"
-  },
-  {
-    "title": "May WASDE report to reveal first look at new crop outlook - Farm Progress",
-    "timestamp": "2026-09-05T14:47:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "5月のWASDE報告書が新穀（次期作）の初見通しを示す予定。米国農務省による作付面積・生産量・期末在庫などの重要予測が発表される。市場参加者が夏場の需給バランスを初めて公式評価する機会となり、トウモロコシ・大豆・小麦の価格方向を左右する可能性がある。"
   },
   {
     "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
@@ -592,5 +548,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "ベネズエラがOPEC脱退してもその石油生産能力の回復には直結しないという解説。ベネズエラの石油産業は経済制裁と過度な採掘により深刻に劣化しており、機関投資や技術支援がなければ増産は困難。OPEC脱退は政治的ジェスチャーに過ぎない可能性が高い。"
+  },
+  {
+    "title": "OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Yahoo Finance",
+    "timestamp": "2026-09-08T13:55:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "中東での紛争によりサウジアラビアの石油供給が制約され、OPEC全体の産出量が低下している。調査報告によると、サウジの流出量が紛争の影響で大きく削減されており、供給逼迫が懸念される。OPECの減産効果に加えて地政学的リスクが加わり、原油価格の上昇圧力が高まっている。"
   }
 ]
