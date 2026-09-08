@@ -22,17 +22,6 @@
     "summary": "OPEC+は日曜日の会合で石油産出政策を変更しないことが報道されている。既に織り込まれた観測報道であり、市場予想の範囲内での政策継続を示唆している。供給政策の現状維持は価格への直接的な新たな影響は限定的と考えられる。"
   },
   {
-    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
-    "timestamp": "2026-09-05T11:48:50+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEのOPEC離脱発表に対し、アナリストRussell氏は原油価格への想定される影響は限定的になるとの見解を示している。UAEの生産量は相対的に小さく、市場への実際の供給インパクトは市場が予想するほど大きくない可能性が指摘されている。"
-  },
-  {
     "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say - Reuters",
     "timestamp": "2026-09-06T07:39:21+00:00",
     "importance": 2,
@@ -526,5 +515,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアがウクライナ戦争に注力し続けており、米国との交渉進展にもかかわらず小麦価格が急騰。ロシアはウクライナの主要な穀物輸出国であり、地政学的緊張の継続は供給懸念を喚起。米国との交渉による緩和期待が打ち消され、市場は予想外の上昇圧力に直面。"
+  },
+  {
+    "title": "Copper rally sets record LME price as US tariff fears fuel supply ‘scramble’ - South China Morning Post",
+    "timestamp": "2026-09-08T12:00:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "米国の関税懸念を背景に銅価格がLME史上最高値を更新した。供給不安と需要側の先買い（スクランブル）が相まって、市場に急速な上昇圧力が生じている。インフレ懸念と地政学リスクが重なり、銅の工業用需要と戦略的備蓄需要の両面で買いが殺到している。"
+  },
+  {
+    "title": "Copper Is Near Record Highs as AI Demand Surges. The World May Still Be 10 Million Tons Short - Streetwise Reports",
+    "timestamp": "2026-09-08T13:37:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "AI需要の急増により銅は過去最高値圏に接近している。レポートは世界的な銅供給不足が1000万トン規模に達する可能性を指摘しており、中期的な構造的供給逼迫を示唆している。電気自動車やAI関連インフラへの投資拡大が需要押し上げ要因。"
+  },
+  {
+    "title": "Copper, Gold Rally: Supply Tightness, Dollar Weakness And Fed Bets In Focus - outlookbusiness.com",
+    "timestamp": "2026-09-08T10:26:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅と金が同時ラリーを展開。銅はサプライ逼迫による需給ひっ迫が背景で、金はドル弱含みとFRBの利下げ観測支援が主要因。ドル安環境はドル建てコモディティの相対購買力を高め、両金属の割安感が投資家の買いを誘っている。"
+  },
+  {
+    "title": "Copper, Gold Rally: Supply Tightness, Dollar Weakness And Fed Bets In Focus - outlookbusiness.com",
+    "timestamp": "2026-09-08T10:26:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "銅と金が同時ラリーを展開。銅はサプライ逼迫による需給ひっ迫が背景で、金はドル弱含みとFRBの利下げ観測支援が主要因。ドル安環境はドル建てコモディティの相対購買力を高め、両金属の割安感が投資家の買いを誘っている。"
+  },
+  {
+    "title": "Copper, Gold Rally: Supply Tightness, Dollar Weakness And Fed Bets In Focus - outlookbusiness.com",
+    "timestamp": "2026-09-08T10:26:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅と金が同時ラリーを展開。銅はサプライ逼迫による需給ひっ迫が背景で、金はドル弱含みとFRBの利下げ観測支援が主要因。ドル安環境はドル建てコモディティの相対購買力を高め、両金属の割安感が投資家の買いを誘っている。"
+  },
+  {
+    "title": "OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Bloomberg.com",
+    "timestamp": "2026-09-08T13:55:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの産油量が調査により大幅な落ち込みを示唆。紛争によってサウジアラビアの石油フローが制約されている。地政学的リスクとサプライショックの組み合わせにより、原油市場への上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "View / Leaving OPEC won’t give Venezuela its oil back - Semafor",
+    "timestamp": "2026-09-08T11:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ベネズエラがOPEC脱退してもその石油生産能力の回復には直結しないという解説。ベネズエラの石油産業は経済制裁と過度な採掘により深刻に劣化しており、機関投資や技術支援がなければ増産は困難。OPEC脱退は政治的ジェスチャーに過ぎない可能性が高い。"
   }
 ]
