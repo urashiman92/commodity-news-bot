@@ -1,38 +1,5 @@
 [
   {
-    "title": "黒海の輸出停止で小麦価格が上昇、米国産への需要が拡大 - Межа. Новини України.",
-    "timestamp": "2026-09-05T12:50:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海地域の小麦輸出が停止し、世界的な供給不足が顕在化。米国産小麦への需要が急増し、小麦価格が上昇。地政学的なリスク要因により市場が大きく変動。"
-  },
-  {
-    "title": "本日9月5日の金価格は、再び急落した。 - Vietnam.vn",
-    "timestamp": "2026-09-05T13:20:49+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月5日の金価格が再び急落した。具体的な下落要因や数値は記事から不明だが、相場の振り返り報道と考えられる。"
-  },
-  {
-    "title": "2026年9月6日、週末を締めくくる形で金価格は軒並み急落し、来週にはさらに大きな変動が起こる可能性もある。 - Vietnam.vn",
-    "timestamp": "2026-09-05T14:53:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が週末に急落した。来週のさらなる変動の可能性が指摘されている。具体的な要因や今後の見通しは明記されていない。"
-  },
-  {
     "title": "トランプ氏が対イラン攻撃を控え、原油価格が5％下落 供給増への期待で3週間ぶり安値 - Межа. Новини України.",
     "timestamp": "2026-09-05T19:56:01+00:00",
     "importance": 4,
@@ -86,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報サイトが本日の金相場（SJC、DOJI、PNJなどベトナム国内業者および世界市場）を報道。ベトナム市場向けの定期的な価格情報配信。"
-  },
-  {
-    "title": "NY原油続伸、終値91ドル台 中東の供給不安で買い優勢 - au Webポータル",
-    "timestamp": "2026-09-05T13:11:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油が91ドル台まで上昇し続伸。中東における供給不安が買い材料となっており、市場は供給リスク要因を意識している。地政学的緊張が価格を下支えしている状況。"
   },
   {
     "title": "ロシア産穀物の輸出が急減、港湾停止で小麦価格と農業に打撃 - Межа. Новини України.",
@@ -1923,5 +1879,126 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "日本野球のセ・パ交流戦における巨人の守備についての記事。銅価格との関連性がなく、スポーツコンテンツ。ニュース配信システムの誤分類と推定される。"
+  },
+  {
+    "title": "小麦先物 (WHEAT-F) が 9月8日 に急上昇：注目すべき重要な要因 - TradingKey",
+    "timestamp": "2026-09-08T04:01:04+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "9月8日に小麦先物が急上昇したことを報じるテクニカル分析・市場解説記事。具体的な供給ショックや統計発表ではなく、相場動向の事後的な観測と考えられる。"
+  },
+  {
+    "title": "金価格が再び上昇か？ 弱体化するドル覇権 - newsweekjapan.jp",
+    "timestamp": "2026-09-08T06:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル弱体化を背景に、金価格の上昇可能性について論じた解説記事。ドル安は金の実質金利低下をもたらし、金の相対的な購買力を高める要因として機能する。既存のマクロトレンドの延長線上の見方。"
+  },
+  {
+    "title": "本日9月8日の金価格は、全般的に上昇した。 - Vietnam.vn",
+    "timestamp": "2026-09-08T13:42:06+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月8日の金価格が全般的に上昇した。ベトナムの報道であり、具体的な上昇幅や市場材料は記事から不明確である。"
+  },
+  {
+    "title": "＜画像2 / 4＞株価暴落のリスクを抑える金(ゴールド)への資産配分を考える - walkerplus.com",
+    "timestamp": "2026-09-08T11:13:09+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "株価下落リスク時の資産配分における金の役割について、メディアが解説している記事。金のポートフォリオ内でのヘッジ機能を改めて提示しているが、新たな情報や市場変化を伴わない。"
+  },
+  {
+    "title": "原油価格は上昇を続けている。 - Vietnam.vn",
+    "timestamp": "2026-09-08T13:22:07+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が上昇を続けているという観測記事。具体的な新規材料や統計データは提示されていない。既に進行中の相場トレンドの継続を述べたもの。"
+  },
+  {
+    "title": "売り手が短期トレンドを支配するなか、コーン先物価格はさらなる下落を回避できるか？ - Traders Union",
+    "timestamp": "2026-09-08T12:58:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "コーン先物は売り手優位の短期トレンドの中にあり、さらなる下落の可能性が指摘されている。市場心理が弱気に傾く中、価格下支えの材料が限定的。"
+  },
+  {
+    "title": "大豆先物価格予測：USX1,298のサポート付近で持ち合い - Traders Union",
+    "timestamp": "2026-09-08T12:36:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,298のサポートレベル付近で値幅の限定的な取引となっている。テクニカル分析に基づくアナリスト予測で、明確な強気・弱気材料が示されていない。"
+  },
+  {
+    "title": "銅価格が過去最高値を更新した。 - Vietnam.vn",
+    "timestamp": "2026-09-08T13:20:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高値を更新した。需要堅調やインフレ懸念、EV需要増加など複数要因が価格上昇を支えている可能性がある。"
+  },
+  {
+    "title": "銅価格が過去最高値を更新する中、アジアの銅関連株が上昇 - Moomoo",
+    "timestamp": "2026-09-08T02:07:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高値を更新し、アジアの銅関連株が連動して上昇している。供給タイト化とインフレ懸念、エネルギー転換需要が背景。既に価格上昇が進行中での観測記事。"
+  },
+  {
+    "title": "関税観測による世界的な供給再編で銅価格が最高値を更新、銅関連株が上昇しフリーポート・マクモランは7%急騰 - TradingKey",
+    "timestamp": "2026-09-07T23:29:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "関税観測に伴う世界的な供給再編期待から銅価格が最高値を更新。フリーポート・マクモランなど銅関連株が買われ、同社は7%急騰。供給構造の変化が中期的なテーマとして認識されている。"
+  },
+  {
+    "title": "米国の関税引き上げへの懸念から、銅価格が過去最高値に急騰した。 - Vietnam.vn",
+    "timestamp": "2026-09-08T14:20:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国の関税引き上げ懸念を受けて銅価格が過去最高値まで急騰した。関税導入時の需要減退や供給チェーン混乱への先行き不安が買い圧力を生んでいる。地政学的リスクと政策不確実性が銅相場の上振れ要因として作用。"
   }
 ]
