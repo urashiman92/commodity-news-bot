@@ -627,17 +627,6 @@
     "summary": "8月のOPEC産油量が前月比で低下し、サウジアラビアの輸出量が減少したことが報じられた。これはOPECの減産方針の継続を示唆するもので、供給面での引き締まりが原油価格を下支えする要因となる。市場予想の範囲内での報告と考えられる。"
   },
   {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-06T16:54:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の原油産出量を日量137,000バレル増加させることを検討している。これは段階的な増産政策の継続を示唆するもので、市場の減産緩和期待を反映している。供給増加局面は原油価格に下押し圧力をもたらす可能性がある。"
-  },
-  {
     "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
     "timestamp": "2026-09-09T02:28:22+00:00",
     "importance": 4,
@@ -977,5 +966,137 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アルゼンチンのミレイ大統領の経済政策が原油と農産物価格の上昇により支えられている。農業輸出国として小麦・トウモロコシ・大豆などの価格上昇がドル需要急増圧力を緩和しており、為替安定化に寄与。商品相場がアルゼンチン経済の重要な支柱となっている構図が浮き彫りになった。"
+  },
+  {
+    "title": "After Historic Late-August Price Rallies, USDA Returns With New Forecasts - DTN Progressive Farmer",
+    "timestamp": "2026-09-09T16:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが8月下旬の歴史的な価格上昇後に新たな需給予測を発表。8月末の相場急騰から市場が過熱気味であり、WASDE発表による新規ガイダンスが穀物市場の方向性を決定する重要な局面。具体的な生産量・在庫・需要見通しの改定幅が注視される。"
+  },
+  {
+    "title": "After Historic Late-August Price Rallies, USDA Returns With New Forecasts - DTN Progressive Farmer",
+    "timestamp": "2026-09-09T16:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAが8月下旬の歴史的な価格上昇後に新たな需給予測を発表。8月末の相場急騰から市場が過熱気味であり、WASDE発表による新規ガイダンスが穀物市場の方向性を決定する重要な局面。具体的な生産量・在庫・需要見通しの改定幅が注視される。"
+  },
+  {
+    "title": "After Historic Late-August Price Rallies, USDA Returns With New Forecasts - DTN Progressive Farmer",
+    "timestamp": "2026-09-09T16:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが8月下旬の歴史的な価格上昇後に新たな需給予測を発表。8月末の相場急騰から市場が過熱気味であり、WASDE発表による新規ガイダンスが穀物市場の方向性を決定する重要な局面。具体的な生産量・在庫・需要見通しの改定幅が注視される。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-09T00:36:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAが先週の原油在庫とガソリン在庫が堅調な需要を背景に低下したと報告。在庫減少は需要サイドの強さを示唆し、原油価格への上昇圧力となる可能性がある。具体的な在庫数量が記事から特定できないため、市場予想との乖離度は判断困難。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-09T00:36:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国EIAが先週の原油在庫とガソリン在庫が堅調な需要を背景に低下したと報告。在庫減少は需要サイドの強さを示唆し、原油価格への上昇圧力となる可能性がある。具体的な在庫数量が記事から特定できないため、市場予想との乖離度は判断困難。"
+  },
+  {
+    "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+    "timestamp": "2026-09-09T17:11:47+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "LiteFinanceによる原油価格の短期フォーキャストレポート。本日から30日先までの値動き予想を提供するもので、EIA在庫統計に基づいた解説記事と考えられる。具体的な数値や新規データが提示されていないため、定量的な市場インパクトは限定的。"
+  },
+  {
+    "title": "US Commercial Crude Stocks hit 8-Yr Low, Gasoline Demand Rises Ahead of Holiday Weekend - EnergyNow.com",
+    "timestamp": "2026-09-09T10:29:32+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国商業用原油在庫が8年ぶりの低水準に到達した。同時にガソリン需要が連休週末を控えて上昇している。在庫の急速な減少と需要増加の組み合わせは、原油価格の上昇圧力となる。供給逼迫のシグナルが強まった。"
+  },
+  {
+    "title": "What to expect from USDA’s September Crop Report on Friday - Pro Farmer",
+    "timestamp": "2026-09-09T18:40:16+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農務省（USDA）が9月に実施するCrop Progress/Production報告書の発表予定に関するレポート。同報告書は米国の主要穀物（トウモロコシ、大豆、小麦）の成長進捗状況と生産見通しを毎月公表する定例統計であり、市場の需給見通しに直結する重要指標である。具体的な予想値の開示がないため、市場サプライズ度は不確定。"
+  },
+  {
+    "title": "What to expect from USDA’s September Crop Report on Friday - Pro Farmer",
+    "timestamp": "2026-09-09T18:40:16+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農務省（USDA）が9月に実施するCrop Progress/Production報告書の発表予定に関するレポート。同報告書は米国の主要穀物（トウモロコシ、大豆、小麦）の成長進捗状況と生産見通しを毎月公表する定例統計であり、市場の需給見通しに直結する重要指標である。具体的な予想値の開示がないため、市場サプライズ度は不確定。"
+  },
+  {
+    "title": "What to expect from USDA’s September Crop Report on Friday - Pro Farmer",
+    "timestamp": "2026-09-09T18:40:16+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国農務省（USDA）が9月に実施するCrop Progress/Production報告書の発表予定に関するレポート。同報告書は米国の主要穀物（トウモロコシ、大豆、小麦）の成長進捗状況と生産見通しを毎月公表する定例統計であり、市場の需給見通しに直結する重要指標である。具体的な予想値の開示がないため、市場サプライズ度は不確定。"
+  },
+  {
+    "title": "China Oil Demand to Shrink This Year, Sinopec Research Arm Says - Bloomberg",
+    "timestamp": "2026-09-09T10:43:46+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中国石油化工グループ（Sinopec）傘下の研究機関が、2024年の中国石油需要が前年比で減少すると発表。経済成長鈍化とEV普及加速により需要押し下げ圧力が継続。世界最大級の石油消費国からの需要減少予想は、原油市場の構造的な下押し要因として作用する見通し。"
+  },
+  {
+    "title": "China Oil Demand to Shrink This Year, Sinopec Research Arm Says - Bloomberg",
+    "timestamp": "2026-09-09T10:43:46+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中国石油化工グループ（Sinopec）傘下の研究機関が、2024年の中国石油需要が前年比で減少すると発表。経済成長鈍化とEV普及加速により需要押し下げ圧力が継続。世界最大級の石油消費国からの需要減少予想は、原油市場の構造的な下押し要因として作用する見通し。"
   }
 ]
