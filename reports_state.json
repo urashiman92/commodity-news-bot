@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say - The Lufkin Daily News",
-    "timestamp": "2026-09-06T07:38:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で石油産出政策を変更しないことが報道されている。既に織り込まれた観測報道であり、市場予想の範囲内での政策継続を示唆している。供給政策の現状維持は価格への直接的な新たな影響は限定的と考えられる。"
-  },
-  {
-    "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say - Reuters",
-    "timestamp": "2026-09-06T07:39:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+が日曜日の会合で石油生産政策を現状維持することが報道された。市場は既にこの結果を織り込んでおり、政策変更がないという予想通りの展開。原油価格への直接的なサプライズは限定的と考えられる。"
-  },
-  {
     "title": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ",
     "timestamp": "2026-09-06T11:38:00+00:00",
     "importance": 2,
@@ -33,17 +11,6 @@
     "summary": "OPECおよび同盟国（OPEC+）が10月の原油生産量を据え置くことで合意した。既に報道されていた減産合意の継続方針に沿った定例の生産政策維持であり、市場が事前に織り込んでいた可能性が高い。大幅な新規減産や増産の決定はなく、現状維持のスタンス。"
   },
   {
-    "title": "OPEC+ Sticks With Plan to Keep Oil Output Quotas Unchanged - Bloomberg.com",
-    "timestamp": "2026-09-06T11:25:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が石油生産枠を据え置くことを決定。既に市場で織り込まれていた予想通りの決定であり、サプライズは限定的。供給政策の安定性は維持されるが、価格への新たなインパクトは小さい。"
-  },
-  {
     "title": "OPEC+ keeps oil output policy unchanged for October - CNBC",
     "timestamp": "2026-09-06T13:04:02+00:00",
     "importance": 2,
@@ -53,39 +20,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は10月の石油生産方針を据え置くことを決定した。既存の減産合意を継続する内容であり、市場は予想どおりの結果と受け止めている。政策変更がないため、直近の原油価格への大きな上下圧力は限定的と考えられる。"
-  },
-  {
-    "title": "Russia, Ukraine Exchange Strikes as US Envoys Head for Kyiv - Bloomberg.com",
-    "timestamp": "2026-09-06T08:00:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア・ウクライナ間で軍事衝突が続く中、米国特使がキーウ訪問へ向かっている。地政学的緊張の継続はエネルギー市場に上昇圧力をもたらす一方、和平交渉進展の可能性は不確実性を残す。リスクオン・オフの転換点として注視が必要。"
-  },
-  {
-    "title": "Russia, Ukraine Exchange Strikes as US Envoys Head for Kyiv - Bloomberg.com",
-    "timestamp": "2026-09-06T08:00:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "ロシア・ウクライナ間で軍事衝突が続く中、米国特使がキーウ訪問へ向かっている。地政学的緊張の継続はエネルギー市場に上昇圧力をもたらす一方、和平交渉進展の可能性は不確実性を残す。リスクオン・オフの転換点として注視が必要。"
-  },
-  {
-    "title": "Russia, Ukraine Exchange Strikes as US Envoys Head for Kyiv - Bloomberg.com",
-    "timestamp": "2026-09-06T08:00:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア・ウクライナ間で軍事衝突が続く中、米国特使がキーウ訪問へ向かっている。地政学的緊張の継続はエネルギー市場に上昇圧力をもたらす一方、和平交渉進展の可能性は不確実性を残す。リスクオン・オフの転換点として注視が必要。"
   },
   {
     "title": "OPEC+ to pause oil output increase in October - chinadailyasia.com",
@@ -812,5 +746,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア系チップ株が上昇見通しの中、Brent原油が100ドル近辺まで上昇している。市場全般では技術セクターと資源セクターが異なる方向性を示唆している状況。原油上昇は供給懸念やドル弱材料が背景か。"
+  },
+  {
+    "title": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ",
+    "timestamp": "2026-09-09T10:10:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国が10月の石油産出量を据え置くことで合意した。前月の産出政策を継続する決定であり、大幅な減産・増産は伴わない。市場は既に定例会合としてこの結果を織り込んでいる可能性が高い。"
+  },
+  {
+    "title": "China oil demand to fall 8.9% in 2026, Sinopec research says - Reuters",
+    "timestamp": "2026-09-09T05:29:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国の石油化学大手シノペックの研究部門が、2026年の中国石油需要が前年比8.9%低下すると予測。これは中国経済の減速と産業構造の転換を反映するもので、世界最大の石油輸入国の需要縮小は国際原油市場に大きな下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "China oil demand to fall 8.9% in 2026, Sinopec research says - Reuters",
+    "timestamp": "2026-09-09T05:29:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中国の石油化学大手シノペックの研究部門が、2026年の中国石油需要が前年比8.9%低下すると予測。これは中国経済の減速と産業構造の転換を反映するもので、世界最大の石油輸入国の需要縮小は国際原油市場に大きな下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Dangote's proposed Kenyan oil refinery faces hurdles, not least with crude supply - Reuters",
+    "timestamp": "2026-09-09T06:02:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ダンゴテ・グループがケニアで計画している製油所プロジェクトが、原油調達を中心に複数の障害に直面している。アフリカの石油精製能力拡大計画として注目されていたが、地域の原油供給不足、輸送インフラの制約、プロジェクト資金調達の課題など実現性への懸念が表面化している。"
   }
 ]
