@@ -1,27 +1,5 @@
 [
   {
-    "title": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ",
-    "timestamp": "2026-09-06T11:38:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECおよび同盟国（OPEC+）が10月の原油生産量を据え置くことで合意した。既に報道されていた減産合意の継続方針に沿った定例の生産政策維持であり、市場が事前に織り込んでいた可能性が高い。大幅な新規減産や増産の決定はなく、現状維持のスタンス。"
-  },
-  {
-    "title": "OPEC+ keeps oil output policy unchanged for October - CNBC",
-    "timestamp": "2026-09-06T13:04:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は10月の石油生産方針を据え置くことを決定した。既存の減産合意を継続する内容であり、市場は予想どおりの結果と受け止めている。政策変更がないため、直近の原油価格への大きな上下圧力は限定的と考えられる。"
-  },
-  {
     "title": "OPEC+ to pause oil output increase in October - chinadailyasia.com",
     "timestamp": "2026-09-07T04:06:45+00:00",
     "importance": 3,
@@ -86,17 +64,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インドネシアの森林火災がパーム油の供給リスクを高め、パーム油価格が上昇している。森林火災は予測困難な突発事象であり、世界最大級のパーム油生産国からの供給逼迫は食用油全体の価格上昇圧力となる。大豆油など代替油脂の需要増加も見込まれ、関連コモディティに波及効果が予想される。"
-  },
-  {
-    "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times",
-    "timestamp": "2026-09-06T13:26:07+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC Plusが原油生産を据え置く決定をする一方で、米国とイランの軍事衝突が再開している。地政学リスクと供給政策の相互作用が原油市場の不確実性を高めている。短期的には供給懸念が価格を支えうるが、需要見通しの弱さが相殺効果を生む可能性がある。"
   },
   {
     "title": "OPEC says it will pause oil output increases in October - WPLG Local 10",
@@ -790,5 +757,225 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ダンゴテ・グループがケニアで計画している製油所プロジェクトが、原油調達を中心に複数の障害に直面している。アフリカの石油精製能力拡大計画として注目されていたが、地域の原油供給不足、輸送インフラの制約、プロジェクト資金調達の課題など実現性への懸念が表面化している。"
+  },
+  {
+    "title": "Corn and soybean markets await USDA’s September crop estimates - The Mighty 790 KFGO",
+    "timestamp": "2026-09-09T10:39:55+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが9月のトウモロコシと大豆の作付面積・生産量予測を発表予定。市場参加者はこの定期統計を注視しており、ウクライナ戦争や異常気象に基づく供給懸念の再評価が想定される。数値次第で穀物先物の方向性が決定される重要な発表。"
+  },
+  {
+    "title": "Corn and soybean markets await USDA’s September crop estimates - The Mighty 790 KFGO",
+    "timestamp": "2026-09-09T10:39:55+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが9月のトウモロコシと大豆の作付面積・生産量予測を発表予定。市場参加者はこの定期統計を注視しており、ウクライナ戦争や異常気象に基づく供給懸念の再評価が想定される。数値次第で穀物先物の方向性が決定される重要な発表。"
+  },
+  {
+    "title": "Oil Stocks in US Strategic Petroleum Reserve Fall to Lowest Since 1983 - EnergyNow.com",
+    "timestamp": "2026-09-09T00:52:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下。これはバイデン政権が2022年のインフレ対策としてSPRを大量放出した後、補充ペースが緩やかだったことを示唆。供給サイドのタイト化が進行しており、原油価格の上昇圧力となる。"
+  },
+  {
+    "title": "USDA Crop Report Looms as Corn and Soybean Markets Brace for Volatility - AgroLatam",
+    "timestamp": "2026-09-09T13:34:33+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA作物レポート発表を控え、トウモロコシと大豆市場がボラティリティ上昇を警戒している。定期統計発表であるCrop Progress報告の内容如何で、作付面積・生産量予測が改定される可能性があり、市場参加者がポジション調整を準備中。予想値との乖離度合いが価格方向性を左右する局面。"
+  },
+  {
+    "title": "USDA Crop Report Looms as Corn and Soybean Markets Brace for Volatility - AgroLatam",
+    "timestamp": "2026-09-09T13:34:33+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA作物レポート発表を控え、トウモロコシと大豆市場がボラティリティ上昇を警戒している。定期統計発表であるCrop Progress報告の内容如何で、作付面積・生産量予測が改定される可能性があり、市場参加者がポジション調整を準備中。予想値との乖離度合いが価格方向性を左右する局面。"
+  },
+  {
+    "title": "Crop progress: Corn harvest kicks off in Southern states - Farm Progress",
+    "timestamp": "2026-09-09T12:53:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国南部州でトウモロコシの収穫が開始された。これは季節通りの定例進捗報告であり、予想範囲内の動きと考えられる。収穫時期の進行は需給統計発表に先立つ定期情報であるが、現時点では具体的な作付面積や収量見通しの変更は報じられていない。"
+  },
+  {
+    "title": "USDA Plans Crop Reviews to Explain Forecast Accuracy - RFD-TV",
+    "timestamp": "2026-09-09T13:06:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが作物予測の精度向上に向けた定期的なレビュー実施を計画している。これは既存の作物進捗報告（Crop Progress）の補完措置であり、WASDE等の予測精度向上が目的。予測手法の透明性向上は市場信頼を高める可能性がある。"
+  },
+  {
+    "title": "USDA Plans Crop Reviews to Explain Forecast Accuracy - RFD-TV",
+    "timestamp": "2026-09-09T13:06:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが作物予測の精度向上に向けた定期的なレビュー実施を計画している。これは既存の作物進捗報告（Crop Progress）の補完措置であり、WASDE等の予測精度向上が目的。予測手法の透明性向上は市場信頼を高める可能性がある。"
+  },
+  {
+    "title": "USDA Plans Crop Reviews to Explain Forecast Accuracy - RFD-TV",
+    "timestamp": "2026-09-09T13:06:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが作物予測の精度向上に向けた定期的なレビュー実施を計画している。これは既存の作物進捗報告（Crop Progress）の補完措置であり、WASDE等の予測精度向上が目的。予測手法の透明性向上は市場信頼を高める可能性がある。"
+  },
+  {
+    "title": "Trekor Metals Stock Forecast: Florence Copper and Yellowhead Drive Growth - kalkine.ca",
+    "timestamp": "2026-09-09T02:41:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "Trekor Metals社の株価予想レポートで、Florence Copper案件とYellowhead鉱床プロジェクトが同社の成長ドライバーとして位置付けられている。両案件の進展は銅供給の増加をもたらす可能性があり、中期的な銅市場の供給増加シナリオと連動する。"
+  },
+  {
+    "title": "Trekor Metals Stock Forecast: Florence Copper and Yellowhead Drive Growth - kalkine.ca",
+    "timestamp": "2026-09-09T02:41:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "Trekor Metals社の株価予想レポートで、Florence Copper案件とYellowhead鉱床プロジェクトが同社の成長ドライバーとして位置付けられている。両案件の進展は銅供給の増加をもたらす可能性があり、中期的な銅市場の供給増加シナリオと連動する。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-09-09T01:24:49+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、来年の石油生産を日量500万バレル超に引き上げる計画をIEAが報告。これはOPECの減産枠から外れたUAEが独立的に増産するシグナルであり、市場供給増加圧力となる。OPEC+の減産基調に対する逆行動。"
+  },
+  {
+    "title": "Iraq seeks output quota increase in OPEC+ audit, Bloomberg News reports - Reuters",
+    "timestamp": "2026-09-09T05:26:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC+の監査プロセスにおいて生産枠の増加を求めていることが報道された。イラクは歴史的に実績と割当の乖離が大きく、割当増加要求は定期的に行われている。OPEC+の次回会合での議論対象となる可能性がある。"
+  },
+  {
+    "title": "Indian stocks fall to three-month low as Brent oil surges past $100 - Reuters",
+    "timestamp": "2026-09-09T02:20:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ブレント原油が$100を突破し、インド株式が3ヶ月ぶりの安値を更新した。原油価格の急騰はエネルギーコスト上昇を通じてインド経済に下押し圧力となり、特にインフレ懸念と輸入コスト増加がリスク資産売却を加速させた。原油が心理的抵抗線である$100を超えたことで地政学的緊張や需給逼迫への市場の警戒感が高まっている。"
+  },
+  {
+    "title": "Indian stocks fall to three-month low as Brent oil surges past $100 - Reuters",
+    "timestamp": "2026-09-09T02:20:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ブレント原油が$100を突破し、インド株式が3ヶ月ぶりの安値を更新した。原油価格の急騰はエネルギーコスト上昇を通じてインド経済に下押し圧力となり、特にインフレ懸念と輸入コスト増加がリスク資産売却を加速させた。原油が心理的抵抗線である$100を超えたことで地政学的緊張や需給逼迫への市場の警戒感が高まっている。"
+  },
+  {
+    "title": "Oil and Crop Prices Save Milei From Surging Demand for Dollars - bloomberg.com",
+    "timestamp": "2026-09-09T11:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アルゼンチンのミレイ大統領の経済政策が原油と農産物価格の上昇により支えられている。農業輸出国として小麦・トウモロコシ・大豆などの価格上昇がドル需要急増圧力を緩和しており、為替安定化に寄与。商品相場がアルゼンチン経済の重要な支柱となっている構図が浮き彫りになった。"
+  },
+  {
+    "title": "Oil and Crop Prices Save Milei From Surging Demand for Dollars - bloomberg.com",
+    "timestamp": "2026-09-09T11:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "アルゼンチンのミレイ大統領の経済政策が原油と農産物価格の上昇により支えられている。農業輸出国として小麦・トウモロコシ・大豆などの価格上昇がドル需要急増圧力を緩和しており、為替安定化に寄与。商品相場がアルゼンチン経済の重要な支柱となっている構図が浮き彫りになった。"
+  },
+  {
+    "title": "Oil and Crop Prices Save Milei From Surging Demand for Dollars - bloomberg.com",
+    "timestamp": "2026-09-09T11:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "トウモロコシ",
+    "summary": "アルゼンチンのミレイ大統領の経済政策が原油と農産物価格の上昇により支えられている。農業輸出国として小麦・トウモロコシ・大豆などの価格上昇がドル需要急増圧力を緩和しており、為替安定化に寄与。商品相場がアルゼンチン経済の重要な支柱となっている構図が浮き彫りになった。"
+  },
+  {
+    "title": "Oil and Crop Prices Save Milei From Surging Demand for Dollars - bloomberg.com",
+    "timestamp": "2026-09-09T11:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "大豆",
+    "summary": "アルゼンチンのミレイ大統領の経済政策が原油と農産物価格の上昇により支えられている。農業輸出国として小麦・トウモロコシ・大豆などの価格上昇がドル需要急増圧力を緩和しており、為替安定化に寄与。商品相場がアルゼンチン経済の重要な支柱となっている構図が浮き彫りになった。"
+  },
+  {
+    "title": "Oil and Crop Prices Save Milei From Surging Demand for Dollars - bloomberg.com",
+    "timestamp": "2026-09-09T11:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アルゼンチンのミレイ大統領の経済政策が原油と農産物価格の上昇により支えられている。農業輸出国として小麦・トウモロコシ・大豆などの価格上昇がドル需要急増圧力を緩和しており、為替安定化に寄与。商品相場がアルゼンチン経済の重要な支柱となっている構図が浮き彫りになった。"
   }
 ]
