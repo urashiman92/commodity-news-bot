@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日9月7日の金価格は「谷」にあり、底値はまだ確定していません。遊休資金の約10～20％を投資に回すことを検討してみてください。 - Vietnam.vn",
-    "timestamp": "2026-09-06T15:36:24+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が現在「谷」の局面にあり、底値確定前との指摘。投資家に遊休資金の10～20％の投資検討を呼びかけるアナリスト見解。"
-  },
-  {
     "title": "2026年9月7日朝の金価格更新：SJC、プレーンゴールドリング9999 BTMC DOJI Phu Quy - Vietnam.vn",
     "timestamp": "2026-09-06T21:20:08+00:00",
     "importance": 1,
@@ -2363,5 +2352,137 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "金価格が下落する中、銅を含むある金属が史上最高値近い1万5000ドル水準まで上昇した。金とは異なる独立した上昇トレンドを示している。タイトルは銅カテゴリながら、具体的な金属名が曖昧な報道。"
+  },
+  {
+    "title": "ウクライナ外交努力を背景にシカゴ小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-09T15:42:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ウクライナの外交努力進展を好感し、供給リスク低下への期待からシカゴ小麦先物が下落。地政学リスク軽減が価格を押し下げている。"
+  },
+  {
+    "title": "NY金先物相場、強含み 4467ドル付近で推移 - Moomoo",
+    "timestamp": "2026-09-09T15:02:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が4467ドル付近で推移している状況を報じるニュース。具体的な材料や方向性の説明は含まれていない。相場の技術的なポジションレポートのみ。"
+  },
+  {
+    "title": "原油高騰でインフレ懸念が深刻化、金は反落——市場はFRB利上げを織り込む - BigGo ファイナンス",
+    "timestamp": "2026-09-09T18:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油高騰がインフレ懸念を深刻化させ、市場がFRB利上げを織り込む動きが強まっている。金は利上げ織り込みにより反落している。実質金利の上昇が金の重しになっている。"
+  },
+  {
+    "title": "9月10日、金価格は急騰したが、これは米ドル安、FRBの政策による市場の影響を受けたためであり、下落傾向は一時的なものに過ぎなかったのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-09T16:47:53+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月10日の金価格急騰は米ドル安とFRB政策を背景としたもの。記事は先の下落が一時的だったかを検証する解説記事。既知ファクターの価格への反映を後追い分析している。"
+  },
+  {
+    "title": "インドネシアのアンタム金地金価格が265万ルピアに急落、ジャカルタ特別州の最低賃金では2グラムしか買えず - BigGo ファイナンス",
+    "timestamp": "2026-09-09T10:35:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金地金価格が265万ルピアまで低下。地域の賃金水準との比較で、購買力の相対的低下を指摘するコンテンツ。金価格そのものの急落というより、現地通貨建てでの価格変動の報道。"
+  },
+  {
+    "title": "ＷＴＩ原油先物、一時１バレル＝９６ドル台後半…中東からの供給減への懸念広がる - 読売新聞",
+    "timestamp": "2026-09-09T13:23:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が96ドル台後半まで上昇。中東からの供給減への懸念が広がっている。地政学的リスクが価格を押し上げている。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-09-09T12:39:54+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomooプラットフォームでの$WTI原油先物(CLmain.US)の表示・データ配信に関する投稿と思われる。具体的なニュース内容や市場材料が記載されていない。ニュースタイトルではなくプラットフォーム配信情報の可能性が高い。"
+  },
+  {
+    "title": "原油価格が1バレル100ドルを超え、欧州のガソリン精製マージンが下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-09T16:18:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドル/バレルを突破する中、欧州のガソリン精製マージンが低下している。これは原油上昇に対して製品価格の上昇が追いつかず、精製業者の採算性が悪化していることを示唆している。"
+  },
+  {
+    "title": "ＷＴＩ原油先物、一時１バレル＝９６ドル台前半…中東からの原油供給減への懸念広がる - ｄメニューニュース",
+    "timestamp": "2026-09-09T13:23:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が96ドル台前半に上昇。中東からの原油供給減への懸念が市場を主導。地政学的リスクが顕在化し、投資家の警戒感が高まっている。"
+  },
+  {
+    "title": "トウモロコシ先物価格はUSX536.13のレジスタンス付近で推移、短期的な買いが入るも売り手が主導権を維持 - Traders Union",
+    "timestamp": "2026-09-09T12:58:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がUSX536.13のレジスタンス付近で推移中。短期的な買いが入っているが、売り手が優位性を保持している状況。テクニカルなポジション調整段階。"
+  },
+  {
+    "title": "豪の銅探鉱活動が大幅減少、銅価格高騰でも - nna.jp",
+    "timestamp": "2026-09-09T15:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "オーストラリアの銅探鉱活動が大幅に減少している。銅価格が高騰しているにもかかわらず、探鉱投資は進んでいない。将来の銅供給不足リスクが懸念される。"
+  },
+  {
+    "title": "銅輸入に対する米国の関税導入が迫るなか、銅価格は$6.8059のレジスタンスを試すか？ - Traders Union",
+    "timestamp": "2026-09-09T12:19:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国の銅輸入関税導入が差し迫る中、銅価格が$6.8059のレジスタンスレベルを試すと予想される。関税導入は輸入コストを上昇させ、国内価格を押し上げる要因となる可能性がある。テクニカル分析に基づくチャート分析記事。"
   }
 ]
