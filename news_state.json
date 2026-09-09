@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日9月6日の金価格は非常に変動が激しく、買い手は大きな損失を被っている。 - Vietnam.vn",
-    "timestamp": "2026-09-06T13:05:25+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月6日の金価格が大きく変動し、買い手が損失を被っているとの報道。ボラティリティ上昇を指摘するコモンタリーで、具体的な価格水準や変動率は不明。"
-  },
-  {
-    "title": "激しい価格変動が続いた1週間後の金価格予測。 - Vietnam.vn",
-    "timestamp": "2026-09-06T11:42:17+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "過去1週間の金価格の激しい変動を受けた価格予測の解説記事。ベトナムメディアによる相場振り返りと今後の見通しについての論評。具体的な新規材料やサプライズ要因は含まれていない模様。"
-  },
-  {
-    "title": "9月6日現在の金価格：金価格は1オンスあたり4,400ドル以上を維持しているが、来週は上昇するのか、それとも下落するのか？ - Vietnam.vn",
-    "timestamp": "2026-09-06T13:08:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月6日時点で金価格は1オンス4,400ドル以上で推移している。記事は来週の値動き方向を問う解説記事で、具体的なファンダメンタルズの発表や変化は示されていない。"
-  },
-  {
-    "title": "産油国、10月生産方針維持　OPEC有志国が会合 - Infoseek",
-    "timestamp": "2026-09-06T12:00:07+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OPEC有志国が会合を開き、10月の原油生産方針を維持することを決定した。既定路線での政策継続で、市場への大きなサプライズはない。"
-  },
-  {
     "title": "本日9月7日の金価格は「谷」にあり、底値はまだ確定していません。遊休資金の約10～20％を投資に回すことを検討してみてください。 - Vietnam.vn",
     "timestamp": "2026-09-06T15:36:24+00:00",
     "importance": 2,
@@ -220,17 +176,6 @@
     "summary": "外交協議への期待感から原油価格が5%以上下落した。ホルムズ海峡の通航回復が注目されている。地政学的緊張の緩和シナリオが意識されている。"
   },
   {
-    "title": "産油国、10月生産方針維持 OPEC有志国が会合 - au Webポータル",
-    "timestamp": "2026-09-06T13:06:50+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OPEC有志国が会合を開き、10月の原油生産方針を維持することを決定。減産政策の継続姿勢を確認。市場への明確なサプライズはなし。"
-  },
-  {
     "title": "４日の主要国際商品市況 - 株探",
     "timestamp": "2026-09-06T23:10:00+00:00",
     "importance": 2,
@@ -240,17 +185,6 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "4日の主要国際商品市況についての定期的なマーケットレポート。具体的な価格変動や商品別の動きについて、当日の市場概況をまとめたもの。"
-  },
-  {
-    "title": "トークン化商品市場が860万ドル成長、GLDニュース - Coinfomania",
-    "timestamp": "2026-09-06T14:04:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "トークン化商品市場が860万ドル成長したとの報道。ブロックチェーン技術を使用した商品デジタル化の進展を示す。GLD（SPDR ゴールド・シェア）関連の動きと見られるが、具体的な背景不明。"
   },
   {
     "title": "9月7日の金価格 - Vietnam.vn",
@@ -2264,5 +2198,170 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油が10年ぶりの安値圏に位置している。コモディティ全般の軟調が継続。既知の需給弱化トレンドの確認報道。"
+  },
+  {
+    "title": "ウクライナ情勢を巡る思惑から小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-09T13:21:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ウクライナ情勢の改善期待から小麦先物が下落した。地政学リスク低下による供給懸念の緩和が要因。既に報じられた状況の相場反映と考えられる。"
+  },
+  {
+    "title": "【解説】政府売り渡し輸入小麦価格…10月から12％引き上げ 商品への影響は？（2026年9月9日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+    "timestamp": "2026-09-09T08:10:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "日本政府が10月から輸入小麦の売り渡し価格を12％引き上げることを発表。政府備蓄小麦の調達コスト増加に伴う定期的な価格調整。国内製粉業者や食品メーカーのコスト増要因となる。"
+  },
+  {
+    "title": "トランプ・プーチン電話会談でウクライナ和平への期待高まり、ユーロネクスト小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-08T17:36:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "トランプ・プーチン電話会談によるウクライナ和平への期待が市場に浮上し、供給リスク低下を見込んでユーロネクスト小麦先物が下落。地政学的リスク低減が価格押し下げ要因となった。"
+  },
+  {
+    "title": "農水省、輸入小麦の政府売り渡し価格を12%引き上げ - Traders Union",
+    "timestamp": "2026-09-09T07:42:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "日本の農水省が輸入小麦の政府売り渡し価格を12%引き上げることを発表した。これは国内製粉業者の調達コスト上昇につながり、パン・麺類などの消費者価格へも波及する可能性がある。国内小麦市場と関連商品に上昇圧力をもたらす。"
+  },
+  {
+    "title": "インドネシアのアンタム金地金価格が265万ルピアに急落、ジャカルタ特別州の最低賃金では2グラムしか買えず - BigGo ファイナンス",
+    "timestamp": "2026-09-09T10:40:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金地金価格（アンタム）が265万ルピアまで下落。ジャカルタの最低賃金では2グラムしか購入できない水準となった。地域的な価格下落の報道。"
+  },
+  {
+    "title": "金価格は本日9月9日、大幅に下落して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-09-09T13:05:44+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月9日の金価格が大幅に下落した。ベトナムのニュースサイトによる相場の振り返り報道。詳細な下落要因は記事要約から判断不可。"
+  },
+  {
+    "title": "金価格、ドル安を背景に小幅上昇――金利見通しと中東情勢に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-09T01:43:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル安を背景に金価格が小幅上昇。金利見通しと中東情勢が注視される。既知要因の枠内での値動きと見られる。"
+  },
+  {
+    "title": "$金先物(2612) (GCmain.US)$$NASDAQ-100先物(2609) (NQmain.US)$ 美味い美味い、ゴルナス買い増し〜😋 - Moomoo",
+    "timestamp": "2026-09-09T05:31:05+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "個人投資家による金先物とNASDAQ-100先物の買い増しについての個人的な感想コメント。市場全体への直接的な影響を示すニュースではなく、SNS上の投資観測にすぎない。"
+  },
+  {
+    "title": "UBSが今後3四半期の原油価格予測を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-09T12:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "UBSが今後3四半期の原油価格予測を引き上げた。主要投資銀行による強気の見通し修正であり、市場センチメントの改善を示唆。上昇方向への価格圧力が期待される。"
+  },
+  {
+    "title": "【速報】NY原油先物95.98ドルまで、米国とイラン攻撃応酬激化｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-09T13:08:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の軍事的緊張が急激に高まり、相互攻撃が激化している。NY原油先物が95.98ドルまで上昇し、地政学的リスク要因が原油市場に直結している。中東での紛争拡大は供給途絶懸念を招く。"
+  },
+  {
+    "title": "米原油先物が高値を更新、海峡開放の道筋見えず - ガスエネルギー新聞",
+    "timestamp": "2026-09-09T07:33:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が高値を更新。ホルムズ海峡の開放可能性が低下し、供給リスクが増大。地政学的緊張に伴う供給途絶懸念が価格上昇を駆動。"
+  },
+  {
+    "title": "原油価格が100ドル突破で売り圧力 台湾指数先物夜間取引はプラス圏から一転、300ポイント超の急落 - BigGo ファイナンス",
+    "timestamp": "2026-09-09T13:40:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドルを突破したことで、リスク資産への売り圧力が強まり、台湾指数先物が300ポイント以上急落。コモディティ高が株式市場のセンチメント悪化につながった。"
+  },
+  {
+    "title": "USDAの需給報告を前にシカゴトウモロコシ先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-09T13:24:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの需給報告発表を控え、シカゴトウモロコシ先物が売られている。市場は報告内容を先読みして価格調整を進めている状況。"
+  },
+  {
+    "title": "大豆先物価格見通し：USX1,321のレジスタンス付近で持ち合い - Traders Union",
+    "timestamp": "2026-09-09T12:25:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,321付近のレジスタンスレベルで持ち合っている状況。アナリスト機関による技術的な相場見通しの提示。"
+  },
+  {
+    "title": "金価格が下落する中、ある金属は史上最高値となる1万5000ドル近くまで上昇した。 - Vietnam.vn",
+    "timestamp": "2026-09-09T03:41:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "金価格が下落する中、銅を含むある金属が史上最高値近い1万5000ドル水準まで上昇した。金とは異なる独立した上昇トレンドを示している。タイトルは銅カテゴリながら、具体的な金属名が曖昧な報道。"
   }
 ]
