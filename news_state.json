@@ -1,115 +1,5 @@
 [
   {
-    "title": "世界の食料価格は2022年末以来最高、ロシア・ウクライナ戦争が小麦輸出に圧力をかける - voi.id",
-    "timestamp": "2026-09-06T07:00:57+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ロシア・ウクライナ戦争による小麦輸出への継続的な圧力により、世界の食料価格が2022年末以来の最高水準に達している。両国は世界有数の穀物輸出国であり、地政学的リスクが価格上昇を支持している。"
-  },
-  {
-    "title": "本日（9月6日）の金価格：全面的に急落。 - Vietnam.vn",
-    "timestamp": "2026-09-06T07:12:01+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月6日の金価格が全面的に急落したとのニュース。具体的な下落率や原因が記事から不明だが、日次の相場変動を報じるもの。金投資家にとっては定期的な価格情報の一つ。"
-  },
-  {
-    "title": "本日（9月6日午後）の金価格：金地金および金指輪の価格は変動なし。 - Vietnam.vn",
-    "timestamp": "2026-09-06T07:02:11+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムにおける9月6日午後の金価格が変動なしとの報道。金地金および金指輪の価格が前日比で据え置き。ローカル市場の定期的な価格確認情報。"
-  },
-  {
-    "title": "金価格は来週、大幅な調整局面を迎えると予測されている。 - Vietnam.vn",
-    "timestamp": "2026-09-06T07:46:58+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が来週大幅な調整局面を迎えると予測されている。アナリスト見解による相場観測記事で、既に市場で認識されている可能性が高い。具体的な新規要因ではなく、技術的な調整の見通しと推察される。"
-  },
-  {
-    "title": "2026年9月6日午後の金価格：金地金と金指輪の最新価格表。 - Vietnam.vn",
-    "timestamp": "2026-09-06T08:25:55+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金と金指輪の価格情報を提供するニュース。2026年9月6日午後時点の市場価格を整理した相場速報。"
-  },
-  {
-    "title": "2026年9月6日午後の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
-    "timestamp": "2026-09-06T08:41:15+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格表示ニュース。2026年9月6日午後時点の金地金、9999金リング、国際金の価格をまとめたもの。日次の定型的な価格情報配信。"
-  },
-  {
-    "title": "SJCの金価格、2026年9月6日午後のDOJI、BTMC、Phu Quy、PNJにおける金指輪の価格、および週末の世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-09-06T07:51:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金指輪価格と世界金価格の相場情報をまとめたニュース。SJC、DOJI、BTMC等の国内流通業者と週末の国際金価格を報道。"
-  },
-  {
-    "title": "米国財務長官は、原油価格が下落すると3度も述べている。 - Vietnam.vn",
-    "timestamp": "2026-09-06T07:27:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国財務長官が原油価格の下落を予想する発言を複数回述べた。政策担当者による価格見通しのコメント。既に市場で織り込まれている観測の域と考えられる。"
-  },
-  {
-    "title": "ヘッジファンドの原油強気ポジション､5月以来の高水準－需給逼迫懸念 - TBS NEWS DIG",
-    "timestamp": "2026-09-06T06:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ヘッジファンドの原油強気ポジションが5月以来の高水準に達した。需給逼迫への懸念が背景にある。市場心理の強気転換を反映した動きだが、既に報道された傾向の続報。"
-  },
-  {
-    "title": "米国がイランのミサイルを迎撃し反撃、原油価格が2％超上昇して市場に影響 - Межа. Новини України.",
-    "timestamp": "2026-09-06T08:27:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイランのミサイル攻撃に対して迎撃・反撃を実施。中東における米イラン間の直接的な軍事衝突が現実化し、原油供給の地政学的リスクが急速に高まった。原油価格は2％超上昇で市場反応を示している。"
-  },
-  {
     "title": "本日9月6日の金価格は非常に変動が激しく、買い手は大きな損失を被っている。 - Vietnam.vn",
     "timestamp": "2026-09-06T13:05:25+00:00",
     "importance": 2,
@@ -143,17 +33,6 @@
     "summary": "9月6日時点で金価格は1オンス4,400ドル以上で推移している。記事は来週の値動き方向を問う解説記事で、具体的なファンダメンタルズの発表や変化は示されていない。"
   },
   {
-    "title": "ウォン高が急激に進み、上半期の原油高·為替レートに押されていた航空株が再び頭をもたげている。 ただ、国際原油価格の高止まりの負担は依然として残っている。 しかし、1ドル当たりのウォン相場が2ヵ月ぶりに.. - 매일경제",
-    "timestamp": "2026-09-06T08:26:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "韓国ウォン高進行により航空株が上昇圧力を受けている。上半期は原油高と為替円安が航空業を圧迫していたが、ウォン高局面では改善の兆し。ただし国際原油価格の高止まりは依然航空業の負担要因。"
-  },
-  {
     "title": "産油国、10月生産方針維持　OPEC有志国が会合 - Infoseek",
     "timestamp": "2026-09-06T12:00:07+00:00",
     "importance": 2,
@@ -174,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が現在「谷」の局面にあり、底値確定前との指摘。投資家に遊休資金の10～20％の投資検討を呼びかけるアナリスト見解。"
-  },
-  {
-    "title": "米国がイラン封鎖を拡大すると伝わり原油価格が急騰した - Межа. Новини України.",
-    "timestamp": "2026-09-06T05:56:18+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるイラン封鎖の拡大報道を受けて原油価格が急騰。イランは主要な石油生産国であり、制裁強化は供給減少圧力をもたらす。地政学的リスクプレミアムの上昇が価格上昇を牽引。"
   },
   {
     "title": "2026年9月7日朝の金価格更新：SJC、プレーンゴールドリング9999 BTMC DOJI Phu Quy - Vietnam.vn",
@@ -2242,5 +2110,159 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "世界の銅価格が史上最高値を記録した。需給逼迫やドル安進行、インフレ懸念などが背景とみられる。銅は経済成長の先行指標として注視される重要なコモディティ。"
+  },
+  {
+    "title": "【解説】政府売り渡し輸入小麦価格…10月から12％引き上げ 商品への影響は？（日テレNEWS NNN） - Yahoo!ニュース",
+    "timestamp": "2026-09-09T08:10:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "日本政府が10月から輸入小麦の売り渡し価格を12％引き上げることを発表。国内製粉企業や食品メーカーのコスト負担が増加。国際小麦価格の上昇トレンドに対応した定期改定と考えられる。"
+  },
+  {
+    "title": "世界の小麦価格が急騰。 - Vietnam.vn",
+    "timestamp": "2026-09-09T08:22:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "世界の小麦価格が急騰している。供給懸念や地政学的要因が背景と考えられる。具体的な原因や価格上昇幅の詳細は記事要約からは不明確。"
+  },
+  {
+    "title": "【解説】政府売り渡し輸入小麦価格…10月から12％引き上げ 商品への影響は？ - TVer",
+    "timestamp": "2026-09-09T09:16:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "日本政府が10月から輸入小麦の売り渡し価格を12%引き上げることを発表。国内小麦粉・パン・麺類などの原材料コストが上昇し、最終消費者への価格転嫁が予想される。"
+  },
+  {
+    "title": "【解説】政府売り渡し輸入小麦価格…10月から12％引き上げ 商品への影響は？ (2026年9月9日掲載) - ライブドアニュース",
+    "timestamp": "2026-09-09T08:10:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "日本政府が10月から輸入小麦の売り渡し価格を12％引き上げることを発表。国内の小麦需給に直結する重要な価格決定。既定の価格改定スケジュールの一環と見られる。"
+  },
+  {
+    "title": "9月9日の金価格：金価格は53ドル以上急騰、下降トレンドは止まったのか？ - Vietnam.vn",
+    "timestamp": "2026-09-09T08:43:28+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月9日に金価格が53ドル以上急騰した。下降トレンドの転換点となるかが注目されている。具体的な上昇要因の詳細は記事からは不明。"
+  },
+  {
+    "title": "中東情勢緊迫で原油高、FRB利上げ観測が金相場の上値を抑え、金は4,400ドル割れ - VT Markets",
+    "timestamp": "2026-09-09T04:33:54+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中東緊迫で原油高騰する一方、FRB利上げ観測が金の上値を抑制している。金相場は4,400ドル割れで推移し、相反する2つの要因が市場を均衡させている。"
+  },
+  {
+    "title": "金価格が急落後：年末の4ヶ月間は2025年の「高騰熱」を再び巻き起こすのか？ - Vietnam.vn",
+    "timestamp": "2026-09-09T06:44:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落後、年末4ヶ月間での値上がり可能性が論じられている。2025年への相場展開についての市場観測・解説記事。"
+  },
+  {
+    "title": "本日（9月9日午後）の金価格：急落 - Vietnam.vn",
+    "timestamp": "2026-09-09T06:34:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月9日午後の金価格が急落したとの報道。ベトナムの地域ニュースサイトによる相場の日次振り返り。具体的な下落理由や規模の詳細は記事概要では不明。"
+  },
+  {
+    "title": "2026年9月9日午後の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
+    "timestamp": "2026-09-09T10:23:25+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報の日中更新。金地金、9999金リング、国際金の相場一覧表を提示したもの。"
+  },
+  {
+    "title": "東証続落、終値１２６円安 米原油先物価格上昇が重荷 | 全国のニュース - 福井新聞社",
+    "timestamp": "2026-09-09T06:40:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国原油先物価格の上昇が日本株式市場の重荷となり、東証が続落した。原油高は輸入コスト増加を通じて国内企業収益に�悪影響を与える懸念が市場に織り込まれている。"
+  },
+  {
+    "title": "東証続落、終値１２６円安 米原油先物価格上昇が重荷 - 新潟日報",
+    "timestamp": "2026-09-09T06:40:03+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物価格の上昇が日本株式市場に重石となり、東証が126円安で終値を迎えた。原油高が企業業績圧迫懸念を通じて株価に悪影響を与えた。"
+  },
+  {
+    "title": "日経平均は47円高、原油価格高止まりなど警戒 - 株探",
+    "timestamp": "2026-09-09T04:53:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本株が小幅上昇する中、原油価格の高止まりが市場の警戒材料として指摘されている。コモディティ高が企業収益や景気動向に与える影響への懸念が背景。"
+  },
+  {
+    "title": "東証続落、終値126円安 米原油先物価格上昇が重荷 - 信濃毎日新聞デジタル",
+    "timestamp": "2026-09-09T06:39:55+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物価格の上昇を受けて東証が続落し、終値126円安となった。原油価格上昇は企業利益圧迫要因として機能している。既に報じられた米原油価格動向の二次的な影響。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$ 原油などのコモディティは、10年ぶりの安値圏にある。 [リンク... - Moomoo",
+    "timestamp": "2026-09-09T10:17:59+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が10年ぶりの安値圏に位置している。コモディティ全般の軟調が継続。既知の需給弱化トレンドの確認報道。"
   }
 ]
