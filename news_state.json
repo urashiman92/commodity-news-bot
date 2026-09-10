@@ -1,170 +1,5 @@
 [
   {
-    "title": "黒海からの供給量減少への懸念から、小麦価格が急落した。 - Vietnam.vn",
-    "timestamp": "2026-09-07T06:17:18+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海からの小麦供給量減少への懸念が市場で顕在化し、価格が急落した。黒海地域はロシア・ウクライナを含む世界有数の小麦供給地であり、供給不安は国際価格に直結する。具体的な供給減少要因の詳細は記事から不明だが、地政学的リスクか天候要因の可能性がある。"
-  },
-  {
-    "title": "本日（9月7日午後）の金価格：全般的に急落。 - Vietnam.vn",
-    "timestamp": "2026-09-07T06:17:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月7日午後の金価格が全般的に急落した。具体的な急落の原因は記事概要に明記されていない。金市場における日々の価格変動の報道である。"
-  },
-  {
-    "title": "9月7日午後の金価格：全般的に急落。 - Vietnam.vn",
-    "timestamp": "2026-09-07T08:24:11+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月7日午後の金価格が全般的に急落した。特定の材料は記事から不明だが、日中相場の値動き解説である。金属市場の日常的なボラティリティの範囲内の動きと考えられる。"
-  },
-  {
-    "title": "世界の金価格、急落後勢いを失う - Laodong.vn",
-    "timestamp": "2026-09-07T09:50:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落後に勢いを失っている状況を伝える解説記事。既に下落が発生した後の相場分析であり、追加的な価格変動要因は提示されていない。"
-  },
-  {
-    "title": "9月7日午後、金価格は午前中と比べて1テールあたりさらに50万ベトナムドン下落した。 - Vietnam.vn",
-    "timestamp": "2026-09-07T10:26:29+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム金市場で9月7日午後に金価格が1テール当たり50万ベトナムドン下落した。地域限定の日次相場変動を報じた記事。グローバル金市場への影響は限定的。"
-  },
-  {
-    "title": "復活のきざし見せる金価格&金ファンドはどう組み入れる？ 純資産9000億円超の「ファインゴールド」の実力と、資産組み入れの“ポイント”（Finasee） - Yahoo!ニュース",
-    "timestamp": "2026-09-07T08:50:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が復活の兆しを見せており、大型金ファンド「ファインゴールド」（純資産9000億円超）の実力と資産ポートフォリオへの組み入れ方法を解説する記事。既知の金相場回復トレンドの観測記事。"
-  },
-  {
-    "title": "原油価格は下がらない 年末100ドル予想も - 日経CNBC online",
-    "timestamp": "2026-09-07T06:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アナリスト見通しとして年末時点で原油価格が100ドル近辺まで上昇する可能性が示唆されている。現在の供給逼迫や需要堅調を背景に、下値がサポートされているという市場観。"
-  },
-  {
-    "title": "WTI原油、RSI過買いでダブルトップ形成中：毎時更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-07T07:08:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油がRSI過買い水準でダブルトップを形成している。テクニカル指標が売却シグナルを示唆しており、反転下落のリスクが高まっている状況。"
-  },
-  {
-    "title": "日経VI：大幅に低下、取引時間中は原油価格や金利の高止まりを警戒 - ｄメニューニュース",
-    "timestamp": "2026-09-07T08:24:09+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日経VIが大幅に低下し、市場のボラティリティが縮小している。ただし原油価格と金利の高止まりへの警戒感は残存。現在の相場環境は不確実性が続いている。"
-  },
-  {
-    "title": "米好調な雇用統計だったうえに原油価格も高止まり、 あとはインフレ動向だけでドル円はサポートにも関心 - ザイFX！",
-    "timestamp": "2026-09-07T06:40:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の堅調な雇用統計と原油価格の高止まりが確認された。ドル円相場ではサポートレベルに注目が集まっている。今後のインフレ動向が相場の主要な焦点となる。"
-  },
-  {
-    "title": "さい銭ではなく屋根の銅板狙い慰霊施設で窃盗被害 神社や寺でも相次ぐ 背景に銅価格高騰か 静岡・掛川市 - FNNプライムオンライン",
-    "timestamp": "2026-09-07T09:59:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格の高騰を背景に、神社や寺院の屋根の銅板が窃盗される被害が相次いでいる。日本国内で銅のスクラップ需要が顕在化し、地金価格の上昇が実需面で確認できる。"
-  },
-  {
-    "title": "神社や霊園で銅板が盗まれる被害相次ぐ「一人ふたりの仕事ではない」 背景に銅価格の上昇 車による大量窃盗か - ｄメニューニュース",
-    "timestamp": "2026-09-07T10:20:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格上昇に伴い、神社や霊園から銅板の盗難被害が相次いでいる。組織的な大量窃盗の可能性が指摘されている。盗難増加は銅需給のファンダメンタルズには直接的な影響を与えない。"
-  },
-  {
-    "title": "神社や霊園で銅板が盗まれる被害相次ぐ「一人ふたりの仕事ではない」 背景に銅価格の上昇 車による大量窃盗か - FNNプライムオンライン",
-    "timestamp": "2026-09-07T10:20:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格上昇を背景に、神社や霊園から銅板が組織的に盗まれる被害が発生。銅需給の逼迫を示す需要サイド現象だが、マクロ需給を大きく変動させるほどの規模ではない。"
-  },
-  {
-    "title": "神社や霊園で銅板が盗まれる被害相次ぐ「一人ふたりの仕事ではない」 背景に銅価格の上昇 車による大量窃盗か - Excite エキサイト",
-    "timestamp": "2026-09-07T10:29:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格の上昇を背景に、神社や霊園から銅板が大量盗難される被害が発生。組織的な窃盗団による犯行の可能性。需要サイドから見た銅相場の堅調さを示唆。"
-  },
-  {
-    "title": "神社や霊園で銅板が盗まれる被害相次ぐ「一人ふたりの仕事ではない」 背景に銅価格の上昇 車による大量窃盗か - ライブドアニュース",
-    "timestamp": "2026-09-07T10:20:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格上昇に伴い、神社や霊園から銅板の盗難被害が相次いでいる。組織的な窃盗グループによる大量盗難の可能性が指摘されている。銅の需給逼迫と価格上昇が犯罪インセンティブを高めている。"
-  },
-  {
     "title": "穀物市場レポート2026年9月7日：小麦、トウモロコシ、菜種、肥料の最新情報 - ニュースと統計 - IndexBox",
     "timestamp": "2026-09-07T15:52:51+00:00",
     "importance": 2,
@@ -187,17 +22,6 @@
     "summary": "金価格が2日連続で急落している。中国人民銀行による予想外の動きが下値圧力となっており、市場参加者の注目を集めている。金価格上昇トレンドの転換点となる可能性がある。"
   },
   {
-    "title": "金価格が史上最高値を更新し、引き出しの中の石の指輪とゴールドバーが取引市場にあふれ出ている。 個人間取引プラットフォームには金付き物件があふれ、クリック数回で見知らぬ人と数百万ウォン分の実物金を売買す.. - 매일경제",
-    "timestamp": "2026-09-07T07:29:33+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "韓国で金価格が史上最高値を更新し、個人投資家が保有する金製品を売却する動きが活発化している。個人間取引プラットフォームで金関連商品の流通量が増加している。"
-  },
-  {
     "title": "金価格は本日9月7日、引き続き急落した状態で取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-09-07T12:47:04+00:00",
     "importance": 2,
@@ -218,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "9月7日の米国原油先物が2.11%上昇した。記事はこの値動きの背景を解説するコメンタリー。具体的な上昇要因は記事概要では明記されていない。"
-  },
-  {
-    "title": "原油価格が再び100ドルを突破、韓国産業界に深刻な影響 - jp.ajunews.com",
-    "timestamp": "2026-09-07T08:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が100ドルを再び突破し、韓国の産業界に悪影響を及ぼしている。エネルギー集約的な製造業やインフレ圧力の懸念が増大。地域経済への波及効果が顕在化。"
   },
   {
     "title": "USX540.25のレジスタンスでブレイクアウトを試み：コーン先物価格は勢いを取り戻せるか？ - Traders Union",
@@ -262,17 +75,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅の供給逼迫が価格を下支えする可能性についての分析・解説記事。供給面での制約が需要面でのマイナス要因と相殺するかに焦点。アナリスト見解であり、具体的な新規イベント情報は含まない。"
-  },
-  {
-    "title": "【画像】神社や霊園で銅板が盗まれる被害相次ぐ「一人ふたりの仕事ではない」 背景に銅価格の上昇 車による大量窃盗か - ライブドアニュース",
-    "timestamp": "2026-09-07T10:20:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "神社や霊園から銅板が盗まれる被害が相次いでいる。銅価格の上昇により盗難が組織化・大量化している。需給逼迫を示唆する供給サイドの課題。"
   },
   {
     "title": "銅が過去最高値を更新－トランプ政権の精製銅への関税観測受け（Bloomberg） - Yahoo!ニュース",
@@ -396,28 +198,6 @@
     "summary": "世界の原油価格が6週間ぶりの高値に上昇した。市場全体のセンチメント改善が背景と考えられる。具体的な要因や数値の詳細は記事概要からは不明。"
   },
   {
-    "title": "さい銭ではなく屋根の銅板狙い慰霊施設で窃盗被害 神社や寺でも相次ぐ 背景に銅価格高騰か 静岡・掛川市 - au Webポータル",
-    "timestamp": "2026-09-07T11:11:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格高騰を背景に、神社や寺院、慰霊施設から屋根の銅板を狙った窃盗被害が相次いでいる。需給逼迫と高値が金属盗難の動機を強めている状況を報じたもの。"
-  },
-  {
-    "title": "さい銭ではなく屋根の銅板狙い慰霊施設で窃盗被害 神社や寺でも相次ぐ 背景に銅価格高騰か 静岡・掛川市 - 千葉テレビ放送株式会社",
-    "timestamp": "2026-09-07T10:01:05+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格高騰を背景に、神社や寺の屋根の銅板盗難事件が静岡県で相次いでいる。需要面での銅の利用価値の高さを示す事例。供給・需要ファンダメンタルズへの直接的な影響は軽微。"
-  },
-  {
     "title": "７日の主要国際商品市況はレーバーデーの祝日で休場 - 株探",
     "timestamp": "2026-09-07T23:10:00+00:00",
     "importance": 1,
@@ -460,17 +240,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4,410ドルまで下落したことを報じるニュース。具体的な下落要因や日時が不明で、単なる相場情報の報道と思われる。"
-  },
-  {
-    "title": "2026年9月7日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - finance.yahoo.co.jp",
-    "timestamp": "2026-09-07T09:44:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場情報の公表。金市場とは無関係の日本株指数先物に関するニュース。"
   },
   {
     "title": "本日9月8日の金価格は引き続き急落しています。金価格上昇の障害は間もなく解消されるのでしょうか？中国人民銀行による予想外の動きが注目されます。 - Vietnam.vn",
@@ -2484,5 +2253,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "AI需要の急速な拡大とグローバル電力網拡張により、銅の需要が大幅に増加している。この構造的な需要増が銅相場を支持する背景として認識されている。"
+  },
+  {
+    "title": "2026年9月10日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-09-10T08:53:40+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。商品市場の金価格とは直接的な関連性がない日本株先物市場の技術的情報。"
+  },
+  {
+    "title": "金価格は4,400ドル付近で上下動を繰り返しており、インフレデータが次の方向性を決定する可能性があります。 - Moomoo",
+    "timestamp": "2026-09-10T03:12:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,400ドル付近でレンジ内で推移している状況を解説するコメンタリー。今後のインフレデータが相場方向を決める要因として指摘されている。"
+  },
+  {
+    "title": "トランプ大統領 米中間選挙後にイランと戦闘終結見通し 原油価格下落も選挙後に - khb東日本放送",
+    "timestamp": "2026-09-09T21:56:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がイランとの戦闘終結の見通しをコメント。米中間選挙後に紛争が解決される可能性を示唆。地政学的緊張緩和が原油需給を弱気に見る材料。"
+  },
+  {
+    "title": "国際原油価格が100ドルを再突破、石油精製・石油化学株が急騰、航空株は軟調 - BigGo ファイナンス",
+    "timestamp": "2026-09-10T08:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油価格が100ドルを再突破し、石油精製・石油化学関連株が上昇。航空株は燃料費上昇で軟調。コモディティ投資家にとっては原油強気相場の継続を示唆する動き。"
+  },
+  {
+    "title": "トランプ大統領 イランとの戦闘終結も原油価格下落も「中間選挙の後」 - newsdig.tbs.co.jp",
+    "timestamp": "2026-09-09T21:20:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がイランとの紛争終結と原油価格低下のタイミングを中間選挙後に先送りする方針を表明。政治的駆け引きの発言であり、具体的な政策変更や供給ショックを示唆するものではない。"
+  },
+  {
+    "title": "原油先物をショートしています！ - Moomoo",
+    "timestamp": "2026-09-10T00:48:40+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomooの投資家が原油先物をショートポジションで運用していることを公表したもの。個人投資家のポジション表明に過ぎず、市場を動かす要因ではない。"
+  },
+  {
+    "title": "銅価格にバブル懸念、1万5000ドルに接近－上昇持続に懐疑的な声も - bloomberg.com",
+    "timestamp": "2026-09-10T10:55:14+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が1万5000ドルに接近し、バブル懸念が高まっている。アナリストから上昇持続への懐疑的な見方が出ている。市場心理が過熱気味であることを示唆する評論記事。"
+  },
+  {
+    "title": "銅 (COPPER) は9月10日に下降 2.15%：注目すべき主要な要因 - TradingKey",
+    "timestamp": "2026-09-10T01:31:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅は9月10日に2.15%の下落を記録した。この下落は通常のボラティリティ範囲内の値動きであり、具体的なファンダメンタルズの変化は示唆されていない。ニュースは相場の振り返り解説の性質が強い。"
   }
 ]
