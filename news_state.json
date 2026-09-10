@@ -11,72 +11,6 @@
     "summary": "IndexBoxが発表した穀物市場の定期レポート。小麦、トウモロコシ、菜種、肥料の最新情報を含む統計情報の集約。具体的な内容は不明だがコモディティ市場全般の情報提供記事と推定される。"
   },
   {
-    "title": "本日2026年9月8日の金価格は、2日連続で急落しました。金価格上昇の障害は間もなく解消されるのでしょうか？中国人民銀行による予想外の動きが注目されます。 - Vietnam.vn",
-    "timestamp": "2026-09-07T14:53:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が2日連続で急落している。中国人民銀行による予想外の動きが下値圧力となっており、市場参加者の注目を集めている。金価格上昇トレンドの転換点となる可能性がある。"
-  },
-  {
-    "title": "金価格は本日9月7日、引き続き急落した状態で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-09-07T12:47:04+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月7日の金価格は引き続き急落した状態で取引を終えた。既に進行中の下落トレンドの継続を報じたもの。"
-  },
-  {
-    "title": "米国原油先物 (USOIL-F) は9月7日に上昇 2.11%：なぜ起こったのか - TradingKey",
-    "timestamp": "2026-09-07T15:06:16+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "9月7日の米国原油先物が2.11%上昇した。記事はこの値動きの背景を解説するコメンタリー。具体的な上昇要因は記事概要では明記されていない。"
-  },
-  {
-    "title": "USX540.25のレジスタンスでブレイクアウトを試み：コーン先物価格は勢いを取り戻せるか？ - Traders Union",
-    "timestamp": "2026-09-07T13:09:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物がUSX540.25のレジスタンスレベルでのブレイクアウトを試みている状況についての相場解説。技術的な抵抗線での価格推移を分析し、今後の勢いの回復可能性を検討する観測レポート。"
-  },
-  {
-    "title": "大豆先物はUSX1,305のサポート付近で価格がもみ合い：注目すべき主要水準 - Traders Union",
-    "timestamp": "2026-09-07T12:47:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,305のサポート水準付近で値動きしている状況についての相場解説。テクニカルレベルの確認に関する観測記事。"
-  },
-  {
-    "title": "供給逼迫は銅価格を支えられるか？ - Traders Union",
-    "timestamp": "2026-09-07T12:36:33+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅の供給逼迫が価格を下支えする可能性についての分析・解説記事。供給面での制約が需要面でのマイナス要因と相殺するかに焦点。アナリスト見解であり、具体的な新規イベント情報は含まない。"
-  },
-  {
     "title": "銅が過去最高値を更新－トランプ政権の精製銅への関税観測受け（Bloomberg） - Yahoo!ニュース",
     "timestamp": "2026-09-07T21:29:43+00:00",
     "importance": 4,
@@ -108,17 +42,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "古河機械金属が次期中期経営計画で社会・環境領域への成長投資を強化。電子部門における窒化アルミの生産能力増強とM&A相乗効果の最大化に注力する方針を発表。"
-  },
-  {
-    "title": "「存立危機事態」発言引きだした立憲・岡田氏を責める声 浜田敬子氏「すごい恐ろしいこと」「聞くのは当たり前」 Copper Price (1Il6cpK07P) - Mshale",
-    "timestamp": "2026-09-07T14:48:27+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "日本の政治家による安全保障論議に関する報道。立憲民主党の岡田氏が「存立危機事態」について国会で質問したことについて、メディア関係者が評論している。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は2営業日続落し4406ドル｜米長期金利の上昇が影響した模様(2026年9月8日) - OANDA証券",
@@ -2341,5 +2264,181 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅は9月10日に2.15%の下落を記録した。この下落は通常のボラティリティ範囲内の値動きであり、具体的なファンダメンタルズの変化は示唆されていない。ニュースは相場の振り返り解説の性質が強い。"
+  },
+  {
+    "title": "カンザスシティ小麦価格は高値圏で狭いレンジ推移：注目されるレジスタンス水準 - Traders Union",
+    "timestamp": "2026-09-10T12:46:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦先物は高値圏で狭いレンジ推移。テクニカル上のレジスタンス水準が注視されている。アナリストによる相場解説。"
+  },
+  {
+    "title": "独眼経眼：長期的な金価格上昇の理論的根拠 渡辺浩志 - 週刊エコノミスト Online",
+    "timestamp": "2026-09-10T15:03:48+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "週刊エコノミスト掲載の解説記事。著者が金の長期的な価格上昇の理論的根拠を提示。コモディティ投資家向けの視点からの分析や見通しが述べられている可能性。"
+  },
+  {
+    "title": "本日2026年9月11日の金価格は、底値から急速に回復し、市場は活況を呈し、投資家は引き続き巨額の資金を金に投入した。 - Vietnam.vn",
+    "timestamp": "2026-09-10T15:01:24+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が底値から回復し、市場が活況を呈している。投資家が引き続き巨額の資金を金に投入している。市場心理の改善を反映した値動きと見られる。"
+  },
+  {
+    "title": "ポーランド国立銀行の金準備が648トンに増加、スポット金価格は短時間で10ドル超急騰 - BigGo ファイナンス",
+    "timestamp": "2026-09-10T13:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ポーランド国立銀行が金準備を648トンに増加させた。短時間でスポット金価格が10ドル超急騰。中・東欧各国による地政学的リスク対応の金買い姿勢を示唆。"
+  },
+  {
+    "title": "金価格は乱高下、ドル安が支援も米国債利回り上昇が圧迫 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-10T00:55:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は相反する2つの要因で乱高下している。ドル安は金の購買力を高める上昇要因だが、米国債利回り上昇は金の機会費用を増加させる下落要因となっており、両者が相殺されている状況。"
+  },
+  {
+    "title": "本日9月10日の金価格は、今後の動向を見守る中で、安定を保っている。 - Vietnam.vn",
+    "timestamp": "2026-09-10T15:01:24+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月10日のベトナムにおける金価格が安定を保っているとの報道。現在の市場環境下での価格推移について述べているが、具体的な価格水準や変動率の情報は不明。"
+  },
+  {
+    "title": "【速報】米原油先物相場が１バレル＝１００ドルを突破した：時事ドットコム - 時事ドットコム",
+    "timestamp": "2026-09-10T12:37:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物がバレル100ドルを突破した速報。地政学的リスク、OPEC減産、需要強化など複合要因が作用している可能性がある。エネルギーコモディティ投資家にとって重要な節目突破。"
+  },
+  {
+    "title": "【速報】NY原油先物98.70ドル、サウジアラビアの生産、前月1990年来で最低｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-10T12:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの原油生産が1990年以来の最低水準に低下。OPEC減産政策の継続を示唆。NY原油先物は98.70ドルまで上昇し、供給逼迫への懸念が高まっている。"
+  },
+  {
+    "title": "米国債利回り、インフレデータと原油価格上昇を受けて上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-10T15:12:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "インフレデータと原油価格上昇により米国債利回りが上昇。金利上昇は原油需要への懸念材料となる一方、インフレ圧力は原油相場を下支え。短期的なボラティリティ増加の可能性あり。"
+  },
+  {
+    "title": "$テスラ (TSLA.US)$ 昨日も言った通り、原油価格の上昇は純電気自動車（BEV）企業にとって追い風だ - Moomoo",
+    "timestamp": "2026-09-10T13:47:40+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇はBEV企業にとって追い風という相場観の提示。ガソリン価格上昇により電動車の経済性が相対的に向上することが背景。既知の論理的関係の再確認に過ぎない。"
+  },
+  {
+    "title": "サウジアラビア産油量が36年ぶり低水準に急落、原油価格100ドル突破で世界的利上げの波 - BigGo ファイナンス",
+    "timestamp": "2026-09-10T14:00:06+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの産油量が36年ぶりの低水準に急落。原油価格は100ドルを突破し、世界的な利上げ圧力が加速している状況。OPEC最大手の供給減少は市場に大きな影響を与えている。"
+  },
+  {
+    "title": "大豆先物、USX1,318.75のレジスタンス付近で価格調整：テクニカル見通し - Traders Union",
+    "timestamp": "2026-09-10T12:25:38+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,318.75のレジスタンス付近で価格調整局面にある。テクニカル分析に基づく相場解説。既に織り込まれた技術的観点の評論。"
+  },
+  {
+    "title": "銅価格にバブル懸念、1万5000ドルに接近－上昇持続に懐疑的な声も（Bloomberg） - Yahoo!ニュース",
+    "timestamp": "2026-09-10T10:55:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が1万5000ドルに接近し、バブル懸念が台頭。需要堅調とインフレヘッジ買いが支える一方、上昇の持続可能性に対する懐疑的な声が出ている。テクニカル水準での調整リスクも意識されている。"
+  },
+  {
+    "title": "銅価格が過去最高値を更新する中、フリーポート・マクモラン（FCX）の株価は45％過小評価されている可能性がある - simplywall.st",
+    "timestamp": "2026-09-10T10:13:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高値を更新している中、大手鉱山企業FCXの株価が過小評価されているとのアナリスト指摘。銅相場の強気環境を背景とした企業価値評価に関するコメンタリー。"
+  },
+  {
+    "title": "9月10日のSouthern Copper Corp (SCCO) 値動きは6.93%下落：値動きの背後にある事実 - TradingKey",
+    "timestamp": "2026-09-10T14:16:28+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "Southern Copper Corp (SCCO)が9月10日に6.93%下落した。同社は世界有数の銅生産企業だが、本ニュースは値動きの事実確認であり、下落の根本的な原因は記事概要からは不明。"
+  },
+  {
+    "title": "ホワイトハウスの精錬銅関税は未決定；COMEX銅先物が4%超下落、FCXは時間外で8%超下落 - TradingKey",
+    "timestamp": "2026-09-10T03:23:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "トランプ政権による精錬銅への関税導入が未決定のまま、市場の不確実性が高まっている。COMEX銅先物が4%超下落し、FCXも時間外取引で8%超下落。政策決定の遅延と不透明性が投資家心理を悪化させている。"
   }
 ]
