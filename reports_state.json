@@ -1,71 +1,5 @@
 [
   {
-    "title": "OPEC says it will pause oil output increases in October - WPLG Local 10",
-    "timestamp": "2026-09-07T11:36:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが10月の石油増産を一時停止すると発表。これまで段階的に増産を進めていた方針から転換し、供給制約の継続を示唆。市場は減産強化への舵切りと解釈し、原油価格上昇圧力が生じる。地政学リスクや需要弱化懸念との対比で注目される決定。"
-  },
-  {
-    "title": "Ukraine Resumes Attacks on Oil Refineries Deep Inside Russia - Bloomberg.com",
-    "timestamp": "2026-09-07T14:21:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア領内の石油精製施設への攻撃を再開したと報道された。ロシアは世界有数の石油生産国であり、精製能力への直接的な打撃はグローバルな石油供給の逼迫を招く。地政学的リスクの高まりにより原油価格は上昇圧力を受ける。"
-  },
-  {
-    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-07T15:53:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の商業原油在庫が2018年以来の最低水準まで低下した。輸出増加と製油所の稼働率向上が主要因。在庫の継続的な減少は原油需給の引き締まりを示唆し、価格上昇圧力として機能する可能性がある。"
-  },
-  {
-    "title": "Railroads ready for US grain harvest - World Grain",
-    "timestamp": "2026-09-07T12:15:37+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国穀物収穫期に向け、鉄道網が輸送体制の準備完了を表明。収穫物の流通インフラが整備されることで、供給チェーンの円滑化が期待される。これは穀物価格への下押し圧力となりうる一方、物流スムーズ化による需要喚起も想定される。定期的な業界対応であり、市場予想の範囲内。"
-  },
-  {
-    "title": "Railroads ready for US grain harvest - World Grain",
-    "timestamp": "2026-09-07T12:15:37+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国穀物収穫期に向け、鉄道網が輸送体制の準備完了を表明。収穫物の流通インフラが整備されることで、供給チェーンの円滑化が期待される。これは穀物価格への下押し圧力となりうる一方、物流スムーズ化による需要喚起も想定される。定期的な業界対応であり、市場予想の範囲内。"
-  },
-  {
-    "title": "Railroads ready for US grain harvest - World Grain",
-    "timestamp": "2026-09-07T12:15:37+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国穀物収穫期に向け、鉄道網が輸送体制の準備完了を表明。収穫物の流通インフラが整備されることで、供給チェーンの円滑化が期待される。これは穀物価格への下押し圧力となりうる一方、物流スムーズ化による需要喚起も想定される。定期的な業界対応であり、市場予想の範囲内。"
-  },
-  {
     "title": "Copper price hits LME record on tariff, supply concerns - Mining.com.au",
     "timestamp": "2026-09-07T16:54:55+00:00",
     "importance": 4,
@@ -86,17 +20,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "銅がLME（ロンドン金属取引所）で過去最高値を更新した。米国の関税懸念と供給不安が価格上昇の主要因。関税政策による需要減速懸念と同時に、供給サイドの逼迫が市場心理を強気に傾けている。銅は電気自動車・再生可能エネルギーインフラの重要な構成要素であり、マクロ環境の変動が価格に直結している。"
-  },
-  {
-    "title": "Venezuela OPEC Exit 'Structurally Likely' - rigzone.com",
-    "timestamp": "2026-09-07T15:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ベネズエラのOPEC脱退が「構造的に可能性が高い」との見方が報じられた。ベネズエラは現在OPECの主要産油国であり、脱退すれば世界原油供給に大きな影響を与える可能性がある。同国の政治的・経済的混乱に伴う脱退シナリオは市場で急速に現実味を帯びつつある。"
   },
   {
     "title": "Oil rises as risks of prolonged Mideast conflict fan supply worries - Reuters",
@@ -372,17 +295,6 @@
     "source": "WASDE関連",
     "commodity": "小麦",
     "summary": "米国の小麦収穫がほぼ完了段階にあり、市場参加者はWASDE（米農務省需給報告書）の発表を注視している。収穫完了に伴う生産量確定データがWASDE報告に反映される見通し。具体的な新規数値発表までは価格への明確な方向性は限定的。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-07T15:49:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが先週の米国原油在庫および揮発油在庫が減少したと発表。強い需要が在庫低下の主因とされている。需要堅調は原油価格の上昇要因となるが、具体的な在庫減少量や前週比の詳細数値が示されていないため、市場との比較判定が困難である。"
   },
   {
     "title": "Oil stocks in US Strategic Petroleum Reserve fall by 1.2 million barrels to lowest level since 1982 - Reuters",
