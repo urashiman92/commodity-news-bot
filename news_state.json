@@ -11,28 +11,6 @@
     "summary": "黒海からの小麦供給量減少への懸念が市場で顕在化し、価格が急落した。黒海地域はロシア・ウクライナを含む世界有数の小麦供給地であり、供給不安は国際価格に直結する。具体的な供給減少要因の詳細は記事から不明だが、地政学的リスクか天候要因の可能性がある。"
   },
   {
-    "title": "先週、原油価格は急騰した一方、小麦価格は急落した。 - Vietnam.vn",
-    "timestamp": "2026-09-07T05:24:54+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "先週は原油価格が急騰した一方で、小麦価格は急落した。両市場の相関性の弱さを示すニュース。エネルギーコストと農産物の供給・需要が異なる要因で動いたことを示唆している。"
-  },
-  {
-    "title": "韓国で金価格反発を受け個人の買い戻し…月配当の金ETFに資金流入 - BigGo ファイナンス",
-    "timestamp": "2026-09-07T01:35:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "韓国の個人投資家が金価格の反発を受けて買い戻しを開始。月配当型金ETFへの資金流入が報告されている。既に金価格が上昇した後の需要面での反応。"
-  },
-  {
     "title": "本日（9月7日午後）の金価格：全般的に急落。 - Vietnam.vn",
     "timestamp": "2026-09-07T06:17:20+00:00",
     "importance": 2,
@@ -42,94 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月7日午後の金価格が全般的に急落した。具体的な急落の原因は記事概要に明記されていない。金市場における日々の価格変動の報道である。"
-  },
-  {
-    "title": "米雇用統計が堅調、市場は来週のFRB利上げを織り込む 金価格が4,400ドルの大台を割り込む - BigGo ファイナンス",
-    "timestamp": "2026-09-07T02:35:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米雇用統計が堅調に発表され、市場はFRBの利上げ継続を織り込んだ。金利上昇が予想されることで、利回りのない金は売られ、4,400ドルの心理的サポートを割り込んだ。"
-  },
-  {
-    "title": "金価格は、米国の雇用統計とホルムズ海峡の緊張の高まりを受けて下落圧力にさらされている。 - Vietnam.vn",
-    "timestamp": "2026-09-07T02:24:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の雇用統計改善と地政学的緊張の二つの要因が金価格に影響を与えている。雇用統計の強化は米国金利上昇圧力となり金にとってネガティブ。ホルムズ海峡の緊張は通常はリスク回避需要を支えるが、現在は相殺されている。"
-  },
-  {
-    "title": "本日の金価格：世界価格が1オンスあたり4,400米ドルの水準を維持するのに苦戦する中、金価格はさらに1オンスあたり60万ベトナムドン下落。 - Vietnam.vn",
-    "timestamp": "2026-09-07T03:45:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンスあたり60万ベトナムドン下落。世界価格は1オンス4,400米ドル水準の維持に苦戦している状況を報じた相場解説記事。"
-  },
-  {
-    "title": "予想を上回る米国の雇用統計を受けて、金価格は下落を続けた。 - Vietnam.vn",
-    "timestamp": "2026-09-07T01:22:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の雇用統計が予想を上回る強い結果となった。これを受けて金価格は下落が続いている。強い雇用市場は米国経済の堅調さを示唆し、FRBの高金利政策継続の可能性が高まるため、金は売られやすい。"
-  },
-  {
-    "title": "金価格は月曜午前中も下落を続けた。 - Vietnam.vn",
-    "timestamp": "2026-09-07T03:19:32+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が月曜午前中も下落トレンドを継続。特定のショック要因を示唆する情報は提示されていない。市場の既存トレンドの追認報道。"
-  },
-  {
-    "title": "ブレント原油先物 (UKOIL-F) 急上昇 2.05% on 9月7日：市場は何を取引しているのか？ - TradingKey",
-    "timestamp": "2026-09-07T06:01:16+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "9月7日のブレント原油先物が2.05%上昇した。記事は市場の値動きの背景にある要因を解説するコメンタリー記事と推定される。具体的な上昇材料が明示されていない。"
-  },
-  {
-    "title": "ホルムズ海峡での米・イラン衝突を受け、原油価格が週間上昇幅を拡大 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-07T01:30:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡での米・イラン衝突により、世界原油供給の約30%が通過する重要な海峡での地政学リスクが顕在化。原油価格は週間上昇幅を拡大し、供給途絶懸念が市場を牽引している。"
-  },
-  {
-    "title": "米国によるイラン産原油輸送船への攻撃を受け、原油価格は上昇、一方ビットコインは下落 - CoinDesk",
-    "timestamp": "2026-09-07T04:44:16+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国がイラン産原油輸送船に攻撃し、地政学的リスクが急速に高まった。供給途絶懸念で原油価格が上昇。中東での軍事衝突エスカレーションはコモディティ市場に大きな影響を与える可能性。"
   },
   {
     "title": "9月7日午後の金価格：全般的に急落。 - Vietnam.vn",
@@ -185,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "アナリスト見通しとして年末時点で原油価格が100ドル近辺まで上昇する可能性が示唆されている。現在の供給逼迫や需要堅調を背景に、下値がサポートされているという市場観。"
-  },
-  {
-    "title": "バージン・アトランティック航空創業者「イランとの戦争は原油価格を押し上げインフレを招くだけだ」 - CGTN Japanese",
-    "timestamp": "2026-09-07T04:11:27+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "バージン・アトランティック航空の創業者がイランとの軍事紛争が原油価格上昇とインフレ招くと警告。地政学的リスク意識の表現だが、既知のシナリオであり新たな材料ではない。"
   },
   {
     "title": "WTI原油、RSI過買いでダブルトップ形成中：毎時更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -264,17 +143,6 @@
     "summary": "銅価格上昇を背景に、神社や霊園から銅板が組織的に盗まれる被害が発生。銅需給の逼迫を示す需要サイド現象だが、マクロ需給を大きく変動させるほどの規模ではない。"
   },
   {
-    "title": "10円玉も10.54円分の価値に？価格上昇受け狙われる『銅』何度も銅線盗まれた太陽光発電所オーナー「こんなはずじゃ…」 - au Webポータル",
-    "timestamp": "2026-09-07T04:07:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格上昇に伴い、10円玉など銅製品の盗難被害が増加。太陽光発電所の銅線盗難事例が報じられた。銅の実質価値が額面を上回る状況が社会問題化している。"
-  },
-  {
     "title": "神社や霊園で銅板が盗まれる被害相次ぐ「一人ふたりの仕事ではない」 背景に銅価格の上昇 車による大量窃盗か - Excite エキサイト",
     "timestamp": "2026-09-07T10:29:00+00:00",
     "importance": 2,
@@ -317,17 +185,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が2日連続で急落している。中国人民銀行による予想外の動きが下値圧力となっており、市場参加者の注目を集めている。金価格上昇トレンドの転換点となる可能性がある。"
-  },
-  {
-    "title": "$金先物(2612) (GCmain.US)$ チョンチョン - moomoo.com",
-    "timestamp": "2026-09-07T02:36:46+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物に関するmoomoo.comの相場解説記事。具体的なニュース内容が不明確。定期的な市場コメンタリーと推測される。"
   },
   {
     "title": "金価格が史上最高値を更新し、引き出しの中の石の指輪とゴールドバーが取引市場にあふれ出ている。 個人間取引プラットフォームには金付き物件があふれ、クリック数回で見知らぬ人と数百万ウォン分の実物金を売買す.. - 매일경제",
@@ -2528,5 +2385,104 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "9日の主要国際商品市況の概要記事。具体的な市場動向や価格変動の詳細が不明。定期的な市場レポートの位置づけ。"
+  },
+  {
+    "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-09-10T03:35:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "Yahoo!ファイナンスの純金上場信託(1540)の株価情報ページ。特定の金価格動向や市場イベントに関する報道ではなく、単なる価格情報ツールの紹介。"
+  },
+  {
+    "title": "ドル安と原油100ドル突破で金価格が4,400ドル台を回復 - BigGo ファイナンス",
+    "timestamp": "2026-09-10T02:35:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル安進行と原油価格が100ドルを突破したことを背景に、金価格が4,400ドル台まで回復した。ドル安は金の購買力を高め、原油高はインフレ懸念を強める環境が金買い需要を支える。"
+  },
+  {
+    "title": "UOBは、金価格が2027年第3四半期までに1オンスあたり5,400ドルに達すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-09-10T04:34:38+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UOB銀行が金価格の強気見通しを発表。2027年Q3までに1オンス5,400ドルへの上昇を予測。現在の市場価格に対する上値目処の提示。"
+  },
+  {
+    "title": "世界の金価格は「予測不可能」であり、一方、原油価格は上昇を続けている。 - Vietnam.vn",
+    "timestamp": "2026-09-10T02:13:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の予測困難性が指摘されている一方、原油価格は上昇トレンドを継続。金は方向性が不透明だが、原油は上昇基調が続いている状況。"
+  },
+  {
+    "title": "金価格は1％以上上昇し、1オンスあたり4,394ドルとなった。 - Vietnam.vn",
+    "timestamp": "2026-09-10T03:24:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1%以上上昇し、1オンスあたり4,394ドルとなった。小幅な日次変動を報じたもの。背景や上昇要因の詳細は記事から不明。"
+  },
+  {
+    "title": "【見通し】10日香港株＝続落か、原油先物相場と米長期金利の上昇が重荷 - 外為どっとコム",
+    "timestamp": "2026-09-10T01:10:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "香港株式市場の先行き見通し記事。原油先物相場の上昇と米長期金利の上昇が香港株の重荷となる可能性を指摘している。既知の市場材料の組み合わせ解説。"
+  },
+  {
+    "title": "株価、原油先物価格の上昇を背景に値下がり - NHKニュース",
+    "timestamp": "2026-09-10T03:13:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "タイトルのみで詳細が不明。株価上昇と原油先物価格上昇が報道されているが、両者の因果関係や市場への実質的な含意が不透明。記事本文へのアクセス不可のため詳細分析不可。"
+  },
+  {
+    "title": "国際原油価格が100ドル突破、韓国の個人投資家は「下落」に賭ける…インバース商品を418億ウォン買い越し - BigGo ファイナンス",
+    "timestamp": "2026-09-10T03:56:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油価格が100ドルを突破した。韓国の個人投資家が418億ウォンのインバース商品（下落に賭ける）を買い越し、価格上昇局面での逆張りポジションを構築している。"
+  },
+  {
+    "title": "AIブーム、電力網の拡張：なぜ世界は銅を必死に求めているのか？ - Vietnam.vn",
+    "timestamp": "2026-09-09T08:13:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "AI需要の急速な拡大とグローバル電力網拡張により、銅の需要が大幅に増加している。この構造的な需要増が銅相場を支持する背景として認識されている。"
   }
 ]
