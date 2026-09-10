@@ -1,27 +1,5 @@
 [
   {
-    "title": "Copper price hits LME record on tariff, supply concerns - Mining.com.au",
-    "timestamp": "2026-09-07T16:54:55+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅がLME（ロンドン金属取引所）で過去最高値を更新した。米国の関税懸念と供給不安が価格上昇の主要因。関税政策による需要減速懸念と同時に、供給サイドの逼迫が市場心理を強気に傾けている。銅は電気自動車・再生可能エネルギーインフラの重要な構成要素であり、マクロ環境の変動が価格に直結している。"
-  },
-  {
-    "title": "Copper price hits LME record on tariff, supply concerns - Mining.com.au",
-    "timestamp": "2026-09-07T16:54:55+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅がLME（ロンドン金属取引所）で過去最高値を更新した。米国の関税懸念と供給不安が価格上昇の主要因。関税政策による需要減速懸念と同時に、供給サイドの逼迫が市場心理を強気に傾けている。銅は電気自動車・再生可能エネルギーインフラの重要な構成要素であり、マクロ環境の変動が価格に直結している。"
-  },
-  {
     "title": "Oil rises as risks of prolonged Mideast conflict fan supply worries - Reuters",
     "timestamp": "2026-09-08T00:50:00+00:00",
     "importance": 4,
@@ -306,17 +284,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国戦略石油備蓄（SPR）が120万バレル減少し、1982年以来の最低水準に低下した。SPRは現在の歴史的低水準は供給逼迫シグナルとなり、市場は供給不安の高まりを反映して原油価格上昇圧力が生じる。政策備蓄枯渇は緊急時対応能力の低下を示唆する。"
-  },
-  {
-    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-07T16:34:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが発表した米国原油在庫統計で、精製所の処理稼働率が上昇に伴い原油在庫が減少した。精製所の稼働率向上は原油需要の増加を示唆し、原油相場の支援材料となる。ただし市場予想の範囲内の結果と思われる。"
   },
   {
     "title": "Momentum Reversal Is Ringing Alarm Bells for Industrial Stocks - Bloomberg.com",
@@ -1230,5 +1197,269 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中国の石油調達オプションの枯渇により、ロシア産原油の要求価格が急騰している。米国の対ロシア制裁とウクライナ情勢の影響で、中国はロシア石油への依存を深める一方、代替調達先が限定されている状況。供給の多様化が困難になる中、ロシアは価格交渉力を強化しており、グローバル原油市場への上昇圧力が増加。"
+  },
+  {
+    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
+    "timestamp": "2026-09-10T15:44:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDE発表において、最近の米国の熱波（高温）がトウモロコシ・小麦・大豆の作付地の生育に悪影響を与えたことが反映される見通し。熱波による水分ストレスと生育期の悪化により、今月の需給見通しは下方修正の可能性が高い。市場は作柄悪化を織り込み、穀物価格は上昇圧力となる見込み。"
+  },
+  {
+    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
+    "timestamp": "2026-09-10T15:44:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDE発表において、最近の米国の熱波（高温）がトウモロコシ・小麦・大豆の作付地の生育に悪影響を与えたことが反映される見通し。熱波による水分ストレスと生育期の悪化により、今月の需給見通しは下方修正の可能性が高い。市場は作柄悪化を織り込み、穀物価格は上昇圧力となる見込み。"
+  },
+  {
+    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
+    "timestamp": "2026-09-10T15:44:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDE発表において、最近の米国の熱波（高温）がトウモロコシ・小麦・大豆の作付地の生育に悪影響を与えたことが反映される見通し。熱波による水分ストレスと生育期の悪化により、今月の需給見通しは下方修正の可能性が高い。市場は作柄悪化を織り込み、穀物価格は上昇圧力となる見込み。"
+  },
+  {
+    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
+    "timestamp": "2026-09-10T12:45:59+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの9月作物見積もり（WASDE）発表を控え、トウモロコシと大豆市場が注視している。本発表は毎年9月に定期実施される重要な生産見通し統計で、米国の作付面積・生産量・在庫見通しが市場の価格形成に大きく影響する。予想比の乖離次第で相場が大きく変動する可能性がある。"
+  },
+  {
+    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
+    "timestamp": "2026-09-10T12:45:59+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAの9月作物見積もり（WASDE）発表を控え、トウモロコシと大豆市場が注視している。本発表は毎年9月に定期実施される重要な生産見通し統計で、米国の作付面積・生産量・在庫見通しが市場の価格形成に大きく影響する。予想比の乖離次第で相場が大きく変動する可能性がある。"
+  },
+  {
+    "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record - WSJ",
+    "timestamp": "2026-09-10T16:55:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が減少する一方で、原油生産量が過去最高を更新した。在庫減少は価格上昇要因だが、供給面での記録的増加は相殺効果をもたらす可能性がある。市場は供給余剰への懸念を強めるリスクあり。"
+  },
+  {
+    "title": "US EIA Crude Oil Stocks Change (Sep/04) -0.391M vs. Exp. -1.6M (Prev. -4.450M) - Newsquawk",
+    "timestamp": "2026-09-10T16:20:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "9月4日のEIA原油在庫は-0.391M バレルの減少。市場予想は-1.6M バレルの減少を見込んでいたが、実績は予想の約4分の1に留まった。前週は-4.450M バレルの大幅減少だったため、減少ペースが大きく鈍化。需要の弱さと供給過剰懸念が浮き彫りになった。"
+  },
+  {
+    "title": "EIA: US crude stocks steady as busy refiners absorb record output - Quantum Commodity Intelligence",
+    "timestamp": "2026-09-10T17:06:20+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が横ばいで推移している。製油所稼働率が高く、米国の記録的な原油生産を吸収している状況が示唆された。在庫の安定化は需給のバランスが取れていることを反映しているが、具体的な在庫数字の前週比変化は記事から確認できない。"
+  },
+  {
+    "title": "EIA Cushing Crude Oil Stocks Change (Sep/04) -0.684M (Prev. 0.080M) - Newsquawk",
+    "timestamp": "2026-09-10T16:20:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "9月4日のEIA発表によるクッシング原油在庫は-0.684M（68.4万バレル）の減少。前週は+0.080Mの増加だったため、方向が逆転した。在庫減少は原油需給引き締まりを示唆し、短期的には価格上昇材料となるが、減少幅は小幅。"
+  },
+  {
+    "title": "Crude oil inventories decline less than expected, signaling demand shift - Investing.com",
+    "timestamp": "2026-09-10T16:14:04+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計で、原油在庫の減少幅が予想を下回る結果となった。これは需要シフトの可能性を示唆しており、市場の需要見通しに対する懸念が増加している。予想より在庫減が少ないということは、需要の弱さを反映している可能性が高い。"
+  },
+  {
+    "title": "US EIA Heating Oil Stocks Change (Sep/04) 0.010M (Prev. -0.033M) - Newsquawk",
+    "timestamp": "2026-09-10T16:20:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "9月4日のEIA暖房用燃料油在庫は0.010M増加し、前週の-0.033M減少から改善した。在庫積増しへの転換は需給バランスの若干の緩和を示唆するが、絶対値は小幅で原油市場への重大インパクトは限定的と考えられる。"
+  },
+  {
+    "title": "Grain markets await USDA’s September crop estimates - The Mighty 790 KFGO",
+    "timestamp": "2026-09-10T12:11:21+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが9月の穀物作付・生産予想を発表予定。市場参加者が推定値の修正幅を注視している。特にトウモロコシと大豆の生産量見通しが、相場形成の重要なポイント。予想比がまだ明らかでないため、発表時の方向性は未確定。"
+  },
+  {
+    "title": "Grain markets await USDA’s September crop estimates - The Mighty 790 KFGO",
+    "timestamp": "2026-09-10T12:11:21+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが9月の穀物作付・生産予想を発表予定。市場参加者が推定値の修正幅を注視している。特にトウモロコシと大豆の生産量見通しが、相場形成の重要なポイント。予想比がまだ明らかでないため、発表時の方向性は未確定。"
+  },
+  {
+    "title": "Grain markets await USDA’s September crop estimates - The Mighty 790 KFGO",
+    "timestamp": "2026-09-10T12:11:21+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが9月の穀物作付・生産予想を発表予定。市場参加者が推定値の修正幅を注視している。特にトウモロコシと大豆の生産量見通しが、相場形成の重要なポイント。予想比がまだ明らかでないため、発表時の方向性は未確定。"
+  },
+  {
+    "title": "OPEC oil output falls in August, Reuters survey shows - Reuters",
+    "timestamp": "2026-09-10T10:35:42+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ロイター調査によると、OPECの8月の石油生産量が低下したことが示された。具体的な減産幅や加盟国別の詳細データは提示されていないが、OPECの減産動向は原油市場に直結する重要な指標である。市場参加者は減産の規模と要因を注視する必要がある。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-09-10T13:51:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後の独自路線で石油生産を拡大し、来年500万バレル/日を超える水準に引き上げる見通しをIEAが示唆。OPEC減産体制の枠外での増産により、市場供給圧力が強まる可能性がある。既報のUAE拡張計画の続報と位置付けられる。"
+  },
+  {
+    "title": "Saudis Tell OPEC That Output Slumped Again to Lowest Since 1990 - Bloomberg.com",
+    "timestamp": "2026-09-10T12:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアがOPECに報告した原油生産量が1990年以来の最低水準に急落した。減産政策の実施により供給が大幅に縮小され、市場の需給逼迫が深刻化。OPECの供給制約の強化は原油価格上昇圧力となる。"
+  },
+  {
+    "title": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ",
+    "timestamp": "2026-09-10T14:44:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油生産が急減している。イラン情勢の不安定化とフーシ派による輸出ルート脅威により、ペルシャ湾の重要な海上輸送路が混乱。中東の地政学的リスクが大幅に高まり、供給途絶リスクが急速に顕在化している。"
+  },
+  {
+    "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
+    "timestamp": "2026-09-10T13:00:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長率を再度引き下げた。需要見通しの継続的な下方修正は、世界経済成長の減速懸念と電動車普及による長期的な需要鈍化を反映している。市場は既にこのトレンドを織り込み始めており、原油価格への上値抵抗が継続する見通し。"
+  },
+  {
+    "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
+    "timestamp": "2026-09-10T13:00:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長率を再度引き下げた。需要見通しの継続的な下方修正は、世界経済成長の減速懸念と電動車普及による長期的な需要鈍化を反映している。市場は既にこのトレンドを織り込み始めており、原油価格への上値抵抗が継続する見通し。"
+  },
+  {
+    "title": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea - Reuters",
+    "timestamp": "2026-09-10T06:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派勢力が紅海沿岸で領土を拡大し、サウジアラビアの石油輸出を脅かしている。紅海はグローバル石油貿易の重要な輸送ルートであり、供給途絶リスクが高まれば原油価格の急騰要因となる。地政学的リスクによる突発的な供給ショックの可能性がある。"
+  },
+  {
+    "title": "Russia's Ryazan oil refinery has stopped operations after Sept 6 drone attack, sources say - Reuters",
+    "timestamp": "2026-09-10T09:45:12+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのリャザン製油所が9月6日のドローン攻撃により操業停止。同製油所は日量約17万バレルの処理能力を持つ。ロシアの主要製油所の停止は世界的な石油供給逼迫懸念を引き起こし、原油価格の上昇圧力となる。"
+  },
+  {
+    "title": "Top US Lobby Firm Had Hidden Ties to Iran, Russia Oil Tycoons - Bloomberg.com",
+    "timestamp": "2026-09-10T09:00:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の有力ロビー企業がイラン・ロシアの石油関係者との隠蔽された結びつきを持っていたことが報道された。この事実は制裁体制の抜け穴や規制の実効性に対する懸念を生じさせ、地政学リスクの認識が強まる可能性がある。ただし即座の市場変動要因にはなりにくい。"
+  },
+  {
+    "title": "Top US Lobby Firm Had Hidden Ties to Iran, Russia Oil Tycoons - Bloomberg.com",
+    "timestamp": "2026-09-10T09:00:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国の有力ロビー企業がイラン・ロシアの石油関係者との隠蔽された結びつきを持っていたことが報道された。この事実は制裁体制の抜け穴や規制の実効性に対する懸念を生じさせ、地政学リスクの認識が強まる可能性がある。ただし即座の市場変動要因にはなりにくい。"
   }
 ]
