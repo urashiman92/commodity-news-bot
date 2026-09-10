@@ -1,16 +1,5 @@
 [
   {
-    "title": "穀物市場レポート2026年9月7日：小麦、トウモロコシ、菜種、肥料の最新情報 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-09-07T15:52:51+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "IndexBoxが発表した穀物市場の定期レポート。小麦、トウモロコシ、菜種、肥料の最新情報を含む統計情報の集約。具体的な内容は不明だがコモディティ市場全般の情報提供記事と推定される。"
-  },
-  {
     "title": "銅が過去最高値を更新－トランプ政権の精製銅への関税観測受け（Bloomberg） - Yahoo!ニュース",
     "timestamp": "2026-09-07T21:29:43+00:00",
     "importance": 4,
@@ -284,17 +273,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が最高値を更新した。米国外での供給不足観測が買い材料となり、投機筋の買いが入っている。供給懸念が価格を下支えしている状況。"
-  },
-  {
-    "title": "銅が過去最高値を更新－トランプ政権の精製銅への関税観測受け - newsdig.tbs.co.jp",
-    "timestamp": "2026-09-07T16:43:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅が過去最高値を更新。トランプ政権による精製銅への関税導入の観測が買い材料となった。関税による供給制約懸念が価格上昇を牽引。"
   },
   {
     "title": "ドル安が利上げの影を押し返す 金価格は4,435ドルと反発し新高値 - BigGo ファイナンス",
@@ -2440,5 +2418,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "トランプ政権による精錬銅への関税導入が未決定のまま、市場の不確実性が高まっている。COMEX銅先物が4%超下落し、FCXも時間外取引で8%超下落。政策決定の遅延と不透明性が投資家心理を悪化させている。"
+  },
+  {
+    "title": "今夜、世界の金価格は予想外に急落し、1オンスあたり4300ドル近くまで下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-10T17:18:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が予想外に急落し、1オンスあたり4300ドル近くまで下落した。この急激な下げは市場に注目されるべき動きである。価格下落の具体的な要因は報道では明記されていないが、急落は重要な相場転換シグナルとなる可能性がある。"
+  },
+  {
+    "title": "金価格は本日9月11日の安値から急速に回復し、市場を押し上げ、投資家は引き続き巨額の資金を金に投入している。 - Vietnam.vn",
+    "timestamp": "2026-09-10T16:18:13+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が9月11日の安値から回復し、投資家による資金流入が継続している。市場全体が上昇基調にある。既存トレンドの継続を示唆するテクニカルな反発の報道。"
+  },
+  {
+    "title": "WTI原油先物は3カ月半ぶりの100ドル台に 米イラン戦闘の早期終結に懐疑的な見方広がる - FNNプライムオンライン",
+    "timestamp": "2026-09-10T16:37:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの軍事紛争が3カ月半ぶりにWTI原油を100ドル台まで上昇させた。市場は紛争の早期終結に懐疑的であり、地政学的リスクプレミアムが大きく織り込まれている。中東での供給リスク懸念が原油価格を支えている。"
+  },
+  {
+    "title": "【速報】NY原油先物は一時100ドル超、サウジが先月の生産が前月1990年来で最低とOPECに報告 - ザイFX！",
+    "timestamp": "2026-09-10T14:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアが先月の原油生産を1990年以来の最低水準で報告。OPECへの正式報告により、減産の実行が確認された。NY原油先物は100ドルを超える水準まで上昇。"
+  },
+  {
+    "title": "NY外為：ドル底堅い、NY原油先物は100ドル台、サウジの先月生産が1990年来で最低 - ｄメニューニュース",
+    "timestamp": "2026-09-10T16:18:13+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの先月原油生産が1990年以来の最低水準に落ち込んだ。供給サイドの構造的な逼迫が示唆され、NY原油先物は100ドル台を維持。ドル底堅い相場環境も価格支援要因。"
+  },
+  {
+    "title": "銅価格が過去最高値を記録後、カナダの銅株が急落した理由 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-10T17:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高値を更新した後、カナダの銅関連株が急落。価格上昇にもかかわらず株価が下げた理由について、市場の逆張り反応やバリュエーション調整の可能性が指摘されている。"
+  },
+  {
+    "title": "米ホワイトハウス、精錬銅への関税判断先送りで銅鉱株が急落 フリーポート・マクモランは約8％安 - BigGo ファイナンス",
+    "timestamp": "2026-09-10T15:25:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米ホワイトハウスが精錬銅への関税判断を先送りした。フリーポート・マクモランなど銅鉱株が急落し、市場は政策不確実性を嫌気。通商政策の先行き懸念が強まった。"
+  },
+  {
+    "title": "ハドベイ・ミネラルズ株が急落、銅価格の急反落が重荷に 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-10T15:07:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ハドベイ・ミネラルズ株が銅価格の急反落を受けて下落。銅価格の短期的な調整局面が鉱山株に負の影響を与えている。銅需要の先行き懸念または技術的調整の可能性。"
+  },
+  {
+    "title": "銅価格にバブル懸念、1万5000ドルに接近－上昇持続に懐疑的な声も (Bloomberg) - Yahoo!ニュース",
+    "timestamp": "2026-09-10T10:55:14+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が1万5000ドル近辺まで上昇し、バブル懸念が浮上。アナリストから上昇持続性への懐疑的な見解も出ている。需給や金利動向の評価が分かれている。"
   }
 ]
