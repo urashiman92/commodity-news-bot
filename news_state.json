@@ -11,28 +11,6 @@
     "summary": "銅が過去最高値を更新。トランプ政権による精製銅への関税導入観測が買い圧力となっている。供給コスト上昇への市場の先行き織り込みが進んでいる。"
   },
   {
-    "title": "ロンドン銅が史上最高値を突破 関税裁定取引で在庫枯渇、鉱山減産が追い打ち - BigGo ファイナンス",
-    "timestamp": "2026-09-07T20:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ロンドン銅が史上最高値を突破。関税裁定取引による在庫枯渇と鉱山の減産が同時に発生し、供給逼迫が深刻化。需給ギャップの急速な拡大で価格上昇圧力が強まっている。"
-  },
-  {
-    "title": "古河機械金属の事業戦略／中戸川稔社長に聞く／次期中計、社会・環境領域で成長投資／電子部門、窒化アルミの生産能力増強／Ｍ＆Ａの相乗効果最大化に注力 - 日刊鉄鋼新聞 Japan Metal Daily",
-    "timestamp": "2026-09-07T20:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "古河機械金属が次期中期経営計画で社会・環境領域への成長投資を強化。電子部門における窒化アルミの生産能力増強とM&A相乗効果の最大化に注力する方針を発表。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は2営業日続落し4406ドル｜米長期金利の上昇が影響した模様(2026年9月8日) - OANDA証券",
     "timestamp": "2026-09-07T23:25:29+00:00",
     "importance": 3,
@@ -2517,5 +2495,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が1万5000ドル近辺まで上昇し、バブル懸念が浮上。アナリストから上昇持続性への懐疑的な見解も出ている。需給や金利動向の評価が分かれている。"
+  },
+  {
+    "title": "金価格が4,400ドル台を回復、トレーダーは米連邦準備制度理事会（FRB）の利上げ経路を分析 - Moomoo",
+    "timestamp": "2026-09-10T10:40:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,400ドル台を回復。トレーダーがFRBの利上げ経路を分析している。金利動向が金相場の重要な変動要因となっている。"
+  },
+  {
+    "title": "原油先物6％高、北海ブレント・ＷＴＩとも100ドル突破 - Reuters",
+    "timestamp": "2026-09-10T19:50:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が6％上昇し、北海ブレント・WTI両指標が100ドルを突破した。これは直近の相場水準から見ると大幅な上昇であり、供給懸念や地政学的リスク等の緊急要因が考えられる。投資家はポジション再評価と追加リスク要因の監視が必要。"
+  },
+  {
+    "title": "ＮＹダウ続落、終値５万２０６４ドル…原油先物価格と長期金利上昇を嫌気 - 読売新聞",
+    "timestamp": "2026-09-10T20:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが続落し52,064ドルで引けた。原油先物価格の上昇と長期金利の上昇が売り圧力となった。株価下落はリスク資産全般の調整局面を示唆。"
+  },
+  {
+    "title": "原油先物6％高、北海ブレント・ＷＴＩとも100ドル突破 - ニューズウィーク日本版",
+    "timestamp": "2026-09-10T19:50:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "北海ブレント・WTIが同時に100ドルを突破し、原油先物が6%上昇。地政学的緊張またはOPEC減産強化による供給懸念が急速に価値観を変えた。コモディティ投資家にとって重要なターニングポイント。"
+  },
+  {
+    "title": "ＮＹ株４日続落、３１６ドル安＝原油相場高騰で - 時事通信ニュース",
+    "timestamp": "2026-09-10T20:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株が4日続落で316ドル安となり、原油相場の高騰が株価下押し圧力となっている。原油高がエネルギーコストを押し上げ、企業利益圧迫懸念が広がっている。"
+  },
+  {
+    "title": "イエメン港湾都市掌握か フーシ派、原油価格急騰 | | 全国のニュース - 佐賀新聞",
+    "timestamp": "2026-09-10T20:40:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イエメンの港湾都市をフーシ派が掌握する可能性が報じられた。紅海の地政学的リスク増加は原油供給ルートへの脅威となり、市場は原油価格の急騰で反応。戦略的な海峡支配による供給懸念が顕在化。"
+  },
+  {
+    "title": "銅の高騰で盗難相次ぐ、正当なスクラップと見分けられるか - xtech.nikkei.com",
+    "timestamp": "2026-09-10T20:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の高騰に伴い、銅線やスクラップの盗難が増加している。盗難品と正当なスクラップの区別が課題となっている。"
   }
 ]
