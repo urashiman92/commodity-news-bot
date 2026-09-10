@@ -33,17 +33,6 @@
     "summary": "ゴールドマン・サックスが中東の船舶への攻撃が激化した場合、原油が1バレル120ドルまで上昇するリスクを指摘。現在の供給懸念を背景にした地政学的リスク評価。既存サプライチェーン脆弱性の可視化により市場心理に大きな影響を与える可能性。"
   },
   {
-    "title": "Russian Envoy Slams ‘Pressure Tactics’ Over Oil Sales to India - Bloomberg.com",
-    "timestamp": "2026-09-07T01:00:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの外交官がインドへの石油販売に対する「圧力戦術」を批判。米国の制裁圧力下でもロシアはインドとの石油取引を継続・強化する意向を示唆。地政学的な供給構図の変化が進行しているが、市場織り込み済みの既知事象。"
-  },
-  {
     "title": "Palm Oil Climbs as Indonesian Forest Fires Puts Supply at Risk - Bloomberg.com",
     "timestamp": "2026-09-07T04:58:00+00:00",
     "importance": 4,
@@ -1175,5 +1164,49 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "探鉱企業が金鉱床で2.0g/tを68m区間で記録したとの報告。同時にAI需要の拡大が銅需要を刺激しているとの観測。個別企業の探鉱成功は長期的な供給見通しに影響するが、直近の市場価格には限定的。"
+  },
+  {
+    "title": "Nasdaq 100 forecast: Oil and yields apply pressure ahead of CPI - stonex.com",
+    "timestamp": "2026-09-09T13:20:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "本レポートはNasdaq100とコモディティ市場の相互作用を論じたコメンタリー。原油価格と米国債利回りがNasdaq100に下押し圧力をかけている状況を指摘。CPI発表を控える中、原油相場の堅調さと金利上昇トレンドがリスク資産売却につながる可能性を提示。"
+  },
+  {
+    "title": "Nasdaq 100 forecast: Oil and yields apply pressure ahead of CPI - stonex.com",
+    "timestamp": "2026-09-09T13:20:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "本レポートはNasdaq100とコモディティ市場の相互作用を論じたコメンタリー。原油価格と米国債利回りがNasdaq100に下押し圧力をかけている状況を指摘。CPI発表を控える中、原油相場の堅調さと金利上昇トレンドがリスク資産売却につながる可能性を提示。"
+  },
+  {
+    "title": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap - bloomberg.com",
+    "timestamp": "2026-09-09T22:13:56+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株式市場が原油価格上昇に伴うインフレ懸念から売圧を受ける見通し。原油高がインフレ期待を刺激し、金融引き締めシナリオを強める可能性がある。コモディティ市場では原油は支援される一方、金などドル建て資産は圧力を受ける混合シグナル。"
+  },
+  {
+    "title": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap - bloomberg.com",
+    "timestamp": "2026-09-09T22:13:56+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株式市場が原油価格上昇に伴うインフレ懸念から売圧を受ける見通し。原油高がインフレ期待を刺激し、金融引き締めシナリオを強める可能性がある。コモディティ市場では原油は支援される一方、金などドル建て資産は圧力を受ける混合シグナル。"
   }
 ]
