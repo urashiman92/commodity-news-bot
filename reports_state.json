@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ to pause oil output increase in October - chinadailyasia.com",
-    "timestamp": "2026-09-07T04:06:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が10月の石油生産増加を一時停止することを決定。これは供給制御による価格維持姿勢を示すもの。世界的な需要の不確実性と価格下押し圧力に対抗する戦略的な措置。既報の範囲内だが、市場の供給引き締め期待を改めて確認させるニュース。"
-  },
-  {
     "title": "OPEC+ 7 Reveal October Output Plan - rigzone.com",
     "timestamp": "2026-09-07T09:32:25+00:00",
     "importance": 2,
@@ -20,39 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が10月の石油生産計画を発表。7カ国グループによる協調減産・増産の方針が示されたと考えられるが、具体的な生産量調整幅や参加国の詳細が記事URLから確認不可。市場は既に段階的な減産終了の可能性を織り込んでいる可能性が高い。"
-  },
-  {
-    "title": "Goldman sees $120/bbl oil risk if attacks on Middle East vessels intensify, Bloomberg reports - Reuters",
-    "timestamp": "2026-09-07T05:49:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ゴールドマン・サックスが中東の船舶への攻撃が激化した場合、原油が1バレル120ドルまで上昇するリスクを指摘。現在の供給懸念を背景にした地政学的リスク評価。既存サプライチェーン脆弱性の可視化により市場心理に大きな影響を与える可能性。"
-  },
-  {
-    "title": "Palm Oil Climbs as Indonesian Forest Fires Puts Supply at Risk - Bloomberg.com",
-    "timestamp": "2026-09-07T04:58:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "大豆",
-    "summary": "インドネシアの森林火災がパーム油の供給リスクを高め、パーム油価格が上昇している。森林火災は予測困難な突発事象であり、世界最大級のパーム油生産国からの供給逼迫は食用油全体の価格上昇圧力となる。大豆油など代替油脂の需要増加も見込まれ、関連コモディティに波及効果が予想される。"
-  },
-  {
-    "title": "Palm Oil Climbs as Indonesian Forest Fires Puts Supply at Risk - Bloomberg.com",
-    "timestamp": "2026-09-07T04:58:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インドネシアの森林火災がパーム油の供給リスクを高め、パーム油価格が上昇している。森林火災は予測困難な突発事象であり、世界最大級のパーム油生産国からの供給逼迫は食用油全体の価格上昇圧力となる。大豆油など代替油脂の需要増加も見込まれ、関連コモディティに波及効果が予想される。"
   },
   {
     "title": "OPEC says it will pause oil output increases in October - WPLG Local 10",
@@ -1208,5 +1164,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株式市場が原油価格上昇に伴うインフレ懸念から売圧を受ける見通し。原油高がインフレ期待を刺激し、金融引き締めシナリオを強める可能性がある。コモディティ市場では原油は支援される一方、金などドル建て資産は圧力を受ける混合シグナル。"
+  },
+  {
+    "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - Reuters",
+    "timestamp": "2026-09-09T17:45:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが原油価格見通しを引き上げた。イラン情勢緊迫化に伴う地政学的リスクが顕在化し、グローバル石油在庫の急速な枯渇が予想される。供給ショックの懸念が市場を直撃し、原油相場は上昇圧力を強める状況。"
+  },
+  {
+    "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - Reuters",
+    "timestamp": "2026-09-09T17:45:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIAが原油価格見通しを引き上げた。イラン情勢緊迫化に伴う地政学的リスクが顕在化し、グローバル石油在庫の急速な枯渇が予想される。供給ショックの懸念が市場を直撃し、原油相場は上昇圧力を強める状況。"
+  },
+  {
+    "title": "U.S. Corn Maturity Races Ahead of Average as Harvest Accelerates Across 10 States - AgroLatam",
+    "timestamp": "2026-09-09T22:40:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの成熟が平年を大きく上回るペースで進行し、10州で収穫が加速している。成熟の早期化と収穫ペースの加速は、市場予想されていた豊作シナリオの具現化を示唆。供給増加への懸念から価格下押し圧力が増す可能性が高い。"
+  },
+  {
+    "title": "Currency markets subdued as oil shock lifts global yields; ECB, US inflation eyed - Reuters",
+    "timestamp": "2026-09-10T02:07:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油ショックがグローバル利回り上昇をけん引し、通貨市場は低調推移。ECB金融政策とUS インフレデータが市場の焦点。金利上昇は金に下押し圧力をもたらす一方、原油は堅調な供給懸念で支持される可能性。"
+  },
+  {
+    "title": "Currency markets subdued as oil shock lifts global yields; ECB, US inflation eyed - Reuters",
+    "timestamp": "2026-09-10T02:07:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "原油ショックがグローバル利回り上昇をけん引し、通貨市場は低調推移。ECB金融政策とUS インフレデータが市場の焦点。金利上昇は金に下押し圧力をもたらす一方、原油は堅調な供給懸念で支持される可能性。"
+  },
+  {
+    "title": "Currency markets subdued as oil shock lifts global yields; ECB, US inflation eyed - Reuters",
+    "timestamp": "2026-09-10T02:07:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油ショックがグローバル利回り上昇をけん引し、通貨市場は低調推移。ECB金融政策とUS インフレデータが市場の焦点。金利上昇は金に下押し圧力をもたらす一方、原油は堅調な供給懸念で支持される可能性。"
   }
 ]
