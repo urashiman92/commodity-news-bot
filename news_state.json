@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（9月9日）の金価格：4,400ドル付近まで下落しており、さらに下落する可能性が高い。 - Vietnam.vn",
-    "timestamp": "2026-09-08T21:37:51+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が9月9日時点で4,400ドル付近まで下落している。記事はさらなる下落の可能性を指摘するアナリスト見解。既に織り込まれた相場の技術的な解説。"
-  },
-  {
-    "title": "米関税に鉱山崩壊が襲う…高騰する銅価格が史上最高値に - ｄメニューニュース",
-    "timestamp": "2026-09-08T22:48:31+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国の関税政策と鉱山生産の課題により銅価格が史上最高値を更新。供給サイドの制約と需要サイドの関税圧力が複合的に作用している。投資家にとってポジション再検討が必要な重要局面。"
-  },
-  {
     "title": "NY金先物は続落、9月FOMCでの利上げ観測と原油高が重しに｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-09-09T00:23:00+00:00",
     "importance": 3,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が続落。9月FOMC利上げ観測と原油高が金相場の上昇を抑制している状況を解説した相場観測記事。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は3営業日続落し4355ドル｜米国の利上げの可能性が影響している模様(2026年9月9日) - OANDA証券",
-    "timestamp": "2026-09-08T23:07:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は3営業日連続で下落し4355ドルまで低下。米国の利上げ可能性が重圧となっている。金利上昇環境では非利息資産である金の相対的魅力が減少する状況が続く。"
   },
   {
     "title": "9月9日の金価格：国内価格と国際価格が反転。 - Vietnam.vn",
@@ -55,39 +22,6 @@
     "summary": "ベトナムにおいて9月9日の金価格で国内価格と国際価格の方向性が逆転したことを報じるもの。具体的な価格変動幅や要因が記事概要では不明。市場全体への波及効果は限定的と考えられる。"
   },
   {
-    "title": "2026年9月9日現在の金価格：SJC金価格は横ばい、今後も圧力は続く。 - Vietnam.vn",
-    "timestamp": "2026-09-08T23:36:22+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が横ばいで推移している。アナリストは今後も金価格への下押し圧力が続くと予想。市場全体の弱気見通しが継続。"
-  },
-  {
-    "title": "日本市場、原油価格上昇で株・債券安へ－円は日銀利上げにらみ堅調 - Bloomberg.com",
-    "timestamp": "2026-09-08T23:12:28+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格上昇が日本市場全体に波及し、株式・債券が売却される一方で、日銀の利上げ観測を背景に円が堅調に推移している。国内マクロ環境と原油価格の連動性を示唆。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：中東情勢の悪化による原油供給懸念が高まり、原油価格は2営業日続伸（2026年9月9日） - OANDA証券",
-    "timestamp": "2026-09-08T23:11:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢悪化に伴う原油供給懸念から、WTI原油が2営業日続伸。市場では地政学リスクの再認識が進みつつある。既知の地政学的緊張が継続していることの追認報道。"
-  },
-  {
     "title": "原油先物4日続伸、1ドル超上昇 イランのヨルダン攻撃で - ニューズウィーク日本版",
     "timestamp": "2026-09-09T00:48:00+00:00",
     "importance": 4,
@@ -97,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イランがヨルダンを攻撃したことにより、中東地政学リスクが高まった。原油先物は4日続伸で1ドル超の上昇。供給途絶への懸念が価格を押し上げている。"
-  },
-  {
-    "title": "ＮＹ原油先物続伸、３カ月ぶり高値 - 下野新聞社",
-    "timestamp": "2026-09-08T22:12:32+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が3カ月ぶりの高値を更新し、続伸している。市場が上昇トレンドを継続している状況。具体的な新規材料の報道がなく、技術的な買い継続の相場展開と考えられる。"
   },
   {
     "title": "中東エネルギー施設再び攻撃され原油価格が100ドルに迫る 米国株式市場でダウ工業株平均が628ポイント急落、フィラデルフィア半導体指数のみ独歩高 - BigGo ファイナンス",
@@ -121,17 +44,6 @@
     "summary": "中東エネルギー施設への攻撃により原油価格が100ドルに迫る水準まで上昇。地政学的リスクによる供給懸念が市場を刺激。米国株は下落する中、エネルギー関連セクターのポジション見直しが必要。"
   },
   {
-    "title": "米関税に鉱山崩壊が襲う…高騰する銅価格が史上最高値に（中央日報日本語版） - Yahoo!ニュース",
-    "timestamp": "2026-09-08T22:44:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国の関税政策と鉱山での崩壊事故が重なり、銅供給の逼迫懸念が高まっている。銅価格が史上最高値を更新し、供給サイドの複数ショックが同時発生。コモディティ相場の大転換を示唆する重要な局面。"
-  },
-  {
     "title": "銅価格が過去最高値を更新。米国の関税措置が買い付けラッシュを引き起こした。 - Vietnam.vn",
     "timestamp": "2026-09-09T00:32:24+00:00",
     "importance": 4,
@@ -141,39 +53,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米国の関税措置が買い控えから買い付けラッシュへ需要転換を促し、銅価格が過去最高値を更新。政策不確実性による先制買い圧力が強い。"
-  },
-  {
-    "title": "８日の主要国際商品市況 - 株探",
-    "timestamp": "2026-09-08T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "8日の主要国際商品市況についての市場レポート。具体的な価格変動や市場材料の詳細が記事本文に含まれていないため、評価が限定される。市場の日次振り返り解説として機能。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、銀、銅、小麦、大豆が上昇 天然ガス、金、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-08T22:29:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で混合的な値動き。エネルギー（原油・ガソリン）と貴金属・穀物に買いが入る一方、天然ガス・金・トウモロコシは売られた。個別材料による分散的な動きと見られる。"
-  },
-  {
-    "title": "８日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-09-08T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "8日の主要国際商品市況に関する定期的な市況レポート。具体的な商品別の価格動向や要因については記事内容が不明。"
   },
   {
     "title": "銅価格は史上最高値を更新した一方、小麦価格は6％下落した。 - vietnam.vn",
@@ -823,17 +702,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米大統領が中間選挙後まで原油価格は下がらないとの見通しを述べた。選挙対策で低油価を求める政治的圧力が存在する状況を示唆。価格抑制への政策的関心を明確化した発言。"
-  },
-  {
-    "title": "智通港股速報｜ロンドン銅価格が過去最高を更新、上海原油はブレント原油に対してプレミアムに転換 - Moomoo",
-    "timestamp": "2026-09-08T23:15:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ロンドン銅価格が過去最高を更新。上海原油がブレント原油に対してプレミアム転換。世界的なコモディティ強気相場の継続を示唆。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は4営業日ぶりに上昇し4402ドル｜押し目買いの動きが強まる(2026年9月10日) - oanda.jp",
@@ -2484,5 +2352,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "トランプ政権が銅への関税適用を保留。ホワイトハウスが銅価格上昇による経済への悪影響を懸念し、実装を遅延させた。政策の不確実性が軽減され、銅の急騰リスクが一時的に後退。"
+  },
+  {
+    "title": "本日9月12日の金価格：買い圧力により約1％回復。 - Vietnam.vn",
+    "timestamp": "2026-09-11T23:00:29+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月12日の金価格が買い圧力により約1％回復した。技術的反発を示す日中の値動き。短期的な需給バランスの改善が背景。"
+  },
+  {
+    "title": "9月12日朝の金価格更新:価格上昇、予想外の逆転劇 - Laodong.vn",
+    "timestamp": "2026-09-11T23:30:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月12日朝の金価格が上昇し、予想外の逆転劇が発生した。具体的な価格水準や上昇率、背景要因の詳細は記事本文の確認が必要。市場センチメントの変化を示す軽微なニュース。"
+  },
+  {
+    "title": "本日（9月12日）の金価格：SJC金価格は急落、米国の消費者物価指数（CPI）発表後、世界の金価格は回復。 - Vietnam.vn",
+    "timestamp": "2026-09-11T22:56:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月12日の金価格は米国CPI発表をきっかけに変動。SJC金は急落したが、世界の金価格は発表後に回復した。市場のインフレ見通しに対する反応が分かれている。"
+  },
+  {
+    "title": "米インフレデータ後の押し目買いで金価格が小幅上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-11T00:53:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米インフレデータ発表後、金価格が小幅上昇した。インフレデータ発表時の値下げ後の押し目買いが発生。テクニカル的な反発と解釈される。"
+  },
+  {
+    "title": "国際原油価格、ホルムズ海峡協議への期待で2%台急落…Brent・WTIともに100ドル台すれすれ - BigGo ファイナンス",
+    "timestamp": "2026-09-11T21:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡協議への期待感から原油価格が2%台の下落。BrentとWTIともに100ドル台を割る水準。地政学的緊張の緩和を市場が織り込んでいる状況。"
   }
 ]
