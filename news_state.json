@@ -1,27 +1,5 @@
 [
   {
-    "title": "サウスダコタ州穀物入札：トウモロコシ・大豆・小麦価格（2026年9月8日）| USDAレポート - ニュースと統計 - IndexBox",
-    "timestamp": "2026-09-08T19:30:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "サウスダコタ州の穀物入札（トウモロコシ・大豆・小麦）の価格情報をUSDAが報告。2026年9月8日時点の地域別価格データの定期発表。具体的な価格変動や市場への指向性は記事概要からは不明。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況・8日 続落 - Moomoo",
-    "timestamp": "2026-09-08T21:12:55+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物市場が8日に続落した。具体的な下落率や要因の詳細は記事概要からは不明。市場の技術的売却またはドル強化など複数要因の可能性。"
-  },
-  {
     "title": "本日（9月9日）の金価格：4,400ドル付近まで下落しており、さらに下落する可能性が高い。 - Vietnam.vn",
     "timestamp": "2026-09-08T21:37:51+00:00",
     "importance": 2,
@@ -31,83 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が9月9日時点で4,400ドル付近まで下落している。記事はさらなる下落の可能性を指摘するアナリスト見解。既に織り込まれた相場の技術的な解説。"
-  },
-  {
-    "title": "原油先物6週間ぶり高値、フーシ派がサウジ攻撃 中東緊張が拡大 - Reuters",
-    "timestamp": "2026-09-08T20:30:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イエメンのフーシ派がサウジアラビアを攻撃し、中東地政学リスクが急速に拡大している。原油先物は6週間ぶりの高値を更新し、供給途絶への懸念が市場を押し上げている。中東緊張の深刻化は原油価格の上昇圧力として機能している。"
-  },
-  {
-    "title": "ＮＹ原油先物続伸、３カ月ぶり高値 - 沖縄タイムス社",
-    "timestamp": "2026-09-08T20:08:40+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が3カ月ぶりの高値まで上昇。相場の上昇トレンド継続を示す。具体的な供給ショックやファンダメンタルズ変化の記載なし。"
-  },
-  {
-    "title": "ＮＹダウ終値、６２８ドル安の５万２７８６ドル…中東情勢の悪化で原油先物価格が上昇 - 読売新聞",
-    "timestamp": "2026-09-08T20:53:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の悪化により原油先物価格が上昇した。NYダウは同時に628ドル下落し、リスク回避の動きが見られた。原油高による経済減速懸念が株価を圧迫。"
-  },
-  {
-    "title": "【速報】NY原油先物続伸、3カ月ぶり高値 - 47NEWS",
-    "timestamp": "2026-09-08T20:08:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が3カ月ぶりの高値まで上昇した。継続的な上昇基調が続いている。具体的な新規材料は示されていない。"
-  },
-  {
-    "title": "NY原油先物続伸、3カ月ぶり高値 - nippon.com",
-    "timestamp": "2026-09-08T20:09:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が続伸し、3カ月ぶりの高値を更新した。既存トレンドの延続を示すテクニカルな動きで、市場心理の改善を反映している。具体的な需給ファンダメンタルズの新情報は記事から特定できない。"
-  },
-  {
-    "title": "原油先物6週間ぶり高値、フーシ派がサウジ攻撃 中東緊張が拡大 - ニューズウィーク日本版",
-    "timestamp": "2026-09-08T20:29:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビア攻撃が報じられ、原油先物が6週間ぶりの高値を更新。中東地政学リスクが再燃し、供給懸念が価格を押し上げている。"
-  },
-  {
-    "title": "NY原油先物続伸、3カ月ぶり高値 - ｄメニューニュース",
-    "timestamp": "2026-09-08T20:08:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が3カ月ぶりの高値を更新し、続伸している。価格上昇トレンドが継続している状況。需給バランスや地政学的要因による底堅い展開と推察される。"
   },
   {
     "title": "米関税に鉱山崩壊が襲う…高騰する銅価格が史上最高値に - ｄメニューニュース",
@@ -218,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東エネルギー施設への攻撃により原油価格が100ドルに迫る水準まで上昇。地政学的リスクによる供給懸念が市場を刺激。米国株は下落する中、エネルギー関連セクターのポジション見直しが必要。"
-  },
-  {
-    "title": "米国・カナダ間の新関税が価格を圧迫し、コーン先物は-1.16% - Traders Union",
-    "timestamp": "2026-09-08T20:13:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "米国・カナダ間の新関税措置がトウモロコシ先物を圧迫し-1.16%の下落。北米域内の貿易環境悪化がコーン需要減少を懸念させる。既報の関税交渉の具体化に伴う想定内の反応。"
   },
   {
     "title": "米関税に鉱山崩壊が襲う…高騰する銅価格が史上最高値に（中央日報日本語版） - Yahoo!ニュース",
@@ -2495,5 +2385,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が1万5000ドル近辺まで上昇し、バブル懸念の声が市場で出ている。上昇持続に対する懐疑的な見方もあり、調整リスクが意識されている。"
+  },
+  {
+    "title": "USDA AMS油糧種子報告：2026年9月11日のトウモロコシ、大豆、小麦先物清算値 - ニュースと統計 - IndexBox",
+    "timestamp": "2026-09-11T20:42:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "USDA AMS油糧種子報告として2026年9月11日のトウモロコシ、大豆、小麦先物の清算値を報告するニュース。定期的な価格統計情報の公表。"
+  },
+  {
+    "title": "原油先物反落、中東供給懸念根強く100ドル台維持 - Reuters",
+    "timestamp": "2026-09-11T20:59:55+00:00",
+    "importance": 3,
+    "direction": "上�昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物は反落したものの、中東からの供給懸念が根強く残存。価格は100ドル台を維持している状況。地政学的リスク要因が下値支持水準として機能。"
+  },
+  {
+    "title": "ＮＹダウ終値、原油価格の下落で５営業日ぶり上昇…前日比５０９ドル高の５万２５７３ドル - 読売新聞",
+    "timestamp": "2026-09-11T20:49:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが5営業日ぶりに上昇し52,573ドルで引けた。原油価格の下落が株価を下支えした。通常のマクロ相場動向の報道。"
+  },
+  {
+    "title": "原油先物反落、中東供給懸念根強く100ドル台維持 - ニューズウィーク日本版",
+    "timestamp": "2026-09-11T20:59:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物は反落したが、中東の供給懸念が継続的に市場を下支えしており、100ドル台の水準を維持している。地政学リスクが価格の下値を堅い状態にあることが確認される。"
+  },
+  {
+    "title": "ＮＹ株５日ぶり反発、５０９ドル高＝原油価格の下落で - 時事通信ニュース",
+    "timestamp": "2026-09-11T20:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株が5日ぶりに反発し509ドル高で終了。原油価格の下落がエネルギーコストの低下を通じて株式市場の重荷が軽減された。既に織り込まれた相場の振り返り報道。"
+  },
+  {
+    "title": "原油価格の高騰が続く見込み - IDNFinancials",
+    "timestamp": "2026-09-11T16:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アナリストが原油価格の高騰が今後も続くとの見通しを発表。需給逼迫やジオポリティカルリスクなどの構造的要因が背景。既に市場で認識されている傾向の解説記事。"
+  },
+  {
+    "title": "【原油ウォッチ】中東緊迫で再び100ドル超え、投機マネーも流入…価格高騰で原油の需要破壊が進む可能性も - JBpress",
+    "timestamp": "2026-09-11T21:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の地政学的緊張により原油は100ドル超へ上昇。投機マネー流入で相場が加熱している状況。一方、高値での需要破壊リスクが顕在化する可能性が指摘されている。"
+  },
+  {
+    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-09-11T18:49:40+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WisdomTree WTI原油上場投信（1690）の株価・株式情報ページの更新。単なる投信の情報提供ページであり、新規ニュースや市場イベントではない。"
+  },
+  {
+    "title": "トランプ、銅関税を保留、ホワイトハウスは価格上昇リスクを懸念 - IDNFinancials",
+    "timestamp": "2026-09-11T06:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "トランプ政権が銅への関税適用を保留。ホワイトハウスが銅価格上昇による経済への悪影響を懸念し、実装を遅延させた。政策の不確実性が軽減され、銅の急騰リスクが一時的に後退。"
   }
 ]
