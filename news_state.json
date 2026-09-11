@@ -11,17 +11,6 @@
     "summary": "サウスダコタ州の穀物入札（トウモロコシ・大豆・小麦）の価格情報をUSDAが報告。2026年9月8日時点の地域別価格データの定期発表。具体的な価格変動や市場への指向性は記事概要からは不明。"
   },
   {
-    "title": "金価格が小幅上昇し4,400ドル超え、ドル安が追い風—米インフレ指標待ち - BigGo ファイナンス",
-    "timestamp": "2026-09-08T18:45:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,400ドルを超え小幅上昇。ドル安が支援要因となっている。米インフレ指標の発表を控え、市場は様子見姿勢。"
-  },
-  {
     "title": "ニューヨーク金先物市場概況・8日 続落 - Moomoo",
     "timestamp": "2026-09-08T21:12:55+00:00",
     "importance": 2,
@@ -119,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が3カ月ぶりの高値を更新し、続伸している。価格上昇トレンドが継続している状況。需給バランスや地政学的要因による底堅い展開と推察される。"
-  },
-  {
-    "title": "大豆先物はUSX1,298のサポートが維持され、横ばいで推移 - Traders Union",
-    "timestamp": "2026-09-08T17:09:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,298のサポートレベルを維持しながら横ばいで推移している。サポート水準の保持は下落リスクが一時的に制限されていることを示唆。短期的には方向性の乏しい相場環境。"
   },
   {
     "title": "米関税に鉱山崩壊が襲う…高騰する銅価格が史上最高値に - ｄメニューニュース",
@@ -647,17 +625,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "日本政府が10月から輸入小麦の売り渡し価格を12％引き上げることを発表。政府備蓄小麦の調達コスト増加に伴う定期的な価格調整。国内製粉業者や食品メーカーのコスト増要因となる。"
-  },
-  {
-    "title": "トランプ・プーチン電話会談でウクライナ和平への期待高まり、ユーロネクスト小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-08T17:36:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "トランプ・プーチン電話会談によるウクライナ和平への期待が市場に浮上し、供給リスク低下を見込んでユーロネクスト小麦先物が下落。地政学的リスク低減が価格押し下げ要因となった。"
   },
   {
     "title": "農水省、輸入小麦の政府売り渡し価格を12%引き上げ - Traders Union",
@@ -2495,5 +2462,38 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "MEXCが提供するCME商品先物のJPY換算ライブ価格チャートと日本市場データの紹介。商品市場の価格情報プラットフォームの案内に過ぎない。"
+  },
+  {
+    "title": "悪材料の影響には限界があり、金価格の現状は依然として堅調です。 - Moomoo",
+    "timestamp": "2026-09-11T12:03:24+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は悪材料の影響を受けにくい相場環境にあり、現在の堅調さが続いている。ネガティブ要因の買い圧力への押し付けが限定的であることを示唆する。既存トレンドの継続を示すアナリスト見解。"
+  },
+  {
+    "title": "原油価格が再び100ドル台、10年国債利回りは3％に：後ずれする物価の安定回復（NRI研究員の時事解説） - news.yahoo.co.jp",
+    "timestamp": "2026-09-11T06:10:18+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドル台に再上昇し、米10年国債利回りが3%に達した。インフレ圧力の残存と金融引き締め継続への警戒が背景。物価の安定回復は当初予想より後ずれする見通し。"
+  },
+  {
+    "title": "銅価格にバブル懸念、1万5000ドルに接近－上昇持続に懐疑的な声も フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-11T16:59:34+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が1万5000ドル近辺まで上昇し、バブル懸念の声が市場で出ている。上昇持続に対する懐疑的な見方もあり、調整リスクが意識されている。"
   }
 ]
