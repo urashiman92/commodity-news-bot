@@ -1,38 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-09-08T21:53:16.264207+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASsが定期的な作物進捗・状態推定値(Crop Progress and Condition Estimates)を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率と生育状況を報告するもので、市場は農産物供給見通しの更新を注視。具体的な数値が提供される文書なし。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-09-08T21:53:16.264207+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASsが定期的な作物進捗・状態推定値(Crop Progress and Condition Estimates)を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率と生育状況を報告するもので、市場は農産物供給見通しの更新を注視。具体的な数値が提供される文書なし。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-09-08T21:53:16.264207+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASsが定期的な作物進捗・状態推定値(Crop Progress and Condition Estimates)を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の播種進捗率と生育状況を報告するもので、市場は農産物供給見通しの更新を注視。具体的な数値が提供される文書なし。"
-  },
-  {
     "title": "Gold Drill Hits 2.0 g/t Over 68m as AI Fuels Copper Demand - Streetwise Reports",
     "timestamp": "2026-09-09T00:00:00+00:00",
     "importance": 2,
@@ -108,28 +75,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "米国がイラン・ホルムズ海峡近くのハルグ島周辺を攻撃したとの報道により、原油価格が上昇。ハルグ島はイランの主要な石油積出港であり、中東の地政学的リスク上昇がサプライズとして市場に反応。供給中断懸念が価格を押し上げている。"
-  },
-  {
-    "title": "Asian Chip Stocks Set for Gains, Brent Nears $100: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-08T22:11:28+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア系チップ株が上昇見通しの中、Brent原油が100ドル近辺まで上昇している。市場全般では技術セクターと資源セクターが異なる方向性を示唆している状況。原油上昇は供給懸念やドル弱材料が背景か。"
-  },
-  {
-    "title": "Asian Chip Stocks Set for Gains, Brent Nears $100: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-08T22:11:28+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア系チップ株が上昇見通しの中、Brent原油が100ドル近辺まで上昇している。市場全般では技術セクターと資源セクターが異なる方向性を示唆している状況。原油上昇は供給懸念やドル弱材料が背景か。"
   },
   {
     "title": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ",
@@ -1914,17 +1859,6 @@
     "summary": "USDA WASDE（世界農業需給予測）発表を控え、トウモロコシと大豆が調整売りに直面している。同レポートは米国の生産量・在庫・輸出見通しに関する最重要統計であり、市場参加者は事前に利益確定を進めている。発表内容によっては価格が大きく変動する可能性が高い。"
   },
   {
-    "title": "U.S. Corn Harvest Hits 5% as Crop Condition Falls to a Season Low - AgroLatam",
-    "timestamp": "2026-09-08T20:45:07+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国トウモロコシの収穫が5%に留まり、作柄指数が季節最低水準に低下した。秋口の悪天候が収穫進捗を遅延させており、収穫期後半への不確実性が増加。作柄悪化は供給懸念につながり、価格支援要因となる可能性がある。"
-  },
-  {
     "title": "OPEC Reports Sharp Drop in Iranian Crude Production - IranWire",
     "timestamp": "2026-09-11T14:26:19+00:00",
     "importance": 4,
@@ -2242,5 +2176,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国債利回りが急上昇し、自社株買い戻し結果が売却圧力となっている。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油はファンダメンタルズと金融要因が混在。コモディティ全般に対してリスク資産圧力が強まる局面。"
+  },
+  {
+    "title": "USDA Grain Shock: Corn, Soybeans and Wheat Slide as WASDE Reshapes U.S. Markets - AgroLatam",
+    "timestamp": "2026-09-11T20:50:43+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA のWASDE月次レポートにおいて、トウモロコシ・大豆・小麦が同時に下落した。米国穀物市場全体に構造的な供給増加や需要減少の見通しが示されたもよう。具体的な生産量・在庫数値は記事から確認できないため、詳細なサプライズ度評価には原レポートの確認が必要。"
+  },
+  {
+    "title": "USDA Grain Shock: Corn, Soybeans and Wheat Slide as WASDE Reshapes U.S. Markets - AgroLatam",
+    "timestamp": "2026-09-11T20:50:43+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA のWASDE月次レポートにおいて、トウモロコシ・大豆・小麦が同時に下落した。米国穀物市場全体に構造的な供給増加や需要減少の見通しが示されたもよう。具体的な生産量・在庫数値は記事から確認できないため、詳細なサプライズ度評価には原レポートの確認が必要。"
+  },
+  {
+    "title": "USDA Grain Shock: Corn, Soybeans and Wheat Slide as WASDE Reshapes U.S. Markets - AgroLatam",
+    "timestamp": "2026-09-11T20:50:43+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA のWASDE月次レポートにおいて、トウモロコシ・大豆・小麦が同時に下落した。米国穀物市場全体に構造的な供給増加や需要減少の見通しが示されたもよう。具体的な生産量・在庫数値は記事から確認できないため、詳細なサプライズ度評価には原レポートの確認が必要。"
+  },
+  {
+    "title": "USDA expects corn production to fall, but ups forecast for soybeans - Agri-Pulse Communications, Inc.",
+    "timestamp": "2026-09-11T18:29:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが月次WASDE予報を発表。トウモロコシ生産は予想より減少見通しだが、大豆は逆に上方修正された。両穀物の需給見通しが分かれたため、市場への影響は方向性が定まりにくい状況。具体的な生産量・面積データはソース記事から確認が必要。"
+  },
+  {
+    "title": "USDA expects corn production to fall, but ups forecast for soybeans - Agri-Pulse Communications, Inc.",
+    "timestamp": "2026-09-11T18:29:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが月次WASDE予報を発表。トウモロコシ生産は予想より減少見通しだが、大豆は逆に上方修正された。両穀物の需給見通しが分かれたため、市場への影響は方向性が定まりにくい状況。具体的な生産量・面積データはソース記事から確認が必要。"
+  },
+  {
+    "title": "September WASDE maintains forecast for corn use in ethanol production - Ethanol Producer Magazine",
+    "timestamp": "2026-09-11T21:14:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "9月のWASDE報告書でトウモロコシのエタノール生産向け利用予測が据え置きとなった。前月予想からの変更がなく、市場は既に織り込み済みの内容となっている。エタノール需要の安定性を反映した据え置き判断。"
+  },
+  {
+    "title": "USDA: September WASDE increases estimate for 2025-’26 soybean oil use in biofuel - Biomass Magazine",
+    "timestamp": "2026-09-11T21:13:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA 9月WASDEレポートで、2025-26年度の大豆油バイオ燃料用途の使用見積もりが上方修正された。バイオディーゼル・再生可能ディーゼル需要の堅調が背景。大豆油相場への支援要因となるほか、大豆搾油利益にも好材料。"
+  },
+  {
+    "title": "USDA: September WASDE increases estimate for 2025-’26 soybean oil use in biofuel - Biomass Magazine",
+    "timestamp": "2026-09-11T21:13:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "原油",
+    "summary": "USDA 9月WASDEレポートで、2025-26年度の大豆油バイオ燃料用途の使用見積もりが上方修正された。バイオディーゼル・再生可能ディーゼル需要の堅調が背景。大豆油相場への支援要因となるほか、大豆搾油利益にも好材料。"
+  },
+  {
+    "title": "USDA: September WASDE increases estimate for 2025-’26 soybean oil use in biofuel - Biomass Magazine",
+    "timestamp": "2026-09-11T21:13:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDA 9月WASDEレポートで、2025-26年度の大豆油バイオ燃料用途の使用見積もりが上方修正された。バイオディーゼル・再生可能ディーゼル需要の堅調が背景。大豆油相場への支援要因となるほか、大豆搾油利益にも好材料。"
+  },
+  {
+    "title": "Saudi Shuts Oil Pipeline That Bypasses Hormuz After Attacks - Bloomberg.com",
+    "timestamp": "2026-09-11T18:46:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがホルムズ海峡を迂回するヤンブー・ジッダ・パイプライン（YJPP）を攻撃を理由に閉鎖。同パイプラインは日量300万バレルのホルムズ海峡回避ルートであり、閉鎖によりサウジの供給ルートが限定される。地政学的リスクの再燃により原油相場に上昇圧力が強まる可能性が高い。"
   }
 ]
