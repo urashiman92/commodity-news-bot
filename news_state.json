@@ -1,71 +1,5 @@
 [
   {
-    "title": "本日9月8日の金価格は、全般的に上昇した。 - Vietnam.vn",
-    "timestamp": "2026-09-08T13:42:06+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月8日の金価格が全般的に上昇した。ベトナムの報道であり、具体的な上昇幅や市場材料は記事から不明確である。"
-  },
-  {
-    "title": "原油価格は上昇を続けている。 - Vietnam.vn",
-    "timestamp": "2026-09-08T13:22:07+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が上昇を続けているという観測記事。具体的な新規材料や統計データは提示されていない。既に進行中の相場トレンドの継続を述べたもの。"
-  },
-  {
-    "title": "売り手が短期トレンドを支配するなか、コーン先物価格はさらなる下落を回避できるか？ - Traders Union",
-    "timestamp": "2026-09-08T12:58:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "コーン先物は売り手優位の短期トレンドの中にあり、さらなる下落の可能性が指摘されている。市場心理が弱気に傾く中、価格下支えの材料が限定的。"
-  },
-  {
-    "title": "大豆先物価格予測：USX1,298のサポート付近で持ち合い - Traders Union",
-    "timestamp": "2026-09-08T12:36:33+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,298のサポートレベル付近で値幅の限定的な取引となっている。テクニカル分析に基づくアナリスト予測で、明確な強気・弱気材料が示されていない。"
-  },
-  {
-    "title": "銅価格が過去最高値を更新した。 - Vietnam.vn",
-    "timestamp": "2026-09-08T13:20:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高値を更新した。需要堅調やインフレ懸念、EV需要増加など複数要因が価格上昇を支えている可能性がある。"
-  },
-  {
-    "title": "米国の関税引き上げへの懸念から、銅価格が過去最高値に急騰した。 - Vietnam.vn",
-    "timestamp": "2026-09-08T14:20:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国の関税引き上げ懸念を受けて銅価格が過去最高値まで急騰した。関税導入時の需要減退や供給チェーン混乱への先行き不安が買い圧力を生んでいる。地政学的リスクと政策不確実性が銅相場の上振れ要因として作用。"
-  },
-  {
     "title": "サウスダコタ州穀物入札：トウモロコシ・大豆・小麦価格（2026年9月8日）| USDAレポート - ニュースと統計 - IndexBox",
     "timestamp": "2026-09-08T19:30:48+00:00",
     "importance": 2,
@@ -86,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4,400ドルを超え小幅上昇。ドル安が支援要因となっている。米インフレ指標の発表を控え、市場は様子見姿勢。"
-  },
-  {
-    "title": "関税不透明感が銅相場を押し上げ、1トン1万5000ドルに迫る 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-08T15:04:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国の関税政策の不透明感が銅相場を支えており、1トン1万5000ドル手前まで上昇している。関税懸念が供給リスク材料として機能し、銅価格を下支えしている状況。"
   },
   {
     "title": "ニューヨーク金先物市場概況・8日 続落 - Moomoo",
@@ -2429,5 +2352,148 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅採掘企業の株価が下落しており、銅需要への懸念を反映している。メイシーズとメタのポジティブなニュースは銅市場の直接的な下押し要因として機能している。小売・テック企業の好調が一般的な経済需要の堅調さを示唆する一方で、銅採掘セクターは市場予想と乖離している。"
+  },
+  {
+    "title": "金価格が2%下落、3週連続の下落か？ - IDNFinancials",
+    "timestamp": "2026-09-11T09:20:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2%下落し、3週連続の下落の可能性が指摘されている。ファンダメンタルズの悪化というより相場の技術的な下押し圧力が続いている状況。"
+  },
+  {
+    "title": "本日9月11日、金価格は全面的に大幅下落して取引を終えた。 - Vietnam.vn",
+    "timestamp": "2026-09-11T13:09:30+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月11日に金価格が全面的に大幅下落で取引終了。ベトナムの報道による相場情報。具体的な下落要因や数値が不明。"
+  },
+  {
+    "title": "ビットコインと金価格下落、CPI上振れ - jp.beincrypto.com",
+    "timestamp": "2026-09-11T12:33:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "CPI上振れを受けて金とビットコイン価格が同時下落。インフレ懸念は金の買い要因となるはずが、実際には金利上昇圧力が売り圧力を上回った。両資産の連動性が注目される。"
+  },
+  {
+    "title": "8月CPI発表後の金価格：コア指数の上振れで利上げ確率90%に急伸、金は4,385ドル - FinanceFeeds",
+    "timestamp": "2026-09-11T13:50:32+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月米CPI発表でコア指数が予想を上回り、FRBの利上げ継続確率が90%に上昇。金価格は4,385ドルまで買い進まれた。インフレ長期化懸念がドル売りと実質金利低下を通じて金に買い材料。"
+  },
+  {
+    "title": "欧州株 総じて買われる、原油相場の反落を好感 - みんかぶ FX/為替",
+    "timestamp": "2026-09-11T10:07:57+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が反落したことを受けて、欧州株式市場が総じて買われた。原油価格の低下がインフレ圧力の緩和を意味し、リスク資産需要が改善した。"
+  },
+  {
+    "title": "【見通し】今日の株式見通し=軟調か 原油価格と米長期金利が一段と上昇 - 外為どっとコム",
+    "timestamp": "2026-09-10T23:19:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格と米長期金利が一段と上昇し、株式市場への軟調圧力が高まっている。コモディティ投資家にとって原油上昇は好材料だが、金利上昇による相場へのネガティブ波及に注視が必要。"
+  },
+  {
+    "title": "売られ過ぎのRSI設定：コーン先物価格は勢いを取り戻せるか？ - Traders Union",
+    "timestamp": "2026-09-11T13:01:31+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がRSI指標で売られ過ぎ水準にあり、技術的なリバウンドの可能性を指摘する解説記事。ファンダメンタルズに基づく新しい情報ではなく、テクニカル分析に基づいた観測。"
+  },
+  {
+    "title": "大豆先物価格見通し：USX1,327のレジスタンス付近で持ち合い - Traders Union",
+    "timestamp": "2026-09-11T12:26:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,327のレジスタンス付近で値動きが限定的な展開となっている。テクニカル分析に基づくポジショニング観測で、上下の値幅が制限されている状況。"
+  },
+  {
+    "title": "銅価格の下落を受け、Capstone CopperとSandfire Resourcesの株価が下落 - Moomoo",
+    "timestamp": "2026-09-11T06:52:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の下落に伴い、銅鉱山大手のCapstone CopperとSandfire Resourcesの株価が連動して下落した。銅価格の調整が鉱山会社の株価に反映された通常の値動き。"
+  },
+  {
+    "title": "香港株動向｜銅関連銘柄は全面安で始発、米ホワイトハウスの銅関税計画の停滞が報じられ、国際銅相場は木曜日に急落 - Moomoo",
+    "timestamp": "2026-09-11T01:45:13+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米ホワイトハウスの銅関税計画が停滞し、市場の不安材料が後退。木曜日の国際銅相場は急落し、香港の銅関連銘柄も全面安で始まった。政策不確実性の軽減が価格下押し圧力となった。"
+  },
+  {
+    "title": "銅価格予想：買い手が$6.68のレジスタンスを注視するなか、持ち合いが継続 - Traders Union",
+    "timestamp": "2026-09-11T12:14:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は$6.68のレジスタンスレベル付近で持ち合い継続中。買い手がこのレベルを注視している状況。テクニカル分析に基づくアナリスト見解。"
+  },
+  {
+    "title": "Commodity Market Ex. 価格分析：日本 におけるAI駆動のテクニカルインサイトと投資機会 - MEXC",
+    "timestamp": "2026-09-11T14:30:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "MEXCが日本向けにAI駆動のテクニカル分析と価格予測ツールを紹介するコンテンツ。暗号資産取引プラットフォームによる相場解説記事であり、実際のコモディティ市場イベントではなく、ツール紹介・マーケティングの性質が強い。"
+  },
+  {
+    "title": "Commodity Market Ex. 今日の価格：CME から JPY へのライブ価格チャート & 日本 の市場データ - MEXC",
+    "timestamp": "2026-09-11T14:00:02+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "MEXCが提供するCME商品先物のJPY換算ライブ価格チャートと日本市場データの紹介。商品市場の価格情報プラットフォームの案内に過ぎない。"
   }
 ]
