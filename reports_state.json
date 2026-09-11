@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil rises as risks of prolonged Mideast conflict fan supply worries - Reuters",
-    "timestamp": "2026-09-08T00:50:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東紛争の長期化リスクが高まり、原油価格が上昇。地政学的リスクプレミアムが市場に織り込まれており、供給途絶懸念が需給バランスに直結。中東産油国の生産能力喪失シナリオが価格を押し上げている。"
-  },
-  {
-    "title": "Oil rises as risks of prolonged Mideast conflict fan supply worries - Reuters",
-    "timestamp": "2026-09-08T00:50:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東紛争の長期化リスクが高まり、原油価格が上昇。地政学的リスクプレミアムが市場に織り込まれており、供給途絶懸念が需給バランスに直結。中東産油国の生産能力喪失シナリオが価格を押し上げている。"
-  },
-  {
     "title": "China’s Oil Imports Strengthen as Refiners Diversify Supply - Bloomberg.com",
     "timestamp": "2026-09-08T02:58:00+00:00",
     "importance": 3,
@@ -1725,5 +1703,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国財務省の債券買戻プログラムで予想より少ない額の買い入れが実施され、結果として長期金利が上昇。金利上昇環境では無利子資産である金に下落圧力がかかる傾向にあるが、同時に米ドル強化によるコモディティ全般への影響も観察される。財政運営の変化がマクロ環境を転換させる可能性。"
+  },
+  {
+    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
+    "timestamp": "2026-09-10T20:37:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
+  },
+  {
+    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
+    "timestamp": "2026-09-10T20:37:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
+  },
+  {
+    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
+    "timestamp": "2026-09-10T20:37:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
+  },
+  {
+    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
+    "timestamp": "2026-09-10T20:37:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
+  },
+  {
+    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
+    "timestamp": "2026-09-10T18:38:12+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
+  },
+  {
+    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
+    "timestamp": "2026-09-10T18:38:12+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
+  },
+  {
+    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
+    "timestamp": "2026-09-10T18:38:12+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銀",
+    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
+  },
+  {
+    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
+    "timestamp": "2026-09-10T18:38:12+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
   }
 ]
