@@ -1,27 +1,5 @@
 [
   {
-    "title": "Gold Drill Hits 2.0 g/t Over 68m as AI Fuels Copper Demand - Streetwise Reports",
-    "timestamp": "2026-09-09T00:00:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "探鉱企業による金の掘削結果（2.0 g/t、68m区間）が報告された。同時にAIの急速な発展に伴う銅需要の増加が指摘されている。金については既知の探鉱ニュース、銅についてはAI関連需要の長期トレンド解説となっており、市場への直近影響は限定的。"
-  },
-  {
-    "title": "Gold Drill Hits 2.0 g/t Over 68m as AI Fuels Copper Demand - Streetwise Reports",
-    "timestamp": "2026-09-09T00:00:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "探鉱企業による金の掘削結果（2.0 g/t、68m区間）が報告された。同時にAIの急速な発展に伴う銅需要の増加が指摘されている。金については既知の探鉱ニュース、銅についてはAI関連需要の長期トレンド解説となっており、市場への直近影響は限定的。"
-  },
-  {
     "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
     "timestamp": "2026-09-09T02:28:22+00:00",
     "importance": 4,
@@ -141,17 +119,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDAが9月のトウモロコシと大豆の作付面積・生産量予測を発表予定。市場参加者はこの定期統計を注視しており、ウクライナ戦争や異常気象に基づく供給懸念の再評価が想定される。数値次第で穀物先物の方向性が決定される重要な発表。"
-  },
-  {
-    "title": "Oil Stocks in US Strategic Petroleum Reserve Fall to Lowest Since 1983 - EnergyNow.com",
-    "timestamp": "2026-09-09T00:52:40+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が1983年以来の最低水準に低下。これはバイデン政権が2022年のインフレ対策としてSPRを大量放出した後、補充ペースが緩やかだったことを示唆。供給サイドのタイト化が進行しており、原油価格の上昇圧力となる。"
   },
   {
     "title": "USDA Crop Report Looms as Corn and Soybean Markets Brace for Volatility - AgroLatam",
@@ -372,28 +339,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDAが8月下旬の歴史的な価格上昇後に新たな需給予測を発表。8月末の相場急騰から市場が過熱気味であり、WASDE発表による新規ガイダンスが穀物市場の方向性を決定する重要な局面。具体的な生産量・在庫・需要見通しの改定幅が注視される。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-09T00:36:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIAが先週の原油在庫とガソリン在庫が堅調な需要を背景に低下したと報告。在庫減少は需要サイドの強さを示唆し、原油価格への上昇圧力となる可能性がある。具体的な在庫数量が記事から特定できないため、市場予想との乖離度は判断困難。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-09T00:36:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国EIAが先週の原油在庫とガソリン在庫が堅調な需要を背景に低下したと報告。在庫減少は需要サイドの強さを示唆し、原油価格への上昇圧力となる可能性がある。具体的な在庫数量が記事から特定できないため、市場予想との乖離度は判断困難。"
   },
   {
     "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
@@ -2286,5 +2231,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがホルムズ海峡を迂回するヤンブー・ジッダ・パイプライン（YJPP）を攻撃を理由に閉鎖。同パイプラインは日量300万バレルのホルムズ海峡回避ルートであり、閉鎖によりサウジの供給ルートが限定される。地政学的リスクの再燃により原油相場に上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
+    "timestamp": "2026-09-11T18:21:57+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
+  },
+  {
+    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
+    "timestamp": "2026-09-11T18:21:57+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
+  },
+  {
+    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
+    "timestamp": "2026-09-11T18:21:57+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
+  },
+  {
+    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
+    "timestamp": "2026-09-11T18:21:57+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
+  },
+  {
+    "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know - hoosieragtoday.com",
+    "timestamp": "2026-09-11T23:26:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが最新のWASDEレポートでトウモロコシの作付面積・生産量見通しを引き下げ、米国のトウモロコシ供給が逼迫する見通しが示された。供給減少は穀物市場全体の需給バランスに影響を与える重要な発表となっている。"
+  },
+  {
+    "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know - hoosieragtoday.com",
+    "timestamp": "2026-09-11T23:26:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが最新のWASDEレポートでトウモロコシの作付面積・生産量見通しを引き下げ、米国のトウモロコシ供給が逼迫する見通しが示された。供給減少は穀物市場全体の需給バランスに影響を与える重要な発表となっている。"
+  },
+  {
+    "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know - hoosieragtoday.com",
+    "timestamp": "2026-09-11T23:26:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAが最新のWASDEレポートでトウモロコシの作付面積・生産量見通しを引き下げ、米国のトウモロコシ供給が逼迫する見通しが示された。供給減少は穀物市場全体の需給バランスに影響を与える重要な発表となっている。"
+  },
+  {
+    "title": "Copper Surges to Record High: Which Copper Stocks Are Worth Watching? - TradingKey",
+    "timestamp": "2026-09-12T00:05:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高水準に急騰し、投資家の注目が集まっている。強気な市場環境の中、銅関連株の投資機会を検討するレポート。電気自動車・再生可能エネルギー関連の需要増加が背景。具体的な価格水準は記事本体に記載と推定。"
+  },
+  {
+    "title": "Oil falls but head for 8% weekly gain on tight supply; US diesel hits record - Reuters",
+    "timestamp": "2026-09-11T01:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国ディーゼル価格が過去最高値を更新し、週間ベースで原油が8%の上昇を記録。供給逼迫が主因で、単日では調整局面も、週間での堅調さは需給の構造的ひっ迫を示唆。ガソリン・軽油市場の極度の逼迫が地政学リスクと相まって価格圧力を強化している。"
   }
 ]
