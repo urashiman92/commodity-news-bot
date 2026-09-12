@@ -1,49 +1,5 @@
 [
   {
-    "title": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ",
-    "timestamp": "2026-09-09T10:10:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECおよび同盟国が10月の石油産出量を据え置くことで合意した。前月の産出政策を継続する決定であり、大幅な減産・増産は伴わない。市場は既に定例会合としてこの結果を織り込んでいる可能性が高い。"
-  },
-  {
-    "title": "Dangote's proposed Kenyan oil refinery faces hurdles, not least with crude supply - Reuters",
-    "timestamp": "2026-09-09T06:02:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ダンゴテ・グループがケニアで計画している製油所プロジェクトが、原油調達を中心に複数の障害に直面している。アフリカの石油精製能力拡大計画として注目されていたが、地域の原油供給不足、輸送インフラの制約、プロジェクト資金調達の課題など実現性への懸念が表面化している。"
-  },
-  {
-    "title": "Corn and soybean markets await USDA’s September crop estimates - The Mighty 790 KFGO",
-    "timestamp": "2026-09-09T10:39:55+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月のトウモロコシと大豆の作付面積・生産量予測を発表予定。市場参加者はこの定期統計を注視しており、ウクライナ戦争や異常気象に基づく供給懸念の再評価が想定される。数値次第で穀物先物の方向性が決定される重要な発表。"
-  },
-  {
-    "title": "Corn and soybean markets await USDA’s September crop estimates - The Mighty 790 KFGO",
-    "timestamp": "2026-09-09T10:39:55+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが9月のトウモロコシと大豆の作付面積・生産量予測を発表予定。市場参加者はこの定期統計を注視しており、ウクライナ戦争や異常気象に基づく供給懸念の再評価が想定される。数値次第で穀物先物の方向性が決定される重要な発表。"
-  },
-  {
     "title": "USDA Crop Report Looms as Corn and Soybean Markets Brace for Volatility - AgroLatam",
     "timestamp": "2026-09-09T13:34:33+00:00",
     "importance": 4,
@@ -209,17 +165,6 @@
     "summary": "LiteFinanceによる原油価格の短期フォーキャストレポート。本日から30日先までの値動き予想を提供するもので、EIA在庫統計に基づいた解説記事と考えられる。具体的な数値や新規データが提示されていないため、定量的な市場インパクトは限定的。"
   },
   {
-    "title": "US Commercial Crude Stocks hit 8-Yr Low, Gasoline Demand Rises Ahead of Holiday Weekend - EnergyNow.com",
-    "timestamp": "2026-09-09T10:29:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国商業用原油在庫が8年ぶりの低水準に到達した。同時にガソリン需要が連休週末を控えて上昇している。在庫の急速な減少と需要増加の組み合わせは、原油価格の上昇圧力となる。供給逼迫のシグナルが強まった。"
-  },
-  {
     "title": "What to expect from USDA’s September Crop Report on Friday - Pro Farmer",
     "timestamp": "2026-09-09T18:40:16+00:00",
     "importance": 3,
@@ -251,28 +196,6 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "米国農務省（USDA）が9月に実施するCrop Progress/Production報告書の発表予定に関するレポート。同報告書は米国の主要穀物（トウモロコシ、大豆、小麦）の成長進捗状況と生産見通しを毎月公表する定例統計であり、市場の需給見通しに直結する重要指標である。具体的な予想値の開示がないため、市場サプライズ度は不確定。"
-  },
-  {
-    "title": "China Oil Demand to Shrink This Year, Sinopec Research Arm Says - Bloomberg",
-    "timestamp": "2026-09-09T10:43:46+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中国石油化工グループ（Sinopec）傘下の研究機関が、2024年の中国石油需要が前年比で減少すると発表。経済成長鈍化とEV普及加速により需要押し下げ圧力が継続。世界最大級の石油消費国からの需要減少予想は、原油市場の構造的な下押し要因として作用する見通し。"
-  },
-  {
-    "title": "China Oil Demand to Shrink This Year, Sinopec Research Arm Says - Bloomberg",
-    "timestamp": "2026-09-09T10:43:46+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国石油化工グループ（Sinopec）傘下の研究機関が、2024年の中国石油需要が前年比で減少すると発表。経済成長鈍化とEV普及加速により需要押し下げ圧力が継続。世界最大級の石油消費国からの需要減少予想は、原油市場の構造的な下押し要因として作用する見通し。"
   },
   {
     "title": "September WASDE frequently accompanied by market moves - Brownfield Ag News",
@@ -328,28 +251,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間原油在庫統計により、米国原油在庫が減少する一方で、原油価格は$100を超えて推移している。在庫減少は需要堅調または供給制約を示唆するが、価格が$100超で推移していることは地政学リスクやOPEC減産政策が価格を支えている可能性がある。"
-  },
-  {
-    "title": "Gold Drill Hits 2.0 g/t Over 68m as AI Fuels Copper Demand - Streetwise Reports",
-    "timestamp": "2026-09-09T09:41:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "探鉱企業が金鉱床で2.0g/tを68m区間で記録したとの報告。同時にAI需要の拡大が銅需要を刺激しているとの観測。個別企業の探鉱成功は長期的な供給見通しに影響するが、直近の市場価格には限定的。"
-  },
-  {
-    "title": "Gold Drill Hits 2.0 g/t Over 68m as AI Fuels Copper Demand - Streetwise Reports",
-    "timestamp": "2026-09-09T09:41:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "探鉱企業が金鉱床で2.0g/tを68m区間で記録したとの報告。同時にAI需要の拡大が銅需要を刺激しているとの観測。個別企業の探鉱成功は長期的な供給見通しに影響するが、直近の市場価格には限定的。"
   },
   {
     "title": "Nasdaq 100 forecast: Oil and yields apply pressure ahead of CPI - stonex.com",
@@ -460,28 +361,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油ショックがグローバル利回り上昇をけん引し、通貨市場は低調推移。ECB金融政策とUS インフレデータが市場の焦点。金利上昇は金に下押し圧力をもたらす一方、原油は堅調な供給懸念で支持される可能性。"
-  },
-  {
-    "title": "Corn and soybean markets await USDA’s September crop estimates - kfgo.com",
-    "timestamp": "2026-09-09T10:39:55+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月のWASDEレポートで米国トウモロコシと大豆の作付面積・生産量・在庫を発表予定。市場参加者は干ばつやエルニーニョの影響、今夏の天候リスク評価を織り込み待機中。作物の状態評価が相場の方向性を大きく左右する重要な統計。"
-  },
-  {
-    "title": "Corn and soybean markets await USDA’s September crop estimates - kfgo.com",
-    "timestamp": "2026-09-09T10:39:55+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが9月のWASDEレポートで米国トウモロコシと大豆の作付面積・生産量・在庫を発表予定。市場参加者は干ばつやエルニーニョの影響、今夏の天候リスク評価を織り込み待機中。作物の状態評価が相場の方向性を大きく左右する重要な統計。"
   },
   {
     "title": "API: US crude stocks ease slightly, gasoline reserves draw - Quantum Commodity Intelligence",
