@@ -1,38 +1,5 @@
 [
   {
-    "title": "What to expect from USDA’s September Crop Report on Friday - Pro Farmer",
-    "timestamp": "2026-09-09T18:40:16+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国農務省（USDA）が9月に実施するCrop Progress/Production報告書の発表予定に関するレポート。同報告書は米国の主要穀物（トウモロコシ、大豆、小麦）の成長進捗状況と生産見通しを毎月公表する定例統計であり、市場の需給見通しに直結する重要指標である。具体的な予想値の開示がないため、市場サプライズ度は不確定。"
-  },
-  {
-    "title": "What to expect from USDA’s September Crop Report on Friday - Pro Farmer",
-    "timestamp": "2026-09-09T18:40:16+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国農務省（USDA）が9月に実施するCrop Progress/Production報告書の発表予定に関するレポート。同報告書は米国の主要穀物（トウモロコシ、大豆、小麦）の成長進捗状況と生産見通しを毎月公表する定例統計であり、市場の需給見通しに直結する重要指標である。具体的な予想値の開示がないため、市場サプライズ度は不確定。"
-  },
-  {
-    "title": "What to expect from USDA’s September Crop Report on Friday - Pro Farmer",
-    "timestamp": "2026-09-09T18:40:16+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国農務省（USDA）が9月に実施するCrop Progress/Production報告書の発表予定に関するレポート。同報告書は米国の主要穀物（トウモロコシ、大豆、小麦）の成長進捗状況と生産見通しを毎月公表する定例統計であり、市場の需給見通しに直結する重要指標である。具体的な予想値の開示がないため、市場サプライズ度は不確定。"
-  },
-  {
     "title": "September WASDE frequently accompanied by market moves - Brownfield Ag News",
     "timestamp": "2026-09-09T20:37:09+00:00",
     "importance": 3,
@@ -108,28 +75,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株式市場が原油価格上昇に伴うインフレ懸念から売圧を受ける見通し。原油高がインフレ期待を刺激し、金融引き締めシナリオを強める可能性がある。コモディティ市場では原油は支援される一方、金などドル建て資産は圧力を受ける混合シグナル。"
-  },
-  {
-    "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - Reuters",
-    "timestamp": "2026-09-09T17:45:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが原油価格見通しを引き上げた。イラン情勢緊迫化に伴う地政学的リスクが顕在化し、グローバル石油在庫の急速な枯渇が予想される。供給ショックの懸念が市場を直撃し、原油相場は上昇圧力を強める状況。"
-  },
-  {
-    "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - Reuters",
-    "timestamp": "2026-09-09T17:45:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIAが原油価格見通しを引き上げた。イラン情勢緊迫化に伴う地政学的リスクが顕在化し、グローバル石油在庫の急速な枯渇が予想される。供給ショックの懸念が市場を直撃し、原油相場は上昇圧力を強める状況。"
   },
   {
     "title": "U.S. Corn Maturity Races Ahead of Average as Harvest Accelerates Across 10 States - AgroLatam",
@@ -1901,5 +1846,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インド株式市場が5週連続の下落を記録し、石油価格上昇懸念が市場全体を圧迫している。原油価格の上昇がインド経済の重石となり、エネルギーコスト増加による企業収益圧迫と通貨安圧力が投資家センチメント悪化の主因。新興国株式とコモディティ間の連動性が強まっている状況。"
+  },
+  {
+    "title": "Copper Surges to Record High: Which Copper Stocks Are Worth Watching? - TradingKey",
+    "timestamp": "2026-09-12T09:06:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が過去最高水準に上昇した。電気自動車需要の増加、グローバルな脱炭素化トレンド、および供給制約が価格押し上げの主要因。投資家は銅関連銘柄の選別を迫られている状況。"
   }
 ]
