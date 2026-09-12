@@ -1,60 +1,5 @@
 [
   {
-    "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
-    "timestamp": "2026-09-09T02:28:22+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東での新たなストライキ事象により、原油供給リスクが顕在化し、原油価格が$100水準に接近している。地政学的緊張による供給途絶懸念が市場心理を強気に転じさせており、OPECプラスの減産政策との相乗効果で価格上昇圧力が継続。"
-  },
-  {
-    "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - Reuters",
-    "timestamp": "2026-09-09T02:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東情勢の緊張激化により原油価格が100ドルへの上昇局面を迎えている。地政学的リスクがコモディティ市場全体に波及し、原油は供給懸念で上昇、安全資産として金も支援されている一方、アジア株式市場は景気悪化懸念で抑制されている。"
-  },
-  {
-    "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - Reuters",
-    "timestamp": "2026-09-09T02:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "中東情勢の緊張激化により原油価格が100ドルへの上昇局面を迎えている。地政学的リスクがコモディティ市場全体に波及し、原油は供給懸念で上昇、安全資産として金も支援されている一方、アジア株式市場は景気悪化懸念で抑制されている。"
-  },
-  {
-    "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - Reuters",
-    "timestamp": "2026-09-09T02:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東情勢の緊張激化により原油価格が100ドルへの上昇局面を迎えている。地政学的リスクがコモディティ市場全体に波及し、原油は供給懸念で上昇、安全資産として金も支援されている一方、アジア株式市場は景気悪化懸念で抑制されている。"
-  },
-  {
-    "title": "Oil Climbs After Report US Hit Targets Near Iran’s Kharg Island - Bloomberg.com",
-    "timestamp": "2026-09-09T05:11:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がイラン・ホルムズ海峡近くのハルグ島周辺を攻撃したとの報道により、原油価格が上昇。ハルグ島はイランの主要な石油積出港であり、中東の地政学的リスク上昇がサプライズとして市場に反応。供給中断懸念が価格を押し上げている。"
-  },
-  {
     "title": "OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ",
     "timestamp": "2026-09-09T10:10:25+00:00",
     "importance": 2,
@@ -64,28 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECおよび同盟国が10月の石油産出量を据え置くことで合意した。前月の産出政策を継続する決定であり、大幅な減産・増産は伴わない。市場は既に定例会合としてこの結果を織り込んでいる可能性が高い。"
-  },
-  {
-    "title": "China oil demand to fall 8.9% in 2026, Sinopec research says - Reuters",
-    "timestamp": "2026-09-09T05:29:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国の石油化学大手シノペックの研究部門が、2026年の中国石油需要が前年比8.9%低下すると予測。これは中国経済の減速と産業構造の転換を反映するもので、世界最大の石油輸入国の需要縮小は国際原油市場に大きな下押し圧力をもたらす可能性がある。"
-  },
-  {
-    "title": "China oil demand to fall 8.9% in 2026, Sinopec research says - Reuters",
-    "timestamp": "2026-09-09T05:29:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国の石油化学大手シノペックの研究部門が、2026年の中国石油需要が前年比8.9%低下すると予測。これは中国経済の減速と産業構造の転換を反映するもので、世界最大の石油輸入国の需要縮小は国際原油市場に大きな下押し圧力をもたらす可能性がある。"
   },
   {
     "title": "Dangote's proposed Kenyan oil refinery faces hurdles, not least with crude supply - Reuters",
@@ -185,72 +108,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDAが作物予測の精度向上に向けた定期的なレビュー実施を計画している。これは既存の作物進捗報告（Crop Progress）の補完措置であり、WASDE等の予測精度向上が目的。予測手法の透明性向上は市場信頼を高める可能性がある。"
-  },
-  {
-    "title": "Trekor Metals Stock Forecast: Florence Copper and Yellowhead Drive Growth - kalkine.ca",
-    "timestamp": "2026-09-09T02:41:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Trekor Metals社の株価予想レポートで、Florence Copper案件とYellowhead鉱床プロジェクトが同社の成長ドライバーとして位置付けられている。両案件の進展は銅供給の増加をもたらす可能性があり、中期的な銅市場の供給増加シナリオと連動する。"
-  },
-  {
-    "title": "Trekor Metals Stock Forecast: Florence Copper and Yellowhead Drive Growth - kalkine.ca",
-    "timestamp": "2026-09-09T02:41:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "Trekor Metals社の株価予想レポートで、Florence Copper案件とYellowhead鉱床プロジェクトが同社の成長ドライバーとして位置付けられている。両案件の進展は銅供給の増加をもたらす可能性があり、中期的な銅市場の供給増加シナリオと連動する。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-09-09T01:24:49+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、来年の石油生産を日量500万バレル超に引き上げる計画をIEAが報告。これはOPECの減産枠から外れたUAEが独立的に増産するシグナルであり、市場供給増加圧力となる。OPEC+の減産基調に対する逆行動。"
-  },
-  {
-    "title": "Iraq seeks output quota increase in OPEC+ audit, Bloomberg News reports - Reuters",
-    "timestamp": "2026-09-09T05:26:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPEC+の監査プロセスにおいて生産枠の増加を求めていることが報道された。イラクは歴史的に実績と割当の乖離が大きく、割当増加要求は定期的に行われている。OPEC+の次回会合での議論対象となる可能性がある。"
-  },
-  {
-    "title": "Indian stocks fall to three-month low as Brent oil surges past $100 - Reuters",
-    "timestamp": "2026-09-09T02:20:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ブレント原油が$100を突破し、インド株式が3ヶ月ぶりの安値を更新した。原油価格の急騰はエネルギーコスト上昇を通じてインド経済に下押し圧力となり、特にインフレ懸念と輸入コスト増加がリスク資産売却を加速させた。原油が心理的抵抗線である$100を超えたことで地政学的緊張や需給逼迫への市場の警戒感が高まっている。"
-  },
-  {
-    "title": "Indian stocks fall to three-month low as Brent oil surges past $100 - Reuters",
-    "timestamp": "2026-09-09T02:20:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ブレント原油が$100を突破し、インド株式が3ヶ月ぶりの安値を更新した。原油価格の急騰はエネルギーコスト上昇を通じてインド経済に下押し圧力となり、特にインフレ懸念と輸入コスト増加がリスク資産売却を加速させた。原油が心理的抵抗線である$100を超えたことで地政学的緊張や需給逼迫への市場の警戒感が高まっている。"
   },
   {
     "title": "Oil and Crop Prices Save Milei From Surging Demand for Dollars - bloomberg.com",
@@ -2330,5 +2187,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国ディーゼル価格が過去最高値を更新し、週間ベースで原油が8%の上昇を記録。供給逼迫が主因で、単日では調整局面も、週間での堅調さは需給の構造的ひっ迫を示唆。ガソリン・軽油市場の極度の逼迫が地政学リスクと相まって価格圧力を強化している。"
+  },
+  {
+    "title": "Soybeans fall after higher yield estimate - Brownfield Ag News",
+    "timestamp": "2026-09-12T00:51:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国の大豆収穫期における定期的な進捗報告で、予想より高い単収見積もりが発表された。これは供給量の増加を示唆し、市場参加者の需給シナリオを上方修正させた。高い単収見積もりは作付面積と組み合わさると総生産量の増加につながり、大豆先物価格は下落圧力を受けた。"
+  },
+  {
+    "title": "USDA lowers corn yield, production estimates - FarmWeekNow",
+    "timestamp": "2026-09-11T19:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAがトウモロコシの単収および生産量の見積もりを引き下げた。これは主要穀物供給見通しの悪化を示唆し、市場が事前予想から乖離した可能性が高い。下落圧力が作用するが、供給懸念が燃料価格にも波及する可能性がある。"
+  },
+  {
+    "title": "USDA lowers corn yield, production estimates - FarmWeekNow",
+    "timestamp": "2026-09-11T19:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAがトウモロコシの単収および生産量の見積もりを引き下げた。これは主要穀物供給見通しの悪化を示唆し、市場が事前予想から乖離した可能性が高い。下落圧力が作用するが、供給懸念が燃料価格にも波及する可能性がある。"
+  },
+  {
+    "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - Reuters",
+    "timestamp": "2026-09-12T00:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが紅海でのフーシ派勢力の増強に対応し、石油パイプラインを閉鎖。紅海航路の封鎖が深刻化しており、原油供給の代替ルート変更やタンカー運送コスト急上昇が見込まれる。中東発の地政学的リスクが顕在化し、原油市場への供給懸念が高まっている。"
   }
 ]
