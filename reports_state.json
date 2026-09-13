@@ -1,71 +1,5 @@
 [
   {
-    "title": "API: US crude stocks ease slightly, gasoline reserves draw - Quantum Commodity Intelligence",
-    "timestamp": "2026-09-10T08:46:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API週間在庫統計により、米国の原油在庫は小幅減少した一方、ガソリン在庫は取り崩しが発生した。原油市場はほぼ予想範囲内の動きで、ガソリン需要の堅調さを示唆する結果となっている。EIA公式統計の先行指標として市場が注視する定例発表。"
-  },
-  {
-    "title": "API: US crude stocks ease slightly, gasoline reserves draw - Quantum Commodity Intelligence",
-    "timestamp": "2026-09-10T08:46:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "API週間在庫統計により、米国の原油在庫は小幅減少した一方、ガソリン在庫は取り崩しが発生した。原油市場はほぼ予想範囲内の動きで、ガソリン需要の堅調さを示唆する結果となっている。EIA公式統計の先行指標として市場が注視する定例発表。"
-  },
-  {
-    "title": "Projected Corn Yields - Southeast AgNET",
-    "timestamp": "2026-09-10T09:07:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "Southeast AgNETによるトウモロコシ収量見通しレポート。南東部地域の作付進捗・収量予測に関する定期発表と考えられる。具体的な数値情報がリンク先に限定されており、現在の市場予想との比較による判断が必要。地域別の詳細データは在庫・供給量推定に活用される。"
-  },
-  {
-    "title": "OPEC oil output falls in August, Reuters survey shows By Reuters - Investing.com",
-    "timestamp": "2026-09-10T10:45:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "Reutersの調査によると、OPECの8月の石油産出量が前月比で減少したことが明らかになった。減産要因の具体的内容は記事要約からは不明だが、OPECの産出量変動は国際原油相場の主要な価格決定要因である。サプライズ度の判定には事前予想値との比較データが必要。"
-  },
-  {
-    "title": "OPEC oil output falls in August, Reuters survey shows - WNWN-FM",
-    "timestamp": "2026-09-10T11:02:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの8月時点の原油生産量がロイター調査で減少を記録した。減産傾向の継続は供給タイト化を示唆し、原油価格の上昇要因となる可能性がある。詳細な減産規模や各国別の内訳は記事から不明だが、市場には供給制約を意識させるニュースになる。"
-  },
-  {
-    "title": "Asking Price for Russian Oil Soars as China Runs Out of Options - Bloomberg.com",
-    "timestamp": "2026-09-10T07:11:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中国の石油調達オプションの枯渇により、ロシア産原油の要求価格が急騰している。米国の対ロシア制裁とウクライナ情勢の影響で、中国はロシア石油への依存を深める一方、代替調達先が限定されている状況。供給の多様化が困難になる中、ロシアは価格交渉力を強化しており、グローバル原油市場への上昇圧力が増加。"
-  },
-  {
     "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
     "timestamp": "2026-09-10T15:44:14+00:00",
     "importance": 3,
@@ -220,17 +154,6 @@
     "summary": "USDAが9月の穀物作付・生産予想を発表予定。市場参加者が推定値の修正幅を注視している。特にトウモロコシと大豆の生産量見通しが、相場形成の重要なポイント。予想比がまだ明らかでないため、発表時の方向性は未確定。"
   },
   {
-    "title": "OPEC oil output falls in August, Reuters survey shows - Reuters",
-    "timestamp": "2026-09-10T10:35:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ロイター調査によると、OPECの8月の石油生産量が低下したことが示された。具体的な減産幅や加盟国別の詳細データは提示されていないが、OPECの減産動向は原油市場に直結する重要な指標である。市場参加者は減産の規模と要因を注視する必要がある。"
-  },
-  {
     "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
     "timestamp": "2026-09-10T13:51:20+00:00",
     "importance": 3,
@@ -240,17 +163,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC脱退後の独自路線で石油生産を拡大し、来年500万バレル/日を超える水準に引き上げる見通しをIEAが示唆。OPEC減産体制の枠外での増産により、市場供給圧力が強まる可能性がある。既報のUAE拡張計画の続報と位置付けられる。"
-  },
-  {
-    "title": "Saudis Tell OPEC That Output Slumped Again to Lowest Since 1990 - Bloomberg.com",
-    "timestamp": "2026-09-10T12:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアがOPECに報告した原油生産量が1990年以来の最低水準に急落した。減産政策の実施により供給が大幅に縮小され、市場の需給逼迫が深刻化。OPECの供給制約の強化は原油価格上昇圧力となる。"
   },
   {
     "title": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ",
@@ -284,39 +196,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "OPECが2026年の世界石油需要成長率を再度引き下げた。需要見通しの継続的な下方修正は、世界経済成長の減速懸念と電動車普及による長期的な需要鈍化を反映している。市場は既にこのトレンドを織り込み始めており、原油価格への上値抵抗が継続する見通し。"
-  },
-  {
-    "title": "Russia's Ryazan oil refinery has stopped operations after Sept 6 drone attack, sources say - Reuters",
-    "timestamp": "2026-09-10T09:45:12+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアのリャザン製油所が9月6日のドローン攻撃により操業停止。同製油所は日量約17万バレルの処理能力を持つ。ロシアの主要製油所の停止は世界的な石油供給逼迫懸念を引き起こし、原油価格の上昇圧力となる。"
-  },
-  {
-    "title": "Top US Lobby Firm Had Hidden Ties to Iran, Russia Oil Tycoons - Bloomberg.com",
-    "timestamp": "2026-09-10T09:00:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の有力ロビー企業がイラン・ロシアの石油関係者との隠蔽された結びつきを持っていたことが報道された。この事実は制裁体制の抜け穴や規制の実効性に対する懸念を生じさせ、地政学リスクの認識が強まる可能性がある。ただし即座の市場変動要因にはなりにくい。"
-  },
-  {
-    "title": "Top US Lobby Firm Had Hidden Ties to Iran, Russia Oil Tycoons - Bloomberg.com",
-    "timestamp": "2026-09-10T09:00:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国の有力ロビー企業がイラン・ロシアの石油関係者との隠蔽された結びつきを持っていたことが報道された。この事実は制裁体制の抜け穴や規制の実効性に対する懸念を生じさせ、地政学リスクの認識が強まる可能性がある。ただし即座の市場変動要因にはなりにくい。"
   },
   {
     "title": "TEST DDO",
@@ -1692,5 +1571,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ホルムズ海峡での船舶攻撃報告により、石油供給への脅威が再燃。同海峡は世界の石油輸送の約20-25%が通過する重要なチョークポイントであり、地政学的緊張の高まりは供給不安から原油価格の急騰要因となる。市場ではリスクプレミアムの織り込みが急速に進む。"
+  },
+  {
+    "title": "Top 5 Canadian Mining Stocks This Week: Perseverance Metals Gains 53 Percent - Investing News Network",
+    "timestamp": "2026-09-11T22:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "カナダの鉱業株週間ランキングでPerseverance Metalsが53%の大幅上昇を記録。同社は金・銅などの貴金属・ベースメタル探鉱企業であり、好調な株価は探鉱成功期待またはスポット相場上昇の投資家反応を示唆している。金属商品全体の需要見通しに対する市場センチメント改善を示す指標となる。"
+  },
+  {
+    "title": "Top 5 Canadian Mining Stocks This Week: Perseverance Metals Gains 53 Percent - Investing News Network",
+    "timestamp": "2026-09-11T22:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "カナダの鉱業株週間ランキングでPerseverance Metalsが53%の大幅上昇を記録。同社は金・銅などの貴金属・ベースメタル探鉱企業であり、好調な株価は探鉱成功期待またはスポット相場上昇の投資家反応を示唆している。金属商品全体の需要見通しに対する市場センチメント改善を示す指標となる。"
+  },
+  {
+    "title": "Top 5 Canadian Mining Stocks This Week: Perseverance Metals Gains 53 Percent - Investing News Network",
+    "timestamp": "2026-09-11T22:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "カナダの鉱業株週間ランキングでPerseverance Metalsが53%の大幅上昇を記録。同社は金・銅などの貴金属・ベースメタル探鉱企業であり、好調な株価は探鉱成功期待またはスポット相場上昇の投資家反応を示唆している。金属商品全体の需要見通しに対する市場センチメント改善を示す指標となる。"
+  },
+  {
+    "title": "Saudi shares drop after drone attacks target key oil pipeline - reuters.com",
+    "timestamp": "2026-09-13T08:01:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの重要な石油パイプラインがドローン攻撃を受けた。サウジ株式市場が下落し、供給途絶への懸念から原油価格の上昇圧力が生じた。地政学的リスク顕在化により、サプライチェーン寸断の可能性が市場心理に反映された。"
   }
 ]
