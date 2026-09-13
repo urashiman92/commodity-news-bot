@@ -1,38 +1,5 @@
 [
   {
-    "title": "Currency markets subdued as oil shock lifts global yields; ECB, US inflation eyed - Reuters",
-    "timestamp": "2026-09-10T02:07:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油ショックがグローバル利回り上昇をけん引し、通貨市場は低調推移。ECB金融政策とUS インフレデータが市場の焦点。金利上昇は金に下押し圧力をもたらす一方、原油は堅調な供給懸念で支持される可能性。"
-  },
-  {
-    "title": "Currency markets subdued as oil shock lifts global yields; ECB, US inflation eyed - Reuters",
-    "timestamp": "2026-09-10T02:07:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "原油ショックがグローバル利回り上昇をけん引し、通貨市場は低調推移。ECB金融政策とUS インフレデータが市場の焦点。金利上昇は金に下押し圧力をもたらす一方、原油は堅調な供給懸念で支持される可能性。"
-  },
-  {
-    "title": "Currency markets subdued as oil shock lifts global yields; ECB, US inflation eyed - Reuters",
-    "timestamp": "2026-09-10T02:07:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油ショックがグローバル利回り上昇をけん引し、通貨市場は低調推移。ECB金融政策とUS インフレデータが市場の焦点。金利上昇は金に下押し圧力をもたらす一方、原油は堅調な供給懸念で支持される可能性。"
-  },
-  {
     "title": "API: US crude stocks ease slightly, gasoline reserves draw - Quantum Commodity Intelligence",
     "timestamp": "2026-09-10T08:46:23+00:00",
     "importance": 2,
@@ -64,17 +31,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "Southeast AgNETによるトウモロコシ収量見通しレポート。南東部地域の作付進捗・収量予測に関する定期発表と考えられる。具体的な数値情報がリンク先に限定されており、現在の市場予想との比較による判断が必要。地域別の詳細データは在庫・供給量推定に活用される。"
-  },
-  {
-    "title": "Corn grinds lower under early harvest pressure - Brownfield Ag News",
-    "timestamp": "2026-09-10T02:53:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシが早期収穫圧力により下落している。北米での収穫シーズン入りに伴い、市場供給量の増加懸念が価格を押し下げている。Crop Progress報告に基づく定期的な収穫進捗の更新であり、予想の範囲内の展開。"
   },
   {
     "title": "OPEC oil output falls in August, Reuters survey shows By Reuters - Investing.com",
@@ -328,17 +284,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "OPECが2026年の世界石油需要成長率を再度引き下げた。需要見通しの継続的な下方修正は、世界経済成長の減速懸念と電動車普及による長期的な需要鈍化を反映している。市場は既にこのトレンドを織り込み始めており、原油価格への上値抵抗が継続する見通し。"
-  },
-  {
-    "title": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea - Reuters",
-    "timestamp": "2026-09-10T06:13:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イエメンのフーシ派勢力が紅海沿岸で領土を拡大し、サウジアラビアの石油輸出を脅かしている。紅海はグローバル石油貿易の重要な輸送ルートであり、供給途絶リスクが高まれば原油価格の急騰要因となる。地政学的リスクによる突発的な供給ショックの可能性がある。"
   },
   {
     "title": "Russia's Ryazan oil refinery has stopped operations after Sept 6 drone attack, sources say - Reuters",
@@ -856,28 +801,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA穀物生産見積もり（WASDE等）の発表が間近に控えており、トレーダーが収穫期の最新作況データに注視している。穀物供給量の正式推計値は価格形成の重要なファクターとなる。市場予想との乖離幅が大きければ穀物相場に大きな変動をもたらす可能性がある。"
-  },
-  {
-    "title": "US Stock Trends (Sept 10): Shrinking US Treasury Repo Volumes Push Long-End Yields Close to 4.85%; Storage and Optical… - 深潮TechFlow",
-    "timestamp": "2026-09-10T03:22:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "米国財務省レポ市場の取引量縮小により、長期債利回りが4.85%付近まで上昇している。レポ市場の流動性低下は金融逼迫を示唆し、米国の金融引き締めが継続していることを反映。金を含むコモディティ全般に対して上昇金利は下押し圧力として作用。"
-  },
-  {
-    "title": "US Stock Trends (Sept 10): Shrinking US Treasury Repo Volumes Push Long-End Yields Close to 4.85%; Storage and Optical… - 深潮TechFlow",
-    "timestamp": "2026-09-10T03:22:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "米国財務省レポ市場の取引量縮小により、長期債利回りが4.85%付近まで上昇している。レポ市場の流動性低下は金融逼迫を示唆し、米国の金融引き締めが継続していることを反映。金を含むコモディティ全般に対して上昇金利は下押し圧力として作用。"
   },
   {
     "title": "OPEC oil output falls in August, Reuters survey shows - Classic Rock 103.5 WIMZ",
@@ -1758,5 +1681,16 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "銅価格が過去最高値を達成した後に急落した。米国の関税期待が冷え込んだことが主要因で、逼迫していた供給トレードが一旦反転した。マクロ環境の不確実性がコモディティ相場全般に波及する可能性がある。"
+  },
+  {
+    "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - Reuters",
+    "timestamp": "2026-09-13T02:22:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡での船舶攻撃報告により、石油供給への脅威が再燃。同海峡は世界の石油輸送の約20-25%が通過する重要なチョークポイントであり、地政学的緊張の高まりは供給不安から原油価格の急騰要因となる。市場ではリスクプレミアムの織り込みが急速に進む。"
   }
 ]
