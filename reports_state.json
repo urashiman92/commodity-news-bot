@@ -1,60 +1,5 @@
 [
   {
-    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
-    "timestamp": "2026-09-10T15:44:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDE発表において、最近の米国の熱波（高温）がトウモロコシ・小麦・大豆の作付地の生育に悪影響を与えたことが反映される見通し。熱波による水分ストレスと生育期の悪化により、今月の需給見通しは下方修正の可能性が高い。市場は作柄悪化を織り込み、穀物価格は上昇圧力となる見込み。"
-  },
-  {
-    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
-    "timestamp": "2026-09-10T15:44:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASDE発表において、最近の米国の熱波（高温）がトウモロコシ・小麦・大豆の作付地の生育に悪影響を与えたことが反映される見通し。熱波による水分ストレスと生育期の悪化により、今月の需給見通しは下方修正の可能性が高い。市場は作柄悪化を織り込み、穀物価格は上昇圧力となる見込み。"
-  },
-  {
-    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
-    "timestamp": "2026-09-10T15:44:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDE発表において、最近の米国の熱波（高温）がトウモロコシ・小麦・大豆の作付地の生育に悪影響を与えたことが反映される見通し。熱波による水分ストレスと生育期の悪化により、今月の需給見通しは下方修正の可能性が高い。市場は作柄悪化を織り込み、穀物価格は上昇圧力となる見込み。"
-  },
-  {
-    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
-    "timestamp": "2026-09-10T12:45:59+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの9月作物見積もり（WASDE）発表を控え、トウモロコシと大豆市場が注視している。本発表は毎年9月に定期実施される重要な生産見通し統計で、米国の作付面積・生産量・在庫見通しが市場の価格形成に大きく影響する。予想比の乖離次第で相場が大きく変動する可能性がある。"
-  },
-  {
-    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
-    "timestamp": "2026-09-10T12:45:59+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAの9月作物見積もり（WASDE）発表を控え、トウモロコシと大豆市場が注視している。本発表は毎年9月に定期実施される重要な生産見通し統計で、米国の作付面積・生産量・在庫見通しが市場の価格形成に大きく影響する。予想比の乖離次第で相場が大きく変動する可能性がある。"
-  },
-  {
     "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record - WSJ",
     "timestamp": "2026-09-10T16:55:14+00:00",
     "importance": 3,
@@ -64,17 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫が減少する一方で、原油生産量が過去最高を更新した。在庫減少は価格上昇要因だが、供給面での記録的増加は相殺効果をもたらす可能性がある。市場は供給余剰への懸念を強めるリスクあり。"
-  },
-  {
-    "title": "US EIA Crude Oil Stocks Change (Sep/04) -0.391M vs. Exp. -1.6M (Prev. -4.450M) - Newsquawk",
-    "timestamp": "2026-09-10T16:20:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "9月4日のEIA原油在庫は-0.391M バレルの減少。市場予想は-1.6M バレルの減少を見込んでいたが、実績は予想の約4分の1に留まった。前週は-4.450M バレルの大幅減少だったため、減少ペースが大きく鈍化。需要の弱さと供給過剰懸念が浮き彫りになった。"
   },
   {
     "title": "EIA: US crude stocks steady as busy refiners absorb record output - Quantum Commodity Intelligence",
@@ -88,116 +22,6 @@
     "summary": "米国の原油在庫が横ばいで推移している。製油所稼働率が高く、米国の記録的な原油生産を吸収している状況が示唆された。在庫の安定化は需給のバランスが取れていることを反映しているが、具体的な在庫数字の前週比変化は記事から確認できない。"
   },
   {
-    "title": "EIA Cushing Crude Oil Stocks Change (Sep/04) -0.684M (Prev. 0.080M) - Newsquawk",
-    "timestamp": "2026-09-10T16:20:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "9月4日のEIA発表によるクッシング原油在庫は-0.684M（68.4万バレル）の減少。前週は+0.080Mの増加だったため、方向が逆転した。在庫減少は原油需給引き締まりを示唆し、短期的には価格上昇材料となるが、減少幅は小幅。"
-  },
-  {
-    "title": "Crude oil inventories decline less than expected, signaling demand shift - Investing.com",
-    "timestamp": "2026-09-10T16:14:04+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で、原油在庫の減少幅が予想を下回る結果となった。これは需要シフトの可能性を示唆しており、市場の需要見通しに対する懸念が増加している。予想より在庫減が少ないということは、需要の弱さを反映している可能性が高い。"
-  },
-  {
-    "title": "US EIA Heating Oil Stocks Change (Sep/04) 0.010M (Prev. -0.033M) - Newsquawk",
-    "timestamp": "2026-09-10T16:20:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "9月4日のEIA暖房用燃料油在庫は0.010M増加し、前週の-0.033M減少から改善した。在庫積増しへの転換は需給バランスの若干の緩和を示唆するが、絶対値は小幅で原油市場への重大インパクトは限定的と考えられる。"
-  },
-  {
-    "title": "Grain markets await USDA’s September crop estimates - The Mighty 790 KFGO",
-    "timestamp": "2026-09-10T12:11:21+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが9月の穀物作付・生産予想を発表予定。市場参加者が推定値の修正幅を注視している。特にトウモロコシと大豆の生産量見通しが、相場形成の重要なポイント。予想比がまだ明らかでないため、発表時の方向性は未確定。"
-  },
-  {
-    "title": "Grain markets await USDA’s September crop estimates - The Mighty 790 KFGO",
-    "timestamp": "2026-09-10T12:11:21+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月の穀物作付・生産予想を発表予定。市場参加者が推定値の修正幅を注視している。特にトウモロコシと大豆の生産量見通しが、相場形成の重要なポイント。予想比がまだ明らかでないため、発表時の方向性は未確定。"
-  },
-  {
-    "title": "Grain markets await USDA’s September crop estimates - The Mighty 790 KFGO",
-    "timestamp": "2026-09-10T12:11:21+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが9月の穀物作付・生産予想を発表予定。市場参加者が推定値の修正幅を注視している。特にトウモロコシと大豆の生産量見通しが、相場形成の重要なポイント。予想比がまだ明らかでないため、発表時の方向性は未確定。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-09-10T13:51:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後の独自路線で石油生産を拡大し、来年500万バレル/日を超える水準に引き上げる見通しをIEAが示唆。OPEC減産体制の枠外での増産により、市場供給圧力が強まる可能性がある。既報のUAE拡張計画の続報と位置付けられる。"
-  },
-  {
-    "title": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ",
-    "timestamp": "2026-09-10T14:44:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアの石油生産が急減している。イラン情勢の不安定化とフーシ派による輸出ルート脅威により、ペルシャ湾の重要な海上輸送路が混乱。中東の地政学的リスクが大幅に高まり、供給途絶リスクが急速に顕在化している。"
-  },
-  {
-    "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
-    "timestamp": "2026-09-10T13:00:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長率を再度引き下げた。需要見通しの継続的な下方修正は、世界経済成長の減速懸念と電動車普及による長期的な需要鈍化を反映している。市場は既にこのトレンドを織り込み始めており、原油価格への上値抵抗が継続する見通し。"
-  },
-  {
-    "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
-    "timestamp": "2026-09-10T13:00:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長率を再度引き下げた。需要見通しの継続的な下方修正は、世界経済成長の減速懸念と電動車普及による長期的な需要鈍化を反映している。市場は既にこのトレンドを織り込み始めており、原油価格への上値抵抗が継続する見通し。"
-  },
-  {
     "title": "TEST DDO",
     "timestamp": "2026-09-10T22:36:47.469640+00:00",
     "importance": 2,
@@ -229,39 +53,6 @@
     "source": "USDA NASS公式",
     "commodity": "小麦",
     "summary": "USDA NASによる定例的な作物進捗・状態推定の発表。具体的な数値や前週比での進捗状況、作物の健全性評価などが含まれるが、提供されたテキストでは詳細データが欠落しているため詳細な影響評価が困難。通常はシーズン進捗の市場織り込みに用いられる。"
-  },
-  {
-    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
-    "timestamp": "2026-09-10T16:18:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDEレポートが米国の最近の熱波による穀物作物への影響を反映する見通し。トウモロコシ、小麦、大豆の収量見通しが下方修正される可能性が高い。熱波による水ストレスが北米の主要農業地帯に広がっており、8月発表のWASDE推定値が今後のサプライズ材料となる。"
-  },
-  {
-    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
-    "timestamp": "2026-09-10T16:18:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASDEレポートが米国の最近の熱波による穀物作物への影響を反映する見通し。トウモロコシ、小麦、大豆の収量見通しが下方修正される可能性が高い。熱波による水ストレスが北米の主要農業地帯に広がっており、8月発表のWASDE推定値が今後のサプライズ材料となる。"
-  },
-  {
-    "title": "WASDE Preview: USDA Crop Estimates Could Reflect Recent Heat - RFD-TV",
-    "timestamp": "2026-09-10T16:18:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDEレポートが米国の最近の熱波による穀物作物への影響を反映する見通し。トウモロコシ、小麦、大豆の収量見通しが下方修正される可能性が高い。熱波による水ストレスが北米の主要農業地帯に広がっており、8月発表のWASDE推定値が今後のサプライズ材料となる。"
   },
   {
     "title": "Could USDA Provide a Yield Surprise in the September Report? - AgWeb",
@@ -680,17 +471,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA穀物生産見積もり（WASDE等）の発表が間近に控えており、トレーダーが収穫期の最新作況データに注視している。穀物供給量の正式推計値は価格形成の重要なファクターとなる。市場予想との乖離幅が大きければ穀物相場に大きな変動をもたらす可能性がある。"
-  },
-  {
-    "title": "OPEC oil output falls in August, Reuters survey shows - Classic Rock 103.5 WIMZ",
-    "timestamp": "2026-09-10T14:08:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ロイターの調査によるとOPECの8月の石油生産量が減少したと報告された。具体的な生産量の数値や減少幅が記事本文に含まれていないため詳細な分析は限定的。OPECの生産動向は原油価格の重要な決定要因であり、市場への影響度は中程度。"
   },
   {
     "title": "Global bond selloff keeps 10-year US yield near 5% on oil, rate-hike fears - Reuters",
@@ -1615,5 +1395,115 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの重要な石油パイプラインがドローン攻撃を受けた。サウジ株式市場が下落し、供給途絶への懸念から原油価格の上昇圧力が生じた。地政学的リスク顕在化により、サプライチェーン寸断の可能性が市場心理に反映された。"
+  },
+  {
+    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
+    "timestamp": "2026-09-11T07:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
+  },
+  {
+    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
+    "timestamp": "2026-09-11T07:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
+  },
+  {
+    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
+    "timestamp": "2026-09-11T07:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
+  },
+  {
+    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
+    "timestamp": "2026-09-11T07:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
+  },
+  {
+    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
+    "timestamp": "2026-09-12T20:46:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4月の原油生産量を日量137,000バレル増加させることを検討している。これは段階的な増産政策の継続を示唆するもので、市場には供給緩和圧力をもたらす。既報の増産ロードマップの延長線上にある動きと見られる。"
+  },
+  {
+    "title": "Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters",
+    "timestamp": "2026-09-13T12:54:28+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン障害により、世界の石油供給の約4%が失われる脅威が発生。サウジは世界最大級の石油生産国であり、このレベルの供給遮断は市場に即座の上昇圧力をもたらす。地政学的リスク要因として原油先物は急速に反応する可能性が高い。"
+  },
+  {
+    "title": "Closure of Critical Saudi Oil Pipeline Puts Iraq Under Pressure - Bloomberg.com",
+    "timestamp": "2026-09-12T12:03:03+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの重要な石油パイプラインの閉鎖がイラクに圧力をかけている。中東の主要な石油輸送インフラの機能停止により、地域の石油供給体制に混乱が生じ、輸出ルートの制約がイラクの産油国としての競争力に直接的な影響を及ぼしている。"
+  },
+  {
+    "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-10T22:15:53+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "株式と債券が上昇する中、原油価格の下落がマーケット全体の材料となった。CPI統計データは発表されたが、原油下落がそれを相殺した形での市場展開。金利環境への懸念がコモディティ全般に複雑な影響を与えている。"
+  },
+  {
+    "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-10T22:15:53+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "株式と債券が上昇する中、原油価格の下落がマーケット全体の材料となった。CPI統計データは発表されたが、原油下落がそれを相殺した形での市場展開。金利環境への懸念がコモディティ全般に複雑な影響を与えている。"
+  },
+  {
+    "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-10T22:15:53+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "株式と債券が上昇する中、原油価格の下落がマーケット全体の材料となった。CPI統計データは発表されたが、原油下落がそれを相殺した形での市場展開。金利環境への懸念がコモディティ全般に複雑な影響を与えている。"
   }
 ]
