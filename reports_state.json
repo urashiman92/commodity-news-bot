@@ -1,27 +1,5 @@
 [
   {
-    "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record - WSJ",
-    "timestamp": "2026-09-10T16:55:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が減少する一方で、原油生産量が過去最高を更新した。在庫減少は価格上昇要因だが、供給面での記録的増加は相殺効果をもたらす可能性がある。市場は供給余剰への懸念を強めるリスクあり。"
-  },
-  {
-    "title": "EIA: US crude stocks steady as busy refiners absorb record output - Quantum Commodity Intelligence",
-    "timestamp": "2026-09-10T17:06:20+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が横ばいで推移している。製油所稼働率が高く、米国の記録的な原油生産を吸収している状況が示唆された。在庫の安定化は需給のバランスが取れていることを反映しているが、具体的な在庫数字の前週比変化は記事から確認できない。"
-  },
-  {
     "title": "TEST DDO",
     "timestamp": "2026-09-10T22:36:47.469640+00:00",
     "importance": 2,
@@ -119,83 +97,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDA Crop Progress Report（5月28日）は米国のトウモロコシ・大豆の作付進捗と生育状況を報告する定期統計。春先の天候や播種ペースが市場の需給見通しに影響を与える。具体的な作付面積・進捗率の数値により、今後の生産量予想が変動する可能性がある。"
-  },
-  {
-    "title": "Preview of USDA September crop report & A look at history, El Niño, and more - Barchart.com",
-    "timestamp": "2026-09-10T17:49:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの9月穀物レポート発表予告であり、トウモロコシ・小麦・大豆の作付面積、生産量、在庫見通しが更新される重要な定期統計。エルニーニョ現象などの気象要因が今後の作況に影響を与える可能性が示唆されており、市場は作付予想の上下振れに注視している。"
-  },
-  {
-    "title": "Preview of USDA September crop report & A look at history, El Niño, and more - Barchart.com",
-    "timestamp": "2026-09-10T17:49:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの9月穀物レポート発表予告であり、トウモロコシ・小麦・大豆の作付面積、生産量、在庫見通しが更新される重要な定期統計。エルニーニョ現象などの気象要因が今後の作況に影響を与える可能性が示唆されており、市場は作付予想の上下振れに注視している。"
-  },
-  {
-    "title": "Preview of USDA September crop report & A look at history, El Niño, and more - Barchart.com",
-    "timestamp": "2026-09-10T17:49:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの9月穀物レポート発表予告であり、トウモロコシ・小麦・大豆の作付面積、生産量、在庫見通しが更新される重要な定期統計。エルニーニョ現象などの気象要因が今後の作況に影響を与える可能性が示唆されており、市場は作付予想の上下振れに注視している。"
-  },
-  {
-    "title": "Preview of USDA September crop report & A look at history, El Niño, and more - Barchart.com",
-    "timestamp": "2026-09-10T17:49:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAの9月穀物レポート発表予告であり、トウモロコシ・小麦・大豆の作付面積、生産量、在庫見通しが更新される重要な定期統計。エルニーニョ現象などの気象要因が今後の作況に影響を与える可能性が示唆されており、市場は作付予想の上下振れに注視している。"
-  },
-  {
-    "title": "Stock Market Today: Nasdaq 100 Tumbles as Oil Spikes 6%, Yields Hit 19-Year High - TradingView",
-    "timestamp": "2026-09-10T18:26:59+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "原油が6%急騰し、米国債利回りが19年ぶりの高水準に達した。ナスダック100が下落する中、金利上昇は金などの無利子資産に下落圧力を与える一方、原油の急騰は供給ショックまたは地政学的緊張を示唆。コモディティ市場全体で明確な二項分裂が発生。"
-  },
-  {
-    "title": "Stock Market Today: Nasdaq 100 Tumbles as Oil Spikes 6%, Yields Hit 19-Year High - TradingView",
-    "timestamp": "2026-09-10T18:26:59+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "原油が6%急騰し、米国債利回りが19年ぶりの高水準に達した。ナスダック100が下落する中、金利上昇は金などの無利子資産に下落圧力を与える一方、原油の急騰は供給ショックまたは地政学的緊張を示唆。コモディティ市場全体で明確な二項分裂が発生。"
-  },
-  {
-    "title": "Stock Market Today: Nasdaq 100 Tumbles as Oil Spikes 6%, Yields Hit 19-Year High - TradingView",
-    "timestamp": "2026-09-10T18:26:59+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "原油が6%急騰し、米国債利回りが19年ぶりの高水準に達した。ナスダック100が下落する中、金利上昇は金などの無利子資産に下落圧力を与える一方、原油の急騰は供給ショックまたは地政学的緊張を示唆。コモディティ市場全体で明確な二項分裂が発生。"
   },
   {
     "title": "Treasury Takes Less Than Expected at Buyback, Pushing Up Yields - Bloomberg.com",
@@ -262,50 +163,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
-  },
-  {
-    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
-    "timestamp": "2026-09-10T18:38:12+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
-  },
-  {
-    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
-    "timestamp": "2026-09-10T18:38:12+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
-  },
-  {
-    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
-    "timestamp": "2026-09-10T18:38:12+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銀",
-    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
-  },
-  {
-    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides - Mining.com",
-    "timestamp": "2026-09-10T18:38:12+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "鉱業株の上昇トレンドが急転直下。銅・銀価格が急落し、金も下げる。複数のコモディティが同時に売られており、マクロ的な強気相場の巻き戻しまたはリスク回避モードへの急速な転換を示唆。"
   },
   {
     "title": "Analysts Watch for Price and Trade Shifts in Supply & Demand Report - Madison's Country Q106",
@@ -1505,5 +1362,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "株式と債券が上昇する中、原油価格の下落がマーケット全体の材料となった。CPI統計データは発表されたが、原油下落がそれを相殺した形での市場展開。金利環境への懸念がコモディティ全般に複雑な影響を与えている。"
+  },
+  {
+    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
+    "timestamp": "2026-09-11T14:32:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
+  },
+  {
+    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
+    "timestamp": "2026-09-11T14:32:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
+  },
+  {
+    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
+    "timestamp": "2026-09-11T14:32:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
+  },
+  {
+    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
+    "timestamp": "2026-09-11T14:32:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
+    "timestamp": "2026-09-12T20:10:27+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、原油生産量が過去最高水準に接近しているとの報道。OPEC減産体制の外で独立生産を拡大する動きであり、市場供給の不確実性が高まる。OPECの求心力低下とシェールガス・独立系の台頭を象徴する戦略的転換。"
   }
 ]
