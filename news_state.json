@@ -1,16 +1,5 @@
 [
   {
-    "title": "原油先物6％高、北海ブレント・ＷＴＩとも100ドル突破 - Reuters",
-    "timestamp": "2026-09-10T19:50:29+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が6％上昇し、北海ブレント・WTI両指標が100ドルを突破した。これは直近の相場水準から見ると大幅な上昇であり、供給懸念や地政学的リスク等の緊急要因が考えられる。投資家はポジション再評価と追加リスク要因の監視が必要。"
-  },
-  {
     "title": "ＮＹダウ続落、終値５万２０６４ドル…原油先物価格と長期金利上昇を嫌気 - 読売新聞",
     "timestamp": "2026-09-10T20:35:00+00:00",
     "importance": 3,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NYダウが続落し52,064ドルで引けた。原油先物価格の上昇と長期金利の上昇が売り圧力となった。株価下落はリスク資産全般の調整局面を示唆。"
-  },
-  {
-    "title": "原油先物6％高、北海ブレント・ＷＴＩとも100ドル突破 - ニューズウィーク日本版",
-    "timestamp": "2026-09-10T19:50:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "北海ブレント・WTIが同時に100ドルを突破し、原油先物が6%上昇。地政学的緊張またはOPEC減産強化による供給懸念が急速に価値観を変えた。コモディティ投資家にとって重要なターニングポイント。"
   },
   {
     "title": "ＮＹ株４日続落、３１６ドル安＝原油相場高騰で - 時事通信ニュース",
@@ -53,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イエメンの港湾都市をフーシ派が掌握する可能性が報じられた。紅海の地政学的リスク増加は原油供給ルートへの脅威となり、市場は原油価格の急騰で反応。戦略的な海峡支配による供給懸念が顕在化。"
-  },
-  {
-    "title": "銅の高騰で盗難相次ぐ、正当なスクラップと見分けられるか - xtech.nikkei.com",
-    "timestamp": "2026-09-10T20:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格の高騰に伴い、銅線やスクラップの盗難が増加している。盗難品と正当なスクラップの区別が課題となっている。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4317ドル｜米国の利上げ観測が強まった影響の模様(2026年9月11日) - OANDA証券",
@@ -108,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が一時的に100ドル/バレルの心理的大台を突破した。同時にNYダウが316ドル下落し、リスク回避ムードが広がった。エネルギーコスト上昇がインフレ圧力をもたらす懸念が市場を圧迫。"
-  },
-  {
-    "title": "原油先物6％高、北海ブレント・ＷＴＩとも100ドル突破（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-09-10T20:05:58+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が6%上昇し、北海ブレント・WTIともに100ドルの大台を突破した。市場は供給懸念や地政学的リスク要因に反応している可能性。"
   },
   {
     "title": "NY株式ダウ、4営業日続落 原油価格高騰や米長期金利の上昇で売り注文が優勢 - 産経ニュース",
@@ -548,17 +504,6 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "米国のトウモロコシ供給報告発表を控える中で、世界市場での価格が上昇した。市場参加者が供給見通しの修正を織り込もうとしている。報告内容が価格を大きく左右する可能性がある。"
-  },
-  {
-    "title": "コーン先物価格予測：ZCの上昇でUSX535.63のレジスタンスに注目 - Traders Union",
-    "timestamp": "2026-09-10T18:11:42+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物（ZC）がUSX535.63のレジスタンスレベルに注目されている。テクニカル分析に基づいた価格予測記事で、アナリスト予想の性質。"
   },
   {
     "title": "【大統益 FY2026 H1 決算説明会】税引前利益9.86億台湾ドルで同期歴代2位、EPS前年比約2割増、バイオ燃料需要が大豆油価格を下支え - BigGo ファイナンス",
@@ -1703,5 +1648,82 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "12月限トウモロコシ先物が8月に1980年以来の大幅上昇を記録した。アナリストのマイク・マクグローン氏による相場解説。気象懸念や供給要因が背景か。"
+  },
+  {
+    "title": "本日（2026年9月14日）の金価格は、FRBの動向に左右されます。底値買いが始まっており、市場は徐々に高い支持水準を形成しつつあります。 - Vietnam.vn",
+    "timestamp": "2026-09-13T17:36:51+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格はFRBの政策動向に依存する状況が続いている。市場では底値買いが入り始め、サポートレベルが徐々に形成されている模様。"
+  },
+  {
+    "title": "金価格は本日9月13日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-09-13T15:06:23+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月13日に金価格が大幅に下落し、取引を終えた。買い手は損失を被った。具体的な下落要因や下落幅は記事から不明。"
+  },
+  {
+    "title": "イラン戦争：航空会社に3日目の影響、原油価格は急騰 - アラブニュース",
+    "timestamp": "2026-09-13T15:41:18+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランとの戦争リスクが顕在化し、原油価格が急騰。中東の主要供給地域における地政学的緊張の急激な悪化。航空会社への影響が3日目に達し、実体経済への波及も進行中。"
+  },
+  {
+    "title": "イラン有事と原油価格 焦点はホルムズ海峡の封鎖と石油生産設備への影響 - TBS NEWS DIG",
+    "timestamp": "2026-09-13T11:39:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン有事におけるホルムズ海峡封鎖と石油生産設備被害が原油価格の主要リスク要因として指摘されている。これは地政学的な既知リスクの解説記事。"
+  },
+  {
+    "title": "東証反落、１カ月ぶり安値 終値６万４０１１円、原油高で - 山陽新聞",
+    "timestamp": "2026-09-13T17:50:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東証が1カ月ぶりの安値（終値6万4011円）で反落。原油価格の上昇が国内株式市場の重石となった。エネルギーコスト上昇懸念が株価押下要因。"
+  },
+  {
+    "title": "なぜマイクロン テクノロジー（MU）はAIブームの銅高を注視すべきなのか？ - simplywall.st",
+    "timestamp": "2026-09-13T11:39:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "AIブームによる半導体需要拡大がマイクロン・テクノロジーの銅需要増加をもたらす。銅価格上昇がMUのコスト圧力となり、投資家は注視が必要。AIインフラ構築における銅の重要性が注目される。"
+  },
+  {
+    "title": "ＪＸ金属、銅建値９万円下げ - 日刊鉄鋼新聞 Japan Metal Daily",
+    "timestamp": "2026-09-13T20:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が銅建値を9万円引き下げた。国内大手メーカーの値下げは市場の弱気転換を反映。LME銅価格の軟化に追随した動き。"
   }
 ]
