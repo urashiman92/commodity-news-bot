@@ -1,27 +1,5 @@
 [
   {
-    "title": "2026年9月10日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-10T08:53:40+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。商品市場の金価格とは直接的な関連性がない日本株先物市場の技術的情報。"
-  },
-  {
-    "title": "国際原油価格が100ドルを再突破、石油精製・石油化学株が急騰、航空株は軟調 - BigGo ファイナンス",
-    "timestamp": "2026-09-10T08:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "国際原油価格が100ドルを再突破し、石油精製・石油化学関連株が上昇。航空株は燃料費上昇で軟調。コモディティ投資家にとっては原油強気相場の継続を示唆する動き。"
-  },
-  {
     "title": "銅価格にバブル懸念、1万5000ドルに接近－上昇持続に懐疑的な声も - bloomberg.com",
     "timestamp": "2026-09-10T10:55:14+00:00",
     "importance": 3,
@@ -163,17 +141,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が1万5000ドルに接近し、バブル懸念が台頭。需要堅調とインフレヘッジ買いが支える一方、上昇の持続可能性に対する懐疑的な声が出ている。テクニカル水準での調整リスクも意識されている。"
-  },
-  {
-    "title": "銅価格が過去最高値を更新する中、フリーポート・マクモラン（FCX）の株価は45％過小評価されている可能性がある - simplywall.st",
-    "timestamp": "2026-09-10T10:13:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高値を更新している中、大手鉱山企業FCXの株価が過小評価されているとのアナリスト指摘。銅相場の強気環境を背景とした企業価値評価に関するコメンタリー。"
   },
   {
     "title": "9月10日のSouthern Copper Corp (SCCO) 値動きは6.93%下落：値動きの背後にある事実 - TradingKey",
@@ -383,17 +350,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が安定しているという現状報告。市場の大きな変動や特定のトリガーイベントは記載されていない。地域レベルの定期的な価格確認ニュース。"
-  },
-  {
-    "title": "現物金が4,400ドルを回復、大手2行が金相場の「牛市半ば」を示唆 - Moomoo",
-    "timestamp": "2026-09-10T06:57:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "現物金が4,400ドルの水準を回復した。大手金融機関2行が金相場が「牛市の半ば」にあると示唆しており、上昇トレンドの継続を予想している。既存のトレンド解析と見方の一致を示すニュース。"
   },
   {
     "title": "本日（2026年9月11日）の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
@@ -1912,5 +1868,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格は過去最高値更新後に急落。米精錬銅関税の延期可能性と、今後の上昇余地について分析されている。政策不確実性が相場を揺さぶっている。"
+  },
+  {
+    "title": "世界の金価格は今週1.8％下落したが、アナリストらは来週の上昇を依然として予想している。 - Vietnam.vn",
+    "timestamp": "2026-09-13T08:39:54+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は今週1.8％下落した。アナリストは来週の上昇を予想している。短期的な調整局面と解釈される。"
+  },
+  {
+    "title": "金価格（9月12日午後）：反転上昇。 - Vietnam.vn",
+    "timestamp": "2026-09-13T10:18:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月12日午後の金相場が反転上昇した。具体的な上昇要因は記事から不明だが、日中の値動きの反転を報じた相場解説。"
+  },
+  {
+    "title": "米連邦準備制度理事会（FRB）の会合後、金価格は1オンスあたり5000ドルに達する可能性があるだろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-13T07:05:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRB会合を控えて、金価格が1オンス5000ドルに到達する可能性について市場観測が報じられている。金利動向と米ドル弱含みが上昇シナリオの背景と考えられる。"
+  },
+  {
+    "title": "2026年9月13日午後の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
+    "timestamp": "2026-09-13T08:52:34+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格表示記事。国内小売価格（金地金、9999金リング）および国際金相場の日次価格情報の掲載。"
+  },
+  {
+    "title": "米連邦準備制度理事会（FRB）による利上げ予想にもかかわらず、ほとんどの専門家は金価格の上昇を予測している。 - Vietnam.vn",
+    "timestamp": "2026-09-13T07:05:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの利上げ予想にもかかわらず、専門家の大多数が金価格の上昇を予測している。インフレ懸念やドル減速への対抗手段として金の需要が堅調と見込まれている。"
+  },
+  {
+    "title": "本日の金価格（9月13日午後）：今週全体では、金地金は1オンスあたり400万ベトナムドン下落しました。 - Vietnam.vn",
+    "timestamp": "2026-09-13T06:42:32+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム市場での金価格が週間ベースで下落。1オンスあたり400万ベトナムドンの下げ幅を記録。現地市場の値動き報告に過ぎない。"
+  },
+  {
+    "title": "中東地域の武力衝突が拡散し、国際原油価格が4ヵ月ぶりに1バレル当たり100ドルを再び突破した。 原油輸送への支障への懸念に、戦争長期化の見通しまで重なった結果だ。 このような中、原油を精製して石油製品.. - mk.co.kr",
+    "timestamp": "2026-09-13T08:42:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の武力衝突拡大により、国際原油価格が4ヵ月ぶりに1バレル100ドルを突破。原油輸送リスクと戦争長期化懸念が価格上昇を牽引。"
+  },
+  {
+    "title": "$WTI 原油先物(2610) (CLmain.US)$$ブレント先物(期近) (BZcurrent.US)$ イランは... - Moomoo",
+    "timestamp": "2026-09-13T05:33:48+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランに関する原油市場への影響を報じたニュース。タイトルが不完全なため詳細は不明。イラン情勢は地政学的リスク要因として原油価格の上昇圧力になる可能性がある。"
   }
 ]
