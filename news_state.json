@@ -1,38 +1,5 @@
 [
   {
-    "title": "ＮＹダウ続落、終値５万２０６４ドル…原油先物価格と長期金利上昇を嫌気 - 読売新聞",
-    "timestamp": "2026-09-10T20:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NYダウが続落し52,064ドルで引けた。原油先物価格の上昇と長期金利の上昇が売り圧力となった。株価下落はリスク資産全般の調整局面を示唆。"
-  },
-  {
-    "title": "ＮＹ株４日続落、３１６ドル安＝原油相場高騰で - 時事通信ニュース",
-    "timestamp": "2026-09-10T20:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY株が4日続落で316ドル安となり、原油相場の高騰が株価下押し圧力となっている。原油高がエネルギーコストを押し上げ、企業利益圧迫懸念が広がっている。"
-  },
-  {
-    "title": "イエメン港湾都市掌握か フーシ派、原油価格急騰 | | 全国のニュース - 佐賀新聞",
-    "timestamp": "2026-09-10T20:40:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イエメンの港湾都市をフーシ派が掌握する可能性が報じられた。紅海の地政学的リスク増加は原油供給ルートへの脅威となり、市場は原油価格の急騰で反応。戦略的な海峡支配による供給懸念が顕在化。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4317ドル｜米国の利上げ観測が強まった影響の模様(2026年9月11日) - OANDA証券",
     "timestamp": "2026-09-10T23:05:55+00:00",
     "importance": 3,
@@ -66,17 +33,6 @@
     "summary": "ベトナムの金価格情報配信。本日の金地金、9999金リング、国際金の価格表を掲載したニュース記事。市場材料性に乏しい定期情報配信。"
   },
   {
-    "title": "原油価格が一時100ドルの大台突破 NYダウは316ドル安の5万2064ドルで取引終了 - TBS NEWS DIG",
-    "timestamp": "2026-09-10T21:25:42+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が一時的に100ドル/バレルの心理的大台を突破した。同時にNYダウが316ドル下落し、リスク回避ムードが広がった。エネルギーコスト上昇がインフレ圧力をもたらす懸念が市場を圧迫。"
-  },
-  {
     "title": "NY株式ダウ、4営業日続落 原油価格高騰や米長期金利の上昇で売り注文が優勢 - 産経ニュース",
     "timestamp": "2026-09-10T23:11:56+00:00",
     "importance": 3,
@@ -86,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国株式市場が4営業日連続で下落。原油価格の高騰と米長期金利の上昇が売り圧力となった。金融資産と原油の同時上昇が株式にとって逆風となっている局面。"
-  },
-  {
-    "title": "原油価格が100ドル突破、米国株は4日続落 台湾TSMCのADRは約2％安 - BigGo ファイナンス",
-    "timestamp": "2026-09-10T22:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が100ドルを突破し、市場に上昇圧力がかかっている。米国株は4日連続で下落。エネルギー価格上昇がリスク資産圧迫の要因となっている。"
   },
   {
     "title": "１０日の主要国際商品市況 - みんかぶ",
@@ -1725,5 +1670,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属が銅建値を9万円引き下げた。国内大手メーカーの値下げは市場の弱気転換を反映。LME銅価格の軟化に追随した動き。"
+  },
+  {
+    "title": "NEXT NOTES 金先物 ベア ETN【2037】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-09-13T20:38:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NEXT NOTES 金先物 ベア ETN【2037】はYahoo!ファイナンスの銘柄情報ページ。逆連動型金先物ETNの株価・株式情報の掲載であり、新規ニュースではなくデータ提供ページの更新。"
+  },
+  {
+    "title": "本日（9月14日）の金価格：金は大きな岐路に立たされている。 - Vietnam.vn",
+    "timestamp": "2026-09-13T22:06:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が重要な転換点を迎えているというコメンタリー。具体的な価格水準やテクニカルレベルは記事概要からは不明。市場参加者の見方を示すレポート。"
+  },
+  {
+    "title": "米国原油先物 (USOIL-F) は9月13日に上昇 2.69%：需要の見通しは変化しているのか？ - TradingKey",
+    "timestamp": "2026-09-13T22:06:02+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国原油先物が9月13日に2.69%上昇した。記事は需要見通しの変化を問う解説記事だが、具体的な需要改善の根拠は不明確。短期的な上昇幅は通常のボラティリティ範囲内。"
+  },
+  {
+    "title": "原油価格の高騰によりエアアジアは深刻な赤字を計上しており、現在47億4,000万の債務再編を実施中です。さらに、航空燃料... - moomoo.com",
+    "timestamp": "2026-09-13T07:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の高騰がエアアジアに深刻な赤字をもたらし、47億4,000万の債務再編を余儀なくされている。航空燃料コスト上昇が航空業界全体への需要圧力となる可能性を示唆。"
+  },
+  {
+    "title": "イラン戦争激化で原油価格上昇圧力が続く中でサウジアラビアが海道代案として活用してきた陸路送油管「東西パイプライン」がドローン攻撃を受け運営が暫定中断された。 一時、世界最大の原油輸出国だったサウジがホ.. - 매일경제",
+    "timestamp": "2026-09-13T20:54:15+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの東西パイプラインがドローン攻撃により運営を暫定中断。同国の代替海上輸送ルートも地政学リスクに直面している状況で、主要供給インフラの喪失は世界的な原油供給逼迫を招く。"
+  },
+  {
+    "title": "原油価格上昇、サウジのパイプライン停止でエネルギー危機が深刻化（Bloomberg） - Yahoo!ニュース",
+    "timestamp": "2026-09-13T22:29:17+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの主要パイプライン停止により、供給ショックが発生。世界的なエネルギー逼迫が顕在化し、原油価格が上昇。中東の地政学的リスクが市場に急速に織り込まれている。"
+  },
+  {
+    "title": "11日の米国市場ダイジェスト：米国株式市場は反発、原油安を好感 - ｄメニューニュース",
+    "timestamp": "2026-09-13T21:01:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株式市場が反発し、原油安が好感されたとの報道。原油価格が低下したことが株式市場のポジティブ要因として機能。定期的な市場ダイジェストの一部。"
   }
 ]
