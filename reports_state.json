@@ -33,138 +33,6 @@
     "summary": "USDA NASによる定例的な作物進捗・状態推定の発表。具体的な数値や前週比での進捗状況、作物の健全性評価などが含まれるが、提供されたテキストでは詳細データが欠落しているため詳細な影響評価が困難。通常はシーズン進捗の市場織り込みに用いられる。"
   },
   {
-    "title": "Could USDA Provide a Yield Surprise in the September Report? - AgWeb",
-    "timestamp": "2026-09-10T21:41:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "9月のUSDA WASDEレポートで単収（Yield）のサプライズが生じる可能性を検討する記事。米国穀物の単収予想が市場予想から乖離する可能性が示唆されており、今年の作況評価が注目される。単収が上方修正されれば供給増加で穀物価格に下落圧力、下方修正なら上昇圧力となる見込み。"
-  },
-  {
-    "title": "Could USDA Provide a Yield Surprise in the September Report? - AgWeb",
-    "timestamp": "2026-09-10T21:41:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "9月のUSDA WASDEレポートで単収（Yield）のサプライズが生じる可能性を検討する記事。米国穀物の単収予想が市場予想から乖離する可能性が示唆されており、今年の作況評価が注目される。単収が上方修正されれば供給増加で穀物価格に下落圧力、下方修正なら上昇圧力となる見込み。"
-  },
-  {
-    "title": "Could USDA Provide a Yield Surprise in the September Report? - AgWeb",
-    "timestamp": "2026-09-10T21:41:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "9月のUSDA WASDEレポートで単収（Yield）のサプライズが生じる可能性を検討する記事。米国穀物の単収予想が市場予想から乖離する可能性が示唆されており、今年の作況評価が注目される。単収が上方修正されれば供給増加で穀物価格に下落圧力、下方修正なら上昇圧力となる見込み。"
-  },
-  {
-    "title": "USDA Crop Progress Report May 28, 2024: Corn, Soybean, Cotton Planting & Condition - News and Statistics - indexbox.io",
-    "timestamp": "2026-09-10T21:00:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress Report（5月28日）は米国のトウモロコシ・大豆の作付進捗と生育状況を報告する定期統計。春先の天候や播種ペースが市場の需給見通しに影響を与える。具体的な作付面積・進捗率の数値により、今後の生産量予想が変動する可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress Report May 28, 2024: Corn, Soybean, Cotton Planting & Condition - News and Statistics - indexbox.io",
-    "timestamp": "2026-09-10T21:00:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress Report（5月28日）は米国のトウモロコシ・大豆の作付進捗と生育状況を報告する定期統計。春先の天候や播種ペースが市場の需給見通しに影響を与える。具体的な作付面積・進捗率の数値により、今後の生産量予想が変動する可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress Report May 28, 2024: Corn, Soybean, Cotton Planting & Condition - News and Statistics - indexbox.io",
-    "timestamp": "2026-09-10T21:00:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA Crop Progress Report（5月28日）は米国のトウモロコシ・大豆の作付進捗と生育状況を報告する定期統計。春先の天候や播種ペースが市場の需給見通しに影響を与える。具体的な作付面積・進捗率の数値により、今後の生産量予想が変動する可能性がある。"
-  },
-  {
-    "title": "Treasury Takes Less Than Expected at Buyback, Pushing Up Yields - Bloomberg.com",
-    "timestamp": "2026-09-10T21:32:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国財務省の債券買戻プログラムで予想より少ない額の買い入れが実施され、結果として長期金利が上昇。金利上昇環境では無利子資産である金に下落圧力がかかる傾向にあるが、同時に米ドル強化によるコモディティ全般への影響も観察される。財政運営の変化がマクロ環境を転換させる可能性。"
-  },
-  {
-    "title": "Treasury Takes Less Than Expected at Buyback, Pushing Up Yields - Bloomberg.com",
-    "timestamp": "2026-09-10T21:32:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国財務省の債券買戻プログラムで予想より少ない額の買い入れが実施され、結果として長期金利が上昇。金利上昇環境では無利子資産である金に下落圧力がかかる傾向にあるが、同時に米ドル強化によるコモディティ全般への影響も観察される。財政運営の変化がマクロ環境を転換させる可能性。"
-  },
-  {
-    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
-    "timestamp": "2026-09-10T20:37:37+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
-  },
-  {
-    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
-    "timestamp": "2026-09-10T20:37:37+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
-  },
-  {
-    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
-    "timestamp": "2026-09-10T20:37:37+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
-  },
-  {
-    "title": "Top Tips: The battle between strong demand vs. harvest pressure - farmprogress.com",
-    "timestamp": "2026-09-10T20:37:37+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "収穫期における需要堅調と収穫圧力のバランスが市場の焦点。強い需要が価格を支える一方で、新穀収穫時期の大量供給（ハーベストプレッシャー）が下押し圧力として機能する。穀物市場では需給両面の競争が激化している局面を指摘。"
-  },
-  {
     "title": "Analysts Watch for Price and Trade Shifts in Supply & Demand Report - Madison's Country Q106",
     "timestamp": "2026-09-11T02:39:47+00:00",
     "importance": 3,
@@ -207,28 +75,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "WASDE（米国農務省需給報告書）に関連した市場分析記事。供給・需要バランスの変化が価格と貿易フローに与える影響を観測している。具体的な数値や実際の予想修正幅が記事内容から判明しないため、詳細な市場インパクト評価は限定的。"
-  },
-  {
-    "title": "Asian Stocks, Bonds to Drop on Oil, Inflation Woes: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-10T22:15:53+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株式・債券市場が原油価格上昇とインフレ懸念を背景に下落見通しとなっている。インフレ圧力の強まりは中央銀行の引き締め姿勢を強化し、実質金利の上昇を招く。これはドル建てコモディティ全般への下押し圧力として作用し、特にリスク資産としての原油と非金属系コモディティが売り圧力に直面する可能性が高い。"
-  },
-  {
-    "title": "Asian Stocks, Bonds to Drop on Oil, Inflation Woes: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-10T22:15:53+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株式・債券市場が原油価格上昇とインフレ懸念を背景に下落見通しとなっている。インフレ圧力の強まりは中央銀行の引き締め姿勢を強化し、実質金利の上昇を招く。これはドル建てコモディティ全般への下押し圧力として作用し、特にリスク資産としての原油と非金属系コモディティが売り圧力に直面する可能性が高い。"
   },
   {
     "title": "First Thing Today | Grains lower ahead of this morning’s USDA WASDE report - Pro Farmer",
@@ -825,28 +671,6 @@
     "summary": "USDAが8月のWASDEレポートでトウモロコシの収量予想を2.2ブッシェル/エーカー（BPA）引き下げた。一方、大豆の収量予想は小幅に上方修正された。これはUSDA定期発表の一環で、秋の収穫期に向けた重要な生産見通し調整。"
   },
   {
-    "title": "OPEC’s Output Has Slumped to Lowest Since 1990 - Energy News Beat",
-    "timestamp": "2026-09-10T22:07:37+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの産出量が1990年以来の最低水準に低下している。これは大幅な減産が続いていることを示唆し、グローバルな原油供給が著しく逼迫していることを意味する。供給ショックにより原油価格の上昇圧力が高まり、コモディティ全般のインフレ圧力にも波及する可能性が高い。"
-  },
-  {
-    "title": "OPEC’s Output Has Slumped to Lowest Since 1990 - Energy News Beat",
-    "timestamp": "2026-09-10T22:07:37+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECの産出量が1990年以来の最低水準に低下している。これは大幅な減産が続いていることを示唆し、グローバルな原油供給が著しく逼迫していることを意味する。供給ショックにより原油価格の上昇圧力が高まり、コモディティ全般のインフレ圧力にも波及する可能性が高い。"
-  },
-  {
     "title": "EXCLUSIVE: White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say - Reuters",
     "timestamp": "2026-09-11T16:54:30+00:00",
     "importance": 4,
@@ -1331,39 +1155,6 @@
     "summary": "サウジアラビアの重要な石油パイプラインの閉鎖がイラクに圧力をかけている。中東の主要な石油輸送インフラの機能停止により、地域の石油供給体制に混乱が生じ、輸出ルートの制約がイラクの産油国としての競争力に直接的な影響を及ぼしている。"
   },
   {
-    "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-10T22:15:53+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "株式と債券が上昇する中、原油価格の下落がマーケット全体の材料となった。CPI統計データは発表されたが、原油下落がそれを相殺した形での市場展開。金利環境への懸念がコモディティ全般に複雑な影響を与えている。"
-  },
-  {
-    "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-10T22:15:53+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "株式と債券が上昇する中、原油価格の下落がマーケット全体の材料となった。CPI統計データは発表されたが、原油下落がそれを相殺した形での市場展開。金利環境への懸念がコモディティ全般に複雑な影響を与えている。"
-  },
-  {
-    "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-10T22:15:53+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "株式と債券が上昇する中、原油価格の下落がマーケット全体の材料となった。CPI統計データは発表されたが、原油下落がそれを相殺した形での市場展開。金利環境への懸念がコモディティ全般に複雑な影響を与えている。"
-  },
-  {
     "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
     "timestamp": "2026-09-11T14:32:04+00:00",
     "importance": 3,
@@ -1417,5 +1208,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、原油生産量が過去最高水準に接近しているとの報道。OPEC減産体制の外で独立生産を拡大する動きであり、市場供給の不確実性が高まる。OPECの求心力低下とシェールガス・独立系の台頭を象徴する戦略的転換。"
+  },
+  {
+    "title": "According to foreign media reports, copper recorded its first weekly d - SMM Metal",
+    "timestamp": "2026-09-13T20:51:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅が週単位で初めての下落を記録したとの報道。具体的な下落幅や背景となる要因の詳細は提供されていない。タイトルのみで内容ページへのアクセスが不可のため、市場への影響度合いの正確な判定は困難。"
+  },
+  {
+    "title": "According to foreign media reports, copper recorded its first weekly d - SMM Metal",
+    "timestamp": "2026-09-13T20:51:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅が週単位で初めての下落を記録したとの報道。具体的な下落幅や背景となる要因の詳細は提供されていない。タイトルのみで内容ページへのアクセスが不可のため、市場への影響度合いの正確な判定は困難。"
+  },
+  {
+    "title": "Houthi advance along Yemeni coast threatens Saudi oil exports - Reuters",
+    "timestamp": "2026-09-11T00:15:35+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメン沿岸部でのフーシ派の進軍がサウジアラビアの石油輸出を脅かしている。ホルムズ海峡周辺における地政学的緊張の高まりは、中東産油国からの供給経路の不確実性を増加させ、原油価格の上昇圧力をもたらす。Red Sea航路の混乱リスク拡大も懸念される。"
   }
 ]
