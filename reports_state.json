@@ -1,38 +1,5 @@
 [
   {
-    "title": "TEST DDO",
-    "timestamp": "2026-09-10T22:36:47.469640+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASによる定例的な作物進捗・状態推定の発表。具体的な数値や前週比での進捗状況、作物の健全性評価などが含まれるが、提供されたテキストでは詳細データが欠落しているため詳細な影響評価が困難。通常はシーズン進捗の市場織り込みに用いられる。"
-  },
-  {
-    "title": "TEST DDO",
-    "timestamp": "2026-09-10T22:36:47.469640+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASによる定例的な作物進捗・状態推定の発表。具体的な数値や前週比での進捗状況、作物の健全性評価などが含まれるが、提供されたテキストでは詳細データが欠落しているため詳細な影響評価が困難。通常はシーズン進捗の市場織り込みに用いられる。"
-  },
-  {
-    "title": "TEST DDO",
-    "timestamp": "2026-09-10T22:36:47.469640+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASによる定例的な作物進捗・状態推定の発表。具体的な数値や前週比での進捗状況、作物の健全性評価などが含まれるが、提供されたテキストでは詳細データが欠落しているため詳細な影響評価が困難。通常はシーズン進捗の市場織り込みに用いられる。"
-  },
-  {
     "title": "Analysts Watch for Price and Trade Shifts in Supply & Demand Report - Madison's Country Q106",
     "timestamp": "2026-09-11T02:39:47+00:00",
     "importance": 3,
@@ -682,39 +649,6 @@
     "summary": "ホワイトハウスが防衛生産法（DPA）を活用して米国の石油精製能力拡大を検討している。この政策措置は、米国の戦略的エネルギー自給能力強化を意図しており、精製ボトルネックの解消とガソリン供給増加につながる可能性がある。短期的には原油需要増加につながり、中期的には製品供給の安定化が期待される。"
   },
   {
-    "title": "Treasury Yields Surge as Oil, Buyback Results Fuel Selloff - bloomberg.com",
-    "timestamp": "2026-09-10T23:06:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国債利回りが急上昇し、自社株買い戻し結果が売却圧力となっている。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油はファンダメンタルズと金融要因が混在。コモディティ全般に対してリスク資産圧力が強まる局面。"
-  },
-  {
-    "title": "Treasury Yields Surge as Oil, Buyback Results Fuel Selloff - bloomberg.com",
-    "timestamp": "2026-09-10T23:06:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国債利回りが急上昇し、自社株買い戻し結果が売却圧力となっている。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油はファンダメンタルズと金融要因が混在。コモディティ全般に対してリスク資産圧力が強まる局面。"
-  },
-  {
-    "title": "Treasury Yields Surge as Oil, Buyback Results Fuel Selloff - bloomberg.com",
-    "timestamp": "2026-09-10T23:06:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国債利回りが急上昇し、自社株買い戻し結果が売却圧力となっている。金利上昇は金などの無利子資産に下落圧力をもたらす一方、原油はファンダメンタルズと金融要因が混在。コモディティ全般に対してリスク資産圧力が強まる局面。"
-  },
-  {
     "title": "USDA Grain Shock: Corn, Soybeans and Wheat Slide as WASDE Reshapes U.S. Markets - AgroLatam",
     "timestamp": "2026-09-11T20:50:43+00:00",
     "importance": 4,
@@ -1232,14 +1166,25 @@
     "summary": "銅が週単位で初めての下落を記録したとの報道。具体的な下落幅や背景となる要因の詳細は提供されていない。タイトルのみで内容ページへのアクセスが不可のため、市場への影響度合いの正確な判定は困難。"
   },
   {
-    "title": "Houthi advance along Yemeni coast threatens Saudi oil exports - Reuters",
-    "timestamp": "2026-09-11T00:15:35+00:00",
+    "title": "Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz - reuters.com",
+    "timestamp": "2026-09-13T23:33:26+00:00",
     "importance": 4,
     "direction": "上昇",
     "event_type": "breaking",
     "surprise": "high",
     "source": "Reuters商品ニュース",
     "commodity": "原油",
-    "summary": "イエメン沿岸部でのフーシ派の進軍がサウジアラビアの石油輸出を脅かしている。ホルムズ海峡周辺における地政学的緊張の高まりは、中東産油国からの供給経路の不確実性を増加させ、原油価格の上昇圧力をもたらす。Red Sea航路の混乱リスク拡大も懸念される。"
+    "summary": "サウジアラビア施設およびホルムズ海峡への新たなストライキにより、原油価格が2%以上上昇した。中東の主要な石油供給インフラへの攻撃は、地政学的リスクの急速な悪化を示唆しており、市場の供給懸念が即座に価格に反映された。"
+  },
+  {
+    "title": "Oil Jumps as Shutdown of Saudi Pipeline Deepens Energy Crisis - bloomberg.com",
+    "timestamp": "2026-09-13T22:01:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン停止により原油価格が急騰。供給ショックがエネルギー危機を深刻化させている。主要インフラの遮断は市場で予想されていなかった突発事象で、短期的な価格上振れ圧力が継続する見通し。"
   }
 ]
