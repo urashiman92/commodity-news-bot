@@ -1,82 +1,5 @@
 [
   {
-    "title": "USDA AMS油糧種子報告：2026年9月11日のトウモロコシ、大豆、小麦先物清算値 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-09-11T20:42:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "USDA AMS油糧種子報告として2026年9月11日のトウモロコシ、大豆、小麦先物の清算値を報告するニュース。定期的な価格統計情報の公表。"
-  },
-  {
-    "title": "原油先物反落、中東供給懸念根強く100ドル台維持 - Reuters",
-    "timestamp": "2026-09-11T20:59:55+00:00",
-    "importance": 3,
-    "direction": "上�昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物は反落したものの、中東からの供給懸念が根強く残存。価格は100ドル台を維持している状況。地政学的リスク要因が下値支持水準として機能。"
-  },
-  {
-    "title": "ＮＹダウ終値、原油価格の下落で５営業日ぶり上昇…前日比５０９ドル高の５万２５７３ドル - 読売新聞",
-    "timestamp": "2026-09-11T20:49:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NYダウが5営業日ぶりに上昇し52,573ドルで引けた。原油価格の下落が株価を下支えした。通常のマクロ相場動向の報道。"
-  },
-  {
-    "title": "原油先物反落、中東供給懸念根強く100ドル台維持 - ニューズウィーク日本版",
-    "timestamp": "2026-09-11T20:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物は反落したが、中東の供給懸念が継続的に市場を下支えしており、100ドル台の水準を維持している。地政学リスクが価格の下値を堅い状態にあることが確認される。"
-  },
-  {
-    "title": "ＮＹ株５日ぶり反発、５０９ドル高＝原油価格の下落で - 時事通信ニュース",
-    "timestamp": "2026-09-11T20:35:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY株が5日ぶりに反発し509ドル高で終了。原油価格の下落がエネルギーコストの低下を通じて株式市場の重荷が軽減された。既に織り込まれた相場の振り返り報道。"
-  },
-  {
-    "title": "【原油ウォッチ】中東緊迫で再び100ドル超え、投機マネーも流入…価格高騰で原油の需要破壊が進む可能性も - JBpress",
-    "timestamp": "2026-09-11T21:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東の地政学的緊張により原油は100ドル超へ上昇。投機マネー流入で相場が加熱している状況。一方、高値での需要破壊リスクが顕在化する可能性が指摘されている。"
-  },
-  {
-    "title": "WisdomTree WTI原油上場投信【1690】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-09-11T18:49:40+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WisdomTree WTI原油上場投信（1690）の株価・株式情報ページの更新。単なる投信の情報提供ページであり、新規ニュースや市場イベントではない。"
-  },
-  {
     "title": "本日9月12日の金価格：買い圧力により約1％回復。 - Vietnam.vn",
     "timestamp": "2026-09-11T23:00:29+00:00",
     "importance": 2,
@@ -207,17 +130,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月7日から11日の週間の金相場変動を専門家が振り返るコメント記事。過去の相場動きを解説した内容で、新規情報を含まない。"
-  },
-  {
-    "title": "タイの金価格が550バーツ急落、9月11日寄り付き 装飾品は68,800バーツで販売 - BigGo ファイナンス",
-    "timestamp": "2026-09-11T18:37:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "タイの金価格が9月11日の寄り付きで550バーツ下落し、装飾品は68,800バーツで取引された。地域的な価格調整ニュースであり、グローバル金相場への直接的な影響は限定的。"
   },
   {
     "title": "本日（9月12日）の金価格：急落 - Vietnam.vn",
@@ -1703,5 +1615,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が$6.3216のサポートレベルを試す局面にあるとの技術分析予測。アナリストによる価格レベルの観測・解説。"
+  },
+  {
+    "title": "黒海紛争の緊張緩和期待でシカゴ小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-14T19:40:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海紛争の緊張緩和への市場期待により、シカゴ小麦先物が下落。黒海地域からの穀物供給制約の緩和が価格低下要因。既に報じられた地政学リスク軽減の延長線上の反応。"
+  },
+  {
+    "title": "黒海紛争の緊張緩和期待で小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-14T19:40:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "黒海紛争の緊張緩和への期待が市場に織り込まれ、小麦先物が下落。地政学的リスク低下による供給懸念の軽減が要因。既報の事象の継続的な反映。"
+  },
+  {
+    "title": "金価格ディリーレポート（2026年9月14日）金価格4300ドル割れ、原油高でFRB利上げ確率9割へ - ブリオンボールト",
+    "timestamp": "2026-09-14T07:31:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4300ドルを割れた。原油高がFRBの利上げ確率を9割まで高める可能性がある。金はドル高・金利上昇によって下押し圧力を受けている。"
+  },
+  {
+    "title": "本日、2026年9月14日の金価格：絶えず変動しており、SJCの金価格は再び急落しました。 - Vietnam.vn",
+    "timestamp": "2026-09-14T17:52:33+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が再び急落した。金価格は継続的に変動している状況。具体的な下落要因や背景情報は記事概要には明記されていない。"
+  },
+  {
+    "title": "原油先物1％上昇、供給不安で トランプ発言で伸び悩み - Reuters",
+    "timestamp": "2026-09-14T19:30:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物は供給不安を背景に1％上昇。一方、トランプ関連の発言が相場の上値を抑制している。供給懸念が支える一方で政治的な不確実性が重石となっている状況。"
+  },
+  {
+    "title": "アメリカ長期金利5％台 原油先物上昇で 2023年10月以来高水準 - NHKニュース",
+    "timestamp": "2026-09-14T20:20:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米長期金利が5%台に上昇し、2023年10月以来の高水準となった。金利上昇は原油先物の上昇と連動している。金利高は一般的にドル強化を通じて原油下押し圧力となるが、同時に上昇が報じられている点で市場の不確実性を反映。"
+  },
+  {
+    "title": "原油先物1％上昇、供給不安で トランプ発言で伸び悩み - ニューズウィーク日本版",
+    "timestamp": "2026-09-14T19:29:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が1％上昇。供給不安が買い圧力となったが、トランプ発言によって上値が抑制される相場展開。双方向の圧力が均衡している状態。"
+  },
+  {
+    "title": "紅海要衝の掌握主張 フーシ派 原油価格へ影響懸念 - 沖縄タイムス社",
+    "timestamp": "2026-09-14T18:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派が紅海の要衝支配を主張。ホルムズ海峡に次ぐ原油輸送の重要な航路が脅威にさらされている。地政学リスクの急騰で原油価格の上昇圧力が強まる。"
+  },
+  {
+    "title": "サウジアラビアと湾岸船舶に新たな攻撃、原油先物が3ドル超急騰 - BigGo ファイナンス",
+    "timestamp": "2026-09-14T18:06:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアと湾岸地域の船舶が新たな攻撃を受けた。原油先物が3ドル超急騰し、地政学的リスクが顕在化。供給途絶の懸念から価格上昇圧力が高まっている。"
   }
 ]
