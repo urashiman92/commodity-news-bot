@@ -1,148 +1,5 @@
 [
   {
-    "title": "First Thing Today | Grains lower ahead of this morning’s USDA WASDE report - Pro Farmer",
-    "timestamp": "2026-09-11T11:05:21+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "本日のUSDA WASDE報告書公表を控え、穀物先物が軟調に推移している。このレポートは米国の穀物生産量・在庫見通しを示す重要な月次統計であり、小麦・トウモロコシ・大豆の相場に直結する。市場参加者は予想数値との乖離を注視している状況。"
-  },
-  {
-    "title": "First Thing Today | Grains lower ahead of this morning’s USDA WASDE report - Pro Farmer",
-    "timestamp": "2026-09-11T11:05:21+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "本日のUSDA WASDE報告書公表を控え、穀物先物が軟調に推移している。このレポートは米国の穀物生産量・在庫見通しを示す重要な月次統計であり、小麦・トウモロコシ・大豆の相場に直結する。市場参加者は予想数値との乖離を注視している状況。"
-  },
-  {
-    "title": "First Thing Today | Grains lower ahead of this morning’s USDA WASDE report - Pro Farmer",
-    "timestamp": "2026-09-11T11:05:21+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "本日のUSDA WASDE報告書公表を控え、穀物先物が軟調に推移している。このレポートは米国の穀物生産量・在庫見通しを示す重要な月次統計であり、小麦・トウモロコシ・大豆の相場に直結する。市場参加者は予想数値との乖離を注視している状況。"
-  },
-  {
-    "title": "USDA Crop Report Could Shake Corn and Soybean Markets Today - AgroLatam",
-    "timestamp": "2026-09-11T11:05:28+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA月次作物レポート（Crop Report）が発表予定。トウモロコシと大豆の作付面積、生育進捗、収量見通しなどが市場に大きな影響を与える可能性がある。市場予想との乖離幅によっては穀物相場が急変動する可能性が高い。"
-  },
-  {
-    "title": "USDA Crop Report Could Shake Corn and Soybean Markets Today - AgroLatam",
-    "timestamp": "2026-09-11T11:05:28+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA月次作物レポート（Crop Report）が発表予定。トウモロコシと大豆の作付面積、生育進捗、収量見通しなどが市場に大きな影響を与える可能性がある。市場予想との乖離幅によっては穀物相場が急変動する可能性が高い。"
-  },
-  {
-    "title": "EIA reports another draw in US crude oil stocks - engine.online",
-    "timestamp": "2026-09-11T07:35:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の継続的な減少を報告した。在庫ドロー（引き出し）は供給が需要に追いつかないことを示唆し、原油相場の上昇圧力となる。継続的な在庫減少傾向は市場心理を改善させるシグナルとなる可能性がある。"
-  },
-  {
-    "title": "Traders await USDA crop estimates as harvest nears - JC Post",
-    "timestamp": "2026-09-11T10:59:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA穀物生産見積もり（WASDE等）の発表が間近に控えており、トレーダーが収穫期の最新作況データに注視している。穀物供給量の正式推計値は価格形成の重要なファクターとなる。市場予想との乖離幅が大きければ穀物相場に大きな変動をもたらす可能性がある。"
-  },
-  {
-    "title": "Traders await USDA crop estimates as harvest nears - JC Post",
-    "timestamp": "2026-09-11T10:59:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA穀物生産見積もり（WASDE等）の発表が間近に控えており、トレーダーが収穫期の最新作況データに注視している。穀物供給量の正式推計値は価格形成の重要なファクターとなる。市場予想との乖離幅が大きければ穀物相場に大きな変動をもたらす可能性がある。"
-  },
-  {
-    "title": "Traders await USDA crop estimates as harvest nears - JC Post",
-    "timestamp": "2026-09-11T10:59:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA穀物生産見積もり（WASDE等）の発表が間近に控えており、トレーダーが収穫期の最新作況データに注視している。穀物供給量の正式推計値は価格形成の重要なファクターとなる。市場予想との乖離幅が大きければ穀物相場に大きな変動をもたらす可能性がある。"
-  },
-  {
-    "title": "IEA warns 2026 oil supply gap will widen on delayed return of normal Gulf flows - Reuters",
-    "timestamp": "2026-09-11T10:48:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEA（国際エネルギー機関）が2026年の石油供給ギャップが拡大すると警告。ペルシャ湾の生産が正常水準への回復が遅延することが主要因。供給不足シナリオは原油価格の上昇圧力となり、市場参加者のポジション再評価が必要。"
-  },
-  {
-    "title": "Ukraine Strikes Degrade Russian Oil-Refining Industry, IEA Says - Bloomberg.com",
-    "timestamp": "2026-09-11T08:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの石油精製施設への攻撃を強化しており、IEAがロシアの石油精製能力の著しい低下を報告。これにより供給制約が深刻化し、グローバル原油需給がさらに逼迫する懸念。ロシアの精製能力喪失は代替調達困難であり、欧州・アジア市場での価格上昇圧力が継続。"
-  },
-  {
-    "title": "IEA Warns Oil Demand May Have to Fall Further as Iran War Drags - Bloomberg.com",
-    "timestamp": "2026-09-11T08:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "国際エネルギー機関(IEA)がイラン紛争の長期化に伴い、石油需要がさらに減少する可能性を警告。地政学的リスクプレミアムが減少すれば供給懸念が緩和され、原油価格への下押し圧力が強まる見通し。需要減少シナリオは市場で既に議論されているが、公式な国際機関の警告により認識が深まる。"
-  },
-  {
-    "title": "IEA Warns Oil Demand May Have to Fall Further as Iran War Drags - Bloomberg.com",
-    "timestamp": "2026-09-11T08:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "国際エネルギー機関(IEA)がイラン紛争の長期化に伴い、石油需要がさらに減少する可能性を警告。地政学的リスクプレミアムが減少すれば供給懸念が緩和され、原油価格への下押し圧力が強まる見通し。需要減少シナリオは市場で既に議論されているが、公式な国際機関の警告により認識が深まる。"
-  },
-  {
     "title": "Crop Production",
     "timestamp": "2026-09-11T16:30:57.964983+00:00",
     "importance": 3,
@@ -253,61 +110,6 @@
     "summary": "米国の原油在庫が週間ベースで前週比減少した。EIAの週次在庫統計は市場参加者の需給バランス判断に使用される定期発表。具体的な在庫減少量や絶対水準の情報が不足しているため詳細評価は限定的。"
   },
   {
-    "title": "Traders await USDA crop estimates as harvest nears - Great Bend Post",
-    "timestamp": "2026-09-11T13:24:00+00:00",
-    "importance": 3,
-    "direction": "mixed",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国農務省（USDA）の作物予測発表が近づいており、トレーダーがその公式数値を注視している。収穫シーズン突入を控えて、小麦・トウモロコシ・大豆の生産量予測が市場価格に大きな影響を与える見込み。予想との乖離幅によってポジション調整の可能性あり。"
-  },
-  {
-    "title": "Traders await USDA crop estimates as harvest nears - Great Bend Post",
-    "timestamp": "2026-09-11T13:24:00+00:00",
-    "importance": 3,
-    "direction": "mixed",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国農務省（USDA）の作物予測発表が近づいており、トレーダーがその公式数値を注視している。収穫シーズン突入を控えて、小麦・トウモロコシ・大豆の生産量予測が市場価格に大きな影響を与える見込み。予想との乖離幅によってポジション調整の可能性あり。"
-  },
-  {
-    "title": "Traders await USDA crop estimates as harvest nears - Great Bend Post",
-    "timestamp": "2026-09-11T13:24:00+00:00",
-    "importance": 3,
-    "direction": "mixed",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国農務省（USDA）の作物予測発表が近づいており、トレーダーがその公式数値を注視している。収穫シーズン突入を控えて、小麦・トウモロコシ・大豆の生産量予測が市場価格に大きな影響を与える見込み。予想との乖離幅によってポジション調整の可能性あり。"
-  },
-  {
-    "title": "USDA WASDE Looms as Corn and Soybeans Retreat Before Key Crop Report - AgroLatam",
-    "timestamp": "2026-09-11T12:47:39+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDE（世界農業需給予測）発表を控え、トウモロコシと大豆が調整売りに直面している。同レポートは米国の生産量・在庫・輸出見通しに関する最重要統計であり、市場参加者は事前に利益確定を進めている。発表内容によっては価格が大きく変動する可能性が高い。"
-  },
-  {
-    "title": "USDA WASDE Looms as Corn and Soybeans Retreat Before Key Crop Report - AgroLatam",
-    "timestamp": "2026-09-11T12:47:39+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA WASDE（世界農業需給予測）発表を控え、トウモロコシと大豆が調整売りに直面している。同レポートは米国の生産量・在庫・輸出見通しに関する最重要統計であり、市場参加者は事前に利益確定を進めている。発表内容によっては価格が大きく変動する可能性が高い。"
-  },
-  {
     "title": "OPEC Reports Sharp Drop in Iranian Crude Production - IranWire",
     "timestamp": "2026-09-11T14:26:19+00:00",
     "importance": 4,
@@ -317,72 +119,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECはイラン産原油生産の急激な落ち込みを報告。米国による厳しい経済制裁の強化により、イランの産油能力が大幅に低下している。OPECの主要加盟国の供給減少は市場の供給逼迫懸念を高め、原油価格の上昇圧力となる。"
-  },
-  {
-    "title": "Saudi oil supply hits more than three-decade low after Houthi attacks, IEA says - Reuters",
-    "timestamp": "2026-09-11T10:49:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派による攻撃によりサウジアラビアの石油供給が30年以上ぶりの低水準に低下したとIEAが報告。地政学的リスクによる供給ショックで、原油市場への上方圧力が強まる。Brent原油およびWTIの上昇が見込まれ、エネルギー価格全般に波及効果の可能性。"
-  },
-  {
-    "title": "Wall St climbs after August inflation report, oil price slide - Reuters",
-    "timestamp": "2026-09-11T14:05:02+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "8月の米インフレレポート発表後、ウォール街が上昇。インフレ鈍化が示唆され、金融引き締め期待が緩和。原油価格は連動して下落。金利低下期待で金は支持される一方、リスク資産買いで原油売圧力が発生し、コモディティ市場で対照的な動きが展開。"
-  },
-  {
-    "title": "Wall St climbs after August inflation report, oil price slide - Reuters",
-    "timestamp": "2026-09-11T14:05:02+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "8月の米インフレレポート発表後、ウォール街が上昇。インフレ鈍化が示唆され、金融引き締め期待が緩和。原油価格は連動して下落。金利低下期待で金は支持される一方、リスク資産買いで原油売圧力が発生し、コモディティ市場で対照的な動きが展開。"
-  },
-  {
-    "title": "Wall St climbs after August inflation report, oil price slide - Reuters",
-    "timestamp": "2026-09-11T14:05:02+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "8月の米インフレレポート発表後、ウォール街が上昇。インフレ鈍化が示唆され、金融引き締め期待が緩和。原油価格は連動して下落。金利低下期待で金は支持される一方、リスク資産買いで原油売圧力が発生し、コモディティ市場で対照的な動きが展開。"
-  },
-  {
-    "title": "IEA further cuts Russian oil output forecasts on Ukrainian attacks - Reuters",
-    "timestamp": "2026-09-11T08:14:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEA（国際エネルギー機関）がウクライナによるロシア油田への攻撃を受け、ロシア原油生産予測をさらに下方修正した。ロシアは世界第2位の石油生産国であり、供給縮小見通しの強化は原油価格の上昇圧力となる。地政学リスクの顕在化により、市場の供給懸念が一層深刻化している。"
-  },
-  {
-    "title": "Ukraine Says It Hit Major Oil Refinery in Russia’s Volga Region - Bloomberg.com",
-    "timestamp": "2026-09-11T11:29:03+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア・ヴォルガ地域の主要石油精製所への攻撃を発表。ロシアの石油精製能力低下は欧州エネルギー市場への供給懸念を強め、原油価格の上昇圧力となる。地政学的リスクの再顕在化により市場のボラティリティ拡大が予想される。"
   },
   {
     "title": "USDA Drops 2026/2027 U.S. Corn Yield and Ending Stocks in September WASDE - Successful Farming",
@@ -803,28 +539,6 @@
     "summary": "サウジアラビアが紅海でのフーシ派勢力の増強に対応し、石油パイプラインを閉鎖。紅海航路の封鎖が深刻化しており、原油供給の代替ルート変更やタンカー運送コスト急上昇が見込まれる。中東発の地政学的リスクが顕在化し、原油市場への供給懸念が高まっている。"
   },
   {
-    "title": "India stocks log fifth weekly loss as oil fears grip markets - Reuters",
-    "timestamp": "2026-09-11T10:37:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド株式市場が5週連続の下落を記録し、石油価格上昇懸念が市場全体を圧迫している。原油価格の上昇がインド経済の重石となり、エネルギーコスト増加による企業収益圧迫と通貨安圧力が投資家センチメント悪化の主因。新興国株式とコモディティ間の連動性が強まっている状況。"
-  },
-  {
-    "title": "India stocks log fifth weekly loss as oil fears grip markets - Reuters",
-    "timestamp": "2026-09-11T10:37:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場が5週連続の下落を記録し、石油価格上昇懸念が市場全体を圧迫している。原油価格の上昇がインド経済の重石となり、エネルギーコスト増加による企業収益圧迫と通貨安圧力が投資家センチメント悪化の主因。新興国株式とコモディティ間の連動性が強まっている状況。"
-  },
-  {
     "title": "Copper Surges to Record High: Which Copper Stocks Are Worth Watching? - TradingKey",
     "timestamp": "2026-09-12T09:06:52+00:00",
     "importance": 4,
@@ -834,28 +548,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "銅価格が過去最高水準に上昇した。電気自動車需要の増加、グローバルな脱炭素化トレンド、および供給制約が価格押し上げの主要因。投資家は銅関連銘柄の選別を迫られている状況。"
-  },
-  {
-    "title": "Copper Prices Pull Back Sharply After Hitting Record High as Tariff Expectations Cool, Breaking Tight Supply Trade [SMM Macro Weekly Review] - SMM Metal",
-    "timestamp": "2026-09-11T10:07:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高値を達成した後に急落した。米国の関税期待が冷え込んだことが主要因で、逼迫していた供給トレードが一旦反転した。マクロ環境の不確実性がコモディティ相場全般に波及する可能性がある。"
-  },
-  {
-    "title": "Copper Prices Pull Back Sharply After Hitting Record High as Tariff Expectations Cool, Breaking Tight Supply Trade [SMM Macro Weekly Review] - SMM Metal",
-    "timestamp": "2026-09-11T10:07:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅価格が過去最高値を達成した後に急落した。米国の関税期待が冷え込んだことが主要因で、逼迫していた供給トレードが一旦反転した。マクロ環境の不確実性がコモディティ相場全般に波及する可能性がある。"
   },
   {
     "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - Reuters",
@@ -911,50 +603,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの重要な石油パイプラインがドローン攻撃を受けた。サウジ株式市場が下落し、供給途絶への懸念から原油価格の上昇圧力が生じた。地政学的リスク顕在化により、サプライチェーン寸断の可能性が市場心理に反映された。"
-  },
-  {
-    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
-    "timestamp": "2026-09-11T07:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
-  },
-  {
-    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
-    "timestamp": "2026-09-11T07:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
-  },
-  {
-    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
-    "timestamp": "2026-09-11T07:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
-  },
-  {
-    "title": "It’s WASDE time: Markets can ‘change on a dime’ - Farm Progress",
-    "timestamp": "2026-09-11T07:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE（米農務省の月次需給見通し）発表時期を扱うコメンタリー記事。市場は予告なく急変する可能性を指摘。穀物市場は天候・在庫統計の発表で数分で方向が反転することが強調されており、投資家にとってボラティリティ管理が重要となる局面を示唆している。"
   },
   {
     "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
@@ -1087,5 +735,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのパイプライン停止により原油価格が急騰。供給ショックがエネルギー危機を深刻化させている。主要インフラの遮断は市場で予想されていなかった突発事象で、短期的な価格上振れ圧力が継続する見通し。"
+  },
+  {
+    "title": "Asian Refiners Seek Saudi Updates After Oil Pipeline Closure - Bloomberg.com",
+    "timestamp": "2026-09-14T07:35:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油パイプライン閉鎖により、アジア系精油業者がサウジからの供給状況の詳細情報を求めている。パイプラインの稼働停止は中東発の原油供給減少を意味し、アジア地域の精製能力に直接的な影響を及ぼす。供給途絶のリスクがスポット価格および先物相場を押し上げる圧力となっている。"
+  },
+  {
+    "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks - Bloomberg.com",
+    "timestamp": "2026-09-14T13:08:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中東情勢の緊張化とFRBの金利据え置き懸念により、新興市場株が売却圧力に直面している。リスク回避姿勢が強まることで、金は買われ傾向だが、ドル強含みと金利上昇懸念が相殺効果を生む。原油は地政学的リスク要因で上昇基調が予想される。"
+  },
+  {
+    "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks - Bloomberg.com",
+    "timestamp": "2026-09-14T13:08:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "中東情勢の緊張化とFRBの金利据え置き懸念により、新興市場株が売却圧力に直面している。リスク回避姿勢が強まることで、金は買われ傾向だが、ドル強含みと金利上昇懸念が相殺効果を生む。原油は地政学的リスク要因で上昇基調が予想される。"
+  },
+  {
+    "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks - Bloomberg.com",
+    "timestamp": "2026-09-14T13:08:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東情勢の緊張化とFRBの金利据え置き懸念により、新興市場株が売却圧力に直面している。リスク回避姿勢が強まることで、金は買われ傾向だが、ドル強含みと金利上昇懸念が相殺効果を生む。原油は地政学的リスク要因で上昇基調が予想される。"
   }
 ]
