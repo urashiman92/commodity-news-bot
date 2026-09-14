@@ -1,49 +1,5 @@
 [
   {
-    "title": "Analysts Watch for Price and Trade Shifts in Supply & Demand Report - Madison's Country Q106",
-    "timestamp": "2026-09-11T02:39:47+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE（米国農務省需給報告書）に関連した市場分析記事。供給・需要バランスの変化が価格と貿易フローに与える影響を観測している。具体的な数値や実際の予想修正幅が記事内容から判明しないため、詳細な市場インパクト評価は限定的。"
-  },
-  {
-    "title": "Analysts Watch for Price and Trade Shifts in Supply & Demand Report - Madison's Country Q106",
-    "timestamp": "2026-09-11T02:39:47+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米国農務省需給報告書）に関連した市場分析記事。供給・需要バランスの変化が価格と貿易フローに与える影響を観測している。具体的な数値や実際の予想修正幅が記事内容から判明しないため、詳細な市場インパクト評価は限定的。"
-  },
-  {
-    "title": "Analysts Watch for Price and Trade Shifts in Supply & Demand Report - Madison's Country Q106",
-    "timestamp": "2026-09-11T02:39:47+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE（米国農務省需給報告書）に関連した市場分析記事。供給・需要バランスの変化が価格と貿易フローに与える影響を観測している。具体的な数値や実際の予想修正幅が記事内容から判明しないため、詳細な市場インパクト評価は限定的。"
-  },
-  {
-    "title": "Analysts Watch for Price and Trade Shifts in Supply & Demand Report - Madison's Country Q106",
-    "timestamp": "2026-09-11T02:39:47+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE（米国農務省需給報告書）に関連した市場分析記事。供給・需要バランスの変化が価格と貿易フローに与える影響を観測している。具体的な数値や実際の予想修正幅が記事内容から判明しないため、詳細な市場インパクト評価は限定的。"
-  },
-  {
     "title": "First Thing Today | Grains lower ahead of this morning’s USDA WASDE report - Pro Farmer",
     "timestamp": "2026-09-11T11:05:21+00:00",
     "importance": 4,
@@ -141,39 +97,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA穀物生産見積もり（WASDE等）の発表が間近に控えており、トレーダーが収穫期の最新作況データに注視している。穀物供給量の正式推計値は価格形成の重要なファクターとなる。市場予想との乖離幅が大きければ穀物相場に大きな変動をもたらす可能性がある。"
-  },
-  {
-    "title": "Global bond selloff keeps 10-year US yield near 5% on oil, rate-hike fears - Reuters",
-    "timestamp": "2026-09-11T05:54:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国10年債利回りが5%付近で推移する中、金利上昇が継続している。債券売却圧力と利上げ懸念により、原油などリスク資産は上昇圧力を受けつつも、金は無利子資産として下落圧力が強まっている。マクロ環境の不透明性がコモディティ市場全体に対して相反する影響をもたらしている。"
-  },
-  {
-    "title": "Global bond selloff keeps 10-year US yield near 5% on oil, rate-hike fears - Reuters",
-    "timestamp": "2026-09-11T05:54:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国10年債利回りが5%付近で推移する中、金利上昇が継続している。債券売却圧力と利上げ懸念により、原油などリスク資産は上昇圧力を受けつつも、金は無利子資産として下落圧力が強まっている。マクロ環境の不透明性がコモディティ市場全体に対して相反する影響をもたらしている。"
-  },
-  {
-    "title": "Global bond selloff keeps 10-year US yield near 5% on oil, rate-hike fears - Reuters",
-    "timestamp": "2026-09-11T05:54:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国10年債利回りが5%付近で推移する中、金利上昇が継続している。債券売却圧力と利上げ懸念により、原油などリスク資産は上昇圧力を受けつつも、金は無利子資産として下落圧力が強まっている。マクロ環境の不透明性がコモディティ市場全体に対して相反する影響をもたらしている。"
   },
   {
     "title": "IEA warns 2026 oil supply gap will widen on delayed return of normal Gulf flows - Reuters",
@@ -394,17 +317,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECはイラン産原油生産の急激な落ち込みを報告。米国による厳しい経済制裁の強化により、イランの産油能力が大幅に低下している。OPECの主要加盟国の供給減少は市場の供給逼迫懸念を高め、原油価格の上昇圧力となる。"
-  },
-  {
-    "title": "OPEC oil output falls in August, Reuters survey shows - KWSN",
-    "timestamp": "2026-09-11T01:14:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "Reutersの調査によると、OPECの8月の原油産出量が減少した。OPEC減産合意の継続実施を示唆するもので、供給逼迫による価格下支え要因となる。詳細な産出量減少幅は報道から不明だが、OPEC産出低下は原油価格に上昇圧力をもたらす。"
   },
   {
     "title": "Saudi oil supply hits more than three-decade low after Houthi attacks, IEA says - Reuters",
@@ -845,17 +757,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "銅価格が過去最高水準に急騰し、投資家の注目が集まっている。強気な市場環境の中、銅関連株の投資機会を検討するレポート。電気自動車・再生可能エネルギー関連の需要増加が背景。具体的な価格水準は記事本体に記載と推定。"
-  },
-  {
-    "title": "Oil falls but head for 8% weekly gain on tight supply; US diesel hits record - Reuters",
-    "timestamp": "2026-09-11T01:13:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国ディーゼル価格が過去最高値を更新し、週間ベースで原油が8%の上昇を記録。供給逼迫が主因で、単日では調整局面も、週間での堅調さは需給の構造的ひっ迫を示唆。ガソリン・軽油市場の極度の逼迫が地政学リスクと相まって価格圧力を強化している。"
   },
   {
     "title": "Soybeans fall after higher yield estimate - Brownfield Ag News",
