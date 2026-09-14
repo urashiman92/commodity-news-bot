@@ -1,302 +1,5 @@
 [
   {
-    "title": "Crop Production",
-    "timestamp": "2026-09-11T16:30:57.964983+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASが2024年トウモロコシの穀物生産予測を158億ブッシェルに下方修正、前回予測比1%減。減産見通しは供給懸念につながるが、市場予想の範囲内の調整と見られる。作付面積減少やイールド悪化の組み合わせが要因と推定される。"
-  },
-  {
-    "title": "Crop Production",
-    "timestamp": "2026-09-11T16:30:57.964983+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASが2024年トウモロコシの穀物生産予測を158億ブッシェルに下方修正、前回予測比1%減。減産見通しは供給懸念につながるが、市場予想の範囲内の調整と見られる。作付面積減少やイールド悪化の組み合わせが要因と推定される。"
-  },
-  {
-    "title": "USDA Releases September Crop Production, WASDE Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:01:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月の作物生産報告書とWASDE（世界農産物需給予測）を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積、収穫予測、在庫等が更新される定期統計。市場予想との乖離度合いにより穀物価格が変動する可能性がある。"
-  },
-  {
-    "title": "USDA Releases September Crop Production, WASDE Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:01:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAが9月の作物生産報告書とWASDE（世界農産物需給予測）を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積、収穫予測、在庫等が更新される定期統計。市場予想との乖離度合いにより穀物価格が変動する可能性がある。"
-  },
-  {
-    "title": "USDA Releases September Crop Production, WASDE Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:01:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが9月の作物生産報告書とWASDE（世界農産物需給予測）を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積、収穫予測、在庫等が更新される定期統計。市場予想との乖離度合いにより穀物価格が変動する可能性がある。"
-  },
-  {
-    "title": "USDA Releases September Crop Production, WASDE Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:01:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが9月の作物生産報告書とWASDE（世界農産物需給予測）を発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付面積、収穫予測、在庫等が更新される定期統計。市場予想との乖離度合いにより穀物価格が変動する可能性がある。"
-  },
-  {
-    "title": "USDA Releases September Crop Production, WASDE Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA9月穀物生産・WASDE報告書が発表された。9月WASDEは毎月定例の重要統計で、米国主要穀物（トウモロコシ・大豆・小麦）の生産見通し、作付面積、在庫推計を示す。具体的な数値がニュースソースから確認できないため、前月比での上方・下方修正の方向が重要。市場は現地天候影響と収穫期進捗を織り込む。"
-  },
-  {
-    "title": "USDA Releases September Crop Production, WASDE Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA9月穀物生産・WASDE報告書が発表された。9月WASDEは毎月定例の重要統計で、米国主要穀物（トウモロコシ・大豆・小麦）の生産見通し、作付面積、在庫推計を示す。具体的な数値がニュースソースから確認できないため、前月比での上方・下方修正の方向が重要。市場は現地天候影響と収穫期進捗を織り込む。"
-  },
-  {
-    "title": "USDA Releases September Crop Production, WASDE Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:21:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA9月穀物生産・WASDE報告書が発表された。9月WASDEは毎月定例の重要統計で、米国主要穀物（トウモロコシ・大豆・小麦）の生産見通し、作付面積、在庫推計を示す。具体的な数値がニュースソースから確認できないため、前月比での上方・下方修正の方向が重要。市場は現地天候影響と収穫期進捗を織り込む。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
-    "timestamp": "2026-09-11T14:38:27+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間ベースで前週比減少した。EIAの週次在庫統計は市場参加者の需給バランス判断に使用される定期発表。具体的な在庫減少量や絶対水準の情報が不足しているため詳細評価は限定的。"
-  },
-  {
-    "title": "OPEC Reports Sharp Drop in Iranian Crude Production - IranWire",
-    "timestamp": "2026-09-11T14:26:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECはイラン産原油生産の急激な落ち込みを報告。米国による厳しい経済制裁の強化により、イランの産油能力が大幅に低下している。OPECの主要加盟国の供給減少は市場の供給逼迫懸念を高め、原油価格の上昇圧力となる。"
-  },
-  {
-    "title": "USDA Drops 2026/2027 U.S. Corn Yield and Ending Stocks in September WASDE - Successful Farming",
-    "timestamp": "2026-09-11T16:44:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月のWASDE報告で2026/2027年度の米国トウモロコシの単収見通しと期末在庫を引き下げた。供給見通しの悪化は市場に下押し圧力をもたらす可能性がある。具体的な数値は報道から不明だが、単収低下は生産懸念を示唆している。"
-  },
-  {
-    "title": "WASDE slashed corn yields — but should it have cut deeper? - Farm Progress",
-    "timestamp": "2026-09-11T17:14:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDEがトウモロコシの単収見通しを引き下げた。ただしレポートは、引き下げ幅がさらに深刻であるべき可能性を示唆している。干ばつやその他の気象リスクが継続する中、市場は一層大きな減産を想定している可能性があり、今後のアップデートに注視が必要。"
-  },
-  {
-    "title": "September WASDE Report: USDA Corn Yield Estimates in Focus as Harvest Begins - RFD-TV",
-    "timestamp": "2026-09-11T15:39:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "9月のWASDE報告書でUSDAがトウモロコシの収穫期に入ったことを受けて利回り推定値に焦点が当たっている。今月の収穫開始は年間供給量見通しに重要な影響を与える可能性があり、トウモロコシ相場の方向性を決める主要データとなる。具体的な利回り数字の発表により、穀物全体のポジション調整が予想される。"
-  },
-  {
-    "title": "September WASDE Report: USDA Corn Yield Estimates in Focus as Harvest Begins - RFD-TV",
-    "timestamp": "2026-09-11T15:39:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "9月のWASDE報告書でUSDAがトウモロコシの収穫期に入ったことを受けて利回り推定値に焦点が当たっている。今月の収穫開始は年間供給量見通しに重要な影響を与える可能性があり、トウモロコシ相場の方向性を決める主要データとなる。具体的な利回り数字の発表により、穀物全体のポジション調整が予想される。"
-  },
-  {
-    "title": "September WASDE Report: USDA Corn Yield Estimates in Focus as Harvest Begins - RFD-TV",
-    "timestamp": "2026-09-11T15:39:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "9月のWASDE報告書でUSDAがトウモロコシの収穫期に入ったことを受けて利回り推定値に焦点が当たっている。今月の収穫開始は年間供給量見通しに重要な影響を与える可能性があり、トウモロコシ相場の方向性を決める主要データとなる。具体的な利回り数字の発表により、穀物全体のポジション調整が予想される。"
-  },
-  {
-    "title": "WASDE Report Analysis: Oklahoma Ranchers and Producers Navigate Tightening Crops and Shifting Livestock Balance Sheets - Oklahoma Farm Report",
-    "timestamp": "2026-09-11T18:22:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE報告書がオクラホマの牧場経営者と生産者の状況を分析。作物の逼迫と家畜バランスシートの変化が報告されており、穀物供給の緊張とリンク需要の複雑な動きが示唆されている。具体的な作付面積や在庫数字は見出しからは不明。"
-  },
-  {
-    "title": "WASDE Report Analysis: Oklahoma Ranchers and Producers Navigate Tightening Crops and Shifting Livestock Balance Sheets - Oklahoma Farm Report",
-    "timestamp": "2026-09-11T18:22:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE報告書がオクラホマの牧場経営者と生産者の状況を分析。作物の逼迫と家畜バランスシートの変化が報告されており、穀物供給の緊張とリンク需要の複雑な動きが示唆されている。具体的な作付面積や在庫数字は見出しからは不明。"
-  },
-  {
-    "title": "WASDE Report Analysis: Oklahoma Ranchers and Producers Navigate Tightening Crops and Shifting Livestock Balance Sheets - Oklahoma Farm Report",
-    "timestamp": "2026-09-11T18:22:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE報告書がオクラホマの牧場経営者と生産者の状況を分析。作物の逼迫と家畜バランスシートの変化が報告されており、穀物供給の緊張とリンク需要の複雑な動きが示唆されている。具体的な作付面積や在庫数字は見出しからは不明。"
-  },
-  {
-    "title": "WASDE Report Analysis: Oklahoma Ranchers and Producers Navigate Tightening Crops and Shifting Livestock Balance Sheets - Oklahoma Farm Report",
-    "timestamp": "2026-09-11T18:22:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE報告書がオクラホマの牧場経営者と生産者の状況を分析。作物の逼迫と家畜バランスシートの変化が報告されており、穀物供給の緊張とリンク需要の複雑な動きが示唆されている。具体的な作付面積や在庫数字は見出しからは不明。"
-  },
-  {
-    "title": "USDA Cuts Corn Yield to 178.5 Bu., Nudges Soybeans Slightly Higher in September Report - AgWeb",
-    "timestamp": "2026-09-11T17:54:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの9月WASDE報告でトウモロコシの単収見通しが178.5ブッシェル/エーカーに引き下げられた。一方、大豆は小幅上方修正となった。トウモロコシの減収は供給懸念をやや強めるが、市場予想の範囲内の調整と見られる。"
-  },
-  {
-    "title": "USDA Cuts Corn Yield to 178.5 Bu., Nudges Soybeans Slightly Higher in September Report - AgWeb",
-    "timestamp": "2026-09-11T17:54:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAの9月WASDE報告でトウモロコシの単収見通しが178.5ブッシェル/エーカーに引き下げられた。一方、大豆は小幅上方修正となった。トウモロコシの減収は供給懸念をやや強めるが、市場予想の範囲内の調整と見られる。"
-  },
-  {
-    "title": "USDA 2026 corn, soybean estimates shift on yield changes - Brownfield Ag News",
-    "timestamp": "2026-09-11T16:53:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが2026年のトウモロコシと大豆の生産予測を単収（イールド）の変化に基づいて修正した。具体的な修正数値は提供されていないが、単収の変動が作付面積に次ぐ主要な供給要因として注視される。この定期的な作況推定の更新により、市場のポジション調整が促される可能性がある。"
-  },
-  {
-    "title": "USDA 2026 corn, soybean estimates shift on yield changes - Brownfield Ag News",
-    "timestamp": "2026-09-11T16:53:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが2026年のトウモロコシと大豆の生産予測を単収（イールド）の変化に基づいて修正した。具体的な修正数値は提供されていないが、単収の変動が作付面積に次ぐ主要な供給要因として注視される。この定期的な作況推定の更新により、市場のポジション調整が促される可能性がある。"
-  },
-  {
-    "title": "USDA Lowers Corn Yield 2.2 BPA, Slightly Increases Soy Yield - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:35:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが8月のWASDEレポートでトウモロコシの収量予想を2.2ブッシェル/エーカー（BPA）引き下げた。一方、大豆の収量予想は小幅に上方修正された。これはUSDA定期発表の一環で、秋の収穫期に向けた重要な生産見通し調整。"
-  },
-  {
-    "title": "USDA Lowers Corn Yield 2.2 BPA, Slightly Increases Soy Yield - DTN Progressive Farmer",
-    "timestamp": "2026-09-11T16:35:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが8月のWASDEレポートでトウモロコシの収量予想を2.2ブッシェル/エーカー（BPA）引き下げた。一方、大豆の収量予想は小幅に上方修正された。これはUSDA定期発表の一環で、秋の収穫期に向けた重要な生産見通し調整。"
-  },
-  {
-    "title": "EXCLUSIVE: White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say - Reuters",
-    "timestamp": "2026-09-11T16:54:30+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ホワイトハウスが防衛生産法（DPA）を活用して米国の石油精製能力拡大を検討している。この政策措置は、米国の戦略的エネルギー自給能力強化を意図しており、精製ボトルネックの解消とガソリン供給増加につながる可能性がある。短期的には原油需要増加につながり、中期的には製品供給の安定化が期待される。"
-  },
-  {
     "title": "USDA Grain Shock: Corn, Soybeans and Wheat Slide as WASDE Reshapes U.S. Markets - AgroLatam",
     "timestamp": "2026-09-11T20:50:43+00:00",
     "importance": 4,
@@ -328,28 +31,6 @@
     "source": "WASDE関連",
     "commodity": "小麦",
     "summary": "USDA のWASDE月次レポートにおいて、トウモロコシ・大豆・小麦が同時に下落した。米国穀物市場全体に構造的な供給増加や需要減少の見通しが示されたもよう。具体的な生産量・在庫数値は記事から確認できないため、詳細なサプライズ度評価には原レポートの確認が必要。"
-  },
-  {
-    "title": "USDA expects corn production to fall, but ups forecast for soybeans - Agri-Pulse Communications, Inc.",
-    "timestamp": "2026-09-11T18:29:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが月次WASDE予報を発表。トウモロコシ生産は予想より減少見通しだが、大豆は逆に上方修正された。両穀物の需給見通しが分かれたため、市場への影響は方向性が定まりにくい状況。具体的な生産量・面積データはソース記事から確認が必要。"
-  },
-  {
-    "title": "USDA expects corn production to fall, but ups forecast for soybeans - Agri-Pulse Communications, Inc.",
-    "timestamp": "2026-09-11T18:29:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが月次WASDE予報を発表。トウモロコシ生産は予想より減少見通しだが、大豆は逆に上方修正された。両穀物の需給見通しが分かれたため、市場への影響は方向性が定まりにくい状況。具体的な生産量・面積データはソース記事から確認が必要。"
   },
   {
     "title": "September WASDE maintains forecast for corn use in ethanol production - Ethanol Producer Magazine",
@@ -394,61 +75,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "USDA 9月WASDEレポートで、2025-26年度の大豆油バイオ燃料用途の使用見積もりが上方修正された。バイオディーゼル・再生可能ディーゼル需要の堅調が背景。大豆油相場への支援要因となるほか、大豆搾油利益にも好材料。"
-  },
-  {
-    "title": "Saudi Shuts Oil Pipeline That Bypasses Hormuz After Attacks - Bloomberg.com",
-    "timestamp": "2026-09-11T18:46:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがホルムズ海峡を迂回するヤンブー・ジッダ・パイプライン（YJPP）を攻撃を理由に閉鎖。同パイプラインは日量300万バレルのホルムズ海峡回避ルートであり、閉鎖によりサウジの供給ルートが限定される。地政学的リスクの再燃により原油相場に上昇圧力が強まる可能性が高い。"
-  },
-  {
-    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
-    "timestamp": "2026-09-11T18:21:57+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
-  },
-  {
-    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
-    "timestamp": "2026-09-11T18:21:57+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
-  },
-  {
-    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
-    "timestamp": "2026-09-11T18:21:57+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
-  },
-  {
-    "title": "USDA’s September WASDE disappoints markets - Michigan Farm News",
-    "timestamp": "2026-09-11T18:21:57+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAの9月WASDE発表が市場予想を下回り、穀物相場に失望が広がった。トウモロコシと大豆の生産量見通しが事前予想より上方修正されたと見られ、供給増加への懸念から売却圧力が強まった。市場参加者の強気シナリオが外れた形となり、価格の大幅調整が生じた。"
   },
   {
     "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know - hoosieragtoday.com",
@@ -504,28 +130,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "米国の大豆収穫期における定期的な進捗報告で、予想より高い単収見積もりが発表された。これは供給量の増加を示唆し、市場参加者の需給シナリオを上方修正させた。高い単収見積もりは作付面積と組み合わさると総生産量の増加につながり、大豆先物価格は下落圧力を受けた。"
-  },
-  {
-    "title": "USDA lowers corn yield, production estimates - FarmWeekNow",
-    "timestamp": "2026-09-11T19:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAがトウモロコシの単収および生産量の見積もりを引き下げた。これは主要穀物供給見通しの悪化を示唆し、市場が事前予想から乖離した可能性が高い。下落圧力が作用するが、供給懸念が燃料価格にも波及する可能性がある。"
-  },
-  {
-    "title": "USDA lowers corn yield, production estimates - FarmWeekNow",
-    "timestamp": "2026-09-11T19:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAがトウモロコシの単収および生産量の見積もりを引き下げた。これは主要穀物供給見通しの悪化を示唆し、市場が事前予想から乖離した可能性が高い。下落圧力が作用するが、供給懸念が燃料価格にも波及する可能性がある。"
   },
   {
     "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - Reuters",
@@ -638,50 +242,6 @@
     "summary": "サウジアラビアの重要な石油パイプラインの閉鎖がイラクに圧力をかけている。中東の主要な石油輸送インフラの機能停止により、地域の石油供給体制に混乱が生じ、輸出ルートの制約がイラクの産油国としての競争力に直接的な影響を及ぼしている。"
   },
   {
-    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
-    "timestamp": "2026-09-11T14:32:04+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
-  },
-  {
-    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
-    "timestamp": "2026-09-11T14:32:04+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
-  },
-  {
-    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
-    "timestamp": "2026-09-11T14:32:04+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
-  },
-  {
-    "title": "Deutsche Bank Metals Flow Report: Crude Oil Breakout Sparks Inflation Concerns; Bullish on Gold and Copper - 富途牛牛",
-    "timestamp": "2026-09-11T14:32:04+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "Deutsche Bankが原油価格の上昇がインフレ懸念を引き起こしていると指摘する一方、金と銅については強気見通しを発表。原油上昇はスタグフレーションリスクを高める可能性があり、これが金価格の下支え材料となる一方、銅は経済成長見通しに左右されやすい。複数コモディティ間の方向性が分かれる状況。"
-  },
-  {
     "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
     "timestamp": "2026-09-12T20:10:27+00:00",
     "importance": 4,
@@ -779,5 +339,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東情勢の緊張化とFRBの金利据え置き懸念により、新興市場株が売却圧力に直面している。リスク回避姿勢が強まることで、金は買われ傾向だが、ドル強含みと金利上昇懸念が相殺効果を生む。原油は地政学的リスク要因で上昇基調が予想される。"
+  },
+  {
+    "title": "USDA lowers corn production forecast, raises soybean price outlook - High Plains Journal",
+    "timestamp": "2026-09-14T16:12:09+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが最新のWASDE月間レポートでトウモロコシの生産見通しを下方修正する一方、大豆の価格見通しを上方修正した。トウモロコシは供給懸念から上昇圧力が予想されるが、大豆の価格上昇見通しは需要または供給タイトネスの深刻化を示唆している。両穀物の相対的な需給バランスの分岐が鮮明になった。"
+  },
+  {
+    "title": "USDA lowers corn production forecast, raises soybean price outlook - High Plains Journal",
+    "timestamp": "2026-09-14T16:12:09+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが最新のWASDE月間レポートでトウモロコシの生産見通しを下方修正する一方、大豆の価格見通しを上方修正した。トウモロコシは供給懸念から上昇圧力が予想されるが、大豆の価格上昇見通しは需要または供給タイトネスの深刻化を示唆している。両穀物の相対的な需給バランスの分岐が鮮明になった。"
+  },
+  {
+    "title": "Saudis Seek to Boost Hormuz Oil Exports as Key Pipeline Attacked - Bloomberg.com",
+    "timestamp": "2026-09-14T16:16:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがホルムズ海峡経由の石油輸出増加を模索する動きが報じられた。重要なパイプライン施設への攻撃により供給経路が脅威にさらされており、地政学的リスクが急速に高まっている。ホルムズ海峡は世界の海上石油輸送の約3分の1が通過する重要インフラであり、供給途絶リスクが価格上昇圧力となる。"
   }
 ]
