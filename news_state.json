@@ -1,60 +1,5 @@
 [
   {
-    "title": "金価格は本日9月12日、大幅高で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-09-12T14:16:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月12日の金価格が大幅高で取引を終えた。具体的な要因や前日比の数値が記載されていない。ベトナムの地場ニュースソース。"
-  },
-  {
-    "title": "金価格が反転する兆しが見えてきたが、来週FRBが利上げを実施すれば、さらに上昇するだろうか？ - Vietnam.vn",
-    "timestamp": "2026-09-12T16:18:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格に反転の兆しが見られている。来週のFRB利上げ決定が金相場の上昇をさらに加速させる可能性があるという観測記事。"
-  },
-  {
-    "title": "本日9月13日の金価格は、底値を形成し、大幅に下落する可能性は低いでしょう。では、来週はどうなるのでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-09-12T16:52:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月13日の金価格は底値を形成したと指摘され、大幅下落の可能性は低いとの見方。来週の金相場の方向性についても言及されている。"
-  },
-  {
-    "title": "原油価格が100ドルの大台に ECB当局者、追加利上げを迫られる可能性を示唆 - BigGo ファイナンス",
-    "timestamp": "2026-09-12T18:15:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が100ドル/バレル台に上昇し、インフレ圧力が高まっている。ECB当局者が追加利上げの必要性を示唆し、金融引き締めの継続を示唆。エネルギー価格上昇とマクロ経済環境の相互作用が注視される。"
-  },
-  {
-    "title": "(NEXT FUNDS)NOMURA原油インデックス上場【1699】：株価・株式情報（夜間PTS含む） - finance.yahoo.co.jp",
-    "timestamp": "2026-09-12T16:45:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NOMURA原油インデックス上場投信（1699）の株価情報ページの掲載。投資商品の市場データ提供であり、新規のニュース報道ではない。"
-  },
-  {
     "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】株価掲示板｜投資家のコメント - Moomoo",
     "timestamp": "2026-09-12T18:32:45+00:00",
     "importance": 1,
@@ -119,17 +64,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月13日の金価格が週末からの反転を記録。ベトナムのニュースサイトによる相場観測記事。具体的な価格変動幅や反転要因は記事概要では不明。"
-  },
-  {
-    "title": "世界の金価格が好転、買い意欲が市場に戻る - ja.laodong.vn",
-    "timestamp": "2026-09-12T15:44:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が上昇トレンドにあり、市場で買い意欲が戻ってきている。投資家のリスク選好度の改善やポートフォリオ需要の回復が背景。既存のセンチメント改善の続報。"
   },
   {
     "title": "2026年9月13日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
@@ -306,17 +240,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムのガソリン価格が1リットルあたり24,000ベトナムドンを超えた。世界の原油価格変動に伴う国内燃料価格の上昇を報じたもの。地域限定のローカルニュース。"
-  },
-  {
-    "title": "銅価格見通し：米精錬銅関税は延期の可能性、過去最高値更新後に急落、なお上昇は可能か？ - TradingKey",
-    "timestamp": "2026-09-12T17:00:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格は過去最高値更新後に急落。米精錬銅関税の延期可能性と、今後の上昇余地について分析されている。政策不確実性が相場を揺さぶっている。"
   },
   {
     "title": "世界の金価格は今週1.8％下落したが、アナリストらは来週の上昇を依然として予想している。 - Vietnam.vn",
@@ -1802,5 +1725,148 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ先物が下落。ドル高進行による輸出競争力低下と、米国の作況改善見通しが重荷となった。両要因とも市場で既に織り込まれつつある既定路線の動き。"
+  },
+  {
+    "title": "金価格が4,300ドルの大台を割り込み、深圳水貝で金宝飾品の消費が回復 - BigGo ファイナンス",
+    "timestamp": "2026-09-15T15:35:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,300ドルを割り込み調整局面。深圳水貝における金宝飾品消費の回復が報告されている。価格下落が消費需要を刺激する典型的な需給関係を示唆。"
+  },
+  {
+    "title": "世界の金価格は「Gアワー」を前に変動している。 - Vietnam.vn",
+    "timestamp": "2026-09-15T15:11:33+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "「Gアワー」を前に金価格が変動している状況を報じたニュース。具体的な価格変動幅や方向は記事概要からは不明。金融イベント控えての相場の振動を観測した解説記事と推測される。"
+  },
+  {
+    "title": "NY金先物は3営業日続落、9月FOMCでの利上げ観測がほぼ織り込まれ売り優勢｜FX・為替ニュース - zai.diamond.jp",
+    "timestamp": "2026-09-15T00:21:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が3営業日連続で下落。9月FOMC での利上げ観測がほぼ市場に織り込まれたことが売り要因。金利上昇環境では金の魅力が相対的に低下。"
+  },
+  {
+    "title": "本日2026年9月16日の金価格は、相反する2つの力に挟まれ、引き続き下落傾向にあり、市場はますます強い圧力にさらされている。 - Vietnam.vn",
+    "timestamp": "2026-09-15T14:55:21+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は相反する2つの力により下落傾向が継続している。市場は強い売り圧力にさらされている状況。具体的な新規材料は不明。"
+  },
+  {
+    "title": "米10年債利回りは5%割り込む、円と株先物は軟調－WTI原油は伸び悩み - Bloomberg.com",
+    "timestamp": "2026-09-15T13:08:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米10年債利回りが5%を割り込む中、リスク資産の軟調を受けWTI原油は伸び悩み。金利低下は通常プラス材料だが、景気減速懸念が相殺している。"
+  },
+  {
+    "title": "原油価格“4月の高値水準超え”も　サウジのパイプライン攻撃で　英識者指摘 - ｄメニューニュース",
+    "timestamp": "2026-09-15T18:15:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン攻撃により、原油供給リスクが顕在化。市場では4月の高値水準を超える可能性が指摘されている。地政学的な供給ショックが価格押し上げ要因として機能。"
+  },
+  {
+    "title": "NY外為：ドル高止まり、NY原油先物は一段高、リビア国営石油会社で生産停止との報 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-15T15:02:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "リビア国営石油会社が生産停止を報告し、供給ショック懸念が浮上。ドル高環境の中、NY原油先物は一段高で反応。地政学的リスク要因として原油相場を支援。"
+  },
+  {
+    "title": "原油先物1％続伸、サウジのパイプライン停止とフーシ派攻撃で - reuters.com",
+    "timestamp": "2026-09-15T00:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン停止とフーシ派による攻撃が発生し、原油先物は1％続伸。中東の地政学的リスクが顕在化し、供給懸念が価格を支える展開。"
+  },
+  {
+    "title": "フーシ派のミサイルとドローンがサウジアラビア南部を攻撃、原油価格上昇 - IDNFinancials",
+    "timestamp": "2026-09-15T09:20:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ派がサウジアラビア南部をミサイルとドローンで攻撃。紅海経由の原油輸送リスク再燃に伴う供給懸念で原油価格が上昇。同地域での武装勢力による攻撃は継続する地政学的リスク要因。"
+  },
+  {
+    "title": "香港株動向｜銅関連株は午後に下落幅を拡大、米国債利回りは約20年ぶりの高水準を更新、米国の銅関税および金融政策が銅価格を下押し - moomoo.com",
+    "timestamp": "2026-09-15T10:26:06+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国債利回りが約20年ぶりの高水準を更新し、銅関連株が下落。米国の銅関税政策と引き締め的な金融政策が銅価格を下押しする圧力として機能している。マクロ環境の悪化が銅需要見通しを圧迫している。"
+  },
+  {
+    "title": "欧州非鉄金属市場、根強い不確実性に直面：銅・アルミ価格とリサイクル圧力 - ニュースと統計 - IndexBox",
+    "timestamp": "2026-09-15T11:43:01+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "欧州非鉄金属市場は根強い不確実性に直面している。銅・アルミ価格は圧力を受けており、リサイクル圧力が市場に影響を与えている。マクロ経済の不透明性が相場を重くしている。"
+  },
+  {
+    "title": "銅価格予測：HGは横ばい、$6.6178がレジスタンス - Traders Union",
+    "timestamp": "2026-09-15T15:09:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅先物（HG）が$6.6178をレジスタンスとして横ばい状態にあるという技術分析コメント。現在の価格推移を基に短期的なレンジ相場を示唆している。"
+  },
+  {
+    "title": "取引所追跡倉庫への新規搬入は銅価格を圧迫するか？ - Traders Union",
+    "timestamp": "2026-09-15T12:19:28+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "取引所追跡倉庫への銅新規搬入が増加すると報道。在庫増加は供給過剰を示唆し、銅価格に下押し圧力が生じる可能性がある。市場の在庫動向注視が必要。"
   }
 ]
