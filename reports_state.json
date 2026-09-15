@@ -1,16 +1,5 @@
 [
   {
-    "title": "Copper Surges to Record High: Which Copper Stocks Are Worth Watching? - TradingKey",
-    "timestamp": "2026-09-12T09:06:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高水準に上昇した。電気自動車需要の増加、グローバルな脱炭素化トレンド、および供給制約が価格押し上げの主要因。投資家は銅関連銘柄の選別を迫られている状況。"
-  },
-  {
     "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - Reuters",
     "timestamp": "2026-09-13T02:22:00+00:00",
     "importance": 4,
@@ -53,17 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのパイプライン障害により、世界の石油供給の約4%が失われる脅威が発生。サウジは世界最大級の石油生産国であり、このレベルの供給遮断は市場に即座の上昇圧力をもたらす。地政学的リスク要因として原油先物は急速に反応する可能性が高い。"
-  },
-  {
-    "title": "Closure of Critical Saudi Oil Pipeline Puts Iraq Under Pressure - Bloomberg.com",
-    "timestamp": "2026-09-12T12:03:03+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの重要な石油パイプラインの閉鎖がイラクに圧力をかけている。中東の主要な石油輸送インフラの機能停止により、地域の石油供給体制に混乱が生じ、輸出ルートの制約がイラクの産油国としての競争力に直接的な影響を及ぼしている。"
   },
   {
     "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
@@ -394,5 +372,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのパイプライン停止に伴い、原油供給への懸念から原油価格が上昇。中東のエネルギーインフラ問題が市場フォーカスとなっており、サウジの原油フローが注視されている。供給減少の可能性が価格を下支え。"
+  },
+  {
+    "title": "Wall St set to open lower as rising oil and yields deepen market gloom - Reuters",
+    "timestamp": "2026-09-15T12:49:05+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国株式市場がオープニング時に下落見通しとなる中、原油価格の上昇と米国債利回りの上昇がリスク資産売却圧力を深めている。金利上昇はドル強化につながり、ドル建てコモディティ全般に下押し圧力をもたらす一方、原油の上昇はエネルギー関連の個別材料を反映している。"
+  },
+  {
+    "title": "Wall St set to open lower as rising oil and yields deepen market gloom - Reuters",
+    "timestamp": "2026-09-15T12:49:05+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株式市場がオープニング時に下落見通しとなる中、原油価格の上昇と米国債利回りの上昇がリスク資産売却圧力を深めている。金利上昇はドル強化につながり、ドル建てコモディティ全般に下押し圧力をもたらす一方、原油の上昇はエネルギー関連の個別材料を反映している。"
+  },
+  {
+    "title": "Russia’s Nornickel Seeks New Partner to Process Copper in China - Bloomberg.com",
+    "timestamp": "2026-09-15T07:44:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "ロシアのノリリスク・ニッケル社が中国での銅製錬パートナーの新規開拓を検討している。米国の対ロシア制裁強化やパートナーシップの再構築の動きが背景。既存のサプライチェーン調整の一環であり、市場インパクトは限定的。"
+  },
+  {
+    "title": "Russia’s Nornickel Seeks New Partner to Process Copper in China - Bloomberg.com",
+    "timestamp": "2026-09-15T07:44:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアのノリリスク・ニッケル社が中国での銅製錬パートナーの新規開拓を検討している。米国の対ロシア制裁強化やパートナーシップの再構築の動きが背景。既存のサプライチェーン調整の一環であり、市場インパクトは限定的。"
+  },
+  {
+    "title": "Stocks Fall as Oil Rally Deepens Bond Selloff: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-14T22:19:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油相場の上昇が続く中、米国債利回りが売却圧力を受けており、これが株式市場の下落を招いている。原油高は金利上昇を連想させ、金を含むコモディティ全般にも複雑な影響を与える局面。金融資産と商品資産の同時調整が進行中。"
+  },
+  {
+    "title": "Stocks Fall as Oil Rally Deepens Bond Selloff: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-14T22:19:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油相場の上昇が続く中、米国債利回りが売却圧力を受けており、これが株式市場の下落を招いている。原油高は金利上昇を連想させ、金を含むコモディティ全般にも複雑な影響を与える局面。金融資産と商品資産の同時調整が進行中。"
   }
 ]
