@@ -231,39 +231,6 @@
     "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。この歴史的な在庫枯渇は、原油供給逼迫懸念を強く示唆し、価格上昇圧力となる。ウクライナ情勢やOPEC減産に加え、SPR放出終了による需給引き締まりは市場のサプライズ要因となる。"
   },
   {
-    "title": "Missouri Crops Face a Split 2026 Outlook as Drought Spreads Before Harvest - AgroLatam",
-    "timestamp": "2026-09-12T15:13:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "ミズーリ州で収穫前の干ばつが拡大し、2026年の作物見通しが二分化している。干ばつの影響を受ける地域では減産リスクが高まる一方、他地域では平年作の可能性があり、米国穀物供給全体の不確実性が増加している状況。"
-  },
-  {
-    "title": "Missouri Crops Face a Split 2026 Outlook as Drought Spreads Before Harvest - AgroLatam",
-    "timestamp": "2026-09-12T15:13:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "ミズーリ州で収穫前の干ばつが拡大し、2026年の作物見通しが二分化している。干ばつの影響を受ける地域では減産リスクが高まる一方、他地域では平年作の可能性があり、米国穀物供給全体の不確実性が増加している状況。"
-  },
-  {
-    "title": "Missouri Crops Face a Split 2026 Outlook as Drought Spreads Before Harvest - AgroLatam",
-    "timestamp": "2026-09-12T15:13:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "ミズーリ州で収穫前の干ばつが拡大し、2026年の作物見通しが二分化している。干ばつの影響を受ける地域では減産リスクが高まる一方、他地域では平年作の可能性があり、米国穀物供給全体の不確実性が増加している状況。"
-  },
-  {
     "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
     "timestamp": "2026-09-14T20:30:29+00:00",
     "importance": 3,
@@ -438,5 +405,148 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油相場の上昇が続く中、米国債利回りが売却圧力を受けており、これが株式市場の下落を招いている。原油高は金利上昇を連想させ、金を含むコモディティ全般にも複雑な影響を与える局面。金融資産と商品資産の同時調整が進行中。"
+  },
+  {
+    "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
+    "timestamp": "2026-09-15T16:03:24+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA公式レポートが穀物市場に対照的な見通しを示唆。小麦と大豆は下落圧力を受ける一方、トウモロコシとモロコシは買い支えが入る展開。作柄進捗と供給見通しに対する市場の非対称的反応が予想される。"
+  },
+  {
+    "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
+    "timestamp": "2026-09-15T16:03:24+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA公式レポートが穀物市場に対照的な見通しを示唆。小麦と大豆は下落圧力を受ける一方、トウモロコシとモロコシは買い支えが入る展開。作柄進捗と供給見通しに対する市場の非対称的反応が予想される。"
+  },
+  {
+    "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
+    "timestamp": "2026-09-15T16:03:24+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA公式レポートが穀物市場に対照的な見通しを示唆。小麦と大豆は下落圧力を受ける一方、トウモロコシとモロコシは買い支えが入る展開。作柄進捗と供給見通しに対する市場の非対称的反応が予想される。"
+  },
+  {
+    "title": "Soybeans, corn rise on gains in crude oil, watching harvest - Brownfield Ag News",
+    "timestamp": "2026-09-15T06:01:38+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "大豆とトウモロコシが原油価格の上昇に連動して値上がりしている。エネルギーコスト上昇が農作物生産コストを押し上げるほか、バイオ燃料需要も支援材料となっている。現在は収穫期を控えた市場心理の動きと見られている。"
+  },
+  {
+    "title": "Soybeans, corn rise on gains in crude oil, watching harvest - Brownfield Ag News",
+    "timestamp": "2026-09-15T06:01:38+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "大豆とトウモロコシが原油価格の上昇に連動して値上がりしている。エネルギーコスト上昇が農作物生産コストを押し上げるほか、バイオ燃料需要も支援材料となっている。現在は収穫期を控えた市場心理の動きと見られている。"
+  },
+  {
+    "title": "Soybeans, corn rise on gains in crude oil, watching harvest - Brownfield Ag News",
+    "timestamp": "2026-09-15T06:01:38+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "原油",
+    "summary": "大豆とトウモロコシが原油価格の上昇に連動して値上がりしている。エネルギーコスト上昇が農作物生産コストを押し上げるほか、バイオ燃料需要も支援材料となっている。現在は収穫期を控えた市場心理の動きと見られている。"
+  },
+  {
+    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
+    "timestamp": "2026-09-14T22:30:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
+  },
+  {
+    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
+    "timestamp": "2026-09-14T22:30:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
+  },
+  {
+    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
+    "timestamp": "2026-09-14T22:30:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
+  },
+  {
+    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
+    "timestamp": "2026-09-14T22:30:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
+  },
+  {
+    "title": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives - reuters.com",
+    "timestamp": "2026-09-15T16:46:42+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがパイプライン被害によりいくつかの石油積み荷をキャンセル。同国の最大買い手が代替調達先を探索中。供給減少と地政学的緊張が重なり、原油相場には上昇圧力。OPEC主要産油国の供給中断は市場に直接的な影響をもたらす。"
+  },
+  {
+    "title": "US energy chief says Saudi Arabia oil pipeline should be back online within days - reuters.com",
+    "timestamp": "2026-09-15T16:55:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油パイプラインが数日以内にオンライン復帰する見通しが米国エネルギー長官から示された。先日の攻撃またはトラブルで停止していた施設の復旧が進展。供給途絶の懸念が緩和される材料。"
+  },
+  {
+    "title": "Russia Boosts Oil Flows as Middle East War Sends Prices Soaring - Bloomberg.com",
+    "timestamp": "2026-09-15T13:33:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東での紛争激化に伴い、原油価格が上昇局面を迎えている。ロシアが原油供給を増加させる動きを見せており、地政学的リスクプレミアムが上積みされている。OPEC+ の供給戦略とロシアの増産判断が市場で衝突する構図が形成されつつある。"
   }
 ]
