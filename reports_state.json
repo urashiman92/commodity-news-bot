@@ -1,71 +1,5 @@
 [
   {
-    "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know - hoosieragtoday.com",
-    "timestamp": "2026-09-11T23:26:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが最新のWASDEレポートでトウモロコシの作付面積・生産量見通しを引き下げ、米国のトウモロコシ供給が逼迫する見通しが示された。供給減少は穀物市場全体の需給バランスに影響を与える重要な発表となっている。"
-  },
-  {
-    "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know - hoosieragtoday.com",
-    "timestamp": "2026-09-11T23:26:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが最新のWASDEレポートでトウモロコシの作付面積・生産量見通しを引き下げ、米国のトウモロコシ供給が逼迫する見通しが示された。供給減少は穀物市場全体の需給バランスに影響を与える重要な発表となっている。"
-  },
-  {
-    "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know - hoosieragtoday.com",
-    "timestamp": "2026-09-11T23:26:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAが最新のWASDEレポートでトウモロコシの作付面積・生産量見通しを引き下げ、米国のトウモロコシ供給が逼迫する見通しが示された。供給減少は穀物市場全体の需給バランスに影響を与える重要な発表となっている。"
-  },
-  {
-    "title": "Copper Surges to Record High: Which Copper Stocks Are Worth Watching? - TradingKey",
-    "timestamp": "2026-09-12T00:05:49+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が過去最高水準に急騰し、投資家の注目が集まっている。強気な市場環境の中、銅関連株の投資機会を検討するレポート。電気自動車・再生可能エネルギー関連の需要増加が背景。具体的な価格水準は記事本体に記載と推定。"
-  },
-  {
-    "title": "Soybeans fall after higher yield estimate - Brownfield Ag News",
-    "timestamp": "2026-09-12T00:51:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国の大豆収穫期における定期的な進捗報告で、予想より高い単収見積もりが発表された。これは供給量の増加を示唆し、市場参加者の需給シナリオを上方修正させた。高い単収見積もりは作付面積と組み合わさると総生産量の増加につながり、大豆先物価格は下落圧力を受けた。"
-  },
-  {
-    "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - Reuters",
-    "timestamp": "2026-09-12T00:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが紅海でのフーシ派勢力の増強に対応し、石油パイプラインを閉鎖。紅海航路の封鎖が深刻化しており、原油供給の代替ルート変更やタンカー運送コスト急上昇が見込まれる。中東発の地政学的リスクが顕在化し、原油市場への供給懸念が高まっている。"
-  },
-  {
     "title": "Copper Surges to Record High: Which Copper Stocks Are Worth Watching? - TradingKey",
     "timestamp": "2026-09-12T09:06:52+00:00",
     "importance": 4,
@@ -317,5 +251,93 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。この歴史的な在庫枯渇は、原油供給逼迫懸念を強く示唆し、価格上昇圧力となる。ウクライナ情勢やOPEC減産に加え、SPR放出終了による需給引き締まりは市場のサプライズ要因となる。"
+  },
+  {
+    "title": "Missouri Crops Face a Split 2026 Outlook as Drought Spreads Before Harvest - AgroLatam",
+    "timestamp": "2026-09-12T15:13:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "ミズーリ州で収穫前の干ばつが拡大し、2026年の作物見通しが二分化している。干ばつの影響を受ける地域では減産リスクが高まる一方、他地域では平年作の可能性があり、米国穀物供給全体の不確実性が増加している状況。"
+  },
+  {
+    "title": "Missouri Crops Face a Split 2026 Outlook as Drought Spreads Before Harvest - AgroLatam",
+    "timestamp": "2026-09-12T15:13:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "ミズーリ州で収穫前の干ばつが拡大し、2026年の作物見通しが二分化している。干ばつの影響を受ける地域では減産リスクが高まる一方、他地域では平年作の可能性があり、米国穀物供給全体の不確実性が増加している状況。"
+  },
+  {
+    "title": "Missouri Crops Face a Split 2026 Outlook as Drought Spreads Before Harvest - AgroLatam",
+    "timestamp": "2026-09-12T15:13:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "ミズーリ州で収穫前の干ばつが拡大し、2026年の作物見通しが二分化している。干ばつの影響を受ける地域では減産リスクが高まる一方、他地域では平年作の可能性があり、米国穀物供給全体の不確実性が増加している状況。"
+  },
+  {
+    "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
+    "timestamp": "2026-09-14T20:30:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "高インフレと原油価格上昇により米国の利上げ確率が高まっている。FRBの金利引き上げは金（無利子資産）にとって逆風となり、実質金利の上昇が金価格を押し下げる圧力として作用している。ドル強化も金の投資魅力を減じている。"
+  },
+  {
+    "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
+    "timestamp": "2026-09-14T20:30:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "高インフレと原油価格上昇により米国の利上げ確率が高まっている。FRBの金利引き上げは金（無利子資産）にとって逆風となり、実質金利の上昇が金価格を押し下げる圧力として作用している。ドル強化も金の投資魅力を減じている。"
+  },
+  {
+    "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
+    "timestamp": "2026-09-14T20:30:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "高インフレと原油価格上昇により米国の利上げ確率が高まっている。FRBの金利引き上げは金（無利子資産）にとって逆風となり、実質金利の上昇が金価格を押し下げる圧力として作用している。ドル強化も金の投資魅力を減じている。"
+  },
+  {
+    "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns - Reuters",
+    "timestamp": "2026-09-15T00:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン施設の障害と新たな攻撃により、原油供給への懸念が急速に高まった。これらの供給ショックは予期されない突発的事象であり、市場が既に織り込んでいない要因として原油価格の上昇圧力となっている。中東地政学リスクの再燃は短期的な価格変動を招く可能性が高い。"
+  },
+  {
+    "title": "The Oil Market Needs a Quick Saudi Pipeline Restart - Bloomberg.com",
+    "timestamp": "2026-09-14T11:34:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン施設の早期再開が石油市場にとって緊急課題であることが報じられた。パイプライン停止に伴う供給制約が市場を逼迫させており、迅速な復旧がエネルギー価格の安定化に不可欠と指摘されている。OPEC主要産油国の供給能力喪失は世界的な石油需給バランスに大きな影響を及ぼす可能性がある。"
   }
 ]
