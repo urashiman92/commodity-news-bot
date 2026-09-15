@@ -339,5 +339,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのパイプライン施設の早期再開が石油市場にとって緊急課題であることが報じられた。パイプライン停止に伴う供給制約が市場を逼迫させており、迅速な復旧がエネルギー価格の安定化に不可欠と指摘されている。OPEC主要産油国の供給能力喪失は世界的な石油需給バランスに大きな影響を及ぼす可能性がある。"
+  },
+  {
+    "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
+    "timestamp": "2026-09-15T02:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド株式市場が上昇油価と債券利回りの上昇圧力により調整局面を迎えている。原油価格の高止まりがインフレ圧力となり、金利上昇が加速することで、非利息生産資産である金を含むコモディティ全般に下押し圧力がかかっている。新興国のインド市場への資金流出傾向が強まる可能性がある。"
+  },
+  {
+    "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
+    "timestamp": "2026-09-15T02:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インド株式市場が上昇油価と債券利回りの上昇圧力により調整局面を迎えている。原油価格の高止まりがインフレ圧力となり、金利上昇が加速することで、非利息生産資産である金を含むコモディティ全般に下押し圧力がかかっている。新興国のインド市場への資金流出傾向が強まる可能性がある。"
+  },
+  {
+    "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
+    "timestamp": "2026-09-15T02:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド株式市場が上昇油価と債券利回りの上昇圧力により調整局面を迎えている。原油価格の高止まりがインフレ圧力となり、金利上昇が加速することで、非利息生産資産である金を含むコモディティ全般に下押し圧力がかかっている。新興国のインド市場への資金流出傾向が強まる可能性がある。"
+  },
+  {
+    "title": "Copper Holds Near $14,000 as New Deliveries Signal Supply Relief - Bloomberg.com",
+    "timestamp": "2026-09-15T02:03:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅相場が1ドル当たり14,000ドル付近で推移している。新規納品の増加がサプライ緩和を示唆している。供給面での懸念が軽減される兆候が見られ、価格の上昇圧力が限定的と考えられる。"
+  },
+  {
+    "title": "Oil Edges Higher With Saudi Flows in Focus After Pipeline Shut - Bloomberg.com",
+    "timestamp": "2026-09-15T05:58:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン停止に伴い、原油供給への懸念から原油価格が上昇。中東のエネルギーインフラ問題が市場フォーカスとなっており、サウジの原油フローが注視されている。供給減少の可能性が価格を下支え。"
   }
 ]
