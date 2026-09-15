@@ -22,17 +22,6 @@
     "summary": "サウジアラビアの重要な石油パイプラインがドローン攻撃を受けた。サウジ株式市場が下落し、供給途絶への懸念から原油価格の上昇圧力が生じた。地政学的リスク顕在化により、サプライチェーン寸断の可能性が市場心理に反映された。"
   },
   {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-12T20:46:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の原油生産量を日量137,000バレル増加させることを検討している。これは段階的な増産政策の継続を示唆するもので、市場には供給緩和圧力をもたらす。既報の増産ロードマップの延長線上にある動きと見られる。"
-  },
-  {
     "title": "Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters",
     "timestamp": "2026-09-13T12:54:28+00:00",
     "importance": 4,
@@ -42,17 +31,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのパイプライン障害により、世界の石油供給の約4%が失われる脅威が発生。サウジは世界最大級の石油生産国であり、このレベルの供給遮断は市場に即座の上昇圧力をもたらす。地政学的リスク要因として原油先物は急速に反応する可能性が高い。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-12T20:10:27+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、原油生産量が過去最高水準に接近しているとの報道。OPEC減産体制の外で独立生産を拡大する動きであり、市場供給の不確実性が高まる。OPECの求心力低下とシェールガス・独立系の台頭を象徴する戦略的転換。"
   },
   {
     "title": "According to foreign media reports, copper recorded its first weekly d - SMM Metal",
@@ -548,5 +526,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東での紛争激化に伴い、原油価格が上昇局面を迎えている。ロシアが原油供給を増加させる動きを見せており、地政学的リスクプレミアムが上積みされている。OPEC+ の供給戦略とロシアの増産判断が市場で衝突する構図が形成されつつある。"
+  },
+  {
+    "title": "Copper price recovers from near month low as LME stocks rise - Mining.com.au",
+    "timestamp": "2026-09-15T19:41:15+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が月初来安値から回復。LME在庫の増加を背景に、供給への懸念が緩和される一方で、在庫積み上がりは需要弱さを示唆。短期的な価格サポートは機能したが、マクロファンダメンタルズの不安定性は残存。"
+  },
+  {
+    "title": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions - Reuters",
+    "timestamp": "2026-09-15T18:53:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの供給支障により、一部の物理的な原油カーゴが1バレルあたり130ドルを超え、2023年4月の過去最高値に接近している。OPEC主要国の予期しない供給減少が、タイトな市場環境を更に圧迫し、スポット価格が急騰している。"
+  },
+  {
+    "title": "Libya NOC chief says production not greatly affected after protests hit oil facilities - Reuters",
+    "timestamp": "2026-09-15T20:14:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "リビア国営石油会社（NOC）の長官が、石油施設への抗議デモに伴う供給影響は限定的との見解を示した。生産量が大きく減少していないと発表され、供給不足懸念は和らぎやすい状況。ただしリビア情勢の不安定性は継続的なリスク要因。"
+  },
+  {
+    "title": "MBS and Saudi Arabia Face Crisis With Key Oil Pipeline Shut for Weeks - Bloomberg.com",
+    "timestamp": "2026-09-15T16:28:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの重要石油パイプライン（おそらくEast-West Pipeline）が数週間にわたって停止、サウジとMBS体制に危機をもたらしている。同国主要な石油輸出インフラの長期停止は供給ショックとなり、原油価格上昇圧力が強まる。"
   }
 ]
