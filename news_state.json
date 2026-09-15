@@ -1,16 +1,5 @@
 [
   {
-    "title": "Commodity Market Exchange（CME）価格・チャート・時価総額 - CoinMarketCap",
-    "timestamp": "2026-09-12T11:26:12+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "CoinMarketCapによるCME（仮想通貨関連）の価格情報ページと推測される。具体的なニュースイベントではなく、データ提供プラットフォームの情報掲載。コモディティ市場への直接的な影響は不明。"
-  },
-  {
     "title": "金価格は本日9月12日、大幅高で取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-09-12T14:16:43+00:00",
     "importance": 2,
@@ -20,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月12日の金価格が大幅高で取引を終えた。具体的な要因や前日比の数値が記載されていない。ベトナムの地場ニュースソース。"
-  },
-  {
-    "title": "9月12日の金価格：世界の金価格が回復、SJCの金地金価格が急騰。 - Vietnam.vn",
-    "timestamp": "2026-09-12T13:19:22+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月12日時点で世界の金価格が回復局面を迎えており、ベトナムのSJC金地金価格も連動して上昇した。ベトナム国内市場での金相場の値動きを報じるものである。"
-  },
-  {
-    "title": "原油価格の高騰は、欧州中央銀行（ECB）による利上げを促すだろう。 - Vietnam.vn",
-    "timestamp": "2026-09-12T13:08:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の高騰がインフレ圧力となり、ECBの利上げ決定を促す可能性を指摘するもの。エネルギー価格上昇とマクロ政策の連鎖メカニズムについての解説記事。"
-  },
-  {
-    "title": "Commodity Market Exchange 価格履歴と過去データ - CoinMarketCap",
-    "timestamp": "2026-09-12T11:28:12+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "CoinMarketCapによるコモディティ市場の価格履歴と過去データの提供に関する記事。仮想通貨関連プラットフォームからのデータ参照情報で、特定の新規イベントや市場変動を示すものではない。"
   },
   {
     "title": "金価格が反転する兆しが見えてきたが、来週FRBが利上げを実施すれば、さらに上昇するだろうか？ - Vietnam.vn",
@@ -75,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月13日の金価格は底値を形成したと指摘され、大幅下落の可能性は低いとの見方。来週の金相場の方向性についても言及されている。"
-  },
-  {
-    "title": "底値買いを狙う投資家が市場に参入し、金価格は反発した。 - Vietnam.vn",
-    "timestamp": "2026-09-12T13:12:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "底値を狙う投資家の買い注文により金価格が反発した。市場心理の改善を示す通常のテクニカルリバウンド。既に織り込まれた相場観の反映。"
   },
   {
     "title": "原油価格が100ドルの大台に ECB当局者、追加利上げを迫られる可能性を示唆 - BigGo ファイナンス",
@@ -350,17 +295,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "9月13日時点での世界原油価格が1週間で大幅な変動を見せたとの報道。具体的な価格数値や変動要因が記事概要に示されていない。ベトナムのニュースサイトによる燃料価格の定期報告。"
-  },
-  {
-    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-09-12T13:14:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Yahoo!ファイナンスのWTI原油連動型ETF（1671）の株価情報ページ。リアルタイム相場データの掲載であり、新規ニュースイベントではない。"
   },
   {
     "title": "本日の燃料価格（9月13日）：世界の原油価格が急激に変動し、国内のガソリン価格は1リットルあたり24,000ベトナムドンを超えました。 - Vietnam.vn",
@@ -1780,5 +1714,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米CPIの上振れにより、FRBの利上げ観測が強まった。これにより銅先物(HG)は1.64%下落した。高金利環境は銅などリスク資産の需要を抑制する要因となる。"
+  },
+  {
+    "title": "小麦先物、ドル高と外交交渉への期待で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-15T13:28:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "小麦先物が下落。ドル高による競争力低下と、ウクライナ等の地政学的紛争の外交交渉進展への期待が売却圧力となった。供給懸念の軽減が相場の重しになっている。"
+  },
+  {
+    "title": "金価格は本日9月15日も引き続き下落傾向を示した。 - vietnam.vn",
+    "timestamp": "2026-09-15T13:22:57+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が9月15日も引き続き下落傾向を示している。単日の価格動向を報じるニュース。具体的な下落率や要因は記事から不明。"
+  },
+  {
+    "title": "会合が延期され、金価格が急落 - Moomoo",
+    "timestamp": "2026-09-15T04:47:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金の主要な会合が延期されたことが報じられ、金価格が急落した。会合の延期は市場参加者の期待や不確実性に影響を与えたものと考えられる。詳細な背景や延期理由は報道からは不明。"
+  },
+  {
+    "title": "金価格が1オンスあたり4,300ドルを下回ったことで、世界の金価格は米連邦準備制度理事会（FRB）による利上げの可能性から圧力を受けている。 - vietnam.vn",
+    "timestamp": "2026-09-15T10:32:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり4,300ドルを下回り、FRBによる利上げ可能性が相場の重しになっている。金は実質金利と逆相関の関係にあり、利上げ期待は金需要を減少させる。既知の要因による売り圧力が継続している。"
+  },
+  {
+    "title": "金価格が絶えず下落しているのはなぜか？ - vietnam.vn",
+    "timestamp": "2026-09-15T09:13:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の継続的な下落について解説した記事。具体的な下落要因や最新の価格水準については詳細が不明。コモディティ市場の一般的な動向解説の範疇。"
+  },
+  {
+    "title": "【日本株】11月の米・中間選挙後に原油価格の落ち着きを期待する一方、当面はAI・半導体関連株を避け、高配当銘柄や｢ドローン｣｢自動運転｣関連株が狙い目！ - ダイヤモンド・オンライン",
+    "timestamp": "2026-09-15T11:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米中間選挙後の原油価格落ち着きを期待するアナリスト観測。現在はAI・半導体を避け、高配当やドローン・自動運転関連株に注目する日本株戦略の提示。原油市場への直接的な新規情報なし。"
+  },
+  {
+    "title": "米国原油先物 (USOIL-F) は9月15日にボラティリティが強まった：注目すべき点 - TradingKey",
+    "timestamp": "2026-09-15T09:20:51+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "9月15日の米国原油先物でボラティリティが強まったことを扱う解説記事。具体的な価格変動幅や原因となった要因が明記されていない。市場の振り返り・観測記事と考えられる。"
+  },
+  {
+    "title": "トウモロコシ先物、ドル高と作況改善を受けて下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-15T13:29:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物が下落。ドル高進行による輸出競争力低下と、米国の作況改善見通しが重荷となった。両要因とも市場で既に織り込まれつつある既定路線の動き。"
   }
 ]
