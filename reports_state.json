@@ -1,16 +1,5 @@
 [
   {
-    "title": "Saudi shares drop after drone attacks target key oil pipeline - reuters.com",
-    "timestamp": "2026-09-13T08:01:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの重要な石油パイプラインがドローン攻撃を受けた。サウジ株式市場が下落し、供給途絶への懸念から原油価格の上昇圧力が生じた。地政学的リスク顕在化により、サプライチェーン寸断の可能性が市場心理に反映された。"
-  },
-  {
     "title": "Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters",
     "timestamp": "2026-09-13T12:54:28+00:00",
     "importance": 4,
@@ -592,5 +581,71 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "政府債利回りの上昇により金利環境が引き締まる中、原油は堅調に推移し再び上昇。一方、株価下落がリスク資産圧力となっている。金は利回り上昇による下落圧力と、株価下落によるリスク回避買いの綱引き状態。マクロ環境の不確実性が続く。"
+  },
+  {
+    "title": "API: Crude stocks lead 10 million across-the-barrel inventory build - Quantum Commodity Intelligence",
+    "timestamp": "2026-09-16T08:10:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "API週間在庫統計で原油在庫が1000万バレルの大幅積み増しを記録した。これはガソリン、ディスティレート、その他石油製品を含めた全体的な在庫増加を示唆している。需要の弱さまたは供給の過剰を反映している可能性があり、原油価格に下押し圧力となる。"
+  },
+  {
+    "title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-15T21:01:48+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計で米国全体の原油在庫が増加した一方、クッシング地点の在庫は減少という相反する動きが観察された。需給の地域的なミスマッチが生じており、パイプライン輸送の制約や精油所需要の強弱が複雑に作用している状況。"
+  },
+  {
+    "title": "Iraq leads OPEC+’s output growth in August - IraqiNews",
+    "timestamp": "2026-09-13T12:27:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC+加盟国の中で8月の石油生産増加をリードしたとの報告。OPEC+の段階的な減産緩和政策の一環として、イラクの増産が進行中。ただし具体的な生産量の数値が報道には明記されていないため、インパクト判定には限界あり。"
+  },
+  {
+    "title": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut - Bloomberg.com",
+    "timestamp": "2026-09-16T08:22:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが国内パイプライン停止に伴い、ホルムズ海峡経由の原油輸送を大幅に増加させる方針を転換。重要インフラの障害が一時的に供給ルートの多様化を強制し、地政学的リスク（ホルムズ海峡通過依存度の上昇）が再燃。輸送リスク再評価による価格上昇圧力が生じる可能性。"
+  },
+  {
+    "title": "Copper Steadies Ahead of Fed Decision as Supply Concerns Ease - Bloomberg.com",
+    "timestamp": "2026-09-16T04:40:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅相場がFRB金利決定を控えて落ち着きを見せている。供給懸念が緩和された中での展開となっており、金融政策決定が次の方向感を決める重要な分岐点となる。ドル高圧力の可能性が銅下押し要因として機能する一方、供給問題の後退は支援材料。"
+  },
+  {
+    "title": "Copper Steadies Ahead of Fed Decision as Supply Concerns Ease - Bloomberg.com",
+    "timestamp": "2026-09-16T04:40:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "銅相場がFRB金利決定を控えて落ち着きを見せている。供給懸念が緩和された中での展開となっており、金融政策決定が次の方向感を決める重要な分岐点となる。ドル高圧力の可能性が銅下押し要因として機能する一方、供給問題の後退は支援材料。"
   }
 ]
