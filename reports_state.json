@@ -1,16 +1,5 @@
 [
   {
-    "title": "Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters",
-    "timestamp": "2026-09-13T12:54:28+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン障害により、世界の石油供給の約4%が失われる脅威が発生。サウジは世界最大級の石油生産国であり、このレベルの供給遮断は市場に即座の上昇圧力をもたらす。地政学的リスク要因として原油先物は急速に反応する可能性が高い。"
-  },
-  {
     "title": "According to foreign media reports, copper recorded its first weekly d - SMM Metal",
     "timestamp": "2026-09-13T20:51:18+00:00",
     "importance": 2,
@@ -605,17 +594,6 @@
     "summary": "EIA週間在庫統計で米国全体の原油在庫が増加した一方、クッシング地点の在庫は減少という相反する動きが観察された。需給の地域的なミスマッチが生じており、パイプライン輸送の制約や精油所需要の強弱が複雑に作用している状況。"
   },
   {
-    "title": "Iraq leads OPEC+’s output growth in August - IraqiNews",
-    "timestamp": "2026-09-13T12:27:36+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPEC+加盟国の中で8月の石油生産増加をリードしたとの報告。OPEC+の段階的な減産緩和政策の一環として、イラクの増産が進行中。ただし具体的な生産量の数値が報道には明記されていないため、インパクト判定には限界あり。"
-  },
-  {
     "title": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut - Bloomberg.com",
     "timestamp": "2026-09-16T08:22:45+00:00",
     "importance": 4,
@@ -647,5 +625,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "銅相場がFRB金利決定を控えて落ち着きを見せている。供給懸念が緩和された中での展開となっており、金融政策決定が次の方向感を決める重要な分岐点となる。ドル高圧力の可能性が銅下押し要因として機能する一方、供給問題の後退は支援材料。"
+  },
+  {
+    "title": "Russia's Syzran and Saratov oil refineries on hold after drone attacks, sources say - Reuters",
+    "timestamp": "2026-09-16T12:20:09+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのシズラン製油所とサラトフ製油所がドローン攻撃により稼働停止に追い込まれた。両製油所の合計日産能力は約60万バレル（ロシア精製能力の約8%）であり、供給ショックの規模は無視できない。ロシア国内での精製能力喪失は燃料供給の逼迫を招き、国際原油価格への上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "Saudi offers more crude via Oman loading after pipeline attacks, sources say - Reuters",
+    "timestamp": "2026-09-16T04:42:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがパイプライン攻撃による供給途絶に対応し、オマーン積み出しルート経由での原油輸出を増加させている。地政学的な供給リスクが顕在化し、代替輸送経路への依存度が高まることで、中東からの原油流出の脆弱性が浮き彫りになった。攻撃の継続リスクが価格上昇圧力になる。"
+  },
+  {
+    "title": "Saudis Seek to Resume Half of Key Oil Pipeline Within Days - bloomberg.com",
+    "timestamp": "2026-09-16T15:47:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが重要な石油パイプラインの運用再開を数日以内に目指している。このパイプラインの部分的な再開（約50%）は、先般の供給中断による逼迫した市場に対して重要なシグナルとなる。サウジの迅速な復旧対応は地政学的リスク軽減を示唆し、原油供給懸念の後退を意味する。"
+  },
+  {
+    "title": "European Stocks Advance as Bond Yields and Oil Ease Ahead of Fed - bloomberg.com",
+    "timestamp": "2026-09-16T15:55:54+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "欧州株が上昇し、債券利回りと原油価格が軟化している。FRBの金利決定を控えた市場の慎重姿勢を反映。金利低下環境では金は支援される一方、原油は需要懸念で下げ圧力を受けている。"
+  },
+  {
+    "title": "European Stocks Advance as Bond Yields and Oil Ease Ahead of Fed - bloomberg.com",
+    "timestamp": "2026-09-16T15:55:54+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "欧州株が上昇し、債券利回りと原油価格が軟化している。FRBの金利決定を控えた市場の慎重姿勢を反映。金利低下環境では金は支援される一方、原油は需要懸念で下げ圧力を受けている。"
+  },
+  {
+    "title": "European Stocks Advance as Bond Yields and Oil Ease Ahead of Fed - bloomberg.com",
+    "timestamp": "2026-09-16T15:55:54+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "欧州株が上昇し、債券利回りと原油価格が軟化している。FRBの金利決定を控えた市場の慎重姿勢を反映。金利低下環境では金は支援される一方、原油は需要懸念で下げ圧力を受けている。"
   }
 ]
