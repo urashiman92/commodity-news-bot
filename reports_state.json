@@ -1,27 +1,5 @@
 [
   {
-    "title": "According to foreign media reports, copper recorded its first weekly d - SMM Metal",
-    "timestamp": "2026-09-13T20:51:18+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅が週単位で初めての下落を記録したとの報道。具体的な下落幅や背景となる要因の詳細は提供されていない。タイトルのみで内容ページへのアクセスが不可のため、市場への影響度合いの正確な判定は困難。"
-  },
-  {
-    "title": "According to foreign media reports, copper recorded its first weekly d - SMM Metal",
-    "timestamp": "2026-09-13T20:51:18+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅が週単位で初めての下落を記録したとの報道。具体的な下落幅や背景となる要因の詳細は提供されていない。タイトルのみで内容ページへのアクセスが不可のため、市場への影響度合いの正確な判定は困難。"
-  },
-  {
     "title": "Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz - reuters.com",
     "timestamp": "2026-09-13T23:33:26+00:00",
     "importance": 4,
@@ -31,17 +9,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビア施設およびホルムズ海峡への新たなストライキにより、原油価格が2%以上上昇した。中東の主要な石油供給インフラへの攻撃は、地政学的リスクの急速な悪化を示唆しており、市場の供給懸念が即座に価格に反映された。"
-  },
-  {
-    "title": "Oil Jumps as Shutdown of Saudi Pipeline Deepens Energy Crisis - bloomberg.com",
-    "timestamp": "2026-09-13T22:01:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン停止により原油価格が急騰。供給ショックがエネルギー危機を深刻化させている。主要インフラの遮断は市場で予想されていなかった突発事象で、短期的な価格上振れ圧力が継続する見通し。"
   },
   {
     "title": "Asian Refiners Seek Saudi Updates After Oil Pipeline Closure - Bloomberg.com",
@@ -878,5 +845,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "小麦",
     "summary": "ロシア政府がクレムリンを中心に、世界最大の小麦輸出国としての地位維持に向けた施策を推進している。ウクライナ紛争による供給不安が続く中、ロシアは国家的な政策支援により輸出体制の強化を図っており、今後の世界小麦市場の供給構造に影響を与える可能性がある。"
+  },
+  {
+    "title": "Stocks Supported by Lower Oil Prices and Strength in US Retail Sales - TradingView",
+    "timestamp": "2026-09-16T14:06:36+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国小売売上の好調とそれに伴う油価下落が株式市場をサポートしているという市場解説。低油価は輸送・製造業のコスト削減要因となり、消費関連企業の収益改善に寄与。ただし原油供給側には下押し圧力が作用。"
+  },
+  {
+    "title": "Stocks Supported by Lower Oil Prices and Strength in US Retail Sales - TradingView",
+    "timestamp": "2026-09-16T14:06:36+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国小売売上の好調とそれに伴う油価下落が株式市場をサポートしているという市場解説。低油価は輸送・製造業のコスト削減要因となり、消費関連企業の収益改善に寄与。ただし原油供給側には下押し圧力が作用。"
+  },
+  {
+    "title": "US corn supplies tighten on smaller crop forecast - World Grain",
+    "timestamp": "2026-09-16T11:15:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの作付面積・収量見通しが下方修正され、供給逼迫が顕在化。WASDEレポートで小作面積や単収の悪化が予想され、国内備蓄と輸出可能量の大幅な減少が見込まれている。飼料・エタノール産業への供給制約が懸念される。"
+  },
+  {
+    "title": "US corn supplies tighten on smaller crop forecast - World Grain",
+    "timestamp": "2026-09-16T11:15:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国トウモロコシの作付面積・収量見通しが下方修正され、供給逼迫が顕在化。WASDEレポートで小作面積や単収の悪化が予想され、国内備蓄と輸出可能量の大幅な減少が見込まれている。飼料・エタノール産業への供給制約が懸念される。"
+  },
+  {
+    "title": "US corn supplies tighten on smaller crop forecast - World Grain",
+    "timestamp": "2026-09-16T11:15:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国トウモロコシの作付面積・収量見通しが下方修正され、供給逼迫が顕在化。WASDEレポートで小作面積や単収の悪化が予想され、国内備蓄と輸出可能量の大幅な減少が見込まれている。飼料・エタノール産業への供給制約が懸念される。"
   }
 ]
