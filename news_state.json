@@ -1,27 +1,5 @@
 [
   {
-    "title": "ＪＸ金属、銅建値９万円下げ - 日刊鉄鋼新聞 Japan Metal Daily",
-    "timestamp": "2026-09-13T20:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が銅建値を9万円引き下げた。国内大手メーカーの値下げは市場の弱気転換を反映。LME銅価格の軟化に追随した動き。"
-  },
-  {
-    "title": "NEXT NOTES 金先物 ベア ETN【2037】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-09-13T20:38:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NEXT NOTES 金先物 ベア ETN【2037】はYahoo!ファイナンスの銘柄情報ページ。逆連動型金先物ETNの株価・株式情報の掲載であり、新規ニュースではなくデータ提供ページの更新。"
-  },
-  {
     "title": "本日（9月14日）の金価格：金は大きな岐路に立たされている。 - Vietnam.vn",
     "timestamp": "2026-09-13T22:06:11+00:00",
     "importance": 2,
@@ -2209,5 +2187,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が$6,425.8付近のサポートレベルで持ち合い状態にあるとの相場解説。アナリスト予測に基づく技術的分析の提示。"
+  },
+  {
+    "title": "本日9月16日の金価格は、再び急騰した。 - Vietnam.vn",
+    "timestamp": "2026-09-16T13:16:34+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月16日の金価格が再び急騰したと報じられている。具体的な騰落率や騰落理由は記事概要に記載されていない。市場の振り返り報道と判断される。"
+  },
+  {
+    "title": "【注目トピックス 市況・概況】NY外為：ドル伸び悩む、原油価格の反落で長期金利も低下 - マネーポストWEB",
+    "timestamp": "2026-09-16T15:27:04+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の反落に伴い、ドル指数が伸び悩み、米長期金利も低下した。市場は原油下落とドル・金利の連動性を反映。既に進行中の相場調整の継続を示すニュース。"
+  },
+  {
+    "title": "米中高官会談への期待からシカゴ大豆先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-16T19:42:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "米中高官会談への期待感からシカゴ大豆先物が上昇した。通商交渉の進展を示唆する好材料として市場が反応。ただし実現は未確定段階。"
   }
 ]
