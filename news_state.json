@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日（2026年9月14日）の金価格は、FRBの動向に左右されます。底値買いが始まっており、市場は徐々に高い支持水準を形成しつつあります。 - Vietnam.vn",
-    "timestamp": "2026-09-13T17:36:51+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格はFRBの政策動向に依存する状況が続いている。市場では底値買いが入り始め、サポートレベルが徐々に形成されている模様。"
-  },
-  {
-    "title": "金価格は本日9月13日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-09-13T15:06:23+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月13日に金価格が大幅に下落し、取引を終えた。買い手は損失を被った。具体的な下落要因や下落幅は記事から不明。"
-  },
-  {
-    "title": "イラン戦争：航空会社に3日目の影響、原油価格は急騰 - アラブニュース",
-    "timestamp": "2026-09-13T15:41:18+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランとの戦争リスクが顕在化し、原油価格が急騰。中東の主要供給地域における地政学的緊張の急激な悪化。航空会社への影響が3日目に達し、実体経済への波及も進行中。"
-  },
-  {
-    "title": "東証反落、１カ月ぶり安値 終値６万４０１１円、原油高で - 山陽新聞",
-    "timestamp": "2026-09-13T17:50:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東証が1カ月ぶりの安値（終値6万4011円）で反落。原油価格の上昇が国内株式市場の重石となった。エネルギーコスト上昇懸念が株価押下要因。"
-  },
-  {
     "title": "ＪＸ金属、銅建値９万円下げ - 日刊鉄鋼新聞 Japan Metal Daily",
     "timestamp": "2026-09-13T20:00:00+00:00",
     "importance": 3,
@@ -2143,5 +2099,115 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジアラビアのヤンブー港における積み込み停止により、重要な供給拠点が機能停止。これは予定外の突発的な供給ショックであり、市場の供給懸念が急速に高まっている。先物価格は3ドル上昇し、オイルマーケットへの直接的な影響が即座に表れている。"
+  },
+  {
+    "title": "小麦先物、テクニカル売りと原油安で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-16T13:57:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "小麦先物がテクニカル売りと原油安の影響で下落。テクニカル要因による調整と、エネルギー価格低下に伴う農業コスト低下期待が背景。既定路線の相場調整局面。"
+  },
+  {
+    "title": "金価格が過去最高値付近で推移、課題は地表部の権益取得 - Moomoo",
+    "timestamp": "2026-09-16T13:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が過去最高値圏で推移している状況を報道。投資家にとって主な課題は地表部の権益取得難であり、今後の採掘コスト上昇圧力を示唆している。既に織り込まれた相場環境での解説記事。"
+  },
+  {
+    "title": "本日2026年9月17日の金価格は、市場がFRBの発表を固唾を飲んで見守る中、プラス圏で推移しており、「ニュース買い」による価格高騰が予測されている。 - vietnam.vn",
+    "timestamp": "2026-09-16T14:47:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月17日の金価格はプラス圏で推移。FRBの発表を市場が注視しており、ニュース買いによる価格上昇が見込まれている。"
+  },
+  {
+    "title": "NY外為：ドル伸び悩む、原油価格の反落で長期金利も低下 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-16T15:27:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が反落し、それに伴いドル相場が伸び悩み、長期金利も低下している。市場ではリスク回避姿勢が広がっている状況。"
+  },
+  {
+    "title": "【速報】NY原油先物反落、101.10ドルまで下落｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-16T15:30:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が101.10ドルまで下落した速報。具体的な下落要因は記事タイトルからは不明。市場の日中の値動き報告と思われる。"
+  },
+  {
+    "title": "サウジで石油積み出し停止 原油価格 4カ月ぶり高値 - txbiz.tv-tokyo.co.jp",
+    "timestamp": "2026-09-16T13:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアで石油積み出しが停止。供給減少により原油価格は4カ月ぶりの高値まで上昇。OPEC主要国の供給ショックは市場に大きなインパクト。"
+  },
+  {
+    "title": "ガソリン補助金51円 過去最高に 原油価格の高騰受け - HOME広島ホームテレビ",
+    "timestamp": "2026-09-16T06:27:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本政府が原油高騰に対応してガソリン補助金を51円に引き上げ、過去最高水準となった。これは国内ガソリン価格の上昇抑制策であり、原油需要には直接的な影響は限定的。既知の政策対応の続報。"
+  },
+  {
+    "title": "NY外為：ドル伸び悩む、原油価格の反落で長期金利も低下 - ｄメニューニュース",
+    "timestamp": "2026-09-16T16:14:37+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY外為市場でドル相場が伸び悩み、原油価格の反落を受けて長期金利も低下した。金利低下がドル売り圧力となり、原油相場も連動して下げた局面。"
+  },
+  {
+    "title": "原油価格と大豆価格はともに上昇した。 - vietnam.vn",
+    "timestamp": "2026-09-16T15:12:27+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "原油価格と大豆価格が同時に上昇したという相場動向の報告。両者の連動を指摘しているが、具体的な上昇幅やドライバーが不明。"
+  },
+  {
+    "title": "銅価格予測：$6,425.8のサポート付近での持ち合い - Traders Union",
+    "timestamp": "2026-09-16T12:19:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が$6,425.8付近のサポートレベルで持ち合い状態にあるとの相場解説。アナリスト予測に基づく技術的分析の提示。"
   }
 ]
