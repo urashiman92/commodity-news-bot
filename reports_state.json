@@ -1,38 +1,5 @@
 [
   {
-    "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks - Bloomberg.com",
-    "timestamp": "2026-09-14T13:08:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東情勢の緊張化とFRBの金利据え置き懸念により、新興市場株が売却圧力に直面している。リスク回避姿勢が強まることで、金は買われ傾向だが、ドル強含みと金利上昇懸念が相殺効果を生む。原油は地政学的リスク要因で上昇基調が予想される。"
-  },
-  {
-    "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks - Bloomberg.com",
-    "timestamp": "2026-09-14T13:08:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "中東情勢の緊張化とFRBの金利据え置き懸念により、新興市場株が売却圧力に直面している。リスク回避姿勢が強まることで、金は買われ傾向だが、ドル強含みと金利上昇懸念が相殺効果を生む。原油は地政学的リスク要因で上昇基調が予想される。"
-  },
-  {
-    "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks - Bloomberg.com",
-    "timestamp": "2026-09-14T13:08:30+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東情勢の緊張化とFRBの金利据え置き懸念により、新興市場株が売却圧力に直面している。リスク回避姿勢が強まることで、金は買われ傾向だが、ドル強含みと金利上昇懸念が相殺効果を生む。原油は地政学的リスク要因で上昇基調が予想される。"
-  },
-  {
     "title": "USDA lowers corn production forecast, raises soybean price outlook - High Plains Journal",
     "timestamp": "2026-09-14T16:12:09+00:00",
     "importance": 3,
@@ -99,17 +66,6 @@
     "summary": "ネバダ州で新たに確認された銅鉱床が67.1億ポンド（約304万トン）の銅埋蔵量を保有していることがLionにより報告された。大型銅鉱床の発見は長期的な供給安定化に寄与する可能性がある。"
   },
   {
-    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
-    "timestamp": "2026-09-14T11:57:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の増産決定は現在のところ市場に実質的な影響を与えていないが、将来的には重要になる可能性があるというアナリスト見解。Russellの指摘は、増産計画の実行タイミングや市場供給バランスの変化を睨んだ長期的評価を反映している。"
-  },
-  {
     "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1982 - Reuters",
     "timestamp": "2026-09-14T15:53:59+00:00",
     "importance": 4,
@@ -163,17 +119,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのパイプライン施設の障害と新たな攻撃により、原油供給への懸念が急速に高まった。これらの供給ショックは予期されない突発的事象であり、市場が既に織り込んでいない要因として原油価格の上昇圧力となっている。中東地政学リスクの再燃は短期的な価格変動を招く可能性が高い。"
-  },
-  {
-    "title": "The Oil Market Needs a Quick Saudi Pipeline Restart - Bloomberg.com",
-    "timestamp": "2026-09-14T11:34:01+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン施設の早期再開が石油市場にとって緊急課題であることが報じられた。パイプライン停止に伴う供給制約が市場を逼迫させており、迅速な復旧がエネルギー価格の安定化に不可欠と指摘されている。OPEC主要産油国の供給能力喪失は世界的な石油需給バランスに大きな影響を及ぼす可能性がある。"
   },
   {
     "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
@@ -955,5 +900,159 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中東の供給途絶懸念が緩和されたことを背景に、原油価格が下落を続けている。地政学的リスクプレミアムの剥落により、テクニカルな売り圧力が強まっている。短期的な下値圏での値動きが続く見込み。"
+  },
+  {
+    "title": "September WASDE Forecasts Lower Production, Higher Prices for Most Crops - Oklahoma Farm Report",
+    "timestamp": "2026-09-16T16:10:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "9月のWASDE（米国農務省穀物需給報告）で複数穀物の生産量下方修正と価格上昇予測が発表された。トウモロコシ、小麦、大豆など主要穀物で減産見通しが示されており、供給逼迫とインフレ圧力の再燃が示唆される。オクラホマなど米穀倉地帯での天候不順がコスト上昇と減収をもたらしている。"
+  },
+  {
+    "title": "September WASDE Forecasts Lower Production, Higher Prices for Most Crops - Oklahoma Farm Report",
+    "timestamp": "2026-09-16T16:10:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "9月のWASDE（米国農務省穀物需給報告）で複数穀物の生産量下方修正と価格上昇予測が発表された。トウモロコシ、小麦、大豆など主要穀物で減産見通しが示されており、供給逼迫とインフレ圧力の再燃が示唆される。オクラホマなど米穀倉地帯での天候不順がコスト上昇と減収をもたらしている。"
+  },
+  {
+    "title": "September WASDE Forecasts Lower Production, Higher Prices for Most Crops - Oklahoma Farm Report",
+    "timestamp": "2026-09-16T16:10:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "9月のWASDE（米国農務省穀物需給報告）で複数穀物の生産量下方修正と価格上昇予測が発表された。トウモロコシ、小麦、大豆など主要穀物で減産見通しが示されており、供給逼迫とインフレ圧力の再燃が示唆される。オクラホマなど米穀倉地帯での天候不順がコスト上昇と減収をもたらしている。"
+  },
+  {
+    "title": "September WASDE Forecasts Lower Production, Higher Prices for Most Crops - Oklahoma Farm Report",
+    "timestamp": "2026-09-16T16:10:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "9月のWASDE（米国農務省穀物需給報告）で複数穀物の生産量下方修正と価格上昇予測が発表された。トウモロコシ、小麦、大豆など主要穀物で減産見通しが示されており、供給逼迫とインフレ圧力の再燃が示唆される。オクラホマなど米穀倉地帯での天候不順がコスト上昇と減収をもたらしている。"
+  },
+  {
+    "title": "USDA lowers beef production and cattle price forecasts - abpdaily.com",
+    "timestamp": "2026-09-14T19:02:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAがWASDEレポートで牛肉生産量と畜牛価格の見通しを引き下げた。供給減少見通しは牛肉市場のタイト化を示唆するが、飼料となるトウモロコシ・大豆の需要減少圧力につながる可能性がある。畜牛関連の飼料需要減は穀物価格に下押し圧力をもたらす見込み。"
+  },
+  {
+    "title": "USDA lowers beef production and cattle price forecasts - abpdaily.com",
+    "timestamp": "2026-09-14T19:02:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAがWASDEレポートで牛肉生産量と畜牛価格の見通しを引き下げた。供給減少見通しは牛肉市場のタイト化を示唆するが、飼料となるトウモロコシ・大豆の需要減少圧力につながる可能性がある。畜牛関連の飼料需要減は穀物価格に下押し圧力をもたらす見込み。"
+  },
+  {
+    "title": "USDA lowers beef production and cattle price forecasts - abpdaily.com",
+    "timestamp": "2026-09-14T19:02:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAがWASDEレポートで牛肉生産量と畜牛価格の見通しを引き下げた。供給減少見通しは牛肉市場のタイト化を示唆するが、飼料となるトウモロコシ・大豆の需要減少圧力につながる可能性がある。畜牛関連の飼料需要減は穀物価格に下押し圧力をもたらす見込み。"
+  },
+  {
+    "title": "EIA reports another drop in US crude oil stocks - engine.online",
+    "timestamp": "2026-09-17T07:49:42+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の継続的な減少を報告した。在庫の連続低下は原油の需給引き締まりを示唆し、価格上昇圧力となる可能性がある。具体的な在庫数値や前週比の詳細は記事から不明だが、トレンド継続は注視に値する。"
+  },
+  {
+    "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
+    "timestamp": "2026-09-16T21:39:40+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が原油産出量の引き上げを発表する見通しだが、実現可能性と需要家の購買力に疑問が呈示されている。タイトルの「Can it Deliver and Who Will Buy?」という問い掛けは、増産宣言と実際の供給能力、および世界需要の弱さという二重の課題を指摘している。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
+    "timestamp": "2026-09-15T22:06:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後、原油生産が過去最高水準に近づいている。OPEC離脱に伴う減産義務の解放により、UAEが増産に転じたことで、OPEC全体の協調減産体制が実質的に弱体化。供給増加圧力が市場に下向きの材料として作用する可能性が高い。"
+  },
+  {
+    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
+    "timestamp": "2026-09-16T21:36:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+がホルムズ海峡再開時の原油増産を合意。地政学的リスクである海峡封鎖シナリオの解消が示唆され、供給制約の緩和期待が浮上。同時にOPEC+の協調体制が維持される見通しで、価格下押し圧力と安定化のバランスが市場の注目点。"
+  },
+  {
+    "title": "India says new US tariffs over Russian oil could hit ties, vows to protect energy security - reuters.com",
+    "timestamp": "2026-09-17T05:19:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インドが米国のロシア産石油への新規関税措置に対し、米印関係の悪化とエネルギー安全保障への脅威として強く反発。インドはロシア産石油の調達継続を宣言し、米国の制裁圧力に抵抗する姿勢を明確にした。地政学的緊張とエネルギー供給の不確実性が高まり、原油価格の上昇圧力になる可能性。"
+  },
+  {
+    "title": "India says new US tariffs over Russian oil could hit ties, vows to protect energy security - reuters.com",
+    "timestamp": "2026-09-17T05:19:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インドが米国のロシア産石油への新規関税措置に対し、米印関係の悪化とエネルギー安全保障への脅威として強く反発。インドはロシア産石油の調達継続を宣言し、米国の制裁圧力に抵抗する姿勢を明確にした。地政学的緊張とエネルギー供給の不確実性が高まり、原油価格の上昇圧力になる可能性。"
+  },
+  {
+    "title": "Ukraine Hits Key Russian Oil Refinery as Moscow Strikes Kyiv - bloomberg.com",
+    "timestamp": "2026-09-17T08:06:18+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアの主要製油所を攻撃し、モスクワはキーウへの報復攻撃を実施。ロシアの石油精製能力の損失は供給サイドのショックとして機能し、世界原油市場の需給逼迫懸念を加速させる。地政学的リスク要因による供給途絶の現実化で、原油価格の上昇圧力が強化される。"
   }
 ]
