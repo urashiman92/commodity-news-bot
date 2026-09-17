@@ -1,82 +1,5 @@
 [
   {
-    "title": "本日（9月14日午後）の金価格：若干上昇 - Vietnam.vn",
-    "timestamp": "2026-09-14T08:23:11+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム市場における9月14日午後の金価格が若干上昇したとの報道。地域的な定期的な価格変動を報じたもの。"
-  },
-  {
-    "title": "2026年9月14日午後の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
-    "timestamp": "2026-09-14T10:51:38+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格表記事。特定日時の金地金・9999金リング・国際金の価格を掲載したもの。市場動向を示す実質的な情報が不足している。"
-  },
-  {
-    "title": "原油価格は1バレル108ドルを突破した一方、金価格は連邦準備制度理事会（FRB）の会合を前に下落した。 - Vietnam.vn",
-    "timestamp": "2026-09-14T11:00:33+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "原油は1バレル108ドルを突破して上昇する一方、金はFRB会合を控えた売却圧力で下落。金利上昇見通しが金の重しになっている。"
-  },
-  {
-    "title": "本日（2026年9月14日）の金価格：金地金、9999金リング、および週初めの国際金価格表。 - Vietnam.vn",
-    "timestamp": "2026-09-14T10:51:39+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格表示に関するニュース。本日の金地金、9999金リング、および国際金価格の情報を掲載。市場への新規情報は含まれていない。"
-  },
-  {
-    "title": "中東の緊張により供給懸念が深まり、原油価格が2%以上上昇 - アラブニュース",
-    "timestamp": "2026-09-14T09:46:27+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東地域の地政学的緊張が深まり、原油供給懸念が再燃している。これにより原油価格が2%以上上昇した。供給リスク要因として市場で反応。"
-  },
-  {
-    "title": "ドル買い継続、ＮＹ原油先物が１０３ドル台後半と本日高値を更新＝ロンドン為替 - みんかぶ FX/為替",
-    "timestamp": "2026-09-14T08:37:57+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル買いの継続により、NY原油先物が103ドル台後半で本日高値を更新した。ドル強化は原油（ドル建て）の相対的な価格上昇につながっている。"
-  },
-  {
-    "title": "【随時更新】WTI原油、$104.46の史上高値に迫るもRSI過熱で反転リスク点灯 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-14T07:07:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が史上高値$104.46に接近している状況を報じた技術分析記事。RSI指標が過熱状態にあり、反転リスクが存在する点を指摘。相場の振り返りと技術的警告に基づく解説。"
-  },
-  {
     "title": "USDA輸出入札：ルイジアナ・テキサスのトウモロコシ、大豆、小麦価格（2026年9月14日） - ニュースと統計 - IndexBox",
     "timestamp": "2026-09-14T16:20:31+00:00",
     "importance": 2,
@@ -176,17 +99,6 @@
     "summary": "カナダ8月CPIが前月比3%で横ばいとなり、原油価格の高止まりがインフレ圧力に寄与していることが報道された。これは既に織り込まれた状況の解説である。"
   },
   {
-    "title": "【速報】NY原油先物は反発、103.30ドル｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-09-14T12:24:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が103.30ドルまで反発した。速報ニュースのため詳細な文脈が不明。反発の具体的な要因や背景情報が欠落している。"
-  },
-  {
     "title": "カナダ8月ＣＰＩ、3％で伸び率横ばい　原油価格高止まり響く - ｄメニューニュース",
     "timestamp": "2026-09-14T15:24:00+00:00",
     "importance": 3,
@@ -220,28 +132,6 @@
     "summary": "米中首脳会談を控え、貿易交渉の進展期待から大豆先物が上昇。米国の主要輸出商品である大豆は米中関係の改善シグナルに反応しやすい。通常の地政学的リスク織り込み相場。"
   },
   {
-    "title": "USX1,287のサポート付近で価格が持ち合う大豆先物：テクニカル見通し - Traders Union",
-    "timestamp": "2026-09-14T12:39:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,287のサポートレベル付近で値動きを続けている。テクニカル分析に基づいた相場解説であり、特定の新規イベントや統計データではない。"
-  },
-  {
-    "title": "銅価格予測：注目される$6.3216のサポート試し - Traders Union",
-    "timestamp": "2026-09-14T12:21:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が$6.3216のサポートレベルを試す局面にあるとの技術分析予測。アナリストによる価格レベルの観測・解説。"
-  },
-  {
     "title": "黒海紛争の緊張緩和期待でシカゴ小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-14T19:40:00+00:00",
     "importance": 3,
@@ -262,17 +152,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "黒海紛争の緊張緩和への期待が市場に織り込まれ、小麦先物が下落。地政学的リスク低下による供給懸念の軽減が要因。既報の事象の継続的な反映。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年9月14日）金価格4300ドル割れ、原油高でFRB利上げ確率9割へ - ブリオンボールト",
-    "timestamp": "2026-09-14T07:31:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4300ドルを割れた。原油高がFRBの利上げ確率を9割まで高める可能性がある。金はドル高・金利上昇によって下押し圧力を受けている。"
   },
   {
     "title": "本日、2026年9月14日の金価格：絶えず変動しており、SJCの金価格は再び急落しました。 - Vietnam.vn",
@@ -2154,5 +2033,82 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティー市場で上昇・下落が混在。金銀銅など貴金属と農産物（小麦大豆）が上昇した一方、原油・天然ガス・トウモロコシは下落。市場のセクター間で強弱が分かれている。"
+  },
+  {
+    "title": "金鉱株が反発、金価格はドル軟化と原油安に支えられ回復 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-17T11:02:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格がドル軟化と原油安に支えられて回復し、それに伴って金鉱株が反発した。マクロ環境の改善が金資産全体にポジティブに作用している。"
+  },
+  {
+    "title": "2026年9月17日午後の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
+    "timestamp": "2026-09-17T11:30:06+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を報じたもの。2026年9月17日午後の金地金、9999金リング、国際金の価格を掲載した定期的な価格表。"
+  },
+  {
+    "title": "本日（2026年9月17日午後）の金価格：SJC金、DOJI金、9999純金リング、および国際金の価格。 - Vietnam.vn",
+    "timestamp": "2026-09-17T11:25:59+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの複数の金販売業者（SJC、DOJI等）における2026年9月17日午後の金価格情報を報じたもの。国内小売価格の日次更新情報であり、市場構造的な変動要因なし。"
+  },
+  {
+    "title": "2026年9月17日午後時点の今日の金価格（9999）：BTMC、フークイ、PNJの金価格、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-09-17T11:50:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格指標（BTMC、フークイ、PNJ）と世界金価格の日次スナップショット。特定の市場イベントや予期せぬ供給変化を示すものではない。"
+  },
+  {
+    "title": "ＮＹ原油先物が９９ドル台に軟化、ドル売り反応＝ＮＹ為替 - みんかぶ FX/為替",
+    "timestamp": "2026-09-17T12:13:57+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が99ドル台に軟化。ドル売り反応による相場解説。通常のボラティリティ範囲内での技術的な値動き。"
+  },
+  {
+    "title": "原油価格“4月の高値水準超え”も サウジのパイプライン攻撃で - ABEMA",
+    "timestamp": "2026-09-17T08:28:29+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプライン攻撃により原油供給ショックが発生。4月の高値水準を超える可能性が指摘されており、地政学リスクが顕在化した。供給途絶懸念が価格上昇圧力となっている。"
+  },
+  {
+    "title": "原油価格は下落したが、依然として1バレル100ドルを上回っている。 - Vietnam.vn",
+    "timestamp": "2026-09-17T08:50:24+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格は下落したものの、依然として1バレル100ドルを上回る水準を維持している。現在の相場レベルは高止まり状態が続いている。"
   }
 ]
