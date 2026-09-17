@@ -1,137 +1,5 @@
 [
   {
-    "title": "USDA輸出入札：ルイジアナ・テキサスのトウモロコシ、大豆、小麦価格（2026年9月14日） - ニュースと統計 - IndexBox",
-    "timestamp": "2026-09-14T16:20:31+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "USDA輸出入札でルイジアナ・テキサス地域のトウモロコシ、大豆、小麦の価格データが発表された。定期的な価格報告で、市場参加者の参考情報として機能。"
-  },
-  {
-    "title": "ベージュブックで示された小麦需要の拡大が、USX807.5のレジスタンスにあるカンザスシティ小麦価格を支援 - Traders Union",
-    "timestamp": "2026-09-14T12:50:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "FRBのベージュブックで小麦需要の拡大が示唆され、カンザスシティ小麦先物がUSX807.5のレジスタンスレベル付近で支援されている。需要面の改善シグナルが価格を下支え。"
-  },
-  {
-    "title": "金価格は本日2026年9月15日に急落した。しかし、さらなる下落があれば買い意欲を喚起する可能性があり、大手銀行は高い期待を抱いている。 - Vietnam.vn",
-    "timestamp": "2026-09-14T16:47:55+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が9月15日に急落した。大手銀行はさらなる下落があれば買い意欲が喚起される可能性があると指摘している。市場参加者の買いサポート水準に対する観測。"
-  },
-  {
-    "title": "金価格は本日9月14日、大幅に下落して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-09-14T14:41:15+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月14日の金価格が大幅に下落して取引終了。具体的な下落率や下落要因の詳細が記事から不明。単なる日次相場報告と見られる。"
-  },
-  {
-    "title": "国内の金価格は法外な水準まで高騰している。 - Vietnam.vn",
-    "timestamp": "2026-09-14T16:02:45+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が異例に高い水準まで上昇している。これは国際金価格の上昇やドル相場の変動の影響を反映したもの。地域の景気悪化懸念や金融不安が背景にある可能性。"
-  },
-  {
-    "title": "今日の金価格（9999）は、2026年9月14日午後です。9999金価格、DOJIリング価格。 - Vietnam.vn",
-    "timestamp": "2026-09-14T14:29:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトによる定期的な金価格表示記事。2026年9月14日午後時点での現物金（9999）とDOJIリング価格の価格情報を掲載したもの。"
-  },
-  {
-    "title": "2026年9月14日の今日の金価格（9999）：PNJでの9999金と指輪の価格。 - Vietnam.vn",
-    "timestamp": "2026-09-14T14:28:59+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのPNJ社における金の小売価格情報を扱った記事。特定日の9999金と指輪の価格相場を報じている。"
-  },
-  {
-    "title": "カナダ8月ＣＰＩ、3％で伸び率横ばい 原油価格高止まり響く - Reuters",
-    "timestamp": "2026-09-14T15:24:50+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "カナダ8月CPIが前年比3%で伸び率が横ばいとなった。原油価格の高止まりがインフレ圧力に寄与している状況が続いている。カナダは産油国であり、原油高がエネルギーコストを押し上げている。"
-  },
-  {
-    "title": "カナダ8月ＣＰＩ、3％で伸び率横ばい 原油価格高止まり響く - ニューズウィーク日本版",
-    "timestamp": "2026-09-14T15:24:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "カナダ8月CPIが前月比3%で横ばいとなり、原油価格の高止まりがインフレ圧力に寄与していることが報道された。これは既に織り込まれた状況の解説である。"
-  },
-  {
-    "title": "カナダ8月ＣＰＩ、3％で伸び率横ばい　原油価格高止まり響く - ｄメニューニュース",
-    "timestamp": "2026-09-14T15:24:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "カナダ8月CPIが前月比3.0%で横ばいとなり、原油価格の高止まりがインフレ抑制の足かせになっている。エネルギー価格の上昇がCPI上昇圧力として作用。カナダ中銀の利下げ判断に影響を与える可能性。"
-  },
-  {
-    "title": "トウモロコシ先物、USDAの収穫見通し引き下げを受けて上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-14T13:32:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが新たな報告書でトウモロコシの収穫見通しを引き下げた。供給減少への懸念からトウモロコシ先物が買われている。市場は供給タイト化に反応している。"
-  },
-  {
-    "title": "米中首脳会談を前に大豆先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-14T13:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "米中首脳会談を控え、貿易交渉の進展期待から大豆先物が上昇。米国の主要輸出商品である大豆は米中関係の改善シグナルに反応しやすい。通常の地政学的リスク織り込み相場。"
-  },
-  {
     "title": "黒海紛争の緊張緩和期待でシカゴ小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-14T19:40:00+00:00",
     "importance": 3,
@@ -548,17 +416,6 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "中国が米国産大豆の年間購入目標を50%以上達成。習近平氏の訪米前に米中関係改善を示唆する材料となった。貿易関係の緊張緩和を反映している。"
-  },
-  {
-    "title": "銅価格予測：米CPIの上振れでFedの利上げ観測が強まり、HGは1.64%下落 - Traders Union",
-    "timestamp": "2026-09-14T15:10:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米CPIの上振れにより、FRBの利上げ観測が強まった。これにより銅先物(HG)は1.64%下落した。高金利環境は銅などリスク資産の需要を抑制する要因となる。"
   },
   {
     "title": "小麦先物、ドル高と外交交渉への期待で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2110,5 +1967,115 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格は下落したものの、依然として1バレル100ドルを上回る水準を維持している。現在の相場レベルは高止まり状態が続いている。"
+  },
+  {
+    "title": "金先物が現物価格を上回る取引は、本当に強気相場のシグナルなのか？ - TradingKey",
+    "timestamp": "2026-09-17T14:29:51+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物が現物価格を上回る取引状況について、それが本当に強気相場のシグナルかどうかを検討する解説記事。市場参加者の見方や解釈の相違を扱ったもの。"
+  },
+  {
+    "title": "本日9月17日の金価格は、下落と上昇が入り混じった奇妙な動きを見せている。 - Vietnam.vn",
+    "timestamp": "2026-09-17T13:34:57+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月17日の金価格は下落と上昇が混在した不安定な動きを示している。特定の方向性が不明確で、市場が方向感を失っている状態。"
+  },
+  {
+    "title": "9月17日の金価格：世界の金価格は反転して1％下落したが、国内の金価格は急騰した。 - Vietnam.vn",
+    "timestamp": "2026-09-17T11:47:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月17日の金価格は世界相場で1%下落したが、ベトナム国内相場は上昇した。国内外での価格乖離が見られる。"
+  },
+  {
+    "title": "2026年9月17日午後時点の今日の金価格（9999）：9999金、BTMCリング、フークイ、PNJ、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-09-17T10:23:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報提供記事。国内小売業者（9999金、BTMC、フークイ、PNJ）と世界金価格の相場情報をまとめたもの。定期的な価格情報配信。"
+  },
+  {
+    "title": "原油価格小幅安、需要低迷を巡る懸念で - Reuters",
+    "timestamp": "2026-09-17T08:49:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "需要低迷の懸念により原油価格が小幅安となった。市場では需要サイドの弱さが価格の重石となっている状況。既知のトレンドの継続的な確認と言える。"
+  },
+  {
+    "title": "楽天市場が出店料4割上げ、27年2月から 物価や原油価格の上昇受け - 日本経済新聞",
+    "timestamp": "2026-09-17T11:00:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "楽天市場が2027年2月から出店料を4割引き上げ。物価や原油価格上昇を理由としている。楽天市場の経営判断であり、原油市場自体への直接的な影響はない。"
+  },
+  {
+    "title": "【速報】NY原油先物下げ止まる、再び101ドル台｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-17T15:08:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が101ドル台で下げ止まったという相場観測。既に下落した後の技術的なサポートレベル確認に過ぎず、市場の根本的な需給構造や供給ショックを反映したものではない。"
+  },
+  {
+    "title": "NY外為：ドル買い再開、NY原油先物は再び101ドル台 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-17T15:16:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル買いの再開に伴いNY原油先物が101ドル台に戻した。通貨相場の変動が原油価格に反映された相場展開。"
+  },
+  {
+    "title": "【注目トピックス 市況・概況】NY外為：ドル買い再開、NY原油先物は再び101ドル台 - マネーポストWEB",
+    "timestamp": "2026-09-17T15:16:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル買い再開によりNY原油先物が101ドル台まで上昇。為替動向が原油相場を支援する局面を観測。技術的なリバウンド相場の見方が主流。"
+  },
+  {
+    "title": "売り局面後、中国の買い手が戻りで銅価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-17T13:15:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅相場が売り局面から反発し、中国の買い手が戻ってきたことで価格が上昇している。テクニカルなリバウンドと需要国の買い戻しが同時に起きている状況。"
   }
 ]
