@@ -1,16 +1,5 @@
 [
   {
-    "title": "Asian Refiners Seek Saudi Updates After Oil Pipeline Closure - Bloomberg.com",
-    "timestamp": "2026-09-14T07:35:11+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの石油パイプライン閉鎖により、アジア系精油業者がサウジからの供給状況の詳細情報を求めている。パイプラインの稼働停止は中東発の原油供給減少を意味し、アジア地域の精製能力に直接的な影響を及ぼす。供給途絶のリスクがスポット価格および先物相場を押し上げる圧力となっている。"
-  },
-  {
     "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks - Bloomberg.com",
     "timestamp": "2026-09-14T13:08:30+00:00",
     "importance": 3,
@@ -933,5 +922,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが重要なパイプライン復旧に向けて動いていることを受け、原油相場が下落を継続している。パイプライン機能の回復は供給懸念の緩和を示唆し、市場は供給リスク低減を織り込み始めている。"
+  },
+  {
+    "title": "US EIA Crude Oil Stocks Change (Sep/11) -0.64M vs Exp. -1.6M (prev. -0.391M) - Newsquawk",
+    "timestamp": "2026-09-16T14:50:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "9月11日のEIA原油在庫統計は、予想-1.6Mバレルに対して実績は-0.64Mバレルにとどまり、在庫減少幅が予想を大きく下回った。前週は-0.391Mバレルの減少だったため、今週の減少ペースは市場予想比で失望的な結果となった。在庫減少が市場期待より鈍化したことで、原油供給がタイト化していないシグナルとなる。"
+  },
+  {
+    "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-16T14:41:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が減少し、燃料需要が軟化していることが報告された。EIAの定期在庫統計による発表だが、具体的な在庫減少量や需要低迷の程度が記事要約では不明確である。需要軟化は供給過剰リスクを高め、原油価格には下押し圧力。"
+  },
+  {
+    "title": "Oil prices extend losses on easing fears of Middle East supply disruption - Reuters",
+    "timestamp": "2026-09-17T01:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の供給途絶懸念が緩和されたことを背景に、原油価格が下落を続けている。地政学的リスクプレミアムの剥落により、テクニカルな売り圧力が強まっている。短期的な下値圏での値動きが続く見込み。"
   }
 ]
