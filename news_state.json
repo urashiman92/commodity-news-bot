@@ -22,17 +22,6 @@
     "summary": "9月15日の金価格が再び下落した。ベトナムの金相場に関する日次レポートの一種と考えられる。具体的な下落理由や幅の詳細は記事から不明。"
   },
   {
-    "title": "本日（9月15日）の金価格：金地金は下落、金指輪は上昇。 - Vietnam.vn",
-    "timestamp": "2026-09-14T22:45:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの9月15日の金価格は金地金が下落、金指輪が上昇。市場内での相対的な値動きの違いを報じたもの。"
-  },
-  {
     "title": "本日9月15日の金価格：SJCの金価格は1億4560万ベトナムドンまで下落、世界の金価格は急落。 - Vietnam.vn",
     "timestamp": "2026-09-14T23:14:24+00:00",
     "importance": 2,
@@ -42,28 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月15日のベトナム金価格（SJC）が1億4560万ベトナムドンまで下落。世界的な金価格の急落に連動した動き。ローカル市場の価格報告レベルのニュース。"
-  },
-  {
-    "title": "2026年9月15日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
-    "timestamp": "2026-09-14T22:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトが2026年9月15日時点の金地金、9999金リング、国際金の価格を掲載。価格表の定期更新に過ぎず、新たな市場情報は含まれていない。"
-  },
-  {
-    "title": "本日9月15日の金価格：FRBによる利上げ観測を受け、1カ月以上ぶりの安値を記録した。 - Vietnam.vn",
-    "timestamp": "2026-09-14T22:59:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRBの利上げ観測を受けて金価格が1カ月以上ぶりの安値を更新した。金利上昇は非利息生成資産である金の相対的な魅力を低下させるため、売り圧力が高まっている。"
   },
   {
     "title": "原油価格：短期見通しと長期展望 - ピクテ・ジャパン",
@@ -88,28 +55,6 @@
     "summary": "原油供給への懸念が続いており、WTI原油価格が反発している。OANDA証券によるマーケット解説記事。既に織り込まれている供給リスク要因の反映。"
   },
   {
-    "title": "WTI原油102ドル付近、サウジ主要パイプライン停止で供給リスク意識 - Bloomberg.com",
-    "timestamp": "2026-09-14T22:40:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアの主要パイプラインが停止し、供給リスクが顕在化。WTI原油は102ドル付近まで上昇。地政学的な供給ショックは市場予想を超える価格変動をもたらす可能性。"
-  },
-  {
-    "title": "ＮＹダウ終値、前週末比１５２ドル安の５万２４２１ドル…原油先物や米長期金利上昇が重荷に - 読売新聞",
-    "timestamp": "2026-09-14T20:44:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NYダウが152ドル安で終値。原油先物上昇と米長期金利の上昇が株式市場の重石となった。既報の相場材料の延長線上の動き。"
-  },
-  {
     "title": "１４日の主要国際商品市況 - 株探",
     "timestamp": "2026-09-14T23:10:00+00:00",
     "importance": 2,
@@ -119,17 +64,6 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "14日の主要国際商品市況の定期レポート。具体的な価格動向や供給・需要要因に関する情報が提供される定期的な市況報告。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガス、トウモロコシ、大豆が上昇 金、銀、銅が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-14T22:27:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で商品別の騰落が混在。エネルギーと穀物は上昇、貴金属と銅は下落。既に方向性が織り込まれた相場の振り返り解説。"
   },
   {
     "title": "金価格は約4,300ドルで推移、石油供給混乱がFRB利上げ観測を強める 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -2044,5 +1978,115 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジアラビアのパイプラインへの攻撃により、原油供給に対する懸念が台頭。4月の高値水準を上回る可能性が指摘されている。地政学的リスクが原油価格の上昇圧力となっている。"
+  },
+  {
+    "title": "CBOTの小麦先物、強気材料の欠如で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-17T21:16:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "CBOTの小麦先物が下落。強気材料の欠如が主な要因。需給バランスに特段の逼迫感がない状況を反映した相場展開。"
+  },
+  {
+    "title": "〈Market SCOPE〉米利上げでも底堅い金相場 渦巻く財政懸念が下支え - 日本経済新聞",
+    "timestamp": "2026-09-17T17:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米利上げが進む中でも金相場が底堅い理由は、財政懸念が下支えになっているため。通常は利上げ=金売却圧力だが、財政不安が相殺している状況。"
+  },
+  {
+    "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - finance.yahoo.co.jp",
+    "timestamp": "2026-09-17T18:27:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "純金上場信託（1540）の株価情報ページへのリンク。金現物の国内保管型ETFの市場データ提供。"
+  },
+  {
+    "title": "金価格が急落、米ドルが上昇。 - Vietnam.vn",
+    "timestamp": "2026-09-17T22:56:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米ドル上昇に伴い金価格が急落した。ドル高は金の相対的な購買コストを上昇させ、金需要を圧迫する基本的なメカニズムが作用。既知の為替・金利動向の延長線上の展開。"
+  },
+  {
+    "title": "金価格は本日2026年9月18日午前5時に更新されました。9999金、指輪、世界の金の価格です。 - Vietnam.vn",
+    "timestamp": "2026-09-17T22:14:20+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトによる定時の金価格更新ニュース。9999金と指輪の価格、および世界的な金価格の相場情報を提供している。"
+  },
+  {
+    "title": "本日（9月18日）の金価格：世界の金価格は上昇しています。 - Vietnam.vn",
+    "timestamp": "2026-09-17T21:52:16+00:00",
+    "importance": 1,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月18日時点で金価格が上昇していることを伝えるニュース。具体的な上昇率や市場材料の詳細は不明。単なる価格上昇の事実報道に過ぎない。"
+  },
+  {
+    "title": "NYダウ、反発し316ドル高 原油価格や金利の上昇一服が支え - 日本経済新聞",
+    "timestamp": "2026-09-17T20:38:25+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYダウが316ドル反発した。原油価格と金利の上昇が一服したことが支援材料となった。株式市場の反発を報じたもので、原油への直接的な需給ニュースではない。"
+  },
+  {
+    "title": "原油価格の下落を受け、米国債利回りが低下 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-17T21:14:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落に伴い、米国債利回りが低下している。これは金利低下環境で安全資産への逃避が進む典型的なパターン。既に市場で織り込まれた動きの解説記事。"
+  },
+  {
+    "title": "国際原油価格が100ドル台を再突破し物価に警鐘…石油類の輸入価格が急騰 - BigGo ファイナンス",
+    "timestamp": "2026-09-17T22:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油価格が100ドル台を再突破し、石油類の輸入価格が急騰している。日本の物価上昇圧力が強まり、インフレ警戒が高まっている。既に数ヶ月前からの上昇トレンドの延長線上にある動き。"
+  },
+  {
+    "title": "ＮＹ原油先物は続落し１０１ドル台 - nnn.co.jp",
+    "timestamp": "2026-09-17T20:34:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が101ドル台まで続落。具体的な要因は記事概要からは不明だが、既に進行中の下落トレンドの継続を報じたもの。"
   }
 ]
