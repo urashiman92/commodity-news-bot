@@ -1,49 +1,5 @@
 [
   {
-    "title": "A Nevada copper deposit has a 6.71-billion-pound copper estimate. Lion filed the report. - Stock Titan",
-    "timestamp": "2026-09-14T19:40:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "ネバダ州で新たに確認された銅鉱床が67.1億ポンド（約304万トン）の銅埋蔵量を保有していることがLionにより報告された。大型銅鉱床の発見は長期的な供給安定化に寄与する可能性がある。"
-  },
-  {
-    "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
-    "timestamp": "2026-09-14T20:30:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "高インフレと原油価格上昇により米国の利上げ確率が高まっている。FRBの金利引き上げは金（無利子資産）にとって逆風となり、実質金利の上昇が金価格を押し下げる圧力として作用している。ドル強化も金の投資魅力を減じている。"
-  },
-  {
-    "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
-    "timestamp": "2026-09-14T20:30:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "高インフレと原油価格上昇により米国の利上げ確率が高まっている。FRBの金利引き上げは金（無利子資産）にとって逆風となり、実質金利の上昇が金価格を押し下げる圧力として作用している。ドル強化も金の投資魅力を減じている。"
-  },
-  {
-    "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
-    "timestamp": "2026-09-14T20:30:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "高インフレと原油価格上昇により米国の利上げ確率が高まっている。FRBの金利引き上げは金（無利子資産）にとって逆風となり、実質金利の上昇が金価格を押し下げる圧力として作用している。ドル強化も金の投資魅力を減じている。"
-  },
-  {
     "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns - Reuters",
     "timestamp": "2026-09-15T00:36:00+00:00",
     "importance": 4,
@@ -880,39 +836,6 @@
     "summary": "9月のWASDE（米国農務省穀物需給報告）で複数穀物の生産量下方修正と価格上昇予測が発表された。トウモロコシ、小麦、大豆など主要穀物で減産見通しが示されており、供給逼迫とインフレ圧力の再燃が示唆される。オクラホマなど米穀倉地帯での天候不順がコスト上昇と減収をもたらしている。"
   },
   {
-    "title": "USDA lowers beef production and cattle price forecasts - abpdaily.com",
-    "timestamp": "2026-09-14T19:02:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAがWASDEレポートで牛肉生産量と畜牛価格の見通しを引き下げた。供給減少見通しは牛肉市場のタイト化を示唆するが、飼料となるトウモロコシ・大豆の需要減少圧力につながる可能性がある。畜牛関連の飼料需要減は穀物価格に下押し圧力をもたらす見込み。"
-  },
-  {
-    "title": "USDA lowers beef production and cattle price forecasts - abpdaily.com",
-    "timestamp": "2026-09-14T19:02:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAがWASDEレポートで牛肉生産量と畜牛価格の見通しを引き下げた。供給減少見通しは牛肉市場のタイト化を示唆するが、飼料となるトウモロコシ・大豆の需要減少圧力につながる可能性がある。畜牛関連の飼料需要減は穀物価格に下押し圧力をもたらす見込み。"
-  },
-  {
-    "title": "USDA lowers beef production and cattle price forecasts - abpdaily.com",
-    "timestamp": "2026-09-14T19:02:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAがWASDEレポートで牛肉生産量と畜牛価格の見通しを引き下げた。供給減少見通しは牛肉市場のタイト化を示唆するが、飼料となるトウモロコシ・大豆の需要減少圧力につながる可能性がある。畜牛関連の飼料需要減は穀物価格に下押し圧力をもたらす見込み。"
-  },
-  {
     "title": "EIA reports another drop in US crude oil stocks - engine.online",
     "timestamp": "2026-09-17T07:49:42+00:00",
     "importance": 3,
@@ -1120,5 +1043,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "FRB関連のイベント後に米国株先物が上昇し、反発の兆しを見せている。金融政策の方向性に対する市場の反応が変わりつつあり、特に金利動向がコモディティ市場全体に影響を与える可能性がある。具体的な政策変化が示唆されている。"
+  },
+  {
+    "title": "September WASDE: Corn Crop Shrinks, Soybean Demand Holds - Iowa Soybean Association",
+    "timestamp": "2026-09-17T15:46:10+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "9月のWASDE報告書によるとトウモロコシ作付面積が縮小し、生産量が下方修正された。一方、大豆については需要が堅調に推移している。同報告書は米国農務省の定期的な穀物見通し発表であり、市場参加者に重要な指標となる。"
+  },
+  {
+    "title": "September WASDE: Corn Crop Shrinks, Soybean Demand Holds - Iowa Soybean Association",
+    "timestamp": "2026-09-17T15:46:10+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "9月のWASDE報告書によるとトウモロコシ作付面積が縮小し、生産量が下方修正された。一方、大豆については需要が堅調に推移している。同報告書は米国農務省の定期的な穀物見通し発表であり、市場参加者に重要な指標となる。"
   }
 ]
