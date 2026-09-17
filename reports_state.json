@@ -1,60 +1,5 @@
 [
   {
-    "title": "USDA lowers corn production forecast, raises soybean price outlook - High Plains Journal",
-    "timestamp": "2026-09-14T16:12:09+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが最新のWASDE月間レポートでトウモロコシの生産見通しを下方修正する一方、大豆の価格見通しを上方修正した。トウモロコシは供給懸念から上昇圧力が予想されるが、大豆の価格上昇見通しは需要または供給タイトネスの深刻化を示唆している。両穀物の相対的な需給バランスの分岐が鮮明になった。"
-  },
-  {
-    "title": "USDA lowers corn production forecast, raises soybean price outlook - High Plains Journal",
-    "timestamp": "2026-09-14T16:12:09+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが最新のWASDE月間レポートでトウモロコシの生産見通しを下方修正する一方、大豆の価格見通しを上方修正した。トウモロコシは供給懸念から上昇圧力が予想されるが、大豆の価格上昇見通しは需要または供給タイトネスの深刻化を示唆している。両穀物の相対的な需給バランスの分岐が鮮明になった。"
-  },
-  {
-    "title": "Saudis Seek to Boost Hormuz Oil Exports as Key Pipeline Attacked - Bloomberg.com",
-    "timestamp": "2026-09-14T16:16:01+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがホルムズ海峡経由の石油輸出増加を模索する動きが報じられた。重要なパイプライン施設への攻撃により供給経路が脅威にさらされており、地政学的リスクが急速に高まっている。ホルムズ海峡は世界の海上石油輸送の約3分の1が通過する重要インフラであり、供給途絶リスクが価格上昇圧力となる。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-14T15:42:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間統計により、米国の原油在庫とガソリン在庫が前週比で減少したと発表された。需要の強さが在庫減少の主因と報告されている。在庫減少は供給逼迫シグナルとなり、原油価格の上昇圧力となる可能性がある。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-14T15:42:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間統計により、米国の原油在庫とガソリン在庫が前週比で減少したと発表された。需要の強さが在庫減少の主因と報告されている。在庫減少は供給逼迫シグナルとなり、原油価格の上昇圧力となる可能性がある。"
-  },
-  {
     "title": "A Nevada copper deposit has a 6.71-billion-pound copper estimate. Lion filed the report. - Stock Titan",
     "timestamp": "2026-09-14T19:40:00+00:00",
     "importance": 3,
@@ -64,17 +9,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "ネバダ州で新たに確認された銅鉱床が67.1億ポンド（約304万トン）の銅埋蔵量を保有していることがLionにより報告された。大型銅鉱床の発見は長期的な供給安定化に寄与する可能性がある。"
-  },
-  {
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1982 - Reuters",
-    "timestamp": "2026-09-14T15:53:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。この歴史的な在庫枯渇は、原油供給逼迫懸念を強く示唆し、価格上昇圧力となる。ウクライナ情勢やOPEC減産に加え、SPR放出終了による需給引き締まりは市場のサプライズ要因となる。"
   },
   {
     "title": "Gold down as high inflation and oil boost rate hike probability - Canadian Mining Report",
@@ -1054,5 +988,137 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの主要製油所を攻撃し、モスクワはキーウへの報復攻撃を実施。ロシアの石油精製能力の損失は供給サイドのショックとして機能し、世界原油市場の需給逼迫懸念を加速させる。地政学的リスク要因による供給途絶の現実化で、原油価格の上昇圧力が強化される。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
+    "timestamp": "2026-09-17T15:01:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA原油在庫統計で米国の原油在庫が週間ベースで前週比で減少したことが報告された。在庫減少は需要堅調または供給制限の兆候を示唆し、原油価格上昇要因となる可能性がある。具体的な在庫量の数値が提供されていないため、変動幅の評価は限定的である。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton Conditions - September 14, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-09-16T19:20:39+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress Report（2026年9月14日発表）は米国の主要穀物であるトウモロコシと大豆の生育状況を定期報告するもの。綿花も含まれ、秋の収穫期における作物の成熟度、健全性、期待収量に関する重要な進捗データを提供。前週の進捗状況との比較を通じて、年間生産量予測の精度を高める。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton Conditions - September 14, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-09-16T19:20:39+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress Report（2026年9月14日発表）は米国の主要穀物であるトウモロコシと大豆の生育状況を定期報告するもの。綿花も含まれ、秋の収穫期における作物の成熟度、健全性、期待収量に関する重要な進捗データを提供。前週の進捗状況との比較を通じて、年間生産量予測の精度を高める。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton Conditions - September 14, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-09-16T19:20:39+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA Crop Progress Report（2026年9月14日発表）は米国の主要穀物であるトウモロコシと大豆の生育状況を定期報告するもの。綿花も含まれ、秋の収穫期における作物の成熟度、健全性、期待収量に関する重要な進捗データを提供。前週の進捗状況との比較を通じて、年間生産量予測の精度を高める。"
+  },
+  {
+    "title": "Sept. 11 USDA Crop Report Lowers U.S. Corn Yield Estimate - Morning Ag Clips",
+    "timestamp": "2026-09-15T01:56:22+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA は 9 月 11 日の定期作物レポートでトウモロコシの単収見通しを引き下げました。米国トウモロコシの減産見通しは供給減少を意味し、国際相場の上昇圧力となります。市場予想を上回る下方修正の場合、価格上昇が加速する可能性があります。"
+  },
+  {
+    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
+    "timestamp": "2026-09-16T21:48:46+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストのBousso氏が、ホルムズ海峡の再開通がOPECの減産政策の有効性を損なう可能性を指摘。供給制約が緩和されれば市場の需給バランスが崩れ、原油価格の下押し圧力が高まるとの見方。地政学リスク低下に伴う供給復帰シナリオが市場心理に影響。"
+  },
+  {
+    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
+    "timestamp": "2026-09-17T16:59:07+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油上昇、金利上昇、利回り上昇が同時に進行するスタグフレーション懸念が市場を揺さぶっている。このシナリオでは原油など商品価格は上昇圧力を受ける一方で、金利上昇は金などの無利子資産に下落圧力をもたらす。複数コモディティへの相反する影響が特徴。"
+  },
+  {
+    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
+    "timestamp": "2026-09-17T16:59:07+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "原油上昇、金利上昇、利回り上昇が同時に進行するスタグフレーション懸念が市場を揺さぶっている。このシナリオでは原油など商品価格は上昇圧力を受ける一方で、金利上昇は金などの無利子資産に下落圧力をもたらす。複数コモディティへの相反する影響が特徴。"
+  },
+  {
+    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
+    "timestamp": "2026-09-17T16:59:07+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油上昇、金利上昇、利回り上昇が同時に進行するスタグフレーション懸念が市場を揺さぶっている。このシナリオでは原油など商品価格は上昇圧力を受ける一方で、金利上昇は金などの無利子資産に下落圧力をもたらす。複数コモディティへの相反する影響が特徴。"
+  },
+  {
+    "title": "US Stocks Primed to Rebound From Fed Day Slump as Futures Rally - Bloomberg.com",
+    "timestamp": "2026-09-17T10:57:20+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "FRB関連のイベント後に米国株先物が上昇し、反発の兆しを見せている。金融政策の方向性に対する市場の反応が変わりつつあり、特に金利動向がコモディティ市場全体に影響を与える可能性がある。具体的な政策変化が示唆されている。"
+  },
+  {
+    "title": "US Stocks Primed to Rebound From Fed Day Slump as Futures Rally - Bloomberg.com",
+    "timestamp": "2026-09-17T10:57:20+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "FRB関連のイベント後に米国株先物が上昇し、反発の兆しを見せている。金融政策の方向性に対する市場の反応が変わりつつあり、特に金利動向がコモディティ市場全体に影響を与える可能性がある。具体的な政策変化が示唆されている。"
+  },
+  {
+    "title": "US Stocks Primed to Rebound From Fed Day Slump as Futures Rally - Bloomberg.com",
+    "timestamp": "2026-09-17T10:57:20+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "FRB関連のイベント後に米国株先物が上昇し、反発の兆しを見せている。金融政策の方向性に対する市場の反応が変わりつつあり、特に金利動向がコモディティ市場全体に影響を与える可能性がある。具体的な政策変化が示唆されている。"
   }
 ]
