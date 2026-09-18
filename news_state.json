@@ -1,27 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4293ドル｜原油高によるインフレ懸念が影響している模様(2026年9月16日) - OANDA証券",
-    "timestamp": "2026-09-15T23:05:38+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4293ドルに下落。原油高によるインフレ懸念が影響している。アナリストの市場解説・観測記事。"
-  },
-  {
-    "title": "本日（9月16日）の金価格：引き続き下落 - Vietnam.vn",
-    "timestamp": "2026-09-15T22:53:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月16日の金価格が引き続き下落した。具体的なトリガーや供給・需要ファンダメンタルズについては記事内容から不明。継続的な下落トレンドの報告。"
-  },
-  {
     "title": "本日、2026年9月16日の金価格：SJC金は年初と比較して反転し下落し、大きな圧力に直面している。 - Vietnam.vn",
     "timestamp": "2026-09-15T23:33:01+00:00",
     "importance": 2,
@@ -31,94 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金が年初来の上昇から反転し、下落圧力に直面している。記事は市場の振り返りと現状分析の論評。短期的な値動きの報告に過ぎない。"
-  },
-  {
-    "title": "本日（9月16日）の金価格：5週間ぶりの安値 - Vietnam.vn",
-    "timestamp": "2026-09-15T21:52:33+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が5週間ぶりの安値を記録。市場における調整局面を反映した価格動向。具体的な新規ニュースというより相場の振り返り報道。"
-  },
-  {
-    "title": "本日（9月16日）の金価格：原油価格の上昇とFRBによる利上げ期待の高まりを受け、やや下落。 - Vietnam.vn",
-    "timestamp": "2026-09-15T22:52:55+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月16日の金価格はやや下落。原油価格上昇とFRBの利上げ期待高まりが背景。金は利上げで相対的に魅力が低下する傾向がある。"
-  },
-  {
-    "title": "原油価格“4月の高値水準超え”も サウジのパイプライン攻撃で - テレ朝NEWS",
-    "timestamp": "2026-09-15T22:58:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン攻撃により、原油供給が脅かされている。価格が4月の高値水準を超える可能性が指摘されている。地政学的リスクが原油市場に直接的な供給ショックをもたらす事象。"
-  },
-  {
-    "title": "原油価格“4月の高値水準超え”も サウジのパイプライン攻撃で - khb東日本放送",
-    "timestamp": "2026-09-15T21:25:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン攻撃により、原油供給の突発的な懸念が浮上。4月高値水準を上回る可能性が指摘されている。中東地政学リスクの急速な顕在化。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：サウジアラビアの原油積み出し停止が影響し、原油価格は2営業日続伸（2026年9月16日） - OANDA証券",
-    "timestamp": "2026-09-15T23:14:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアの原油積み出し停止により供給懸念が生じている。WTI原油は2営業日連続で上昇。供給制約が価格を下支えしている状況。"
-  },
-  {
-    "title": "原油価格“4月の高値水準超え”も サウジのパイプライン攻撃で - HOME広島ホームテレビ",
-    "timestamp": "2026-09-15T21:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプラインが攻撃を受け、原油供給への懸念が高まった。4月の高値水準を超える可能性があり、地政学的リスクが原油相場を押し上げている。"
-  },
-  {
-    "title": "著名エコノミストが銅に強気、価格下落の理由 - BeInCrypto",
-    "timestamp": "2026-09-15T21:36:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "著名エコノミストが銅相場に強気姿勢を示している。現在の価格下落の背景を分析しつつ、中期的な上昇余地を指摘。エネルギー転換・インフラ投資需要の構造的支援を強調。"
-  },
-  {
-    "title": "１５日の主要国際商品市況 - s.kabutan.jp",
-    "timestamp": "2026-09-15T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "15日の主要国際商品市況をまとめた振り返り記事。具体的な価格変動や市場ドライバーの詳細は記事本体を確認する必要がある。定期的な市況サマリーと推定される。"
   },
   {
     "title": "連邦準備制度の決定を前に金価格が下落、原油高と利回り上昇が利上げ観測を支持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -253,17 +143,6 @@
     "summary": "米国の石油在庫が予想外に増加したことで原油先物は下落。需給緩和を示唆するデータだが、サウジアラビアの供給懸念は市場に存在。供給面でのリスク要因が価格下支え要因となっている。"
   },
   {
-    "title": "（朝）米国市場は3指数揃って下落　中東情勢悪化の懸念から原油価格が高騰し売り優勢の展開 - マネクリ",
-    "timestamp": "2026-09-15T23:09:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の悪化懸念から原油価格が高騰し、米国3指数が売り優勢の展開となった。地政学的リスクによる供給ショック懸念が市場を圧迫。原油投資家にとっては価格上昇の好機だが、株式売却圧力との相互作用に注視が必要。"
-  },
-  {
     "title": "東京円、155円台前半 米原油先物価格上昇で日本経済悪化に思惑 - 産経ニュース",
     "timestamp": "2026-09-16T01:22:04+00:00",
     "importance": 3,
@@ -273,39 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米原油先物価格の上昇を受け、日本円が155円台前半の円安水準で推移している。原油高が日本経済に悪影響を与える可能性が市場で認識されている。"
-  },
-  {
-    "title": "１５日の主要国際商品市況 - 株探",
-    "timestamp": "2026-09-15T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "15日の主要国際商品市況を報じるニュース。具体的な価格変動や市場動向の詳細は記事本体を確認する必要がある。定期的な市況報道として位置付けられる。"
-  },
-  {
-    "title": "１５日の主要国際商品市況 (2026年9月16日掲載) - ライブドアニュース",
-    "timestamp": "2026-09-15T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2026年9月15日の主要国際商品市況に関するニュース。具体的な価格データや市場動向の詳細が記事概要から不明。定期的な市況報道と思われる。"
-  },
-  {
-    "title": "１５日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-09-15T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "15日の主要国際商品市況の定期報告。具体的な価格変動やニュースの詳細が記事タイトルのみで不明。市場の振り返り・解説の性質が高い。"
   },
   {
     "title": "金価格が反発、市場は原油小幅安とFOMCの利上げ観測を見極め - bloomberg.com",
@@ -2011,5 +1857,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が$6,616.2のサポート水準付近で推移している。買い手がこの重要な支持線を防御できるかが焦点。テクニカル分析に基づく相場観測。"
+  },
+  {
+    "title": "本日（9月19日）の金価格：反転して急騰。 - Vietnam.vn",
+    "timestamp": "2026-09-18T23:02:55+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月19日の金価格が反転して急騰したことを伝えるニュース。Vietnam.vnの記事で、具体的な要因や価格水準の詳細は不明。"
+  },
+  {
+    "title": "本日9月19日の金価格：SJCの金価格が急騰、世界の金価格も上昇。 - Vietnam.vn",
+    "timestamp": "2026-09-18T22:26:32+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が急騰し、世界の金価格も連動して上昇した。9月19日時点での相場動向を報じるニュース。"
+  },
+  {
+    "title": "本日9月19日の金価格：SJC金は180万ベトナムドン上昇、世界の金価格は4,400米ドルに迫る。 - Vietnam.vn",
+    "timestamp": "2026-09-18T23:02:56+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月19日の金価格は上昇し、SJC金が180万ベトナムドン上昇。世界の金価格は4,400米ドル水準に接近している。ベトナム国内市場の相場動向の報告。"
+  },
+  {
+    "title": "原油価格100ドル再突破で世界に広がる怒りと政情不安 いま注目すべき｢臨界状態｣地域の現状 - 東洋経済オンライン",
+    "timestamp": "2026-09-18T22:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドルを再突破し、世界的なインフレ懸念と政情不安を招いている。中東・アフリカなどの地政学的リスク地域の情勢が緊迫化する可能性を指摘する解説記事。"
+  },
+  {
+    "title": "本日の燃料価格（9月19日）：世界の原油価格は下落を続け、ブレント原油は1バレル103ドルとなった。 - Vietnam.vn",
+    "timestamp": "2026-09-18T22:26:31+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が1バレル103ドルまで下落。世界的な原油価格の継続的な下落トレンドを報道する市場観測記事。既に織り込まれた価格動向の確認報道。"
+  },
+  {
+    "title": "中国の旺盛な需要がLME銅を押し上げ、12週間で11回目の週間上昇 洋山プレミアムは約4年ぶり高水準 - BigGo ファイナンス",
+    "timestamp": "2026-09-18T22:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "中国の銅需要が堅調で、LME銅が12週間で11回目の週間上昇を記録した。洋山プレミアムが約4年ぶりの高水準まで上昇し、需給タイト化を反映している。"
   }
 ]
