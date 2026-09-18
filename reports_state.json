@@ -22,28 +22,6 @@
     "summary": "米国株式市場がオープニング時に下落見通しとなる中、原油価格の上昇と米国債利回りの上昇がリスク資産売却圧力を深めている。金利上昇はドル強化につながり、ドル建てコモディティ全般に下押し圧力をもたらす一方、原油の上昇はエネルギー関連の個別材料を反映している。"
   },
   {
-    "title": "Russia’s Nornickel Seeks New Partner to Process Copper in China - Bloomberg.com",
-    "timestamp": "2026-09-15T07:44:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "ロシアのノリリスク・ニッケル社が中国での銅製錬パートナーの新規開拓を検討している。米国の対ロシア制裁強化やパートナーシップの再構築の動きが背景。既存のサプライチェーン調整の一環であり、市場インパクトは限定的。"
-  },
-  {
-    "title": "Russia’s Nornickel Seeks New Partner to Process Copper in China - Bloomberg.com",
-    "timestamp": "2026-09-15T07:44:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアのノリリスク・ニッケル社が中国での銅製錬パートナーの新規開拓を検討している。米国の対ロシア制裁強化やパートナーシップの再構築の動きが背景。既存のサプライチェーン調整の一環であり、市場インパクトは限定的。"
-  },
-  {
     "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
     "timestamp": "2026-09-15T16:03:24+00:00",
     "importance": 3,
@@ -75,39 +53,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA公式レポートが穀物市場に対照的な見通しを示唆。小麦と大豆は下落圧力を受ける一方、トウモロコシとモロコシは買い支えが入る展開。作柄進捗と供給見通しに対する市場の非対称的反応が予想される。"
-  },
-  {
-    "title": "Soybeans, corn rise on gains in crude oil, watching harvest - Brownfield Ag News",
-    "timestamp": "2026-09-15T06:01:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "大豆とトウモロコシが原油価格の上昇に連動して値上がりしている。エネルギーコスト上昇が農作物生産コストを押し上げるほか、バイオ燃料需要も支援材料となっている。現在は収穫期を控えた市場心理の動きと見られている。"
-  },
-  {
-    "title": "Soybeans, corn rise on gains in crude oil, watching harvest - Brownfield Ag News",
-    "timestamp": "2026-09-15T06:01:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "大豆とトウモロコシが原油価格の上昇に連動して値上がりしている。エネルギーコスト上昇が農作物生産コストを押し上げるほか、バイオ燃料需要も支援材料となっている。現在は収穫期を控えた市場心理の動きと見られている。"
-  },
-  {
-    "title": "Soybeans, corn rise on gains in crude oil, watching harvest - Brownfield Ag News",
-    "timestamp": "2026-09-15T06:01:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "原油",
-    "summary": "大豆とトウモロコシが原油価格の上昇に連動して値上がりしている。エネルギーコスト上昇が農作物生産コストを押し上げるほか、バイオ燃料需要も支援材料となっている。現在は収穫期を控えた市場心理の動きと見られている。"
   },
   {
     "title": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives - reuters.com",
@@ -1076,5 +1021,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東地域の供給懸念が緩和され、原油が3日連続で下落。地政学的リスク低下により売り圧力が強まっている。供給不安の解消は短期的には価格押し下げ要因となっており、市場はリスク・オフの相場環境にある。"
+  },
+  {
+    "title": "Hormuz price shocks dramatically outpacing minor improvements in crop price estimates - michiganfarmnews.com",
+    "timestamp": "2026-09-16T17:27:05+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡での地政学的リスクに伴う原油価格ショックが、WASDE発表による穀物価格の小幅改善を大きく上回っている。供給サイドの地政学リスクがコモディティ市場全体を支配する構図が鮮明。穀物需要減退による価格抑制効果は限定的。"
+  },
+  {
+    "title": "Hormuz price shocks dramatically outpacing minor improvements in crop price estimates - michiganfarmnews.com",
+    "timestamp": "2026-09-16T17:27:05+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "ホルムズ海峡での地政学的リスクに伴う原油価格ショックが、WASDE発表による穀物価格の小幅改善を大きく上回っている。供給サイドの地政学リスクがコモディティ市場全体を支配する構図が鮮明。穀物需要減退による価格抑制効果は限定的。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
+    "timestamp": "2026-09-17T15:47:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が週単位で減少した。EIAの定期在庫統計は市場心理に直結するデータであり、在庫減少は需給引き締まりを示唆する。ただし具体的な在庫減少量や前週比の数値が提示されていないため、サプライズ度は判断困難。"
+  },
+  {
+    "title": "Oil prices set for weekly fall on easing fears over Saudi supply disruption - Reuters",
+    "timestamp": "2026-09-18T01:01:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの供給途絶懸念が緩和されたことを受けて、原油価格は週間ベースで下落基調にある。地政学的リスク要因の後退により、市場では一週間の値下がりが見込まれている。短期的なサプライズ要因は限定的で、既に市場に折り込まれつつある。"
+  },
+  {
+    "title": "Three pumping stations along Saudi East-West Pipeline were hit in recent attack, sources say - Reuters",
+    "timestamp": "2026-09-17T16:18:09+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの東西間パイプライン上にある3つのポンプ場が最近の攻撃で被害を受けた。同パイプラインはサウジの主要な原油輸送インフラであり、供給途絶リスクが顕在化。地政学的不安定性の高まりにより原油価格上昇圧力が生じている。"
   }
 ]
