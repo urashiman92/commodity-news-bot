@@ -1,27 +1,5 @@
 [
   {
-    "title": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives - reuters.com",
-    "timestamp": "2026-09-15T16:46:42+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがパイプライン被害によりいくつかの石油積み荷をキャンセル。同国の最大買い手が代替調達先を探索中。供給減少と地政学的緊張が重なり、原油相場には上昇圧力。OPEC主要産油国の供給中断は市場に直接的な影響をもたらす。"
-  },
-  {
-    "title": "US energy chief says Saudi Arabia oil pipeline should be back online within days - reuters.com",
-    "timestamp": "2026-09-15T16:55:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの石油パイプラインが数日以内にオンライン復帰する見通しが米国エネルギー長官から示された。先日の攻撃またはトラブルで停止していた施設の復旧が進展。供給途絶の懸念が緩和される材料。"
-  },
-  {
     "title": "Copper price recovers from near month low as LME stocks rise - Mining.com.au",
     "timestamp": "2026-09-15T19:41:15+00:00",
     "importance": 2,
@@ -33,17 +11,6 @@
     "summary": "銅価格が月初来安値から回復。LME在庫の増加を背景に、供給への懸念が緩和される一方で、在庫積み上がりは需要弱さを示唆。短期的な価格サポートは機能したが、マクロファンダメンタルズの不安定性は残存。"
   },
   {
-    "title": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions - Reuters",
-    "timestamp": "2026-09-15T18:53:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの供給支障により、一部の物理的な原油カーゴが1バレルあたり130ドルを超え、2023年4月の過去最高値に接近している。OPEC主要国の予期しない供給減少が、タイトな市場環境を更に圧迫し、スポット価格が急騰している。"
-  },
-  {
     "title": "Libya NOC chief says production not greatly affected after protests hit oil facilities - Reuters",
     "timestamp": "2026-09-15T20:14:41+00:00",
     "importance": 2,
@@ -53,17 +20,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "リビア国営石油会社（NOC）の長官が、石油施設への抗議デモに伴う供給影響は限定的との見解を示した。生産量が大きく減少していないと発表され、供給不足懸念は和らぎやすい状況。ただしリビア情勢の不安定性は継続的なリスク要因。"
-  },
-  {
-    "title": "MBS and Saudi Arabia Face Crisis With Key Oil Pipeline Shut for Weeks - Bloomberg.com",
-    "timestamp": "2026-09-15T16:28:29+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの重要石油パイプライン（おそらくEast-West Pipeline）が数週間にわたって停止、サウジとMBS体制に危機をもたらしている。同国主要な石油輸出インフラの長期停止は供給ショックとなり、原油価格上昇圧力が強まる。"
   },
   {
     "title": "API: Crude stocks lead 10 million across-the-barrel inventory build - Quantum Commodity Intelligence",
@@ -1109,5 +1065,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "紅海での攻撃によりアラムコが地中海での燃料供給を確保する動きが報じられた。フーシ派などによる船舶攻撃が継続する中、主要石油企業が供給ルートの多角化を余儀なくされており、輸送コスト上昇と供給リスク顕在化で原油価格を支援する要因となっている。"
+  },
+  {
+    "title": "OPEC may not change output in early phases of Libya recovery - Arab News",
+    "timestamp": "2026-09-17T06:55:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECはリビアの生産回復初期段階では産出量を調整しない可能性があると述べた。リビアは供給不安定性の高い国であり、回復期間中は市場安定化のため段階的な対応となる見込み。既に市場で認識されている通常の状況説明。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-09-15T22:47:05+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の伸びが想定より鈍化している背景には、電動化推進、経済成長の減速、エネルギー効率向上などが挙げられる。複数回の下方修正は需給バランスの軟化を示唆しており、原油価格に対して下押し圧力が継続する可能性が高い。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-09-15T22:47:05+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の伸びが想定より鈍化している背景には、電動化推進、経済成長の減速、エネルギー効率向上などが挙げられる。複数回の下方修正は需給バランスの軟化を示唆しており、原油価格に対して下押し圧力が継続する可能性が高い。"
+  },
+  {
+    "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - Reuters",
+    "timestamp": "2026-09-18T11:26:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア産ESPO原油の価格が1バレル当たり120ドルを超えた。複数のトレーダーと市場データが確認した。西側制裁下における供給逼迫と地政学的リスクプレミアムが価格上昇を牽引している。ウラル原油など他のロシア産油種への波及効果も注視される。"
+  },
+  {
+    "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause - Reuters",
+    "timestamp": "2026-09-18T18:30:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の長期金利（ベンチマーク米国債利回り）が5%に到達し、市場が混合反応を示している。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は調整局面に入っている。リスク資産と安全資産の綱引き状態が続いている。"
+  },
+  {
+    "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause - Reuters",
+    "timestamp": "2026-09-18T18:30:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国の長期金利（ベンチマーク米国債利回り）が5%に到達し、市場が混合反応を示している。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は調整局面に入っている。リスク資産と安全資産の綱引き状態が続いている。"
+  },
+  {
+    "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause - Reuters",
+    "timestamp": "2026-09-18T18:30:31+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国の長期金利（ベンチマーク米国債利回り）が5%に到達し、市場が混合反応を示している。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は調整局面に入っている。リスク資産と安全資産の綱引き状態が続いている。"
+  },
+  {
+    "title": "New US sanctions bill on Russia puts India's Modi in a bind - Reuters",
+    "timestamp": "2026-09-18T14:50:57+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がロシア制裁強化法案を提出し、インドのモディ首相が外交的ジレンマに直面。インドはロシアから原油・天然ガス・肥料などを大量輸入しており、制裁強化による供給途絶リスクが高まる。インド経由での迂回取引制限も懸念され、エネルギー価格と穀物価格に不確実性が増す。"
+  },
+  {
+    "title": "New US sanctions bill on Russia puts India's Modi in a bind - Reuters",
+    "timestamp": "2026-09-18T14:50:57+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国がロシア制裁強化法案を提出し、インドのモディ首相が外交的ジレンマに直面。インドはロシアから原油・天然ガス・肥料などを大量輸入しており、制裁強化による供給途絶リスクが高まる。インド経由での迂回取引制限も懸念され、エネルギー価格と穀物価格に不確実性が増す。"
   }
 ]
