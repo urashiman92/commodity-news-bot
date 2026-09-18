@@ -110,28 +110,6 @@
     "summary": "ロシアのノリリスク・ニッケル社が中国での銅製錬パートナーの新規開拓を検討している。米国の対ロシア制裁強化やパートナーシップの再構築の動きが背景。既存のサプライチェーン調整の一環であり、市場インパクトは限定的。"
   },
   {
-    "title": "Stocks Fall as Oil Rally Deepens Bond Selloff: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-14T22:19:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油相場の上昇が続く中、米国債利回りが売却圧力を受けており、これが株式市場の下落を招いている。原油高は金利上昇を連想させ、金を含むコモディティ全般にも複雑な影響を与える局面。金融資産と商品資産の同時調整が進行中。"
-  },
-  {
-    "title": "Stocks Fall as Oil Rally Deepens Bond Selloff: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-14T22:19:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油相場の上昇が続く中、米国債利回りが売却圧力を受けており、これが株式市場の下落を招いている。原油高は金利上昇を連想させ、金を含むコモディティ全般にも複雑な影響を与える局面。金融資産と商品資産の同時調整が進行中。"
-  },
-  {
     "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
     "timestamp": "2026-09-15T16:03:24+00:00",
     "importance": 3,
@@ -196,50 +174,6 @@
     "source": "Crop Progress/Production",
     "commodity": "原油",
     "summary": "大豆とトウモロコシが原油価格の上昇に連動して値上がりしている。エネルギーコスト上昇が農作物生産コストを押し上げるほか、バイオ燃料需要も支援材料となっている。現在は収穫期を控えた市場心理の動きと見られている。"
-  },
-  {
-    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
-    "timestamp": "2026-09-14T22:30:33+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
-  },
-  {
-    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
-    "timestamp": "2026-09-14T22:30:33+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
-  },
-  {
-    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
-    "timestamp": "2026-09-14T22:30:33+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
-  },
-  {
-    "title": "Commodities Overview: Oil prices rise as Saudi pipeline shutdown sparks concerns; rate hike bets intensify; copper and gold decline - 富途牛牛",
-    "timestamp": "2026-09-14T22:30:33+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアのパイプライン停止が供給懸念を引き起こし、原油価格が上昇した。一方、金利引き上げ期待の高まりにより、金と銅は下落圧力を受けている。金利上昇は無利子資産である金を特に押し下げている。"
   },
   {
     "title": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives - reuters.com",
@@ -1065,5 +999,104 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "9月のWASDE報告書によるとトウモロコシ作付面積が縮小し、生産量が下方修正された。一方、大豆については需要が堅調に推移している。同報告書は米国農務省の定期的な穀物見通し発表であり、市場参加者に重要な指標となる。"
+  },
+  {
+    "title": "Russia's Yaroslavl refinery shuts processing after a drone attack, sources say - Reuters",
+    "timestamp": "2026-09-17T16:43:59+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア・ヤロスラブリ製油所がドローン攻撃により操業停止。ロシアの主要製油施設の被害は供給不安を引き起こし、原油価格の上昇圧力となる。ウクライナ紛争長期化に伴う地政学的リスクの顕在化として、市場の警戒が高まる。"
+  },
+  {
+    "title": "Dollar pauses after Fed rally as yields, oil retreat - Reuters",
+    "timestamp": "2026-09-17T02:08:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ドルがFRB関連の上昇相場後に一服し、利回りと原油価格が後退している。ドル強化局面から調整局面への転換を示唆しており、金は上昇圧力を受ける可能性がある一方で、原油は需要懸念による下押し圧力に直面している。"
+  },
+  {
+    "title": "Dollar pauses after Fed rally as yields, oil retreat - Reuters",
+    "timestamp": "2026-09-17T02:08:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "ドルがFRB関連の上昇相場後に一服し、利回りと原油価格が後退している。ドル強化局面から調整局面への転換を示唆しており、金は上昇圧力を受ける可能性がある一方で、原油は需要懸念による下押し圧力に直面している。"
+  },
+  {
+    "title": "Dollar pauses after Fed rally as yields, oil retreat - Reuters",
+    "timestamp": "2026-09-17T02:08:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ドルがFRB関連の上昇相場後に一服し、利回りと原油価格が後退している。ドル強化局面から調整局面への転換を示唆しており、金は上昇圧力を受ける可能性がある一方で、原油は需要懸念による下押し圧力に直面している。"
+  },
+  {
+    "title": "Europe's low gas stocks pile on the economic and political pressure - Reuters",
+    "timestamp": "2026-09-17T10:36:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ヨーロッパの天然ガス在庫が歴史的低水準に落ち込んでおり、経済・政治に多大な圧力をかけている。供給不安が深刻化し、エネルギー価格上昇とインフレ圧力が継続。冬場のエネルギー危機リスクが市場心理を圧迫している状況。"
+  },
+  {
+    "title": "Europe's low gas stocks pile on the economic and political pressure - Reuters",
+    "timestamp": "2026-09-17T10:36:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ヨーロッパの天然ガス在庫が歴史的低水準に落ち込んでおり、経済・政治に多大な圧力をかけている。供給不安が深刻化し、エネルギー価格上昇とインフレ圧力が継続。冬場のエネルギー危機リスクが市場心理を圧迫している状況。"
+  },
+  {
+    "title": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-16T22:06:59+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "FRB金融政策発表日の変動後、株式と債券が上昇する一方、原油は下落した。金利動向がコモディティ市場全体に影響を与えており、特に無利子資産である金は金利上昇圧力下での調整が続いている。原油の下落はドル高圧力や景気見通しの不透明性を反映している可能性がある。"
+  },
+  {
+    "title": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-16T22:06:59+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "FRB金融政策発表日の変動後、株式と債券が上昇する一方、原油は下落した。金利動向がコモディティ市場全体に影響を与えており、特に無利子資産である金は金利上昇圧力下での調整が続いている。原油の下落はドル高圧力や景気見通しの不透明性を反映している可能性がある。"
+  },
+  {
+    "title": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-16T22:06:59+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "FRB金融政策発表日の変動後、株式と債券が上昇する一方、原油は下落した。金利動向がコモディティ市場全体に影響を与えており、特に無利子資産である金は金利上昇圧力下での調整が続いている。原油の下落はドル高圧力や景気見通しの不透明性を反映している可能性がある。"
   }
 ]
