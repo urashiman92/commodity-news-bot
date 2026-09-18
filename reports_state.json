@@ -1,27 +1,5 @@
 [
   {
-    "title": "Copper price recovers from near month low as LME stocks rise - Mining.com.au",
-    "timestamp": "2026-09-15T19:41:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が月初来安値から回復。LME在庫の増加を背景に、供給への懸念が緩和される一方で、在庫積み上がりは需要弱さを示唆。短期的な価格サポートは機能したが、マクロファンダメンタルズの不安定性は残存。"
-  },
-  {
-    "title": "Libya NOC chief says production not greatly affected after protests hit oil facilities - Reuters",
-    "timestamp": "2026-09-15T20:14:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "リビア国営石油会社（NOC）の長官が、石油施設への抗議デモに伴う供給影響は限定的との見解を示した。生産量が大きく減少していないと発表され、供給不足懸念は和らぎやすい状況。ただしリビア情勢の不安定性は継続的なリスク要因。"
-  },
-  {
     "title": "API: Crude stocks lead 10 million across-the-barrel inventory build - Quantum Commodity Intelligence",
     "timestamp": "2026-09-16T08:10:44+00:00",
     "importance": 3,
@@ -31,17 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "API週間在庫統計で原油在庫が1000万バレルの大幅積み増しを記録した。これはガソリン、ディスティレート、その他石油製品を含めた全体的な在庫増加を示唆している。需要の弱さまたは供給の過剰を反映している可能性があり、原油価格に下押し圧力となる。"
-  },
-  {
-    "title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-15T21:01:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計で米国全体の原油在庫が増加した一方、クッシング地点の在庫は減少という相反する動きが観察された。需給の地域的なミスマッチが生じており、パイプライン輸送の制約や精油所需要の強弱が複雑に作用している状況。"
   },
   {
     "title": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut - Bloomberg.com",
@@ -526,17 +493,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が原油産出量の引き上げを発表する見通しだが、実現可能性と需要家の購買力に疑問が呈示されている。タイトルの「Can it Deliver and Who Will Buy?」という問い掛けは、増産宣言と実際の供給能力、および世界需要の弱さという二重の課題を指摘している。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-15T22:06:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後、原油生産が過去最高水準に近づいている。OPEC離脱に伴う減産義務の解放により、UAEが増産に転じたことで、OPEC全体の協調減産体制が実質的に弱体化。供給増加圧力が市場に下向きの材料として作用する可能性が高い。"
   },
   {
     "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
@@ -1164,5 +1120,93 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国がロシア制裁強化法案を提出し、インドのモディ首相が外交的ジレンマに直面。インドはロシアから原油・天然ガス・肥料などを大量輸入しており、制裁強化による供給途絶リスクが高まる。インド経由での迂回取引制限も懸念され、エネルギー価格と穀物価格に不確実性が増す。"
+  },
+  {
+    "title": "Hop Stocks",
+    "timestamp": "2026-09-18T22:36:10.919358+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが9月1日時点のホップ在庫を発表。前年同月比で9%減少となった。ホップはビール醸造の重要な原料であり、在庫減少は供給面での引き締まりを示唆。ただし農産物市場全体への波及効果は限定的。"
+  },
+  {
+    "title": "U.S. Supply and Demand Estimates for Corn - Southeast AgNET",
+    "timestamp": "2026-09-17T04:15:33+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE発表に基づくトウモロコシの需給見積もり更新。米国のトウモロコシ供給量・需要量・期末在庫の最新予測が示される。作付面積や単収見通し、輸出需要の動向が市場注視ポイント。"
+  },
+  {
+    "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+    "timestamp": "2026-09-18T21:31:28+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ政権がロシア制裁関連法案を通じて関税権限を大幅に拡大する。新たな関税政策はドル高要因となり、金・原油など非ドル資産に下落圧力を与える一方、地政学的緊張の高まりは有事需要（金・原油）を支援。米国の保護主義政策強化により商品相場は高ボラティリティが予想される。"
+  },
+  {
+    "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+    "timestamp": "2026-09-18T21:31:28+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ政権がロシア制裁関連法案を通じて関税権限を大幅に拡大する。新たな関税政策はドル高要因となり、金・原油など非ドル資産に下落圧力を与える一方、地政学的緊張の高まりは有事需要（金・原油）を支援。米国の保護主義政策強化により商品相場は高ボラティリティが予想される。"
+  },
+  {
+    "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+    "timestamp": "2026-09-18T21:31:28+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "トランプ政権がロシア制裁関連法案を通じて関税権限を大幅に拡大する。新たな関税政策はドル高要因となり、金・原油など非ドル資産に下落圧力を与える一方、地政学的緊張の高まりは有事需要（金・原油）を支援。米国の保護主義政策強化により商品相場は高ボラティリティが予想される。"
+  },
+  {
+    "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+    "timestamp": "2026-09-18T21:31:28+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "銅",
+    "summary": "トランプ政権がロシア制裁関連法案を通じて関税権限を大幅に拡大する。新たな関税政策はドル高要因となり、金・原油など非ドル資産に下落圧力を与える一方、地政学的緊張の高まりは有事需要（金・原油）を支援。米国の保護主義政策強化により商品相場は高ボラティリティが予想される。"
+  },
+  {
+    "title": "Europe Oil Supply Pressure Mounts After Attack Cuts Saudi Sales - bloomberg.com",
+    "timestamp": "2026-09-18T18:50:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアへの攻撃により石油販売が削減され、欧州の石油供給に圧力がかかっている。中東の地政学的緊張がサプライチェーンに直接的な影響を与え、供給ショックが顕在化する状況。攻撃による減産規模や復旧時間によっては、エネルギー市場全体に波及する可能性が高い。"
+  },
+  {
+    "title": "Why One Saudi Pipeline Is Crucial to the Global Oil Market - bloomberg.com",
+    "timestamp": "2026-09-18T11:07:36+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの重要パイプライン（推定Yanbu系統）のグローバル石油市場への重要性に関する解説記事。供給チェーン分析と地政学的リスク要因を検討。具体的な供給量・価格インパクト数値が記事詳細に依存。"
   }
 ]
