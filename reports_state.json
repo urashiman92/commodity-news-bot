@@ -1,60 +1,5 @@
 [
   {
-    "title": "Wall St set to open lower as rising oil and yields deepen market gloom - Reuters",
-    "timestamp": "2026-09-15T12:49:05+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株式市場がオープニング時に下落見通しとなる中、原油価格の上昇と米国債利回りの上昇がリスク資産売却圧力を深めている。金利上昇はドル強化につながり、ドル建てコモディティ全般に下押し圧力をもたらす一方、原油の上昇はエネルギー関連の個別材料を反映している。"
-  },
-  {
-    "title": "Wall St set to open lower as rising oil and yields deepen market gloom - Reuters",
-    "timestamp": "2026-09-15T12:49:05+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株式市場がオープニング時に下落見通しとなる中、原油価格の上昇と米国債利回りの上昇がリスク資産売却圧力を深めている。金利上昇はドル強化につながり、ドル建てコモディティ全般に下押し圧力をもたらす一方、原油の上昇はエネルギー関連の個別材料を反映している。"
-  },
-  {
-    "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
-    "timestamp": "2026-09-15T16:03:24+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA公式レポートが穀物市場に対照的な見通しを示唆。小麦と大豆は下落圧力を受ける一方、トウモロコシとモロコシは買い支えが入る展開。作柄進捗と供給見通しに対する市場の非対称的反応が予想される。"
-  },
-  {
-    "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
-    "timestamp": "2026-09-15T16:03:24+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA公式レポートが穀物市場に対照的な見通しを示唆。小麦と大豆は下落圧力を受ける一方、トウモロコシとモロコシは買い支えが入る展開。作柄進捗と供給見通しに対する市場の非対称的反応が予想される。"
-  },
-  {
-    "title": "USDA Reports Pressure Wheat and Oilseeds While Corn and Milo Find Support - Oklahoma Farm Report",
-    "timestamp": "2026-09-15T16:03:24+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA公式レポートが穀物市場に対照的な見通しを示唆。小麦と大豆は下落圧力を受ける一方、トウモロコシとモロコシは買い支えが入る展開。作柄進捗と供給見通しに対する市場の非対称的反応が予想される。"
-  },
-  {
     "title": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives - reuters.com",
     "timestamp": "2026-09-15T16:46:42+00:00",
     "importance": 4,
@@ -75,17 +20,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの石油パイプラインが数日以内にオンライン復帰する見通しが米国エネルギー長官から示された。先日の攻撃またはトラブルで停止していた施設の復旧が進展。供給途絶の懸念が緩和される材料。"
-  },
-  {
-    "title": "Russia Boosts Oil Flows as Middle East War Sends Prices Soaring - Bloomberg.com",
-    "timestamp": "2026-09-15T13:33:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東での紛争激化に伴い、原油価格が上昇局面を迎えている。ロシアが原油供給を増加させる動きを見せており、地政学的リスクプレミアムが上積みされている。OPEC+ の供給戦略とロシアの増産判断が市場で衝突する構図が形成されつつある。"
   },
   {
     "title": "Copper price recovers from near month low as LME stocks rise - Mining.com.au",
@@ -1076,5 +1010,104 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの東西間パイプライン上にある3つのポンプ場が最近の攻撃で被害を受けた。同パイプラインはサウジの主要な原油輸送インフラであり、供給途絶リスクが顕在化。地政学的不安定性の高まりにより原油価格上昇圧力が生じている。"
+  },
+  {
+    "title": "US EIA Cushing Crude Oil Stocks Change (Sep/11) -0.342M (prev. -0.684M) - Newsquawk",
+    "timestamp": "2026-09-16T14:53:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "9月11日のEIA週間在庫統計で、クッシング原油在庫が34.2万バレル減少した。前週の68.4万バレル減と比較すると、在庫取り崩しペースが鈍化。クッシングは米国最大の戦略的パイプラインハブであり、流動性と供給バランスの指標となる重要な地点。"
+  },
+  {
+    "title": "How the U.S. Broke Its Dependence on OPEC Oil - Yahoo Finance",
+    "timestamp": "2026-09-17T17:02:34+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国がシェールオイル革命を経て、OPECへの石油依存から脱却したことを指摘するレポート。米国の石油生産能力の大幅な向上により、地政学的リスクやOPECの価格設定力が相対的に低下。これは長期的な石油需給構造の転換を示唆している。"
+  },
+  {
+    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - EnergyNow.com",
+    "timestamp": "2026-09-17T22:35:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC内での石油生産枠の拡大を求めている。同国は財政難と新規油田開発投資の必要性から、現在の割当枠では不十分であると主張。この要求が認められた場合、OPECの総生産枠拡大圧力となり、原油価格の下押し要因となる可能性がある。"
+  },
+  {
+    "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - reuters.com",
+    "timestamp": "2026-09-18T11:26:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア産ESPO原油の価格が1バレル120ドルを超えたとトレーダーが報告。これは西側制裁の強化とロシア産原油の供給逼迫を示唆する重要なシグナル。地政学的リスクプレミアムが大幅に上昇し、原油市場全体への上昇圧力が強まっている状況を反映している。"
+  },
+  {
+    "title": "Aramco halts October crude deliveries to some European refiners after pipeline attack, Bloomberg reports - reuters.com",
+    "timestamp": "2026-09-18T15:25:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラムコがパイプライン攻撃を受けてヨーロッパの一部製油所への10月原油納入を中断。供給途絶による逼迫懸念から原油価格に上昇圧力。OPECの主要供給者からの減少は市場のセンチメントを大きく変える可能性がある。"
+  },
+  {
+    "title": "Saudis Tell European Refiners They’ll Get No Crude Next Month - Bloomberg.com",
+    "timestamp": "2026-09-18T13:42:04+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが欧州石油精製業者に対し、翌月の原油供給を停止すると通告した。これは明示的な供給削減措置であり、OPEC+の減産政策の厳格な実行を示唆している。欧州のエネルギー調達に大きな不確実性が生じ、原油価格上昇圧力が高まる可能性が高い。"
+  },
+  {
+    "title": "Why One Saudi Pipeline Is Crucial to the Global Oil Market - Bloomberg.com",
+    "timestamp": "2026-09-18T11:07:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの重要なパイプライン施設が世界石油市場に与える影響についての解説記事。この施設は中東から世界市場への供給の重要な経路であり、地政学的リスクや供給安定性への懸念が市場を左右する要因として指摘されている。パイプライン機能の維持はOPEC供給戦略の実行可能性に直結。"
+  },
+  {
+    "title": "Oil Drops for Third Day as Supply Concerns Ease in Middle East - Bloomberg.com",
+    "timestamp": "2026-09-17T22:05:55+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東での供給懸念が緩和されたことを受け、原油価格が3日連続で下落した。中東地域の地政学的リスク低下により、供給途絶への懸念が後退。短期的な下押し圧力が働いているが、市場予想の大幅な乖離はない。"
+  },
+  {
+    "title": "Aramco Hunts for Fuel Supply in the Mediterranean After Attacks - Bloomberg.com",
+    "timestamp": "2026-09-17T13:16:34+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海での攻撃によりアラムコが地中海での燃料供給を確保する動きが報じられた。フーシ派などによる船舶攻撃が継続する中、主要石油企業が供給ルートの多角化を余儀なくされており、輸送コスト上昇と供給リスク顕在化で原油価格を支援する要因となっている。"
   }
 ]
