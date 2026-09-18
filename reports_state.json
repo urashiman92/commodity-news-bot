@@ -1,71 +1,5 @@
 [
   {
-    "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns - Reuters",
-    "timestamp": "2026-09-15T00:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン施設の障害と新たな攻撃により、原油供給への懸念が急速に高まった。これらの供給ショックは予期されない突発的事象であり、市場が既に織り込んでいない要因として原油価格の上昇圧力となっている。中東地政学リスクの再燃は短期的な価格変動を招く可能性が高い。"
-  },
-  {
-    "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
-    "timestamp": "2026-09-15T02:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド株式市場が上昇油価と債券利回りの上昇圧力により調整局面を迎えている。原油価格の高止まりがインフレ圧力となり、金利上昇が加速することで、非利息生産資産である金を含むコモディティ全般に下押し圧力がかかっている。新興国のインド市場への資金流出傾向が強まる可能性がある。"
-  },
-  {
-    "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
-    "timestamp": "2026-09-15T02:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "インド株式市場が上昇油価と債券利回りの上昇圧力により調整局面を迎えている。原油価格の高止まりがインフレ圧力となり、金利上昇が加速することで、非利息生産資産である金を含むコモディティ全般に下押し圧力がかかっている。新興国のインド市場への資金流出傾向が強まる可能性がある。"
-  },
-  {
-    "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
-    "timestamp": "2026-09-15T02:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場が上昇油価と債券利回りの上昇圧力により調整局面を迎えている。原油価格の高止まりがインフレ圧力となり、金利上昇が加速することで、非利息生産資産である金を含むコモディティ全般に下押し圧力がかかっている。新興国のインド市場への資金流出傾向が強まる可能性がある。"
-  },
-  {
-    "title": "Copper Holds Near $14,000 as New Deliveries Signal Supply Relief - Bloomberg.com",
-    "timestamp": "2026-09-15T02:03:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "銅相場が1ドル当たり14,000ドル付近で推移している。新規納品の増加がサプライ緩和を示唆している。供給面での懸念が軽減される兆候が見られ、価格の上昇圧力が限定的と考えられる。"
-  },
-  {
-    "title": "Oil Edges Higher With Saudi Flows in Focus After Pipeline Shut - Bloomberg.com",
-    "timestamp": "2026-09-15T05:58:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン停止に伴い、原油供給への懸念から原油価格が上昇。中東のエネルギーインフラ問題が市場フォーカスとなっており、サウジの原油フローが注視されている。供給減少の可能性が価格を下支え。"
-  },
-  {
     "title": "Wall St set to open lower as rising oil and yields deepen market gloom - Reuters",
     "timestamp": "2026-09-15T12:49:05+00:00",
     "importance": 3,
@@ -251,39 +185,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの重要石油パイプライン（おそらくEast-West Pipeline）が数週間にわたって停止、サウジとMBS体制に危機をもたらしている。同国主要な石油輸出インフラの長期停止は供給ショックとなり、原油価格上昇圧力が強まる。"
-  },
-  {
-    "title": "Government bond yields rise, oil gains again as stocks dip - Reuters",
-    "timestamp": "2026-09-15T01:44:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "政府債利回りの上昇により金利環境が引き締まる中、原油は堅調に推移し再び上昇。一方、株価下落がリスク資産圧力となっている。金は利回り上昇による下落圧力と、株価下落によるリスク回避買いの綱引き状態。マクロ環境の不確実性が続く。"
-  },
-  {
-    "title": "Government bond yields rise, oil gains again as stocks dip - Reuters",
-    "timestamp": "2026-09-15T01:44:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "政府債利回りの上昇により金利環境が引き締まる中、原油は堅調に推移し再び上昇。一方、株価下落がリスク資産圧力となっている。金は利回り上昇による下落圧力と、株価下落によるリスク回避買いの綱引き状態。マクロ環境の不確実性が続く。"
-  },
-  {
-    "title": "Government bond yields rise, oil gains again as stocks dip - Reuters",
-    "timestamp": "2026-09-15T01:44:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "政府債利回りの上昇により金利環境が引き締まる中、原油は堅調に推移し再び上昇。一方、株価下落がリスク資産圧力となっている。金は利回り上昇による下落圧力と、株価下落によるリスク回避買いの綱引き状態。マクロ環境の不確実性が続く。"
   },
   {
     "title": "API: Crude stocks lead 10 million across-the-barrel inventory build - Quantum Commodity Intelligence",
@@ -891,17 +792,6 @@
     "summary": "USDA Crop Progress Report（2026年9月14日発表）は米国の主要穀物であるトウモロコシと大豆の生育状況を定期報告するもの。綿花も含まれ、秋の収穫期における作物の成熟度、健全性、期待収量に関する重要な進捗データを提供。前週の進捗状況との比較を通じて、年間生産量予測の精度を高める。"
   },
   {
-    "title": "Sept. 11 USDA Crop Report Lowers U.S. Corn Yield Estimate - Morning Ag Clips",
-    "timestamp": "2026-09-15T01:56:22+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA は 9 月 11 日の定期作物レポートでトウモロコシの単収見通しを引き下げました。米国トウモロコシの減産見通しは供給減少を意味し、国際相場の上昇圧力となります。市場予想を上回る下方修正の場合、価格上昇が加速する可能性があります。"
-  },
-  {
     "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
     "timestamp": "2026-09-16T21:48:46+00:00",
     "importance": 4,
@@ -1098,5 +988,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "FRB金融政策発表日の変動後、株式と債券が上昇する一方、原油は下落した。金利動向がコモディティ市場全体に影響を与えており、特に無利子資産である金は金利上昇圧力下での調整が続いている。原油の下落はドル高圧力や景気見通しの不透明性を反映している可能性がある。"
+  },
+  {
+    "title": "Global cotton production forecast lowered for 2026-27: WASDE - Fibre2Fashion",
+    "timestamp": "2026-09-17T09:04:20+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDE（米国農務省穀物・綿花見通し）が2026-27年度の世界綿花生産見通しを引き下げた。供給減少シグナルは綿花価格の上昇圧力となる一方、世界的な需要鈍化懸念がある市況では、下落基調が継続する可能性が高い。具体的な生産量削減幅については原文未確認だが、天候不順や耕作面積減少が背景か。"
+  },
+  {
+    "title": "OPEC Won’t Raise Quotas - Arab News",
+    "timestamp": "2026-09-17T13:40:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが生産枠を引き上げない方針を発表した。市場では増産による供給緩和期待があったが、これを拒否した決定は供給逼迫が続くことを示唆する。原油価格の上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "Oil prices fall for third day on hopes of limited Saudi supply disruptions - reuters.com",
+    "timestamp": "2026-09-18T01:01:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの供給途絶が限定的との見通しから、3日続落で原油価格が軟化。地政学的リスク警戒は残るものの、市場は大幅な供給ショックを織り込みにくくなった。短期的には弱気圧力が優勢となっている。"
+  },
+  {
+    "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - reuters.com",
+    "timestamp": "2026-09-18T01:32:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "日銀が予想通り利上げを実施し、円が下落した。原油は下げたが、これは金融引き締めによるリスク資産圧力と円安による需要減少要因が相殺した結果と考えられる。株価の上昇は円安効果で説明がつく。金は利上げによる無利子資産圧力で弱気材料。"
+  },
+  {
+    "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - reuters.com",
+    "timestamp": "2026-09-18T01:32:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "日銀が予想通り利上げを実施し、円が下落した。原油は下げたが、これは金融引き締めによるリスク資産圧力と円安による需要減少要因が相殺した結果と考えられる。株価の上昇は円安効果で説明がつく。金は利上げによる無利子資産圧力で弱気材料。"
+  },
+  {
+    "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - reuters.com",
+    "timestamp": "2026-09-18T01:32:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "日銀が予想通り利上げを実施し、円が下落した。原油は下げたが、これは金融引き締めによるリスク資産圧力と円安による需要減少要因が相殺した結果と考えられる。株価の上昇は円安効果で説明がつく。金は利上げによる無利子資産圧力で弱気材料。"
+  },
+  {
+    "title": "Russia's Syzran and Saratov oil refineries on hold after drone attacks, sources say - reuters.com",
+    "timestamp": "2026-09-16T12:20:09+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのシズラン精油所とサラトフ精油所がドローン攻撃により稼働停止状態に陥った。両精油所の合計処理能力は日量約70万バレルで、ロシア国内精油能力の約10%を占める。ウクライナ情勢の深刻化に伴う供給ショックとして、グローバル原油市場に上昇圧力をもたらす。"
+  },
+  {
+    "title": "Oil Drops for Third Day as Supply Concerns Ease in Middle East - bloomberg.com",
+    "timestamp": "2026-09-17T22:05:55+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東地域の供給懸念が緩和され、原油が3日連続で下落。地政学的リスク低下により売り圧力が強まっている。供給不安の解消は短期的には価格押し下げ要因となっており、市場はリスク・オフの相場環境にある。"
   }
 ]
