@@ -1,49 +1,5 @@
 [
   {
-    "title": "原油価格“4月の高値水準超え”も　サウジのパイプライン攻撃で　英識者指摘 - ｄメニューニュース",
-    "timestamp": "2026-09-15T18:15:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン攻撃により、原油供給リスクが顕在化。市場では4月の高値水準を超える可能性が指摘されている。地政学的な供給ショックが価格押し上げ要因として機能。"
-  },
-  {
-    "title": "ポートランド穀物入札は横ばい、小麦価格は上昇 - 2026年9月15日 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-09-15T17:30:35+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ポートランド穀物取引所の入札が横ばいで推移する中、小麦価格は上昇トレンドを示している。供給と需要のバランスに変化の兆候がある可能性。"
-  },
-  {
-    "title": "イランが米との和平会談を検討、金相場がドル高で下落 | ウクライナニュース - #Mezha - mezha.net",
-    "timestamp": "2026-09-15T17:52:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "イランが米国との和平会談を検討するニュースが報じられた。地政学リスク低下の思惑からドル高が進行し、金相場は連動して下落した。"
-  },
-  {
-    "title": "原油価格“4月の高値水準超え”も サウジのパイプライン攻撃で 英識者指摘 - テレ朝NEWS",
-    "timestamp": "2026-09-15T18:07:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアのパイプライン攻撃がもたらす供給リスク懸念から、原油価格が4月高値を上抜ける可能性が指摘されている。地政学的な供給ショックが現実化しており、市場心理は上値を試す局面にある。"
-  },
-  {
     "title": "サウジのヤンブー港で原油積み出し停止、原油先物約3ドル上昇 - Reuters",
     "timestamp": "2026-09-15T19:27:44+00:00",
     "importance": 4,
@@ -295,17 +251,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月16日の金相場が全般的に下落した。具体的な下落理由や幅は記事から不明。定期的な相場動向の報道。"
-  },
-  {
-    "title": "タイの金価格、9月15日は20回変動の末に50バーツ高で引け - BigGo ファイナンス",
-    "timestamp": "2026-09-15T18:30:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "タイの金価格が9月15日に50バーツ高で引けた。20回の変動を経た末の小幅な上昇で、日中の値動きは限定的。地域市場の定常的な価格推移。"
   },
   {
     "title": "世界の金価格は、1オンスあたり4,300ドルを下回る水準で推移し続けている。 - Vietnam.vn",
@@ -2022,5 +1967,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が102.19ドルで反発。前日までの下落から値を戻す動き。具体的なファンダメンタルズ要因が不明なため詳細分析は困難。"
+  },
+  {
+    "title": "世界黄金協会：金価格の上昇と市場心理の改善により、金先物取引がより活発化 - Moomoo",
+    "timestamp": "2026-09-18T09:27:52+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界黄金協会が金価格上昇と市場心理改善により金先物取引の活発化を報告。既に進行中の価格上昇トレンドの確認的な解説。"
+  },
+  {
+    "title": "9月18日の金価格：世界の金価格は2％以上回復し、1オンスあたり4,360ドルを突破した。国内の金価格は1テールあたり120万ベトナムドン上昇した。 - Vietnam.vn",
+    "timestamp": "2026-09-18T14:59:20+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月18日の金価格は2%以上上昇し、1オンスあたり4,360ドルを突破した。ベトナム国内市場でも1テールあたり120万ベトナムドン上昇している。金相場の日々の値動きを報じた相場振り返りニュース。"
+  },
+  {
+    "title": "国際金価格が「ジェットコースターに乗る」 - Sunsirs",
+    "timestamp": "2026-09-18T01:24:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "国際金価格が変動性の高い相場展開（「ジェットコースター」）になっているとの市場解説。具体的な方向性や新しい材料は示されていない。"
+  },
+  {
+    "title": "$WTI 原油先物(2611) (CLmain.US)$ 初日の業務負荷は苦手です。今日は様子見に徹します。 - Moomoo",
+    "timestamp": "2026-09-18T14:58:30+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トレーダーの個人的な相場観で、初日の業務負荷を理由に様子見姿勢を表明したもの。市場データや材料提供ではなく、個人の取引判断の共有。"
+  },
+  {
+    "title": "銅価格予測：HGは横ばい、$6,511.2のサポートに注目 - Traders Union",
+    "timestamp": "2026-09-18T14:10:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅先物（HG）は現在、横ばい相場で推移中。\n$6,511.2を重要なサポートレベルとして市場が注視している。\nアナリストによる技術的価格予測の提示。"
   }
 ]
