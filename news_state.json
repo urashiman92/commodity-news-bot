@@ -1,16 +1,5 @@
 [
   {
-    "title": "USDA AMS油糧種子報告 2026年9月16日：トウモロコシ、大豆、小麦先物はまちまちで清算 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-09-16T20:10:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "USDA AMS油糧種子報告の2026年9月16日時点でトウモロコシ、大豆、小麦先物がまちまちで終了。個別銘柄の方向性は不明確で市場の迷い売買を示唆している。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4263ドル｜FOMCで利上げが決定した影響の模様(2026年9月17日) - OANDA証券",
     "timestamp": "2026-09-16T23:05:34+00:00",
     "importance": 4,
@@ -31,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムにおいて国内金価格は急騰する一方、世界的には金価格が下落している。国内市場と国際市場で逆行現象が生じている。"
-  },
-  {
-    "title": "本日（9月17日）の金価格：トレンドが反転し、急騰。 - Vietnam.vn",
-    "timestamp": "2026-09-16T21:48:25+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月17日の金価格がトレンド反転により急騰したと報じられている。具体的な上昇率や背景要因の詳細は提供されていない。ベトナムのニュースソースによる相場解説記事。"
   },
   {
     "title": "WTI原油見通し(市況ニュース)：原油供給への懸念後退が影響し、原油価格は3営業日ぶりに下落（2026年9月17日） - OANDA証券",
@@ -1626,5 +1604,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が下落する一方で、銀価格が急騰し1オンスあたり66ドルを超えた。異なるコモディティ間での相反する値動きが報告されている。"
+  },
+  {
+    "title": "本日（9月20日）の金価格：週の終わりに力強い上昇を見せました。 - Vietnam.vn",
+    "timestamp": "2026-09-19T21:56:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月20日の金価格が週末に力強い上昇を示した。ベトナムメディアによる相場の振り返り記事。具体的な上昇率や材料は不明。"
+  },
+  {
+    "title": "中東情勢、原油価格に注目 - shimotsuke.co.jp",
+    "timestamp": "2026-09-19T20:38:13+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢が原油価格に影響を与える可能性について報じているニュース。地政学的リスク要因として注視されている状況。"
+  },
+  {
+    "title": "日銀は利上げしたのになぜ円安？ FOMC・原油高・米金利5％から今の相場を整理【相場の現在地】 - 外為どっとコム",
+    "timestamp": "2026-09-19T21:04:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日銀利上げにもかかわらず円安が続いている現象を、FOMC・原油高・米金利などの要因から分析した相場解説。ドル高圧力と商品価格上昇の相互作用を整理したもの。"
   }
 ]
