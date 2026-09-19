@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日9月16日の金価格は、再び急騰した。 - vietnam.vn",
-    "timestamp": "2026-09-16T13:16:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月16日の金価格が再び急騰したことを報じるニュース。具体的な騰騰要因や数値は記事概要では不明。既存の上昇トレンドの続報と考えられる。"
-  },
-  {
-    "title": "$WTI 原油先物(2611) (CLmain.US)$ 米国当局者は週末にオマーンでアンサールアッラー（フーシ派）代表... - Moomoo",
-    "timestamp": "2026-09-16T12:18:02+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国当局がオマーンでフーシ派代表と週末に会談。イエメン情勢の外交的進展の可能性があり、紅海での海運リスク低減につながる可能性。"
-  },
-  {
-    "title": "小麦先物、テクニカル売りと原油安で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-16T13:57:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "小麦先物がテクニカル売りと原油安の影響で下落。テクニカル要因による調整と、エネルギー価格低下に伴う農業コスト低下期待が背景。既定路線の相場調整局面。"
-  },
-  {
-    "title": "金価格が過去最高値付近で推移、課題は地表部の権益取得 - Moomoo",
-    "timestamp": "2026-09-16T13:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が過去最高値圏で推移している状況を報道。投資家にとって主な課題は地表部の権益取得難であり、今後の採掘コスト上昇圧力を示唆している。既に織り込まれた相場環境での解説記事。"
-  },
-  {
     "title": "本日2026年9月17日の金価格は、市場がFRBの発表を固唾を飲んで見守る中、プラス圏で推移しており、「ニュース買い」による価格高騰が予測されている。 - vietnam.vn",
     "timestamp": "2026-09-16T14:47:58+00:00",
     "importance": 3,
@@ -77,17 +33,6 @@
     "summary": "NY原油先物が101.10ドルまで下落した速報。具体的な下落要因は記事タイトルからは不明。市場の日中の値動き報告と思われる。"
   },
   {
-    "title": "サウジで石油積み出し停止 原油価格 4カ月ぶり高値 - txbiz.tv-tokyo.co.jp",
-    "timestamp": "2026-09-16T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアで石油積み出しが停止。供給減少により原油価格は4カ月ぶりの高値まで上昇。OPEC主要国の供給ショックは市場に大きなインパクト。"
-  },
-  {
     "title": "NY外為：ドル伸び悩む、原油価格の反落で長期金利も低下 - ｄメニューニュース",
     "timestamp": "2026-09-16T16:14:37+00:00",
     "importance": 2,
@@ -108,28 +53,6 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "原油価格と大豆価格が同時に上昇したという相場動向の報告。両者の連動を指摘しているが、具体的な上昇幅やドライバーが不明。"
-  },
-  {
-    "title": "銅価格予測：$6,425.8のサポート付近での持ち合い - Traders Union",
-    "timestamp": "2026-09-16T12:19:31+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が$6,425.8付近のサポートレベルで持ち合い状態にあるとの相場解説。アナリスト予測に基づく技術的分析の提示。"
-  },
-  {
-    "title": "本日9月16日の金価格は、再び急騰した。 - Vietnam.vn",
-    "timestamp": "2026-09-16T13:16:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月16日の金価格が再び急騰したと報じられている。具体的な騰落率や騰落理由は記事概要に記載されていない。市場の振り返り報道と判断される。"
   },
   {
     "title": "【注目トピックス 市況・概況】NY外為：ドル伸び悩む、原油価格の反落で長期金利も低下 - マネーポストWEB",
@@ -1736,5 +1659,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ヴィトール社がWTI原油2ロットを購入。大手商社による買い入れで需要側の動きを示唆。個別の取引報告でダイナミクスは限定的。"
+  },
+  {
+    "title": "UOBの専門家は、金価格の見通しに自信を持っている。 - Vietnam.vn",
+    "timestamp": "2026-09-19T10:07:10+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UOB（ユナイテッド・オーバーシーズ・バンク）のアナリストが金価格の見通しに対して強気姿勢を表明。既存の強気相場を反映した観測コメントであり、新たな材料や統計データに基づくものではない。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･18日 3日続伸 - Moomoo",
+    "timestamp": "2026-09-18T21:23:13+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物が3日続伸している。市場概況の報道であり、相場の技術的な流れを示している。"
+  },
+  {
+    "title": "本日9月19日の金価格は、週末にかけて安定した状態を維持する見込みです。 - Vietnam.vn",
+    "timestamp": "2026-09-19T13:37:27+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月19日の金価格は週末にかけて安定推移の見込みとのコメンタリー。具体的な値動きの材料や方向性の示唆は含まれていない。単なる相場観測記事と判断される。"
+  },
+  {
+    "title": "サウジの石油パイプライン襲撃で原油高騰、台湾中油は来週も価格凍結 単週の吸収額は20億台湾ドル超 - BigGo ファイナンス",
+    "timestamp": "2026-09-19T09:35:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油パイプラインが襲撃され、供給懸念から原油価格が高騰。台湾中油が価格凍結により週20億台湾ドル超の損失吸収を余儀なくされている。地政学的リスクによる突発的な供給ショック。"
   }
 ]
