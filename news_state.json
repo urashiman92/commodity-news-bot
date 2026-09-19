@@ -1,16 +1,5 @@
 [
   {
-    "title": "米中高官会談への期待からシカゴ大豆先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-16T19:42:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "米中高官会談への期待感からシカゴ大豆先物が上昇した。通商交渉の進展を示唆する好材料として市場が反応。ただし実現は未確定段階。"
-  },
-  {
     "title": "USDA AMS油糧種子報告 2026年9月16日：トウモロコシ、大豆、小麦先物はまちまちで清算 - ニュースと統計 - IndexBox",
     "timestamp": "2026-09-16T20:10:28+00:00",
     "importance": 2,
@@ -196,17 +185,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が4カ月ぶりの高値を更新した。市場は段階的な回復トレンドにあるとみられる。具体的な材料や価格レベルの詳細は記事概要から不明。"
-  },
-  {
-    "title": "貿易赤字1兆1056億円 8月 原油価格高騰響く - 沖縄タイムス社",
-    "timestamp": "2026-09-16T18:58:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本の8月貿易赤字が1兆1056億円に達した。原油価格高騰がエネルギー輸入コスト増加の主要因。既知の高油価トレンドを定量化した統計発表。"
   },
   {
     "title": "１６日の主要国際商品市況 (2026年9月17日掲載) - ライブドアニュース",
@@ -1637,5 +1615,16 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が安値から反発し、上昇トレンドを示唆。金利上昇が価格上昇を阻害していない状況が続いている。市場全体の強気姿勢が背景。"
+  },
+  {
+    "title": "原油価格が下落し、銀価格が急騰し、1オンスあたり66米ドルを超える - Laodong.vn",
+    "timestamp": "2026-09-19T04:28:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が下落する一方で、銀価格が急騰し1オンスあたり66ドルを超えた。異なるコモディティ間での相反する値動きが報告されている。"
   }
 ]
