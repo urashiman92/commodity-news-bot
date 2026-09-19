@@ -1,27 +1,5 @@
 [
   {
-    "title": "API: Crude stocks lead 10 million across-the-barrel inventory build - Quantum Commodity Intelligence",
-    "timestamp": "2026-09-16T08:10:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API週間在庫統計で原油在庫が1000万バレルの大幅積み増しを記録した。これはガソリン、ディスティレート、その他石油製品を含めた全体的な在庫増加を示唆している。需要の弱さまたは供給の過剰を反映している可能性があり、原油価格に下押し圧力となる。"
-  },
-  {
-    "title": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut - Bloomberg.com",
-    "timestamp": "2026-09-16T08:22:45+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが国内パイプライン停止に伴い、ホルムズ海峡経由の原油輸送を大幅に増加させる方針を転換。重要インフラの障害が一時的に供給ルートの多様化を強制し、地政学的リスク（ホルムズ海峡通過依存度の上昇）が再燃。輸送リスク再評価による価格上昇圧力が生じる可能性。"
-  },
-  {
     "title": "Russia's Syzran and Saratov oil refineries on hold after drone attacks, sources say - Reuters",
     "timestamp": "2026-09-16T12:20:09+00:00",
     "importance": 4,
@@ -1230,5 +1208,49 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "オクラホマ州立大学のTodd Hubbs博士が穀物マーケティング戦略について解説。現在の市場圧力と生産者の機会について分析した業界向けコメンタリー。WASDEなどの統計に基づいた市場環境下での戦略的アプローチを提示しているもの。"
+  },
+  {
+    "title": "World cotton production estimated to shrink: WASDE - Fibre2Fashion",
+    "timestamp": "2026-09-18T05:48:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDEが世界綿花生産の縮小を推定した。綿花はテキスタイル産業の主要コモディティであり、生産減少は供給逼迫とコスト上昇をもたらす。市場全体のアグリコモディティ・インフレプレッシャーとなる可能性があるが、具体的な生産数量の変化幅が報道に不明確。"
+  },
+  {
+    "title": "Oil falls 1% as investors watch Middle East supply disruptions - Reuters",
+    "timestamp": "2026-09-18T01:58:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格が1%下落。投資家が中東の供給途絶リスクを注視している。ニュースは価格動向の解説・観測であり、具体的な供給障害の報告ではなく、市場動向を追ったコメンタリー記事と判断される。"
+  },
+  {
+    "title": "AI-Like Mania Grips Oil Refining Stocks, Fueling Calls for Pause - Bloomberg.com",
+    "timestamp": "2026-09-18T12:55:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "石油精製関連株がAI熱狂と同様の投機的買いの対象となっており、市場関係者から調整局面への懸念が上がっている。精製マージンの改善期待と需要予測の強気シナリオが株価を押し上げているが、過度な高騰に対して警告が相次いでいる。"
+  },
+  {
+    "title": "AI-Like Mania Grips Oil Refining Stocks, Fueling Calls for Pause - Bloomberg.com",
+    "timestamp": "2026-09-18T12:55:45+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "石油精製関連株がAI熱狂と同様の投機的買いの対象となっており、市場関係者から調整局面への懸念が上がっている。精製マージンの改善期待と需要予測の強気シナリオが株価を押し上げているが、過度な高騰に対して警告が相次いでいる。"
   }
 ]
