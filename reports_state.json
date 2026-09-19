@@ -1034,28 +1034,6 @@
     "summary": "OPECはリビアの生産回復初期段階では産出量を調整しない可能性があると述べた。リビアは供給不安定性の高い国であり、回復期間中は市場安定化のため段階的な対応となる見込み。既に市場で認識されている通常の状況説明。"
   },
   {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-09-15T22:47:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の伸びが想定より鈍化している背景には、電動化推進、経済成長の減速、エネルギー効率向上などが挙げられる。複数回の下方修正は需給バランスの軟化を示唆しており、原油価格に対して下押し圧力が継続する可能性が高い。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-09-15T22:47:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の伸びが想定より鈍化している背景には、電動化推進、経済成長の減速、エネルギー効率向上などが挙げられる。複数回の下方修正は需給バランスの軟化を示唆しており、原油価格に対して下押し圧力が継続する可能性が高い。"
-  },
-  {
     "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - Reuters",
     "timestamp": "2026-09-18T11:26:09+00:00",
     "importance": 3,
@@ -1208,5 +1186,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの重要パイプライン（推定Yanbu系統）のグローバル石油市場への重要性に関する解説記事。供給チェーン分析と地政学的リスク要因を検討。具体的な供給量・価格インパクト数値が記事詳細に依存。"
+  },
+  {
+    "title": "Iraq requests OPEC production quota increase to 6 million barrels per day baseline - Energies Media",
+    "timestamp": "2026-09-19T00:15:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPECに対し、生産枠の基準値を600万バレル/日への引き上げを要請した。現在の割り当てより増産を望む立場を表明したもので、OPEC内での生産枠配分交渉が続いていることを示唆している。市場ではイラクの増産要求が実現する可能性は限定的と見られている。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-09-18T20:20:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国インフレデータの楽観的な見方がOPECの供給懸念を上回り、原油価格がわずかに上昇で決着した。FRBの金融引き締めペースへの期待調整が支援材料となった。ただしOPECの減産維持とインフレデータの実際の強弱が不明確なため、相場の方向性は不確定。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-09-18T20:20:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "金",
+    "summary": "米国インフレデータの楽観的な見方がOPECの供給懸念を上回り、原油価格がわずかに上昇で決着した。FRBの金融引き締めペースへの期待調整が支援材料となった。ただしOPECの減産維持とインフレデータの実際の強弱が不明確なため、相場の方向性は不確定。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-09-18T20:20:28+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国インフレデータの楽観的な見方がOPECの供給懸念を上回り、原油価格がわずかに上昇で決着した。FRBの金融引き締めペースへの期待調整が支援材料となった。ただしOPECの減産維持とインフレデータの実際の強弱が不明確なため、相場の方向性は不確定。"
   }
 ]
