@@ -121,39 +121,6 @@
     "summary": "EIA原油在庫統計で米国の原油在庫が週間ベースで前週比で減少したことが報告された。在庫減少は需要堅調または供給制限の兆候を示唆し、原油価格上昇要因となる可能性がある。具体的な在庫量の数値が提供されていないため、変動幅の評価は限定的である。"
   },
   {
-    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton Conditions - September 14, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-09-16T19:20:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress Report（2026年9月14日発表）は米国の主要穀物であるトウモロコシと大豆の生育状況を定期報告するもの。綿花も含まれ、秋の収穫期における作物の成熟度、健全性、期待収量に関する重要な進捗データを提供。前週の進捗状況との比較を通じて、年間生産量予測の精度を高める。"
-  },
-  {
-    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton Conditions - September 14, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-09-16T19:20:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress Report（2026年9月14日発表）は米国の主要穀物であるトウモロコシと大豆の生育状況を定期報告するもの。綿花も含まれ、秋の収穫期における作物の成熟度、健全性、期待収量に関する重要な進捗データを提供。前週の進捗状況との比較を通じて、年間生産量予測の精度を高める。"
-  },
-  {
-    "title": "USDA Crop Progress Report: Corn, Soybean, Cotton Conditions - September 14, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-09-16T19:20:39+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA Crop Progress Report（2026年9月14日発表）は米国の主要穀物であるトウモロコシと大豆の生育状況を定期報告するもの。綿花も含まれ、秋の収穫期における作物の成熟度、健全性、期待収量に関する重要な進捗データを提供。前週の進捗状況との比較を通じて、年間生産量予測の精度を高める。"
-  },
-  {
     "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
     "timestamp": "2026-09-16T21:48:46+00:00",
     "importance": 4,
@@ -867,5 +834,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+の増産決定について、短期的には市場への影響が限定的である一方、中期的には供給力の引き上げとして機能する可能性があるとのアナリスト見解。Russellによる解説記事で、増産の実効性と市場への織り込み度合いについて言及。"
+  },
+  {
+    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-18T20:03:13+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の商業用原油在庫が2018年以来の最低水準まで低下した。輸出増加と製油所の稼働率上昇が主因。在庫の減少は原油需給の引き締まりを示唆し、原油価格の上昇圧力となる可能性がある。"
   }
 ]
