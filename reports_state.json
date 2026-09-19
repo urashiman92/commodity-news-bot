@@ -1,38 +1,5 @@
 [
   {
-    "title": "House Passes Bill Allowing New Tariffs on Russia Oil Buyers - Bloomberg.com",
-    "timestamp": "2026-09-16T22:29:40+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国下院がロシア産石油の購入者に対する新たな追加制裁関税を認める法案を可決した。これはロシア産原油の流通経路を制限し、国際的な原油供給構造を大きく変える可能性がある。エネルギー市場の地政学的リスクが急速に高まり、原油価格への上昇圧力が強化される見通し。"
-  },
-  {
-    "title": "House Passes Bill Allowing New Tariffs on Russia Oil Buyers - Bloomberg.com",
-    "timestamp": "2026-09-16T22:29:40+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国下院がロシア産石油の購入者に対する新たな追加制裁関税を認める法案を可決した。これはロシア産原油の流通経路を制限し、国際的な原油供給構造を大きく変える可能性がある。エネルギー市場の地政学的リスクが急速に高まり、原油価格への上昇圧力が強化される見通し。"
-  },
-  {
-    "title": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline - Bloomberg.com",
-    "timestamp": "2026-09-16T22:05:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが重要なパイプライン復旧に向けて動いていることを受け、原油相場が下落を継続している。パイプライン機能の回復は供給懸念の緩和を示唆し、市場は供給リスク低減を織り込み始めている。"
-  },
-  {
     "title": "Oil prices extend losses on easing fears of Middle East supply disruption - Reuters",
     "timestamp": "2026-09-17T01:00:00+00:00",
     "importance": 2,
@@ -53,28 +20,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の継続的な減少を報告した。在庫の連続低下は原油の需給引き締まりを示唆し、価格上昇圧力となる可能性がある。具体的な在庫数値や前週比の詳細は記事から不明だが、トレンド継続は注視に値する。"
-  },
-  {
-    "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
-    "timestamp": "2026-09-16T21:39:40+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が原油産出量の引き上げを発表する見通しだが、実現可能性と需要家の購買力に疑問が呈示されている。タイトルの「Can it Deliver and Who Will Buy?」という問い掛けは、増産宣言と実際の供給能力、および世界需要の弱さという二重の課題を指摘している。"
-  },
-  {
-    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
-    "timestamp": "2026-09-16T21:36:31+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がホルムズ海峡再開時の原油増産を合意。地政学的リスクである海峡封鎖シナリオの解消が示唆され、供給制約の緩和期待が浮上。同時にOPEC+の協調体制が維持される見通しで、価格下押し圧力と安定化のバランスが市場の注目点。"
   },
   {
     "title": "India says new US tariffs over Russian oil could hit ties, vows to protect energy security - reuters.com",
@@ -119,17 +64,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA原油在庫統計で米国の原油在庫が週間ベースで前週比で減少したことが報告された。在庫減少は需要堅調または供給制限の兆候を示唆し、原油価格上昇要因となる可能性がある。具体的な在庫量の数値が提供されていないため、変動幅の評価は限定的である。"
-  },
-  {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-09-16T21:48:46+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストのBousso氏が、ホルムズ海峡の再開通がOPECの減産政策の有効性を損なう可能性を指摘。供給制約が緩和されれば市場の需給バランスが崩れ、原油価格の下押し圧力が高まるとの見方。地政学リスク低下に伴う供給復帰シナリオが市場心理に影響。"
   },
   {
     "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
@@ -284,39 +218,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ヨーロッパの天然ガス在庫が歴史的低水準に落ち込んでおり、経済・政治に多大な圧力をかけている。供給不安が深刻化し、エネルギー価格上昇とインフレ圧力が継続。冬場のエネルギー危機リスクが市場心理を圧迫している状況。"
-  },
-  {
-    "title": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-16T22:06:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "FRB金融政策発表日の変動後、株式と債券が上昇する一方、原油は下落した。金利動向がコモディティ市場全体に影響を与えており、特に無利子資産である金は金利上昇圧力下での調整が続いている。原油の下落はドル高圧力や景気見通しの不透明性を反映している可能性がある。"
-  },
-  {
-    "title": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-16T22:06:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "FRB金融政策発表日の変動後、株式と債券が上昇する一方、原油は下落した。金利動向がコモディティ市場全体に影響を与えており、特に無利子資産である金は金利上昇圧力下での調整が続いている。原油の下落はドル高圧力や景気見通しの不透明性を反映している可能性がある。"
-  },
-  {
-    "title": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-16T22:06:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "FRB金融政策発表日の変動後、株式と債券が上昇する一方、原油は下落した。金利動向がコモディティ市場全体に影響を与えており、特に無利子資産である金は金利上昇圧力下での調整が続いている。原油の下落はドル高圧力や景気見通しの不透明性を反映している可能性がある。"
   },
   {
     "title": "Global cotton production forecast lowered for 2026-27: WASDE - Fibre2Fashion",
@@ -845,5 +746,60 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の商業用原油在庫が2018年以来の最低水準まで低下した。輸出増加と製油所の稼働率上昇が主因。在庫の減少は原油需給の引き締まりを示唆し、原油価格の上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "USDA lowers 2026 red meat and poultry production forecast - High Plains Journal",
+    "timestamp": "2026-09-19T21:35:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが2026年の赤肉および家禽生産予測を下方修正した。供給削減は飼料穀物（トウモロコシ・大豆）の需要減少につながる一方、赤肉・鶏肉価格の上昇圧力となる見込み。具体的な修正幅は報道では明記されていないが、供給サイドの制約が強まる環境を示唆している。"
+  },
+  {
+    "title": "USDA lowers 2026 red meat and poultry production forecast - High Plains Journal",
+    "timestamp": "2026-09-19T21:35:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが2026年の赤肉および家禽生産予測を下方修正した。供給削減は飼料穀物（トウモロコシ・大豆）の需要減少につながる一方、赤肉・鶏肉価格の上昇圧力となる見込み。具体的な修正幅は報道では明記されていないが、供給サイドの制約が強まる環境を示唆している。"
+  },
+  {
+    "title": "USDA lowers 2026 red meat and poultry production forecast - High Plains Journal",
+    "timestamp": "2026-09-19T21:35:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが2026年の赤肉および家禽生産予測を下方修正した。供給削減は飼料穀物（トウモロコシ・大豆）の需要減少につながる一方、赤肉・鶏肉価格の上昇圧力となる見込み。具体的な修正幅は報道では明記されていないが、供給サイドの制約が強まる環境を示唆している。"
+  },
+  {
+    "title": "How the U.S. Broke Its Dependence on OPEC Oil - Visual Capitalist",
+    "timestamp": "2026-09-17T17:02:34+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国のシェールオイル革命とIRAなどの政策支援により、OPEC石油への依存度が低下した歴史的な動向を解説するレポート。米国の原油自給率向上とOPECの市場支配力の相対的な減少が確認される。既報の継続的な分析であり、新規市場材料ではない。"
+  },
+  {
+    "title": "Europe Oil Supply Pressure Mounts After Attack Cuts Saudi Sales - bloomberg.com",
+    "timestamp": "2026-09-18T20:51:12+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビア施設への攻撃により石油販売が削減され、ヨーロッパの石油供給圧力が急速に高まっている。供給ショックにより欧州市場は逼迫し、原油価格の上昇圧力が強まっている。地政学的リスクの顕在化により、供給途絶リスクが市場で再評価されている。"
   }
 ]
