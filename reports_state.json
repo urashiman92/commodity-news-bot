@@ -1,27 +1,5 @@
 [
   {
-    "title": "EIA reports another drop in US crude oil stocks - engine.online",
-    "timestamp": "2026-09-17T07:49:42+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の継続的な減少を報告した。在庫の連続低下は原油の需給引き締まりを示唆し、価格上昇圧力となる可能性がある。具体的な在庫数値や前週比の詳細は記事から不明だが、トレンド継続は注視に値する。"
-  },
-  {
-    "title": "Ukraine Hits Key Russian Oil Refinery as Moscow Strikes Kyiv - bloomberg.com",
-    "timestamp": "2026-09-17T08:06:18+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの主要製油所を攻撃し、モスクワはキーウへの報復攻撃を実施。ロシアの石油精製能力の損失は供給サイドのショックとして機能し、世界原油市場の需給逼迫懸念を加速させる。地政学的リスク要因による供給途絶の現実化で、原油価格の上昇圧力が強化される。"
-  },
-  {
     "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
     "timestamp": "2026-09-17T15:01:12+00:00",
     "importance": 3,
@@ -66,39 +44,6 @@
     "summary": "原油上昇、金利上昇、利回り上昇が同時に進行するスタグフレーション懸念が市場を揺さぶっている。このシナリオでは原油など商品価格は上昇圧力を受ける一方で、金利上昇は金などの無利子資産に下落圧力をもたらす。複数コモディティへの相反する影響が特徴。"
   },
   {
-    "title": "US Stocks Primed to Rebound From Fed Day Slump as Futures Rally - Bloomberg.com",
-    "timestamp": "2026-09-17T10:57:20+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "FRB関連のイベント後に米国株先物が上昇し、反発の兆しを見せている。金融政策の方向性に対する市場の反応が変わりつつあり、特に金利動向がコモディティ市場全体に影響を与える可能性がある。具体的な政策変化が示唆されている。"
-  },
-  {
-    "title": "US Stocks Primed to Rebound From Fed Day Slump as Futures Rally - Bloomberg.com",
-    "timestamp": "2026-09-17T10:57:20+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "FRB関連のイベント後に米国株先物が上昇し、反発の兆しを見せている。金融政策の方向性に対する市場の反応が変わりつつあり、特に金利動向がコモディティ市場全体に影響を与える可能性がある。具体的な政策変化が示唆されている。"
-  },
-  {
-    "title": "US Stocks Primed to Rebound From Fed Day Slump as Futures Rally - Bloomberg.com",
-    "timestamp": "2026-09-17T10:57:20+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "FRB関連のイベント後に米国株先物が上昇し、反発の兆しを見せている。金融政策の方向性に対する市場の反応が変わりつつあり、特に金利動向がコモディティ市場全体に影響を与える可能性がある。具体的な政策変化が示唆されている。"
-  },
-  {
     "title": "September WASDE: Corn Crop Shrinks, Soybean Demand Holds - Iowa Soybean Association",
     "timestamp": "2026-09-17T15:46:10+00:00",
     "importance": 3,
@@ -130,39 +75,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシア・ヤロスラブリ製油所がドローン攻撃により操業停止。ロシアの主要製油施設の被害は供給不安を引き起こし、原油価格の上昇圧力となる。ウクライナ紛争長期化に伴う地政学的リスクの顕在化として、市場の警戒が高まる。"
-  },
-  {
-    "title": "Europe's low gas stocks pile on the economic and political pressure - Reuters",
-    "timestamp": "2026-09-17T10:36:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ヨーロッパの天然ガス在庫が歴史的低水準に落ち込んでおり、経済・政治に多大な圧力をかけている。供給不安が深刻化し、エネルギー価格上昇とインフレ圧力が継続。冬場のエネルギー危機リスクが市場心理を圧迫している状況。"
-  },
-  {
-    "title": "Europe's low gas stocks pile on the economic and political pressure - Reuters",
-    "timestamp": "2026-09-17T10:36:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ヨーロッパの天然ガス在庫が歴史的低水準に落ち込んでおり、経済・政治に多大な圧力をかけている。供給不安が深刻化し、エネルギー価格上昇とインフレ圧力が継続。冬場のエネルギー危機リスクが市場心理を圧迫している状況。"
-  },
-  {
-    "title": "Global cotton production forecast lowered for 2026-27: WASDE - Fibre2Fashion",
-    "timestamp": "2026-09-17T09:04:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE（米国農務省穀物・綿花見通し）が2026-27年度の世界綿花生産見通しを引き下げた。供給減少シグナルは綿花価格の上昇圧力となる一方、世界的な需要鈍化懸念がある市況では、下落基調が継続する可能性が高い。具体的な生産量削減幅については原文未確認だが、天候不順や耕作面積減少が背景か。"
   },
   {
     "title": "OPEC Won’t Raise Quotas - Arab News",
@@ -350,17 +262,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "紅海での攻撃によりアラムコが地中海での燃料供給を確保する動きが報じられた。フーシ派などによる船舶攻撃が継続する中、主要石油企業が供給ルートの多角化を余儀なくされており、輸送コスト上昇と供給リスク顕在化で原油価格を支援する要因となっている。"
-  },
-  {
-    "title": "OPEC may not change output in early phases of Libya recovery - Arab News",
-    "timestamp": "2026-09-17T06:55:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECはリビアの生産回復初期段階では産出量を調整しない可能性があると述べた。リビアは供給不安定性の高い国であり、回復期間中は市場安定化のため段階的な対応となる見込み。既に市場で認識されている通常の状況説明。"
   },
   {
     "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - Reuters",
@@ -726,36 +627,25 @@
     "summary": "サウジアラビア施設への攻撃により石油販売が削減され、ヨーロッパの石油供給圧力が急速に高まっている。供給ショックにより欧州市場は逼迫し、原油価格の上昇圧力が強まっている。地政学的リスクの顕在化により、供給途絶リスクが市場で再評価されている。"
   },
   {
-    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
-    "timestamp": "2026-09-17T12:24:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
+    "title": "Hop Stocks",
+    "timestamp": "2026-09-20T12:24:56.538959+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
     "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが発表した9月1日時点のホップ在庫が前年同期比で9%減少した。ホップはビール醸造用の重要な農産物であり、在庫減少は供給逼迫と価格上昇圧力を示唆する。ただしホップ単体のコモディティ市場としての規模は限定的。"
+  },
+  {
+    "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital - Reuters",
+    "timestamp": "2026-09-20T05:44:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
     "source": "Reuters商品ニュース",
     "commodity": "原油",
-    "summary": "原油上昇、金利上昇、長期金利上昇が同時に進行するスタグフレーション懸念シナリオが市場で台頭。原油高は供給不安を反映し、金利・利回り上昇はドル強化と金への下落圧力をもたらす一方、インフレ連動資産としての原油・銅などコモディティの支援要因にもなる。複数コモディティ間での方向性の相違が投資戦略を複雑化させている。"
-  },
-  {
-    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
-    "timestamp": "2026-09-17T12:24:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "原油上昇、金利上昇、長期金利上昇が同時に進行するスタグフレーション懸念シナリオが市場で台頭。原油高は供給不安を反映し、金利・利回り上昇はドル強化と金への下落圧力をもたらす一方、インフレ連動資産としての原油・銅などコモディティの支援要因にもなる。複数コモディティ間での方向性の相違が投資戦略を複雑化させている。"
-  },
-  {
-    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
-    "timestamp": "2026-09-17T12:24:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油上昇、金利上昇、長期金利上昇が同時に進行するスタグフレーション懸念シナリオが市場で台頭。原油高は供給不安を反映し、金利・利回り上昇はドル強化と金への下落圧力をもたらす一方、インフレ連動資産としての原油・銅などコモディティの支援要因にもなる。複数コモディティ間での方向性の相違が投資戦略を複雑化させている。"
+    "summary": "ロシアの首都モスクワ地域でドローン攻撃により、石油精製施設が被弾し2名が死亡。ロシアの重要なエネルギーインフラへの直接的な損傷は供給懸念を増幅させる。地政学的リスクの顕在化により、市場は原油価格の上昇圧力に直面。"
   }
 ]
