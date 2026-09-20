@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil prices extend losses on easing fears of Middle East supply disruption - Reuters",
-    "timestamp": "2026-09-17T01:00:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の供給途絶懸念が緩和されたことを背景に、原油価格が下落を続けている。地政学的リスクプレミアムの剥落により、テクニカルな売り圧力が強まっている。短期的な下値圏での値動きが続く見込み。"
-  },
-  {
     "title": "EIA reports another drop in US crude oil stocks - engine.online",
     "timestamp": "2026-09-17T07:49:42+00:00",
     "importance": 3,
@@ -801,5 +790,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビア施設への攻撃により石油販売が削減され、ヨーロッパの石油供給圧力が急速に高まっている。供給ショックにより欧州市場は逼迫し、原油価格の上昇圧力が強まっている。地政学的リスクの顕在化により、供給途絶リスクが市場で再評価されている。"
+  },
+  {
+    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
+    "timestamp": "2026-09-17T12:24:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油上昇、金利上昇、長期金利上昇が同時に進行するスタグフレーション懸念シナリオが市場で台頭。原油高は供給不安を反映し、金利・利回り上昇はドル強化と金への下落圧力をもたらす一方、インフレ連動資産としての原油・銅などコモディティの支援要因にもなる。複数コモディティ間での方向性の相違が投資戦略を複雑化させている。"
+  },
+  {
+    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
+    "timestamp": "2026-09-17T12:24:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "原油上昇、金利上昇、長期金利上昇が同時に進行するスタグフレーション懸念シナリオが市場で台頭。原油高は供給不安を反映し、金利・利回り上昇はドル強化と金への下落圧力をもたらす一方、インフレ連動資産としての原油・銅などコモディティの支援要因にもなる。複数コモディティ間での方向性の相違が投資戦略を複雑化させている。"
+  },
+  {
+    "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
+    "timestamp": "2026-09-17T12:24:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油上昇、金利上昇、長期金利上昇が同時に進行するスタグフレーション懸念シナリオが市場で台頭。原油高は供給不安を反映し、金利・利回り上昇はドル強化と金への下落圧力をもたらす一方、インフレ連動資産としての原油・銅などコモディティの支援要因にもなる。複数コモディティ間での方向性の相違が投資戦略を複雑化させている。"
   }
 ]
