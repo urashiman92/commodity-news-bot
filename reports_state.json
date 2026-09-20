@@ -1,16 +1,5 @@
 [
   {
-    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
-    "timestamp": "2026-09-17T15:01:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫統計で米国の原油在庫が週間ベースで前週比で減少したことが報告された。在庫減少は需要堅調または供給制限の兆候を示唆し、原油価格上昇要因となる可能性がある。具体的な在庫量の数値が提供されていないため、変動幅の評価は限定的である。"
-  },
-  {
     "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
     "timestamp": "2026-09-17T16:59:07+00:00",
     "importance": 4,
@@ -42,50 +31,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油上昇、金利上昇、利回り上昇が同時に進行するスタグフレーション懸念が市場を揺さぶっている。このシナリオでは原油など商品価格は上昇圧力を受ける一方で、金利上昇は金などの無利子資産に下落圧力をもたらす。複数コモディティへの相反する影響が特徴。"
-  },
-  {
-    "title": "September WASDE: Corn Crop Shrinks, Soybean Demand Holds - Iowa Soybean Association",
-    "timestamp": "2026-09-17T15:46:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "9月のWASDE報告書によるとトウモロコシ作付面積が縮小し、生産量が下方修正された。一方、大豆については需要が堅調に推移している。同報告書は米国農務省の定期的な穀物見通し発表であり、市場参加者に重要な指標となる。"
-  },
-  {
-    "title": "September WASDE: Corn Crop Shrinks, Soybean Demand Holds - Iowa Soybean Association",
-    "timestamp": "2026-09-17T15:46:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "9月のWASDE報告書によるとトウモロコシ作付面積が縮小し、生産量が下方修正された。一方、大豆については需要が堅調に推移している。同報告書は米国農務省の定期的な穀物見通し発表であり、市場参加者に重要な指標となる。"
-  },
-  {
-    "title": "Russia's Yaroslavl refinery shuts processing after a drone attack, sources say - Reuters",
-    "timestamp": "2026-09-17T16:43:59+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア・ヤロスラブリ製油所がドローン攻撃により操業停止。ロシアの主要製油施設の被害は供給不安を引き起こし、原油価格の上昇圧力となる。ウクライナ紛争長期化に伴う地政学的リスクの顕在化として、市場の警戒が高まる。"
-  },
-  {
-    "title": "OPEC Won’t Raise Quotas - Arab News",
-    "timestamp": "2026-09-17T13:40:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが生産枠を引き上げない方針を発表した。市場では増産による供給緩和期待があったが、これを拒否した決定は供給逼迫が続くことを示唆する。原油価格の上昇圧力となる可能性が高い。"
   },
   {
     "title": "Oil prices fall for third day on hopes of limited Saudi supply disruptions - reuters.com",
@@ -143,17 +88,6 @@
     "summary": "中東地域の供給懸念が緩和され、原油が3日連続で下落。地政学的リスク低下により売り圧力が強まっている。供給不安の解消は短期的には価格押し下げ要因となっており、市場はリスク・オフの相場環境にある。"
   },
   {
-    "title": "USA Crude Oil Stocks Drop Week on Week - Rigzone",
-    "timestamp": "2026-09-17T15:47:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週単位で減少した。EIAの定期在庫統計は市場心理に直結するデータであり、在庫減少は需給引き締まりを示唆する。ただし具体的な在庫減少量や前週比の数値が提示されていないため、サプライズ度は判断困難。"
-  },
-  {
     "title": "Oil prices set for weekly fall on easing fears over Saudi supply disruption - Reuters",
     "timestamp": "2026-09-18T01:01:00+00:00",
     "importance": 2,
@@ -163,17 +97,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの供給途絶懸念が緩和されたことを受けて、原油価格は週間ベースで下落基調にある。地政学的リスク要因の後退により、市場では一週間の値下がりが見込まれている。短期的なサプライズ要因は限定的で、既に市場に折り込まれつつある。"
-  },
-  {
-    "title": "Three pumping stations along Saudi East-West Pipeline were hit in recent attack, sources say - Reuters",
-    "timestamp": "2026-09-17T16:18:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの東西間パイプライン上にある3つのポンプ場が最近の攻撃で被害を受けた。同パイプラインはサウジの主要な原油輸送インフラであり、供給途絶リスクが顕在化。地政学的不安定性の高まりにより原油価格上昇圧力が生じている。"
   },
   {
     "title": "How the U.S. Broke Its Dependence on OPEC Oil - Yahoo Finance",
@@ -251,17 +174,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東での供給懸念が緩和されたことを受け、原油価格が3日連続で下落した。中東地域の地政学的リスク低下により、供給途絶への懸念が後退。短期的な下押し圧力が働いているが、市場予想の大幅な乖離はない。"
-  },
-  {
-    "title": "Aramco Hunts for Fuel Supply in the Mediterranean After Attacks - Bloomberg.com",
-    "timestamp": "2026-09-17T13:16:34+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海での攻撃によりアラムコが地中海での燃料供給を確保する動きが報じられた。フーシ派などによる船舶攻撃が継続する中、主要石油企業が供給ルートの多角化を余儀なくされており、輸送コスト上昇と供給リスク顕在化で原油価格を支援する要因となっている。"
   },
   {
     "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - Reuters",
@@ -526,28 +438,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "石油精製関連株がAI熱狂と同様の投機的買いの対象となっており、市場関係者から調整局面への懸念が上がっている。精製マージンの改善期待と需要予測の強気シナリオが株価を押し上げているが、過度な高騰に対して警告が相次いでいる。"
-  },
-  {
-    "title": "US Corn and Soybean Harvests Ahead of Last Year, USDA Report Shows - IndexBox",
-    "timestamp": "2026-09-17T13:30:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA穀物進捗レポートによると、米国のトウモロコシと大豆の収穫が前年同期比で進んでいることが示された。収穫ペースが加速している場合、供給増加の見通しから両穀物の価格下押し圧力につながる可能性がある。具体的な収穫面積や単収予想の詳細は記事URLにアクセス必須。"
-  },
-  {
-    "title": "US Corn and Soybean Harvests Ahead of Last Year, USDA Report Shows - IndexBox",
-    "timestamp": "2026-09-17T13:30:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA穀物進捗レポートによると、米国のトウモロコシと大豆の収穫が前年同期比で進んでいることが示された。収穫ペースが加速している場合、供給増加の見通しから両穀物の価格下押し圧力につながる可能性がある。具体的な収穫面積や単収予想の詳細は記事URLにアクセス必須。"
   },
   {
     "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
