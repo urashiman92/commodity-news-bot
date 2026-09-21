@@ -1,71 +1,5 @@
 [
   {
-    "title": "Aramco halts October crude deliveries to some European refiners after pipeline attack, Bloomberg reports - reuters.com",
-    "timestamp": "2026-09-18T15:25:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラムコがパイプライン攻撃を受けてヨーロッパの一部製油所への10月原油納入を中断。供給途絶による逼迫懸念から原油価格に上昇圧力。OPECの主要供給者からの減少は市場のセンチメントを大きく変える可能性がある。"
-  },
-  {
-    "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause - Reuters",
-    "timestamp": "2026-09-18T18:30:31+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の長期金利（ベンチマーク米国債利回り）が5%に到達し、市場が混合反応を示している。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は調整局面に入っている。リスク資産と安全資産の綱引き状態が続いている。"
-  },
-  {
-    "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause - Reuters",
-    "timestamp": "2026-09-18T18:30:31+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国の長期金利（ベンチマーク米国債利回り）が5%に到達し、市場が混合反応を示している。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は調整局面に入っている。リスク資産と安全資産の綱引き状態が続いている。"
-  },
-  {
-    "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause - Reuters",
-    "timestamp": "2026-09-18T18:30:31+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国の長期金利（ベンチマーク米国債利回り）が5%に到達し、市場が混合反応を示している。利回り上昇は金などの無利子資産に下落圧力をもたらす一方、原油は調整局面に入っている。リスク資産と安全資産の綱引き状態が続いている。"
-  },
-  {
-    "title": "New US sanctions bill on Russia puts India's Modi in a bind - Reuters",
-    "timestamp": "2026-09-18T14:50:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がロシア制裁強化法案を提出し、インドのモディ首相が外交的ジレンマに直面。インドはロシアから原油・天然ガス・肥料などを大量輸入しており、制裁強化による供給途絶リスクが高まる。インド経由での迂回取引制限も懸念され、エネルギー価格と穀物価格に不確実性が増す。"
-  },
-  {
-    "title": "New US sanctions bill on Russia puts India's Modi in a bind - Reuters",
-    "timestamp": "2026-09-18T14:50:57+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国がロシア制裁強化法案を提出し、インドのモディ首相が外交的ジレンマに直面。インドはロシアから原油・天然ガス・肥料などを大量輸入しており、制裁強化による供給途絶リスクが高まる。インド経由での迂回取引制限も懸念され、エネルギー価格と穀物価格に不確実性が増す。"
-  },
-  {
     "title": "Hop Stocks",
     "timestamp": "2026-09-18T22:36:10.919358+00:00",
     "importance": 2,
@@ -119,17 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "銅",
     "summary": "トランプ政権がロシア制裁関連法案を通じて関税権限を大幅に拡大する。新たな関税政策はドル高要因となり、金・原油など非ドル資産に下落圧力を与える一方、地政学的緊張の高まりは有事需要（金・原油）を支援。米国の保護主義政策強化により商品相場は高ボラティリティが予想される。"
-  },
-  {
-    "title": "Europe Oil Supply Pressure Mounts After Attack Cuts Saudi Sales - bloomberg.com",
-    "timestamp": "2026-09-18T18:50:50+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアへの攻撃により石油販売が削減され、欧州の石油供給に圧力がかかっている。中東の地政学的緊張がサプライチェーンに直接的な影響を与え、供給ショックが顕在化する状況。攻撃による減産規模や復旧時間によっては、エネルギー市場全体に波及する可能性が高い。"
   },
   {
     "title": "Iraq requests OPEC production quota increase to 6 million barrels per day baseline - Energies Media",
@@ -372,5 +295,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東の供給リスクと外交交渉に注目が集まる中、原油は方向感なく推移している。トレーダーは地政学的なリスク要因と外交的な展開の両面から市場を注視しており、明確な価格方向性は形成されていない。現物相場は供給懸念と外交的な緊張緩和の可能性の間で均衡を保っている。"
+  },
+  {
+    "title": "Chickens and Eggs",
+    "timestamp": "2026-09-21T19:32:54.812701+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
+  },
+  {
+    "title": "Chickens and Eggs",
+    "timestamp": "2026-09-21T19:32:54.812701+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
+  },
+  {
+    "title": "Chickens and Eggs",
+    "timestamp": "2026-09-21T19:32:54.812701+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
+  },
+  {
+    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
+    "timestamp": "2026-09-19T18:56:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4月の石油生産を137,000バレル/日（bpd）増加させることを検討している。これは段階的な増産方針の一環であり、市場では既に織り込まれている可能性が高い。小幅な増産であり、現在のOPEC+の慎重な姿勢を反映している。"
+  },
+  {
+    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
+    "timestamp": "2026-09-21T14:35:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）の在庫が1982年以来の最低水準に低下した。SPRの枯渇は供給バッファの喪失を意味し、地政学的リスクや供給ショックに対する米国の緩衝能力が大幅に減少。原油の供給逼迫懸念が強まり、価格上昇圧力となる。"
+  },
+  {
+    "title": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters",
+    "timestamp": "2026-09-21T17:14:28+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがパイプライン攻撃後、ペルシャ湾からの石油輸出を増加させたことがデータで確認された。供給途絶リスクの軽減を示す動きで、地政学的緊張は緩和方向。既に報道されている攻撃事象の後続情報であり、市場は部分的に織り込み済み。"
+  },
+  {
+    "title": "Wall Street rallies as AI optimism reignites and Treasury yields retreat - Reuters",
+    "timestamp": "2026-09-21T18:27:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "AI楽観論の再燃と米国債利回りの低下がウォール街を買い優勢に導いた。金利低下環境は金などの非利息資産にとって支援要因となり、コモディティ全般のセンチメント改善につながっている。ただし具体的な数値発表ではなく、市場心理の変化が主因。"
+  },
+  {
+    "title": "Wall Street rallies as AI optimism reignites and Treasury yields retreat - Reuters",
+    "timestamp": "2026-09-21T18:27:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "AI楽観論の再燃と米国債利回りの低下がウォール街を買い優勢に導いた。金利低下環境は金などの非利息資産にとって支援要因となり、コモディティ全般のセンチメント改善につながっている。ただし具体的な数値発表ではなく、市場心理の変化が主因。"
+  },
+  {
+    "title": "Satellite Snapshot Points to Increase in Saudis’ Gulf Oil Flows - Bloomberg.com",
+    "timestamp": "2026-09-21T12:42:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "衛星画像データがサウジアラビアの湾岸油流の増加を示唆している。衛星による船舶追跡技術を用いた分析により、サウジの原油輸出活動の増加傾向が捕捉された。OPEC減産政策との整合性に関する市場の関心が高まる。"
+  },
+  {
+    "title": "Hungary Asks US to Extend Exemption on Russian Oil Purchases - Bloomberg.com",
+    "timestamp": "2026-09-21T11:26:57+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ハンガリーがロシア産原油購入に対する米国の制裁免除延長を要請。EUの親ロ国からの政治的働きかけであり、西側制裁体制の亀裂を示唆。供給制限の緩和可能性により原油価格を下押しする要因となる可能性がある。"
+  },
+  {
+    "title": "India’s Oil Buyers May Cut Russian Cargoes in Wake of US Threats - Bloomberg.com",
+    "timestamp": "2026-09-21T09:17:25+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がインドへの圧力を強化しており、インドの石油購入業者がロシア産原油の輸入削減を検討している。ロシアはインド向け石油輸出の主要な供給国であり、同国の購入削減は供給構造の大幅な再編を意味する。地政学的リスクが原油市場に直接波及する可能性が高い。"
   }
 ]
