@@ -1,38 +1,5 @@
 [
   {
-    "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - reuters.com",
-    "timestamp": "2026-09-18T01:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "日銀が予想通り利上げを実施し、円が下落した。原油は下げたが、これは金融引き締めによるリスク資産圧力と円安による需要減少要因が相殺した結果と考えられる。株価の上昇は円安効果で説明がつく。金は利上げによる無利子資産圧力で弱気材料。"
-  },
-  {
-    "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - reuters.com",
-    "timestamp": "2026-09-18T01:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "日銀が予想通り利上げを実施し、円が下落した。原油は下げたが、これは金融引き締めによるリスク資産圧力と円安による需要減少要因が相殺した結果と考えられる。株価の上昇は円安効果で説明がつく。金は利上げによる無利子資産圧力で弱気材料。"
-  },
-  {
-    "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - reuters.com",
-    "timestamp": "2026-09-18T01:32:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "日銀が予想通り利上げを実施し、円が下落した。原油は下げたが、これは金融引き締めによるリスク資産圧力と円安による需要減少要因が相殺した結果と考えられる。株価の上昇は円安効果で説明がつく。金は利上げによる無利子資産圧力で弱気材料。"
-  },
-  {
     "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - reuters.com",
     "timestamp": "2026-09-18T11:26:09+00:00",
     "importance": 3,
@@ -264,28 +231,6 @@
     "summary": "米国インフレデータの楽観的な見方がOPECの供給懸念を上回り、原油価格がわずかに上昇で決着した。FRBの金融引き締めペースへの期待調整が支援材料となった。ただしOPECの減産維持とインフレデータの実際の強弱が不明確なため、相場の方向性は不確定。"
   },
   {
-    "title": "World cotton production estimated to shrink: WASDE - Fibre2Fashion",
-    "timestamp": "2026-09-18T05:48:47+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDEが世界綿花生産の縮小を推定した。綿花はテキスタイル産業の主要コモディティであり、生産減少は供給逼迫とコスト上昇をもたらす。市場全体のアグリコモディティ・インフレプレッシャーとなる可能性があるが、具体的な生産数量の変化幅が報道に不明確。"
-  },
-  {
-    "title": "Oil falls 1% as investors watch Middle East supply disruptions - Reuters",
-    "timestamp": "2026-09-18T01:58:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格が1%下落。投資家が中東の供給途絶リスクを注視している。ニュースは価格動向の解説・観測であり、具体的な供給障害の報告ではなく、市場動向を追ったコメンタリー記事と判断される。"
-  },
-  {
     "title": "AI-Like Mania Grips Oil Refining Stocks, Fueling Calls for Pause - Bloomberg.com",
     "timestamp": "2026-09-18T12:55:45+00:00",
     "importance": 3,
@@ -471,5 +416,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナ情勢に伴うブラックシー（黒海）の封鎖が、世界の食糧供給に深刻な脅威をもたらしている。黒海地域はグローバル穀物輸出の重要な通路であり、小麦・トウモロコシ・大豆などの主要農産物の供給ルートが遮断されることで、国際市場での供給ショックと価格上昇圧力が生じている。ホルムズ海峡と同等の戦略的重要性を持つ物流拠点の機能停止である。"
+  },
+  {
+    "title": "Reserve report on four Chile copper blocks expected in 2-3 months, says Hindustan Copper CMD Anupam Misra - BusinessLine",
+    "timestamp": "2026-09-21T04:51:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "Hindustan Copper のCMD（最高経営責任者）Anupam Misra 氏が、チリの4つの銅鉱床に関する埋蔵量報告書が2～3ヶ月以内に提出される見通しを表明。インド企業の国際的な銅資源確保が進展する兆候。"
+  },
+  {
+    "title": "OPEC+ Agrees to September Oil Hike, Completing Rollback of Voluntary Cuts - EnergyNow.com",
+    "timestamp": "2026-09-18T20:38:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月の石油生産引き上げに合意し、自主的減産の段階的な巻き戻しを完了させた。この決定は事前に予想されていた段階的な減産解除スケジュールの一環であり、供給増加による原油価格への上昇圧力が緩和される局面を示唆している。"
+  },
+  {
+    "title": "Oil Steady as Traders Look to Mideast Supply Risks and Diplomacy - Bloomberg",
+    "timestamp": "2026-09-21T05:18:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の供給リスクと外交交渉に注目が集まる中、原油は方向感なく推移している。トレーダーは地政学的なリスク要因と外交的な展開の両面から市場を注視しており、明確な価格方向性は形成されていない。現物相場は供給懸念と外交的な緊張緩和の可能性の間で均衡を保っている。"
   }
 ]
