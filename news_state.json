@@ -1,27 +1,5 @@
 [
   {
-    "title": "サウジが送油管を緊急修復、国際原油価格は3日続落 - BigGo ファイナンス",
-    "timestamp": "2026-09-18T18:26:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアが送油管を緊急修復したことが報じられた。既に3日間の原油価格続落が発生しており、供給障害懸念の解消が価格を押し下げている。"
-  },
-  {
-    "title": "NY市場動向（午後2時台）：ダウ66ドル安、原油先物2.10ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-09-18T19:05:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後2時台のスナップショット報道。原油先物が2.10ドル高と小幅上昇しているが、具体的な要因や前後の文脈が不明確。株式市場（ダウ）は小幅安となっている。"
-  },
-  {
     "title": "本日（9月19日）の金価格：反転して急騰。 - Vietnam.vn",
     "timestamp": "2026-09-18T23:02:55+00:00",
     "importance": 2,
@@ -295,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が3日連続で下落している。サウジアラビアの輸出回復観測が市場の供給懸念を緩和している。OPEC主要国からの供給増加予想が売り圧力となっている。"
-  },
-  {
-    "title": "米国WTI原油―ヴィトール社が2ロット購入 - TradingView",
-    "timestamp": "2026-09-18T17:25:08+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ヴィトール社がWTI原油2ロットを購入。大手商社による買い入れで需要側の動きを示唆。個別の取引報告でダイナミクスは限定的。"
   },
   {
     "title": "UOBの専門家は、金価格の見通しに自信を持っている。 - Vietnam.vn",
@@ -1285,5 +1252,71 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ先物の価格予測記事。買い手のサポートレベルがUSX530（セント/ブッシェル）と指摘されている。アナリスト予測による相場観の提示。"
+  },
+  {
+    "title": "ウクライナとロシアのドローン攻撃、シカゴ小麦先物を押し上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-21T20:20:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ウクライナ・ロシア間のドローン攻撃により、穀物生産地域への供給懸念が高まっている。シカゴ小麦先物は上昇圧力を受けている。両国間の紛争は継続的に穀物市場のリスク要因となっている。"
+  },
+  {
+    "title": "金利低下にもかかわらず金価格は上昇しない？ 現在の核心的な価格決定メカニズムと転換点の論理を解明 - Moomoo",
+    "timestamp": "2026-09-21T13:05:59+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金利低下局面でも金価格が上昇していない現象を分析する解説記事。現在の金価格決定メカニズムと今後の転換点について考察している。"
+  },
+  {
+    "title": "金価格の週足転換の背景：原油安が一時的な下支え、中央銀行政策の引き締めは依然として重し - Moomoo",
+    "timestamp": "2026-09-21T08:14:33+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は週足で転換点を迎えている。原油安が一時的に支援している一方、中央銀行の政策引き締めが依然として重しとなっており、上下双方の要因が拮抗している状況。"
+  },
+  {
+    "title": "東京為替：ドル・円は変わらず、原油相場に反応 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-21T05:45:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "東京為替市場でドル・円相場が原油相場の動きに反応している状況を伝える解説記事。為替市場の動向を述べているが、具体的な原油価格変動幅やドル・円の変動内容が記事概要からは不明確。"
+  },
+  {
+    "title": "AI関連株が上昇、原油価格が下落する中、ウォール街は高値で寄り付く見通し - TradingView",
+    "timestamp": "2026-09-21T12:58:09+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "AI関連株の上昇がマーケット全体を牽引する中、原油価格は下落している。ウォール街は高値寄り付き見通しだが、原油部門は軟調。エネルギーセクターへの需要懸念が背景。"
+  },
+  {
+    "title": "今週のトランプ・習会談を前に大豆先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-21T18:39:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "トランプ・習近平会談を控え、米中貿易協議の進展期待から大豆先物が買われている。会談結果次第で大豆相場に影響する可能性がある。"
   }
 ]
