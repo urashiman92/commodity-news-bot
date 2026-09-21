@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil prices fall for third day on hopes of limited Saudi supply disruptions - reuters.com",
-    "timestamp": "2026-09-18T01:01:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの供給途絶が限定的との見通しから、3日続落で原油価格が軟化。地政学的リスク警戒は残るものの、市場は大幅な供給ショックを織り込みにくくなった。短期的には弱気圧力が優勢となっている。"
-  },
-  {
     "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - reuters.com",
     "timestamp": "2026-09-18T01:32:00+00:00",
     "importance": 3,
@@ -42,28 +31,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "日銀が予想通り利上げを実施し、円が下落した。原油は下げたが、これは金融引き締めによるリスク資産圧力と円安による需要減少要因が相殺した結果と考えられる。株価の上昇は円安効果で説明がつく。金は利上げによる無利子資産圧力で弱気材料。"
-  },
-  {
-    "title": "Oil prices set for weekly fall on easing fears over Saudi supply disruption - Reuters",
-    "timestamp": "2026-09-18T01:01:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの供給途絶懸念が緩和されたことを受けて、原油価格は週間ベースで下落基調にある。地政学的リスク要因の後退により、市場では一週間の値下がりが見込まれている。短期的なサプライズ要因は限定的で、既に市場に折り込まれつつある。"
-  },
-  {
-    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - EnergyNow.com",
-    "timestamp": "2026-09-17T22:35:47+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPEC内での石油生産枠の拡大を求めている。同国は財政難と新規油田開発投資の必要性から、現在の割当枠では不十分であると主張。この要求が認められた場合、OPECの総生産枠拡大圧力となり、原油価格の下押し要因となる可能性がある。"
   },
   {
     "title": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows - reuters.com",
@@ -427,5 +394,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの首都モスクワ地域でドローン攻撃により、石油精製施設が被弾し2名が死亡。ロシアの重要なエネルギーインフラへの直接的な損傷は供給懸念を増幅させる。地政学的リスクの顕在化により、市場は原油価格の上昇圧力に直面。"
+  },
+  {
+    "title": "Gold Price Rises to $4,379 as 5% Treasury Yield Tests the Central-Bank Bid - TechStock²",
+    "timestamp": "2026-09-20T23:36:20+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "金価格が$4,379まで上昇した。5%のトレジャリー利回りが中央銀行の買い需要に試練をもたらしている。金利上昇は無利子資産である金の下押し圧力となるが、地政学的リスクや金融市場不安定性が金買いを支えている状況を示唆している。"
+  },
+  {
+    "title": "Gold Price Rises to $4,379 as 5% Treasury Yield Tests the Central-Bank Bid - TechStock²",
+    "timestamp": "2026-09-20T23:36:20+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "金価格が$4,379まで上昇した。5%のトレジャリー利回りが中央銀行の買い需要に試練をもたらしている。金利上昇は無利子資産である金の下押し圧力となるが、地政学的リスクや金融市場不安定性が金買いを支えている状況を示唆している。"
+  },
+  {
+    "title": "Oil slips as investors assess Saudi export recovery - Reuters",
+    "timestamp": "2026-09-20T22:10:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油輸出回復見通しを受けて原油価格が軟調となっている。市場では供給増加の可能性を織り込み始めており、需給バランスの緩和が意識されている。OPECの減産政策との関係で今後の価格動向が注視される状況。"
+  },
+  {
+    "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock - Bloomberg.com",
+    "timestamp": "2026-09-20T23:01:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ウクライナ情勢に伴うブラックシー（黒海）の封鎖が、世界の食糧供給に深刻な脅威をもたらしている。黒海地域はグローバル穀物輸出の重要な通路であり、小麦・トウモロコシ・大豆などの主要農産物の供給ルートが遮断されることで、国際市場での供給ショックと価格上昇圧力が生じている。ホルムズ海峡と同等の戦略的重要性を持つ物流拠点の機能停止である。"
+  },
+  {
+    "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock - Bloomberg.com",
+    "timestamp": "2026-09-20T23:01:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "トウモロコシ",
+    "summary": "ウクライナ情勢に伴うブラックシー（黒海）の封鎖が、世界の食糧供給に深刻な脅威をもたらしている。黒海地域はグローバル穀物輸出の重要な通路であり、小麦・トウモロコシ・大豆などの主要農産物の供給ルートが遮断されることで、国際市場での供給ショックと価格上昇圧力が生じている。ホルムズ海峡と同等の戦略的重要性を持つ物流拠点の機能停止である。"
+  },
+  {
+    "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock - Bloomberg.com",
+    "timestamp": "2026-09-20T23:01:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "大豆",
+    "summary": "ウクライナ情勢に伴うブラックシー（黒海）の封鎖が、世界の食糧供給に深刻な脅威をもたらしている。黒海地域はグローバル穀物輸出の重要な通路であり、小麦・トウモロコシ・大豆などの主要農産物の供給ルートが遮断されることで、国際市場での供給ショックと価格上昇圧力が生じている。ホルムズ海峡と同等の戦略的重要性を持つ物流拠点の機能停止である。"
+  },
+  {
+    "title": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock - Bloomberg.com",
+    "timestamp": "2026-09-20T23:01:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナ情勢に伴うブラックシー（黒海）の封鎖が、世界の食糧供給に深刻な脅威をもたらしている。黒海地域はグローバル穀物輸出の重要な通路であり、小麦・トウモロコシ・大豆などの主要農産物の供給ルートが遮断されることで、国際市場での供給ショックと価格上昇圧力が生じている。ホルムズ海峡と同等の戦略的重要性を持つ物流拠点の機能停止である。"
   }
 ]
