@@ -515,5 +515,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-09-20T09:51:12+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要見通しを再び下方修正した。需要成長の鈍化傾向が続いており、これは電動車普及加速、経済成長鈍化、エネルギー効率改善が背景。需要減速は供給過剰リスクを高め、油価下押し圧力となる。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-09-20T09:51:12+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要見通しを再び下方修正した。需要成長の鈍化傾向が続いており、これは電動車普及加速、経済成長鈍化、エネルギー効率改善が背景。需要減速は供給過剰リスクを高め、油価下押し圧力となる。"
+  },
+  {
+    "title": "Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Reuters",
+    "timestamp": "2026-09-22T02:08:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "テック株がAI関連の買い直しで上昇する一方、原油価格の上昇と債券利回りの上昇が相場の上値を抑制。金利上昇圧力は金を下押し、原油は需要見通しの強気要因で支持される。複数コモディティに対する相反する圧力が存在。"
+  },
+  {
+    "title": "Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Reuters",
+    "timestamp": "2026-09-22T02:08:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "テック株がAI関連の買い直しで上昇する一方、原油価格の上昇と債券利回りの上昇が相場の上値を抑制。金利上昇圧力は金を下押し、原油は需要見通しの強気要因で支持される。複数コモディティに対する相反する圧力が存在。"
+  },
+  {
+    "title": "Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Reuters",
+    "timestamp": "2026-09-22T02:08:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "テック株がAI関連の買い直しで上昇する一方、原油価格の上昇と債券利回りの上昇が相場の上値を抑制。金利上昇圧力は金を下押し、原油は需要見通しの強気要因で支持される。複数コモディティに対する相反する圧力が存在。"
+  },
+  {
+    "title": "Saudis Tell Asian Refiners They Can Soon Pick Up Oil on Red Sea - Bloomberg.com",
+    "timestamp": "2026-09-22T06:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがアジア系製油所に対し、紅海での石油ピックアップが間もなく可能になると通告した。紅海での海運混乱による迂回航路の使用削減が進む兆候であり、アジア向け石油供給ルートの正常化が期待される。スエズ運河経由の輸送効率改善は運送コスト低下につながる可能性。"
+  },
+  {
+    "title": "China’s Gold Imports Top 1,000 Tons on Strong Investment Demand - Bloomberg.com",
+    "timestamp": "2026-09-22T03:52:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "中国の金輸入が1,000トンを超え、強い投資需要が観察されている。この大規模な輸入は、インフレ懸念や通貨不安を背景とした中国国内の金への逃避需要を示唆している。金価格の上昇要因となる可能性が高い。"
   }
 ]
