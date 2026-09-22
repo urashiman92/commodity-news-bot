@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日9月19日の金価格は、週末にかけて安定した状態を維持する見込みです。 - Vietnam.vn",
-    "timestamp": "2026-09-19T13:37:27+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月19日の金価格は週末にかけて安定推移の見込みとのコメンタリー。具体的な値動きの材料や方向性の示唆は含まれていない。単なる相場観測記事と判断される。"
-  },
-  {
-    "title": "本日2026年9月20日の金価格は、安値から反発しました。金利は金価格の上昇を阻害しておらず、ウォール街全体が上昇傾向に大きく賭けています。 - Vietnam.vn",
-    "timestamp": "2026-09-19T15:02:21+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が安値から反発し、上昇トレンドを示唆。金利上昇が価格上昇を阻害していない状況が続いている。市場全体の強気姿勢が背景。"
-  },
-  {
     "title": "本日（9月20日）の金価格：週の終わりに力強い上昇を見せました。 - Vietnam.vn",
     "timestamp": "2026-09-19T21:56:05+00:00",
     "importance": 2,
@@ -1571,5 +1549,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "神社の拝殿屋根から銅板が盗まれた窃盗事件。無人施設を狙う連続窃盗の可能性も指摘されている。コモディティ市場への影響は極めて限定的。"
+  },
+  {
+    "title": "本日2026年9月23日の金価格は下落圧力にさらされており、SJCと金指輪は急激に値下がりしているが、潜在的な需要は依然として存在する。 - Vietnam.vn",
+    "timestamp": "2026-09-22T15:07:54+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで金価格が下落圧力を受けており、SJCおよび金指輪の価格が急速に値下がりしている。ただし潜在的な需要は依然として存在する状況。"
+  },
+  {
+    "title": "SJCの金価格は1オンスあたり100万ベトナムドン以上下落し、高値で購入した人々にとってさらなる損失となっている。 - Vietnam.vn",
+    "timestamp": "2026-09-22T16:21:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が1オンスあたり100万ベトナムドン以上下落。高値掴みの投資家に追加損失をもたらしている。市場調整局面の続報。"
+  },
+  {
+    "title": "金先物(2612)【GCMAIN】株価掲示板｜投資家のコメント - Moomoo",
+    "timestamp": "2026-09-22T06:01:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物の投資家掲示板の投稿・コメント集約記事。具体的な価格情報や市場イベントの内容は記事概要から判断できない。"
+  },
+  {
+    "title": "【速報】NY原油先物続落、93.50ドル｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-22T12:29:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が93.50ドルまで続落している。速報ベースの相場情報であり、具体的な下落要因の記載がない。"
+  },
+  {
+    "title": "BofA、中東情勢の緊張が続くことを受け、ブレント原油価格の見通しを引き上げ - tradingview.com",
+    "timestamp": "2026-09-22T10:08:03+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "BofAが中東の地政学的緊張の継続を背景に、ブレント原油価格見通しを引き上げた。中東リスクプレミアムの現在化と供給不安の継続が想定される。既報の中東情勢を受けた観測的な見解である。"
+  },
+  {
+    "title": "原油価格の下落と国連外交がもたらす安堵感で米国債利回り曲線がフラット化 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-22T08:04:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落と国連外交による地政学的緊張緩和で、リスク資産へのシフトが進み米国債利回り曲線がフラット化した。市場心理的には安堵感が広がっているが、既に報じられた事象の解釈記事。"
+  },
+  {
+    "title": "サポート付近で価格が持ち合うCorn Futures：テクニカル見通し - Traders Union",
+    "timestamp": "2026-09-22T12:59:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がサポートレベル付近で値動きが限定的な局面を迎えている。テクニカル分析に基づく現在の相場ポジションについての解説。"
+  },
+  {
+    "title": "9月22日のSouthern Copper Corp (SCCO) 値動きは3.42%上昇：投資家が知っておくべき情報 - TradingKey",
+    "timestamp": "2026-09-22T17:16:14+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "Southern Copper Corp（SCCO）が9月22日に3.42%上昇。個別銘柄の日次変動を報じるもので、特定の新規情報や材料は示唆されていない。技術的な値動きの記述に過ぎない。"
+  },
+  {
+    "title": "「この罰当たりが！」神社で拝殿の屋根に敷かれた銅板が盗まれる 無人の神社狙う連続窃盗犯の可能性も（東海テレビ） - Yahoo!ニュース",
+    "timestamp": "2026-09-22T08:16:48+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "東海地方の神社から拝殿屋根の銅板が盗まれる窃盗事件が発生。連続窃盗犯の可能性も指摘されている。"
   }
 ]
