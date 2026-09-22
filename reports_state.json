@@ -592,5 +592,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "中国の金輸入が1,000トンを超え、強い投資需要が観察されている。この大規模な輸入は、インフレ懸念や通貨不安を背景とした中国国内の金への逃避需要を示唆している。金価格の上昇要因となる可能性が高い。"
+  },
+  {
+    "title": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters",
+    "timestamp": "2026-09-22T11:41:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが東西油送管（East-West Pipeline）の運用を再開したと報じられた。同パイプラインはペルシャ湾からの原油をペルシャ湾西岸に輸送する重要なインフラで、再開によってサウジの原油供給能力が向上し、供給懸念が緩和される可能性がある。再開時期と出荷能力の詳細は不明。"
+  },
+  {
+    "title": "India's Russian oil imports fell in August, seen lower in September, data shows - Reuters",
+    "timestamp": "2026-09-22T13:28:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インドのロシア産原油輸入が8月に減少し、9月もさらに低下が見込まれている。インドは主要な石油輸入国であり、ロシア産原油の購買量縮小はロシア原油の需要減少を示唆している。地政学的制裁環境下でのロシア産原油の販売先縮小は供給過剰圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Saudi Arabia Running Tests to Resume East-West Oil Pipeline - Bloomberg.com",
+    "timestamp": "2026-09-22T12:09:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが東西間油送パイプラインの再開に向けたテストを実施している。同パイプラインは2019年のドローン攻撃で被害を受けて以来、重要な供給インフラとして注視されている。再開は中東の原油供給安定性を高め、地政学的リスクプレミアムの低下につながる可能性がある。"
+  },
+  {
+    "title": "Jamie Dimon Says US Shouldn’t Punish India Over Russian Oil: CNBC TV18 - Bloomberg.com",
+    "timestamp": "2026-09-22T10:57:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "JPモルガンのCEOジェイミー・ダイモンが、米国はインドによるロシア産石油の購入を理由に制裁すべきではないとの見方を示した。地政学的緊張緩和の文脈で発言されたもので、インドのエネルギー調達政策の正当性を主張している。ロシア産原油の需要維持を示唆するコメントだが、具体的な政策変更は未定。"
+  },
+  {
+    "title": "Jamie Dimon Says US Shouldn’t Punish India Over Russian Oil: CNBC TV18 - Bloomberg.com",
+    "timestamp": "2026-09-22T10:57:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "JPモルガンのCEOジェイミー・ダイモンが、米国はインドによるロシア産石油の購入を理由に制裁すべきではないとの見方を示した。地政学的緊張緩和の文脈で発言されたもので、インドのエネルギー調達政策の正当性を主張している。ロシア産原油の需要維持を示唆するコメントだが、具体的な政策変更は未定。"
+  },
+  {
+    "title": "India’s Oil Buyers May Cut Russian Cargoes in Wake of US Threats - Bloomberg.com",
+    "timestamp": "2026-09-22T03:29:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がロシア産石油輸入に対する制裁脅迫を強化する中、インドの石油購入業者がロシア産カーゴの削減を検討している。インドはロシア産原油の主要購い手であり、同国の購入量削減は世界供給に大きな影響を与える可能性がある。米国の圧力強化により、ロシア産石油の需要縮小と価格下圧力が加速する見込み。"
+  },
+  {
+    "title": "New Zealand’s Central Bank Warns Near-Term Inflation May Beat Estimates as Oil Surges - Bloomberg.com",
+    "timestamp": "2026-09-22T03:39:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ニュージーランド中央銀行が、原油価格の上昇を背景にインフレが市場予想を上回る可能性があると警告した。近期的なインフレ圧力が強まる懸念から、金融引き締めの必要性が高まる可能性がある。エネルギー価格上昇がコモディティ全般に波及するリスクが指摘されている。"
+  },
+  {
+    "title": "New Zealand’s Central Bank Warns Near-Term Inflation May Beat Estimates as Oil Surges - Bloomberg.com",
+    "timestamp": "2026-09-22T03:39:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ニュージーランド中央銀行が、原油価格の上昇を背景にインフレが市場予想を上回る可能性があると警告した。近期的なインフレ圧力が強まる懸念から、金融引き締めの必要性が高まる可能性がある。エネルギー価格上昇がコモディティ全般に波及するリスクが指摘されている。"
   }
 ]
