@@ -1,38 +1,5 @@
 [
   {
-    "title": "USDA lowers 2026 red meat and poultry production forecast - High Plains Journal",
-    "timestamp": "2026-09-19T21:35:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが2026年の赤肉および家禽生産予測を下方修正した。供給削減は飼料穀物（トウモロコシ・大豆）の需要減少につながる一方、赤肉・鶏肉価格の上昇圧力となる見込み。具体的な修正幅は報道では明記されていないが、供給サイドの制約が強まる環境を示唆している。"
-  },
-  {
-    "title": "USDA lowers 2026 red meat and poultry production forecast - High Plains Journal",
-    "timestamp": "2026-09-19T21:35:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが2026年の赤肉および家禽生産予測を下方修正した。供給削減は飼料穀物（トウモロコシ・大豆）の需要減少につながる一方、赤肉・鶏肉価格の上昇圧力となる見込み。具体的な修正幅は報道では明記されていないが、供給サイドの制約が強まる環境を示唆している。"
-  },
-  {
-    "title": "USDA lowers 2026 red meat and poultry production forecast - High Plains Journal",
-    "timestamp": "2026-09-19T21:35:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2026年の赤肉および家禽生産予測を下方修正した。供給削減は飼料穀物（トウモロコシ・大豆）の需要減少につながる一方、赤肉・鶏肉価格の上昇圧力となる見込み。具体的な修正幅は報道では明記されていないが、供給サイドの制約が強まる環境を示唆している。"
-  },
-  {
     "title": "Hop Stocks",
     "timestamp": "2026-09-20T12:24:56.538959+00:00",
     "importance": 3,
@@ -680,5 +647,71 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が8月の産出量を減少させたが、ホルムズ海峡でのシャトル輸送（パイプライン代替輸送）が需給を支えている。供給削減圧力と物流維持のバランスが市場で相反する材料として作用。地政学的リスク要因が継続している。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-09-22T22:12:25.041055+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "米国24州の8月牛乳生産量が192億ポンドで、前年同月比1.8%増加。増産は飼料穀物（トウモロコシ・大豆）需要の増加を示唆し、需給のタイト化により穀物価格への上昇圧力となる可能性がある。ただし1.8%の増加幅は通常範囲内の伸び。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-09-22T22:12:25.041055+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "米国24州の8月牛乳生産量が192億ポンドで、前年同月比1.8%増加。増産は飼料穀物（トウモロコシ・大豆）需要の増加を示唆し、需給のタイト化により穀物価格への上昇圧力となる可能性がある。ただし1.8%の増加幅は通常範囲内の伸び。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-09-22T22:12:25.041055+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "米国24州の8月牛乳生産量が192億ポンドで、前年同月比1.8%増加。増産は飼料穀物（トウモロコシ・大豆）需要の増加を示唆し、需給のタイト化により穀物価格への上昇圧力となる可能性がある。ただし1.8%の増加幅は通常範囲内の伸び。"
+  },
+  {
+    "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold - oilprice.com",
+    "timestamp": "2026-09-22T21:08:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計によると、ガソリンとディスティレート（軽油など)在庫は引き続き低下している一方、原油在庫は横ばいで推移している。供給面での安定性は維持されているが、精製燃料の在庫低下は中期的な需給引き締まりを示唆している。"
+  },
+  {
+    "title": "Corn yield forecasts fall - Leader-Telegram",
+    "timestamp": "2026-09-20T12:13:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国のトウモロコシ収穫高予測が下方修正された。Crop Progress報告に基づくUSDAの生産量見通しが低下する可能性があり、供給懸念から価格上昇圧力となる一方、需要減速シナリオではこれが相殺される見込み。具体的な修正幅の詳細は記事から不明だが、市場センチメント転換の可能性あり。"
+  },
+  {
+    "title": "Russian Oil Flows Dip as US Sanctions, Saudi Supplies Loom - Bloomberg.com",
+    "timestamp": "2026-09-22T15:03:13+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国制裁とサウジアラビアの供給圧力が高まる中、ロシアの石油流出量が減少している。制裁強化による供給制約とOPEC主要国の供給増加が相反する圧力として作用し、原油市場の需給バランスに複雑な影響をもたらしている。"
   }
 ]
