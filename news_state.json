@@ -11,17 +11,6 @@
     "summary": "9月20日の金価格が週末に力強い上昇を示した。ベトナムメディアによる相場の振り返り記事。具体的な上昇率や材料は不明。"
   },
   {
-    "title": "中東情勢、原油価格に注目 - shimotsuke.co.jp",
-    "timestamp": "2026-09-19T20:38:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢が原油価格に影響を与える可能性について報じているニュース。地政学的リスク要因として注視されている状況。"
-  },
-  {
     "title": "日銀は利上げしたのになぜ円安？ FOMC・原油高・米金利5％から今の相場を整理【相場の現在地】 - 外為どっとコム",
     "timestamp": "2026-09-19T21:04:51+00:00",
     "importance": 3,
@@ -1648,5 +1637,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "東海地方の神社から拝殿屋根の銅板が盗まれる窃盗事件が発生。連続窃盗犯の可能性も指摘されている。"
+  },
+  {
+    "title": "NY株反発 366ドル高 原油価格下落を好感 - 沖縄タイムス社",
+    "timestamp": "2026-09-22T18:57:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株が原油価格下落を好感して366ドル反発した。原油価格の下落はインフレ圧力緩和とみなされ、株式市場にポジティブに作用した。コモディティ投資家にとっては原油相場の弱気局面を示唆している。"
+  },
+  {
+    "title": "トレーダーが米中貿易協議を待つ中、トウモロコシ先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-22T20:20:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米中貿易協議の結果を待つ姿勢から、トウモロコシ先物が売られている。トレーダーが協議の動向を見極めるまでポジション調整を進めており、様子見相場が継続。"
+  },
+  {
+    "title": "米中首脳会談を前に大豆先物が小幅な動きにとどまる 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-22T18:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "米中首脳会談を控えて大豆先物が方向感を欠いた小幅な値動きにとどまっている。市場は会談結果を見極める様子見姿勢。通商交渉の行方が今後の価格変動の鍵。"
+  },
+  {
+    "title": "銅価格は6営業日連続で上昇し、過去最高値に迫っている。 - Vietnam.vn",
+    "timestamp": "2026-09-22T16:36:01+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が6営業日連続で上昇し、過去最高値に接近している。継続的な上昇トレンドを示しており、市場では需要強気やドル弱気などの支援要因が作用している。"
   }
 ]
