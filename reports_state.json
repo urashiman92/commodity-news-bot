@@ -187,17 +187,6 @@
     "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
   },
   {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-19T18:56:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の石油生産を137,000バレル/日（bpd）増加させることを検討している。これは段階的な増産方針の一環であり、市場では既に織り込まれている可能性が高い。小幅な増産であり、現在のOPEC+の慎重な姿勢を反映している。"
-  },
-  {
     "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
     "timestamp": "2026-09-21T14:35:43+00:00",
     "importance": 4,
@@ -306,17 +295,6 @@
     "source": "USDA NASS公式",
     "commodity": "大豆",
     "summary": "USDA NASSのCrop Progress定期発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を報告。具体的な進捗率や条件評価により、春植え穀物の供給見通しに関する市場の期待値が修正される可能性がある。"
-  },
-  {
-    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - energynow.com",
-    "timestamp": "2026-09-19T16:14:24+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国原油在庫が1年近辺の高水準まで上昇した。輸出入ともに減少する中での在庫増加は、需要の弱さと供給過剰の可能性を示唆している。季節性を考慮しても需給タイト化の期待値を下げる材料となる。"
   },
   {
     "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - energynow.com",
@@ -680,5 +658,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ニュージーランド中央銀行が、原油価格の上昇を背景にインフレが市場予想を上回る可能性があると警告した。近期的なインフレ圧力が強まる懸念から、金融引き締めの必要性が高まる可能性がある。エネルギー価格上昇がコモディティ全般に波及するリスクが指摘されている。"
+  },
+  {
+    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-22T09:05:49+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国商業用原油在庫が2018年以来の最低水準に低下。輸出増加と製油所の処理量向上が主因。在庫減少は原油需給を逼迫させ、価格上昇要因となる。一方、在庫低下がすでに市場織り込み済みであればサプライズは限定的。"
+  },
+  {
+    "title": "Opec-Plus: August Output Drops, But Hormuz Shuttle Props - Energy Intelligence",
+    "timestamp": "2026-09-22T16:09:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が8月の産出量を減少させたが、ホルムズ海峡でのシャトル輸送（パイプライン代替輸送）が需給を支えている。供給削減圧力と物流維持のバランスが市場で相反する材料として作用。地政学的リスク要因が継続している。"
   }
 ]
