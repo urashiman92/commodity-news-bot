@@ -1,16 +1,5 @@
 [
   {
-    "title": "Iraq requests OPEC production quota increase to 6 million barrels per day baseline - Energies Media",
-    "timestamp": "2026-09-19T00:15:25+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPECに対し、生産枠の基準値を600万バレル/日への引き上げを要請した。現在の割り当てより増産を望む立場を表明したもので、OPEC内での生産枠配分交渉が続いていることを示唆している。市場ではイラクの増産要求が実現する可能性は限定的と見られている。"
-  },
-  {
     "title": "USDA lowers 2026 red meat and poultry production forecast - High Plains Journal",
     "timestamp": "2026-09-19T21:35:46+00:00",
     "importance": 3,
@@ -427,5 +416,104 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアが黒海穀物輸出路の代替として、バルト海・北極圏港湾の肥料・石炭ターミナルを穀物輸出に転用・適応させている。黒海経由の輸出制限下で、ロシアは新たな流通ルートを確保し、穀物・肥料供給の地政学的リスク再配置を示唆。西側制裁回避の新しい戦略展開。"
+  },
+  {
+    "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening - Yahoo Finance",
+    "timestamp": "2026-09-21T20:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の主要国であるサウジアラビアとロシアの沈黙が市場に不透明感をもたらしている。減産政策の継続・調整に関する公式発表やシグナルの欠如が、原油市場の方向性を不確実にしており、投資家心理が揺らぐ可能性がある。政策動向の不確実性が価格変動性を高めるリスク要因となる。"
+  },
+  {
+    "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening - Yahoo Finance",
+    "timestamp": "2026-09-21T20:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPEC+の主要国であるサウジアラビアとロシアの沈黙が市場に不透明感をもたらしている。減産政策の継続・調整に関する公式発表やシグナルの欠如が、原油市場の方向性を不確実にしており、投資家心理が揺らぐ可能性がある。政策動向の不確実性が価格変動性を高めるリスク要因となる。"
+  },
+  {
+    "title": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters",
+    "timestamp": "2026-09-21T15:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがパイプライン攻撃後、ペルシャ湾への石油輸出を増加させていることが貿易データで確認された。供給途絶リスクの緩和を示唆するもので、既報の復旧予定に沿った進展。地政学的リスク緩和が価格下押し要因となる可能性がある。"
+  },
+  {
+    "title": "Indian shares open higher on easing oil prices, bond yields - Reuters",
+    "timestamp": "2026-09-22T02:27:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド株式市場が原油価格の緩和とインド債利回りの低下を受けて高く寄り付いた。原油価格の低下がインド経済に好材料として作用し、エネルギーコスト圧力の緩和が株式買い需要につながっている。スタグフレーション懸念の軽減がコモディティ需要見通しにも部分的にポジティブ。"
+  },
+  {
+    "title": "Indian shares open higher on easing oil prices, bond yields - Reuters",
+    "timestamp": "2026-09-22T02:27:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド株式市場が原油価格の緩和とインド債利回りの低下を受けて高く寄り付いた。原油価格の低下がインド経済に好材料として作用し、エネルギーコスト圧力の緩和が株式買い需要につながっている。スタグフレーション懸念の軽減がコモディティ需要見通しにも部分的にポジティブ。"
+  },
+  {
+    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
+    "timestamp": "2026-09-21T20:39:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
+  },
+  {
+    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
+    "timestamp": "2026-09-21T20:39:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
+  },
+  {
+    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
+    "timestamp": "2026-09-21T20:39:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
+  },
+  {
+    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
+    "timestamp": "2026-09-21T20:39:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
   }
 ]
