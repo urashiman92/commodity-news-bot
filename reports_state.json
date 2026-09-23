@@ -900,5 +900,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米中首脳会談を控えて、原油は上昇傾向を示す一方、米国債利回りが上昇し、金などの無利子資産に下落圧力がかかっている。ウォール街全体では株価が下落。地政学的緊張と金利上昇が対立する市場環境となっている。"
+  },
+  {
+    "title": "US crude inventories rise while fuel stocks decline, EIA says - Investing.com",
+    "timestamp": "2026-09-23T17:14:15+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが発表した週間在庫統計で、米国の原油在庫が増加した一方で、ガソリンなどの製品在庫が減少した。原油在庫の増加は供給過剰シグナルとなり下落圧力だが、燃料在庫の減少は需要堅調を示唆する。事前予想値が開示されていないため、正確なサプライズ度は判定不可。"
+  },
+  {
+    "title": "Railroads Expect Strong Corn Demand Despite Smaller Crop - RFD-TV",
+    "timestamp": "2026-09-22T20:57:10+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "鉄道業界がより小さいトウモロコシ作物にもかかわらず強い需要を見込んでいるとの業界観測。供給減少への対抗として輸送需要の堅調さが指摘されているが、具体的な数値やデータは提供されていない。鉄道輸送需要は穀物流通の重要な指標だが、相反する要因（供給減 vs 需要強気）が混在している。"
   }
 ]
