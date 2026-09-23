@@ -1,16 +1,5 @@
 [
   {
-    "title": "Hop Stocks",
-    "timestamp": "2026-09-20T12:24:56.538959+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが発表した9月1日時点のホップ在庫が前年同期比で9%減少した。ホップはビール醸造用の重要な農産物であり、在庫減少は供給逼迫と価格上昇圧力を示唆する。ただしホップ単体のコモディティ市場としての規模は限定的。"
-  },
-  {
     "title": "Gold Price Rises to $4,379 as 5% Treasury Yield Tests the Central-Bank Bid - TechStock²",
     "timestamp": "2026-09-20T23:36:20+00:00",
     "importance": 3,
@@ -660,17 +649,6 @@
     "summary": "EIAの週間在庫統計によると、ガソリンとディスティレート（軽油など)在庫は引き続き低下している一方、原油在庫は横ばいで推移している。供給面での安定性は維持されているが、精製燃料の在庫低下は中期的な需給引き締まりを示唆している。"
   },
   {
-    "title": "Corn yield forecasts fall - Leader-Telegram",
-    "timestamp": "2026-09-20T12:13:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国のトウモロコシ収穫高予測が下方修正された。Crop Progress報告に基づくUSDAの生産量見通しが低下する可能性があり、供給懸念から価格上昇圧力となる一方、需要減速シナリオではこれが相殺される見込み。具体的な修正幅の詳細は記事から不明だが、市場センチメント転換の可能性あり。"
-  },
-  {
     "title": "Russian Oil Flows Dip as US Sanctions, Saudi Supplies Loom - Bloomberg.com",
     "timestamp": "2026-09-22T15:03:13+00:00",
     "importance": 3,
@@ -834,5 +812,93 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシア・ウクライナ戦争の長期化により、小麦購入者はコスト上昇に備える必要がある。両国は世界の小麦供給の約3割を占める主要生産国であり、紛争の継続は供給懸念と価格上昇圧力を持続させている。市場参加者は在庫確保と契約交渉を急ぐ見込み。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - finance.yahoo.com",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが原油在庫の300万バレル積み増しを報告した一方で、留意すべきはディスティレート（軽油・暖房油）在庫が平年比12%低水準に落ち込んでいる点である。原油供給の緩和と精製品需要のアンバランスが同時進行しており、市場の需給バランスに対する不透明感が増している。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - finance.yahoo.com",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIAが原油在庫の300万バレル積み増しを報告した一方で、留意すべきはディスティレート（軽油・暖房油）在庫が平年比12%低水準に落ち込んでいる点である。原油供給の緩和と精製品需要のアンバランスが同時進行しており、市場の需給バランスに対する不透明感が増している。"
+  },
+  {
+    "title": "US Total Weekly EIA Crude Oil Stocks Rise by 2.6 Million Barrels After Prior 1.0 Million Decrease - Moomoo",
+    "timestamp": "2026-09-23T14:30:25+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の総原油在庫が260万バレル増加した。前週は100万バレルの減少だったため、今週は増加に転じた。EIAの週間在庫統計は定例発表で、通常の需給バランス変動の範囲内と考えられる。"
+  },
+  {
+    "title": "US EIA Crude Oil Stocks Change (Sep/18) 2.969M vs. Exp. -0.6M (Prev. -0.64M) - Newsquawk",
+    "timestamp": "2026-09-23T14:50:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "9月18日のEIA原油在庫統計で、予想を大幅に上回る296.9万バレルの増加が報告された。市場予想は60万バレルの減少、前週は64万バレルの減少であり、増加から減少への反転が予想されていたが、逆に大幅な増加となった。この結果は原油需要の弱さと供給過剰を示唆し、価格下落圧力となる。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-09-21T23:36:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後の独立的な増産計画を推進し、来年の石油産出量を日量500万バレル超に引き上げる見通しをIEAが示唆。UAEの増産動向はOPEC減産合意の弱体化を意味し、供給サイドの緩和圧力が強まる可能性がある。"
+  },
+  {
+    "title": "Wall St falls as oil ticks up, yields rise ahead of US-China summit - Reuters",
+    "timestamp": "2026-09-23T14:23:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米中首脳会談を控えて、原油は上昇傾向を示す一方、米国債利回りが上昇し、金などの無利子資産に下落圧力がかかっている。ウォール街全体では株価が下落。地政学的緊張と金利上昇が対立する市場環境となっている。"
+  },
+  {
+    "title": "Wall St falls as oil ticks up, yields rise ahead of US-China summit - Reuters",
+    "timestamp": "2026-09-23T14:23:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米中首脳会談を控えて、原油は上昇傾向を示す一方、米国債利回りが上昇し、金などの無利子資産に下落圧力がかかっている。ウォール街全体では株価が下落。地政学的緊張と金利上昇が対立する市場環境となっている。"
+  },
+  {
+    "title": "Wall St falls as oil ticks up, yields rise ahead of US-China summit - Reuters",
+    "timestamp": "2026-09-23T14:23:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米中首脳会談を控えて、原油は上昇傾向を示す一方、米国債利回りが上昇し、金などの無利子資産に下落圧力がかかっている。ウォール街全体では株価が下落。地政学的緊張と金利上昇が対立する市場環境となっている。"
   }
 ]
