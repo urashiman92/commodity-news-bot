@@ -1,82 +1,5 @@
 [
   {
-    "title": "本日（9月20日午後）の金価格：SJCの金価格は安定しています。 - Vietnam.vn",
-    "timestamp": "2026-09-20T07:50:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が9月20日午後の時点で安定していることを報じたニュース。特に大きな変動や材料がない通常の相場報告。"
-  },
-  {
-    "title": "2026年9月20日午後の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
-    "timestamp": "2026-09-20T08:49:04+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトが2026年9月20日午後の金地金、9999金リング、国際金の価格を掲載。定期的な価格表示の更新で市場への新たなニュースバリューは限定的。"
-  },
-  {
-    "title": "SJCの金価格、2026年9月20日午後のDOJI、BTMC、Phu Quy、PNJにおける金指輪の価格、および世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-09-20T07:34:54+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売業者（SJC、DOJI、BTMC等）における金指輪の現在価格と世界金価格の情報提供記事。定期的な価格リポートであり、市場展開の新情報を含まない。"
-  },
-  {
-    "title": "金価格は上昇傾向を続けており、専門家は来週の貴金属価格の上昇に楽観的な見方を示している。 - Vietnam.vn",
-    "timestamp": "2026-09-20T10:46:36+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は上昇傾向を継続している。専門家が来週の貴金属価格のさらなる上昇に楽観的な見方を示している。既知の材料に基づくアナリスト見解。"
-  },
-  {
-    "title": "本日（2026年9月20日）の金価格：SJC金は1オンスあたり1億4460万～1億4760万ベトナムドンで、変動なし。 - Vietnam.vn",
-    "timestamp": "2026-09-20T09:39:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が1オンス当たり1億4460万～1億4760万ベトナムドンで変動なし。単なる日次相場報告であり、市場変動やニュースイベントはなし。"
-  },
-  {
-    "title": "フーシとサウジの戦闘激化 首都リヤドにも攻撃 原油価格高騰に懸念 [米・イスラエルのイラン攻撃 イラン情勢] - 朝日新聞",
-    "timestamp": "2026-09-20T11:41:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イエメンのフーシとサウジアラビアの戦闘が激化し、サウジの首都リヤドへの攻撃が報告された。中東の主要産油国での地政学的緊張が高まり、原油供給リスクが顕在化した。"
-  },
-  {
-    "title": "米大統領がオルムズ海峡の重要性を否定、原油価格が急騰 | ウクライナニュース - #Mezha - mezha.net",
-    "timestamp": "2026-09-20T10:39:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米大統領がオルムズ海峡の戦略的重要性を否定する発言を行い、市場が懸念を示して原油価格が急騰。海峡封鎖リスクの再認識が価格上昇を誘発。"
-  },
-  {
     "title": "金価格は本日9月20日、大幅高で取引を終えたが、買い手は依然として大きな損失を被った。 - Vietnam.vn",
     "timestamp": "2026-09-20T14:43:43+00:00",
     "importance": 2,
@@ -1835,5 +1758,104 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "コーヒー価格が3カ月ぶりの安値をつけた。商品市場全体が不安定な環境にある。供給過剰や需要弱化の可能性がある。"
+  },
+  {
+    "title": "黒海産小麦、アジア向け供給がほぼ途絶 世界食料価格は3年半ぶり高値 - BigGo ファイナンス",
+    "timestamp": "2026-09-23T08:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ウクライナ情勢に関連して黒海からのアジア向け小麦供給がほぼ途絶した。世界食料価格指数が3年半ぶりの高値を更新。供給ショックにより小麦価格上昇が加速。"
+  },
+  {
+    "title": "TSX先物、金価格下落で小幅安―中東和平への期待とMeta AIに注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-23T11:42:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物が小幅下落。中東和平への期待とMeta AIへの関心が材料。リスク選好の高まりが金需要を抑制している。"
+  },
+  {
+    "title": "金利が高止まりするとの見通しを受け、金価格は下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-23T07:13:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "高金利が継続するとの見通しから金価格が下落した。金利上昇環境は金の利回りが負になるため、金需要を抑制する要因として機能している。実質金利と金価格の逆相関関係が改めて確認された形。"
+  },
+  {
+    "title": "2026年9月23日午後の金価格：宝天民洲（DOJI）、宝天民海（SJC）から世界の金価格まで。 - Vietnam.vn",
+    "timestamp": "2026-09-23T11:04:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトが2026年9月23日午後の金相場を報道。DOJI、SJC等の国内価格と世界金価格の相場情報を提供。"
+  },
+  {
+    "title": "本日9月23日の金価格：底値買い後のSJC金とバオティンミンチャウ金指輪の価格はいくらでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-09-23T03:28:27+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金とバオティンミンチャウ金指輪）の日次相場情報。底値買い後の現在価格を提示するローカルニュース。"
+  },
+  {
+    "title": "原油価格が1バレル100ドルを下回った後、なぜ金価格は依然として重圧に喘いでいるのか - Moomoo",
+    "timestamp": "2026-09-23T11:20:15+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドル/バレルを下回る中で、金価格が依然として弱含みが続いている状況についての解説記事。原油と金の価格動向の乖離理由を分析するコメンタリー。"
+  },
+  {
+    "title": "中東情勢の軟化でWTI原油価格は90ドル割れへ、 ドル円はレートチェックから神経質な動きに終始 - ザイFX！",
+    "timestamp": "2026-09-23T06:42:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東地政学リスクの緩和を受けWTI原油が90ドル割れへ下落。地域情勢の軟化が価格圧力となっている。ドル円も神経質な値動きに終始。"
+  },
+  {
+    "title": "ＥＣＢ政策判断、原油価格の重要性高まる＝独連銀総裁（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-09-22T21:07:55+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ECB（欧州中央銀行）のインフレ判断において原油価格の重要性が高まっていることを、ドイツ連銀総裁が指摘。既知の事実の確認的な発言。"
+  },
+  {
+    "title": "AIブームに乗り遅れたか バリー氏は銅に注目 - BeInCrypto",
+    "timestamp": "2026-09-23T10:44:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "著名投資家バリー氏が銅への注目を表明。AI関連投資が過熱する中、銅はインフラ投資やEV需要の基盤として再評価される可能性を指摘。"
   }
 ]
