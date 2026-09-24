@@ -1,38 +1,5 @@
 [
   {
-    "title": "Chickens and Eggs",
-    "timestamp": "2026-09-21T19:32:54.812701+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
-  },
-  {
-    "title": "Chickens and Eggs",
-    "timestamp": "2026-09-21T19:32:54.812701+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
-  },
-  {
-    "title": "Chickens and Eggs",
-    "timestamp": "2026-09-21T19:32:54.812701+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-09-21T23:18:57.454157+00:00",
     "importance": 2,
@@ -66,72 +33,6 @@
     "summary": "USDA NASSのCrop Progress定期発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を報告。具体的な進捗率や条件評価により、春植え穀物の供給見通しに関する市場の期待値が修正される可能性がある。"
   },
   {
-    "title": "USDA Crop Progress Report: Corn and Soybean Conditions Slightly Below Year-Ago Levels - IndexBox",
-    "timestamp": "2026-09-21T20:20:28+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの定期作物進捗レポートでトウモロコシと大豆の作柄状況が前年同期比でやや悪化したことが報告された。前年水準を下回る生育状況は供給懸念につながる可能性があるが、現時点では市場予想の大幅な乖離ではなく、継続モニタリングが必要。"
-  },
-  {
-    "title": "USDA Crop Progress Report: Corn and Soybean Conditions Slightly Below Year-Ago Levels - IndexBox",
-    "timestamp": "2026-09-21T20:20:28+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの定期作物進捗レポートでトウモロコシと大豆の作柄状況が前年同期比でやや悪化したことが報告された。前年水準を下回る生育状況は供給懸念につながる可能性があるが、現時点では市場予想の大幅な乖離ではなく、継続モニタリングが必要。"
-  },
-  {
-    "title": "Where Is OPEC Riyadh and Moscow's Silence Is Becoming Deafening - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-21T20:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECとロシアの沈黙が市場の不確実性を高めている。減産政策の継続や追加調整に関する明確な声明がないため、市場参加者の間で原油価格の方向感が曖昧になっている状況。リヤドとモスクワの政策スタンスの明確化が価格形成の重要なカギになっている。"
-  },
-  {
-    "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - energynow.com",
-    "timestamp": "2026-09-21T21:57:02+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が石油生産量のさらなる増加を承認した。ホルムズ海峡経由の輸出が回復局面に入っており、供給面での懸念が緩和される見通し。既定路線の増産継続であり市場は概ね織り込み済みだが、地政学的リスク軽減により原油価格の上値が限定される可能性。"
-  },
-  {
-    "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening - Yahoo Finance",
-    "timestamp": "2026-09-21T20:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の主要国であるサウジアラビアとロシアの沈黙が市場に不透明感をもたらしている。減産政策の継続・調整に関する公式発表やシグナルの欠如が、原油市場の方向性を不確実にしており、投資家心理が揺らぐ可能性がある。政策動向の不確実性が価格変動性を高めるリスク要因となる。"
-  },
-  {
-    "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening - Yahoo Finance",
-    "timestamp": "2026-09-21T20:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPEC+の主要国であるサウジアラビアとロシアの沈黙が市場に不透明感をもたらしている。減産政策の継続・調整に関する公式発表やシグナルの欠如が、原油市場の方向性を不確実にしており、投資家心理が揺らぐ可能性がある。政策動向の不確実性が価格変動性を高めるリスク要因となる。"
-  },
-  {
     "title": "Indian shares open higher on easing oil prices, bond yields - Reuters",
     "timestamp": "2026-09-22T02:27:00+00:00",
     "importance": 2,
@@ -152,50 +53,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インド株式市場が原油価格の緩和とインド債利回りの低下を受けて高く寄り付いた。原油価格の低下がインド経済に好材料として作用し、エネルギーコスト圧力の緩和が株式買い需要につながっている。スタグフレーション懸念の軽減がコモディティ需要見通しにも部分的にポジティブ。"
-  },
-  {
-    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
-    "timestamp": "2026-09-21T20:39:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
-  },
-  {
-    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
-    "timestamp": "2026-09-21T20:39:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
-  },
-  {
-    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
-    "timestamp": "2026-09-21T20:39:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
-  },
-  {
-    "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks - Bloomberg",
-    "timestamp": "2026-09-21T20:39:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "米中協議の進展がリスク資産への買い戻しを促し、新興国株式・通貨が上昇。リスクオン環境ではドル安圧力が強まり、ドル建てコモディティ全般が支援される。ただし具体的な合意内容が不明確なため、織り込みは限定的と考えられる。"
   },
   {
     "title": "Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Reuters",
@@ -1131,5 +988,159 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "インドのロシア産原油輸入量が8月に減少し、9月もさらに低下が見込まれている。インドはロシア産原油の主要購入国だが、西側制裁の影響やインド国内需要の変化により輸入量が縮小している。この減少はロシア産原油の市場における買い手減少を示唆している。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-09-24T22:28:37.510952+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSの発表によると、商業的赤肉生産量が前年比1%減少した。前年同期との比較では限定的な供給減となっており、飼料用穀物（トウモロコシ・大豆）の需要減少圧力につながる可能性がある。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-09-24T22:28:37.510952+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSの発表によると、商業的赤肉生産量が前年比1%減少した。前年同期との比較では限定的な供給減となっており、飼料用穀物（トウモロコシ・大豆）の需要減少圧力につながる可能性がある。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-09-24T22:28:37.510952+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの発表によると、商業的赤肉生産量が前年比1%減少した。前年同期との比較では限定的な供給減となっており、飼料用穀物（トウモロコシ・大豆）の需要減少圧力につながる可能性がある。"
+  },
+  {
+    "title": "Hogs and Pigs",
+    "timestamp": "2026-09-24T22:28:41.311222+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSの豚飼養頭数統計で米国の豚在庫が前年同期比2%減少。飼養頭数の減少は豚肉供給の潜在的な逼迫を意味し、飼料需要（トウモロコシ・大豆粕）の減少につながる可能性がある。養豚業界のコスト圧力が継続している状況を反映。"
+  },
+  {
+    "title": "Hogs and Pigs",
+    "timestamp": "2026-09-24T22:28:41.311222+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSの豚飼養頭数統計で米国の豚在庫が前年同期比2%減少。飼養頭数の減少は豚肉供給の潜在的な逼迫を意味し、飼料需要（トウモロコシ・大豆粕）の減少につながる可能性がある。養豚業界のコスト圧力が継続している状況を反映。"
+  },
+  {
+    "title": "Hogs and Pigs",
+    "timestamp": "2026-09-24T22:28:41.311222+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの豚飼養頭数統計で米国の豚在庫が前年同期比2%減少。飼養頭数の減少は豚肉供給の潜在的な逼迫を意味し、飼料需要（トウモロコシ・大豆粕）の減少につながる可能性がある。養豚業界のコスト圧力が継続している状況を反映。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-24T09:38:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "DTN Progressive Farmerによる定期的な作物進捗レポート。具体的な統計データが提供されていないため、詳細な市場インパクトの評価が困難。通常は米国農務省の公式Crop Progressレポートの業界解説版として機能するが、本ソースからは具体的な数値や前週比が抽出できない。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-24T09:38:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "DTN Progressive Farmerによる定期的な作物進捗レポート。具体的な統計データが提供されていないため、詳細な市場インパクトの評価が困難。通常は米国農務省の公式Crop Progressレポートの業界解説版として機能するが、本ソースからは具体的な数値や前週比が抽出できない。"
+  },
+  {
+    "title": "Special Reports - DTN Progressive Farmer",
+    "timestamp": "2026-09-24T09:38:56+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "DTN Progressive Farmerによる定期的な作物進捗レポート。具体的な統計データが提供されていないため、詳細な市場インパクトの評価が困難。通常は米国農務省の公式Crop Progressレポートの業界解説版として機能するが、本ソースからは具体的な数値や前週比が抽出できない。"
+  },
+  {
+    "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says - reuters.com",
+    "timestamp": "2026-09-24T19:51:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "マクロン仏大統領がサウジアラビア防衛のため仏軍をイエメン紅海沿岸に派遣すると発表。フーシ派による石油輸送路攻撃が継続する中、欧州列強による直接的軍事介入は地政学リスク大幅上昇を示唆。紅海経由の原油輸送ルート確保が戦略的優先事項に上昇。"
+  },
+  {
+    "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says - reuters.com",
+    "timestamp": "2026-09-24T19:51:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "マクロン仏大統領がサウジアラビア防衛のため仏軍をイエメン紅海沿岸に派遣すると発表。フーシ派による石油輸送路攻撃が継続する中、欧州列強による直接的軍事介入は地政学リスク大幅上昇を示唆。紅海経由の原油輸送ルート確保が戦略的優先事項に上昇。"
+  },
+  {
+    "title": "Stocks Drop as Oil Rally Fuels Treasury Volatility: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-23T22:17:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油相場の上昇がトレジャリー市場のボラティリティを引き起こし、株式市場の下落につながったとの報道。原油高は金融引き締め懸念と結びつき、実質金利上昇によって金などドルベースの無利子資産に下落圧力。マクロ環境の不安定性が強まった状況を示唆。"
+  },
+  {
+    "title": "Stocks Drop as Oil Rally Fuels Treasury Volatility: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-23T22:17:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "原油相場の上昇がトレジャリー市場のボラティリティを引き起こし、株式市場の下落につながったとの報道。原油高は金融引き締め懸念と結びつき、実質金利上昇によって金などドルベースの無利子資産に下落圧力。マクロ環境の不安定性が強まった状況を示唆。"
+  },
+  {
+    "title": "Stocks Drop as Oil Rally Fuels Treasury Volatility: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-23T22:17:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油相場の上昇がトレジャリー市場のボラティリティを引き起こし、株式市場の下落につながったとの報道。原油高は金融引き締め懸念と結びつき、実質金利上昇によって金などドルベースの無利子資産に下落圧力。マクロ環境の不安定性が強まった状況を示唆。"
   }
 ]
