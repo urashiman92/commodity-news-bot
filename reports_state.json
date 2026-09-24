@@ -33,17 +33,6 @@
     "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
   },
   {
-    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
-    "timestamp": "2026-09-21T14:35:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）の在庫が1982年以来の最低水準に低下した。SPRの枯渇は供給バッファの喪失を意味し、地政学的リスクや供給ショックに対する米国の緩衝能力が大幅に減少。原油の供給逼迫懸念が強まり、価格上昇圧力となる。"
-  },
-  {
     "title": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters",
     "timestamp": "2026-09-21T17:14:28+00:00",
     "importance": 3,
@@ -75,28 +64,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "AI楽観論の再燃と米国債利回りの低下がウォール街を買い優勢に導いた。金利低下環境は金などの非利息資産にとって支援要因となり、コモディティ全般のセンチメント改善につながっている。ただし具体的な数値発表ではなく、市場心理の変化が主因。"
-  },
-  {
-    "title": "Satellite Snapshot Points to Increase in Saudis’ Gulf Oil Flows - Bloomberg.com",
-    "timestamp": "2026-09-21T12:42:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "衛星画像データがサウジアラビアの湾岸油流の増加を示唆している。衛星による船舶追跡技術を用いた分析により、サウジの原油輸出活動の増加傾向が捕捉された。OPEC減産政策との整合性に関する市場の関心が高まる。"
-  },
-  {
-    "title": "Hungary Asks US to Extend Exemption on Russian Oil Purchases - Bloomberg.com",
-    "timestamp": "2026-09-21T11:26:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ハンガリーがロシア産原油購入に対する米国の制裁免除延長を要請。EUの親ロ国からの政治的働きかけであり、西側制裁体制の亀裂を示唆。供給制限の緩和可能性により原油価格を下押しする要因となる可能性がある。"
   },
   {
     "title": "Crop Progress",
@@ -1021,5 +988,214 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがアジア地域の原油供給逼迫を緩和するため、1億バレル規模の販売を実施。OPEC減産政策の枠組み内でのアジア向け供給増強は、地政学的な供給懸念を一時的に軽減。ただし既に市場で織り込まれていた対応の可能性が高い。"
+  },
+  {
+    "title": "Arable Market Report – 21 September 2026 - ahdb.org.uk",
+    "timestamp": "2026-09-21T15:59:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "2026年9月21日のAHDB穀物市場レポートは、英国・EU穀物市場の定期市況更新と見られます。具体的な数値や前月比較がないため、市況コメンタリーの範囲内と判断。北半球の新穀収穫進捗状況の記録的更新が主要内容と推定されます。"
+  },
+  {
+    "title": "Arable Market Report – 21 September 2026 - ahdb.org.uk",
+    "timestamp": "2026-09-21T15:59:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2026年9月21日のAHDB穀物市場レポートは、英国・EU穀物市場の定期市況更新と見られます。具体的な数値や前月比較がないため、市況コメンタリーの範囲内と判断。北半球の新穀収穫進捗状況の記録的更新が主要内容と推定されます。"
+  },
+  {
+    "title": "Arable Market Report – 21 September 2026 - ahdb.org.uk",
+    "timestamp": "2026-09-21T15:59:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2026年9月21日のAHDB穀物市場レポートは、英国・EU穀物市場の定期市況更新と見られます。具体的な数値や前月比較がないため、市況コメンタリーの範囲内と判断。北半球の新穀収穫進捗状況の記録的更新が主要内容と推定されます。"
+  },
+  {
+    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-23T16:17:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国商業用原油在庫が2018年以来の低水準に低下した。輸出増加と精製処理量の拡大が在庫低下の主因。在庫の歴史的低水準化は原油の供給タイト化を示唆し、価格上昇圧力として作用する可能性がある。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+    "timestamp": "2026-09-24T14:44:07+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が週間ベースで増加したことが報告された。EIAの定期在庫統計は毎週発表される標準データであり、在庫増加は供給過剰圧力を示唆する。具体的な増加量や前週比のデータが示されていないため詳細な評価は限定的。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - Yahoo Finance",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが週間在庫統計を発表。原油は300万バレルの積み増し（ビルド）が報告された一方、留分油在庫は平均を12%下回る低水準に低下。原油在庫増加は供給過剰圧力だが、留分油の需給タイト化は上昇圧力として作用する混合シグナル。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - Yahoo Finance",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIAが週間在庫統計を発表。原油は300万バレルの積み増し（ビルド）が報告された一方、留分油在庫は平均を12%下回る低水準に低下。原油在庫増加は供給過剰圧力だが、留分油の需給タイト化は上昇圧力として作用する混合シグナル。"
+  },
+  {
+    "title": "US durum market tightens after smaller harvest - World Grain",
+    "timestamp": "2026-09-24T12:22:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国デュラム小麦の収穫量が予想より少なくなり、市場の需給が逼迫している。デュラム小麦はパスタやセモリナ粉などの用途に特定的で、供給の制約が価格を押し上げる要因となる可能性が高い。在庫の減少により価格上昇圧力が継続すると見込まれる。"
+  },
+  {
+    "title": "Arkansas Soybean Harvest Reaches Record Pace as Dry Weather Accelerates Progress - KVOM 101.7",
+    "timestamp": "2026-09-23T19:34:28+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "アーカンソー州の大豆収穫が記録的なペースで進行中。乾燥した天候が作業を加速させている。収穫の早期完了は供給増加の懸念材料となり、大豆価格に下押し圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Serbia's Russian-owned NIS oil firm seeks new US sanctions waiver - Reuters",
+    "timestamp": "2026-09-24T08:26:09+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "セルビアのロシア系石油企業NISが米国制裁の新たな適用除外を申請。ロシア産原油の欧州への流通継続を目指すもの。制裁政策の継続的な調整を反映したもので、市場で既に織り込まれている動き。"
+  },
+  {
+    "title": "European stocks slip as lack of progress on US-Iran peace lifts oil, yields - Reuters",
+    "timestamp": "2026-09-23T16:25:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とイランの和平交渉の進展不足が地政学的リスクを高め、原油価格が上昇した。同時に金利上昇圧力が生じてイールドカーブが上昇し、ドル強化とリスク資産圧迫によるヨーロッパ株式市場の下落を招いた。中東の緊張激化は原油のリスクプレミアムを拡大させている。"
+  },
+  {
+    "title": "European stocks slip as lack of progress on US-Iran peace lifts oil, yields - Reuters",
+    "timestamp": "2026-09-23T16:25:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国とイランの和平交渉の進展不足が地政学的リスクを高め、原油価格が上昇した。同時に金利上昇圧力が生じてイールドカーブが上昇し、ドル強化とリスク資産圧迫によるヨーロッパ株式市場の下落を招いた。中東の緊張激化は原油のリスクプレミアムを拡大させている。"
+  },
+  {
+    "title": "European stocks slip as lack of progress on US-Iran peace lifts oil, yields - Reuters",
+    "timestamp": "2026-09-23T16:25:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国とイランの和平交渉の進展不足が地政学的リスクを高め、原油価格が上昇した。同時に金利上昇圧力が生じてイールドカーブが上昇し、ドル強化とリスク資産圧迫によるヨーロッパ株式市場の下落を招いた。中東の緊張激化は原油のリスクプレミアムを拡大させている。"
+  },
+  {
+    "title": "US Stock Futures Drop as Yields Climb Further, Oil Rises - Bloomberg",
+    "timestamp": "2026-09-24T11:45:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国長期金利が上昇を続ける中、株価先物が下落している。これは金利上昇が株式評価を圧迫する一方で、原油価格は上昇している。金利上昇は無利子資産である金に下落圧力をもたらす傾向がある。市場のリスク資産圧売りと商品市場における方向性の相違が鮮明。"
+  },
+  {
+    "title": "US Stock Futures Drop as Yields Climb Further, Oil Rises - Bloomberg",
+    "timestamp": "2026-09-24T11:45:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国長期金利が上昇を続ける中、株価先物が下落している。これは金利上昇が株式評価を圧迫する一方で、原油価格は上昇している。金利上昇は無利子資産である金に下落圧力をもたらす傾向がある。市場のリスク資産圧売りと商品市場における方向性の相違が鮮明。"
+  },
+  {
+    "title": "US Stock Futures Drop as Yields Climb Further, Oil Rises - Bloomberg",
+    "timestamp": "2026-09-24T11:45:04+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国長期金利が上昇を続ける中、株価先物が下落している。これは金利上昇が株式評価を圧迫する一方で、原油価格は上昇している。金利上昇は無利子資産である金に下落圧力をもたらす傾向がある。市場のリスク資産圧売りと商品市場における方向性の相違が鮮明。"
+  },
+  {
+    "title": "Saudis’ Gulf Oil Surge Drives Exports to Highest Since War Began - Bloomberg",
+    "timestamp": "2026-09-24T13:07:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがイエメン戦争開始以来、最高水準の石油輸出を記録。湾岸地域の増産により、従来の減産政策から方針転換の可能性が浮上。地政学的リスクが続く中での増産は市場に対するシグナル効果が大きい。"
+  },
+  {
+    "title": "European Stocks Edge Lower as Rising Global Bond Yields Weigh - Bloomberg",
+    "timestamp": "2026-09-24T07:30:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "世界的な債券利回りの上昇がコモディティ市場に下押し圧力を与えている。金利上昇環境では無利子資産である金の魅力が低下し、ドル強化によるドル建てコモディティ全般の重石となる。欧州株安も同じメカニズムで説明される。"
+  },
+  {
+    "title": "European Stocks Edge Lower as Rising Global Bond Yields Weigh - Bloomberg",
+    "timestamp": "2026-09-24T07:30:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "世界的な債券利回りの上昇がコモディティ市場に下押し圧力を与えている。金利上昇環境では無利子資産である金の魅力が低下し、ドル強化によるドル建てコモディティ全般の重石となる。欧州株安も同じメカニズムで説明される。"
   }
 ]
