@@ -1,148 +1,5 @@
 [
   {
-    "title": "金価格、米国債利回り急騰で1ドン85万7,000ウォンに下落 - BigGo ファイナンス",
-    "timestamp": "2026-09-21T03:26:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国債利回りの急騰により金価格が1ドン85万7,000ウォンまで下落した。金利上昇は利回りのない金の相対的な魅力を低下させる。既知のドル高・金利上昇トレンドの継続。"
-  },
-  {
-    "title": "金価格は横ばい、米中会談とイラン情勢に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-21T01:41:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は現在横ばい推移。米中会談とイラン情勢が今後の価格変動を左右する主要な注視ポイント。具体的な新しい材料は示されていない。"
-  },
-  {
-    "title": "金価格は安定している。 - Vietnam.vn",
-    "timestamp": "2026-09-21T03:56:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が安定しているとのベトナムメディアの報道。具体的な価格レベルや変動幅の記載がなく、単なる相場観の述べにとどまる。"
-  },
-  {
-    "title": "本日（9月21日）の金価格：安定 - Vietnam.vn",
-    "timestamp": "2026-09-21T03:04:10+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が本日（9月21日）安定していることを報じたもの。市場全体の方向性や具体的な価格水準、変動率等の情報が不足している。"
-  },
-  {
-    "title": "2026年9月21日午前の金価格：下落傾向。 - Vietnam.vn",
-    "timestamp": "2026-09-21T03:18:14+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年9月21日午前の金価格が下落傾向を示している。単なる日中の価格動向レポートであり、特定の経済指標やイベントに基づく変動ではない。既に報じられた相場の振り返り解説記事。"
-  },
-  {
-    "title": "フーシ派のリヤド攻撃により原油価格が104米ドルに上昇 - IDNFinancials",
-    "timestamp": "2026-09-21T03:40:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イエメンのフーシ派がサウジアラビアのリヤドを攻撃。地政学的リスク要因として原油価格が104ドルまで上昇した。中東での供給途絶懸念が市場に波及。"
-  },
-  {
-    "title": "原油価格は100ドルを超え、FRBは利上げを実施しました。この構図は過去にも見られました。2022年には、戦争、原油高、サプライチェーンの混乱、そしてテック株の暴落が同時に発生しました。 エネルギーセクターは同年に約66%のリターンを記録し、プラス圏で終えたのはユー - Moomoo",
-    "timestamp": "2026-09-21T03:03:16+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が100ドル超となり、FRBの利上げと組み合わさった状況が2022年の局面と類似している。当時エネルギーセクターは66%のリターンを記録した先例を参考として提示する記事。"
-  },
-  {
-    "title": "原油価格が1週間超ぶりの安値、米イラン外交への期待とサウジ輸出回復で下落 - Межа. Новини України.",
-    "timestamp": "2026-09-21T03:18:18+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン外交の進展期待とサウジアラビアの石油輸出回復が重なり、原油価格が1週間超ぶりの安値に下落。供給増加の見通しが相場を押し下げている。"
-  },
-  {
-    "title": "原油価格は下落し、米国債利回りは急上昇した。 - Vietnam.vn",
-    "timestamp": "2026-09-21T03:34:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が下落し、同時に米国債利回りが急上昇した。金利上昇はドル高につながり、ドル建て原油の割高感が増す。マクロ環境の悪化を示唆する動き。"
-  },
-  {
-    "title": "原油4日続落、ブレント101ドル台－米イラン外交とホルムズ輸送継続 - Bloomberg.com",
-    "timestamp": "2026-09-21T02:21:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油が4日続落し、ブレント油は101ドル台に下落。米イラン外交の進展やホルムズ海峡での輸送継続期待が相場を押し下げた。地政学的リスクの後退が主因。"
-  },
-  {
-    "title": "本日（9月21日午後）の金価格：全般的に下落。 - vietnam.vn",
-    "timestamp": "2026-09-21T07:04:25+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が9月21日午後に全般的に下落。具体的な下落率や要因は記事概要からは不明。定期的な相場情報の振り返り記事と見られる。"
-  },
-  {
-    "title": "機関予測：金価格は第4四半期に4,750ドル、来年第3四半期に5,250ドルへ。銅価格も長期的な恩恵を享受 - Moomoo",
-    "timestamp": "2026-09-21T02:42:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "複数機関が金価格の段階的な上昇を予測。第4四半期4,750ドル、来年第3四半期5,250ドルへの値上がりシナリオを提示。銅も長期的な追い風が期待される。"
-  },
-  {
-    "title": "本日9月21日の金価格：SJCゴールドとバオティンミンチャウの金指輪の価格はどのように上昇または下落したのでしょうか？ - vietnam.vn",
-    "timestamp": "2026-09-21T06:34:53+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJCゴールド、バオティンミンチャウの指輪）の9月21日の日次相場変動を報じたニュース。地域的な価格情報に過ぎず、グローバル金市場への直接的な影響は限定的。"
-  },
-  {
     "title": "【随時更新】WTI原油、ダブルトップ完成後に$94.00サポート攻防 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-21T07:08:00+00:00",
     "importance": 2,
@@ -165,28 +22,6 @@
     "summary": "米イラン間の外交交渉への期待感により、原油価格が1バレル100ドルを割った。地政学リスク低下による売圧が働いている。供給懸念の緩和が価格押し下げ要因。"
   },
   {
-    "title": "東京為替：ドル・円は変わらず、原油相場に反応 - ｄメニューニュース",
-    "timestamp": "2026-09-21T05:37:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京為替でドル・円相場が原油相場の動きに反応しているとの報道。為替・原油の連動性に関する市場解説。具体的な原油価格の方向性や変動幅は不明。"
-  },
-  {
-    "title": "WTI原油先物相場、軟調 98ドル台前半で推移 - TradingView",
-    "timestamp": "2026-09-21T02:21:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が98ドル台前半で推移し軟調な展開。市場の需要懸念や供給バランスの影響を受けた値動き。特定の大きなショックを伴わない通常のボラティリティ範囲内の変動。"
-  },
-  {
     "title": "バーンスタイン、2030年の金価格見通しを新たに発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-21T11:57:00+00:00",
     "importance": 2,
@@ -207,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月21日の金相場が全面安で取引を終えた。ベトナムの市場報道であり、市場動向の事後的な報告である。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年9月21日）金は下落も、膨張する政府債務が「価格を支える」― 原油安、長期金利は低下 - ブリオンボールト",
-    "timestamp": "2026-09-21T05:48:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金は短期的に下落しているが、膨張する政府債務が長期的な価格下支え要因と指摘。原油安と長期金利低下が背景。金の従来の価値保存機能への注目が続く。"
   },
   {
     "title": "原油価格と米国債利回りが低下 フィラデルフィア半導体指数が1%超上昇 インテル、アームがけん引 - BigGo ファイナンス",
@@ -262,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン外交改善の期待が高まり、地政学的リスク低下を背景に原油価格が下落。イラン産油供給増加の可能性が意識される。既に報じられている外交交渉の進展に基づくコモンセンス的な反応。"
-  },
-  {
-    "title": "東京為替：ドル・円は変わらず、原油相場に反応 - TradingView",
-    "timestamp": "2026-09-21T05:37:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京為替市場でドル・円が変わらずで推移。原油相場の動向が為替に影響を与えている状況を報じた解説記事。具体的な原油価格の変動幅や為替への波及メカニズムは記事概要からは不明。"
   },
   {
     "title": "イスラエルがベイルートを攻撃し原油価格が2ドル以上上昇 - Межа. Новини України.",
@@ -350,17 +163,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は週足で転換点を迎えている。原油安が一時的に支援している一方、中央銀行の政策引き締めが依然として重しとなっており、上下双方の要因が拮抗している状況。"
-  },
-  {
-    "title": "東京為替：ドル・円は変わらず、原油相場に反応 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-21T05:45:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京為替市場でドル・円相場が原油相場の動きに反応している状況を伝える解説記事。為替市場の動向を述べているが、具体的な原油価格変動幅やドル・円の変動内容が記事概要からは不明確。"
   },
   {
     "title": "AI関連株が上昇、原油価格が下落する中、ウォール街は高値で寄り付く見通し - TradingView",
@@ -2033,5 +1835,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "2023年9月23日の主要国際商品市況の日次レポート。具体的な価格動向や市場ニュースの詳細が記事から確認できない。"
+  },
+  {
+    "title": "金価格が4,300ドル割れ 道明證券とBMOは2027年に5,000ドル回復を予想 - BigGo ファイナンス",
+    "timestamp": "2026-09-24T02:55:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,300ドルを割り込む局面を迎えた。一方、複数の大手投資銀行は2027年までに5,000ドル水準への回復を予想しており、中期的な強気見通しが示されている。現在の調整は買い場と見なす投資家向けの見解。"
+  },
+  {
+    "title": "本日（9月24日）の金価格最新情報：下落傾向は継続、SJC金価格は回復、中国の輸入量は1,000トンを突破。 - Vietnam.vn",
+    "timestamp": "2026-09-24T02:32:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格は下落傾向が継続する一方、SJC金価格は回復。中国の金輸入が1,000トンを突破し、アジア地域での需要は堅調。"
+  },
+  {
+    "title": "世界の金価格は、1オンスあたり4,300ドルを下回った後、やや回復した。 - Vietnam.vn",
+    "timestamp": "2026-09-24T00:50:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,300ドルを下回った後、やや回復した。短期的な値動きを記述したニュースで、市場の定常的なボラティリティの範囲内。"
+  },
+  {
+    "title": "金価格は1テールあたり110万ベトナムドン下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-24T07:02:44+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1テールあたり110万ベトナムドン下落したと報道された。地域的な価格下落の記事であり、グローバル市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "アメリカ経済が原油価格の高騰に耐えられる理由…JPモルガンが解説 - Business Insider Japan",
+    "timestamp": "2026-09-24T01:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "JPモルガンがアメリカ経済の強靭性を指摘し、原油高に対する耐性があると解説。既存認識の範囲内での分析。"
+  },
+  {
+    "title": "［動画］原油相場「戦時下のレンジ」継続か【後編】長期相場を読む - トウシル",
+    "timestamp": "2026-09-24T03:25:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が「戦時下のレンジ」相場を継続する可能性を解説した長期相場分析。地政学的リスクと需給要因のバランスが価格を一定レンジに抑える構図を論じた後編コンテンツ。"
+  },
+  {
+    "title": "原油先物が小幅に下落、イランは紛争終結へ「外交重視」強調 - ニューズウィーク日本版",
+    "timestamp": "2026-09-24T01:43:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランが紛争終結と外交重視の姿勢を強調したことから、中東地政学リスクの緩和期待が生じた。これを受けて原油先物は小幅下落。供給懸念の軽減が価格を押し下げた。"
+  },
+  {
+    "title": "東京為替：ドル・円は下げ渋り、米金利・原油相場にらみ - ｄメニューニュース",
+    "timestamp": "2026-09-24T04:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル・円相場の短期的な値動きについての為替解説記事。米金利と原油相場の関連性を指摘しているが、原油市場への直接的な新情報は含まれていない。"
+  },
+  {
+    "title": "アジア9月の原油輸入量が米イラン開戦以来の最高水準に 国際原油価格は反落 - BigGo ファイナンス",
+    "timestamp": "2026-09-24T03:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アジアの9月原油輸入量が米イラン開戦以来の最高水準に達した。しかし国際原油価格は反落している。需要増加が価格上昇に直結していない状況を示唆している。"
+  },
+  {
+    "title": "商品市場：ディーゼル価格が3％以上上昇、世界的な供給不足が懸念される。 - Vietnam.vn",
+    "timestamp": "2026-09-24T04:54:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "ディーゼル価格が3％以上上昇し、世界的な供給不足が懸念されている。エネルギー関連商品全体への波及効果が予想される。供給リスクが顕在化している状況。"
   }
 ]
