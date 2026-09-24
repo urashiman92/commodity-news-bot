@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil Steady as Traders Look to Mideast Supply Risks and Diplomacy - Bloomberg",
-    "timestamp": "2026-09-21T05:18:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の供給リスクと外交交渉に注目が集まる中、原油は方向感なく推移している。トレーダーは地政学的なリスク要因と外交的な展開の両面から市場を注視しており、明確な価格方向性は形成されていない。現物相場は供給懸念と外交的な緊張緩和の可能性の間で均衡を保っている。"
-  },
-  {
     "title": "Chickens and Eggs",
     "timestamp": "2026-09-21T19:32:54.812701+00:00",
     "importance": 2,
@@ -108,17 +97,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ハンガリーがロシア産原油購入に対する米国の制裁免除延長を要請。EUの親ロ国からの政治的働きかけであり、西側制裁体制の亀裂を示唆。供給制限の緩和可能性により原油価格を下押しする要因となる可能性がある。"
-  },
-  {
-    "title": "India’s Oil Buyers May Cut Russian Cargoes in Wake of US Threats - Bloomberg.com",
-    "timestamp": "2026-09-21T09:17:25+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がインドへの圧力を強化しており、インドの石油購入業者がロシア産原油の輸入削減を検討している。ロシアはインド向け石油輸出の主要な供給国であり、同国の購入削減は供給構造の大幅な再編を意味する。地政学的リスクが原油市場に直接波及する可能性が高い。"
   },
   {
     "title": "Crop Progress",
@@ -911,5 +889,137 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "イラクがOPECの生産枠の増加を求めている。財政難と新規油田開発投資の必要性が背景。同国は現在の割当枠では収入不足に直面しており、増産による増収を目指す動き。既知の継続的な問題であり、OPEC内での交渉テーマ。"
+  },
+  {
+    "title": "EIA reports a rise in US crude oil stocks - engine.online",
+    "timestamp": "2026-09-24T09:17:49+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告した。在庫増加は供給過剰シグナルであり、原油価格に下押し圧力をもたらす。具体的な在庫増加量や週間の詳細データは記事本文から不明だが、定期的なEIA週間在庫報告の一部。"
+  },
+  {
+    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
+    "timestamp": "2026-09-22T21:02:12+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
+  },
+  {
+    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
+    "timestamp": "2026-09-22T21:02:12+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
+  },
+  {
+    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
+    "timestamp": "2026-09-22T21:02:12+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "原油",
+    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
+  },
+  {
+    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
+    "timestamp": "2026-09-22T21:02:12+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
+  },
+  {
+    "title": "Harvest time rolling toward average yields statewide - The Monroe Times",
+    "timestamp": "2026-09-22T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国の穀物収穫期が平年的な利回りに向かっていることが報告された。Monroe Timesの記事は、州全域での穀物（小麦、トウモロコシ、大豆）の収量が平均的な水準に落ち着くことを示唆している。特に異常気象や供給ショックは指摘されていない。"
+  },
+  {
+    "title": "Harvest time rolling toward average yields statewide - The Monroe Times",
+    "timestamp": "2026-09-22T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国の穀物収穫期が平年的な利回りに向かっていることが報告された。Monroe Timesの記事は、州全域での穀物（小麦、トウモロコシ、大豆）の収量が平均的な水準に落ち着くことを示唆している。特に異常気象や供給ショックは指摘されていない。"
+  },
+  {
+    "title": "Harvest time rolling toward average yields statewide - The Monroe Times",
+    "timestamp": "2026-09-22T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国の穀物収穫期が平年的な利回りに向かっていることが報告された。Monroe Timesの記事は、州全域での穀物（小麦、トウモロコシ、大豆）の収量が平均的な水準に落ち着くことを示唆している。特に異常気象や供給ショックは指摘されていない。"
+  },
+  {
+    "title": "Copper Prices Under Pressure and Retreat, Market Focuses on Supply and Demand Changes - NAI500",
+    "timestamp": "2026-09-24T08:40:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が圧力を受けて下落トレンドにあり、市場は供給・需要バランスの変化に注視している。具体的な数値が提示されていないため、詳細な下落率は不明だが、ファンダメンタル要因の検証が投資判断の鍵となっている。"
+  },
+  {
+    "title": "Hess worked with OPEC to keep gas prices high, a new class action lawsuit alleges. - Claim Depot",
+    "timestamp": "2026-09-22T16:06:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "Hessがヘッジファンドの集団訴訟で、OPECと協力してガソリン価格を高止まりさせたと訴訟提起される。同社がOPECの減産政策に協調し、意図的に市場価格を操作した疑いが判明。エネルギー企業とOPECの価格カルテル疑惑は市場信頼性を大きく損なう可能性があり、規制強化やエネルギー政策の見直し機運が高まる。"
+  },
+  {
+    "title": "Hess worked with OPEC to keep gas prices high, a new class action lawsuit alleges. - Claim Depot",
+    "timestamp": "2026-09-22T16:06:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "Hessがヘッジファンドの集団訴訟で、OPECと協力してガソリン価格を高止まりさせたと訴訟提起される。同社がOPECの減産政策に協調し、意図的に市場価格を操作した疑いが判明。エネルギー企業とOPECの価格カルテル疑惑は市場信頼性を大きく損なう可能性があり、規制強化やエネルギー政策の見直し機運が高まる。"
+  },
+  {
+    "title": "Saudis Ease Asia Oil Crunch With 100-Million-Barrel Sales Flurry - Bloomberg.com",
+    "timestamp": "2026-09-24T07:12:50+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがアジア地域の原油供給逼迫を緩和するため、1億バレル規模の販売を実施。OPEC減産政策の枠組み内でのアジア向け供給増強は、地政学的な供給懸念を一時的に軽減。ただし既に市場で織り込まれていた対応の可能性が高い。"
   }
 ]
