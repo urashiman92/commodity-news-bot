@@ -1,16 +1,5 @@
 [
   {
-    "title": "Reserve report on four Chile copper blocks expected in 2-3 months, says Hindustan Copper CMD Anupam Misra - BusinessLine",
-    "timestamp": "2026-09-21T04:51:36+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Hindustan Copper のCMD（最高経営責任者）Anupam Misra 氏が、チリの4つの銅鉱床に関する埋蔵量報告書が2～3ヶ月以内に提出される見通しを表明。インド企業の国際的な銅資源確保が進展する兆候。"
-  },
-  {
     "title": "Oil Steady as Traders Look to Mideast Supply Risks and Diplomacy - Bloomberg",
     "timestamp": "2026-09-21T05:18:00+00:00",
     "importance": 2,
@@ -878,5 +867,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は10月の石油生産政策を変更せず、現在の方針を継続することを決定した。これは事前予想の範囲内であり、市場は既にこのシナリオを織り込んでいる。政策据え置きは安定性のシグナルだが、新たなサプライズをもたらさない。"
+  },
+  {
+    "title": "Will Harvest Push Corn and Soybean Prices Higher or Lower? - agriculture.com",
+    "timestamp": "2026-09-23T16:18:51+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "収穫時期を迎えるトウモロコシと大豆の価格見通しについての考察記事。収穫量の増減が価格に与える影響を分析しており、作柄や収穫進捗の状況によって価格が上昇・下落の両方向に動く可能性を示唆。WASDE関連の分析であるが、具体的な新規統計発表ではなく業界観測記事。"
+  },
+  {
+    "title": "Will Harvest Push Corn and Soybean Prices Higher or Lower? - agriculture.com",
+    "timestamp": "2026-09-23T16:18:51+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "収穫時期を迎えるトウモロコシと大豆の価格見通しについての考察記事。収穫量の増減が価格に与える影響を分析しており、作柄や収穫進捗の状況によって価格が上昇・下落の両方向に動く可能性を示唆。WASDE関連の分析であるが、具体的な新規統計発表ではなく業界観測記事。"
+  },
+  {
+    "title": "OPEC maintains output policy at latest panel meeting - engine.online",
+    "timestamp": "2026-09-23T16:27:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが最新のパネル会議で現在の生産政策を維持することを決定した。減産・増産いずれの方針転換もなく、既存の合意内容を継続する判断。市場は既に織り込まれた内容と見られる。"
+  },
+  {
+    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - EnergyNow.com",
+    "timestamp": "2026-09-21T15:25:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPECの生産枠の増加を求めている。財政難と新規油田開発投資の必要性が背景。同国は現在の割当枠では収入不足に直面しており、増産による増収を目指す動き。既知の継続的な問題であり、OPEC内での交渉テーマ。"
   }
 ]
