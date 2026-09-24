@@ -33,39 +33,6 @@
     "summary": "USDA NASSが8月の卵生産統計を発表。卵生産量は前年同月比5%増加した一方、採卵用ひな鶏の孵化は12%減少、ブロイラー用ひな鶏は1%増加。飼料穀物（トウモロコシ・大豆）需要への影響は混在的。"
   },
   {
-    "title": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters",
-    "timestamp": "2026-09-21T17:14:28+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがパイプライン攻撃後、ペルシャ湾からの石油輸出を増加させたことがデータで確認された。供給途絶リスクの軽減を示す動きで、地政学的緊張は緩和方向。既に報道されている攻撃事象の後続情報であり、市場は部分的に織り込み済み。"
-  },
-  {
-    "title": "Wall Street rallies as AI optimism reignites and Treasury yields retreat - Reuters",
-    "timestamp": "2026-09-21T18:27:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "AI楽観論の再燃と米国債利回りの低下がウォール街を買い優勢に導いた。金利低下環境は金などの非利息資産にとって支援要因となり、コモディティ全般のセンチメント改善につながっている。ただし具体的な数値発表ではなく、市場心理の変化が主因。"
-  },
-  {
-    "title": "Wall Street rallies as AI optimism reignites and Treasury yields retreat - Reuters",
-    "timestamp": "2026-09-21T18:27:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "AI楽観論の再燃と米国債利回りの低下がウォール街を買い優勢に導いた。金利低下環境は金などの非利息資産にとって支援要因となり、コモディティ全般のセンチメント改善につながっている。ただし具体的な数値発表ではなく、市場心理の変化が主因。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-09-21T23:18:57.454157+00:00",
     "importance": 2,
@@ -97,17 +64,6 @@
     "source": "USDA NASS公式",
     "commodity": "大豆",
     "summary": "USDA NASSのCrop Progress定期発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を報告。具体的な進捗率や条件評価により、春植え穀物の供給見通しに関する市場の期待値が修正される可能性がある。"
-  },
-  {
-    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - energynow.com",
-    "timestamp": "2026-09-21T15:32:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫統計で米国原油在庫が減少し、精製所の稼働率が上昇したことが報告された。精製所の処理能力向上により供給サイドの圧力が緩和される一方、在庫減少は価格上昇圧力を示唆している。市場予想の範囲内の動きと見られる。"
   },
   {
     "title": "USDA Crop Progress Report: Corn and Soybean Conditions Slightly Below Year-Ago Levels - IndexBox",
@@ -154,50 +110,6 @@
     "summary": "OPEC+が石油生産量のさらなる増加を承認した。ホルムズ海峡経由の輸出が回復局面に入っており、供給面での懸念が緩和される見通し。既定路線の増産継続であり市場は概ね織り込み済みだが、地政学的リスク軽減により原油価格の上値が限定される可能性。"
   },
   {
-    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - energynow.com",
-    "timestamp": "2026-09-21T15:25:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPEC内での石油生産枠の拡大を求めている。政府の歳入圧力と新規油田開発投資の必要性が背景にある。イラクは現在のOPEC割当枠では経済的困難に直面しており、増産による歳入確保を目指している。"
-  },
-  {
-    "title": "EXCLUSIVE: Russia adapts fertilizer, coal terminals in Baltic, Arctic ports to export Black Sea grain - Reuters",
-    "timestamp": "2026-09-21T17:54:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "小麦",
-    "summary": "ロシアが黒海穀物輸出路の代替として、バルト海・北極圏港湾の肥料・石炭ターミナルを穀物輸出に転用・適応させている。黒海経由の輸出制限下で、ロシアは新たな流通ルートを確保し、穀物・肥料供給の地政学的リスク再配置を示唆。西側制裁回避の新しい戦略展開。"
-  },
-  {
-    "title": "EXCLUSIVE: Russia adapts fertilizer, coal terminals in Baltic, Arctic ports to export Black Sea grain - Reuters",
-    "timestamp": "2026-09-21T17:54:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアが黒海穀物輸出路の代替として、バルト海・北極圏港湾の肥料・石炭ターミナルを穀物輸出に転用・適応させている。黒海経由の輸出制限下で、ロシアは新たな流通ルートを確保し、穀物・肥料供給の地政学的リスク再配置を示唆。西側制裁回避の新しい戦略展開。"
-  },
-  {
-    "title": "EXCLUSIVE: Russia adapts fertilizer, coal terminals in Baltic, Arctic ports to export Black Sea grain - Reuters",
-    "timestamp": "2026-09-21T17:54:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアが黒海穀物輸出路の代替として、バルト海・北極圏港湾の肥料・石炭ターミナルを穀物輸出に転用・適応させている。黒海経由の輸出制限下で、ロシアは新たな流通ルートを確保し、穀物・肥料供給の地政学的リスク再配置を示唆。西側制裁回避の新しい戦略展開。"
-  },
-  {
     "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening - Yahoo Finance",
     "timestamp": "2026-09-21T20:00:00+00:00",
     "importance": 4,
@@ -218,17 +130,6 @@
     "source": "OPEC関連",
     "commodity": "コモディティ全般",
     "summary": "OPEC+の主要国であるサウジアラビアとロシアの沈黙が市場に不透明感をもたらしている。減産政策の継続・調整に関する公式発表やシグナルの欠如が、原油市場の方向性を不確実にしており、投資家心理が揺らぐ可能性がある。政策動向の不確実性が価格変動性を高めるリスク要因となる。"
-  },
-  {
-    "title": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows - Reuters",
-    "timestamp": "2026-09-21T15:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがパイプライン攻撃後、ペルシャ湾への石油輸出を増加させていることが貿易データで確認された。供給途絶リスクの緩和を示唆するもので、既報の復旧予定に沿った進展。地政学的リスク緩和が価格下押し要因となる可能性がある。"
   },
   {
     "title": "Indian shares open higher on easing oil prices, bond yields - Reuters",
@@ -847,17 +748,6 @@
     "summary": "OPECが最新のパネル会議で現在の生産政策を維持することを決定した。減産・増産いずれの方針転換もなく、既存の合意内容を継続する判断。市場は既に織り込まれた内容と見られる。"
   },
   {
-    "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment - EnergyNow.com",
-    "timestamp": "2026-09-21T15:25:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPECの生産枠の増加を求めている。財政難と新規油田開発投資の必要性が背景。同国は現在の割当枠では収入不足に直面しており、増産による増収を目指す動き。既知の継続的な問題であり、OPEC内での交渉テーマ。"
-  },
-  {
     "title": "EIA reports a rise in US crude oil stocks - engine.online",
     "timestamp": "2026-09-24T09:17:49+00:00",
     "importance": 2,
@@ -988,39 +878,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがアジア地域の原油供給逼迫を緩和するため、1億バレル規模の販売を実施。OPEC減産政策の枠組み内でのアジア向け供給増強は、地政学的な供給懸念を一時的に軽減。ただし既に市場で織り込まれていた対応の可能性が高い。"
-  },
-  {
-    "title": "Arable Market Report – 21 September 2026 - ahdb.org.uk",
-    "timestamp": "2026-09-21T15:59:45+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "2026年9月21日のAHDB穀物市場レポートは、英国・EU穀物市場の定期市況更新と見られます。具体的な数値や前月比較がないため、市況コメンタリーの範囲内と判断。北半球の新穀収穫進捗状況の記録的更新が主要内容と推定されます。"
-  },
-  {
-    "title": "Arable Market Report – 21 September 2026 - ahdb.org.uk",
-    "timestamp": "2026-09-21T15:59:45+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "2026年9月21日のAHDB穀物市場レポートは、英国・EU穀物市場の定期市況更新と見られます。具体的な数値や前月比較がないため、市況コメンタリーの範囲内と判断。北半球の新穀収穫進捗状況の記録的更新が主要内容と推定されます。"
-  },
-  {
-    "title": "Arable Market Report – 21 September 2026 - ahdb.org.uk",
-    "timestamp": "2026-09-21T15:59:45+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "2026年9月21日のAHDB穀物市場レポートは、英国・EU穀物市場の定期市況更新と見られます。具体的な数値や前月比較がないため、市況コメンタリーの範囲内と判断。北半球の新穀収穫進捗状況の記録的更新が主要内容と推定されます。"
   },
   {
     "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
@@ -1197,5 +1054,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "世界的な債券利回りの上昇がコモディティ市場に下押し圧力を与えている。金利上昇環境では無利子資産である金の魅力が低下し、ドル強化によるドル建てコモディティ全般の重石となる。欧州株安も同じメカニズムで説明される。"
+  },
+  {
+    "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
+    "timestamp": "2026-09-24T16:44:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "オクラホマ州の生産者が市場ボラティリティと作付不確実性に直面している。穀物市場の価格変動が大きく、播種計画の策定が困難な状況。生産者の意思決定が遅延するリスクがあり、今後の作付面積データに影響を与える可能性。"
+  },
+  {
+    "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
+    "timestamp": "2026-09-24T16:44:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "オクラホマ州の生産者が市場ボラティリティと作付不確実性に直面している。穀物市場の価格変動が大きく、播種計画の策定が困難な状況。生産者の意思決定が遅延するリスクがあり、今後の作付面積データに影響を与える可能性。"
+  },
+  {
+    "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
+    "timestamp": "2026-09-24T16:44:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "オクラホマ州の生産者が市場ボラティリティと作付不確実性に直面している。穀物市場の価格変動が大きく、播種計画の策定が困難な状況。生産者の意思決定が遅延するリスクがあり、今後の作付面積データに影響を与える可能性。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
+    "timestamp": "2026-09-24T07:37:49+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後に原油生産量が過去最高水準に接近している。OPEC減産枠の外で増産を進めるUAEの動きは、OPEC+の減産政策の実効性を大きく損なう可能性がある。原油価格への上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "Russia starts exports from Arctic Vostok Oil project in boost to long-term production - Reuters",
+    "timestamp": "2026-09-24T14:06:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが北極圏のボストーク・オイル・プロジェクトからの輸出を開始した。同プロジェクトは長期的な石油生産増加をもたらす。西側制裁下でのロシアの供給維持能力を示す動きであり、グローバル石油供給に影響を与える可能性がある。"
+  },
+  {
+    "title": "Saudi oil export strategy hits new hurdle as Red Sea insurance costs soar - Reuters",
+    "timestamp": "2026-09-24T16:57:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "紅海での保険コスト急騰がサウジアラビアの石油輸出戦略に新たな障害をもたらしている。地政学的緊張により海上輸送リスクが大幅に上昇し、原油の運送コストが急増。サウジの輸出競争力低下とグローバル供給不安が原油価格を押し上げる要因となっている。"
+  },
+  {
+    "title": "India's Russian oil imports fell in August, seen lower in September, data shows - Reuters",
+    "timestamp": "2026-09-22T13:26:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インドのロシア産原油輸入量が8月に減少し、9月もさらに低下が見込まれている。インドはロシア産原油の主要購入国だが、西側制裁の影響やインド国内需要の変化により輸入量が縮小している。この減少はロシア産原油の市場における買い手減少を示唆している。"
   }
 ]
