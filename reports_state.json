@@ -1,82 +1,5 @@
 [
   {
-    "title": "Indian shares open higher on easing oil prices, bond yields - Reuters",
-    "timestamp": "2026-09-22T02:27:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド株式市場が原油価格の緩和とインド債利回りの低下を受けて高く寄り付いた。原油価格の低下がインド経済に好材料として作用し、エネルギーコスト圧力の緩和が株式買い需要につながっている。スタグフレーション懸念の軽減がコモディティ需要見通しにも部分的にポジティブ。"
-  },
-  {
-    "title": "Indian shares open higher on easing oil prices, bond yields - Reuters",
-    "timestamp": "2026-09-22T02:27:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場が原油価格の緩和とインド債利回りの低下を受けて高く寄り付いた。原油価格の低下がインド経済に好材料として作用し、エネルギーコスト圧力の緩和が株式買い需要につながっている。スタグフレーション懸念の軽減がコモディティ需要見通しにも部分的にポジティブ。"
-  },
-  {
-    "title": "Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Reuters",
-    "timestamp": "2026-09-22T02:08:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "テック株がAI関連の買い直しで上昇する一方、原油価格の上昇と債券利回りの上昇が相場の上値を抑制。金利上昇圧力は金を下押し、原油は需要見通しの強気要因で支持される。複数コモディティに対する相反する圧力が存在。"
-  },
-  {
-    "title": "Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Reuters",
-    "timestamp": "2026-09-22T02:08:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "テック株がAI関連の買い直しで上昇する一方、原油価格の上昇と債券利回りの上昇が相場の上値を抑制。金利上昇圧力は金を下押し、原油は需要見通しの強気要因で支持される。複数コモディティに対する相反する圧力が存在。"
-  },
-  {
-    "title": "Tech stocks rise on renewed AI fever; higher oil, bond yields temper rally - Reuters",
-    "timestamp": "2026-09-22T02:08:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "テック株がAI関連の買い直しで上昇する一方、原油価格の上昇と債券利回りの上昇が相場の上値を抑制。金利上昇圧力は金を下押し、原油は需要見通しの強気要因で支持される。複数コモディティに対する相反する圧力が存在。"
-  },
-  {
-    "title": "Saudis Tell Asian Refiners They Can Soon Pick Up Oil on Red Sea - Bloomberg.com",
-    "timestamp": "2026-09-22T06:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがアジア系製油所に対し、紅海での石油ピックアップが間もなく可能になると通告した。紅海での海運混乱による迂回航路の使用削減が進む兆候であり、アジア向け石油供給ルートの正常化が期待される。スエズ運河経由の輸送効率改善は運送コスト低下につながる可能性。"
-  },
-  {
-    "title": "China’s Gold Imports Top 1,000 Tons on Strong Investment Demand - Bloomberg.com",
-    "timestamp": "2026-09-22T03:52:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "中国の金輸入が1,000トンを超え、強い投資需要が観察されている。この大規模な輸入は、インフレ懸念や通貨不安を背景とした中国国内の金への逃避需要を示唆している。金価格の上昇要因となる可能性が高い。"
-  },
-  {
     "title": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters",
     "timestamp": "2026-09-22T11:41:47+00:00",
     "importance": 3,
@@ -130,39 +53,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "JPモルガンのCEOジェイミー・ダイモンが、米国はインドによるロシア産石油の購入を理由に制裁すべきではないとの見方を示した。地政学的緊張緩和の文脈で発言されたもので、インドのエネルギー調達政策の正当性を主張している。ロシア産原油の需要維持を示唆するコメントだが、具体的な政策変更は未定。"
-  },
-  {
-    "title": "India’s Oil Buyers May Cut Russian Cargoes in Wake of US Threats - Bloomberg.com",
-    "timestamp": "2026-09-22T03:29:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がロシア産石油輸入に対する制裁脅迫を強化する中、インドの石油購入業者がロシア産カーゴの削減を検討している。インドはロシア産原油の主要購い手であり、同国の購入量削減は世界供給に大きな影響を与える可能性がある。米国の圧力強化により、ロシア産石油の需要縮小と価格下圧力が加速する見込み。"
-  },
-  {
-    "title": "New Zealand’s Central Bank Warns Near-Term Inflation May Beat Estimates as Oil Surges - Bloomberg.com",
-    "timestamp": "2026-09-22T03:39:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ニュージーランド中央銀行が、原油価格の上昇を背景にインフレが市場予想を上回る可能性があると警告した。近期的なインフレ圧力が強まる懸念から、金融引き締めの必要性が高まる可能性がある。エネルギー価格上昇がコモディティ全般に波及するリスクが指摘されている。"
-  },
-  {
-    "title": "New Zealand’s Central Bank Warns Near-Term Inflation May Beat Estimates as Oil Surges - Bloomberg.com",
-    "timestamp": "2026-09-22T03:39:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ニュージーランド中央銀行が、原油価格の上昇を背景にインフレが市場予想を上回る可能性があると警告した。近期的なインフレ圧力が強まる懸念から、金融引き締めの必要性が高まる可能性がある。エネルギー価格上昇がコモディティ全般に波及するリスクが指摘されている。"
   },
   {
     "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
@@ -614,39 +504,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
-  },
-  {
-    "title": "Harvest time rolling toward average yields statewide - The Monroe Times",
-    "timestamp": "2026-09-22T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国の穀物収穫期が平年的な利回りに向かっていることが報告された。Monroe Timesの記事は、州全域での穀物（小麦、トウモロコシ、大豆）の収量が平均的な水準に落ち着くことを示唆している。特に異常気象や供給ショックは指摘されていない。"
-  },
-  {
-    "title": "Harvest time rolling toward average yields statewide - The Monroe Times",
-    "timestamp": "2026-09-22T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国の穀物収穫期が平年的な利回りに向かっていることが報告された。Monroe Timesの記事は、州全域での穀物（小麦、トウモロコシ、大豆）の収量が平均的な水準に落ち着くことを示唆している。特に異常気象や供給ショックは指摘されていない。"
-  },
-  {
-    "title": "Harvest time rolling toward average yields statewide - The Monroe Times",
-    "timestamp": "2026-09-22T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国の穀物収穫期が平年的な利回りに向かっていることが報告された。Monroe Timesの記事は、州全域での穀物（小麦、トウモロコシ、大豆）の収量が平均的な水準に落ち着くことを示唆している。特に異常気象や供給ショックは指摘されていない。"
   },
   {
     "title": "Copper Prices Under Pressure and Retreat, Market Focuses on Supply and Demand Changes - NAI500",
@@ -1153,5 +1010,159 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "フランスがサウジアラビアの石油港湾防衛のため軍事援助と軍隊派遣を決定。イエメンの親イラン勢力による攻撃リスクが高まる中東での重要インフラ防護強化。サウジの主要輸出港であるラス・タンヌラ港への脅威対応で、供給途絶リスク懸念が原油相場の上昇要因となる。"
+  },
+  {
+    "title": "Analyst insight: Supply and demand estimates in 2025/26 present an unbalanced picture - AHDB",
+    "timestamp": "2026-09-22T10:50:35+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "AHDB（英国農業庁）による2025/26年度の穀物需給見通しが「不均衡な状況」を示唆している。供給と需要の推計が相反する方向を示唆しており、市場の価格形成に不確実性が生じている可能性が高い。具体的な数値は記事タイトルのみでは不明だが、需給バランスの歪みは穀物複合商品に対する上下両方向のリスク要因として機能することが予想される。"
+  },
+  {
+    "title": "Analyst insight: Supply and demand estimates in 2025/26 present an unbalanced picture - AHDB",
+    "timestamp": "2026-09-22T10:50:35+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "AHDB（英国農業庁）による2025/26年度の穀物需給見通しが「不均衡な状況」を示唆している。供給と需要の推計が相反する方向を示唆しており、市場の価格形成に不確実性が生じている可能性が高い。具体的な数値は記事タイトルのみでは不明だが、需給バランスの歪みは穀物複合商品に対する上下両方向のリスク要因として機能することが予想される。"
+  },
+  {
+    "title": "Analyst insight: Supply and demand estimates in 2025/26 present an unbalanced picture - AHDB",
+    "timestamp": "2026-09-22T10:50:35+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "AHDB（英国農業庁）による2025/26年度の穀物需給見通しが「不均衡な状況」を示唆している。供給と需要の推計が相反する方向を示唆しており、市場の価格形成に不確実性が生じている可能性が高い。具体的な数値は記事タイトルのみでは不明だが、需給バランスの歪みは穀物複合商品に対する上下両方向のリスク要因として機能することが予想される。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-24T22:31:42+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間統計により、米国の原油とガソリン在庫が先週大幅に減少したことが報告された。減少は需要の強さが主因であり、供給逼迫の兆候を示唆している。在庫減少は価格上昇圧力となるが、市場予想の範囲内と考えられる。"
+  },
+  {
+    "title": "Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia - Reuters",
+    "timestamp": "2026-09-25T01:11:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国とイラン間の休戦の可能性が浮上し、地政学的リスク軽減期待が原油売却圧力となっている。一方、サウジアラビアへのフーシ派攻撃は供給懸念を残すが、休戦期待が上回っている。中東情勢の緊張緩和期待が価格を押し下げている。"
+  },
+  {
+    "title": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge - Reuters",
+    "timestamp": "2026-09-25T04:51:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "オマーン湾での洋上積み替え（STS）取引が物理的限界に達しており、サウジアラビアの原油輸出増加に対応できない状況が発生。物流ボトルネックにより市場の供給調整メカニズムが機能限界に直面し、原油価格の上昇圧力につながる可能性が高い。"
+  },
+  {
+    "title": "Asian stocks weather bond storm, oil retreats slightly - Reuters",
+    "timestamp": "2026-09-25T02:19:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株式市場が債券市場の変動を乗り越える中、原油相場は小幅な下落を示した。金利上昇環境下でも株式市場のレジリエンスが確認された一方、原油は需要懸念から軟調。コモディティ全般としては方向性が定まりにくい状況が続いている。"
+  },
+  {
+    "title": "Asian stocks weather bond storm, oil retreats slightly - Reuters",
+    "timestamp": "2026-09-25T02:19:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株式市場が債券市場の変動を乗り越える中、原油相場は小幅な下落を示した。金利上昇環境下でも株式市場のレジリエンスが確認された一方、原油は需要懸念から軟調。コモディティ全般としては方向性が定まりにくい状況が続いている。"
+  },
+  {
+    "title": "Ukraine kills two in drone attacks on Russia, hits oil refinery and train, officials say - Reuters",
+    "timestamp": "2026-09-25T04:29:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアへのドローン攻撃でロシア領内の石油精製施設と列車を攻撃したと発表。ロシアの石油精製能力への直接的な脅威が現実化。地政学的リスク深刻化に伴い、原油市場の供給懸念が急速に高まる可能性が高い。"
+  },
+  {
+    "title": "Indian shares muted as high oil, yields weigh; IT offsets broader pullback - Reuters",
+    "timestamp": "2026-09-25T02:18:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド株式市場が高い原油価格と利回り上昇の重しを受けている。ただしIT関連セクターの買いが指数全体の下押し圧力を相殺している。原油高が新興国のインフレ圧力を強めつつ、米国金利上昇が外国投資を抑制する二律背反の状況。"
+  },
+  {
+    "title": "Indian shares muted as high oil, yields weigh; IT offsets broader pullback - Reuters",
+    "timestamp": "2026-09-25T02:18:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド株式市場が高い原油価格と利回り上昇の重しを受けている。ただしIT関連セクターの買いが指数全体の下押し圧力を相殺している。原油高が新興国のインフレ圧力を強めつつ、米国金利上昇が外国投資を抑制する二律背反の状況。"
+  },
+  {
+    "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-25T06:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格の上昇がインフレ圧力を高め、アジアの債券・株式市場が下落する見通し。高インフレ環境ではリスク資産が売圧を受ける一方、実物資産である原油は支持される可能性。金融引き締めシナリオが浮上すれば、金を含む無利子資産にも下押し圧力が加わる構図。"
+  },
+  {
+    "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-25T06:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格の上昇がインフレ圧力を高め、アジアの債券・株式市場が下落する見通し。高インフレ環境ではリスク資産が売圧を受ける一方、実物資産である原油は支持される可能性。金融引き締めシナリオが浮上すれば、金を含む無利子資産にも下押し圧力が加わる構図。"
+  },
+  {
+    "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-09-25T06:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "原油価格の上昇がインフレ圧力を高め、アジアの債券・株式市場が下落する見通し。高インフレ環境ではリスク資産が売圧を受ける一方、実物資産である原油は支持される可能性。金融引き締めシナリオが浮上すれば、金を含む無利子資産にも下押し圧力が加わる構図。"
   }
 ]
