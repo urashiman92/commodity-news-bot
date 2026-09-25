@@ -1,38 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-09-21T23:18:57.454157+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSのCrop Progress定期発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を報告。具体的な進捗率や条件評価により、春植え穀物の供給見通しに関する市場の期待値が修正される可能性がある。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-09-21T23:18:57.454157+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSのCrop Progress定期発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を報告。具体的な進捗率や条件評価により、春植え穀物の供給見通しに関する市場の期待値が修正される可能性がある。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-09-21T23:18:57.454157+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSのCrop Progress定期発表。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進捗と生育状況を報告。具体的な進捗率や条件評価により、春植え穀物の供給見通しに関する市場の期待値が修正される可能性がある。"
-  },
-  {
     "title": "Indian shares open higher on easing oil prices, bond yields - Reuters",
     "timestamp": "2026-09-22T02:27:00+00:00",
     "importance": 2,
@@ -471,17 +438,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "9月18日のEIA原油在庫統計で、予想を大幅に上回る296.9万バレルの増加が報告された。市場予想は60万バレルの減少、前週は64万バレルの減少であり、増加から減少への反転が予想されていたが、逆に大幅な増加となった。この結果は原油需要の弱さと供給過剰を示唆し、価格下落圧力となる。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-09-21T23:36:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後の独立的な増産計画を推進し、来年の石油産出量を日量500万バレル超に引き上げる見通しをIEAが示唆。UAEの増産動向はOPEC減産合意の弱体化を意味し、供給サイドの緩和圧力が強まる可能性がある。"
   },
   {
     "title": "Wall St falls as oil ticks up, yields rise ahead of US-China summit - Reuters",
@@ -1142,5 +1098,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油相場の上昇がトレジャリー市場のボラティリティを引き起こし、株式市場の下落につながったとの報道。原油高は金融引き締め懸念と結びつき、実質金利上昇によって金などドルベースの無利子資産に下落圧力。マクロ環境の不安定性が強まった状況を示唆。"
+  },
+  {
+    "title": "Record US Soybean Crush, Export Demand Support Prices - czapp.com",
+    "timestamp": "2026-09-24T07:30:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国大豆の圧搾（クラッシング）が記録的水準に達し、輸出需要も堅調に推移している。大豆油・大豆粕の需要増加が相場を支援し、大豆価格の上昇要因となっている。WASDE発表に関連する市場評価と考えられる。"
+  },
+  {
+    "title": "Record US Soybean Crush, Export Demand Support Prices - czapp.com",
+    "timestamp": "2026-09-24T07:30:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国大豆の圧搾（クラッシング）が記録的水準に達し、輸出需要も堅調に推移している。大豆油・大豆粕の需要増加が相場を支援し、大豆価格の上昇要因となっている。WASDE発表に関連する市場評価と考えられる。"
+  },
+  {
+    "title": "Copper Explorer Advances Large Copper-Gold Porphyry Target in Southern BC - Streetwise Reports",
+    "timestamp": "2026-09-24T22:05:22+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "カナダ南部ブリティッシュコロンビア州の銅探査企業が大型銅金ポーフィリー鉱床の開発を進展させている。同地域は既知の鉱物資源が豊富であり、新規プロジェクトの進捗は銅・金供給の中期的な見通しに対する関心を反映している。"
+  },
+  {
+    "title": "Copper Explorer Advances Large Copper-Gold Porphyry Target in Southern BC - Streetwise Reports",
+    "timestamp": "2026-09-24T22:05:22+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "カナダ南部ブリティッシュコロンビア州の銅探査企業が大型銅金ポーフィリー鉱床の開発を進展させている。同地域は既知の鉱物資源が豊富であり、新規プロジェクトの進捗は銅・金供給の中期的な見通しに対する関心を反映している。"
+  },
+  {
+    "title": "France to Send Military Aid, Troops to Defend Saudi Oil Port - Bloomberg.com",
+    "timestamp": "2026-09-24T18:55:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "フランスがサウジアラビアの石油港湾防衛のため軍事援助と軍隊派遣を決定。イエメンの親イラン勢力による攻撃リスクが高まる中東での重要インフラ防護強化。サウジの主要輸出港であるラス・タンヌラ港への脅威対応で、供給途絶リスク懸念が原油相場の上昇要因となる。"
   }
 ]
