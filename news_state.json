@@ -1,82 +1,5 @@
 [
   {
-    "title": "金先物がアジア時間に反発、原油急落でインフレ懸念後退も買い戻し - BigGo ファイナンス",
-    "timestamp": "2026-09-22T02:25:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物がアジア時間に反発。原油急落によるインフレ懸念の後退で下落圧力が生じたものの、買い戻しが入った。テクニカルな値動きの報道。"
-  },
-  {
-    "title": "金価格上昇、原油安がインフレ懸念を緩和しトランプ氏がイラン協議を示唆 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-22T01:24:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が上昇。原油安によるインフレ懸念の緩和とトランプ氏によるイラン協議の示唆が報じられている。地政学リスク軽減の見方が金の下支え要因。"
-  },
-  {
-    "title": "世界の金価格は常に変動している。 - Vietnam.vn",
-    "timestamp": "2026-09-22T02:13:04+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が常に変動しているという一般的な解説記事。具体的な価格動向や市場要因についての詳細な情報は提供されていない。"
-  },
-  {
-    "title": "原油価格の動向が相場材料になりそう - m2j.co.jp",
-    "timestamp": "2026-09-22T00:05:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の動向が相場材料として注視されている状況を報じたニュース。具体的な価格材料や供給ショック、需要統計の報告ではなく、価格トレンド自体への言及。"
-  },
-  {
-    "title": "アジアのエネルギー株、原油価格の続落を受けて下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-22T02:07:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の続落がアジアのエネルギー株に負の影響を与えている。石油関連企業の株価が原油相場の下げに連動して下落。既報の価格トレンドが株式市場に波及している状況。"
-  },
-  {
-    "title": "米ディーゼル価格が6.51ドル突破で最高値更新、原油相場との異例の乖離 - BigGo ファイナンス",
-    "timestamp": "2026-09-22T00:38:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国ディーゼル価格が6.51ドルの最高値を更新し、同時期の原油相場との異例の乖離が発生。供給逼迫とエネルギー需給の構造的不均衡を示唆。"
-  },
-  {
-    "title": "ブレント原油先物 (UKOIL-F) は9月22日に下降 3.83%：注目すべき情報 - TradingKey",
-    "timestamp": "2026-09-22T00:06:49+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油先物が9月22日に3.83%下落した。ニュースは価格変動の事実報道であり、具体的な下落要因は記事概要に記載されていない。"
-  },
-  {
     "title": "NY金先物相場、伸び悩み 4400ドル付近で推移 - moomoo.com",
     "timestamp": "2026-09-22T03:52:19+00:00",
     "importance": 2,
@@ -110,17 +33,6 @@
     "summary": "金価格が約3万円/gから2万円台に下落したことを受け、個人投資家の買い判断について論じた解説記事。友人が100万円分を購入した事例を紹介しながら、底値買いの判断の難しさを指摘している。"
   },
   {
-    "title": "世界の金価格が下落。 - Vietnam.vn",
-    "timestamp": "2026-09-22T03:12:21+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が下落している。具体的な下落幅や原因について詳細な情報が不足しており、相場トレンドの確認が必要。"
-  },
-  {
     "title": "〔ソウル株式〕3日続伸＝原油価格巡る懸念で上げ幅縮小（22日）(時事通信) - Yahoo!ファイナンス",
     "timestamp": "2026-09-22T07:26:15+00:00",
     "importance": 2,
@@ -130,28 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "韓国株式市場が3日続伸した一方、原油価格の懸念から上昇幅が縮小。株式市場の相場動向を伝える総合記事で、原油は要因の一つに過ぎない。"
-  },
-  {
-    "title": "$WTI 原油先物(2611) (CLmain.US)$ イランのアラグチ外相が国連総会出席のためニューヨークに到着。 - moomoo.com",
-    "timestamp": "2026-09-22T01:12:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランのアラグチ外相が国連総会出席のためニューヨークに到着。定例の国連総会での外交活動であり、イラン核協議交渉の具体的進展や新たな制裁情報を伴うものではない。"
-  },
-  {
-    "title": "米国・イラン協議とサウジアラビアの供給増加を受け、原油価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-22T01:23:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国・イラン協議の進展とサウジアラビアの供給増加という2つの要因で原油価格が上昇。イラン制裁緩和期待と供給増加は相反する要素だが、市場は上昇方向で反応。"
   },
   {
     "title": "商品市場：原油価格の急落が大豆価格の上昇を相殺、MXV指数は0.7％近く下落 - Vietnam.vn",
@@ -1912,5 +1802,159 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で原油・天然ガス・銅が上昇する一方、ガソリン・金・銀・穀物が下落。単日の相場変動を記述した市場コメンタリー。"
+  },
+  {
+    "title": "東京金反発、NY金先物に追随 原油高一服で買い戻し - みんかぶ FX/為替",
+    "timestamp": "2026-09-25T01:52:57+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "東京金がNY金先物に追随して反発。原油高が一服したことで、金への買い戻しが入った。技術的なリバウンド局面の観測。"
+  },
+  {
+    "title": "金価格は週間ベースで2%超の下落へ、原油高がFRB利上げ観測を強化 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-25T01:12:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が週間ベースで2%超下落。原油高がインフレ懸念を再燃させ、FRBの利上げ観測が強化された。金は高金利環境で下押し圧力を受けている。"
+  },
+  {
+    "title": "NY金先物は4営業日続落、米経済指標の上振れと長期金利上昇でドル高が重しに｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-25T00:19:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が4営業日連続で下落。米経済指標の良好な結果と長期金利上昇によるドル強化が金価格を圧迫。金利上昇局面ではドル建て資産である金の相対的な魅力が低下する構図が継続。"
+  },
+  {
+    "title": "9月25日速報：金価格が4300ドルを下回り急落、原油価格は再び上昇。 - Vietnam.vn",
+    "timestamp": "2026-09-25T01:49:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が9月25日に4300ドルを下回って急落した。一方、原油価格は再び上昇している。金と原油の値動きが逆方向に進む非対称的な市場変動が生じている。"
+  },
+  {
+    "title": "9月25日の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-09-25T00:13:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月25日の金相場が全般的に下落した。具体的な下落率や要因については記事概要からは判明していない。定期的な価格報告のようである。"
+  },
+  {
+    "title": "原油先物は反落、米イラン停戦に期待 石油施設攻撃に警戒も - Reuters",
+    "timestamp": "2026-09-25T01:52:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の停戦期待が原油先物を押し下げた。地政学リスク軽減による需要懸念が売り材料。一方、石油施設攻撃のリスクが下値を支えている。"
+  },
+  {
+    "title": "原油先物は反落、米イラン停戦に期待 石油施設攻撃に警戒も - ニューズウィーク日本版",
+    "timestamp": "2026-09-25T01:52:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン間の停戦期待により原油先物は反落。ただし石油施設への攻撃リスクが残存し、上値は限定される見通し。地政学的緊張の緩和が主な下落要因。"
+  },
+  {
+    "title": "外為サマリー：米原油先物の上昇一服などから１５８円６０銭台に伸び悩む - みんかぶ",
+    "timestamp": "2026-09-25T01:17:24+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物の上昇が一服し、ドル円が158円60銭台で伸び悩んでいる。原油価格の上値での重さが為替相場に影響している。既に進行中の相場トレンドの解説。"
+  },
+  {
+    "title": "米イラン交渉に進展の兆しで国際原油価格が急騰 米連邦準備制度理事会（FRB）高官のタカ派発言相次ぎ10月利上げ確率が上昇 - finance.biggo.jp",
+    "timestamp": "2026-09-25T03:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン交渉の進展報道により国際原油価格が急騰。同時にFRB高官のタカ派発言で10月利上げ観測が上昇。地政学リスク緩和と金融引き締め強化の複合材料。"
+  },
+  {
+    "title": "原油取引アラート：米イラン交渉が緩和シグナルを発信、WTI原油は高値圏から反落 - Moomoo",
+    "timestamp": "2026-09-25T01:54:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの交渉が進展し、地政学的リスクが緩和される見通しが示された。これにより原油価格は高値圏から反落した。供給懸念の低下が価格を圧迫している。"
+  },
+  {
+    "title": "原油先物は反落、米イラン停戦に期待 石油施設攻撃に警戒も - Infoseek",
+    "timestamp": "2026-09-25T01:52:25+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イランの停戦期待により原油先物が反落。ただし石油施設攻撃への警戒感も存在し、上値抵抗は残る。地政学的な不確実性が市場を二律背反的に支配している状況。"
+  },
+  {
+    "title": "原油価格が再び上昇、ウォール街は下落。 - Vietnam.vn",
+    "timestamp": "2026-09-25T00:48:52+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が上昇する一方で、米国株式市場は下落している。リスク資産とコモディティの逆相関が示唆されており、マクロ経済懸念の可能性がある。"
+  },
+  {
+    "title": "２４日の主要国際商品市況 (2026年9月25日掲載) - ライブドアニュース",
+    "timestamp": "2026-09-24T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2024年9月24日の主要国際商品市況に関する定期的な市場レポート。具体的な価格データや市況の詳細内容は提供されていない。"
+  },
+  {
+    "title": "２４日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-09-24T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "24日の主要国際商品市況に関する定期的な市場レポート。具体的な価格データや変動要因の詳細が示されていない。"
   }
 ]
