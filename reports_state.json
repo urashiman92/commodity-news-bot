@@ -1,60 +1,5 @@
 [
   {
-    "title": "Milk Production",
-    "timestamp": "2026-09-22T22:12:25.041055+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "米国24州の8月牛乳生産量が192億ポンドで、前年同月比1.8%増加。増産は飼料穀物（トウモロコシ・大豆）需要の増加を示唆し、需給のタイト化により穀物価格への上昇圧力となる可能性がある。ただし1.8%の増加幅は通常範囲内の伸び。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-09-22T22:12:25.041055+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "米国24州の8月牛乳生産量が192億ポンドで、前年同月比1.8%増加。増産は飼料穀物（トウモロコシ・大豆）需要の増加を示唆し、需給のタイト化により穀物価格への上昇圧力となる可能性がある。ただし1.8%の増加幅は通常範囲内の伸び。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-09-22T22:12:25.041055+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "米国24州の8月牛乳生産量が192億ポンドで、前年同月比1.8%増加。増産は飼料穀物（トウモロコシ・大豆）需要の増加を示唆し、需給のタイト化により穀物価格への上昇圧力となる可能性がある。ただし1.8%の増加幅は通常範囲内の伸び。"
-  },
-  {
-    "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold - oilprice.com",
-    "timestamp": "2026-09-22T21:08:45+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫統計によると、ガソリンとディスティレート（軽油など)在庫は引き続き低下している一方、原油在庫は横ばいで推移している。供給面での安定性は維持されているが、精製燃料の在庫低下は中期的な需給引き締まりを示唆している。"
-  },
-  {
-    "title": "Oil Extends Slump on Iran Talks Optimism, Saudi Pipeline Restart - Bloomberg.com",
-    "timestamp": "2026-09-22T22:02:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン核協議の進展楽観論とサウジアラビアのパイプライン再開予定が市場で報じられ、供給増加への懸念から原油相場が続落している。地政学的なリスク軽減と実需供給増加の双方が売り圧力となっており、短期的には下値圧力が継続する見込み。"
-  },
-  {
     "title": "Tight supply coupled with pre-holiday stockpiling drives SHFE copper premiums sharply higher [SMM Copper Morning Meeting Notes] - Shanghai Metals Market",
     "timestamp": "2026-09-23T00:56:00+00:00",
     "importance": 3,
@@ -97,61 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株がテック関連の買いで上昇する一方、原油相場は軟調に推移している。テック株の強気相場はドル高やリスク選好環境を反映している可能性があるが、原油は需要懸念やドル強化の重圧を受けている。コモディティ市場全体では地域別・品目別で異なる動きを示唆している。"
-  },
-  {
-    "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-22T21:08:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計でガソリンと留分油在庫が継続して減少する一方、原油在庫は横這い推移。需要側の在庫減少と供給側の原油在庫安定化という相反する信号が市場に混在。市場予想比での具体的なサプライズ度は記事内容からは判断困難。"
-  },
-  {
-    "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-22T21:08:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計でガソリンと留分油在庫が継続して減少する一方、原油在庫は横這い推移。需要側の在庫減少と供給側の原油在庫安定化という相反する信号が市場に混在。市場予想比での具体的なサプライズ度は記事内容からは判断困難。"
-  },
-  {
-    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - RFD-TV",
-    "timestamp": "2026-09-22T21:02:12+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "中南米地域の穀物収穫が予定より早く進行している。一方で燃料費上昇が収穫コストを圧迫しており、サプライチェーンの効率性と生産費用に相反する圧力がかかっている状況。穀物供給側はポジティブだが、原油価格上昇は投入費用を増加させる。"
-  },
-  {
-    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - RFD-TV",
-    "timestamp": "2026-09-22T21:02:12+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "中南米地域の穀物収穫が予定より早く進行している。一方で燃料費上昇が収穫コストを圧迫しており、サプライチェーンの効率性と生産費用に相反する圧力がかかっている状況。穀物供給側はポジティブだが、原油価格上昇は投入費用を増加させる。"
-  },
-  {
-    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - RFD-TV",
-    "timestamp": "2026-09-22T21:02:12+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "原油",
-    "summary": "中南米地域の穀物収穫が予定より早く進行している。一方で燃料費上昇が収穫コストを圧迫しており、サプライチェーンの効率性と生産費用に相反する圧力がかかっている状況。穀物供給側はポジティブだが、原油価格上昇は投入費用を増加させる。"
   },
   {
     "title": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on - Reuters",
@@ -264,17 +154,6 @@
     "summary": "EIAが発表した週間在庫統計で、米国の原油在庫が増加した一方で、ガソリンなどの製品在庫が減少した。原油在庫の増加は供給過剰シグナルとなり下落圧力だが、燃料在庫の減少は需要堅調を示唆する。事前予想値が開示されていないため、正確なサプライズ度は判定不可。"
   },
   {
-    "title": "Railroads Expect Strong Corn Demand Despite Smaller Crop - RFD-TV",
-    "timestamp": "2026-09-22T20:57:10+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "鉄道業界がより小さいトウモロコシ作物にもかかわらず強い需要を見込んでいるとの業界観測。供給減少への対抗として輸送需要の堅調さが指摘されているが、具体的な数値やデータは提供されていない。鉄道輸送需要は穀物流通の重要な指標だが、相反する要因（供給減 vs 需要強気）が混在している。"
-  },
-  {
     "title": "US Crude Oil Stocks Unexpectedly Rise: EIA - TradingView",
     "timestamp": "2026-09-23T14:48:25+00:00",
     "importance": 3,
@@ -339,50 +218,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の増加を報告した。在庫増加は供給過剰シグナルであり、原油価格に下押し圧力をもたらす。具体的な在庫増加量や週間の詳細データは記事本文から不明だが、定期的なEIA週間在庫報告の一部。"
-  },
-  {
-    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
-    "timestamp": "2026-09-22T21:02:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
-  },
-  {
-    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
-    "timestamp": "2026-09-22T21:02:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
-  },
-  {
-    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
-    "timestamp": "2026-09-22T21:02:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "原油",
-    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
-  },
-  {
-    "title": "#Harvest26: Mid-South Grain Harvest Runs Ahead of Schedule as Fuel Costs Climb - rfdtv.com",
-    "timestamp": "2026-09-22T21:02:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "米国中南部の穀物収穫が予定より早期に進行している一方、燃料費の上昇圧力が懸念されている。収穫の加速はトウモロコシと小麦の供給増を示唆する一方で、燃料（ディーゼル・ガソリン）価格上昇により農業コストが増加。在庫増加見通しと経費増加のバランスが価格に作用する。"
   },
   {
     "title": "Copper Prices Under Pressure and Retreat, Market Focuses on Supply and Demand Changes - NAI500",
@@ -1153,5 +988,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "2027年のエルニーニョ現象がパーム油生産を抑制し、供給逼迫をもたらすとの見通し。エルニーニョは東南アジアの降雨パターンを変化させ、インドネシア・マレーシアのパーム油生産に悪影響を与える可能性が高い。これに伴い、大豆油などの代替油脂に対する需要圧力も増加する見通し。"
+  },
+  {
+    "title": "Peanut Stocks and Processing",
+    "timestamp": "2026-09-25T22:23:34.599896+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASs公式発表により、殻付き食用グレードピーナッツの季節累計処理量が前年同期比5%減少したことが報告された。商業貯蔵中のピーナッツ在庫は28.1億ポンドに達している。在庫増加と処理量低下は供給過剰の兆候を示唆している。"
+  },
+  {
+    "title": "Potatoes",
+    "timestamp": "2026-09-25T22:23:38.827766+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASによる2025年ポテト生産量が前年比1%減少と発表。減少幅は限定的で市場予想の範囲内。供給の大幅な逼迫は見られず、価格圧力は軽微。飼料穀物やでんぷん用途への間接的な影響は限定的。"
+  },
+  {
+    "title": "Potatoes",
+    "timestamp": "2026-09-25T22:23:38.827766+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASによる2025年ポテト生産量が前年比1%減少と発表。減少幅は限定的で市場予想の範囲内。供給の大幅な逼迫は見られず、価格圧力は軽微。飼料穀物やでんぷん用途への間接的な影響は限定的。"
+  },
+  {
+    "title": "Cold Storage",
+    "timestamp": "2026-09-25T22:23:42.923519+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの定期冷蔵倉庫在庫統計。2026年8月31日時点のナチュラルチーズ冷蔵在庫は前月比でわずかに増加し、前年同月比で2%増加した。微小な増加幅で市場インパクトは限定的。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - Yahoo Finance UK",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米EIAが週間在庫統計を発表。原油在庫は300万バレルの増加を記録した一方、留分油（ディーゼル・灯油）在庫は平均比12%下回る水準に低下。供給と需要のバランスが分かれ、原油価格には上値の重さが続く可能性がある。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - Yahoo Finance UK",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米EIAが週間在庫統計を発表。原油在庫は300万バレルの増加を記録した一方、留分油（ディーゼル・灯油）在庫は平均比12%下回る水準に低下。供給と需要のバランスが分かれ、原油価格には上値の重さが続く可能性がある。"
+  },
+  {
+    "title": "September 2026 Crop Basis Update: The Harvest Dip - Purdue University - College of Agriculture",
+    "timestamp": "2026-09-25T17:37:21+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "パデュー大学による9月2026年の作物ベーシス更新レポート。収穫期のベーシス低下（ハーベストディップ）に関する定期的な分析と見通しを提供。具体的な数値や詳細は当該リンク先で確認が必要。"
+  },
+  {
+    "title": "September 2026 Crop Basis Update: The Harvest Dip - Purdue University - College of Agriculture",
+    "timestamp": "2026-09-25T17:37:21+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "パデュー大学による9月2026年の作物ベーシス更新レポート。収穫期のベーシス低下（ハーベストディップ）に関する定期的な分析と見通しを提供。具体的な数値や詳細は当該リンク先で確認が必要。"
+  },
+  {
+    "title": "September 2026 Crop Basis Update: The Harvest Dip - Purdue University - College of Agriculture",
+    "timestamp": "2026-09-25T17:37:21+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "パデュー大学による9月2026年の作物ベーシス更新レポート。収穫期のベーシス低下（ハーベストディップ）に関する定期的な分析と見通しを提供。具体的な数値や詳細は当該リンク先で確認が必要。"
+  },
+  {
+    "title": "US durum market tightens after smaller harvest - World Grain",
+    "timestamp": "2026-09-24T11:22:30+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国デュラム小麦の収穫量が予想より少なかったことで市場が逼迫している。デュラム小麦はパスタやセモリナ粉の主要原料であり、供給減による価格上昇圧力が強まっている。国内供給の減少に伴い、価格は上昇基調が継続する見込み。"
   }
 ]
