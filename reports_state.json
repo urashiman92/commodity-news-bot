@@ -1,16 +1,5 @@
 [
   {
-    "title": "Opec-Plus: August Output Drops, But Hormuz Shuttle Props - Energy Intelligence",
-    "timestamp": "2026-09-22T16:09:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が8月の産出量を減少させたが、ホルムズ海峡でのシャトル輸送（パイプライン代替輸送）が需給を支えている。供給削減圧力と物流維持のバランスが市場で相反する材料として作用。地政学的リスク要因が継続している。"
-  },
-  {
     "title": "Milk Production",
     "timestamp": "2026-09-22T22:12:25.041055+00:00",
     "importance": 2,
@@ -53,39 +42,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAの週間在庫統計によると、ガソリンとディスティレート（軽油など)在庫は引き続き低下している一方、原油在庫は横ばいで推移している。供給面での安定性は維持されているが、精製燃料の在庫低下は中期的な需給引き締まりを示唆している。"
-  },
-  {
-    "title": "Russian Oil Flows Dip as US Sanctions, Saudi Supplies Loom - Bloomberg.com",
-    "timestamp": "2026-09-22T15:03:13+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国制裁とサウジアラビアの供給圧力が高まる中、ロシアの石油流出量が減少している。制裁強化による供給制約とOPEC主要国の供給増加が相反する圧力として作用し、原油市場の需給バランスに複雑な影響をもたらしている。"
-  },
-  {
-    "title": "Saudi Arabia denies buying oil tankers after Iraq blames it for higher shipping costs - Reuters",
-    "timestamp": "2026-09-22T16:49:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イラクがサウジアラビアのタンカー買収がシップピングコスト上昇の原因だと非難したが、サウジアラビアがこれを否定。中東における石油輸送インフラをめぐる対立が表面化し、海上輸送コスト上昇が原油取引コストに直結する可能性がある。"
-  },
-  {
-    "title": "Saudi Arabia denies buying oil tankers after Iraq blames it for higher shipping costs - Reuters",
-    "timestamp": "2026-09-22T16:49:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イラクがサウジアラビアのタンカー買収がシップピングコスト上昇の原因だと非難したが、サウジアラビアがこれを否定。中東における石油輸送インフラをめぐる対立が表面化し、海上輸送コスト上昇が原油取引コストに直結する可能性がある。"
   },
   {
     "title": "Oil Extends Slump on Iran Talks Optimism, Saudi Pipeline Restart - Bloomberg.com",
@@ -330,17 +286,6 @@
     "summary": "EIAが発表した米国原油在庫が予想外に増加した。通常、需要堅調期には在庫減少が予想されるが、増加という逆方向のサプライズが報告された。これはドル高やグローバル需要減速への懸念を反映し、WTI原油価格に下押し圧力をもたらす可能性が高い。"
   },
   {
-    "title": "Opec-Plus: August Output Drops, But Hormuz Shuttle Props - Energy Intelligence",
-    "timestamp": "2026-09-22T17:14:41+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は8月の原油生産量が減少したと報告。一方、ホルムズ海峡での石油輸送活動が堅調に推移し、供給懸念を相殺している。地政学リスクと減産政策の綱引きが続く中、市場心理は不安定。"
-  },
-  {
     "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
     "timestamp": "2026-09-23T02:24:17+00:00",
     "importance": 2,
@@ -449,28 +394,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "銅価格が圧力を受けて下落トレンドにあり、市場は供給・需要バランスの変化に注視している。具体的な数値が提示されていないため、詳細な下落率は不明だが、ファンダメンタル要因の検証が投資判断の鍵となっている。"
-  },
-  {
-    "title": "Hess worked with OPEC to keep gas prices high, a new class action lawsuit alleges. - Claim Depot",
-    "timestamp": "2026-09-22T16:06:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "Hessがヘッジファンドの集団訴訟で、OPECと協力してガソリン価格を高止まりさせたと訴訟提起される。同社がOPECの減産政策に協調し、意図的に市場価格を操作した疑いが判明。エネルギー企業とOPECの価格カルテル疑惑は市場信頼性を大きく損なう可能性があり、規制強化やエネルギー政策の見直し機運が高まる。"
-  },
-  {
-    "title": "Hess worked with OPEC to keep gas prices high, a new class action lawsuit alleges. - Claim Depot",
-    "timestamp": "2026-09-22T16:06:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "Hessがヘッジファンドの集団訴訟で、OPECと協力してガソリン価格を高止まりさせたと訴訟提起される。同社がOPECの減産政策に協調し、意図的に市場価格を操作した疑いが判明。エネルギー企業とOPECの価格カルテル疑惑は市場信頼性を大きく損なう可能性があり、規制強化やエネルギー政策の見直し機運が高まる。"
   },
   {
     "title": "Saudis Ease Asia Oil Crunch With 100-Million-Barrel Sales Flurry - Bloomberg.com",
@@ -1131,5 +1054,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "欧州株式が4週間ぶりに週間上昇する見込みとなっており、背景には原油価格の緩和がある。原油相場が軟調に推移することで、エネルギーコスト圧力が緩和され、リスク資産としてのコモディティ全般の下押し圧力は限定的と考えられる。欧州経済の回復期待がやや好感されている状況。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが原油在庫300万バレルの積み増しを報告。一方、留分油（ディーゼル・灯油）在庫は平均より12%低水準に落ち込んでいる。供給サイドでは原油が増加する中、精製製品の逼迫が継続しており、市場には相反するシグナルが混在している。"
+  },
+  {
+    "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-23T14:47:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIAが原油在庫300万バレルの積み増しを報告。一方、留分油（ディーゼル・灯油）在庫は平均より12%低水準に落ち込んでいる。供給サイドでは原油が増加する中、精製製品の逼迫が継続しており、市場には相反するシグナルが混在している。"
+  },
+  {
+    "title": "Iraq Presses OPEC for Higher Oil Quota to Offset Decades of Conflict Losses - News and Statistics - IndexBox",
+    "timestamp": "2026-09-25T14:10:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPECに対し、数十年の紛争による損失を補償するため原油生産枠の引き上げを要求している。イラクは現在のOPEC内での配分枠が過去の紛争で生産能力を喪失した状況を反映していないと主張。この要求が実現すればOPECの供給増加圧力となる。"
+  },
+  {
+    "title": "Russia's Perm oil refinery halted operations after Friday drone attack, sources say - reuters.com",
+    "timestamp": "2026-09-25T15:23:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア・ペルム製油所が金曜日のドローン攻撃後に操業を停止した。同製油所はロシア有数の大型製油所であり、日量約12-15万バレルの精製能力を保有している。ウクライナ紛争による供給途絶のリスク再燃は、すでに逼迫する石油市場に新たな上値圧力をもたらす可能性が高い。"
+  },
+  {
+    "title": "US Stock Futures Rise as Investors See Relief in Yields, Oil - Bloomberg.com",
+    "timestamp": "2026-09-25T11:35:50+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国株先物が上昇し、投資家が利回り低下と原油価格の緩和を好感している。金利低下は金にとってポジティブ材料となる一方、ドル軟化トレンドはコモディティ全般の支援要因。ただし既に織り込まれた観測段階であり、新規ニュースではない。"
+  },
+  {
+    "title": "US Stock Futures Rise as Investors See Relief in Yields, Oil - Bloomberg.com",
+    "timestamp": "2026-09-25T11:35:50+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国株先物が上昇し、投資家が利回り低下と原油価格の緩和を好感している。金利低下は金にとってポジティブ材料となる一方、ドル軟化トレンドはコモディティ全般の支援要因。ただし既に織り込まれた観測段階であり、新規ニュースではない。"
+  },
+  {
+    "title": "US Stock Futures Rise as Investors See Relief in Yields, Oil - Bloomberg.com",
+    "timestamp": "2026-09-25T11:35:50+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株先物が上昇し、投資家が利回り低下と原油価格の緩和を好感している。金利低下は金にとってポジティブ材料となる一方、ドル軟化トレンドはコモディティ全般の支援要因。ただし既に織り込まれた観測段階であり、新規ニュースではない。"
+  },
+  {
+    "title": "El Niño Set to Crimp Palm Oil Output in 2027, Squeezing Supply - Bloomberg.com",
+    "timestamp": "2026-09-25T07:02:06+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "大豆",
+    "summary": "2027年のエルニーニョ現象がパーム油生産を抑制し、供給逼迫をもたらすとの見通し。エルニーニョは東南アジアの降雨パターンを変化させ、インドネシア・マレーシアのパーム油生産に悪影響を与える可能性が高い。これに伴い、大豆油などの代替油脂に対する需要圧力も増加する見通し。"
+  },
+  {
+    "title": "El Niño Set to Crimp Palm Oil Output in 2027, Squeezing Supply - Bloomberg.com",
+    "timestamp": "2026-09-25T07:02:06+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "2027年のエルニーニョ現象がパーム油生産を抑制し、供給逼迫をもたらすとの見通し。エルニーニョは東南アジアの降雨パターンを変化させ、インドネシア・マレーシアのパーム油生産に悪影響を与える可能性が高い。これに伴い、大豆油などの代替油脂に対する需要圧力も増加する見通し。"
   }
 ]
