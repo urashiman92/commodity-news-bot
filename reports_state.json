@@ -1098,5 +1098,49 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "週足ベースで金・銀・原油が下落し、海外金属市場が広範に下振れした。LME錫は1%超上昇、LME亜鉛は2%近い下落と、コモディティ間での値動きが分化。米国株が上昇する中、リスク資産優位の環境が金などの安全資産を圧迫している。"
+  },
+  {
+    "title": "Sunflower crop progress slows in late September - AgUpdate",
+    "timestamp": "2026-09-26T11:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "9月下旬のひまわり作物の進捗が鈍化したことが報告された。収穫・生育の遅れは供給への懸念材料となるが、通常の季節変動の範囲内と判断される。ひまわり油市場への直接的な影響は限定的だが、穀物・油糧種子市場全体のセンチメントに軽微な下押し圧力。"
+  },
+  {
+    "title": "Sunflower crop progress slows in late September - AgUpdate",
+    "timestamp": "2026-09-26T11:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "ひまわり油",
+    "summary": "9月下旬のひまわり作物の進捗が鈍化したことが報告された。収穫・生育の遅れは供給への懸念材料となるが、通常の季節変動の範囲内と判断される。ひまわり油市場への直接的な影響は限定的だが、穀物・油糧種子市場全体のセンチメントに軽微な下押し圧力。"
+  },
+  {
+    "title": "OPEC Monthly Oil Market Report, September 2026 - Peak Oil Barrel",
+    "timestamp": "2026-09-26T11:19:07+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの9月月次レポートが発表された。タイトルの「Peak Oil Barrel」という表現は、世界の石油需要がピークに達した可能性を示唆している。OPEC加盟国の供給政策と世界需要の見通しが重要な焦点となり、減産継続判断によって原油価格の方向性が決まる可能性がある。"
+  },
+  {
+    "title": "OPEC Monthly Oil Market Report, September 2026 - Peak Oil Barrel",
+    "timestamp": "2026-09-26T11:19:07+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECの9月月次レポートが発表された。タイトルの「Peak Oil Barrel」という表現は、世界の石油需要がピークに達した可能性を示唆している。OPEC加盟国の供給政策と世界需要の見通しが重要な焦点となり、減産継続判断によって原油価格の方向性が決まる可能性がある。"
   }
 ]
