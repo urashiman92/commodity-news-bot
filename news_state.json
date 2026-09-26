@@ -1,27 +1,5 @@
 [
   {
-    "title": "ニューヨーク原油先物市場概況･23日 反発 - Moomoo",
-    "timestamp": "2026-09-23T20:39:45+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ニューヨーク原油先物市場が23日に反発した。具体的な反発の理由や背景情報は記事概要に記載されていない。市場の振り返り・解説の性質が強い。"
-  },
-  {
-    "title": "黒海停戦期待でシカゴ小麦先物が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-23T21:16:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "黒海地域の停戦期待が高まり、ウクライナ産小麦の供給懸念が緩和される見通しから、シカゴ小麦先物が下落した。地政学的リスクの軽減が価格を押し下げた。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4287ドル｜米長期金利の上昇が影響した模様(2026年9月24日) - OANDA証券",
     "timestamp": "2026-09-23T23:05:06+00:00",
     "importance": 3,
@@ -97,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの国内燃料価格は9月24日午後3時に発表予定。世界的には原油価格が上昇傾向。ベトナム国内価格の具体値はまだ未発表。"
-  },
-  {
-    "title": "大豆先物が下落、米中首脳会談を前にトレーダーが様子見 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-23T21:12:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "米中首脳会談を控えてトレーダーが大豆先物のポジション調整を進め、相場が下落している。政治的な不確実性が高まる中、投資家がリスク回避姿勢を強めている。"
   },
   {
     "title": "２３日の主要国際商品市況 - 株探",
@@ -218,17 +185,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの声明を受けて原油価格が4％近く上昇した。地政学的な緊張関係にある両国の動向は市場に大きな影響を与える。供給リスク懸念が価格押し上げ要因と考えられる。"
-  },
-  {
-    "title": "原油価格と米国債利回りの上昇を受け、ウォール街は下落して引けた - TradingView",
-    "timestamp": "2026-09-23T20:24:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格上昇と米国債利回り上昇により株式市場（ウォール街）が下落。金利上昇による企業評価額圧縮と、エネルギーコスト増加への懸念が背景。"
   },
   {
     "title": "２３日の主要国際商品市況 (2026年9月24日掲載) - ライブドアニュース",
@@ -1593,5 +1549,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油相場は小幅な値動きに留まっている。ホルムズ海峡を巡る地政学的リスクと需給のタイトさが相互に作用し、上下の圧力が拮抗している状況が続いている。"
+  },
+  {
+    "title": "金価格更新、2026年9月27日午前：SJC、プレーンゴールドリング9999 Bao Tin Minh Chau、DOJI Phu Quy - Vietnam.vn",
+    "timestamp": "2026-09-26T21:29:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売業者（SJC、Bao Tin Minh Chau、DOJI Phu Quy）による9999純金リング製品の価格更新ニュース。ベトナム国内の小売価格情報であり、国際スポット市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "NYの原油先物 3日ぶりに反落 終値92ドル台 - 沖縄タイムス社",
+    "timestamp": "2026-09-26T18:57:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NYの原油先物が3日ぶりに反落し、終値は92ドル台となった。短期的な調整局面を示唆しており、市場の通常のボラティリティ内での値動き。"
+  },
+  {
+    "title": "NY原油先物：反落、イラン外相のホルムズ海峡開放提案で供給懸念が後退 - ｄメニューニュース",
+    "timestamp": "2026-09-25T23:37:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン外相がホルムズ海峡の開放提案を表明し、供給途絶懸念が後退した。これにより地政学的リスクプレミアムが縮小し、NY原油先物は反落。既に報じられている緊張緩和の流れの延長線。"
   }
 ]
