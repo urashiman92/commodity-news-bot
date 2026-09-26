@@ -319,39 +319,6 @@
     "summary": "マクロン仏大統領がサウジアラビア防衛のため仏軍をイエメン紅海沿岸に派遣すると発表。フーシ派による石油輸送路攻撃が継続する中、欧州列強による直接的軍事介入は地政学リスク大幅上昇を示唆。紅海経由の原油輸送ルート確保が戦略的優先事項に上昇。"
   },
   {
-    "title": "Stocks Drop as Oil Rally Fuels Treasury Volatility: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-23T22:17:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油相場の上昇がトレジャリー市場のボラティリティを引き起こし、株式市場の下落につながったとの報道。原油高は金融引き締め懸念と結びつき、実質金利上昇によって金などドルベースの無利子資産に下落圧力。マクロ環境の不安定性が強まった状況を示唆。"
-  },
-  {
-    "title": "Stocks Drop as Oil Rally Fuels Treasury Volatility: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-23T22:17:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "原油相場の上昇がトレジャリー市場のボラティリティを引き起こし、株式市場の下落につながったとの報道。原油高は金融引き締め懸念と結びつき、実質金利上昇によって金などドルベースの無利子資産に下落圧力。マクロ環境の不安定性が強まった状況を示唆。"
-  },
-  {
-    "title": "Stocks Drop as Oil Rally Fuels Treasury Volatility: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-23T22:17:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油相場の上昇がトレジャリー市場のボラティリティを引き起こし、株式市場の下落につながったとの報道。原油高は金融引き締め懸念と結びつき、実質金利上昇によって金などドルベースの無利子資産に下落圧力。マクロ環境の不安定性が強まった状況を示唆。"
-  },
-  {
     "title": "Record US Soybean Crush, Export Demand Support Prices - czapp.com",
     "timestamp": "2026-09-24T07:30:52+00:00",
     "importance": 3,
@@ -911,5 +878,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの地域責任者がドローン攻撃により施設が炎上していることを報告。ウクライナ紛争の激化に伴うロシア国内インフラへの直接的な被害が拡大している。ロシアからのエネルギー・穀物供給に対する懸念が急速に高まり、コモディティ市場全体でリスク要因として機能。"
+  },
+  {
+    "title": "Corn harvest delays push prices higher - agupdate.com",
+    "timestamp": "2026-09-24T11:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国のトウモロコシ収穫が遅延していることが報道されている。秋季の天候悪化やロジスティクス制約により、収穫ペースが鈍化。収穫遅延は供給逼迫の懸念につながり、トウモロコシ先物相場を押し上げている。WASDE統計との整合性を注視する必要がある。"
   }
 ]
