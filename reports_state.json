@@ -1,16 +1,5 @@
 [
   {
-    "title": "US crude inventories rise while fuel stocks decline, EIA says - Investing.com",
-    "timestamp": "2026-09-23T17:14:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが発表した週間在庫統計で、米国の原油在庫が増加した一方で、ガソリンなどの製品在庫が減少した。原油在庫の増加は供給過剰シグナルとなり下落圧力だが、燃料在庫の減少は需要堅調を示唆する。事前予想値が開示されていないため、正確なサプライズ度は判定不可。"
-  },
-  {
     "title": "EIA reports a rise in US crude oil stocks - engine.online",
     "timestamp": "2026-09-24T09:17:49+00:00",
     "importance": 2,
@@ -64,17 +53,6 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "米国デュラム小麦の収穫量が予想より少なくなり、市場の需給が逼迫している。デュラム小麦はパスタやセモリナ粉などの用途に特定的で、供給の制約が価格を押し上げる要因となる可能性が高い。在庫の減少により価格上昇圧力が継続すると見込まれる。"
-  },
-  {
-    "title": "Arkansas Soybean Harvest Reaches Record Pace as Dry Weather Accelerates Progress - KVOM 101.7",
-    "timestamp": "2026-09-23T19:34:28+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "アーカンソー州の大豆収穫が記録的なペースで進行中。乾燥した天候が作業を加速させている。収穫の早期完了は供給増加の懸念材料となり、大豆価格に下押し圧力をもたらす可能性がある。"
   },
   {
     "title": "Serbia's Russian-owned NIS oil firm seeks new US sanctions waiver - Reuters",
