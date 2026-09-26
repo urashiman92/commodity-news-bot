@@ -1,16 +1,5 @@
 [
   {
-    "title": "Tight supply coupled with pre-holiday stockpiling drives SHFE copper premiums sharply higher [SMM Copper Morning Meeting Notes] - Shanghai Metals Market",
-    "timestamp": "2026-09-23T00:56:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "上海先物取引所（SHFE）の銅プレミアムが、供給逼迫と休場前の買い溜めにより大幅に上昇している。タイトな供給環境下で現物需要が強まり、期近物と期先物のスプレッドが拡大。年末年始の在庫積み増し需要が価格を押し上げている。"
-  },
-  {
     "title": "Oil falls $1 on better supply outlook, hopes for US-Iran talks - Reuters",
     "timestamp": "2026-09-23T01:44:00+00:00",
     "importance": 2,
@@ -1098,5 +1087,16 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "米国デュラム小麦の収穫量が予想より少なかったことで市場が逼迫している。デュラム小麦はパスタやセモリナ粉の主要原料であり、供給減による価格上昇圧力が強まっている。国内供給の減少に伴い、価格は上昇基調が継続する見込み。"
+  },
+  {
+    "title": "Copper Prices Under Pressure and Retreat, Market Focuses on Supply and Demand Changes - NAI500",
+    "timestamp": "2026-09-24T08:40:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅相場が圧力を受けて後退している。市場は需給バランスの変化に焦点を当てており、供給サイドと需要サイドの両要因が価格に影響を与えている状況が続いている。具体的な数値データは明示されていないが、構造的な需給シフトが相場の重しになっている。"
   }
 ]
