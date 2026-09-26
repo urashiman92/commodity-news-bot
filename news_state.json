@@ -1,27 +1,5 @@
 [
   {
-    "title": "原油価格は1年超ぶりの最長連続下落となる可能性がある。 - Moomoo",
-    "timestamp": "2026-09-23T06:45:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が1年超ぶりの最長連続下落となる可能性があるとの報道。需給バランスの悪化やドル強化などの要因が背景。既に下落トレンドが形成されている段階での観測コメント。"
-  },
-  {
-    "title": "黒海産小麦、アジア向け供給がほぼ途絶 世界食料価格は3年半ぶり高値 - BigGo ファイナンス",
-    "timestamp": "2026-09-23T08:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "ウクライナ情勢に関連して黒海からのアジア向け小麦供給がほぼ途絶した。世界食料価格指数が3年半ぶりの高値を更新。供給ショックにより小麦価格上昇が加速。"
-  },
-  {
     "title": "TSX先物、金価格下落で小幅安―中東和平への期待とMeta AIに注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-23T11:42:00+00:00",
     "importance": 2,
@@ -31,61 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金先物が小幅下落。中東和平への期待とMeta AIへの関心が材料。リスク選好の高まりが金需要を抑制している。"
-  },
-  {
-    "title": "金利が高止まりするとの見通しを受け、金価格は下落した。 - Vietnam.vn",
-    "timestamp": "2026-09-23T07:13:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "高金利が継続するとの見通しから金価格が下落した。金利上昇環境は金の利回りが負になるため、金需要を抑制する要因として機能している。実質金利と金価格の逆相関関係が改めて確認された形。"
-  },
-  {
-    "title": "2026年9月23日午後の金価格：宝天民洲（DOJI）、宝天民海（SJC）から世界の金価格まで。 - Vietnam.vn",
-    "timestamp": "2026-09-23T11:04:33+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトが2026年9月23日午後の金相場を報道。DOJI、SJC等の国内価格と世界金価格の相場情報を提供。"
-  },
-  {
-    "title": "原油価格が1バレル100ドルを下回った後、なぜ金価格は依然として重圧に喘いでいるのか - Moomoo",
-    "timestamp": "2026-09-23T11:20:15+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が100ドル/バレルを下回る中で、金価格が依然として弱含みが続いている状況についての解説記事。原油と金の価格動向の乖離理由を分析するコメンタリー。"
-  },
-  {
-    "title": "中東情勢の軟化でWTI原油価格は90ドル割れへ、 ドル円はレートチェックから神経質な動きに終始 - ザイFX！",
-    "timestamp": "2026-09-23T06:42:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東地政学リスクの緩和を受けWTI原油が90ドル割れへ下落。地域情勢の軟化が価格圧力となっている。ドル円も神経質な値動きに終始。"
-  },
-  {
-    "title": "AIブームに乗り遅れたか バリー氏は銅に注目 - BeInCrypto",
-    "timestamp": "2026-09-23T10:44:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "著名投資家バリー氏が銅への注目を表明。AI関連投資が過熱する中、銅はインフラ投資やEV需要の基盤として再評価される可能性を指摘。"
   },
   {
     "title": "本日2026年9月24日の金価格は引き続き下落し、SJC金価格は回復し、中国の輸入量は1,000トンを超えました。 - Vietnam.vn",
@@ -1747,5 +1670,49 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で金銀など一部商品が上昇、原油ガスなど一部が下落と相反する動き。日中の市場動向をまとめた定期的な相場振り返り報道。"
+  },
+  {
+    "title": "NY金先物：5営業日ぶりに反発、米長期金利の上昇一服とドル安で押し目買い - TradingView",
+    "timestamp": "2026-09-25T23:36:53+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が5営業日ぶりに反発。米長期金利の上昇が一服し、ドル安が進行したことで押し目買いが入った。テクニカルな反発局面の報道。"
+  },
+  {
+    "title": "本日（9月26日午後）の金価格：国内の金価格は横ばい。 - Vietnam.vn",
+    "timestamp": "2026-09-26T07:21:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が9月26日午後の時点で横ばいの推移を示している。国内市場の値動きに特段の変化がない状況。"
+  },
+  {
+    "title": "今日の金価格：金価格は小幅上昇したが、4,300ドルを下回ったまま。米国の利回りは19年ぶりの高水準に達した。 - Vietnam.vn",
+    "timestamp": "2026-09-26T06:53:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は小幅上昇も4,300ドル以下に留まる。米国利回りが19年ぶりの高水準に達し、金にとって逆風環境が継続。金利上昇は金の実質利回りを低下させ、金需要を抑制する要因。"
+  },
+  {
+    "title": "原油相場は下落、ホルムズ海峡巡る米・イラン交渉への期待広がる フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-25T22:12:50+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン間のホルムズ海峡交渉進展への期待から原油相場が下落。地政学リスク低減見通しにより供給懸念が緩和。相場の振り返り報道である。"
   }
 ]
