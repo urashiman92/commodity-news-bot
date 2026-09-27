@@ -1,93 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4287ドル｜米長期金利の上昇が影響した模様(2026年9月24日) - OANDA証券",
-    "timestamp": "2026-09-23T23:05:06+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4287ドルまで下落。米長期金利の上昇が主要な下落要因。金利上昇により金の実質利回り改善による相対的な魅力低下が影響。"
-  },
-  {
-    "title": "本日（9月24日）の金価格：上昇 - Vietnam.vn",
-    "timestamp": "2026-09-23T23:10:26+00:00",
-    "importance": 1,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "本日の金価格が上昇したとの報道。ベトナムの地元ニュースサイトによる日次相場観測記事。具体的な上昇率や要因は不明。"
-  },
-  {
-    "title": "金価格が古いルールを破り、ETF資金が戻ってくる - Laodong.vn",
-    "timestamp": "2026-09-23T23:18:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が従来のパターンを破り、ETF資金が回帰する動きが見られている。金への機関投資家の資金流入が増加している可能性を示唆。"
-  },
-  {
-    "title": "本日（9月24日）の金価格：急騰の可能性は低い。 - Vietnam.vn",
-    "timestamp": "2026-09-23T22:04:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月24日の金価格について、アナリストが急騰の可能性は低いとの見解を示したコメンタリー。市場心理を反映した相場観だが、具体的なファンダメンタルズ根拠は不明。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの和平協議再開に対する不透明感から、原油価格は6営業日ぶりに上昇（2026年9月24日） - OANDA証券",
-    "timestamp": "2026-09-23T23:16:05+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの和平協議再開による不透明感から、原油価格が6営業日ぶりに上昇した。地政学的リスク懸念が相場を支援。既に報じられた事象の続報的な解説。"
-  },
-  {
-    "title": "NY株続落、352ドル安 原油価格が上昇、企業業績に懸念 - 毎日新聞",
-    "timestamp": "2026-09-23T23:24:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY株が352ドル安で続落。原油価格上昇がインフレ圧力となり、企業業績悪化懸念から株安が進行。原油高がコモディティ市場全体のセンチメント悪化を反映している。"
-  },
-  {
-    "title": "本日（9月24日）の燃料価格：世界の原油価格は上昇、国内価格は午後3時に発表予定。 - Vietnam.vn",
-    "timestamp": "2026-09-23T23:20:31+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの国内燃料価格は9月24日午後3時に発表予定。世界的には原油価格が上昇傾向。ベトナム国内価格の具体値はまだ未発表。"
-  },
-  {
-    "title": "２３日の主要国際商品市況 - 株探",
-    "timestamp": "2026-09-23T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "23日の主要国際商品市況の日次レポート。複数の商品カテゴリ横断的な市場の振り返り記事。具体的な価格動向や要因の詳細は記事本体の確認が必要。"
-  },
-  {
     "title": "金価格、売り一巡後に下げ止まる―原油高と米経済指標がFED利上げ観測を押し上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-09-24T01:22:00+00:00",
     "importance": 3,
@@ -97,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は売りが一巡して下げ止まる兆候を見せている。原油高と堅調な米経済指標がFED利上げ観測を高め、金の利上げシナリオでの逆風となっている。"
-  },
-  {
-    "title": "2026年9月24日の金価格：米ドルが2カ月ぶりの高値をつけたことを受け、金価格は急落した。 - Vietnam.vn",
-    "timestamp": "2026-09-23T23:30:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米ドルが2カ月ぶりの高値を更新したことに連動して金価格が急落した。ドル高は金（ドル建て）の購買コストを上げるため、逆相関の関係が作用した。金投資家にとっては警戒が必要な展開。"
   },
   {
     "title": "世界の金価格は4300ドルを下回った。 - Vietnam.vn",
@@ -185,17 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とイランの声明を受けて原油価格が4％近く上昇した。地政学的な緊張関係にある両国の動向は市場に大きな影響を与える。供給リスク懸念が価格押し上げ要因と考えられる。"
-  },
-  {
-    "title": "２３日の主要国際商品市況 (2026年9月24日掲載) - ライブドアニュース",
-    "timestamp": "2026-09-23T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2023年9月23日の主要国際商品市況の日次レポート。具体的な価格動向や市場ニュースの詳細が記事から確認できない。"
   },
   {
     "title": "金価格が4,300ドル割れ 道明證券とBMOは2027年に5,000ドル回復を予想 - BigGo ファイナンス",
@@ -1582,5 +1472,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン外相がホルムズ海峡の開放提案を表明し、供給途絶懸念が後退した。これにより地政学的リスクプレミアムが縮小し、NY原油先物は反落。既に報じられている緊張緩和の流れの延長線。"
+  },
+  {
+    "title": "本日（9月27日）の金価格：週末にかけて価格は横ばいとなりました。 - Vietnam.vn",
+    "timestamp": "2026-09-26T22:21:23+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月27日の金価格は週末にかけて横ばいで推移。特段の上下動なし。市場の定常的な値動き報告。"
+  },
+  {
+    "title": "本日（9月27日）の金価格：価格は全面的に横ばい。 - Vietnam.vn",
+    "timestamp": "2026-09-26T23:20:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月27日の金価格は全面的に横ばいで推移。特段の変動要因がない日次の相場振り返り。ベトナムローカルニュースの定期配信"
+  },
+  {
+    "title": "本日（9月27日）の金価格：金地金は安定しており、週末にかけて世界の金価格は横ばいを維持しました。 - Vietnam.vn",
+    "timestamp": "2026-09-26T23:38:01+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月27日の金価格は安定推移し、週末にかけて世界の金価格は横ばいで推移。特に新たな材料や大きな変動は報告されていない。"
+  },
+  {
+    "title": "本日2026年9月27日、金価格は急落し、SJC金は1オンスあたり320万ベトナムドン下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-26T23:20:47+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格（SJC金）が1オンスあたり320万ベトナムドン下落した。地域市場の価格調整であり、グローバル金市場への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "本日（2026年9月27日）の金価格：9999金、指輪、国際金の価格表。 - Vietnam.vn",
+    "timestamp": "2026-09-26T22:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトによる本日（2026年9月27日）の金価格表の掲載。9999金、指輪、国際金の価格を記載しているが、具体的な価格数値や前日比変動率の情報が提供されていない。"
+  },
+  {
+    "title": "本日（2026年9月27日）の金価格：SJC金地金、BTMC 9999プレーンリング、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-09-26T22:24:41+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトによる日次の金地金・プレーンリング価格およびグローバル金価格の相場情報更新。国内市場の参考値提供の性質が強い。"
+  },
+  {
+    "title": "原油が下がっても米金利は5％超 なぜ？ 強い米景気と世界的な「債券安」を整理【相場の現在地】2026/9/27 - gaitame.com",
+    "timestamp": "2026-09-26T21:04:04+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米金利が5%超で高止まりしている理由を、強い米景気と世界的な債券安で解説した相場分析記事。原油下落との矛盾を整理したもの。"
+  },
+  {
+    "title": "本日（9月27日）の燃料価格：世界の原油価格は週末のため取引休止となり、国内価格は据え置きとなります。 - Vietnam.vn",
+    "timestamp": "2026-09-26T23:54:18+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの9月27日（金曜日）の燃料価格は、世界市場が週末で取引休止のため据え置きとなることを報じている。これは定期的で予定通りの動き。"
+  },
+  {
+    "title": "原油が下落、ブレントは1バレル＝100ドル付近－イラン巡る外交に期待 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-26T08:01:09+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が100ドル付近まで下落。イラン関連の外交交渉進展への期待が売り要因となっている。供給懸念の緩和を示唆する動き。"
   }
 ]
