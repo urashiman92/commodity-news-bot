@@ -1,38 +1,5 @@
 [
   {
-    "title": "原油先物3％高、フーシ派のサウジ攻撃で供給不安が再燃 - Reuters",
-    "timestamp": "2026-09-24T20:52:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビアへの攻撃が発生し、供給不安が再燃した。原油先物は3%上昇し、市場は地政学リスクの再認識を示している。中東での緊張激化が短期的な価格押し上げ要因となっている。"
-  },
-  {
-    "title": "原油先物3％高、フーシ派のサウジ攻撃で供給不安が再燃 - ニューズウィーク日本版",
-    "timestamp": "2026-09-24T20:51:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビアへの攻撃報道により、中東の供給リスクが再認識された。原油先物は3%上昇し、地政学的リスク プレミアムが価格に反映。同地域の緊張は継続的な懸念材料。"
-  },
-  {
-    "title": "大豆先物が下落、中国との貿易交渉の行方を市場が注視 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-24T20:48:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物が下落している。中国との貿易交渉の進展状況が市場の注視点となっている。交渉結果による需要見通しの変化が価格を左右する可能性がある。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4273ドル｜米国の利上げ観測の強まりが影響した模様(2026年9月25日) - OANDA証券",
     "timestamp": "2026-09-24T23:04:53+00:00",
     "importance": 3,
@@ -55,17 +22,6 @@
     "summary": "9月25日の金価格が全面的に急落した。具体的な下落要因は記事概要では不明だが、市場のテクニカル調整またはドル高・金利上昇圧力の継続と推定される。コモディティ投資家にとっては既知の市場動向の範囲内の値動き。"
   },
   {
-    "title": "ニューヨーク原油・金先物市場概況（24日）原油は続伸 - Moomoo",
-    "timestamp": "2026-09-24T22:15:53+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク原油先物市場で続伸が確認された。金市場についての詳細は不明。市場の振り返りレベルのニュース。"
-  },
-  {
     "title": "WTI原油見通し(市況ニュース)：中東情勢の悪化懸念が影響し、原油価格は2営業日続伸（2026年9月25日） - OANDA証券",
     "timestamp": "2026-09-24T23:21:52+00:00",
     "importance": 3,
@@ -75,39 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の悪化懸念を背景にWTI原油が2営業日続伸。地政学的リスクプレミアムが相場を支援。既知の懸念材料の継続的な影響と判断される。"
-  },
-  {
-    "title": "原油先物が約3％高、フーシ派のサウジ攻撃で供給懸念再燃 - BigGo ファイナンス",
-    "timestamp": "2026-09-24T22:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビア攻撃が発生し、供給途絶への懸念が再燃。原油先物は約3%の上昇を記録した。地政学的リスク要因が中東産油国への不安を喚起している。"
-  },
-  {
-    "title": "米株式市場は原油価格の上昇と堅調なマクロ経済データを受けて、まちまちの終値となった - Moomoo",
-    "timestamp": "2026-09-24T21:39:44+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米株式市場がまちまちの終値となった中、原油価格の上昇と堅調なマクロ経済データが観測された。原油市場では上昇圧力が作用している状況。"
-  },
-  {
-    "title": "原油先物3％高、フーシ派のサウジ攻撃で供給不安が再燃 - topics.smt.docomo.ne.jp",
-    "timestamp": "2026-09-24T20:51:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派がサウジアラビアへの攻撃を実施し、中東の主要産油国における供給リスクが顕在化した。原油先物が3%上昇し、地政学的リスクプレミアムが急速に織り込まれている。ホルムズ海峡周辺での緊張激化の可能性から、供給不安が市場心理を支配している。"
   },
   {
     "title": "２４日の主要国際商品市況 - 株探",
@@ -1395,5 +1318,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の下落がブルーバード（エネルギー関連企業）の投資家に与える影響を分析するコメンタリー記事。原油安は同社の収益性や配当政策への検討が必要な状況を示唆。"
+  },
+  {
+    "title": "ファンド市場ハイライト｜金価格が8月に急反発、関連投資信託の動向は？ - nikkinonline.com",
+    "timestamp": "2026-09-27T20:20:31+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "8月に金価格が急反発した。関連投資信託の動向を解説する市場ハイライト記事。既に起きた価格変動の事後的な分析・観測記事。"
+  },
+  {
+    "title": "本日（9月28日）の金価格：下落傾向は止まる気配を見せていない。 - Vietnam.vn",
+    "timestamp": "2026-09-27T21:52:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月28日の金価格は下落トレンドが継続している。市場では売り圧力が優位な状況が続いている。具体的な新規要因は示唆されていない。"
   }
 ]
