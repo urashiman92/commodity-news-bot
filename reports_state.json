@@ -1,27 +1,5 @@
 [
   {
-    "title": "EIA reports a rise in US crude oil stocks - engine.online",
-    "timestamp": "2026-09-24T09:17:49+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の増加を報告した。在庫増加は供給過剰シグナルであり、原油価格に下押し圧力をもたらす。具体的な在庫増加量や週間の詳細データは記事本文から不明だが、定期的なEIA週間在庫報告の一部。"
-  },
-  {
-    "title": "Copper Prices Under Pressure and Retreat, Market Focuses on Supply and Demand Changes - NAI500",
-    "timestamp": "2026-09-24T08:40:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が圧力を受けて下落トレンドにあり、市場は供給・需要バランスの変化に注視している。具体的な数値が提示されていないため、詳細な下落率は不明だが、ファンダメンタル要因の検証が投資判断の鍵となっている。"
-  },
-  {
     "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
     "timestamp": "2026-09-24T14:44:07+00:00",
     "importance": 2,
@@ -31,72 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫が週間ベースで増加したことが報告された。EIAの定期在庫統計は毎週発表される標準データであり、在庫増加は供給過剰圧力を示唆する。具体的な増加量や前週比のデータが示されていないため詳細な評価は限定的。"
-  },
-  {
-    "title": "US durum market tightens after smaller harvest - World Grain",
-    "timestamp": "2026-09-24T12:22:36+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国デュラム小麦の収穫量が予想より少なくなり、市場の需給が逼迫している。デュラム小麦はパスタやセモリナ粉などの用途に特定的で、供給の制約が価格を押し上げる要因となる可能性が高い。在庫の減少により価格上昇圧力が継続すると見込まれる。"
-  },
-  {
-    "title": "Serbia's Russian-owned NIS oil firm seeks new US sanctions waiver - Reuters",
-    "timestamp": "2026-09-24T08:26:09+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "セルビアのロシア系石油企業NISが米国制裁の新たな適用除外を申請。ロシア産原油の欧州への流通継続を目指すもの。制裁政策の継続的な調整を反映したもので、市場で既に織り込まれている動き。"
-  },
-  {
-    "title": "US Stock Futures Drop as Yields Climb Further, Oil Rises - Bloomberg",
-    "timestamp": "2026-09-24T11:45:04+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国長期金利が上昇を続ける中、株価先物が下落している。これは金利上昇が株式評価を圧迫する一方で、原油価格は上昇している。金利上昇は無利子資産である金に下落圧力をもたらす傾向がある。市場のリスク資産圧売りと商品市場における方向性の相違が鮮明。"
-  },
-  {
-    "title": "US Stock Futures Drop as Yields Climb Further, Oil Rises - Bloomberg",
-    "timestamp": "2026-09-24T11:45:04+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国長期金利が上昇を続ける中、株価先物が下落している。これは金利上昇が株式評価を圧迫する一方で、原油価格は上昇している。金利上昇は無利子資産である金に下落圧力をもたらす傾向がある。市場のリスク資産圧売りと商品市場における方向性の相違が鮮明。"
-  },
-  {
-    "title": "US Stock Futures Drop as Yields Climb Further, Oil Rises - Bloomberg",
-    "timestamp": "2026-09-24T11:45:04+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国長期金利が上昇を続ける中、株価先物が下落している。これは金利上昇が株式評価を圧迫する一方で、原油価格は上昇している。金利上昇は無利子資産である金に下落圧力をもたらす傾向がある。市場のリスク資産圧売りと商品市場における方向性の相違が鮮明。"
-  },
-  {
-    "title": "Saudis’ Gulf Oil Surge Drives Exports to Highest Since War Began - Bloomberg",
-    "timestamp": "2026-09-24T13:07:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがイエメン戦争開始以来、最高水準の石油輸出を記録。湾岸地域の増産により、従来の減産政策から方針転換の可能性が浮上。地政学的リスクが続く中での増産は市場に対するシグナル効果が大きい。"
   },
   {
     "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
@@ -218,39 +130,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSの豚飼養頭数統計で米国の豚在庫が前年同期比2%減少。飼養頭数の減少は豚肉供給の潜在的な逼迫を意味し、飼料需要（トウモロコシ・大豆粕）の減少につながる可能性がある。養豚業界のコスト圧力が継続している状況を反映。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-24T09:38:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "DTN Progressive Farmerによる定期的な作物進捗レポート。具体的な統計データが提供されていないため、詳細な市場インパクトの評価が困難。通常は米国農務省の公式Crop Progressレポートの業界解説版として機能するが、本ソースからは具体的な数値や前週比が抽出できない。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-24T09:38:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "DTN Progressive Farmerによる定期的な作物進捗レポート。具体的な統計データが提供されていないため、詳細な市場インパクトの評価が困難。通常は米国農務省の公式Crop Progressレポートの業界解説版として機能するが、本ソースからは具体的な数値や前週比が抽出できない。"
-  },
-  {
-    "title": "Special Reports - DTN Progressive Farmer",
-    "timestamp": "2026-09-24T09:38:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "DTN Progressive Farmerによる定期的な作物進捗レポート。具体的な統計データが提供されていないため、詳細な市場インパクトの評価が困難。通常は米国農務省の公式Crop Progressレポートの業界解説版として機能するが、本ソースからは具体的な数値や前週比が抽出できない。"
   },
   {
     "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says - reuters.com",
@@ -427,17 +306,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "原油価格の上昇がインフレ圧力を高め、アジアの債券・株式市場が下落する見通し。高インフレ環境ではリスク資産が売圧を受ける一方、実物資産である原油は支持される可能性。金融引き締めシナリオが浮上すれば、金を含む無利子資産にも下押し圧力が加わる構図。"
-  },
-  {
-    "title": "Corn harvest delays push prices higher - AgUpdate",
-    "timestamp": "2026-09-24T11:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国トウモロコシの収穫が予想より遅延しており、価格を上昇させている。収穫遅延は供給タイミングの懸念を生じさせ、市場心理を堅調化させている。具体的な遅延日数や作況指数の詳細データなしに正確な評価は困難だが、季節的な収穫進捗遅延は価格支持材料となる。"
   },
   {
     "title": "Copper Hits a Record $6.83 a Pound as Mine Disasters Choke Supply - Startup Fortune",
@@ -649,28 +517,6 @@
     "summary": "パデュー大学による9月2026年の作物ベーシス更新レポート。収穫期のベーシス低下（ハーベストディップ）に関する定期的な分析と見通しを提供。具体的な数値や詳細は当該リンク先で確認が必要。"
   },
   {
-    "title": "US durum market tightens after smaller harvest - World Grain",
-    "timestamp": "2026-09-24T11:22:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国デュラム小麦の収穫量が予想より少なかったことで市場が逼迫している。デュラム小麦はパスタやセモリナ粉の主要原料であり、供給減による価格上昇圧力が強まっている。国内供給の減少に伴い、価格は上昇基調が継続する見込み。"
-  },
-  {
-    "title": "Copper Prices Under Pressure and Retreat, Market Focuses on Supply and Demand Changes - NAI500",
-    "timestamp": "2026-09-24T08:40:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅相場が圧力を受けて後退している。市場は需給バランスの変化に焦点を当てており、供給サイドと需要サイドの両要因が価格に影響を与えている状況が続いている。具体的な数値データは明示されていないが、構造的な需給シフトが相場の重しになっている。"
-  },
-  {
     "title": "Gold, silver, and oil fell on the weekly chart, overseas metals broadly declined, LME tin rose over 1%, LME zinc fell nearly 2%, US stocks rose [Holiday Market Review] - Shanghai Metals Market",
     "timestamp": "2026-09-26T02:16:00+00:00",
     "importance": 2,
@@ -803,17 +649,6 @@
     "summary": "ロシアの地域責任者がドローン攻撃により施設が炎上していることを報告。ウクライナ紛争の激化に伴うロシア国内インフラへの直接的な被害が拡大している。ロシアからのエネルギー・穀物供給に対する懸念が急速に高まり、コモディティ市場全体でリスク要因として機能。"
   },
   {
-    "title": "Corn harvest delays push prices higher - agupdate.com",
-    "timestamp": "2026-09-24T11:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国のトウモロコシ収穫が遅延していることが報道されている。秋季の天候悪化やロジスティクス制約により、収穫ペースが鈍化。収穫遅延は供給逼迫の懸念につながり、トウモロコシ先物相場を押し上げている。WASDE統計との整合性を注視する必要がある。"
-  },
-  {
     "title": "EIA reports 600,000-barrel drop in US crude inventories for week ended September 11 - Energies Media",
     "timestamp": "2026-09-27T00:27:46+00:00",
     "importance": 2,
@@ -845,5 +680,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウォール街がAI関連株を買い進み、マイクロソフトが上昇した。ただし本ニュースはテクノロジーセクターの株価動向であり、農産物・エネルギー・貴金属などコモディティ市場への直接的な影響は限定的。一般的な株価上昇は金利見通しやドル相場を通じたコモディティ投資心理に若干のポジティブ効果をもたらす可能性がある。"
+  },
+  {
+    "title": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge - reuters.com",
+    "timestamp": "2026-09-25T04:51:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "オマーン湾での船舶間石油積み替え（STS）が容量限界に達した。サウジアラビアの石油輸出急増により、積み替え施設の処理能力が飽和状態となっており、今後の輸出フローに物流的なボトルネックが生じる可能性がある。原油供給の流動性制約として機能する可能性。"
   }
 ]
