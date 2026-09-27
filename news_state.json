@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格は1テールあたり110万ベトナムドン下落した。 - Vietnam.vn",
-    "timestamp": "2026-09-24T07:02:44+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が1テールあたり110万ベトナムドン下落したと報道された。地域的な価格下落の記事であり、グローバル市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "金融市場で進む資金移動、預金金利9％台と金価格下落の背景［会員限定］ - VIETJOベトナムニュース",
-    "timestamp": "2026-09-24T09:10:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムで預金金利が9%台に上昇し、資金が金から銀行預金へシフト。金価格の下落の背景には高金利による機会費用の増加がある。新興国での資金移動が金需要を圧迫。"
-  },
-  {
-    "title": "国内の金価格は、世界価格よりも1オンスあたり900万ベトナムドン高い。 - Vietnam.vn",
-    "timestamp": "2026-09-24T10:59:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が世界価格比で1オンスあたり900万ベトナムドン（約50-60米ドル相当）割高になっている状況の報道。これはベトナムの輸入関税、流通マージン、市場分断を反映した現象で、国際金市場への直接的な供給・需要インパクトはない。"
-  },
-  {
-    "title": "本日（9月24日午後）の金価格：1オンスあたり約1億4440万ベトナムドンで取引されています。 - Vietnam.vn",
-    "timestamp": "2026-09-24T08:18:26+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム市場における9月24日午後の金価格は1オンスあたり約1億4440万ベトナムドンで取引されている。ローカル市場の日次価格情報であり、グローバル金相場への直接的なニュース価値は限定的。"
-  },
-  {
     "title": "BATLへの9.80ドルの買収提案以降、原油価格は70ドルから100ドルへ上昇（現在の生産量は12,717Boe/日、以前は12,407Boe/日） - Moomoo",
     "timestamp": "2026-09-24T11:17:25+00:00",
     "importance": 2,
@@ -53,50 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "BATL社への買収提案後、原油価格は70ドルから100ドルへ上昇した。同社の生産量は12,407Boe/日から12,717Boe/日にわずかに増加。買収ニュースに伴う相場振り返りの報道。"
-  },
-  {
-    "title": "ゴールドマン・サックス、ブレント原油価格予測を1バレル85ドルに引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-24T09:52:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ゴールドマン・サックスがブレント原油の価格予測を1バレル85ドルに引き上げた。大手投資銀行による上方修正は市場心理にプラスの影響を与える可能性がある。ただし予想比の詳細が不明であるため、サプライズ度は判定困難。"
-  },
-  {
-    "title": "9月24日午後の取引で、アジアの原油価格は上昇を続けた。 - Vietnam.vn",
-    "timestamp": "2026-09-24T09:04:57+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "9月24日午後のアジア原油相場が上昇基調を継続。具体的な要因や数値は記事概要に記載されていない。既に報じられた相場動向の単なる日中レポート。"
-  },
-  {
-    "title": "欧州向け輸出が増えてもウクライナのトウモロコシ価格は下落 - Межа. Новини України.",
-    "timestamp": "2026-09-24T10:50:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "ウクライナから欧州への穀物輸出が増加しているにもかかわらず、国内トウモロコシ価格は下落している。供給増加が市場を圧迫している状況を示唆。"
-  },
-  {
-    "title": "世界は今後10年間で1000万トンの銅不足の危機に直面 - Laodong.vn",
-    "timestamp": "2026-09-24T09:46:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "国際機関の報告として、今後10年間で世界が1000万トンの銅不足に直面する可能性が指摘されている。EV普及や再生可能エネルギー投資による需要増に対し、鉱山開発の遅れが供給不足要因とされている。"
   },
   {
     "title": "EU穀物価格：14日から2026年9月20日の製パン用・飼料用・デュラム小麦相場 - ニュースと統計 - IndexBox",
@@ -119,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米国の財政不安と公的債務拡大が金相場を押し上げている。インフレヘッジ手段としての金の価値が再認識されている。アナリストによる金・暗号資産の投資価値に関する解説記事。"
-  },
-  {
-    "title": "しぶとい金価格 - 三菱マテリアル GOLDPARK",
-    "timestamp": "2026-09-24T06:54:56+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "三菱マテリアルによる金価格に関する解説記事。現在の金価格が堅調に推移している状況の分析と見通しについてのコメンタリー。"
   },
   {
     "title": "9月24日の金価格：SJCの金指輪と金地金はともに急落した。 - Vietnam.vn",
@@ -1450,5 +1351,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "9月27日時点で世界の原油価格が引き続き下落しているとのニュース。具体的な下落要因や数値は記事概要には記載されていない。既存トレンドの確認的な報道。"
+  },
+  {
+    "title": "金価格「2万5000円」で“今だ！”と買い後悔！ 今後4万円になれば「50グラム・75万円」の利益なのに…最近の高騰が異常だっただけで、あと数年は“ほぼ上がらない”？ 過去の上昇率を元にシミュレーション（ファイナンシャルフィールド） - Yahoo!ニュース",
+    "timestamp": "2026-09-27T06:10:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2万5000円時点での買い判断を後悔する投資家向けの解説記事。過去の上昇率パターンから、現在の高騰は異常であり、今後数年は上値が限定的である可能性を指摘。4万円到達時のシミュレーション利益を示唆しているが、近期的な大幅上昇は見込みにくいとの見方。"
+  },
+  {
+    "title": "金価格「2万5000円」で“今だ！”と買い後悔！ 今後4万円になれば「50グラム・75万円」の利益なのに…最近の高騰が異常だっただけで、あと数年は“ほぼ上がらない”？ 過去の上昇率を元にシミュレーション - ファイナンシャルフィールド",
+    "timestamp": "2026-09-27T06:00:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2.5万円時点での買いについての後悔記事。将来4万円到達時の利益を試算しつつ、過去の上昇率から今後数年は大幅上昇の可能性は低いと分析。最近の高騰は異常だったとの見方を提示。"
+  },
+  {
+    "title": "金価格は急落後、今後どうなるのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-27T07:35:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落した後の今後の見通しについての解説記事。具体的な新規情報や統計データなく、相場の振り返りと観測に基づくもの。ベトナムローカルメディアの論評記事。"
+  },
+  {
+    "title": "本日（9月27日正午）の金価格：急落 - Vietnam.vn",
+    "timestamp": "2026-09-27T07:35:02+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月27日正午時点での金価格が急落した。詳細は記事未確認だが、日中の値動きレポートと見られる。金市場の短期的な価格変動を扱う速報記事。"
+  },
+  {
+    "title": "FRBが利上げ：FOMC会合は金価格にどのような影響を与えるのか？ - Vietnam.vn",
+    "timestamp": "2026-09-27T08:29:45+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBのFOMC会合での利上げ決定が報じられている。利上げは金利上昇を意味し、利子を生まない金の保有コストが増加するため金価格は圧力を受ける。会合の具体的な結果詳細は不明確。"
+  },
+  {
+    "title": "国際原油価格と為替レートなどマクロ経済変数が揺れ、国内主要上場企業の今年第3四半期の実績展望の悲喜が交錯している。 中東発の地政学的リスクが高まったことで、精製マージン急騰の恩恵を受けた精油株とウォン.. - 매일경제",
+    "timestamp": "2026-09-27T07:39:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の地政学的リスク上昇により、精製マージンが急騰し精油株が恩恵を受けている。国際原油価格と為替変動がマクロ経済に影響。韓国企業の第3四半期業績見通しが分かれている。"
+  },
+  {
+    "title": "ブレント原油、6月以来の連続安へ－イラン巡る外交努力に期待高まる フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-27T04:05:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が6月以来の連続下落局面にある。イラン核合意交渉の進展期待が売り圧力となっており、地政学的リスク軽減が相場の重し。"
+  },
+  {
+    "title": "原油価格の下落は、ブルーバード（BLBD）の投資家にとって何らかの対応を必要とするものなのか？ - simplywall.st",
+    "timestamp": "2026-09-26T19:45:55+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格下落がブルーバード（BLBD）投資家に与える影響についての解説記事。既に発生している価格下落の企業への影響を分析する観測論。"
   }
 ]
