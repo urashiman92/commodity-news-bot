@@ -22,17 +22,6 @@
     "summary": "銅価格が圧力を受けて下落トレンドにあり、市場は供給・需要バランスの変化に注視している。具体的な数値が提示されていないため、詳細な下落率は不明だが、ファンダメンタル要因の検証が投資判断の鍵となっている。"
   },
   {
-    "title": "Saudis Ease Asia Oil Crunch With 100-Million-Barrel Sales Flurry - Bloomberg.com",
-    "timestamp": "2026-09-24T07:12:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがアジア地域の原油供給逼迫を緩和するため、1億バレル規模の販売を実施。OPEC減産政策の枠組み内でのアジア向け供給増強は、地政学的な供給懸念を一時的に軽減。ただし既に市場で織り込まれていた対応の可能性が高い。"
-  },
-  {
     "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
     "timestamp": "2026-09-24T14:44:07+00:00",
     "importance": 2,
@@ -110,28 +99,6 @@
     "summary": "サウジアラビアがイエメン戦争開始以来、最高水準の石油輸出を記録。湾岸地域の増産により、従来の減産政策から方針転換の可能性が浮上。地政学的リスクが続く中での増産は市場に対するシグナル効果が大きい。"
   },
   {
-    "title": "European Stocks Edge Lower as Rising Global Bond Yields Weigh - Bloomberg",
-    "timestamp": "2026-09-24T07:30:22+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "世界的な債券利回りの上昇がコモディティ市場に下押し圧力を与えている。金利上昇環境では無利子資産である金の魅力が低下し、ドル強化によるドル建てコモディティ全般の重石となる。欧州株安も同じメカニズムで説明される。"
-  },
-  {
-    "title": "European Stocks Edge Lower as Rising Global Bond Yields Weigh - Bloomberg",
-    "timestamp": "2026-09-24T07:30:22+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "世界的な債券利回りの上昇がコモディティ市場に下押し圧力を与えている。金利上昇環境では無利子資産である金の魅力が低下し、ドル強化によるドル建てコモディティ全般の重石となる。欧州株安も同じメカニズムで説明される。"
-  },
-  {
     "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
     "timestamp": "2026-09-24T16:44:28+00:00",
     "importance": 3,
@@ -163,17 +130,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "オクラホマ州の生産者が市場ボラティリティと作付不確実性に直面している。穀物市場の価格変動が大きく、播種計画の策定が困難な状況。生産者の意思決定が遅延するリスクがあり、今後の作付面積データに影響を与える可能性。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-24T07:37:49+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後に原油生産量が過去最高水準に接近している。OPEC減産枠の外で増産を進めるUAEの動きは、OPEC+の減産政策の実効性を大きく損なう可能性がある。原油価格への上昇圧力が強まる見通し。"
   },
   {
     "title": "Russia starts exports from Arctic Vostok Oil project in boost to long-term production - Reuters",
@@ -317,28 +273,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "マクロン仏大統領がサウジアラビア防衛のため仏軍をイエメン紅海沿岸に派遣すると発表。フーシ派による石油輸送路攻撃が継続する中、欧州列強による直接的軍事介入は地政学リスク大幅上昇を示唆。紅海経由の原油輸送ルート確保が戦略的優先事項に上昇。"
-  },
-  {
-    "title": "Record US Soybean Crush, Export Demand Support Prices - czapp.com",
-    "timestamp": "2026-09-24T07:30:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国大豆の圧搾（クラッシング）が記録的水準に達し、輸出需要も堅調に推移している。大豆油・大豆粕の需要増加が相場を支援し、大豆価格の上昇要因となっている。WASDE発表に関連する市場評価と考えられる。"
-  },
-  {
-    "title": "Record US Soybean Crush, Export Demand Support Prices - czapp.com",
-    "timestamp": "2026-09-24T07:30:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国大豆の圧搾（クラッシング）が記録的水準に達し、輸出需要も堅調に推移している。大豆油・大豆粕の需要増加が相場を支援し、大豆価格の上昇要因となっている。WASDE発表に関連する市場評価と考えられる。"
   },
   {
     "title": "Copper Explorer Advances Large Copper-Gold Porphyry Target in Southern BC - Streetwise Reports",
@@ -515,17 +449,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "銅価格が1ポンド6.83ドルの過去最高値を更新。鉱山災害による供給逼迫が主因。サプライチェーン寸断と需給逼迫懸念により、銅市場に構造的な上昇圧力が発生している状況。"
-  },
-  {
-    "title": "OPEC must appreciate Iraq’s bid for higher quota: minister - tradingview.com",
-    "timestamp": "2026-09-24T07:48:24+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラク石油相がOPECに対し、同国の生産枠引き上げ要求を評価するよう促している。イラクは地政学的リスクや生産能力拡大を背景に増産を求めており、OPEC内での配分問題が争点。ただし具体的な数値や合意時期は明記されていない。"
   },
   {
     "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
@@ -889,5 +812,38 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "米国のトウモロコシ収穫が遅延していることが報道されている。秋季の天候悪化やロジスティクス制約により、収穫ペースが鈍化。収穫遅延は供給逼迫の懸念につながり、トウモロコシ先物相場を押し上げている。WASDE統計との整合性を注視する必要がある。"
+  },
+  {
+    "title": "EIA reports 600,000-barrel drop in US crude inventories for week ended September 11 - Energies Media",
+    "timestamp": "2026-09-27T00:27:46+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の週間原油在庫が60万バレル減少（9月11日週）。在庫減少は需要堅調または供給制限を示唆し、原油価格には上昇圧力となる。ただし単週の変動であり、市場予想比でのサプライズ度は不明。"
+  },
+  {
+    "title": "Gold Fields expresses interest in buying Northern Star, Bloomberg reports - reuters.com",
+    "timestamp": "2026-09-26T13:00:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "Gold FieldsがNorthern Starの買収に関心を示したとBloombergが報じた。これは金鉱業界の大型M&A動向であり、業界の再編・統合加速を示唆。金鉱企業の提携・買収は金現物市場と金鉱株に影響を与える重要なシグナルである。"
+  },
+  {
+    "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - reuters.com",
+    "timestamp": "2026-09-25T09:48:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウォール街がAI関連株を買い進み、マイクロソフトが上昇した。ただし本ニュースはテクノロジーセクターの株価動向であり、農産物・エネルギー・貴金属などコモディティ市場への直接的な影響は限定的。一般的な株価上昇は金利見通しやドル相場を通じたコモディティ投資心理に若干のポジティブ効果をもたらす可能性がある。"
   }
 ]
