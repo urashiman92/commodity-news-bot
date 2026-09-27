@@ -1,71 +1,5 @@
 [
   {
-    "title": "BATLへの9.80ドルの買収提案以降、原油価格は70ドルから100ドルへ上昇（現在の生産量は12,717Boe/日、以前は12,407Boe/日） - Moomoo",
-    "timestamp": "2026-09-24T11:17:25+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "BATL社への買収提案後、原油価格は70ドルから100ドルへ上昇した。同社の生産量は12,407Boe/日から12,717Boe/日にわずかに増加。買収ニュースに伴う相場振り返りの報道。"
-  },
-  {
-    "title": "EU穀物価格：14日から2026年9月20日の製パン用・飼料用・デュラム小麦相場 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-09-24T14:40:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "IndexBoxが提供するEU穀物価格データの定期更新。製パン用・飼料用・デュラム小麦の相場推移を2026年9月20日まで統計記録。"
-  },
-  {
-    "title": "インフレに負けない！金＆暗号資産：金相場を上げる米国の財政不安 公的債務はさらに拡大見込み 小菅努 - 週刊エコノミスト Online",
-    "timestamp": "2026-09-24T15:03:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の財政不安と公的債務拡大が金相場を押し上げている。インフレヘッジ手段としての金の価値が再認識されている。アナリストによる金・暗号資産の投資価値に関する解説記事。"
-  },
-  {
-    "title": "9月24日の金価格：SJCの金指輪と金地金はともに急落した。 - Vietnam.vn",
-    "timestamp": "2026-09-24T13:03:18+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金指輪および金地金が9月24日に急落した。ローカル市場の価格動向を報じた記事。グローバル金相場の需給ファンダメンタルズへの直接的な新しい情報は含まれていない。"
-  },
-  {
-    "title": "金価格は50日移動平均線の支持線を下回り、原油価格の反騰がインフレ圧力を押し上げています。 - Moomoo",
-    "timestamp": "2026-09-24T13:52:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が50日移動平均線を下抜けし、テクニカル的な売りが進行している。同時に原油価格の反騰がインフレ圧力を高めており、金と原油の相関関係が注視される状況。"
-  },
-  {
-    "title": "Brent crude rises above $100 as Mideast conflict escalates | ロイター - Reuters",
-    "timestamp": "2026-09-24T15:00:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫化を受けてブレント原油が100ドルを上回った。地政学的リスクが供給懸念を増幅させている。サプライズ度は、紛争の具体的な新展開の詳細情報不足のため判定困難。"
-  },
-  {
     "title": "ドル円 158.60円台に上値を切り下げる、原油価格の下落で｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-09-24T16:23:00+00:00",
     "importance": 2,
@@ -75,28 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格の下落に伴いドル円が158.60円台に上値を切り下げた。為替市場の技術的な値動きを記述した解説記事。"
-  },
-  {
-    "title": "上海の供給逼迫が圧力を相殺し、銅価格は$6.6993のサポート付近で安定 - Traders Union",
-    "timestamp": "2026-09-24T12:18:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が$6.6993のサポートレベル付近で安定している。上海での供給逼迫が価格下落圧力を相殺している。相場の揉み合い状態を示す解説記事。"
-  },
-  {
-    "title": "金価格は本日9月24日、全面安で取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-09-24T13:02:31+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が9月24日に全面安で取引を終了した。特定の下落要因の詳細は記事に記載されていない。日々の相場変動を伝える定型的なニュース。"
   },
   {
     "title": "原油先物3％高、フーシ派のサウジ攻撃で供給不安が再燃 - Reuters",
@@ -119,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "フーシ派によるサウジアラビアへの攻撃報道により、中東の供給リスクが再認識された。原油先物は3%上昇し、地政学的リスク プレミアムが価格に反映。同地域の緊張は継続的な懸念材料。"
-  },
-  {
-    "title": "中東情勢の不透明感から原油価格上昇、ウォール街は小幅安。米中首脳会談が注目 - TradingView",
-    "timestamp": "2026-09-24T14:22:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の不透明感が原油価格を押し上げている。米中首脳会談という新たな変数も加わり、市場の注視が集まっている。ウォール街は小幅安の中での個別材料の扱い。"
   },
   {
     "title": "大豆先物が下落、中国との貿易交渉の行方を市場が注視 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -218,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "フーシ派がサウジアラビアへの攻撃を実施し、中東の主要産油国における供給リスクが顕在化した。原油先物が3%上昇し、地政学的リスクプレミアムが急速に織り込まれている。ホルムズ海峡周辺での緊張激化の可能性から、供給不安が市場心理を支配している。"
-  },
-  {
-    "title": "銅価格予測：HGが横ばいで推移する中、$6.6142のサポートを維持 - Traders Union",
-    "timestamp": "2026-09-24T15:08:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅先物（HG）が$6.6142のサポートレベルを維持しながら横ばいで推移している状況をアナリストが分析。テクニカルレベルの現状維持を指摘。"
   },
   {
     "title": "２４日の主要国際商品市況 - 株探",
@@ -1439,5 +1329,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格下落がブルーバード（BLBD）投資家に与える影響についての解説記事。既に発生している価格下落の企業への影響を分析する観測論。"
+  },
+  {
+    "title": "本日（2026年9月28日）の金価格は低迷しており、調整局面にある。長期投資の資金はどこへ向かうのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-27T15:01:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が調整局面にあり低迷している状況についての解説記事。長期投資資金の向先に関する考察が含まれている。"
+  },
+  {
+    "title": "金価格は本日9月27日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-09-27T13:45:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月27日に金価格が大幅下落し、買い持ちポジションが損失を被った。ベトナムのメディアによる相場の振り返り記事。具体的な下落理由や数値は記事概要に記載されていない。"
+  },
+  {
+    "title": "1週間の急落を経て、来週の金価格はどうなるだろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-27T12:05:01+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は1週間で急落した。記事は来週の価格動向について解説・予想している。具体的な材料や根拠が不明であるため、テクニカル分析や市場観測の記事と考えられる。"
+  },
+  {
+    "title": "市場は利回りと原油価格を無視している？ - Moomoo",
+    "timestamp": "2026-09-27T12:21:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "市場が利回りと原油価格の乖離を無視している可能性を指摘する解説記事。具体的な新規情報や市場動向を伝える速報ではなく、アナリストの相場観を述べたもの。"
+  },
+  {
+    "title": "トランプ大統領、「まもなく終結」するイラン戦争後に原油価格が急落すると予言 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-09-27T08:49:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がイラン紛争の近い終結を予言し、その後の原油価格急落を予測している。政治家のレトリックであり、具体的な根拠や時間軸が不明確。既に市場で織り込まれている地政学リスク解消シナリオの言及。"
+  },
+  {
+    "title": "ブレント原油、6月以来の連続安へ－イラン巡る外交努力に期待高まる フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-27T05:30:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン核合意に向けた外交努力の進展期待により、ブレント原油が6月以来の連続下落局面へ。地政学リスク軽減による供給懸念の後退が主因。既に報じられた外交交渉の続報レベル。"
+  },
+  {
+    "title": "原油価格の下落は、ブルーバード（BLBD）の投資家にとって何らかの対応を必要とするものなのか？ - simplywall.st",
+    "timestamp": "2026-09-26T19:47:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落がブルーバード（エネルギー関連企業）の投資家に与える影響を分析するコメンタリー記事。原油安は同社の収益性や配当政策への検討が必要な状況を示唆。"
   }
 ]
