@@ -1,71 +1,5 @@
 [
   {
-    "title": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
-    "timestamp": "2026-09-24T14:44:07+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間ベースで増加したことが報告された。EIAの定期在庫統計は毎週発表される標準データであり、在庫増加は供給過剰圧力を示唆する。具体的な増加量や前週比のデータが示されていないため詳細な評価は限定的。"
-  },
-  {
-    "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
-    "timestamp": "2026-09-24T16:44:28+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "オクラホマ州の生産者が市場ボラティリティと作付不確実性に直面している。穀物市場の価格変動が大きく、播種計画の策定が困難な状況。生産者の意思決定が遅延するリスクがあり、今後の作付面積データに影響を与える可能性。"
-  },
-  {
-    "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
-    "timestamp": "2026-09-24T16:44:28+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "オクラホマ州の生産者が市場ボラティリティと作付不確実性に直面している。穀物市場の価格変動が大きく、播種計画の策定が困難な状況。生産者の意思決定が遅延するリスクがあり、今後の作付面積データに影響を与える可能性。"
-  },
-  {
-    "title": "Oklahoma Producers Face Volatile Crop Markets and Planting Uncertainty - Oklahoma Farm Report",
-    "timestamp": "2026-09-24T16:44:28+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "オクラホマ州の生産者が市場ボラティリティと作付不確実性に直面している。穀物市場の価格変動が大きく、播種計画の策定が困難な状況。生産者の意思決定が遅延するリスクがあり、今後の作付面積データに影響を与える可能性。"
-  },
-  {
-    "title": "Russia starts exports from Arctic Vostok Oil project in boost to long-term production - Reuters",
-    "timestamp": "2026-09-24T14:06:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアが北極圏のボストーク・オイル・プロジェクトからの輸出を開始した。同プロジェクトは長期的な石油生産増加をもたらす。西側制裁下でのロシアの供給維持能力を示す動きであり、グローバル石油供給に影響を与える可能性がある。"
-  },
-  {
-    "title": "Saudi oil export strategy hits new hurdle as Red Sea insurance costs soar - Reuters",
-    "timestamp": "2026-09-24T16:57:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "紅海での保険コスト急騰がサウジアラビアの石油輸出戦略に新たな障害をもたらしている。地政学的緊張により海上輸送リスクが大幅に上昇し、原油の運送コストが急増。サウジの輸出競争力低下とグローバル供給不安が原油価格を押し上げる要因となっている。"
-  },
-  {
     "title": "Livestock Slaughter",
     "timestamp": "2026-09-24T22:28:37.510952+00:00",
     "importance": 2,
@@ -317,17 +251,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "銅価格が1ポンド6.83ドルの過去最高値を更新。鉱山災害による供給逼迫が主因。サプライチェーン寸断と需給逼迫懸念により、銅市場に構造的な上昇圧力が発生している状況。"
-  },
-  {
-    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
-    "timestamp": "2026-09-24T16:07:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECからの脱退を検討しているとの報道に対し、アナリストのRussell氏は原油価格への予想される影響は限定的との見方を示唆している。UAEは既に減産枠の遵守実績が低く、脱退による市場変動への直接的な供給インパクトは制限される可能性が高い。"
   },
   {
     "title": "Russia's Novoshakhtinsk oil refinery suspends operations after drone attack, governor says - Reuters",
@@ -691,5 +614,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "オマーン湾での船舶間石油積み替え（STS）が容量限界に達した。サウジアラビアの石油輸出急増により、積み替え施設の処理能力が飽和状態となっており、今後の輸出フローに物流的なボトルネックが生じる可能性がある。原油供給の流動性制約として機能する可能性。"
+  },
+  {
+    "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows - Reuters",
+    "timestamp": "2026-09-25T20:16:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "EUがエネルギー価格危機の深刻化に対し、加盟国に需要抑制を検討するよう要請。公式書簡で警告を発出。ロシア供給制限による構造的な供給不足が背景にあり、エネルギー価格の高止まりリスクが顕在化。冬季需要期を控える時期の強気なスタンス表明。"
+  },
+  {
+    "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows - Reuters",
+    "timestamp": "2026-09-25T20:16:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "天然ガス",
+    "summary": "EUがエネルギー価格危機の深刻化に対し、加盟国に需要抑制を検討するよう要請。公式書簡で警告を発出。ロシア供給制限による構造的な供給不足が背景にあり、エネルギー価格の高止まりリスクが顕在化。冬季需要期を控える時期の強気なスタンス表明。"
+  },
+  {
+    "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows - Reuters",
+    "timestamp": "2026-09-25T20:16:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "EUがエネルギー価格危機の深刻化に対し、加盟国に需要抑制を検討するよう要請。公式書簡で警告を発出。ロシア供給制限による構造的な供給不足が背景にあり、エネルギー価格の高止まりリスクが顕在化。冬季需要期を控える時期の強気なスタンス表明。"
   }
 ]
