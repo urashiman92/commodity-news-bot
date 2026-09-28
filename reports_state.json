@@ -44,39 +44,6 @@
     "summary": "USDA NASSの定期冷蔵倉庫在庫統計。2026年8月31日時点のナチュラルチーズ冷蔵在庫は前月比でわずかに増加し、前年同月比で2%増加した。微小な増加幅で市場インパクトは限定的。"
   },
   {
-    "title": "September 2026 Crop Basis Update: The Harvest Dip - Purdue University - College of Agriculture",
-    "timestamp": "2026-09-25T17:37:21+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "パデュー大学による9月2026年の作物ベーシス更新レポート。収穫期のベーシス低下（ハーベストディップ）に関する定期的な分析と見通しを提供。具体的な数値や詳細は当該リンク先で確認が必要。"
-  },
-  {
-    "title": "September 2026 Crop Basis Update: The Harvest Dip - Purdue University - College of Agriculture",
-    "timestamp": "2026-09-25T17:37:21+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "パデュー大学による9月2026年の作物ベーシス更新レポート。収穫期のベーシス低下（ハーベストディップ）に関する定期的な分析と見通しを提供。具体的な数値や詳細は当該リンク先で確認が必要。"
-  },
-  {
-    "title": "September 2026 Crop Basis Update: The Harvest Dip - Purdue University - College of Agriculture",
-    "timestamp": "2026-09-25T17:37:21+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "パデュー大学による9月2026年の作物ベーシス更新レポート。収穫期のベーシス低下（ハーベストディップ）に関する定期的な分析と見通しを提供。具体的な数値や詳細は当該リンク先で確認が必要。"
-  },
-  {
     "title": "Gold, silver, and oil fell on the weekly chart, overseas metals broadly declined, LME tin rose over 1%, LME zinc fell nearly 2%, US stocks rose [Holiday Market Review] - Shanghai Metals Market",
     "timestamp": "2026-09-26T02:16:00+00:00",
     "importance": 2,
@@ -229,39 +196,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "金",
     "summary": "Gold FieldsがNorthern Starの買収に関心を示したとBloombergが報じた。これは金鉱業界の大型M&A動向であり、業界の再編・統合加速を示唆。金鉱企業の提携・買収は金現物市場と金鉱株に影響を与える重要なシグナルである。"
-  },
-  {
-    "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows - Reuters",
-    "timestamp": "2026-09-25T20:16:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "EUがエネルギー価格危機の深刻化に対し、加盟国に需要抑制を検討するよう要請。公式書簡で警告を発出。ロシア供給制限による構造的な供給不足が背景にあり、エネルギー価格の高止まりリスクが顕在化。冬季需要期を控える時期の強気なスタンス表明。"
-  },
-  {
-    "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows - Reuters",
-    "timestamp": "2026-09-25T20:16:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "天然ガス",
-    "summary": "EUがエネルギー価格危機の深刻化に対し、加盟国に需要抑制を検討するよう要請。公式書簡で警告を発出。ロシア供給制限による構造的な供給不足が背景にあり、エネルギー価格の高止まりリスクが顕在化。冬季需要期を控える時期の強気なスタンス表明。"
-  },
-  {
-    "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows - Reuters",
-    "timestamp": "2026-09-25T20:16:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "EUがエネルギー価格危機の深刻化に対し、加盟国に需要抑制を検討するよう要請。公式書簡で警告を発出。ロシア供給制限による構造的な供給不足が背景にあり、エネルギー価格の高止まりリスクが顕在化。冬季需要期を控える時期の強気なスタンス表明。"
   },
   {
     "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
@@ -526,5 +460,192 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中国の工業生産データが弱含みとなったことで、銅の需要見通しが悪化し価格が下落している。中国は世界最大の銅消費国であり、工業活動の鈍化は銅価格に直接的な下押し圧力となっている。市場は中国経済の成長減速を価格に反映させており、複数月先の需要懸念が意識されている。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-09-28T22:04:01.045339+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSの定期的なCrop Progress報告は、米国主要穀物（トウモロコシ、小麦、大豆）の作付進捗度と圃場状態を週次で発表する統計調査です。具体的な数値がない段階では、前週比での進捗状況が市場予想と乖離していないか、また悪天候による作付遅延の有無が注目されます。季節的に作付シーズンであれば影響度は高まります。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-09-28T22:04:01.045339+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSの定期的なCrop Progress報告は、米国主要穀物（トウモロコシ、小麦、大豆）の作付進捗度と圃場状態を週次で発表する統計調査です。具体的な数値がない段階では、前週比での進捗状況が市場予想と乖離していないか、また悪天候による作付遅延の有無が注目されます。季節的に作付シーズンであれば影響度は高まります。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-09-28T22:04:01.045339+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSの定期的なCrop Progress報告は、米国主要穀物（トウモロコシ、小麦、大豆）の作付進捗度と圃場状態を週次で発表する統計調査です。具体的な数値がない段階では、前週比での進捗状況が市場予想と乖離していないか、また悪天候による作付遅延の有無が注目されます。季節的に作付シーズンであれば影響度は高まります。"
+  },
+  {
+    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
+    "timestamp": "2026-09-28T06:18:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
+  },
+  {
+    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
+    "timestamp": "2026-09-28T06:18:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
+  },
+  {
+    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
+    "timestamp": "2026-09-28T06:18:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
+  },
+  {
+    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
+    "timestamp": "2026-09-28T06:18:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
+    "timestamp": "2026-09-28T15:23:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
+    "timestamp": "2026-09-28T15:23:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
+    "timestamp": "2026-09-28T15:23:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
+    "timestamp": "2026-09-28T15:23:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
+  },
+  {
+    "title": "Top 5 Things to Watch: Grain Stocks Numbers Hit While China Trade News Looms - dtnpf.com",
+    "timestamp": "2026-09-28T11:29:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国穀物在庫統計の発表が迫っており、市場では穀物価格への影響が注視されている。同時に中国との貿易交渉の動向が不確実性をもたらしており、大豆を含む穀物市場全体が注視される状況。中国の穀物輸入需要は米国産穀物の重要な需要源となっているため、貿易ニュースの展開が価格を大きく左右する可能性がある。"
+  },
+  {
+    "title": "Top 5 Things to Watch: Grain Stocks Numbers Hit While China Trade News Looms - dtnpf.com",
+    "timestamp": "2026-09-28T11:29:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国穀物在庫統計の発表が迫っており、市場では穀物価格への影響が注視されている。同時に中国との貿易交渉の動向が不確実性をもたらしており、大豆を含む穀物市場全体が注視される状況。中国の穀物輸入需要は米国産穀物の重要な需要源となっているため、貿易ニュースの展開が価格を大きく左右する可能性がある。"
+  },
+  {
+    "title": "Top 5 Things to Watch: Grain Stocks Numbers Hit While China Trade News Looms - dtnpf.com",
+    "timestamp": "2026-09-28T11:29:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国穀物在庫統計の発表が迫っており、市場では穀物価格への影響が注視されている。同時に中国との貿易交渉の動向が不確実性をもたらしており、大豆を含む穀物市場全体が注視される状況。中国の穀物輸入需要は米国産穀物の重要な需要源となっているため、貿易ニュースの展開が価格を大きく左右する可能性がある。"
+  },
+  {
+    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - Reuters",
+    "timestamp": "2026-09-28T17:44:41+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りの急上昇と市場のFRB利上げ期待強まりを背景に、金の魅力が減退している。無利子資産である金は、実質金利上昇によって投資家の売却圧力が増加。Treasury利回りの上昇は金の上値を制限する重要な重し。"
+  },
+  {
+    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - Reuters",
+    "timestamp": "2026-09-28T17:44:41+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国債利回りの急上昇と市場のFRB利上げ期待強まりを背景に、金の魅力が減退している。無利子資産である金は、実質金利上昇によって投資家の売却圧力が増加。Treasury利回りの上昇は金の上値を制限する重要な重し。"
+  },
+  {
+    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
+    "timestamp": "2026-09-28T15:42:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去の放出政策で大幅に削減され、現在の歴史的な低水準は供給サイドの逼迫を示唆している。この状況は原油の供給不足リスクを高め、価格上昇圧力となる可能性がある。"
   }
 ]
