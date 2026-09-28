@@ -1,115 +1,5 @@
 [
   {
-    "title": "Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia - Reuters",
-    "timestamp": "2026-09-25T01:11:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国とイラン間の休戦の可能性が浮上し、地政学的リスク軽減期待が原油売却圧力となっている。一方、サウジアラビアへのフーシ派攻撃は供給懸念を残すが、休戦期待が上回っている。中東情勢の緊張緩和期待が価格を押し下げている。"
-  },
-  {
-    "title": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge - Reuters",
-    "timestamp": "2026-09-25T04:51:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "オマーン湾での洋上積み替え（STS）取引が物理的限界に達しており、サウジアラビアの原油輸出増加に対応できない状況が発生。物流ボトルネックにより市場の供給調整メカニズムが機能限界に直面し、原油価格の上昇圧力につながる可能性が高い。"
-  },
-  {
-    "title": "Asian stocks weather bond storm, oil retreats slightly - Reuters",
-    "timestamp": "2026-09-25T02:19:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株式市場が債券市場の変動を乗り越える中、原油相場は小幅な下落を示した。金利上昇環境下でも株式市場のレジリエンスが確認された一方、原油は需要懸念から軟調。コモディティ全般としては方向性が定まりにくい状況が続いている。"
-  },
-  {
-    "title": "Asian stocks weather bond storm, oil retreats slightly - Reuters",
-    "timestamp": "2026-09-25T02:19:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株式市場が債券市場の変動を乗り越える中、原油相場は小幅な下落を示した。金利上昇環境下でも株式市場のレジリエンスが確認された一方、原油は需要懸念から軟調。コモディティ全般としては方向性が定まりにくい状況が続いている。"
-  },
-  {
-    "title": "Ukraine kills two in drone attacks on Russia, hits oil refinery and train, officials say - Reuters",
-    "timestamp": "2026-09-25T04:29:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアへのドローン攻撃でロシア領内の石油精製施設と列車を攻撃したと発表。ロシアの石油精製能力への直接的な脅威が現実化。地政学的リスク深刻化に伴い、原油市場の供給懸念が急速に高まる可能性が高い。"
-  },
-  {
-    "title": "Indian shares muted as high oil, yields weigh; IT offsets broader pullback - Reuters",
-    "timestamp": "2026-09-25T02:18:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド株式市場が高い原油価格と利回り上昇の重しを受けている。ただしIT関連セクターの買いが指数全体の下押し圧力を相殺している。原油高が新興国のインフレ圧力を強めつつ、米国金利上昇が外国投資を抑制する二律背反の状況。"
-  },
-  {
-    "title": "Indian shares muted as high oil, yields weigh; IT offsets broader pullback - Reuters",
-    "timestamp": "2026-09-25T02:18:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場が高い原油価格と利回り上昇の重しを受けている。ただしIT関連セクターの買いが指数全体の下押し圧力を相殺している。原油高が新興国のインフレ圧力を強めつつ、米国金利上昇が外国投資を抑制する二律背反の状況。"
-  },
-  {
-    "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-25T06:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格の上昇がインフレ圧力を高め、アジアの債券・株式市場が下落する見通し。高インフレ環境ではリスク資産が売圧を受ける一方、実物資産である原油は支持される可能性。金融引き締めシナリオが浮上すれば、金を含む無利子資産にも下押し圧力が加わる構図。"
-  },
-  {
-    "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-25T06:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油価格の上昇がインフレ圧力を高め、アジアの債券・株式市場が下落する見通し。高インフレ環境ではリスク資産が売圧を受ける一方、実物資産である原油は支持される可能性。金融引き締めシナリオが浮上すれば、金を含む無利子資産にも下押し圧力が加わる構図。"
-  },
-  {
-    "title": "Asian Bonds, Stocks to Fall as Oil Fans Inflation: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-09-25T06:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "原油価格の上昇がインフレ圧力を高め、アジアの債券・株式市場が下落する見通し。高インフレ環境ではリスク資産が売圧を受ける一方、実物資産である原油は支持される可能性。金融引き締めシナリオが浮上すれば、金を含む無利子資産にも下押し圧力が加わる構図。"
-  },
-  {
     "title": "Copper Hits a Record $6.83 a Pound as Mine Disasters Choke Supply - Startup Fortune",
     "timestamp": "2026-09-25T07:33:45+00:00",
     "importance": 4,
@@ -473,17 +363,6 @@
     "summary": "ウォール街がAI関連株を買い進み、マイクロソフトが上昇した。ただし本ニュースはテクノロジーセクターの株価動向であり、農産物・エネルギー・貴金属などコモディティ市場への直接的な影響は限定的。一般的な株価上昇は金利見通しやドル相場を通じたコモディティ投資心理に若干のポジティブ効果をもたらす可能性がある。"
   },
   {
-    "title": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge - reuters.com",
-    "timestamp": "2026-09-25T04:51:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "オマーン湾での船舶間石油積み替え（STS）が容量限界に達した。サウジアラビアの石油輸出急増により、積み替え施設の処理能力が飽和状態となっており、今後の輸出フローに物流的なボトルネックが生じる可能性がある。原油供給の流動性制約として機能する可能性。"
-  },
-  {
     "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows - Reuters",
     "timestamp": "2026-09-25T20:16:26+00:00",
     "importance": 4,
@@ -515,5 +394,148 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "EUがエネルギー価格危機の深刻化に対し、加盟国に需要抑制を検討するよう要請。公式書簡で警告を発出。ロシア供給制限による構造的な供給不足が背景にあり、エネルギー価格の高止まりリスクが顕在化。冬季需要期を控える時期の強気なスタンス表明。"
+  },
+  {
+    "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
+    "timestamp": "2026-09-28T00:33:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "週足ベースで金・銀・原油が下落した一方、LMEスズが上昇を主導し、LME亜鉛が下落を主導した。海外金属類はおおむね下落トレンドで、米国株は上昇。ホリデー市場での流動性低下による変動性の高い展開が続いている。"
+  },
+  {
+    "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
+    "timestamp": "2026-09-28T00:33:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銀",
+    "summary": "週足ベースで金・銀・原油が下落した一方、LMEスズが上昇を主導し、LME亜鉛が下落を主導した。海外金属類はおおむね下落トレンドで、米国株は上昇。ホリデー市場での流動性低下による変動性の高い展開が続いている。"
+  },
+  {
+    "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
+    "timestamp": "2026-09-28T00:33:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "週足ベースで金・銀・原油が下落した一方、LMEスズが上昇を主導し、LME亜鉛が下落を主導した。海外金属類はおおむね下落トレンドで、米国株は上昇。ホリデー市場での流動性低下による変動性の高い展開が続いている。"
+  },
+  {
+    "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
+    "timestamp": "2026-09-28T00:33:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "週足ベースで金・銀・原油が下落した一方、LMEスズが上昇を主導し、LME亜鉛が下落を主導した。海外金属類はおおむね下落トレンドで、米国株は上昇。ホリデー市場での流動性低下による変動性の高い展開が続いている。"
+  },
+  {
+    "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
+    "timestamp": "2026-09-28T00:33:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "スズ",
+    "summary": "週足ベースで金・銀・原油が下落した一方、LMEスズが上昇を主導し、LME亜鉛が下落を主導した。海外金属類はおおむね下落トレンドで、米国株は上昇。ホリデー市場での流動性低下による変動性の高い展開が続いている。"
+  },
+  {
+    "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
+    "timestamp": "2026-09-28T00:33:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "亜鉛",
+    "summary": "週足ベースで金・銀・原油が下落した一方、LMEスズが上昇を主導し、LME亜鉛が下落を主導した。海外金属類はおおむね下落トレンドで、米国株は上昇。ホリデー市場での流動性低下による変動性の高い展開が続いている。"
+  },
+  {
+    "title": "Copper Hits a Record $6.83 a Pound as Mine Disasters Choke Supply - startupfortune.com",
+    "timestamp": "2026-09-25T07:33:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が史上最高値の1ポンド$6.83に到達した。鉱山災害による供給逼迫が主因。サプライチェーンの混乱と生産能力の低下により、需給ギャップが拡大している。EV・再生可能エネルギー関連需要の堅調さも支援。"
+  },
+  {
+    "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - reuters.com",
+    "timestamp": "2026-09-28T00:17:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の石油輸出が9月に回復し、サウジアラビアが出荷を増加させた。OPECの減産政策による供給調整の一環として、サウジが輸出を拡大する動きは市場で予想されていた範囲内。原油市場の供給サイドの安定を示唆する。"
+  },
+  {
+    "title": "Stocks slip in Asia as oil and yields climb - reuters.com",
+    "timestamp": "2026-09-28T00:50:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株が軟調となる中、原油価格と米国債利回りが上昇している。利回り上昇はドル強化につながり、ドル建てコモディティ全般に下落圧力を与える一方、原油はエネルギー需要懸念やOPEC政策の影響で上昇基調。金などの無利子資産は利回り上昇で売られる可能性。"
+  },
+  {
+    "title": "Stocks slip in Asia as oil and yields climb - reuters.com",
+    "timestamp": "2026-09-28T00:50:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株が軟調となる中、原油価格と米国債利回りが上昇している。利回り上昇はドル強化につながり、ドル建てコモディティ全般に下落圧力を与える一方、原油はエネルギー需要懸念やOPEC政策の影響で上昇基調。金などの無利子資産は利回り上昇で売られる可能性。"
+  },
+  {
+    "title": "Oil Rises as Iran Says It Won’t Soften Strait of Hormuz Demands - Bloomberg.com",
+    "timestamp": "2026-09-28T05:37:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イランがホルムズ海峡の要求を軟化させないと表明し、原油価格が上昇した。同海峡は世界の石油輸送の約20-30%が通過する重要な物流拠点であり、イランの強硬姿勢は供給リスクを高める。地政学的緊張の高まりが価格支援要因となっている。"
+  },
+  {
+    "title": "Oil, AI Demand Give Ringgit Room to Rally, Strategists Say - Bloomberg.com",
+    "timestamp": "2026-09-27T23:57:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "マレーシア・リンギットが原油需要とAI関連需要の増加を背景にラリーする余地があるとアナリストが指摘。原油価格の上昇がエネルギー輸出国であるマレーシアの通貨を支援する一方、AI産業の需要拡大がコモディティ全般に上昇圧力をもたらす構図。ただしリンギット連動性の詳細な数値は記事から不明。"
+  },
+  {
+    "title": "Oil, AI Demand Give Ringgit Room to Rally, Strategists Say - Bloomberg.com",
+    "timestamp": "2026-09-27T23:57:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "マレーシア・リンギットが原油需要とAI関連需要の増加を背景にラリーする余地があるとアナリストが指摘。原油価格の上昇がエネルギー輸出国であるマレーシアの通貨を支援する一方、AI産業の需要拡大がコモディティ全般に上昇圧力をもたらす構図。ただしリンギット連動性の詳細な数値は記事から不明。"
   }
 ]
