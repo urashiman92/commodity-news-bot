@@ -1,104 +1,5 @@
 [
   {
-    "title": "本日（9月26日）の金価格：一時的な反発の後、金価格は下落を続ける可能性がある。 - Vietnam.vn",
-    "timestamp": "2026-09-25T21:45:36+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は一時的な反発を見せたが、その後の下落傾向が続く可能性があるとのアナリスト観測。技術的・ファンダメンタルズ的な圧力が継続している状況の分析記事。"
-  },
-  {
-    "title": "米コモディティー市場－金、銀、トウモロコシ、大豆が上昇 原油、ガソリン、天然ガス、銅、小麦が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-25T22:29:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で貴金属（金・銀）と穀物（トウモロコシ・大豆）が上昇した一方、エネルギー（原油・ガソリン・天然ガス）と銅・小麦が下落。市場内での相場分裂を示す日中の値動き報告。"
-  },
-  {
-    "title": "NY金先物は5営業日ぶりに反発、米長期金利の上昇一服とドル安で押し目買い｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-09-25T22:40:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が5営業日ぶりに反発した。米長期金利の上昇が一服し、ドル安が進行したことが買い材料となった。既に織り込まれていた調整局面からの押し目買いと考えられる。"
-  },
-  {
-    "title": "NY金先物：5営業日ぶりに反発、米長期金利の上昇一服とドル安で押し目買い 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-25T23:36:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が5営業日ぶりに反発。米長期金利の上昇が一服し、ドル安が進行したことが押し目買いを誘った。テクニカルな反発の動き。"
-  },
-  {
-    "title": "NY金先物：5営業日ぶりに反発、米長期金利の上昇一服とドル安で押し目買い - ｄメニューニュース",
-    "timestamp": "2026-09-25T23:36:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が5営業日ぶりに反発した。米長期金利の上昇が一服し、ドル安が進行したことが買い圧力となった。技術的な押し目買いの動き。"
-  },
-  {
-    "title": "世界的な金価格は、割安感を求めて買いが入ったことで回復した。 - Vietnam.vn",
-    "timestamp": "2026-09-26T00:18:03+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が割安感を背景に買いが入り回復した。テクニカルなバウンスを示唆する。短期的な需給バランスの改善を反映。"
-  },
-  {
-    "title": "NY原油・金相場（25日）－原油が反落 金は5日ぶりに反発 - Moomoo",
-    "timestamp": "2026-09-25T22:13:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY市場で原油が反落した一方、金は5日ぶりに反発。両商品が異なる値動きを示した日次の相場振り返り。"
-  },
-  {
-    "title": "原油相場は下落、ホルムズ海峡巡る米・イラン交渉への期待広がる フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-09-25T22:22:55+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン間のホルムズ海峡巡る交渉進展への期待が広がり、地政学リスク低下観測から原油相場が下落。供給懸念の緩和が価格押し下げ要因となった。"
-  },
-  {
-    "title": "NY原油先物：反落、イラン外相のホルムズ海峡開放提案で供給懸念が後退 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-25T23:37:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン外相がホルムズ海峡の開放を提案し、地政学的リスク軽減で供給懸念が後退。NY原油先物は反落。中東地政学的緊張の一時的な緩和を反映。"
-  },
-  {
     "title": "金価格は再び下落に向かっている。 - vietnam.vn",
     "timestamp": "2026-09-26T03:00:30+00:00",
     "importance": 2,
@@ -110,17 +11,6 @@
     "summary": "金価格が再び下落傾向に向かっているというコメンタリー記事。具体的な新規材料や統計発表ではなく、市場観測に基づく相場解説。既に織り込まれている可能性が高い。"
   },
   {
-    "title": "商品市場概況：原油安、LME銅はほぼ横ばい、金価格は小幅上昇 - Moomoo",
-    "timestamp": "2026-09-25T23:31:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "原油が下落、LME銅はほぼ横ばい、金は小幅上昇という複合的な市場動向を伝える概況記事。各商品の値動きは軽微で、大きなトレンド変化を示唆するものではない。"
-  },
-  {
     "title": "世界の金価格は、原油価格とFRBの金利という二重の圧力により、週間で2％以上下落する見込み。 - vietnam.vn",
     "timestamp": "2026-09-26T01:58:57+00:00",
     "importance": 3,
@@ -130,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が週間で2%以上下落する見込み。原油価格上昇とFRBの金利引き上げの二重圧力が売り圧力として機能。ドル強化や実質金利上昇が金の投資妙味を減少させている。"
-  },
-  {
-    "title": "原油相場は小幅安、ホルムズ海峡巡る期待とタイトな需給のせめぎ合い フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-09-25T23:52:26+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場は小幅安で推移。ホルムズ海峡の地政学的リスク期待と需給タイトさのせめぎ合いが続いている。既存ファクターの綱引き状態で大きな方向性は定まっていない。"
   },
   {
     "title": "米イラン交渉に進展の兆し、原油価格が下落 ダウ工業株30種は478ドル高で週間ベースも上昇 - BigGo ファイナンス",
@@ -165,28 +44,6 @@
     "summary": "9月26日の世界原油価格は反転し下落した。ベトナムの燃料価格ニュースとして報じられているが、具体的な下落率やファンダメンタルズの言及がない。市場の日次変動を記述したもの。"
   },
   {
-    "title": "米コモディティー市場－金、銀、トウモロコシ、大豆が上昇 原油、ガソリン、天然ガス、銅、小麦が下落 - TradingView",
-    "timestamp": "2026-09-25T22:28:19+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で金銀など一部商品が上昇、原油ガスなど一部が下落と相反する動き。日中の市場動向をまとめた定期的な相場振り返り報道。"
-  },
-  {
-    "title": "NY金先物：5営業日ぶりに反発、米長期金利の上昇一服とドル安で押し目買い - TradingView",
-    "timestamp": "2026-09-25T23:36:53+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が5営業日ぶりに反発。米長期金利の上昇が一服し、ドル安が進行したことで押し目買いが入った。テクニカルな反発局面の報道。"
-  },
-  {
     "title": "本日（9月26日午後）の金価格：国内の金価格は横ばい。 - Vietnam.vn",
     "timestamp": "2026-09-26T07:21:08+00:00",
     "importance": 1,
@@ -209,17 +66,6 @@
     "summary": "金価格は小幅上昇も4,300ドル以下に留まる。米国利回りが19年ぶりの高水準に達し、金にとって逆風環境が継続。金利上昇は金の実質利回りを低下させ、金需要を抑制する要因。"
   },
   {
-    "title": "原油相場は下落、ホルムズ海峡巡る米・イラン交渉への期待広がる フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-09-25T22:12:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン間のホルムズ海峡交渉進展への期待から原油相場が下落。地政学リスク低減見通しにより供給懸念が緩和。相場の振り返り報道である。"
-  },
-  {
     "title": "金価格は本日9月26日、大幅に下落して取引を終えた。 - Vietnam.vn",
     "timestamp": "2026-09-26T13:43:02+00:00",
     "importance": 2,
@@ -229,17 +75,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "9月26日の金価格が大幅に下落して取引を終えた。具体的な下落理由や下落幅は記事概要に記載されていない。コモディティ市場の日常的な値動きの報告と考えられる。"
-  },
-  {
-    "title": "【注目トピックス 市況・概況】NY金先物：5営業日ぶりに反発、米長期金利の上昇一服とドル安で押し目買い - マネーポストWEB",
-    "timestamp": "2026-09-25T23:36:53+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が5営業日ぶりに反発。米長期金利の上昇が一服し、ドル安進行が買い材料となった。押し目買いの流れが見られている。"
   },
   {
     "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
@@ -284,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NYの原油先物が3日ぶりに反落し、終値は92ドル台となった。短期的な調整局面を示唆しており、市場の通常のボラティリティ内での値動き。"
-  },
-  {
-    "title": "NY原油先物：反落、イラン外相のホルムズ海峡開放提案で供給懸念が後退 - ｄメニューニュース",
-    "timestamp": "2026-09-25T23:37:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン外相がホルムズ海峡の開放提案を表明し、供給途絶懸念が後退した。これにより地政学的リスクプレミアムが縮小し、NY原油先物は反落。既に報じられている緊張緩和の流れの延長線。"
   },
   {
     "title": "本日（9月27日）の金価格：週末にかけて価格は横ばいとなりました。 - Vietnam.vn",
@@ -1384,5 +1208,170 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "岐阜県恵那市の神社で銅板窃盗事件が相次いでいる。銅価格高騰に伴い、スクラップ銅の盗難需要が増加している背景が指摘されている。小規模な社会問題として報道されている。"
+  },
+  {
+    "title": "世界的な財政不安で金価格は高止まり 長期的な上昇傾向は不変 伊藤奈々恵（サンデー毎日×週刊エコノミストOnline） - Yahoo!ニュース",
+    "timestamp": "2026-09-29T01:04:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界的な財政不安を背景に金価格は高止まりしている状況が報道されている。長期的には上昇傾向が続くと分析している。コモディティとしてのセーフハーブン需要が継続している。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4114ドル｜米長期金利の低下や原油高に伴うインフレ懸念が影響した模様(2026年9月29日) - OANDA証券",
+    "timestamp": "2026-09-28T23:06:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4114ドルに下落。米長期金利の低下と原油高によるインフレ懸念が相反する要因として作用した。市場の既知事象の振り返り解説。"
+  },
+  {
+    "title": "9月29日の金価格：全般的に急落。 - Vietnam.vn",
+    "timestamp": "2026-09-29T00:41:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "9月29日の金価格が全般的に急落した。具体的な下落要因や数値は記事概要では明示されていない。市場の技術的な調整またはドル高・米金利上昇などの既知要因による可能性が高い。"
+  },
+  {
+    "title": "金価格は短期の下落チャネル入り、目標値は4,000ドル - Moomoo",
+    "timestamp": "2026-09-28T14:06:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリスト視点から金価格の短期的な下落トレンド入りを指摘。目標値として4,000ドルが提示されている。既に市場で認識されている調整局面の分析と見られる。"
+  },
+  {
+    "title": "NY金先物相場、安値もみ合い 4190ドル台で推移 - TradingView",
+    "timestamp": "2026-09-28T14:00:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が4190ドル台で安値もみ合い状況にある。相場は方向性を欠き、狭いレンジでの値動きが続いている。"
+  },
+  {
+    "title": "原油先物続伸、中東の供給懸念根強く 輸出は回復の兆し - ロイター",
+    "timestamp": "2026-09-29T01:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が続伸している。中東の供給懸念が相場を支えており、市場の関心は根強い。一方、輸出は回復の兆しが見られており、需給バランスに複雑性がある。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：米国がイランのホルムズ海峡開放案を拒否した影響で、原油価格は反発（2026年9月29日） - OANDA証券",
+    "timestamp": "2026-09-28T23:11:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイランのホルムズ海峡開放案を拒否したことを受け、原油価格が反発。地政学リスク要因が継続し、供給途絶の懸念が支援材料となった。既知の米イラン対立が背景。"
+  },
+  {
+    "title": "原油先物続伸、中東の供給懸念根強く 輸出は回復の兆し - ニューズウィーク日本版",
+    "timestamp": "2026-09-29T01:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物は中東の供給懸念を背景に上昇継続。一方で輸出に回復の兆しが見られており、需給バランスに対する市場の警戒感は維持されている。既知のリスク要因が価格を支えている状況。"
+  },
+  {
+    "title": "原油価格や米国債利回りが高止まりする中、ウォール街は下落した - TradingView",
+    "timestamp": "2026-09-28T18:48:58+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格と米国債利回りが高止まりする中、株式市場（ウォール街）が下落した。金利上昇と原油高が株式投資家にとって逆風となっている状況。"
+  },
+  {
+    "title": "【市況】オルテナジー：エネルギー経済レポート10月号を公開、LNG・原油価格とBCP対策を分析 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "timestamp": "2026-09-28T22:42:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "オルテナジーが10月のエネルギー経済レポートを公開し、LNG・原油価格動向とBCP対策を分析。定期的なマーケット解説・観測レポートの発表。"
+  },
+  {
+    "title": "商品市場概況：原油価格は小幅上昇、非鉄金属は広く下落、金価格は急落 - Moomoo",
+    "timestamp": "2026-09-28T20:48:12+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油は小幅上昇、非鉄金属は広く下落、金は急落した市場概況の報道。各商品市場が異なる方向性を示している状況の総括。"
+  },
+  {
+    "title": "中国・米国の関税引き下げで米国産トウモロコシ市場が開放され、トウモロコシ先物はもみ合い - Traders Union",
+    "timestamp": "2026-09-28T18:11:41+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "中国と米国が関税を引き下げ、米国産トウモロコシの市場アクセスが改善される見通し。ただし先物相場はもみ合い状態が続いており、市場はまだ価格方向性を定めていない。"
+  },
+  {
+    "title": "大豆先物価格予測：ZSが1.55%下落、USX1,273がサポート - Traders Union",
+    "timestamp": "2026-09-28T16:09:44+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物(ZS)が1.55%下落し、USX1,273がサポートレベルとされている。アナリストによる技術的な価格予測の提示。"
+  },
+  {
+    "title": "２８日の主要国際商品市況 - 株探",
+    "timestamp": "2026-09-28T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "28日の主要国際商品市況についての市場振り返り記事。具体的な価格変動や市場材料の詳細が記事本文なしでは判断できない。定期的な市況報告コンテンツと思われる。"
+  },
+  {
+    "title": "２８日の主要国際商品市況 (2026年9月29日掲載) - news.livedoor.com",
+    "timestamp": "2026-09-28T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年9月28日の主要国際商品市況の定期報告。具体的な価格データや市場動向の詳細が記事本文から確認できない。"
   }
 ]
