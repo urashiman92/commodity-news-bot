@@ -1,49 +1,5 @@
 [
   {
-    "title": "Peanut Stocks and Processing",
-    "timestamp": "2026-09-25T22:23:34.599896+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASs公式発表により、殻付き食用グレードピーナッツの季節累計処理量が前年同期比5%減少したことが報告された。商業貯蔵中のピーナッツ在庫は28.1億ポンドに達している。在庫増加と処理量低下は供給過剰の兆候を示唆している。"
-  },
-  {
-    "title": "Potatoes",
-    "timestamp": "2026-09-25T22:23:38.827766+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASによる2025年ポテト生産量が前年比1%減少と発表。減少幅は限定的で市場予想の範囲内。供給の大幅な逼迫は見られず、価格圧力は軽微。飼料穀物やでんぷん用途への間接的な影響は限定的。"
-  },
-  {
-    "title": "Potatoes",
-    "timestamp": "2026-09-25T22:23:38.827766+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASによる2025年ポテト生産量が前年比1%減少と発表。減少幅は限定的で市場予想の範囲内。供給の大幅な逼迫は見られず、価格圧力は軽微。飼料穀物やでんぷん用途への間接的な影響は限定的。"
-  },
-  {
-    "title": "Cold Storage",
-    "timestamp": "2026-09-25T22:23:42.923519+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSの定期冷蔵倉庫在庫統計。2026年8月31日時点のナチュラルチーズ冷蔵在庫は前月比でわずかに増加し、前年同月比で2%増加した。微小な増加幅で市場インパクトは限定的。"
-  },
-  {
     "title": "Gold, silver, and oil fell on the weekly chart, overseas metals broadly declined, LME tin rose over 1%, LME zinc fell nearly 2%, US stocks rose [Holiday Market Review] - Shanghai Metals Market",
     "timestamp": "2026-09-26T02:16:00+00:00",
     "importance": 2,
@@ -647,5 +603,71 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去の放出政策で大幅に削減され、現在の歴史的な低水準は供給サイドの逼迫を示唆している。この状況は原油の供給不足リスクを高め、価格上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 18% Harvested, Soybeans 17% Harvested as of Sept. 27 - dtnpf.com",
+    "timestamp": "2026-09-28T09:32:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが9月27日時点のCrop Progress報告を発表。トウモロコシの収穫が18%、大豆が17%と、いずれも平年を下回る進捗状況。秋の天候による収穫遅延が継続中であり、収穫完了までの気象リスクが価格下押し要因になる可能性。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 18% Harvested, Soybeans 17% Harvested as of Sept. 27 - dtnpf.com",
+    "timestamp": "2026-09-28T09:32:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが9月27日時点のCrop Progress報告を発表。トウモロコシの収穫が18%、大豆が17%と、いずれも平年を下回る進捗状況。秋の天候による収穫遅延が継続中であり、収穫完了までの気象リスクが価格下押し要因になる可能性。"
+  },
+  {
+    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-09-27T17:18:13+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要減速懸念により、原油相場への下押し圧力が増す。この見通し修正は既に市場で認識されつつある弱気シナリオの追認と言える。"
+  },
+  {
+    "title": "OPEC Cuts 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-09-27T17:18:13+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長見通しを引き下げた。需要減速懸念により、原油相場への下押し圧力が増す。この見通し修正は既に市場で認識されつつある弱気シナリオの追認と言える。"
+  },
+  {
+    "title": "Oil prices rise for second session on continued Middle East supply concern - Reuters",
+    "timestamp": "2026-09-29T00:33:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東のサプライ懸念を背景に、原油価格が2日連続で上昇した。地政学的リスク要因により需給不均衡が継続し、市場の供給サイドへの警戒感が強まっている。具体的な数値は記事タイトルに示されていないが、継続的な上昇トレンドが形成されている。"
+  },
+  {
+    "title": "Oil Extends Gain as Iran Uncertainty Outweighs Saudi Pipe Return - Bloomberg.com",
+    "timestamp": "2026-09-29T00:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イランの政治的不確実性が供給リスクプレミアムとなり、原油価格の上昇を支援している。一方でサウジアラビアのパイプライン復旧による供給増加は上昇圧力を緩和する要因として作用。地政学的リスク要因がファンダメンタルズを上回り、短期的には上昇相場が継続する可能性が高い。"
   }
 ]
