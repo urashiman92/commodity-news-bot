@@ -746,5 +746,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "チリの鉱山紛争がサプライズとして浮上し、世界的な銅供給への懸念が強まった。チリは世界の銅生産の約25-28%を占める主要産地であり、同国での労使紛争や操業停止リスクは銅市場に直接的な供給ショックをもたらす可能性がある。これにより銅価格は上昇圧力を受けた。"
+  },
+  {
+    "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - americanagnetwork.com",
+    "timestamp": "2026-09-29T20:18:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国の湿潤な収穫状況が大豆加工業者を圧迫している。収穫の遅延と品質低下により、加工業者の原料調達が困難化。穀物在庫統計（WASDE関連）発表が控える中、供給逼迫懸念が高まっている。"
+  },
+  {
+    "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - americanagnetwork.com",
+    "timestamp": "2026-09-29T20:18:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国の湿潤な収穫状況が大豆加工業者を圧迫している。収穫の遅延と品質低下により、加工業者の原料調達が困難化。穀物在庫統計（WASDE関連）発表が控える中、供給逼迫懸念が高まっている。"
+  },
+  {
+    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
+    "timestamp": "2026-09-28T18:08:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAの穀物在庫レポート発表を控えて、穀物市場が混合相場となっている。トレーダーは米国の小麦、トウモロコシ、大豆の期末在庫数字を注視しており、在庫統計が市場の方向性を左右する可能性が高い。"
+  },
+  {
+    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
+    "timestamp": "2026-09-28T18:08:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの穀物在庫レポート発表を控えて、穀物市場が混合相場となっている。トレーダーは米国の小麦、トウモロコシ、大豆の期末在庫数字を注視しており、在庫統計が市場の方向性を左右する可能性が高い。"
+  },
+  {
+    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
+    "timestamp": "2026-09-28T18:08:38+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAの穀物在庫レポート発表を控えて、穀物市場が混合相場となっている。トレーダーは米国の小麦、トウモロコシ、大豆の期末在庫数字を注視しており、在庫統計が市場の方向性を左右する可能性が高い。"
+  },
+  {
+    "title": "USDA Crop Progress Report September 28, 2026: Corn, Soybean Harvest Update - News and Statistics - IndexBox",
+    "timestamp": "2026-09-28T20:20:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress Report（2026年9月28日発表）は、トウモロコシと大豆の収穫進捗状況を報告する定期統計。収穫時期を迎えた両穀物の進行状況が示されるが、具体的な数値が提供されていないため、市場予想との乖離度は判断できない。"
+  },
+  {
+    "title": "USDA Crop Progress Report September 28, 2026: Corn, Soybean Harvest Update - News and Statistics - IndexBox",
+    "timestamp": "2026-09-28T20:20:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress Report（2026年9月28日発表）は、トウモロコシと大豆の収穫進捗状況を報告する定期統計。収穫時期を迎えた両穀物の進行状況が示されるが、具体的な数値が提供されていないため、市場予想との乖離度は判断できない。"
+  },
+  {
+    "title": "#Harvest26: Mississippi Delta Surges Ahead as Wet Weather Slows Northern Corn Belt - RFD-TV",
+    "timestamp": "2026-09-29T17:08:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国穀倉地帯の収穫進捗に地域差が顕著。ミシシッピ・デルタ地域が順調に収穫を進める一方、北部コーンベルトは過度な降雨により遅延。トウモロコシの成熟度と大豆の刈取りタイミングに影響が出ている状況。"
+  },
+  {
+    "title": "#Harvest26: Mississippi Delta Surges Ahead as Wet Weather Slows Northern Corn Belt - RFD-TV",
+    "timestamp": "2026-09-29T17:08:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国穀倉地帯の収穫進捗に地域差が顕著。ミシシッピ・デルタ地域が順調に収穫を進める一方、北部コーンベルトは過度な降雨により遅延。トウモロコシの成熟度と大豆の刈取りタイミングに影響が出ている状況。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-09-28T20:15:10+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後の独自増産計画を推進し、IEAが来年の同国の石油生産量が日量500万バレルを超えると予想。OPECの減産枠組みから外れた同国の増産姿勢が、市場の供給過剰懸念を強める形となる。"
   }
 ]
