@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（9月26日午後）の金価格：国内の金価格は横ばい。 - Vietnam.vn",
-    "timestamp": "2026-09-26T07:21:08+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が9月26日午後の時点で横ばいの推移を示している。国内市場の値動きに特段の変化がない状況。"
-  },
-  {
-    "title": "金価格は本日9月26日、大幅に下落して取引を終えた。 - Vietnam.vn",
-    "timestamp": "2026-09-26T13:43:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月26日の金価格が大幅に下落して取引を終えた。具体的な下落理由や下落幅は記事概要に記載されていない。コモディティ市場の日常的な値動きの報告と考えられる。"
-  },
-  {
-    "title": "【原油価格 円安への影響】 | 唐鎌 大輔 | 文藝春秋PLUS - 文春オンライン",
-    "timestamp": "2026-09-26T11:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格と円安の関係性についての解説記事。アナリスト・唐鎌大輔による観測や分析が中心。既に報じられた相場動向の分析と考えられる。"
-  },
-  {
     "title": "金価格更新、2026年9月27日午前：SJC、プレーンゴールドリング9999 Bao Tin Minh Chau、DOJI Phu Quy - Vietnam.vn",
     "timestamp": "2026-09-26T21:29:18+00:00",
     "importance": 1,
@@ -143,17 +110,6 @@
     "summary": "ベトナムの9月27日（金曜日）の燃料価格は、世界市場が週末で取引休止のため据え置きとなることを報じている。これは定期的で予定通りの動き。"
   },
   {
-    "title": "原油が下落、ブレントは1バレル＝100ドル付近－イラン巡る外交に期待 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-09-26T08:01:09+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が100ドル付近まで下落。イラン関連の外交交渉進展への期待が売り要因となっている。供給懸念の緩和を示唆する動き。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（9/21〜9/25）｜水野崇 - mbp-japan.com",
     "timestamp": "2026-09-27T01:51:37+00:00",
     "importance": 2,
@@ -251,17 +207,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "9月27日時点の世界原油価格に関する日次レポート。この週は価格変動が激しかったとの報告。具体的な価格水準や変動要因の詳細は記事概要からは判断不可。"
-  },
-  {
-    "title": "原油価格、5日連続の下落を終える―複数の要因が反発を支えられるか？ - Moomoo",
-    "timestamp": "2026-09-26T10:15:51+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が5日連続の下落を終えて反発した。複数の要因が支えとなるか注視される局面。テクニカルなリバウンドの可能性がある。"
   },
   {
     "title": "本日（9月27日）の燃料価格：世界の原油価格は引き続き下落しています。 - Vietnam.vn",
@@ -1428,5 +1373,126 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "農産物全般が売られる中、コーヒーは逆行して堅調に推移している。マーケット解説記事で、コーヒーの独立した強気シナリオが存在することを示唆。"
+  },
+  {
+    "title": "NY金先物は急落、原油高と10月利上げ観測の高まりで貴金属全般に売り｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-28T23:59:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が急落。米10月利上げ観測の高まりとドル高、原油高による売り圧力で貴金属全般が下落。ドル金利上昇により金の相対的な魅力が低下。"
+  },
+  {
+    "title": "〔GRAPHIC〕金価格さらに下落か、米国債利回り上昇と米追加利上げ観測で - TradingView",
+    "timestamp": "2026-09-29T02:23:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国債利回りの上昇と追加利上げ観測により、金価格さらに下落の可能性が指摘されている。金は利息を生まない資産のため、実質金利上昇は金の相対的な魅力を低下させる。既に報じられているマクロ環境の延長線上の解説。"
+  },
+  {
+    "title": "金価格が下落し続ける中、ピーク時に購入した人々はどれだけの損失を被ったのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-09-29T12:45:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が下落基調にある中、ピーク時に購入した投資家の含み損状況を扱う解説記事。既に進行中の下落トレンドの振り返りで、新規の材料ではなく相場心理の分析。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（28日）原油は小反発 - Moomoo",
+    "timestamp": "2026-09-28T22:38:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油・金先物市場の28日の取引概況。原油は小反発したが、具体的な価格動向や材料は記事サマリーからは不明。金市場の動きについても詳細情報がない。"
+  },
+  {
+    "title": "原油相場は小幅安、ホルムズ海峡巡る期待とタイトな需給のせめぎ合い フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+    "timestamp": "2026-09-29T10:43:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場は小幅安で推移。ホルムズ海峡の地政学的リスク期待と現在のタイトな需給構造がせめぎ合っている。相場は均衡状態にあり、大きな方向性は定まっていない。"
+  },
+  {
+    "title": "株価 値下がり 原油先物価格の上昇を背景に幅広い銘柄で - NHKニュース",
+    "timestamp": "2026-09-29T03:50:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格の上昇により、日本株式市場で幅広い銘柄が値下がりした。エネルギーコスト上昇が企業収益圧迫要因となっている。コモディティ価格と株価の逆相関関係を示す展開。"
+  },
+  {
+    "title": "【速報】NY原油先物続落、90.71ドルまで、トランプ米大統領が対r露制裁緩和の可能性示唆｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-09-29T12:35:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ米大統領がロシア制裁緩和の可能性を示唆し、原油先物が90.71ドルまで続落。地政学的リスク低下により供給懸念が後退。ウクライナ情勢の緊張緩和期待が原油需給の不確実性を減少させている。"
+  },
+  {
+    "title": "米国株式見通し｜主要3指数先物が揃って上昇、原油価格は下落。ホワイトハウス主催のAIテクノロジー企業幹部との昼食会やOpenAI開発者会議が開催予定 - Moomoo",
+    "timestamp": "2026-09-29T12:12:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株式先物が上昇する中、原油価格は下落。ホワイトハウスのAI関連イベントが予定されており、株式市場がテクノロジーセクターに注目している。原油下落は金融引き締め懸念やドル強気の継続を示唆。"
+  },
+  {
+    "title": "【中華食品 FY2026 Q3 決算説明会】台湾の中華食品、豆腐販売量が過去最高の1億945万箱突破・EPS 4.14台湾ドルも、第2四半期は増収停滞、大豆コスト28%高騰が懸念材料に - BigGo ファイナンス",
+    "timestamp": "2026-09-29T07:34:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "台湾の中華食品が豆腐販売量で過去最高を達成したが、大豆コストが28%高騰し収益圧力が強まっている。Q2の増収停滞が報告され、今後のマージン悪化が懸念される。"
+  },
+  {
+    "title": "チリの銅鉱山でのストライキ投票は銅価格を押し上げるか？ - Traders Union",
+    "timestamp": "2026-09-28T15:58:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "チリの銅鉱山でストライキ投票が予定されており、供給リスクが懸念されている。チリは世界最大の銅生産国であり、供給途絶のリスクは銅価格を押し上げる圧力となる。"
+  },
+  {
+    "title": "２８日の主要国際商品市況 (2026年9月29日掲載) - ライブドアニュース",
+    "timestamp": "2026-09-28T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年9月28日の主要国際商品市況に関する定期的な市況レポート。具体的な価格水準や変動内容が記事概要に記載されていないため、詳細な分析が不可能。"
   }
 ]
