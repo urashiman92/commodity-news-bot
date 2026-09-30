@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA reports 600,000-barrel drop in US crude inventories for week ended September 11 - Energies Media",
-    "timestamp": "2026-09-27T00:27:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の週間原油在庫が60万バレル減少（9月11日週）。在庫減少は需要堅調または供給制限を示唆し、原油価格には上昇圧力となる。ただし単週の変動であり、市場予想比でのサプライズ度は不明。"
-  },
-  {
     "title": "Gold, silver, and oil fell on the weekly chart, while overseas metals mostly declined. LME tin led the gains, and LME zinc led the losses, while US stocks rose [Holiday Market Review] - Shanghai Metals Market",
     "timestamp": "2026-09-28T00:33:00+00:00",
     "importance": 2,
@@ -856,5 +845,93 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC脱退後の独自増産計画を推進し、IEAが来年の同国の石油生産量が日量500万バレルを超えると予想。OPECの減産枠組みから外れた同国の増産姿勢が、市場の供給過剰懸念を強める形となる。"
+  },
+  {
+    "title": "U.S. grain markets turn mixed as traders await key USDA stocks report - agrolatam.com",
+    "timestamp": "2026-09-29T21:25:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国穀物市場が混合動向を示しており、トレーダーがUSDA在庫報告書の発表を待機している。穀物市場は在庫統計の内容次第で方向性が決まる局面にある。"
+  },
+  {
+    "title": "U.S. grain markets turn mixed as traders await key USDA stocks report - agrolatam.com",
+    "timestamp": "2026-09-29T21:25:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国穀物市場が混合動向を示しており、トレーダーがUSDA在庫報告書の発表を待機している。穀物市場は在庫統計の内容次第で方向性が決まる局面にある。"
+  },
+  {
+    "title": "U.S. grain markets turn mixed as traders await key USDA stocks report - agrolatam.com",
+    "timestamp": "2026-09-29T21:25:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国穀物市場が混合動向を示しており、トレーダーがUSDA在庫報告書の発表を待機している。穀物市場は在庫統計の内容次第で方向性が決まる局面にある。"
+  },
+  {
+    "title": "Iowa Farmers Behind on Harvest as Wet September Comes to Close - agriculture.com",
+    "timestamp": "2026-09-29T16:38:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "アイオワ州での9月の降雨により、農家の収穫作業が予定より遅延している。湿潤な気象条件が続くことで、トウモロコシと大豆の収穫進捗が滞っており、作業効率の低下とポストハーベスト損失（カビ、品質低下）のリスクが高まっている。9月末の天候改善が期待されるが、遅延による在庫圧力への懸念。"
+  },
+  {
+    "title": "Iowa Farmers Behind on Harvest as Wet September Comes to Close - agriculture.com",
+    "timestamp": "2026-09-29T16:38:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "アイオワ州での9月の降雨により、農家の収穫作業が予定より遅延している。湿潤な気象条件が続くことで、トウモロコシと大豆の収穫進捗が滞っており、作業効率の低下とポストハーベスト損失（カビ、品質低下）のリスクが高まっている。9月末の天候改善が期待されるが、遅延による在庫圧力への懸念。"
+  },
+  {
+    "title": "Iowa Farmers Behind on Harvest as Wet September Comes to Close - agriculture.com",
+    "timestamp": "2026-09-29T16:38:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "アイオワ州での9月の降雨により、農家の収穫作業が予定より遅延している。湿潤な気象条件が続くことで、トウモロコシと大豆の収穫進捗が滞っており、作業効率の低下とポストハーベスト損失（カビ、品質低下）のリスクが高まっている。9月末の天候改善が期待されるが、遅延による在庫圧力への懸念。"
+  },
+  {
+    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - reuters.com",
+    "timestamp": "2026-09-28T17:44:41+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りの上昇とFRBの利上げ見通しの強気化により、金の魅力が減退している。無利子資産である金は実質金利上昇局面で売却圧力を受けやすく、市場は高金利環境の継続を見込んでいる。金以外のコモディティも金利上昇の影響を受ける可能性がある。"
+  },
+  {
+    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - reuters.com",
+    "timestamp": "2026-09-28T17:44:41+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国債利回りの上昇とFRBの利上げ見通しの強気化により、金の魅力が減退している。無利子資産である金は実質金利上昇局面で売却圧力を受けやすく、市場は高金利環境の継続を見込んでいる。金以外のコモディティも金利上昇の影響を受ける可能性がある。"
   }
 ]
