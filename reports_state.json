@@ -1087,5 +1087,137 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "モンゴルの株式市場がコモディティ好況に支えられ、四半期収益率で世界的なベンチマークを上回るパフォーマンスを記録。同国の銅・金などの鉱物資源への高い依存度を背景に、商品価格の上昇が経済全体の好況を牽引している状況が報じられた。"
+  },
+  {
+    "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-29T21:02:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計で、米国の留出油在庫が引き続き減少する一方、原油在庫は増加している。この相反する動きは需給バランスの不均衡を示唆している。留出油の在庫低下はガソリン需要の堅調さを反映する一方、原油在庫の増加は生産過剰または需要減弱の可能性を示唆。"
+  },
+  {
+    "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-29T21:02:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計で、米国の留出油在庫が引き続き減少する一方、原油在庫は増加している。この相反する動きは需給バランスの不均衡を示唆している。留出油の在庫低下はガソリン需要の堅調さを反映する一方、原油在庫の増加は生産過剰または需要減弱の可能性を示唆。"
+  },
+  {
+    "title": "US Crude Stocks Fall on Strong Refining Activity and Exports, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-30T04:10:19+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の低下を報告。精製活動の強化と石油製品輸出の増加が在庫減少を牽引している。市場予想の範囲内での動きだが、精製需要と輸出好調は原油相場の下値を支える要因となっている。"
+  },
+  {
+    "title": "[MARKET ANALYSIS] Crude remains subdued but as US-Iran negotiations struggle for progress; gold firms as yields ease - Newsquawk",
+    "timestamp": "2026-09-30T08:36:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "原油",
+    "summary": "米国とイランの核協議が進展に苦しむ中、原油は軟調に推移している。一方、米国債利回りが低下する中で金は堅調に推移。マクロ環境の不確実性が両市場に相反する影響を与えている状況。"
+  },
+  {
+    "title": "[MARKET ANALYSIS] Crude remains subdued but as US-Iran negotiations struggle for progress; gold firms as yields ease - Newsquawk",
+    "timestamp": "2026-09-30T08:36:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "米国とイランの核協議が進展に苦しむ中、原油は軟調に推移している。一方、米国債利回りが低下する中で金は堅調に推移。マクロ環境の不確実性が両市場に相反する影響を与えている状況。"
+  },
+  {
+    "title": "Russia: RMK Expands Altai Portfolio, Potential Investment in Copper and Gold Exploration - Agenzia Nova",
+    "timestamp": "2026-09-29T22:22:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "ロシアのRMK（ロスアトム傘下の鉱業企業）がアルタイ地域での銅・金探鉱ポートフォリオを拡大し、新規投資を検討している。地政学的なウクライナ情勢の中でロシア鉱業の再評価を示唆する動きだが、西側制裁の影響を受ける可能性がある。"
+  },
+  {
+    "title": "Russia: RMK Expands Altai Portfolio, Potential Investment in Copper and Gold Exploration - Agenzia Nova",
+    "timestamp": "2026-09-29T22:22:48+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "ロシアのRMK（ロスアトム傘下の鉱業企業）がアルタイ地域での銅・金探鉱ポートフォリオを拡大し、新規投資を検討している。地政学的なウクライナ情勢の中でロシア鉱業の再評価を示唆する動きだが、西側制裁の影響を受ける可能性がある。"
+  },
+  {
+    "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - finance.yahoo.com",
+    "timestamp": "2026-09-30T08:52:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で原油生産目標を据え置く方針。減産・増産いずれの決定も示唆されておらず、市場予想の範囲内。現在の生産政策の継続維持が見込まれる。"
+  },
+  {
+    "title": "OPEC Expected to Keep Oil Production Quotas Unchanged - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-09-30T13:30:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが石油生産割当量を据え置く見通し。市場では既に予想されていた内容で、大きなサプライズはない。現在の減産合意の継続姿勢を示すもので、原油価格への直接的な新規材料は限定的。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
+    "timestamp": "2026-09-28T20:29:01+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がOPECの結束を破壊した可能性があるというReutersアナリスト Boussoの指摘。OPECの減産協調体制の弱体化は原油価格の下押し圧力となる一方、米国の対外政策の不確実性増加がコモディティ市場全体に混合シグナルをもたらす可能性。長期的なOPEC機能低下は供給安定性を損なう。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
+    "timestamp": "2026-09-28T20:29:01+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領がOPECの結束を破壊した可能性があるというReutersアナリスト Boussoの指摘。OPECの減産協調体制の弱体化は原油価格の下押し圧力となる一方、米国の対外政策の不確実性増加がコモディティ市場全体に混合シグナルをもたらす可能性。長期的なOPEC機能低下は供給安定性を損なう。"
+  },
+  {
+    "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - Reuters",
+    "timestamp": "2026-09-30T08:55:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の定例会合で原油生産目標を据え置く見通し。減産や増産による大幅な政策変更は予定されていないもよう。市場では既にこのシナリオが想定されており、サプライズはほぼない状況。"
   }
 ]
