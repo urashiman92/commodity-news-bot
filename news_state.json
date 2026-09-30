@@ -1,49 +1,5 @@
 [
   {
-    "title": "本日（2026年9月28日）の金価格は低迷しており、調整局面にある。長期投資の資金はどこへ向かうのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-09-27T15:01:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が調整局面にあり低迷している状況についての解説記事。長期投資資金の向先に関する考察が含まれている。"
-  },
-  {
-    "title": "金価格は本日9月27日、大幅に下落して取引を終え、買い手は大きな損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-09-27T13:45:48+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月27日に金価格が大幅下落し、買い持ちポジションが損失を被った。ベトナムのメディアによる相場の振り返り記事。具体的な下落理由や数値は記事概要に記載されていない。"
-  },
-  {
-    "title": "1週間の急落を経て、来週の金価格はどうなるだろうか？ - Vietnam.vn",
-    "timestamp": "2026-09-27T12:05:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は1週間で急落した。記事は来週の価格動向について解説・予想している。具体的な材料や根拠が不明であるため、テクニカル分析や市場観測の記事と考えられる。"
-  },
-  {
-    "title": "市場は利回りと原油価格を無視している？ - Moomoo",
-    "timestamp": "2026-09-27T12:21:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "市場が利回りと原油価格の乖離を無視している可能性を指摘する解説記事。具体的な新規情報や市場動向を伝える速報ではなく、アナリストの相場観を述べたもの。"
-  },
-  {
     "title": "ファンド市場ハイライト｜金価格が8月に急反発、関連投資信託の動向は？ - nikkinonline.com",
     "timestamp": "2026-09-27T20:20:31+00:00",
     "importance": 2,
@@ -1648,5 +1604,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物価格が下落傾向にあり、エネルギーコスト低下による企業収益改善期待から株価が値上がりしている。インフレ圧力の緩和と企業利益率向上の好材料。"
+  },
+  {
+    "title": "USDA穀物報告を前にCBOT小麦先物が上昇 執筆 - Investing.com 日本",
+    "timestamp": "2026-09-30T13:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "USDA穀物報告の発表控え、CBOT小麦先物が上昇した。市場は報告内容による供給・需要見通しの変化を織り込もうとしている。"
+  },
+  {
+    "title": "金、過去40年で最大の変動率に迫る - BeInCrypto",
+    "timestamp": "2026-09-30T09:41:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金が過去40年で最大の変動率に近づいている。ボラティリティの高まりを指摘するコメンタリー記事。既に市場で認識されている動きの解説。"
+  },
+  {
+    "title": "中東の石油輸出が回復しても原油先物が高止まりする理由 執筆 - Investing.com 日本",
+    "timestamp": "2026-09-30T12:20:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の石油輸出が回復しているにもかかわらず、原油先物相場が高止まりしている現象を解説する記事。供給増加だけでは価格低下につながらない構造的要因が存在することを指摘。"
+  },
+  {
+    "title": "【ドル/円、今夜の見通し】ドル/円、月末フローで156円台へ下落…原油価格の下落や米利上げ観測後退も重しに、PCEデフレーターに注目＿2026/9/30 - 外為どっとコム",
+    "timestamp": "2026-09-30T07:26:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル/円が月末フローで156円台への下落が見通されている。原油価格の下落や米利上げ観測の後退がドル売り圧力となっている。PCEデフレーター発表が注視される。"
+  },
+  {
+    "title": "日経平均は反発で寄り付く、原油価格下落を好感 ＳＯＸ堅調も追い風に - newsweekjapan.jp",
+    "timestamp": "2026-09-30T00:19:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落が日経平均の反発につながったというマーケット解説。SOX指数の堅調も追い風。既に観測済みの相場動向の事後評論。"
+  },
+  {
+    "title": "原油価格は2％以上下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-30T09:37:15+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が2％以上下落した。ニュースソースがベトナム国内メディアで、詳細な背景情報が不明。既に発生した値動きの事後的な報道と考えられる。"
+  },
+  {
+    "title": "Corn Futures価格はUSX522.88のサポート付近を維持、買い手が直近の上昇分を守る - Traders Union",
+    "timestamp": "2026-09-30T12:53:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がUSX522.88のサポート水準付近で推移している。買い手が直近の上昇分を防衛している状況。テクニカル分析に基づく相場観測。"
+  },
+  {
+    "title": "強気の勢いが買われ過ぎの状況に直面するなか、Soybean Futures価格はUSX1,315のレジスタンスを突破するか？ - Traders Union",
+    "timestamp": "2026-09-30T12:30:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,315のレジスタンスレベルに到達し、買われ過ぎの状況にあるとの技術分析コメント。強気トレンドが継続するか、調整局面に入るかの転換点を指摘している。"
+  },
+  {
+    "title": "【経済フォーカス】借金で蔵を満たす未来対応基金 - 조선일보",
+    "timestamp": "2026-09-30T14:50:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "韓国の経済政策に関する解説記事。銅価格への直接的な影響は限定的。具体的な供給・需要変化の記述がないため、コモディティ投資家にとって実質的な情報価値は低い。"
   }
 ]
