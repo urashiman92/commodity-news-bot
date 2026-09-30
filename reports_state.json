@@ -1428,5 +1428,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロイター調査によると、アナリストが2026年の原油価格見通しを引き上げた。ペルシャ湾地域の供給途絶が長期化する可能性が主因。地政学的リスクが継続するとみられ、来年の原油相場は堅調推移が予想される。"
+  },
+  {
+    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
+    "timestamp": "2026-09-30T12:45:08+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの9月穀物推定値発表を控え、トウモロコシと大豆市場が注視している。WASDE報告書は米国農業市場の重要な価格決定要因であり、作付面積・収穫面積・単収見通しの修正により価格は大きく変動する可能性がある。市場参加者は供給・需要の最新見積もりを待つ段階。"
+  },
+  {
+    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
+    "timestamp": "2026-09-30T12:45:08+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAの9月穀物推定値発表を控え、トウモロコシと大豆市場が注視している。WASDE報告書は米国農業市場の重要な価格決定要因であり、作付面積・収穫面積・単収見通しの修正により価格は大きく変動する可能性がある。市場参加者は供給・需要の最新見積もりを待つ段階。"
+  },
+  {
+    "title": "Corn plunges 20 cents as high USDA stocks stun market - Farm Progress",
+    "timestamp": "2026-09-30T18:33:43+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA発表の穀物在庫統計で予想を上回る高水準の在庫が報告され、トウモロコシ先物が1ブッシェルあたり20セント急落した。市場参加者の強気な供給期待を裏切る形でポジション調整が加速し、大きな売り圧力が発生。"
+  },
+  {
+    "title": "US Corn Ending Stocks Up 35% From Last Year, Soybean Ending Stocks Down 3% - Morning Ag Clips",
+    "timestamp": "2026-09-30T22:43:14+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農務省のCrop Progress発表によると、2024年度トウモロコシの期末在庫は前年比35%増加と大幅な増加を記録した。一方、大豆の期末在庫は前年比3%減少。供給サイドでは穀物過剰感が強まりつつも、大豆は相対的に逼迫している状況が浮き彫りになった。"
+  },
+  {
+    "title": "US Corn Ending Stocks Up 35% From Last Year, Soybean Ending Stocks Down 3% - Morning Ag Clips",
+    "timestamp": "2026-09-30T22:43:14+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農務省のCrop Progress発表によると、2024年度トウモロコシの期末在庫は前年比35%増加と大幅な増加を記録した。一方、大豆の期末在庫は前年比3%減少。供給サイドでは穀物過剰感が強まりつつも、大豆は相対的に逼迫している状況が浮き彫りになった。"
+  },
+  {
+    "title": "OPEC+ expected to keep oil production quotas unchanged - Oil & Gas 360",
+    "timestamp": "2026-09-30T19:50:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が生産枠を据え置く見通し。供給政策の継続安定を示唆し、市場は既に織り込み済みとみられる。急激な減産・増産のサプライズなく、原油価格への直接的な上下圧力は限定的。"
+  },
+  {
+    "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll - reuters.com",
+    "timestamp": "2026-09-30T13:05:39+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロイターポーリングでアナリストが2026年の原油価格予想を引き上げた。理由はペルシャ湾地域の供給途絶が長期化する見通しによるもの。地政学的リスクが当面継続することが価格下支え要因と判断されている。"
   }
 ]
