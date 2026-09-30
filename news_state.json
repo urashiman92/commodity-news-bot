@@ -1,38 +1,5 @@
 [
   {
-    "title": "本日（9月27日）の金価格：金地金は安定しており、週末にかけて世界の金価格は横ばいを維持しました。 - Vietnam.vn",
-    "timestamp": "2026-09-26T23:38:01+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月27日の金価格は安定推移し、週末にかけて世界の金価格は横ばいで推移。特に新たな材料や大きな変動は報告されていない。"
-  },
-  {
-    "title": "本日（9月27日）の燃料価格：世界の原油価格は週末のため取引休止となり、国内価格は据え置きとなります。 - Vietnam.vn",
-    "timestamp": "2026-09-26T23:54:18+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの9月27日（金曜日）の燃料価格は、世界市場が週末で取引休止のため据え置きとなることを報じている。これは定期的で予定通りの動き。"
-  },
-  {
-    "title": "金相場価格デイリーコメント週間まとめ（9/21〜9/25）｜水野崇 - mbp-japan.com",
-    "timestamp": "2026-09-27T01:51:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月21〜25日の金相場週間動向をアナリストが振り返るコメント記事。過去1週間の価格変動を総括した解説。"
-  },
-  {
     "title": "専門家は来週の金価格についてどのような予測を立てているのでしょうか？ - Vietnam.vn",
     "timestamp": "2026-09-27T02:38:04+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのニュースサイトによる金価格予測についての記事。専門家の来週相場見通しをまとめたコメンタリー。具体的な予測内容は不明。"
-  },
-  {
-    "title": "金価格はFRBの金利動向によって変動しており、ゴールドマン・サックスとバーンスタインは同時に価格予測を引き下げた。 - Vietnam.vn",
-    "timestamp": "2026-09-27T02:07:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ゴールドマン・サックスとバーンスタインが金価格の予測を同時に引き下げた。FRBの金利動向が金価格に影響を与えている状況が続いている。アナリスト機関による見方の悪化がシグナル。"
   },
   {
     "title": "本日（9月27日）の金価格：週末にかけて安定。 - Vietnam.vn",
@@ -86,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金小売業者（SJC、バオティンミンチャウ等）の本日の金指輪・金製品価格についての予想記事。地域的な小売価格動向を扱う日次ニュース。"
-  },
-  {
-    "title": "米イラン、ホルムズ海峡交渉が決裂 国際原油価格が時間外取引で100ドル台を回復 - BigGo ファイナンス",
-    "timestamp": "2026-09-26T23:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間のホルムズ海峡交渉が決裂し、地政学的リスク上昇を懸念した買いが入った。時間外取引で原油価格が100ドル台を回復し、供給途絶リスクが価格に織り込まれた。"
   },
   {
     "title": "本日の燃料価格（9月27日）：世界の原油価格は変動の激しい1週間となりました。 - Vietnam.vn",
@@ -1626,5 +1571,192 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で天然ガス、金、小麦、大豆が上昇する一方で原油、ガソリン、銀、トウモロコシが下落。商品ごとに異なる値動きを示している。"
+  },
+  {
+    "title": "【動画】ピクテ・ゴールド｜金価格は「タカ派」を消化し上昇へ ～FOMC後に急落した金価格は、なぜ再び上昇に転じたのか～＜塚本 卓治＞ - ピクテ・ジャパン",
+    "timestamp": "2026-09-30T01:53:06+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FOMC後に急落した金価格が再び上昇に転じた背景を解説。タカ派スタンスの消化と金の防御資産としての需要回復を指摘。短期的な値動きの整理局面と位置付け。"
+  },
+  {
+    "title": "NY金先物は反発、米消費者信頼感指数などの悪化で10月利上げ観測が後退｜FX・為替ニュース - zai.diamond.jp",
+    "timestamp": "2026-09-30T00:04:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米消費者信頼感指数が悪化し、10月利上げ観測が後退。金利低下期待からNY金先物が反発。リスク資産売り・安全資産買いの流れが加速。"
+  },
+  {
+    "title": "金価格、前日比1.6%高の後に安定――原油安が米国債利回り上昇の影響を相殺 執筆 - Investing.com 日本",
+    "timestamp": "2026-09-30T01:14:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は前日比1.6%上昇後に安定。原油安が米国債利回り上昇による下押し圧力を相殺する構図。複数要因が相互作用する相場環境。"
+  },
+  {
+    "title": "金価格の反発力は限定的、専門家はFRBの利上げが重しと警告 - BigGo ファイナンス",
+    "timestamp": "2026-09-30T02:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の上値が限定的であることが指摘されている。FRBの継続的な利上げが金需要の重石となっている可能性が高い。専門家による既知の見通しの再確認的な報道。"
+  },
+  {
+    "title": "金価格、米ドル、金利はいずれも下落した。 - Vietnam.vn",
+    "timestamp": "2026-09-30T02:05:21+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格、米ドル、金利が同時に下落した。金投資家にとって、ドル安は金価格の下支要因となるが、整合性の詳細は記事内容の確認が必要。複合的な市場動向の報告。"
+  },
+  {
+    "title": "金価格が1カ月で9%急落…7週ぶり安値、1,000万ウォン投資で94万ウォン消失 - BigGo ファイナンス",
+    "timestamp": "2026-09-30T00:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1カ月で9%下落し7週ぶりの安値を更新。韓国の投資家を中心に損失確定が進む。ドル高やFRBの利上げ継続観測が重石となっている可能性。"
+  },
+  {
+    "title": "ＷＴＩ原油 - 日本経済新聞",
+    "timestamp": "2026-09-30T01:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本経済新聞によるWTI原油の記事。具体的な価格動向や市場イベントの内容が不明。ニュースリンク先の詳細情報なしでは分析不可。"
+  },
+  {
+    "title": "日経平均は反発で寄り付く、原油価格下落を好感 ＳＯＸ堅調も追い風に - ニューズウィーク日本版",
+    "timestamp": "2026-09-30T00:19:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落が日本株市場で好感され、日経平均が反発で寄り付いた。エネルギーコスト低下による企業利益改善期待が買い材料となった。半導体関連銘柄（SOX）の堅調さも相場の押し上げ要因。"
+  },
+  {
+    "title": "米株2日続落も半導体は逆行高 米原油先物は4%近く急落し90ドル割れ - BigGo ファイナンス",
+    "timestamp": "2026-09-30T01:06:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油先物が90ドル割れまで4%近く急落。米株2日続落の中での売り圧力。半導体は逆行高を示しており、セクター間で値動きが分化。"
+  },
+  {
+    "title": "〔株式・今日の見通し〕小反発＝原油価格下落を好感（３０日） - moomoo.com",
+    "timestamp": "2026-09-29T22:41:25+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の下落が株式市場に好感され、小反発の見通しが示されている。コモディティ市場での下落圧力が継続している状況。"
+  },
+  {
+    "title": "原油先物反発、トランプ氏が対イラン制裁緩和報道を否定 - Infoseek",
+    "timestamp": "2026-09-30T02:01:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイラン制裁緩和報道を否定し、原油先物が反発。制裁継続の可能性が高まり、供給懸念が再燃。"
+  },
+  {
+    "title": "米国株先物が小幅上昇、利回り上昇一服と原油価格の急落を受けて 執筆 - Investing.com 日本",
+    "timestamp": "2026-09-30T00:44:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株先物が小幅上昇した一方、原油価格は急落。米債利回り上昇の一服が株式市場を支えたが、原油の下げ圧力は継続。エネルギーセクターと全体市場の乖離が鮮明。"
+  },
+  {
+    "title": "本日（9月30日）の燃料価格：世界の原油価格は午前中に急落した。 - Vietnam.vn",
+    "timestamp": "2026-09-29T23:50:15+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "9月30日の取引で世界の原油価格が午前中に急落した。ベトナムメディアによる燃料価格の日次報告。既に発生した値動きの記録である。"
+  },
+  {
+    "title": "USX1,305のレジスタンスが引き続き注目される中、Soybean Futuresは安定した推移 - Traders Union",
+    "timestamp": "2026-09-29T16:09:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物は1,305ドルのレジスタンスレベルに注目しながら安定した推移を続けている。テクニカル分析に基づく相場観の提示であり、新たな需給ショックはない。"
+  },
+  {
+    "title": "２９日の主要国際商品市況 - s.kabutan.jp",
+    "timestamp": "2026-09-29T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "29日の主要国際商品市況に関する定期的な相場報告。具体的な価格動向や市場材料の詳細が提示されていない。"
+  },
+  {
+    "title": "２９日の主要国際商品市況 (2026年9月30日掲載) - ライブドアニュース",
+    "timestamp": "2026-09-29T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年9月29日の主要国際商品市況についての定期的な相場レポート。具体的な価格データや市場動向が記事本体に掲載されているが、概要のみからは詳細な内容が判断できない。"
+  },
+  {
+    "title": "２９日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-09-29T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "29日の主要国際商品市況についてのニュース報道。具体的な市況データや価格変動内容が記事概要では不明。コモディティ全般の定期的な市況まとめと見られる。"
   }
 ]
