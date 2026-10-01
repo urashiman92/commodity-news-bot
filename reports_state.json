@@ -1,71 +1,5 @@
 [
   {
-    "title": "Arable Market Report – 28 September 2026 - ahdb.org.uk",
-    "timestamp": "2026-09-28T13:34:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "AHDB（英国農業・園芸開発委員会）による2026年9月28日付の穀物市場レポート。ただし提供されたリンクは実際のレポート内容を表示していないため、具体的な作付面積、収穫予想、在庫データなどの詳細は確認不可。WASDE関連と記載されているが、レポート本文が未入手の状態。"
-  },
-  {
-    "title": "Arable Market Report – 28 September 2026 - ahdb.org.uk",
-    "timestamp": "2026-09-28T13:34:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "AHDB（英国農業・園芸開発委員会）による2026年9月28日付の穀物市場レポート。ただし提供されたリンクは実際のレポート内容を表示していないため、具体的な作付面積、収穫予想、在庫データなどの詳細は確認不可。WASDE関連と記載されているが、レポート本文が未入手の状態。"
-  },
-  {
-    "title": "Arable Market Report – 28 September 2026 - ahdb.org.uk",
-    "timestamp": "2026-09-28T13:34:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "AHDB（英国農業・園芸開発委員会）による2026年9月28日付の穀物市場レポート。ただし提供されたリンクは実際のレポート内容を表示していないため、具体的な作付面積、収穫予想、在庫データなどの詳細は確認不可。WASDE関連と記載されているが、レポート本文が未入手の状態。"
-  },
-  {
-    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
-    "timestamp": "2026-09-28T14:25:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国穀物市場が混合展開となっており、トレーダーはUSDA穀物在庫レポート（Stocks Report）の発表を待機中。このレポートは米国の穀物供給状況を示す重要な指標であり、市場センチメントに大きな影響を与える可能性がある。統計発表前の様子見相場が続いている。"
-  },
-  {
-    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
-    "timestamp": "2026-09-28T14:25:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国穀物市場が混合展開となっており、トレーダーはUSDA穀物在庫レポート（Stocks Report）の発表を待機中。このレポートは米国の穀物供給状況を示す重要な指標であり、市場センチメントに大きな影響を与える可能性がある。統計発表前の様子見相場が続いている。"
-  },
-  {
-    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
-    "timestamp": "2026-09-28T14:25:48+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国穀物市場が混合展開となっており、トレーダーはUSDA穀物在庫レポート（Stocks Report）の発表を待機中。このレポートは米国の穀物供給状況を示す重要な指標であり、市場センチメントに大きな影響を与える可能性がある。統計発表前の様子見相場が続いている。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-09-28T22:04:01.045339+00:00",
     "importance": 2,
@@ -97,83 +31,6 @@
     "source": "USDA NASS公式",
     "commodity": "大豆",
     "summary": "USDA NASSの定期的なCrop Progress報告は、米国主要穀物（トウモロコシ、小麦、大豆）の作付進捗度と圃場状態を週次で発表する統計調査です。具体的な数値がない段階では、前週比での進捗状況が市場予想と乖離していないか、また悪天候による作付遅延の有無が注目されます。季節的に作付シーズンであれば影響度は高まります。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
-    "timestamp": "2026-09-28T15:23:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
-    "timestamp": "2026-09-28T15:23:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
-    "timestamp": "2026-09-28T15:23:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
-    "timestamp": "2026-09-28T15:23:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
-  },
-  {
-    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - Reuters",
-    "timestamp": "2026-09-28T17:44:41+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国債利回りの急上昇と市場のFRB利上げ期待強まりを背景に、金の魅力が減退している。無利子資産である金は、実質金利上昇によって投資家の売却圧力が増加。Treasury利回りの上昇は金の上値を制限する重要な重し。"
-  },
-  {
-    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - Reuters",
-    "timestamp": "2026-09-28T17:44:41+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国債利回りの急上昇と市場のFRB利上げ期待強まりを背景に、金の魅力が減退している。無利子資産である金は、実質金利上昇によって投資家の売却圧力が増加。Treasury利回りの上昇は金の上値を制限する重要な重し。"
-  },
-  {
-    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
-    "timestamp": "2026-09-28T15:42:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去の放出政策で大幅に削減され、現在の歴史的な低水準は供給サイドの逼迫を示唆している。この状況は原油の供給不足リスクを高め、価格上昇圧力となる可能性がある。"
   },
   {
     "title": "Oil prices rise for second session on continued Middle East supply concern - Reuters",
@@ -418,39 +275,6 @@
     "summary": "米国の湿潤な収穫状況が大豆加工業者を圧迫している。収穫の遅延と品質低下により、加工業者の原料調達が困難化。穀物在庫統計（WASDE関連）発表が控える中、供給逼迫懸念が高まっている。"
   },
   {
-    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
-    "timestamp": "2026-09-28T18:08:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの穀物在庫レポート発表を控えて、穀物市場が混合相場となっている。トレーダーは米国の小麦、トウモロコシ、大豆の期末在庫数字を注視しており、在庫統計が市場の方向性を左右する可能性が高い。"
-  },
-  {
-    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
-    "timestamp": "2026-09-28T18:08:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの穀物在庫レポート発表を控えて、穀物市場が混合相場となっている。トレーダーは米国の小麦、トウモロコシ、大豆の期末在庫数字を注視しており、在庫統計が市場の方向性を左右する可能性が高い。"
-  },
-  {
-    "title": "Grain Markets Mixed as Traders Await USDA Stocks Report - Farms.com",
-    "timestamp": "2026-09-28T18:08:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの穀物在庫レポート発表を控えて、穀物市場が混合相場となっている。トレーダーは米国の小麦、トウモロコシ、大豆の期末在庫数字を注視しており、在庫統計が市場の方向性を左右する可能性が高い。"
-  },
-  {
     "title": "USDA Crop Progress Report September 28, 2026: Corn, Soybean Harvest Update - News and Statistics - IndexBox",
     "timestamp": "2026-09-28T20:20:49+00:00",
     "importance": 2,
@@ -570,28 +394,6 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "アイオワ州での9月の降雨により、農家の収穫作業が予定より遅延している。湿潤な気象条件が続くことで、トウモロコシと大豆の収穫進捗が滞っており、作業効率の低下とポストハーベスト損失（カビ、品質低下）のリスクが高まっている。9月末の天候改善が期待されるが、遅延による在庫圧力への懸念。"
-  },
-  {
-    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - reuters.com",
-    "timestamp": "2026-09-28T17:44:41+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国債利回りの上昇とFRBの利上げ見通しの強気化により、金の魅力が減退している。無利子資産である金は実質金利上昇局面で売却圧力を受けやすく、市場は高金利環境の継続を見込んでいる。金以外のコモディティも金利上昇の影響を受ける可能性がある。"
-  },
-  {
-    "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - reuters.com",
-    "timestamp": "2026-09-28T17:44:41+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国債利回りの上昇とFRBの利上げ見通しの強気化により、金の魅力が減退している。無利子資産である金は実質金利上昇局面で売却圧力を受けやすく、市場は高金利環境の継続を見込んでいる。金以外のコモディティも金利上昇の影響を受ける可能性がある。"
   },
   {
     "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - Dakota News Network",
@@ -1494,5 +1296,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "銅相場は安定推移。中国の連休期間中、市場の焦点は供給動向に集中している。需要面での不透明性がある中、供給サイドの状況が価格形成の主要ファクターとなっている。典型的な需給バランス確認期間での値動き制限的な展開が想定される。"
+  },
+  {
+    "title": "OPEC+ likely to keep November output targets steady at Sunday meeting, sources tell Reuters - Oil & Gas Middle East",
+    "timestamp": "2026-10-01T05:25:32+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で11月の生産目標を据え置く見通し。複数の情報筋がロイターに語った。減産深掘りや増産の動きはなく、現状維持の方針が示唆される。市場は既にこの結果を織り込んでいる可能性が高い。"
+  },
+  {
+    "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields - Reuters",
+    "timestamp": "2026-10-01T15:59:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りが急上昇している環境下でも、金は上昇余地があると指摘するレポート。金の現物プレミアム（スポット価格と先物の価格差）が根強く維持されており、通常は逆風となる米国債利回りの上昇を相殺する可能性がある。中央銀行による購買需要や地政学的リスク回避が下支えしている。"
+  },
+  {
+    "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields - Reuters",
+    "timestamp": "2026-10-01T15:59:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国債利回りが急上昇している環境下でも、金は上昇余地があると指摘するレポート。金の現物プレミアム（スポット価格と先物の価格差）が根強く維持されており、通常は逆風となる米国債利回りの上昇を相殺する可能性がある。中央銀行による購買需要や地政学的リスク回避が下支えしている。"
+  },
+  {
+    "title": "Chinese refiners suspend October fuel exports to bolster stocks, sources say - Reuters",
+    "timestamp": "2026-10-01T04:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国の精油所が10月の燃料輸出を停止し、国内在庫積み増しに方針転換。原油需要の先延ばし効果により、短期的には原油価格に下押し圧力が生じる可能性がある。中国の石油需要管理の変化は世界市場の需給バランスに影響を及ぼす。"
   }
 ]
