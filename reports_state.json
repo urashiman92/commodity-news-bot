@@ -66,39 +66,6 @@
     "summary": "米国穀物市場が混合展開となっており、トレーダーはUSDA穀物在庫レポート（Stocks Report）の発表を待機中。このレポートは米国の穀物供給状況を示す重要な指標であり、市場センチメントに大きな影響を与える可能性がある。統計発表前の様子見相場が続いている。"
   },
   {
-    "title": "OPEC Monthly Oil Market Report, September 2026 - Seeking Alpha",
-    "timestamp": "2026-09-28T09:55:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC 9月月次報告書。定期的な市場分析・需給見通しの更新。具体的な減産調整や生産量の大幅変更の情報が含まれているかは報道リンク先での確認が必要。通常、OPECの月次報告は市場予想の範囲内での数値更新が多い。"
-  },
-  {
-    "title": "Russian oil supply to India tightens on reduced exports, strong Chinese demand - Reuters",
-    "timestamp": "2026-09-28T10:27:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油輸出が減少し、インドへの供給が逼迫している。中国の需要が依然として堅調であり、ロシアの限定的な輸出能力が中国向けにシフトしている状況。インド向け供給の競争激化とタイト化が進行中。"
-  },
-  {
-    "title": "Saudi Arabia’s Key Oil Pipeline Starts Exports After Repairs - Bloomberg.com",
-    "timestamp": "2026-09-28T12:47:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの主要石油パイプラインが修理完了後に輸出を再開した。同パイプラインは中東からの原油供給における重要な流通経路であり、修理期間中は供給制約要因となっていた。輸出再開により供給懸念が緩和され、原油相場に上昇圧力がかかる見通し。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-09-28T22:04:01.045339+00:00",
     "importance": 2,
@@ -130,50 +97,6 @@
     "source": "USDA NASS公式",
     "commodity": "大豆",
     "summary": "USDA NASSの定期的なCrop Progress報告は、米国主要穀物（トウモロコシ、小麦、大豆）の作付進捗度と圃場状態を週次で発表する統計調査です。具体的な数値がない段階では、前週比での進捗状況が市場予想と乖離していないか、また悪天候による作付遅延の有無が注目されます。季節的に作付シーズンであれば影響度は高まります。"
-  },
-  {
-    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
-    "timestamp": "2026-09-28T06:18:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
-  },
-  {
-    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
-    "timestamp": "2026-09-28T06:18:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
-  },
-  {
-    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
-    "timestamp": "2026-09-28T06:18:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
-  },
-  {
-    "title": "USDA to Wrap 2025-26 Years With Another Look at Stocks, Production - dtnpf.com",
-    "timestamp": "2026-09-28T06:18:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2025-26年度の穀物見通しを再評価する定期発表。在庫および生産量の最新推計値が発表予定。市場が織り込んでいる供給見通しが修正される可能性がある。"
   },
   {
     "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, September 28, 2026 - RFD-TV",
@@ -218,39 +141,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "2026年9月28日のRFD-TV週間作物進捗・畜産生産更新レポート。米国の主要穀物（トウモロコシ、大豆、小麦）および畜産部門の定期進捗状況を報告。具体的な数値やデータが記事本文に含まれていないため、市場への影響度は限定的と考えられる。"
-  },
-  {
-    "title": "Top 5 Things to Watch: Grain Stocks Numbers Hit While China Trade News Looms - dtnpf.com",
-    "timestamp": "2026-09-28T11:29:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国穀物在庫統計の発表が迫っており、市場では穀物価格への影響が注視されている。同時に中国との貿易交渉の動向が不確実性をもたらしており、大豆を含む穀物市場全体が注視される状況。中国の穀物輸入需要は米国産穀物の重要な需要源となっているため、貿易ニュースの展開が価格を大きく左右する可能性がある。"
-  },
-  {
-    "title": "Top 5 Things to Watch: Grain Stocks Numbers Hit While China Trade News Looms - dtnpf.com",
-    "timestamp": "2026-09-28T11:29:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国穀物在庫統計の発表が迫っており、市場では穀物価格への影響が注視されている。同時に中国との貿易交渉の動向が不確実性をもたらしており、大豆を含む穀物市場全体が注視される状況。中国の穀物輸入需要は米国産穀物の重要な需要源となっているため、貿易ニュースの展開が価格を大きく左右する可能性がある。"
-  },
-  {
-    "title": "Top 5 Things to Watch: Grain Stocks Numbers Hit While China Trade News Looms - dtnpf.com",
-    "timestamp": "2026-09-28T11:29:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国穀物在庫統計の発表が迫っており、市場では穀物価格への影響が注視されている。同時に中国との貿易交渉の動向が不確実性をもたらしており、大豆を含む穀物市場全体が注視される状況。中国の穀物輸入需要は米国産穀物の重要な需要源となっているため、貿易ニュースの展開が価格を大きく左右する可能性がある。"
   },
   {
     "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - Reuters",
@@ -284,28 +174,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去の放出政策で大幅に削減され、現在の歴史的な低水準は供給サイドの逼迫を示唆している。この状況は原油の供給不足リスクを高め、価格上昇圧力となる可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 18% Harvested, Soybeans 17% Harvested as of Sept. 27 - dtnpf.com",
-    "timestamp": "2026-09-28T09:32:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月27日時点のCrop Progress報告を発表。トウモロコシの収穫が18%、大豆が17%と、いずれも平年を下回る進捗状況。秋の天候による収穫遅延が継続中であり、収穫完了までの気象リスクが価格下押し要因になる可能性。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 18% Harvested, Soybeans 17% Harvested as of Sept. 27 - dtnpf.com",
-    "timestamp": "2026-09-28T09:32:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが9月27日時点のCrop Progress報告を発表。トウモロコシの収穫が18%、大豆が17%と、いずれも平年を下回る進捗状況。秋の天候による収穫遅延が継続中であり、収穫完了までの気象リスクが価格下押し要因になる可能性。"
   },
   {
     "title": "Oil prices rise for second session on continued Middle East supply concern - Reuters",
@@ -790,17 +658,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ価格が軟調に推移。トレーダーがUSDA報告書の発表を控えてポジション調整（スクエアリング）を進めている。USDA報告書は作付面積・生産量予想が市場に大きな影響を与える重要な定期統計であり、発表前のボラティリティが高まっている状況。"
-  },
-  {
-    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow",
-    "timestamp": "2026-09-28T12:30:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の増産決定は現在のところ市場への即座の影響は限定的とされるが、将来的には価格形成に寄与する可能性がある。アナリスト(Russell)による解説であり、需給バランスや供給量の実際の市場投入までのタイムラグを指摘している。"
   },
   {
     "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
@@ -1527,5 +1384,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "チリの銅生産量が15年以上ぶりの低水準に落ち込んだ。同国は世界最大の銅生産国であり、供給減少は銅市場全体に大きな上昇圧力をもたらす。鉱山の老朽化、水不足、労働争議などが要因と考えられ、構造的な供給制約が顕在化している。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-09-30T17:33:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが発表した週間在庫統計で、米国の原油とガソリン在庫が前週比で低下した。強い需要が在庫減少の主因とされている。需要増加は石油製品の価格支持材料となり得る。"
+  },
+  {
+    "title": "EIA reports a rise in US crude oil stocks - engine.online",
+    "timestamp": "2026-10-01T08:31:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告した。在庫積増は供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす。ただし具体的な在庫増加量や前週比データが示されていないため、マーケット反応の大きさは不確定。"
+  },
+  {
+    "title": "EIA: US crude stocks rose again as refinery runs tumble further - Quantum Commodity Intelligence",
+    "timestamp": "2026-09-30T16:16:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAが原油在庫の増加を報告。同時に精製所稼働率が低下していることが確認された。在庫増加と精製所操業率の低迷は供給過剰圧力を示唆しており、原油価格への下押し要因となる。季節的な需要減退局面における典型的なパターン。"
+  },
+  {
+    "title": "EIA: US crude stocks rose again as refinery runs tumble further - Quantum Commodity Intelligence",
+    "timestamp": "2026-09-30T16:16:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国EIAが原油在庫の増加を報告。同時に精製所稼働率が低下していることが確認された。在庫増加と精製所操業率の低迷は供給過剰圧力を示唆しており、原油価格への下押し要因となる。季節的な需要減退局面における典型的なパターン。"
+  },
+  {
+    "title": "Brent declines after EIA reports surprise build in US crude stocks - engine.online",
+    "timestamp": "2026-10-01T10:16:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが発表した米国原油在庫統計で予想外の在庫増加が報告され、Brent原油が下落した。市場はガソリンやディーゼルの需要低迷や供給過剰を懸念し、価格圧力が強まっている。定期統計であるが、サプライズ性により市場反応は限定的ではない。"
+  },
+  {
+    "title": "USDA Quarterly Stocks Holds Bearish Surprise for Corn - AgWeb",
+    "timestamp": "2026-10-01T12:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA四半期在庫統計がトウモロコシについて市場予想を上回る弱気のサプライズをもたらした。在庫が予想より多く積み上がっていることが確認され、供給過剰感が強まった。この結果、トウモロコシ価格への下押し圧力が強まり、市場センチメントが悪化する可能性が高い。"
+  },
+  {
+    "title": "Gold gains as cooler US inflation data counters higher Treasury yields - Reuters",
+    "timestamp": "2026-10-01T04:48:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国インフレデータが予想より低かったことで金が上昇した。低インフレは金利低下圧力をもたらす一方、米国債利回りの上昇が金の利回り非保有資産としての魅力を減少させるという相反する要因が存在する。金価格はこれら二つの力学の綱引きの中で推移している。"
+  },
+  {
+    "title": "Gold gains as cooler US inflation data counters higher Treasury yields - Reuters",
+    "timestamp": "2026-10-01T04:48:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国インフレデータが予想より低かったことで金が上昇した。低インフレは金利低下圧力をもたらす一方、米国債利回りの上昇が金の利回り非保有資産としての魅力を減少させるという相反する要因が存在する。金価格はこれら二つの力学の綱引きの中で推移している。"
+  },
+  {
+    "title": "Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com",
+    "timestamp": "2026-10-01T10:52:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅相場は安定推移。中国の連休期間中、市場の焦点は供給動向に集中している。需要面での不透明性がある中、供給サイドの状況が価格形成の主要ファクターとなっている。典型的な需給バランス確認期間での値動き制限的な展開が想定される。"
+  },
+  {
+    "title": "Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com",
+    "timestamp": "2026-10-01T10:52:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "銅相場は安定推移。中国の連休期間中、市場の焦点は供給動向に集中している。需要面での不透明性がある中、供給サイドの状況が価格形成の主要ファクターとなっている。典型的な需給バランス確認期間での値動き制限的な展開が想定される。"
   }
 ]
