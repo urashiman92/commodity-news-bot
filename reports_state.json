@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil prices rise for second session on continued Middle East supply concern - Reuters",
-    "timestamp": "2026-09-29T00:33:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東のサプライ懸念を背景に、原油価格が2日連続で上昇した。地政学的リスク要因により需給不均衡が継続し、市場の供給サイドへの警戒感が強まっている。具体的な数値は記事タイトルに示されていないが、継続的な上昇トレンドが形成されている。"
-  },
-  {
-    "title": "Oil Extends Gain as Iran Uncertainty Outweighs Saudi Pipe Return - Bloomberg.com",
-    "timestamp": "2026-09-29T00:14:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イランの政治的不確実性が供給リスクプレミアムとなり、原油価格の上昇を支援している。一方でサウジアラビアのパイプライン復旧による供給増加は上昇圧力を緩和する要因として作用。地政学的リスク要因がファンダメンタルズを上回り、短期的には上昇相場が継続する可能性が高い。"
-  },
-  {
     "title": "Saudi resumes Yanbu oil loading after pipeline restart - Reuters",
     "timestamp": "2026-09-29T06:35:00+00:00",
     "importance": 3,
@@ -31,39 +9,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがヤンブ石油ターミナルでの原油積み込みを再開した。パイプライン再起動により、同国の主要輸出施設が正常化。中東発の供給懸念が一部緩和される一方、サプライチェーン正常化の兆しとして市場が反応。"
-  },
-  {
-    "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms - Reuters",
-    "timestamp": "2026-09-29T01:57:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米ドルが2ヶ月ぶりの高値圏を堅持する中、原油価格上昇と米国債利回り上昇が支援要因となっている。雇用統計発表を控え、市場は米国の金利政策方向性に注視している。ドル強化は金などドル建てコモディティの下落圧力となる一方、原油など商品価格との相互作用に注目。"
-  },
-  {
-    "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms - Reuters",
-    "timestamp": "2026-09-29T01:57:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米ドルが2ヶ月ぶりの高値圏を堅持する中、原油価格上昇と米国債利回り上昇が支援要因となっている。雇用統計発表を控え、市場は米国の金利政策方向性に注視している。ドル強化は金などドル建てコモディティの下落圧力となる一方、原油など商品価格との相互作用に注目。"
-  },
-  {
-    "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms - Reuters",
-    "timestamp": "2026-09-29T01:57:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米ドルが2ヶ月ぶりの高値圏を堅持する中、原油価格上昇と米国債利回り上昇が支援要因となっている。雇用統計発表を控え、市場は米国の金利政策方向性に注視している。ドル強化は金などドル建てコモディティの下落圧力となる一方、原油など商品価格との相互作用に注目。"
   },
   {
     "title": "Soybean harvest takes a sluggish step forward - Farm Progress",
@@ -119,39 +64,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が9月からの原油生産目標の再引き上げを検討している見通し。複数の関係筋の報道により、段階的な増産路線が継続される可能性が高まった。市場では既に増産シナリオが部分的に織り込まれている段階での観測報道。"
-  },
-  {
-    "title": "Tech stocks gain on Anthropic IPO optimism, offsetting high oil, yields - Reuters",
-    "timestamp": "2026-09-29T02:08:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Anthropic IPO期待がテック株を買い支える一方で、原油価格の堅調と米国債利回り上昇がコモディティ市場に混合シグナルを発している。高い利回り環境は金などの無利子資産に下落圧力をかける一方、原油は需要見通しの改善期待が支えている。"
-  },
-  {
-    "title": "Tech stocks gain on Anthropic IPO optimism, offsetting high oil, yields - Reuters",
-    "timestamp": "2026-09-29T02:08:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "Anthropic IPO期待がテック株を買い支える一方で、原油価格の堅調と米国債利回り上昇がコモディティ市場に混合シグナルを発している。高い利回り環境は金などの無利子資産に下落圧力をかける一方、原油は需要見通しの改善期待が支えている。"
-  },
-  {
-    "title": "Tech stocks gain on Anthropic IPO optimism, offsetting high oil, yields - Reuters",
-    "timestamp": "2026-09-29T02:08:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "Anthropic IPO期待がテック株を買い支える一方で、原油価格の堅調と米国債利回り上昇がコモディティ市場に混合シグナルを発している。高い利回り環境は金などの無利子資産に下落圧力をかける一方、原油は需要見通しの改善期待が支えている。"
   },
   {
     "title": "Rupiah breaches 18,000/dlr for first time since August on rising yields, oil - Reuters",
@@ -1263,5 +1175,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が追加的な原油生産増加を承認し、ホルムズ海峡経由の輸出が回復局面を迎えている。同地域の地政学的リスク緩和とサプライチェーン正常化により、原油市場の供給懸念が一部緩和される見通し。既定路線の増産継続と判断される。"
+  },
+  {
+    "title": "Oil treads water as market weighs mixed supply signals - Reuters",
+    "timestamp": "2026-10-02T01:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油市場は供給シグナルの混在を受けて方向感を欠いている。市場参加者は増産と減産の相反する要因のバランスを計量中。供給見通しの不確実性が価格の底堅さと天井を同時に形成している状況。"
+  },
+  {
+    "title": "Gold Steadies as Easing US Bond Yields Reduce Rate-Hike Bets - Bloomberg.com",
+    "timestamp": "2026-10-02T00:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りが低下し利上げ予想が減少する中、金が堅調推移している。金利低下は無利子資産である金の相対的な魅力を高め、買い支え要因となっている。米金融政策の緩和方向シフトが背景。"
+  },
+  {
+    "title": "Gold Steadies as Easing US Bond Yields Reduce Rate-Hike Bets - Bloomberg.com",
+    "timestamp": "2026-10-02T00:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国債利回りが低下し利上げ予想が減少する中、金が堅調推移している。金利低下は無利子資産である金の相対的な魅力を高め、買い支え要因となっている。米金融政策の緩和方向シフトが背景。"
   }
 ]
