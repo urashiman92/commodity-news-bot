@@ -1,82 +1,5 @@
 [
   {
-    "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - americanagnetwork.com",
-    "timestamp": "2026-09-29T20:18:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国の湿潤な収穫状況が大豆加工業者を圧迫している。収穫の遅延と品質低下により、加工業者の原料調達が困難化。穀物在庫統計（WASDE関連）発表が控える中、供給逼迫懸念が高まっている。"
-  },
-  {
-    "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - americanagnetwork.com",
-    "timestamp": "2026-09-29T20:18:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国の湿潤な収穫状況が大豆加工業者を圧迫している。収穫の遅延と品質低下により、加工業者の原料調達が困難化。穀物在庫統計（WASDE関連）発表が控える中、供給逼迫懸念が高まっている。"
-  },
-  {
-    "title": "U.S. grain markets turn mixed as traders await key USDA stocks report - agrolatam.com",
-    "timestamp": "2026-09-29T21:25:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国穀物市場が混合動向を示しており、トレーダーがUSDA在庫報告書の発表を待機している。穀物市場は在庫統計の内容次第で方向性が決まる局面にある。"
-  },
-  {
-    "title": "U.S. grain markets turn mixed as traders await key USDA stocks report - agrolatam.com",
-    "timestamp": "2026-09-29T21:25:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国穀物市場が混合動向を示しており、トレーダーがUSDA在庫報告書の発表を待機している。穀物市場は在庫統計の内容次第で方向性が決まる局面にある。"
-  },
-  {
-    "title": "U.S. grain markets turn mixed as traders await key USDA stocks report - agrolatam.com",
-    "timestamp": "2026-09-29T21:25:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国穀物市場が混合動向を示しており、トレーダーがUSDA在庫報告書の発表を待機している。穀物市場は在庫統計の内容次第で方向性が決まる局面にある。"
-  },
-  {
-    "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - Dakota News Network",
-    "timestamp": "2026-09-29T22:30:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国の湿潤な収穫状況が大豆加工業者に圧力をかけており、穀物在庫レポート公表前の需給逼迫懸念が浮上。収穫遅延による処理能力の低下と在庫積上げ困難が、大豆およびトウモロコシの在庫統計発表への注視を強める。"
-  },
-  {
-    "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - Dakota News Network",
-    "timestamp": "2026-09-29T22:30:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国の湿潤な収穫状況が大豆加工業者に圧力をかけており、穀物在庫レポート公表前の需給逼迫懸念が浮上。収穫遅延による処理能力の低下と在庫積上げ困難が、大豆およびトウモロコシの在庫統計発表への注視を強める。"
-  },
-  {
     "title": "U.S. sugar supply faces uncertainty from drought, pests - Farm Progress",
     "timestamp": "2026-09-30T02:45:21+00:00",
     "importance": 3,
@@ -108,17 +31,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "米国の砂糖生産が干ばつと害虫の被害により不確実性に直面している。供給リスクの増加は砂糖価格の上昇圧力につながる可能性が高い。ただし具体的な減産幅の数値が記事には示されていない。穀物全般にも同様の気象リスクが波及する懸念がある。"
-  },
-  {
-    "title": "Corn Slips Lower as Traders Square Up Ahead of USDA Report - tradingview.com",
-    "timestamp": "2026-09-29T22:22:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ価格が軟調に推移。トレーダーがUSDA報告書の発表を控えてポジション調整（スクエアリング）を進めている。USDA報告書は作付面積・生産量予想が市場に大きな影響を与える重要な定期統計であり、発表前のボラティリティが高まっている状況。"
   },
   {
     "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
@@ -198,28 +110,6 @@
     "summary": "モンゴルの株式市場がコモディティ好況に支えられ、四半期収益率で世界的なベンチマークを上回るパフォーマンスを記録。同国の銅・金などの鉱物資源への高い依存度を背景に、商品価格の上昇が経済全体の好況を牽引している状況が報じられた。"
   },
   {
-    "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-29T21:02:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計で、米国の留出油在庫が引き続き減少する一方、原油在庫は増加している。この相反する動きは需給バランスの不均衡を示唆している。留出油の在庫低下はガソリン需要の堅調さを反映する一方、原油在庫の増加は生産過剰または需要減弱の可能性を示唆。"
-  },
-  {
-    "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-09-29T21:02:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計で、米国の留出油在庫が引き続き減少する一方、原油在庫は増加している。この相反する動きは需給バランスの不均衡を示唆している。留出油の在庫低下はガソリン需要の堅調さを反映する一方、原油在庫の増加は生産過剰または需要減弱の可能性を示唆。"
-  },
-  {
     "title": "US Crude Stocks Fall on Strong Refining Activity and Exports, EIA Says - EnergyNow.com",
     "timestamp": "2026-09-30T04:10:19+00:00",
     "importance": 2,
@@ -251,28 +141,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "金",
     "summary": "米国とイランの核協議が進展に苦しむ中、原油は軟調に推移している。一方、米国債利回りが低下する中で金は堅調に推移。マクロ環境の不確実性が両市場に相反する影響を与えている状況。"
-  },
-  {
-    "title": "Russia: RMK Expands Altai Portfolio, Potential Investment in Copper and Gold Exploration - Agenzia Nova",
-    "timestamp": "2026-09-29T22:22:48+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "ロシアのRMK（ロスアトム傘下の鉱業企業）がアルタイ地域での銅・金探鉱ポートフォリオを拡大し、新規投資を検討している。地政学的なウクライナ情勢の中でロシア鉱業の再評価を示唆する動きだが、西側制裁の影響を受ける可能性がある。"
-  },
-  {
-    "title": "Russia: RMK Expands Altai Portfolio, Potential Investment in Copper and Gold Exploration - Agenzia Nova",
-    "timestamp": "2026-09-29T22:22:48+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "ロシアのRMK（ロスアトム傘下の鉱業企業）がアルタイ地域での銅・金探鉱ポートフォリオを拡大し、新規投資を検討している。地政学的なウクライナ情勢の中でロシア鉱業の再評価を示唆する動きだが、西側制裁の影響を受ける可能性がある。"
   },
   {
     "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - finance.yahoo.com",
@@ -317,17 +185,6 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "USDA最新WASDEレポートで、トウモロコシの期末在庫が市場予想を上回る水準で計上された。供給量が事前予想より多いことが示唆され、価格下押し圧力が生じる可能性が高い。在庫の増加は穀物市場全体のバランスシート緩和を意味する。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-29T22:49:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが先週の米国原油在庫が強い需要により減少したと報告。在庫の低下は原油需給の引き締まりを示唆し、価格支持要因となる。ガソリン在庫も同様に減少しており、米国エネルギー需要の堅調さが確認された。"
   },
   {
     "title": "US EIA Crude Oil Stocks Change (Sep/25) 0.922M vs. Exp. -0.3M (Prev. 2.969M) - Newsquawk",
@@ -680,39 +537,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDAのWASDEレポートで旧作大豆在庫（Old crop soybean stocks）が前月比3%減少したことが報告された。在庫水準の低下は需給引き締まりを示唆し、大豆価格に対する上昇圧力となる。バイオディーゼル産業への影響も注視される。"
-  },
-  {
-    "title": "USDA Crop Progress Report September 28, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-09-29T18:50:28+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress Report（9月28日）はトウモロコシ・大豆・綿花の収穫進捗状況を報告する定期統計。秋の収穫時期を迎えた米国農産物の進捗度合いは、供給予測や在庫動向に直結する。具体的な進捗率や収穫面積データは価格形成に影響するが、予想比の詳細が不明なため現時点では中立評価。"
-  },
-  {
-    "title": "USDA Crop Progress Report September 28, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-09-29T18:50:28+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress Report（9月28日）はトウモロコシ・大豆・綿花の収穫進捗状況を報告する定期統計。秋の収穫時期を迎えた米国農産物の進捗度合いは、供給予測や在庫動向に直結する。具体的な進捗率や収穫面積データは価格形成に影響するが、予想比の詳細が不明なため現時点では中立評価。"
-  },
-  {
-    "title": "USDA Crop Progress Report September 28, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-09-29T18:50:28+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA Crop Progress Report（9月28日）はトウモロコシ・大豆・綿花の収穫進捗状況を報告する定期統計。秋の収穫時期を迎えた米国農産物の進捗度合いは、供給予測や在庫動向に直結する。具体的な進捗率や収穫面積データは価格形成に影響するが、予想比の詳細が不明なため現時点では中立評価。"
   },
   {
     "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
@@ -1208,5 +1032,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの主要製油所とパイプラインハブを攻撃。ロシアの石油精製インフラへの直撃は欧州市場への供給不安を引き起こし、原油価格の上昇圧力となる。地政学リスクの急速な顕在化により市場は敏感に反応する見込み。"
+  },
+  {
+    "title": "Corn and Soybeans Slide as Harvest Pressure Builds Ahead of WASDE - AgroLatam",
+    "timestamp": "2026-10-02T21:00:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシと大豆が収穫圧力の高まりを受けて売られている。WASDE発表を控え、市場は収穫期の供給増加を織り込んでいる。季節的な収穫時期の作物供給増加が価格下落をもたらしている。"
+  },
+  {
+    "title": "Corn and Soybeans Slide as Harvest Pressure Builds Ahead of WASDE - AgroLatam",
+    "timestamp": "2026-10-02T21:00:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "トウモロコシと大豆が収穫圧力の高まりを受けて売られている。WASDE発表を控え、市場は収穫期の供給増加を織り込んでいる。季節的な収穫時期の作物供給増加が価格下落をもたらしている。"
+  },
+  {
+    "title": "Corn sells off after USDA quarterly stocks data - Brownfield Ag News",
+    "timestamp": "2026-10-01T01:29:23+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA四半期在庫データ公表後、トウモロコシが売り圧力を受けて下落した。四半期ベースの在庫統計は定期発表であり、市場がこのデータに対して在庫が予想より多かった、または需要見通しが弱かったと解釈した可能性が高い。価格反応から市場コンセンサスからの乖離が生じたと考えられる。"
   }
 ]
