@@ -1,126 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4181ドル｜前日の大幅下落により、底値を狙った買いの動きが出た模様(2026年9月30日) - OANDA証券",
-    "timestamp": "2026-09-29T23:05:28+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は4181ドルまで上昇した。前日の大幅下落後、底値を狙った買い戻し需要により反発した。短期的な技術的反動相場の性質が強い。"
-  },
-  {
-    "title": "本日（9月30日）の金価格：専門家は、下降傾向にもかかわらず上昇を予測している。 - vietnam.vn",
-    "timestamp": "2026-09-29T22:06:57+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は現在下降傾向にあるものの、専門家は中長期的な上昇を予測している。市場の短期的な弱気相場と長期的な強気見通しの乖離が示唆されている。"
-  },
-  {
-    "title": "9月30日朝の金価格更新:世界の金価格は期待指数の影響を受ける - Laodong.vn",
-    "timestamp": "2026-09-29T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "9月30日朝時点の金価格動向についての日次更新。世界的な期待指数（市場心理指標）が価格に影響を与えている状況を報じている。具体的な価格変動幅や主要な経済指標の発表は記事から不明。"
-  },
-  {
-    "title": "原油先物2％超下落、中東供給回復の兆しで 月間では上昇 - Reuters",
-    "timestamp": "2026-09-29T20:38:27+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が2%超下落。中東供給の回復兆候が売り圧力となった。ただし月間では上昇基調を維持している状況。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：中東の原油供給が回復傾向にあるとの見通しで、原油価格は下落（2026年9月30日） - OANDA証券",
-    "timestamp": "2026-09-29T23:15:03+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東の原油供給が回復傾向にあるとの見通しが報道された。供給増加予想は需給緩和を示唆し、原油価格の下落要因となっている。市場では既に想定範囲内の展開と考えられる。"
-  },
-  {
-    "title": "原油先物2％超下落、中東供給回復の兆しで 月間では上昇 - ニューズウィーク日本版",
-    "timestamp": "2026-09-29T20:38:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が日次では2%超下落。中東供給の回復期待が売り要因。ただし月間ベースでは上昇基調が継続している相場の調整局面。"
-  },
-  {
-    "title": "原油先物2％超下落、中東供給回復の兆しで　月間では上昇 - ｄメニューニュース",
-    "timestamp": "2026-09-29T20:45:25+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が日中2%超下落。中東の供給回復見通しが売却圧力となった。月間ベースでは上昇で推移している。"
-  },
-  {
-    "title": "原油先物2％超下落、中東供給回復の兆しで 月間では上昇 - Infoseek",
-    "timestamp": "2026-09-29T20:38:08+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が日中2%超下落。中東地域の供給回復期待が売り圧力。ただし月間ベースでは上昇維持。"
-  },
-  {
-    "title": "爆速！３年使った神回線 Auひかり10ギガ [超猫拳] Copper Price (H9Bac3BCzq) - Unisba Media",
-    "timestamp": "2026-09-29T20:15:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "AU光の10ギガ回線に関する利用者体験記事。通信インフラの話題であり、銅市場への直接的な影響はない。"
-  },
-  {
-    "title": "２９日の主要国際商品市況 - 株探",
-    "timestamp": "2026-09-29T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "29日の主要国際商品市況に関する日報。具体的な価格変動や市場イベントの詳細が記事本文から確認できない。定期的な市場レビュー記事と推定。"
-  },
-  {
-    "title": "米コモディティー市場－天然ガス、金、小麦、大豆が上昇 原油、ガソリン、銀、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-09-29T22:32:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で天然ガス、金、小麦、大豆が上昇する一方で原油、ガソリン、銀、トウモロコシが下落。商品ごとに異なる値動きを示している。"
-  },
-  {
     "title": "【動画】ピクテ・ゴールド｜金価格は「タカ派」を消化し上昇へ ～FOMC後に急落した金価格は、なぜ再び上昇に転じたのか～＜塚本 卓治＞ - ピクテ・ジャパン",
     "timestamp": "2026-09-30T01:53:06+00:00",
     "importance": 2,
@@ -220,17 +99,6 @@
     "summary": "米原油先物が90ドル割れまで4%近く急落。米株2日続落の中での売り圧力。半導体は逆行高を示しており、セクター間で値動きが分化。"
   },
   {
-    "title": "〔株式・今日の見通し〕小反発＝原油価格下落を好感（３０日） - moomoo.com",
-    "timestamp": "2026-09-29T22:41:25+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の下落が株式市場に好感され、小反発の見通しが示されている。コモディティ市場での下落圧力が継続している状況。"
-  },
-  {
     "title": "原油先物反発、トランプ氏が対イラン制裁緩和報道を否定 - Infoseek",
     "timestamp": "2026-09-30T02:01:00+00:00",
     "importance": 3,
@@ -251,50 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国株先物が小幅上昇した一方、原油価格は急落。米債利回り上昇の一服が株式市場を支えたが、原油の下げ圧力は継続。エネルギーセクターと全体市場の乖離が鮮明。"
-  },
-  {
-    "title": "本日（9月30日）の燃料価格：世界の原油価格は午前中に急落した。 - Vietnam.vn",
-    "timestamp": "2026-09-29T23:50:15+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "9月30日の取引で世界の原油価格が午前中に急落した。ベトナムメディアによる燃料価格の日次報告。既に発生した値動きの記録である。"
-  },
-  {
-    "title": "２９日の主要国際商品市況 - s.kabutan.jp",
-    "timestamp": "2026-09-29T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "29日の主要国際商品市況に関する定期的な相場報告。具体的な価格動向や市場材料の詳細が提示されていない。"
-  },
-  {
-    "title": "２９日の主要国際商品市況 (2026年9月30日掲載) - ライブドアニュース",
-    "timestamp": "2026-09-29T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2026年9月29日の主要国際商品市況についての定期的な相場レポート。具体的な価格データや市場動向が記事本体に掲載されているが、概要のみからは詳細な内容が判断できない。"
-  },
-  {
-    "title": "２９日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-09-29T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "29日の主要国際商品市況についてのニュース報道。具体的な市況データや価格変動内容が記事概要では不明。コモディティ全般の定期的な市況まとめと見られる。"
   },
   {
     "title": "2026年9月30日の金価格：価格は全般的に上昇。 - Vietnam.vn",
@@ -526,17 +350,6 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "米国トウモロコシ先物が3%下落した。記事はその理由を解説するコモディティ市場の振り返り記事と考えられる。具体的な下落要因（供給増加・需要減少・ドル高など）が詳細に記載されていないため、既に市場に織り込まれた動きの分析と推測される。"
-  },
-  {
-    "title": "爆速！３年使った神回線 Auひかり10ギガ [超猫拳] Copper Price (H9Bac3BCzq) - Unisba Media",
-    "timestamp": "2026-09-29T20:32:44+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "本ニュースは光回線サービス（Au光10ギガ）の利用体験に関する記事であり、銅価格と直接的な関連性がない。銅関連のニュースとして不適切。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4157ドル｜米長期金利やドルインデックスの上昇が影響した模様(2026年10月1日) - OANDA Japan",
@@ -1604,5 +1417,137 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米ドル高が進行する中で、世界的な銅需要が減少する懸念が指摘されている。ドル高は新興国での購買力低下と実質金利上昇を通じて、銅などの商品需要を圧迫する要因として機能している。現在の相場水準から更なる下落リスクが存在することをアナリストが警告している。"
+  },
+  {
+    "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-02T23:21:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油相場の急落に伴い、インフレ懸念が後退したことで金先物が売られた。金はインフレヘッジ資産として機能するため、インフレ期待の低下は金にネガティブに作用。"
+  },
+  {
+    "title": "本日（10月3日）の金価格：変動が激しく、上昇と下落が繰り返される。 - Vietnam.vn",
+    "timestamp": "2026-10-02T23:05:15+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月3日の金価格は上昇と下落の繰り返しで変動が激しい状況。具体的な数値や要因の詳細は不明。市場の通常のボラティリティ範囲内の動きと考えられる。"
+  },
+  {
+    "title": "NY原油・金相場（2日）－原油、金がともに反落 - Moomoo",
+    "timestamp": "2026-10-02T22:03:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油・金相場が2日に両者とも反落した。原油と金の同時下落は市場のリスク選好改善やドル高圧力を示唆。相場の日々の変動を報じる相場解説記事。"
+  },
+  {
+    "title": "10月3日朝の金価格更新:世界の金価格が急騰 - Laodong.vn",
+    "timestamp": "2026-10-02T23:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月3日朝時点での金価格が急騰していることを報じたニュース。具体的な上昇要因や数値は記事概要からは不明。市場動向の報告的性質のコンテンツ。"
+  },
+  {
+    "title": "2026年10月3日現在の金価格：世界的な金価格は上昇、SJCの金価格は下落。 - Vietnam.vn",
+    "timestamp": "2026-10-02T23:15:19+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年10月3日時点で、国際金価格は上昇傾向にあるが、ベトナム国内のSJC金価格は下落している。国内外の価格乖離が発生している状況。"
+  },
+  {
+    "title": "原油先物反落、Ｇ７が石油備蓄1億バレル協調放出で合意 - Reuters",
+    "timestamp": "2026-10-02T21:29:44+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が石油備蓄1億バレルの協調放出に合意し、供給増加期待から原油先物が反落。ウクライナ情勢による供給懸念の緩和を狙った政策協調。"
+  },
+  {
+    "title": "原油先物反落、Ｇ７が石油備蓄1億バレル協調放出で合意 - ニューズウィーク日本版",
+    "timestamp": "2026-10-02T21:28:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が石油備蓄1億バレルの協調放出に合意し、市場に供給増加シグナルを送った。原油先物は需給緩和への対応として反落。インフレ抑制とエネルギー安全保障を重視した戦略的判断。"
+  },
+  {
+    "title": "NY原油先物：反落、G7の緊急備蓄放出決定で供給混乱懸念が後退 執筆： Fisco - Investing.com 日本",
+    "timestamp": "2026-10-02T23:22:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が緊急時の石油備蓄放出を決定し、供給不足懸念が後退。NY原油先物は反落。ウクライナ情勢等による供給混乱リスクの軽減が価格を押し下げ。"
+  },
+  {
+    "title": "NY原油先物終値 １．９％安 - Moomoo",
+    "timestamp": "2026-10-02T20:12:59+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が1.9%下落して取引を終了した。相場の日次振り返り報道であり、下落幅は軽微な範囲。具体的な材料情報や統計データが明記されていない。"
+  },
+  {
+    "title": "【注目トピックス 市況・概況】NY原油先物：反落、G7の緊急備蓄放出決定で供給混乱懸念が後退 - マネーポストWEB",
+    "timestamp": "2026-10-02T23:22:42+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が緊急備蓄放出を決定し、供給混乱懸念が後退。NY原油先物は反落。需給見通しの改善が価格押し下げ要因となった。"
+  },
+  {
+    "title": "本日（10月3日）の燃料価格：世界の原油価格は急騰後、落ち着きを見せた。 - Vietnam.vn",
+    "timestamp": "2026-10-02T23:27:23+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界原油価格が急騰後に落ち着きを見せたとの報道。急騰から調整局面への転換を示唆する相場の振り返り記事。特定の新規材料なし。"
+  },
+  {
+    "title": "トウモロコシ先物価格予測：ZC下落でUSX466.36のサポートに注目 - Traders Union",
+    "timestamp": "2026-10-02T15:22:36+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物（ZC）が下落トレンドにあり、サポートレベル466.36に注目という技術分析的観測。アナリスト予測であり、需給ファンダメンタルズの変化を示すものではない。"
   }
 ]
