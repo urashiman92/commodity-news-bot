@@ -1,49 +1,5 @@
 [
   {
-    "title": "What to expect from USDA’s September 30 Reports - profarmer.com",
-    "timestamp": "2026-09-29T14:29:10+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA9月30日レポートは米穀物相場の重要定期発表。作付面積確定値、生産見通し、需給見通しが提示される。市場は数字の事前予想との乖離（特に収穫高の上下修正幅）に反応する可能性がある。"
-  },
-  {
-    "title": "What to expect from USDA’s September 30 Reports - profarmer.com",
-    "timestamp": "2026-09-29T14:29:10+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA9月30日レポートは米穀物相場の重要定期発表。作付面積確定値、生産見通し、需給見通しが提示される。市場は数字の事前予想との乖離（特に収穫高の上下修正幅）に反応する可能性がある。"
-  },
-  {
-    "title": "What to expect from USDA’s September 30 Reports - profarmer.com",
-    "timestamp": "2026-09-29T14:29:10+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA9月30日レポートは米穀物相場の重要定期発表。作付面積確定値、生産見通し、需給見通しが提示される。市場は数字の事前予想との乖離（特に収穫高の上下修正幅）に反応する可能性がある。"
-  },
-  {
-    "title": "Russian Crude Exports Boom Blunted by Kremlin’s Diesel Sales Ban - Bloomberg.com",
-    "timestamp": "2026-09-29T12:48:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの原油輸出が好調である一方、クレムリンがディーゼル販売禁止令を発令した。原油輸出の増加は価格下押し要因となるが、ディーゼル販売制限は石油製品供給の逼迫を意味し、価格上昇圧力となる。相反する要因が同時に作用する状況。"
-  },
-  {
     "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - americanagnetwork.com",
     "timestamp": "2026-09-29T20:18:15+00:00",
     "importance": 3,
@@ -66,28 +22,6 @@
     "summary": "米国の湿潤な収穫状況が大豆加工業者を圧迫している。収穫の遅延と品質低下により、加工業者の原料調達が困難化。穀物在庫統計（WASDE関連）発表が控える中、供給逼迫懸念が高まっている。"
   },
   {
-    "title": "#Harvest26: Mississippi Delta Surges Ahead as Wet Weather Slows Northern Corn Belt - RFD-TV",
-    "timestamp": "2026-09-29T17:08:28+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国穀倉地帯の収穫進捗に地域差が顕著。ミシシッピ・デルタ地域が順調に収穫を進める一方、北部コーンベルトは過度な降雨により遅延。トウモロコシの成熟度と大豆の刈取りタイミングに影響が出ている状況。"
-  },
-  {
-    "title": "#Harvest26: Mississippi Delta Surges Ahead as Wet Weather Slows Northern Corn Belt - RFD-TV",
-    "timestamp": "2026-09-29T17:08:28+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国穀倉地帯の収穫進捗に地域差が顕著。ミシシッピ・デルタ地域が順調に収穫を進める一方、北部コーンベルトは過度な降雨により遅延。トウモロコシの成熟度と大豆の刈取りタイミングに影響が出ている状況。"
-  },
-  {
     "title": "U.S. grain markets turn mixed as traders await key USDA stocks report - agrolatam.com",
     "timestamp": "2026-09-29T21:25:06+00:00",
     "importance": 3,
@@ -119,39 +53,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "米国穀物市場が混合動向を示しており、トレーダーがUSDA在庫報告書の発表を待機している。穀物市場は在庫統計の内容次第で方向性が決まる局面にある。"
-  },
-  {
-    "title": "Iowa Farmers Behind on Harvest as Wet September Comes to Close - agriculture.com",
-    "timestamp": "2026-09-29T16:38:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "アイオワ州での9月の降雨により、農家の収穫作業が予定より遅延している。湿潤な気象条件が続くことで、トウモロコシと大豆の収穫進捗が滞っており、作業効率の低下とポストハーベスト損失（カビ、品質低下）のリスクが高まっている。9月末の天候改善が期待されるが、遅延による在庫圧力への懸念。"
-  },
-  {
-    "title": "Iowa Farmers Behind on Harvest as Wet September Comes to Close - agriculture.com",
-    "timestamp": "2026-09-29T16:38:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "アイオワ州での9月の降雨により、農家の収穫作業が予定より遅延している。湿潤な気象条件が続くことで、トウモロコシと大豆の収穫進捗が滞っており、作業効率の低下とポストハーベスト損失（カビ、品質低下）のリスクが高まっている。9月末の天候改善が期待されるが、遅延による在庫圧力への懸念。"
-  },
-  {
-    "title": "Iowa Farmers Behind on Harvest as Wet September Comes to Close - agriculture.com",
-    "timestamp": "2026-09-29T16:38:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "アイオワ州での9月の降雨により、農家の収穫作業が予定より遅延している。湿潤な気象条件が続くことで、トウモロコシと大豆の収穫進捗が滞っており、作業効率の低下とポストハーベスト損失（カビ、品質低下）のリスクが高まっている。9月末の天候改善が期待されるが、遅延による在庫圧力への懸念。"
   },
   {
     "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - Dakota News Network",
@@ -1219,5 +1120,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "銅相場が週間ベースでの下落局面を迎えている。高いエネルギーコストが銅の需要を抑制しており、特に電力多消費型の精錬・製造業での利用が制限されている。エネルギー価格の上昇が銅の生産コスト圧力となり、需要サイドの弱さと相まって価格を押し下げている。"
+  },
+  {
+    "title": "Soybeans Hit Five-Week Low as U.S. Harvest Pressure Builds Across Grain Markets - agrolatam.com",
+    "timestamp": "2026-10-02T13:39:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国の穀物収穫圧力が強まる中、大豆が過去5週間で最安値を更新した。収穫期の到来に伴い、大豆およびトウモロコシを中心とした穀物市場全体に下押し圧力が加わっている。WASDE等の定期統計発表を背景とした季節的な価格調整局面と考えられる。"
+  },
+  {
+    "title": "Soybeans Hit Five-Week Low as U.S. Harvest Pressure Builds Across Grain Markets - agrolatam.com",
+    "timestamp": "2026-10-02T13:39:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国の穀物収穫圧力が強まる中、大豆が過去5週間で最安値を更新した。収穫期の到来に伴い、大豆およびトウモロコシを中心とした穀物市場全体に下押し圧力が加わっている。WASDE等の定期統計発表を背景とした季節的な価格調整局面と考えられる。"
+  },
+  {
+    "title": "Soybeans Hit Five-Week Low as U.S. Harvest Pressure Builds Across Grain Markets - agrolatam.com",
+    "timestamp": "2026-10-02T13:39:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "米国の穀物収穫圧力が強まる中、大豆が過去5週間で最安値を更新した。収穫期の到来に伴い、大豆およびトウモロコシを中心とした穀物市場全体に下押し圧力が加わっている。WASDE等の定期統計発表を背景とした季節的な価格調整局面と考えられる。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Rise Almost 1MM Barrels WoW - Rigzone",
+    "timestamp": "2026-10-02T15:06:22+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表によると、米国の原油在庫が先週比でほぼ100万バレル増加した。増加幅は限定的であり、需給均衡の若干の緩和を示唆している。米国の原油供給が安定している中での緩やかな在庫積み上げは、需要がやや弱まっているサインとも解釈できる。"
+  },
+  {
+    "title": "Shafaq News..OPEC+ delays 2027 oil capacity review - شفق نيوز",
+    "timestamp": "2026-10-02T13:52:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が2027年の石油生産能力レビューを延期することを決定した。この延期は既に報道されていた予定変更の続報であり、市場では大きなサプライズとは受け止められていない。短期的な原油価格への直接的な影響は限定的と考えられる。"
+  },
+  {
+    "title": "OPEC+ delays oil capacity review amid Iran war disruption - qz.com",
+    "timestamp": "2026-10-02T13:50:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+がイラン情勢の不安定化を背景に、原油生産能力見直しを延期した。イランの地政学的リスク顕在化により、供給側の不確実性が急速に高まっている。原油需給の予測可能性が低下し、市場は供給ショック懸念で上昇圧力を受けやすくなる。"
+  },
+  {
+    "title": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - Reuters",
+    "timestamp": "2026-10-02T14:58:10+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "銅",
+    "summary": "中国がアングロ・アメリカンとテックリソーシズの合併承認の条件として、銅の長期供給契約をコミットさせる要求を提示。合併による供給集約化への懸念から、中国が戦略的なサプライチェーン支配を強化。世界最大の銅精錬国である中国の供給確保圧力が高まり、銅市場の需給構造に構造的な変化をもたらす可能性。"
+  },
+  {
+    "title": "Ukraine Attacks Key Russian Refinery and Oil Pipeline Hub - Bloomberg.com",
+    "timestamp": "2026-10-02T11:41:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアの主要製油所とパイプラインハブを攻撃。ロシアの石油精製インフラへの直撃は欧州市場への供給不安を引き起こし、原油価格の上昇圧力となる。地政学リスクの急速な顕在化により市場は敏感に反応する見込み。"
   }
 ]
