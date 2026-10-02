@@ -1,38 +1,5 @@
 [
   {
-    "title": "金塊価格が2カ月ぶり安値圏に下落、国際価格との乖離拡大 - BigGo ファイナンス",
-    "timestamp": "2026-09-29T18:05:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金塊価格が2カ月ぶりの安値圏まで下落。国際価格との乖離が拡大している。ドル高や金利上昇環境を反映した動きと考えられる。"
-  },
-  {
-    "title": "トウモロコシ先物、USDA在庫報告を前に小幅下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-09-29T19:00:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物がUSDA在庫報告を控えて小幅下落している。市場は重要な在庫統計の発表を待機中。報告内容次第で相場が大きく動く可能性がある。"
-  },
-  {
-    "title": "産金国で資源ナショナリズム台頭、金価格に影響も 動画でクイック解説 - nikkei.com",
-    "timestamp": "2026-09-29T20:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "産金国における資源ナショナリズムの台頭が金価格に影響を及ぼす可能性について解説。鉱山規制強化や税制変更などを背景に供給面での不確実性が増す見込み。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4181ドル｜前日の大幅下落により、底値を狙った買いの動きが出た模様(2026年9月30日) - OANDA証券",
     "timestamp": "2026-09-29T23:05:28+00:00",
     "importance": 2,
@@ -119,28 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が日中2%超下落。中東地域の供給回復期待が売り圧力。ただし月間ベースでは上昇維持。"
-  },
-  {
-    "title": "コーン先物価格予想：ZCは横ばい、USX514.46のサポートに注目 - Traders Union",
-    "timestamp": "2026-09-29T17:12:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物（ZC）は横ばい相場と予想される。USX514.46がサポートレベルとして注目される。テクニカル分析に基づいたアナリスト見解。"
-  },
-  {
-    "title": "銅価格が最高値圏 根強い米関税の思惑、在庫はNY突出 - nikkei.com",
-    "timestamp": "2026-09-29T20:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が最高値圏で推移している。米関税政策への思惑が相場を下支えしている一方、NYMEXの在庫が突出して高水準にある。需給のアンバランスが特徴。"
   },
   {
     "title": "爆速！３年使った神回線 Auひかり10ギガ [超猫拳] Copper Price (H9Bac3BCzq) - Unisba Media",
@@ -317,17 +262,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "9月30日の取引で世界の原油価格が午前中に急落した。ベトナムメディアによる燃料価格の日次報告。既に発生した値動きの記録である。"
-  },
-  {
-    "title": "USX1,305のレジスタンスが引き続き注目される中、Soybean Futuresは安定した推移 - Traders Union",
-    "timestamp": "2026-09-29T16:09:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物は1,305ドルのレジスタンスレベルに注目しながら安定した推移を続けている。テクニカル分析に基づく相場観の提示であり、新たな需給ショックはない。"
   },
   {
     "title": "２９日の主要国際商品市況 - s.kabutan.jp",
@@ -1560,5 +1494,115 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "中国が米国産大豆への輸入関税を維持する政策継続を示唆。大豆先物は-1.33%の下落で市場反応。米中貿易摩擦の長期化を反映した既定路線の展開。"
+  },
+  {
+    "title": "ドル高を背景に小麦先物が6週間ぶり安値付近で推移 執筆 - Investing.com 日本",
+    "timestamp": "2026-10-02T17:53:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ドル高進行に伴い小麦先物が6週間ぶりの安値付近で推移している。ドル強化は米国小麦の輸出競争力を低下させ、価格下押し圧力となっている。"
+  },
+  {
+    "title": "2025/26年度の世界の穀物生産量は、過去最高の30億2900万トンに達すると予測されている。 - Vietnam.vn",
+    "timestamp": "2026-10-01T23:19:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "2025/26年度の世界穀物生産量が過去最高の30億2900万トンに達すると予測。豊作見通しは穀物全般の供給過剰懸念を強める。小麦を含むコモディティ価格への下押し圧力となる可能性がある。"
+  },
+  {
+    "title": "NY金先物 終値 －０．９５% - みんかぶ FX/為替",
+    "timestamp": "2026-10-02T18:45:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が0.95%の小幅下落で取引を終了。単日の軽微な値動きで、市場への大きなインパクトはない。相場の日々の変動を示すニュース。"
+  },
+  {
+    "title": "金価格ディリーレポート（2026年10月2日）米雇用統計の弱さで上昇後に上げ幅縮小、高金利下でもETF需要は底堅く - ブリオンボールト",
+    "timestamp": "2026-10-02T07:49:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米雇用統計の弱い結果を受けて金価格は上昇したが、その後上げ幅を縮小。高金利環境が続く中でもETF需要は底堅い状況が継続している。"
+  },
+  {
+    "title": "NY原油先物終値 １．９％安 - みんかぶ FX/為替",
+    "timestamp": "2026-10-02T18:45:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が1.9%下落した。具体的な下落要因は記事概要では示されていない。通常のボラティリティ範囲内の値動き。"
+  },
+  {
+    "title": "NEXT NOTES ドバイ原油先物 ベア ETN【2039】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-10-02T15:08:12+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドバイ原油先物のベアETN【2039】の銘柄情報ページの掲載。金融商品の株価・情報提供であり、原油市場の新規材料ではなく、既存商品の情報表示に過ぎない。"
+  },
+  {
+    "title": "米9月雇用統計、非農業部門雇用者数が2.9万人増に急減速 米株・金・ビットコイン揃って上昇、原油価格は3％超急落 - BigGo ファイナンス",
+    "timestamp": "2026-10-02T14:55:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米9月非農業部門雇用者数が2.9万人増と市場予想を大きく下回り、経済減速シグナルを発出。リスク資産全般の堅調を背景に原油は3%超急落。FRB利下げ観測の高まりが安全資産買いと成長鈍化懸念の相場材料が複合。"
+  },
+  {
+    "title": "ブレント原油先物 (UKOIL-F) が 10月2日 に低下：注目すべき重要な要因 - TradingKey",
+    "timestamp": "2026-10-02T08:10:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月2日にブレント原油先物が低下した。詳細な要因は記事概要からは不明確。市場解説記事と考えられる。"
+  },
+  {
+    "title": "世界の原油価格は1バレル100ドルを突破した後、急落した。OPECプラスは新たな課題に直面している。 - Vietnam.vn",
+    "timestamp": "2026-10-02T15:10:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドルを突破した後に急落し、OPECプラスが新たな課題に直面している。価格上昇から反転した局面での市場解説記事であり、供給調整の難しさが強調されている。"
+  },
+  {
+    "title": "米ドル高で世界需要が減少：銅価格はさらなる下落を回避できるか？ - Traders Union",
+    "timestamp": "2026-10-02T12:19:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米ドル高が進行する中で、世界的な銅需要が減少する懸念が指摘されている。ドル高は新興国での購買力低下と実質金利上昇を通じて、銅などの商品需要を圧迫する要因として機能している。現在の相場水準から更なる下落リスクが存在することをアナリストが警告している。"
   }
 ]
