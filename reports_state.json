@@ -1,27 +1,5 @@
 [
   {
-    "title": "Saudi resumes Yanbu oil loading after pipeline restart - Reuters",
-    "timestamp": "2026-09-29T06:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがヤンブ石油ターミナルでの原油積み込みを再開した。パイプライン再起動により、同国の主要輸出施設が正常化。中東発の供給懸念が一部緩和される一方、サプライチェーン正常化の兆しとして市場が反応。"
-  },
-  {
-    "title": "Soybean harvest takes a sluggish step forward - Farm Progress",
-    "timestamp": "2026-09-29T12:36:48+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国大豆の収穫が緩慢なペースで進行していることが報告された。「sluggish」という表現から予想より遅れている状況が示唆されるが、具体的な進捗率や天候悪化の詳細情報は限定的。Crop Progressの定期発表として市場予想の範囲内と考えられる。"
-  },
-  {
     "title": "What to expect from USDA’s September 30 Reports - profarmer.com",
     "timestamp": "2026-09-29T14:29:10+00:00",
     "importance": 3,
@@ -55,39 +33,6 @@
     "summary": "USDA9月30日レポートは米穀物相場の重要定期発表。作付面積確定値、生産見通し、需給見通しが提示される。市場は数字の事前予想との乖離（特に収穫高の上下修正幅）に反応する可能性がある。"
   },
   {
-    "title": "OPEC+ Likely to Again Raise Oil Output Targets From September, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-29T10:33:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月からの原油生産目標の再引き上げを検討している見通し。複数の関係筋の報道により、段階的な増産路線が継続される可能性が高まった。市場では既に増産シナリオが部分的に織り込まれている段階での観測報道。"
-  },
-  {
-    "title": "Rupiah breaches 18,000/dlr for first time since August on rising yields, oil - Reuters",
-    "timestamp": "2026-09-29T08:38:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インドネシアのルピアが8月以来初めて18,000ドル/米ドルを突破した。上昇する利回りと原油価格の堅調が背景。ルピア強化は新興国通貨全体のセンチメント改善を示唆し、コモディティ全般に対するドル価値の相対的な低下をもたらす可能性がある。"
-  },
-  {
-    "title": "Rupiah breaches 18,000/dlr for first time since August on rising yields, oil - Reuters",
-    "timestamp": "2026-09-29T08:38:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インドネシアのルピアが8月以来初めて18,000ドル/米ドルを突破した。上昇する利回りと原油価格の堅調が背景。ルピア強化は新興国通貨全体のセンチメント改善を示唆し、コモディティ全般に対するドル価値の相対的な低下をもたらす可能性がある。"
-  },
-  {
     "title": "Russian Crude Exports Boom Blunted by Kremlin’s Diesel Sales Ban - Bloomberg.com",
     "timestamp": "2026-09-29T12:48:29+00:00",
     "importance": 3,
@@ -97,28 +42,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの原油輸出が好調である一方、クレムリンがディーゼル販売禁止令を発令した。原油輸出の増加は価格下押し要因となるが、ディーゼル販売制限は石油製品供給の逼迫を意味し、価格上昇圧力となる。相反する要因が同時に作用する状況。"
-  },
-  {
-    "title": "Copper Edges Higher as Chile Mine Dispute Raises Supply Concerns - Bloomberg.com",
-    "timestamp": "2026-09-29T11:52:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "チリの鉱山紛争がサプライズとして浮上し、世界的な銅供給への懸念が強まった。チリは世界の銅生産の約25-28%を占める主要産地であり、同国での労使紛争や操業停止リスクは銅市場に直接的な供給ショックをもたらす可能性がある。これにより銅価格は上昇圧力を受けた。"
-  },
-  {
-    "title": "Copper Edges Higher as Chile Mine Dispute Raises Supply Concerns - Bloomberg.com",
-    "timestamp": "2026-09-29T11:52:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "チリの鉱山紛争がサプライズとして浮上し、世界的な銅供給への懸念が強まった。チリは世界の銅生産の約25-28%を占める主要産地であり、同国での労使紛争や操業停止リスクは銅市場に直接的な供給ショックをもたらす可能性がある。これにより銅価格は上昇圧力を受けた。"
   },
   {
     "title": "Wet Harvest Squeezes Soybean Processors Ahead of Grain Stocks - americanagnetwork.com",
@@ -1208,5 +1131,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国債利回りが低下し利上げ予想が減少する中、金が堅調推移している。金利低下は無利子資産である金の相対的な魅力を高め、買い支え要因となっている。米金融政策の緩和方向シフトが背景。"
+  },
+  {
+    "title": "Opec+ likely to keep output targets steady at Sunday meeting - Arabian Gulf Business Insight | AGBI",
+    "timestamp": "2026-09-30T10:15:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で現在の産出目標を据え置く見通し。既に市場で織り込まれている減産政策の継続が予想される。供給政策の急激な変更は見込まれず、価格への直接的なショック要因は限定的。"
+  },
+  {
+    "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters",
+    "timestamp": "2026-10-02T11:58:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+がイラン情勢の悪化により石油増産計画の実行延期を決定。地政学リスクの高まりに伴い、中東産油国の供給能力拡張が停滞。供給制約が長期化する可能性が高まり、原油需給逼迫懸念が強まった。"
+  },
+  {
+    "title": "Wall St futures gain as yields, oil prices ease ahead of jobs report - Reuters",
+    "timestamp": "2026-10-02T09:35:51+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米雇用統計を控えた観測筋によるニュース。利回り低下と原油価格の緩和が報じられ、ウォール街先物が上昇。雇用統計という予定された重要統計の直前段階であり、市場は様子見姿勢。金利低下圧力はコモディティ全般に支持的だが、現時点では確定的な材料ではない。"
+  },
+  {
+    "title": "Wall St futures gain as yields, oil prices ease ahead of jobs report - Reuters",
+    "timestamp": "2026-10-02T09:35:51+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米雇用統計を控えた観測筋によるニュース。利回り低下と原油価格の緩和が報じられ、ウォール街先物が上昇。雇用統計という予定された重要統計の直前段階であり、市場は様子見姿勢。金利低下圧力はコモディティ全般に支持的だが、現時点では確定的な材料ではない。"
+  },
+  {
+    "title": "EXCLUSIVE: Europe weighs new diesel stocks release after US pressure, sources say - Reuters",
+    "timestamp": "2026-10-02T11:08:41+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の圧力を受けてEUが新たなディーゼル在庫放出を検討している。戦略備蓄の追加放出は市場供給増加を意味し、原油価格に下押し圧力。米国主導のエネルギー政策協調が進む中、供給サイド材料として価格抑制効果が期待される。"
+  },
+  {
+    "title": "Saudi Arabia Hikes Oil Flow on Key Pipeline to Over 80% Capacity - Bloomberg.com",
+    "timestamp": "2026-10-02T11:33:51+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが主要パイプラインのオイルフロー増加を80%超の稼働率まで引き上げた。これはOPECの減産姿勢からの転換を示唆し、市場供給増加を意味する。供給圧力により原油価格は下押し材料となる。"
+  },
+  {
+    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
+    "timestamp": "2026-10-02T04:07:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅相場が週間ベースでの下落局面を迎えている。高いエネルギーコストが銅の需要を抑制しており、特に電力多消費型の精錬・製造業での利用が制限されている。エネルギー価格の上昇が銅の生産コスト圧力となり、需要サイドの弱さと相まって価格を押し下げている。"
+  },
+  {
+    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
+    "timestamp": "2026-10-02T04:07:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "銅相場が週間ベースでの下落局面を迎えている。高いエネルギーコストが銅の需要を抑制しており、特に電力多消費型の精錬・製造業での利用が制限されている。エネルギー価格の上昇が銅の生産コスト圧力となり、需要サイドの弱さと相まって価格を押し下げている。"
   }
 ]
