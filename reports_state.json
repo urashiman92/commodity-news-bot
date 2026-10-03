@@ -1,60 +1,5 @@
 [
   {
-    "title": "U.S. sugar supply faces uncertainty from drought, pests - Farm Progress",
-    "timestamp": "2026-09-30T02:45:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "米国の砂糖生産が干ばつと害虫の被害により不確実性に直面している。供給リスクの増加は砂糖価格の上昇圧力につながる可能性が高い。ただし具体的な減産幅の数値が記事には示されていない。穀物全般にも同様の気象リスクが波及する懸念がある。"
-  },
-  {
-    "title": "U.S. sugar supply faces uncertainty from drought, pests - Farm Progress",
-    "timestamp": "2026-09-30T02:45:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国の砂糖生産が干ばつと害虫の被害により不確実性に直面している。供給リスクの増加は砂糖価格の上昇圧力につながる可能性が高い。ただし具体的な減産幅の数値が記事には示されていない。穀物全般にも同様の気象リスクが波及する懸念がある。"
-  },
-  {
-    "title": "U.S. sugar supply faces uncertainty from drought, pests - Farm Progress",
-    "timestamp": "2026-09-30T02:45:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国の砂糖生産が干ばつと害虫の被害により不確実性に直面している。供給リスクの増加は砂糖価格の上昇圧力につながる可能性が高い。ただし具体的な減産幅の数値が記事には示されていない。穀物全般にも同様の気象リスクが波及する懸念がある。"
-  },
-  {
-    "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
-    "timestamp": "2026-09-30T02:24:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場が最近の下落後に小幅上昇し、IT銘柄がリードしている。本ニュースはインド国内株式市場の動向報告であり、商品市場への直接的な影響は限定的である。"
-  },
-  {
-    "title": "US Crude Stocks Fall on Strong Refining Activity and Exports, EIA Says - EnergyNow.com",
-    "timestamp": "2026-09-30T04:10:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の低下を報告。精製活動の強化と石油製品輸出の増加が在庫減少を牽引している。市場予想の範囲内での動きだが、精製需要と輸出好調は原油相場の下値を支える要因となっている。"
-  },
-  {
     "title": "[MARKET ANALYSIS] Crude remains subdued but as US-Iran negotiations struggle for progress; gold firms as yields ease - Newsquawk",
     "timestamp": "2026-09-30T08:36:00+00:00",
     "importance": 2,
@@ -988,5 +933,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECはペルシャ湾の戦後市場シェア競争において弱い立場にあるとの分析。湾岸産油国（UAE、サウジアラビアなど）が増産・シェア拡大を目指す中、OPEC加盟国の減産政策の持続性が低下する可能性が指摘されている。原油価格には下押し圧力として機能する可能性がある。"
+  },
+  {
+    "title": "OPEC+ Expected to Hold November Quotas Steady at Weekend Meeting - IndexBox",
+    "timestamp": "2026-10-03T04:22:57+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は週末の定期会合で11月の生産割当を据え置く見通し。既報の減産合意を維持する方針で、市場は予想通りの展開と受け止めている。新たなサプライズ要因は限定的。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-10-02T22:55:08+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECからの離脱を表明し、石油輸出国機構の結束力が大きく損なわれる可能性が浮上した。これはOPECの減産調整能力を弱体化させ、加盟国間の価格戦争リスクを高める。原油価格は供給サイドの統制力喪失により下落圧力を受ける見通し。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-10-02T22:55:08+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECからの離脱を表明し、石油輸出国機構の結束力が大きく損なわれる可能性が浮上した。これはOPECの減産調整能力を弱体化させ、加盟国間の価格戦争リスクを高める。原油価格は供給サイドの統制力喪失により下落圧力を受ける見通し。"
+  },
+  {
+    "title": "Ukraine Attacks Key Russian Refinery and Oil Pipeline Hub - Bloomberg.com",
+    "timestamp": "2026-10-02T11:41:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシアの主要製油所とパイプラインハブに対する攻撃を実施。ロシアはエネルギー大国であり、この供給インフラの破壊は世界的な原油供給の逼迫と価格上昇圧力をもたらす可能性が高い。地政学的リスクの再燃により市場の不確実性が増大。"
   }
 ]
