@@ -1,38 +1,5 @@
 [
   {
-    "title": "金相場1カ月で10％下落 米金利上昇で資金流出 - CHOSUNBIZ - Chosunbiz",
-    "timestamp": "2026-09-30T04:36:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場が1カ月で10％下落した。米金利上昇により、利回りのない金から資金が流出している。インフレ懸念から金利上昇が続く環境では、金の魅力が相対的に低下している。"
-  },
-  {
-    "title": "ガソリン補助金50円超、過去最高水準が継続 原油価格の高止まりで [＊令和のオイルショック] - 朝日新聞",
-    "timestamp": "2026-09-30T05:38:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本政府がガソリン補助金を50円超の過去最高水準で継続している。原油価格の高止まりが背景であり、国内ガソリン価格の上昇圧力が続いている状況を報道している。"
-  },
-  {
-    "title": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ - NHKニュース",
-    "timestamp": "2026-09-30T04:04:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格が下落傾向にあり、エネルギーコスト低下による企業収益改善期待から株価が値上がりしている。インフレ圧力の緩和と企業利益率向上の好材料。"
-  },
-  {
     "title": "USDA穀物報告を前にCBOT小麦先物が上昇 執筆 - Investing.com 日本",
     "timestamp": "2026-09-30T13:30:00+00:00",
     "importance": 3,
@@ -64,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東の石油輸出が回復しているにもかかわらず、原油先物相場が高止まりしている現象を解説する記事。供給増加だけでは価格低下につながらない構造的要因が存在することを指摘。"
-  },
-  {
-    "title": "【ドル/円、今夜の見通し】ドル/円、月末フローで156円台へ下落…原油価格の下落や米利上げ観測後退も重しに、PCEデフレーターに注目＿2026/9/30 - 外為どっとコム",
-    "timestamp": "2026-09-30T07:26:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル/円が月末フローで156円台への下落が見通されている。原油価格の下落や米利上げ観測の後退がドル売り圧力となっている。PCEデフレーター発表が注視される。"
   },
   {
     "title": "原油価格は2％以上下落した。 - Vietnam.vn",
@@ -1472,5 +1428,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国とEUが原油価格の下落抑制に向けた協力を進めているとの報道。両地域の政策連携により供給サイドでの協調意図を示唆。ただしすでに報じられた継続的な取り組みの可能性が高い。"
+  },
+  {
+    "title": "本日（10月3日午後）の金価格：SJCの金地金価格はわずかに下落しました。 - Vietnam.vn",
+    "timestamp": "2026-10-03T06:59:50+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムSJCの金地金価格が小幅下落。同国の日次相場レポート。市場全体への影響は限定的。"
+  },
+  {
+    "title": "【注目トピックス 市況・概況】NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢 - マネーポストWEB",
+    "timestamp": "2026-10-02T23:21:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反落。原油急落に伴うインフレ懸念の後退により売り優勢となった。金はインフレ対冲資産として機能するため、インフレ期待の低下が価格を圧迫。"
+  },
+  {
+    "title": "国内の金価格が再び急落。 - Vietnam.vn",
+    "timestamp": "2026-10-03T03:54:07+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が再び急落した。特定の理由は記事概要に記載されていない。地域的なニュースで、グローバル金市場への直接的な影響は限定的と判断される。"
+  },
+  {
+    "title": "金価格は下落圧力にさらされているが、1オンスあたり4000ドルまで回復する可能性はあるのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-10-03T07:19:16+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は現在下落圧力を受けているが、1オンスあたり4000ドルへの回復可能性について論じている。相場の方向性に関する観測・解説記事。"
+  },
+  {
+    "title": "粘着性を増す原油価格の影響力 ～日本の貿易収支の現在地～｜Newsモーニングサテライト（モーサテ） - テレ東BIZ",
+    "timestamp": "2026-10-03T07:39:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の粘着性（下げにくさ）が日本の貿易収支に影響を与えている状況の解説。エネルギー輸入国である日本にとって油価の動向は重要な経済指標となっており、現在の相場局面における構造的な特性を分析したコメンタリー。"
+  },
+  {
+    "title": "原油先物反落、Ｇ７が石油備蓄1億バレル協調放出で合意 - ロイター",
+    "timestamp": "2026-10-02T21:29:44+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が石油備蓄から1億バレルの協調放出で合意した。供給増加期待から原油先物は反落。インフレ抑制と価格高騰対策が目的。"
+  },
+  {
+    "title": "原油価格が落ち着きを見せている。 - Vietnam.vn",
+    "timestamp": "2026-10-03T03:54:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が落ち着きを見せているとのこと。供給・需要バランスが安定的に推移し、顕著な変動圧力がない状況が続いている。既報の相場動向の振り返り・解説記事。"
+  },
+  {
+    "title": "サウジアラビアの東西石油パイプラインが輸送能力の8割超まで回復、国際原油価格は下落圧力 - BigGo ファイナンス",
+    "timestamp": "2026-10-03T05:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの東西石油パイプラインが輸送能力の80%超まで回復。供給制約の緩和で国際原油価格に下落圧力。"
+  },
+  {
+    "title": "10月2日のSouthern Copper Corp (SCCO) 終値は3.17%上昇：投資家が知っておくべき情報 - TradingKey",
+    "timestamp": "2026-10-02T20:16:04+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "Southern Copper Corp (SCCO)が10月2日に3.17%上昇した。同社は大手銅生産企業だが、本ニュースは個別株価の動きを事後報告しているもの。"
   }
 ]
