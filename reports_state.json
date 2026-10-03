@@ -1,71 +1,5 @@
 [
   {
-    "title": "Corn Stocks Shock U.S. Market as USDA Finds 2.1 Billion Bushels in Storage - agrolatam.com",
-    "timestamp": "2026-09-30T19:04:26+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが2024年度のトウモロコシ期末在庫（期中在庫）を21億ブッシェルと発表。この数字は市場予想を大幅に上回り、供給過剰の懸念を強める。米国トウモロコシの在庫増加は国際穀物相場の下押し圧力となり、価格下落が確実視される。"
-  },
-  {
-    "title": "Corn Stocks Shock U.S. Market as USDA Finds 2.1 Billion Bushels in Storage - agrolatam.com",
-    "timestamp": "2026-09-30T19:04:26+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2024年度のトウモロコシ期末在庫（期中在庫）を21億ブッシェルと発表。この数字は市場予想を大幅に上回り、供給過剰の懸念を強める。米国トウモロコシの在庫増加は国際穀物相場の下押し圧力となり、価格下落が確実視される。"
-  },
-  {
-    "title": "Allendale’s Rich Nelson Analyzes USDA Small Grains Summary and Quarterly Grain Stocks - Oklahoma Farm Report",
-    "timestamp": "2026-09-30T18:09:07+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの小麦関連サマリーと四半期穀物在庫統計に関するアレンデール社アナリスト（リッチ・ネルソン氏）による解説。定期的なCrop Progress発表の分析であり、数値は記事からは確認できない。小麦およびトウモロコシ・大豆市場への一般的な供給動向解析と考えられる。"
-  },
-  {
-    "title": "Allendale’s Rich Nelson Analyzes USDA Small Grains Summary and Quarterly Grain Stocks - Oklahoma Farm Report",
-    "timestamp": "2026-09-30T18:09:07+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの小麦関連サマリーと四半期穀物在庫統計に関するアレンデール社アナリスト（リッチ・ネルソン氏）による解説。定期的なCrop Progress発表の分析であり、数値は記事からは確認できない。小麦およびトウモロコシ・大豆市場への一般的な供給動向解析と考えられる。"
-  },
-  {
-    "title": "Allendale’s Rich Nelson Analyzes USDA Small Grains Summary and Quarterly Grain Stocks - Oklahoma Farm Report",
-    "timestamp": "2026-09-30T18:09:07+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの小麦関連サマリーと四半期穀物在庫統計に関するアレンデール社アナリスト（リッチ・ネルソン氏）による解説。定期的なCrop Progress発表の分析であり、数値は記事からは確認できない。小麦およびトウモロコシ・大豆市場への一般的な供給動向解析と考えられる。"
-  },
-  {
-    "title": "Corn plunges 20 cents as high USDA stocks stun market - Farm Progress",
-    "timestamp": "2026-09-30T18:33:43+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA発表の穀物在庫統計で予想を上回る高水準の在庫が報告され、トウモロコシ先物が1ブッシェルあたり20セント急落した。市場参加者の強気な供給期待を裏切る形でポジション調整が加速し、大きな売り圧力が発生。"
-  },
-  {
     "title": "US Corn Ending Stocks Up 35% From Last Year, Soybean Ending Stocks Down 3% - Morning Ag Clips",
     "timestamp": "2026-09-30T22:43:14+00:00",
     "importance": 3,
@@ -86,61 +20,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "米国農務省のCrop Progress発表によると、2024年度トウモロコシの期末在庫は前年比35%増加と大幅な増加を記録した。一方、大豆の期末在庫は前年比3%減少。供給サイドでは穀物過剰感が強まりつつも、大豆は相対的に逼迫している状況が浮き彫りになった。"
-  },
-  {
-    "title": "OPEC+ expected to keep oil production quotas unchanged - Oil & Gas 360",
-    "timestamp": "2026-09-30T19:50:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が生産枠を据え置く見通し。供給政策の継続安定を示唆し、市場は既に織り込み済みとみられる。急激な減産・増産のサプライズなく、原油価格への直接的な上下圧力は限定的。"
-  },
-  {
-    "title": "Corn Drags Down Grains on 2.1 BB Stocks Surprise: Will $5 Hold? - AgWeb",
-    "timestamp": "2026-09-30T20:25:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE発表でトウモロコシの期末在庫が21億ブッシェルと市場予想を大きく上回るサプライズが発生。これは供給過剰を示唆し、トウモロコシ価格に下押し圧力がかかっている。$5/ブッシェルの重要サポートレベルが試されている局面。穀物全般への売り圧力に波及している。"
-  },
-  {
-    "title": "Corn Drags Down Grains on 2.1 BB Stocks Surprise: Will $5 Hold? - AgWeb",
-    "timestamp": "2026-09-30T20:25:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE発表でトウモロコシの期末在庫が21億ブッシェルと市場予想を大きく上回るサプライズが発生。これは供給過剰を示唆し、トウモロコシ価格に下押し圧力がかかっている。$5/ブッシェルの重要サポートレベルが試されている局面。穀物全般への売り圧力に波及している。"
-  },
-  {
-    "title": "Corn Drags Down Grains on 2.1 BB Stocks Surprise: Will $5 Hold? - AgWeb",
-    "timestamp": "2026-09-30T20:25:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE発表でトウモロコシの期末在庫が21億ブッシェルと市場予想を大きく上回るサプライズが発生。これは供給過剰を示唆し、トウモロコシ価格に下押し圧力がかかっている。$5/ブッシェルの重要サポートレベルが試されている局面。穀物全般への売り圧力に波及している。"
-  },
-  {
-    "title": "Corn Drags Down Grains on 2.1 BB Stocks Surprise: Will $5 Hold? - AgWeb",
-    "timestamp": "2026-09-30T20:25:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE発表でトウモロコシの期末在庫が21億ブッシェルと市場予想を大きく上回るサプライズが発生。これは供給過剰を示唆し、トウモロコシ価格に下押し圧力がかかっている。$5/ブッシェルの重要サポートレベルが試されている局面。穀物全般への売り圧力に波及している。"
   },
   {
     "title": "USDA: Old crop soybean stocks down 3% - Biodiesel Magazine",
@@ -680,5 +559,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国の燃料輸出停止報道と米軍中東派遣の報道を受け、原油価格が4%上昇。供給懸念と地政学的リスク上昇が同時に作用した。中国は世界有数の石油精製国であり、輸出停止は市場の供給逼迫懸念を急速に強化。米軍中東派遣はイラン情勢緊張の可能性を示唆し、ペルシア湾のチョークポイント通行リスク増加を示唆。"
+  },
+  {
+    "title": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters",
+    "timestamp": "2026-10-03T16:14:29+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ポッドキャスト形式のニュース報道であり、複数の地政学的イベント（FlyDubai攻撃調査、キエフ橋への攻撃）とG7の戦略備蓄石油放出について扱っている。ウクライナ情勢の悪化は供給リスク要因となる一方、G7による備蓄放出は供給増加圧力として作用する見通し。"
+  },
+  {
+    "title": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters",
+    "timestamp": "2026-10-03T16:14:29+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ポッドキャスト形式のニュース報道であり、複数の地政学的イベント（FlyDubai攻撃調査、キエフ橋への攻撃）とG7の戦略備蓄石油放出について扱っている。ウクライナ情勢の悪化は供給リスク要因となる一方、G7による備蓄放出は供給増加圧力として作用する見通し。"
   }
 ]
