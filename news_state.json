@@ -1,38 +1,5 @@
 [
   {
-    "title": "原油先物1ドル上昇、ブレントは月間で14％高 - Reuters",
-    "timestamp": "2026-09-30T19:43:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が月間で14％の上昇を記録し、先物も1ドル上昇した。市場の上昇トレンドが継続している状況を示すニュース。"
-  },
-  {
-    "title": "原油先物1ドル上昇、ブレントは月間で14％高 - ニューズウィーク日本版",
-    "timestamp": "2026-09-30T19:43:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が月間で14%上昇し、先物価格が1ドル上昇した。この月間での大幅な上昇は需給環境またはリスク要因の変化を示唆している。"
-  },
-  {
-    "title": "原油先物1ドル上昇、ブレントは月間で14％高 - Infoseek",
-    "timestamp": "2026-09-30T19:43:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が1ドル上昇し、ブレント原油は月間で14％の上昇を記録した。既に進行中の相場トレンドの振り返り報道。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4157ドル｜米長期金利やドルインデックスの上昇が影響した模様(2026年10月1日) - OANDA Japan",
     "timestamp": "2026-09-30T23:06:52+00:00",
     "importance": 3,
@@ -66,17 +33,6 @@
     "summary": "金価格が4,200ドルに接近している。継続的な強気相場が続いている。市場の振り返り・観測記事。"
   },
   {
-    "title": "原油先物1ドル上昇、ブレントは月間で14％高 - jp.reuters.com",
-    "timestamp": "2026-09-30T19:43:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が月間で14％の上昇を記録し、先物が1ドル上昇した。既に進行中の上昇トレンドの継続を示す振り返りニュース。"
-  },
-  {
     "title": "WTI原油見通し(市況ニュース)：米国とイランの交渉停滞ムードが影響し、原油価格は反発（2026年10月1日） - OANDA Japan",
     "timestamp": "2026-09-30T23:11:53+00:00",
     "importance": 3,
@@ -108,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン核協議の決裂により、中東地政学リスクが高まった。ブレント原油は月間で14%の大幅上昇を記録し、供給途絶懸念が価格を押し上げた。イラン関連の地政学的緊張は原油相場の重要なドライバー。"
-  },
-  {
-    "title": "粘着性を増す原油価格の影響力 ～日本の貿易収支の現在地～【プロの眼】 - txbiz.tv-tokyo.co.jp",
-    "timestamp": "2026-09-30T20:45:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の粘着性が日本の貿易収支に与える影響を分析した解説記事。原油価格が構造的に高止まりしている現状が、日本の経常収支や産業競争力にもたらす複合的な影響を検討している。"
   },
   {
     "title": "９月３０日の主要国際商品市況 - 株探",
@@ -1417,5 +1362,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が本日2026年10月4日に市場変動に伴い下落している。アナリストは現在が困難な時期の終わりであるかどうかは判定時期尚早と見ている。既知の市場メカニズムに基づく通常の価格調整と考えられる。"
+  },
+  {
+    "title": "2026年10月2 日の金価格 - Gold Price",
+    "timestamp": "2026-10-03T07:00:20+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年10月2日の金価格に関するニュース記事。具体的な価格データや市場材料が不明。単なる金価格情報の配信と思われる。"
+  },
+  {
+    "title": "売り圧力によって金価格は急速に下落し、投資家を失望させた。 - Vietnam.vn",
+    "timestamp": "2026-10-03T20:34:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が売り圧力により急速に下落。投資家の期待値を下回る結果となった。既存トレンドの継続を示唆するニュース。"
+  },
+  {
+    "title": "［株式週間展望］原油先物価格や長期金利に関心 平均株価6万9千円台も - 沖縄タイムス社",
+    "timestamp": "2026-10-03T18:57:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本の株式市場週間展望記事。原油先物価格と長期金利が注視対象として挙げられ、平均株価が6万9千円台での推移が予想されている。原油市場への直接的な新規情報や材料は含まれていない。"
+  },
+  {
+    "title": "米が中東に3隻目空母と約1万人の兵士派遣 供給懸念でNY原油先物が続伸｜昼サテ - テレ東BIZ",
+    "timestamp": "2026-10-03T13:34:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国が中東にイスラエル支援のため3隻目空母と1万人兵士を追加派遣。地政学的緊張により原油供給懸念が高まり、NY原油先物が続伸。中東紛争エスカレーションリスクは市場で既に注視されている状況。"
   }
 ]
