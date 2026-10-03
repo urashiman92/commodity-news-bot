@@ -1,71 +1,5 @@
 [
   {
-    "title": "USDA穀物報告を前にCBOT小麦先物が上昇 執筆 - Investing.com 日本",
-    "timestamp": "2026-09-30T13:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "USDA穀物報告の発表控え、CBOT小麦先物が上昇した。市場は報告内容による供給・需要見通しの変化を織り込もうとしている。"
-  },
-  {
-    "title": "金、過去40年で最大の変動率に迫る - BeInCrypto",
-    "timestamp": "2026-09-30T09:41:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金が過去40年で最大の変動率に近づいている。ボラティリティの高まりを指摘するコメンタリー記事。既に市場で認識されている動きの解説。"
-  },
-  {
-    "title": "中東の石油輸出が回復しても原油先物が高止まりする理由 執筆 - Investing.com 日本",
-    "timestamp": "2026-09-30T12:20:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東の石油輸出が回復しているにもかかわらず、原油先物相場が高止まりしている現象を解説する記事。供給増加だけでは価格低下につながらない構造的要因が存在することを指摘。"
-  },
-  {
-    "title": "原油価格は2％以上下落した。 - Vietnam.vn",
-    "timestamp": "2026-09-30T09:37:15+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が2％以上下落した。ニュースソースがベトナム国内メディアで、詳細な背景情報が不明。既に発生した値動きの事後的な報道と考えられる。"
-  },
-  {
-    "title": "Corn Futures価格はUSX522.88のサポート付近を維持、買い手が直近の上昇分を守る - Traders Union",
-    "timestamp": "2026-09-30T12:53:35+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物がUSX522.88のサポート水準付近で推移している。買い手が直近の上昇分を防衛している状況。テクニカル分析に基づく相場観測。"
-  },
-  {
-    "title": "強気の勢いが買われ過ぎの状況に直面するなか、Soybean Futures価格はUSX1,315のレジスタンスを突破するか？ - Traders Union",
-    "timestamp": "2026-09-30T12:30:39+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,315のレジスタンスレベルに到達し、買われ過ぎの状況にあるとの技術分析コメント。強気トレンドが継続するか、調整局面に入るかの転換点を指摘している。"
-  },
-  {
     "title": "【経済フォーカス】借金で蔵を満たす未来対応基金 - 조선일보",
     "timestamp": "2026-09-30T14:50:00+00:00",
     "importance": 1,
@@ -86,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が2025年10月1日に急騰。構造的な買い需要が継続しているが、同時に戦術的な逆風も出現している。短期的な調整圧力と長期的な上昇トレンドが並存する局面。"
-  },
-  {
-    "title": "金相場は4,110ドルから離脱、ホルムズ海峡に関する7日の協議はどこまで進展したか？ - Moomoo",
-    "timestamp": "2026-09-30T10:31:46+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場が4,110ドル水準から動いており、ホルムズ海峡の外交協議の進展状況が注視されている。地政学的リスク要因として認識されているが、具体的な協議内容や合意状況の詳細は不明。"
   },
   {
     "title": "原油先物1ドル上昇、ブレントは月間で14％高 - Reuters",
@@ -1527,5 +1450,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "Southern Copper Corp (SCCO)が10月2日に3.17%上昇した。同社は大手銅生産企業だが、本ニュースは個別株価の動きを事後報告しているもの。"
+  },
+  {
+    "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢 - 株探",
+    "timestamp": "2026-10-02T23:21:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反落。原油の急落に伴いインフレ懸念が後退し、売り優勢となった。金はインフレヘッジ資産であり、インフレ期待低下は金需要を減少させる。"
+  },
+  {
+    "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢 - ｄメニューニュース",
+    "timestamp": "2026-10-02T23:21:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が反落。原油急落に伴いインフレ懸念が後退し、売り圧力が優勢となった。金は実質金利上昇シナリオで売られやすい環境。"
+  },
+  {
+    "title": "NY原油先物：反落、G7の緊急備蓄放出決定で供給混乱懸念が後退 - 株探",
+    "timestamp": "2026-10-02T23:22:42+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が緊急備蓄放出を決定し、ウクライナ情勢による供給混乱懸念が後退。市場は供給安定期待から反落。NY原油先物が値下がり。"
+  },
+  {
+    "title": "米コモディティー市場－天然ガス、銅が上昇 原油、ガソリン、金、銀、トウモロコシ、大豆が下落 - TradingView",
+    "timestamp": "2026-10-02T22:55:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で天然ガスと銅が上昇した一方、原油・ガソリン・金・銀・穀物が下落。日中の相場変動を総括する相場情報。"
   }
 ]
