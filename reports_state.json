@@ -1,38 +1,5 @@
 [
   {
-    "title": "[MARKET ANALYSIS] Crude remains subdued but as US-Iran negotiations struggle for progress; gold firms as yields ease - Newsquawk",
-    "timestamp": "2026-09-30T08:36:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "原油",
-    "summary": "米国とイランの核協議が進展に苦しむ中、原油は軟調に推移している。一方、米国債利回りが低下する中で金は堅調に推移。マクロ環境の不確実性が両市場に相反する影響を与えている状況。"
-  },
-  {
-    "title": "[MARKET ANALYSIS] Crude remains subdued but as US-Iran negotiations struggle for progress; gold firms as yields ease - Newsquawk",
-    "timestamp": "2026-09-30T08:36:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "米国とイランの核協議が進展に苦しむ中、原油は軟調に推移している。一方、米国債利回りが低下する中で金は堅調に推移。マクロ環境の不確実性が両市場に相反する影響を与えている状況。"
-  },
-  {
-    "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - finance.yahoo.com",
-    "timestamp": "2026-09-30T08:52:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で原油生産目標を据え置く方針。減産・増産いずれの決定も示唆されておらず、市場予想の範囲内。現在の生産政策の継続維持が見込まれる。"
-  },
-  {
     "title": "OPEC Expected to Keep Oil Production Quotas Unchanged - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-09-30T13:30:00+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECが石油生産割当量を据え置く見通し。市場では既に予想されていた内容で、大きなサプライズはない。現在の減産合意の継続姿勢を示すもので、原油価格への直接的な新規材料は限定的。"
-  },
-  {
-    "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - Reuters",
-    "timestamp": "2026-09-30T08:55:52+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の定例会合で原油生産目標を据え置く見通し。減産や増産による大幅な政策変更は予定されていないもよう。市場では既にこのシナリオが想定されており、サプライズはほぼない状況。"
   },
   {
     "title": "USDA Pegs Corn Stocks Higher Than Expect in Latest Report - Successful Farming",
@@ -275,39 +231,6 @@
     "summary": "チリのストライキリスクが銅価格を14,400米ドル上方に維持する可能性が検討されている。LME銅在庫は251,350トンで比較的低水準。供給懸念とストライキによる生産制限が銅価格の上昇要因として注視されている。"
   },
   {
-    "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll - Reuters",
-    "timestamp": "2026-09-30T13:05:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロイター調査によると、アナリストが2026年の原油価格見通しを引き上げた。ペルシャ湾地域の供給途絶が長期化する可能性が主因。地政学的リスクが継続するとみられ、来年の原油相場は堅調推移が予想される。"
-  },
-  {
-    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
-    "timestamp": "2026-09-30T12:45:08+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの9月穀物推定値発表を控え、トウモロコシと大豆市場が注視している。WASDE報告書は米国農業市場の重要な価格決定要因であり、作付面積・収穫面積・単収見通しの修正により価格は大きく変動する可能性がある。市場参加者は供給・需要の最新見積もりを待つ段階。"
-  },
-  {
-    "title": "Corn and Soybean Markets Await USDA’s September Crop Estimates - 95.1 The Bull",
-    "timestamp": "2026-09-30T12:45:08+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAの9月穀物推定値発表を控え、トウモロコシと大豆市場が注視している。WASDE報告書は米国農業市場の重要な価格決定要因であり、作付面積・収穫面積・単収見通しの修正により価格は大きく変動する可能性がある。市場参加者は供給・需要の最新見積もりを待つ段階。"
-  },
-  {
     "title": "Corn plunges 20 cents as high USDA stocks stun market - Farm Progress",
     "timestamp": "2026-09-30T18:33:43+00:00",
     "importance": 4,
@@ -350,17 +273,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が生産枠を据え置く見通し。供給政策の継続安定を示唆し、市場は既に織り込み済みとみられる。急激な減産・増産のサプライズなく、原油価格への直接的な上下圧力は限定的。"
-  },
-  {
-    "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll - reuters.com",
-    "timestamp": "2026-09-30T13:05:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロイターポーリングでアナリストが2026年の原油価格予想を引き上げた。理由はペルシャ湾地域の供給途絶が長期化する見通しによるもの。地政学的リスクが当面継続することが価格下支え要因と判断されている。"
   },
   {
     "title": "Corn Drags Down Grains on 2.1 BB Stocks Surprise: Will $5 Hold? - AgWeb",
@@ -471,28 +383,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ルピー安圧力が強まる見通し。原油高と米国利回り上昇がインド通貨を圧迫する一方、FRB利上げ期待の後退も通貨下支えにはならない状況。原油相場の堅調さが継続するシナリオと、米金利低下局面での金への投資妙味が相まって、新興国通貨と商品市場の相関が複雑化している。"
-  },
-  {
-    "title": "Chile Copper Production Sinks to Lowest in More Than 15 Years - Bloomberg.com",
-    "timestamp": "2026-09-30T12:39:04+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "チリの銅生産量が15年以上ぶりの低水準に落ち込んだ。同国は世界最大の銅生産国であり、供給減少は銅市場全体に大きな上昇圧力をもたらす。鉱山の老朽化、水不足、労働争議などが要因と考えられ、構造的な供給制約が顕在化している。"
-  },
-  {
-    "title": "Chile Copper Production Sinks to Lowest in More Than 15 Years - Bloomberg.com",
-    "timestamp": "2026-09-30T12:39:04+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "チリの銅生産量が15年以上ぶりの低水準に落ち込んだ。同国は世界最大の銅生産国であり、供給減少は銅市場全体に大きな上昇圧力をもたらす。鉱山の老朽化、水不足、労働争議などが要因と考えられ、構造的な供給制約が顕在化している。"
   },
   {
     "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
@@ -702,17 +592,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国債利回りが低下し利上げ予想が減少する中、金が堅調推移している。金利低下は無利子資産である金の相対的な魅力を高め、買い支え要因となっている。米金融政策の緩和方向シフトが背景。"
-  },
-  {
-    "title": "Opec+ likely to keep output targets steady at Sunday meeting - Arabian Gulf Business Insight | AGBI",
-    "timestamp": "2026-09-30T10:15:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で現在の産出目標を据え置く見通し。既に市場で織り込まれている減産政策の継続が予想される。供給政策の急激な変更は見込まれず、価格への直接的なショック要因は限定的。"
   },
   {
     "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters",
@@ -977,5 +856,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシアの主要製油所とパイプラインハブに対する攻撃を実施。ロシアはエネルギー大国であり、この供給インフラの破壊は世界的な原油供給の逼迫と価格上昇圧力をもたらす可能性が高い。地政学的リスクの再燃により市場の不確実性が増大。"
+  },
+  {
+    "title": "USDA: Old crop soybean stocks down 3% - Biomass Magazine",
+    "timestamp": "2026-09-30T22:55:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA発表の旧作大豆在庫が前月比3%減少。在庫減少は供給逼迫を示唆し、大豆価格の上昇圧力となる。ただし3%程度の変動は通常範囲内で、市場予想の大幅な乖離ではない。"
+  },
+  {
+    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
+    "timestamp": "2026-10-03T10:30:09+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "NYTの報道によれば、米国とロシアがウクライナ関連の交渉において数十億ドル規模の石油取引を含む協議を進めているとされている。具体的な取引規模は明記されていないが、地政学的リスク低減と供給正常化の可能性が示唆される一方、既存の対ロシア制裁体制との齟齬が生じる可能性がある。"
+  },
+  {
+    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
+    "timestamp": "2026-10-02T13:59:20+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅相場が週間ベースで下落局面を迎えている。主因は高いエネルギーコスト（電力・天然ガス価格の上昇）による需要抑制。製造業やEV産業の電解精銅需要が圧迫される中、欧州などの産業セクターが採算性悪化を懸念している。"
+  },
+  {
+    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
+    "timestamp": "2026-10-02T13:59:20+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "銅相場が週間ベースで下落局面を迎えている。主因は高いエネルギーコスト（電力・天然ガス価格の上昇）による需要抑制。製造業やEV産業の電解精銅需要が圧迫される中、欧州などの産業セクターが採算性悪化を懸念している。"
   }
 ]
