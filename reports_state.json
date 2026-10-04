@@ -1,38 +1,5 @@
 [
   {
-    "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields - Reuters",
-    "timestamp": "2026-10-01T15:59:56+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国債利回りが急上昇している環境下でも、金は上昇余地があると指摘するレポート。金の現物プレミアム（スポット価格と先物の価格差）が根強く維持されており、通常は逆風となる米国債利回りの上昇を相殺する可能性がある。中央銀行による購買需要や地政学的リスク回避が下支えしている。"
-  },
-  {
-    "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields - Reuters",
-    "timestamp": "2026-10-01T15:59:56+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国債利回りが急上昇している環境下でも、金は上昇余地があると指摘するレポート。金の現物プレミアム（スポット価格と先物の価格差）が根強く維持されており、通常は逆風となる米国債利回りの上昇を相殺する可能性がある。中央銀行による購買需要や地政学的リスク回避が下支えしている。"
-  },
-  {
-    "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
-    "timestamp": "2026-10-01T17:14:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が追加的な原油生産増加を承認し、ホルムズ海峡経由の輸出が回復局面を迎えている。同地域の地政学的リスク緩和とサプライチェーン正常化により、原油市場の供給懸念が一部緩和される見通し。既定路線の増産継続と判断される。"
-  },
-  {
     "title": "Oil treads water as market weighs mixed supply signals - Reuters",
     "timestamp": "2026-10-02T01:10:00+00:00",
     "importance": 2,
@@ -330,17 +297,6 @@
     "summary": "銅相場が週間ベースで下落局面を迎えている。主因は高いエネルギーコスト（電力・天然ガス価格の上昇）による需要抑制。製造業やEV産業の電解精銅需要が圧迫される中、欧州などの産業セクターが採算性悪化を懸念している。"
   },
   {
-    "title": "Oil jumps 4% on reports China halts fuel exports, US troops head to Middle East - Reuters",
-    "timestamp": "2026-10-01T16:01:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国の燃料輸出停止報道と米軍中東派遣の報道を受け、原油価格が4%上昇。供給懸念と地政学的リスク上昇が同時に作用した。中国は世界有数の石油精製国であり、輸出停止は市場の供給逼迫懸念を急速に強化。米軍中東派遣はイラン情勢緊張の可能性を示唆し、ペルシア湾のチョークポイント通行リスク増加を示唆。"
-  },
-  {
     "title": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters",
     "timestamp": "2026-10-03T16:14:29+00:00",
     "importance": 3,
@@ -471,5 +427,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "OPEC+が11月の原油生産枠を現状維持する方針で合意の見通しを示した。デリゲートによると、既に合意の枠組みが出ていることが報告されている。既知の減産政策の継続を示唆するもので、市場予想の範囲内の続報。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-10-03T15:08:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAの週間在庫統計により、原油とガソリン在庫が前週比で低下したことが報告された。需要の強さが在庫削減の主要因とされている。在庫減少は需給逼迫を示唆し、原油価格の上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-10-03T15:08:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国EIAの週間在庫統計により、原油とガソリン在庫が前週比で低下したことが報告された。需要の強さが在庫削減の主要因とされている。在庫減少は需給逼迫を示唆し、原油価格の上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "OPEC+ agrees to keep November oil output targets steady - Arab News",
+    "timestamp": "2026-10-04T12:43:54+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は11月の石油生産目標を現状維持することで合意した。これは事前の予想範囲内の決定であり、市場には大きなサプライズをもたらさない。供給政策の安定性が確認されたことで、市場心理は小幅に支持される見込み。"
   }
 ]
