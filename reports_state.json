@@ -1,60 +1,5 @@
 [
   {
-    "title": "EIA reports a rise in US crude oil stocks - engine.online",
-    "timestamp": "2026-10-01T08:31:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の増加を報告した。在庫積増は供給過剰シグナルとして機能し、原油価格に下押し圧力をもたらす。ただし具体的な在庫増加量や前週比データが示されていないため、マーケット反応の大きさは不確定。"
-  },
-  {
-    "title": "Brent declines after EIA reports surprise build in US crude stocks - engine.online",
-    "timestamp": "2026-10-01T10:16:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが発表した米国原油在庫統計で予想外の在庫増加が報告され、Brent原油が下落した。市場はガソリンやディーゼルの需要低迷や供給過剰を懸念し、価格圧力が強まっている。定期統計であるが、サプライズ性により市場反応は限定的ではない。"
-  },
-  {
-    "title": "USDA Quarterly Stocks Holds Bearish Surprise for Corn - AgWeb",
-    "timestamp": "2026-10-01T12:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA四半期在庫統計がトウモロコシについて市場予想を上回る弱気のサプライズをもたらした。在庫が予想より多く積み上がっていることが確認され、供給過剰感が強まった。この結果、トウモロコシ価格への下押し圧力が強まり、市場センチメントが悪化する可能性が高い。"
-  },
-  {
-    "title": "Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com",
-    "timestamp": "2026-10-01T10:52:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "銅相場は安定推移。中国の連休期間中、市場の焦点は供給動向に集中している。需要面での不透明性がある中、供給サイドの状況が価格形成の主要ファクターとなっている。典型的な需給バランス確認期間での値動き制限的な展開が想定される。"
-  },
-  {
-    "title": "Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com",
-    "timestamp": "2026-10-01T10:52:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "銅相場は安定推移。中国の連休期間中、市場の焦点は供給動向に集中している。需要面での不透明性がある中、供給サイドの状況が価格形成の主要ファクターとなっている。典型的な需給バランス確認期間での値動き制限的な展開が想定される。"
-  },
-  {
     "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields - Reuters",
     "timestamp": "2026-10-01T15:59:56+00:00",
     "importance": 4,
@@ -308,17 +253,6 @@
     "summary": "トウモロコシと大豆が収穫圧力の高まりを受けて売られている。WASDE発表を控え、市場は収穫期の供給増加を織り込んでいる。季節的な収穫時期の作物供給増加が価格下落をもたらしている。"
   },
   {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-10-01T11:54:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後の増産計画を推し進め、来年の石油生産量を日量500万バレルを超える水準に引き上げる見通しをIEAが示唆。OPEC加盟時の協調減産からの転換が加速し、供給増が市場に材料となる。"
-  },
-  {
     "title": "OPEC+ Expected to Hold November Quotas Steady at Weekend Meeting - IndexBox",
     "timestamp": "2026-10-03T04:22:57+00:00",
     "importance": 2,
@@ -482,5 +416,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国がフランス・ドイツに対し、ディーゼル在庫の放出を要求し、応じなければ米国の輸出禁止措置を実施すると通達。エネルギー安全保障と欧州への圧力が背景。ウクライナ情勢と関連する地政学的緊張が石油市場に急速な不確実性をもたらす。"
+  },
+  {
+    "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ",
+    "timestamp": "2026-10-04T11:32:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国が中東の地政学的緊張の中、石油産出量を据え置く方針を維持している。供給安定化の姿勢を示す一方で、具体的な新規減産や増産決定は発表されていない模様。地政学リスクプレミアムは既に織り込まれている状況と考えられる。"
+  },
+  {
+    "title": "OPEC+ Set to Keep November Oil Output Targets Steady, Sources Say - themoscowtimes.com",
+    "timestamp": "2026-10-04T07:53:24+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が11月の石油生産目標を据え置くことを発表。複数の情報筋が確認したもので、既に予想されていた内容。現在の減産政策を継続し、市場の過度な供給増加を抑制する姿勢を堅持。"
+  },
+  {
+    "title": "OPEC+ To Keep Oil Quotas Unchanged In November As Iran War Continues To Impact Output, Keeping Crude Prices On The Boil: Report - TradingView",
+    "timestamp": "2026-10-04T11:26:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は11月の原油生産枠を据え置く方針。イラン情勢の継続的な供給影響が価格を支える要因となっている。地政学的リスクが原油需給を圧迫し続ける状況が織り込まれている。"
+  },
+  {
+    "title": "OPEC+ agrees in principle to keep November oil output targets steady, sources say - reuters.com",
+    "timestamp": "2026-10-04T10:25:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+が11月の石油生産目標を現状維持することで基本合意した。前回の減産継続方針から大きな政策転換はなく、市場では既に織り込まれていた可能性が高い。供給政策の安定化は価格変動を抑制する方向に作用する見通し。"
+  },
+  {
+    "title": "OPEC+ Has Deal Outline for Steady November Quotas, Delegates Say - Bloomberg.com",
+    "timestamp": "2026-10-04T11:54:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+が11月の原油生産枠を現状維持する方針で合意の見通しを示した。デリゲートによると、既に合意の枠組みが出ていることが報告されている。既知の減産政策の継続を示唆するもので、市場予想の範囲内の続報。"
   }
 ]
