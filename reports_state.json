@@ -1,49 +1,5 @@
 [
   {
-    "title": "US Corn Ending Stocks Up 35% From Last Year, Soybean Ending Stocks Down 3% - Morning Ag Clips",
-    "timestamp": "2026-09-30T22:43:14+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国農務省のCrop Progress発表によると、2024年度トウモロコシの期末在庫は前年比35%増加と大幅な増加を記録した。一方、大豆の期末在庫は前年比3%減少。供給サイドでは穀物過剰感が強まりつつも、大豆は相対的に逼迫している状況が浮き彫りになった。"
-  },
-  {
-    "title": "US Corn Ending Stocks Up 35% From Last Year, Soybean Ending Stocks Down 3% - Morning Ag Clips",
-    "timestamp": "2026-09-30T22:43:14+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国農務省のCrop Progress発表によると、2024年度トウモロコシの期末在庫は前年比35%増加と大幅な増加を記録した。一方、大豆の期末在庫は前年比3%減少。供給サイドでは穀物過剰感が強まりつつも、大豆は相対的に逼迫している状況が浮き彫りになった。"
-  },
-  {
-    "title": "USDA: Old crop soybean stocks down 3% - Biodiesel Magazine",
-    "timestamp": "2026-09-30T23:28:05+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAのWASDEレポートで旧作大豆在庫（Old crop soybean stocks）が前月比3%減少したことが報告された。在庫水準の低下は需給引き締まりを示唆し、大豆価格に対する上昇圧力となる。バイオディーゼル産業への影響も注視される。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
-    "timestamp": "2026-09-30T21:43:18+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後、原油生産が過去最高水準に接近していることが報道された。OPEC減産体制の制約から解放されたUAEが増産を加速させており、市場供給の増加圧力となる。OPEC結束の弱体化を象徴する動きであり、原油価格への下押し要因となる可能性が高い。"
-  },
-  {
     "title": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus - Reuters",
     "timestamp": "2026-10-01T01:10:00+00:00",
     "importance": 2,
@@ -506,17 +462,6 @@
     "summary": "ウクライナがロシアの主要製油所とパイプラインハブに対する攻撃を実施。ロシアはエネルギー大国であり、この供給インフラの破壊は世界的な原油供給の逼迫と価格上昇圧力をもたらす可能性が高い。地政学的リスクの再燃により市場の不確実性が増大。"
   },
   {
-    "title": "USDA: Old crop soybean stocks down 3% - Biomass Magazine",
-    "timestamp": "2026-09-30T22:55:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA発表の旧作大豆在庫が前月比3%減少。在庫減少は供給逼迫を示唆し、大豆価格の上昇圧力となる。ただし3%程度の変動は通常範囲内で、市場予想の大幅な乖離ではない。"
-  },
-  {
     "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
     "timestamp": "2026-10-03T10:30:09+00:00",
     "importance": 4,
@@ -581,5 +526,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ポッドキャスト形式のニュース報道であり、複数の地政学的イベント（FlyDubai攻撃調査、キエフ橋への攻撃）とG7の戦略備蓄石油放出について扱っている。ウクライナ情勢の悪化は供給リスク要因となる一方、G7による備蓄放出は供給増加圧力として作用する見通し。"
+  },
+  {
+    "title": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence - EnergyNow.com",
+    "timestamp": "2026-10-03T07:44:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+のイラン情勢による市場支配力低下と、中国の石油市場への影響力拡大を指摘するレポート。地政学的緊張下でも、従来のOPECの減産調整メカニズムが機能しにくくなり、需要面での中国の役割が相対的に重要性を増している。価格形成の構造が変化している可能性を示唆。"
   }
 ]
