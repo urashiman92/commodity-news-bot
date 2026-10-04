@@ -1,71 +1,5 @@
 [
   {
-    "title": "今日の午後（10月1日）の金価格：全ブランドで値上がり。 - Vietnam.vn",
-    "timestamp": "2026-10-01T12:36:03+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が10月1日午後に全ブランド横断で値上がりした。地域的な金市場の日次レポートであり、グローバルな需給構造の変化を示唆するものではない。"
-  },
-  {
-    "title": "モルガン・スタンレー、金価格下支え要因3つ指摘 - BeInCrypto",
-    "timestamp": "2026-10-01T07:27:57+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "モルガン・スタンレーが金価格を下支えする3つの要因を指摘。具体的な要因内容は記事概要では不明だが、アナリスト見解として金相場の上昇局面を支持する材料が存在することを示唆。"
-  },
-  {
-    "title": "金価格5,000ドル、銀価格120ドル？モルガン・スタンレー：2027年下半期に実現の可能性、調整局面は買い場の機会 - moomoo.com",
-    "timestamp": "2026-10-01T06:48:26+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "モルガン・スタンレーが2027年下半期に金5,000ドル、銀120ドルへの上昇を予想。現在の調整局面を買い場機会と位置づけている。インフレ・地政学リスク・金融緩和への期待が背景。"
-  },
-  {
-    "title": "TSX先物、債券市場の売りと原油価格の変動で軟調推移 執筆 - Investing.com 日本",
-    "timestamp": "2026-10-01T11:22:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "TSX先物が債券市場売りと原油価格変動の影響で軟調に推移している。カナダ株式市場全体が弱気相場にある中での値動き。"
-  },
-  {
-    "title": "供給削減への懸念にもかかわらず、アジアの原油価格は上昇を続けている。 - Vietnam.vn",
-    "timestamp": "2026-10-01T12:18:25+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アジア地域で原油価格が上昇トレンドを続けている。供給削減への懸念が存在するが、市場は価格上昇を織り込みつつある。既報事象の相場振り返り解説と考えられる。"
-  },
-  {
-    "title": "ブレント原油先物 (UKOIL-F) は10月1日に急激に動いた：在庫、ドル、それとも地政学的要因か？ - TradingKey",
-    "timestamp": "2026-10-01T07:31:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月1日のブレント原油先物の値動きについて、複数の要因（在庫、ドル、地政学）が考えられるとの分析記事。具体的な方向性や変動幅は明記されていない。既に発生した価格変動の事後解説的な内容。"
-  },
-  {
     "title": "金価格は8ヶ月間下落し続けており、ピーク時に購入した人々は1オンスあたり5000万ベトナムドンもの損失を被った。 - Vietnam.vn",
     "timestamp": "2026-10-01T17:09:55+00:00",
     "importance": 2,
@@ -88,17 +22,6 @@
     "summary": "ベトナムの金価格が世界価格より緩やかに下落し、国内需要が冷え込んでいる状況を報道。一方で第4四半期に価格上昇の可能性を指摘する観測記事。"
   },
   {
-    "title": "$WTI 原油先物(2611) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
-    "timestamp": "2026-10-01T06:17:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とブレント先物の価格情報を表示するMoomooのリンク記事。具体的なニュース内容や市場動向に関する記述がない。"
-  },
-  {
     "title": "トウモロコシ先物価格見通し：USX512.31のレジスタンス付近でのもみ合いが短期的な方向性を制限 - Traders Union",
     "timestamp": "2026-10-01T12:58:32+00:00",
     "importance": 2,
@@ -108,17 +31,6 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "トウモロコシ先物はUSX512.31のレジスタンス水準付近でもみ合っている。短期的な価格方向性が限定されている状況にある。アナリストによる技術的な相場観の提示。"
-  },
-  {
-    "title": "大豆先物価格はUSX1,283のサポート付近で推移、目先のレジスタンスが上値を抑制 - Traders Union",
-    "timestamp": "2026-10-01T12:29:33+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,283のサポート水準付近で推移している。目先のレジスタンスが上値を抑制しており、テクニカルレベルでの値動きとなっている。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4177ドル｜米長期金利の低下が影響した模様(2026年10月2日) - OANDA Japan",
@@ -185,17 +97,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国が中東に航空母艦を派遣する動きが報じられ、NY原油先物が買い進まれた。地政学リスクに対する供給懸念が相場を支持。中東での緊張激化による原油供給寸断のリスクが意識されている。"
-  },
-  {
-    "title": "🛢️ #WTI #原油 #オイル | 4時間足テクニカル見通し 📊 - moomoo.com",
-    "timestamp": "2026-10-01T10:13:46+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油の4時間足テクニカル分析記事。moomoo.comによるチャート解説。具体的な価格予想や材料がないため、市場への直接的な影響は限定的。"
   },
   {
     "title": "１日の主要国際商品市況 - 株探",
@@ -1329,5 +1230,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "IEAが原油価格安定化を目的に備蓄から3億2500万バレルを放出。供給量増加により価格下押し圧力が生じる。主要国の協調的な供給増加措置。"
+  },
+  {
+    "title": "金価格は1オンスあたり4,200ドルに達する見込みだが、専門家は依然として慎重な姿勢を崩していない一方、個人投資家は来週の金価格の上昇に楽観的な見方を示している。 - Vietnam.vn",
+    "timestamp": "2026-10-04T11:47:29+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,200ドルに到達する見通しが示されている。専門家は慎重だが、個人投資家は強気姿勢を示している。市場心理の乖離が存在する状況。"
+  },
+  {
+    "title": "先週のSJC金価格：大きな変動 - Vietnam.vn",
+    "timestamp": "2026-10-04T09:25:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が先週大きく変動したことを報じるニュース。具体的な価格水準や変動幅、原因が記事概要では不明。地域的な相場変動の報告と思われる。"
+  },
+  {
+    "title": "金価格が4,200ドルを下回ったが、専門家は何を警告しているのか？ - Vietnam.vn",
+    "timestamp": "2026-10-04T08:31:41+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,200ドルを下回る水準まで下落。専門家による警告的なコメンタリーが掲載されている。市場心理の悪化を反映した動きと解釈される。"
+  },
+  {
+    "title": "本日（2026年10月4日）の金価格：SJC金は1オンスあたり1億4050万～1億4350万ベトナムドンで推移。 - Vietnam.vn",
+    "timestamp": "2026-10-04T11:19:32+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金が1オンスあたり1億4050万～1億4350万ベトナムドンで推移している現地相場レポート。ベトナム国内の金価格の日次公表値であり、グローバル市場への直接的な影響度は限定的。"
+  },
+  {
+    "title": "本日（2026年10月4日午後）の金価格：SJC、BTMC、BTMH、DOJIの金終値。 - Vietnam.vn",
+    "timestamp": "2026-10-04T08:53:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金現物市場における2026年10月4日午後の終値報告。SJC、BTMC、BTMH、DOJIなど複数の市場指標の終値を記載した定期的な相場情報。"
+  },
+  {
+    "title": "原油価格が上昇、ホルムズ海峡の閉鎖懸念が供給不安を強める - mezha.net",
+    "timestamp": "2026-10-04T11:28:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡の閉鎖懸念が台頭し、原油価格が上昇。同海峡は世界の石油輸送の約20-30%を占める重要な供給ルートであり、供給リスク要因として機能している。"
+  },
+  {
+    "title": "G7の決定は、短期的には原油価格を大幅に押し下げる可能性がある。 - Vietnam.vn",
+    "timestamp": "2026-10-04T05:54:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が原油価格抑制に向けた決定を行った。短期的には価格押し下げ圧力になる可能性が指摘されている。具体的措置の詳細は不明だが、政策による価格抑制意思を示した。"
+  },
+  {
+    "title": "【謀週記】原油価格、原油価格、そして原油価格（2026年第40週｜通算第290号） - Moomoo",
+    "timestamp": "2026-10-03T13:51:32+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格に関する相場解説記事。タイトルから具体的なニュース内容が不明。定期的な市場振り返りコンテンツと推定される。"
+  },
+  {
+    "title": "主要7ヵ国(G7)が今後4ヵ月にわたって備蓄軽油と原油1億バレルを放出することで合意した。 ドナルド·トランプ米国大統領が11月の中間選挙を控えて原油価格を抑えるために全方位的圧迫を加えながら急いで合.. - 매일경제",
+    "timestamp": "2026-10-04T08:18:35+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7が4ヵ月で戦略備蓄から1億バレルの原油と軽油を放出することで合意。米国がインフレ抑制と中間選挙対策として主導。供給増加による価格押し下げ圧力が発生。"
   }
 ]
