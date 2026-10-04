@@ -1,82 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4157ドル｜米長期金利やドルインデックスの上昇が影響した模様(2026年10月1日) - OANDA Japan",
-    "timestamp": "2026-09-30T23:06:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4157ドルまで下落。米長期金利上昇とドルインデックス強化が主要な押し下げ要因。既知の金利・ドル動向に基づく技術的な価格調整。"
-  },
-  {
-    "title": "今日の金価格（10月1日）：急騰 - Vietnam.vn",
-    "timestamp": "2026-09-30T23:05:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月1日の金価格が急騰したとの報道。具体的な上昇率や背景要因は記事概要から不明。相場の振り返りまたはベトナム市場の地域的な価格動向の可能性。"
-  },
-  {
-    "title": "本日（10月1日）の金価格：4,200ドルに迫る。 - Vietnam.vn",
-    "timestamp": "2026-09-30T22:05:25+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,200ドルに接近している。継続的な強気相場が続いている。市場の振り返り・観測記事。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの交渉停滞ムードが影響し、原油価格は反発（2026年10月1日） - OANDA Japan",
-    "timestamp": "2026-09-30T23:11:53+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの交渉が停滞していることを背景に、地政学的リスク懸念からWTI原油価格が反発した。交渉進展の不透明性が供給リスク意識を高めている。"
-  },
-  {
-    "title": "東京為替見通し＝日銀短観と「主な意見」に注目、原油相場も波乱要因か - ザイFX！",
-    "timestamp": "2026-09-30T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日銀短観と政策方針の発表が注目される中、原油相場が為替市場の波乱要因として言及されている。原油価格の変動が円相場に影響する可能性を指摘したコメンタリー。"
-  },
-  {
-    "title": "米イラン協議が暗礁に、原油相場は月間で大幅高 ブレントは単月14％上昇 - BigGo ファイナンス",
-    "timestamp": "2026-09-30T23:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン核協議の決裂により、中東地政学リスクが高まった。ブレント原油は月間で14%の大幅上昇を記録し、供給途絶懸念が価格を押し上げた。イラン関連の地政学的緊張は原油相場の重要なドライバー。"
-  },
-  {
-    "title": "９月３０日の主要国際商品市況 - 株探",
-    "timestamp": "2026-09-30T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "9月30日の国際商品市況の日次レポート。具体的な価格データや市場動向の詳細は記事本文にアクセスが必要。定期的な市場振り返り記事と推定される。"
-  },
-  {
     "title": "金（ゴールド）週間見通し｜物価鈍化でも金は低迷、4,240ドル回復の条件は 2026年10月1日 - 外為どっとコム",
     "timestamp": "2026-10-01T02:56:24+00:00",
     "importance": 2,
@@ -108,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が過去半年で約10%下落している。モルガン・スタンレーは金を支える3つの要因を指摘しており、アナリスト見解の提示を通じて相場の下支え材料を示唆している。"
-  },
-  {
-    "title": "世界の金価格は若干下落したが、長期的な下支え要因は何だろうか？ - Vietnam.vn",
-    "timestamp": "2026-10-01T00:15:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が若干下落している状況について、長期的な下支え要因の存在を指摘する解説記事。短期的な値動きよりも構造的なサポート要因に焦点を当てている。"
   },
   {
     "title": "ニューヨーク原油・金先物市場概況（30日）原油は反発 - Moomoo",
@@ -209,28 +121,6 @@
     "summary": "原油価格の乱高下を指摘するコメンタリー記事。特定のファンダメンタルズ変化や供給ショックを報じていない。マレーシア上場企業への影響言及だが、市場動向の一般的な警告に留まる。"
   },
   {
-    "title": "９月３０日の主要国際商品市況 (2026年10月1日掲載) - ライブドアニュース",
-    "timestamp": "2026-09-30T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "9月30日の主要国際商品市況の定期的な相場レポート。具体的な価格データや市場イベントの詳細が記事本文なしでは判断不可。"
-  },
-  {
-    "title": "９月３０日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-09-30T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "9月30日の主要国際商品市況に関する定期的な市況報告。具体的な価格動向やニュースの詳細が記事本文に記載されていないため、詳細な分析が困難。"
-  },
-  {
     "title": "打たれ強い金価格 - 三菱マテリアル GOLDPARK",
     "timestamp": "2026-10-01T05:29:40+00:00",
     "importance": 2,
@@ -284,17 +174,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "TSX先物が債券市場売りと原油価格変動の影響で軟調に推移している。カナダ株式市場全体が弱気相場にある中での値動き。"
-  },
-  {
-    "title": "【市場概況】東京為替見通し＝日銀短観と「主な意見」に注目、原油相場も波乱要因か - 外為どっとコム",
-    "timestamp": "2026-09-30T23:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日銀短観と主な意見発表に注目する日本の為替市場見通し。原油相場が波乱要因として言及されているが、具体的な材料や見通しは記事から不明。"
   },
   {
     "title": "供給削減への懸念にもかかわらず、アジアの原油価格は上昇を続けている。 - Vietnam.vn",
@@ -1406,5 +1285,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国が中東にイスラエル支援のため3隻目空母と1万人兵士を追加派遣。地政学的緊張により原油供給懸念が高まり、NY原油先物が続伸。中東紛争エスカレーションリスクは市場で既に注視されている状況。"
+  },
+  {
+    "title": "アングル：金価格、米国債利回り上昇でも4000ドル台維持 中銀の準備資産分散が下支え - ニューズウィーク日本版",
+    "timestamp": "2026-10-03T23:16:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が米国債利回り上昇にもかかわらず4000ドル台を維持している。中央銀行による準備資産分散（金の購入需要）が下支え要因として機能している。米債利回り上昇という逆風でも価格が堅調な背景には機関的な需要基盤がある。"
+  },
+  {
+    "title": "本日（10月4日）の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-10-03T23:00:25+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月4日の金価格が全般的に下落。ベトナムの報道による相場レポート。具体的な下落率や下落要因は記事から不明。"
+  },
+  {
+    "title": "アングル：金価格、米国債利回り上昇でも4000ドル台維持 中銀の準備資産分散が下支え - Infoseek",
+    "timestamp": "2026-10-03T23:14:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が米国債利回り上昇にもかかわらず4000ドル台を維持している。中央銀行による準備資産の分散需要が価格の下支え要因となっている。金利上昇という逆風の中でも需要が堅調に推移している局面を示唆。"
+  },
+  {
+    "title": "10月4日朝の金価格更新:下落、短期的なシナリオ - Laodong.vn",
+    "timestamp": "2026-10-03T23:44:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月4日朝時点で金価格が下落している。ベトナムメディアによる短期的な相場振り返り記事。具体的な下げ幅や下落理由の詳細は記事概要からは不明。"
+  },
+  {
+    "title": "2026年10月4日現在の金価格：SJCの金価格は引き続き下落、金リングは全体的に価格調整を実施。 - Vietnam.vn",
+    "timestamp": "2026-10-03T23:09:36+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が引き続き下落している。金リングも全体的に価格調整を実施中。地域的な相場動向の報告。"
+  },
+  {
+    "title": "本日（10月4日）の金価格：金地金は軒並み下落。 - Vietnam.vn",
+    "timestamp": "2026-10-03T21:57:26+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月4日時点で金地金価格が広範に下落した。ベトナムの報道による日次相場レポート。具体的な下落理由や幅は記事要約には記載されていない。"
+  },
+  {
+    "title": "本日（10月4日）の燃料価格：世界の原油価格は安定しており、新たな週の初めの価格動向を待っている。 - Vietnam.vn",
+    "timestamp": "2026-10-03T23:09:36+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月4日時点で世界原油価格は安定推移。新週開始時の価格動向を注視する段階。具体的な新規材料や大幅な変動はなし。"
   }
 ]
