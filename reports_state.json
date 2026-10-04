@@ -1,49 +1,5 @@
 [
   {
-    "title": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus - Reuters",
-    "timestamp": "2026-10-01T01:10:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "湾岸地域の石油輸出が回復基調にあり、供給不安が緩和されたことで原油価格が軟化。一方、米国とイラン間の外交交渉が注視されており、地政学的リスク要因は引き続き価格に影響する可能性がある。"
-  },
-  {
-    "title": "Rupee to weaken as oil, US yields weigh; fading Fed hike bets offer no relief - Reuters",
-    "timestamp": "2026-10-01T02:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ルピー安圧力が強まる見通し。原油高と米国利回り上昇がインド通貨を圧迫する一方、FRB利上げ期待の後退も通貨下支えにはならない状況。原油相場の堅調さが継続するシナリオと、米金利低下局面での金への投資妙味が相まって、新興国通貨と商品市場の相関が複雑化している。"
-  },
-  {
-    "title": "Rupee to weaken as oil, US yields weigh; fading Fed hike bets offer no relief - Reuters",
-    "timestamp": "2026-10-01T02:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "ルピー安圧力が強まる見通し。原油高と米国利回り上昇がインド通貨を圧迫する一方、FRB利上げ期待の後退も通貨下支えにはならない状況。原油相場の堅調さが継続するシナリオと、米金利低下局面での金への投資妙味が相まって、新興国通貨と商品市場の相関が複雑化している。"
-  },
-  {
-    "title": "Rupee to weaken as oil, US yields weigh; fading Fed hike bets offer no relief - Reuters",
-    "timestamp": "2026-10-01T02:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ルピー安圧力が強まる見通し。原油高と米国利回り上昇がインド通貨を圧迫する一方、FRB利上げ期待の後退も通貨下支えにはならない状況。原油相場の堅調さが継続するシナリオと、米金利低下局面での金への投資妙味が相まって、新興国通貨と商品市場の相関が複雑化している。"
-  },
-  {
     "title": "EIA reports a rise in US crude oil stocks - engine.online",
     "timestamp": "2026-10-01T08:31:12+00:00",
     "importance": 2,
@@ -77,28 +33,6 @@
     "summary": "USDA四半期在庫統計がトウモロコシについて市場予想を上回る弱気のサプライズをもたらした。在庫が予想より多く積み上がっていることが確認され、供給過剰感が強まった。この結果、トウモロコシ価格への下押し圧力が強まり、市場センチメントが悪化する可能性が高い。"
   },
   {
-    "title": "Gold gains as cooler US inflation data counters higher Treasury yields - Reuters",
-    "timestamp": "2026-10-01T04:48:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国インフレデータが予想より低かったことで金が上昇した。低インフレは金利低下圧力をもたらす一方、米国債利回りの上昇が金の利回り非保有資産としての魅力を減少させるという相反する要因が存在する。金価格はこれら二つの力学の綱引きの中で推移している。"
-  },
-  {
-    "title": "Gold gains as cooler US inflation data counters higher Treasury yields - Reuters",
-    "timestamp": "2026-10-01T04:48:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国インフレデータが予想より低かったことで金が上昇した。低インフレは金利低下圧力をもたらす一方、米国債利回りの上昇が金の利回り非保有資産としての魅力を減少させるという相反する要因が存在する。金価格はこれら二つの力学の綱引きの中で推移している。"
-  },
-  {
     "title": "Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com",
     "timestamp": "2026-10-01T10:52:13+00:00",
     "importance": 2,
@@ -121,17 +55,6 @@
     "summary": "銅相場は安定推移。中国の連休期間中、市場の焦点は供給動向に集中している。需要面での不透明性がある中、供給サイドの状況が価格形成の主要ファクターとなっている。典型的な需給バランス確認期間での値動き制限的な展開が想定される。"
   },
   {
-    "title": "OPEC+ likely to keep November output targets steady at Sunday meeting, sources tell Reuters - Oil & Gas Middle East",
-    "timestamp": "2026-10-01T05:25:32+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で11月の生産目標を据え置く見通し。複数の情報筋がロイターに語った。減産深掘りや増産の動きはなく、現状維持の方針が示唆される。市場は既にこの結果を織り込んでいる可能性が高い。"
-  },
-  {
     "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields - Reuters",
     "timestamp": "2026-10-01T15:59:56+00:00",
     "importance": 4,
@@ -152,17 +75,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国債利回りが急上昇している環境下でも、金は上昇余地があると指摘するレポート。金の現物プレミアム（スポット価格と先物の価格差）が根強く維持されており、通常は逆風となる米国債利回りの上昇を相殺する可能性がある。中央銀行による購買需要や地政学的リスク回避が下支えしている。"
-  },
-  {
-    "title": "Chinese refiners suspend October fuel exports to bolster stocks, sources say - Reuters",
-    "timestamp": "2026-10-01T04:57:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国の精油所が10月の燃料輸出を停止し、国内在庫積み増しに方針転換。原油需要の先延ばし効果により、短期的には原油価格に下押し圧力が生じる可能性がある。中国の石油需要管理の変化は世界市場の需給バランスに影響を及ぼす。"
   },
   {
     "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
@@ -396,17 +308,6 @@
     "summary": "トウモロコシと大豆が収穫圧力の高まりを受けて売られている。WASDE発表を控え、市場は収穫期の供給増加を織り込んでいる。季節的な収穫時期の作物供給増加が価格下落をもたらしている。"
   },
   {
-    "title": "Corn sells off after USDA quarterly stocks data - Brownfield Ag News",
-    "timestamp": "2026-10-01T01:29:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA四半期在庫データ公表後、トウモロコシが売り圧力を受けて下落した。四半期ベースの在庫統計は定期発表であり、市場がこのデータに対して在庫が予想より多かった、または需要見通しが弱かったと解釈した可能性が高い。価格反応から市場コンセンサスからの乖離が生じたと考えられる。"
-  },
-  {
     "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
     "timestamp": "2026-10-01T11:54:50+00:00",
     "importance": 3,
@@ -537,5 +438,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+のイラン情勢による市場支配力低下と、中国の石油市場への影響力拡大を指摘するレポート。地政学的緊張下でも、従来のOPECの減産調整メカニズムが機能しにくくなり、需要面での中国の役割が相対的に重要性を増している。価格形成の構造が変化している可能性を示唆。"
+  },
+  {
+    "title": "Corn and Wheat Fight Back as USDA Stocks Keep Grain Markets on Edge - AgroLatam",
+    "timestamp": "2026-10-01T22:13:42+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの穀物在庫統計が市場の緊張感を高めている中、トウモロコシと小麦は価格回復の動きを見せている。在庫データが穀物市場の方向性を決める重要な局面であり、投資家の注視が続いている。具体的な在庫数値の推移が今後の価格トレンドを左右する。"
+  },
+  {
+    "title": "Corn and Wheat Fight Back as USDA Stocks Keep Grain Markets on Edge - AgroLatam",
+    "timestamp": "2026-10-01T22:13:42+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAの穀物在庫統計が市場の緊張感を高めている中、トウモロコシと小麦は価格回復の動きを見せている。在庫データが穀物市場の方向性を決める重要な局面であり、投資家の注視が続いている。具体的な在庫数値の推移が今後の価格トレンドを左右する。"
+  },
+  {
+    "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
+    "timestamp": "2026-10-02T08:51:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がフランス・ドイツに対し、ディーゼル在庫の放出を要求し、応じなければ米国の輸出禁止措置を実施すると通達。エネルギー安全保障と欧州への圧力が背景。ウクライナ情勢と関連する地政学的緊張が石油市場に急速な不確実性をもたらす。"
+  },
+  {
+    "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
+    "timestamp": "2026-10-02T08:51:36+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国がフランス・ドイツに対し、ディーゼル在庫の放出を要求し、応じなければ米国の輸出禁止措置を実施すると通達。エネルギー安全保障と欧州への圧力が背景。ウクライナ情勢と関連する地政学的緊張が石油市場に急速な不確実性をもたらす。"
   }
 ]
