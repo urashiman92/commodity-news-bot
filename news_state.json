@@ -1,115 +1,5 @@
 [
   {
-    "title": "NY金先物は3営業日続伸、米長期債利回りの低下を受けた押し目買いが優勢｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-02T00:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が3営業日連続で上昇。米長期債利回りの低下が買い材料となり、押し目買いが優勢。金と米債利回りの逆相関関係が機能している状況。"
-  },
-  {
-    "title": "NY金先物が3日続伸、米長期金利の低下で押し目買い 原油は中東懸念で急伸 - BigGo ファイナンス",
-    "timestamp": "2026-10-02T01:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が3日続伸し、米長期金利の低下に伴う押し目買いが発生。同時に中東懸念により原油が急伸。金と原油で異なるドライバーが作用。"
-  },
-  {
-    "title": "世界的な金価格は、1ヶ月間の急落の後、支えを求めている。 - Vietnam.vn",
-    "timestamp": "2026-10-02T00:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は1ヶ月間の急落後、下値支持を求めている状況。現在の相場は調整局面にあり、技術的なサポートレベルが意識されている。"
-  },
-  {
-    "title": "HSBCが金価格目標を引き下げ 金は短期的に4,000ドルの節目を試す可能性 - BigGo ファイナンス",
-    "timestamp": "2026-10-02T02:05:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "HSBCが金の価格目標を引き下げた。短期的には金価格が4,000ドル水準をテストする可能性がある。金投資家にとって弱気シグナルの発信。"
-  },
-  {
-    "title": "原油先物は小幅高、供給巡る強弱材料を見極め - Reuters",
-    "timestamp": "2026-10-02T01:57:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が小幅高で推移。供給面での強気・弱気材料が混在しており、市場はその見極めに注力している状況。具体的な新規ニュースというより、既存要因の整理段階。"
-  },
-  {
-    "title": "原油先物は小幅高、供給巡る強弱材料を見極め - ニューズウィーク日本版",
-    "timestamp": "2026-10-02T01:57:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が小幅高で推移している。供給面での強弱材料が混在し、市場が方向性を定めあぐねている状況。具体的な供給ショックや統計発表ではなく相場観測記事。"
-  },
-  {
-    "title": "米国が中東への軍事プレゼンス強化を検討、原油価格は高値を維持 執筆 - Investing.com 日本",
-    "timestamp": "2026-10-02T01:50:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国が中東への軍事プレゼンス強化を検討。地政学的リスクプレミアムが原油相場を支えている。既に市場では中東情勢への警戒が織り込まれている。"
-  },
-  {
-    "title": "中東緊張と中国の輸出停止で国際原油価格が急騰、韓国石油精製株が軒並み上昇 - BigGo ファイナンス",
-    "timestamp": "2026-10-02T01:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東地政学リスク高まりと中国輸出制限が同時発生し、供給懸念が急速に増大。国際原油価格が急騰し、精製業者の収益性改善で関連株が上昇。"
-  },
-  {
-    "title": "原油先物は小幅高、供給巡る強弱材料を見極め - Infoseek",
-    "timestamp": "2026-10-02T01:57:12+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物は小幅な上昇で推移。供給面で強弱の相反する材料が存在し、市場参加者が判断を見極めている状況。明確な方向性を欠いた様子見相場。"
-  },
-  {
-    "title": "本日（10月2日）の燃料価格：世界の原油価格が急騰、国内ガソリン価格も小幅上昇。 - Vietnam.vn",
-    "timestamp": "2026-10-01T23:27:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格が急騰しており、ベトナム国内のガソリン価格も連動して小幅上昇した。定期的な燃料価格の動向報告ニュース。"
-  },
-  {
     "title": "金価格は横ばい、強いドルと高利回りが重荷―米雇用統計待ち 執筆 - Investing.com 日本",
     "timestamp": "2026-10-02T05:06:00+00:00",
     "importance": 2,
@@ -1307,5 +1197,159 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "2日の主要国際商品市況に関するニュース記事。具体的な価格動向や市場材料が記事本文から確認できない。定期的な市場レビュー報道と考えられる。"
+  },
+  {
+    "title": "弱い雇用統計がFRB利上げ観測を後退させ、金価格が小幅反発 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-05T01:16:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "弱い米国雇用統計がFRBの利上げ観測を後退させた。金利低下期待が金価格を小幅押し上げた。インフレ鈍化を示唆する指標として機能。"
+  },
+  {
+    "title": "国内および国際的な金価格が同時に下落した。 - Vietnam.vn",
+    "timestamp": "2026-10-05T01:29:51+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで国内および国際的な金価格が同時に下落したとの報道。具体的な下落率や原因は記事概要からは不明。通常のボラティリティの範囲内と判断される。"
+  },
+  {
+    "title": "金価格は高値圏で横ばい、米インフレ指標と金融当局議長の発言に市場注目 - Межа. Новини України.",
+    "timestamp": "2026-10-05T00:30:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が高値圏で横ばいで推移している。米インフレ指標と金融当局議長の発言が今後の相場方向を左右する注目材料となっている。"
+  },
+  {
+    "title": "金価格が上昇モメンタムを回復、強気相場回帰へ：注目すべき金関連銘柄は？ - TradingKey",
+    "timestamp": "2026-10-04T10:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が上昇モメンタムを回復し、強気相場への回帰が指摘されている。アナリストが金関連銘柄への注目を促す解説記事。市場心理の転換を示唆している。"
+  },
+  {
+    "title": "東京金 軟調 - みんかぶ FX/為替",
+    "timestamp": "2026-10-05T01:39:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "東京金相場が軟調な推移を示している。具体的な値動き幅や下落理由の詳細は記事概要からは不明。相場の振り返り・観測記事と考えられる。"
+  },
+  {
+    "title": "来週の金価格予測：専門家は4000ドルまで下落する可能性を警告している。 - Vietnam.vn",
+    "timestamp": "2026-10-04T21:28:16+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "専門家が来週の金価格が4000ドルまで下落する可能性を警告している。既に報じられた市場見通しの一つであり、具体的な新規情報は含まれていない。アナリスト予測の域を出ていない。"
+  },
+  {
+    "title": "10月5日現在の金価格：世界の金価格が再び上昇、SJCの金価格はどこまで上昇するのか？ - Vietnam.vn",
+    "timestamp": "2026-10-05T00:39:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月5日時点で世界の金価格が再び上昇傾向にあることを報じている。ベトナムのSJC金価格への影響について言及。既に織り込まれた相場動向の解説。"
+  },
+  {
+    "title": "サウジ、11月のアジア向け原油価格を予想外に引き下げ - ニューズウィーク日本版",
+    "timestamp": "2026-10-05T00:33:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアが11月のアジア向け原油価格を予想外に引き下げた。市場では値上げまたは据え置きが予想されていた。供給増加シグナルとして原油相場に下押し圧力をもたらす。"
+  },
+  {
+    "title": "サウジ、11月のアジア向け原油価格を予想外に引き下げ - reuters.com",
+    "timestamp": "2026-10-05T00:34:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラムコが11月のアジア向け原油価格（公式販売価格）を予想外に引き下げた。市場コンセンサスでは据え置きまたは小幅引き上げが見込まれていたため、サプライズ。供給過剰感や需要懸念を反映した値下げ戦略であり、原油相場の下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "中東からの原油輸出回復とG7の緊急備蓄放出で原油価格が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-05T02:03:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東からの原油輸出が回復し、G7が緊急備蓄を放出することで、原油価格が下落した。需給面での供給増加と備蓄放出による供給圧力が相場を押し下げた。"
+  },
+  {
+    "title": "原油先物下落に転じる、中東輸出増とＧ７備蓄放出で供給拡大観測（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-10-05T02:06:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東からの輸出増加とG7による戦略備蓄放出が供給拡大をもたらすとの観測から、原油先物が下落に転じた。供給増加見通しが価格を圧迫している。"
+  },
+  {
+    "title": "原油、100ドル近辺で推移——G7備蓄放出と湾岸輸出増も供給懸念を払拭できず - BigGo ファイナンス",
+    "timestamp": "2026-10-05T02:05:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "G7による戦略備蓄放出と湾岸地域の輸出増加が進行中だが、市場の供給懸念は払拭されておらず、原油は100ドル近辺での動きが続いている。供給増加施策と懸念要因が相殺され、相場は膠着状態。"
+  },
+  {
+    "title": "２日の主要国際商品市況 (2026年10月5日掲載) - ライブドアニュース",
+    "timestamp": "2026-10-04T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年10月2日の主要国際商品市況に関する定期的な市況報告。具体的な価格変動や市況内容は記事概要に記載されていない。コモディティ全般の日次レビュー記事と思われる。"
+  },
+  {
+    "title": "２日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-10-04T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2日の主要国際商品市況についての定期ニュース。具体的な価格動向や商品別の変動内容が不明。市場の日次ダイジェスト的な報道と推察される。"
   }
 ]
