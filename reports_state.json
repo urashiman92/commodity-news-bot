@@ -11,28 +11,6 @@
     "summary": "原油市場は供給シグナルの混在を受けて方向感を欠いている。市場参加者は増産と減産の相反する要因のバランスを計量中。供給見通しの不確実性が価格の底堅さと天井を同時に形成している状況。"
   },
   {
-    "title": "Gold Steadies as Easing US Bond Yields Reduce Rate-Hike Bets - Bloomberg.com",
-    "timestamp": "2026-10-02T00:14:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国債利回りが低下し利上げ予想が減少する中、金が堅調推移している。金利低下は無利子資産である金の相対的な魅力を高め、買い支え要因となっている。米金融政策の緩和方向シフトが背景。"
-  },
-  {
-    "title": "Gold Steadies as Easing US Bond Yields Reduce Rate-Hike Bets - Bloomberg.com",
-    "timestamp": "2026-10-02T00:14:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国債利回りが低下し利上げ予想が減少する中、金が堅調推移している。金利低下は無利子資産である金の相対的な魅力を高め、買い支え要因となっている。米金融政策の緩和方向シフトが背景。"
-  },
-  {
     "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters",
     "timestamp": "2026-10-02T11:58:10+00:00",
     "importance": 4,
@@ -330,28 +308,6 @@
     "summary": "OPEC+のイラン情勢による市場支配力低下と、中国の石油市場への影響力拡大を指摘するレポート。地政学的緊張下でも、従来のOPECの減産調整メカニズムが機能しにくくなり、需要面での中国の役割が相対的に重要性を増している。価格形成の構造が変化している可能性を示唆。"
   },
   {
-    "title": "Corn and Wheat Fight Back as USDA Stocks Keep Grain Markets on Edge - AgroLatam",
-    "timestamp": "2026-10-01T22:13:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの穀物在庫統計が市場の緊張感を高めている中、トウモロコシと小麦は価格回復の動きを見せている。在庫データが穀物市場の方向性を決める重要な局面であり、投資家の注視が続いている。具体的な在庫数値の推移が今後の価格トレンドを左右する。"
-  },
-  {
-    "title": "Corn and Wheat Fight Back as USDA Stocks Keep Grain Markets on Edge - AgroLatam",
-    "timestamp": "2026-10-01T22:13:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAの穀物在庫統計が市場の緊張感を高めている中、トウモロコシと小麦は価格回復の動きを見せている。在庫データが穀物市場の方向性を決める重要な局面であり、投資家の注視が続いている。具体的な在庫数値の推移が今後の価格トレンドを左右する。"
-  },
-  {
     "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
     "timestamp": "2026-10-02T08:51:36+00:00",
     "importance": 4,
@@ -471,5 +427,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "イランの石油相が個人的な理由により辞任したと国営メディアが報じた。後任の任命時期や政策方向性は不明。イランの原油輸出能力や交渉スタンスに直結する人事だが、辞任理由が政治的ではなく個人的とされており、供給政策の急変リスクは限定的と考えられる。"
+  },
+  {
+    "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - reuters.com",
+    "timestamp": "2026-10-04T23:51:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンの親イラン武装勢力フーシ派がサウジアラムコの施設を攻撃し、原油価格が上昇した。中東での地政学的緊張が急速に高まり、世界最大級の産油国サウジアラビアの供給途絶リスクが顕在化。供給ショック懸念から原油は即座に反応した。"
+  },
+  {
+    "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-04T22:17:26+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株上昇と米国金利上昇見直しの緩和を背景に、リスク資産への需要が回復。原油は上昇する見通しだが、金利低下期待が薄れることで金は下押し圧力を受ける。マクロ環境の転換点を示唆している。"
+  },
+  {
+    "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-04T22:17:26+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株上昇と米国金利上昇見直しの緩和を背景に、リスク資産への需要が回復。原油は上昇する見通しだが、金利低下期待が薄れることで金は下押し圧力を受ける。マクロ環境の転換点を示唆している。"
+  },
+  {
+    "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-04T22:17:26+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "アジア株上昇と米国金利上昇見直しの緩和を背景に、リスク資産への需要が回復。原油は上昇する見通しだが、金利低下期待が薄れることで金は下押し圧力を受ける。マクロ環境の転換点を示唆している。"
   }
 ]
