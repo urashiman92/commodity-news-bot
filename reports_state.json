@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil treads water as market weighs mixed supply signals - Reuters",
-    "timestamp": "2026-10-02T01:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油市場は供給シグナルの混在を受けて方向感を欠いている。市場参加者は増産と減産の相反する要因のバランスを計量中。供給見通しの不確実性が価格の底堅さと天井を同時に形成している状況。"
-  },
-  {
     "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters",
     "timestamp": "2026-10-02T11:58:10+00:00",
     "importance": 4,
@@ -64,28 +53,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが主要パイプラインのオイルフロー増加を80%超の稼働率まで引き上げた。これはOPECの減産姿勢からの転換を示唆し、市場供給増加を意味する。供給圧力により原油価格は下押し材料となる。"
-  },
-  {
-    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
-    "timestamp": "2026-10-02T04:07:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "銅相場が週間ベースでの下落局面を迎えている。高いエネルギーコストが銅の需要を抑制しており、特に電力多消費型の精錬・製造業での利用が制限されている。エネルギー価格の上昇が銅の生産コスト圧力となり、需要サイドの弱さと相まって価格を押し下げている。"
-  },
-  {
-    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
-    "timestamp": "2026-10-02T04:07:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "銅相場が週間ベースでの下落局面を迎えている。高いエネルギーコストが銅の需要を抑制しており、特に電力多消費型の精錬・製造業での利用が制限されている。エネルギー価格の上昇が銅の生産コスト圧力となり、需要サイドの弱さと相まって価格を押し下げている。"
   },
   {
     "title": "Soybeans Hit Five-Week Low as U.S. Harvest Pressure Builds Across Grain Markets - agrolatam.com",
@@ -471,5 +438,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "アジア株上昇と米国金利上昇見直しの緩和を背景に、リスク資産への需要が回復。原油は上昇する見通しだが、金利低下期待が薄れることで金は下押し圧力を受ける。マクロ環境の転換点を示唆している。"
+  },
+  {
+    "title": "Get the best grain prices: Watch weather, WASDE, yields, demand - farmprogress.com",
+    "timestamp": "2026-10-05T07:04:11+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "穀物価格の変動要因に関する解説記事。WASDE予報、天候リスク、収穫量予想、需要動向の4つの主要監視ポイントを提示している。特定の新規データではなく、投資家向けの市場監視フレームワークの提供。"
+  },
+  {
+    "title": "Get the best grain prices: Watch weather, WASDE, yields, demand - farmprogress.com",
+    "timestamp": "2026-10-05T07:04:11+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "穀物価格の変動要因に関する解説記事。WASDE予報、天候リスク、収穫量予想、需要動向の4つの主要監視ポイントを提示している。特定の新規データではなく、投資家向けの市場監視フレームワークの提供。"
+  },
+  {
+    "title": "Get the best grain prices: Watch weather, WASDE, yields, demand - farmprogress.com",
+    "timestamp": "2026-10-05T07:04:11+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "穀物価格の変動要因に関する解説記事。WASDE予報、天候リスク、収穫量予想、需要動向の4つの主要監視ポイントを提示している。特定の新規データではなく、投資家向けの市場監視フレームワークの提供。"
+  },
+  {
+    "title": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters",
+    "timestamp": "2026-10-04T23:50:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが11月のアジア向け原油価格を予想外に引き下げ、6年ぶりの安値水準まで低下させた。この大幅な価格引き下げは市場の弱気見通しを反映しており、需要懸念と供給過剰圧力が強まっていることを示唆している。"
+  },
+  {
+    "title": "Saudis Cut Flagship Oil Price to Asia to Lowest in Six Years - Bloomberg.com",
+    "timestamp": "2026-10-05T02:30:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがアジア向けフラグシップ油の価格を6年ぶりの安値に引き下げた。これは需要減速とOPEC+の協調減産の効果限定を示唆。アジア市場での原油価格競争力を強化する動きで、グローバル原油価格の下押し圧力となる。"
   }
 ]
