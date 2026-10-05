@@ -1,148 +1,5 @@
 [
   {
-    "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters",
-    "timestamp": "2026-10-02T11:58:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+がイラン情勢の悪化により石油増産計画の実行延期を決定。地政学リスクの高まりに伴い、中東産油国の供給能力拡張が停滞。供給制約が長期化する可能性が高まり、原油需給逼迫懸念が強まった。"
-  },
-  {
-    "title": "Wall St futures gain as yields, oil prices ease ahead of jobs report - Reuters",
-    "timestamp": "2026-10-02T09:35:51+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米雇用統計を控えた観測筋によるニュース。利回り低下と原油価格の緩和が報じられ、ウォール街先物が上昇。雇用統計という予定された重要統計の直前段階であり、市場は様子見姿勢。金利低下圧力はコモディティ全般に支持的だが、現時点では確定的な材料ではない。"
-  },
-  {
-    "title": "Wall St futures gain as yields, oil prices ease ahead of jobs report - Reuters",
-    "timestamp": "2026-10-02T09:35:51+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米雇用統計を控えた観測筋によるニュース。利回り低下と原油価格の緩和が報じられ、ウォール街先物が上昇。雇用統計という予定された重要統計の直前段階であり、市場は様子見姿勢。金利低下圧力はコモディティ全般に支持的だが、現時点では確定的な材料ではない。"
-  },
-  {
-    "title": "EXCLUSIVE: Europe weighs new diesel stocks release after US pressure, sources say - Reuters",
-    "timestamp": "2026-10-02T11:08:41+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の圧力を受けてEUが新たなディーゼル在庫放出を検討している。戦略備蓄の追加放出は市場供給増加を意味し、原油価格に下押し圧力。米国主導のエネルギー政策協調が進む中、供給サイド材料として価格抑制効果が期待される。"
-  },
-  {
-    "title": "Saudi Arabia Hikes Oil Flow on Key Pipeline to Over 80% Capacity - Bloomberg.com",
-    "timestamp": "2026-10-02T11:33:51+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが主要パイプラインのオイルフロー増加を80%超の稼働率まで引き上げた。これはOPECの減産姿勢からの転換を示唆し、市場供給増加を意味する。供給圧力により原油価格は下押し材料となる。"
-  },
-  {
-    "title": "Soybeans Hit Five-Week Low as U.S. Harvest Pressure Builds Across Grain Markets - agrolatam.com",
-    "timestamp": "2026-10-02T13:39:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国の穀物収穫圧力が強まる中、大豆が過去5週間で最安値を更新した。収穫期の到来に伴い、大豆およびトウモロコシを中心とした穀物市場全体に下押し圧力が加わっている。WASDE等の定期統計発表を背景とした季節的な価格調整局面と考えられる。"
-  },
-  {
-    "title": "Soybeans Hit Five-Week Low as U.S. Harvest Pressure Builds Across Grain Markets - agrolatam.com",
-    "timestamp": "2026-10-02T13:39:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国の穀物収穫圧力が強まる中、大豆が過去5週間で最安値を更新した。収穫期の到来に伴い、大豆およびトウモロコシを中心とした穀物市場全体に下押し圧力が加わっている。WASDE等の定期統計発表を背景とした季節的な価格調整局面と考えられる。"
-  },
-  {
-    "title": "Soybeans Hit Five-Week Low as U.S. Harvest Pressure Builds Across Grain Markets - agrolatam.com",
-    "timestamp": "2026-10-02T13:39:39+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "米国の穀物収穫圧力が強まる中、大豆が過去5週間で最安値を更新した。収穫期の到来に伴い、大豆およびトウモロコシを中心とした穀物市場全体に下押し圧力が加わっている。WASDE等の定期統計発表を背景とした季節的な価格調整局面と考えられる。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Rise Almost 1MM Barrels WoW - Rigzone",
-    "timestamp": "2026-10-02T15:06:22+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によると、米国の原油在庫が先週比でほぼ100万バレル増加した。増加幅は限定的であり、需給均衡の若干の緩和を示唆している。米国の原油供給が安定している中での緩やかな在庫積み上げは、需要がやや弱まっているサインとも解釈できる。"
-  },
-  {
-    "title": "Shafaq News..OPEC+ delays 2027 oil capacity review - شفق نيوز",
-    "timestamp": "2026-10-02T13:52:26+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が2027年の石油生産能力レビューを延期することを決定した。この延期は既に報道されていた予定変更の続報であり、市場では大きなサプライズとは受け止められていない。短期的な原油価格への直接的な影響は限定的と考えられる。"
-  },
-  {
-    "title": "OPEC+ delays oil capacity review amid Iran war disruption - qz.com",
-    "timestamp": "2026-10-02T13:50:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がイラン情勢の不安定化を背景に、原油生産能力見直しを延期した。イランの地政学的リスク顕在化により、供給側の不確実性が急速に高まっている。原油需給の予測可能性が低下し、市場は供給ショック懸念で上昇圧力を受けやすくなる。"
-  },
-  {
-    "title": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - Reuters",
-    "timestamp": "2026-10-02T14:58:10+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "銅",
-    "summary": "中国がアングロ・アメリカンとテックリソーシズの合併承認の条件として、銅の長期供給契約をコミットさせる要求を提示。合併による供給集約化への懸念から、中国が戦略的なサプライチェーン支配を強化。世界最大の銅精錬国である中国の供給確保圧力が高まり、銅市場の需給構造に構造的な変化をもたらす可能性。"
-  },
-  {
-    "title": "Ukraine Attacks Key Russian Refinery and Oil Pipeline Hub - Bloomberg.com",
-    "timestamp": "2026-10-02T11:41:37+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの主要製油所とパイプラインハブを攻撃。ロシアの石油精製インフラへの直撃は欧州市場への供給不安を引き起こし、原油価格の上昇圧力となる。地政学リスクの急速な顕在化により市場は敏感に反応する見込み。"
-  },
-  {
     "title": "Corn and Soybeans Slide as Harvest Pressure Builds Ahead of WASDE - AgroLatam",
     "timestamp": "2026-10-02T21:00:56+00:00",
     "importance": 3,
@@ -198,17 +55,6 @@
     "summary": "UAEがOPECからの離脱を表明し、石油輸出国機構の結束力が大きく損なわれる可能性が浮上した。これはOPECの減産調整能力を弱体化させ、加盟国間の価格戦争リスクを高める。原油価格は供給サイドの統制力喪失により下落圧力を受ける見通し。"
   },
   {
-    "title": "Ukraine Attacks Key Russian Refinery and Oil Pipeline Hub - Bloomberg.com",
-    "timestamp": "2026-10-02T11:41:38+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの主要製油所とパイプラインハブに対する攻撃を実施。ロシアはエネルギー大国であり、この供給インフラの破壊は世界的な原油供給の逼迫と価格上昇圧力をもたらす可能性が高い。地政学的リスクの再燃により市場の不確実性が増大。"
-  },
-  {
     "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
     "timestamp": "2026-10-03T10:30:09+00:00",
     "importance": 4,
@@ -218,28 +64,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "NYTの報道によれば、米国とロシアがウクライナ関連の交渉において数十億ドル規模の石油取引を含む協議を進めているとされている。具体的な取引規模は明記されていないが、地政学的リスク低減と供給正常化の可能性が示唆される一方、既存の対ロシア制裁体制との齟齬が生じる可能性がある。"
-  },
-  {
-    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
-    "timestamp": "2026-10-02T13:59:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "銅相場が週間ベースで下落局面を迎えている。主因は高いエネルギーコスト（電力・天然ガス価格の上昇）による需要抑制。製造業やEV産業の電解精銅需要が圧迫される中、欧州などの産業セクターが採算性悪化を懸念している。"
-  },
-  {
-    "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com",
-    "timestamp": "2026-10-02T13:59:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "銅相場が週間ベースで下落局面を迎えている。主因は高いエネルギーコスト（電力・天然ガス価格の上昇）による需要抑制。製造業やEV産業の電解精銅需要が圧迫される中、欧州などの産業セクターが採算性悪化を懸念している。"
   },
   {
     "title": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters",
@@ -273,28 +97,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+のイラン情勢による市場支配力低下と、中国の石油市場への影響力拡大を指摘するレポート。地政学的緊張下でも、従来のOPECの減産調整メカニズムが機能しにくくなり、需要面での中国の役割が相対的に重要性を増している。価格形成の構造が変化している可能性を示唆。"
-  },
-  {
-    "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
-    "timestamp": "2026-10-02T08:51:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がフランス・ドイツに対し、ディーゼル在庫の放出を要求し、応じなければ米国の輸出禁止措置を実施すると通達。エネルギー安全保障と欧州への圧力が背景。ウクライナ情勢と関連する地政学的緊張が石油市場に急速な不確実性をもたらす。"
-  },
-  {
-    "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
-    "timestamp": "2026-10-02T08:51:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国がフランス・ドイツに対し、ディーゼル在庫の放出を要求し、応じなければ米国の輸出禁止措置を実施すると通達。エネルギー安全保障と欧州への圧力が背景。ウクライナ情勢と関連する地政学的緊張が石油市場に急速な不確実性をもたらす。"
   },
   {
     "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ",
@@ -493,5 +295,258 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがアジア向けフラグシップ油の価格を6年ぶりの安値に引き下げた。これは需要減速とOPEC+の協調減産の効果限定を示唆。アジア市場での原油価格競争力を強化する動きで、グローバル原油価格の下押し圧力となる。"
+  },
+  {
+    "title": "Key Factors Shaping Market Risk for Oklahoma Ranchers and Agricultural Producers This Week - Oklahoma Farm Report",
+    "timestamp": "2026-10-05T13:44:17+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "オクラホマの牧場経営者および農業生産者が直面するマーケットリスク要因についての業界レポート。WASDE関連の週次市場分析であり、主に農産物（穀物・畜産）のリスク要因を整理した解説記事。具体的な統計数値が不開示のため、影響方向は判断困難。"
+  },
+  {
+    "title": "Key Factors Shaping Market Risk for Oklahoma Ranchers and Agricultural Producers This Week - Oklahoma Farm Report",
+    "timestamp": "2026-10-05T13:44:17+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "オクラホマの牧場経営者および農業生産者が直面するマーケットリスク要因についての業界レポート。WASDE関連の週次市場分析であり、主に農産物（穀物・畜産）のリスク要因を整理した解説記事。具体的な統計数値が不開示のため、影響方向は判断困難。"
+  },
+  {
+    "title": "Key Factors Shaping Market Risk for Oklahoma Ranchers and Agricultural Producers This Week - Oklahoma Farm Report",
+    "timestamp": "2026-10-05T13:44:17+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "オクラホマの牧場経営者および農業生産者が直面するマーケットリスク要因についての業界レポート。WASDE関連の週次市場分析であり、主に農産物（穀物・畜産）のリスク要因を整理した解説記事。具体的な統計数値が不開示のため、影響方向は判断困難。"
+  },
+  {
+    "title": "Key Factors Shaping Market Risk for Oklahoma Ranchers and Agricultural Producers This Week - Oklahoma Farm Report",
+    "timestamp": "2026-10-05T13:44:17+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "オクラホマの牧場経営者および農業生産者が直面するマーケットリスク要因についての業界レポート。WASDE関連の週次市場分析であり、主に農産物（穀物・畜産）のリスク要因を整理した解説記事。具体的な統計数値が不開示のため、影響方向は判断困難。"
+  },
+  {
+    "title": "US corn ending stocks up 35% from last year, soybean ending stocks down 3% - The Fence Post",
+    "timestamp": "2026-10-05T14:34:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国のトウモロコシ期末在庫が前年同期比35%増加した一方、大豆期末在庫は3%減少。トウモロコシの在庫増加は供給過剰圧力となり価格下落要因、大豆の在庫減少は需給逼迫を示唆し価格上昇要因となる。両穀物で異なる需給環境が形成されている。"
+  },
+  {
+    "title": "US corn ending stocks up 35% from last year, soybean ending stocks down 3% - The Fence Post",
+    "timestamp": "2026-10-05T14:34:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国のトウモロコシ期末在庫が前年同期比35%増加した一方、大豆期末在庫は3%減少。トウモロコシの在庫増加は供給過剰圧力となり価格下落要因、大豆の在庫減少は需給逼迫を示唆し価格上昇要因となる。両穀物で異なる需給環境が形成されている。"
+  },
+  {
+    "title": "Stocks report surprise sets tone for harvest - FarmWeekNow",
+    "timestamp": "2026-10-05T05:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農務省のCrop Progress報告における穀物在庫統計が市場予想を上回るサプライズを示した。この在庫レポートは収穫期の農産物需給見通しを左右する重要なデータであり、市場参加者の収穫時期のポジション構築に影響を与える。ただし具体的な数値が明示されていないため、方向性の確度は限定的。"
+  },
+  {
+    "title": "Stocks report surprise sets tone for harvest - FarmWeekNow",
+    "timestamp": "2026-10-05T05:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国農務省のCrop Progress報告における穀物在庫統計が市場予想を上回るサプライズを示した。この在庫レポートは収穫期の農産物需給見通しを左右する重要なデータであり、市場参加者の収穫時期のポジション構築に影響を与える。ただし具体的な数値が明示されていないため、方向性の確度は限定的。"
+  },
+  {
+    "title": "Stocks report surprise sets tone for harvest - FarmWeekNow",
+    "timestamp": "2026-10-05T05:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農務省のCrop Progress報告における穀物在庫統計が市場予想を上回るサプライズを示した。この在庫レポートは収穫期の農産物需給見通しを左右する重要なデータであり、市場参加者の収穫時期のポジション構築に影響を与える。ただし具体的な数値が明示されていないため、方向性の確度は限定的。"
+  },
+  {
+    "title": "Copper Rallies After Weak US Jobs Report Eases Fed Rate Concerns - Briefs Finance",
+    "timestamp": "2026-10-04T22:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "米国の弱い雇用統計が発表され、FRBの利上げ継続への懸念が緩和された。これにより米ドル指数が軟化し、ドル建てコモディティである銅が上昇。金利低下予想はドル建て無利子資産である金にも支援的に作用する見通し。"
+  },
+  {
+    "title": "Copper Rallies After Weak US Jobs Report Eases Fed Rate Concerns - Briefs Finance",
+    "timestamp": "2026-10-04T22:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "米国の弱い雇用統計が発表され、FRBの利上げ継続への懸念が緩和された。これにより米ドル指数が軟化し、ドル建てコモディティである銅が上昇。金利低下予想はドル建て無利子資産である金にも支援的に作用する見通し。"
+  },
+  {
+    "title": "Copper Rallies After Weak US Jobs Report Eases Fed Rate Concerns - Briefs Finance",
+    "timestamp": "2026-10-04T22:57:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "米国の弱い雇用統計が発表され、FRBの利上げ継続への懸念が緩和された。これにより米ドル指数が軟化し、ドル建てコモディティである銅が上昇。金利低下予想はドル建て無利子資産である金にも支援的に作用する見通し。"
+  },
+  {
+    "title": "OPEC+ says it will maintain the current oil production levels in November - Baltimore Sun",
+    "timestamp": "2026-10-05T14:27:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が11月の原油生産レベルを現状維持することを発表。先月の減産決定に続く生産方針の継続決定であり、市場が既に織り込んでいた内容。供給の安定性を示唆するが、新たなサプライズは限定的。"
+  },
+  {
+    "title": "Russia's oil earnings fall despite price jump as output drops, rouble rises - Reuters",
+    "timestamp": "2026-10-05T11:51:20+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの石油収益が、価格上昇にもかかわらず低下している。主な要因は原油生産量の減少とルーブル相場の上昇。生産減少により総輸出額の増加が相殺され、ルーブル高は現地通貨建て収益を圧迫している。"
+  },
+  {
+    "title": "COMMENTARY: Oil's new problem isn't supply. It's logistics - Reuters",
+    "timestamp": "2026-10-05T06:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "Reutersのコメンタリーは、現在の原油市場における主要課題が供給ではなく物流・ロジスティクスにあると指摘。精製能力、輸送インフラ、在庫管理などの構造的ボトルネックが価格形成に与える影響を分析。従来の供給側ショック（OPEC減産など）よりもロジスティクス制約が価格上昇圧力として機能する可能性を提示している。"
+  },
+  {
+    "title": "COMMENTARY: Oil's new problem isn't supply. It's logistics - Reuters",
+    "timestamp": "2026-10-05T06:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Reutersのコメンタリーは、現在の原油市場における主要課題が供給ではなく物流・ロジスティクスにあると指摘。精製能力、輸送インフラ、在庫管理などの構造的ボトルネックが価格形成に与える影響を分析。従来の供給側ショック（OPEC減産など）よりもロジスティクス制約が価格上昇圧力として機能する可能性を提示している。"
+  },
+  {
+    "title": "Gold retains key reserve status despite surging bond yields, central bankers say - Reuters",
+    "timestamp": "2026-10-05T10:34:52+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "中央銀行関係者が、債券利回りの上昇にもかかわらず金が中央銀行準備資産としての重要な地位を維持していると述べた。金利上昇環境下でも金の戦略的価値が損なわれていないとの主張で、既存のファンダメンタルズとの乖離に注目される。"
+  },
+  {
+    "title": "Gold retains key reserve status despite surging bond yields, central bankers say - Reuters",
+    "timestamp": "2026-10-05T10:34:52+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中央銀行関係者が、債券利回りの上昇にもかかわらず金が中央銀行準備資産としての重要な地位を維持していると述べた。金利上昇環境下でも金の戦略的価値が損なわれていないとの主張で、既存のファンダメンタルズとの乖離に注目される。"
+  },
+  {
+    "title": "Saudi East-West Oil Pipeline Is Said to Be Flowing as Normal - Bloomberg.com",
+    "timestamp": "2026-10-05T08:52:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの東西間連結パイプラインが通常通り稼働していることが報じられた。このパイプラインは紅海経由の危険な輸送を回避するための重要なインフラで、供給途絶リスクが解消されていることを示唆。地政学的緊張下での供給安定性の確認とみられる。"
+  },
+  {
+    "title": "Global Oil Supply Buffer Running ‘Scarily Thin,’ Aramco CEO Says - Bloomberg.com",
+    "timestamp": "2026-10-05T08:20:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラムコのCEOが、世界的な石油供給バッファが危機的水準（\"Scarily Thin\"）まで低下していると警告。OPECプラスの減産継続や地政学的リスク、需要の不確実性が背景。供給余裕の喪失は価格上昇圧力を強める要因。"
+  },
+  {
+    "title": "Global Oil Supply Buffer Running ‘Scarily Thin,’ Aramco CEO Says - Bloomberg.com",
+    "timestamp": "2026-10-05T08:20:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラムコのCEOが、世界的な石油供給バッファが危機的水準（\"Scarily Thin\"）まで低下していると警告。OPECプラスの減産継続や地政学的リスク、需要の不確実性が背景。供給余裕の喪失は価格上昇圧力を強める要因。"
+  },
+  {
+    "title": "Wheat Edges Higher on Russia’s Threats to Escalate Ukraine War - Bloomberg.com",
+    "timestamp": "2026-10-05T12:21:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシアのウクライナ戦争エスカレーション脅威により小麦先物が上昇。ウクライナは世界最大級の小麦輸出国であり、地政学リスク再燃による供給懸念が市場を刺激。戦争激化は穀物流通の混乱と黒海経由の輸出停滞を招く可能性が高い。"
+  },
+  {
+    "title": "Wheat Edges Higher on Russia’s Threats to Escalate Ukraine War - Bloomberg.com",
+    "timestamp": "2026-10-05T12:21:31+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアのウクライナ戦争エスカレーション脅威により小麦先物が上昇。ウクライナは世界最大級の小麦輸出国であり、地政学リスク再燃による供給懸念が市場を刺激。戦争激化は穀物流通の混乱と黒海経由の輸出停滞を招く可能性が高い。"
   }
 ]
