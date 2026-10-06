@@ -1,38 +1,5 @@
 [
   {
-    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
-    "timestamp": "2026-10-03T10:30:09+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "NYTの報道によれば、米国とロシアがウクライナ関連の交渉において数十億ドル規模の石油取引を含む協議を進めているとされている。具体的な取引規模は明記されていないが、地政学的リスク低減と供給正常化の可能性が示唆される一方、既存の対ロシア制裁体制との齟齬が生じる可能性がある。"
-  },
-  {
-    "title": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters",
-    "timestamp": "2026-10-03T16:14:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ポッドキャスト形式のニュース報道であり、複数の地政学的イベント（FlyDubai攻撃調査、キエフ橋への攻撃）とG7の戦略備蓄石油放出について扱っている。ウクライナ情勢の悪化は供給リスク要因となる一方、G7による備蓄放出は供給増加圧力として作用する見通し。"
-  },
-  {
-    "title": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters",
-    "timestamp": "2026-10-03T16:14:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ポッドキャスト形式のニュース報道であり、複数の地政学的イベント（FlyDubai攻撃調査、キエフ橋への攻撃）とG7の戦略備蓄石油放出について扱っている。ウクライナ情勢の悪化は供給リスク要因となる一方、G7による備蓄放出は供給増加圧力として作用する見通し。"
-  },
-  {
     "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ",
     "timestamp": "2026-10-04T11:32:00+00:00",
     "importance": 2,
@@ -86,28 +53,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "OPEC+が11月の原油生産枠を現状維持する方針で合意の見通しを示した。デリゲートによると、既に合意の枠組みが出ていることが報告されている。既知の減産政策の継続を示唆するもので、市場予想の範囲内の続報。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-10-03T15:08:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIAの週間在庫統計により、原油とガソリン在庫が前週比で低下したことが報告された。需要の強さが在庫削減の主要因とされている。在庫減少は需給逼迫を示唆し、原油価格の上昇圧力となる可能性がある。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-10-03T15:08:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国EIAの週間在庫統計により、原油とガソリン在庫が前週比で低下したことが報告された。需要の強さが在庫削減の主要因とされている。在庫減少は需給逼迫を示唆し、原油価格の上昇圧力となる可能性がある。"
   },
   {
     "title": "OPEC+ agrees to keep November oil output targets steady - Arab News",
@@ -867,5 +812,148 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金は米ドル強化と債券利回り上昇の圧力にさらされている。金利経路の見通しが不確実な中、無利子資産としての金の相対的な魅力が低下している。ドル強化は特に非ドル建てコモディティ購入意欲を減少させている。"
+  },
+  {
+    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-10-05T16:27:16+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国の原油在庫が減少したと発表。精製業者が処理量を増加させたことが在庫低下の主因。需要側の処理活動が活発化している兆候を示唆する定期統計発表。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn, Soybean Harvests Ahead of Pace - News and Statistics - IndexBox",
+    "timestamp": "2026-10-05T20:20:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress発表によると、トウモロコシと大豆の収穫が平年ペースを上回っている。豊作進捗が加速することで、供給増加期待が生じ、両穀物価格に下押し圧力が働く見込み。具体的な収穫進捗率の数値が市場予想に対してどの程度サプライズであるかは、発表内容の詳細により判断される。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn, Soybean Harvests Ahead of Pace - News and Statistics - IndexBox",
+    "timestamp": "2026-10-05T20:20:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress発表によると、トウモロコシと大豆の収穫が平年ペースを上回っている。豊作進捗が加速することで、供給増加期待が生じ、両穀物価格に下押し圧力が働く見込み。具体的な収穫進捗率の数値が市場予想に対してどの程度サプライズであるかは、発表内容の詳細により判断される。"
+  },
+  {
+    "title": "Saudi energy minister says oil pumped through East-West pipeline reached 5.8 million barrels - Reuters",
+    "timestamp": "2026-10-06T09:42:09+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのエネルギー相が、東西パイプライン経由で輸送される原油が580万バレルに達したと述べた。このパイプラインはシーア派勢力による紅海での攻撃を回避するための代替ルートであり、サウジの供給安定化策の一環。既に報道されている施設運用状況の確認に過ぎない。"
+  },
+  {
+    "title": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips - Reuters",
+    "timestamp": "2026-10-06T16:02:59+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国株式市場（S&P 500、ナスダック）が過去最高値を更新。米国10年債利回りが伸び悩む中での株高は、金利上昇予想の緩和を示唆している。一方、原油は軟調に推移。金利停滞は金にとって支援的な環境だが、株価高騰による全般的なリスク選好は商品相場の方向性を複雑にしている。"
+  },
+  {
+    "title": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips - Reuters",
+    "timestamp": "2026-10-06T16:02:59+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国株式市場（S&P 500、ナスダック）が過去最高値を更新。米国10年債利回りが伸び悩む中での株高は、金利上昇予想の緩和を示唆している。一方、原油は軟調に推移。金利停滞は金にとって支援的な環境だが、株価高騰による全般的なリスク選好は商品相場の方向性を複雑にしている。"
+  },
+  {
+    "title": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips - Reuters",
+    "timestamp": "2026-10-06T16:02:59+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株式市場（S&P 500、ナスダック）が過去最高値を更新。米国10年債利回りが伸び悩む中での株高は、金利上昇予想の緩和を示唆している。一方、原油は軟調に推移。金利停滞は金にとって支援的な環境だが、株価高騰による全般的なリスク選好は商品相場の方向性を複雑にしている。"
+  },
+  {
+    "title": "World shares advance as oil falls, bond yields retreat - Reuters",
+    "timestamp": "2026-10-06T01:48:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "世界株が上昇する中、原油価格は下落し債券利回りも低下している。この動きはリスクオン局面での商品セクターの分化を示唆している。原油の下落は需要懸念またはドル強化を反映している可能性がある。"
+  },
+  {
+    "title": "World shares advance as oil falls, bond yields retreat - Reuters",
+    "timestamp": "2026-10-06T01:48:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "世界株が上昇する中、原油価格は下落し債券利回りも低下している。この動きはリスクオン局面での商品セクターの分化を示唆している。原油の下落は需要懸念またはドル強化を反映している可能性がある。"
+  },
+  {
+    "title": "World shares advance as oil falls, bond yields retreat - Reuters",
+    "timestamp": "2026-10-06T01:48:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "世界株が上昇する中、原油価格は下落し債券利回りも低下している。この動きはリスクオン局面での商品セクターの分化を示唆している。原油の下落は需要懸念またはドル強化を反映している可能性がある。"
+  },
+  {
+    "title": "US Yields Fall From 2002 High as Oil Dips, Bessent Vows On Debt - Bloomberg.com",
+    "timestamp": "2026-10-06T10:20:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米10年債利回りが2002年以来の高水準から低下し、原油価格も同時に下げている。米財務長官ベッセント氏が債務管理への継続的な取り組みを表明。利回り低下は金融引き締め懸念の緩和を示唆する一方で、原油下落はドル高圧力や経済減速懸念を反映している可能性がある。"
+  },
+  {
+    "title": "US Yields Fall From 2002 High as Oil Dips, Bessent Vows On Debt - Bloomberg.com",
+    "timestamp": "2026-10-06T10:20:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米10年債利回りが2002年以来の高水準から低下し、原油価格も同時に下げている。米財務長官ベッセント氏が債務管理への継続的な取り組みを表明。利回り低下は金融引き締め懸念の緩和を示唆する一方で、原油下落はドル高圧力や経済減速懸念を反映している可能性がある。"
+  },
+  {
+    "title": "US Yields Fall From 2002 High as Oil Dips, Bessent Vows On Debt - Bloomberg.com",
+    "timestamp": "2026-10-06T10:20:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米10年債利回りが2002年以来の高水準から低下し、原油価格も同時に下げている。米財務長官ベッセント氏が債務管理への継続的な取り組みを表明。利回り低下は金融引き締め懸念の緩和を示唆する一方で、原油下落はドル高圧力や経済減速懸念を反映している可能性がある。"
   }
 ]
