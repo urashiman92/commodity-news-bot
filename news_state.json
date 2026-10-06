@@ -1,148 +1,5 @@
 [
   {
-    "title": "NY金先物 終値 －０．９５% - みんかぶ FX/為替",
-    "timestamp": "2026-10-02T18:45:29+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が0.95%の小幅下落で取引を終了。単日の軽微な値動きで、市場への大きなインパクトはない。相場の日々の変動を示すニュース。"
-  },
-  {
-    "title": "NY原油先物終値 １．９％安 - みんかぶ FX/為替",
-    "timestamp": "2026-10-02T18:45:29+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が1.9%下落した。具体的な下落要因は記事概要では示されていない。通常のボラティリティ範囲内の値動き。"
-  },
-  {
-    "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-02T23:21:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "原油相場の急落に伴い、インフレ懸念が後退したことで金先物が売られた。金はインフレヘッジ資産として機能するため、インフレ期待の低下は金にネガティブに作用。"
-  },
-  {
-    "title": "本日（10月3日）の金価格：変動が激しく、上昇と下落が繰り返される。 - Vietnam.vn",
-    "timestamp": "2026-10-02T23:05:15+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月3日の金価格は上昇と下落の繰り返しで変動が激しい状況。具体的な数値や要因の詳細は不明。市場の通常のボラティリティ範囲内の動きと考えられる。"
-  },
-  {
-    "title": "NY原油・金相場（2日）－原油、金がともに反落 - Moomoo",
-    "timestamp": "2026-10-02T22:03:10+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油・金相場が2日に両者とも反落した。原油と金の同時下落は市場のリスク選好改善やドル高圧力を示唆。相場の日々の変動を報じる相場解説記事。"
-  },
-  {
-    "title": "10月3日朝の金価格更新:世界の金価格が急騰 - Laodong.vn",
-    "timestamp": "2026-10-02T23:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月3日朝時点での金価格が急騰していることを報じたニュース。具体的な上昇要因や数値は記事概要からは不明。市場動向の報告的性質のコンテンツ。"
-  },
-  {
-    "title": "2026年10月3日現在の金価格：世界的な金価格は上昇、SJCの金価格は下落。 - Vietnam.vn",
-    "timestamp": "2026-10-02T23:15:19+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年10月3日時点で、国際金価格は上昇傾向にあるが、ベトナム国内のSJC金価格は下落している。国内外の価格乖離が発生している状況。"
-  },
-  {
-    "title": "原油先物反落、Ｇ７が石油備蓄1億バレル協調放出で合意 - Reuters",
-    "timestamp": "2026-10-02T21:29:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が石油備蓄1億バレルの協調放出に合意し、供給増加期待から原油先物が反落。ウクライナ情勢による供給懸念の緩和を狙った政策協調。"
-  },
-  {
-    "title": "原油先物反落、Ｇ７が石油備蓄1億バレル協調放出で合意 - ニューズウィーク日本版",
-    "timestamp": "2026-10-02T21:28:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が石油備蓄1億バレルの協調放出に合意し、市場に供給増加シグナルを送った。原油先物は需給緩和への対応として反落。インフレ抑制とエネルギー安全保障を重視した戦略的判断。"
-  },
-  {
-    "title": "NY原油先物：反落、G7の緊急備蓄放出決定で供給混乱懸念が後退 執筆： Fisco - Investing.com 日本",
-    "timestamp": "2026-10-02T23:22:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が緊急時の石油備蓄放出を決定し、供給不足懸念が後退。NY原油先物は反落。ウクライナ情勢等による供給混乱リスクの軽減が価格を押し下げ。"
-  },
-  {
-    "title": "NY原油先物終値 １．９％安 - Moomoo",
-    "timestamp": "2026-10-02T20:12:59+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が1.9%下落して取引を終了した。相場の日次振り返り報道であり、下落幅は軽微な範囲。具体的な材料情報や統計データが明記されていない。"
-  },
-  {
-    "title": "【注目トピックス 市況・概況】NY原油先物：反落、G7の緊急備蓄放出決定で供給混乱懸念が後退 - マネーポストWEB",
-    "timestamp": "2026-10-02T23:22:42+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が緊急備蓄放出を決定し、供給混乱懸念が後退。NY原油先物は反落。需給見通しの改善が価格押し下げ要因となった。"
-  },
-  {
-    "title": "本日（10月3日）の燃料価格：世界の原油価格は急騰後、落ち着きを見せた。 - Vietnam.vn",
-    "timestamp": "2026-10-02T23:27:23+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界原油価格が急騰後に落ち着きを見せたとの報道。急騰から調整局面への転換を示唆する相場の振り返り記事。特定の新規材料なし。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（9/28〜10/2）｜水野崇 - mbp-japan.com",
     "timestamp": "2026-10-03T01:41:46+00:00",
     "importance": 2,
@@ -154,28 +11,6 @@
     "summary": "金相場の週間データをまとめた解説記事。9月28日から10月2日の期間における金価格の動きに関するアナリストコメント。具体的な価格変動や要因については詳細が不明。"
   },
   {
-    "title": "NY原油・金相場（2日）－原油、金がともに反落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-02T21:52:03+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油と金相場が同時に反落した。市場の売却圧力を反映した値動きと見られる。具体的な材料は提示されていない。"
-  },
-  {
-    "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢 執筆： Fisco - Investing.com 日本",
-    "timestamp": "2026-10-02T23:21:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が反落。原油の急落に伴いインフレ懸念が後退し、売り圧力が優勢となった。金はインフレヘッジとしての需要が減少。"
-  },
-  {
     "title": "金価格の最新情報（10月3日午前）。 - Vietnam.vn",
     "timestamp": "2026-10-03T00:59:53+00:00",
     "importance": 1,
@@ -185,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金融メディアによる10月3日午前の金価格情報配信。具体的な価格変動や市場動向の詳細は記事リンクのみで内容不明。定期的な価格情報更新の一部。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況・2日 反落 - Moomoo",
-    "timestamp": "2026-10-02T21:43:48+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物市場が反落。具体的な下落要因は記事概要からは明確でない。市場の日々の価格変動を報じた相場解説と推察される。"
   },
   {
     "title": "本日10月3日の金価格は、国内では大幅な変動が見られ、予測が困難です。世界の金価格は第4四半期に4,000ドルを下回る可能性はあるのでしょうか？ - Vietnam.vn",
@@ -231,17 +55,6 @@
     "summary": "ベトナムSJCの金地金価格が小幅下落。同国の日次相場レポート。市場全体への影響は限定的。"
   },
   {
-    "title": "【注目トピックス 市況・概況】NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢 - マネーポストWEB",
-    "timestamp": "2026-10-02T23:21:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が反落。原油急落に伴うインフレ懸念の後退により売り優勢となった。金はインフレ対冲資産として機能するため、インフレ期待の低下が価格を圧迫。"
-  },
-  {
     "title": "国内の金価格が再び急落。 - Vietnam.vn",
     "timestamp": "2026-10-03T03:54:07+00:00",
     "importance": 2,
@@ -275,17 +88,6 @@
     "summary": "原油価格の粘着性（下げにくさ）が日本の貿易収支に影響を与えている状況の解説。エネルギー輸入国である日本にとって油価の動向は重要な経済指標となっており、現在の相場局面における構造的な特性を分析したコメンタリー。"
   },
   {
-    "title": "原油先物反落、Ｇ７が石油備蓄1億バレル協調放出で合意 - ロイター",
-    "timestamp": "2026-10-02T21:29:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が石油備蓄から1億バレルの協調放出で合意した。供給増加期待から原油先物は反落。インフレ抑制と価格高騰対策が目的。"
-  },
-  {
     "title": "原油価格が落ち着きを見せている。 - Vietnam.vn",
     "timestamp": "2026-10-03T03:54:03+00:00",
     "importance": 2,
@@ -306,61 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジアラビアの東西石油パイプラインが輸送能力の80%超まで回復。供給制約の緩和で国際原油価格に下落圧力。"
-  },
-  {
-    "title": "10月2日のSouthern Copper Corp (SCCO) 終値は3.17%上昇：投資家が知っておくべき情報 - TradingKey",
-    "timestamp": "2026-10-02T20:16:04+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "Southern Copper Corp (SCCO)が10月2日に3.17%上昇した。同社は大手銅生産企業だが、本ニュースは個別株価の動きを事後報告しているもの。"
-  },
-  {
-    "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢 - 株探",
-    "timestamp": "2026-10-02T23:21:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が反落。原油の急落に伴いインフレ懸念が後退し、売り優勢となった。金はインフレヘッジ資産であり、インフレ期待低下は金需要を減少させる。"
-  },
-  {
-    "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢 - ｄメニューニュース",
-    "timestamp": "2026-10-02T23:21:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が反落。原油急落に伴いインフレ懸念が後退し、売り圧力が優勢となった。金は実質金利上昇シナリオで売られやすい環境。"
-  },
-  {
-    "title": "NY原油先物：反落、G7の緊急備蓄放出決定で供給混乱懸念が後退 - 株探",
-    "timestamp": "2026-10-02T23:22:42+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が緊急備蓄放出を決定し、ウクライナ情勢による供給混乱懸念が後退。市場は供給安定期待から反落。NY原油先物が値下がり。"
-  },
-  {
-    "title": "米コモディティー市場－天然ガス、銅が上昇 原油、ガソリン、金、銀、トウモロコシ、大豆が下落 - TradingView",
-    "timestamp": "2026-10-02T22:55:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で天然ガスと銅が上昇した一方、原油・ガソリン・金・銀・穀物が下落。日中の相場変動を総括する相場情報。"
   },
   {
     "title": "金価格は本日2026年10月4日、市場の変動に伴い下落している。最も困難な時期が終わったかどうかを判断するには、まだ時期尚早である。 - Vietnam.vn",
@@ -1307,5 +1054,148 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "大豆先物がUSX1,297のレジスタンスレベルを試している局面。テクニカル分析に基づく相場観測。ファンダメンタルズ要因の記載なし。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格はわずかに上昇し4140ドル｜米国の利上げ観測後退が影響している模様(2026年10月6日) - OANDA Japan",
+    "timestamp": "2026-10-05T23:04:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は4140ドルまでわずかに上昇した。米国の利上げ観測後退が主要な上昇要因となっている。金利低下環境は金などの非利息資産の相対的な魅力を高める。"
+  },
+  {
+    "title": "本日（10月6日）の金価格：金の指輪の価格は変動しており、上昇するものもあれば、下落するものもあり、その動きは一貫性がありません。 - Vietnam.vn",
+    "timestamp": "2026-10-05T22:53:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金指輪価格が日々変動している状況を報じたもの。特定の上昇・下落トレンドを示さず、相場の振り返りレベルの内容。"
+  },
+  {
+    "title": "金先物2906【GC2906】株価掲示板｜投資家のコメント - Moomoo",
+    "timestamp": "2026-10-05T13:19:23+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物2906銘柄の投資家向けコメント掲示板。個別投資家の意見交換の場であり、市場データや新規材料を含まない。"
+  },
+  {
+    "title": "本日10月6日の金価格：世界の金価格は4,141ドルまで下落、SJCの金価格は今後どうなるのか？ - Vietnam.vn",
+    "timestamp": "2026-10-05T23:38:10+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月6日時点で国際金価格が4,141ドルまで下落した。ベトナムの国内金価格(SJC)への波及を解説する記事。既に発生した価格変動の事後解説。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：原油供給への不安感が和らいだ影響で、原油価格は2営業日続落（2026年10月6日） - OANDA Japan",
+    "timestamp": "2026-10-05T23:14:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "供給懸念の緩和により、WTI原油は2営業日連続で下落。市場は供給リスク回避の動きを見せている。既に織り込まれた相場動向の解説記事。"
+  },
+  {
+    "title": "ENEOS株が高値圏 原油相場に翻弄される「市況株」に悩む市場 - nikkei.com",
+    "timestamp": "2026-10-05T20:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ENEOS株が原油相場の変動に連動して高値圏で推移している。市況株としての特性により、原油価格の変動に翻弄されている状況が報じられている。原油需給ファンダメンタルズの新規情報ではなく、株価と商品相場の連動性についての解説記事。"
+  },
+  {
+    "title": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で - reuters.com",
+    "timestamp": "2026-10-05T19:59:49+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が約2ドル下落。中東からの輸出増加とG7による戦略備蓄放出の2つの供給圧力が相場を押し下げた。市場では供給増加が既に織り込まれつつある状況。"
+  },
+  {
+    "title": "ニューヨーク原油先物市場概況･5日 続落 - Moomoo",
+    "timestamp": "2026-10-05T20:50:34+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ニューヨーク原油先物市場で5日連続の下落が発生。具体的な下落理由や幅については記事概要からは不明。市場解説・振り返りの性質が強い。"
+  },
+  {
+    "title": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で - ニューズウィーク日本版",
+    "timestamp": "2026-10-05T19:59:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東からの原油輸出増加とG７による備蓄放出が進行中。供給増加による需給緩和で先物が約2ドル安となった。市場は既に織り込み済みとみられる。"
+  },
+  {
+    "title": "原油価格は下落、サウジ値下げが影響－ホルムズ海峡輸送量も回復傾向 - Bloomberg.com",
+    "timestamp": "2026-10-05T20:41:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアの原油値下げにより原油価格が下落している。ホルムズ海峡の輸送量は回復傾向を示しており、供給サイドの懸念は緩和されている。"
+  },
+  {
+    "title": "本日の燃料価格（10月6日）：世界の原油価格は約2ドル下落。 - Vietnam.vn",
+    "timestamp": "2026-10-05T22:54:08+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が約2ドル下落した。ベトナムの燃料価格ニュースで、既に発生した価格変動の報告。市場全体への新規インパクトは限定的。"
+  },
+  {
+    "title": "５日の主要国際商品市況 - 株探",
+    "timestamp": "2026-10-05T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "5日の主要国際商品市況の日次レポート。複数のコモディティ市場の価格動向をまとめた定期的な市場解説記事。具体的な数値や変動理由の詳細が記事本文なしに判断不可。"
+  },
+  {
+    "title": "米コモディティー市場－天然ガス、銅、トウモロコシが上昇 原油、ガソリン、銀、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-05T22:29:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で天然ガス、銅、トウモロコシが上昇した一方、原油、ガソリン、銀、大豆が下落した。市場参加者による日次的な相場振り返り。"
   }
 ]
