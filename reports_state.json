@@ -955,5 +955,137 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米10年債利回りが2002年以来の高水準から低下し、原油価格も同時に下げている。米財務長官ベッセント氏が債務管理への継続的な取り組みを表明。利回り低下は金融引き締め懸念の緩和を示唆する一方で、原油下落はドル高圧力や経済減速懸念を反映している可能性がある。"
+  },
+  {
+    "title": "#Harvest26: Harvest Progress Diverges Across U.S. as Crop Conditions Slip - RFD-TV",
+    "timestamp": "2026-10-06T17:57:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国の収穫進捗が地域によって二極化し、作物の生育条件が悪化している。WASDE関連の収穫進捗報告において、穀物の条件が低下傾向にあり、収量見通しへの下方圧力が増加。今後の最終生産量推計に影響する可能性がある。"
+  },
+  {
+    "title": "#Harvest26: Harvest Progress Diverges Across U.S. as Crop Conditions Slip - RFD-TV",
+    "timestamp": "2026-10-06T17:57:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "米国の収穫進捗が地域によって二極化し、作物の生育条件が悪化している。WASDE関連の収穫進捗報告において、穀物の条件が低下傾向にあり、収量見通しへの下方圧力が増加。今後の最終生産量推計に影響する可能性がある。"
+  },
+  {
+    "title": "#Harvest26: Harvest Progress Diverges Across U.S. as Crop Conditions Slip - RFD-TV",
+    "timestamp": "2026-10-06T17:57:15+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国の収穫進捗が地域によって二極化し、作物の生育条件が悪化している。WASDE関連の収穫進捗報告において、穀物の条件が低下傾向にあり、収量見通しへの下方圧力が増加。今後の最終生産量推計に影響する可能性がある。"
+  },
+  {
+    "title": "USDA Crop Progress Report October 5, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
+    "timestamp": "2026-10-06T18:40:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress Report（10月5日発表）は、トウモロコシと大豆の秋季収穫進捗状況を示す定期統計です。2026年の収穫ペース、作柄見通し、単収推定値が市場の供給量予測に直結します。報告書内容によって穀物先物の変動が予想されます。"
+  },
+  {
+    "title": "USDA Crop Progress Report October 5, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
+    "timestamp": "2026-10-06T18:40:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress Report（10月5日発表）は、トウモロコシと大豆の秋季収穫進捗状況を示す定期統計です。2026年の収穫ペース、作柄見通し、単収推定値が市場の供給量予測に直結します。報告書内容によって穀物先物の変動が予想されます。"
+  },
+  {
+    "title": "USDA Crop Progress Report October 5, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
+    "timestamp": "2026-10-06T18:40:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA Crop Progress Report（10月5日発表）は、トウモロコシと大豆の秋季収穫進捗状況を示す定期統計です。2026年の収穫ペース、作柄見通し、単収推定値が市場の供給量予測に直結します。報告書内容によって穀物先物の変動が予想されます。"
+  },
+  {
+    "title": "Corn Futures Higher After USDA Reports Degraded Crop Condition -- Daily Grain Highlights - marketscreener.com",
+    "timestamp": "2026-10-06T19:19:16+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA（米農務省）がトウモロコシの作況状況が悪化したことを報告し、これを受けてトウモロコシ先物が上昇した。作況悪化は供給懸念を市場に示唆し、価格の買い圧力につながった。Crop Progress報告は定期的な重要統計であり、農産物市場の価格形成に直結する。"
+  },
+  {
+    "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile - Reuters",
+    "timestamp": "2026-10-06T17:39:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "EIA（米国エネルギー情報局）が原油価格見通しを上方修正。イラン情勢の緊迫化が世界的な石油在庫を減少させており、供給懸念が強まっている。地政学的リスクによる供給ショックの顕在化が価格を支援している。"
+  },
+  {
+    "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile - Reuters",
+    "timestamp": "2026-10-06T17:39:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "EIA（米国エネルギー情報局）が原油価格見通しを上方修正。イラン情勢の緊迫化が世界的な石油在庫を減少させており、供給懸念が強まっている。地政学的リスクによる供給ショックの顕在化が価格を支援している。"
+  },
+  {
+    "title": "South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says - Reuters",
+    "timestamp": "2026-10-06T16:22:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがドローン攻撃によるロシア燃料危機の緩和に韓国からの輸出が関与していると発表。ロシアへの制裁迂回ルートが機能している可能性を示唆。ウクライナ側の主張であり、供給ルート変化がロシア産原油・燃料の国際市場流出を促進しうる。"
+  },
+  {
+    "title": "South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says - Reuters",
+    "timestamp": "2026-10-06T16:22:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナがドローン攻撃によるロシア燃料危機の緩和に韓国からの輸出が関与していると発表。ロシアへの制裁迂回ルートが機能している可能性を示唆。ウクライナ側の主張であり、供給ルート変化がロシア産原油・燃料の国際市場流出を促進しうる。"
+  },
+  {
+    "title": "Russia’s Oil-Export Boom Undercut by Payouts, Diesel Sales Ban - Bloomberg.com",
+    "timestamp": "2026-10-06T14:48:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの石油輸出ブームが政府への利益配分と軽油販売禁止令により抑制されている。輸出量の増加が期待される一方で、国内政策による制約要因が出現。供給サイドの構造的な課題が浮上し、市場バランスに影響を与える可能性がある。"
   }
 ]
