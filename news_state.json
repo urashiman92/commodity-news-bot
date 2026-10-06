@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は本日2026年10月4日、市場の変動に伴い下落している。最も困難な時期が終わったかどうかを判断するには、まだ時期尚早である。 - Vietnam.vn",
-    "timestamp": "2026-10-03T14:47:25+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が本日2026年10月4日に市場変動に伴い下落している。アナリストは現在が困難な時期の終わりであるかどうかは判定時期尚早と見ている。既知の市場メカニズムに基づく通常の価格調整と考えられる。"
-  },
-  {
     "title": "売り圧力によって金価格は急速に下落し、投資家を失望させた。 - Vietnam.vn",
     "timestamp": "2026-10-03T20:34:10+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が売り圧力により急速に下落。投資家の期待値を下回る結果となった。既存トレンドの継続を示唆するニュース。"
-  },
-  {
-    "title": "［株式週間展望］原油先物価格や長期金利に関心 平均株価6万9千円台も - 沖縄タイムス社",
-    "timestamp": "2026-10-03T18:57:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本の株式市場週間展望記事。原油先物価格と長期金利が注視対象として挙げられ、平均株価が6万9千円台での推移が予想されている。原油市場への直接的な新規情報や材料は含まれていない。"
   },
   {
     "title": "アングル：金価格、米国債利回り上昇でも4000ドル台維持 中銀の準備資産分散が下支え - ニューズウィーク日本版",
@@ -1417,5 +1395,60 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "MEXCが2026-2050年のコモディティ価格予測を提示。長期的な価格トレンド予想の解説記事。具体的な予測内容や根拠が不明。"
+  },
+  {
+    "title": "金価格、12カ月以内に1トロイオンス5,013ドルに達すると予測 執筆 - Investing.com 日本",
+    "timestamp": "2026-10-06T18:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリストが金価格を12カ月以内に1トロイオンス5,013ドルまで上昇すると予測。現在価格からの上昇余地を示唆している。ただし予測値の根拠や市場コンセンサスとの乖離度は不明。"
+  },
+  {
+    "title": "2026年10月7日、国内の金価格は引き続き下落した。これは、投資の流れが間もなく回復し、中央銀行が金の買い入れを停止しないことを示唆している。 - Vietnam.vn",
+    "timestamp": "2026-10-06T16:43:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が下落している。中央銀行の継続的な買い入れと投資流の回復見通しが示唆されている。既に織り込まれた市場動向の解説。"
+  },
+  {
+    "title": "NY金先物は小幅反落、原油安でインフレヘッジ需要が後退｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-05T23:10:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が小幅反落。原油価格の下落がインフレヘッジ需要を減退させ、金の買い圧力が減少。相場の技術的な調整局面と解釈される。"
+  },
+  {
+    "title": "本日、利回り・原油価格・米ドルが揃って下落する好材料が揃っている - Moomoo",
+    "timestamp": "2026-10-06T13:19:46+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "利回り低下、原油価格下落、米ドル弱含みといった複数の好材料が揃っている状況の解説。これらは原油需要を支援する要因とされている。"
+  },
+  {
+    "title": "在庫減少とディーゼル逼迫でEIAが原油価格見通しを引き上げ - IndexBox",
+    "timestamp": "2026-10-06T16:50:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "EIA（米国エネルギー情報庁）が原油価格見通しを引き上げ。在庫減少とディーゼル需給の逼迫が背景。供給引き締まり圧力が価格上昇につながる可能性。"
   }
 ]
