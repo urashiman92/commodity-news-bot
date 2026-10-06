@@ -11,28 +11,6 @@
     "summary": "OPEC+は週末の定期会合で11月の生産割当を据え置く見通し。既報の減産合意を維持する方針で、市場は予想通りの展開と受け止めている。新たなサプライズ要因は限定的。"
   },
   {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-02T22:55:08+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECからの離脱を表明し、石油輸出国機構の結束力が大きく損なわれる可能性が浮上した。これはOPECの減産調整能力を弱体化させ、加盟国間の価格戦争リスクを高める。原油価格は供給サイドの統制力喪失により下落圧力を受ける見通し。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-02T22:55:08+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECからの離脱を表明し、石油輸出国機構の結束力が大きく損なわれる可能性が浮上した。これはOPECの減産調整能力を弱体化させ、加盟国間の価格戦争リスクを高める。原油価格は供給サイドの統制力喪失により下落圧力を受ける見通し。"
-  },
-  {
     "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
     "timestamp": "2026-10-03T10:30:09+00:00",
     "importance": 4,
@@ -757,5 +735,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが大幅な価格引き下げを発表し、イエメン情勢への地政学的懸念を相殺した。サウジの積極的な価格競争力強化により、原油相場は上昇から下落に転じた。供給過剰懸念が市場心理を支配している。"
+  },
+  {
+    "title": "USDA Grain Stocks report show more corn than expected how - Farm Progress",
+    "timestamp": "2026-10-05T22:36:48+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA穀物在庫レポートでトウモロコシ在庫が予想を上回る水準で報告された。市場は供給過剰シナリオを織り込んでいなかったため、価格下落圧力が生じている。豊作と在庫積み増しは穀物相場の弱気材料となる。"
+  },
+  {
+    "title": "U.S. Corn Harvest Slows as Weak Crops Collide With Heavy Stocks and Price Pressure - AgroLatam",
+    "timestamp": "2026-10-05T23:27:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの収穫が減速し、弱い作柄と過剰在庫が重なり、価格下押し圧力が強まっている。収穫遅延と豊富な供給量が市場の需給バランスを悪化させ、売り圧力が継続。既知の在庫過多の影響が一段と顕在化している状況。"
+  },
+  {
+    "title": "U.S. Corn Harvest Slows as Weak Crops Collide With Heavy Stocks and Price Pressure - AgroLatam",
+    "timestamp": "2026-10-05T23:27:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国トウモロコシの収穫が減速し、弱い作柄と過剰在庫が重なり、価格下押し圧力が強まっている。収穫遅延と豊富な供給量が市場の需給バランスを悪化させ、売り圧力が継続。既知の在庫過多の影響が一段と顕在化している状況。"
+  },
+  {
+    "title": "U.S. Corn Harvest Slows as Weak Crops Collide With Heavy Stocks and Price Pressure - AgroLatam",
+    "timestamp": "2026-10-05T23:27:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "米国トウモロコシの収穫が減速し、弱い作柄と過剰在庫が重なり、価格下押し圧力が強まっている。収穫遅延と豊富な供給量が市場の需給バランスを悪化させ、売り圧力が継続。既知の在庫過多の影響が一段と顕在化している状況。"
+  },
+  {
+    "title": "Opec+ keeps oil output targets unchanged for November - thenationalnews.com",
+    "timestamp": "2026-10-04T11:42:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は11月の石油生産目標を据え置くことを決定した。前月比での変更がなく、既に周知されていた減産政策を継続する旨の発表。市場は既にこの結果を織り込んでいた可能性が高い。"
   }
 ]
