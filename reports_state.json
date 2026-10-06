@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ Expected to Hold November Quotas Steady at Weekend Meeting - IndexBox",
-    "timestamp": "2026-10-03T04:22:57+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は週末の定期会合で11月の生産割当を据え置く見通し。既報の減産合意を維持する方針で、市場は予想通りの展開と受け止めている。新たなサプライズ要因は限定的。"
-  },
-  {
     "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - Reuters",
     "timestamp": "2026-10-03T10:30:09+00:00",
     "importance": 4,
@@ -42,17 +31,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ポッドキャスト形式のニュース報道であり、複数の地政学的イベント（FlyDubai攻撃調査、キエフ橋への攻撃）とG7の戦略備蓄石油放出について扱っている。ウクライナ情勢の悪化は供給リスク要因となる一方、G7による備蓄放出は供給増加圧力として作用する見通し。"
-  },
-  {
-    "title": "OPEC+ Loses Oil Market Sway in Iran War as China Gains Influence - EnergyNow.com",
-    "timestamp": "2026-10-03T07:44:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+のイラン情勢による市場支配力低下と、中国の石油市場への影響力拡大を指摘するレポート。地政学的緊張下でも、従来のOPECの減産調整メカニズムが機能しにくくなり、需要面での中国の役割が相対的に重要性を増している。価格形成の構造が変化している可能性を示唆。"
   },
   {
     "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ",
@@ -790,5 +768,104 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は11月の石油生産目標を据え置くことを決定した。前月比での変更がなく、既に周知されていた減産政策を継続する旨の発表。市場は既にこの結果を織り込んでいた可能性が高い。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - energynow.com",
+    "timestamp": "2026-10-04T16:44:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国のEIAが発表した先週の原油在庫統計で、原油とガソリン在庫が共に減少したことが報告された。強い需要が在庫減少の主要因であり、これはエネルギー需要の堅調さを示唆している。在庫減少は一般的に原油価格の上昇要因となる。"
+  },
+  {
+    "title": "USDA supply shocker knocks corn off $5 perch — for now - Farm Progress",
+    "timestamp": "2026-10-06T07:04:08+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA発表のサプライズが市場を揺さぶり、トウモロコシ価格が1ブッシェル5ドルの高値から急落。USDA統計による供給見通しの大幅な変更が、それまでの相場構図を一変させた。市場参加者の事前予想を大きく外したと推定される。"
+  },
+  {
+    "title": "LME Copper Stocks Fall 3,750t as Shanghai Shuts for Golden Week - Discovery Alert",
+    "timestamp": "2026-10-05T14:53:58+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "LMEの銅在庫が3,750トン減少した。上海が中国の大型連休「ゴールデンウィーク」で取引休場となったことに伴う、季節的な在庫移動と見られる。供給逼迫の新たな兆候というより、例年の取引パターンの反映と考えられる。"
+  },
+  {
+    "title": "OPEC+ agrees to keep November oil output targets steady - CNBC",
+    "timestamp": "2026-10-04T12:54:18+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は11月の原油生産目標を据え置くことで合意した。これは前月の政策を継続するもので、市場予想の範囲内。供給政策の急激な変更がないため、既存のポジション環境に大きな変化をもたらさない可能性が高い。"
+  },
+  {
+    "title": "Gold inches lower as firmer dollar, higher yields weigh - reuters.com",
+    "timestamp": "2026-10-06T02:15:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "ドル強化と利回り上昇が金価格を下押ししている。ドル高は金を海外投資家にとって割高にし、実質金利の上昇は無利子資産である金の魅力を減じる。複合的な逆風により金は軟調に推移している。"
+  },
+  {
+    "title": "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says - reuters.com",
+    "timestamp": "2026-10-06T09:23:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "シェブロンのCEOが中東紛争の継続により、石油・燃料供給のバッファー（緩衝在庫）が急速に減少していると指摘。供給側の懸念表明により、原油および関連コモディティへの上昇圧力が強まる。供給不安が顕在化すれば、価格は一段上昇の可能性。"
+  },
+  {
+    "title": "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says - reuters.com",
+    "timestamp": "2026-10-06T09:23:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "シェブロンのCEOが中東紛争の継続により、石油・燃料供給のバッファー（緩衝在庫）が急速に減少していると指摘。供給側の懸念表明により、原油および関連コモディティへの上昇圧力が強まる。供給不安が顕在化すれば、価格は一段上昇の可能性。"
+  },
+  {
+    "title": "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com",
+    "timestamp": "2026-10-05T23:39:14+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "金は米ドル強化と債券利回り上昇の圧力にさらされている。金利経路の見通しが不確実な中、無利子資産としての金の相対的な魅力が低下している。ドル強化は特に非ドル建てコモディティ購入意欲を減少させている。"
+  },
+  {
+    "title": "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com",
+    "timestamp": "2026-10-05T23:39:14+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "金は米ドル強化と債券利回り上昇の圧力にさらされている。金利経路の見通しが不確実な中、無利子資産としての金の相対的な魅力が低下している。ドル強化は特に非ドル建てコモディティ購入意欲を減少させている。"
   }
 ]
