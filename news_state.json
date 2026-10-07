@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格は1オンスあたり4,200ドルに達する見込みだが、専門家は依然として慎重な姿勢を崩していない一方、個人投資家は来週の金価格の上昇に楽観的な見方を示している。 - Vietnam.vn",
-    "timestamp": "2026-10-04T11:47:29+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,200ドルに到達する見通しが示されている。専門家は慎重だが、個人投資家は強気姿勢を示している。市場心理の乖離が存在する状況。"
-  },
-  {
-    "title": "本日（2026年10月4日）の金価格：SJC金は1オンスあたり1億4050万～1億4350万ベトナムドンで推移。 - Vietnam.vn",
-    "timestamp": "2026-10-04T11:19:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金が1オンスあたり1億4050万～1億4350万ベトナムドンで推移している現地相場レポート。ベトナム国内の金価格の日次公表値であり、グローバル市場への直接的な影響度は限定的。"
-  },
-  {
-    "title": "原油価格が上昇、ホルムズ海峡の閉鎖懸念が供給不安を強める - mezha.net",
-    "timestamp": "2026-10-04T11:28:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡の閉鎖懸念が台頭し、原油価格が上昇。同海峡は世界の石油輸送の約20-30%を占める重要な供給ルートであり、供給リスク要因として機能している。"
-  },
-  {
-    "title": "本日2026年10月5日の金価格は下落圧力にさらされており、非常に厳しい局面に入っている。投資家は過度に楽観的になるべきではない。 - Vietnam.vn",
-    "timestamp": "2026-10-04T14:59:40+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年10月5日時点で金価格が下落圧力を受けており、市場は厳しい局面にあるとの解説。アナリストが投資家に過度な楽観を戒めている。"
-  },
-  {
-    "title": "原油80ドル超えでフィリピン上院議長が燃料物品税の一時停止を要請 - finance.biggo.jp",
-    "timestamp": "2026-10-04T16:25:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フィリピン上院議長が原油80ドル超の高騰を背景に燃料物品税の一時停止を要請。政治的な対応提案だが、供給面への直接的な影響は限定的。需要面での懸念材料となる可能性がある。"
-  },
-  {
-    "title": "主要7ヵ国(G7)が今後4ヵ月にわたって備蓄軽油と原油1億バレルを放出することで合意した。 ドナルド·トランプ米国大統領が11月の中間選挙を控えて原油価格を抑えるために全方位的圧迫を加えながら急いで合.. - 매일경제",
-    "timestamp": "2026-10-04T12:56:46+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が4ヵ月間で1億バレルの原油・軽油放出に合意。米国がインフレ抑制と中間選挙対策として主導。戦略備蓄の大規模放出は供給増加圧力。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4140ドル｜米長期金利の上昇が影響した模様(2026年10月5日) - OANDA Japan",
     "timestamp": "2026-10-04T23:03:07+00:00",
     "importance": 3,
@@ -1538,5 +1472,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "MEXCプラットフォームによるCME先物とJPYの価格チャート及び市場データ表示サービスの紹介。具体的な価格変動や市場イベントに関する情報は含まれていない。"
+  },
+  {
+    "title": "パーセウスCEO、金相場の不透明感でM&A停滞 - BeInCrypto",
+    "timestamp": "2026-10-07T10:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "パーセウス・マイニングのCEOが金相場の不透明感を理由にM&A活動を一時停止。金価格の先行き不透明性が業界の成長戦略に悪影響を与えている状況を示唆。"
+  },
+  {
+    "title": "$WTI 原油先物(2611) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-10-07T13:40:51+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の価格表示に関するニュース記事。記事本文が不完全で具体的な内容が確認できない。"
+  },
+  {
+    "title": "米国EIA、2027年の原油価格予測を再度引き上げ - IDNFinancials",
+    "timestamp": "2026-10-07T11:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国EIAが2027年の原油価格見通しを引き上げた。中期的な価格支持要因として評価される。ただし具体的な予測水準の詳細は記事では不明。"
+  },
+  {
+    "title": "KalshiがCFTCに無期限WTI原油先物契約の承認を申請 執筆 - Investing.com 日本",
+    "timestamp": "2026-10-07T15:33:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Kalshi社がCFTCに無期限WTI原油先物契約の承認を申請した。仮想通貨取引所Kalshiが規制当局への申請段階であり、承認は未定。原油市場への直接的な需給影響はない。"
+  },
+  {
+    "title": "NY市場動向（午後0時台）：ダウ399ドル安、原油先物0.75ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-07T16:29:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場の午後時点でダウ平均が399ドル安で推移。これに連動して原油先物が0.75ドル安。市場全体の弱気ムードが原油にも波及。"
+  },
+  {
+    "title": "$WTI 原油先物(期近) (CLcurrent.US)$ - Moomoo",
+    "timestamp": "2026-10-07T12:17:02+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の期近契約に関するMoomooプラットフォームの情報ページ。具体的なニュース内容や価格動向の説明は記事本文から特定できない。"
+  },
+  {
+    "title": "コーン先物価格は売り圧力が市場を圧迫するなか、USX502.81のサポート付近を維持 - Traders Union",
+    "timestamp": "2026-10-07T13:02:36+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "コーン先物は売り圧力に晒されており、サポートレベルのUSX502.81付近で推移している。テクニカル的には下値支持が意識されている状況。市場には売り優勢の機運が続いている。"
+  },
+  {
+    "title": "Soybean Futures価格はUSX1,293のサポート付近を維持、勢いの弱さが上値を抑制 - Traders Union",
+    "timestamp": "2026-10-07T12:41:46+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物はUSX1,293ドルのサポートレベル付近で推移。勢いの弱さが上昇を制限している状況。テクニカル分析に基づく相場観測。"
+  },
+  {
+    "title": "【激変】銅価格の高騰で、注目集まるJX金属！見るべきは〇〇 Kisd (bxNiBfZSMk) - Unisba Media",
+    "timestamp": "2026-10-07T06:27:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の高騰に伴い、国内銅製錬・加工大手のJX金属が市場で注目を集めている。銅価格上昇により同社の収益性向上が期待される。投資家向けの解説・銘柄分析記事。"
+  },
+  {
+    "title": "銅価格は本日なぜ安定しているのか？米ドル安が買いを後押し、重要サポートに注目 - Traders Union",
+    "timestamp": "2026-10-07T12:29:42+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は本日安定推移。米ドル安が買い圧力を支援。重要サポートレベルが相場の焦点となっている。"
   }
 ]
