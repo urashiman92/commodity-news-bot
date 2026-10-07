@@ -11,17 +11,6 @@
     "summary": "OPECおよび同盟国が中東の地政学的緊張の中、石油産出量を据え置く方針を維持している。供給安定化の姿勢を示す一方で、具体的な新規減産や増産決定は発表されていない模様。地政学リスクプレミアムは既に織り込まれている状況と考えられる。"
   },
   {
-    "title": "OPEC+ Set to Keep November Oil Output Targets Steady, Sources Say - themoscowtimes.com",
-    "timestamp": "2026-10-04T07:53:24+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が11月の石油生産目標を据え置くことを発表。複数の情報筋が確認したもので、既に予想されていた内容。現在の減産政策を継続し、市場の過度な供給増加を抑制する姿勢を堅持。"
-  },
-  {
     "title": "OPEC+ To Keep Oil Quotas Unchanged In November As Iran War Continues To Impact Output, Keeping Crude Prices On The Boil: Report - TradingView",
     "timestamp": "2026-10-04T11:26:23+00:00",
     "importance": 3,
@@ -1131,5 +1120,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "IEAが来週、ディーゼル在庫放出の詳細を決定する予定。市場では放出規模や時期について混乱が生じており、サプライズ度が高い。詳細決定までは市場心理が不安定。"
+  },
+  {
+    "title": "OPEC+ holds output targets steady as Middle East conflict tightens supply - Yahoo Finance",
+    "timestamp": "2026-10-04T09:02:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が現在の減産目標を据え置く決定を発表した。中東紛争が供給を圧迫する中での判断であり、市場は供給タイト化への懸念から原油価格の上昇圧力が強まる。地政学的リスク要因が既存の減産スキームと重なることで、市場が予想していた以上の価格上昇シナリオが現実化する可能性が高い。"
+  },
+  {
+    "title": "Oil gains as US storm and Houthi air strikes threaten supply - Reuters",
+    "timestamp": "2026-10-07T06:46:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の嵐とフーシ派による空爆により、原油供給が脅かされている。米国湾岸地域の石油生産施設が嵐の影響を受け、中東ではイエメンの反政府勢力フーシ派による紅海での船舶攻撃が供給リスクを増大させている。複合的な地政学リスクと気象リスクが同時に顕在化し、市場は供給懸念から買い姿勢を強めている。"
+  },
+  {
+    "title": "Asia shares weaker, oil up as investors weigh Saudi-Houthi escalation - Reuters",
+    "timestamp": "2026-10-07T02:40:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアとイエメンの親イラン勢力フーシ派の軍事的緊張が高まり、中東地域の地政学リスクが急速に顕在化。これを受けて原油価格は上昇圧力を強める一方、アジア株式市場はリスク回避売りで弱含み。供給途絶懸念がコモディティ市場全体に波及する可能性が高い。"
+  },
+  {
+    "title": "Asia shares weaker, oil up as investors weigh Saudi-Houthi escalation - Reuters",
+    "timestamp": "2026-10-07T02:40:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアとイエメンの親イラン勢力フーシ派の軍事的緊張が高まり、中東地域の地政学リスクが急速に顕在化。これを受けて原油価格は上昇圧力を強める一方、アジア株式市場はリスク回避売りで弱含み。供給途絶懸念がコモディティ市場全体に波及する可能性が高い。"
+  },
+  {
+    "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets - Bloomberg.com",
+    "timestamp": "2026-10-07T04:31:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "金相場は堅調に推移。原油供給増加と米国債利回り低下が利上げ観測を緩和させ、金にとってポジティブな環境が形成されている。ドル高圧力が緩和される中で、利子なし資産の金の相対的な魅力が高まりつつある状況。"
+  },
+  {
+    "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets - Bloomberg.com",
+    "timestamp": "2026-10-07T04:31:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "金相場は堅調に推移。原油供給増加と米国債利回り低下が利上げ観測を緩和させ、金にとってポジティブな環境が形成されている。ドル高圧力が緩和される中で、利子なし資産の金の相対的な魅力が高まりつつある状況。"
+  },
+  {
+    "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets - Bloomberg.com",
+    "timestamp": "2026-10-07T04:31:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "金相場は堅調に推移。原油供給増加と米国債利回り低下が利上げ観測を緩和させ、金にとってポジティブな環境が形成されている。ドル高圧力が緩和される中で、利子なし資産の金の相対的な魅力が高まりつつある状況。"
   }
 ]
