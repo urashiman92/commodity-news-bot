@@ -1,16 +1,5 @@
 [
   {
-    "title": "Iran's oil minister resigns for personal reasons, state media reports - reuters.com",
-    "timestamp": "2026-10-04T18:53:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イランの石油相が個人的な理由により辞任したと国営メディアが報じた。後任の任命時期や政策方向性は不明。イランの原油輸出能力や交渉スタンスに直結する人事だが、辞任理由が政治的ではなく個人的とされており、供給政策の急変リスクは限定的と考えられる。"
-  },
-  {
     "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - reuters.com",
     "timestamp": "2026-10-04T23:51:21+00:00",
     "importance": 4,
@@ -636,17 +625,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "米国トウモロコシの収穫が減速し、弱い作柄と過剰在庫が重なり、価格下押し圧力が強まっている。収穫遅延と豊富な供給量が市場の需給バランスを悪化させ、売り圧力が継続。既知の在庫過多の影響が一段と顕在化している状況。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - energynow.com",
-    "timestamp": "2026-10-04T16:44:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国のEIAが発表した先週の原油在庫統計で、原油とガソリン在庫が共に減少したことが報告された。強い需要が在庫減少の主要因であり、これはエネルギー需要の堅調さを示唆している。在庫減少は一般的に原油価格の上昇要因となる。"
   },
   {
     "title": "USDA supply shocker knocks corn off $5 perch — for now - Farm Progress",
@@ -1428,5 +1406,170 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金利上昇、原油価格、米ドル強化がコモディティ市場に同時に作用する相互関係性を指摘。金利上昇は金などの非利息資産に下押し圧力、原油は経済見通しに左右される。米ドル強化は全コモディティの価格抵抗要因となる可能性が高い。これら3要因が同時に発生することで、株式市場同様コモディティセクターも調整局面を迎える可能性を示唆。"
+  },
+  {
+    "title": "U.S. grain prices retreat as corn, soybeans and wheat lose momentum before USDA report - AgroLatam",
+    "timestamp": "2026-10-07T21:38:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国の穀物価格（トウモロコシ、大豆、小麦）が上昇モメンタムを失い、後退局面に入った。USDA報告書（WASDE）の発表を控える前に、市場が利益確定売りと供給見通しの改善期待により調整局面を迎えている。"
+  },
+  {
+    "title": "U.S. grain prices retreat as corn, soybeans and wheat lose momentum before USDA report - AgroLatam",
+    "timestamp": "2026-10-07T21:38:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国の穀物価格（トウモロコシ、大豆、小麦）が上昇モメンタムを失い、後退局面に入った。USDA報告書（WASDE）の発表を控える前に、市場が利益確定売りと供給見通しの改善期待により調整局面を迎えている。"
+  },
+  {
+    "title": "U.S. grain prices retreat as corn, soybeans and wheat lose momentum before USDA report - AgroLatam",
+    "timestamp": "2026-10-07T21:38:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "米国の穀物価格（トウモロコシ、大豆、小麦）が上昇モメンタムを失い、後退局面に入った。USDA報告書（WASDE）の発表を控える前に、市場が利益確定売りと供給見通しの改善期待により調整局面を迎えている。"
+  },
+  {
+    "title": "Rising Treasury Yields, Stronger Dollar Weigh on Grains Ahead of Friday’s WASDE - American Ag Network",
+    "timestamp": "2026-10-07T20:13:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "米国10年債利回りの上昇とドル強化がトウモロコシ・大豆・小麦などの穀物価格に下押し圧力をもたらしている。金曜日のWASDE（米農務省需給報告）発表を控えて、市場はこれらの逆風要因を意識。ドル強化は穀物の国際競争力を低下させるため。"
+  },
+  {
+    "title": "Rising Treasury Yields, Stronger Dollar Weigh on Grains Ahead of Friday’s WASDE - American Ag Network",
+    "timestamp": "2026-10-07T20:13:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国10年債利回りの上昇とドル強化がトウモロコシ・大豆・小麦などの穀物価格に下押し圧力をもたらしている。金曜日のWASDE（米農務省需給報告）発表を控えて、市場はこれらの逆風要因を意識。ドル強化は穀物の国際競争力を低下させるため。"
+  },
+  {
+    "title": "Rising Treasury Yields, Stronger Dollar Weigh on Grains Ahead of Friday’s WASDE - American Ag Network",
+    "timestamp": "2026-10-07T20:13:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国10年債利回りの上昇とドル強化がトウモロコシ・大豆・小麦などの穀物価格に下押し圧力をもたらしている。金曜日のWASDE（米農務省需給報告）発表を控えて、市場はこれらの逆風要因を意識。ドル強化は穀物の国際競争力を低下させるため。"
+  },
+  {
+    "title": "Rising Treasury Yields, Stronger Dollar Weigh on Grains Ahead of Friday’s WASDE - American Ag Network",
+    "timestamp": "2026-10-07T20:13:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国10年債利回りの上昇とドル強化がトウモロコシ・大豆・小麦などの穀物価格に下押し圧力をもたらしている。金曜日のWASDE（米農務省需給報告）発表を控えて、市場はこれらの逆風要因を意識。ドル強化は穀物の国際競争力を低下させるため。"
+  },
+  {
+    "title": "U.S. Crude Futures Turn Lower Despite Inventory Draw - WSJ",
+    "timestamp": "2026-10-07T17:22:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計で在庫減少が報告されたにもかかわらず、WTI先物は下落した。在庫改善は需給引き締めを示唆するポジティブ材料だが、市場は他の要因（ドル強化、世界景気減速懸念、金融引き締め継続見通しなど）を優先視した可能性がある。"
+  },
+  {
+    "title": "Venezuela's Cardon refinery halted after fire, no injuries reported - Reuters",
+    "timestamp": "2026-10-06T20:27:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ベネズエラのカルドン製油所が火災により停止した。同国の主要なエネルギー施設の稼働停止は、既に制裁下にあるベネズエラからの原油供給をさらに制限する。供給逼迫懸念から原油価格には上昇圧力がかかる可能性がある。"
+  },
+  {
+    "title": "Banks lead FTSE 100 decline as bond yields, oil surge - Reuters",
+    "timestamp": "2026-10-07T16:33:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "FTSE 100が銀行セクターの下落をけん引する中、債券利回りの上昇と原油価格の急騰が同時に発生。利回り上昇は金などの無利子資産に下押し圧力を与える一方、原油高はエネルギー・インフレ懸念を反映。市場は金融引き締め継続と商品インフレの懸念が混在している状況を示唆。"
+  },
+  {
+    "title": "Banks lead FTSE 100 decline as bond yields, oil surge - Reuters",
+    "timestamp": "2026-10-07T16:33:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "FTSE 100が銀行セクターの下落をけん引する中、債券利回りの上昇と原油価格の急騰が同時に発生。利回り上昇は金などの無利子資産に下押し圧力を与える一方、原油高はエネルギー・インフレ懸念を反映。市場は金融引き締め継続と商品インフレの懸念が混在している状況を示唆。"
+  },
+  {
+    "title": "Banks lead FTSE 100 decline as bond yields, oil surge - Reuters",
+    "timestamp": "2026-10-07T16:33:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "FTSE 100が銀行セクターの下落をけん引する中、債券利回りの上昇と原油価格の急騰が同時に発生。利回り上昇は金などの無利子資産に下押し圧力を与える一方、原油高はエネルギー・インフレ懸念を反映。市場は金融引き締め継続と商品インフレの懸念が混在している状況を示唆。"
+  },
+  {
+    "title": "US 30-Year Yields Return to 2002 High With Crude Back Above $100 - Bloomberg.com",
+    "timestamp": "2026-10-07T11:39:38+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国30年債利回りが2002年以来の高水準に到達し、同時に原油価格が100ドルを上回った。長期金利の急騰は金などの無利子資産に下落圧力をもたらす一方、インフレ懸念と地政学的緊張が原油価格の上昇を支援。金利と商品の相反する動きが市場の不確実性を反映している。"
+  },
+  {
+    "title": "US 30-Year Yields Return to 2002 High With Crude Back Above $100 - Bloomberg.com",
+    "timestamp": "2026-10-07T11:39:38+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国30年債利回りが2002年以来の高水準に到達し、同時に原油価格が100ドルを上回った。長期金利の急騰は金などの無利子資産に下落圧力をもたらす一方、インフレ懸念と地政学的緊張が原油価格の上昇を支援。金利と商品の相反する動きが市場の不確実性を反映している。"
+  },
+  {
+    "title": "US 30-Year Yields Return to 2002 High With Crude Back Above $100 - Bloomberg.com",
+    "timestamp": "2026-10-07T11:39:38+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国30年債利回りが2002年以来の高水準に到達し、同時に原油価格が100ドルを上回った。長期金利の急騰は金などの無利子資産に下落圧力をもたらす一方、インフレ懸念と地政学的緊張が原油価格の上昇を支援。金利と商品の相反する動きが市場の不確実性を反映している。"
   }
 ]
