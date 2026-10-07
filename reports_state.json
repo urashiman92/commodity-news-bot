@@ -1087,5 +1087,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの石油輸出ブームが政府への利益配分と軽油販売禁止令により抑制されている。輸出量の増加が期待される一方で、国内政策による制約要因が出現。供給サイドの構造的な課題が浮上し、市場バランスに影響を与える可能性がある。"
+  },
+  {
+    "title": "Oil prices stable as market weighs supply risks, rising Middle East exports - CNBC",
+    "timestamp": "2026-10-06T01:21:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "中東からの原油輸出増加の一方で供給リスクが市場の重しとなり、原油価格は安定している。市場は供給リスクと増加する中東輸出のバランスを綿密に監視しており、短期的には方向性が定まりにくい状況。EIA在庫データと組み合わせた解説コメンタリーと考えられる。"
+  },
+  {
+    "title": "Oil: Private survey of inventory shows a headline crude oil draw - investingLive",
+    "timestamp": "2026-10-06T20:53:12+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "民間調査による原油在庫の統計調査が報告されました。ヘッドラインでは原油在庫の減少（ドロー）が観測されています。EIA週間在庫統計の先行指標として市場参加者に注視されており、在庫減少は需給逼迫を示唆するため原油価格への上昇圧力となります。"
+  },
+  {
+    "title": "IEA to decide on details of diesel stocks release next week, sources say, as market confusion grows - Reuters",
+    "timestamp": "2026-10-06T15:01:43+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "IEAが来週、ディーゼル在庫放出の詳細を決定する予定。市場では放出規模や時期について混乱が生じており、サプライズ度が高い。詳細決定までは市場心理が不安定。"
+  },
+  {
+    "title": "IEA to decide on details of diesel stocks release next week, sources say, as market confusion grows - Reuters",
+    "timestamp": "2026-10-06T15:01:43+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "IEAが来週、ディーゼル在庫放出の詳細を決定する予定。市場では放出規模や時期について混乱が生じており、サプライズ度が高い。詳細決定までは市場心理が不安定。"
   }
 ]
