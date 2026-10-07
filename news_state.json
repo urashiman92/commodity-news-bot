@@ -11,17 +11,6 @@
     "summary": "金価格は4140ドルへ下落。米長期金利の上昇が主因。金利上昇は金の実質利回り低下を招き、利息生まない金資産の相対的な魅力低下につながる。"
   },
   {
-    "title": "本日（10月5日）の金価格：新たな週の始まりに多くの好材料が見られる。 - Vietnam.vn",
-    "timestamp": "2026-10-04T22:19:13+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月5日の金価格について、週の開始時点で複数の好材料が存在することを報じている。具体的な好材料の詳細は概要からは不明。金相場への上向きの見方を示唆するコメンタリー記事。"
-  },
-  {
     "title": "10月5日朝の金価格更新:指輪の金価格が下落 - Laodong.vn",
     "timestamp": "2026-10-04T23:00:00+00:00",
     "importance": 1,
@@ -130,17 +119,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "東京金相場が軟調な推移を示している。具体的な値動き幅や下落理由の詳細は記事概要からは不明。相場の振り返り・観測記事と考えられる。"
-  },
-  {
-    "title": "来週の金価格予測：専門家は4000ドルまで下落する可能性を警告している。 - Vietnam.vn",
-    "timestamp": "2026-10-04T21:28:16+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "専門家が来週の金価格が4000ドルまで下落する可能性を警告している。既に報じられた市場見通しの一つであり、具体的な新規情報は含まれていない。アナリスト予測の域を出ていない。"
   },
   {
     "title": "10月5日現在の金価格：世界の金価格が再び上昇、SJCの金価格はどこまで上昇するのか？ - Vietnam.vn",
@@ -1582,5 +1560,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格は本日安定推移。米ドル安が買い圧力を支援。重要サポートレベルが相場の焦点となっている。"
+  },
+  {
+    "title": "2026年10月8日現在、金価格は引き続き下落しており、4,000ドルまで下がる可能性もある。ロシアの金価格はアジア寄りにシフトしている。 - Vietnam.vn",
+    "timestamp": "2026-10-07T20:16:08+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が継続的に下落トレンドにあり、4,000ドル水準までの下値の可能性が指摘されている。ロシア経由の金価格形成がアジア市場にシフトしている動きも報告されている。既に進行中の弱気相場の解説。"
+  },
+  {
+    "title": "2026年10月8日現在の最新金価格：SJC、BTMC、PNJ、およびフークイの金地金と金指輪の価格表。 - Vietnam.vn",
+    "timestamp": "2026-10-07T22:19:13+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの主要金販売業者（SJC、BTMC、PNJ、フークイ）による日次の金価格表示。金地金と金指輪の小売価格情報の定期公開。"
+  },
+  {
+    "title": "中東産原油が供給されても…「高い輸送費の壁」によりアジアの原油価格は高止まり : 経済 - ハンギョレ新聞",
+    "timestamp": "2026-10-07T21:51:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東産原油の供給増加にもかかわらず、アジア地域への高い輸送費がボトルネックとなり、アジア原油価格の低下を抑制している。構造的な地理的コスト要因が価格を高止まりさせている。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ493ドル安、原油先物0.61ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-07T14:25:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午前10時台の株式先物がダウ493ドル安で推移する中、原油先物は0.61ドル高で上昇。株安でも原油が上がるという通常と異なる動きを示している。"
   }
 ]
