@@ -1,49 +1,5 @@
 [
   {
-    "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - reuters.com",
-    "timestamp": "2026-10-04T23:51:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イエメンの親イラン武装勢力フーシ派がサウジアラムコの施設を攻撃し、原油価格が上昇した。中東での地政学的緊張が急速に高まり、世界最大級の産油国サウジアラビアの供給途絶リスクが顕在化。供給ショック懸念から原油は即座に反応した。"
-  },
-  {
-    "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-04T22:17:26+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株上昇と米国金利上昇見直しの緩和を背景に、リスク資産への需要が回復。原油は上昇する見通しだが、金利低下期待が薄れることで金は下押し圧力を受ける。マクロ環境の転換点を示唆している。"
-  },
-  {
-    "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-04T22:17:26+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株上昇と米国金利上昇見直しの緩和を背景に、リスク資産への需要が回復。原油は上昇する見通しだが、金利低下期待が薄れることで金は下押し圧力を受ける。マクロ環境の転換点を示唆している。"
-  },
-  {
-    "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-04T22:17:26+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "アジア株上昇と米国金利上昇見直しの緩和を背景に、リスク資産への需要が回復。原油は上昇する見通しだが、金利低下期待が薄れることで金は下押し圧力を受ける。マクロ環境の転換点を示唆している。"
-  },
-  {
     "title": "Get the best grain prices: Watch weather, WASDE, yields, demand - farmprogress.com",
     "timestamp": "2026-10-05T07:04:11+00:00",
     "importance": 3,
@@ -75,17 +31,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "穀物価格の変動要因に関する解説記事。WASDE予報、天候リスク、収穫量予想、需要動向の4つの主要監視ポイントを提示している。特定の新規データではなく、投資家向けの市場監視フレームワークの提供。"
-  },
-  {
-    "title": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters",
-    "timestamp": "2026-10-04T23:50:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが11月のアジア向け原油価格を予想外に引き下げ、6年ぶりの安値水準まで低下させた。この大幅な価格引き下げは市場の弱気見通しを反映しており、需要懸念と供給過剰圧力が強まっていることを示唆している。"
   },
   {
     "title": "Saudis Cut Flagship Oil Price to Asia to Lowest in Six Years - Bloomberg.com",
@@ -196,39 +141,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "米国農務省のCrop Progress報告における穀物在庫統計が市場予想を上回るサプライズを示した。この在庫レポートは収穫期の農産物需給見通しを左右する重要なデータであり、市場参加者の収穫時期のポジション構築に影響を与える。ただし具体的な数値が明示されていないため、方向性の確度は限定的。"
-  },
-  {
-    "title": "Copper Rallies After Weak US Jobs Report Eases Fed Rate Concerns - Briefs Finance",
-    "timestamp": "2026-10-04T22:57:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "米国の弱い雇用統計が発表され、FRBの利上げ継続への懸念が緩和された。これにより米ドル指数が軟化し、ドル建てコモディティである銅が上昇。金利低下予想はドル建て無利子資産である金にも支援的に作用する見通し。"
-  },
-  {
-    "title": "Copper Rallies After Weak US Jobs Report Eases Fed Rate Concerns - Briefs Finance",
-    "timestamp": "2026-10-04T22:57:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "米国の弱い雇用統計が発表され、FRBの利上げ継続への懸念が緩和された。これにより米ドル指数が軟化し、ドル建てコモディティである銅が上昇。金利低下予想はドル建て無利子資産である金にも支援的に作用する見通し。"
-  },
-  {
-    "title": "Copper Rallies After Weak US Jobs Report Eases Fed Rate Concerns - Briefs Finance",
-    "timestamp": "2026-10-04T22:57:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "米国の弱い雇用統計が発表され、FRBの利上げ継続への懸念が緩和された。これにより米ドル指数が軟化し、ドル建てコモディティである銅が上昇。金利低下予想はドル建て無利子資産である金にも支援的に作用する見通し。"
   },
   {
     "title": "OPEC+ says it will maintain the current oil production levels in November - Baltimore Sun",
@@ -528,39 +440,6 @@
     "summary": "米中貿易対立の激化に伴い、銅の戦略備蓄需要が増加している。地政学的リスク回避とサプライチェーン再構築の動きから、各国が銅の備蓄積み増しを進めており、スポット需要の下支え要因となる可能性がある。"
   },
   {
-    "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease - Reuters",
-    "timestamp": "2026-10-05T01:22:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米ドル上昇とト レジャリー利回り上昇によるNasdaq過去最高を背景に、マクロ環境が変化している。ドル強化は一般的にコモディティ下落圧力（特に金）となり、同時に原油価格は小幅軟化。利回り上昇は金など無利子資産を圧迫する要因として既知の状況が継続。"
-  },
-  {
-    "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease - Reuters",
-    "timestamp": "2026-10-05T01:22:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米ドル上昇とト レジャリー利回り上昇によるNasdaq過去最高を背景に、マクロ環境が変化している。ドル強化は一般的にコモディティ下落圧力（特に金）となり、同時に原油価格は小幅軟化。利回り上昇は金など無利子資産を圧迫する要因として既知の状況が継続。"
-  },
-  {
-    "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease - Reuters",
-    "timestamp": "2026-10-05T01:22:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米ドル上昇とト レジャリー利回り上昇によるNasdaq過去最高を背景に、マクロ環境が変化している。ドル強化は一般的にコモディティ下落圧力（特に金）となり、同時に原油価格は小幅軟化。利回り上昇は金など無利子資産を圧迫する要因として既知の状況が継続。"
-  },
-  {
     "title": "Penny-Stock Bet on Athabasca Yields 6,500% Gain for Ninepoint - Bloomberg.com",
     "timestamp": "2026-10-05T18:36:06+00:00",
     "importance": 2,
@@ -570,17 +449,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Ninepointファンドがアサバスカ地域のペニーストック（低価格小型株）に投資し、6,500%のリターンを達成したというケーススタディ。これはベンチャー的な鉱物資源開発投資の成功例であり、特定セクターの投機的な収益を報じるもの。コモディティ市場全体の需給構造や価格トレンドへの直接的な影響は限定的。"
-  },
-  {
-    "title": "Oil Swings to Loss as Deep Saudi Price Cut Offsets Yemen Concern - Bloomberg.com",
-    "timestamp": "2026-10-04T22:03:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが大幅な価格引き下げを発表し、イエメン情勢への地政学的懸念を相殺した。サウジの積極的な価格競争力強化により、原油相場は上昇から下落に転じた。供給過剰懸念が市場心理を支配している。"
   },
   {
     "title": "USDA Grain Stocks report show more corn than expected how - Farm Progress",
@@ -1571,5 +1439,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国30年債利回りが2002年以来の高水準に到達し、同時に原油価格が100ドルを上回った。長期金利の急騰は金などの無利子資産に下落圧力をもたらす一方、インフレ懸念と地政学的緊張が原油価格の上昇を支援。金利と商品の相反する動きが市場の不確実性を反映している。"
+  },
+  {
+    "title": "U.S. Crude Stocks Dip But Distillates Hold Steady - Yahoo Finance",
+    "timestamp": "2026-10-07T14:40:54+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIA週間在庫統計。原油在庫は減少したものの、留意すべき点は留出油（ディー�チレート）在庫が堅調に推移していることである。原油供給圧力の緩和を示唆する一方で、製品在庫の強さは需要環境の堅実性を反映している。具体的な在庫数値や変動幅の詳細は報道タイトルからは不明だが、通常の週次変動の可能性が高い。"
+  },
+  {
+    "title": "Iowa Harvest Delays Put Corn Market on Alert Ahead of Key USDA Reports - AgroLatam",
+    "timestamp": "2026-10-07T13:22:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "アイオワ州のトウモロコシ収穫遅延が市場の警戒を高めている。今後発表される主要なUSDAレポートを控える中、収穫進度の遅れは生産量推定値やポジション見直しのトリガーとなる可能性がある。天候リスクと収穫完了率の不確実性が価格上昇圧力につながる見通し。"
+  },
+  {
+    "title": "Oil Edges Higher on Iran Strike Options Report and Storm Impact - Bloomberg.com",
+    "timestamp": "2026-10-07T22:02:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イランへの軍事作戦オプション検討の報道と米国南部の嵐による供給懸念が、原油価格を押し上げた。地政学的リスク（イラン情勢）と気象関連の供給途絶リスクの二重要因が相場をサポート。中東地域の緊張激化が価格の下支え要因となっている。"
+  },
+  {
+    "title": "Asian Stocks Drop as Oil Stokes Inflation Worries: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-07T22:03:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を招いている。エネルギーコモディティの値上がりが金融市場全体にネガティブに作用し、リスク資産の売却圧力が増している。インフレ懸念の台頭により、金融引き締め観測も強まっている可能性がある。"
+  },
+  {
+    "title": "Asian Stocks Drop as Oil Stokes Inflation Worries: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-07T22:03:17+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株が下落し、原油価格の上昇がインフレ懸念を招いている。エネルギーコモディティの値上がりが金融市場全体にネガティブに作用し、リスク資産の売却圧力が増している。インフレ懸念の台頭により、金融引き締め観測も強まっている可能性がある。"
   }
 ]
