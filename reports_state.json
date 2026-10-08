@@ -33,61 +33,6 @@
     "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国主要穀物（トウモロコシ、大豆、小麦）の播種進捗率、生育ステージ、作付面積などの実績データを更新。季節性の高い定例発表で、作況判断の基礎となるが、本レポート自体の予想比サプライズ度は別途詳細データ確認が必要。"
   },
   {
-    "title": "What Farmers Need to Know Before the October WASDE Report - Successful Farming",
-    "timestamp": "2026-10-05T16:32:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "10月のWASDE報告書を控えた農業従事者向けガイダンス記事。米国の穀物作付面積、収穫予想、在庫見通しなどの重要統計が発表される予定。トウモロコシ・大豆・小麦の供給見通しが改定される可能性があり、農家のポジション管理・販売戦略に直結する情報源となる。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the October WASDE Report - Successful Farming",
-    "timestamp": "2026-10-05T16:32:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "10月のWASDE報告書を控えた農業従事者向けガイダンス記事。米国の穀物作付面積、収穫予想、在庫見通しなどの重要統計が発表される予定。トウモロコシ・大豆・小麦の供給見通しが改定される可能性があり、農家のポジション管理・販売戦略に直結する情報源となる。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the October WASDE Report - Successful Farming",
-    "timestamp": "2026-10-05T16:32:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "10月のWASDE報告書を控えた農業従事者向けガイダンス記事。米国の穀物作付面積、収穫予想、在庫見通しなどの重要統計が発表される予定。トウモロコシ・大豆・小麦の供給見通しが改定される可能性があり、農家のポジション管理・販売戦略に直結する情報源となる。"
-  },
-  {
-    "title": "What Farmers Need to Know Before the October WASDE Report - Successful Farming",
-    "timestamp": "2026-10-05T16:32:12+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "10月のWASDE報告書を控えた農業従事者向けガイダンス記事。米国の穀物作付面積、収穫予想、在庫見通しなどの重要統計が発表される予定。トウモロコシ・大豆・小麦の供給見通しが改定される可能性があり、農家のポジション管理・販売戦略に直結する情報源となる。"
-  },
-  {
-    "title": "USDA Grain Stocks report show more corn than expected how - Farm Progress",
-    "timestamp": "2026-10-05T20:37:30+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA穀物在庫レポートでトウモロコシ在庫が市場予想を上回る数字となった。予想外の高い在庫水準は供給が需要を上回っていることを示唆し、トウモロコシ価格に下落圧力がかかる見通し。作付面積や収穫量の堅調さが背景と考えられる。"
-  },
-  {
     "title": "Grain Markets: Money Flow, Harvest, Basis and WASDE - American Ag Network",
     "timestamp": "2026-10-05T22:20:06+00:00",
     "importance": 3,
@@ -130,17 +75,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "WASDE発表に基づく穀物市場分析レポート。収穫進捗、ベーシス、マネーフロー動向から市場心理を総合評価。穀物相場は需給バランスと資金流入動向の綱引き状態にあり、今後のWASDE改定と現物収穫進捗が重要な注視点となる。"
-  },
-  {
-    "title": "Penny-Stock Bet on Athabasca Yields 6,500% Gain for Ninepoint - Bloomberg.com",
-    "timestamp": "2026-10-05T18:36:06+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Ninepointファンドがアサバスカ地域のペニーストック（低価格小型株）に投資し、6,500%のリターンを達成したというケーススタディ。これはベンチャー的な鉱物資源開発投資の成功例であり、特定セクターの投機的な収益を報じるもの。コモディティ市場全体の需給構造や価格トレンドへの直接的な影響は限定的。"
   },
   {
     "title": "USDA Grain Stocks report show more corn than expected how - Farm Progress",
@@ -251,28 +185,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金は米ドル強化と債券利回り上昇の圧力にさらされている。金利経路の見通しが不確実な中、無利子資産としての金の相対的な魅力が低下している。ドル強化は特に非ドル建てコモディティ購入意欲を減少させている。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn, Soybean Harvests Ahead of Pace - News and Statistics - IndexBox",
-    "timestamp": "2026-10-05T20:20:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress発表によると、トウモロコシと大豆の収穫が平年ペースを上回っている。豊作進捗が加速することで、供給増加期待が生じ、両穀物価格に下押し圧力が働く見込み。具体的な収穫進捗率の数値が市場予想に対してどの程度サプライズであるかは、発表内容の詳細により判断される。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn, Soybean Harvests Ahead of Pace - News and Statistics - IndexBox",
-    "timestamp": "2026-10-05T20:20:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress発表によると、トウモロコシと大豆の収穫が平年ペースを上回っている。豊作進捗が加速することで、供給増加期待が生じ、両穀物価格に下押し圧力が働く見込み。具体的な収穫進捗率の数値が市場予想に対してどの程度サプライズであるかは、発表内容の詳細により判断される。"
   },
   {
     "title": "Saudi energy minister says oil pumped through East-West pipeline reached 5.8 million barrels - Reuters",
@@ -1340,5 +1252,148 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラビアの実業家らが水関連ビジネスで90億ドルの資産を構築したという記事。従来の石油産業から多角化する動きを示唆。水資源の戦略的重要性が高まる中東地域の経済構造の変化を反映しているが、直接的なコモディティ価格への即座の影響は限定的。"
+  },
+  {
+    "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
+    "timestamp": "2026-10-08T20:33:22+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDE報告書の発表を控え、トウモロコシ・大豆・小麦価格が事前売却により下落。WASDEは米穀物市場の最重要定期統計であり、作付面積・生産量・需給見通しの改定が発表される。報告書の内容次第で相場が大きく変動する可能性が高い。"
+  },
+  {
+    "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
+    "timestamp": "2026-10-08T20:33:22+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDE報告書の発表を控え、トウモロコシ・大豆・小麦価格が事前売却により下落。WASDEは米穀物市場の最重要定期統計であり、作付面積・生産量・需給見通しの改定が発表される。報告書の内容次第で相場が大きく変動する可能性が高い。"
+  },
+  {
+    "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
+    "timestamp": "2026-10-08T20:33:22+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDE報告書の発表を控え、トウモロコシ・大豆・小麦価格が事前売却により下落。WASDEは米穀物市場の最重要定期統計であり、作付面積・生産量・需給見通しの改定が発表される。報告書の内容次第で相場が大きく変動する可能性が高い。"
+  },
+  {
+    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
+    "timestamp": "2026-10-08T20:25:47+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
+  },
+  {
+    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
+    "timestamp": "2026-10-08T20:25:47+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
+  },
+  {
+    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
+    "timestamp": "2026-10-08T20:25:47+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
+  },
+  {
+    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
+    "timestamp": "2026-10-08T20:25:47+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
+  },
+  {
+    "title": "EIA Crude Oil Inventories Preview: 15 October 2026 Report - Admirals",
+    "timestamp": "2026-10-08T18:34:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週次原油在庫報告は毎週水曜に公表される定期統計。2026年10月15日の報告は、米国原油供給・需要バランスの最新動向を示す。具体的な在庫増減数値が明確でないため、市場への影響度は予想比の乖離幅に依存する。"
+  },
+  {
+    "title": "U.S. crude stocks dip but distillates hold steady - Oil & Gas 360",
+    "timestamp": "2026-10-07T21:48:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAが週間原油在庫統計を発表。原油在庫は小幅低下した一方、留分油（ディーゼル・灯油等）在庫は横ばいを維持。需給バランスに大きな変化は見られず、市場は限定的な反応に留まる見込み。"
+  },
+  {
+    "title": "Copper inventory sentiment signalled tightening ahead of Q3 backwardation, Permutable analysis finds - markets.businessinsider.com",
+    "timestamp": "2026-10-08T18:01:01+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅の在庫センチメント分析により、Q3のバックワーデーション（現物高）に先立つ需給逼迫シグナルが検出された。Permutable分析は在庫動向が銅市場の引き締まりを予示していることを示唆している。需給タイト化は銅価格の上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "US bonds rally after 30-year auction finds solid demand - Reuters",
+    "timestamp": "2026-10-08T20:50:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国30年債オークションが堅調な需要を記録し、債券相場が上昇した。米国債利回りの低下は、金利上昇環境の緩和を示唆し、無利子資産である金に対する下落圧力が一時的に軽減される可能性がある。ただし、金融政策の基調転換ではなく、市場予想の範囲内の動き。"
+  },
+  {
+    "title": "US bonds rally after 30-year auction finds solid demand - Reuters",
+    "timestamp": "2026-10-08T20:50:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国30年債オークションが堅調な需要を記録し、債券相場が上昇した。米国債利回りの低下は、金利上昇環境の緩和を示唆し、無利子資産である金に対する下落圧力が一時的に軽減される可能性がある。ただし、金融政策の基調転換ではなく、市場予想の範囲内の動き。"
+  },
+  {
+    "title": "India Shuns Costly Russian Oil as Middle East Flows Recover - Bloomberg.com",
+    "timestamp": "2026-10-08T08:14:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インドが中東産油国からの原油供給回復に伴い、割高なロシア産原油の購入を削減している。中東からのフローが安定化する中で、ロシア産原油への需要が低下し、原油市場全体の需給バランスに影響を与えている。"
   }
 ]
