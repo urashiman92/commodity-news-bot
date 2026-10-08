@@ -44,61 +44,6 @@
     "summary": "供給懸念の緩和により、WTI原油は2営業日連続で下落。市場は供給リスク回避の動きを見せている。既に織り込まれた相場動向の解説記事。"
   },
   {
-    "title": "ENEOS株が高値圏 原油相場に翻弄される「市況株」に悩む市場 - nikkei.com",
-    "timestamp": "2026-10-05T20:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ENEOS株が原油相場の変動に連動して高値圏で推移している。市況株としての特性により、原油価格の変動に翻弄されている状況が報じられている。原油需給ファンダメンタルズの新規情報ではなく、株価と商品相場の連動性についての解説記事。"
-  },
-  {
-    "title": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で - reuters.com",
-    "timestamp": "2026-10-05T19:59:49+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が約2ドル下落。中東からの輸出増加とG7による戦略備蓄放出の2つの供給圧力が相場を押し下げた。市場では供給増加が既に織り込まれつつある状況。"
-  },
-  {
-    "title": "ニューヨーク原油先物市場概況･5日 続落 - Moomoo",
-    "timestamp": "2026-10-05T20:50:34+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ニューヨーク原油先物市場で5日連続の下落が発生。具体的な下落理由や幅については記事概要からは不明。市場解説・振り返りの性質が強い。"
-  },
-  {
-    "title": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で - ニューズウィーク日本版",
-    "timestamp": "2026-10-05T19:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東からの原油輸出増加とG７による備蓄放出が進行中。供給増加による需給緩和で先物が約2ドル安となった。市場は既に織り込み済みとみられる。"
-  },
-  {
-    "title": "原油価格は下落、サウジ値下げが影響－ホルムズ海峡輸送量も回復傾向 - Bloomberg.com",
-    "timestamp": "2026-10-05T20:41:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアの原油値下げにより原油価格が下落している。ホルムズ海峡の輸送量は回復傾向を示しており、供給サイドの懸念は緩和されている。"
-  },
-  {
     "title": "本日の燃料価格（10月6日）：世界の原油価格は約2ドル下落。 - Vietnam.vn",
     "timestamp": "2026-10-05T22:54:08+00:00",
     "importance": 2,
@@ -306,17 +251,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東からの原油供給増加により、WTI原油価格が1バレルあたり約2ドル（約2%）下落した。供給増加による価格圧力は市場参加者の想定範囲内の動き。需給バランスの悪化を示唆する重要な市場シグナル。"
-  },
-  {
-    "title": "【カープ公式】10/16(金)試合前打撃練習 （※音声なし） Copper Price (xfiTfXg5tc) - Unisba Media",
-    "timestamp": "2026-10-05T16:58:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "広島カープの試合前打撃練習の動画コンテンツ。銅市場とは無関係のスポーツニュース。ニュースフィードの分類エラーと思われる。"
   },
   {
     "title": "５日の主要国際商品市況 (2026年10月6日掲載) - ライブドアニュース",
@@ -1538,5 +1472,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "AIセクターへの楽観論がリスク選好を支え、銅価格は$6.6893のレジスタンス付近で推移。テクニカルレベルでの相場観測。"
+  },
+  {
+    "title": "原油先物4％高、中東緊迫化とメキシコ湾ハリケーン接近で - Reuters",
+    "timestamp": "2026-10-08T20:36:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊迫化とメキシコ湾のハリケーン接近という二つの供給リスク要因により、原油先物が4%上昇した。両要因とも予定外の地政学的・気象ショックで、短期的な供給懸念が価格を押し上げた。"
+  },
+  {
+    "title": "原油先物4％高、中東緊迫化とメキシコ湾ハリケーン接近で - ニューズウィーク日本版",
+    "timestamp": "2026-10-08T20:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東地域の地政学的緊張と米国メキシコ湾のハリケーン接近が相まって、原油先物が4%上昇。供給リスクと需要不確実性が同時に顕在化している状況。"
+  },
+  {
+    "title": "NY外為：ドル乱高下、原油相場に連れ、トランプ大統領発言で変動激しく - ｄメニューニュース",
+    "timestamp": "2026-10-08T19:18:15+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領発言に伴うドル乱高下が原油相場を連動させている。ドル変動に引きずられた相場変動であり、原油市場の本質的なファンダメンタルズ変化ではない。"
+  },
+  {
+    "title": "原油価格と利回りの上昇がインフレ懸念を強め、ウォール街は下落した - TradingView",
+    "timestamp": "2026-10-08T15:50:58+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇と利回り上昇がインフレ懸念を招き、株式市場が下落した。原油高がマクロ経済の重しになる懸念が顕在化。"
+  },
+  {
+    "title": "原油先物4％高、中東緊迫化とメキシコ湾ハリケーン接近で（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-10-08T20:45:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊迫化とメキシコ湾へのハリケーン接近により、原油先物が4％上昇した。供給途絶懸念が相場を支える主要要因となっている。既知のリスク要因の顕在化に伴う値動き。"
   }
 ]
