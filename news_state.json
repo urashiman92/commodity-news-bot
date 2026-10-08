@@ -1,126 +1,5 @@
 [
   {
-    "title": "(NEXT FUNDS)金価格連動型上場投信【1328】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-10-05T04:36:54+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "Yahoo!ファイナンスが金価格連動型ETF（NEXT FUNDS 1328）の株価情報を掲載している記事。金ETFの価格データ配信であり、金現物相場への直接的な新規ニュースではない。"
-  },
-  {
-    "title": "金価格は今週も下落を続ける可能性がある。 - Vietnam.vn",
-    "timestamp": "2026-10-05T07:49:29+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が今週も下落基調で推移する可能性があると報じられている。アナリストの相場展望コメント。具体的なファンダメンタルズ要因の詳細は記事概要から不明。"
-  },
-  {
-    "title": "金価格が高値から26%急落でも個人・中央銀行は「買い」…交錯する投資戦略 - BigGo ファイナンス",
-    "timestamp": "2026-10-05T03:25:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が高値から26%下落した局面でも、個人投資家と中央銀行は買い姿勢を継続。市場参加者の投資戦略が相反する状況が生じており、底値捜索の動きが活発化している。"
-  },
-  {
-    "title": "2026年10月5日の金価格：購入直後に2％以上下落。 - Vietnam.vn",
-    "timestamp": "2026-10-05T09:06:08+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月5日の金価格が購入後に2%以上下落した。短期的な利益確定売りと見られる。テクニカルな調整の範囲内の動き。"
-  },
-  {
-    "title": "本日10月5日の金価格は下落圧力にさらされており、非常に厳しい局面に入っている。投資家は過度に楽観的になるべきではない。 - Vietnam.vn",
-    "timestamp": "2026-10-05T07:09:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月5日の金価格は下落圧力を受けており、市場環境が厳しい局面にあるとの指摘。アナリストが投資家に対して過度な楽観視を控えるよう警告している。"
-  },
-  {
-    "title": "本日10月5日の金価格最新情報：SJCの金価格は変動なし。 - Vietnam.vn",
-    "timestamp": "2026-10-05T09:16:12+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が10月5日に変動なしとの報道。地域的な価格情報であり、グローバル市場への影響は限定的。"
-  },
-  {
-    "title": "サウジ、アジア向け原油価格を6年ぶり安値に－市場シェア獲得競う - TBS NEWS DIG",
-    "timestamp": "2026-10-05T04:34:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアがアジア向け原油価格を6年ぶりの安値に設定し、市場シェア獲得競争が激化している。供給過剰感や競争激化を背景とした価格戦略の転換を示唆している。"
-  },
-  {
-    "title": "サウジ、アジア向け原油価格を6年ぶり安値に－市場シェア獲得競う - Bloomberg.com",
-    "timestamp": "2026-10-05T04:34:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアがアジア向け原油価格を6年ぶりの安値に設定し、市場シェア競争を激化させている。供給過剰懸念やOPEC減産の限界感が背景。原油価格の下押し圧力が継続する可能性。"
-  },
-  {
-    "title": "サウジアラビアがアジア市場向け原油価格を引き下げた。 - Vietnam.vn",
-    "timestamp": "2026-10-05T09:02:20+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアがアジア市場向けの原油価格を引き下げた。供給過剰懸念やアジア需要減速の圧力を反映した価格調整と考えられる。市場での価格押し下げ要因として作用する可能性がある。"
-  },
-  {
-    "title": "ＩＮＰＥＸ---反落、G7の石油備蓄放出決定を受けて原油相場が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-05T05:20:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "G7が石油備蓄の放出を決定し、市場供給の増加が見込まれるため原油相場が下落。INPEXなど原油関連銘柄も反応。需給バランスの改善が価格圧迫要因となった。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年10月5日）債券利回りとドルの高止まりで金に下落圧力、投機筋はロングを縮小 - ブリオンボールト",
-    "timestamp": "2026-10-05T07:52:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "債券利回りの上昇とドル高により、金に下落圧力が生じている。投機筋がロングポジションを縮小させているとの報道。金の需要低迷が続く状況。"
-  },
-  {
     "title": "本日2026年10月6日の金価格は、安値圏で推移しており、強気派の投機家は失望し、売り圧力が強まり、市場の将来は予測不可能となっている。 - Vietnam.vn",
     "timestamp": "2026-10-05T15:03:44+00:00",
     "importance": 2,
@@ -218,17 +97,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "コノコフィリップス会長が原油価格の下限が70ドルへ上昇すると発言。供給削減と需要回復を背景とした業界トップの強気見通しを提示。既存トレンドの延長線上の発言と評価。"
-  },
-  {
-    "title": "サウジ、アジア向け原油価格を6年ぶり安値に－市場シェア獲得競う - TBS NEWS DIG",
-    "timestamp": "2026-10-05T07:39:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラムコがアジア向け原油価格を6年ぶりの安値に設定し、市場シェア獲得競争を激化させている。供給過剰懸念と価格競争激化が原油相場を圧迫する動き。"
   },
   {
     "title": "原油価格の下限、70ドル台へ上昇と米石油大手会長が見通し - BigGo ファイナンス",
@@ -1593,5 +1461,115 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "2026年10月7日の主要国際商品市況の定期レポート。具体的な価格データや市場動向の詳細は記事内容が不明確なため評価困難。商品全般の広範な市場レビューと考えられる。"
+  },
+  {
+    "title": "相変わらずしぶとい金価格 - 三菱マテリアル GOLDPARK",
+    "timestamp": "2026-10-08T09:08:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が堅調に推移している現状についての解説記事。三菱マテリアルによる相場観測コンテンツであり、具体的な新規ニュースや統計数字は含まれていない。"
+  },
+  {
+    "title": "金価格続落｜池田正一 - JIJICO",
+    "timestamp": "2026-10-08T08:18:54+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が続落している状況に関するコメンタリー記事。既に進行中の下落トレンドについての解説と見られる。具体的な新規材料や統計数字は示されていない。"
+  },
+  {
+    "title": "Antamの金価格、木曜日（10/8）に1グラムあたり2,565,000ルピアに下落 - IDNFinancials",
+    "timestamp": "2026-10-08T05:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアのAntam社の金価格が2,565,000ルピア/グラムに下落した。国内市場の日次価格変動を報じた定期的なニュース。"
+  },
+  {
+    "title": "本日の金価格（10月8日午後）：安定 - Vietnam.vn",
+    "timestamp": "2026-10-08T08:14:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が10月8日午後時点で安定推移している旨のレポート。市場が大きく動いていない状況を報じたもの。"
+  },
+  {
+    "title": "ゴールドETFに100億ドル流入、それでも金価格が8.5%下落した理由 - EBC Financial Group",
+    "timestamp": "2026-10-08T07:24:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドETFへの100億ドルの資金流入にもかかわらず金価格が8.5%下落した。需給の不一致と市場メカニズムの矛盾を示す異例の現象。投資家心理と実需のギャップが露呈。"
+  },
+  {
+    "title": "$WTI 原油先物(2611) (CLmain.US)$ - Moomoo",
+    "timestamp": "2026-10-08T06:19:55+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の現在値を表示するMoomooのティッカー情報。具体的なニュースイベントや価格変動要因の情報が含まれていない。"
+  },
+  {
+    "title": "株価 値下がり 原油先物価格の上昇で売り注文広がる - NHKニュース",
+    "timestamp": "2026-10-08T03:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格の上昇が株式市場全体に売り圧力をもたらし、株価が値下がりしている。エネルギー価格の上昇がインフレ懸念とコスト増につながっている。"
+  },
+  {
+    "title": "中東における供給懸念から、原油価格は反転上昇した。 - Vietnam.vn",
+    "timestamp": "2026-10-08T09:12:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東における供給懸念が発生し、原油価格が反転上昇した。地政学的なリスク要因が市場に影響を与えている。具体的な供給途絶の詳細が不明確であるため、今後の展開に注視が必要。"
+  },
+  {
+    "title": "銅価格の高騰には慎重に対応してください。 - Vietnam.vn",
+    "timestamp": "2026-10-08T03:11:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "ベトナムメディアが銅価格の高騰に対する慎重な対応を呼びかけている。既に進行中の相場上昇局面に対する警告的な見解と考えられる。"
+  },
+  {
+    "title": "米コモディティー市場－天然ガスが上昇 原油、ガソリン、金、銀、トウモロコシ、小麦、大豆が下落 - TradingView",
+    "timestamp": "2026-10-07T22:30:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で天然ガスが上昇した一方、エネルギー・貴金属・農産物が広く下落。複数セクターにわたる値動きの報道。"
   }
 ]
