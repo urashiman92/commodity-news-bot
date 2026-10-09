@@ -1,27 +1,5 @@
 [
   {
-    "title": "USDA supply shocker knocks corn off $5 perch — for now - Farm Progress",
-    "timestamp": "2026-10-06T07:04:08+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA発表のサプライズが市場を揺さぶり、トウモロコシ価格が1ブッシェル5ドルの高値から急落。USDA統計による供給見通しの大幅な変更が、それまでの相場構図を一変させた。市場参加者の事前予想を大きく外したと推定される。"
-  },
-  {
-    "title": "Gold inches lower as firmer dollar, higher yields weigh - reuters.com",
-    "timestamp": "2026-10-06T02:15:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "ドル強化と利回り上昇が金価格を下押ししている。ドル高は金を海外投資家にとって割高にし、実質金利の上昇は無利子資産である金の魅力を減じる。複合的な逆風により金は軟調に推移している。"
-  },
-  {
     "title": "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says - reuters.com",
     "timestamp": "2026-10-06T09:23:02+00:00",
     "importance": 4,
@@ -1230,5 +1208,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC プラスが9月に戦時中最高水準の原油生産量を記録したと報じられた。これは過去の紛争期を上回る生産水準であり、市場が減産継続を想定していた中での供給増加は予想外。今後の価格圧力要因となる可能性がある。"
+  },
+  {
+    "title": "Oil falls as Trump comments on Iran talks ease supply concerns - Reuters",
+    "timestamp": "2026-10-09T02:28:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領のイラン核協議に関する肯定的なコメントが報じられ、イランの原油供給制裁緩和への期待が高まった。これにより供給懸念が緩和され、原油価格は下落。中東地政学リスクプレミアムの縮小が要因。"
+  },
+  {
+    "title": "Oil eases, bringing some respite to stocks and battered bonds - Reuters",
+    "timestamp": "2026-10-09T01:56:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格が軟化し、株式市場と債券市場に一定の緩和効果をもたらしている。原油相場の押し安は、インフレ懸念の緩和を通じてリスク資産の買い戻しを支援。ただし、エネルギー関連セクターへの下押し圧力は継続している状況。"
+  },
+  {
+    "title": "Oil eases, bringing some respite to stocks and battered bonds - Reuters",
+    "timestamp": "2026-10-09T01:56:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格が軟化し、株式市場と債券市場に一定の緩和効果をもたらしている。原油相場の押し安は、インフレ懸念の緩和を通じてリスク資産の買い戻しを支援。ただし、エネルギー関連セクターへの下押し圧力は継続している状況。"
+  },
+  {
+    "title": "Copper Set for Weekly Gain on China’s Return and Supply Concerns - Bloomberg.com",
+    "timestamp": "2026-10-09T06:53:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "中国の旧正月明けに伴う経済活動の再開と、供給不安が銅価格の週間上昇をサポートしている。中国は世界最大の銅消費国であり、その需要回復は価格の主要なドライバーとなる。同時に供給懸念材料も存在し、複数の要因が価格を支えている状況。"
   }
 ]
