@@ -1,38 +1,5 @@
 [
   {
-    "title": "金価格、12カ月以内に1トロイオンス5,013ドルに達すると予測 執筆 - Investing.com 日本",
-    "timestamp": "2026-10-06T18:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリストが金価格を12カ月以内に1トロイオンス5,013ドルまで上昇すると予測。現在価格からの上昇余地を示唆している。ただし予測値の根拠や市場コンセンサスとの乖離度は不明。"
-  },
-  {
-    "title": "2026年10月7日、国内の金価格は引き続き下落した。これは、投資の流れが間もなく回復し、中央銀行が金の買い入れを停止しないことを示唆している。 - Vietnam.vn",
-    "timestamp": "2026-10-06T16:43:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が下落している。中央銀行の継続的な買い入れと投資流の回復見通しが示唆されている。既に織り込まれた市場動向の解説。"
-  },
-  {
-    "title": "在庫減少とディーゼル逼迫でEIAが原油価格見通しを引き上げ - IndexBox",
-    "timestamp": "2026-10-06T16:50:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "EIA（米国エネルギー情報庁）が原油価格見通しを引き上げ。在庫減少とディーゼル需給の逼迫が背景。供給引き締まり圧力が価格上昇につながる可能性。"
-  },
-  {
     "title": "WisdomTree 小麦上場投信【1695】：株価・株式情報 - Yahoo!ファイナンス",
     "timestamp": "2026-10-06T22:26:24+00:00",
     "importance": 1,
@@ -77,17 +44,6 @@
     "summary": "米ドル売却と米国債利回り低下により金価格が上昇した。これは金と米ドル・債券利回りの逆相関関係を反映した、予想通りの値動き。"
   },
   {
-    "title": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め - Reuters",
-    "timestamp": "2026-10-06T20:11:43+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物は横ばい推移。中東の供給増加とフーシ派による攻撃懸念が相殺されている状況。市場は両要因のバランスを見極めている。"
-  },
-  {
     "title": "WTI原油見通し(市況ニュース)：中東情勢の先行き不透明感が影響し、原油価格は3営業日ぶりに上昇（2026年10月7日） - OANDA Japan",
     "timestamp": "2026-10-06T23:15:34+00:00",
     "importance": 3,
@@ -121,17 +77,6 @@
     "summary": "米国株式市場（S&P500、ナスダック）が最高値を更新した。原油価格の安定がポジティブ要因として機能している。株価上昇は原油需要環境の好転を示唆。"
   },
   {
-    "title": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め - ｄメニューニュース",
-    "timestamp": "2026-10-06T20:11:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が横ばいで推移。中東の供給増加圧力とフーシ派による紅海での攻撃リスクが相反する要因として市場で綱引きが続いている。投資家が両要因の実現度を見極めている段階。"
-  },
-  {
     "title": "米国株式市場＝Ｓ＆Ｐ５００とナスダックが最高値更新、原油価格の安定で - Infoseek",
     "timestamp": "2026-10-06T20:14:11+00:00",
     "importance": 2,
@@ -141,28 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国株式市場が最高値更新した背景として原油価格の安定が挙げられている。原油価格が落ち着いていることでインフレ圧力が緩和され、株式市場に好材料となっている。"
-  },
-  {
-    "title": "米国株式市場＝Ｓ＆Ｐ５００とナスダックが最高値更新、原油価格の安定で - ニューズウィーク日本版",
-    "timestamp": "2026-10-06T20:14:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株式市場（S&P500、ナスダック）が最高値を更新した。原油価格の安定が株式市場の上昇を支援している。"
-  },
-  {
-    "title": "テクニカルなモメンタムを受けてセッション高値を更新し、大豆先物価格は約2%上昇 - Traders Union",
-    "timestamp": "2026-10-06T19:15:41+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がテクニカルなモメンタムにより約2%上昇しセッション高値を更新した。テクニカル要因による短期的な上昇相場。ファンダメンタル要因ではなく技術的な値動きの報告。"
   },
   {
     "title": "６日の主要国際商品市況 - 株探",
@@ -273,17 +196,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米EIAが2027年にかけての原油価格見通しを引き上げた。従来予想よりも強気のシナリオを提示している。需給バランスや地政学的リスク評価の変化が背景にある可能性。"
-  },
-  {
-    "title": "テクニカルモメンタムが売られ過ぎ水準からの反発を促し、コーン先物価格は2%以上上昇 - Traders Union",
-    "timestamp": "2026-10-06T17:30:38+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "テクニカル指標の売られ過ぎ水準からの技術的な反発によりトウモロコシ先物が2%以上上昇。ファンダメンタルズの改善ではなく、チャート形状に基づくショートカバー的な動き。"
   },
   {
     "title": "６日の主要国際商品市況 (2026年10月7日掲載) - ライブドアニュース",
@@ -1549,5 +1461,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "チリの主要銅鉱山センティネラで史上初のストライキが発生。JPMorganは生産への打撃が「かなり深刻」と警告。チリは世界最大の銅供給国であり、供給制約が銅価格上昇圧力となる可能性が高い。"
+  },
+  {
+    "title": "米国トウモロコシ生産予測がヨーロッパ小麦価格を圧迫 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-09T17:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "米国トウモロコシ生産予測の増加がヨーロッパ小麦市場に売り圧力をもたらしている。穀物市場全体における代替関係が作用し、トウモロコシ供給増加が小麦需要を減少させている。"
+  },
+  {
+    "title": "専門家：金価格は1500ドルの急落後、急騰する可能性がある。 - Vietnam.vn",
+    "timestamp": "2026-10-09T16:09:21+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は1500ドル付近での調整後、上昇する可能性があるとの専門家見解。テクニカルな反発予想で、既に市場で認識されている典型的な相場観。"
+  },
+  {
+    "title": "金価格は大幅に反発したが、上昇余地は限定的。AI業績が米国の経済成長率見通しを押し下げ - Moomoo",
+    "timestamp": "2026-10-09T09:30:51+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が大幅に反発したが、AI関連の業績不安が米国経済成長見通しを下押ししている。ただしアナリスト評価としては上昇余地は限定的と指摘されている。"
+  },
+  {
+    "title": "【速報】NY原油先物下落に転じる、露が軽油供給で合意とトランプ米大統領｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-09T19:17:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がロシアの軽油供給合意を発表し、市場供給増加への期待からNY原油先物が下落に転じた。供給緩和シナリオは既に一部で報じられていた。"
+  },
+  {
+    "title": "WTI原油先物相場、下げ渋り 91ドル台前半で推移 - Moomoo",
+    "timestamp": "2026-10-09T14:52:35+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物は91ドル台前半で推移し、下げ渋りの状況。短期的な値動きの整理局面であり、明確な上下方向への指向性は不明確。相場の振り返りコメンタリーである。"
+  },
+  {
+    "title": "中東の戦雲とハリケーンが同時に直撃 ブレント原油が104ドルを突破 - BigGo ファイナンス",
+    "timestamp": "2026-10-09T18:07:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の地政学的緊張とハリケーンという2つの供給リスク要因が同時に発生。ブレント原油が104ドルを突破し、短期的な供給懸念が顕在化。"
+  },
+  {
+    "title": "AIハードウェアが崩れる中、銅価格は1万4,000ドル台を維持——「値上がり頼みではない」3つの儲け方について語る - Moomoo",
+    "timestamp": "2026-10-09T06:25:55+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "AIハードウェア需要の減速が懸念される中、銅価格は1万4,000ドル台で支持されている。記事は技術的・ファンダメンタル・マクロ経済的な複数の投資手法を提示しており、単なる価格維持を超えた投資戦略の解説。"
+  },
+  {
+    "title": "10月9日のSouthern Copper Corp (SCCO) 値動きは3.75%上昇：投資家が知っておくべき情報 - TradingKey",
+    "timestamp": "2026-10-09T15:16:23+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "Southern Copper Corp (SCCO)が10月9日に3.75%上昇した。単一銘柄の日次値動きの報道であり、上昇要因は明記されていない。市場全体の銅価格動向やファンダメンタルズの変化を示すものではない。"
   }
 ]
