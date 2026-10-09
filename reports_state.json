@@ -1,126 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-05T22:40:29.924676+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国主要穀物（トウモロコシ、大豆、小麦）の播種進捗率、生育ステージ、作付面積などの実績データを更新。季節性の高い定例発表で、作況判断の基礎となるが、本レポート自体の予想比サプライズ度は別途詳細データ確認が必要。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-05T22:40:29.924676+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国主要穀物（トウモロコシ、大豆、小麦）の播種進捗率、生育ステージ、作付面積などの実績データを更新。季節性の高い定例発表で、作況判断の基礎となるが、本レポート自体の予想比サプライズ度は別途詳細データ確認が必要。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-05T22:40:29.924676+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSが定期的なCrop Progress（作物進捗）レポートを発表。米国主要穀物（トウモロコシ、大豆、小麦）の播種進捗率、生育ステージ、作付面積などの実績データを更新。季節性の高い定例発表で、作況判断の基礎となるが、本レポート自体の予想比サプライズ度は別途詳細データ確認が必要。"
-  },
-  {
-    "title": "Grain Markets: Money Flow, Harvest, Basis and WASDE - American Ag Network",
-    "timestamp": "2026-10-05T22:20:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE発表に基づく穀物市場分析レポート。収穫進捗、ベーシス、マネーフロー動向から市場心理を総合評価。穀物相場は需給バランスと資金流入動向の綱引き状態にあり、今後のWASDE改定と現物収穫進捗が重要な注視点となる。"
-  },
-  {
-    "title": "Grain Markets: Money Flow, Harvest, Basis and WASDE - American Ag Network",
-    "timestamp": "2026-10-05T22:20:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE発表に基づく穀物市場分析レポート。収穫進捗、ベーシス、マネーフロー動向から市場心理を総合評価。穀物相場は需給バランスと資金流入動向の綱引き状態にあり、今後のWASDE改定と現物収穫進捗が重要な注視点となる。"
-  },
-  {
-    "title": "Grain Markets: Money Flow, Harvest, Basis and WASDE - American Ag Network",
-    "timestamp": "2026-10-05T22:20:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE発表に基づく穀物市場分析レポート。収穫進捗、ベーシス、マネーフロー動向から市場心理を総合評価。穀物相場は需給バランスと資金流入動向の綱引き状態にあり、今後のWASDE改定と現物収穫進捗が重要な注視点となる。"
-  },
-  {
-    "title": "Grain Markets: Money Flow, Harvest, Basis and WASDE - American Ag Network",
-    "timestamp": "2026-10-05T22:20:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE発表に基づく穀物市場分析レポート。収穫進捗、ベーシス、マネーフロー動向から市場心理を総合評価。穀物相場は需給バランスと資金流入動向の綱引き状態にあり、今後のWASDE改定と現物収穫進捗が重要な注視点となる。"
-  },
-  {
-    "title": "USDA Grain Stocks report show more corn than expected how - Farm Progress",
-    "timestamp": "2026-10-05T22:36:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA穀物在庫レポートでトウモロコシ在庫が予想を上回る水準で報告された。市場は供給過剰シナリオを織り込んでいなかったため、価格下落圧力が生じている。豊作と在庫積み増しは穀物相場の弱気材料となる。"
-  },
-  {
-    "title": "U.S. Corn Harvest Slows as Weak Crops Collide With Heavy Stocks and Price Pressure - AgroLatam",
-    "timestamp": "2026-10-05T23:27:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国トウモロコシの収穫が減速し、弱い作柄と過剰在庫が重なり、価格下押し圧力が強まっている。収穫遅延と豊富な供給量が市場の需給バランスを悪化させ、売り圧力が継続。既知の在庫過多の影響が一段と顕在化している状況。"
-  },
-  {
-    "title": "U.S. Corn Harvest Slows as Weak Crops Collide With Heavy Stocks and Price Pressure - AgroLatam",
-    "timestamp": "2026-10-05T23:27:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国トウモロコシの収穫が減速し、弱い作柄と過剰在庫が重なり、価格下押し圧力が強まっている。収穫遅延と豊富な供給量が市場の需給バランスを悪化させ、売り圧力が継続。既知の在庫過多の影響が一段と顕在化している状況。"
-  },
-  {
-    "title": "U.S. Corn Harvest Slows as Weak Crops Collide With Heavy Stocks and Price Pressure - AgroLatam",
-    "timestamp": "2026-10-05T23:27:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "米国トウモロコシの収穫が減速し、弱い作柄と過剰在庫が重なり、価格下押し圧力が強まっている。収穫遅延と豊富な供給量が市場の需給バランスを悪化させ、売り圧力が継続。既知の在庫過多の影響が一段と顕在化している状況。"
-  },
-  {
     "title": "USDA supply shocker knocks corn off $5 perch — for now - Farm Progress",
     "timestamp": "2026-10-06T07:04:08+00:00",
     "importance": 4,
@@ -165,28 +44,6 @@
     "summary": "シェブロンのCEOが中東紛争の継続により、石油・燃料供給のバッファー（緩衝在庫）が急速に減少していると指摘。供給側の懸念表明により、原油および関連コモディティへの上昇圧力が強まる。供給不安が顕在化すれば、価格は一段上昇の可能性。"
   },
   {
-    "title": "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com",
-    "timestamp": "2026-10-05T23:39:14+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "金は米ドル強化と債券利回り上昇の圧力にさらされている。金利経路の見通しが不確実な中、無利子資産としての金の相対的な魅力が低下している。ドル強化は特に非ドル建てコモディティ購入意欲を減少させている。"
-  },
-  {
-    "title": "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com",
-    "timestamp": "2026-10-05T23:39:14+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金は米ドル強化と債券利回り上昇の圧力にさらされている。金利経路の見通しが不確実な中、無利子資産としての金の相対的な魅力が低下している。ドル強化は特に非ドル建てコモディティ購入意欲を減少させている。"
-  },
-  {
     "title": "Saudi energy minister says oil pumped through East-West pipeline reached 5.8 million barrels - Reuters",
     "timestamp": "2026-10-06T09:42:09+00:00",
     "importance": 2,
@@ -229,39 +86,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国株式市場（S&P 500、ナスダック）が過去最高値を更新。米国10年債利回りが伸び悩む中での株高は、金利上昇予想の緩和を示唆している。一方、原油は軟調に推移。金利停滞は金にとって支援的な環境だが、株価高騰による全般的なリスク選好は商品相場の方向性を複雑にしている。"
-  },
-  {
-    "title": "World shares advance as oil falls, bond yields retreat - Reuters",
-    "timestamp": "2026-10-06T01:48:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "世界株が上昇する中、原油価格は下落し債券利回りも低下している。この動きはリスクオン局面での商品セクターの分化を示唆している。原油の下落は需要懸念またはドル強化を反映している可能性がある。"
-  },
-  {
-    "title": "World shares advance as oil falls, bond yields retreat - Reuters",
-    "timestamp": "2026-10-06T01:48:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "世界株が上昇する中、原油価格は下落し債券利回りも低下している。この動きはリスクオン局面での商品セクターの分化を示唆している。原油の下落は需要懸念またはドル強化を反映している可能性がある。"
-  },
-  {
-    "title": "World shares advance as oil falls, bond yields retreat - Reuters",
-    "timestamp": "2026-10-06T01:48:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "世界株が上昇する中、原油価格は下落し債券利回りも低下している。この動きはリスクオン局面での商品セクターの分化を示唆している。原油の下落は需要懸念またはドル強化を反映している可能性がある。"
   },
   {
     "title": "US Yields Fall From 2002 High as Oil Dips, Bessent Vows On Debt - Bloomberg.com",
@@ -427,17 +251,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの石油輸出ブームが政府への利益配分と軽油販売禁止令により抑制されている。輸出量の増加が期待される一方で、国内政策による制約要因が出現。供給サイドの構造的な課題が浮上し、市場バランスに影響を与える可能性がある。"
-  },
-  {
-    "title": "Oil prices stable as market weighs supply risks, rising Middle East exports - CNBC",
-    "timestamp": "2026-10-06T01:21:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "中東からの原油輸出増加の一方で供給リスクが市場の重しとなり、原油価格は安定している。市場は供給リスクと増加する中東輸出のバランスを綿密に監視しており、短期的には方向性が定まりにくい状況。EIA在庫データと組み合わせた解説コメンタリーと考えられる。"
   },
   {
     "title": "Oil: Private survey of inventory shows a headline crude oil draw - investingLive",
@@ -1395,5 +1208,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "インドが中東産油国からの原油供給回復に伴い、割高なロシア産原油の購入を削減している。中東からのフローが安定化する中で、ロシア産原油への需要が低下し、原油市場全体の需給バランスに影響を与えている。"
+  },
+  {
+    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
+    "timestamp": "2026-10-08T21:22:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の増産決定は現在のところ市場に大きな影響を与えていないが、将来的には価格形成に寄与する可能性があるとの見方。アナリストRussellの解説は、近期の供給ギャップ拡大によって増産の実効性が限定的であることを指摘している。"
+  },
+  {
+    "title": "Opec-Plus Crude Output Hits Wartime High in September - Energy Intelligence",
+    "timestamp": "2026-10-09T00:32:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC プラスが9月に戦時中最高水準の原油生産量を記録したと報じられた。これは過去の紛争期を上回る生産水準であり、市場が減産継続を想定していた中での供給増加は予想外。今後の価格圧力要因となる可能性がある。"
   }
 ]
