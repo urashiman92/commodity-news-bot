@@ -1,49 +1,5 @@
 [
   {
-    "title": "$WTI 原油先物(2611) (CLmain.US)$ - Moomoo",
-    "timestamp": "2026-10-07T13:40:51+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物の価格表示に関するニュース記事。記事本文が不完全で具体的な内容が確認できない。"
-  },
-  {
-    "title": "KalshiがCFTCに無期限WTI原油先物契約の承認を申請 執筆 - Investing.com 日本",
-    "timestamp": "2026-10-07T15:33:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Kalshi社がCFTCに無期限WTI原油先物契約の承認を申請した。仮想通貨取引所Kalshiが規制当局への申請段階であり、承認は未定。原油市場への直接的な需給影響はない。"
-  },
-  {
-    "title": "NY市場動向（午後0時台）：ダウ399ドル安、原油先物0.75ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-07T16:29:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場の午後時点でダウ平均が399ドル安で推移。これに連動して原油先物が0.75ドル安。市場全体の弱気ムードが原油にも波及。"
-  },
-  {
-    "title": "コーン先物価格は売り圧力が市場を圧迫するなか、USX502.81のサポート付近を維持 - Traders Union",
-    "timestamp": "2026-10-07T13:02:36+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "コーン先物は売り圧力に晒されており、サポートレベルのUSX502.81付近で推移している。テクニカル的には下値支持が意識されている状況。市場には売り優勢の機運が続いている。"
-  },
-  {
     "title": "2026年10月8日現在、金価格は引き続き下落しており、4,000ドルまで下がる可能性もある。ロシアの金価格はアジア寄りにシフトしている。 - Vietnam.vn",
     "timestamp": "2026-10-07T20:16:08+00:00",
     "importance": 2,
@@ -75,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東産原油の供給増加にもかかわらず、アジア地域への高い輸送費がボトルネックとなり、アジア原油価格の低下を抑制している。構造的な地理的コスト要因が価格を高止まりさせている。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ493ドル安、原油先物0.61ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-07T14:25:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午前10時台の株式先物がダウ493ドル安で推移する中、原油先物は0.61ドル高で上昇。株安でも原油が上がるという通常と異なる動きを示している。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落して4111ドル｜ドルインデックスの上昇が影響した模様(2026年10月8日) - OANDA Japan",
@@ -1549,5 +1494,38 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で複数商品が混合相場。原油・天然ガス・貴金属・銅・大豆が上昇する一方、ガソリン・トウモロコシ・小麦は下落。市場の方向感に一貫性が見られない。"
+  },
+  {
+    "title": "本日（10月10日）の金価格：全般的に急上昇。 - Vietnam.vn",
+    "timestamp": "2026-10-10T15:01:39+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月10日の金価格が全般的に急上昇している。具体的な上昇要因は提供されていない。ベトナムメディアからの相場観測記事。"
+  },
+  {
+    "title": "本日2026年10月11日の金価格は、過去2週間で最高値を更新しており、1オンスあたりの売買スプレッドは最大500万ベトナムドンに達しています。世界の金価格は4,200ドルを超える可能性はあるのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-10-10T15:09:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が過去2週間で最高値を更新し、1オンスあたりの売買スプレッドが500万ベトナムドンに達した。世界金価格が4,200ドルを超える可能性について市場で議論されている。"
+  },
+  {
+    "title": "ロシアと米国が数百万トンの石油購入で合意に達し、金価格が急騰した。 - Vietnam.vn",
+    "timestamp": "2026-10-10T14:08:46+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ロシアと米国の石油購入合意がロシアのニュースサイトで報じられた。金価格が上昇したとされているが、米国とロシア間の直接的な石油取引は現在の制裁環境では実現性が低い。既知のジオポリティカルリスク織り込み段階の報道。"
   }
 ]
