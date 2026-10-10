@@ -1,82 +1,5 @@
 [
   {
-    "title": "US Harvests Delayed, USDA to Gauge Crop Sizes - DTN Progressive Farmer",
-    "timestamp": "2026-10-07T14:38:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "米国の収穫遅延によりUSDAが作物規模を測定する予定。天候不順による収穫の遅れは、最終的な穀物（小麦・トウモロコシ・大豆）の生産量確定に影響を与える。WASDE発表に先立つ重要な指標として市場が注視する段階。"
-  },
-  {
-    "title": "US Harvests Delayed, USDA to Gauge Crop Sizes - DTN Progressive Farmer",
-    "timestamp": "2026-10-07T14:38:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国の収穫遅延によりUSDAが作物規模を測定する予定。天候不順による収穫の遅れは、最終的な穀物（小麦・トウモロコシ・大豆）の生産量確定に影響を与える。WASDE発表に先立つ重要な指標として市場が注視する段階。"
-  },
-  {
-    "title": "US Harvests Delayed, USDA to Gauge Crop Sizes - DTN Progressive Farmer",
-    "timestamp": "2026-10-07T14:38:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国の収穫遅延によりUSDAが作物規模を測定する予定。天候不順による収穫の遅れは、最終的な穀物（小麦・トウモロコシ・大豆）の生産量確定に影響を与える。WASDE発表に先立つ重要な指標として市場が注視する段階。"
-  },
-  {
-    "title": "October WASDE preview: Key metrics to watch for corn, soybeans, wheat and cotton - Pro Farmer",
-    "timestamp": "2026-10-07T13:52:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "10月のWASDEレポート発表を控えた事前分析記事。トウモロコシ、大豆、小麦、綿花の重要指標（作付面積、収穫面積、単収、在庫）の変動を注視する内容。各穀物の供給・需要バランスの更新が市場価格に直結するため、具体的な数値修正内容が重要となる。"
-  },
-  {
-    "title": "October WASDE preview: Key metrics to watch for corn, soybeans, wheat and cotton - Pro Farmer",
-    "timestamp": "2026-10-07T13:52:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "10月のWASDEレポート発表を控えた事前分析記事。トウモロコシ、大豆、小麦、綿花の重要指標（作付面積、収穫面積、単収、在庫）の変動を注視する内容。各穀物の供給・需要バランスの更新が市場価格に直結するため、具体的な数値修正内容が重要となる。"
-  },
-  {
-    "title": "October WASDE preview: Key metrics to watch for corn, soybeans, wheat and cotton - Pro Farmer",
-    "timestamp": "2026-10-07T13:52:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "10月のWASDEレポート発表を控えた事前分析記事。トウモロコシ、大豆、小麦、綿花の重要指標（作付面積、収穫面積、単収、在庫）の変動を注視する内容。各穀物の供給・需要バランスの更新が市場価格に直結するため、具体的な数値修正内容が重要となる。"
-  },
-  {
-    "title": "October WASDE preview: Key metrics to watch for corn, soybeans, wheat and cotton - Pro Farmer",
-    "timestamp": "2026-10-07T13:52:59+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "10月のWASDEレポート発表を控えた事前分析記事。トウモロコシ、大豆、小麦、綿花の重要指標（作付面積、収穫面積、単収、在庫）の変動を注視する内容。各穀物の供給・需要バランスの更新が市場価格に直結するため、具体的な数値修正内容が重要となる。"
-  },
-  {
     "title": "US crude stocks fall amid strong exports, refining activity, the EIA says - Reuters",
     "timestamp": "2026-10-07T15:35:48+00:00",
     "importance": 3,
@@ -88,17 +11,6 @@
     "summary": "EIA発表によると、米国の原油在庫は堅調な輸出と精製活動により減少した。輸出の増加と精油所の稼働率上昇がドライバーとなり、国内在庫圧力が緩和されている。スト供給バランスの改善は原油価格を支持する要因となっている。"
   },
   {
-    "title": "EIA Cushing Crude Oil Stocks Change (Oct/02) 0.444M (Prev. 0.553M) - Newsquawk",
-    "timestamp": "2026-10-07T14:50:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "10月2日のEIA発表によるクッシング地点の原油在庫変化が0.444Mバレル（前週0.553M）と報告された。前週比で在庫積み増しペースがやや鈍化したが、依然としてクッシングの在庫は増加トレンド継続。小幅な在庫増加は原油相場に対して軽度の下押し圧力となる。"
-  },
-  {
     "title": "EIA: US crude stocks fell by most in over a month amid steady runs - Quantum Commodity Intelligence",
     "timestamp": "2026-10-07T16:27:11+00:00",
     "importance": 3,
@@ -108,116 +20,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫が1ヶ月以上ぶりの大幅な減少を記録した。製油所の稼働が堅調に推移する中での在庫減は、需要の強さを示唆している。在庫減少は原油価格の上昇圧力となる可能性がある。"
-  },
-  {
-    "title": "US EIA Crude Oil Stocks Change (Oct/02) -3.186M vs. Exp. 1.7M (Prev. 0.922M); SPR fell 0.8M to 283M - Newsquawk",
-    "timestamp": "2026-10-07T14:50:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIA週間原油在庫統計（10月2日）で原油在庫が318.6万バレル減少し、市場予想の170万バレル増加を大きく外した。前週は92.2万バレル増加していたため、需要の強さと供給逼迫を示唆。戦略備蓄（SPR）も80万バレル減少し283百万バレルに低下。"
-  },
-  {
-    "title": "US EIA Crude Oil Stocks Change (Oct/02) -3.186M vs. Exp. 1.7M (Prev. 0.922M); SPR fell 0.8M to 283M - Newsquawk",
-    "timestamp": "2026-10-07T14:50:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国EIA週間原油在庫統計（10月2日）で原油在庫が318.6万バレル減少し、市場予想の170万バレル増加を大きく外した。前週は92.2万バレル増加していたため、需要の強さと供給逼迫を示唆。戦略備蓄（SPR）も80万バレル減少し283百万バレルに低下。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-07T10:30:12+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECからの離脱を表明し、組織の結束力が大きく損なわれる事態となった。OPECの減産体制維持が困難になり、価格戦争のリスクが急速に高まっている。加盟国間の分裂は原油相場の不安定化と下押し圧力につながる可能性が高い。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-07T10:30:12+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECからの離脱を表明し、組織の結束力が大きく損なわれる事態となった。OPECの減産体制維持が困難になり、価格戦争のリスクが急速に高まっている。加盟国間の分裂は原油相場の不安定化と下押し圧力につながる可能性が高い。"
-  },
-  {
-    "title": "EXCLUSIVE: India-bound sunflower oil cargoes face cancellation, delays as war disrupts Russian shipments - Reuters",
-    "timestamp": "2026-10-07T12:47:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "大豆",
-    "summary": "ロシア・ウクライナ戦争の影響により、インド向けひまわり油カーゴのキャンセルおよび遅延が発生。ロシアは世界最大のひまわり油輸出国であり、供給途絶による代替需要が大豆油など他の植物油へシフト。インド市場での油脂類の需給逼迫が確実となり、穀物全般への価格上昇圧力が増加。"
-  },
-  {
-    "title": "EXCLUSIVE: India-bound sunflower oil cargoes face cancellation, delays as war disrupts Russian shipments - Reuters",
-    "timestamp": "2026-10-07T12:47:19+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア・ウクライナ戦争の影響により、インド向けひまわり油カーゴのキャンセルおよび遅延が発生。ロシアは世界最大のひまわり油輸出国であり、供給途絶による代替需要が大豆油など他の植物油へシフト。インド市場での油脂類の需給逼迫が確実となり、穀物全般への価格上昇圧力が増加。"
-  },
-  {
-    "title": "Nasdaq, S&P 500 slip from record highs as yields and oil rebound - Reuters",
-    "timestamp": "2026-10-07T14:17:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の主要株価指数（NasdaqとS&P 500）が史上高値から調整する中、長期金利が上昇し原油価格が反発している。金利上昇は金などの無利子資産に下落圧力を与える一方、原油はドル高・実質金利上昇の環境下でも需給要因で反発している状況が示唆されている。"
-  },
-  {
-    "title": "Nasdaq, S&P 500 slip from record highs as yields and oil rebound - Reuters",
-    "timestamp": "2026-10-07T14:17:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国の主要株価指数（NasdaqとS&P 500）が史上高値から調整する中、長期金利が上昇し原油価格が反発している。金利上昇は金などの無利子資産に下落圧力を与える一方、原油はドル高・実質金利上昇の環境下でも需給要因で反発している状況が示唆されている。"
-  },
-  {
-    "title": "Nasdaq, S&P 500 slip from record highs as yields and oil rebound - Reuters",
-    "timestamp": "2026-10-07T14:17:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国の主要株価指数（NasdaqとS&P 500）が史上高値から調整する中、長期金利が上昇し原油価格が反発している。金利上昇は金などの無利子資産に下落圧力を与える一方、原油はドル高・実質金利上昇の環境下でも需給要因で反発している状況が示唆されている。"
-  },
-  {
-    "title": "IEA, EU discuss proposed oil, diesel stocks release, sources say - Reuters",
-    "timestamp": "2026-10-07T14:53:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEAとEUが石油・ディーゼル在庫の放出を検討している。戦略的備蓄の放出は供給増加を意味し、原油価格への下押し圧力となる。エネルギー危機対応の政策発動の可能性が市場に大きな影響をもたらす可能性がある。"
   },
   {
     "title": "Stocks Are Due for a ‘Gut Check’ From Rates, Oil and the Dollar - Bloomberg.com",
@@ -372,61 +174,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "FTSE 100が銀行セクターの下落をけん引する中、債券利回りの上昇と原油価格の急騰が同時に発生。利回り上昇は金などの無利子資産に下押し圧力を与える一方、原油高はエネルギー・インフレ懸念を反映。市場は金融引き締め継続と商品インフレの懸念が混在している状況を示唆。"
-  },
-  {
-    "title": "US 30-Year Yields Return to 2002 High With Crude Back Above $100 - Bloomberg.com",
-    "timestamp": "2026-10-07T11:39:38+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国30年債利回りが2002年以来の高水準に到達し、同時に原油価格が100ドルを上回った。長期金利の急騰は金などの無利子資産に下落圧力をもたらす一方、インフレ懸念と地政学的緊張が原油価格の上昇を支援。金利と商品の相反する動きが市場の不確実性を反映している。"
-  },
-  {
-    "title": "US 30-Year Yields Return to 2002 High With Crude Back Above $100 - Bloomberg.com",
-    "timestamp": "2026-10-07T11:39:38+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国30年債利回りが2002年以来の高水準に到達し、同時に原油価格が100ドルを上回った。長期金利の急騰は金などの無利子資産に下落圧力をもたらす一方、インフレ懸念と地政学的緊張が原油価格の上昇を支援。金利と商品の相反する動きが市場の不確実性を反映している。"
-  },
-  {
-    "title": "US 30-Year Yields Return to 2002 High With Crude Back Above $100 - Bloomberg.com",
-    "timestamp": "2026-10-07T11:39:38+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国30年債利回りが2002年以来の高水準に到達し、同時に原油価格が100ドルを上回った。長期金利の急騰は金などの無利子資産に下落圧力をもたらす一方、インフレ懸念と地政学的緊張が原油価格の上昇を支援。金利と商品の相反する動きが市場の不確実性を反映している。"
-  },
-  {
-    "title": "U.S. Crude Stocks Dip But Distillates Hold Steady - Yahoo Finance",
-    "timestamp": "2026-10-07T14:40:54+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIA週間在庫統計。原油在庫は減少したものの、留意すべき点は留出油（ディー�チレート）在庫が堅調に推移していることである。原油供給圧力の緩和を示唆する一方で、製品在庫の強さは需要環境の堅実性を反映している。具体的な在庫数値や変動幅の詳細は報道タイトルからは不明だが、通常の週次変動の可能性が高い。"
-  },
-  {
-    "title": "Iowa Harvest Delays Put Corn Market on Alert Ahead of Key USDA Reports - AgroLatam",
-    "timestamp": "2026-10-07T13:22:02+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "アイオワ州のトウモロコシ収穫遅延が市場の警戒を高めている。今後発表される主要なUSDAレポートを控える中、収穫進度の遅れは生産量推定値やポジション見直しのトリガーとなる可能性がある。天候リスクと収穫完了率の不確実性が価格上昇圧力につながる見通し。"
   },
   {
     "title": "Oil Edges Higher on Iran Strike Options Report and Storm Impact - Bloomberg.com",
@@ -1439,5 +1186,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インドが通貨ルピー防衛のため、ドル需要に対する厳格な規制措置を発表した。新興国通貨の防衛圧力が高まることで、ドル需要が相対的に減少し、ドル建てコモディティ（特に金）の価格上昇要因となる可能性がある。新興市場での金需要増加も期待される。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-10-09T19:22:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後の独自路線で石油生産を拡大し、2025年に日量500万バレルを超える見通しをIEAが示唆。OPEC+の協調減産体制が緩和される中、供給圧力が高まる可能性がある。"
   }
 ]
