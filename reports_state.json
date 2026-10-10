@@ -1,60 +1,5 @@
 [
   {
-    "title": "US crude stocks fall amid strong exports, refining activity, the EIA says - Reuters",
-    "timestamp": "2026-10-07T15:35:48+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によると、米国の原油在庫は堅調な輸出と精製活動により減少した。輸出の増加と精油所の稼働率上昇がドライバーとなり、国内在庫圧力が緩和されている。スト供給バランスの改善は原油価格を支持する要因となっている。"
-  },
-  {
-    "title": "EIA: US crude stocks fell by most in over a month amid steady runs - Quantum Commodity Intelligence",
-    "timestamp": "2026-10-07T16:27:11+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が1ヶ月以上ぶりの大幅な減少を記録した。製油所の稼働が堅調に推移する中での在庫減は、需要の強さを示唆している。在庫減少は原油価格の上昇圧力となる可能性がある。"
-  },
-  {
-    "title": "Stocks Are Due for a ‘Gut Check’ From Rates, Oil and the Dollar - Bloomberg.com",
-    "timestamp": "2026-10-07T16:25:19+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "金利上昇、原油価格、米ドル強化がコモディティ市場に同時に作用する相互関係性を指摘。金利上昇は金などの非利息資産に下押し圧力、原油は経済見通しに左右される。米ドル強化は全コモディティの価格抵抗要因となる可能性が高い。これら3要因が同時に発生することで、株式市場同様コモディティセクターも調整局面を迎える可能性を示唆。"
-  },
-  {
-    "title": "Stocks Are Due for a ‘Gut Check’ From Rates, Oil and the Dollar - Bloomberg.com",
-    "timestamp": "2026-10-07T16:25:19+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "金利上昇、原油価格、米ドル強化がコモディティ市場に同時に作用する相互関係性を指摘。金利上昇は金などの非利息資産に下押し圧力、原油は経済見通しに左右される。米ドル強化は全コモディティの価格抵抗要因となる可能性が高い。これら3要因が同時に発生することで、株式市場同様コモディティセクターも調整局面を迎える可能性を示唆。"
-  },
-  {
-    "title": "Stocks Are Due for a ‘Gut Check’ From Rates, Oil and the Dollar - Bloomberg.com",
-    "timestamp": "2026-10-07T16:25:19+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金利上昇、原油価格、米ドル強化がコモディティ市場に同時に作用する相互関係性を指摘。金利上昇は金などの非利息資産に下押し圧力、原油は経済見通しに左右される。米ドル強化は全コモディティの価格抵抗要因となる可能性が高い。これら3要因が同時に発生することで、株式市場同様コモディティセクターも調整局面を迎える可能性を示唆。"
-  },
-  {
     "title": "U.S. grain prices retreat as corn, soybeans and wheat lose momentum before USDA report - AgroLatam",
     "timestamp": "2026-10-07T21:38:47+00:00",
     "importance": 3,
@@ -130,50 +75,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "米国10年債利回りの上昇とドル強化がトウモロコシ・大豆・小麦などの穀物価格に下押し圧力をもたらしている。金曜日のWASDE（米農務省需給報告）発表を控えて、市場はこれらの逆風要因を意識。ドル強化は穀物の国際競争力を低下させるため。"
-  },
-  {
-    "title": "U.S. Crude Futures Turn Lower Despite Inventory Draw - WSJ",
-    "timestamp": "2026-10-07T17:22:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で在庫減少が報告されたにもかかわらず、WTI先物は下落した。在庫改善は需給引き締めを示唆するポジティブ材料だが、市場は他の要因（ドル強化、世界景気減速懸念、金融引き締め継続見通しなど）を優先視した可能性がある。"
-  },
-  {
-    "title": "Banks lead FTSE 100 decline as bond yields, oil surge - Reuters",
-    "timestamp": "2026-10-07T16:33:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "FTSE 100が銀行セクターの下落をけん引する中、債券利回りの上昇と原油価格の急騰が同時に発生。利回り上昇は金などの無利子資産に下押し圧力を与える一方、原油高はエネルギー・インフレ懸念を反映。市場は金融引き締め継続と商品インフレの懸念が混在している状況を示唆。"
-  },
-  {
-    "title": "Banks lead FTSE 100 decline as bond yields, oil surge - Reuters",
-    "timestamp": "2026-10-07T16:33:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "FTSE 100が銀行セクターの下落をけん引する中、債券利回りの上昇と原油価格の急騰が同時に発生。利回り上昇は金などの無利子資産に下押し圧力を与える一方、原油高はエネルギー・インフレ懸念を反映。市場は金融引き締め継続と商品インフレの懸念が混在している状況を示唆。"
-  },
-  {
-    "title": "Banks lead FTSE 100 decline as bond yields, oil surge - Reuters",
-    "timestamp": "2026-10-07T16:33:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "FTSE 100が銀行セクターの下落をけん引する中、債券利回りの上昇と原油価格の急騰が同時に発生。利回り上昇は金などの無利子資産に下押し圧力を与える一方、原油高はエネルギー・インフレ懸念を反映。市場は金融引き締め継続と商品インフレの懸念が混在している状況を示唆。"
   },
   {
     "title": "Oil Edges Higher on Iran Strike Options Report and Storm Impact - Bloomberg.com",
