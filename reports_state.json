@@ -198,17 +198,6 @@
     "summary": "米国EIA週間原油在庫統計（10月2日）で原油在庫が318.6万バレル減少し、市場予想の170万バレル増加を大きく外した。前週は92.2万バレル増加していたため、需要の強さと供給逼迫を示唆。戦略備蓄（SPR）も80万バレル減少し283百万バレルに低下。"
   },
   {
-    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
-    "timestamp": "2026-10-06T22:21:09+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから脱退する可能性が指摘されているが、アナリストRussell氏は原油価格への実際の影響は限定的である可能性を指摘。既に市場では織り込まれつつあり、供給減少や生産変化が明確に示されない限り、価格動向は鈍化するとの見方。"
-  },
-  {
     "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
     "timestamp": "2026-10-07T10:30:12+00:00",
     "importance": 4,
@@ -295,39 +284,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "IEAとEUが石油・ディーゼル在庫の放出を検討している。戦略的備蓄の放出は供給増加を意味し、原油価格への下押し圧力となる。エネルギー危機対応の政策発動の可能性が市場に大きな影響をもたらす可能性がある。"
-  },
-  {
-    "title": "Oil rises as investors weigh supply threats - Reuters",
-    "timestamp": "2026-10-07T00:48:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "投資家が供給上のリスク要因を評価する中、原油価格が上昇している。具体的なサプライズ的要素や数値が記事タイトルから明確でないため、既知のリスク要因（地政学的懸念、OPEC政策など）の織り込み状況についての市場解釈が主体と考えられる。"
-  },
-  {
-    "title": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters",
-    "timestamp": "2026-10-07T00:07:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシアの主要エネルギーインフラに対する攻撃を継続。ロシアの石油・ガス生産・輸出設備が打撃を受けており、供給リスクが顕在化。地政学的な供給ショックとして原油価格への上昇圧力が強まっている。欧州エネルギー市場への波及も懸念。"
-  },
-  {
-    "title": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters",
-    "timestamp": "2026-10-07T00:07:09+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナがロシアの主要エネルギーインフラに対する攻撃を継続。ロシアの石油・ガス生産・輸出設備が打撃を受けており、供給リスクが顕在化。地政学的な供給ショックとして原油価格への上昇圧力が強まっている。欧州エネルギー市場への波及も懸念。"
   },
   {
     "title": "Stocks Are Due for a ‘Gut Check’ From Rates, Oil and the Dollar - Bloomberg.com",
@@ -1406,5 +1362,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "トランプ前大統領が米国防生産法（Defense Production Act）を使用して国内石油・燃料生産の増加を推し進める方針を表明。同法は戦時下で産業動員を可能にする権限で、平時のエネルギー政策への適用は異例。ガソリン価格抑制と国内エネルギー自給率向上を狙った政策転換。"
+  },
+  {
+    "title": "October WASDE's Shocking Rise in Corn Yield, Production Sends Futures Briefly Limit Down - DTN Progressive Farmer",
+    "timestamp": "2026-10-09T08:13:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "10月WASDE報告書でトウモロコシの作付面積および単収が市場予想を大幅に上回る強気の数字を発表。作付面積が予想外に維持・拡大され、単収も好調だったことから、全体的な生産量が大きく上方修正された。この供給強気シグナルによってトウモロコシ先物は一時的にストップ安(リミット安)まで売られた。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-10-09T09:12:54+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間統計レポートで、米国の原油在庫とガソリン在庫が前週比で減少したことが報告された。強い需要が在庫減少の主要因。在庫水準の低下は供給逼迫シグナルとなり得る。"
+  },
+  {
+    "title": "5 Copper Stocks to Watch as LME Price Extends Weekly Gain to 2% - NAI500",
+    "timestamp": "2026-10-09T23:55:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "LME銅価格が週間で2%のゲインを記録し、上昇トレンドを継続している。レポートは注視すべき銅関連株5銘柄をハイライトしており、銅セクターへの投資家関心が高まっている状況を反映している。"
+  },
+  {
+    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
+    "timestamp": "2026-10-08T21:44:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が4月の原油生産を日量137,000バレル増加させることを検討している。これは比較的小幅な増産であり、市場予想の範囲内と考えられる。供給増加は原油価格に下押し圧力をもたらす可能性があるが、増産規模が限定的なため影響は限定的。"
+  },
+  {
+    "title": "Trump says Russia to immediately supply 300,000 tons of diesel fuel - Reuters",
+    "timestamp": "2026-10-09T19:17:48+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がロシアから即座に30万トンのディーゼル燃料供給を受けると発表。米国へのロシア産石油製品の流入は対ロシア経済制裁枠組み下では異例の動き。ウクライナ情勢の変化を示唆する可能性がある。"
+  },
+  {
+    "title": "Trump says Russia to supply diesel to US and global markets - Reuters",
+    "timestamp": "2026-10-09T15:43:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がロシアからの軽油供給を米国及び世界市場へ提供する予定を表明。これは対ロシア経済制裁の緩和を示唆し、ロシア産エネルギーの国際市場流入増加を意味する。供給増加圧力により原油及び精製油製品価格に下押し圧力が生じる見込み。"
+  },
+  {
+    "title": "Trump says Russia to supply diesel to US and global markets - Reuters",
+    "timestamp": "2026-10-09T15:43:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領がロシアからの軽油供給を米国及び世界市場へ提供する予定を表明。これは対ロシア経済制裁の緩和を示唆し、ロシア産エネルギーの国際市場流入増加を意味する。供給増加圧力により原油及び精製油製品価格に下押し圧力が生じる見込み。"
   }
 ]
