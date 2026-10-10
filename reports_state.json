@@ -1,71 +1,5 @@
 [
   {
-    "title": "Oil gains as US storm and Houthi air strikes threaten supply - Reuters",
-    "timestamp": "2026-10-07T06:46:14+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の嵐とフーシ派による空爆により、原油供給が脅かされている。米国湾岸地域の石油生産施設が嵐の影響を受け、中東ではイエメンの反政府勢力フーシ派による紅海での船舶攻撃が供給リスクを増大させている。複合的な地政学リスクと気象リスクが同時に顕在化し、市場は供給懸念から買い姿勢を強めている。"
-  },
-  {
-    "title": "Asia shares weaker, oil up as investors weigh Saudi-Houthi escalation - Reuters",
-    "timestamp": "2026-10-07T02:40:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアとイエメンの親イラン勢力フーシ派の軍事的緊張が高まり、中東地域の地政学リスクが急速に顕在化。これを受けて原油価格は上昇圧力を強める一方、アジア株式市場はリスク回避売りで弱含み。供給途絶懸念がコモディティ市場全体に波及する可能性が高い。"
-  },
-  {
-    "title": "Asia shares weaker, oil up as investors weigh Saudi-Houthi escalation - Reuters",
-    "timestamp": "2026-10-07T02:40:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアとイエメンの親イラン勢力フーシ派の軍事的緊張が高まり、中東地域の地政学リスクが急速に顕在化。これを受けて原油価格は上昇圧力を強める一方、アジア株式市場はリスク回避売りで弱含み。供給途絶懸念がコモディティ市場全体に波及する可能性が高い。"
-  },
-  {
-    "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets - Bloomberg.com",
-    "timestamp": "2026-10-07T04:31:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "金相場は堅調に推移。原油供給増加と米国債利回り低下が利上げ観測を緩和させ、金にとってポジティブな環境が形成されている。ドル高圧力が緩和される中で、利子なし資産の金の相対的な魅力が高まりつつある状況。"
-  },
-  {
-    "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets - Bloomberg.com",
-    "timestamp": "2026-10-07T04:31:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "金相場は堅調に推移。原油供給増加と米国債利回り低下が利上げ観測を緩和させ、金にとってポジティブな環境が形成されている。ドル高圧力が緩和される中で、利子なし資産の金の相対的な魅力が高まりつつある状況。"
-  },
-  {
-    "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets - Bloomberg.com",
-    "timestamp": "2026-10-07T04:31:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金相場は堅調に推移。原油供給増加と米国債利回り低下が利上げ観測を緩和させ、金にとってポジティブな環境が形成されている。ドル高圧力が緩和される中で、利子なし資産の金の相対的な魅力が高まりつつある状況。"
-  },
-  {
     "title": "US Harvests Delayed, USDA to Gauge Crop Sizes - DTN Progressive Farmer",
     "timestamp": "2026-10-07T14:38:00+00:00",
     "importance": 3,
@@ -1439,5 +1373,71 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "トランプ前大統領がロシアからの軽油供給を米国及び世界市場へ提供する予定を表明。これは対ロシア経済制裁の緩和を示唆し、ロシア産エネルギーの国際市場流入増加を意味する。供給増加圧力により原油及び精製油製品価格に下押し圧力が生じる見込み。"
+  },
+  {
+    "title": "USDA WASDE Delivers Big ‘Shock’: Corn Yield Spike Rattles Grain Markets - Hoosier Ag Today",
+    "timestamp": "2026-10-10T05:59:36+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAのWASDE月間レポートでトウモロコシの単収（Yield）が市場予想を大幅に上回る高い数値を提示。これは穀物市場に大きなショックを与えた。豊富な供給見通しがトウモロコシ価格の下落圧力となり、大豆・小麦にも波及効果が及ぶ。"
+  },
+  {
+    "title": "USDA WASDE Delivers Big ‘Shock’: Corn Yield Spike Rattles Grain Markets - Hoosier Ag Today",
+    "timestamp": "2026-10-10T05:59:36+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAのWASDE月間レポートでトウモロコシの単収（Yield）が市場予想を大幅に上回る高い数値を提示。これは穀物市場に大きなショックを与えた。豊富な供給見通しがトウモロコシ価格の下落圧力となり、大豆・小麦にも波及効果が及ぶ。"
+  },
+  {
+    "title": "USDA WASDE Delivers Big ‘Shock’: Corn Yield Spike Rattles Grain Markets - Hoosier Ag Today",
+    "timestamp": "2026-10-10T05:59:36+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAのWASDE月間レポートでトウモロコシの単収（Yield）が市場予想を大幅に上回る高い数値を提示。これは穀物市場に大きなショックを与えた。豊富な供給見通しがトウモロコシ価格の下落圧力となり、大豆・小麦にも波及効果が及ぶ。"
+  },
+  {
+    "title": "USDA: October WASDE maintains forecast for 2026-’27 soybean oil use in biofuel - Biodiesel Magazine",
+    "timestamp": "2026-10-10T01:30:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAの10月WASDE報告で、2026-27年度の大豆油のバイオディーゼル利用見通しが据え置かれた。前月の予想が維持されたことで、市場への大きなサプライズはなく、バイオディーゼル需要見通しの安定性が確認されたに過ぎない。"
+  },
+  {
+    "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
+    "timestamp": "2026-10-10T03:34:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インドが通貨ルピー防衛のため、ドル需要に対する厳格な規制措置を発表した。新興国通貨の防衛圧力が高まることで、ドル需要が相対的に減少し、ドル建てコモディティ（特に金）の価格上昇要因となる可能性がある。新興市場での金需要増加も期待される。"
+  },
+  {
+    "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
+    "timestamp": "2026-10-10T03:34:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インドが通貨ルピー防衛のため、ドル需要に対する厳格な規制措置を発表した。新興国通貨の防衛圧力が高まることで、ドル需要が相対的に減少し、ドル建てコモディティ（特に金）の価格上昇要因となる可能性がある。新興市場での金需要増加も期待される。"
   }
 ]
