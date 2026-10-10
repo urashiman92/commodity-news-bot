@@ -1,16 +1,5 @@
 [
   {
-    "title": "2026年10月8日現在、金価格は引き続き下落しており、4,000ドルまで下がる可能性もある。ロシアの金価格はアジア寄りにシフトしている。 - Vietnam.vn",
-    "timestamp": "2026-10-07T20:16:08+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が継続的に下落トレンドにあり、4,000ドル水準までの下値の可能性が指摘されている。ロシア経由の金価格形成がアジア市場にシフトしている動きも報告されている。既に進行中の弱気相場の解説。"
-  },
-  {
     "title": "2026年10月8日現在の最新金価格：SJC、BTMC、PNJ、およびフークイの金地金と金指輪の価格表。 - Vietnam.vn",
     "timestamp": "2026-10-07T22:19:13+00:00",
     "importance": 1,
@@ -1527,5 +1516,49 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ロシアと米国の石油購入合意がロシアのニュースサイトで報じられた。金価格が上昇したとされているが、米国とロシア間の直接的な石油取引は現在の制裁環境では実現性が低い。既知のジオポリティカルリスク織り込み段階の報道。"
+  },
+  {
+    "title": "ベテラン投資家が金価格に重大な警告 - BeInCrypto",
+    "timestamp": "2026-10-10T18:44:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベテラン投資家が金価格に対する警告を発表。具体的な根拠は記事概要から不明だが、投資家心理に負の影響をもたらす可能性がある。金相場の調整局面を示唆する見方と解釈される。"
+  },
+  {
+    "title": "原油価格予想：トランプ氏「中間選挙前にイラン攻撃せず」、原油価格は再び下落に転じるか？ - TradingKey",
+    "timestamp": "2026-10-10T02:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイラン攻撃を中間選挙前に行わないと表明。地政学的リスク低下が意識され、原油価格下落圧力が高まる可能性。"
+  },
+  {
+    "title": "NY原油先物：小幅反落、米大統領の対イラン攻撃見送り表明で上値が重い - 投資情報のフィスコ",
+    "timestamp": "2026-10-10T19:04:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米大統領がイラン攻撃を見送ると表明したことで、地政学リスクが後退。原油の上値が重くなり、NY原油先物は小幅反落した。"
+  },
+  {
+    "title": "高騰する銅価格、市場の「ゆがみ」に要注意 - 上毛新聞電子版",
+    "timestamp": "2026-10-10T20:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が高騰しているが、市場に「ゆがみ」が生じている可能性が指摘されている。投資家は市場構造の歪みに注意が必要な状況。"
   }
 ]
