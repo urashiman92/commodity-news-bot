@@ -11,17 +11,6 @@
     "summary": "EIA（米エネルギー情報局）が米国原油在庫の減少を報告。在庫の減少は需要堅調または供給制限を示唆し、原油価格の上昇要因となる。ただし具体的な減少幅やコンテキスト情報がないため、市場予想との乖離度は判断困難。"
   },
   {
-    "title": "Oil rises as Middle East supply concerns persist amid shipping attacks - Reuters",
-    "timestamp": "2026-10-08T01:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東での海運攻撃が継続し、原油供給懸念が再燃している。紅海などでの船舶襲撃事件により、主要な海上輸送ルートのリスクが高まり、原油価格が上昇している。地政学的リスク要因として原油市場に実質的な供給削減圧力が生じている。"
-  },
-  {
     "title": "Oil Edges Higher on Iran Strike Options Report and Storm Impact - Bloomberg.com",
     "timestamp": "2026-10-08T08:31:15+00:00",
     "importance": 3,
@@ -900,5 +889,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ハリケーン接近に伴い、メキシコ湾の石油生産施設がシャットダウンされている。追加的な生産停止が見込まれることで、原油価格は上昇で決済。供給面での一時的な懸念が相場を支えている状況。"
+  },
+  {
+    "title": "Copper Prices Near Record Highs; UBS Says Supply Deficit to Persist Into Early 2030s - BigGo Finance",
+    "timestamp": "2026-10-11T02:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "UBSが銅価格は史上高値付近にあり、2030年代初頭まで供給不足が続くと予測。電動自動車・再生可能エネルギー・グリーンインフラ需要の急増が需給逼迫を深刻化させる見通し。鉱山新規開発の遅れが供給制約要因として作用する可能性が高い。"
+  },
+  {
+    "title": "Copper Prices Near Record Highs; UBS Says Supply Deficit to Persist Into Early 2030s - BigGo Finance",
+    "timestamp": "2026-10-11T02:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "UBSが銅価格は史上高値付近にあり、2030年代初頭まで供給不足が続くと予測。電動自動車・再生可能エネルギー・グリーンインフラ需要の急増が需給逼迫を深刻化させる見通し。鉱山新規開発の遅れが供給制約要因として作用する可能性が高い。"
+  },
+  {
+    "title": "Exxon blocks Kashagan's settlement proposal over Kazakhstan's $5 billion fine, Bloomberg News reports - Reuters",
+    "timestamp": "2026-10-09T11:01:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "エクソンモービルがカザフスタンの50億ドルの罰金問題を巡り、カスピ海の主要油田カシャガンの和解案を拒否。同油田は世界有数の大型プロジェクトで、紛争の長期化は供給リスク要因となり、原油相場の上昇圧力となる可能性がある。"
   }
 ]
