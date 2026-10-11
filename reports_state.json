@@ -1,38 +1,5 @@
 [
   {
-    "title": "EIA reports decrease in US crude oil stocks - https://www.engine.online/",
-    "timestamp": "2026-10-08T07:46:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA（米エネルギー情報局）が米国原油在庫の減少を報告。在庫の減少は需要堅調または供給制限を示唆し、原油価格の上昇要因となる。ただし具体的な減少幅やコンテキスト情報がないため、市場予想との乖離度は判断困難。"
-  },
-  {
-    "title": "Oil Edges Higher on Iran Strike Options Report and Storm Impact - Bloomberg.com",
-    "timestamp": "2026-10-08T08:31:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "イラン攻撃オプションに関する報道とハリケーン被害により原油が上昇。地政学的緊張の高まりが供給リスク懸念を生じさせ、同時に米国の一部地域における生産・出荷への物理的影響も価格上昇を支持している。"
-  },
-  {
-    "title": "USDA stocks report bearish for corn - AgUpdate",
-    "timestamp": "2026-10-08T11:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの在庫レポートでトウモロコシが弱気相場の材料として報じられた。在庫統計は定期的に発表される重要な指標であり、トウモロコシ相場に直接影響を与える。具体的な在庫数値が記事本文で明示されていないため、詳細な供給環境の判断が必要。"
-  },
-  {
     "title": "Wall St slips as higher yields and oil prices flag inflation risk - Reuters",
     "timestamp": "2026-10-08T14:06:05+00:00",
     "importance": 3,
@@ -75,39 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア最大規模の石油精製所への攻撃を実施したと発表。ロシアの精製能力低下により、原油供給逼迫懸念が急速に高まった。地政学リスクの具体化により、短期的な原油価格上昇圧力が強まる。既存の供給懸念に新たな打撃が加わった形。"
-  },
-  {
-    "title": "Russia’s Oil Product Exports Rise Even as Diesel Shipments Slump - Bloomberg.com",
-    "timestamp": "2026-10-08T11:43:56+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油製品輸出全体は増加傾向にあるが、ディーゼル出荷は低迷している状況。西側制裁の影響でディーゼルなど特定製品の輸出が制限される一方、ガソリンなど他の製品でカバーしている。供給構成の変化を示唆する既報の続報。"
-  },
-  {
-    "title": "Saudi, UAE Join Japan-Led Push to Bolster Asian Oil Buffers - Bloomberg.com",
-    "timestamp": "2026-10-08T11:37:23+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアとUAEが日本主導のアジア域内石油備蓄増強イニシアティブに参加すると報道。中東主要産油国がアジアのエネルギー安全保障強化に協力する姿勢を示した。既報の備蓄戦略の延長線上にある動きで、供給安定化への確認的なシグナル。"
-  },
-  {
-    "title": "Saudi Tycoons Built $9 Billion Fortune Off Water Instead of Oil - Bloomberg.com",
-    "timestamp": "2026-10-08T12:31:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアの実業家らが水関連ビジネスで90億ドルの資産を構築したという記事。従来の石油産業から多角化する動きを示唆。水資源の戦略的重要性が高まる中東地域の経済構造の変化を反映しているが、直接的なコモディティ価格への即座の影響は限定的。"
   },
   {
     "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
@@ -229,17 +163,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国30年債オークションが堅調な需要を記録し、債券相場が上昇した。米国債利回りの低下は、金利上昇環境の緩和を示唆し、無利子資産である金に対する下落圧力が一時的に軽減される可能性がある。ただし、金融政策の基調転換ではなく、市場予想の範囲内の動き。"
-  },
-  {
-    "title": "India Shuns Costly Russian Oil as Middle East Flows Recover - Bloomberg.com",
-    "timestamp": "2026-10-08T08:14:33+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "インドが中東産油国からの原油供給回復に伴い、割高なロシア産原油の購入を削減している。中東からのフローが安定化する中で、ロシア産原油への需要が低下し、原油市場全体の需給バランスに影響を与えている。"
   },
   {
     "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
@@ -922,5 +845,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "エクソンモービルがカザフスタンの50億ドルの罰金問題を巡り、カスピ海の主要油田カシャガンの和解案を拒否。同油田は世界有数の大型プロジェクトで、紛争の長期化は供給リスク要因となり、原油相場の上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "WASDE whiplash leaves corn bleeding out - Farm Progress",
+    "timestamp": "2026-10-09T07:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE（米国農務省需給報告書）の発表による市場の急激な変動がトウモロコシ相場に下圧力をもたらしている。タイトルの「whiplash」は、相反する好悪材料による相場の激しい上下動を示唆しており、市場参加者が混乱している状況を反映している。"
+  },
+  {
+    "title": "OPEC Consults Members on Saudi Call, No Decision Yet - Arab News",
+    "timestamp": "2026-10-10T12:19:01+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECがサウジアラビアの提案について加盟国と協議中だが、まだ決定に至っていない。減産や増産に関する具体的な政策方向は未確定の段階であり、市場への直接的なインパクトはまだ顕在化していない。今後の会合で正式決定が予定されている。"
   }
 ]
