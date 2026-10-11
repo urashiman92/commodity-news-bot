@@ -1,71 +1,5 @@
 [
   {
-    "title": "原油先物は反発、中東の供給懸念続く 船舶攻撃が増加 - Reuters",
-    "timestamp": "2026-10-08T01:44:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東での船舶攻撃増加により供給懸念が継続。原油先物は反発し、地政学リスクによる上値圧力が続いている。ホルムズ海峡経由の原油流通に対する潜在的な脅威が価格を支える要因となっている。"
-  },
-  {
-    "title": "原油先物は反発、中東の供給懸念続く 船舶攻撃が増加 - ニューズウィーク日本版",
-    "timestamp": "2026-10-08T01:43:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東での船舶攻撃増加に伴い供給懸念が再燃し、原油先物が反発。地政学リスクが継続的に存在する状況が確認された。"
-  },
-  {
-    "title": "米国湾岸の供給混乱懸念で原油価格が上昇 執筆 - Investing.com",
-    "timestamp": "2026-10-08T00:42:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国湾岸での供給混乱懸念が報道され、原油価格が上昇。具体的な混乱の内容（ハリケーン、施設障害、地政学的要因など）が不明だが、市場への影響は確認されている。サプライズ度は詳細情報不足で判定困難。"
-  },
-  {
-    "title": "高騰する銅価格、市場の「ゆがみ」に要注意 | The Wall Street Journal発 - ダイヤモンド・オンライン",
-    "timestamp": "2026-10-08T00:36:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が高騰している中、市場の構造的な「ゆがみ」に対する警告レポート。WSJが市場の不均衡リスクを指摘している。"
-  },
-  {
-    "title": "WSJ日本版：高騰する銅価格、市場の「ゆがみ」に要注意 - 毎日新聞",
-    "timestamp": "2026-10-08T00:36:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格の高騰が続く中、市場における価格形成メカニズムの歪みについての警告記事。投機的需要や供給構造の不均衡が指摘されている模様。"
-  },
-  {
-    "title": "高騰する銅価格、市場の「ゆがみ」に要注意 - WSJ",
-    "timestamp": "2026-10-08T00:36:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が高騰している中で、市場に「ゆがみ」が生じている可能性を指摘する解説記事。ファンダメンタルズとの乖離や市場構造の異常性に警告。投資家のポジション調整リスクに要注意。"
-  },
-  {
     "title": "相変わらずしぶとい金価格 - 三菱マテリアル GOLDPARK",
     "timestamp": "2026-10-08T09:08:13+00:00",
     "importance": 2,
@@ -86,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が続落している状況に関するコメンタリー記事。既に進行中の下落トレンドについての解説と見られる。具体的な新規材料や統計数字は示されていない。"
-  },
-  {
-    "title": "Antamの金価格、木曜日（10/8）に1グラムあたり2,565,000ルピアに下落 - IDNFinancials",
-    "timestamp": "2026-10-08T05:00:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドネシアのAntam社の金価格が2,565,000ルピア/グラムに下落した。国内市場の日次価格変動を報じた定期的なニュース。"
   },
   {
     "title": "本日の金価格（10月8日午後）：安定 - Vietnam.vn",
@@ -132,17 +55,6 @@
     "summary": "WTI原油先物の現在値を表示するMoomooのティッカー情報。具体的なニュースイベントや価格変動要因の情報が含まれていない。"
   },
   {
-    "title": "株価 値下がり 原油先物価格の上昇で売り注文広がる - NHKニュース",
-    "timestamp": "2026-10-08T03:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格の上昇が株式市場全体に売り圧力をもたらし、株価が値下がりしている。エネルギー価格の上昇がインフレ懸念とコスト増につながっている。"
-  },
-  {
     "title": "中東における供給懸念から、原油価格は反転上昇した。 - Vietnam.vn",
     "timestamp": "2026-10-08T09:12:58+00:00",
     "importance": 4,
@@ -152,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東における供給懸念が発生し、原油価格が反転上昇した。地政学的なリスク要因が市場に影響を与えている。具体的な供給途絶の詳細が不明確であるため、今後の展開に注視が必要。"
-  },
-  {
-    "title": "銅価格の高騰には慎重に対応してください。 - Vietnam.vn",
-    "timestamp": "2026-10-08T03:11:50+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ベトナムメディアが銅価格の高騰に対する慎重な対応を呼びかけている。既に進行中の相場上昇局面に対する警告的な見解と考えられる。"
   },
   {
     "title": "金価格は安定しているものの銀価格は下落し、原油価格の急騰がインフレ圧力を再び高めています。 - Moomoo",
@@ -185,17 +86,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が下落を続ける中、買い需要が増加している。価格下落時の押し目買いは典型的な相場心理。ベトナムの金市場に関する地域的な観測記事。"
-  },
-  {
-    "title": "金価格、2ヶ月ぶり安値から反発——Fed利上げ見通しに注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-08T01:47:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が2ヶ月ぶりの安値から反発。Fed利上げ見通しの変化が注目される。マクロ要因による相場の振り返り。"
   },
   {
     "title": "原油価格急騰、10年債利回り5.33%、先物下落 - Moomoo",
@@ -1450,5 +1340,126 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "米農務省がトウモロコシ生産予想を予想外に上方修正。市場予想を大きく上回る供給増加見通しにより、先物価格が一時6%急落し約3年ぶりの安値水準に到達。豊作は供給過剰をもたらす明確なシグナル。"
+  },
+  {
+    "title": "金相場価格デイリーコメント週間まとめ（10/5〜10/9）｜水野崇 - JIJICO",
+    "timestamp": "2026-10-11T02:02:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月5日～9日の金相場の週間まとめ。アナリスト（水野崇氏）による相場振り返りコメント。具体的な価格動向や材料の詳細は記事本文に依存。"
+  },
+  {
+    "title": "専門家は来週、金価格が上昇すると予測している。 - Vietnam.vn",
+    "timestamp": "2026-10-11T02:42:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "専門家が来週の金価格上昇を予測している。具体的な根拠や時間軸が不明確。市場コンセンサスの事前織り込み状況が判断できない。"
+  },
+  {
+    "title": "原油価格の高騰が富を蝕む中、金価格は大きな動きを示している。 - Vietnam.vn",
+    "timestamp": "2026-10-11T02:42:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油高騰の環境下で金価格が大きく変動しているとの解説記事。原油と金の価格連動性や市場心理の変化を指摘しているものと推察される。具体的な金価格の方向性や変動幅は記事概要からは不明確。"
+  },
+  {
+    "title": "金価格は上昇しているのに、なぜ買い手は大きな損失を被っているのか？ - Vietnam.vn",
+    "timestamp": "2026-10-11T04:28:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格上昇局面にもかかわらず、買い手が損失を被っているという矛盾現象についての解説記事。タイミングの悪さや過去のポジション損失などが背景にあるとみられる。"
+  },
+  {
+    "title": "金価格は4,200ドルの大台を突破できるだろうか？ - Vietnam.vn",
+    "timestamp": "2026-10-11T00:44:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,200ドルの心理的抵抗線突破の可能性についての観測記事。現在の金相場の技術的なレベル議論と市場の期待値を扱っている。"
+  },
+  {
+    "title": "2026年10月11日の金価格：SJC金は1オンスあたり1億4180万～1億4480万ベトナムドンで横ばい。 - Vietnam.vn",
+    "timestamp": "2026-10-11T03:58:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金が1オンスあたり1億4180万～1億4480万ベトナムドンで推移。特に方向性のない横ばい相場。"
+  },
+  {
+    "title": "本日（2026年10月11日）の金価格：1オンスあたり1億4180万～1億4480万ベトナムドン（変動なし）。 - Vietnam.vn",
+    "timestamp": "2026-10-11T04:24:49+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が1オンスあたり1億4180万～1億4480万ベトナムドンで、変動なしとの報告。地域市場の日次相場情報に過ぎない。"
+  },
+  {
+    "title": "本日10月11日の金価格：市場は新たなシグナルを待っている。 - Vietnam.vn",
+    "timestamp": "2026-10-11T03:15:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月11日時点の金価格についての市場解説記事。市場参加者が新たなシグナルを待つ状況を報じている。具体的な価格データや重大な新展開は記事概要からは不明。"
+  },
+  {
+    "title": "$インテル (INTC.US)$ 来週から原油価格が暴落し、 ハイテク株は上昇 - Moomoo",
+    "timestamp": "2026-10-10T07:20:53+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomooの解説記事で、来週の原油価格暴落とハイテク株上昇を予測している。ただし具体的な根拠や時間軸が不明確。ニュースの詳細内容が不十分で判断困難。"
+  },
+  {
+    "title": "本日の燃料価格（10月11日）：世界の原油価格は変動の激しい1週間となりました。 - Vietnam.vn",
+    "timestamp": "2026-10-10T22:59:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月11日の燃料価格レポート。世界の原油価格が過去1週間で変動が激しかったことを報じている。具体的な価格水準や変動要因の詳細は不明。"
+  },
+  {
+    "title": "銅価格が歴史的高値に接近 UBS：供給不足は2030年代初頭まで継続 - BigGo ファイナンス",
+    "timestamp": "2026-10-11T02:08:57+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "UBSが銅の供給不足が2030年代初頭まで継続すると予測。銅価格は歴史的高値に接近している状況。構造的な供給タイト状況が価格支持要因。"
   }
 ]
