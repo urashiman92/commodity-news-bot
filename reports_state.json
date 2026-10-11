@@ -1,126 +1,5 @@
 [
   {
-    "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
-    "timestamp": "2026-10-08T20:33:22+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDE報告書の発表を控え、トウモロコシ・大豆・小麦価格が事前売却により下落。WASDEは米穀物市場の最重要定期統計であり、作付面積・生産量・需給見通しの改定が発表される。報告書の内容次第で相場が大きく変動する可能性が高い。"
-  },
-  {
-    "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
-    "timestamp": "2026-10-08T20:33:22+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDE報告書の発表を控え、トウモロコシ・大豆・小麦価格が事前売却により下落。WASDEは米穀物市場の最重要定期統計であり、作付面積・生産量・需給見通しの改定が発表される。報告書の内容次第で相場が大きく変動する可能性が高い。"
-  },
-  {
-    "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
-    "timestamp": "2026-10-08T20:33:22+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASDE報告書の発表を控え、トウモロコシ・大豆・小麦価格が事前売却により下落。WASDEは米穀物市場の最重要定期統計であり、作付面積・生産量・需給見通しの改定が発表される。報告書の内容次第で相場が大きく変動する可能性が高い。"
-  },
-  {
-    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
-    "timestamp": "2026-10-08T20:25:47+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
-  },
-  {
-    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
-    "timestamp": "2026-10-08T20:25:47+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
-  },
-  {
-    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
-    "timestamp": "2026-10-08T20:25:47+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
-  },
-  {
-    "title": "Markets await October USDA supply and demand estimates - Iowa Agribusiness Radio Network",
-    "timestamp": "2026-10-08T20:25:47+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "10月のUSDA需給予測発表を市場が待機している状況を伝えるレポート。WASDEは毎月定例発表される米国農産物の供給・需要予測で、穀物市場の重要な指標。具体的な数値の変更内容は記事には含まれていない。"
-  },
-  {
-    "title": "EIA Crude Oil Inventories Preview: 15 October 2026 Report - Admirals",
-    "timestamp": "2026-10-08T18:34:45+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週次原油在庫報告は毎週水曜に公表される定期統計。2026年10月15日の報告は、米国原油供給・需要バランスの最新動向を示す。具体的な在庫増減数値が明確でないため、市場への影響度は予想比の乖離幅に依存する。"
-  },
-  {
-    "title": "US bonds rally after 30-year auction finds solid demand - Reuters",
-    "timestamp": "2026-10-08T20:50:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国30年債オークションが堅調な需要を記録し、債券相場が上昇した。米国債利回りの低下は、金利上昇環境の緩和を示唆し、無利子資産である金に対する下落圧力が一時的に軽減される可能性がある。ただし、金融政策の基調転換ではなく、市場予想の範囲内の動き。"
-  },
-  {
-    "title": "US bonds rally after 30-year auction finds solid demand - Reuters",
-    "timestamp": "2026-10-08T20:50:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国30年債オークションが堅調な需要を記録し、債券相場が上昇した。米国債利回りの低下は、金利上昇環境の緩和を示唆し、無利子資産である金に対する下落圧力が一時的に軽減される可能性がある。ただし、金融政策の基調転換ではなく、市場予想の範囲内の動き。"
-  },
-  {
-    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
-    "timestamp": "2026-10-08T21:22:26+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の増産決定は現在のところ市場に大きな影響を与えていないが、将来的には価格形成に寄与する可能性があるとの見方。アナリストRussellの解説は、近期の供給ギャップ拡大によって増産の実効性が限定的であることを指摘している。"
-  },
-  {
     "title": "Opec-Plus Crude Output Hits Wartime High in September - Energy Intelligence",
     "timestamp": "2026-10-09T00:32:40+00:00",
     "importance": 4,
@@ -627,17 +506,6 @@
     "summary": "LME銅価格が週間で2%のゲインを記録し、上昇トレンドを継続している。レポートは注視すべき銅関連株5銘柄をハイライトしており、銅セクターへの投資家関心が高まっている状況を反映している。"
   },
   {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
-    "timestamp": "2026-10-08T21:44:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の原油生産を日量137,000バレル増加させることを検討している。これは比較的小幅な増産であり、市場予想の範囲内と考えられる。供給増加は原油価格に下押し圧力をもたらす可能性があるが、増産規模が限定的なため影響は限定的。"
-  },
-  {
     "title": "Trump says Russia to immediately supply 300,000 tons of diesel fuel - Reuters",
     "timestamp": "2026-10-09T19:17:48+00:00",
     "importance": 3,
@@ -845,5 +713,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "トランプ前大統領がウクライナとロシア間のエネルギー停戦を発表し、ゼレンスキー大統領も驚いた。この地政学的進展は、ウクライナのエネルギーインフラへの攻撃停止とロシアのエネルギー供給再開の可能性を示唆しており、欧州のエネルギー危機緩和と原油・ガス価格への下落圧力が生じる可能性がある。"
+  },
+  {
+    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Centre Daily Times",
+    "timestamp": "2026-10-09T10:28:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国のトウモロコシ在庫が予想より増加していることが、USDA の家畜飼料利用データの信頼性に疑問を投じている。在庫が大きいことは、実際の飼料消費が政府発表より少ないか、統計に乖離がある可能性を示唆。穀物相場の下押し圧力となる。"
+  },
+  {
+    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Centre Daily Times",
+    "timestamp": "2026-10-09T10:28:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国のトウモロコシ在庫が予想より増加していることが、USDA の家畜飼料利用データの信頼性に疑問を投じている。在庫が大きいことは、実際の飼料消費が政府発表より少ないか、統計に乖離がある可能性を示唆。穀物相場の下押し圧力となる。"
+  },
+  {
+    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Centre Daily Times",
+    "timestamp": "2026-10-09T10:28:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "米国のトウモロコシ在庫が予想より増加していることが、USDA の家畜飼料利用データの信頼性に疑問を投じている。在庫が大きいことは、実際の飼料消費が政府発表より少ないか、統計に乖離がある可能性を示唆。穀物相場の下押し圧力となる。"
+  },
+  {
+    "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+    "timestamp": "2026-10-11T18:23:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がウクライナへの武器供給をロシア製油所への攻撃を理由に制限する可能性を示唆。これはウクライナによるロシア石油インフラへの攻撃継続への圧力となり、ロシア産油能力への不確実性が高まる。地政学リスクの急激な変化により原油供給逼迫懸念が再燃し、原油価格上昇圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+    "timestamp": "2026-10-11T18:23:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国がウクライナへの武器供給をロシア製油所への攻撃を理由に制限する可能性を示唆。これはウクライナによるロシア石油インフラへの攻撃継続への圧力となり、ロシア産油能力への不確実性が高まる。地政学リスクの急激な変化により原油供給逼迫懸念が再燃し、原油価格上昇圧力が生じる可能性が高い。"
   }
 ]
