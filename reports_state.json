@@ -1,49 +1,5 @@
 [
   {
-    "title": "Wall St slips as higher yields and oil prices flag inflation risk - Reuters",
-    "timestamp": "2026-10-08T14:06:05+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株が下落し、利回り上昇と原油価格の上昇がインフレリスクを示唆している。金利上昇は金にとって下落圧力となる一方、原油高はインフレ懸念を強め、実質金利の動きによってコモディティ全体に複雑な影響を与える構図。マクロ環境のトレンド転換を示唆する重要な警告信号。"
-  },
-  {
-    "title": "Wall St slips as higher yields and oil prices flag inflation risk - Reuters",
-    "timestamp": "2026-10-08T14:06:05+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国株が下落し、利回り上昇と原油価格の上昇がインフレリスクを示唆している。金利上昇は金にとって下落圧力となる一方、原油高はインフレ懸念を強め、実質金利の動きによってコモディティ全体に複雑な影響を与える構図。マクロ環境のトレンド転換を示唆する重要な警告信号。"
-  },
-  {
-    "title": "Wall St slips as higher yields and oil prices flag inflation risk - Reuters",
-    "timestamp": "2026-10-08T14:06:05+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株が下落し、利回り上昇と原油価格の上昇がインフレリスクを示唆している。金利上昇は金にとって下落圧力となる一方、原油高はインフレ懸念を強め、実質金利の動きによってコモディティ全体に複雑な影響を与える構図。マクロ環境のトレンド転換を示唆する重要な警告信号。"
-  },
-  {
-    "title": "Ukraine says it hit Russia's largest oil refinery - Reuters",
-    "timestamp": "2026-10-08T15:12:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア最大規模の石油精製所への攻撃を実施したと発表。ロシアの精製能力低下により、原油供給逼迫懸念が急速に高まった。地政学リスクの具体化により、短期的な原油価格上昇圧力が強まる。既存の供給懸念に新たな打撃が加わった形。"
-  },
-  {
     "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data - AgroLatam",
     "timestamp": "2026-10-08T20:33:22+00:00",
     "importance": 4,
@@ -130,17 +86,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAの週次原油在庫報告は毎週水曜に公表される定期統計。2026年10月15日の報告は、米国原油供給・需要バランスの最新動向を示す。具体的な在庫増減数値が明確でないため、市場への影響度は予想比の乖離幅に依存する。"
-  },
-  {
-    "title": "Copper inventory sentiment signalled tightening ahead of Q3 backwardation, Permutable analysis finds - markets.businessinsider.com",
-    "timestamp": "2026-10-08T18:01:01+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅の在庫センチメント分析により、Q3のバックワーデーション（現物高）に先立つ需給逼迫シグナルが検出された。Permutable分析は在庫動向が銅市場の引き締まりを予示していることを示唆している。需給タイト化は銅価格の上昇圧力となる可能性がある。"
   },
   {
     "title": "US bonds rally after 30-year auction finds solid demand - Reuters",
@@ -867,5 +812,38 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECがサウジアラビアの提案について加盟国と協議中だが、まだ決定に至っていない。減産や増産に関する具体的な政策方向は未確定の段階であり、市場への直接的なインパクトはまだ顕在化していない。今後の会合で正式決定が予定されている。"
+  },
+  {
+    "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
+    "timestamp": "2026-10-10T23:26:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が追加的な石油減産緩和（増産）を承認した。ホルムズ海峡経由の輸出が回復傾向を見せており、市場の供給懸念が部分的に緩和される見通し。既に報道されていた政策方針の延長であり、市場予想の範囲内の決定。"
+  },
+  {
+    "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+    "timestamp": "2026-10-11T17:21:10+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がウクライナとロシア間のエネルギー停戦を発表し、ゼレンスキー大統領も驚いた。この地政学的進展は、ウクライナのエネルギーインフラへの攻撃停止とロシアのエネルギー供給再開の可能性を示唆しており、欧州のエネルギー危機緩和と原油・ガス価格への下落圧力が生じる可能性がある。"
+  },
+  {
+    "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+    "timestamp": "2026-10-11T17:21:10+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領がウクライナとロシア間のエネルギー停戦を発表し、ゼレンスキー大統領も驚いた。この地政学的進展は、ウクライナのエネルギーインフラへの攻撃停止とロシアのエネルギー供給再開の可能性を示唆しており、欧州のエネルギー危機緩和と原油・ガス価格への下落圧力が生じる可能性がある。"
   }
 ]
