@@ -1,16 +1,5 @@
 [
   {
-    "title": "Opec-Plus Crude Output Hits Wartime High in September - Energy Intelligence",
-    "timestamp": "2026-10-09T00:32:40+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC プラスが9月に戦時中最高水準の原油生産量を記録したと報じられた。これは過去の紛争期を上回る生産水準であり、市場が減産継続を想定していた中での供給増加は予想外。今後の価格圧力要因となる可能性がある。"
-  },
-  {
     "title": "Oil falls as Trump comments on Iran talks ease supply concerns - Reuters",
     "timestamp": "2026-10-09T02:28:00+00:00",
     "importance": 3,
@@ -768,5 +757,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国がウクライナへの武器供給をロシア製油所への攻撃を理由に制限する可能性を示唆。これはウクライナによるロシア石油インフラへの攻撃継続への圧力となり、ロシア産油能力への不確実性が高まる。地政学リスクの急激な変化により原油供給逼迫懸念が再燃し、原油価格上昇圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Reuters",
+    "timestamp": "2026-10-11T23:26:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア・ウクライナ間のエネルギー部門における停戦の可能性が報じられたことで、原油価格が下落した。戦争長期化による供給不安の緩和が見込まれ、市場は需給逼迫の懸念が後退するとの見方を示した。ただし合意内容の詳細や実現可能性については依然不透明である。"
+  },
+  {
+    "title": "US Republicans, Democrats want Trump to reverse course on Russia diesel - Reuters",
+    "timestamp": "2026-10-11T15:58:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の共和党・民主党議員がトランプ大統領に対し、ロシア産ディーゼル油への制裁政策の撤回を求めている。両党の超党派的な要求は、ロシア産石油製品の米国市場への流入制限を緩和する可能性を示唆。これは原油供給の緊張緩和要因となる可能性がある。"
+  },
+  {
+    "title": "Oil Rises as Saudi Airport and Tanker Attacks Stoke Supply Fears - Bloomberg.com",
+    "timestamp": "2026-10-11T22:08:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの空港とタンカーへの攻撃により、供給途絶への懸念が急速に高まり、原油価格が上昇した。地政学的リスク顕在化による予期しない供給ショックとして市場は反応。中東での紛争激化が原油の安定供給に直結する重大な脅威となっている。"
   }
 ]
