@@ -1,49 +1,5 @@
 [
   {
-    "title": "Oil falls as Trump comments on Iran talks ease supply concerns - Reuters",
-    "timestamp": "2026-10-09T02:28:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ前大統領のイラン核協議に関する肯定的なコメントが報じられ、イランの原油供給制裁緩和への期待が高まった。これにより供給懸念が緩和され、原油価格は下落。中東地政学リスクプレミアムの縮小が要因。"
-  },
-  {
-    "title": "Oil eases, bringing some respite to stocks and battered bonds - Reuters",
-    "timestamp": "2026-10-09T01:56:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格が軟化し、株式市場と債券市場に一定の緩和効果をもたらしている。原油相場の押し安は、インフレ懸念の緩和を通じてリスク資産の買い戻しを支援。ただし、エネルギー関連セクターへの下押し圧力は継続している状況。"
-  },
-  {
-    "title": "Oil eases, bringing some respite to stocks and battered bonds - Reuters",
-    "timestamp": "2026-10-09T01:56:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油価格が軟化し、株式市場と債券市場に一定の緩和効果をもたらしている。原油相場の押し安は、インフレ懸念の緩和を通じてリスク資産の買い戻しを支援。ただし、エネルギー関連セクターへの下押し圧力は継続している状況。"
-  },
-  {
-    "title": "Copper Set for Weekly Gain on China’s Return and Supply Concerns - Bloomberg.com",
-    "timestamp": "2026-10-09T06:53:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "中国の旧正月明けに伴う経済活動の再開と、供給不安が銅価格の週間上昇をサポートしている。中国は世界最大の銅消費国であり、その需要回復は価格の主要なドライバーとなる。同時に供給懸念材料も存在し、複数の要因が価格を支えている状況。"
-  },
-  {
     "title": "Crop Production",
     "timestamp": "2026-10-09T16:18:12.885662+00:00",
     "importance": 2,
@@ -75,17 +31,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "米国農務省（USDA）のWASDE報告書発表を控え、穀物市場が方向性を模索している。トウモロコシは下落圧力を受ける一方、大豆は上昇傾向を示しており、市場参加者は金曜日の公式統計発表に注視している状況。"
-  },
-  {
-    "title": "ICE cotton futures edge lower ahead of USDA WASDE report - Fibre2Fashion",
-    "timestamp": "2026-10-09T07:27:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDA WASDE報告書の発表を控え、ICE綿先物が軟調に推移している。市場参加者が報告書の内容を事前に織り込もうとしており、綿花相場への注目度が高まっている。綿花はコモディティ市場全体の気分に左右されやすく、ドル強化も下押し圧力として作用している。"
   },
   {
     "title": "USDA Raises Corn Yield 2.7 BPA to 181.2 BPA - DTN Progressive Farmer",
@@ -462,28 +407,6 @@
     "summary": "トランプ前大統領が米国防生産法（Defense Production Act）を使用して国内石油・燃料生産の増加を推し進める方針を表明。同法は戦時下で産業動員を可能にする権限で、平時のエネルギー政策への適用は異例。ガソリン価格抑制と国内エネルギー自給率向上を狙った政策転換。"
   },
   {
-    "title": "October WASDE's Shocking Rise in Corn Yield, Production Sends Futures Briefly Limit Down - DTN Progressive Farmer",
-    "timestamp": "2026-10-09T08:13:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "10月WASDE報告書でトウモロコシの作付面積および単収が市場予想を大幅に上回る強気の数字を発表。作付面積が予想外に維持・拡大され、単収も好調だったことから、全体的な生産量が大きく上方修正された。この供給強気シグナルによってトウモロコシ先物は一時的にストップ安(リミット安)まで売られた。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-10-09T09:12:54+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間統計レポートで、米国の原油在庫とガソリン在庫が前週比で減少したことが報告された。強い需要が在庫減少の主要因。在庫水準の低下は供給逼迫シグナルとなり得る。"
-  },
-  {
     "title": "5 Copper Stocks to Watch as LME Price Extends Weekly Gain to 2% - NAI500",
     "timestamp": "2026-10-09T23:55:36+00:00",
     "importance": 2,
@@ -649,17 +572,6 @@
     "summary": "エクソンモービルがカザフスタンの50億ドルの罰金問題を巡り、カスピ海の主要油田カシャガンの和解案を拒否。同油田は世界有数の大型プロジェクトで、紛争の長期化は供給リスク要因となり、原油相場の上昇圧力となる可能性がある。"
   },
   {
-    "title": "WASDE whiplash leaves corn bleeding out - Farm Progress",
-    "timestamp": "2026-10-09T07:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米国農務省需給報告書）の発表による市場の急激な変動がトウモロコシ相場に下圧力をもたらしている。タイトルの「whiplash」は、相反する好悪材料による相場の激しい上下動を示唆しており、市場参加者が混乱している状況を反映している。"
-  },
-  {
     "title": "OPEC Consults Members on Saudi Call, No Decision Yet - Arab News",
     "timestamp": "2026-10-10T12:19:01+00:00",
     "importance": 2,
@@ -790,5 +702,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの空港とタンカーへの攻撃により、供給途絶への懸念が急速に高まり、原油価格が上昇した。地政学的リスク顕在化による予期しない供給ショックとして市場は反応。中東での紛争激化が原油の安定供給に直結する重大な脅威となっている。"
+  },
+  {
+    "title": "USDA WASDE Delivers Big ‘Shock’: Corn Yield Spike Rattles Grain Markets - Hoosier Ag Today",
+    "timestamp": "2026-10-10T06:57:05+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDEでトウモロコシの単収が市場予想を大幅に上回る「ショック」的な高い数字が発表され、穀物市場が揺れた。単収の大幅な上振れは生産量増加を意味し、供給懸念の緩和から穀物価格に下落圧力がかかる。同時に大豆・小麦も連動して影響を受ける可能性が高い。"
+  },
+  {
+    "title": "USDA WASDE Delivers Big ‘Shock’: Corn Yield Spike Rattles Grain Markets - Hoosier Ag Today",
+    "timestamp": "2026-10-10T06:57:05+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDEでトウモロコシの単収が市場予想を大幅に上回る「ショック」的な高い数字が発表され、穀物市場が揺れた。単収の大幅な上振れは生産量増加を意味し、供給懸念の緩和から穀物価格に下落圧力がかかる。同時に大豆・小麦も連動して影響を受ける可能性が高い。"
+  },
+  {
+    "title": "USDA WASDE Delivers Big ‘Shock’: Corn Yield Spike Rattles Grain Markets - Hoosier Ag Today",
+    "timestamp": "2026-10-10T06:57:05+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDEでトウモロコシの単収が市場予想を大幅に上回る「ショック」的な高い数字が発表され、穀物市場が揺れた。単収の大幅な上振れは生産量増加を意味し、供給懸念の緩和から穀物価格に下落圧力がかかる。同時に大豆・小麦も連動して影響を受ける可能性が高い。"
+  },
+  {
+    "title": "Rupee jumps 1% after RBI redirects oil dollar demand, raises cost of some FX hedges - Reuters",
+    "timestamp": "2026-10-12T03:54:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド中央銀行（RBI）が石油輸入向けのドル需要経路を変更し、ルピーが1%上昇した。この措置により一部の外国為替ヘッジコストが上昇する見込み。インドの石油決済スキームの変更はドル需要の市場メカニズムを迂回させ、ルピー相場に上向き圧力をもたらす。"
+  },
+  {
+    "title": "Rupee jumps 1% after RBI redirects oil dollar demand, raises cost of some FX hedges - Reuters",
+    "timestamp": "2026-10-12T03:54:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド中央銀行（RBI）が石油輸入向けのドル需要経路を変更し、ルピーが1%上昇した。この措置により一部の外国為替ヘッジコストが上昇する見込み。インドの石油決済スキームの変更はドル需要の市場メカニズムを迂回させ、ルピー相場に上向き圧力をもたらす。"
+  },
+  {
+    "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
+    "timestamp": "2026-10-12T07:11:15+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "ロシア・ウクライナ間のエネルギー休戦の可能性が報じられ、金が小幅上昇。地政学的リスクの後退が意識される一方、エネルギー価格の下押し圧力となる見通し。安全資産としての金の需要と、リスク軽減による金の売却圧力が相殺された状態。"
+  },
+  {
+    "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
+    "timestamp": "2026-10-12T07:11:15+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア・ウクライナ間のエネルギー休戦の可能性が報じられ、金が小幅上昇。地政学的リスクの後退が意識される一方、エネルギー価格の下押し圧力となる見通し。安全資産としての金の需要と、リスク軽減による金の売却圧力が相殺された状態。"
+  },
+  {
+    "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
+    "timestamp": "2026-10-12T07:11:15+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア・ウクライナ間のエネルギー休戦の可能性が報じられ、金が小幅上昇。地政学的リスクの後退が意識される一方、エネルギー価格の下押し圧力となる見通し。安全資産としての金の需要と、リスク軽減による金の売却圧力が相殺された状態。"
   }
 ]
