@@ -1,258 +1,5 @@
 [
   {
-    "title": "Crop Production",
-    "timestamp": "2026-10-09T16:18:12.885662+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSは2024年トウモロコシ穀物生産を160億ブッシェルと予測し、前回予測から1%上方修正。供給増加の見通しはトウモロコシ価格に下押し圧力。豆類・飼料市場にも波及の可能性。"
-  },
-  {
-    "title": "Corn Slips, Soybeans Rise as USDA Report Looms Over U.S. Grain Markets on Friday - AgroLatam",
-    "timestamp": "2026-10-09T15:26:58+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国農務省（USDA）のWASDE報告書発表を控え、穀物市場が方向性を模索している。トウモロコシは下落圧力を受ける一方、大豆は上昇傾向を示しており、市場参加者は金曜日の公式統計発表に注視している状況。"
-  },
-  {
-    "title": "Corn Slips, Soybeans Rise as USDA Report Looms Over U.S. Grain Markets on Friday - AgroLatam",
-    "timestamp": "2026-10-09T15:26:58+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国農務省（USDA）のWASDE報告書発表を控え、穀物市場が方向性を模索している。トウモロコシは下落圧力を受ける一方、大豆は上昇傾向を示しており、市場参加者は金曜日の公式統計発表に注視している状況。"
-  },
-  {
-    "title": "USDA Raises Corn Yield 2.7 BPA to 181.2 BPA - DTN Progressive Farmer",
-    "timestamp": "2026-10-09T16:07:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月のWASDE報告でトウモロコシの単収を2.7ブッシェル/エーカー上方修正し、181.2 BPAに引き上げた。この単収上方修正は総生産量の増加を意味し、供給圧力が強まることでトウモロコシ価格には下押し圧力となる見込み。"
-  },
-  {
-    "title": "First Thing Today | It’s all eyes on WASDE - Pro Farmer",
-    "timestamp": "2026-10-09T11:12:36+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米国農務省による穀物・油脂需給見通し）の発表が市場の焦点となっている。本レポートは定期的な農産物の生産量・在庫・輸出見通しを提示し、トウモロコシ・大豆・小麦などの価格に直結する重要な指標。市場関係者が注視する主要統計の発表待ちの状況。"
-  },
-  {
-    "title": "First Thing Today | It’s all eyes on WASDE - Pro Farmer",
-    "timestamp": "2026-10-09T11:12:36+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE（米国農務省による穀物・油脂需給見通し）の発表が市場の焦点となっている。本レポートは定期的な農産物の生産量・在庫・輸出見通しを提示し、トウモロコシ・大豆・小麦などの価格に直結する重要な指標。市場関係者が注視する主要統計の発表待ちの状況。"
-  },
-  {
-    "title": "First Thing Today | It’s all eyes on WASDE - Pro Farmer",
-    "timestamp": "2026-10-09T11:12:36+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE（米国農務省による穀物・油脂需給見通し）の発表が市場の焦点となっている。本レポートは定期的な農産物の生産量・在庫・輸出見通しを提示し、トウモロコシ・大豆・小麦などの価格に直結する重要な指標。市場関係者が注視する主要統計の発表待ちの状況。"
-  },
-  {
-    "title": "First Thing Today | It’s all eyes on WASDE - Pro Farmer",
-    "timestamp": "2026-10-09T11:12:36+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE（米国農務省による穀物・油脂需給見通し）の発表が市場の焦点となっている。本レポートは定期的な農産物の生産量・在庫・輸出見通しを提示し、トウモロコシ・大豆・小麦などの価格に直結する重要な指標。市場関係者が注視する主要統計の発表待ちの状況。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Drop Over 3MM Barrels Week on Week - Rigzone",
-    "timestamp": "2026-10-09T14:12:08+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間統計により米国原油在庫が前週比300万バレル以上減少したことが報告された。在庫減は需給逼迫を示唆し、原油価格の上昇圧力となる。ただし事前予想値が明示されていないため、サプライズ度の判定は困難である。"
-  },
-  {
-    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Reuters",
-    "timestamp": "2026-10-09T10:15:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国のトウモロコシ在庫が予想以上に高水準であることが判明し、家畜飼料需要に関するUSDAのデータの正確性に疑問が生じている。在庫統計と実際の飼料消費量の乖離が指摘され、トウモロコシ相場への下押し圧力が懸念される。"
-  },
-  {
-    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Reuters",
-    "timestamp": "2026-10-09T10:15:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国のトウモロコシ在庫が予想以上に高水準であることが判明し、家畜飼料需要に関するUSDAのデータの正確性に疑問が生じている。在庫統計と実際の飼料消費量の乖離が指摘され、トウモロコシ相場への下押し圧力が懸念される。"
-  },
-  {
-    "title": "U.S. Corn Harvest Falls Behind in 11 States as Wet Weather Slows Fieldwork in 2026 - AgroLatam",
-    "timestamp": "2026-10-09T11:35:48+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国の11州でトウモロコシ収穫が遅延。湿潤な天候が作業を妨害し、通常の進捗ペースを下回っている。降雨による圃場の不良状態が収穫作業を阻害。季節進捗の遅れはトウモロコシの収量・品質リスクを高める可能性がある。"
-  },
-  {
-    "title": "US Grain Storage Pressure to Ease in 2026 as Corn Crop Forecast Shrinks - IndexBox",
-    "timestamp": "2026-10-09T13:41:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年の米国トウモロコシ作付面積縮小予報により、穀物貯蔵圧力が緩和されると見込まれている。現在の高い在庫水準が2026年に改善する可能性が示唆されており、供給サイドの緩和感がトウモロコシ価格に下押し圧力をもたらすと予想される。"
-  },
-  {
-    "title": "US Grain Storage Pressure to Ease in 2026 as Corn Crop Forecast Shrinks - IndexBox",
-    "timestamp": "2026-10-09T13:41:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "穀物全般",
-    "summary": "2026年の米国トウモロコシ作付面積縮小予報により、穀物貯蔵圧力が緩和されると見込まれている。現在の高い在庫水準が2026年に改善する可能性が示唆されており、供給サイドの緩和感がトウモロコシ価格に下押し圧力をもたらすと予想される。"
-  },
-  {
-    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
-    "timestamp": "2026-10-09T11:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で原油産出目標を現状維持することを決定する見通し。減産や増産の政策転換は予想されておらず、市場では既に織り込まれている状況。供給バランスの安定化を示唆するシグナルとなる可能性がある。"
-  },
-  {
-    "title": "Aramco to Supply Full Oil Volumes to Europe Customers Next Month - Bloomberg.com",
-    "timestamp": "2026-10-09T15:05:11+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラムコが翌月のヨーロッパ向け石油供給を満量で実行すると発表。これは供給の安定性を示す確認的なコメントであり、市場では既に織り込まれている情報の続報。原油需給の基本的な安定を反映しているが、新たなサプライズ要因ではない。"
-  },
-  {
-    "title": "US Stocks Set to Rebound as Oil Slips, AI Bubble Fears Recede - Bloomberg.com",
-    "timestamp": "2026-10-09T12:01:10+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株が反発する見通しの中、原油価格が軟調となっている。AI関連の過熱感が後退し、リスク資産への需要が正常化する兆候。原油は弱含みだが、コモディティ全般への影響は限定的。"
-  },
-  {
-    "title": "US Stocks Set to Rebound as Oil Slips, AI Bubble Fears Recede - Bloomberg.com",
-    "timestamp": "2026-10-09T12:01:10+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株が反発する見通しの中、原油価格が軟調となっている。AI関連の過熱感が後退し、リスク資産への需要が正常化する兆候。原油は弱含みだが、コモディティ全般への影響は限定的。"
-  },
-  {
-    "title": "USDA Sends “Shock Waves” With Higher Corn Yield and Ending Stocks in Latest WASDE - Successful Farming",
-    "timestamp": "2026-10-09T16:46:35+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA最新WASDE報告でトウモロコシの単収が市場予想を上回り、期末在庫が大幅に増加した。この「ショックウェーブ」は穀物市場に弱気シグナルをもたらし、供給懸念の後退を示唆している。期末在庫の上方修正は穀物価格に下押し圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "USDA Sends “Shock Waves” With Higher Corn Yield and Ending Stocks in Latest WASDE - Successful Farming",
-    "timestamp": "2026-10-09T16:46:35+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA最新WASDE報告でトウモロコシの単収が市場予想を上回り、期末在庫が大幅に増加した。この「ショックウェーブ」は穀物市場に弱気シグナルをもたらし、供給懸念の後退を示唆している。期末在庫の上方修正は穀物価格に下押し圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "USDA Sends “Shock Waves” With Higher Corn Yield and Ending Stocks in Latest WASDE - Successful Farming",
-    "timestamp": "2026-10-09T16:46:35+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA最新WASDE報告でトウモロコシの単収が市場予想を上回り、期末在庫が大幅に増加した。この「ショックウェーブ」は穀物市場に弱気シグナルをもたらし、供給懸念の後退を示唆している。期末在庫の上方修正は穀物価格に下押し圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "WASDE: USDA Raises Corn Yield Forecast Above Expectations, Sending Futures Lower - RFD-TV",
-    "timestamp": "2026-10-09T17:15:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが最新のWASDE報告でトウモロコシの収穫見通し（単収）を市場予想を上回るレベルに引き上げた。これは供給量の増加を示唆し、トウモロコシ先物相場は下落圧力を受けた。豊作見通しの発表は市場コンセンサスを上回るサプライズとなった。"
-  },
-  {
-    "title": "WASDE report a ‘gut punch to corn farmers’ - Michigan Farm News",
-    "timestamp": "2026-10-09T18:09:33+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE報告がトウモロコシ農家に大きな打撃を与えた。報告内容がコンセンサス予想を大きく下回り、需給見通しの悪化が示唆されている。トウモロコシ価格の下押し圧力が強まり、農家の収益性に深刻な影響が生じる可能性がある。"
-  },
-  {
     "title": "USDA: October WASDE increases forecast for 2026-’27 corn use in ethanol - Ethanol Producer Magazine",
     "timestamp": "2026-10-09T21:39:45+00:00",
     "importance": 3,
@@ -286,61 +33,6 @@
     "summary": "USDA10月WASDE報告で、2026-27年度の大豆油のバイオ燃料用途見通しが前月予測を据え置かれた。バイオディーゼル需要の安定性を示唆するもので、大豆油相場への大きな変動圧力は限定的。政策支援下での継続的な利用が見込まれている。"
   },
   {
-    "title": "October WASDE Report Delivers a Major Surprise for Corn, Raises Questions for Grain Producers - Dakota News Network",
-    "timestamp": "2026-10-09T19:41:41+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "10月のWASDE報告書でトウモロコシに関して市場予想を大幅に上回る展開が発生。タイトルで「Major Surprise」と表現されている点から、生産量・作付面積・在庫のいずれかで予想から大きく乖離した可能性が高い。穀物生産者の経営判断に重大な影響を与える内容となっている。"
-  },
-  {
-    "title": "October WASDE Report Delivers a Major Surprise for Corn, Raises Questions for Grain Producers - Dakota News Network",
-    "timestamp": "2026-10-09T19:41:41+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "10月のWASDE報告書でトウモロコシに関して市場予想を大幅に上回る展開が発生。タイトルで「Major Surprise」と表現されている点から、生産量・作付面積・在庫のいずれかで予想から大きく乖離した可能性が高い。穀物生産者の経営判断に重大な影響を与える内容となっている。"
-  },
-  {
-    "title": "October WASDE Report Delivers a Major Surprise for Corn, Raises Questions for Grain Producers - Dakota News Network",
-    "timestamp": "2026-10-09T19:41:41+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "10月のWASDE報告書でトウモロコシに関して市場予想を大幅に上回る展開が発生。タイトルで「Major Surprise」と表現されている点から、生産量・作付面積・在庫のいずれかで予想から大きく乖離した可能性が高い。穀物生産者の経営判断に重大な影響を与える内容となっている。"
-  },
-  {
-    "title": "USDA surprises market with bigger corn crop in October WASDE - St Joseph Post",
-    "timestamp": "2026-10-09T18:01:02+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "10月のWASDE発表でUSDAがトウモロコシの作付面積または収量を市場予想を上回る水準に上方修正し、米国の2024年度トウモロコシ生産量が増加見通しに。サプライズとなる大型作付もしくは豊作予測が発表され、トウモロコシ価格に下押し圧力が生じた。供給量増加の見通しにより先物相場が反応。"
-  },
-  {
-    "title": "USDA surprises market with bigger corn crop in October WASDE - St Joseph Post",
-    "timestamp": "2026-10-09T18:01:02+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "10月のWASDE発表でUSDAがトウモロコシの作付面積または収量を市場予想を上回る水準に上方修正し、米国の2024年度トウモロコシ生産量が増加見通しに。サプライズとなる大型作付もしくは豊作予測が発表され、トウモロコシ価格に下押し圧力が生じた。供給量増加の見通しにより先物相場が反応。"
-  },
-  {
     "title": "USDA lowers beef production forecasts as feed grain supplies grow - ABP Daily",
     "timestamp": "2026-10-09T20:36:05+00:00",
     "importance": 3,
@@ -372,39 +64,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "USDAがWASDEレポートで牛肉生産見通しを下方修正した。飼料穀物供給の増加が背景だが、牛肉生産低下は畜産業向けトウモロコシ・大豆の需要減につながる可能性がある。穀物相場への下押し圧力が懸念される。"
-  },
-  {
-    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - EnergyNow.com",
-    "timestamp": "2026-10-09T09:34:06+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が1年近い高水準まで上昇した。輸出入が減少する中での在庫積み上がりは、需給バランスが緩んでいることを示唆。原油供給が国内で溜まっている状況は価格下押し圧力になる。"
-  },
-  {
-    "title": "OPEC+ Likely to Again Raise Oil Output Targets From September, Sources Say - EnergyNow.com",
-    "timestamp": "2026-10-09T17:25:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月から再び原油生産目標を引き上げる可能性があると複数の情報筋が報道。減産政策の段階的な緩和を示唆するもので、市場では既に減産継続の段階的終了が織り込まれつつある。供給増加圧力が原油価格の上値を抑制する見通し。"
-  },
-  {
-    "title": "Trump to push US officials to use Defense Production Act to raise oil, fuel output, three sources say - Reuters",
-    "timestamp": "2026-10-09T17:45:13+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ前大統領が米国防生産法（Defense Production Act）を使用して国内石油・燃料生産の増加を推し進める方針を表明。同法は戦時下で産業動員を可能にする権限で、平時のエネルギー政策への適用は異例。ガソリン価格抑制と国内エネルギー自給率向上を狙った政策転換。"
   },
   {
     "title": "5 Copper Stocks to Watch as LME Price Extends Weekly Gain to 2% - NAI500",
@@ -416,39 +75,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME銅価格が週間で2%のゲインを記録し、上昇トレンドを継続している。レポートは注視すべき銅関連株5銘柄をハイライトしており、銅セクターへの投資家関心が高まっている状況を反映している。"
-  },
-  {
-    "title": "Trump says Russia to immediately supply 300,000 tons of diesel fuel - Reuters",
-    "timestamp": "2026-10-09T19:17:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がロシアから即座に30万トンのディーゼル燃料供給を受けると発表。米国へのロシア産石油製品の流入は対ロシア経済制裁枠組み下では異例の動き。ウクライナ情勢の変化を示唆する可能性がある。"
-  },
-  {
-    "title": "Trump says Russia to supply diesel to US and global markets - Reuters",
-    "timestamp": "2026-10-09T15:43:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がロシアからの軽油供給を米国及び世界市場へ提供する予定を表明。これは対ロシア経済制裁の緩和を示唆し、ロシア産エネルギーの国際市場流入増加を意味する。供給増加圧力により原油及び精製油製品価格に下押し圧力が生じる見込み。"
-  },
-  {
-    "title": "Trump says Russia to supply diesel to US and global markets - Reuters",
-    "timestamp": "2026-10-09T15:43:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ前大統領がロシアからの軽油供給を米国及び世界市場へ提供する予定を表明。これは対ロシア経済制裁の緩和を示唆し、ロシア産エネルギーの国際市場流入増加を意味する。供給増加圧力により原油及び精製油製品価格に下押し圧力が生じる見込み。"
   },
   {
     "title": "USDA WASDE Delivers Big ‘Shock’: Corn Yield Spike Rattles Grain Markets - Hoosier Ag Today",
@@ -517,17 +143,6 @@
     "summary": "インドが通貨ルピー防衛のため、ドル需要に対する厳格な規制措置を発表した。新興国通貨の防衛圧力が高まることで、ドル需要が相対的に減少し、ドル建てコモディティ（特に金）の価格上昇要因となる可能性がある。新興市場での金需要増加も期待される。"
   },
   {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-10-09T19:22:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後の独自路線で石油生産を拡大し、2025年に日量500万バレルを超える見通しをIEAが示唆。OPEC+の協調減産体制が緩和される中、供給圧力が高まる可能性がある。"
-  },
-  {
     "title": "Oil prices settle higher as more production shut ahead of hurricane - Reuters",
     "timestamp": "2026-10-09T20:19:51+00:00",
     "importance": 3,
@@ -559,17 +174,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "UBSが銅価格は史上高値付近にあり、2030年代初頭まで供給不足が続くと予測。電動自動車・再生可能エネルギー・グリーンインフラ需要の急増が需給逼迫を深刻化させる見通し。鉱山新規開発の遅れが供給制約要因として作用する可能性が高い。"
-  },
-  {
-    "title": "Exxon blocks Kashagan's settlement proposal over Kazakhstan's $5 billion fine, Bloomberg News reports - Reuters",
-    "timestamp": "2026-10-09T11:01:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "エクソンモービルがカザフスタンの50億ドルの罰金問題を巡り、カスピ海の主要油田カシャガンの和解案を拒否。同油田は世界有数の大型プロジェクトで、紛争の長期化は供給リスク要因となり、原油相場の上昇圧力となる可能性がある。"
   },
   {
     "title": "OPEC Consults Members on Saudi Call, No Decision Yet - Arab News",
@@ -614,39 +218,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "トランプ前大統領がウクライナとロシア間のエネルギー停戦を発表し、ゼレンスキー大統領も驚いた。この地政学的進展は、ウクライナのエネルギーインフラへの攻撃停止とロシアのエネルギー供給再開の可能性を示唆しており、欧州のエネルギー危機緩和と原油・ガス価格への下落圧力が生じる可能性がある。"
-  },
-  {
-    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Centre Daily Times",
-    "timestamp": "2026-10-09T10:28:08+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国のトウモロコシ在庫が予想より増加していることが、USDA の家畜飼料利用データの信頼性に疑問を投じている。在庫が大きいことは、実際の飼料消費が政府発表より少ないか、統計に乖離がある可能性を示唆。穀物相場の下押し圧力となる。"
-  },
-  {
-    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Centre Daily Times",
-    "timestamp": "2026-10-09T10:28:08+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国のトウモロコシ在庫が予想より増加していることが、USDA の家畜飼料利用データの信頼性に疑問を投じている。在庫が大きいことは、実際の飼料消費が政府発表より少ないか、統計に乖離がある可能性を示唆。穀物相場の下押し圧力となる。"
-  },
-  {
-    "title": "Bigger US corn stocks fuel doubts about USDA livestock feeding data - Centre Daily Times",
-    "timestamp": "2026-10-09T10:28:08+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "米国のトウモロコシ在庫が予想より増加していることが、USDA の家畜飼料利用データの信頼性に疑問を投じている。在庫が大きいことは、実際の飼料消費が政府発表より少ないか、統計に乖離がある可能性を示唆。穀物相場の下押し圧力となる。"
   },
   {
     "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
@@ -790,5 +361,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシア・ウクライナ間のエネルギー休戦の可能性が報じられ、金が小幅上昇。地政学的リスクの後退が意識される一方、エネルギー価格の下押し圧力となる見通し。安全資産としての金の需要と、リスク軽減による金の売却圧力が相殺された状態。"
+  },
+  {
+    "title": "USDA raises corn production forecast, projects higher ending stocks - High Plains Journal",
+    "timestamp": "2026-10-12T18:03:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA（米国農務省）がWASDEレポートでトウモロコシの生産予測を引き上げ、期末在庫の増加を見込んでいる。供給増加見通しはトウモロコシ価格に下押し圧力を与える可能性が高い。詳細な生産量・在庫数値は記事本体の確認が必要。"
+  },
+  {
+    "title": "USDA raises corn production forecast, projects higher ending stocks - High Plains Journal",
+    "timestamp": "2026-10-12T18:03:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA（米国農務省）がWASDEレポートでトウモロコシの生産予測を引き上げ、期末在庫の増加を見込んでいる。供給増加見通しはトウモロコシ価格に下押し圧力を与える可能性が高い。詳細な生産量・在庫数値は記事本体の確認が必要。"
+  },
+  {
+    "title": "The US has built a strategic copper stockpile. Can it hold on to it? - Economies.com",
+    "timestamp": "2026-10-12T14:51:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "米国が戦略的銅備蓄を構築している。本レポートは、米国がこの備蓄を維持できるかについて検証するもの。銅は電動車やエネルギー転換に不可欠な重要鉱物であり、戦略備蓄の規模・放出方針は銅市場の需給バランスに影響を与える可能性がある。"
+  },
+  {
+    "title": "The US has built a strategic copper stockpile. Can it hold on to it? - Economies.com",
+    "timestamp": "2026-10-12T14:51:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "米国が戦略的銅備蓄を構築している。本レポートは、米国がこの備蓄を維持できるかについて検証するもの。銅は電動車やエネルギー転換に不可欠な重要鉱物であり、戦略備蓄の規模・放出方針は銅市場の需給バランスに影響を与える可能性がある。"
+  },
+  {
+    "title": "Dow Jones Top Energy Headlines at 4 PM ET: Oil Futures Slip While Holding Near Pre-Conflict Level | OPEC, ... - Moomoo",
+    "timestamp": "2026-10-10T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "石油先物が小幅下落したが、紛争前の水準付近で下支えされている。市場は地政学的リスクプレミアムを織り込みながら、現在の価格水準に落ち着いている状況。OPEC関連の動向と地政学的要因が引き続き価格の上限と下限を規定している。"
+  },
+  {
+    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
+    "timestamp": "2026-10-12T12:33:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は10月の原油生産政策を据え置くことを決定した。前月の方針を継続することで、市場に対する政策の一貫性を示している。既に周知の政策継続であり、市場予想の範囲内の決定。"
+  },
+  {
+    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
+    "timestamp": "2026-10-11T00:01:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECはペルシャ湾地域の紛争後における市場シェア競争で劣位に立つ可能性が高いとの分析。湾岸産油国がOPEC外での増産やシェール競争に対応する中、OPECの市場支配力が相対的に低下する見通し。既存の減産合意効果の限界を示唆している。"
+  },
+  {
+    "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity - Bloomberg.com",
+    "timestamp": "2026-10-12T09:13:03+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが日量1000万バレルのパイプライン輸送能力を目指すと報じられた。これはOPECの減産政策を支える供給インフラの拡張意向を示唆しており、長期的な供給管理体制の強化を意味する。既報のサウジ戦略の延長線上にあり、市場では部分的には織り込まれている可能性が高い。"
   }
 ]
