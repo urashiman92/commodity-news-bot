@@ -1,60 +1,5 @@
 [
   {
-    "title": "本日（10月10日）の金価格：全般的に急上昇。 - Vietnam.vn",
-    "timestamp": "2026-10-10T15:01:39+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月10日の金価格が全般的に急上昇している。具体的な上昇要因は提供されていない。ベトナムメディアからの相場観測記事。"
-  },
-  {
-    "title": "本日2026年10月11日の金価格は、過去2週間で最高値を更新しており、1オンスあたりの売買スプレッドは最大500万ベトナムドンに達しています。世界の金価格は4,200ドルを超える可能性はあるのでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-10-10T15:09:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が過去2週間で最高値を更新し、1オンスあたりの売買スプレッドが500万ベトナムドンに達した。世界金価格が4,200ドルを超える可能性について市場で議論されている。"
-  },
-  {
-    "title": "ロシアと米国が数百万トンの石油購入で合意に達し、金価格が急騰した。 - Vietnam.vn",
-    "timestamp": "2026-10-10T14:08:46+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ロシアと米国の石油購入合意がロシアのニュースサイトで報じられた。金価格が上昇したとされているが、米国とロシア間の直接的な石油取引は現在の制裁環境では実現性が低い。既知のジオポリティカルリスク織り込み段階の報道。"
-  },
-  {
-    "title": "ベテラン投資家が金価格に重大な警告 - BeInCrypto",
-    "timestamp": "2026-10-10T18:44:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベテラン投資家が金価格に対する警告を発表。具体的な根拠は記事概要から不明だが、投資家心理に負の影響をもたらす可能性がある。金相場の調整局面を示唆する見方と解釈される。"
-  },
-  {
-    "title": "NY原油先物：小幅反落、米大統領の対イラン攻撃見送り表明で上値が重い - 投資情報のフィスコ",
-    "timestamp": "2026-10-10T19:04:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米大統領がイラン攻撃を見送ると表明したことで、地政学リスクが後退。原油の上値が重くなり、NY原油先物は小幅反落した。"
-  },
-  {
     "title": "高騰する銅価格、市場の「ゆがみ」に要注意 - 上毛新聞電子版",
     "timestamp": "2026-10-10T20:00:00+00:00",
     "importance": 3,
@@ -97,39 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格ニュースソースによる朝時点の金価格更新記事。金価格に上昇余地があるとの見方を示唆。具体的な市場イベントや指標発表には言及されていない。"
-  },
-  {
-    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-10-10T16:38:12+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油連動型ETF（1671）の株価情報ページへのリンク。Yahoo!ファイナンスによる上場投信の市場データ提供。ニュースというより投資情報ツールの掲載。"
-  },
-  {
-    "title": "NY円反落、158円台半ば 原油高で米金利上昇が重荷 - BigGo ファイナンス",
-    "timestamp": "2026-10-10T18:16:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇に伴い米金利が上昇し、ドル買いが進んで円が反落している。NY市場では円は158円台半ばまで下げた。原油高とドル高の連動関係が相場を主導している。"
-  },
-  {
-    "title": "米農務省のトウモロコシ生産予想が予想外の上方修正 先物価格は一時6％急落、約3年ぶりの大幅安 - BigGo ファイナンス",
-    "timestamp": "2026-10-10T18:06:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "米農務省がトウモロコシ生産予想を予想外に上方修正。市場予想を大きく上回る供給増加見通しにより、先物価格が一時6%急落し約3年ぶりの安値水準に到達。豊作は供給過剰をもたらす明確なシグナル。"
   },
   {
     "title": "金相場価格デイリーコメント週間まとめ（10/5〜10/9）｜水野崇 - JIJICO",
@@ -328,17 +240,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油供給逼迫がエクソンモービルの株価見通しに影響を与える可能性を論じた解説記事。供給不足環境は石油大手の収益性向上に寄与する要因として分析されている。"
-  },
-  {
-    "title": "WTI原油価格見通し：原油は90ドルを維持、来週100ドル挑戦へ - TradingKey",
-    "timestamp": "2026-10-10T15:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油は現在90ドル付近で推移しており、来週100ドルへの挑戦が予想されている。アナリストの強気な価格見通しが示唆されているが、具体的な根拠は記事から不明。"
   },
   {
     "title": "2026年10月12日現在、金価格にはまだ上昇余地があり、売り圧力は弱まっており、投資家は米国債利回りからのさらなるシグナルを待っている。 - Vietnam.vn",
@@ -1406,5 +1307,181 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "ベトナムのニュースソースが、複数の要因によるコモディティ生産コストと商品価格への上昇圧力について報じている。エネルギー、労働力、原材料など複合的なコスト増圧が商品全般に波及している状況と推察される。"
+  },
+  {
+    "title": "金価格は本日2026年10月14日に反転したが、その魅力は依然として強い。なぜまだ金取引所が設立されていないのだろうか？ - Vietnam.vn",
+    "timestamp": "2026-10-13T14:33:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金市場に関する論評。金価格は本日反転したが、長期的な魅力は変わらず。ベトナムでの金取引所設立の遅れについて言及している。"
+  },
+  {
+    "title": "金価格予測：米金利および原油価格の下落に伴い、金価格は反発 - Moomoo",
+    "timestamp": "2026-10-13T10:10:37+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米金利低下と原油価格下落を背景に金価格の反発を予測するアナリスト見解。金利低下は金利感応度の高い金にとってポジティブ要因。既に市場で織り込まれつつある相場解説。"
+  },
+  {
+    "title": "金価格は本日急落した後、反発しました。一体何が起こっているのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-10-13T13:14:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が日中急落後に反発した。詳細な要因は記事内容から不明だが、通常のボラティリティの範囲と考えられる。市場参加者の心理的な売買圧力の緩和とみられる。"
+  },
+  {
+    "title": "トランプ氏、フーシ派が米中間選挙前に原油価格つり上げと非難 - Reuters",
+    "timestamp": "2026-10-13T18:25:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がフーシ派による原油価格操作を非難する発言。米国の政治的立場からの批判であり、市場の新規情報価値は限定的。フーシ派による紅海での船舶攻撃は既報のため。"
+  },
+  {
+    "title": "【欧州市況】ハイテク売り、株小幅安－原油価格下落受け長期債上昇 - Bloomberg.com",
+    "timestamp": "2026-10-13T17:52:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州株式市場でハイテク銘柄が売られ、株価が小幅に下落した。原油価格の下落が背景にあり、これにより長期債が上昇した。リスク資産から安全資産へのシフトが観察される。"
+  },
+  {
+    "title": "$WTI 原油先物(2611) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ $RH PetroGas (T13.SG)$ - Moomoo",
+    "timestamp": "2026-10-13T16:37:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomooプラットフォームでの原油先物銘柄の掲載記事。具体的なニュース内容・イベント情報が提供されていない単なるポートフォリオ表示。市場への直接的なインパクトは判定不可。"
+  },
+  {
+    "title": "トランプ氏、フーシ派が米中間選挙前に原油価格つり上げと非難 - ニューズウィーク日本版",
+    "timestamp": "2026-10-13T18:24:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がフーシ派による紅海での海運妨害が原油価格上昇を招いていると非難。同氏は選挙前の価格高騰を政治的に批判している。フーシ派による供給途絶リスク自体は既知の話題。"
+  },
+  {
+    "title": "【速報】NY原油先物買いに転じる、93.85ドル｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-13T15:08:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が93.85ドルで買いに転じた。タイトルのみで背景要因が明示されていない。短期的な相場の振り返り・技術的リバウンドと推定される。"
+  },
+  {
+    "title": "【速報】NY原油先物買いに転じる、93.85ドル(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-13T15:08:50+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が93.85ドルで買いに転じた。単なる短期的な値動きの報道で、市場の基調的な変化を示唆していない。速報という名目だが、材料に欠ける相場の振り返り。"
+  },
+  {
+    "title": "NY外為：ドル高値圏でもみ合い、NY原油先物は95ドルに接近 - ｄメニューニュース",
+    "timestamp": "2026-10-13T18:20:23+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が95ドル付近で推移している。ドル高が続く中での相場動向。既に公開されている値動きの観測報道。"
+  },
+  {
+    "title": "世界の原油価格が下落。 - Vietnam.vn",
+    "timestamp": "2026-10-13T14:47:22+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界的な原油価格の下落が報告されている。具体的な下落要因や数値が示されていない。ベトナムメディアによる相場観測記事と思われる。"
+  },
+  {
+    "title": "CMEコーン先物、10月9日に過去最高の1日取引量を記録 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-12T22:41:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "CMEコーン先物が10月9日に過去最高の1日取引量を記録。高いボラティリティや市場関心を示唆するが、価格方向を示す実質情報ではない。取引活発化は既存トレンドの反映と考えられる。"
+  },
+  {
+    "title": "トウモロコシ先物の価格見通し：短期的には下落リスクが優勢で、レンジ相場となる可能性 - Traders Union",
+    "timestamp": "2026-10-13T12:53:44+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物は短期的に下落リスクが優勢との見通し。レンジ相場形成の可能性が指摘されている。アナリスト予想の範囲内の観測。"
+  },
+  {
+    "title": "大豆先物価格予測：小幅下落後はレンジ相場を予想 - Traders Union",
+    "timestamp": "2026-10-13T12:29:47+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物は小幅下落後、レンジ相場を予想するアナリスト見解。具体的な下落率や価格水準は記事から不明。相場展開の観測記事として位置付けられる。"
+  },
+  {
+    "title": "経済指標上昇で銅価格が過去最高値の可能性 - BeInCrypto",
+    "timestamp": "2026-10-13T17:14:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "経済指標の上昇を背景に銅価格が過去最高値を試す可能性が指摘されている。景気回復期待が銅需要を支援する材料として認識されている。ただし既報の経済動向に基づく観測記事。"
+  },
+  {
+    "title": "銅価格、強弱入り混じるモメンタムシグナルの中で$6.6778のサポートを維持 - Traders Union",
+    "timestamp": "2026-10-13T12:19:37+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が$6.6778のサポートレベルを維持している状況が報告されている。技術的なモメンタムシグナルが強弱混在の状態にあり、相場の方向性が定まっていない状況を示唆している。"
   }
 ]
