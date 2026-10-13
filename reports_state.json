@@ -22,17 +22,6 @@
     "summary": "UBSが銅価格は史上高値付近にあり、2030年代初頭まで供給不足が続くと予測。電動自動車・再生可能エネルギー・グリーンインフラ需要の急増が需給逼迫を深刻化させる見通し。鉱山新規開発の遅れが供給制約要因として作用する可能性が高い。"
   },
   {
-    "title": "OPEC Consults Members on Saudi Call, No Decision Yet - Arab News",
-    "timestamp": "2026-10-10T12:19:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECがサウジアラビアの提案について加盟国と協議中だが、まだ決定に至っていない。減産や増産に関する具体的な政策方向は未確定の段階であり、市場への直接的なインパクトはまだ顕在化していない。今後の会合で正式決定が予定されている。"
-  },
-  {
     "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
     "timestamp": "2026-10-10T23:26:22+00:00",
     "importance": 3,
@@ -537,5 +526,192 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "フィンランド外相が米国のロシア産石油購入に対して「良い考えではない」とのコメントを表明。これはロシア制裁政策との整合性を指摘する外交的な見解であり、実際の市場取引量や価格メカニズムには直接的な影響は限定的。地政学的緊張の文脈で述べられた政治的立場の表明。"
+  },
+  {
+    "title": "USDA raises corn yield estimate, pressures grain markets - www.brownfieldagnews.com",
+    "timestamp": "2026-10-12T18:39:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA月次レポート（WASDE）でトウモロコシの単収見通しが上方修正された。供給量増加期待から穀物市場全体に下押し圧力が生じている。単収の上振れは豊作シナリオを示唆し、価格抑制要因として機能。"
+  },
+  {
+    "title": "USDA raises corn yield estimate, pressures grain markets - www.brownfieldagnews.com",
+    "timestamp": "2026-10-12T18:39:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "穀物全般",
+    "summary": "USDA月次レポート（WASDE）でトウモロコシの単収見通しが上方修正された。供給量増加期待から穀物市場全体に下押し圧力が生じている。単収の上振れは豊作シナリオを示唆し、価格抑制要因として機能。"
+  },
+  {
+    "title": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Reuters",
+    "timestamp": "2026-10-13T13:58:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアがOPEC+加盟国の中で9月の石油生産量を最大幅で増加させた。イラン周辺の地政学的緊張にもかかわらず、サウジの増産がOPEC+全体の生産量押し上げを主導。供給増加により原油価格への下押し圧力が作用する可能性がある。"
+  },
+  {
+    "title": "Decline in Russian Crude Output Slowed in September, OPEC Says - Bloomberg.com",
+    "timestamp": "2026-10-13T12:08:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが9月のロシア原油生産の減少ペースが鈍化したと報告。ロシアの制裁回避行動や迂回生産により、減産圧力が軽減される傾向を示唆。供給縮小のペースが予想より緩やかであることが確認され、OPEC全体の減産効果にも影響を与える可能性がある。"
+  },
+  {
+    "title": "OPEC crude production jumps 920,000 bpd in September - Anadolu Ajansı",
+    "timestamp": "2026-10-13T12:24:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECは9月に日量92万バレルの原油生産を増加させた。この増産は供給側からのポジティブシグナルであり、原油価格には上昇圧力をもたらす可能性がある。ただし市場予想との乖離度が不明確なため、サプライズ度は判断困難。"
+  },
+  {
+    "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
+    "timestamp": "2026-10-13T12:32:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが世界石油需要の成長見通しを再度下方修正し、同時に湾岸地域の供給リスク増大を警告。需要減速懸念が広がる一方で、ホルムズ海峡周辺の地政学的緊張が供給逼迫のリスク要因として認識されている。OPECの複数回の下方修正は需要環境の悪化を示唆。"
+  },
+  {
+    "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
+    "timestamp": "2026-10-13T12:32:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが世界石油需要の成長見通しを再度下方修正し、同時に湾岸地域の供給リスク増大を警告。需要減速懸念が広がる一方で、ホルムズ海峡周辺の地政学的緊張が供給逼迫のリスク要因として認識されている。OPECの複数回の下方修正は需要環境の悪化を示唆。"
+  },
+  {
+    "title": "OPEC raises 2027 oil demand forecast after war depletes stocks - Quartz",
+    "timestamp": "2026-10-13T13:44:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2027年の石油需要見通しを引き上げた。戦争による在庫枯渇が需要増加をサポートすると判断。ただし具体的な数値は記事から不明。中期的な需要見通し改善は原油価格の支援材料となる可能性がある。"
+  },
+  {
+    "title": "Saudi Arabia tells OPEC output has rebounded from a three-decade low - Forex Factory",
+    "timestamp": "2026-10-13T11:04:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアがOPECに対し、原油生産量が30年ぶりの低水準から回復したことを報告。生産削減政策の段階的な緩和または需要回復を示唆する発言。具体的な生産量の数値は記事から明確でないが、供給側からのポジティブなシグナルとして市場に受け取られる可能性がある。"
+  },
+  {
+    "title": "Saudis Tell OPEC That Oil Output Recovered From Three-Decade Low - Bloomberg.com",
+    "timestamp": "2026-10-13T12:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアがOPECに対し、石油産出量が30年ぶりの低水準から回復したことを報告した。供給制約の緩和シグナルであるが、既に市場で織り込まれている可能性が高い。OPEC減産政策の実行状況確認報告として位置づけられる。"
+  },
+  {
+    "title": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters",
+    "timestamp": "2026-10-13T16:17:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがイエメンの首都を空爆し、フーシ派が報復を誓った。中東の地政学的緊張が急速に高まり、ホルムズ海峡周辺での石油供給途絶リスクが顕在化。リスク回避姿勢から安全資産である金も上昇圧力を受ける可能性が高い。"
+  },
+  {
+    "title": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters",
+    "timestamp": "2026-10-13T16:17:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "サウジアラビアがイエメンの首都を空爆し、フーシ派が報復を誓った。中東の地政学的緊張が急速に高まり、ホルムズ海峡周辺での石油供給途絶リスクが顕在化。リスク回避姿勢から安全資産である金も上昇圧力を受ける可能性が高い。"
+  },
+  {
+    "title": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters",
+    "timestamp": "2026-10-13T16:17:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアがイエメンの首都を空爆し、フーシ派が報復を誓った。中東の地政学的緊張が急速に高まり、ホルムズ海峡周辺での石油供給途絶リスクが顕在化。リスク回避姿勢から安全資産である金も上昇圧力を受ける可能性が高い。"
+  },
+  {
+    "title": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October - Reuters",
+    "timestamp": "2026-10-13T11:35:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "10月上旬、ロシア産ウラル原油のインド向け海上輸送料が過去最高水準に達した。これはスエズ運河迂回ルートの利用増加とタンカー逼迫を反映している。ウクライナ紛争の長期化に伴い、西側制裁回避ルートの運送費が構造的に上昇している。"
+  },
+  {
+    "title": "Russia Ships Less Crude on Slowdown in Black Sea Loadings - Bloomberg.com",
+    "timestamp": "2026-10-13T14:19:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが黒海からの原油積み出しペースを鈍化させている。西側制裁とウクライナ情勢の継続により、黒海航路のローディング活動が減速。ロシアの原油輸出能力が段階的に制約される傾向が続いており、供給逼迫の一部相殺要因となっている。"
+  },
+  {
+    "title": "Treasuries Gain on Haven Demand as Trading Resumes After Holiday - Bloomberg.com",
+    "timestamp": "2026-10-13T14:37:49+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国の取引再開に伴い、安全資産としての需要がトレジャリーズ（米国債）を押し上げた。リスク回避姿勢の高まりはドル強化につながり、ドル建てコモディティ（特に金）には下押し圧力が作用する傾向。ホリデー明けの流動性回復局面での典型的なリスクオフムーブ。"
+  },
+  {
+    "title": "Treasuries Gain on Haven Demand as Trading Resumes After Holiday - Bloomberg.com",
+    "timestamp": "2026-10-13T14:37:49+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国の取引再開に伴い、安全資産としての需要がトレジャリーズ（米国債）を押し上げた。リスク回避姿勢の高まりはドル強化につながり、ドル建てコモディティ（特に金）には下押し圧力が作用する傾向。ホリデー明けの流動性回復局面での典型的なリスクオフムーブ。"
   }
 ]
