@@ -1,49 +1,5 @@
 [
   {
-    "title": "高騰する銅価格、市場の「ゆがみ」に要注意 - 上毛新聞電子版",
-    "timestamp": "2026-10-10T20:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が高騰しているが、市場に「ゆがみ」が生じている可能性が指摘されている。投資家は市場構造の歪みに注意が必要な状況。"
-  },
-  {
-    "title": "インフレに負けない？金相場はなぜ上がるのか - 毎日新聞",
-    "timestamp": "2026-10-10T21:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金がインフレに対する価値保全手段として機能し、相場上昇が続いている。金は名目資産価値の上昇でインフレに対抗できる特性が市場で認識されている。実質金利低下や地政学リスク、中央銀行の金買い継続が上昇要因として指摘されている。"
-  },
-  {
-    "title": "本日（10月11日）の金価格：高値で週を終える見込み。 - Vietnam.vn",
-    "timestamp": "2026-10-10T22:43:01+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月11日の金価格が高値で週を終える見込みとの報道。需給タイトやドル軟化などの既知の支援材料が継続。特段の新規材料は記載されていない。"
-  },
-  {
-    "title": "10月11日朝の金価格更新:金価格の上昇余地 - Laodong.vn",
-    "timestamp": "2026-10-10T23:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格ニュースソースによる朝時点の金価格更新記事。金価格に上昇余地があるとの見方を示唆。具体的な市場イベントや指標発表には言及されていない。"
-  },
-  {
     "title": "金相場価格デイリーコメント週間まとめ（10/5〜10/9）｜水野崇 - JIJICO",
     "timestamp": "2026-10-11T02:02:53+00:00",
     "importance": 2,
@@ -130,17 +86,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "10月11日時点の金価格についての市場解説記事。市場参加者が新たなシグナルを待つ状況を報じている。具体的な価格データや重大な新展開は記事概要からは不明。"
-  },
-  {
-    "title": "本日の燃料価格（10月11日）：世界の原油価格は変動の激しい1週間となりました。 - Vietnam.vn",
-    "timestamp": "2026-10-10T22:59:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月11日の燃料価格レポート。世界の原油価格が過去1週間で変動が激しかったことを報じている。具体的な価格水準や変動要因の詳細は不明。"
   },
   {
     "title": "銅価格が歴史的高値に接近 UBS：供給不足は2030年代初頭まで継続 - BigGo ファイナンス",
@@ -1483,5 +1428,148 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が$6.6778のサポートレベルを維持している状況が報告されている。技術的なモメンタムシグナルが強弱混在の状態にあり、相場の方向性が定まっていない状況を示唆している。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落して4160ドル｜原油価格の上昇によるインフレ懸念が影響した模様(2026年10月14日) - OANDA証券",
+    "timestamp": "2026-10-13T23:06:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4160ドルまで下落。原油価格上昇によるインフレ懸念が材料となった。アナリストの市況解説・振り返りのみ。"
+  },
+  {
+    "title": "NY金先物は小幅続落、米CPI発表を控えたもみ合いで方向感を欠く｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-13T22:40:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が小幅続落している。米CPI発表を控えた様子見相場で、市場参加者が方向性を定めかねている状況。金価格は重要指標発表待ちで膠着状態。"
+  },
+  {
+    "title": "本日10月14日の金価格：米国のインフレデータとFRBからのシグナルを市場が待ち望む中、下落。 - Vietnam.vn",
+    "timestamp": "2026-10-13T22:59:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月14日の金価格が下落。米国インフレデータとFRBの政策シグナルを市場が待機中。金利上昇予想や強いドルが金相場の重しになっている可能性がある。"
+  },
+  {
+    "title": "原油先物まちまち、米ロの軽油合意巡る期待と中東情勢懸念が交錯 - Reuters",
+    "timestamp": "2026-10-13T20:42:10+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米ロ軽油合意への期待感と中東情勢懸念が相互に作用し、原油先物は方向性を欠いている。供給面での好材料と地政学的リスク要因が拮抗。"
+  },
+  {
+    "title": "続落、原油相場の浮上で買い続かず２ケタ安＝NY金概況 - みんかぶ FX/為替",
+    "timestamp": "2026-10-13T21:24:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY金が続落し2ケタ安となった。原油相場の上昇が金の買いを支えられず、弱気相場が継続。金と原油の連動性の低下を示唆。"
+  },
+  {
+    "title": "【欧州市況】ハイテク売り、株小幅安－原油価格下落受け長期債上昇 - TBS NEWS DIG",
+    "timestamp": "2026-10-13T17:52:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州株式市場がハイテク売却で小幅安となり、原油価格の下落を受けて長期債が上昇した。リスク回避姿勢が広がっている。"
+  },
+  {
+    "title": "原油先物まちまち、米ロの軽油合意巡る期待と中東情勢懸念が交錯 - ニューズウィーク日本版",
+    "timestamp": "2026-10-13T20:41:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米ロの軽油合意への期待が原油価格の上昇要因となる一方で、中東情勢の不透明性が下落圧力となっており、市場で相反する材料が交錯している状況。先物は方向感に欠け、複数要因がバランスしている。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：サウジアラビアとフーシ派の戦闘激化が影響し、原油価格は4営業日続伸（2026年10月14日） - OANDA証券",
+    "timestamp": "2026-10-13T23:17:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアとフーシ派の戦闘激化を背景にWTI原油が4営業日続伸。中東地政学リスクによる供給懸念が支援材料となっている。既報の紛争状況に基づく相場解説記事。"
+  },
+  {
+    "title": "原油先物まちまち、米ロの軽油合意巡る期待と中東情勢懸念が交錯 - ｄメニューニュース",
+    "timestamp": "2026-10-13T20:41:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米ロの軽油合意への期待と中東情勢への懸念が市場で拮抗している。先物は方向感が定まらずまちまちな動き。上下圧力が相殺され、明確なトレンドが形成されていない状態。"
+  },
+  {
+    "title": "農務省統計に翻弄されるトウモロコシ相場 一進一退の需給観測 - 日本経済新聞",
+    "timestamp": "2026-10-13T20:00:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "米農務省統計の発表に基づくトウモロコシ相場の変動を解説。需給見通しが一進一退で、統計データが相場を翻弄している状況を分析。"
+  },
+  {
+    "title": "静岡の田畑で銅線など金属盗難多発 銅価格高騰が背景に修繕費重荷 法律施行と対策技術で被害防止（日本農業新聞） - Yahoo!ニュース",
+    "timestamp": "2026-10-13T23:12:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格高騰により静岡の農地から銅線盗難が多発。需給タイトさを反映したスクラップ需要の増加を示唆。法的対策と技術による被害防止が進行中。"
+  },
+  {
+    "title": "１３日の主要国際商品市況 - 株探",
+    "timestamp": "2026-10-13T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "13日の主要国際商品市況を報じた記事。具体的な商品別の価格変動や市場環境についての詳細が不明。定期的な市場動向レビュー記事と考えられる。"
+  },
+  {
+    "title": "米コモディティー市場－原油、天然ガスが上昇 ガソリン、金、銀、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-13T22:26:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で原油と天然ガスが上昇した一方、ガソリン、金、銀、銅、穀物が下落。複数商品が異なる方向に動く混合相場を呈している。"
   }
 ]
