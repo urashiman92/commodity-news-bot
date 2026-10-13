@@ -713,5 +713,192 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国の取引再開に伴い、安全資産としての需要がトレジャリーズ（米国債）を押し上げた。リスク回避姿勢の高まりはドル強化につながり、ドル建てコモディティ（特に金）には下押し圧力が作用する傾向。ホリデー明けの流動性回復局面での典型的なリスクオフムーブ。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-13T22:48:07.810526+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗と作況状況を集計した統計発表。具体的な数値データが提示されていないため、予想比判定は困難。定例の進捗レポートとして市場監視対象。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-13T22:48:07.810526+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗と作況状況を集計した統計発表。具体的な数値データが提示されていないため、予想比判定は困難。定例の進捗レポートとして市場監視対象。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-13T22:48:07.810526+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗と作況状況を集計した統計発表。具体的な数値データが提示されていないため、予想比判定は困難。定例の進捗レポートとして市場監視対象。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-13T22:48:07.810526+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗と作況状況を集計した統計発表。具体的な数値データが提示されていないため、予想比判定は困難。定例の進捗レポートとして市場監視対象。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+    "timestamp": "2026-10-13T18:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "金",
+    "summary": "FRB公開市場委員会の2026年8月～9月の割引率会議議事録。金利据置方針が議論されたと推定される。コモディティ市場への直接的なサプライズ要因は明示されておらず、既報の金融政策スタンスの確認に該当。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+    "timestamp": "2026-10-13T18:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "コモディティ全般",
+    "summary": "FRB公開市場委員会の2026年8月～9月の割引率会議議事録。金利据置方針が議論されたと推定される。コモディティ市場への直接的なサプライズ要因は明示されておらず、既報の金融政策スタンスの確認に該当。"
+  },
+  {
+    "title": "USDA Raises Corn Yield Forecast as Farmers Navigate Uneven Harvest Conditions - RFD-TV",
+    "timestamp": "2026-10-13T18:18:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが8月のWASDE月間予報でトウモロコシの単収見通しを引き上げた。収穫条件が不均一である中での単収予想の上方修正は、全体的な供給量増加を示唆している。これにより米国産トウモロコシの豊作シナリオが強まり、価格下押し圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "Surprising USDA Reports on Oct. 9 - Morning Ag Clips",
+    "timestamp": "2026-10-13T05:31:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "10月9日のUSDA公式発表（Crop Progress/Production報告）は市場予想に対して「Surprising」な内容を含んでいた。具体的な数値は記事タイトルのみからは不明だが、トウモロコシ・大豆・小麦の作付進捗または生産予測に市場想定を上回る変化があった可能性が高い。穀物市場の需給見通しに対する重要な修正シグナルと解釈される。"
+  },
+  {
+    "title": "Surprising USDA Reports on Oct. 9 - Morning Ag Clips",
+    "timestamp": "2026-10-13T05:31:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "10月9日のUSDA公式発表（Crop Progress/Production報告）は市場予想に対して「Surprising」な内容を含んでいた。具体的な数値は記事タイトルのみからは不明だが、トウモロコシ・大豆・小麦の作付進捗または生産予測に市場想定を上回る変化があった可能性が高い。穀物市場の需給見通しに対する重要な修正シグナルと解釈される。"
+  },
+  {
+    "title": "Surprising USDA Reports on Oct. 9 - Morning Ag Clips",
+    "timestamp": "2026-10-13T05:31:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "10月9日のUSDA公式発表（Crop Progress/Production報告）は市場予想に対して「Surprising」な内容を含んでいた。具体的な数値は記事タイトルのみからは不明だが、トウモロコシ・大豆・小麦の作付進捗または生産予測に市場想定を上回る変化があった可能性が高い。穀物市場の需給見通しに対する重要な修正シグナルと解釈される。"
+  },
+  {
+    "title": "Surprising USDA Reports on Oct. 9 - Morning Ag Clips",
+    "timestamp": "2026-10-13T05:31:34+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "10月9日のUSDA公式発表（Crop Progress/Production報告）は市場予想に対して「Surprising」な内容を含んでいた。具体的な数値は記事タイトルのみからは不明だが、トウモロコシ・大豆・小麦の作付進捗または生産予測に市場想定を上回る変化があった可能性が高い。穀物市場の需給見通しに対する重要な修正シグナルと解釈される。"
+  },
+  {
+    "title": "OPEC cuts oil demand projections for remainder of 2026 - Yahoo Finance",
+    "timestamp": "2026-10-13T19:04:41+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年残期間の石油需要見通しを引き下げた。世界経済の成長鈍化やEV普及加速などを背景に、従来予想から需要が下方修正されている。この需要減少予想は原油相場への弱気材料となり、価格下落圧力が強まる可能性がある。"
+  },
+  {
+    "title": "Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low - Rigzone",
+    "timestamp": "2026-10-13T21:16:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアがOPECに対し、同国の石油産出量が30年ぶりの低水準から回復したと報告。供給制約からの脱却を示唆するシグナルであり、OPEC減産政策の緩和可能性を示唆。ただし具体的な産出数字は未公開。"
+  },
+  {
+    "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
+    "timestamp": "2026-10-11T22:02:01+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECからの離脱を検討しているとの報道に対し、アナリストRussell氏は原油価格への実質的な影響は限定的である可能性を指摘。UAEの実際の増産能力や市場での実行力を考慮すると、既に市場が織り込んでいる可能性が高い。"
+  },
+  {
+    "title": "Trump defends Russia diesel deal as lawmakers from both parties complain - Reuters",
+    "timestamp": "2026-10-12T15:27:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がロシアのディーゼル取引を擁護する発言を行い、両党の議員から批判が相次いでいる。この発言は米国のロシア制裁政策に対する姿勢の不確実性を示唆し、エネルギー市場における地政学的リスク要因となる可能性がある。ロシア産エネルギー制裁の緩和・継続の予測が複雑化する場合、原油価格の変動性が高まる。"
+  },
+  {
+    "title": "Trump defends Russia diesel deal as lawmakers from both parties complain - Reuters",
+    "timestamp": "2026-10-12T15:27:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領がロシアのディーゼル取引を擁護する発言を行い、両党の議員から批判が相次いでいる。この発言は米国のロシア制裁政策に対する姿勢の不確実性を示唆し、エネルギー市場における地政学的リスク要因となる可能性がある。ロシア産エネルギー制裁の緩和・継続の予測が複雑化する場合、原油価格の変動性が高まる。"
+  },
+  {
+    "title": "Saudi-Owned Refinery Was Buyer of Oil on Cyberattacked Tanker - Bloomberg.com",
+    "timestamp": "2026-10-13T18:17:57+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビア傘下の製油所がサイバー攻撃を受けたタンカーの石油を購入していたことが判明。同事案は供給チェーンのセキュリティリスクを顕在化させ、石油輸送インフラへの脅威が原油市場に材料視される。地政学的リスク要因として原油価格の上昇圧力となる可能性。"
   }
 ]
