@@ -1,27 +1,5 @@
 [
   {
-    "title": "Copper Prices Near Record Highs; UBS Says Supply Deficit to Persist Into Early 2030s - BigGo Finance",
-    "timestamp": "2026-10-11T02:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "UBSが銅価格は史上高値付近にあり、2030年代初頭まで供給不足が続くと予測。電動自動車・再生可能エネルギー・グリーンインフラ需要の急増が需給逼迫を深刻化させる見通し。鉱山新規開発の遅れが供給制約要因として作用する可能性が高い。"
-  },
-  {
-    "title": "Copper Prices Near Record Highs; UBS Says Supply Deficit to Persist Into Early 2030s - BigGo Finance",
-    "timestamp": "2026-10-11T02:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "UBSが銅価格は史上高値付近にあり、2030年代初頭まで供給不足が続くと予測。電動自動車・再生可能エネルギー・グリーンインフラ需要の急増が需給逼迫を深刻化させる見通し。鉱山新規開発の遅れが供給制約要因として作用する可能性が高い。"
-  },
-  {
     "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
     "timestamp": "2026-10-11T17:21:10+00:00",
     "importance": 4,
@@ -867,5 +845,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "オクシデンタル・ペトロリアムの原油価格が供給懸念を背景に上昇した。記事からは具体的な価格上昇幅や供給ショックの詳細が不明だが、供給面での問題がマーケットの注目を集めている。原油市場全体への波及効果が予想される。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 33% Harvested, Soybeans 46% Harvested as of Oct. 11 - DTN Progressive Farmer",
+    "timestamp": "2026-10-13T08:46:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA公式の10月11日時点での作物進捗レポート。トウモロコシの収穫が33%、大豆が46%完了と報告された。収穫ペースが例年並みもしくはやや遅れ気味で、豊作予想が市場に織り込まれている中での通常進捗報告。供給量の増加圧力が継続。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 33% Harvested, Soybeans 46% Harvested as of Oct. 11 - DTN Progressive Farmer",
+    "timestamp": "2026-10-13T08:46:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA公式の10月11日時点での作物進捗レポート。トウモロコシの収穫が33%、大豆が46%完了と報告された。収穫ペースが例年並みもしくはやや遅れ気味で、豊作予想が市場に織り込まれている中での通常進捗報告。供給量の増加圧力が継続。"
+  },
+  {
+    "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
+    "timestamp": "2026-10-14T01:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中国の生産者物価指数（PPI）が商品コスト上昇により加速している一方、消費者物価指数（CPI）は予想を下回る伸びにとどまる。これはスタグフレーション懸念を示唆し、上流コモディティ（原油・金属）には支持的だが、下流需要の弱さから最終的な価格転嫁が限定的となる可能性を示唆している。"
+  },
+  {
+    "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
+    "timestamp": "2026-10-14T01:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国の生産者物価指数（PPI）が商品コスト上昇により加速している一方、消費者物価指数（CPI）は予想を下回る伸びにとどまる。これはスタグフレーション懸念を示唆し、上流コモディティ（原油・金属）には支持的だが、下流需要の弱さから最終的な価格転嫁が限定的となる可能性を示唆している。"
+  },
+  {
+    "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
+    "timestamp": "2026-10-14T01:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "銅",
+    "summary": "中国の生産者物価指数（PPI）が商品コスト上昇により加速している一方、消費者物価指数（CPI）は予想を下回る伸びにとどまる。これはスタグフレーション懸念を示唆し、上流コモディティ（原油・金属）には支持的だが、下流需要の弱さから最終的な価格転嫁が限定的となる可能性を示唆している。"
+  },
+  {
+    "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
+    "timestamp": "2026-10-14T01:42:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "小麦",
+    "summary": "中国の生産者物価指数（PPI）が商品コスト上昇により加速している一方、消費者物価指数（CPI）は予想を下回る伸びにとどまる。これはスタグフレーション懸念を示唆し、上流コモディティ（原油・金属）には支持的だが、下流需要の弱さから最終的な価格転嫁が限定的となる可能性を示唆している。"
+  },
+  {
+    "title": "China Refiners to Refill Oil Stocks From November, Eurasia Says - Bloomberg.com",
+    "timestamp": "2026-10-14T01:45:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中国の製油所が11月から戦略備蓄（国家石油備蓄）の補充を開始するとEurasia Groupが指摘。中国の石油需要が季節的に回復する時期における政府主導の買い増しは、原油市場における需要側からの支援要因となる可能性がある。"
   }
 ]
