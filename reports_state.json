@@ -922,5 +922,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中国の製油所が11月から戦略備蓄（国家石油備蓄）の補充を開始するとEurasia Groupが指摘。中国の石油需要が季節的に回復する時期における政府主導の買い増しは、原油市場における需要側からの支援要因となる可能性がある。"
+  },
+  {
+    "title": "U.S. makes modest changes to U.S. corn, wheat ending stocks - Brownfield Ag News",
+    "timestamp": "2026-10-13T16:52:46+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農務省がトウモロコシと小麦の期末在庫予測を小幅修正した。修正幅は限定的で、市場予想の範囲内の調整。供給不足の懸念が即座に生じるほどの変化ではなく、通常の季節統計更新の域。"
+  },
+  {
+    "title": "U.S. makes modest changes to U.S. corn, wheat ending stocks - Brownfield Ag News",
+    "timestamp": "2026-10-13T16:52:46+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国農務省がトウモロコシと小麦の期末在庫予測を小幅修正した。修正幅は限定的で、市場予想の範囲内の調整。供給不足の懸念が即座に生じるほどの変化ではなく、通常の季節統計更新の域。"
+  },
+  {
+    "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
+    "timestamp": "2026-10-14T12:20:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンの反政府勢力フーシ派がサウジアラビアのアラムコ本社への攻撃を実行し、さらなる空港・石油施設への攻撃を予告。中東の主要石油生産国への直接的な軍事脅威が現実化し、供給リスク懸念が急速に高まった。"
+  },
+  {
+    "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
+    "timestamp": "2026-10-14T12:20:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イエメンの反政府勢力フーシ派がサウジアラビアのアラムコ本社への攻撃を実行し、さらなる空港・石油施設への攻撃を予告。中東の主要石油生産国への直接的な軍事脅威が現実化し、供給リスク懸念が急速に高まった。"
+  },
+  {
+    "title": "Saudi Aramco headquarters attacked, limited fire reported - Reuters",
+    "timestamp": "2026-10-13T13:12:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの石油大手サウジアラムコの本社が攻撃を受け、限定的な火災が報告された。同社はOPEC最大級の産油国であり、供給途絶リスクが市場を刺激。地政学的緊張が高まる中での施設攻撃は原油価格の上昇圧力となる。"
+  },
+  {
+    "title": "Saudi Aramco headquarters attacked, limited fire reported - Reuters",
+    "timestamp": "2026-10-13T13:12:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアの石油大手サウジアラムコの本社が攻撃を受け、限定的な火災が報告された。同社はOPEC最大級の産油国であり、供給途絶リスクが市場を刺激。地政学的緊張が高まる中での施設攻撃は原油価格の上昇圧力となる。"
+  },
+  {
+    "title": "Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say - Reuters",
+    "timestamp": "2026-10-14T11:43:12+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの国営石油企業サウジアラムコの本社がフーシ派の攻撃により広範な被害を受けた。同社は中東最大の石油生産施設を運営しており、本社機能の損害は供給リスク懸念を急速に高める。中東情勢の不安定化により、原油市場全体に上昇圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say - Reuters",
+    "timestamp": "2026-10-14T11:43:12+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアの国営石油企業サウジアラムコの本社がフーシ派の攻撃により広範な被害を受けた。同社は中東最大の石油生産施設を運営しており、本社機能の損害は供給リスク懸念を急速に高める。中東情勢の不安定化により、原油市場全体に上昇圧力が生じる可能性が高い。"
   }
 ]
