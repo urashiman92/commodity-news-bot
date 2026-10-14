@@ -22,17 +22,6 @@
     "summary": "UBSが銅価格は史上高値付近にあり、2030年代初頭まで供給不足が続くと予測。電動自動車・再生可能エネルギー・グリーンインフラ需要の急増が需給逼迫を深刻化させる見通し。鉱山新規開発の遅れが供給制約要因として作用する可能性が高い。"
   },
   {
-    "title": "OPEC+ Approves Further Oil Output Increase as Hormuz Exports Start to Recover - EnergyNow.com",
-    "timestamp": "2026-10-10T23:26:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が追加的な石油減産緩和（増産）を承認した。ホルムズ海峡経由の輸出が回復傾向を見せており、市場の供給懸念が部分的に緩和される見通し。既に報道されていた政策方針の延長であり、市場予想の範囲内の決定。"
-  },
-  {
     "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
     "timestamp": "2026-10-11T17:21:10+00:00",
     "importance": 4,
@@ -220,17 +209,6 @@
     "summary": "OPEC+は10月の原油生産政策を据え置くことを決定した。前月の方針を継続することで、市場に対する政策の一貫性を示している。既に周知の政策継続であり、市場予想の範囲内の決定。"
   },
   {
-    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-11T00:01:18+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECはペルシャ湾地域の紛争後における市場シェア競争で劣位に立つ可能性が高いとの分析。湾岸産油国がOPEC外での増産やシェール競争に対応する中、OPECの市場支配力が相対的に低下する見通し。既存の減産合意効果の限界を示唆している。"
-  },
-  {
     "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity - Bloomberg.com",
     "timestamp": "2026-10-12T09:13:03+00:00",
     "importance": 3,
@@ -295,28 +273,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "LME亜鉛地金在庫が顕著に増加し、強気筋（ブル）がポジションを削減している。在庫増加は供給過剰圧力を示唆し、投機筋の買いが後退しているため、価格の下押し圧力が強まっている。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-10T23:49:36+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから脱退を表明し、カルテルの結束力が大きく損なわれる事態となった。これにより減産協調の維持が困難になり、価格戦争のリスクが急速に高まっている。OPECの影響力低下は原油相場の下押し圧力となる可能性が高い。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-10T23:49:36+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECから脱退を表明し、カルテルの結束力が大きく損なわれる事態となった。これにより減産協調の維持が困難になり、価格戦争のリスクが急速に高まっている。OPECの影響力低下は原油相場の下押し圧力となる可能性が高い。"
   },
   {
     "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks - Reuters",
@@ -504,17 +460,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が原油増産を発表する一方で、実際の増産能力と市場需要の問題を指摘するコメンタリー。増産発表は供給増加を示唆して価格下落圧力となるが、実行可能性と買い手確保の課題が存在することから、実現性には疑問符が付く。市場は発表内容の現実性を見極める段階。"
-  },
-  {
-    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
-    "timestamp": "2026-10-10T23:53:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がホルムズ海峡再開時に石油生産を増加させることで合意した。同海峡は中東原油輸出の重要な拠点であり、通行障害は供給懸念を生じさせていた。生産増加の合意は市場の供給逼迫懸念を緩和し、原油価格の下押し要因となる可能性がある一方、再開時期の不確実性は価格変動要因として残存する。"
   },
   {
     "title": "Finnish Foreign Minister says US oil purchases from Russia 'not a good idea' - Reuters",
@@ -900,5 +845,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビア傘下の製油所がサイバー攻撃を受けたタンカーの石油を購入していたことが判明。同事案は供給チェーンのセキュリティリスクを顕在化させ、石油輸送インフラへの脅威が原油市場に材料視される。地政学的リスク要因として原油価格の上昇圧力となる可能性。"
+  },
+  {
+    "title": "OPEC September Oil Output Jumps As Saudi Arabia Ramps Up Production - RTTNews",
+    "timestamp": "2026-10-13T22:03:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが9月の原油生産量の増加を報告し、サウジアラビアが増産を加速させた。供給増加は市場の需給均衡懸念を強め、原油価格への下押し圧力となる。OPEC減産政策からの転換シグナルとして注視される。"
+  },
+  {
+    "title": "Occidental oil prices jump as supply concerns lift crude - Reuters",
+    "timestamp": "2026-10-13T12:01:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "オクシデンタル・ペトロリアムの原油価格が供給懸念を背景に上昇した。記事からは具体的な価格上昇幅や供給ショックの詳細が不明だが、供給面での問題がマーケットの注目を集めている。原油市場全体への波及効果が予想される。"
   }
 ]
