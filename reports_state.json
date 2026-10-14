@@ -1,49 +1,5 @@
 [
   {
-    "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
-    "timestamp": "2026-10-11T17:21:10+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がウクライナとロシア間のエネルギー停戦を発表し、ゼレンスキー大統領も驚いた。この地政学的進展は、ウクライナのエネルギーインフラへの攻撃停止とロシアのエネルギー供給再開の可能性を示唆しており、欧州のエネルギー危機緩和と原油・ガス価格への下落圧力が生じる可能性がある。"
-  },
-  {
-    "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
-    "timestamp": "2026-10-11T17:21:10+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ前大統領がウクライナとロシア間のエネルギー停戦を発表し、ゼレンスキー大統領も驚いた。この地政学的進展は、ウクライナのエネルギーインフラへの攻撃停止とロシアのエネルギー供給再開の可能性を示唆しており、欧州のエネルギー危機緩和と原油・ガス価格への下落圧力が生じる可能性がある。"
-  },
-  {
-    "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
-    "timestamp": "2026-10-11T18:23:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がウクライナへの武器供給をロシア製油所への攻撃を理由に制限する可能性を示唆。これはウクライナによるロシア石油インフラへの攻撃継続への圧力となり、ロシア産油能力への不確実性が高まる。地政学リスクの急激な変化により原油供給逼迫懸念が再燃し、原油価格上昇圧力が生じる可能性が高い。"
-  },
-  {
-    "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
-    "timestamp": "2026-10-11T18:23:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国がウクライナへの武器供給をロシア製油所への攻撃を理由に制限する可能性を示唆。これはウクライナによるロシア石油インフラへの攻撃継続への圧力となり、ロシア産油能力への不確実性が高まる。地政学リスクの急激な変化により原油供給逼迫懸念が再燃し、原油価格上昇圧力が生じる可能性が高い。"
-  },
-  {
     "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Reuters",
     "timestamp": "2026-10-11T23:26:00+00:00",
     "importance": 3,
@@ -53,17 +9,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシア・ウクライナ間のエネルギー部門における停戦の可能性が報じられたことで、原油価格が下落した。戦争長期化による供給不安の緩和が見込まれ、市場は需給逼迫の懸念が後退するとの見方を示した。ただし合意内容の詳細や実現可能性については依然不透明である。"
-  },
-  {
-    "title": "US Republicans, Democrats want Trump to reverse course on Russia diesel - Reuters",
-    "timestamp": "2026-10-11T15:58:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の共和党・民主党議員がトランプ大統領に対し、ロシア産ディーゼル油への制裁政策の撤回を求めている。両党の超党派的な要求は、ロシア産石油製品の米国市場への流入制限を緩和する可能性を示唆。これは原油供給の緊張緩和要因となる可能性がある。"
   },
   {
     "title": "Oil Rises as Saudi Airport and Tanker Attacks Stoke Supply Fears - Bloomberg.com",
@@ -1010,5 +955,115 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラビアの国営石油企業サウジアラムコの本社がフーシ派の攻撃により広範な被害を受けた。同社は中東最大の石油生産施設を運営しており、本社機能の損害は供給リスク懸念を急速に高める。中東情勢の不安定化により、原油市場全体に上昇圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+    "timestamp": "2026-10-14T13:36:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "LiteFinanceによる原油価格予測レポート。本日から30日先までの価格見通しを提供するコンテンツだが、具体的な予測値や根拠となるデータが提示されていない。EIA統計を参照していると考えられるが、詳細な分析材料が不足している。"
+  },
+  {
+    "title": "US Commercial Crude Stocks hit 8-Yr Low, Gasoline Demand Rises Ahead of Holiday Weekend - EnergyNow.com",
+    "timestamp": "2026-10-12T13:45:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国商業用原油在庫が8年ぶりの低水準に低下し、ホリデーシーズン前のガソリン需要が上昇している。供給の逼迫と需要増加の組み合わせは、原油価格の上昇圧力となる。在庫減少は需給バランスの大きな変化を示唆している。"
+  },
+  {
+    "title": "Trump Tariff Threat Triggered US Copper Stockpile Surge, Now Fading - Global Banking & Finance Review",
+    "timestamp": "2026-10-14T11:27:05+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "トランプ関税脅威により米国の銅備蓄が一時的に急増したが、現在そのサージが減衰している段階にあることを報告。関税不確実性による駆け込み需要が弱まり、備蓄積み増し圧力が緩和される見通し。市場心理の転換点を示唆する内容"
+  },
+  {
+    "title": "Trump Tariff Threat Triggered US Copper Stockpile Surge, Now Fading - Global Banking & Finance Review",
+    "timestamp": "2026-10-14T11:27:05+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ関税脅威により米国の銅備蓄が一時的に急増したが、現在そのサージが減衰している段階にあることを報告。関税不確実性による駆け込み需要が弱まり、備蓄積み増し圧力が緩和される見通し。市場心理の転換点を示唆する内容"
+  },
+  {
+    "title": "Column: Aluminium’s calm belies lingering supply-chain stress - Mining.com.au",
+    "timestamp": "2026-10-14T11:57:14+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "アルミニウム市場は表面上は落ち着いているものの、サプライチェーンの潜在的なストレスが依然として存在することを指摘するコラム。供給側の構造的課題が完全には解決していないことが示唆される。価格への即座の影響は限定的だが、中期的なボラティリティリスクに留意が必要。"
+  },
+  {
+    "title": "Column: Aluminium’s calm belies lingering supply-chain stress - Mining.com.au",
+    "timestamp": "2026-10-14T11:57:14+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "アルミニウム市場は表面上は落ち着いているものの、サプライチェーンの潜在的なストレスが依然として存在することを指摘するコラム。供給側の構造的課題が完全には解決していないことが示唆される。価格への即座の影響は限定的だが、中期的なボラティリティリスクに留意が必要。"
+  },
+  {
+    "title": "Gulf oil production rebounds ahead of increase in Iran war hostilities - Financial Times",
+    "timestamp": "2026-10-13T12:53:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "湾岸地域の石油生産が回復傾向を見せる一方で、イラン関連の戦闘激化の懸念が急速に高まっている。地政学的緊張の急速な悪化は、中東最大の産油地域における供給途絶リスクを大幅に引き上げており、原油価格の上昇圧力が強まる見通し。"
+  },
+  {
+    "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
+    "timestamp": "2026-10-14T15:09:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派がサウジアラムコ本社への攻撃成功後、サウジアラビアの空港と石油施設への追加攻撃を予告。中東の主要産油国の重要インフラが脅威にさらされており、供給ショックのリスクが顕在化。地政学的緊張の急速な高まりが価格上昇圧力になる。"
+  },
+  {
+    "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
+    "timestamp": "2026-10-14T15:09:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "イエメンのフーシ派がサウジアラムコ本社への攻撃成功後、サウジアラビアの空港と石油施設への追加攻撃を予告。中東の主要産油国の重要インフラが脅威にさらされており、供給ショックのリスクが顕在化。地政学的緊張の急速な高まりが価格上昇圧力になる。"
+  },
+  {
+    "title": "UAE Oil Production Surged to Records in September, IEA Says - Bloomberg.com",
+    "timestamp": "2026-10-14T15:27:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "IEAによると、UAEの9月石油生産が過去最高を記録した。一方、OPECプラスの減産枠拡大や世界的な需要懸念を背景に、供給増加は価格押し下げ圧力となる。地政学リスク減少と過剰供給シナリオが市場心理を重くする。"
   }
 ]
