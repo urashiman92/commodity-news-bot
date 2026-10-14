@@ -1,38 +1,5 @@
 [
   {
-    "title": "今日の金価格（10月12日）：変動の激しい新たな一週間が始まります。 - Vietnam.vn",
-    "timestamp": "2026-10-11T21:46:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月12日の金価格について、新しい一週間の変動が激しくなると予想されている。具体的な価格情報や材料は記事要約に記載されていない。市場心理の事前予告的なコメンタリー。"
-  },
-  {
-    "title": "金価格更新、2026年10月12日午前：SJC、プレーン9999 DOJI BTMC Phu Quyリング。 - Vietnam.vn",
-    "timestamp": "2026-10-11T21:56:36+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC、プレーン9999）の日次更新情報。ベトナム国内市場における金相場の定期的な価格報告。具体的な価格水準や変動幅の情報は記事から確認できない。"
-  },
-  {
-    "title": "原油価格なぜ高止まり JPモルガンが解説 - BeInCrypto",
-    "timestamp": "2026-10-11T19:04:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "JPモルガンが現在の原油高止まりについて解説。具体的な要因や見通しは記事概要から不明確。既報事象の分析・コメンタリー。"
-  },
-  {
     "title": "金価格、約4,200ドルに小幅上昇――エネルギー停戦と中東リスクを注視 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-10-12T01:17:00+00:00",
     "importance": 2,
@@ -1791,5 +1758,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅鉱山でのストライキ脅威と操業混乱が供給リスク要因として認識されている。銅価格はレジスタンス水準での保ち合い局面。既報のストライキ懸念の継続報道。"
+  },
+  {
+    "title": "NY金先物相場、下げ止まり 4123ドル台で推移 - TradingView",
+    "timestamp": "2026-10-14T13:57:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が4123ドル台で下げ止まり。相場の技術的な安定化を示す動きだが、具体的な材料や方向性は不明。短期的なポジション調整局面と見られる。"
+  },
+  {
+    "title": "NY市場動向（午後2時台）：ダウ249ドル安、原油先物1.50ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-14T18:33:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY午後取引で原油先物が1.50ドル上昇。同時期にダウ平均は249ドル安で推移。個別の上昇要因は不明だが、ドル弱含み等の環境的要因の可能性。"
+  },
+  {
+    "title": "WTI原油先物相場、伸び悩み 95ドル台半ばで推移 - TradingView",
+    "timestamp": "2026-10-14T13:55:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が95ドル台半ばで推移し、上値が重い状況が続いている。相場が伸び悩んでいる現状を報じるテクニカル・相場観測記事。"
   }
 ]
