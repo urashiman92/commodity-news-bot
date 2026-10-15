@@ -22,94 +22,6 @@
     "summary": "金価格が4,200ドルを突破し、上昇トレンドが継続している。記事は相場の続伸可能性を問う観測記事。既に価格上昇は市場に織り込まれている段階。"
   },
   {
-    "title": "10月12日朝の金価格更新:大手銀行が金価格について予想外の予測 - Laodong.vn",
-    "timestamp": "2026-10-11T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月12日朝の金価格更新ニュース。大手銀行が金価格について予想外の予測を発表したと報じられている。詳細な内容や具体的な予測値が記事から不明。"
-  },
-  {
-    "title": "国内および国際的な金価格が同時に上昇している。 - Vietnam.vn",
-    "timestamp": "2026-10-11T23:54:07+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "国内および国際的な金価格が同時に上昇している状況を報じるニュース。ベトナムメディアによる相場観測記事と思われる。具体的な上昇率や要因は記事詳細からは不明。"
-  },
-  {
-    "title": "本日（2026年10月12日）の金価格：SJC金地金、BTMC 9999プレーンリング、および世界の金価格。 - Vietnam.vn",
-    "timestamp": "2026-10-11T22:55:07+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格（SJC金地金やBTMC 9999など）と世界の金価格の日次レポート。国内市場の価格情報を提供するコンテンツ。"
-  },
-  {
-    "title": "本日（10月12日）の金価格：金地金は高値を維持していますが、世界市場では大幅な変動が見られる可能性があります。 - Vietnam.vn",
-    "timestamp": "2026-10-12T00:18:17+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムメディアによる金価格の市場解説。金地金は高値を維持しているものの、世界市場での大幅変動の可能性を指摘。具体的な新規材料や統計発表を伴わない相場観測。"
-  },
-  {
-    "title": "本日10月12日の金価格：重要な米国ニュースを控え、上昇の見通し。 - Vietnam.vn",
-    "timestamp": "2026-10-11T23:23:49+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月12日の金価格について、重要な米国経済ニュース発表を控えて上昇の見通しが示されている。市場は米国発表を待つ段階で金に買い安心感が広がっている。"
-  },
-  {
-    "title": "トランプ大統領がロシア・ウクライナのエネルギー停戦を発表、原油価格が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-12T00:19:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領がロシア・ウクライナ間のエネルギー停戦を発表し、地政学的リスクの低下を示唆。供給懸念の軽減から原油価格が下落。停戦実現は市場予想外の進展。"
-  },
-  {
-    "title": "サウジ空港とホルムズ海峡近くのタンカーが相次ぎ攻撃、国際原油価格が上昇 - BigGo ファイナンス",
-    "timestamp": "2026-10-11T23:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアの空港とホルムズ海峡近くのタンカーが相次いで攻撃を受けた。地政学的リスク要因として供給途絶懸念が生じ、原油価格が上昇。中東地域の地政学的緊張が市場に影響を与えている。"
-  },
-  {
-    "title": "サウジアラビアの空港襲撃事件を受け、ブレント原油価格は1バレル105ドルを突破した。 - Vietnam.vn",
-    "timestamp": "2026-10-12T00:30:08+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラビアの空港襲撃事件により、ブレント原油価格が1バレル105ドルを突破した。地政学的リスクによる供給懸念が価格上昇を駆動。中東の主要供給国での突発的セキュリティ事象として市場は敏感に反応。"
-  },
-  {
     "title": "金価格急落で異例の値引き 老鋪黄金（Laopu Gold）、花旗・海通國際が目標株価を一斉に400香港ドル前後へ引き下げ - BigGo ファイナンス",
     "timestamp": "2026-10-12T03:55:00+00:00",
     "importance": 3,
@@ -185,17 +97,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は10月12日現在、売り圧力が弱まり上昇余地があると指摘されている。投資家は米国債利回りの動向を注視しており、今後のシグナルを待機中。"
-  },
-  {
-    "title": "本日（10月12日）の金価格：横ばい - Vietnam.vn",
-    "timestamp": "2026-10-12T00:16:06+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月12日の金価格は横ばいで推移。特段の買い材料・売り材料に乏しい状況。ベトナムの地場情報提供に過ぎず、市場全体への示唆に欠ける。"
   },
   {
     "title": "【随時更新】WTI原油、移動平均線と一目雲に挟まれレンジ継続 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1791,5 +1692,181 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物が95ドル台半ばで推移し、上値が重い状況が続いている。相場が伸び悩んでいる現状を報じるテクニカル・相場観測記事。"
+  },
+  {
+    "title": "NY金先物は3営業日続落、米9月CPIの上振れで追加利上げ観測が強まる｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-14T23:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米9月CPI統計が予想を上回る結果となり、FRBによる追加利上げ観測が強化された。これを受けてNY金先物は3営業日連続で下落。金は低金利環境で需要が高まるため、利上げ観測は金相場の下押し要因となる。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落して4104ドル｜米CPIが市場予想を上回った影響で売り優勢だった模様(2026年10月15日) - OANDA証券",
+    "timestamp": "2026-10-14T23:04:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米CPI発表が市場予想を上回り、インフレ懸念が再燃。金価格は4104ドルまで下落した。ドル高・金利上昇圧力により、実質金利が上昇して金は売り優勢となった。"
+  },
+  {
+    "title": "金価格下落でFRB利上げ観測強まり、金鉱株が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-14T19:53:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの利上げ観測の強まりが金価格を押し下げ、連動して金鉱株も下落。金は利上げ環境で割高になるため、機関投資家がポジションを削減している状況。"
+  },
+  {
+    "title": "米国のインフレにより金価格が4,100ドルを下回る：保有すべきか、売却すべきか？ - Vietnam.vn",
+    "timestamp": "2026-10-15T00:20:30+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国のインフレ環境により金価格が4,100ドルを下回る水準に推移。アナリストが保有・売却の判断を投資家に提示する解説記事。既に織り込まれた価格動向についての振り返り的分析。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（14日）原油は5日続伸 - Moomoo",
+    "timestamp": "2026-10-14T22:41:39+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油先物が5日連続で上昇。市場の技術的な上昇トレンドが継続している状況。具体的な供給ショックや需給要因の明記がなく、相場振り返りの性質が強い。"
+  },
+  {
+    "title": "本日10月15日の金価格：急落、SJCの金価格は継続的に下落しています。 - Vietnam.vn",
+    "timestamp": "2026-10-14T23:21:25+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が10月15日に急落し、継続的な下落トレンドを示している。地域市場の相場動向を報じるニュースで、グローバル金相場の動きを反映したものと考えられる。"
+  },
+  {
+    "title": "金取引アラート：インフレの「過熱」が利上げ観測を強め、金価格は3日連続安。再び4,000ドルの大台を試す展開か？ - Moomoo",
+    "timestamp": "2026-10-14T23:14:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インフレ「過熱」がFRBの利上げ観測を強めており、金価格は3日連続で下落。4,000ドル水準再テストの可能性が指摘されている。利上げは金にネガティブ要因として機能。"
+  },
+  {
+    "title": "10月15日の金価格：全般的に下落。 - Vietnam.vn",
+    "timestamp": "2026-10-15T00:38:31+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月15日の金価格が全般的に下落した。具体的な下落率や原因については記事概要では不明。市場の日次変動を報じるコモディティ相場解説記事と推定される。"
+  },
+  {
+    "title": "原油先物上昇、サウジ攻撃やイランの船舶攻撃新戦術受け - Reuters",
+    "timestamp": "2026-10-14T21:51:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアへの攻撃とイランの船舶攻撃新戦術により、中東の地政学リスクが急速に高まった。主要産油国への直接的な脅威が原油先物を押し上げた。供給途絶リスクの顕在化で市場は敏感に反応している。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：フーシ派によるサウジアラビアへの攻撃継続が影響し、原油価格は5営業日続伸（2026年10月15日） - OANDA証券",
+    "timestamp": "2026-10-14T23:14:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ派によるサウジアラビアへの攻撃継続を背景に、WTI原油が5営業日続伸している。中東地政学リスクが価格を押し上げている状況の解説記事。"
+  },
+  {
+    "title": "ホルムズ海峡での船舶攻撃受け、アジア市場で原油価格上昇 - BigGo ファイナンス",
+    "timestamp": "2026-10-14T18:27:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡での船舶攻撃により、主要な石油輸送ルートの供給リスクが顕在化。アジア市場で原油価格が上昇。地政学的リスクが原油相場を押し上げている。"
+  },
+  {
+    "title": "原油先物上昇、サウジ攻撃やイランの船舶攻撃新戦術受け - ｄメニューニュース",
+    "timestamp": "2026-10-14T21:59:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラビアへの攻撃とイランによる船舶攻撃の新戦術が報じられ、中東の地政学的リスクが高まった。中東での供給途絶懸念により原油先物が上昇。"
+  },
+  {
+    "title": "10月15日現在の燃料価格：世界の原油価格は高止まり、国内ガソリン価格は下落を待つのか？ - Vietnam.vn",
+    "timestamp": "2026-10-14T23:33:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの記事で、世界原油価格が高止まり状況にあり、国内ガソリン価格の下落期待について論じている。既知の市場状況の解説記事。"
+  },
+  {
+    "title": "ＭＥＲＦ最高益更新 ８月期、銅相場上昇など寄与 - 北日本新聞webunプラス",
+    "timestamp": "2026-10-14T20:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "MERFが8月期に最高益を更新。銅相場上昇が利益増加に寄与した。企業業績好調を示すが、既に市場で織り込まれている内容。"
+  },
+  {
+    "title": "１４日の主要国際商品市況 - 株探",
+    "timestamp": "2026-10-14T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "14日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や銘柄情報は記事本文の確認が必要。一般的な市場振り返り報道と考えられる。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、小麦が上昇 天然ガス、金、銀、銅、トウモロコシ、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-14T22:30:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティー市場で原油・ガソリン・小麦が上昇、天然ガス・金・銀・銅・穀物が下落。個別の価格変動を羅列したマーケットサマリー。"
   }
 ]
