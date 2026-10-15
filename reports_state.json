@@ -44,28 +44,6 @@
     "summary": "米国が戦略的銅備蓄を構築している。本レポートは、米国がこの備蓄を維持できるかについて検証するもの。銅は電動車やエネルギー転換に不可欠な重要鉱物であり、戦略備蓄の規模・放出方針は銅市場の需給バランスに影響を与える可能性がある。"
   },
   {
-    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
-    "timestamp": "2026-10-12T12:33:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は10月の原油生産政策を据え置くことを決定した。前月の方針を継続することで、市場に対する政策の一貫性を示している。既に周知の政策継続であり、市場予想の範囲内の決定。"
-  },
-  {
-    "title": "Saudi Eyes 10 Million Barrels a Day of Oil Pipe Capacity - Bloomberg.com",
-    "timestamp": "2026-10-12T09:13:03+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアが日量1000万バレルのパイプライン輸送能力を目指すと報じられた。これはOPECの減産政策を支える供給インフラの拡張意向を示唆しており、長期的な供給管理体制の強化を意味する。既報のサウジ戦略の延長線上にあり、市場では部分的には織り込まれている可能性が高い。"
-  },
-  {
     "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Report — Monday, October 12, 2026 - RFD-TV",
     "timestamp": "2026-10-12T15:51:05+00:00",
     "importance": 2,
@@ -130,39 +108,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアのディーゼル供給見通しが改善される一方で、メキシコ湾の供給リスクが原油価格を押し下げている。供給面での相反する要因が市場で相殺され、原油は小幅下落。短期的には方向性が定まりにくい状況。"
-  },
-  {
-    "title": "OPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027 - Reuters",
-    "timestamp": "2026-10-12T09:41:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPECが2026年の石油需要成長見通しを400,000bpdに引き下げた。これは従来予想からの下方修正であり、EV普及や世界経済成長鈍化への懸念を反映している。一方、2027年の需要反発（ペントアップ需要）を見込んでおり、中期的な需給バランス不確実性が高まっている。"
-  },
-  {
-    "title": "Saudi Arabia eyes raising its pipeline oil export capacity to 10 million bpd, energy minister says - Reuters",
-    "timestamp": "2026-10-12T12:19:49+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのエネルギー相が、パイプライン経由の石油輸出能力を現在の約9.5百万バレル/日から10百万バレル/日への引き上げを検討していると表明。供給サイド強化の意向を示すもので、OPEC内での増産ポテンシャルを改めて提示した形。"
-  },
-  {
-    "title": "Asian refiners buy spot November Saudi oil, sources say - Reuters",
-    "timestamp": "2026-10-12T13:10:45+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア製油所がサウジアラビアからの11月スポット原油を購入している。買い需要が市場に入ることで原油価格には小幅上昇圧力がかかるが、既知の供給メカニズムの一環であり市場予想範囲内の取引活動である。"
   },
   {
     "title": "Oil Holds Advance as Expanding Middle East War Threatens Supply - Bloomberg.com",
@@ -1120,5 +1065,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東およびロシアでの攻撃・ストライキが原油供給を脅かす状況が報告された。地政学的緊張による供給リスク顕在化が原油価格を押し上げている。戦争・紛争リスク、インフラ攻撃による生産停止懸念が市場心理を悪化させ、リスクプレミアムが上昇している。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-10-14T03:11:57+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後の独立的な増産計画を推し進め、2025年に日産500万バレルを超える水準に引き上げる見通しをIEAが発表。これはOPECの協調減産体制の弱体化を意味し、市場供給圧が高まる。既報のUAE増産方針の続報ながら、具体的な時間軸が示されたことで供給懸念が実績化しつつある。"
+  },
+  {
+    "title": "Russia's oil and gas revenue seen up 10% y/y in October to $12 billion - Reuters",
+    "timestamp": "2026-10-15T11:26:09+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの石油ガス収入が10月に前年同月比10%増の12億ドルと見込まれている。これは制裁下でもロシアが石油輸出を維持・拡大させていることを示唆する。価格上昇基調と供給継続性が市場に織り込まれた状況での報道。"
+  },
+  {
+    "title": "Russia's oil and gas revenue seen up 10% y/y in October to $12 billion - Reuters",
+    "timestamp": "2026-10-15T11:26:09+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの石油ガス収入が10月に前年同月比10%増の12億ドルと見込まれている。これは制裁下でもロシアが石油輸出を維持・拡大させていることを示唆する。価格上昇基調と供給継続性が市場に織り込まれた状況での報道。"
+  },
+  {
+    "title": "Gold climbs over 1% on softer dollar, yields ahead of US inflation data - Reuters",
+    "timestamp": "2026-10-15T03:18:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "金価格が1%以上上昇。米ドル軟化と利回り低下が買い材料となった。米インフレデータ発表を控えた様子見姿勢も影響。インフレ統計が市場予想より弱いシナリオでは、FRBによる利上げ停止期待から金のさらなる上昇も視野に入る。"
+  },
+  {
+    "title": "Gold climbs over 1% on softer dollar, yields ahead of US inflation data - Reuters",
+    "timestamp": "2026-10-15T03:18:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "金価格が1%以上上昇。米ドル軟化と利回り低下が買い材料となった。米インフレデータ発表を控えた様子見姿勢も影響。インフレ統計が市場予想より弱いシナリオでは、FRBによる利上げ停止期待から金のさらなる上昇も視野に入る。"
+  },
+  {
+    "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce - Reuters",
+    "timestamp": "2026-10-15T06:03:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア製油所への攻撃を実施し、ゼレンスキー大統領がトランプ政権とのエネルギー休戦に終止符を宣言した。地政学的緊張の再激化により、ロシア産原油の供給リスクが高まり、原油価格の上昇圧力が強まる可能性がある。停戦交渉の崩壊は供給不安をもたらす。"
+  },
+  {
+    "title": "Rupee extends winning streak as dollar, oil ease and stocks rally - Reuters",
+    "timestamp": "2026-10-15T02:58:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド・ルピーが連続上昇。ドル軟化、原油価格の緩和、株式市場の堅調が背景。ドル安局面ではコモディティ全般が支援される一方、金利低下期待を反映した金への上値圧力と原油の需要懸念が混在。リスク資産買い優位の環境を示唆。"
+  },
+  {
+    "title": "Rupee extends winning streak as dollar, oil ease and stocks rally - Reuters",
+    "timestamp": "2026-10-15T02:58:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インド・ルピーが連続上昇。ドル軟化、原油価格の緩和、株式市場の堅調が背景。ドル安局面ではコモディティ全般が支援される一方、金利低下期待を反映した金への上値圧力と原油の需要懸念が混在。リスク資産買い優位の環境を示唆。"
+  },
+  {
+    "title": "Rupee extends winning streak as dollar, oil ease and stocks rally - Reuters",
+    "timestamp": "2026-10-15T02:58:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド・ルピーが連続上昇。ドル軟化、原油価格の緩和、株式市場の堅調が背景。ドル安局面ではコモディティ全般が支援される一方、金利低下期待を反映した金への上値圧力と原油の需要懸念が混在。リスク資産買い優位の環境を示唆。"
+  },
+  {
+    "title": "Russia Says Drones Attacked Two Oil Refineries, Interfax Reports - Bloomberg.com",
+    "timestamp": "2026-10-14T16:46:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが2つの石油精製所がドローン攻撃を受けたと発表。ウクライナによる継続的な供給インフラ攻撃は、ロシアの石油生産・精製能力の低下を示唆し、グローバルな供給懸念を強化。地政学的リスク再評価により、原油価格上昇圧力が高まる。"
+  },
+  {
+    "title": "Zelenskyy Defies Trump, Orders New Russian Refinery Attacks - Bloomberg.com",
+    "timestamp": "2026-10-15T09:42:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナのゼレンスキー大統領がトランプ米大統領の圧力に抵抗し、ロシアの製油所に対する新たな攻撃を命令。これまでウクライナが回避していた重要なエネルギーインフラへの直接攻撃が本格化することで、ロシアの石油精製能力の毀損が加速。欧州エネルギー市場とグローバル原油供給に対する懸念が急速に高まる可能性がある。"
   }
 ]
