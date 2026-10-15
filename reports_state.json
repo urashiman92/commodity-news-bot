@@ -1,60 +1,5 @@
 [
   {
-    "title": "Rupee jumps 1% after RBI redirects oil dollar demand, raises cost of some FX hedges - Reuters",
-    "timestamp": "2026-10-12T03:54:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド中央銀行（RBI）が石油輸入向けのドル需要経路を変更し、ルピーが1%上昇した。この措置により一部の外国為替ヘッジコストが上昇する見込み。インドの石油決済スキームの変更はドル需要の市場メカニズムを迂回させ、ルピー相場に上向き圧力をもたらす。"
-  },
-  {
-    "title": "Rupee jumps 1% after RBI redirects oil dollar demand, raises cost of some FX hedges - Reuters",
-    "timestamp": "2026-10-12T03:54:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド中央銀行（RBI）が石油輸入向けのドル需要経路を変更し、ルピーが1%上昇した。この措置により一部の外国為替ヘッジコストが上昇する見込み。インドの石油決済スキームの変更はドル需要の市場メカニズムを迂回させ、ルピー相場に上向き圧力をもたらす。"
-  },
-  {
-    "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
-    "timestamp": "2026-10-12T07:11:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "ロシア・ウクライナ間のエネルギー休戦の可能性が報じられ、金が小幅上昇。地政学的リスクの後退が意識される一方、エネルギー価格の下押し圧力となる見通し。安全資産としての金の需要と、リスク軽減による金の売却圧力が相殺された状態。"
-  },
-  {
-    "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
-    "timestamp": "2026-10-12T07:11:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア・ウクライナ間のエネルギー休戦の可能性が報じられ、金が小幅上昇。地政学的リスクの後退が意識される一方、エネルギー価格の下押し圧力となる見通し。安全資産としての金の需要と、リスク軽減による金の売却圧力が相殺された状態。"
-  },
-  {
-    "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
-    "timestamp": "2026-10-12T07:11:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア・ウクライナ間のエネルギー休戦の可能性が報じられ、金が小幅上昇。地政学的リスクの後退が意識される一方、エネルギー価格の下押し圧力となる見通し。安全資産としての金の需要と、リスク軽減による金の売却圧力が相殺された状態。"
-  },
-  {
     "title": "USDA raises corn production forecast, projects higher ending stocks - High Plains Journal",
     "timestamp": "2026-10-12T18:03:12+00:00",
     "importance": 3,
@@ -1054,5 +999,126 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIA（米国エネルギー情報局）が2027年の原油価格見通しを引き上げた。これは将来的な需給逼迫懸念、地政学的リスク、または供給制約の継続を反映しているもの。具体的な予測価格帯は記事内容から不明確だが、長期的な原油相場の上方修正は関連するエネルギー関連資産全般にポジティブ。"
+  },
+  {
+    "title": "EIA reports U.S. crude inventories drop 3.2 million barrels as exports surge to 4.77 million barrels per day - Energies Media",
+    "timestamp": "2026-10-15T02:11:35+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の3.2百万バレル減少を報告。同時に原油輸出が日量4.77百万バレルまで急増した。在庫減少は需給引き締まりのシグナルだが、輸出増加は戦略的備蓄の取り崩しと国内需要の組み合わせを示唆。"
+  },
+  {
+    "title": "API reports a massive drop in US crude stocks – Trading Economics - https://www.engine.online/",
+    "timestamp": "2026-10-15T04:48:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が大幅に減少したことをAPIが報告。在庫の急激な低下は原油供給の逼迫を示唆し、WTI原油価格への上昇圧力となる可能性が高い。EIA週間統計の定例報告であり、市場予想を大きく下回る在庫減少が確認されたものと推定される。"
+  },
+  {
+    "title": "Corn Prices Rebound After USDA Report Shocks Grain Markets With Higher Stocks - AgroLatam",
+    "timestamp": "2026-10-12T15:51:27+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA穀物レポートで予想外に高い在庫が報告され、穀物市場に衝撃を与えた。特にトウモロコシ価格は一度下落したが、その後リバウンドを示現。市場参加者の在庫見通しが大きく外れたことで、短期的な価格変動性が高まる見通し。"
+  },
+  {
+    "title": "Corn Prices Rebound After USDA Report Shocks Grain Markets With Higher Stocks - AgroLatam",
+    "timestamp": "2026-10-12T15:51:27+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "穀物全般",
+    "summary": "USDA穀物レポートで予想外に高い在庫が報告され、穀物市場に衝撃を与えた。特にトウモロコシ価格は一度下落したが、その後リバウンドを示現。市場参加者の在庫見通しが大きく外れたことで、短期的な価格変動性が高まる見通し。"
+  },
+  {
+    "title": "Russian aluminium’s share of available LME stocks almost 100% in September - Kitco",
+    "timestamp": "2026-10-14T23:23:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "ロシア産アルミニウムがLME公式在庫の9月時点でほぼ100%を占めるという報告。ロシアへの西側制裁により他国アルミが流入できず、LME在庫市場がロシア産に完全に依存する状況を示唆。供給逼迫と地政学リスクが価格下支え要因となる。"
+  },
+  {
+    "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table - Mining.com",
+    "timestamp": "2026-10-14T16:31:40+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格予想が2026年向けに上方修正される一方、米国の関税政策の不確実性が重しとなっている。関税「急落」の可能性が残存し、需要見通しを揺さぶっている。2026年の銅需給は底堅いが、保護主義政策の展開次第で下振れリスク。"
+  },
+  {
+    "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table - Mining.com",
+    "timestamp": "2026-10-14T16:31:40+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅価格予想が2026年向けに上方修正される一方、米国の関税政策の不確実性が重しとなっている。関税「急落」の可能性が残存し、需要見通しを揺さぶっている。2026年の銅需給は底堅いが、保護主義政策の展開次第で下振れリスク。"
+  },
+  {
+    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
+    "timestamp": "2026-10-13T20:19:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の増産決定は現在の市場には影響が限定的だが、将来的には需給バランスに影響を与える可能性があるとのアナリスト見解。既に報道済みのOPEC+決定に対する解説コメンタリーであり、新規情報ではない。"
+  },
+  {
+    "title": "Russia’s oil output falls 38,000 bpd in September to 8.643 million bpd, OPEC data shows - Pipeline and Gas Journal",
+    "timestamp": "2026-10-15T02:24:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ロシアの原油生産量が9月に日量38,000バレル減少し、864.3万バレル/日となった。OPEC統計による報告。ウクライナ情勢と国際制裁の影響を反映した継続的な減少傾向である。"
+  },
+  {
+    "title": "Oil prices retreat as investors weigh supply outlook, Middle East tensions - Reuters",
+    "timestamp": "2026-10-15T01:30:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "投資家は供給見通しと中東緊張のバランスを考慮する中で原油価格が後退している。市場は供給懸念と需要見通しの相互作用を評価している段階であり、地政学的リスクと市場ファンダメンタルズが相殺している状況を示唆している。"
+  },
+  {
+    "title": "Oil Holds Gain as Middle East and Russia Strikes Threaten Supply - Bloomberg.com",
+    "timestamp": "2026-10-15T04:38:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東およびロシアでの攻撃・ストライキが原油供給を脅かす状況が報告された。地政学的緊張による供給リスク顕在化が原油価格を押し上げている。戦争・紛争リスク、インフラ攻撃による生産停止懸念が市場心理を悪化させ、リスクプレミアムが上昇している。"
   }
 ]
