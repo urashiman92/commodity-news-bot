@@ -1,60 +1,5 @@
 [
   {
-    "title": "債券利回り低下と金価格上昇でTSX先物が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-13T12:12:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "債券利回りの低下に伴い、金価格が上昇し、それに連動してTSX先物指数が上昇した。金は利回り低下環境で買われやすくなる特性を反映している。カナダ株式市場全体への波及効果が見られている。"
-  },
-  {
-    "title": "ロシアからの供給見通しが湾岸地域からのリスクを上回ったため、原油価格は下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-13T11:08:47+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ロシアからの原油供給見通しが改善されたことが、湾岸地域の地政学的リスクを相殺し、原油価格が下落した。供給増加期待が需要・リスク懸念を上回った。"
-  },
-  {
-    "title": "多くの要因が生産コストと商品価格に圧力をかけている。 - Vietnam.vn",
-    "timestamp": "2026-10-13T10:58:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "ベトナムのニュースソースが、複数の要因によるコモディティ生産コストと商品価格への上昇圧力について報じている。エネルギー、労働力、原材料など複合的なコスト増圧が商品全般に波及している状況と推察される。"
-  },
-  {
-    "title": "金価格は本日2026年10月14日に反転したが、その魅力は依然として強い。なぜまだ金取引所が設立されていないのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-10-13T14:33:22+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金市場に関する論評。金価格は本日反転したが、長期的な魅力は変わらず。ベトナムでの金取引所設立の遅れについて言及している。"
-  },
-  {
-    "title": "金価格は本日急落した後、反発しました。一体何が起こっているのでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-10-13T13:14:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が日中急落後に反発した。詳細な要因は記事内容から不明だが、通常のボラティリティの範囲と考えられる。市場参加者の心理的な売買圧力の緩和とみられる。"
-  },
-  {
     "title": "トランプ氏、フーシ派が米中間選挙前に原油価格つり上げと非難 - Reuters",
     "timestamp": "2026-10-13T18:25:05+00:00",
     "importance": 2,
@@ -132,39 +77,6 @@
     "summary": "NY原油先物が95ドル付近で推移している。ドル高が続く中での相場動向。既に公開されている値動きの観測報道。"
   },
   {
-    "title": "世界の原油価格が下落。 - Vietnam.vn",
-    "timestamp": "2026-10-13T14:47:22+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界的な原油価格の下落が報告されている。具体的な下落要因や数値が示されていない。ベトナムメディアによる相場観測記事と思われる。"
-  },
-  {
-    "title": "トウモロコシ先物の価格見通し：短期的には下落リスクが優勢で、レンジ相場となる可能性 - Traders Union",
-    "timestamp": "2026-10-13T12:53:44+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物は短期的に下落リスクが優勢との見通し。レンジ相場形成の可能性が指摘されている。アナリスト予想の範囲内の観測。"
-  },
-  {
-    "title": "大豆先物価格予測：小幅下落後はレンジ相場を予想 - Traders Union",
-    "timestamp": "2026-10-13T12:29:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物は小幅下落後、レンジ相場を予想するアナリスト見解。具体的な下落率や価格水準は記事から不明。相場展開の観測記事として位置付けられる。"
-  },
-  {
     "title": "経済指標上昇で銅価格が過去最高値の可能性 - BeInCrypto",
     "timestamp": "2026-10-13T17:14:17+00:00",
     "importance": 3,
@@ -174,17 +86,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "経済指標の上昇を背景に銅価格が過去最高値を試す可能性が指摘されている。景気回復期待が銅需要を支援する材料として認識されている。ただし既報の経済動向に基づく観測記事。"
-  },
-  {
-    "title": "銅価格、強弱入り混じるモメンタムシグナルの中で$6.6778のサポートを維持 - Traders Union",
-    "timestamp": "2026-10-13T12:19:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が$6.6778のサポートレベルを維持している状況が報告されている。技術的なモメンタムシグナルが強弱混在の状態にあり、相場の方向性が定まっていない状況を示唆している。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落して4160ドル｜原油価格の上昇によるインフレ懸念が影響した模様(2026年10月14日) - OANDA証券",
@@ -1923,5 +1824,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "来週の東京外国為替市場は米金利と原油価格に左右される見通し。9月の全国CPIが注目される。為替市場の解説記事であり、原油への直接的な新情報は含まれていない。"
+  },
+  {
+    "title": "2026年10月16日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-16T10:02:30+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "日経225先物の証拠金および先物オプション市場に関する定期的なマーケットウォッチ記事。金カテゴリとして分類されているが、内容は日本株先物市場の技術的情報であり、コモディティ金相場への直接的な影響はない。"
+  },
+  {
+    "title": "TSX先物が小幅上昇、金価格の上昇が支援―カナダ銀行マックレム総裁の発言に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-16T11:52:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "TSX先物が小幅上昇し、金価格の堅調さが支援要因となっている。カナダ銀行マックレム総裁の発言が市場の注視点。金相場の底堅さがリスク資産にも好材料に作用。"
+  },
+  {
+    "title": "金価格は本日午後（10月16日）に1オンスあたり60万ベトナムドン上昇しました。 - Vietnam.vn",
+    "timestamp": "2026-10-16T12:50:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が10月16日午後に1オンスあたり60万ベトナムドン上昇した。単日の国内市場での価格変動を伝える報道。"
+  },
+  {
+    "title": "2026年10月16日の金価格：SJC金は1オンスあたり1億4090万～1億4390万ベトナムドンに上昇しました。 - Vietnam.vn",
+    "timestamp": "2026-10-16T10:35:07+00:00",
+    "importance": 1,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムSJC金が1オンスあたり1億4090万～1億4390万ベトナムドンに上昇した。ベトナム国内市場の価格変動を報じた記事。"
+  },
+  {
+    "title": "世界の原油価格、10月16日（金）に0.39%小幅下落 - IDNFinancials",
+    "timestamp": "2026-10-16T10:00:00+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月16日の原油価格が0.39%の小幅下落。日次の軽微な変動で、特段の材料や構造的な変化を示唆していない。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ198ドル高、原油先物0.57ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-16T14:55:00+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY午前時点での株価と原油先物の市場動向の報告。ダウ平均は198ドル高だが、WTI原油先物は0.57ドル安となっている。市場の定常的な値動きレベル。"
+  },
+  {
+    "title": "週間為替展望（ドル／ユーロ）-ドル円、原油価格や長期金利動向に注目(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-16T02:23:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "週間為替展望の解説記事で、ドル円相場がドル金利動向と原油価格に左右される可能性を指摘。原油価格は為替経由で間接的に相場に影響。既に市場で織り込まれている観測的なコンテンツ。"
+  },
+  {
+    "title": "銅建値 239万円 亜鉛 66万4000円（日刊産業新聞） - Yahoo!ニュース",
+    "timestamp": "2026-10-16T04:37:42+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅の建値が239万円、亜鉛が66万4000円と報告されている。日刊産業新聞による日次の建値情報であり、相場水準の記録的な報道。"
+  },
+  {
+    "title": "銅価格見通し：強い基調モメンタムを背景に横ばい推移の可能性 - Traders Union",
+    "timestamp": "2026-10-16T12:18:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "アナリスト予想によると銅価格は強い基調モメンタムを背景に、今後横ばい推移となる可能性が示唆されている。現在の強気地合いが継続しつつも、上値追いが限定的との見通し。"
   }
 ]
