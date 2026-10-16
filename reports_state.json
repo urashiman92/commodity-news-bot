@@ -44,50 +44,6 @@
     "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗と作況状況を集計した統計発表。具体的な数値データが提示されていないため、予想比判定は困難。定例の進捗レポートとして市場監視対象。"
   },
   {
-    "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-    "timestamp": "2026-10-13T18:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "FRB金融政策",
-    "commodity": "金",
-    "summary": "FRB公開市場委員会の2026年8月～9月の割引率会議議事録。金利据置方針が議論されたと推定される。コモディティ市場への直接的なサプライズ要因は明示されておらず、既報の金融政策スタンスの確認に該当。"
-  },
-  {
-    "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-    "timestamp": "2026-10-13T18:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "FRB金融政策",
-    "commodity": "コモディティ全般",
-    "summary": "FRB公開市場委員会の2026年8月～9月の割引率会議議事録。金利据置方針が議論されたと推定される。コモディティ市場への直接的なサプライズ要因は明示されておらず、既報の金融政策スタンスの確認に該当。"
-  },
-  {
-    "title": "USDA Raises Corn Yield Forecast as Farmers Navigate Uneven Harvest Conditions - RFD-TV",
-    "timestamp": "2026-10-13T18:18:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが8月のWASDE月間予報でトウモロコシの単収見通しを引き上げた。収穫条件が不均一である中での単収予想の上方修正は、全体的な供給量増加を示唆している。これにより米国産トウモロコシの豊作シナリオが強まり、価格下押し圧力が生じる可能性が高い。"
-  },
-  {
-    "title": "OPEC cuts oil demand projections for remainder of 2026 - Yahoo Finance",
-    "timestamp": "2026-10-13T19:04:41+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年残期間の石油需要見通しを引き下げた。世界経済の成長鈍化やEV普及加速などを背景に、従来予想から需要が下方修正されている。この需要減少予想は原油相場への弱気材料となり、価格下落圧力が強まる可能性がある。"
-  },
-  {
     "title": "Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low - Rigzone",
     "timestamp": "2026-10-13T21:16:59+00:00",
     "importance": 3,
@@ -97,17 +53,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "サウジアラビアがOPECに対し、同国の石油産出量が30年ぶりの低水準から回復したと報告。供給制約からの脱却を示唆するシグナルであり、OPEC減産政策の緩和可能性を示唆。ただし具体的な産出数字は未公開。"
-  },
-  {
-    "title": "Saudi-Owned Refinery Was Buyer of Oil on Cyberattacked Tanker - Bloomberg.com",
-    "timestamp": "2026-10-13T18:17:57+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビア傘下の製油所がサイバー攻撃を受けたタンカーの石油を購入していたことが判明。同事案は供給チェーンのセキュリティリスクを顕在化させ、石油輸送インフラへの脅威が原油市場に材料視される。地政学的リスク要因として原油価格の上昇圧力となる可能性。"
   },
   {
     "title": "OPEC September Oil Output Jumps As Saudi Arabia Ramps Up Production - RTTNews",
@@ -363,17 +308,6 @@
     "summary": "銅価格予想が2026年向けに上方修正される一方、米国の関税政策の不確実性が重しとなっている。関税「急落」の可能性が残存し、需要見通しを揺さぶっている。2026年の銅需給は底堅いが、保護主義政策の展開次第で下振れリスク。"
   },
   {
-    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
-    "timestamp": "2026-10-13T20:19:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の増産決定は現在の市場には影響が限定的だが、将来的には需給バランスに影響を与える可能性があるとのアナリスト見解。既に報道済みのOPEC+決定に対する解説コメンタリーであり、新規情報ではない。"
-  },
-  {
     "title": "Russia’s oil output falls 38,000 bpd in September to 8.643 million bpd, OPEC data shows - Pipeline and Gas Journal",
     "timestamp": "2026-10-15T02:24:04+00:00",
     "importance": 3,
@@ -548,39 +482,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが発表したクッシング地区の原油在庫変化が前週0.444Mバレルから1.862Mバレルへ大幅に増加した。クッシングはWTI原油の重要な受け渡し拠点であり、在庫増加幅が4倍以上に拡大した点は注目に値する。米国内の原油在庫積み増しが加速している可能性を示唆している。"
-  },
-  {
-    "title": "USDA Crop Progress Report October 13, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-10-13T20:10:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA作物進捗レポート（2026年10月13日）がトウモロコシ・大豆・綿の収穫状況を更新。秋の収穫進捗データは米国農業生産量推定の重要な根拠となり、需給見通しに影響を与える。具体的な進捗率データが提示されることで、市場の供給量推定が改定される可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress Report October 13, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-10-13T20:10:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA作物進捗レポート（2026年10月13日）がトウモロコシ・大豆・綿の収穫状況を更新。秋の収穫進捗データは米国農業生産量推定の重要な根拠となり、需給見通しに影響を与える。具体的な進捗率データが提示されることで、市場の供給量推定が改定される可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress Report October 13, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-10-13T20:10:38+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA作物進捗レポート（2026年10月13日）がトウモロコシ・大豆・綿の収穫状況を更新。秋の収穫進捗データは米国農業生産量推定の重要な根拠となり、需給見通しに影響を与える。具体的な進捗率データが提示されることで、市場の供給量推定が改定される可能性がある。"
   },
   {
     "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
