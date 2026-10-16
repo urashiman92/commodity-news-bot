@@ -1,27 +1,5 @@
 [
   {
-    "title": "LME zinc ingot inventory grows notably, bulls reduce positions [SMM Zinc Morning Meeting Summary] - Shanghai Metals Market",
-    "timestamp": "2026-10-13T00:44:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "LME亜鉛地金在庫が顕著に増加し、強気筋（ブル）がポジションを削減している。在庫増加は供給過剰圧力を示唆し、投機筋の買いが後退しているため、価格の下押し圧力が強まっている。"
-  },
-  {
-    "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks - Reuters",
-    "timestamp": "2026-10-13T00:25:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアのディーゼル供給見通しが改善される一方で、メキシコ湾の供給リスクが原油価格を押し下げている。供給面での相反する要因が市場で相殺され、原油は小幅下落。短期的には方向性が定まりにくい状況。"
-  },
-  {
     "title": "Finnish Foreign Minister says US oil purchases from Russia 'not a good idea' - Reuters",
     "timestamp": "2026-10-13T04:19:00+00:00",
     "importance": 2,
@@ -977,5 +955,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "IEAが戦略石油備蓄（SPR）の放出を加速する。ディーゼル200万バレルを含む2000万バレル超の放出を実施。供給増加により原油価格に下押し圧力が生じ、特にディーゼル・精製品相場への影響が顕著。"
+  },
+  {
+    "title": "WASDE Hands Corn Prices Another Blow - Farms.com",
+    "timestamp": "2026-10-15T11:46:05+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE（米国農務省の月次需給予測）がトウモロコシ価格に下押し圧力をもたらした。タイトルから具体的な在庫増加や生産量上方修正が示唆されており、市場参加者の悲観的なセンチメントを反映している。予想比での具体的な数値は記事から不明だが、WASDEの定期発表は価格に直結する影響力が高い。"
+  },
+  {
+    "title": "Global cotton output raised to 117.95 mn bales for 2026-27: WASDE - Fibre2Fashion",
+    "timestamp": "2026-10-13T10:09:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDE2026-27年度綿花生産見通しを117.95百万俵に上方修正。グローバル綿花供給の増加見通しは、綿花価格に下押し圧力をもたらす可能性がある。需給バランスの緩和は、綿花関連コモディティ全般に影響を与える見通し。"
   }
 ]
