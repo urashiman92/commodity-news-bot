@@ -1,82 +1,5 @@
 [
   {
-    "title": "2026年10月14日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-14T09:42:39+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金および先物・オプション市場に関する定期的な市場ウォッチ記事。技術的な市場データの公表であり、金現物相場への直接的な影響はない。"
-  },
-  {
-    "title": "実質金利のレジリエンスと外貨準備危機が重なり、金価格は短期的にはなお底値を試す展開となる可能性があります。 - Moomoo",
-    "timestamp": "2026-10-14T09:41:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "実質金利の堅調さと外貨準備危機が同時進行する中、金価格は短期的に底値探りの展開が予想される。これは金の下押し要因と上押し要因が拮抗する状況を示唆している。"
-  },
-  {
-    "title": "金価格は本日午後（10月14日）：底値をつけ、買いが急速に増加。 - Vietnam.vn",
-    "timestamp": "2026-10-14T11:59:19+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月14日午後、金価格が底値をつけ買いが増加している。ベトナムの相場解説記事であり、既に発生した値動きの事後的な観測報告。"
-  },
-  {
-    "title": "東京原油先物が最高値、供給懸念高まりで 調達コスト押し上げに - 日本経済新聞",
-    "timestamp": "2026-10-14T09:37:25+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京原油先物が最高値を更新し、供給懸念が強まっている。日本を含むアジア地域の調達コスト上昇圧力が増加。OPEC減産やジオポリティカルリスクの影響が拡大している。"
-  },
-  {
-    "title": "円相場 小幅に値下がり 原油価格上昇で一時ドル買い広がる - NHKニュース",
-    "timestamp": "2026-10-14T09:53:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇に伴いドル買いが広がり、円が小幅に値下がりした。為替と原油の連動性を示す相場動向の解説記事。"
-  },
-  {
-    "title": "$WTI 原油先物(2612) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
-    "timestamp": "2026-10-14T09:36:59+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とブレント先物の価格情報提示。具体的なニュースイベントや価格変動の原因となる情報が含まれていない単なるデータ掲載。"
-  },
-  {
-    "title": "決算:MERFの最終損益27億円黒字 26年8月期、銅価格の高騰寄与 - 日本経済新聞",
-    "timestamp": "2026-10-14T10:30:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "MERF(三井物産戦略研究所関連と推定)の2026年8月期決算が27億円の黒字。銅価格の高騰が業績に寄与したことが報告された。企業決算の好結果報告。"
-  },
-  {
     "title": "世界の金価格が急落している。 - Vietnam.vn",
     "timestamp": "2026-10-14T17:39:11+00:00",
     "importance": 3,
@@ -119,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "10月14日夕方に金と銀の価格が急速に下落した。具体的な下落幅や原因についての詳細情報が不足している。ベトナムからのニュースで地域的な取引の変動の可能性。"
-  },
-  {
-    "title": "ストライキの脅威と鉱山操業の混乱により、銅価格はレジスタンス付近で保ち合い - Traders Union",
-    "timestamp": "2026-10-14T12:19:34+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅鉱山でのストライキ脅威と操業混乱が供給リスク要因として認識されている。銅価格はレジスタンス水準での保ち合い局面。既報のストライキ懸念の継続報道。"
   },
   {
     "title": "NY金先物相場、下げ止まり 4123ドル台で推移 - TradingView",
@@ -1714,5 +1626,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "世界の原油価格が1バレルあたり110ドルに到達した。地政学的緊張やOPEC+の供給管理により、高値圏での推移が継続している。コモディティ投資家にとっては価格水準の確認情報。"
+  },
+  {
+    "title": "金価格、年末にかけ下押し圧力…「FRBの12月利上げ確率90%」 - BigGo ファイナンス",
+    "timestamp": "2026-10-17T11:35:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの12月利上げ確率が90%とされており、金価格に下押し圧力がかかる見通し。高金利環境は金の利回りを減少させ、ドル高を招くため金需要を低下させる。年末に向けて金価格は下降トレンドが予想されている。"
+  },
+  {
+    "title": "インフレ加速で金価格下落、シフ氏「買い場」と指摘 - BeInCrypto",
+    "timestamp": "2026-10-17T11:31:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インフレ加速局面において金価格が下落している。アナリストのシフ氏は現在を買い場と指摘。インフレ環境での金の買い圧力と価格下落のねじれが発生。"
+  },
+  {
+    "title": "金先物が現物価格を上回る取引は、本当に強気相場のシグナルなのか？ - TradingKey",
+    "timestamp": "2026-10-17T01:54:12+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物が現物価格を上回る取引状況について、それが強気相場の本当のシグナルかを問う解説記事。市場心理やテクニカル面の考察が中心。"
+  },
+  {
+    "title": "金価格は、金利上昇圧力と米ドルの支援の間で変動している。 - Vietnam.vn",
+    "timestamp": "2026-10-17T11:53:54+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は金利上昇圧力とドル強気の相反する要因の間で変動している。既知の対立軸の中での相場変動について記述した解説記事。"
+  },
+  {
+    "title": "ＷＴＩ原油先物、１か月ぶりに１バレル＝１００ドル突破…供給停滞への懸念強まる - 読売新聞",
+    "timestamp": "2026-10-17T10:03:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が1か月ぶりにバレル100ドルを突破。供給停滞への懸念が市場で高まっている。原油価格の上昇圧力が強まっている状況。"
+  },
+  {
+    "title": "ＷＴＩ原油先物、１か月ぶりに１バレル＝１００ドル突破…供給停滞への懸念強まる - ｄメニューニュース",
+    "timestamp": "2026-10-17T10:03:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が1か月ぶりに1バレル=100ドルを突破。供給停滞への懸念が強まっており、市場の不安心理が価格上昇を牽引している状況。"
+  },
+  {
+    "title": "NY原油、終値101ドル台 供給不安、1カ月ぶり高値 - 北海道新聞デジタル",
+    "timestamp": "2026-10-17T08:09:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油が101ドル台で終値し、1カ月ぶりの高値を更新。供給不安が価格を支えている。供給懸念は既に市場で認識されている状況。"
+  },
+  {
+    "title": "中東情勢の不安定化により、ブレント原油価格は1バレル110ドルに向けて上昇している。 - Vietnam.vn",
+    "timestamp": "2026-10-17T08:24:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の不安定化がきっかけでブレント原油が110ドル/バレルまで上昇している。地政学的リスクが原油供給への懸念を高めている。既に上昇トレンドが進行中の見報道。"
   }
 ]
