@@ -22,17 +22,6 @@
     "summary": "米CPI発表が市場予想を上回り、インフレ懸念が再燃。金価格は4104ドルまで下落した。ドル高・金利上昇圧力により、実質金利が上昇して金は売り優勢となった。"
   },
   {
-    "title": "金価格下落でFRB利上げ観測強まり、金鉱株が下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-14T19:53:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRBの利上げ観測の強まりが金価格を押し下げ、連動して金鉱株も下落。金は利上げ環境で割高になるため、機関投資家がポジションを削減している状況。"
-  },
-  {
     "title": "米国のインフレにより金価格が4,100ドルを下回る：保有すべきか、売却すべきか？ - Vietnam.vn",
     "timestamp": "2026-10-15T00:20:30+00:00",
     "importance": 2,
@@ -130,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムの記事で、世界原油価格が高止まり状況にあり、国内ガソリン価格の下落期待について論じている。既知の市場状況の解説記事。"
-  },
-  {
-    "title": "ＭＥＲＦ最高益更新 ８月期、銅相場上昇など寄与 - 北日本新聞webunプラス",
-    "timestamp": "2026-10-14T20:00:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "MERFが8月期に最高益を更新。銅相場上昇が利益増加に寄与した。企業業績好調を示すが、既に市場で織り込まれている内容。"
   },
   {
     "title": "１４日の主要国際商品市況 - 株探",
@@ -405,17 +383,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格上昇がコノコフィリップス（石油大手）の株価にポジティブな影響を与えることを解説したコメンタリー。石油企業の収益性は原油価格と正相関の関係にある。"
-  },
-  {
-    "title": "【決算（１４日）】売上、各利益過去最高 ＭＥＲＦ、主力材料の銅価格高騰｜経済｜石川のニュース - 北國新聞",
-    "timestamp": "2026-10-14T20:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅メーカーMERFの決算において売上・各利益が過去最高を記録。銅価格高騰が主要な好材料となっている。業績好調は銅需要の底堅さを反映している。"
   },
   {
     "title": "今日の午後（10月15日）の金価格：金投資家は買いのチャンスを利用している。 - Vietnam.vn",
@@ -1659,5 +1626,16 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "日本とニュージーランドの国際親善試合に関する雑談配信。銅価格との関連性が不明。スポーツイベントとコモディティ市場に直接的な関連なし。"
+  },
+  {
+    "title": "NY原油、1バレル100ドル超える 供給懸念で約1カ月ぶりの高値 - 朝日新聞",
+    "timestamp": "2026-10-16T22:04:14+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油が1バレル100ドルを超え、約1カ月ぶりの高値を更新。供給懸念が価格押し上げの主要因。地政学リスクまたはOPEC減産政策の影響の可能性。"
   }
 ]
