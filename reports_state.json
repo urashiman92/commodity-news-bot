@@ -1,38 +1,5 @@
 [
   {
-    "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
-    "timestamp": "2026-10-14T15:09:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イエメンのフーシ派がサウジアラムコ本社への攻撃成功後、サウジアラビアの空港と石油施設への追加攻撃を予告。中東の主要産油国の重要インフラが脅威にさらされており、供給ショックのリスクが顕在化。地政学的緊張の急速な高まりが価格上昇圧力になる。"
-  },
-  {
-    "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
-    "timestamp": "2026-10-14T15:09:46+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "イエメンのフーシ派がサウジアラムコ本社への攻撃成功後、サウジアラビアの空港と石油施設への追加攻撃を予告。中東の主要産油国の重要インフラが脅威にさらされており、供給ショックのリスクが顕在化。地政学的緊張の急速な高まりが価格上昇圧力になる。"
-  },
-  {
-    "title": "UAE Oil Production Surged to Records in September, IEA Says - Bloomberg.com",
-    "timestamp": "2026-10-14T15:27:22+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "IEAによると、UAEの9月石油生産が過去最高を記録した。一方、OPECプラスの減産枠拡大や世界的な需要懸念を背景に、供給増加は価格押し下げ圧力となる。地政学リスク減少と過剰供給シナリオが市場心理を重くする。"
-  },
-  {
     "title": "EIA reports U.S. crude inventories drop 3.2 million barrels as exports surge to 4.77 million barrels per day - Energies Media",
     "timestamp": "2026-10-15T02:11:35+00:00",
     "importance": 3,
@@ -64,28 +31,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "ロシア産アルミニウムがLME公式在庫の9月時点でほぼ100%を占めるという報告。ロシアへの西側制裁により他国アルミが流入できず、LME在庫市場がロシア産に完全に依存する状況を示唆。供給逼迫と地政学リスクが価格下支え要因となる。"
-  },
-  {
-    "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table - Mining.com",
-    "timestamp": "2026-10-14T16:31:40+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格予想が2026年向けに上方修正される一方、米国の関税政策の不確実性が重しとなっている。関税「急落」の可能性が残存し、需要見通しを揺さぶっている。2026年の銅需給は底堅いが、保護主義政策の展開次第で下振れリスク。"
-  },
-  {
-    "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table - Mining.com",
-    "timestamp": "2026-10-14T16:31:40+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅価格予想が2026年向けに上方修正される一方、米国の関税政策の不確実性が重しとなっている。関税「急落」の可能性が残存し、需要見通しを揺さぶっている。2026年の銅需給は底堅いが、保護主義政策の展開次第で下振れリスク。"
   },
   {
     "title": "Russia’s oil output falls 38,000 bpd in September to 8.643 million bpd, OPEC data shows - Pipeline and Gas Journal",
@@ -209,17 +154,6 @@
     "summary": "インド・ルピーが連続上昇。ドル軟化、原油価格の緩和、株式市場の堅調が背景。ドル安局面ではコモディティ全般が支援される一方、金利低下期待を反映した金への上値圧力と原油の需要懸念が混在。リスク資産買い優位の環境を示唆。"
   },
   {
-    "title": "Russia Says Drones Attacked Two Oil Refineries, Interfax Reports - Bloomberg.com",
-    "timestamp": "2026-10-14T16:46:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアが2つの石油精製所がドローン攻撃を受けたと発表。ウクライナによる継続的な供給インフラ攻撃は、ロシアの石油生産・精製能力の低下を示唆し、グローバルな供給懸念を強化。地政学的リスク再評価により、原油価格上昇圧力が高まる。"
-  },
-  {
     "title": "Zelenskyy Defies Trump, Orders New Russian Refinery Attacks - Bloomberg.com",
     "timestamp": "2026-10-15T09:42:44+00:00",
     "importance": 4,
@@ -295,39 +229,6 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "WASDE（米国農務省の月次需給予測）がトウモロコシ価格に下押し圧力をもたらした。タイトルから具体的な在庫増加や生産量上方修正が示唆されており、市場参加者の悲観的なセンチメントを反映している。予想比での具体的な数値は記事から不明だが、WASDEの定期発表は価格に直結する影響力が高い。"
-  },
-  {
-    "title": "USDA Crop Progress Report October 13, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-10-14T14:20:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年10月13日付のUSDA Crop Progress Reportが発表された。本レポートはトウモロコシ、大豆、綿花の収穫進捗状況を定期報告するもので、収穫時期の進展度合いを示す。具体的な数値が提供されていないため、市場への実質的なサプライズ度は判断不可。"
-  },
-  {
-    "title": "USDA Crop Progress Report October 13, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-10-14T14:20:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年10月13日付のUSDA Crop Progress Reportが発表された。本レポートはトウモロコシ、大豆、綿花の収穫進捗状況を定期報告するもので、収穫時期の進展度合いを示す。具体的な数値が提供されていないため、市場への実質的なサプライズ度は判断不可。"
-  },
-  {
-    "title": "USDA Crop Progress Report October 13, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-10-14T14:20:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年10月13日付のUSDA Crop Progress Reportが発表された。本レポートはトウモロコシ、大豆、綿花の収穫進捗状況を定期報告するもので、収穫時期の進展度合いを示す。具体的な数値が提供されていないため、市場への実質的なサプライズ度は判断不可。"
   },
   {
     "title": "Oil eases, but set for weekly gain on Mideast supply risks - Reuters",
@@ -528,14 +429,14 @@
     "summary": "米国のEIAが9月25日週の商業用原油在庫が0.9百万バレル増加したことを報告。在庫積み増しは原油供給過剰の圧力を示唆し、原油価格への下押し要因。週単位の在庫変動は通常の需給変動の範囲内。"
   },
   {
-    "title": "USDA Crop Progress Report October 13, 2026: Corn, Soybean, Cotton Harvest Updates - News and Statistics - IndexBox",
-    "timestamp": "2026-10-14T14:20:34+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
+    "title": "OPEC's Smallest Member Rewrites Oil Law - Rigzone",
+    "timestamp": "2026-10-17T12:05:44+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
     "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "綿花",
-    "summary": "USDA が 2026年10月13日に定期的な作物進捗レポート(Crop Progress Report)を発表。トウモロコシ、大豆、綿花の収穫状況に関する更新が含まれている。具体的な数値・進捗率が不明なため、市場への影響度は限定的と判断される。"
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの最小加盟国が石油法を改正したとの報道。具体的な法改正内容や生産量への直接的な影響は記事からは不明だが、OPECメンバーの政策変更は供給戦略に関連する可能性がある。改正内容によっては原油供給量や投資環境に影響する可能性あり。"
   }
 ]
