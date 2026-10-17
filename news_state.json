@@ -1,49 +1,5 @@
 [
   {
-    "title": "世界の金価格が急落している。 - Vietnam.vn",
-    "timestamp": "2026-10-14T17:39:11+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が急落している状況を報じるニュース。金相場が下降トレンドにあることを指摘。コモディティ市場全体の調整局面を反映している可能性。"
-  },
-  {
-    "title": "米国のインフレ率は予想以上に上昇し、金価格は急落した。 - Vietnam.vn",
-    "timestamp": "2026-10-14T17:27:15+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国インフレ率が予想を上回る上昇を記録した。金価格は急落した。インフレ加速は米連邦準備制度による金利据置きまたは引き上げ期待を強めたことが背景にある。"
-  },
-  {
-    "title": "10月14日の夕方、金と銀の価格は非常に急速に下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-14T16:11:21+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月14日夕方に金と銀の価格が急速に下落した。具体的な下落幅や原因についての詳細情報が不足している。ベトナムからのニュースで地域的な取引の変動の可能性。"
-  },
-  {
-    "title": "NY市場動向（午後2時台）：ダウ249ドル安、原油先物1.50ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-14T18:33:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY午後取引で原油先物が1.50ドル上昇。同時期にダウ平均は249ドル安で推移。個別の上昇要因は不明だが、ドル弱含み等の環境的要因の可能性。"
-  },
-  {
     "title": "NY金先物は3営業日続落、米9月CPIの上振れで追加利上げ観測が強まる｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-10-14T23:00:00+00:00",
     "importance": 4,
@@ -152,17 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "フーシ派によるサウジアラビアへの攻撃継続を背景に、WTI原油が5営業日続伸している。中東地政学リスクが価格を押し上げている状況の解説記事。"
-  },
-  {
-    "title": "ホルムズ海峡での船舶攻撃受け、アジア市場で原油価格上昇 - BigGo ファイナンス",
-    "timestamp": "2026-10-14T18:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡での船舶攻撃により、主要な石油輸送ルートの供給リスクが顕在化。アジア市場で原油価格が上昇。地政学的リスクが原油相場を押し上げている。"
   },
   {
     "title": "原油先物上昇、サウジ攻撃やイランの船舶攻撃新戦術受け - ｄメニューニュース",
@@ -339,17 +284,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "東京為替相場の見通しを述べた解説記事。原油価格と米長期債利回りが為替相場の重要な決定要因となる見通しが示されている。ファンダメンタルズ分析の枠組み提示であり、具体的な価格予想や新情報を含まない。"
-  },
-  {
-    "title": "米国の関税発動の脅威で米国の倉庫に銅在庫が積み上がるなか、銅価格は横ばいを維持 - Traders Union",
-    "timestamp": "2026-10-14T16:09:46+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国の関税発動懸念により、米国倉庫に銅在庫が積み上がっている。銅価格は現在横ばいで推移中。在庫増加による下落圧力と関税による需要減少懸念が相殺されている状況。"
   },
   {
     "title": "商品市場（2026年第3四半期）：流動性が急増し、資本の流れが回復する。 - Vietnam.vn",
@@ -1703,5 +1637,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ブレント原油が2026年5月以来初めて1バレル110ドル台に回復した。現在の価格水準は過去18ヶ月の高値レベルへの上昇を示唆している。"
+  },
+  {
+    "title": "$WTI 原油先物(2612) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
+    "timestamp": "2026-10-17T12:42:35+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物とブレント先物の現在値を表示するMoomooのリンク。具体的なニュース内容が不明。市場分析に必要な情報が欠落している。"
+  },
+  {
+    "title": "【雑談配信】日本vsニュージーランド 国際親善試合 Copper Price (6ZillDPTJf) - Unisba Media",
+    "timestamp": "2026-10-17T08:20:30+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "日本とニュージーランドの国際親善試合に関する雑談配信。銅価格との関連性が不明。スポーツイベントとコモディティ市場に直接的な関連なし。"
   }
 ]
