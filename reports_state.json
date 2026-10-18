@@ -1,38 +1,5 @@
 [
   {
-    "title": "US EIA Crude Oil Stocks Change (Oct/09) -8.557M vs. Exp. -0.3M (Prev. -3.186M) - Newsquawk",
-    "timestamp": "2026-10-15T16:20:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "10月9日のEIA原油在庫統計で、市場予想を大きく上回る855.7万バレルの減少を記録。予想は30万バレルの減少、前週は318.6万バレルの減少だった。この予想外の大幅な在庫減は原油供給逼迫を示唆し、価格上昇圧力となる。"
-  },
-  {
-    "title": "EIA Cushing Crude Oil Stocks Change (Oct/09) 1.862M (Prev. 0.444M) - Newsquawk",
-    "timestamp": "2026-10-15T16:20:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが発表したクッシング地区の原油在庫変化が前週0.444Mバレルから1.862Mバレルへ大幅に増加した。クッシングはWTI原油の重要な受け渡し拠点であり、在庫増加幅が4倍以上に拡大した点は注目に値する。米国内の原油在庫積み増しが加速している可能性を示唆している。"
-  },
-  {
-    "title": "IEA to speed up oil stocks release including over 20 million barrels of diesel - Reuters",
-    "timestamp": "2026-10-15T16:34:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEAが戦略石油備蓄（SPR）の放出を加速する。ディーゼル200万バレルを含む2000万バレル超の放出を実施。供給増加により原油価格に下押し圧力が生じ、特にディーゼル・精製品相場への影響が顕著。"
-  },
-  {
     "title": "Oil eases, but set for weekly gain on Mideast supply risks - Reuters",
     "timestamp": "2026-10-16T00:57:00+00:00",
     "importance": 3,
@@ -361,5 +328,16 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "Torr Metalsが保有するKolosプロジェクトの銅鉱化が注目を集めている。AI需要の急拡大と記録的な銅相場が同時に進行する中、同社の銅鉱床品位確認（アッセイ結果）が投資家の関心を高めている。銅は電動車やAIインフラに不可欠で、供給逼迫懸念が価格を支える構図が続いている。"
+  },
+  {
+    "title": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions - Reuters",
+    "timestamp": "2026-10-18T13:51:43+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の地域緊張を背景に、原油相場が上昇しサウジアラビア株式市場が買われた一方で、エジプト市場は売られた。地政学的リスク要因が原油供給への懸念を高め、サウジなどエネルギー関連企業の株価上昇に寄与。一方、紛争リスクを織り込むエジプト市場は下落圧力を受けた。"
   }
 ]
