@@ -22,28 +22,6 @@
     "summary": "ロシアの石油ガス収入が10月に前年同月比10%増の12億ドルと見込まれている。これは制裁下でもロシアが石油輸出を維持・拡大させていることを示唆する。価格上昇基調と供給継続性が市場に織り込まれた状況での報道。"
   },
   {
-    "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce - Reuters",
-    "timestamp": "2026-10-15T06:03:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア製油所への攻撃を実施し、ゼレンスキー大統領がトランプ政権とのエネルギー休戦に終止符を宣言した。地政学的緊張の再激化により、ロシア産原油の供給リスクが高まり、原油価格の上昇圧力が強まる可能性がある。停戦交渉の崩壊は供給不安をもたらす。"
-  },
-  {
-    "title": "Zelenskyy Defies Trump, Orders New Russian Refinery Attacks - Bloomberg.com",
-    "timestamp": "2026-10-15T09:42:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナのゼレンスキー大統領がトランプ米大統領の圧力に抵抗し、ロシアの製油所に対する新たな攻撃を命令。これまでウクライナが回避していた重要なエネルギーインフラへの直接攻撃が本格化することで、ロシアの石油精製能力の毀損が加速。欧州エネルギー市場とグローバル原油供給に対する懸念が急速に高まる可能性がある。"
-  },
-  {
     "title": "US EIA Crude Oil Stocks Change (Oct/09) -8.557M vs. Exp. -0.3M (Prev. -3.186M) - Newsquawk",
     "timestamp": "2026-10-15T16:20:00+00:00",
     "importance": 4,
@@ -264,28 +242,6 @@
     "summary": "WASDE（米国農務省需給報告書）の発表によってトウモロコシ先物が大きく変動した。同レポートは毎月定期発表される重要な統計で、米国産トウモロコシの生産量・在庫・需給見通しを発表する。価格が「rocked（揺さぶられた）」という表現から、市場予想から有意な乖離があった可能性が高い。"
   },
   {
-    "title": "USDA surprises again with higher corn and soybean yields - Agweek",
-    "timestamp": "2026-10-15T10:32:56+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月のWASDE予測でトウモロコシと大豆の単収見通しを再び上方修正した。市場予想を上回る高い単収が示されたことで、2024年の米国穀物供給が当初予想より大幅に増加する見通しが強まった。これにより両コモディティの在庫見通しが改善し、価格下押し圧力が強まっている。"
-  },
-  {
-    "title": "USDA surprises again with higher corn and soybean yields - Agweek",
-    "timestamp": "2026-10-15T10:32:56+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが9月のWASDE予測でトウモロコシと大豆の単収見通しを再び上方修正した。市場予想を上回る高い単収が示されたことで、2024年の米国穀物供給が当初予想より大幅に増加する見通しが強まった。これにより両コモディティの在庫見通しが改善し、価格下押し圧力が強まっている。"
-  },
-  {
     "title": "EIA reports U.S. commercial crude oil inventories rose by 0.9 million barrels for week ending September 25 - Energies Media",
     "timestamp": "2026-10-17T02:45:50+00:00",
     "importance": 2,
@@ -361,5 +317,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナの無人機がロシア西シベリアの産業施設を攻撃。同地域はロシアの主要なエネルギー・鉱物資源生産地であり、原油・ガス・金属生産への潜在的な供給障害をもたらす。地政学的リスク再燃によりコモディティ市場全体にリスク・プレミアム上乗せの可能性。"
+  },
+  {
+    "title": "Grains still struggling to find post-WASDE momentum - Farm Progress",
+    "timestamp": "2026-10-16T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDE発表後、穀物相場が上昇モメンタムを見出せず停滞している状況を報告するコメンタリー記事。市場参加者の間で需給見通しに対する確信が不足しており、穀物セクターが方向感を失っている段階。"
+  },
+  {
+    "title": "Grains still struggling to find post-WASDE momentum - Farm Progress",
+    "timestamp": "2026-10-16T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE発表後、穀物相場が上昇モメンタムを見出せず停滞している状況を報告するコメンタリー記事。市場参加者の間で需給見通しに対する確信が不足しており、穀物セクターが方向感を失っている段階。"
+  },
+  {
+    "title": "Grains still struggling to find post-WASDE momentum - Farm Progress",
+    "timestamp": "2026-10-16T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDE発表後、穀物相場が上昇モメンタムを見出せず停滞している状況を報告するコメンタリー記事。市場参加者の間で需給見通しに対する確信が不足しており、穀物セクターが方向感を失っている段階。"
+  },
+  {
+    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
+    "timestamp": "2026-10-16T07:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
+  },
+  {
+    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
+    "timestamp": "2026-10-16T07:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
+  },
+  {
+    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
+    "timestamp": "2026-10-16T07:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "原油",
+    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
+  },
+  {
+    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
+    "timestamp": "2026-10-16T07:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
+  },
+  {
+    "title": "OPEC Oil Output Rises in September - Egypt Oil & Gas",
+    "timestamp": "2026-10-18T07:37:15+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが9月の石油産出量の増加を報告した。これはOPEC減産合意の緩和またはメンバー国の増産を示唆する動き。市場予想との乖離度は不明だが、定例月次統計の一部として報告されたもの。供給増加は原油価格への下落圧力となる可能性がある。"
   }
 ]
