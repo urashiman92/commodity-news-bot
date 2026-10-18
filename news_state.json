@@ -1,93 +1,5 @@
 [
   {
-    "title": "金価格が再び急騰し、国内価格は世界価格より1オンスあたり1270万ベトナムドン高くなっている。 - Vietnam.vn",
-    "timestamp": "2026-10-15T16:59:45+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金国内価格が世界価格を大幅に上回っており、1オンスあたり1270万ベトナムドンのプレミアムが発生している。金価格全体は上昇基調にあるが、この現象は地域的な流動性や規制要因による既知の価格乖離。"
-  },
-  {
-    "title": "【速報】NY原油先物続伸、97ドルまで(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-15T15:20:20+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が97ドル水準まで続伸している。具体的な上昇要因や市場背景の詳細は記事概要では不明。速報ニュースとしての価格更新報道。"
-  },
-  {
-    "title": "【速報】NY原油先物続伸、97ドルまで｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-15T15:20:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が97ドル水準まで上昇した速報。具体的な上昇要因や新規材料は記事概要には明記されていない。継続的な上昇トレンドの途中経過を報じたもの。"
-  },
-  {
-    "title": "$WTI 原油先物(2612) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
-    "timestamp": "2026-10-15T15:44:16+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物とブレント先物の価格情報を掲載したMoomooのページ。具体的な価格変動や市場イベントの情報は含まれていない。単なるツール・プラットフォームの紹介と見られる。"
-  },
-  {
-    "title": "WTI原油価格は10月15日の取引で、3週間ぶりの高値から下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-15T16:11:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月15日のWTI原油取引で、3週間ぶりの高値から価格が下落した。相場の技術的な調整局面と考えられる。具体的な下落幅や要因の詳細は記事から不明。"
-  },
-  {
-    "title": "NY外為：ドル売り後退、NY原油先物100ドルも視野か、フーシ派のサウジ攻撃や露、ウクライナ戦争激化リスク - マネーポストWEB",
-    "timestamp": "2026-10-15T15:38:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル売り後退とフーシ派のサウジ攻撃、ウクライナ戦争激化といった地政学リスクが組み合わさり、NY原油先物が100ドル水準を視野に入れている状況を解説。既知の供給リスク要因が改めて注目されている。"
-  },
-  {
-    "title": "NY外為：ドル売り後退、NY原油先物100ドルも視野か、フーシ派のサウジ攻撃や露、ウクライナ戦争激化リスク - ｄメニューニュース",
-    "timestamp": "2026-10-15T15:38:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジ攻撃リスクとロシア・ウクライナ戦争激化がNY原油先物を100ドル水準へ押し上げる可能性。ドル売り後退も価格上昇要因として作用。"
-  },
-  {
-    "title": "本日2026年10月16日の金価格は急落し、今年最大の下げ幅を記録し、4,000ドルを下回る可能性もある。今が買い時なのか、それともより良い機会を待つべきなのか？ - Vietnam.vn",
-    "timestamp": "2026-10-15T17:16:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が本日急落し年初来最大の下げ幅を記録。4,000ドル割れの可能性も指摘されている。記事は買い場か観望かの投資判断を提示している。"
-  },
-  {
     "title": "本日（10月16日）の金価格：世界の金価格は回復、国内価格は安定。 - Vietnam.vn",
     "timestamp": "2026-10-15T21:54:08+00:00",
     "importance": 2,
@@ -108,17 +20,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "TDコーウェンがアナリスト予測で原油価格見通しを引き上げた。カナダ産原油生産者にとってはポジティブな材料となる見込み。"
-  },
-  {
-    "title": "WTI原油先物相場、底堅い 96ドル台前半で推移 - Moomoo",
-    "timestamp": "2026-10-15T17:08:08+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が96ドル台前半で底堅く推移している。特定の新規材料や急変動を示すニュースではなく、相場の現状維持を伝えるもの。"
   },
   {
     "title": "米コモディティー市場－原油、天然ガス、金、銀が上昇 ガソリン、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -1549,5 +1450,49 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "専門家が原油価格が「ハイパーサージ」サイクルに突入する可能性を警告。強気な価格見通しが示唆されている。具体的な材料や時間軸は記事概要では不明。"
+  },
+  {
+    "title": "金価格は本日（2026年10月19日）、「課題を克服」し、短期的な抵抗線を確立する見込み。専門家は明るい見通しを予測している。 - Vietnam.vn",
+    "timestamp": "2026-10-18T14:57:52+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が短期的な抵抗線を克服し、専門家が強気見通しを示している。技術的なサポートレベルの突破により、上値余地が生まれた可能性がある。"
+  },
+  {
+    "title": "アルジェリア産原油価格が急騰した。 - Vietnam.vn",
+    "timestamp": "2026-10-18T15:26:50+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アルジェリア産原油価格が急騰したとの報道。具体的な騰落率や原因は不明。ベトナムメディアからの限定的な情報のみ。"
+  },
+  {
+    "title": "フーシがサウジ東部の国営石油会社施設を攻撃…トランプ氏、イランが中間選挙を前に「意図的に原油価格つり上げ」と主張 - Yahoo!ニュース",
+    "timestamp": "2026-10-17T21:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ武装勢力がサウジアラビア東部の石油施設を攻撃。トランプ氏がイランの関与と中間選挙に向けた原油価格操作を主張。中東地政学リスクが原油需給に悪影響を与える可能性。"
+  },
+  {
+    "title": "【Singapore Vlog】関空✈︎シンガポール✈️｜マリーナベイサンズ宿泊🇸🇬｜インフィニティプール Copper Price (7IXd3GzZte) - Unisba Media",
+    "timestamp": "2026-10-18T03:53:07+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "シンガポール旅行ブログ動画であり、銅市場に関する具体的な情報は含まれていない。タイトルにCopperPriceと表記されているが、実質的な市場情報や統計データは欠如している。"
   }
 ]
