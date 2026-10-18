@@ -1,27 +1,5 @@
 [
   {
-    "title": "本日（10月16日）の金価格：世界の金価格は回復、国内価格は安定。 - Vietnam.vn",
-    "timestamp": "2026-10-15T21:54:08+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月16日時点の金価格レポート。世界市場では金価格が回復傾向を示し、国内（ベトナム）価格は安定している状況の報告。特段の新規材料や急変動は示唆されていない。"
-  },
-  {
-    "title": "TDコーウェン、原油価格予測を引き上げ―カナダ産原油生産者に好機 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-15T20:20:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "TDコーウェンがアナリスト予測で原油価格見通しを引き上げた。カナダ産原油生産者にとってはポジティブな材料となる見込み。"
-  },
-  {
     "title": "米コモディティー市場－原油、天然ガス、金、銀が上昇 ガソリン、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
     "timestamp": "2026-10-15T22:30:05+00:00",
     "importance": 2,
@@ -141,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムのガソリン価格が1,500VND以上下落した一方、WTI原油価格は再び急騰した。国内小売価格と国際相場の乖離を示唆するニュース。"
-  },
-  {
-    "title": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-10-15T22:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "丸紅社長がエネルギー・銅価格の上昇による収益改善に期待を示した。供給網混乱への対応が進められている。大手商社トップの強気見通しだが、既に市場で認識されている傾向の確認。"
   },
   {
     "title": "１５日の主要国際商品市況 - 株探",
@@ -1483,5 +1450,38 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "アナリスト見解として原油が来週100ドルに到達する可能性が指摘されている。現在の相場環境において、この価格帯はほぼ想定の範囲内と考えられる。解説記事のため、既に市場に織り込まれている可能性が高い。"
+  },
+  {
+    "title": "金価格の最新情報、2026年10月19日午前：SJC、プレーン9999 DOJI BTMC Phu Quyリング。 - Vietnam.vn",
+    "timestamp": "2026-10-18T21:20:53+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報（SJC、DOJI、BTMC、Phu Quyブランド）の2026年10月19日午前の相場発表。ベトナム国内の小売金価格の日次引値情報。"
+  },
+  {
+    "title": "原油、26年末に85ドル程度 米イランの交渉進展で - 日本経済新聞",
+    "timestamp": "2026-10-18T20:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイランの交渉進展を背景に、原油価格は2026年末に85ドル程度まで低下する見通しが示された。イラン核合意の進展による供給リスク低下が主要因。"
+  },
+  {
+    "title": "マクロン大統領「デモの要求理解、原油高は仏責任でない」 - 조선일보",
+    "timestamp": "2026-10-18T18:39:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "マクロン大統領がフランスの燃料税抗議デモに関し、デモ参加者の要求に一定の理解を示しつつ、原油価格上昇はフランスの責任ではないとの立場を表明。政治的な説明責任の発言。"
   }
 ]
