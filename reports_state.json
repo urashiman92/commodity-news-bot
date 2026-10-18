@@ -1,60 +1,5 @@
 [
   {
-    "title": "EIA reports U.S. crude inventories drop 3.2 million barrels as exports surge to 4.77 million barrels per day - Energies Media",
-    "timestamp": "2026-10-15T02:11:35+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の3.2百万バレル減少を報告。同時に原油輸出が日量4.77百万バレルまで急増した。在庫減少は需給引き締まりのシグナルだが、輸出増加は戦略的備蓄の取り崩しと国内需要の組み合わせを示唆。"
-  },
-  {
-    "title": "API reports a massive drop in US crude stocks – Trading Economics - https://www.engine.online/",
-    "timestamp": "2026-10-15T04:48:52+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が大幅に減少したことをAPIが報告。在庫の急激な低下は原油供給の逼迫を示唆し、WTI原油価格への上昇圧力となる可能性が高い。EIA週間統計の定例報告であり、市場予想を大きく下回る在庫減少が確認されたものと推定される。"
-  },
-  {
-    "title": "Russia’s oil output falls 38,000 bpd in September to 8.643 million bpd, OPEC data shows - Pipeline and Gas Journal",
-    "timestamp": "2026-10-15T02:24:04+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ロシアの原油生産量が9月に日量38,000バレル減少し、864.3万バレル/日となった。OPEC統計による報告。ウクライナ情勢と国際制裁の影響を反映した継続的な減少傾向である。"
-  },
-  {
-    "title": "Oil prices retreat as investors weigh supply outlook, Middle East tensions - Reuters",
-    "timestamp": "2026-10-15T01:30:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "投資家は供給見通しと中東緊張のバランスを考慮する中で原油価格が後退している。市場は供給懸念と需要見通しの相互作用を評価している段階であり、地政学的リスクと市場ファンダメンタルズが相殺している状況を示唆している。"
-  },
-  {
-    "title": "Oil Holds Gain as Middle East and Russia Strikes Threaten Supply - Bloomberg.com",
-    "timestamp": "2026-10-15T04:38:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東およびロシアでの攻撃・ストライキが原油供給を脅かす状況が報告された。地政学的緊張による供給リスク顕在化が原油価格を押し上げている。戦争・紛争リスク、インフラ攻撃による生産停止懸念が市場心理を悪化させ、リスクプレミアムが上昇している。"
-  },
-  {
     "title": "Russia's oil and gas revenue seen up 10% y/y in October to $12 billion - Reuters",
     "timestamp": "2026-10-15T11:26:09+00:00",
     "importance": 2,
@@ -75,28 +20,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの石油ガス収入が10月に前年同月比10%増の12億ドルと見込まれている。これは制裁下でもロシアが石油輸出を維持・拡大させていることを示唆する。価格上昇基調と供給継続性が市場に織り込まれた状況での報道。"
-  },
-  {
-    "title": "Gold climbs over 1% on softer dollar, yields ahead of US inflation data - Reuters",
-    "timestamp": "2026-10-15T03:18:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "金価格が1%以上上昇。米ドル軟化と利回り低下が買い材料となった。米インフレデータ発表を控えた様子見姿勢も影響。インフレ統計が市場予想より弱いシナリオでは、FRBによる利上げ停止期待から金のさらなる上昇も視野に入る。"
-  },
-  {
-    "title": "Gold climbs over 1% on softer dollar, yields ahead of US inflation data - Reuters",
-    "timestamp": "2026-10-15T03:18:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金価格が1%以上上昇。米ドル軟化と利回り低下が買い材料となった。米インフレデータ発表を控えた様子見姿勢も影響。インフレ統計が市場予想より弱いシナリオでは、FRBによる利上げ停止期待から金のさらなる上昇も視野に入る。"
   },
   {
     "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce - Reuters",
@@ -108,39 +31,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア製油所への攻撃を実施し、ゼレンスキー大統領がトランプ政権とのエネルギー休戦に終止符を宣言した。地政学的緊張の再激化により、ロシア産原油の供給リスクが高まり、原油価格の上昇圧力が強まる可能性がある。停戦交渉の崩壊は供給不安をもたらす。"
-  },
-  {
-    "title": "Rupee extends winning streak as dollar, oil ease and stocks rally - Reuters",
-    "timestamp": "2026-10-15T02:58:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド・ルピーが連続上昇。ドル軟化、原油価格の緩和、株式市場の堅調が背景。ドル安局面ではコモディティ全般が支援される一方、金利低下期待を反映した金への上値圧力と原油の需要懸念が混在。リスク資産買い優位の環境を示唆。"
-  },
-  {
-    "title": "Rupee extends winning streak as dollar, oil ease and stocks rally - Reuters",
-    "timestamp": "2026-10-15T02:58:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "インド・ルピーが連続上昇。ドル軟化、原油価格の緩和、株式市場の堅調が背景。ドル安局面ではコモディティ全般が支援される一方、金利低下期待を反映した金への上値圧力と原油の需要懸念が混在。リスク資産買い優位の環境を示唆。"
-  },
-  {
-    "title": "Rupee extends winning streak as dollar, oil ease and stocks rally - Reuters",
-    "timestamp": "2026-10-15T02:58:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド・ルピーが連続上昇。ドル軟化、原油価格の緩和、株式市場の堅調が背景。ドル安局面ではコモディティ全般が支援される一方、金利低下期待を反映した金への上値圧力と原油の需要懸念が混在。リスク資産買い優位の環境を示唆。"
   },
   {
     "title": "Zelenskyy Defies Trump, Orders New Russian Refinery Attacks - Bloomberg.com",
@@ -449,5 +339,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁解除方針を「誤り」と批判。ロシア制裁の緩和は原油・ガス供給の逆風圧力を軽減する可能性がある一方、地政学的緊張の継続がエネルギー市場のボラティリティを維持する見通し。"
+  },
+  {
+    "title": "Drones Hit Russian Industrial Site Deep in Western Siberia - Bloomberg.com",
+    "timestamp": "2026-10-16T14:19:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナの無人機がロシア西シベリアの産業施設を攻撃。同地域はロシアの主要なエネルギー・鉱物資源生産地であり、原油・ガス・金属生産への潜在的な供給障害をもたらす。地政学的リスク再燃によりコモディティ市場全体にリスク・プレミアム上乗せの可能性。"
+  },
+  {
+    "title": "Drones Hit Russian Industrial Site Deep in Western Siberia - Bloomberg.com",
+    "timestamp": "2026-10-16T14:19:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナの無人機がロシア西シベリアの産業施設を攻撃。同地域はロシアの主要なエネルギー・鉱物資源生産地であり、原油・ガス・金属生産への潜在的な供給障害をもたらす。地政学的リスク再燃によりコモディティ市場全体にリスク・プレミアム上乗せの可能性。"
   }
 ]
