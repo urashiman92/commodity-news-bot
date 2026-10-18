@@ -1,27 +1,5 @@
 [
   {
-    "title": "今日の午後（10月15日）の金価格：金投資家は買いのチャンスを利用している。 - Vietnam.vn",
-    "timestamp": "2026-10-15T13:05:52+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月15日午後の金価格について、投資家が買い場を捉えている状況を報じたコメンタリー記事。金相場が買い圧力を受けており、ドルの動向や地政学的不確実性が支援材料となっている可能性。"
-  },
-  {
-    "title": "主要テクニカル水準を下回り売り圧力が強まるなか、銅価格は下落 - Traders Union",
-    "timestamp": "2026-10-15T12:19:41+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が主要テクニカル水準を下回り、売り圧力が強まっている。テクニカル分析に基づく相場解説で、既に進行中の下落トレンドの確認。"
-  },
-  {
     "title": "金価格が再び急騰し、国内価格は世界価格より1オンスあたり1270万ベトナムドン高くなっている。 - Vietnam.vn",
     "timestamp": "2026-10-15T16:59:45+00:00",
     "importance": 2,
@@ -449,17 +427,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "砂糖価格が上昇する一方で銅価格が急落した。銅投資家にとっては価格下落が進行している市場環境を示唆するニュース。コモディティ市場全体で異なる動きが見られている。"
-  },
-  {
-    "title": "中金黄金、26年1－9月期は50－58％増益の見通し 金・銅価格の上昇が寄与 - TradingView",
-    "timestamp": "2026-10-15T14:14:53+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "中国の主要金採掘企業・中金黄金が2026年1-9月期に50-58%の増益を見通している。金・銅価格の上昇が主要な増益要因。企業業績改善の見通しだが、既に金銅価格上昇は市場に織り込まれている。"
   },
   {
     "title": "１５日の主要国際商品市況 - ライブドアニュース",
@@ -1527,5 +1494,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "保護猫の生活風景に関する動物園系コンテンツ。銅価格との関連性なし。ニュースフィードの誤分類と推定される。"
+  },
+  {
+    "title": "10月18日現在の金価格：世界の金価格は安定しているが、来週には突破口が開かれるだろうか？ - Vietnam.vn",
+    "timestamp": "2026-10-18T05:08:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月18日時点の金価格は世界的に安定している状況を報じたもの。来週にブレイクアウト（相場の方向性が決まる）の可能性があると分析されている。"
+  },
+  {
+    "title": "原油が110ドル目前に急騰、中東情勢の緊迫化と米在庫の急減で - BigGo ファイナンス",
+    "timestamp": "2026-10-18T11:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油が110ドル目前まで急騰。中東情勢の緊迫化と米国の在庫が急減したことが主要な要因。供給リスク懸念と需給逼迫が市場心理を強気に傾けている。"
+  },
+  {
+    "title": "10月18日のガソリン価格の更新:WTI原油が週に10%以上上昇 - Laodong.vn",
+    "timestamp": "2026-10-18T11:55:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が週間で10%以上上昇した。ベトナムのメディアがガソリン価格の更新とともに報じている。価格動向の振り返り記事と推定される。"
+  },
+  {
+    "title": "WTI原油先物、1か月ぶりに1バレル=100ドル突破...供給停滞への懸念強まる（読売新聞） - グノシー",
+    "timestamp": "2026-10-18T01:01:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が1か月ぶりに100ドル/バレルを突破。供給停滞への懸念が価格上昇を牽引している。地政学リスクと需給逼迫が重なった形。"
+  },
+  {
+    "title": "専門家は、原油価格が「ハイパーサージ」サイクルに突入する可能性があると警告している。 - Vietnam.vn",
+    "timestamp": "2026-10-18T01:57:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "専門家が原油価格が「ハイパーサージ」サイクルに突入する可能性を警告。強気な価格見通しが示唆されている。具体的な材料や時間軸は記事概要では不明。"
   }
 ]
