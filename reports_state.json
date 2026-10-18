@@ -1,27 +1,5 @@
 [
   {
-    "title": "Russia's oil and gas revenue seen up 10% y/y in October to $12 billion - Reuters",
-    "timestamp": "2026-10-15T11:26:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの石油ガス収入が10月に前年同月比10%増の12億ドルと見込まれている。これは制裁下でもロシアが石油輸出を維持・拡大させていることを示唆する。価格上昇基調と供給継続性が市場に織り込まれた状況での報道。"
-  },
-  {
-    "title": "Russia's oil and gas revenue seen up 10% y/y in October to $12 billion - Reuters",
-    "timestamp": "2026-10-15T11:26:09+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの石油ガス収入が10月に前年同月比10%増の12億ドルと見込まれている。これは制裁下でもロシアが石油輸出を維持・拡大させていることを示唆する。価格上昇基調と供給継続性が市場に織り込まれた状況での報道。"
-  },
-  {
     "title": "US EIA Crude Oil Stocks Change (Oct/09) -8.557M vs. Exp. -0.3M (Prev. -3.186M) - Newsquawk",
     "timestamp": "2026-10-15T16:20:00+00:00",
     "importance": 4,
@@ -44,28 +22,6 @@
     "summary": "EIAが発表したクッシング地区の原油在庫変化が前週0.444Mバレルから1.862Mバレルへ大幅に増加した。クッシングはWTI原油の重要な受け渡し拠点であり、在庫増加幅が4倍以上に拡大した点は注目に値する。米国内の原油在庫積み増しが加速している可能性を示唆している。"
   },
   {
-    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-15T13:10:50+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "トランプ前大統領によるOPEC破壊の政策がOPECの結束を弱体化させ、石油市場の安定性が損なわれたとの分析。OPEC減産メカニズムの有効性低下により、原油価格の変動性が増す可能性。トランプ政策がエネルギー市場秩序の再編をもたらし、今後の政策転換で意図しない市場混乱のリスク。"
-  },
-  {
-    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-15T13:10:50+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ前大統領によるOPEC破壊の政策がOPECの結束を弱体化させ、石油市場の安定性が損なわれたとの分析。OPEC減産メカニズムの有効性低下により、原油価格の変動性が増す可能性。トランプ政策がエネルギー市場秩序の再編をもたらし、今後の政策転換で意図しない市場混乱のリスク。"
-  },
-  {
     "title": "IEA to speed up oil stocks release including over 20 million barrels of diesel - Reuters",
     "timestamp": "2026-10-15T16:34:43+00:00",
     "importance": 3,
@@ -75,17 +31,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "IEAが戦略石油備蓄（SPR）の放出を加速する。ディーゼル200万バレルを含む2000万バレル超の放出を実施。供給増加により原油価格に下押し圧力が生じ、特にディーゼル・精製品相場への影響が顕著。"
-  },
-  {
-    "title": "WASDE Hands Corn Prices Another Blow - Farms.com",
-    "timestamp": "2026-10-15T11:46:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米国農務省の月次需給予測）がトウモロコシ価格に下押し圧力をもたらした。タイトルから具体的な在庫増加や生産量上方修正が示唆されており、市場参加者の悲観的なセンチメントを反映している。予想比での具体的な数値は記事から不明だが、WASDEの定期発表は価格に直結する影響力が高い。"
   },
   {
     "title": "Oil eases, but set for weekly gain on Mideast supply risks - Reuters",
@@ -152,17 +97,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECの最小規模加盟国が石油法を改正し、探鉱活動を促進する政策を実施。供給側の長期的な探査意欲を高める措置だが、短期的な供給変化ではなく、中期的なサプライサイド強化の姿勢を示すもの。既に報道済みの政策枠組みの続報と見られる。"
-  },
-  {
-    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
-    "timestamp": "2026-10-15T11:29:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で現在の産出目標を据え置く方針。供給政策の維持により、市場は既に織り込み済みの内容。追加的な減産措置や増産計画がない限り、価格への大きな変動要因は限定的。"
   },
   {
     "title": "Global fuel oil market stays tight as conflicts hit Mideast, Russia supplies, Vitol says - Reuters",
@@ -405,5 +339,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECが9月の石油産出量の増加を報告した。これはOPEC減産合意の緩和またはメンバー国の増産を示唆する動き。市場予想との乖離度は不明だが、定例月次統計の一部として報告されたもの。供給増加は原油価格への下落圧力となる可能性がある。"
+  },
+  {
+    "title": "Record Copper & AI Demand Put Torr Metals' Kolos Assays in the Spotlight - Streetwise Reports",
+    "timestamp": "2026-10-16T09:27:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "Torr Metalsが保有するKolosプロジェクトの銅鉱化が注目を集めている。AI需要の急拡大と記録的な銅相場が同時に進行する中、同社の銅鉱床品位確認（アッセイ結果）が投資家の関心を高めている。銅は電動車やAIインフラに不可欠で、供給逼迫懸念が価格を支える構図が続いている。"
+  },
+  {
+    "title": "Record Copper & AI Demand Put Torr Metals' Kolos Assays in the Spotlight - Streetwise Reports",
+    "timestamp": "2026-10-16T09:27:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "Torr Metalsが保有するKolosプロジェクトの銅鉱化が注目を集めている。AI需要の急拡大と記録的な銅相場が同時に進行する中、同社の銅鉱床品位確認（アッセイ結果）が投資家の関心を高めている。銅は電動車やAIインフラに不可欠で、供給逼迫懸念が価格を支える構図が続いている。"
   }
 ]
