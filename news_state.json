@@ -1,27 +1,5 @@
 [
   {
-    "title": "米コモディティー市場－原油、天然ガス、金、銀が上昇 ガソリン、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-15T22:30:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティー市場で混合的な値動き。エネルギー・貴金属は上昇、農産物・ベースメタルは下落。市場の分散した相場観を反映している。"
-  },
-  {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4170ドル｜米長期金利やドルインデックスの低下が影響した模様(2026年10月16日) - OANDA証券",
-    "timestamp": "2026-10-15T23:05:07+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4170ドルまで上昇した。米長期金利の低下とドルインデックスの下落が主要な支援要因となった。市況の振り返り・解説ニュースであり、既に織り込まれた動きの説明。"
-  },
-  {
     "title": "世界の金価格は反転上昇する。 - Vietnam.vn",
     "timestamp": "2026-10-16T00:51:40+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "世界の金価格が反転上昇するとの見通しが報じられている。具体的な根拠や時系列が不明だが、コモディティ市場の観測記事と考えられる。"
-  },
-  {
-    "title": "ニューヨーク原油・金先物市場概況（15日）原油は6日続伸 - Moomoo",
-    "timestamp": "2026-10-15T22:42:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク原油先物が6日続伸。市場概況の定期的な相場振り返りニュース。具体的な材料や数値が示されていない。"
   },
   {
     "title": "金価格は今後2年間で過去最高値を更新する可能性がある。 - Vietnam.vn",
@@ -55,17 +22,6 @@
     "summary": "アナリスト予想として、金価格が今後2年間で過去最高値を更新する可能性があると報道。インフレ懸念や金融不安定性がドライバーと想定される。既に市場で織り込まれつつある見通しの範疇。"
   },
   {
-    "title": "本日10月16日の金価格：世界的な価格高騰、SJCの金価格は横ばい。 - Vietnam.vn",
-    "timestamp": "2026-10-15T23:52:07+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月16日の金価格について、世界的には上昇傾向にあるが、ベトナムのSJC金価格は横ばいで推移している。地域によって価格動向に乖離が見られる状況。"
-  },
-  {
     "title": "米ドル安を受けて、世界の金価格は1％以上上昇した。 - Vietnam.vn",
     "timestamp": "2026-10-16T00:51:40+00:00",
     "importance": 2,
@@ -75,94 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米ドル安を背景に金価格が1%以上上昇した。ドル安時には金の相対的な購買力が低下するため、金価格は通常ドル高局面では上昇する傾向。既知の相場メカニズムの範囲内での動き。"
-  },
-  {
-    "title": "原油価格が小幅下落、WTIは週間で大幅高の見通し 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-15T23:57:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "本日の原油は小幅下落で推移。ただしWTIは週間ベースで大幅高の見通しとなっている。短期的な調整局面と週間での上昇トレンドが共存している状況。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：米国とイランの戦闘再開や中東情勢悪化が懸念され、原油価格は6営業日続伸（2026年10月16日） - OANDA証券",
-    "timestamp": "2026-10-15T23:13:50+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの戦闘再開や中東情勢悪化への懸念により、WTI原油は6営業日連続で上昇。地政学的リスクが価格を支えている状況。"
-  },
-  {
-    "title": "UBS 原油先物ファンド【50311092】：基準価格・投資信託情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-10-15T22:29:02+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "UBS原油先物ファンド【50311092】の基準価格・投資信託情報をYahoo!ファイナンスが掲載。これは投信の基準価格情報の提示であり、新たな市場イベントではない。"
-  },
-  {
-    "title": "本日10月16日の燃料価格：ガソリン価格は1,500ベトナムドン以上下落した一方、WTI原油価格は再び急騰した。 - Vietnam.vn",
-    "timestamp": "2026-10-15T23:31:52+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムのガソリン価格が1,500VND以上下落した一方、WTI原油価格は再び急騰した。国内小売価格と国際相場の乖離を示唆するニュース。"
-  },
-  {
-    "title": "１５日の主要国際商品市況 - 株探",
-    "timestamp": "2026-10-15T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "15日の主要国際商品市況の日次相場情報の発表。具体的な価格変動方向や市場材料が記事概要には示されていない。市場振り返りまたは定期的な相場報道と思われる。"
-  },
-  {
-    "title": "１５日の主要国際商品市況 (2026年10月16日掲載) - ライブドアニュース",
-    "timestamp": "2026-10-15T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2026年10月15日の主要国際商品市況についての記事。具体的な価格データや市場動向の詳細が記事概要に記載されていない。"
-  },
-  {
-    "title": "NY金先物が反発、長期金利低下とドル安で買い戻し 原油は5日続伸 - BigGo ファイナンス",
-    "timestamp": "2026-10-16T00:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が反発し、長期金利低下とドル安が買い戻しを誘った。原油も5日連続上昇。マクロ環境の変化が金と原油の双方に支援材料となっている。"
-  },
-  {
-    "title": "NY金先物は反発、米小売売上高の鈍化と信用不安を背景にした金利低下・ドル安で買い戻し - ザイFX！",
-    "timestamp": "2026-10-15T22:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米小売売上高が鈍化し、信用不安が台頭する中で金利低下とドル安が進行。これらの要因が金を買い戻させ、NY金先物が反発した。リスク回避姿勢が金需要を支えている。"
   },
   {
     "title": "国内の金価格は安定している。 - Vietnam.vn",
@@ -185,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "FRB議長による金利シグナルを市場が注視している状況。金利低下シグナルは金（利息なし資産）の買い材料となる。今後の政策決定が金価格の方向性を決める重要な局面。"
-  },
-  {
-    "title": "現物金価格は反転して下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-16T00:10:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "現物金価格が反転して下落した。ベトナムのメディア報道による相場の振り返り。具体的な下落要因や規模については記事要約からは不明。"
   },
   {
     "title": "10月16日の金価格：世界の金価格は回復、国内の金価格は高水準を維持。 - Vietnam.vn",
@@ -231,17 +88,6 @@
     "summary": "米国の対イラン「影の船団」制裁緩和の可能性が探り合われており、市場は慎重な様子見姿勢。原油先物は小幅安で推移。制裁緩和が実現すればイラン産原油供給増加につながる可能性がある。"
   },
   {
-    "title": "原油相場、不安定な動き－エネルギー停戦期待とサウジ攻撃が交錯 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-10-15T23:22:40+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場が不安定な動きを見せており、エネルギー停戦期待による下押し圧力とサウジアラビア関連の攻撃リスクによる上昇圧力が相反している。市場が両要因の綱引き状態にある。"
-  },
-  {
     "title": "世界の原油価格はわずかに変動した。 - Vietnam.vn",
     "timestamp": "2026-10-16T02:24:41+00:00",
     "importance": 1,
@@ -273,17 +119,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "砂糖価格が上昇する一方で銅価格が急落した。銅投資家にとっては価格下落が進行している市場環境を示唆するニュース。コモディティ市場全体で異なる動きが見られている。"
-  },
-  {
-    "title": "１５日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-10-15T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "15日の主要国際商品市況についての報道。具体的な価格動向や市場イベントの詳細が記事内容から不明。"
   },
   {
     "title": "金価格は小幅上昇したが、依然として週間ベースでは下落傾向にある。 - Vietnam.vn",
@@ -1483,5 +1318,192 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "マクロン大統領がフランスの燃料税抗議デモに関し、デモ参加者の要求に一定の理解を示しつつ、原油価格上昇はフランスの責任ではないとの立場を表明。政治的な説明責任の発言。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4165ドル｜原油高によるインフレ懸念が影響した模様(2026年10月19日) - OANDA証券",
+    "timestamp": "2026-10-18T23:05:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4165ドルまで下落した。原油高によるインフレ懸念が影響。実質金利上昇圧力により金の相対的な魅力が低下。"
+  },
+  {
+    "title": "金価格は変動するが、主要な投資家は依然として5000ドル台を目標としている。 - Vietnam.vn",
+    "timestamp": "2026-10-18T23:19:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "主要投資家が金価格の5000ドル台目標を維持している旨の解説記事。現在の変動相場の中で、長期的な強気見通しが継続していることが示唆される。"
+  },
+  {
+    "title": "10月19日朝の金価格更新:あるブランドが金リングの価格を上げる - Laodong.vn",
+    "timestamp": "2026-10-18T23:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトが10月19日朝時点での金価格動向を報道。あるブランドが金リングの価格を上げたという小売レベルの動き。マクロ市場への直接的な影響なし。"
+  },
+  {
+    "title": "本日（10月19日）の金価格：投資家は下落を予想している。 - Vietnam.vn",
+    "timestamp": "2026-10-18T22:21:35+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月19日の金価格について、投資家が下落を予想しているとの報道。アナリスト見解やコンセンサス予想の紹介であり、既に市場で織り込まれている可能性が高い。"
+  },
+  {
+    "title": "本日（10月19日）の金価格：引き続き安定。 - Vietnam.vn",
+    "timestamp": "2026-10-18T23:18:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの報道による10月19日の金価格動向についての記事。「引き続き安定」と述べられており、特段の価格変動は報告されていない。"
+  },
+  {
+    "title": "2026年10月19日現在の金価格：週明けに金地金や金の指輪はいくらで売れるだろうか？ - Vietnam.vn",
+    "timestamp": "2026-10-19T00:18:05+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトが2026年10月19日時点の金価格と、週明けの金地金・金の指輪の売却価格予想を掲載。地域特有の市場情報であり、グローバルなコモディティ市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "10月19日の金価格：回復後、金価格は再び下落圧力に直面している。 - Vietnam.vn",
+    "timestamp": "2026-10-18T23:50:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月19日の金価格は回復後、再び下落圧力に直面している状況を報じている。相場の短期的な方向性を述べた解説記事で、具体的な新規材料は含まれていない。"
+  },
+  {
+    "title": "本日（2026年10月19日）の金価格：SJC、BTMC、PNJ、フークイ、および国際金価格。 - Vietnam.vn",
+    "timestamp": "2026-10-18T23:11:46+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの複数の金商人（SJC、BTMC、PNJ、フークイ）による2026年10月19日の金価格情報。国内金価格と国際金価格の日次相場報告。"
+  },
+  {
+    "title": "本日（2026年10月19日）の金価格：SJC金地金、BTMC 9999プレーンリング、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-10-18T23:02:23+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報提供ニュース。SJC金地金とBTMC 9999の国内価格と世界金価格の日次情報配信記事。"
+  },
+  {
+    "title": "原油価格の動向やカナダCPIが相場材料に!? - マネースクエア",
+    "timestamp": "2026-10-18T23:52:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の動向とカナダCPIデータが相場の注目材料となっていることを解説したコンテンツ。具体的な価格変動や新規材料については記載なし。既存の市場テーマの振り返り。"
+  },
+  {
+    "title": "中東情勢不安に…WTI・ブレント原油価格がまた100ドル突破（中央日報日本語版） - Yahoo!ニュース",
+    "timestamp": "2026-10-18T23:43:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の不安定化によりWTIおよびブレント原油が100ドルを再び突破した。供給リスク懸念が相場を押し上げている。地政学的リスクが原油市場の重要なサポート要因として機能している状況。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：中東情勢の悪化による原油供給懸念から、原油価格は7営業日続伸（2026年10月19日） - OANDA証券",
+    "timestamp": "2026-10-18T23:26:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の悪化を受けて、原油供給懸念から7営業日連続で価格が上昇している。既に市場に認識されている地政学的リスクの継続と見られる。"
+  },
+  {
+    "title": "国際原油価格が取引中に急落、WTIが99ドル割れ 中東・ロシア・ウクライナ情勢がエネルギー市場を揺さぶる - BigGo ファイナンス",
+    "timestamp": "2026-10-18T23:35:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が99ドル割れまで急落。中東・ロシア・ウクライナの地政学的緊張がエネルギー市場に大きな影響を与えている。供給サイドの不確実性が価格の激しい変動を引き起こしている。"
+  },
+  {
+    "title": "2026年10月19日の燃料価格：世界の原油価格は週初めに反転し、下落する。 - Vietnam.vn",
+    "timestamp": "2026-10-18T23:18:57+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月19日の週初めに世界原油価格が反転し下落した。具体的な下落要因は記事から明確には読み取れない。通常のボラティリティ範囲内での相場調整と推定される。"
+  },
+  {
+    "title": "イラン要求で原油価格110ドル接近 - FinanceFeeds",
+    "timestamp": "2026-10-18T21:21:06+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランの要求により原油価格が110ドル水準に接近している。地政学的緊張の高まりが供給リスク懸念を生じさせている。具体的な要求内容は本要約では不明。"
+  },
+  {
+    "title": "2026年10月19日現在の燃料価格：世界の原油価格は週初めにわずかに下落した。 - Vietnam.vn",
+    "timestamp": "2026-10-19T00:18:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "2026年10月19日現在、世界の原油価格は週初めにわずかに下落した。記事は週間の値動きを振り返るコメンタリーであり、具体的な下落要因や数値は記載されていない。"
+  },
+  {
+    "title": "１６日の主要国際商品市況 - 株探",
+    "timestamp": "2026-10-18T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "16日の主要国際商品市況の定期レポート。具体的な価格動向や個別商品の変化は記事本文を確認する必要あり。相場の日次振り返り記事と考えられる。"
   }
 ]
