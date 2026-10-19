@@ -1,49 +1,5 @@
 [
   {
-    "title": "OPEC’s Smallest Member Rewrites Oil Law to Encourage Exploration - Bloomberg.com",
-    "timestamp": "2026-10-16T11:22:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの最小規模加盟国が石油法を改正し、探鉱活動を促進する政策を実施。供給側の長期的な探査意欲を高める措置だが、短期的な供給変化ではなく、中期的なサプライサイド強化の姿勢を示すもの。既に報道済みの政策枠組みの続報と見られる。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Drop Almost 9MM Barrels WoW - Rigzone",
-    "timestamp": "2026-10-16T14:10:44+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間ベースで約900万バレル減少した。EIAの週間在庫統計は定期発表であり、原油需給バランスを示す重要指標である。ただしニュースソースのみでは事前予想値が不明であるため、サプライズ度は判断困難。"
-  },
-  {
-    "title": "Cushing inventory is growing - Oklahoma Energy Today",
-    "timestamp": "2026-10-16T13:09:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によるクッシング地点の原油在庫増加を報告。クッシングはWTI先物の受渡地点であり、在庫増加は供給過剰の兆候を示唆する。在庫積増傾向は原油価格への下押し圧力となる可能性が高い。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Drop Almost 9MM Barrels WoW - Rigzone",
-    "timestamp": "2026-10-16T15:09:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間ベースで約900万バレル減少した。EIAの定期在庫統計による報告。在庫減少は需給引き締まりを示唆するが、事前予想との比較が不明なため、市場への具体的なサプライズ度は判定困難。"
-  },
-  {
     "title": "Corn futures were rocked by WASDE- now what? - FXStreet",
     "timestamp": "2026-10-16T17:37:48+00:00",
     "importance": 4,
@@ -108,28 +64,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁解除方針を「誤り」と批判。ロシア制裁の緩和は原油・ガス供給の逆風圧力を軽減する可能性がある一方、地政学的緊張の継続がエネルギー市場のボラティリティを維持する見通し。"
-  },
-  {
-    "title": "Drones Hit Russian Industrial Site Deep in Western Siberia - Bloomberg.com",
-    "timestamp": "2026-10-16T14:19:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナの無人機がロシア西シベリアの産業施設を攻撃。同地域はロシアの主要なエネルギー・鉱物資源生産地であり、原油・ガス・金属生産への潜在的な供給障害をもたらす。地政学的リスク再燃によりコモディティ市場全体にリスク・プレミアム上乗せの可能性。"
-  },
-  {
-    "title": "Drones Hit Russian Industrial Site Deep in Western Siberia - Bloomberg.com",
-    "timestamp": "2026-10-16T14:19:10+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナの無人機がロシア西シベリアの産業施設を攻撃。同地域はロシアの主要なエネルギー・鉱物資源生産地であり、原油・ガス・金属生産への潜在的な供給障害をもたらす。地政学的リスク再燃によりコモディティ市場全体にリスク・プレミアム上乗せの可能性。"
   },
   {
     "title": "OPEC Oil Output Rises in September - Egypt Oil & Gas",
@@ -218,5 +152,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナ・ロシア間の軍事衝突激化に伴い、小麦先物相場が上昇している。両国は世界の小麦供給量の約30%を占める主要生産国であり、戦闘拡大による供給途絶懸念が価格を押し上げている。地政学的リスクが市場心理に大きな影響を与えている。"
+  },
+  {
+    "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
+    "timestamp": "2026-10-17T14:39:22+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁緩和方針を「間違い」と批判。米国のロシア制裁政策の転換は、原油供給の正常化圧力（サンクション緩和で増産の可能性）と地政学リスク低下を意味する一方で、ウクライナ情勢の不確実性が残存。原油は供給増加期待で下落圧力、貴金属は地政学リスク後退で下落圧力の可能性。"
+  },
+  {
+    "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
+    "timestamp": "2026-10-17T14:39:22+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁緩和方針を「間違い」と批判。米国のロシア制裁政策の転換は、原油供給の正常化圧力（サンクション緩和で増産の可能性）と地政学リスク低下を意味する一方で、ウクライナ情勢の不確実性が残存。原油は供給増加期待で下落圧力、貴金属は地政学リスク後退で下落圧力の可能性。"
   }
 ]
