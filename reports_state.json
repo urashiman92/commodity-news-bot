@@ -1,16 +1,5 @@
 [
   {
-    "title": "Corn futures were rocked by WASDE- now what? - FXStreet",
-    "timestamp": "2026-10-16T17:37:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米国農務省需給報告書）の発表によってトウモロコシ先物が大きく変動した。同レポートは毎月定期発表される重要な統計で、米国産トウモロコシの生産量・在庫・需給見通しを発表する。価格が「rocked（揺さぶられた）」という表現から、市場予想から有意な乖離があった可能性が高い。"
-  },
-  {
     "title": "EIA reports U.S. commercial crude oil inventories rose by 0.9 million barrels for week ending September 25 - Energies Media",
     "timestamp": "2026-10-17T02:45:50+00:00",
     "importance": 2,
@@ -174,5 +163,126 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁緩和方針を「間違い」と批判。米国のロシア制裁政策の転換は、原油供給の正常化圧力（サンクション緩和で増産の可能性）と地政学リスク低下を意味する一方で、ウクライナ情勢の不確実性が残存。原油は供給増加期待で下落圧力、貴金属は地政学リスク後退で下落圧力の可能性。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-19T22:23:17.944001+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-19T22:23:17.944001+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-19T22:23:17.944001+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-19T22:23:17.944001+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
+    "timestamp": "2026-10-19T14:33:24+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
+    "timestamp": "2026-10-19T14:33:24+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
+    "timestamp": "2026-10-19T14:33:24+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
+    "timestamp": "2026-10-19T14:33:24+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
+  },
+  {
+    "title": "Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters",
+    "timestamp": "2026-10-19T20:54:47+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Nasdaqがチップ関連およびAI関連株の反発により上昇。テクノロジーセクターの強気材料が市場心理を改善。ただしコモディティ市場への直接的な供給・需要ショックではなく、リスク資産全般の需要動向を示す景気サイン。"
+  },
+  {
+    "title": "Russia, Ukraine Keep Up Attacks as Zelenskyy Renews Appeal to US - Bloomberg.com",
+    "timestamp": "2026-10-18T08:59:35+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア・ウクライナ紛争が継続し、ゼレンスキー大統領が米国への支援再度要請。地政学的緊張の長期化懸念から、黒海経由の穀物・エネルギー供給リスクが顕在化。原油を中心にコモディティ価格に上昇圧力。"
+  },
+  {
+    "title": "Russia, Ukraine Keep Up Attacks as Zelenskyy Renews Appeal to US - Bloomberg.com",
+    "timestamp": "2026-10-18T08:59:35+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシア・ウクライナ紛争が継続し、ゼレンスキー大統領が米国への支援再度要請。地政学的緊張の長期化懸念から、黒海経由の穀物・エネルギー供給リスクが顕在化。原油を中心にコモディティ価格に上昇圧力。"
   }
 ]
