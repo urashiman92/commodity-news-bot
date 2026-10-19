@@ -1,137 +1,5 @@
 [
   {
-    "title": "NY金先物終値 4181.10ドル +0.26％ - みんかぶ FX/為替",
-    "timestamp": "2026-10-16T18:35:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が4181.10ドルで引け、前日比+0.26%の小幅上昇。日々の値動きを報じたニュースで、特段の材料や変動要因の記載なし。"
-  },
-  {
-    "title": "NY金先物終値 4181.10ドル +0.26％ - みんかぶ",
-    "timestamp": "2026-10-16T18:45:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が4181.10ドルで引け、前日比+0.26%の小幅上昇。日々の終値報告であり、特定の新規材料や経済指標の発表ではない。"
-  },
-  {
-    "title": "【速報】NY原油先物101ドル台、露ウクライナ、中東情勢悪化で(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-16T18:43:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が101ドル台で推移。ロシア・ウクライナ紛争と中東情勢の悪化が価格を押し上げている。地政学的リスクプレミアムが相場を支援している状況。"
-  },
-  {
-    "title": "【速報】NY原油先物上昇、100ドル突破 - 47NEWS",
-    "timestamp": "2026-10-16T18:34:00+00:00",
-    "importance": 4,
-    "direction": "上�昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が100ドルの心理的節目を突破した。速報ベースで具体的な要因は不明だが、地政学リスクや供給懸念が背景の可能性。コモディティ投資家にとって重要な価格レベルの突破。"
-  },
-  {
-    "title": "北海ブレント原油先物 5月20日以来の110ドル台 - みんかぶ FX/為替",
-    "timestamp": "2026-10-16T18:36:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "北海ブレント原油先物が5月20日以来の110ドル台に上昇。相場が高値圏での推移を続けている。供給懸念やドル弱含みなど複合要因による。"
-  },
-  {
-    "title": "ＮＹ原油先物上昇、１００ドル突破 - 京都新聞デジタル",
-    "timestamp": "2026-10-16T18:34:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が100ドルを突破した。原油市場は地政学的緊張やOPEC減産などの供給サイド要因により、100ドル台での推移が常態化している。"
-  },
-  {
-    "title": "ＮＹ原油先物上昇、１００ドル突破 - 下野新聞社",
-    "timestamp": "2026-10-16T18:42:25+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が100ドルを突破して上昇。具体的な上昇要因や供給・需要面の情報は記事概要から不明。相場水準の達成自体は報道されているが、背景要因の詳細が不足している。"
-  },
-  {
-    "title": "NY原油先物上昇、100ドル突破 - nippon.com",
-    "timestamp": "2026-10-16T18:34:34+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が100ドルを突破した。原油市場では重要な心理的節目を越えた局面。詳細な背景情報が不足しているため、正確な要因分析には限界がある。"
-  },
-  {
-    "title": "ＮＹ原油先物上昇、１００ドル突破 - 徳島新聞デジタル",
-    "timestamp": "2026-10-16T18:34:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が100ドルを突破し上昇。地政学的緊張やエネルギー供給懸念を背景とした相場動向。記事は値動きの事実報道であり、具体的な需給要因や予想比は不明。"
-  },
-  {
-    "title": "欧州原油先物が一時110ドル、5月以来の水準 中東で再び供給懸念 - 日本経済新聞",
-    "timestamp": "2026-10-16T20:44:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "欧州原油先物が5月以来の高水準である110ドルに上昇。中東での供給懸念が再び浮上し、市場に供給リスク意識が広がっている。地政学的リスクによる価格押し上げ圧力が強まった。"
-  },
-  {
-    "title": "【原油ウォッチ】サウジの「安全神話」崩壊？フーシ派の攻撃で国家中枢に危機、原油価格の新たな「戦争プレミアム」 - JBpress",
-    "timestamp": "2026-10-16T21:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビアへの攻撃が国家中枢に及び、サウジの安全保障体制への信頼が揺らいでいる。世界最大級の石油供給国の脆弱性が明らかになり、地政学的リスク認識の大幅な上方修正が必要。"
-  },
-  {
-    "title": "NY市場動向（午後2時台）：ダウ219ドル安、原油先物2.93ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-16T18:31:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY午後取引で原油先物が2.93ドル上昇。同時にダウ平均は219ドル安で、株と原油の非同調の値動き。時間帯別の市場スナップショット報道。"
-  },
-  {
     "title": "NY金先物：続伸、10月FOMCでの追加利上げ観測の後退で買い優勢(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-10-16T23:50:02+00:00",
     "importance": 3,
@@ -165,17 +33,6 @@
     "summary": "ベトナムの金価格（SJC）が再び上昇し、世界金価格は大きく変動している。具体的な価格変動幅や要因の詳細が記事から不明。市場の日常的な値動きを報じたローカルニュースと考えられる。"
   },
   {
-    "title": "NY原油・金相場（16日）－原油が7日続伸 金も続伸(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-16T21:54:02+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NYの原油相場が7日連続で続伸し、金相場も続伸している。既に進行中のトレンドの継続を報じるニュース。"
-  },
-  {
     "title": "投資家はなぜ金価格が新たな最高値を更新すると考えているのか？ - Vietnam.vn",
     "timestamp": "2026-10-16T23:29:48+00:00",
     "importance": 3,
@@ -207,17 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東とロシアからの供給悪化材料が同時に発生し、ブレント原油が110ドルを突破した。地政学的リスクと供給逼迫が急速に顕在化し、市場に大きなインパクトを与えている。"
-  },
-  {
-    "title": "【速報】NY原油先物101ドル台、露ウクライナ、中東情勢悪化で｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-16T18:43:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ロシア・ウクライナ紛争と中東情勢の悪化により、NY原油先物が101ドル台で推移。地政学的リスク要因による供給懸念が価格を支撑している。"
   },
   {
     "title": "米コモディティー市場－原油、ガソリン、金、銀、銅が上昇 天然ガス、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -284,17 +130,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は1オンス4,200ドル水準が抵抗線となっており、来週の見通しはまちまち。テクニカルレジスタンスと相場観の対立が続いている。"
-  },
-  {
-    "title": "ＮＹ市場、原油先物が１か月ぶりに１００ドル突破…ダウ終値は１７５ドル安の５万２００２ドル - 読売新聞",
-    "timestamp": "2026-10-16T21:07:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場で原油先物が1か月ぶりに100ドルを突破した。この水準への回復は需給バランスの引き締まりを反映している。同時にダウ平均は175ドル安で推移、リスク資産と原油の連動性が低下している可能性がある。"
   },
   {
     "title": "NY原油相場の推移 - NY原油、終値101ドル台 供給不安、1カ月ぶり高値 - 写真・画像(2/2) - 西日本新聞me",
@@ -1604,5 +1439,38 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格は$6.6のレジスタンスレベル下でのレンジ相場が予想される。弱いモメンタムが継続している状況。アナリスト予測による技術的な相場見通し。"
+  },
+  {
+    "title": "今日の午後（10月19日）の金価格：依然として下落圧力にさらされている。 - Vietnam.vn",
+    "timestamp": "2026-10-19T15:53:35+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月19日午後の金価格は依然として下落圧力を受けている。具体的な新規イベントや統計発表ではなく、市場動向の観測記事。既に織り込まれた弱気相場の継続を述べたもの。"
+  },
+  {
+    "title": "ＮＹ株小幅続落、３６ドル安＝ＡＩ銘柄復調も原油相場重荷 - 時事通信ニュース",
+    "timestamp": "2026-10-19T20:45:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株が36ドル安と小幅続落。AI銘柄の復調が支える一方、原油相場の軟調が重荷となった。株式市場全体では大きなインパクトなし。"
+  },
+  {
+    "title": "NY市場動向（午後0時台）：ダウ39ドル安、原油先物0.36ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-19T16:27:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午後0時台のスナップショット報道。ダウ平均は小幅下落、原油先物は0.36ドル高で推移。単なる時間帯別相場観測であり、特定の材料や決定打となる情報は含まれていない。"
   }
 ]
