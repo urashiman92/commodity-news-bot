@@ -1,49 +1,5 @@
 [
   {
-    "title": "TSX先物が小幅上昇、金価格の上昇が支援―カナダ銀行マックレム総裁の発言に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-16T11:52:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "TSX先物が小幅上昇し、金価格の堅調さが支援要因となっている。カナダ銀行マックレム総裁の発言が市場の注視点。金相場の底堅さがリスク資産にも好材料に作用。"
-  },
-  {
-    "title": "金価格は本日午後（10月16日）に1オンスあたり60万ベトナムドン上昇しました。 - Vietnam.vn",
-    "timestamp": "2026-10-16T12:50:44+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格が10月16日午後に1オンスあたり60万ベトナムドン上昇した。単日の国内市場での価格変動を伝える報道。"
-  },
-  {
-    "title": "NY市場動向（午前10時台）：ダウ198ドル高、原油先物0.57ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-16T14:55:00+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY午前時点での株価と原油先物の市場動向の報告。ダウ平均は198ドル高だが、WTI原油先物は0.57ドル安となっている。市場の定常的な値動きレベル。"
-  },
-  {
-    "title": "銅価格見通し：強い基調モメンタムを背景に横ばい推移の可能性 - Traders Union",
-    "timestamp": "2026-10-16T12:18:44+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "アナリスト予想によると銅価格は強い基調モメンタムを背景に、今後横ばい推移となる可能性が示唆されている。現在の強気地合いが継続しつつも、上値追いが限定的との見通し。"
-  },
-  {
     "title": "NY金先物終値 4181.10ドル +0.26％ - みんかぶ FX/為替",
     "timestamp": "2026-10-16T18:35:28+00:00",
     "importance": 1,
@@ -55,28 +11,6 @@
     "summary": "NY金先物が4181.10ドルで引け、前日比+0.26%の小幅上昇。日々の値動きを報じたニュースで、特段の材料や変動要因の記載なし。"
   },
   {
-    "title": "世界黄金協会：中国、金価格の調整局面で大量購入、ETF保有量は過去最高を更新 - Moomoo",
-    "timestamp": "2026-10-16T16:04:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中国が金価格の調整局面で大量購入を実施し、ETF保有量が過去最高を更新した。世界黄金協会による報告で、中国の継続的な金需要の強さが示された。金への支援要因として機能する可能性。"
-  },
-  {
-    "title": "NY金先物相場、堅調 4200ドル付近で推移 - TradingView",
-    "timestamp": "2026-10-16T14:21:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が4200ドル付近で堅調に推移している。相場観測記事であり、現在の金価格水準を報じたもの。特定の新規イベントや統計発表を伴わない。"
-  },
-  {
     "title": "NY金先物終値 4181.10ドル +0.26％ - みんかぶ",
     "timestamp": "2026-10-16T18:45:00+00:00",
     "importance": 1,
@@ -86,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が4181.10ドルで引け、前日比+0.26%の小幅上昇。日々の終値報告であり、特定の新規材料や経済指標の発表ではない。"
-  },
-  {
-    "title": "本日2026年10月17日の国内金価格は「最安値で止まった」。中国からの資金流入が活発化し、投資家が金の買いに殺到したため。 - Vietnam.vn",
-    "timestamp": "2026-10-16T15:23:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年10月17日、国内金価格が最安値で下げ止まった。中国からの資金流入が加速し、投資家による金買いが活発化した結果。"
   },
   {
     "title": "【速報】NY原油先物101ドル台、露ウクライナ、中東情勢悪化で(フィスコ) - Yahoo!ファイナンス",
@@ -1560,5 +1483,126 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "先週のコーヒーと大豆の価格が正反対の動きを見せたという相場振り返り。具体的な値動き幅や原因が記載されていない。市場技術的な対照的な値動きの観測報告。"
+  },
+  {
+    "title": "金相場は上値が重い状況が続く - 週替わりマーケット展望 - 日経CNBC online",
+    "timestamp": "2026-10-18T23:41:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場が上値の重い状況が継続している。週間の市場展望を提供する解説記事。具体的な価格変動要因や今週の注視点は記事本体で詳述されている模様。"
+  },
+  {
+    "title": "金価格ディリーレポート（2026年10月19日）AI関連株の急落後、ハイテク株が反発する中で金価格は下落 - ブリオンボールト",
+    "timestamp": "2026-10-19T06:42:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "AI関連株の急落後、ハイテク株が反発する局面において金価格は下落した。リスク資産の回復により、安全資産である金からの資金流出が発生。ドルやハイテク株への資金シフトが金売却圧力となった。"
+  },
+  {
+    "title": "本日（2026年10月20日）、金価格は全面的に下落しました。国内決済方法の変化にご注意ください。世界の金価格は調整局面の終焉の兆しを見せていません。 - Vietnam.vn",
+    "timestamp": "2026-10-19T16:28:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年10月20日、金価格が全面的に下落した。世界の金相場は調整局面が続いており、終焉の兆しはない。ベトナムの国内決済方法変化についても言及されている。"
+  },
+  {
+    "title": "金価格は10月末から11月初にかけて、段階的な反発の窓が開ける可能性があります。 - Moomoo",
+    "timestamp": "2026-10-19T11:23:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月末から11月初にかけて金価格に段階的な反発の可能性を示唆する解説記事。アナリスト見解に基づく相場観で、具体的なファンダメンタル要因は明示されていない。"
+  },
+  {
+    "title": "金価格は、様々な大きな障害により、1オンスあたり4,200ドル前後で変動している。 - Vietnam.vn",
+    "timestamp": "2026-10-19T14:10:55+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,200ドル前後で推移している状況の報道。複数の大型障害要因が存在するとされているが、具体的な内容は記事概要では不明。"
+  },
+  {
+    "title": "日本株は弱含み、原油価格や決算に反応する米国株の動向に神経質な展開か - SBI証券",
+    "timestamp": "2026-10-19T11:41:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本株が弱含みで推移し、米国株の動向と原油価格の連動を注視する市場心理を報じたもの。具体的な原油価格の変動要因や方向性は記事から判断できない。"
+  },
+  {
+    "title": "【速報】NY原油先物上昇に転じる、101ドル台｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-19T16:14:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が101ドル台まで上昇に転じた。具体的な上昇要因は記事概要からは不明確。速報的な相場報告であり、市場反応の記述のみ。"
+  },
+  {
+    "title": "UBSがエクソンモービルの目標株価を引き上げ、原油価格予測を上方修正 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-19T14:27:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "UBSがエクソンモービルの目標株価を引き上げ、原油価格見通しを上方修正した。アナリスト側による強気スタンスの表明で、原油需給環境の改善を示唆している。"
+  },
+  {
+    "title": "【速報】NY原油先物は反落、100.31ドル(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-19T12:30:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が100.31ドルで反落した速報。具体的な下落要因の記載がなく、日々の相場変動の報道。"
+  },
+  {
+    "title": "The Tip Of TOKYO TOWER Inclines By An Earthquake.(先端歪んだ東京タワー) Copper Price (glqLRM22cn) - Unisba Media",
+    "timestamp": "2026-10-19T06:15:29+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "東京タワーが地震で先端が歪んだというニュース。銅市場との直接的な関連性は不明。記事タイトルと内容の対応が不透明。"
+  },
+  {
+    "title": "銅価格予測：弱いモメンタムを受け、$6.6のレジスタンスを下回るレンジ相場が予想される - Traders Union",
+    "timestamp": "2026-10-19T12:19:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は$6.6のレジスタンスレベル下でのレンジ相場が予想される。弱いモメンタムが継続している状況。アナリスト予測による技術的な相場見通し。"
   }
 ]
