@@ -1,126 +1,5 @@
 [
   {
-    "title": "世界の金価格は反転上昇する。 - Vietnam.vn",
-    "timestamp": "2026-10-16T00:51:40+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が反転上昇するとの見通しが報じられている。具体的な根拠や時系列が不明だが、コモディティ市場の観測記事と考えられる。"
-  },
-  {
-    "title": "金価格は今後2年間で過去最高値を更新する可能性がある。 - Vietnam.vn",
-    "timestamp": "2026-10-16T00:51:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリスト予想として、金価格が今後2年間で過去最高値を更新する可能性があると報道。インフレ懸念や金融不安定性がドライバーと想定される。既に市場で織り込まれつつある見通しの範疇。"
-  },
-  {
-    "title": "米ドル安を受けて、世界の金価格は1％以上上昇した。 - Vietnam.vn",
-    "timestamp": "2026-10-16T00:51:40+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米ドル安を背景に金価格が1%以上上昇した。ドル安時には金の相対的な購買力が低下するため、金価格は通常ドル高局面では上昇する傾向。既知の相場メカニズムの範囲内での動き。"
-  },
-  {
-    "title": "国内の金価格は安定している。 - Vietnam.vn",
-    "timestamp": "2026-10-16T03:48:45+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が安定しているとの報道。国内市場の相場観を示すコメンタリー。グローバルな金相場への直接的な影響は限定的。"
-  },
-  {
-    "title": "金価格は、FRB議長からの金利に関するシグナルを固唾を飲んで待っている。 - Vietnam.vn",
-    "timestamp": "2026-10-16T04:47:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRB議長による金利シグナルを市場が注視している状況。金利低下シグナルは金（利息なし資産）の買い材料となる。今後の政策決定が金価格の方向性を決める重要な局面。"
-  },
-  {
-    "title": "10月16日の金価格：世界の金価格は回復、国内の金価格は高水準を維持。 - Vietnam.vn",
-    "timestamp": "2026-10-16T04:08:45+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月16日時点で世界の金価格が回復し、ベトナム国内の金価格は高水準を維持している。既存のトレンドの追認・定期的な価格情報の報道。"
-  },
-  {
-    "title": "本日10月16日の金価格：世界的な金価格の上昇に伴い、SJC金、Bao Tin Minh Chau金リング、Doji金リングの価格はどうなるでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-10-16T04:37:43+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金小売価格に関する日次レポート。世界的な金価格上昇に伴い、SJC金やDoji金リングなど地域の金製品価格が連動して推移している状況を解説したもの。"
-  },
-  {
-    "title": "原油先物は小幅安、米の「影の船団」制裁緩和の可能性見極め - Reuters",
-    "timestamp": "2026-10-16T01:30:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の対イラン「影の船団」制裁緩和の可能性が探り合われており、市場は慎重な様子見姿勢。原油先物は小幅安で推移。制裁緩和が実現すればイラン産原油供給増加につながる可能性がある。"
-  },
-  {
-    "title": "世界の原油価格はわずかに変動した。 - Vietnam.vn",
-    "timestamp": "2026-10-16T02:24:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格がわずかな変動にとどまった。具体的な上下方向や価格水準の詳細情報は記事概要では提示されていない。定期的な市場動向の報告記事と考えられる。"
-  },
-  {
-    "title": "原油先物は小幅安、米の「影の船団」制裁緩和の可能性見極め（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-10-16T01:30:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国によるロシア産原油への制裁「影の船団」対策の緩和可能性を市場が見極め中。先物価格は小幅安で推移。今後の制裁政策動向が不確実な状況。"
-  },
-  {
-    "title": "砂糖価格は上昇、銅価格は急落。 - Vietnam.vn",
-    "timestamp": "2026-10-16T04:43:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "砂糖価格が上昇する一方で銅価格が急落した。銅投資家にとっては価格下落が進行している市場環境を示唆するニュース。コモディティ市場全体で異なる動きが見られている。"
-  },
-  {
     "title": "金価格は小幅上昇したが、依然として週間ベースでは下落傾向にある。 - Vietnam.vn",
     "timestamp": "2026-10-16T09:14:47+00:00",
     "importance": 2,
@@ -130,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は日中小幅上昇したが、週間ベースでは下落傾向が続いている。短期的な反発局面であり、大きなトレンド転換には至っていない。"
-  },
-  {
-    "title": "債券高と米ドル安が金相場を下支え、金価格は安定推移 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-16T01:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "債券高と米ドル安が金相場を下支えしており、金価格は安定推移している。金の需要を支える主要なマクロ環境が継続している状況。"
   },
   {
     "title": "本日の金価格（10月16日午後）：SJC金価格は高水準を維持、世界の金価格は変動。 - Vietnam.vn",
@@ -174,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムのSJC金がレンジ内で横ばいで推移。1オンス=1億4030万～1億4330万VNDの狭いレンジでの値動き。特段の新規材料がない日次レポート。"
-  },
-  {
-    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "timestamp": "2026-10-16T04:19:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Yahoo!ファイナンスのWTI原油連動型ETF（1671）の株価情報ページ。リアルタイム相場データの提示のみで、新規ニュースイベントではない。"
   },
   {
     "title": "本日（10月16日）の原油価格：米国の動きを受けて、ブレント原油価格は横ばい。 - Vietnam.vn",
@@ -273,28 +130,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY午前時点での株価と原油先物の市場動向の報告。ダウ平均は198ドル高だが、WTI原油先物は0.57ドル安となっている。市場の定常的な値動きレベル。"
-  },
-  {
-    "title": "週間為替展望（ドル／ユーロ）-ドル円、原油価格や長期金利動向に注目(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-16T02:23:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "週間為替展望の解説記事で、ドル円相場がドル金利動向と原油価格に左右される可能性を指摘。原油価格は為替経由で間接的に相場に影響。既に市場で織り込まれている観測的なコンテンツ。"
-  },
-  {
-    "title": "銅建値 239万円 亜鉛 66万4000円（日刊産業新聞） - Yahoo!ニュース",
-    "timestamp": "2026-10-16T04:37:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅の建値が239万円、亜鉛が66万4000円と報告されている。日刊産業新聞による日次の建値情報であり、相場水準の記録的な報道。"
   },
   {
     "title": "銅価格見通し：強い基調モメンタムを背景に横ばい推移の可能性 - Traders Union",
@@ -1505,5 +1340,203 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "16日の主要国際商品市況の定期レポート。具体的な価格動向や個別商品の変化は記事本文を確認する必要あり。相場の日次振り返り記事と考えられる。"
+  },
+  {
+    "title": "ウォーシュ発言でFED利上げ観測後退、金価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-19T01:04:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FED高官（ウォーシュ）の発言により利上げ観測が後退。金は利上げ観測の後退で上昇。既報のFED政策スタンス変化の延長線上の反応。"
+  },
+  {
+    "title": "本日（10月19日）の金価格：指輪の金価格は小幅上昇。 - Vietnam.vn",
+    "timestamp": "2026-10-19T04:04:02+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が小幅上昇。ローカルニュースの相場報告であり、具体的な変動幅が記載されていない。世界金市場への影響は限定的と考えられる。"
+  },
+  {
+    "title": "国内の金価格は、国際価格とは逆方向に動く。 - Vietnam.vn",
+    "timestamp": "2026-10-19T03:46:57+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が国際価格と逆方向に動いているというニュース。為替変動や局所的な需給要因による相対的な価格乖離と考えられる。グローバルな金市場全体への直接的な影響は限定的。"
+  },
+  {
+    "title": "本日（2026年10月19日）の金価格：SJC金価格は横ばい、世界の金価格は週明けに回復。 - Vietnam.vn",
+    "timestamp": "2026-10-19T03:30:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が本日は横ばいで推移。世界の金相場は週明けの回復を期待する見方。既に織り込まれた日次の相場評論。"
+  },
+  {
+    "title": "2026年10月19日午前の金価格：シンプルな金の指輪は上昇の兆しを見せています。 - Vietnam.vn",
+    "timestamp": "2026-10-19T02:48:32+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金相場速報でシンプルな金の指輪が上昇の兆しを示していると報じられた。同国の小売セグメントの価格動向を伝える地域ニュース。グローバル金相場への直接的な影響は限定的。"
+  },
+  {
+    "title": "10月19日の金価格：価格は全体的に横ばい。 - Vietnam.vn",
+    "timestamp": "2026-10-19T00:25:59+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月19日の金価格は全体的に横ばいで推移したことを報じるニュース。具体的な価格変動幅や市場要因の記載がなく、単なる日次の価格動向の振り返り。市場への新たな情報は含まれていない。"
+  },
+  {
+    "title": "国内の金価格は安定しており、1億4360万ベトナムドン前後で取引されている。 - Vietnam.vn",
+    "timestamp": "2026-10-19T03:22:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が1億4360万ベトナムドン前後で安定的に推移している。現在の価格水準が継続していることを示す定期的な相場報告。"
+  },
+  {
+    "title": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-10-19T03:12:59+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NEXT NOTES ドバイ原油先物 ダブル・ブル ETN【2038】の株価情報ページ。原油先物に対する2倍レバレッジ型ETNの市場データを掲載している。"
+  },
+  {
+    "title": "原油先物は下落、米の制裁免除でロシア燃料供給増の観測 - Reuters",
+    "timestamp": "2026-10-19T00:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国によるロシア制裁免除でロシア産原油の供給増加観測が浮上。これにより市場供給増加懸念から原油先物が下落。地政学的な供給制約の緩和シナリオ。"
+  },
+  {
+    "title": "原油先物は下落、米の制裁免除でロシア燃料供給増の観測 - ニューズウィーク日本版",
+    "timestamp": "2026-10-19T00:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がロシアへの制裁を一部免除する可能性が報じられ、ロシア産原油の供給増加への観測が広がった。これにより市場は原油需給の緩和を見込み先物価格が下落。地政学的リスクの後退を反映。"
+  },
+  {
+    "title": "$WTI 原油先物(2612) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
+    "timestamp": "2026-10-19T01:56:59+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "提供されたニュースは単なるMoomoo金融プラットフォームへのリンク参照のみで、具体的なニュース内容・価格変動・イベント情報が記載されていない。原油先物の現在値表示のみと考えられる。"
+  },
+  {
+    "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）をめぐる懸念が再燃したほか原油価格上昇が嫌気され売り優勢の展開 - マネクリ",
+    "timestamp": "2026-10-18T23:16:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株市場が3指数揃って下落。AI懸念の再燃と原油価格上昇の嫌気が売り圧力となった。市場全体の弱気ムードが原油にも波及。"
+  },
+  {
+    "title": "トランプ大統領がロシア制裁を免除、原油価格が急落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-19T00:14:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がロシアに対する制裁を免除することを発表。ロシアからの原油供給が増加する可能性が高まり、原油価格が急落。地政学的緊張の緩和により供給懸念が後退。"
+  },
+  {
+    "title": "米国株見通し：伸び悩みか、長期金利や原油相場を注視(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-19T04:56:26+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株の見通しについてのコメンタリー記事。長期金利と原油相場が注視対象として挙げられている。具体的な相場動向やイベント情報は記事概要からは不明。"
+  },
+  {
+    "title": "アラビカコーヒーの価格が急騰、大豆価格は下落圧力にさらされている。 - Vietnam.vn",
+    "timestamp": "2026-10-19T04:47:26+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "アラビカコーヒーの価格急騰がニュースとして報じられている。大豆市場では、コモディティ資金のコーヒーシフトに伴う相対的な売却圧力が作用している可能性を指摘している。"
+  },
+  {
+    "title": "銅価格強気相場「崖っぷち」：トランプ関税が遅延、マッコーリーは1トン1万ドル割れ警告 - BigGo ファイナンス",
+    "timestamp": "2026-10-19T01:25:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "マッコーリーが銅価格の1トン1万ドル割れを警告。トランプ関税の遅延が銅相場の強気局面を圧迫。需要鈍化リスクが高まっている。"
+  },
+  {
+    "title": "１６日の主要国際商品市況 (2026年10月19日掲載) - ライブドアニュース",
+    "timestamp": "2026-10-18T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年10月16日の主要国際商品市況に関する定期レポート。具体的な価格データや市場動向の詳細は記事本文がアクセス不可のため判断不可。"
+  },
+  {
+    "title": "１６日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-10-18T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "16日の主要国際商品市況に関するニュース記事。具体的な価格変動や市場材料の詳細が不明。定期的な市場動向レポートと推定される。"
   }
 ]
