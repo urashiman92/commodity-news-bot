@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil eases, but set for weekly gain on Mideast supply risks - Reuters",
-    "timestamp": "2026-10-16T00:57:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東地域のサプライチェーンリスクが原油相場を下支えしており、週単位では上昇トレンドを維持している。本週は地政学的緊張が価格の上値を制限する一方で、供給懸念が下値を支えている構図。実際の価格動向は日々の地政学イベント次第で左右される状況が続いている。"
-  },
-  {
-    "title": "Gold Holds Gains With Haven Demand and Lower Yields in Focus - Bloomberg",
-    "timestamp": "2026-10-15T23:51:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "金は安全資産需要と米国の金利低下見通しに支えられて上昇基調を維持している。リスク資産からの逃避と実質金利低下が金の買い需要を刺激。テクニカルには上昇トレンドの継続が示唆されている。"
-  },
-  {
     "title": "EIA reports huge draw in US crude oil stocks - www.engine.online",
     "timestamp": "2026-10-16T09:36:34+00:00",
     "importance": 4,
@@ -64,28 +42,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECの最小規模加盟国が石油法を改正し、探鉱活動を促進する政策を実施。供給側の長期的な探査意欲を高める措置だが、短期的な供給変化ではなく、中期的なサプライサイド強化の姿勢を示すもの。既に報道済みの政策枠組みの続報と見られる。"
-  },
-  {
-    "title": "Global fuel oil market stays tight as conflicts hit Mideast, Russia supplies, Vitol says - Reuters",
-    "timestamp": "2026-10-16T03:22:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東紛争とロシア供給制限により、世界燃料油市場が逼迫している。Vitolの指摘によれば、地政学的リスクが既存の供給制約を深刻化させており、短期的な供給ショックが顕在化している。複数の主要産油地域での同時的な供給リスクがコモディティ市場全体に上昇圧力をもたらしている。"
-  },
-  {
-    "title": "Global fuel oil market stays tight as conflicts hit Mideast, Russia supplies, Vitol says - Reuters",
-    "timestamp": "2026-10-16T03:22:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東紛争とロシア供給制限により、世界燃料油市場が逼迫している。Vitolの指摘によれば、地政学的リスクが既存の供給制約を深刻化させており、短期的な供給ショックが顕在化している。複数の主要産油地域での同時的な供給リスクがコモディティ市場全体に上昇圧力をもたらしている。"
   },
   {
     "title": "USA Crude Oil Stocks Drop Almost 9MM Barrels WoW - Rigzone",
@@ -350,5 +306,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "トランプ大統領がロシア産燃料に対する制裁適用除外を認可する可能性が報じられた。これによりロシア産石油・石油製品の供給増加が見込まれ、国際的な供給過剰懸念から原油価格は下落。地政学的なサプライズ要因として市場に予想外の材料をもたらした。"
+  },
+  {
+    "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
+    "timestamp": "2026-10-19T00:38:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格の下落がアジア株を圧迫する一方で、米国株とボンド市場には好材料となっている。油価下落は金利圧力軽減と見なされ、金(無利子資産)にとってはネガティブ要因。エネルギーコストの低下が経済に与える影響は地域によって異なる。"
+  },
+  {
+    "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
+    "timestamp": "2026-10-19T00:38:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "原油価格の下落がアジア株を圧迫する一方で、米国株とボンド市場には好材料となっている。油価下落は金利圧力軽減と見なされ、金(無利子資産)にとってはネガティブ要因。エネルギーコストの低下が経済に与える影響は地域によって異なる。"
+  },
+  {
+    "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
+    "timestamp": "2026-10-19T00:38:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "原油価格の下落がアジア株を圧迫する一方で、米国株とボンド市場には好材料となっている。油価下落は金利圧力軽減と見なされ、金(無利子資産)にとってはネガティブ要因。エネルギーコストの低下が経済に与える影響は地域によって異なる。"
   }
 ]
