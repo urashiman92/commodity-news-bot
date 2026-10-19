@@ -1,38 +1,5 @@
 [
   {
-    "title": "EIA reports huge draw in US crude oil stocks - www.engine.online",
-    "timestamp": "2026-10-16T09:36:34+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の大幅な減少を報告した。在庫の顕著なドロー（取り崩し）は需給逼迫を示唆し、原油価格の上昇圧力となる。具体的な在庫削減量の数値が市場予想を大きく上回った場合、短期的な価格上昇が期待される。"
-  },
-  {
-    "title": "Record Copper & AI Demand Put Torr Metals' Kolos Assays in the Spotlight - Streetwise Reports",
-    "timestamp": "2026-10-16T09:22:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Torr Metalsがコロス鉱床の銅アッセイ結果を発表し、記録的な銅需要とAI産業の急成長が注目を集めている。電気自動車およびAI関連インフラの拡大に伴う銅の需要増加が銅価格上昇圧力をサポートしている。ジュニア鉱業企業による探鉱成功は供給サイドの潜在力を示唆している。"
-  },
-  {
-    "title": "Record Copper & AI Demand Put Torr Metals' Kolos Assays in the Spotlight - Streetwise Reports",
-    "timestamp": "2026-10-16T09:22:30+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "Torr Metalsがコロス鉱床の銅アッセイ結果を発表し、記録的な銅需要とAI産業の急成長が注目を集めている。電気自動車およびAI関連インフラの拡大に伴う銅の需要増加が銅価格上昇圧力をサポートしている。ジュニア鉱業企業による探鉱成功は供給サイドの潜在力を示唆している。"
-  },
-  {
     "title": "OPEC’s Smallest Member Rewrites Oil Law to Encourage Exploration - Bloomberg.com",
     "timestamp": "2026-10-16T11:22:30+00:00",
     "importance": 3,
@@ -64,17 +31,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA発表によるクッシング地点の原油在庫増加を報告。クッシングはWTI先物の受渡地点であり、在庫増加は供給過剰の兆候を示唆する。在庫積増傾向は原油価格への下押し圧力となる可能性が高い。"
-  },
-  {
-    "title": "Austrian investor rushes to boost copper production at old Chile mine - Reuters",
-    "timestamp": "2026-10-16T10:20:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "銅",
-    "summary": "オーストリアの投資家がチリの旧鉱山における銅生産の増産に積極的に投資している。既存鉱山の生産能力拡大は、南米における主要な銅供給地の再活性化を示唆する。チリは世界最大級の銅生産国であり、本件は供給サイドの動きとして市場に注目される。"
   },
   {
     "title": "USA Crude Oil Stocks Drop Almost 9MM Barrels WoW - Rigzone",
@@ -176,83 +132,6 @@
     "summary": "ウクライナの無人機がロシア西シベリアの産業施設を攻撃。同地域はロシアの主要なエネルギー・鉱物資源生産地であり、原油・ガス・金属生産への潜在的な供給障害をもたらす。地政学的リスク再燃によりコモディティ市場全体にリスク・プレミアム上乗せの可能性。"
   },
   {
-    "title": "Grains still struggling to find post-WASDE momentum - Farm Progress",
-    "timestamp": "2026-10-16T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE発表後、穀物相場が上昇モメンタムを見出せず停滞している状況を報告するコメンタリー記事。市場参加者の間で需給見通しに対する確信が不足しており、穀物セクターが方向感を失っている段階。"
-  },
-  {
-    "title": "Grains still struggling to find post-WASDE momentum - Farm Progress",
-    "timestamp": "2026-10-16T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE発表後、穀物相場が上昇モメンタムを見出せず停滞している状況を報告するコメンタリー記事。市場参加者の間で需給見通しに対する確信が不足しており、穀物セクターが方向感を失っている段階。"
-  },
-  {
-    "title": "Grains still struggling to find post-WASDE momentum - Farm Progress",
-    "timestamp": "2026-10-16T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE発表後、穀物相場が上昇モメンタムを見出せず停滞している状況を報告するコメンタリー記事。市場参加者の間で需給見通しに対する確信が不足しており、穀物セクターが方向感を失っている段階。"
-  },
-  {
-    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
-    "timestamp": "2026-10-16T07:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
-  },
-  {
-    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
-    "timestamp": "2026-10-16T07:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
-  },
-  {
-    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
-    "timestamp": "2026-10-16T07:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "原油",
-    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
-  },
-  {
-    "title": "For farmers, biofuels increasingly supply the demand - Farm Progress",
-    "timestamp": "2026-10-16T07:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "農家のバイオ燃料需要が増加傾向にあり、トウモロコシと大豆の利用が拡大している。バイオ燃料製造向けの穀物需要増加は、従来の食糧・飼料用途との競合を強めている。米国のバイオ燃料政策推進と原油価格の相対的上昇が、穀物のバイオ燃料向けシェア拡大を促進している。"
-  },
-  {
     "title": "OPEC Oil Output Rises in September - Egypt Oil & Gas",
     "timestamp": "2026-10-18T07:37:15+00:00",
     "importance": 2,
@@ -262,28 +141,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECが9月の石油産出量の増加を報告した。これはOPEC減産合意の緩和またはメンバー国の増産を示唆する動き。市場予想との乖離度は不明だが、定例月次統計の一部として報告されたもの。供給増加は原油価格への下落圧力となる可能性がある。"
-  },
-  {
-    "title": "Record Copper & AI Demand Put Torr Metals' Kolos Assays in the Spotlight - Streetwise Reports",
-    "timestamp": "2026-10-16T09:27:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Torr Metalsが保有するKolosプロジェクトの銅鉱化が注目を集めている。AI需要の急拡大と記録的な銅相場が同時に進行する中、同社の銅鉱床品位確認（アッセイ結果）が投資家の関心を高めている。銅は電動車やAIインフラに不可欠で、供給逼迫懸念が価格を支える構図が続いている。"
-  },
-  {
-    "title": "Record Copper & AI Demand Put Torr Metals' Kolos Assays in the Spotlight - Streetwise Reports",
-    "timestamp": "2026-10-16T09:27:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "Torr Metalsが保有するKolosプロジェクトの銅鉱化が注目を集めている。AI需要の急拡大と記録的な銅相場が同時に進行する中、同社の銅鉱床品位確認（アッセイ結果）が投資家の関心を高めている。銅は電動車やAIインフラに不可欠で、供給逼迫懸念が価格を支える構図が続いている。"
   },
   {
     "title": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions - Reuters",
@@ -339,5 +196,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "原油価格の下落がアジア株を圧迫する一方で、米国株とボンド市場には好材料となっている。油価下落は金利圧力軽減と見なされ、金(無利子資産)にとってはネガティブ要因。エネルギーコストの低下が経済に与える影響は地域によって異なる。"
+  },
+  {
+    "title": "Wheat Futures Rise as Ukraine-Russia Strikes Stoke Supply Fears - Bloomberg.com",
+    "timestamp": "2026-10-19T04:48:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ウクライナ・ロシア間の軍事衝突激化に伴い、小麦先物相場が上昇している。両国は世界の小麦供給量の約30%を占める主要生産国であり、戦闘拡大による供給途絶懸念が価格を押し上げている。地政学的リスクが市場心理に大きな影響を与えている。"
+  },
+  {
+    "title": "Wheat Futures Rise as Ukraine-Russia Strikes Stoke Supply Fears - Bloomberg.com",
+    "timestamp": "2026-10-19T04:48:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナ・ロシア間の軍事衝突激化に伴い、小麦先物相場が上昇している。両国は世界の小麦供給量の約30%を占める主要生産国であり、戦闘拡大による供給途絶懸念が価格を押し上げている。地政学的リスクが市場心理に大きな影響を与えている。"
   }
 ]
