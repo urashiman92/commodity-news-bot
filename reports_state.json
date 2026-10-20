@@ -88,28 +88,6 @@
     "summary": "ウクライナ・ロシア間の軍事衝突激化に伴い、小麦先物相場が上昇している。両国は世界の小麦供給量の約30%を占める主要生産国であり、戦闘拡大による供給途絶懸念が価格を押し上げている。地政学的リスクが市場心理に大きな影響を与えている。"
   },
   {
-    "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
-    "timestamp": "2026-10-17T14:39:22+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁緩和方針を「間違い」と批判。米国のロシア制裁政策の転換は、原油供給の正常化圧力（サンクション緩和で増産の可能性）と地政学リスク低下を意味する一方で、ウクライナ情勢の不確実性が残存。原油は供給増加期待で下落圧力、貴金属は地政学リスク後退で下落圧力の可能性。"
-  },
-  {
-    "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
-    "timestamp": "2026-10-17T14:39:22+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁緩和方針を「間違い」と批判。米国のロシア制裁政策の転換は、原油供給の正常化圧力（サンクション緩和で増産の可能性）と地政学リスク低下を意味する一方で、ウクライナ情勢の不確実性が残存。原油は供給増加期待で下落圧力、貴金属は地政学リスク後退で下落圧力の可能性。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-10-19T22:23:17.944001+00:00",
     "importance": 2,
@@ -361,5 +339,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Halliburtonは、エネルギー産業の構造的転換（エネルギー移行、再生可能エネルギーへのシフト）から複数年にわたる需要成長を見込んでいる。同社はこのエネルギー転換期における油ガス開発・インフラ投資需要の継続的な増加を予想。既存エネルギーから新型エネルギー体制への過渡期における設備・サービス需要の堅調を示唆。"
+  },
+  {
+    "title": "Opec-Plus: Crude Output Grows on Saudi Shift Back to Mideast Gulf - Energy Intelligence",
+    "timestamp": "2026-10-20T16:43:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアが原油生産をペルシャ湾地域へシフトさせており、OPEC+の増産動向が注視されている。同国の戦略的な生産地変更は供給構造の調整を示唆するが、市場予想の範囲内の動き。具体的な生産量増減データは報道から抽出不可。"
+  },
+  {
+    "title": "IEA ready to go if further oil stocks release needed, chief says - Reuters",
+    "timestamp": "2026-10-20T11:39:46+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "IEA事務局長が、必要に応じてさらなる石油備蓄の放出準備があることを表明した。これは供給逼迫時の対抗措置として市場に安心感をもたらし、原油価格への上値抑制材料となる。過去の備蓄放出（2022年）の経験を踏まえた発言で、インフレ対策としての政策オプションを維持する姿勢を示している。"
+  },
+  {
+    "title": "IEA oil stocks release timing is up to individual members, chief says - Reuters",
+    "timestamp": "2026-10-20T11:39:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "IEA事務局長がOPEC諸国の戦略備蓄放出タイミングは各加盟国の裁量との見解を示した。これは既に公知の事実の確認であり、具体的な放出計画や予想に変更をもたらさない。市場への即時的な影響は限定的。"
+  },
+  {
+    "title": "UK stocks slip as banks and commodity-linked stocks weigh - Reuters",
+    "timestamp": "2026-10-20T16:24:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "英国株式市場が銀行株とコモディティ関連株の売圧により下落した。銀行セクターの不調とコモディティ価格の弱さが同時に作用し、市場センチメントが悪化。金や原油などのコモディティ価格も連動して下押しされた可能性が高い。"
+  },
+  {
+    "title": "UK stocks slip as banks and commodity-linked stocks weigh - Reuters",
+    "timestamp": "2026-10-20T16:24:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "英国株式市場が銀行株とコモディティ関連株の売圧により下落した。銀行セクターの不調とコモディティ価格の弱さが同時に作用し、市場センチメントが悪化。金や原油などのコモディティ価格も連動して下押しされた可能性が高い。"
+  },
+  {
+    "title": "UK stocks slip as banks and commodity-linked stocks weigh - Reuters",
+    "timestamp": "2026-10-20T16:24:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "英国株式市場が銀行株とコモディティ関連株の売圧により下落した。銀行セクターの不調とコモディティ価格の弱さが同時に作用し、市場センチメントが悪化。金や原油などのコモディティ価格も連動して下押しされた可能性が高い。"
+  },
+  {
+    "title": "Russia Ships the Least Oil in a Month as Major Baltic Port Halts - Bloomberg.com",
+    "timestamp": "2026-10-20T12:18:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアがバルト海の主要港の停止により、過去1ヶ月間で最少の石油出荷量を記録した。港湾機能の停止は供給サイドのショックとなり、既にタイトな国際石油市場に新たな供給制約をもたらす。ロシア産原油の代替調達ルート限定により、価格上昇圧力が強まる可能性が高い。"
   }
 ]
