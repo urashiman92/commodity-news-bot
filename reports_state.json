@@ -33,28 +33,6 @@
     "summary": "OPECの最小加盟国が石油法を改正したとの報道。具体的な法改正内容や生産量への直接的な影響は記事からは不明だが、OPECメンバーの政策変更は供給戦略に関連する可能性がある。改正内容によっては原油供給量や投資環境に影響する可能性あり。"
   },
   {
-    "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
-    "timestamp": "2026-10-17T01:17:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁解除方針を「誤り」と批判。ロシア制裁の緩和は原油・ガス供給の逆風圧力を軽減する可能性がある一方、地政学的緊張の継続がエネルギー市場のボラティリティを維持する見通し。"
-  },
-  {
-    "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
-    "timestamp": "2026-10-17T01:17:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナのゼレンスキー大統領がトランプ前大統領のロシア制裁解除方針を「誤り」と批判。ロシア制裁の緩和は原油・ガス供給の逆風圧力を軽減する可能性がある一方、地政学的緊張の継続がエネルギー市場のボラティリティを維持する見通し。"
-  },
-  {
     "title": "OPEC Oil Output Rises in September - Egypt Oil & Gas",
     "timestamp": "2026-10-18T07:37:15+00:00",
     "importance": 2,
@@ -284,5 +262,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシア・ウクライナ紛争が継続し、ゼレンスキー大統領が米国への支援再度要請。地政学的緊張の長期化懸念から、黒海経由の穀物・エネルギー供給リスクが顕在化。原油を中心にコモディティ価格に上昇圧力。"
+  },
+  {
+    "title": "USDA Forecasts Wider Global Wheat Deficit in 2026/27 - logos-pres.md",
+    "timestamp": "2026-10-17T13:31:32+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAが2026/27年度の世界小麦需給見通しで赤字幅の拡大を予測。グローバルな供給逼迫が見込まれており、小麦価格の上昇圧力が高まる。複数地域での生産減少または需要増が原因と推定される。"
+  },
+  {
+    "title": "USDA Forecasts Wider Global Wheat Deficit in 2026/27 - logos-pres.md",
+    "timestamp": "2026-10-17T13:31:32+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが2026/27年度の世界小麦需給見通しで赤字幅の拡大を予測。グローバルな供給逼迫が見込まれており、小麦価格の上昇圧力が高まる。複数地域での生産減少または需要増が原因と推定される。"
+  },
+  {
+    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
+    "timestamp": "2026-10-19T20:49:44+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去2年間の放出政策により大幅に削減され、現在の水準は極めて低い状態にある。この史実は供給余裕の縮小を示唆し、原油市場の逼迫感を高める要因となる可能性がある。"
+  },
+  {
+    "title": "US stocks rebound with AI earnings test ahead, euro falls on France unrest - Reuters",
+    "timestamp": "2026-10-19T00:38:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株が反発し、AI決算発表を控えて底堅さを見せている。一方、フランスの不安定化に伴ってユーロが下落。リスク資産の回復は商品市場では安定的な需要環境を示唆する一方、ユーロ下落は欧州経済の不透明性を反映し、コモディティ全般への需要見通しに影響を与える可能性がある。"
+  },
+  {
+    "title": "US stocks rebound with AI earnings test ahead, euro falls on France unrest - Reuters",
+    "timestamp": "2026-10-19T00:38:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国株が反発し、AI決算発表を控えて底堅さを見せている。一方、フランスの不安定化に伴ってユーロが下落。リスク資産の回復は商品市場では安定的な需要環境を示唆する一方、ユーロ下落は欧州経済の不透明性を反映し、コモディティ全般への需要見通しに影響を与える可能性がある。"
   }
 ]
