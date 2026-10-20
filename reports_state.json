@@ -1,27 +1,5 @@
 [
   {
-    "title": "EIA reports U.S. commercial crude oil inventories rose by 0.9 million barrels for week ending September 25 - Energies Media",
-    "timestamp": "2026-10-17T02:45:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国のEIAが9月25日週の商業用原油在庫が0.9百万バレル増加したことを報告。在庫積み増しは原油供給過剰の圧力を示唆し、原油価格への下押し要因。週単位の在庫変動は通常の需給変動の範囲内。"
-  },
-  {
-    "title": "EIA reports U.S. commercial crude oil inventories rose by 0.9 million barrels for week ending September 25 - Energies Media",
-    "timestamp": "2026-10-17T02:45:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国のEIAが9月25日週の商業用原油在庫が0.9百万バレル増加したことを報告。在庫積み増しは原油供給過剰の圧力を示唆し、原油価格への下押し要因。週単位の在庫変動は通常の需給変動の範囲内。"
-  },
-  {
     "title": "OPEC's Smallest Member Rewrites Oil Law - Rigzone",
     "timestamp": "2026-10-17T12:05:44+00:00",
     "importance": 3,
@@ -317,5 +295,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "金",
     "summary": "米国株が反発し、AI決算発表を控えて底堅さを見せている。一方、フランスの不安定化に伴ってユーロが下落。リスク資産の回復は商品市場では安定的な需要環境を示唆する一方、ユーロ下落は欧州経済の不透明性を反映し、コモディティ全般への需要見通しに影響を与える可能性がある。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 44% Harvested, Soybeans 64% Harvested as of Oct. 18 - DTN Progressive Farmer",
+    "timestamp": "2026-10-19T08:38:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA発表のCrop Progress統計によると、10月18日時点でトウモロコシの収穫進度は44%、大豆は64%と報告された。両穀物ともに平年進度を上回るペースで進展しており、豊作を示唆する良好な収穫進捗が市場に価格下押し圧力をもたらす見通し。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 44% Harvested, Soybeans 64% Harvested as of Oct. 18 - DTN Progressive Farmer",
+    "timestamp": "2026-10-19T08:38:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA発表のCrop Progress統計によると、10月18日時点でトウモロコシの収穫進度は44%、大豆は64%と報告された。両穀物ともに平年進度を上回るペースで進展しており、豊作を示唆する良好な収穫進捗が市場に価格下押し圧力をもたらす見通し。"
+  },
+  {
+    "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
+    "timestamp": "2026-10-20T04:09:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国国務長官ルビオがインド訪問を開始し、貿易協定とロシア産原油問題をアジェンダに据える。米国によるロシア原油政策の強化や対インド貿易関係の再構築は、エネルギー市場の地政学的リスク要因として機能する可能性がある。インドのロシア産原油購入継続の是非が焦点。"
+  },
+  {
+    "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
+    "timestamp": "2026-10-20T04:09:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国国務長官ルビオがインド訪問を開始し、貿易協定とロシア産原油問題をアジェンダに据える。米国によるロシア原油政策の強化や対インド貿易関係の再構築は、エネルギー市場の地政学的リスク要因として機能する可能性がある。インドのロシア産原油購入継続の是非が焦点。"
+  },
+  {
+    "title": "BHP Copper Production Falls by a Fifth on Lower Chile Output - Bloomberg.com",
+    "timestamp": "2026-10-19T21:33:07+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "BHPの銅生産量が前年比で約20%減少し、特にチリ鉱山の減産が主因。BHPは世界有数の銅生産企業であり、同社の大幅な減産は全球的な銅供給逼迫を示唆。銅価格への上昇圧力となる可能性がある一方で、景気減速懸念がある場合は需要面での懸念が相殺する可能性も。"
   }
 ]
