@@ -1,27 +1,5 @@
 [
   {
-    "title": "世界的な傾向に倣い、金価格は軒並み下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-17T06:21:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が世界的な傾向に従って下落している。具体的な下落要因や幅については記事概要では明記されていない。コモディティ全般の軟調地合いを反映した相場展開と考えられる。"
-  },
-  {
-    "title": "世界の原油価格が1バレルあたり110ドルに達した。 - Vietnam.vn",
-    "timestamp": "2026-10-17T05:50:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格が1バレルあたり110ドルに到達した。地政学的緊張やOPEC+の供給管理により、高値圏での推移が継続している。コモディティ投資家にとっては価格水準の確認情報。"
-  },
-  {
     "title": "金価格、年末にかけ下押し圧力…「FRBの12月利上げ確率90%」 - BigGo ファイナンス",
     "timestamp": "2026-10-17T11:35:00+00:00",
     "importance": 4,
@@ -53,50 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は金利上昇圧力とドル強気の相反する要因の間で変動している。既知の対立軸の中での相場変動について記述した解説記事。"
-  },
-  {
-    "title": "ＷＴＩ原油先物、１か月ぶりに１バレル＝１００ドル突破…供給停滞への懸念強まる - 読売新聞",
-    "timestamp": "2026-10-17T10:03:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が1か月ぶりにバレル100ドルを突破。供給停滞への懸念が市場で高まっている。原油価格の上昇圧力が強まっている状況。"
-  },
-  {
-    "title": "ＷＴＩ原油先物、１か月ぶりに１バレル＝１００ドル突破…供給停滞への懸念強まる - ｄメニューニュース",
-    "timestamp": "2026-10-17T10:03:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が1か月ぶりに1バレル=100ドルを突破。供給停滞への懸念が強まっており、市場の不安心理が価格上昇を牽引している状況。"
-  },
-  {
-    "title": "NY原油、終値101ドル台 供給不安、1カ月ぶり高値 - 北海道新聞デジタル",
-    "timestamp": "2026-10-17T08:09:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油が101ドル台で終値し、1カ月ぶりの高値を更新。供給不安が価格を支えている。供給懸念は既に市場で認識されている状況。"
-  },
-  {
-    "title": "中東情勢の不安定化により、ブレント原油価格は1バレル110ドルに向けて上昇している。 - Vietnam.vn",
-    "timestamp": "2026-10-17T08:24:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の不安定化がきっかけでブレント原油が110ドル/バレルまで上昇している。地政学的リスクが原油供給への懸念を高めている。既に上昇トレンドが進行中の見報道。"
   },
   {
     "title": "金価格は本日（2026年10月18日）勢いを失い、投資家は悲観的になっています。資産配分の確実な方法は何でしょうか？ - Vietnam.vn",
@@ -132,17 +66,6 @@
     "summary": "WTI原油先物とブレント先物の現在値を表示するMoomooのリンク。具体的なニュース内容が不明。市場分析に必要な情報が欠落している。"
   },
   {
-    "title": "【雑談配信】日本vsニュージーランド 国際親善試合 Copper Price (6ZillDPTJf) - Unisba Media",
-    "timestamp": "2026-10-17T08:20:30+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "日本とニュージーランドの国際親善試合に関する雑談配信。銅価格との関連性が不明。スポーツイベントとコモディティ市場に直接的な関連なし。"
-  },
-  {
     "title": "本日（10月18日）の金価格：1オンスあたり4,100ドル～4,200ドルの範囲で停滞。 - Vietnam.vn",
     "timestamp": "2026-10-17T22:01:24+00:00",
     "importance": 1,
@@ -152,17 +75,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンスあたり4,100～4,200ドルの狭いレンジで推移している。現在の価格帯での膠着状態を報じた相場解説記事。"
-  },
-  {
-    "title": "ＷＴＩ原油先物、１か月ぶりに１バレル＝１００ドル突破…供給停滞への懸念強まる (読売新聞オンライン) - Yahoo!ニュース",
-    "timestamp": "2026-10-17T10:03:31+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が1ヶ月ぶりに100ドル/バレルを突破。供給停滞への懸念が強まり、価格上昇圧力が高まっている。地政学的リスクまたは予期せぬ供給減少が材料と推定される。"
   },
   {
     "title": "政府は大豆に1,000億ルピアを準備し、豆腐豆腐の価格は輸入に依存しています - VOI.ID",
@@ -240,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "10月17日時点で世界原油価格が約4%上昇したことを報じたニュース。ガソリン価格への連動を解説した市場フォローアップ記事と考えられる。"
-  },
-  {
-    "title": "原油が5カ月ぶりの110ドル｜ソフトバンクグループがアメリカの警備大手の買収を検討｜10月17日の経済ニュース10選 - YouTube",
-    "timestamp": "2026-10-17T10:05:31+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油が5カ月ぶりに110ドル水準に上昇。既に報じられている地政学的リスク（中東情勢など）が継続的に価格を支える形での動き。ソフトバンクグループの買収検討は原油とは無関係。"
   },
   {
     "title": "政府は大豆に1,000億ルピアを準備し、豆腐豆腐の価格は輸入に依存しています - VOI.ID",
@@ -1571,5 +1472,126 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で混合相場。エネルギー（原油・天然ガス）と銅は上昇、農産物と貴金属は下落。個別セクターの需給バランスの違いを反映した典型的な相場展開。"
+  },
+  {
+    "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-10-20T06:30:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物のダブル・ブル型ETN（2036）に関するYahoo!ファイナンスの情報ページ。特定のニュース内容や時系列情報が不明。"
+  },
+  {
+    "title": "原油価格の上昇圧力により、世界の金価格は下落した。 - Vietnam.vn",
+    "timestamp": "2026-10-20T08:55:19+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油価格の上昇により金価格が下落。両コモディティの逆相関関係が示現。インフレ懸念の相対的な軽減が背景か。"
+  },
+  {
+    "title": "投資家がFRBの金利見通しを見極める中、金価格は小幅安 - Mezha.net",
+    "timestamp": "2026-10-20T01:59:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの金利見通しに対する投資家の注視の中、金価格は小幅な下落を記録。金利上昇期待が金の魅力を低下させている。現在のところ大きなサプライズなく、既定路線での値動き。"
+  },
+  {
+    "title": "世界の金価格は回復の勢いを失い、投資家は一連のリスクに直面 - Laodong.vn",
+    "timestamp": "2026-10-20T09:56:09+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が回復の勢いを失い、下落トレンドが鮮明化。投資家は複数のリスク要因に直面している状況。上昇期待の剥落が材料。"
+  },
+  {
+    "title": "本日（2026年10月20日）の金価格：SJCの金価格は1オンスあたり1億3960万～1億4260万ベトナムドンに下落。 - Vietnam.vn",
+    "timestamp": "2026-10-20T07:17:06+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が1オンスあたり1億3960万～1億4260万ベトナムドンに下落。地域的な価格報告であり、グローバル金相場の主要ニュースではない。"
+  },
+  {
+    "title": "株価 一時1100円超値下がり 原油先物価格の上昇で - NHKニュース",
+    "timestamp": "2026-10-20T07:14:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物価格の上昇に伴い、日本株式市場が一時1100円超の下落を記録した。原油高はエネルギーコスト増加懸念から株価の重荷となっている。"
+  },
+  {
+    "title": "［動画］また100ドル超え 原油相場「戦時下のレンジ」長期化か - トウシル",
+    "timestamp": "2026-10-20T06:28:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が再び100ドルを超える水準まで上昇。地政学的リスクを背景に、100ドル前後での値動きが「戦時下のレンジ」として長期化する可能性が指摘されている。アナリスト見解としての解説記事。"
+  },
+  {
+    "title": "原油価格が1バレル110ドルを突破、欧州株は下落。 - Vietnam.vn",
+    "timestamp": "2026-10-20T10:31:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が1バレル110ドルを突破し、欧州株式市場が下落。エネルギーコスト上昇による経済への悪影響が懸念される。短期的な相場の振り返りと市場反応の報道。"
+  },
+  {
+    "title": "トウモロコシ相場2カ月ぶり安値、収穫作業が大豆からシフト - 日本経済新聞",
+    "timestamp": "2026-10-20T05:51:04+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ相場が2カ月ぶりの安値を付けた。農家の収穫作業が大豆からトウモロコシへシフトしており、供給圧が高まっている。季節的な収穫増加による供給過剰が価格を押し下げている。"
+  },
+  {
+    "title": "ブログ、15万トン以上のトウモロコシを配布、農家向け価格は1キログラムあたり5,500ルピアに制限 - VOI.ID",
+    "timestamp": "2026-10-20T07:18:12+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "インドネシアが15万トン以上のトウモロコシを農家向けに配布、価格を1kg当たり5,500ルピアに制限。政府の価格統制政策による供給増加。"
+  },
+  {
+    "title": "中国は米国産大豆の購入量を増やしている。 - Vietnam.vn",
+    "timestamp": "2026-10-20T08:04:17+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "中国が米国産大豆の購入量を増加させている。米中貿易緊張緩和の兆候として解釈される可能性がある。大豆需要の増加は価格支持要因となる。"
   }
 ]
