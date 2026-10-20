@@ -416,5 +416,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアがバルト海の主要港の停止により、過去1ヶ月間で最少の石油出荷量を記録した。港湾機能の停止は供給サイドのショックとなり、既にタイトな国際石油市場に新たな供給制約をもたらす。ロシア産原油の代替調達ルート限定により、価格上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "Chickens and Eggs",
+    "timestamp": "2026-10-20T22:19:26.980136+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSの9月鶏卵生産統計。卵生産量は前年同月比6%増と堅調な伸びを示した一方、採卵用ひなの孵化は8%減少し、食肉用ブロイラーひなはわずかな増加に留まった。供給と需要のシグナルが混在する局面を示唆している。"
+  },
+  {
+    "title": "Chickens and Eggs",
+    "timestamp": "2026-10-20T22:19:26.980136+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの9月鶏卵生産統計。卵生産量は前年同月比6%増と堅調な伸びを示した一方、採卵用ひなの孵化は8%減少し、食肉用ブロイラーひなはわずかな増加に留まった。供給と需要のシグナルが混在する局面を示唆している。"
+  },
+  {
+    "title": "WASDE hands corn prices another blow - Duncan Banner",
+    "timestamp": "2026-10-20T20:45:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE（米農務省穀物需給報告）がトウモロコシ価格に再度の下押し圧力をもたらした。タイトルが「another blow」と表現していることから、複数回の悪材料が連続している状況。供給増加見通しまたは需要減少見通しが示唆されており、市場は弱気方向に反応。"
+  },
+  {
+    "title": "High-Yield Cotton Farms Win Big in New Insurance Policy Shift - AgWeb",
+    "timestamp": "2026-10-20T18:53:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国の高収量綿花農場が新しい保険制度の変更により利益を得たというニュース。保険政策の調整により、綿花農家のリスク回避コスト低減が期待される。綿花市場の供給サイドの収益性向上は、綿花価格の底堅さにやや好材料。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Harvest 44%, Soybeans 64%, Cotton 41% - News and Statistics - IndexBox",
+    "timestamp": "2026-10-20T19:00:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Harvest 44%, Soybeans 64%, Cotton 41% - News and Statistics - IndexBox",
+    "timestamp": "2026-10-20T19:00:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Harvest 44%, Soybeans 64%, Cotton 41% - News and Statistics - IndexBox",
+    "timestamp": "2026-10-20T19:00:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
+  },
+  {
+    "title": "Oil slides as Trump delays new Russia measures, OPEC trims demand outlook - Anadolu Ajansı",
+    "timestamp": "2026-10-19T07:41:03+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "原油価格が下落。トランプ大統領がロシア制裁を延期したことで地政学的リスク低下への見方が広がった。同時にOPECが需要見通しを下方修正し、供給過剰懸念が強まった。複合的な下押し圧力が作用している。"
+  },
+  {
+    "title": "Non-Opec-Plus: South America Cranks Up Oil Output, Exports - Energy Intelligence",
+    "timestamp": "2026-10-20T17:14:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "南米がOPEC非加盟国として石油生産・輸出を増加させている。ブラジルなどの増産により、OPEC+の減産政策とは相反する供給増加圧力が市場に作用。非OPEC供給の拡大がグローバル原油需給バランスに影響する見通し。"
+  },
+  {
+    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
+    "timestamp": "2026-10-20T04:03:01+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は10月の原油生産政策を据え置くことを決定した。既に公表されている減産方針の継続であり、市場の事前予想の範囲内。地政学的リスク要因がない限り、価格への大きな変動要因とはならない見込み。"
+  },
+  {
+    "title": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure - Reuters",
+    "timestamp": "2026-10-18T22:23:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派によるサウジアラビアのインフラ攻撃が報じられたにもかかわらず、ブレント原油は軟調に推移している。地政学的リスク要因が存在するものの、市場は既にこの脅威を織り込んでいるか、需要不安の方が価格を抑制しているとみられる。"
   }
 ]
