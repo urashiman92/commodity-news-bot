@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC's Smallest Member Rewrites Oil Law - Rigzone",
-    "timestamp": "2026-10-17T12:05:44+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの最小加盟国が石油法を改正したとの報道。具体的な法改正内容や生産量への直接的な影響は記事からは不明だが、OPECメンバーの政策変更は供給戦略に関連する可能性がある。改正内容によっては原油供給量や投資環境に影響する可能性あり。"
-  },
-  {
     "title": "OPEC Oil Output Rises in September - Egypt Oil & Gas",
     "timestamp": "2026-10-18T07:37:15+00:00",
     "importance": 2,
@@ -242,28 +231,6 @@
     "summary": "ロシア・ウクライナ紛争が継続し、ゼレンスキー大統領が米国への支援再度要請。地政学的緊張の長期化懸念から、黒海経由の穀物・エネルギー供給リスクが顕在化。原油を中心にコモディティ価格に上昇圧力。"
   },
   {
-    "title": "USDA Forecasts Wider Global Wheat Deficit in 2026/27 - logos-pres.md",
-    "timestamp": "2026-10-17T13:31:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAが2026/27年度の世界小麦需給見通しで赤字幅の拡大を予測。グローバルな供給逼迫が見込まれており、小麦価格の上昇圧力が高まる。複数地域での生産減少または需要増が原因と推定される。"
-  },
-  {
-    "title": "USDA Forecasts Wider Global Wheat Deficit in 2026/27 - logos-pres.md",
-    "timestamp": "2026-10-17T13:31:32+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2026/27年度の世界小麦需給見通しで赤字幅の拡大を予測。グローバルな供給逼迫が見込まれており、小麦価格の上昇圧力が高まる。複数地域での生産減少または需要増が原因と推定される。"
-  },
-  {
     "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
     "timestamp": "2026-10-19T20:49:44+00:00",
     "importance": 4,
@@ -350,5 +317,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "BHPの銅生産量が前年比で約20%減少し、特にチリ鉱山の減産が主因。BHPは世界有数の銅生産企業であり、同社の大幅な減産は全球的な銅供給逼迫を示唆。銅価格への上昇圧力となる可能性がある一方で、景気減速懸念がある場合は需要面での懸念が相殺する可能性も。"
+  },
+  {
+    "title": "Husker power leads to USDA corn yield upside surprise - Farm Progress",
+    "timestamp": "2026-10-19T07:02:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "ネブラスカ州（米国最大のトウモロコシ生産州の一つ）の好調な単収がUSDA公式予想を上回るサプライズとなった。このポジティブな単収見通しは、2024年度の米国トウモロコシ生産量上方修正の可能性を示唆し、市場の供給懸念を緩和する材料となる。"
+  },
+  {
+    "title": "Asia Refiners in Dispute With Saudis Over 2027 Oil Contracts - Bloomberg.com",
+    "timestamp": "2026-10-20T08:44:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア製油所とサウジアラビアが2027年の原油供給契約をめぐり対立。サウジ側の価格設定や契約条件に対してアジア主要製油所が異議を唱えており、契約交渉の難航が予想される。今後の原油供給安定性と価格形成に影響を与える可能性がある。"
+  },
+  {
+    "title": "Halliburton Sees Multi-Year Demand Growth From Energy Disruption - Bloomberg.com",
+    "timestamp": "2026-10-20T11:35:28+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "Halliburtonは、エネルギー産業の構造的転換（エネルギー移行、再生可能エネルギーへのシフト）から複数年にわたる需要成長を見込んでいる。同社はこのエネルギー転換期における油ガス開発・インフラ投資需要の継続的な増加を予想。既存エネルギーから新型エネルギー体制への過渡期における設備・サービス需要の堅調を示唆。"
+  },
+  {
+    "title": "Halliburton Sees Multi-Year Demand Growth From Energy Disruption - Bloomberg.com",
+    "timestamp": "2026-10-20T11:35:28+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Halliburtonは、エネルギー産業の構造的転換（エネルギー移行、再生可能エネルギーへのシフト）から複数年にわたる需要成長を見込んでいる。同社はこのエネルギー転換期における油ガス開発・インフラ投資需要の継続的な増加を予想。既存エネルギーから新型エネルギー体制への過渡期における設備・サービス需要の堅調を示唆。"
   }
 ]
