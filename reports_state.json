@@ -484,17 +484,6 @@
     "summary": "OPEC+は10月の原油生産政策を据え置くことを決定した。既に公表されている減産方針の継続であり、市場の事前予想の範囲内。地政学的リスク要因がない限り、価格への大きな変動要因とはならない見込み。"
   },
   {
-    "title": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure - Reuters",
-    "timestamp": "2026-10-18T22:23:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビアのインフラ攻撃が報じられたにもかかわらず、ブレント原油は軟調に推移している。地政学的リスク要因が存在するものの、市場は既にこの脅威を織り込んでいるか、需要不安の方が価格を抑制しているとみられる。"
-  },
-  {
     "title": "Trump Administration Announces $8 Billion Harvest Fuel Relief Program - USDA (.gov)",
     "timestamp": "2026-10-20T01:31:12+00:00",
     "importance": 3,
@@ -647,5 +636,49 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "10月16日のEIA原油在庫は予想外の大幅減少（-3.061M バレル vs 予想 -0.8M）を記録した。前週の-8.557Mと比べて減少幅は緩和しているが、予想を3倍以上上回る在庫減少は需給逼迫を示唆。同時にSPR（戦略備蓄)は282.7Mまで低下し、在庫圧力の軽減が価格上昇要因となる。"
+  },
+  {
+    "title": "Price of Russian oil used for tax calculations jumps 60% above the budget level - Reuters",
+    "timestamp": "2026-10-21T17:07:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア産原油の税務計算基準価格が予算レベルから60%上昇した。これはロシア財政に大きな影響を与え、同時にエネルギー市場の価格形成に重要な情報をもたらす。ロシアの原油供給戦略や政府歳入が現状の高価格環境を反映していることを示唆している。"
+  },
+  {
+    "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains - Bloomberg.com",
+    "timestamp": "2026-10-21T19:46:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の地政学的緊張報道により原油価格が上昇し、リスク回避姿勢からドル買いが進行。米国債（Treasury）利回りが上昇して債券価格が下落。原油上昇は正のインパクトだが、金利上昇は金を含む無利子資産への下落圧力となり、コモディティ市場全体で相反する動きが生じている。"
+  },
+  {
+    "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains - Bloomberg.com",
+    "timestamp": "2026-10-21T19:46:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "中東の地政学的緊張報道により原油価格が上昇し、リスク回避姿勢からドル買いが進行。米国債（Treasury）利回りが上昇して債券価格が下落。原油上昇は正のインパクトだが、金利上昇は金を含む無利子資産への下落圧力となり、コモディティ市場全体で相反する動きが生じている。"
+  },
+  {
+    "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains - Bloomberg.com",
+    "timestamp": "2026-10-21T19:46:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中東の地政学的緊張報道により原油価格が上昇し、リスク回避姿勢からドル買いが進行。米国債（Treasury）利回りが上昇して債券価格が下落。原油上昇は正のインパクトだが、金利上昇は金を含む無利子資産への下落圧力となり、コモディティ市場全体で相反する動きが生じている。"
   }
 ]
