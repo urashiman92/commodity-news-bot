@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は本日（2026年10月19日）、「課題を克服」し、短期的な抵抗線を確立する見込み。専門家は明るい見通しを予測している。 - Vietnam.vn",
-    "timestamp": "2026-10-18T14:57:52+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が短期的な抵抗線を克服し、専門家が強気見通しを示している。技術的なサポートレベルの突破により、上値余地が生まれた可能性がある。"
-  },
-  {
-    "title": "アルジェリア産原油価格が急騰した。 - Vietnam.vn",
-    "timestamp": "2026-10-18T15:26:50+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アルジェリア産原油価格が急騰したとの報道。具体的な騰落率や原因は不明。ベトナムメディアからの限定的な情報のみ。"
-  },
-  {
     "title": "金価格の最新情報、2026年10月19日午前：SJC、プレーン9999 DOJI BTMC Phu Quyリング。 - Vietnam.vn",
     "timestamp": "2026-10-18T21:20:53+00:00",
     "importance": 1,
@@ -1901,5 +1879,115 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "AI投資と戦略的需要がけん引し、銅が金の価格を上回った。電気自動車やAIインフラなど成長産業での銅需要が金属市場の構図を変えている。"
+  },
+  {
+    "title": "WisdomTree 小麦上場投信【1695】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-10-21T15:19:28+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "WisdomTree小麦上場投信(1695)のYahoo!ファイナンス掲載ページへのリンク。具体的なニュース内容や価格変動情報は含まれていない。"
+  },
+  {
+    "title": "金価格が上昇に転じる、原油安でインフレ懸念が後退しFRB動向に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-21T01:28:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油安によるインフレ懸念の後退から、金価格が上昇に転じた。FRBの金利動向が今後の金相場の重要な判断材料となる。市場は金の実質利回り改善を好感している。"
+  },
+  {
+    "title": "米国債利回りの高止まりが金価格を下押しし、金はレンジ相場の下限水準へ戻りました。 - Moomoo",
+    "timestamp": "2026-10-21T03:27:45+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国債利回りの高止まりが金価格を下押ししている。金相場がレンジ相場の下限水準に戻った。高金利環境では金の機会費用が増大するため、利回り資産との相対的魅力が低下。"
+  },
+  {
+    "title": "今日の世界の金価格 21.10:金は勢いを失い、市場は赤色に覆われる - Laodong.vn",
+    "timestamp": "2026-10-21T09:57:54+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が勢いを失い、市場全体が売り圧力に晒されている。本ニュースは相場の日中の値動きを述べた解説記事。短期的な価格下落を伝えている。"
+  },
+  {
+    "title": "欧州為替：ドル・円は安値圏、原油相場の失速で - 株探",
+    "timestamp": "2026-10-21T10:58:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が失速傾向を示しており、ドル・円相場は安値圏で推移している。原油価格の弱さがドル買い圧力を減少させている可能性が示唆されている。"
+  },
+  {
+    "title": "【速報】NY原油先物続落、97.04ドル｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-21T13:12:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が97.04ドルまで続落。速報レベルの記事だが、具体的な下落要因や日時が不明。市場の一般的なボラティリティの範囲内と判断される。"
+  },
+  {
+    "title": "WTI原油先物相場、じり安 97ドル台前半で推移 - Moomoo",
+    "timestamp": "2026-10-21T14:43:52+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物は97ドル台前半で緩やかに下落している。特定の決定的なニュースが明記されていない相場の振り返り報道。"
+  },
+  {
+    "title": "トウモロコシ先物価格予測：サポート付近で持ち合いが続き、横ばい推移を予想 - Traders Union",
+    "timestamp": "2026-10-21T12:17:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシ先物がサポートレベル付近で持ち合いを続けており、今後も横ばい推移が予想されている。アナリストによるテクニカル分析と相場観の解説。"
+  },
+  {
+    "title": "寄り付きで下方向に窓を開けた後、売り方が優勢となり大豆先物は2%近く下落 - Traders Union",
+    "timestamp": "2026-10-21T12:07:34+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物が寄り付きで下方向に窓を開けた後、売り方の優勢により約2%の下落を記録。技術的な売り圧力による相場調整局面と判断される。"
+  },
+  {
+    "title": "米国の銅倉庫への流入は銅価格を圧迫するのか？ - Traders Union",
+    "timestamp": "2026-10-21T12:23:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国の銅倉庫への流入増加が報じられており、供給増加による価格押し下げ圧力が懸念される。倉庫流入は需給緩和を示唆し、短期的な下値圧力となる可能性。"
   }
 ]
