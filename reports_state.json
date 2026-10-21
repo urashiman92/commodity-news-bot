@@ -176,28 +176,6 @@
     "summary": "Nasdaqがチップ関連およびAI関連株の反発により上昇。テクノロジーセクターの強気材料が市場心理を改善。ただしコモディティ市場への直接的な供給・需要ショックではなく、リスク資産全般の需要動向を示す景気サイン。"
   },
   {
-    "title": "Russia, Ukraine Keep Up Attacks as Zelenskyy Renews Appeal to US - Bloomberg.com",
-    "timestamp": "2026-10-18T08:59:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア・ウクライナ紛争が継続し、ゼレンスキー大統領が米国への支援再度要請。地政学的緊張の長期化懸念から、黒海経由の穀物・エネルギー供給リスクが顕在化。原油を中心にコモディティ価格に上昇圧力。"
-  },
-  {
-    "title": "Russia, Ukraine Keep Up Attacks as Zelenskyy Renews Appeal to US - Bloomberg.com",
-    "timestamp": "2026-10-18T08:59:35+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシア・ウクライナ紛争が継続し、ゼレンスキー大統領が米国への支援再度要請。地政学的緊張の長期化懸念から、黒海経由の穀物・エネルギー供給リスクが顕在化。原油を中心にコモディティ価格に上昇圧力。"
-  },
-  {
     "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
     "timestamp": "2026-10-19T20:49:44+00:00",
     "importance": 4,
@@ -614,5 +592,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中東供給懸念とUS在庫減少を背景に原油価格が上昇。地政学的リスクと米国石油在庫の実績減少が相互作用し、供給逼迫への警戒が強まっている。中東地域の地政学的緊張が続く中、米国のインベントリー管理が価格支持要因となっている。"
+  },
+  {
+    "title": "Copper price falls as LME stocks edge higher and mine supply concerns ease - Mining.com",
+    "timestamp": "2026-10-19T18:24:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が下落した。LME(ロンドン金属取引所)の在庫がわずかに増加し、鉱山供給懸念が緩和されたことが背景。供給不安の軽減により上値が重くなり、短期的な下押し圧力が生じている。"
+  },
+  {
+    "title": "Copper price falls as LME stocks edge higher and mine supply concerns ease - Mining.com",
+    "timestamp": "2026-10-19T18:24:17+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅価格が下落した。LME(ロンドン金属取引所)の在庫がわずかに増加し、鉱山供給懸念が緩和されたことが背景。供給不安の軽減により上値が重くなり、短期的な下押し圧力が生じている。"
+  },
+  {
+    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
+    "timestamp": "2026-10-20T15:06:57+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストBoussoは、ホルムズ海峡の再開がOPECの減産戦略を脅かす可能性を指摘。海峡を通じた石油供給が回復すれば、OPECの市場支配力が弱まり、原油価格の下押し圧力となる懸念を表明。地政学リスクの軽減が供給過剰をもたらす逆説的シナリオ。"
+  },
+  {
+    "title": "Saudi crude oil exports hit five-month high in August, data shows - Reuters",
+    "timestamp": "2026-10-21T12:17:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの8月の原油輸出量が5ヶ月ぶりの高水準に達したことが明らかになった。これはOPECプラスの減産枠組み内での輸出増加を示唆しており、供給側の動きが注視される。ただし市場では既に同国の段階的な生産調整が織り込まれている状況。"
   }
 ]
