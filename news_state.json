@@ -11,28 +11,6 @@
     "summary": "ベトナムの金価格情報（SJC、DOJI、BTMC、Phu Quyブランド）の2026年10月19日午前の相場発表。ベトナム国内の小売金価格の日次引値情報。"
   },
   {
-    "title": "原油、26年末に85ドル程度 米イランの交渉進展で - 日本経済新聞",
-    "timestamp": "2026-10-18T20:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国とイランの交渉進展を背景に、原油価格は2026年末に85ドル程度まで低下する見通しが示された。イラン核合意の進展による供給リスク低下が主要因。"
-  },
-  {
-    "title": "マクロン大統領「デモの要求理解、原油高は仏責任でない」 - 조선일보",
-    "timestamp": "2026-10-18T18:39:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "マクロン大統領がフランスの燃料税抗議デモに関し、デモ参加者の要求に一定の理解を示しつつ、原油価格上昇はフランスの責任ではないとの立場を表明。政治的な説明責任の発言。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4165ドル｜原油高によるインフレ懸念が影響した模様(2026年10月19日) - OANDA証券",
     "timestamp": "2026-10-18T23:05:17+00:00",
     "importance": 2,
@@ -1989,5 +1967,49 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米国の銅倉庫への流入増加が報じられており、供給増加による価格押し下げ圧力が懸念される。倉庫流入は需給緩和を示唆し、短期的な下値圧力となる可能性。"
+  },
+  {
+    "title": "売り圧力が市場を支配するなか、カンザスシティ小麦価格は一段安 - Traders Union",
+    "timestamp": "2026-10-21T12:40:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦相場が売り圧力により下落している。市場では供給の潤沢さや需要の弱さが売り材料となっている模様。既に織り込まれた相場動向の解説記事。"
+  },
+  {
+    "title": "金価格は中東危機でも4100ドル台へ急落！米金利上昇が招くさらなる「下落リスク」 - ダイヤモンド・オンライン",
+    "timestamp": "2026-10-21T19:25:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4100ドル台へ急落。中東危機というリスク要因があっても、米金利上昇が金の下押し圧力として機能している。さらなる下落リスクが指摘されている。"
+  },
+  {
+    "title": "米国債利回りの低下にもかかわらず金価格が上昇しない中、金の買い底条件とは何か - Moomoo",
+    "timestamp": "2026-10-21T11:20:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国債利回り低下にもかかわらず金価格が上昇していない現象について、アナリストが買い底の条件を検討するコメンタリー。市場の既存認識の範囲内での解説記事。"
+  },
+  {
+    "title": "USDA穀物買い付け価格はまちまち：カンザス・イリノイの現物価格下落、ガルフのトウモロコシ・大豆輸出ベーシスは上昇 - IndexBox",
+    "timestamp": "2026-10-21T16:21:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "米国の穀物買い付け価格がまちまちな動き。カンザス・イリノイの現物価格は下落する一方、ガルフの輸出ベーシスは上昇。地域別・銘柄別で相反する値動き。"
   }
 ]
