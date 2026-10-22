@@ -44,28 +44,6 @@
     "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
   },
   {
-    "title": "Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters",
-    "timestamp": "2026-10-19T20:54:47+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Nasdaqがチップ関連およびAI関連株の反発により上昇。テクノロジーセクターの強気材料が市場心理を改善。ただしコモディティ市場への直接的な供給・需要ショックではなく、リスク資産全般の需要動向を示す景気サイン。"
-  },
-  {
-    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
-    "timestamp": "2026-10-19T20:49:44+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去2年間の放出政策により大幅に削減され、現在の水準は極めて低い状態にある。この史実は供給余裕の縮小を示唆し、原油市場の逼迫感を高める要因となる可能性がある。"
-  },
-  {
     "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
     "timestamp": "2026-10-20T04:09:00+00:00",
     "importance": 3,
@@ -86,17 +64,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国国務長官ルビオがインド訪問を開始し、貿易協定とロシア産原油問題をアジェンダに据える。米国によるロシア原油政策の強化や対インド貿易関係の再構築は、エネルギー市場の地政学的リスク要因として機能する可能性がある。インドのロシア産原油購入継続の是非が焦点。"
-  },
-  {
-    "title": "BHP Copper Production Falls by a Fifth on Lower Chile Output - Bloomberg.com",
-    "timestamp": "2026-10-19T21:33:07+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "BHPの銅生産量が前年比で約20%減少し、特にチリ鉱山の減産が主因。BHPは世界有数の銅生産企業であり、同社の大幅な減産は全球的な銅供給逼迫を示唆。銅価格への上昇圧力となる可能性がある一方で、景気減速懸念がある場合は需要面での懸念が相殺する可能性も。"
   },
   {
     "title": "Asia Refiners in Dispute With Saudis Over 2027 Oil Contracts - Bloomberg.com",
@@ -737,17 +704,6 @@
     "summary": "米国の原油在庫が週間ベースで300万バレル減少した。EIAの定期在庫発表データであり、在庫削減は需給タイト化を示唆するが、300万バレルの減少幅が予想比でどの程度のサプライズであるかは不明。市場の既織り込み状況次第で評価が分かれる。"
   },
   {
-    "title": "Crop Progress: Last call for corn quality ratings - Farm Progress",
-    "timestamp": "2026-10-19T21:48:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシの品質格付けに関する最終報告の公表予定レポート。収穫期末における品質評価の最後の集計となる定例発表。市場参加者への情報提供が主目的で、既に大部分の市場コンセンサスが形成されている段階での更新。"
-  },
-  {
     "title": "LME copper stocks in US climb to 12-year high - Mining.com",
     "timestamp": "2026-10-22T14:38:44+00:00",
     "importance": 3,
@@ -801,5 +757,137 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "P&Gが石油価格の上昇による原価増加圧力の拡大を警告。同社の消費者需要は堅調に推移しているが、エネルギーコストの高騰がさらなる利益圧迫要因となる見通し。プラスチック製品や輸送コストへの波及懸念が浮上。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-10-22T22:21:49.853586+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSの公式発表で、商業的赤肉生産が前年同期比4%低下した。これは食肉処理頭数の減少を意味し、畜産飼料であるトウモロコシ・大豆の需要低下につながる。供給制約というより需要サイドの弱さが反映されている。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-10-22T22:21:49.853586+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSの公式発表で、商業的赤肉生産が前年同期比4%低下した。これは食肉処理頭数の減少を意味し、畜産飼料であるトウモロコシ・大豆の需要低下につながる。供給制約というより需要サイドの弱さが反映されている。"
+  },
+  {
+    "title": "Livestock Slaughter",
+    "timestamp": "2026-10-22T22:21:49.853586+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSの公式発表で、商業的赤肉生産が前年同期比4%低下した。これは食肉処理頭数の減少を意味し、畜産飼料であるトウモロコシ・大豆の需要低下につながる。供給制約というより需要サイドの弱さが反映されている。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-10-22T22:21:54.188586+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-10-22T22:21:54.188586+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
+  },
+  {
+    "title": "Milk Production",
+    "timestamp": "2026-10-22T22:21:54.188586+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
+  },
+  {
+    "title": "Copper falls as inventories rise, supply worries ease - Investify",
+    "timestamp": "2026-10-21T12:59:19+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅相場が下落している。在庫水準の上昇により供給懸念が軽減されたことが主な要因である。市場が以前の供給逼迫シナリオから在庫増加へのシフトを反映させており、短期的な価格下押し圧力が継続している。"
+  },
+  {
+    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
+    "timestamp": "2026-10-22T07:36:24+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストBoussoが、ホルムズ海峡の再開通がOPECの減産戦略を脅かす可能性を指摘。地政学的緊張緩和による供給増加は、OPECの市場支配力低下につながり、原油価格の下押し圧力となる可能性がある。既往の地政学リスクプレミアムの剥落を示唆。"
+  },
+  {
+    "title": "Oil Tankers Sailing the US-China Route Are Commanding $60 Million and It’s Crushing Demand - Bloomberg.com",
+    "timestamp": "2026-10-22T19:46:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国-中国間の石油タンカー運賃が1隻あたり約6000万ドル（推定）に急騰し、輸送コストの上昇がエンドユーザーの石油購買需要を圧迫している。タンカー賃料の高騰は供給コスト上昇を意味し、最終的に原油需要減少につながる可能性が高い。これは地政学的緊張や航路迂回による物流逼迫を示唆している。"
+  },
+  {
+    "title": "Oil Tankers Sailing the US-China Route Are Commanding $60 Million and It’s Crushing Demand - Bloomberg.com",
+    "timestamp": "2026-10-22T19:46:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国-中国間の石油タンカー運賃が1隻あたり約6000万ドル（推定）に急騰し、輸送コストの上昇がエンドユーザーの石油購買需要を圧迫している。タンカー賃料の高騰は供給コスト上昇を意味し、最終的に原油需要減少につながる可能性が高い。これは地政学的緊張や航路迂回による物流逼迫を示唆している。"
+  },
+  {
+    "title": "Three Killed in Attacks on Aramco Oil Field, Saudi Airport - Bloomberg.com",
+    "timestamp": "2026-10-21T23:28:37+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのアラムコ油田とジェッダ空港への攻撃により3人が死亡。中東の主要石油供給インフラへの直接的な地政学的脅威が顕在化した。サウジアラビアは世界最大級の石油輸出国であり、供給途絶リスクが原油価格を上昇圧力に置く。"
+  },
+  {
+    "title": "Oil Stocks Are Looking Stretched to Traders as Earnings Loom - Bloomberg.com",
+    "timestamp": "2026-10-22T15:47:54+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "石油関連企業の株価が技術的に過熱感を示しており、決算発表を控えてトレーダー間で警戒感が高まっている。益利確売却の可能性が指摘されている一方、決算内容次第で評価が変わる可能性がある。"
   }
 ]
