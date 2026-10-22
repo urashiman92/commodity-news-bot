@@ -44,50 +44,6 @@
     "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
   },
   {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
-    "timestamp": "2026-10-19T14:33:24+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
-    "timestamp": "2026-10-19T14:33:24+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
-    "timestamp": "2026-10-19T14:33:24+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Update — Monday, October 19, 2026 - RFD-TV",
-    "timestamp": "2026-10-19T14:33:24+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年10月19日のRFD-TV週間穀物進捗・畜産生産レポート。定期的な作物進捗状況と畜産関連データを報告。具体的な数値や前週比の詳細情報は本文から直接確認が必要。市場予想との乖離度は不明。"
-  },
-  {
     "title": "Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters",
     "timestamp": "2026-10-19T20:54:47+00:00",
     "importance": 2,
@@ -440,28 +396,6 @@
     "summary": "中東供給懸念とUS在庫減少を背景に原油価格が上昇。地政学的リスクと米国石油在庫の実績減少が相互作用し、供給逼迫への警戒が強まっている。中東地域の地政学的緊張が続く中、米国のインベントリー管理が価格支持要因となっている。"
   },
   {
-    "title": "Copper price falls as LME stocks edge higher and mine supply concerns ease - Mining.com",
-    "timestamp": "2026-10-19T18:24:17+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が下落した。LME(ロンドン金属取引所)の在庫がわずかに増加し、鉱山供給懸念が緩和されたことが背景。供給不安の軽減により上値が重くなり、短期的な下押し圧力が生じている。"
-  },
-  {
-    "title": "Copper price falls as LME stocks edge higher and mine supply concerns ease - Mining.com",
-    "timestamp": "2026-10-19T18:24:17+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅価格が下落した。LME(ロンドン金属取引所)の在庫がわずかに増加し、鉱山供給懸念が緩和されたことが背景。供給不安の軽減により上値が重くなり、短期的な下押し圧力が生じている。"
-  },
-  {
     "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
     "timestamp": "2026-10-20T15:06:57+00:00",
     "importance": 4,
@@ -768,5 +702,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアがアラムコの海外石油貯蔵施設へのアクセス確保を模索している。供給余力の強化と価格変動への対抗手段として位置付けられる。OPECの減産政策を補完する戦略的な動きであり、市場の供給サイド安定化シグナルとして機能する可能性がある。"
+  },
+  {
+    "title": "Rice Stocks",
+    "timestamp": "2026-10-22T18:33:49.528669+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSが発表したカリフォルニア州の粗米在庫が2025年10月比で5%増加。米国の米穀在庫増加は供給圧力を示唆し、価格下押し要因となる。定期的な在庫統計の一環であり、市場予想範囲内の動き。"
+  },
+  {
+    "title": "Crude oil inventories show a draw of -3.060M versus estimate of -0.82 million drawdown - investingLive",
+    "timestamp": "2026-10-21T14:33:27+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計で予想を大きく上回る306万バレルの減少が報告された。市場予想は82万バレルの減少にとどまっていたが、実績は3.7倍の減少幅となった。在庫減少は原油需給逼迫を示唆し、価格上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "USA Crude Oil Stocks Drop 3MM Barrels WoW - Rigzone",
+    "timestamp": "2026-10-22T15:07:34+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が週間ベースで300万バレル減少した。EIAの定期在庫発表データであり、在庫削減は需給タイト化を示唆するが、300万バレルの減少幅が予想比でどの程度のサプライズであるかは不明。市場の既織り込み状況次第で評価が分かれる。"
+  },
+  {
+    "title": "Crop Progress: Last call for corn quality ratings - Farm Progress",
+    "timestamp": "2026-10-19T21:48:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "トウモロコシの品質格付けに関する最終報告の公表予定レポート。収穫期末における品質評価の最後の集計となる定例発表。市場参加者への情報提供が主目的で、既に大部分の市場コンセンサスが形成されている段階での更新。"
+  },
+  {
+    "title": "LME copper stocks in US climb to 12-year high - Mining.com",
+    "timestamp": "2026-10-22T14:38:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "LME銅の米国登録在庫が12年ぶりの高水準に上昇したとの報告。在庫増加は供給圧力を示唆し、需給逼迫感の後退を意味する。銅価格の上値抑制要因となる可能性が高い。"
+  },
+  {
+    "title": "Copper price falls to five-week low as LME inventory build continues - Mining.com",
+    "timestamp": "2026-10-22T17:38:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が5週間ぶりの安値まで下落した。LME（ロンドン金属取引所）の在庫が増加し続けていることが、価格押し下げ要因となっている。需要弱化または供給過剰を示唆する在庫積み増しは、銅市場の弱気シグナルである。"
+  },
+  {
+    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
+    "timestamp": "2026-10-20T22:12:54+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECはペルシャ湾地域の紛争後の市場シェア競争において不利な立場にある可能性が高いとアナリスト（Bousso）が指摘。湾岸産油国の増産圧力とOPECの減産努力の相克により、原油価格は構造的な下押し圧力を受ける見通し。"
+  },
+  {
+    "title": "P&G warns of bigger cost hit from oil prices, even as consumer demand holds up - Reuters",
+    "timestamp": "2026-10-22T15:44:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "P&Gが石油価格の上昇による原価増加圧力の拡大を警告。同社の消費者需要は堅調に推移しているが、エネルギーコストの高騰がさらなる利益圧迫要因となる見通し。プラスチック製品や輸送コストへの波及懸念が浮上。"
+  },
+  {
+    "title": "P&G warns of bigger cost hit from oil prices, even as consumer demand holds up - Reuters",
+    "timestamp": "2026-10-22T15:44:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "P&Gが石油価格の上昇による原価増加圧力の拡大を警告。同社の消費者需要は堅調に推移しているが、エネルギーコストの高騰がさらなる利益圧迫要因となる見通し。プラスチック製品や輸送コストへの波及懸念が浮上。"
   }
 ]
