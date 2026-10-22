@@ -1,60 +1,5 @@
 [
   {
-    "title": "本日（2026年10月20日）、金価格は全面的に下落しました。国内決済方法の変化にご注意ください。世界の金価格は調整局面の終焉の兆しを見せていません。 - Vietnam.vn",
-    "timestamp": "2026-10-19T16:28:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年10月20日、金価格が全面的に下落した。世界の金相場は調整局面が続いており、終焉の兆しはない。ベトナムの国内決済方法変化についても言及されている。"
-  },
-  {
-    "title": "金価格は、様々な大きな障害により、1オンスあたり4,200ドル前後で変動している。 - Vietnam.vn",
-    "timestamp": "2026-10-19T14:10:55+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,200ドル前後で推移している状況の報道。複数の大型障害要因が存在するとされているが、具体的な内容は記事概要では不明。"
-  },
-  {
-    "title": "【速報】NY原油先物上昇に転じる、101ドル台｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-19T16:14:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が101ドル台まで上昇に転じた。具体的な上昇要因は記事概要からは不明確。速報的な相場報告であり、市場反応の記述のみ。"
-  },
-  {
-    "title": "UBSがエクソンモービルの目標株価を引き上げ、原油価格予測を上方修正 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-19T14:27:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "UBSがエクソンモービルの目標株価を引き上げ、原油価格見通しを上方修正した。アナリスト側による強気スタンスの表明で、原油需給環境の改善を示唆している。"
-  },
-  {
-    "title": "今日の午後（10月19日）の金価格：依然として下落圧力にさらされている。 - Vietnam.vn",
-    "timestamp": "2026-10-19T15:53:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月19日午後の金価格は依然として下落圧力を受けている。具体的な新規イベントや統計発表ではなく、市場動向の観測記事。既に織り込まれた弱気相場の継続を述べたもの。"
-  },
-  {
     "title": "ＮＹ株小幅続落、３６ドル安＝ＡＩ銘柄復調も原油相場重荷 - 時事通信ニュース",
     "timestamp": "2026-10-19T20:45:00+00:00",
     "importance": 2,
@@ -64,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY株が36ドル安と小幅続落。AI銘柄の復調が支える一方、原油相場の軟調が重荷となった。株式市場全体では大きなインパクトなし。"
-  },
-  {
-    "title": "NY市場動向（午後0時台）：ダウ39ドル安、原油先物0.36ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-19T16:27:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後0時台のスナップショット報道。ダウ平均は小幅下落、原油先物は0.36ドル高で推移。単なる時間帯別相場観測であり、特定の材料や決定打となる情報は含まれていない。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4140ドル｜米長期金利の上昇が影響した模様(2026年10月20日) - OANDA証券",
@@ -141,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油相場が100ドルを超える水準で推移。ウクライナ情勢など地政学的リスクにより、100ドル前後での変動が長期的なレンジとして定着する可能性を指摘。"
-  },
-  {
-    "title": "【速報】NY原油先物上昇に転じる、101ドル台(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-19T16:14:16+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が101ドル台で上昇に転じた。速報ニュースだが、具体的なファンダメンタルズ要因が記事概要に明記されていない。日中の通常的な値動きの範囲内と判断される。"
   },
   {
     "title": "WTI原油見通し(市況ニュース)：利益確定売りにより、原油価格は8営業日ぶりに下落（2026年10月20日） - OANDA証券",
@@ -1956,5 +1879,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "JX金属が銅の建値を2万円引き上げた。国内銅現物相場の値上げを反映した定期的な建値調整。市場全体への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "10月22日の夜、金と銀の価格が同時に売り浴びせに見舞われた。 - Vietnam.vn",
+    "timestamp": "2026-10-22T16:56:31+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月22日夜間に金と銀が同時に売却圧力を受けた。具体的な要因は記事に明記されていない。技術的な調整や利益確定売りの可能性。"
+  },
+  {
+    "title": "10月22日の終値:あるブランドが指輪の金価格の下落傾向を継続 - Laodong.vn",
+    "timestamp": "2026-10-22T12:15:56+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのあるブランドにおいて、指輪の金価格が継続的に下落している。10月22日の終値でも下落傾向が続いている。"
+  },
+  {
+    "title": "本日2026年10月23日の金価格は急落しており、安値に向かって下落を続けています。ロシアが10ヶ月連続で金準備を売却している理由は何でしょうか？ - Vietnam.vn",
+    "timestamp": "2026-10-22T15:24:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "本日金価格が急落し安値に向かっている。ロシアが10ヶ月連続で金準備を売却している。地政学的制裁圧力下での準備資産の現金化行動が相場を重しにしている。"
+  },
+  {
+    "title": "エバーコアは供給混乱の中で原油価格見通しを維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-22T15:08:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "エバーコアが供給混乱下での原油価格見通しを維持した。現在の供給リスク環境において、アナリスト予想に大きな変更がないことを示唆。具体的な見通し数字が記事概要では不明確。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ324ドル安、原油先物1.15ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-22T14:58:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場の午前10時台の相場動向を伝える記事。ダウ平均は324ドル安だが、WTI原油先物は1.15ドル高と小幅上昇。株式と原油の乖離を示す局面。"
+  },
+  {
+    "title": "買い方が短期的な主導権を維持するなか、大豆先物が上昇 - Traders Union",
+    "timestamp": "2026-10-22T12:29:44+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物が上昇。買い方が短期的な相場主導権を保持している状況。技術的な買いポジション優位の反映と見られる。"
+  },
+  {
+    "title": "売り圧力の強まりと売られ過ぎの状況を受け、銅価格が下落 - Traders Union",
+    "timestamp": "2026-10-22T12:19:44+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が売り圧力の強化と売られ過ぎの状況を背景に下落している。テクニカル指標が過度な下押しを示唆している状況の分析。既に進行中の下げトレンドの描写。"
   }
 ]
