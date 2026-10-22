@@ -1,49 +1,5 @@
 [
   {
-    "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Reuters",
-    "timestamp": "2026-10-18T22:24:51+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ大統領がロシア産燃料に対する制裁適用除外を認可する可能性が報じられた。これによりロシア産石油・石油製品の供給増加が見込まれ、国際的な供給過剰懸念から原油価格は下落。地政学的なサプライズ要因として市場に予想外の材料をもたらした。"
-  },
-  {
-    "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
-    "timestamp": "2026-10-19T00:38:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格の下落がアジア株を圧迫する一方で、米国株とボンド市場には好材料となっている。油価下落は金利圧力軽減と見なされ、金(無利子資産)にとってはネガティブ要因。エネルギーコストの低下が経済に与える影響は地域によって異なる。"
-  },
-  {
-    "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
-    "timestamp": "2026-10-19T00:38:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "原油価格の下落がアジア株を圧迫する一方で、米国株とボンド市場には好材料となっている。油価下落は金利圧力軽減と見なされ、金(無利子資産)にとってはネガティブ要因。エネルギーコストの低下が経済に与える影響は地域によって異なる。"
-  },
-  {
-    "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
-    "timestamp": "2026-10-19T00:38:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "原油価格の下落がアジア株を圧迫する一方で、米国株とボンド市場には好材料となっている。油価下落は金利圧力軽減と見なされ、金(無利子資産)にとってはネガティブ要因。エネルギーコストの低下が経済に与える影響は地域によって異なる。"
-  },
-  {
     "title": "Wheat Futures Rise as Ukraine-Russia Strikes Stoke Supply Fears - Bloomberg.com",
     "timestamp": "2026-10-19T04:48:00+00:00",
     "importance": 4,
@@ -174,28 +130,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "米国の戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去2年間の放出政策により大幅に削減され、現在の水準は極めて低い状態にある。この史実は供給余裕の縮小を示唆し、原油市場の逼迫感を高める要因となる可能性がある。"
-  },
-  {
-    "title": "US stocks rebound with AI earnings test ahead, euro falls on France unrest - Reuters",
-    "timestamp": "2026-10-19T00:38:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株が反発し、AI決算発表を控えて底堅さを見せている。一方、フランスの不安定化に伴ってユーロが下落。リスク資産の回復は商品市場では安定的な需要環境を示唆する一方、ユーロ下落は欧州経済の不透明性を反映し、コモディティ全般への需要見通しに影響を与える可能性がある。"
-  },
-  {
-    "title": "US stocks rebound with AI earnings test ahead, euro falls on France unrest - Reuters",
-    "timestamp": "2026-10-19T00:38:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国株が反発し、AI決算発表を控えて底堅さを見せている。一方、フランスの不安定化に伴ってユーロが下落。リスク資産の回復は商品市場では安定的な需要環境を示唆する一方、ユーロ下落は欧州経済の不透明性を反映し、コモディティ全般への需要見通しに影響を与える可能性がある。"
   },
   {
     "title": "USDA Crop Progress: Corn 44% Harvested, Soybeans 64% Harvested as of Oct. 18 - DTN Progressive Farmer",
@@ -680,5 +614,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中東の地政学的緊張報道により原油価格が上昇し、リスク回避姿勢からドル買いが進行。米国債（Treasury）利回りが上昇して債券価格が下落。原油上昇は正のインパクトだが、金利上昇は金を含む無利子資産への下落圧力となり、コモディティ市場全体で相反する動きが生じている。"
+  },
+  {
+    "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions - Reuters",
+    "timestamp": "2026-10-22T00:46:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がサウジアラビアとの関係悪化に伴い外交官の撤退を命じたことが報じられ、中東地政学リスクが急速に高まった。サウジアラビアは世界最大級の石油生産国であり、地政学的緊張の深刻化は世界石油供給への直接的な脅威となるため、原油価格は上昇圧力を受けている。予測不可能な地政学イベントとして市場に大きなサプライズを与えている。"
+  },
+  {
+    "title": "Oil Rises as Deadly Saudi Attack Fans Middle East Supply Fears - Bloomberg.com",
+    "timestamp": "2026-10-22T00:36:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアへの致命的な攻撃により、中東の石油供給不安が急速に高まった。地政学的リスクの顕在化により、原油価格は上昇圧力を受けている。中東地域は世界石油供給の約30%を占めており、供給途絶のリスクが市場心理に大きな影響を与えている。"
   }
 ]
