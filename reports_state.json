@@ -110,28 +110,6 @@
     "summary": "米国の戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。SPRは過去2年間の放出政策により大幅に削減され、現在の水準は極めて低い状態にある。この史実は供給余裕の縮小を示唆し、原油市場の逼迫感を高める要因となる可能性がある。"
   },
   {
-    "title": "USDA Crop Progress: Corn 44% Harvested, Soybeans 64% Harvested as of Oct. 18 - DTN Progressive Farmer",
-    "timestamp": "2026-10-19T08:38:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA発表のCrop Progress統計によると、10月18日時点でトウモロコシの収穫進度は44%、大豆は64%と報告された。両穀物ともに平年進度を上回るペースで進展しており、豊作を示唆する良好な収穫進捗が市場に価格下押し圧力をもたらす見通し。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 44% Harvested, Soybeans 64% Harvested as of Oct. 18 - DTN Progressive Farmer",
-    "timestamp": "2026-10-19T08:38:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA発表のCrop Progress統計によると、10月18日時点でトウモロコシの収穫進度は44%、大豆は64%と報告された。両穀物ともに平年進度を上回るペースで進展しており、豊作を示唆する良好な収穫進捗が市場に価格下押し圧力をもたらす見通し。"
-  },
-  {
     "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
     "timestamp": "2026-10-20T04:09:00+00:00",
     "importance": 3,
@@ -350,17 +328,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
-  },
-  {
-    "title": "Oil slides as Trump delays new Russia measures, OPEC trims demand outlook - Anadolu Ajansı",
-    "timestamp": "2026-10-19T07:41:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "原油価格が下落。トランプ大統領がロシア制裁を延期したことで地政学的リスク低下への見方が広がった。同時にOPECが需要見通しを下方修正し、供給過剰懸念が強まった。複合的な下押し圧力が作用している。"
   },
   {
     "title": "Non-Opec-Plus: South America Cranks Up Oil Output, Exports - Energy Intelligence",
@@ -658,5 +625,148 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのアラムコ油田とサウジ空港への攻撃で3名が殺害された。中東の主要石油生産施設への直接的な攻撃は供給途絶リスクを高め、原油価格の急騰要因となる。地政学的緊張の急速な悪化が市場の懸念を招く。"
+  },
+  {
+    "title": "EIA Cushing Crude Oil Stocks Change (Oct/16) 0.987M (Prev. 1.862M) - Newsquawk",
+    "timestamp": "2026-10-21T14:50:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが10月16日のクッシング原油在庫の変化を発表。今週の在庫増加は0.987Mバレルで、前週の1.862Mバレルから大幅に減速した。在庫の増加ペースが鈍化したことは、需要の相対的な堅調さか供給調整の影響を示唆している。"
+  },
+  {
+    "title": "EIA reports a draw in US crude oil stocks - www.engine.online",
+    "timestamp": "2026-10-22T08:02:49+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の減少（ドロー）を報告した。在庫減少は原油供給の逼迫を示唆し、価格上昇圧力となる。具体的な在庫減少量の詳細情報は提供されていないため、市場反応の大きさは予想比データ次第。"
+  },
+  {
+    "title": "USDA adjusts rice, cotton production projections - Brownfield Ag News",
+    "timestamp": "2026-10-22T01:52:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "米",
+    "summary": "USDAが米と綿花の生産予測を調整した。定期的なCrop Progress報告の一環として、作付面積・収量・生産量の見通しが修正された可能性が高い。具体的な数値調整幅は記事からは不明だが、両コモディティの需給バランスに影響を与える重要な統計更新。"
+  },
+  {
+    "title": "USDA adjusts rice, cotton production projections - Brownfield Ag News",
+    "timestamp": "2026-10-22T01:52:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "綿花",
+    "summary": "USDAが米と綿花の生産予測を調整した。定期的なCrop Progress報告の一環として、作付面積・収量・生産量の見通しが修正された可能性が高い。具体的な数値調整幅は記事からは不明だが、両コモディティの需給バランスに影響を与える重要な統計更新。"
+  },
+  {
+    "title": "Nebraska and Kansas Rain Could Slow Harvest, Give Wheat a Boost - Successful Farming",
+    "timestamp": "2026-10-22T11:00:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "ネブラスカ・カンザス地域への降雨により、収穫作業が遅延する可能性が生じた。一方、小麦に対しては降雨が生育を支援する好材料となる。収穫ペースの鈍化は短期的に穀物市場に影響を与える可能性があるが、定期的な気象・作況報告の範囲内。"
+  },
+  {
+    "title": "Nebraska and Kansas Rain Could Slow Harvest, Give Wheat a Boost - Successful Farming",
+    "timestamp": "2026-10-22T11:00:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "ネブラスカ・カンザス地域への降雨により、収穫作業が遅延する可能性が生じた。一方、小麦に対しては降雨が生育を支援する好材料となる。収穫ペースの鈍化は短期的に穀物市場に影響を与える可能性があるが、定期的な気象・作況報告の範囲内。"
+  },
+  {
+    "title": "Miners sink as weaker copper prices and rising inventories hit London stocks - Proactive financial news",
+    "timestamp": "2026-10-22T08:33:28+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "ロンドン株式市場の鉱業銘柄が軟調。銅価格の弱含みと在庫積み増しが主因。グローバルな需要減速懸念と供給過剰圧力が同時に作用し、鉱業セクター全体への下押し圧力が増している。"
+  },
+  {
+    "title": "Miners sink as weaker copper prices and rising inventories hit London stocks - Proactive financial news",
+    "timestamp": "2026-10-22T08:33:28+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "ロンドン株式市場の鉱業銘柄が軟調。銅価格の弱含みと在庫積み増しが主因。グローバルな需要減速懸念と供給過剰圧力が同時に作用し、鉱業セクター全体への下押し圧力が増している。"
+  },
+  {
+    "title": "Copper slumps as surging stocks and tech-stock selloff sour mood - The Edge Singapore",
+    "timestamp": "2026-10-22T09:50:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格が下落している。背景には株式市場の急騰とテック株売却の流れがある。リスク資産としての銅は、株式市場の強気相場と一見矛盾するテック株売却による市場心理の冷え込みに反応している。金利上昇期待と景気減速懸念が複合的に作用している。"
+  },
+  {
+    "title": "Copper slumps as surging stocks and tech-stock selloff sour mood - The Edge Singapore",
+    "timestamp": "2026-10-22T09:50:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅価格が下落している。背景には株式市場の急騰とテック株売却の流れがある。リスク資産としての銅は、株式市場の強気相場と一見矛盾するテック株売却による市場心理の冷え込みに反応している。金利上昇期待と景気減速懸念が複合的に作用している。"
+  },
+  {
+    "title": "This Copper Explorer Might Fit Dalios' Americas-First Outlook - Streetwise Reports",
+    "timestamp": "2026-10-22T10:52:30+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "Ray Dalioのアメリカ優先戦略に合致する可能性のある銅探鉱企業についての解説記事。特定の新規データや生産量の発表ではなく、投資家の戦略転換に関連する銅企業紹介に留まる。マクロ環境ではインフレ懸念と米国主導の経済成長期待が銅需要を支える要因。"
+  },
+  {
+    "title": "Saudi Aramco seeks to partner with countries to expand its oil stockpile, CEO says - Reuters",
+    "timestamp": "2026-10-22T08:17:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラムコのCEOが、複数国とのパートナーシップを通じて石油備蓄の拡大を目指す方針を表明。戦略的備蓄増加を計画しており、需要側面から原油価格支援要因となる可能性。OPEC+の供給戦略の一環として市場へのシグナル効果を持つ。"
+  },
+  {
+    "title": "Saudi Arabia Seeks Access to Overseas Oil Storage for Aramco - Bloomberg.com",
+    "timestamp": "2026-10-22T08:31:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがアラムコの海外石油貯蔵施設へのアクセス確保を模索している。供給余力の強化と価格変動への対抗手段として位置付けられる。OPECの減産政策を補完する戦略的な動きであり、市場の供給サイド安定化シグナルとして機能する可能性がある。"
   }
 ]
