@@ -1,38 +1,5 @@
 [
   {
-    "title": "Asia Refiners in Dispute With Saudis Over 2027 Oil Contracts - Bloomberg.com",
-    "timestamp": "2026-10-20T08:44:36+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア製油所とサウジアラビアが2027年の原油供給契約をめぐり対立。サウジ側の価格設定や契約条件に対してアジア主要製油所が異議を唱えており、契約交渉の難航が予想される。今後の原油供給安定性と価格形成に影響を与える可能性がある。"
-  },
-  {
-    "title": "Halliburton Sees Multi-Year Demand Growth From Energy Disruption - Bloomberg.com",
-    "timestamp": "2026-10-20T11:35:28+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "Halliburtonは、エネルギー産業の構造的転換（エネルギー移行、再生可能エネルギーへのシフト）から複数年にわたる需要成長を見込んでいる。同社はこのエネルギー転換期における油ガス開発・インフラ投資需要の継続的な増加を予想。既存エネルギーから新型エネルギー体制への過渡期における設備・サービス需要の堅調を示唆。"
-  },
-  {
-    "title": "Halliburton Sees Multi-Year Demand Growth From Energy Disruption - Bloomberg.com",
-    "timestamp": "2026-10-20T11:35:28+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Halliburtonは、エネルギー産業の構造的転換（エネルギー移行、再生可能エネルギーへのシフト）から複数年にわたる需要成長を見込んでいる。同社はこのエネルギー転換期における油ガス開発・インフラ投資需要の継続的な増加を予想。既存エネルギーから新型エネルギー体制への過渡期における設備・サービス需要の堅調を示唆。"
-  },
-  {
     "title": "Opec-Plus: Crude Output Grows on Saudi Shift Back to Mideast Gulf - Energy Intelligence",
     "timestamp": "2026-10-20T16:43:45+00:00",
     "importance": 2,
@@ -42,28 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "サウジアラビアが原油生産をペルシャ湾地域へシフトさせており、OPEC+の増産動向が注視されている。同国の戦略的な生産地変更は供給構造の調整を示唆するが、市場予想の範囲内の動き。具体的な生産量増減データは報道から抽出不可。"
-  },
-  {
-    "title": "IEA ready to go if further oil stocks release needed, chief says - Reuters",
-    "timestamp": "2026-10-20T11:39:46+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEA事務局長が、必要に応じてさらなる石油備蓄の放出準備があることを表明した。これは供給逼迫時の対抗措置として市場に安心感をもたらし、原油価格への上値抑制材料となる。過去の備蓄放出（2022年）の経験を踏まえた発言で、インフレ対策としての政策オプションを維持する姿勢を示している。"
-  },
-  {
-    "title": "IEA oil stocks release timing is up to individual members, chief says - Reuters",
-    "timestamp": "2026-10-20T11:39:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEA事務局長がOPEC諸国の戦略備蓄放出タイミングは各加盟国の裁量との見解を示した。これは既に公知の事実の確認であり、具体的な放出計画や予想に変更をもたらさない。市場への即時的な影響は限定的。"
   },
   {
     "title": "UK stocks slip as banks and commodity-linked stocks weigh - Reuters",
@@ -97,17 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "英国株式市場が銀行株とコモディティ関連株の売圧により下落した。銀行セクターの不調とコモディティ価格の弱さが同時に作用し、市場センチメントが悪化。金や原油などのコモディティ価格も連動して下押しされた可能性が高い。"
-  },
-  {
-    "title": "Russia Ships the Least Oil in a Month as Major Baltic Port Halts - Bloomberg.com",
-    "timestamp": "2026-10-20T12:18:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアがバルト海の主要港の停止により、過去1ヶ月間で最少の石油出荷量を記録した。港湾機能の停止は供給サイドのショックとなり、既にタイトな国際石油市場に新たな供給制約をもたらす。ロシア産原油の代替調達ルート限定により、価格上昇圧力が強まる可能性が高い。"
   },
   {
     "title": "Chickens and Eggs",
@@ -889,5 +823,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
+  },
+  {
+    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
+    "timestamp": "2026-10-22T17:32:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が10月の石油生産政策を据え置くことを決定。既存の減産合意を継続し、市場の供給バランス維持を示唆。予想の範囲内の政策継続であり、大きなサプライズはない。"
+  },
+  {
+    "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady - EnergyNow.com",
+    "timestamp": "2026-10-20T13:40:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は11月の石油生産目標を据え置くことに合意した。これは定例の生産政策決定であり、市場予想の範囲内の決定とみられる。減産圧力の継続を示唆するが、新たな サプライズ要因は含まれていない。"
+  },
+  {
+    "title": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters",
+    "timestamp": "2026-10-23T11:59:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアESPO原油の売り手が過去最高水準のプレミアムを要求。湾岸地域からの輸出不確実性を背景に、供給逼迫への懸念が高まっている。ロシア産原油の代替性向上とスポット需給の引き締まりが価格プレミアムの上昇を牽引。"
+  },
+  {
+    "title": "Bridgewater China Cut Gold and Is ‘Optimistic’ on Local Stocks - Bloomberg.com",
+    "timestamp": "2026-10-23T06:53:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "大手ヘッジファンドBridgewaterが中国の金保有を削減し、地元株式に対して楽観的との報道。金の売却シグナルである一方、中国経済への前向き見通しを示唆。同時期の中国経済減速懸念に対する逆張り的ポジション変更と解釈できる。"
+  },
+  {
+    "title": "Bridgewater China Cut Gold and Is ‘Optimistic’ on Local Stocks - Bloomberg.com",
+    "timestamp": "2026-10-23T06:53:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "大手ヘッジファンドBridgewaterが中国の金保有を削減し、地元株式に対して楽観的との報道。金の売却シグナルである一方、中国経済への前向き見通しを示唆。同時期の中国経済減速懸念に対する逆張り的ポジション変更と解釈できる。"
+  },
+  {
+    "title": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com",
+    "timestamp": "2026-10-23T06:28:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシアがウクライナ情勢の影響下でも小麦輸出を維持するため、紛争地域からの穀物流出ルートを確保している。地政学的リスク下での供給継続は、市場が懸念していた「ロシア小麦の完全途絶」シナリオを回避させ、小麦価格の過度な上昇圧力を緩和する可能性がある。"
   }
 ]
