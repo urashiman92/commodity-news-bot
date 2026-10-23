@@ -1,49 +1,5 @@
 [
   {
-    "title": "Opec-Plus: Crude Output Grows on Saudi Shift Back to Mideast Gulf - Energy Intelligence",
-    "timestamp": "2026-10-20T16:43:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアが原油生産をペルシャ湾地域へシフトさせており、OPEC+の増産動向が注視されている。同国の戦略的な生産地変更は供給構造の調整を示唆するが、市場予想の範囲内の動き。具体的な生産量増減データは報道から抽出不可。"
-  },
-  {
-    "title": "UK stocks slip as banks and commodity-linked stocks weigh - Reuters",
-    "timestamp": "2026-10-20T16:24:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "英国株式市場が銀行株とコモディティ関連株の売圧により下落した。銀行セクターの不調とコモディティ価格の弱さが同時に作用し、市場センチメントが悪化。金や原油などのコモディティ価格も連動して下押しされた可能性が高い。"
-  },
-  {
-    "title": "UK stocks slip as banks and commodity-linked stocks weigh - Reuters",
-    "timestamp": "2026-10-20T16:24:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "英国株式市場が銀行株とコモディティ関連株の売圧により下落した。銀行セクターの不調とコモディティ価格の弱さが同時に作用し、市場センチメントが悪化。金や原油などのコモディティ価格も連動して下押しされた可能性が高い。"
-  },
-  {
-    "title": "UK stocks slip as banks and commodity-linked stocks weigh - Reuters",
-    "timestamp": "2026-10-20T16:24:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "英国株式市場が銀行株とコモディティ関連株の売圧により下落した。銀行セクターの不調とコモディティ価格の弱さが同時に作用し、市場センチメントが悪化。金や原油などのコモディティ価格も連動して下押しされた可能性が高い。"
-  },
-  {
     "title": "Chickens and Eggs",
     "timestamp": "2026-10-20T22:19:26.980136+00:00",
     "importance": 2,
@@ -121,39 +77,6 @@
     "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
   },
   {
-    "title": "Non-Opec-Plus: South America Cranks Up Oil Output, Exports - Energy Intelligence",
-    "timestamp": "2026-10-20T17:14:59+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "南米がOPEC非加盟国として石油生産・輸出を増加させている。ブラジルなどの増産により、OPEC+の減産政策とは相反する供給増加圧力が市場に作用。非OPEC供給の拡大がグローバル原油需給バランスに影響する見通し。"
-  },
-  {
-    "title": "Corn and Soybean Harvest Falls Behind Five-Year Average - RFD-TV",
-    "timestamp": "2026-10-20T18:01:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国のトウモロコシと大豆の収穫進捗が5年平均を下回っている。収穫の遅延は気象条件（秋雨・低温）の影響が主因と考えられ、最終的な作況予測に影響を与える可能性がある。収穫完了までのスケジュール遅れは供給タイミング面での不確実性を高める。"
-  },
-  {
-    "title": "Corn and Soybean Harvest Falls Behind Five-Year Average - RFD-TV",
-    "timestamp": "2026-10-20T18:01:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国のトウモロコシと大豆の収穫進捗が5年平均を下回っている。収穫の遅延は気象条件（秋雨・低温）の影響が主因と考えられ、最終的な作況予測に影響を与える可能性がある。収穫完了までのスケジュール遅れは供給タイミング面での不確実性を高める。"
-  },
-  {
     "title": "Oil rises on Middle East supply fears, US inventory drawdowns - Reuters",
     "timestamp": "2026-10-21T00:50:00+00:00",
     "importance": 3,
@@ -163,17 +86,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中東供給懸念とUS在庫減少を背景に原油価格が上昇。地政学的リスクと米国石油在庫の実績減少が相互作用し、供給逼迫への警戒が強まっている。中東地域の地政学的緊張が続く中、米国のインベントリー管理が価格支持要因となっている。"
-  },
-  {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-20T15:06:57+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストBoussoは、ホルムズ海峡の再開がOPECの減産戦略を脅かす可能性を指摘。海峡を通じた石油供給が回復すれば、OPECの市場支配力が弱まり、原油価格の下押し圧力となる懸念を表明。地政学リスクの軽減が供給過剰をもたらす逆説的シナリオ。"
   },
   {
     "title": "Saudi crude oil exports hit five-month high in August, data shows - Reuters",
@@ -836,17 +748,6 @@
     "summary": "OPEC+が10月の石油生産政策を据え置くことを決定。既存の減産合意を継続し、市場の供給バランス維持を示唆。予想の範囲内の政策継続であり、大きなサプライズはない。"
   },
   {
-    "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady - EnergyNow.com",
-    "timestamp": "2026-10-20T13:40:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は11月の石油生産目標を据え置くことに合意した。これは定例の生産政策決定であり、市場予想の範囲内の決定とみられる。減産圧力の継続を示唆するが、新たな サプライズ要因は含まれていない。"
-  },
-  {
     "title": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters",
     "timestamp": "2026-10-23T11:59:43+00:00",
     "importance": 3,
@@ -889,5 +790,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "小麦",
     "summary": "ロシアがウクライナ情勢の影響下でも小麦輸出を維持するため、紛争地域からの穀物流出ルートを確保している。地政学的リスク下での供給継続は、市場が懸念していた「ロシア小麦の完全途絶」シナリオを回避させ、小麦価格の過度な上昇圧力を緩和する可能性がある。"
+  },
+  {
+    "title": "Farm Programs & Ag Insights: USDA Reports Surprise The Grain Markets - TheLandOnline",
+    "timestamp": "2026-10-23T08:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA WASDEレポートが穀物市場にサプライズをもたらしたとされている。具体的な作付面積・生産量・在庫予想の変更内容が不明だが、市場参加者の予想から乖離した数字が示唆されている。穀物複合商品全般への価格影響が想定される。"
+  },
+  {
+    "title": "Farm Programs & Ag Insights: USDA Reports Surprise The Grain Markets - TheLandOnline",
+    "timestamp": "2026-10-23T08:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA WASDEレポートが穀物市場にサプライズをもたらしたとされている。具体的な作付面積・生産量・在庫予想の変更内容が不明だが、市場参加者の予想から乖離した数字が示唆されている。穀物複合商品全般への価格影響が想定される。"
+  },
+  {
+    "title": "Farm Programs & Ag Insights: USDA Reports Surprise The Grain Markets - TheLandOnline",
+    "timestamp": "2026-10-23T08:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDEレポートが穀物市場にサプライズをもたらしたとされている。具体的な作付面積・生産量・在庫予想の変更内容が不明だが、市場参加者の予想から乖離した数字が示唆されている。穀物複合商品全般への価格影響が想定される。"
+  },
+  {
+    "title": "USW crop quality report kicks off global seminars - World Grain",
+    "timestamp": "2026-10-23T12:45:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USW（米国小麦協会）が穀物品質レポートに関するグローバルセミナーを開始した。このセミナーシリーズは世界的な穀物市場参加者を対象とした啓発活動であり、米国産小麦の品質情報を発信するものと考えられる。定期的な業界啓発活動として市場への直接的な価格インパクトは限定的。"
+  },
+  {
+    "title": "USW crop quality report kicks off global seminars - World Grain",
+    "timestamp": "2026-10-23T12:45:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USW（米国小麦協会）が穀物品質レポートに関するグローバルセミナーを開始した。このセミナーシリーズは世界的な穀物市場参加者を対象とした啓発活動であり、米国産小麦の品質情報を発信するものと考えられる。定期的な業界啓発活動として市場への直接的な価格インパクトは限定的。"
+  },
+  {
+    "title": "Copper Market Alarm Sounds: Long-Term Shortage From 2028, Gap Could Reach 44% of Demand by 2050 - BigGo Finance",
+    "timestamp": "2026-10-23T14:25:00+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅市場に長期的な供給不足警告が発出された。2028年から本格的な不足が始まり、2050年までに需要の44%に相当するギャップが生じる可能性がある。電動車やエネルギー転換に伴う需要急増に対し、鉱山開発が追いつかない構図が深刻化する見込み。"
+  },
+  {
+    "title": "Copper Market Alarm Sounds: Long-Term Shortage From 2028, Gap Could Reach 44% of Demand by 2050 - BigGo Finance",
+    "timestamp": "2026-10-23T14:25:00+00:00",
+    "importance": 5,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅市場に長期的な供給不足警告が発出された。2028年から本格的な不足が始まり、2050年までに需要の44%に相当するギャップが生じる可能性がある。電動車やエネルギー転換に伴う需要急増に対し、鉱山開発が追いつかない構図が深刻化する見込み。"
   }
 ]
