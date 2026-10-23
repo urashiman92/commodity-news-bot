@@ -22,61 +22,6 @@
     "summary": "USDA NASSの9月鶏卵生産統計。卵生産量は前年同月比6%増と堅調な伸びを示した一方、採卵用ひなの孵化は8%減少し、食肉用ブロイラーひなはわずかな増加に留まった。供給と需要のシグナルが混在する局面を示唆している。"
   },
   {
-    "title": "WASDE hands corn prices another blow - Duncan Banner",
-    "timestamp": "2026-10-20T20:45:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米農務省穀物需給報告）がトウモロコシ価格に再度の下押し圧力をもたらした。タイトルが「another blow」と表現していることから、複数回の悪材料が連続している状況。供給増加見通しまたは需要減少見通しが示唆されており、市場は弱気方向に反応。"
-  },
-  {
-    "title": "High-Yield Cotton Farms Win Big in New Insurance Policy Shift - AgWeb",
-    "timestamp": "2026-10-20T18:53:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国の高収量綿花農場が新しい保険制度の変更により利益を得たというニュース。保険政策の調整により、綿花農家のリスク回避コスト低減が期待される。綿花市場の供給サイドの収益性向上は、綿花価格の底堅さにやや好材料。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Harvest 44%, Soybeans 64%, Cotton 41% - News and Statistics - IndexBox",
-    "timestamp": "2026-10-20T19:00:22+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Harvest 44%, Soybeans 64%, Cotton 41% - News and Statistics - IndexBox",
-    "timestamp": "2026-10-20T19:00:22+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Harvest 44%, Soybeans 64%, Cotton 41% - News and Statistics - IndexBox",
-    "timestamp": "2026-10-20T19:00:22+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDA Crop Progressレポートにより、トウモロコシ収穫進捗44%、大豆64%、綿花41%が発表された。収穫が予定通り進行しており、秋の豊作期待が継続。供給増加による価格下落圧力が強まっている状況を反映。"
-  },
-  {
     "title": "Oil rises on Middle East supply fears, US inventory drawdowns - Reuters",
     "timestamp": "2026-10-21T00:50:00+00:00",
     "importance": 3,
@@ -97,17 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアの8月の原油輸出量が5ヶ月ぶりの高水準に達したことが明らかになった。これはOPECプラスの減産枠組み内での輸出増加を示唆しており、供給側の動きが注視される。ただし市場では既に同国の段階的な生産調整が織り込まれている状況。"
-  },
-  {
-    "title": "WASDE hands corn prices another blow - Farm Talk",
-    "timestamp": "2026-10-20T20:45:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE（米農務省作物見通し）がトウモロコシ価格に下押し圧力をもたらした。定期発表であるが、タイトルの「another blow」から複数回の価格下押しが続いていることが示唆されている。具体的な数値不明だが、供給サイドの良好な見通しが相場の重しとなっている可能性が高い。"
   },
   {
     "title": "US EIA Crude Oil Stocks Change (Oct/16) -3.061M vs. Exp. -0.8M (Prev. -8.557M); SPR falls to 282.7M (prev. 283M) - Newsquawk",
@@ -196,39 +130,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDAが米国のコメと綿花の生産見通しを調整。WASDE等の定期予測修正により、北米農産物市場の需給バランスが更新された。具体的な数値調整内容は記事本文から確認が必要だが、両コモディティの市場評価が再考される可能性がある。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-10-20T21:50:41+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "米国インフレデータへの楽観が原油相場を下支えしたが、OPEC供給懸念が相殺する状況。金利低下期待がコモディティ全般に好材料となる一方で、OPECの減産政策との綱引きが続いている。実際の価格上昇幅は限定的。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-10-20T21:50:41+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "金",
-    "summary": "米国インフレデータへの楽観が原油相場を下支えしたが、OPEC供給懸念が相殺する状況。金利低下期待がコモディティ全般に好材料となる一方で、OPECの減産政策との綱引きが続いている。実際の価格上昇幅は限定的。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-10-20T21:50:41+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国インフレデータへの楽観が原油相場を下支えしたが、OPEC供給懸念が相殺する状況。金利低下期待がコモディティ全般に好材料となる一方で、OPECの減産政策との綱引きが続いている。実際の価格上昇幅は限定的。"
   },
   {
     "title": "Three Killed in Attacks on Aramco Oil Field, Saudi Airport - Bloomberg.com",
@@ -438,17 +339,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "銅価格が5週間ぶりの安値まで下落した。LME（ロンドン金属取引所）の在庫が増加し続けていることが、価格押し下げ要因となっている。需要弱化または供給過剰を示唆する在庫積み増しは、銅市場の弱気シグナルである。"
-  },
-  {
-    "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-20T22:12:54+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECはペルシャ湾地域の紛争後の市場シェア競争において不利な立場にある可能性が高いとアナリスト（Bousso）が指摘。湾岸産油国の増産圧力とOPECの減産努力の相克により、原油価格は構造的な下押し圧力を受ける見通し。"
   },
   {
     "title": "P&G warns of bigger cost hit from oil prices, even as consumer demand holds up - Reuters",
@@ -867,5 +757,60 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "銅市場に長期的な供給不足警告が発出された。2028年から本格的な不足が始まり、2050年までに需要の44%に相当するギャップが生じる可能性がある。電動車やエネルギー転換に伴う需要急増に対し、鉱山開発が追いつかない構図が深刻化する見込み。"
+  },
+  {
+    "title": "Cold Storage",
+    "timestamp": "2026-10-23T22:13:45.008221+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "2026年9月30日時点の冷蔵庫保管ナチュラルチーズ在庫は、前月比1%減少したが、前年同期比では2%増加した。在庫変動は小幅で、季節変動の範囲内と考えられる。乳製品市場における供給バランスの継続的な監視が必要。"
+  },
+  {
+    "title": "China calls on oil, gas firms to boost output, build strategic supply bases - Reuters",
+    "timestamp": "2026-10-23T13:25:21+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国政府が国内の石油・ガス企業に対し、生産量の増加と戦略的供給基地の構築を呼びかけた。エネルギー安全保障の強化と供給逼迫への対応が背景。中国の需要堅調を背景にした政策的シグナルだが、実行までには時間を要する見通し。"
+  },
+  {
+    "title": "China calls on oil, gas firms to boost output, build strategic supply bases - Reuters",
+    "timestamp": "2026-10-23T13:25:21+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中国政府が国内の石油・ガス企業に対し、生産量の増加と戦略的供給基地の構築を呼びかけた。エネルギー安全保障の強化と供給逼迫への対応が背景。中国の需要堅調を背景にした政策的シグナルだが、実行までには時間を要する見通し。"
+  },
+  {
+    "title": "London stocks mark weekly fall as oil hits five-month high ahead of budget - Reuters",
+    "timestamp": "2026-10-23T16:45:50+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロンドン株式市場が週間で下落する中、原油は5ヶ月ぶりの高値を更新した。英国の予算案発表を控えた市場の警戒感がリスク資産を圧迫する一方、原油市場は独立して堅調に推移。エネルギーセクターと他セクターの乖離が顕著。"
+  },
+  {
+    "title": "London stocks mark weekly fall as oil hits five-month high ahead of budget - Reuters",
+    "timestamp": "2026-10-23T16:45:50+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロンドン株式市場が週間で下落する中、原油は5ヶ月ぶりの高値を更新した。英国の予算案発表を控えた市場の警戒感がリスク資産を圧迫する一方、原油市場は独立して堅調に推移。エネルギーセクターと他セクターの乖離が顕著。"
   }
 ]
