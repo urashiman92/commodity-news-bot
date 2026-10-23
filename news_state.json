@@ -1,16 +1,5 @@
 [
   {
-    "title": "NY外為：ドル売り後退、原油価格が下げ止まる、関係筋は米イラン合意に近いとの報道を否定 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-20T15:29:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル売りの後退により原油価格が下げ止まった。米イラン合意が近いとの報道について関係筋が否定し、地政学的リスク軽減の期待が後退。"
-  },
-  {
     "title": "世界の金価格は1オンスあたり4,100ドル近くまで下落した。 - Vietnam.vn",
     "timestamp": "2026-10-20T21:45:11+00:00",
     "importance": 2,
@@ -110,17 +99,6 @@
     "summary": "米国トウモロコシの収穫進捗が良好に進み、市場供給増加への見通しからトウモロコシ先物が2カ月半ぶりの安値を更新した。需給見通しの悪化が価格押し下げ要因となっている。"
   },
   {
-    "title": "売り手優勢と弱気モメンタムの継続で大豆先物価格は約2%下落 - Traders Union",
-    "timestamp": "2026-10-20T15:29:53+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物が約2%下落。売り手優勢と弱気モメンタムが継続している。アナリストによる相場解説記事。"
-  },
-  {
     "title": "米コモディティー市場－銀、銅が上昇 原油、ガソリン、天然ガス、金、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
     "timestamp": "2026-10-20T22:29:02+00:00",
     "importance": 2,
@@ -174,17 +152,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "FRBの金利シグナルを市場が評価する中、金価格は引き続き下落している。高金利環境が金の利回りなき資産としての魅力を減じている。"
-  },
-  {
-    "title": "台湾中央銀行の金備蓄、買うだけでなく「引っ越し」も ゴールドマン・サックスは金価格5,400ドル到達を予想、保管網の勢力図が大きく変動 - BigGo ファイナンス",
-    "timestamp": "2026-10-20T18:17:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "台湾中央銀行が金備蓄の保管場所を変更する動きが報じられた。ゴールドマン・サックスは金価格が5,400ドルに到達する可能性を予想しており、中央銀行の金需要動向が地政学的リスクを反映している。"
   },
   {
     "title": "10月21日朝の金価格更新:金価格は下落傾向を継続 - Laodong.vn",
@@ -251,17 +218,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東地政学リスク高まりと米国在庫減少の組み合わせにより原油価格が上昇。供給懸念と需給引き締まりが同時に作用している状況。今後の中東情勢推移と在庫動向が価格形成の重要な要因となる見通し。"
-  },
-  {
-    "title": "NY外為：ドル売り後退、原油価格が下げ止まる、関係筋は米イラン合意に近いとの報道を否定 - 株探",
-    "timestamp": "2026-10-20T15:29:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル売り後退により原油価格が下げ止まった。米イラン合意が近いとの報道が否定される。地政学的な不確実性は継続。"
   },
   {
     "title": "日経平均、一時1300円超値上がり 米企業の決算好調や原油先物価格下落受け - TBS NEWS DIG",
@@ -2143,5 +2099,115 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "Southern CopperとFreeportの株価が7%・6%下落。銅は記録高値を示唆されているにもかかわらず、実際には下げ圧力がかかっている。市場期待と現物価格の乖離を示唆。"
+  },
+  {
+    "title": "TSX先物、金価格下落とAI不安で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-23T11:02:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物がAI懸念と金価格下落を背景に売却圧力を受けた。市場全体の不安心理が金相場を押し下げている。TSX指数もリスク回避姿勢の強まりで下降。"
+  },
+  {
+    "title": "金価格急落後の真相：なぜ安全資産としての属性が木曜日に機能しなかったのか - Moomoo",
+    "timestamp": "2026-10-23T14:00:16+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落した場面で、通常は安全資産として買われるはずの金が売られた理由を分析する記事。木曜日の相場動向において、安全資産属性が機能しなかった背景を探っている。"
+  },
+  {
+    "title": "金価格は2カ月ぶりの安値水準まで下落した。 - Vietnam.vn",
+    "timestamp": "2026-10-23T13:29:44+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2カ月ぶりの安値水準まで下落した。ドル高やFRB金利据え置き観測の継続、リスク資産の買い戻しなどが圧力となっている。技術的なサポートレベルの割れで、さらなる下値探りのリスクがある。"
+  },
+  {
+    "title": "原油先物が連日上昇、6カ月ぶり117ドル台 サウジ緊迫とイラン攻撃懸念 - 日本経済新聞",
+    "timestamp": "2026-10-23T17:29:01+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が6ヶ月ぶりに117ドル台まで上昇。サウジアラビアの緊迫化とイラン攻撃懸念による地政学的リスクが急速に高まり、供給途絶への懸念から相場が急騰。"
+  },
+  {
+    "title": "CME系の業界団体、Kalshiの無期限WTI原油先物契約の却下を米CFTCに要請 - BigGo ファイナンス",
+    "timestamp": "2026-10-23T18:05:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "CME系業界団体がKalshiの無期限WTI原油先物契約をCFTCに却下するよう要請。既存市場の競争構図に関わる規制申立で、原油価格への直接的な影響は限定的。"
+  },
+  {
+    "title": "【速報】NY原油先物102ドル台、中東情勢悪化で供給不安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-23T15:16:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が102ドル台で推移。中東情勢の悪化が供給不安を引き起こし、原油価格を押し上げている。地政学的リスクが市場心理を反映した急騰局面。"
+  },
+  {
+    "title": "NY外為：ドル買い強まる、NY原油先物102ドル台、米、イラン攻撃再開懸念 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-23T15:40:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国がイラン攻撃を再開する懸念が浮上し、原油先物が102ドル台で推移。地政学リスクが価格を支えている。一方、ドル買いが強まる複合的な相場展開。"
+  },
+  {
+    "title": "NY株反落、500ドル安 原油相場上昇を嫌気 - 信濃毎日新聞デジタル",
+    "timestamp": "2026-10-23T14:18:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株が500ドル安で反落し、原油相場の上昇が株式市場の重荷となった。原油高がインフレ懸念を喚起し、企業利益圧迫への懸念が広がっている。"
+  },
+  {
+    "title": "在庫や株式市場の落ち着きを受け、銅価格が反発 - TradingView",
+    "timestamp": "2026-10-23T14:47:50+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅の在庫水準が落ち着き、株式市場も安定化したことを受けて銅価格が反発している。需給バランスの改善と市場センチメントの好転が支援材料となっている。"
+  },
+  {
+    "title": "在庫や株式市場の落ち着きを受け、銅価格が反発 - TradingView",
+    "timestamp": "2026-10-23T10:27:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "在庫水準の安定と株式市場の落ち着きを背景に銅価格が反発している。マクロ環境の改善が銅需要の回復につながる可能性を示唆。技術的・センチメント的な好転を示す相場振り返り。"
   }
 ]
