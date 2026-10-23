@@ -1,49 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-19T22:23:17.944001+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-19T22:23:17.944001+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-19T22:23:17.944001+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-19T22:23:17.944001+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが定期的なCrop Progress報告を発表。米国主要穀物の播種進度・生育状況を報告する予定された統計。具体的な進捗率データが市場心理に影響するが、報告内容の詳細が提示されていないため詳細な影響判定が困難。"
-  },
-  {
     "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
     "timestamp": "2026-10-20T04:09:00+00:00",
     "importance": 3,
@@ -273,61 +229,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は10月の原油生産政策を据え置くことを決定した。既に公表されている減産方針の継続であり、市場の事前予想の範囲内。地政学的リスク要因がない限り、価格への大きな変動要因とはならない見込み。"
-  },
-  {
-    "title": "Trump Administration Announces $8 Billion Harvest Fuel Relief Program - USDA (.gov)",
-    "timestamp": "2026-10-20T01:31:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "トランプ政権が80億ドルの収穫期燃料救済プログラム（Harvest Fuel Relief Program）を発表。農業生産コストの主要構成要素である燃料費の補助により、穀物生産者の収益性が向上する見込み。これにより米国の穀物作付インセンティブが強化され、供給サイドへの下落圧力が増加する可能性がある。"
-  },
-  {
-    "title": "Trump Administration Announces $8 Billion Harvest Fuel Relief Program - USDA (.gov)",
-    "timestamp": "2026-10-20T01:31:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "トランプ政権が80億ドルの収穫期燃料救済プログラム（Harvest Fuel Relief Program）を発表。農業生産コストの主要構成要素である燃料費の補助により、穀物生産者の収益性が向上する見込み。これにより米国の穀物作付インセンティブが強化され、供給サイドへの下落圧力が増加する可能性がある。"
-  },
-  {
-    "title": "Trump Administration Announces $8 Billion Harvest Fuel Relief Program - USDA (.gov)",
-    "timestamp": "2026-10-20T01:31:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "トランプ政権が80億ドルの収穫期燃料救済プログラム（Harvest Fuel Relief Program）を発表。農業生産コストの主要構成要素である燃料費の補助により、穀物生産者の収益性が向上する見込み。これにより米国の穀物作付インセンティブが強化され、供給サイドへの下落圧力が増加する可能性がある。"
-  },
-  {
-    "title": "Trump Administration Announces $8 Billion Harvest Fuel Relief Program - USDA (.gov)",
-    "timestamp": "2026-10-20T01:31:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "原油",
-    "summary": "トランプ政権が80億ドルの収穫期燃料救済プログラム（Harvest Fuel Relief Program）を発表。農業生産コストの主要構成要素である燃料費の補助により、穀物生産者の収益性が向上する見込み。これにより米国の穀物作付インセンティブが強化され、供給サイドへの下落圧力が増加する可能性がある。"
-  },
-  {
-    "title": "Trump Administration Announces $8 Billion Harvest Fuel Relief Program - USDA (.gov)",
-    "timestamp": "2026-10-20T01:31:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ政権が80億ドルの収穫期燃料救済プログラム（Harvest Fuel Relief Program）を発表。農業生産コストの主要構成要素である燃料費の補助により、穀物生産者の収益性が向上する見込み。これにより米国の穀物作付インセンティブが強化され、供給サイドへの下落圧力が増加する可能性がある。"
   },
   {
     "title": "Corn and Soybean Harvest Falls Behind Five-Year Average - RFD-TV",
@@ -889,5 +790,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "石油関連企業の株価が技術的に過熱感を示しており、決算発表を控えてトレーダー間で警戒感が高まっている。益利確売却の可能性が指摘されている一方、決算内容次第で評価が変わる可能性がある。"
+  },
+  {
+    "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
+    "timestamp": "2026-10-22T21:32:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ大統領が冷戦時代の防衛生産法（DPA）を発動し、米国の石油生産・精製能力の拡大を指示。これは政策的介入による供給増加シグナルであり、短期的には原油価格の上昇圧力となる可能性がある一方、中期的には供給サイドの強化により価格の下方圧力も懸念される。地政学的・政治的なコモディティ市場への直接介入は市場参加者にとって大きなサプライズ。"
+  },
+  {
+    "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
+    "timestamp": "2026-10-22T21:32:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ大統領が冷戦時代の防衛生産法（DPA）を発動し、米国の石油生産・精製能力の拡大を指示。これは政策的介入による供給増加シグナルであり、短期的には原油価格の上昇圧力となる可能性がある一方、中期的には供給サイドの強化により価格の下方圧力も懸念される。地政学的・政治的なコモディティ市場への直接介入は市場参加者にとって大きなサプライズ。"
+  },
+  {
+    "title": "Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks - Bloomberg.com",
+    "timestamp": "2026-10-23T00:02:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアへの攻撃により供給リスクが顕在化し、原油が週間で最大の上昇を記録した。地政学的緊張の高まりがエネルギー市場に直結し、供給途絶への懸念が価格を押し上げている。OPEC最大産油国への攻撃は供給サイドの不確実性を大幅に増加させる要因。"
   }
 ]
