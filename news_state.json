@@ -1,27 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4140ドル｜米長期金利の上昇が影響した模様(2026年10月20日) - OANDA証券",
-    "timestamp": "2026-10-19T23:05:58+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4140ドルまで下落した。米長期金利の上昇が主な下押し要因。既知の金利上昇メカニズムが作用した形"
-  },
-  {
-    "title": "NY金先物は反落、米長期金利の上昇と原油高によるインフレ警戒が重しに｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-19T23:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が反落。米長期金利の上昇と原油高に伴うインフレ警戒が金の重しになった。既知の材料（金利上昇とインフレ懸念）の再確認的な値動き。"
-  },
-  {
     "title": "10月20日の金価格：全般的に下落。 - Vietnam.vn",
     "timestamp": "2026-10-20T00:43:06+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "10月20日の金価格が全般的に下落した。具体的な下落率や要因は記事概要に記載されていない。市場振り返りの評論的なニュースと考えられる。"
-  },
-  {
-    "title": "10月20日朝の金価格更新:金地金、指輪金が下落 - Laodong.vn",
-    "timestamp": "2026-10-19T23:44:14+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金地金および指輪金の価格が10月20日朝に下落した。市場の日々の価格変動の報告であり、特段の供給ショックや地政学的イベントは示唆されていない。既知情報の時系列報告。"
   },
   {
     "title": "米ドルは回復し、金価格は4,132ドルまで下落した。 - Vietnam.vn",
@@ -55,28 +22,6 @@
     "summary": "米ドル回復に伴い金価格が4,132ドルまで下落した。ドル強化は金の相対的な割高感につながり、金需要を減少させる逆風となる。"
   },
   {
-    "title": "また100ドル超え 原油相場「戦時下のレンジ」長期化か - トウシル",
-    "timestamp": "2026-10-19T22:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場が100ドルを超える水準で推移。ウクライナ情勢など地政学的リスクにより、100ドル前後での変動が長期的なレンジとして定着する可能性を指摘。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：利益確定売りにより、原油価格は8営業日ぶりに下落（2026年10月20日） - OANDA証券",
-    "timestamp": "2026-10-19T23:10:21+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油は利益確定売りにより8営業日ぶりに下落。上昇トレンドの調整局面とみられる。市場心理の一時的な反転。"
-  },
-  {
     "title": "制裁対象外のタンカー - 原油価格への影響 - Moomoo",
     "timestamp": "2026-10-20T00:28:26+00:00",
     "importance": 3,
@@ -86,39 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "制裁対象外のタンカーが原油供給に影響を与える可能性について論じた記事。シャドータンカーなど迂回供給ルートの効果が原油価格を下支えしている状況の解説。"
-  },
-  {
-    "title": "フーシ派がサウジエネルギー施設を再攻撃、トランプ氏はロシア石油制裁を緩和 国際原油価格は方向感を欠く展開 - BigGo ファイナンス",
-    "timestamp": "2026-10-19T21:55:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビアのエネルギー施設への攻撃と、トランプ氏によるロシア石油制裁緩和という対立する2つの材料が相殺。供給リスク（フーシ派）と供給増加圧力（ロシア制裁緩和）が市場の方向感を失わせている。"
-  },
-  {
-    "title": "１９日の主要国際商品市況 - 株探",
-    "timestamp": "2026-10-19T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "19日の主要国際商品市況の定期報道。具体的な数値や市場動向の詳細が記事本体にアクセス不可のため、詳細な市況分析ができない。"
-  },
-  {
-    "title": "１９日の主要国際商品市況 (2026年10月20日掲載) - ライブドアニュース",
-    "timestamp": "2026-10-19T23:10:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "10月19日の主要国際商品市況の日次報告。具体的な価格データや市場動向の詳細が記事概要では提示されていない。リンク先の実記事内容が不明であり、相場方向の判断ができない。"
   },
   {
     "title": "金価格下落、原油高がインフレ懸念を煽りFRBの動向に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -262,17 +174,6 @@
     "source": "Google News",
     "commodity": "トウモロコシ",
     "summary": "ベトナムの農産物市場でMXV指数が2,938ポイントまで下落した。農産物全般の売り圧力が強まっている状況を示唆しており、トウモロコシを含む穀物商品にも下押し圧力が作用している。既に進行中の市場動向の報道と考えられる。"
-  },
-  {
-    "title": "米コモディティー市場－原油、天然ガス、銅が上昇 ガソリン、金、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-19T22:34:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で混合相場。エネルギー（原油・天然ガス）と銅は上昇、農産物と貴金属は下落。個別セクターの需給バランスの違いを反映した典型的な相場展開。"
   },
   {
     "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
@@ -2044,5 +1945,126 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "アナリストのピーター・ブラント氏が、商業筋の空売りポジションが過去最高水準に接近する中、銅相場が上昇トレンドを回復できていないと指摘。市場センチメントの悪化を示唆している。"
+  },
+  {
+    "title": "サウジアラビア攻撃で原油価格が113ドル突破、金価格は4,050ドル割れで「投げ売り」の様相 - BigGo ファイナンス",
+    "timestamp": "2026-10-22T22:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "サウジアラビア攻撃により原油が113ドル突破と大幅上昇。一方、金は4,050ドル割れで投げ売り状況。リスクオフ環境での資産配分の再評価が進行中。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4024ドル｜米国のイラン再攻撃計画が影響した模様(2026年10月23日) - OANDA証券",
+    "timestamp": "2026-10-22T23:08:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4024ドルまで下落。米国のイラン再攻撃計画が報道されたことで、地政学リスクプレミアムが一時的に剥落した可能性がある。通常、中東紛争激化は金の買い圧力となるが、今回は逆方向の値動きを示唆している。"
+  },
+  {
+    "title": "ニューモント、金価格の上昇を受け四半期利益が予想を上回る - TradingView",
+    "timestamp": "2026-10-22T20:30:25+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューモント（世界最大級の金採掘企業）が金価格上昇の恩恵を受け、四半期利益が予想を上回った。金相場が上昇トレンドにある中での好決算報告。"
+  },
+  {
+    "title": "10月23日朝の金価格更新:金価格が大幅下落、大手銀行が楽観的な予測 - Laodong.vn",
+    "timestamp": "2026-10-22T23:10:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月23日朝時点で金価格が大幅に下落している。一方、大手銀行が金に対する楽観的な見通しを発表。短期的な価格調整と中期的な強気見通しが併存している。"
+  },
+  {
+    "title": "本日（2026年10月23日）の金価格：SJC、BTMC、PNJ、フークイの金価格および国際金価格。 - Vietnam.vn",
+    "timestamp": "2026-10-22T22:30:08+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格（SJC、BTMC、PNJ、フークイ）と国際金価格の日次レポート。国内複数業者の金価格と国際相場の比較情報を提供するルーチン報道。"
+  },
+  {
+    "title": "トランプ氏、イランが中間選挙前に原油価格を引き上げようとしていると発言 - アラブニュース",
+    "timestamp": "2026-10-22T23:59:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏がイランが中間選挙前に原油価格を意図的に引き上げようとしていると主張。政治的な発言で、市場への具体的なファンダメンタル変化は含まない。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：フーシ派の攻撃激化が影響し、原油価格は4営業日ぶりに上昇（2026年10月23日） - OANDA証券",
+    "timestamp": "2026-10-22T23:17:16+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ派による紅海での攻撃激化が継続し、原油価格が4営業日ぶりに上昇。地政学的リスクが相場を下支え。短期的なボラティリティ要因として機能している。"
+  },
+  {
+    "title": "今日、銅価格が2.6%下落しているのはなぜですか？ - Traders Union",
+    "timestamp": "2026-10-22T17:14:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が2.6%下落。記事はTraders Unionによる相場解説・振り返り記事と考えられる。具体的な新規材料が示されておらず、既に発生した価格変動の説明分析と推測される。"
+  },
+  {
+    "title": "２２日の主要国際商品市況 - 株探",
+    "timestamp": "2026-10-22T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "22日の主要国際商品市況の定期報道。具体的な価格動向や材料が記事本文なしでは判断できない。"
+  },
+  {
+    "title": "２２日の主要国際商品市況 - みんかぶ",
+    "timestamp": "2026-10-22T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "22日の主要国際商品市況の定期レポート。具体的な価格動向や変動要因の詳細は記事要約では不明。市場の日々の動きの振り返り・解説記事と考えられる。"
+  },
+  {
+    "title": "米コモディティー市場－原油、ガソリン、天然ガス、大豆が上昇 金、銀、銅、トウモロコシ、小麦が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-22T22:40:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で混合相場。エネルギー（原油、ガソリン、天然ガス）と大豆が上昇した一方、貴金属と農産物が下落。市場の業種別・セクター別の需給バランスが分化している状況。"
   }
 ]
