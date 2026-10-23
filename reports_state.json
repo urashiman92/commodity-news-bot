@@ -1,27 +1,5 @@
 [
   {
-    "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
-    "timestamp": "2026-10-20T04:09:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国国務長官ルビオがインド訪問を開始し、貿易協定とロシア産原油問題をアジェンダに据える。米国によるロシア原油政策の強化や対インド貿易関係の再構築は、エネルギー市場の地政学的リスク要因として機能する可能性がある。インドのロシア産原油購入継続の是非が焦点。"
-  },
-  {
-    "title": "Rubio kicks off India visit with trade deal, Russian oil on agenda - Reuters",
-    "timestamp": "2026-10-20T04:09:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国国務長官ルビオがインド訪問を開始し、貿易協定とロシア産原油問題をアジェンダに据える。米国によるロシア原油政策の強化や対インド貿易関係の再構築は、エネルギー市場の地政学的リスク要因として機能する可能性がある。インドのロシア産原油購入継続の是非が焦点。"
-  },
-  {
     "title": "Asia Refiners in Dispute With Saudis Over 2027 Oil Contracts - Bloomberg.com",
     "timestamp": "2026-10-20T08:44:36+00:00",
     "importance": 3,
@@ -218,17 +196,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "南米がOPEC非加盟国として石油生産・輸出を増加させている。ブラジルなどの増産により、OPEC+の減産政策とは相反する供給増加圧力が市場に作用。非OPEC供給の拡大がグローバル原油需給バランスに影響する見通し。"
-  },
-  {
-    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
-    "timestamp": "2026-10-20T04:03:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は10月の原油生産政策を据え置くことを決定した。既に公表されている減産方針の継続であり、市場の事前予想の範囲内。地政学的リスク要因がない限り、価格への大きな変動要因とはならない見込み。"
   },
   {
     "title": "Corn and Soybean Harvest Falls Behind Five-Year Average - RFD-TV",
@@ -823,5 +790,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアへの攻撃により供給リスクが顕在化し、原油が週間で最大の上昇を記録した。地政学的緊張の高まりがエネルギー市場に直結し、供給途絶への懸念が価格を押し上げている。OPEC最大産油国への攻撃は供給サイドの不確実性を大幅に増加させる要因。"
+  },
+  {
+    "title": "LME copper stocks in US climb to 12-year high - Investify",
+    "timestamp": "2026-10-22T11:50:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "LME銅の米国登録在庫が12年ぶりの高水準に上昇している。過剰供給感が強まり、銅需要の弱さを示唆している。在庫積み増しは価格下押し圧力となり、特に世界的な景気減速懸念が継続する中での悪材料。"
+  },
+  {
+    "title": "Oil prices rise more than 1% as supply concerns linger - Reuters",
+    "timestamp": "2026-10-23T01:04:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格が1%以上上昇した。供給懸念が継続していることが上昇を支えている。具体的な数値や新規ニュースは記事抜粋に含まれていない。市場予想との比較情報がないため、サプライズ度の判断が困難。"
+  },
+  {
+    "title": "Newmont beats quarterly profit estimates on higher gold prices, Cadia recovery - Reuters",
+    "timestamp": "2026-10-22T22:17:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "Newmontが四半期利益で市場予想を上回った。金価格の上昇とCadia鉱山の生産回復が主な要因。Cadia鉱山は同社の主要生産拠点であり、その稼働正常化は供給不安を緩和する。金価格の上昇環境が継続している一方、予想範囲内の結果。"
+  },
+  {
+    "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains - Bloomberg.com",
+    "timestamp": "2026-10-23T01:23:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国株式市場の売却に連動して韓国株が下落し、特に半導体セクターが打撃を受けた。一方、原油は上昇を示しており、リスクオフ環境下での資産配分の変動が観察される。米国発の広範な株式調整がコモディティ市場にも波及している状況。"
+  },
+  {
+    "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains - Bloomberg.com",
+    "timestamp": "2026-10-23T01:23:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国株式市場の売却に連動して韓国株が下落し、特に半導体セクターが打撃を受けた。一方、原油は上昇を示しており、リスクオフ環境下での資産配分の変動が観察される。米国発の広範な株式調整がコモディティ市場にも波及している状況。"
+  },
+  {
+    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-23T05:59:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
+  },
+  {
+    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-23T05:59:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
+  },
+  {
+    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-23T05:59:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
+  },
+  {
+    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-23T05:59:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
   }
 ]
