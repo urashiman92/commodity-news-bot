@@ -1,38 +1,5 @@
 [
   {
-    "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains - Bloomberg.com",
-    "timestamp": "2026-10-21T19:46:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の地政学的緊張報道により原油価格が上昇し、リスク回避姿勢からドル買いが進行。米国債（Treasury）利回りが上昇して債券価格が下落。原油上昇は正のインパクトだが、金利上昇は金を含む無利子資産への下落圧力となり、コモディティ市場全体で相反する動きが生じている。"
-  },
-  {
-    "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains - Bloomberg.com",
-    "timestamp": "2026-10-21T19:46:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "中東の地政学的緊張報道により原油価格が上昇し、リスク回避姿勢からドル買いが進行。米国債（Treasury）利回りが上昇して債券価格が下落。原油上昇は正のインパクトだが、金利上昇は金を含む無利子資産への下落圧力となり、コモディティ市場全体で相反する動きが生じている。"
-  },
-  {
-    "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains - Bloomberg.com",
-    "timestamp": "2026-10-21T19:46:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東の地政学的緊張報道により原油価格が上昇し、リスク回避姿勢からドル買いが進行。米国債（Treasury）利回りが上昇して債券価格が下落。原油上昇は正のインパクトだが、金利上昇は金を含む無利子資産への下落圧力となり、コモディティ市場全体で相反する動きが生じている。"
-  },
-  {
     "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions - Reuters",
     "timestamp": "2026-10-22T00:46:00+00:00",
     "importance": 4,
@@ -790,5 +757,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "フーシ派がサウジアラビアの石油施設を攻撃したと発表し、アデンでも爆撃が報告された。中東の主要石油供給国への直接的な軍事脅威は、原油供給の中断リスクを大幅に高める。地政学的リスクプレミアムの急速な上昇が予想される。"
+  },
+  {
+    "title": "Saudi Arabia reports crude output recovery from 30-year low as OPEC halves its 2026 demand growth forecast - Energies Media",
+    "timestamp": "2026-10-24T17:06:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアが30年ぶりの低水準から原油生産を回復させていることが報告された。一方、OPECは2026年の需要成長見通しを従来の半分に下方修正。生産回復と需要減速見通しの相反する要因が混在しており、市場心理は不透明。"
+  },
+  {
+    "title": "EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows - Reuters",
+    "timestamp": "2026-10-23T11:33:14+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "プーチン・トランプ間の取引によりロシア産ディーゼルが初めて米国向けに出荷される見込み。データが確認。米国によるロシア原油産品の輸入禁止政策の実質的な転換を示唆し、地政学的緊張の緩和とロシア産品の供給増加で原油価格下落圧力が強まる可能性がある。"
   }
 ]
