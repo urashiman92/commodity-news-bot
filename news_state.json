@@ -1,16 +1,5 @@
 [
   {
-    "title": "金価格は中東危機でも4100ドル台へ急落！米金利上昇が招くさらなる「下落リスク」 - ダイヤモンド・オンライン",
-    "timestamp": "2026-10-21T19:25:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4100ドル台へ急落。中東危機というリスク要因があっても、米金利上昇が金の下押し圧力として機能している。さらなる下落リスクが指摘されている。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4141ドル｜ドルインデックス低下が影響した模様(2026年10月22日) - OANDA証券",
     "timestamp": "2026-10-21T23:00:15+00:00",
     "importance": 2,
@@ -1901,5 +1890,27 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物とブレント先物の価格情報をMoomooプラットフォームで表示したニュースと見られます。具体的なニュース内容や価格変動の詳細情報が記事から判断できません。"
+  },
+  {
+    "title": "本日2026年10月25日の金価格は4,000ドルを下回り、支持線が破られ、売りが市場を行き過ぎた方向に押し進めている。 - Vietnam.vn",
+    "timestamp": "2026-10-24T16:04:23+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドルを下回り、サポートレベルが割られた。テクニカル分析に基づく売りが市場を押し下げている状況。"
+  },
+  {
+    "title": "$WTI 原油先物(2612) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
+    "timestamp": "2026-10-24T11:53:53+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物とブレント先物の価格情報ページ。具体的なニュース内容が記事本体に含まれておらず、単なるリンクメタデータと思われる。市場に対する新規情報がない。"
   }
 ]
