@@ -1,27 +1,5 @@
 [
   {
-    "title": "US EIA Crude Oil Stocks Change (Oct/16) -3.061M vs. Exp. -0.8M (Prev. -8.557M); SPR falls to 282.7M (prev. 283M) - Newsquawk",
-    "timestamp": "2026-10-21T14:50:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "10月16日のEIA原油在庫は予想外の大幅減少（-3.061M バレル vs 予想 -0.8M）を記録した。前週の-8.557Mと比べて減少幅は緩和しているが、予想を3倍以上上回る在庫減少は需給逼迫を示唆。同時にSPR（戦略備蓄)は282.7Mまで低下し、在庫圧力の軽減が価格上昇要因となる。"
-  },
-  {
-    "title": "Price of Russian oil used for tax calculations jumps 60% above the budget level - Reuters",
-    "timestamp": "2026-10-21T17:07:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア産原油の税務計算基準価格が予算レベルから60%上昇した。これはロシア財政に大きな影響を与え、同時にエネルギー市場の価格形成に重要な情報をもたらす。ロシアの原油供給戦略や政府歳入が現状の高価格環境を反映していることを示唆している。"
-  },
-  {
     "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains - Bloomberg.com",
     "timestamp": "2026-10-21T19:46:49+00:00",
     "importance": 3,
@@ -97,17 +75,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアのアラムコ油田とサウジ空港への攻撃で3名が殺害された。中東の主要石油生産施設への直接的な攻撃は供給途絶リスクを高め、原油価格の急騰要因となる。地政学的緊張の急速な悪化が市場の懸念を招く。"
-  },
-  {
-    "title": "EIA Cushing Crude Oil Stocks Change (Oct/16) 0.987M (Prev. 1.862M) - Newsquawk",
-    "timestamp": "2026-10-21T14:50:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが10月16日のクッシング原油在庫の変化を発表。今週の在庫増加は0.987Mバレルで、前週の1.862Mバレルから大幅に減速した。在庫の増加ペースが鈍化したことは、需要の相対的な堅調さか供給調整の影響を示唆している。"
   },
   {
     "title": "EIA reports a draw in US crude oil stocks - www.engine.online",
@@ -812,5 +779,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "サウジアラビアの原油輸出が12月に3ヶ月ぶりの低水準に落ち込んだ。OPEC減産合意の継続履行を示唆する動きだが、具体的な輸出量の数値は報道から不明。供給タイトニング圧力が継続している局面を反映している。"
+  },
+  {
+    "title": "Houthis say they attacked Saudi oil sites; strikes reported in Aden - Reuters",
+    "timestamp": "2026-10-24T17:58:51+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派がサウジアラビアの石油施設を攻撃したと発表し、アデンでも爆撃が報告された。中東の主要石油供給国への直接的な軍事脅威は、原油供給の中断リスクを大幅に高める。地政学的リスクプレミアムの急速な上昇が予想される。"
   }
 ]
