@@ -1,27 +1,5 @@
 [
   {
-    "title": "Chickens and Eggs",
-    "timestamp": "2026-10-20T22:19:26.980136+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSの9月鶏卵生産統計。卵生産量は前年同月比6%増と堅調な伸びを示した一方、採卵用ひなの孵化は8%減少し、食肉用ブロイラーひなはわずかな増加に留まった。供給と需要のシグナルが混在する局面を示唆している。"
-  },
-  {
-    "title": "Chickens and Eggs",
-    "timestamp": "2026-10-20T22:19:26.980136+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSの9月鶏卵生産統計。卵生産量は前年同月比6%増と堅調な伸びを示した一方、採卵用ひなの孵化は8%減少し、食肉用ブロイラーひなはわずかな増加に留まった。供給と需要のシグナルが混在する局面を示唆している。"
-  },
-  {
     "title": "Oil rises on Middle East supply fears, US inventory drawdowns - Reuters",
     "timestamp": "2026-10-21T00:50:00+00:00",
     "importance": 3,
@@ -812,5 +790,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロンドン株式市場が週間で下落する中、原油は5ヶ月ぶりの高値を更新した。英国の予算案発表を控えた市場の警戒感がリスク資産を圧迫する一方、原油市場は独立して堅調に推移。エネルギーセクターと他セクターの乖離が顕著。"
+  },
+  {
+    "title": "Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks - Bloomberg.com",
+    "timestamp": "2026-10-23T19:35:39+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアへの攻撃により供給リスクが高まり、原油は週間ベースで最大の上昇を記録した。地政学的な緊張の高まりが中東産油国の供給途絶懸念を生じさせ、市場心理が悪化。サプライチェーンの脆弱性が再認識され、投資家のリスク回避姿勢から買い圧力が強まった。"
   }
 ]
