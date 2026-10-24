@@ -1,27 +1,5 @@
 [
   {
-    "title": "WisdomTree 小麦上場投信【1695】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-10-21T15:19:28+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "WisdomTree小麦上場投信(1695)のYahoo!ファイナンス掲載ページへのリンク。具体的なニュース内容や価格変動情報は含まれていない。"
-  },
-  {
-    "title": "WTI原油先物相場、じり安 97ドル台前半で推移 - Moomoo",
-    "timestamp": "2026-10-21T14:43:52+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物は97ドル台前半で緩やかに下落している。特定の決定的なニュースが明記されていない相場の振り返り報道。"
-  },
-  {
     "title": "金価格は中東危機でも4100ドル台へ急落！米金利上昇が招くさらなる「下落リスク」 - ダイヤモンド・オンライン",
     "timestamp": "2026-10-21T19:25:00+00:00",
     "importance": 4,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4100ドル台へ急落。中東危機というリスク要因があっても、米金利上昇が金の下押し圧力として機能している。さらなる下落リスクが指摘されている。"
-  },
-  {
-    "title": "USDA穀物買い付け価格はまちまち：カンザス・イリノイの現物価格下落、ガルフのトウモロコシ・大豆輸出ベーシスは上昇 - IndexBox",
-    "timestamp": "2026-10-21T16:21:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "米国の穀物買い付け価格がまちまちな動き。カンザス・イリノイの現物価格は下落する一方、ガルフの輸出ベーシスは上昇。地域別・銘柄別で相反する値動き。"
   },
   {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4141ドル｜ドルインデックス低下が影響した模様(2026年10月22日) - OANDA証券",
@@ -121,17 +88,6 @@
     "summary": "米株価指数先物が下落している中で原油先物が上昇。テスラの設備投資計画引き下げにより株式市場が軟調だが、原油は独立して強含み。エネルギー価格と株価の乖離を示唆している。"
   },
   {
-    "title": "NY市場動向（午後0時台）：ダウ139ドル高、原油先物1.04ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-21T16:27:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後0時台のマーケット概況。ダウ平均は139ドル高だが、原油先物（WTI）は1.04ドル安で推移。株式市場と原油の方向性が異なる分裂状況が示唆される。"
-  },
-  {
     "title": "NY為替：原油価格の下落で、米長期金利が低下 - ｄメニューニュース",
     "timestamp": "2026-10-21T22:18:47+00:00",
     "importance": 2,
@@ -152,28 +108,6 @@
     "source": "Google News",
     "commodity": "大豆",
     "summary": "鉄鉱石と大豆の価格が同時に急落した。複数商品の価格下落は需要減速や過剰供給圧力を示唆している。大豆投資家にとっては下向きの価格圧力が継続する可能性。"
-  },
-  {
-    "title": "在庫の増加と供給懸念の緩和を受け、銅価格は下落、ニッケル価格は上昇 - TradingView",
-    "timestamp": "2026-10-21T14:49:31+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅の在庫増加と供給懸念の緩和により銅価格が下落。一方、ニッケル価格は上昇した。市場では需給バランスの改善を受けた銅売却圧力が確認される。"
-  },
-  {
-    "title": "銅価格予測：HGが横ばいで推移する中、サポートは$6.5122 - Traders Union",
-    "timestamp": "2026-10-21T16:08:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅先物（HG）が横ばいで推移する中、テクニカル分析で$6.5122がサポートレベルとされている。アナリスト予測の類。"
   },
   {
     "title": "２１日の主要国際商品市況 - 株探",
@@ -1956,5 +1890,16 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "世界の原油価格が週間で急上昇し、約6ヶ月ぶりの高値を付けた。既に市場で織り込まれた需給動向や地政学的要因の反映と考えられる。具体的な供給ショックやファンダメンタルズ変化の詳細情報が不足している。"
+  },
+  {
+    "title": "$WTI 原油先物(2612) (CLmain.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
+    "timestamp": "2026-10-24T13:16:16+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物とブレント先物の価格情報をMoomooプラットフォームで表示したニュースと見られます。具体的なニュース内容や価格変動の詳細情報が記事から判断できません。"
   }
 ]
