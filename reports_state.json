@@ -1,16 +1,5 @@
 [
   {
-    "title": "Saudi crude oil exports hit five-month high in August, data shows - Reuters",
-    "timestamp": "2026-10-21T12:17:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの8月の原油輸出量が5ヶ月ぶりの高水準に達したことが明らかになった。これはOPECプラスの減産枠組み内での輸出増加を示唆しており、供給側の動きが注視される。ただし市場では既に同国の段階的な生産調整が織り込まれている状況。"
-  },
-  {
     "title": "US EIA Crude Oil Stocks Change (Oct/16) -3.061M vs. Exp. -0.8M (Prev. -8.557M); SPR falls to 282.7M (prev. 283M) - Newsquawk",
     "timestamp": "2026-10-21T14:50:00+00:00",
     "importance": 3,
@@ -264,17 +253,6 @@
     "summary": "USDA NASSが発表したカリフォルニア州の粗米在庫が2025年10月比で5%増加。米国の米穀在庫増加は供給圧力を示唆し、価格下押し要因となる。定期的な在庫統計の一環であり、市場予想範囲内の動き。"
   },
   {
-    "title": "Crude oil inventories show a draw of -3.060M versus estimate of -0.82 million drawdown - investingLive",
-    "timestamp": "2026-10-21T14:33:27+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で予想を大きく上回る306万バレルの減少が報告された。市場予想は82万バレルの減少にとどまっていたが、実績は3.7倍の減少幅となった。在庫減少は原油需給逼迫を示唆し、価格上昇圧力が強まる可能性が高い。"
-  },
-  {
     "title": "USA Crude Oil Stocks Drop 3MM Barrels WoW - Rigzone",
     "timestamp": "2026-10-22T15:07:34+00:00",
     "importance": 2,
@@ -394,17 +372,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
-  },
-  {
-    "title": "Copper falls as inventories rise, supply worries ease - Investify",
-    "timestamp": "2026-10-21T12:59:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅相場が下落している。在庫水準の上昇により供給懸念が軽減されたことが主な要因である。市場が以前の供給逼迫シナリオから在庫増加へのシフトを反映させており、短期的な価格下押し圧力が継続している。"
   },
   {
     "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
@@ -834,5 +801,16 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "穀物の収穫進捗が市場に下押し圧力をかけている。収穫の加速に伴い供給増加懸念が強まっており、強い需要が存在するにもかかわらず価格上昇を抑制している状況。典型的な収穫期の季節的供給圧力が価格動向を支配している。"
+  },
+  {
+    "title": "Saudi Arabia Crude Exports Fall to Three Month Low in December - EnergyNow.com",
+    "timestamp": "2026-10-24T06:38:55+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアの原油輸出が12月に3ヶ月ぶりの低水準に落ち込んだ。OPEC減産合意の継続履行を示唆する動きだが、具体的な輸出量の数値は報道から不明。供給タイトニング圧力が継続している局面を反映している。"
   }
 ]
