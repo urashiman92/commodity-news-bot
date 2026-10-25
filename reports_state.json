@@ -11,61 +11,6 @@
     "summary": "USDA NASSが発表したカリフォルニア州の粗米在庫が2025年10月比で5%増加。米国の米穀在庫増加は供給圧力を示唆し、価格下押し要因となる。定期的な在庫統計の一環であり、市場予想範囲内の動き。"
   },
   {
-    "title": "USA Crude Oil Stocks Drop 3MM Barrels WoW - Rigzone",
-    "timestamp": "2026-10-22T15:07:34+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が週間ベースで300万バレル減少した。EIAの定期在庫発表データであり、在庫削減は需給タイト化を示唆するが、300万バレルの減少幅が予想比でどの程度のサプライズであるかは不明。市場の既織り込み状況次第で評価が分かれる。"
-  },
-  {
-    "title": "LME copper stocks in US climb to 12-year high - Mining.com",
-    "timestamp": "2026-10-22T14:38:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "LME銅の米国登録在庫が12年ぶりの高水準に上昇したとの報告。在庫増加は供給圧力を示唆し、需給逼迫感の後退を意味する。銅価格の上値抑制要因となる可能性が高い。"
-  },
-  {
-    "title": "Copper price falls to five-week low as LME inventory build continues - Mining.com",
-    "timestamp": "2026-10-22T17:38:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が5週間ぶりの安値まで下落した。LME（ロンドン金属取引所）の在庫が増加し続けていることが、価格押し下げ要因となっている。需要弱化または供給過剰を示唆する在庫積み増しは、銅市場の弱気シグナルである。"
-  },
-  {
-    "title": "P&G warns of bigger cost hit from oil prices, even as consumer demand holds up - Reuters",
-    "timestamp": "2026-10-22T15:44:37+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "P&Gが石油価格の上昇による原価増加圧力の拡大を警告。同社の消費者需要は堅調に推移しているが、エネルギーコストの高騰がさらなる利益圧迫要因となる見通し。プラスチック製品や輸送コストへの波及懸念が浮上。"
-  },
-  {
-    "title": "P&G warns of bigger cost hit from oil prices, even as consumer demand holds up - Reuters",
-    "timestamp": "2026-10-22T15:44:37+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "P&Gが石油価格の上昇による原価増加圧力の拡大を警告。同社の消費者需要は堅調に推移しているが、エネルギーコストの高騰がさらなる利益圧迫要因となる見通し。プラスチック製品や輸送コストへの波及懸念が浮上。"
-  },
-  {
     "title": "Livestock Slaughter",
     "timestamp": "2026-10-22T22:21:49.853586+00:00",
     "importance": 3,
@@ -152,17 +97,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国-中国間の石油タンカー運賃が1隻あたり約6000万ドル（推定）に急騰し、輸送コストの上昇がエンドユーザーの石油購買需要を圧迫している。タンカー賃料の高騰は供給コスト上昇を意味し、最終的に原油需要減少につながる可能性が高い。これは地政学的緊張や航路迂回による物流逼迫を示唆している。"
-  },
-  {
-    "title": "Oil Stocks Are Looking Stretched to Traders as Earnings Loom - Bloomberg.com",
-    "timestamp": "2026-10-22T15:47:54+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "石油関連企業の株価が技術的に過熱感を示しており、決算発表を控えてトレーダー間で警戒感が高まっている。益利確売却の可能性が指摘されている一方、決算内容次第で評価が変わる可能性がある。"
   },
   {
     "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
@@ -284,17 +218,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
-  },
-  {
-    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
-    "timestamp": "2026-10-22T17:32:39+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が10月の石油生産政策を据え置くことを決定。既存の減産合意を継続し、市場の供給バランス維持を示唆。予想の範囲内の政策継続であり、大きなサプライズはない。"
   },
   {
     "title": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters",
@@ -647,5 +570,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECが2026年の世界石油需要成長予測を再び引き下げた。需要伸び率の低下は、電動車普及の加速やエネルギー効率改善、経済成長鈍化への懸念を反映している。複数回の下方修正は需給バランスの弱気シナリオを示唆。"
+  },
+  {
+    "title": "Cold Storage",
+    "timestamp": "2026-10-25T18:25:19.392131+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "2026年9月30日時点の冷蔵倉庫におけるナチュラルチーズ在庫は、前月比1%減少した一方で、前年同月比では2%増加している。乳製品市場の需給緩和を示唆する指標だが、変動幅は限定的である。"
+  },
+  {
+    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-10-24T15:52:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間統計で、米国原油在庫が前週比で減少したことが報告された。これは製油所の稼働率向上に伴う原油処理量の増加が主因。需要サイドの改善を示唆する好材料だが、在庫水準の絶対値や前年同期比の詳細データは報告されていない。"
   }
 ]
