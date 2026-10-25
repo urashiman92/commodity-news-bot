@@ -1,16 +1,5 @@
 [
   {
-    "title": "EIA reports a draw in US crude oil stocks - www.engine.online",
-    "timestamp": "2026-10-22T08:02:49+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の減少（ドロー）を報告した。在庫減少は原油供給の逼迫を示唆し、価格上昇圧力となる。具体的な在庫減少量の詳細情報は提供されていないため、市場反応の大きさは予想比データ次第。"
-  },
-  {
     "title": "Nebraska and Kansas Rain Could Slow Harvest, Give Wheat a Boost - Successful Farming",
     "timestamp": "2026-10-22T11:00:00+00:00",
     "importance": 2,
@@ -33,50 +22,6 @@
     "summary": "ネブラスカ・カンザス地域への降雨により、収穫作業が遅延する可能性が生じた。一方、小麦に対しては降雨が生育を支援する好材料となる。収穫ペースの鈍化は短期的に穀物市場に影響を与える可能性があるが、定期的な気象・作況報告の範囲内。"
   },
   {
-    "title": "Miners sink as weaker copper prices and rising inventories hit London stocks - Proactive financial news",
-    "timestamp": "2026-10-22T08:33:28+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "ロンドン株式市場の鉱業銘柄が軟調。銅価格の弱含みと在庫積み増しが主因。グローバルな需要減速懸念と供給過剰圧力が同時に作用し、鉱業セクター全体への下押し圧力が増している。"
-  },
-  {
-    "title": "Miners sink as weaker copper prices and rising inventories hit London stocks - Proactive financial news",
-    "timestamp": "2026-10-22T08:33:28+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "ロンドン株式市場の鉱業銘柄が軟調。銅価格の弱含みと在庫積み増しが主因。グローバルな需要減速懸念と供給過剰圧力が同時に作用し、鉱業セクター全体への下押し圧力が増している。"
-  },
-  {
-    "title": "Copper slumps as surging stocks and tech-stock selloff sour mood - The Edge Singapore",
-    "timestamp": "2026-10-22T09:50:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が下落している。背景には株式市場の急騰とテック株売却の流れがある。リスク資産としての銅は、株式市場の強気相場と一見矛盾するテック株売却による市場心理の冷え込みに反応している。金利上昇期待と景気減速懸念が複合的に作用している。"
-  },
-  {
-    "title": "Copper slumps as surging stocks and tech-stock selloff sour mood - The Edge Singapore",
-    "timestamp": "2026-10-22T09:50:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅価格が下落している。背景には株式市場の急騰とテック株売却の流れがある。リスク資産としての銅は、株式市場の強気相場と一見矛盾するテック株売却による市場心理の冷え込みに反応している。金利上昇期待と景気減速懸念が複合的に作用している。"
-  },
-  {
     "title": "This Copper Explorer Might Fit Dalios' Americas-First Outlook - Streetwise Reports",
     "timestamp": "2026-10-22T10:52:30+00:00",
     "importance": 2,
@@ -86,28 +31,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "Ray Dalioのアメリカ優先戦略に合致する可能性のある銅探鉱企業についての解説記事。特定の新規データや生産量の発表ではなく、投資家の戦略転換に関連する銅企業紹介に留まる。マクロ環境ではインフレ懸念と米国主導の経済成長期待が銅需要を支える要因。"
-  },
-  {
-    "title": "Saudi Aramco seeks to partner with countries to expand its oil stockpile, CEO says - Reuters",
-    "timestamp": "2026-10-22T08:17:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラムコのCEOが、複数国とのパートナーシップを通じて石油備蓄の拡大を目指す方針を表明。戦略的備蓄増加を計画しており、需要側面から原油価格支援要因となる可能性。OPEC+の供給戦略の一環として市場へのシグナル効果を持つ。"
-  },
-  {
-    "title": "Saudi Arabia Seeks Access to Overseas Oil Storage for Aramco - Bloomberg.com",
-    "timestamp": "2026-10-22T08:31:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがアラムコの海外石油貯蔵施設へのアクセス確保を模索している。供給余力の強化と価格変動への対抗手段として位置付けられる。OPECの減産政策を補完する戦略的な動きであり、市場の供給サイド安定化シグナルとして機能する可能性がある。"
   },
   {
     "title": "Rice Stocks",
@@ -240,17 +163,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
-  },
-  {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-22T07:36:24+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストBoussoが、ホルムズ海峡の再開通がOPECの減産戦略を脅かす可能性を指摘。地政学的緊張緩和による供給増加は、OPECの市場支配力低下につながり、原油価格の下押し圧力となる可能性がある。既往の地政学リスクプレミアムの剥落を示唆。"
   },
   {
     "title": "Oil Tankers Sailing the US-China Route Are Commanding $60 Million and It’s Crushing Demand - Bloomberg.com",
