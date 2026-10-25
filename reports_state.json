@@ -1,16 +1,5 @@
 [
   {
-    "title": "Rice Stocks",
-    "timestamp": "2026-10-22T18:33:49.528669+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSが発表したカリフォルニア州の粗米在庫が2025年10月比で5%増加。米国の米穀在庫増加は供給圧力を示唆し、価格下押し要因となる。定期的な在庫統計の一環であり、市場予想範囲内の動き。"
-  },
-  {
     "title": "Livestock Slaughter",
     "timestamp": "2026-10-22T22:21:49.853586+00:00",
     "importance": 3,
@@ -75,50 +64,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
-  },
-  {
-    "title": "Oil Tankers Sailing the US-China Route Are Commanding $60 Million and It’s Crushing Demand - Bloomberg.com",
-    "timestamp": "2026-10-22T19:46:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国-中国間の石油タンカー運賃が1隻あたり約6000万ドル（推定）に急騰し、輸送コストの上昇がエンドユーザーの石油購買需要を圧迫している。タンカー賃料の高騰は供給コスト上昇を意味し、最終的に原油需要減少につながる可能性が高い。これは地政学的緊張や航路迂回による物流逼迫を示唆している。"
-  },
-  {
-    "title": "Oil Tankers Sailing the US-China Route Are Commanding $60 Million and It’s Crushing Demand - Bloomberg.com",
-    "timestamp": "2026-10-22T19:46:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国-中国間の石油タンカー運賃が1隻あたり約6000万ドル（推定）に急騰し、輸送コストの上昇がエンドユーザーの石油購買需要を圧迫している。タンカー賃料の高騰は供給コスト上昇を意味し、最終的に原油需要減少につながる可能性が高い。これは地政学的緊張や航路迂回による物流逼迫を示唆している。"
-  },
-  {
-    "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
-    "timestamp": "2026-10-22T21:32:07+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "トランプ大統領が冷戦時代の防衛生産法（DPA）を発動し、米国の石油生産・精製能力の拡大を指示。これは政策的介入による供給増加シグナルであり、短期的には原油価格の上昇圧力となる可能性がある一方、中期的には供給サイドの強化により価格の下方圧力も懸念される。地政学的・政治的なコモディティ市場への直接介入は市場参加者にとって大きなサプライズ。"
-  },
-  {
-    "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
-    "timestamp": "2026-10-22T21:32:07+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ大統領が冷戦時代の防衛生産法（DPA）を発動し、米国の石油生産・精製能力の拡大を指示。これは政策的介入による供給増加シグナルであり、短期的には原油価格の上昇圧力となる可能性がある一方、中期的には供給サイドの強化により価格の下方圧力も懸念される。地政学的・政治的なコモディティ市場への直接介入は市場参加者にとって大きなサプライズ。"
   },
   {
     "title": "Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks - Bloomberg.com",
@@ -526,17 +471,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+がホルムズ海峡の再開時に原油増産を行うことで合意した。同海峡は世界原油輸送の約30%を担う戦略的に重要な水域であり、その通行障害の解除は供給リスク低下を意味する。増産発表は市場で予想を上回るシグナルであり、原油価格への下押し圧力が生じる可能性が高い。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow",
-    "timestamp": "2026-10-22T21:38:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後、原油生産量が過去最高水準に接近している。OPEC減産合意からの離脱により、UAE独自の増産戦略を展開中。供給サイドの大幅な変化は市場バランスに直結し、原油価格への上昇圧力となる可能性がある。"
   },
   {
     "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow",
