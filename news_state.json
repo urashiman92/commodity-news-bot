@@ -1,49 +1,5 @@
 [
   {
-    "title": "売られ過ぎのRSIと売り圧力がせめぎ合うなか、カンザスシティ小麦価格は回復するのか？ - Traders Union",
-    "timestamp": "2026-10-22T12:40:48+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦はRSIの売られ過ぎ水準と売り圧力のせめぎ合いにある。技術的な反発の可能性が指摘されているが、ファンダメンタルズの改善は限定的。価格回復の持続性については不透明な状況。"
-  },
-  {
-    "title": "世界の金価格が2週間以上ぶりの安値に下落 - Laodong.vn",
-    "timestamp": "2026-10-22T10:26:01+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が2週間以上ぶりの安値まで下落した。特定の新規ニュースではなく、相場の振り返り報道。ドル高や金利上昇環境による既知の下押し圧力が継続している状況。"
-  },
-  {
-    "title": "フーシ派の新たな攻撃で原油価格が1ドル以上上昇 - アラブニュース",
-    "timestamp": "2026-10-22T13:54:13+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派がアラビア海での船舶攻撃を継続し、原油価格が1ドル以上上昇した。紅海経由の海運リスクが継続的に存在。地政学的リスクは既に市場に織り込まれている。"
-  },
-  {
-    "title": "メタ、業績好調でAI関連の設備投資を増額；原油価格が急騰 - Moomoo",
-    "timestamp": "2026-10-22T12:38:01+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "メタプラットフォームズが好調な業績を背景にAI関連設備投資を増額する計画を発表。データセンター拡張に伴う電力需要増加が、原油価格の上昇要因として報じられている。"
-  },
-  {
     "title": "10月22日の夜、金と銀の価格が同時に売り浴びせに見舞われた。 - Vietnam.vn",
     "timestamp": "2026-10-22T16:56:31+00:00",
     "importance": 2,
@@ -53,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "10月22日夜間に金と銀が同時に売却圧力を受けた。具体的な要因は記事に明記されていない。技術的な調整や利益確定売りの可能性。"
-  },
-  {
-    "title": "10月22日の終値:あるブランドが指輪の金価格の下落傾向を継続 - Laodong.vn",
-    "timestamp": "2026-10-22T12:15:56+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのあるブランドにおいて、指輪の金価格が継続的に下落している。10月22日の終値でも下落傾向が続いている。"
   },
   {
     "title": "本日2026年10月23日の金価格は急落しており、安値に向かって下落を続けています。ロシアが10ヶ月連続で金準備を売却している理由は何でしょうか？ - Vietnam.vn",
@@ -97,28 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場の午前10時台の相場動向を伝える記事。ダウ平均は324ドル安だが、WTI原油先物は1.15ドル高と小幅上昇。株式と原油の乖離を示す局面。"
-  },
-  {
-    "title": "買い方が短期的な主導権を維持するなか、大豆先物が上昇 - Traders Union",
-    "timestamp": "2026-10-22T12:29:44+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物が上昇。買い方が短期的な相場主導権を保持している状況。技術的な買いポジション優位の反映と見られる。"
-  },
-  {
-    "title": "売り圧力の強まりと売られ過ぎの状況を受け、銅価格が下落 - Traders Union",
-    "timestamp": "2026-10-22T12:19:44+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が売り圧力の強化と売られ過ぎの状況を背景に下落している。テクニカル指標が過度な下押しを示唆している状況の分析。既に進行中の下げトレンドの描写。"
   },
   {
     "title": "金価格が1週間ぶり安値から反発、小幅高 UBSは4,100ドルを重要な支持線と指摘 - BigGo ファイナンス",
@@ -196,28 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場午後の動向レポート。ダウ平均が145ドル安い中、原油先物は0.85ドル高で推移している。株と原油の方向性が異なるやや複雑な相場展開。"
-  },
-  {
-    "title": "AI関連株の売りがリスク選好を抑制し、銅価格も追随して下落した。 - Moomoo",
-    "timestamp": "2026-10-22T13:30:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "AI関連株の売却トレンドがリスク選好を減少させ、銅価格も連動して下落した。景気敏感商品である銅は、リスク回避局面で投資家の売り圧力を受けている。"
-  },
-  {
-    "title": "ピーター・ブラント氏、商業筋の空売りが過去最高水準に迫るなか、銅相場が上昇トレンドを取り戻せずにいると指摘 - Traders Union",
-    "timestamp": "2026-10-22T10:37:46+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "アナリストのピーター・ブラント氏が、商業筋の空売りポジションが過去最高水準に接近する中、銅相場が上昇トレンドを回復できていないと指摘。市場センチメントの悪化を示唆している。"
   },
   {
     "title": "サウジアラビア攻撃で原油価格が113ドル突破、金価格は4,050ドル割れで「投げ売り」の様相 - BigGo ファイナンス",
@@ -1769,5 +1670,82 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "MoomooプラットフォームによるWTI原油先物のリアルタイムチャート表示に関するニュース。具体的な価格変動や市場材料の記載がない。単なるツール紹介・プラットフォーム情報の可能性が高い。"
+  },
+  {
+    "title": "専門家は来週の世界市場における金価格をどう予測しているのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-10-25T11:43:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムメディアによる金価格の来週予測に関する専門家見解の記事。具体的な予測内容や根拠が不明確。アナリストコメンタリーの域を出ていない。"
+  },
+  {
+    "title": "アントムの金価格は1週間に34,000ルピア下落し、現在は1グラムあたり2,540,000ルピア - VOI.ID",
+    "timestamp": "2026-10-25T12:22:06+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドネシアの金価格が1週間で34,000ルピア下落し、1グラムあたり2,540,000ルピアとなった。地域的な価格報告であり、グローバルな金市場への直接的なシグナルは限定的。通常のボラティリティ範囲内の変動と見られる。"
+  },
+  {
+    "title": "世界の金価格は1オンスあたり4000ドルを下回り、大手ファンドは保有資産を積極的に売却する一方、中国は引き続き精力的に金の蓄積を続けている。 - Vietnam.vn",
+    "timestamp": "2026-10-25T11:10:59+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4000ドル/オンス下回る中、大手ファンドが売却を加速させている一方、中国は継続して金を買い増している。市場内での需給の方向性が相反している状況を示唆。"
+  },
+  {
+    "title": "今日の世界の金価格 10月25日:予想外の来週の予測 - Laodong.vn",
+    "timestamp": "2026-10-25T11:07:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月25日時点での金価格に関する一般的な市場解説記事。「予想外の来週予測」というタイトルながら、具体的な材料・数値が明記されていない。"
+  },
+  {
+    "title": "本日の金価格（10月25日午後）：安定 - Vietnam.vn",
+    "timestamp": "2026-10-25T08:48:34+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月25日午後の金価格が安定していることを報じた短報。具体的な価格水準や変動幅に関する情報がない。ベトナム国内向けの日次相場情報の一種。"
+  },
+  {
+    "title": "ダウ平均652ドル急落、原油が100ドル突破 米・イラン戦争再燃への懸念 - BigGo ファイナンス",
+    "timestamp": "2026-10-24T20:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米・イラン間の軍事衝突再燃への懸念から、原油価格が100ドルを突破した。地政学的リスクが急速に高まり、市場がリスクオフの動きを加速させた。株式市場（ダウ平均）も連動して652ドル急落し、リスク資産全般に波及している。"
+  },
+  {
+    "title": "銅価格の高騰を受け、日本では泥棒たちが銅を盗む目的で寺院の屋根を剥ぎ取っている。 - Vietnam.vn",
+    "timestamp": "2026-10-25T11:15:54+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格の高騰に伴い、日本で銅製屋根材の窃盗が社会問題化している。銅相場の上昇が需要と盗難行為を誘発する一例。市場メカニズムの反映だが、コモディティ投資への直接的な影響は限定的。"
   }
 ]
