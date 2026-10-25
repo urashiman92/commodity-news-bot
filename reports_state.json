@@ -1,38 +1,5 @@
 [
   {
-    "title": "Nebraska and Kansas Rain Could Slow Harvest, Give Wheat a Boost - Successful Farming",
-    "timestamp": "2026-10-22T11:00:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "ネブラスカ・カンザス地域への降雨により、収穫作業が遅延する可能性が生じた。一方、小麦に対しては降雨が生育を支援する好材料となる。収穫ペースの鈍化は短期的に穀物市場に影響を与える可能性があるが、定期的な気象・作況報告の範囲内。"
-  },
-  {
-    "title": "Nebraska and Kansas Rain Could Slow Harvest, Give Wheat a Boost - Successful Farming",
-    "timestamp": "2026-10-22T11:00:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "ネブラスカ・カンザス地域への降雨により、収穫作業が遅延する可能性が生じた。一方、小麦に対しては降雨が生育を支援する好材料となる。収穫ペースの鈍化は短期的に穀物市場に影響を与える可能性があるが、定期的な気象・作況報告の範囲内。"
-  },
-  {
-    "title": "This Copper Explorer Might Fit Dalios' Americas-First Outlook - Streetwise Reports",
-    "timestamp": "2026-10-22T10:52:30+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Ray Dalioのアメリカ優先戦略に合致する可能性のある銅探鉱企業についての解説記事。特定の新規データや生産量の発表ではなく、投資家の戦略転換に関連する銅企業紹介に留まる。マクロ環境ではインフレ懸念と米国主導の経済成長期待が銅需要を支える要因。"
-  },
-  {
     "title": "Rice Stocks",
     "timestamp": "2026-10-22T18:33:49.528669+00:00",
     "importance": 2,
@@ -229,17 +196,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアへの攻撃により供給リスクが顕在化し、原油が週間で最大の上昇を記録した。地政学的緊張の高まりがエネルギー市場に直結し、供給途絶への懸念が価格を押し上げている。OPEC最大産油国への攻撃は供給サイドの不確実性を大幅に増加させる要因。"
-  },
-  {
-    "title": "LME copper stocks in US climb to 12-year high - Investify",
-    "timestamp": "2026-10-22T11:50:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "LME銅の米国登録在庫が12年ぶりの高水準に上昇している。過剰供給感が強まり、銅需要の弱さを示唆している。在庫積み増しは価格下押し圧力となり、特に世界的な景気減速懸念が継続する中での悪材料。"
   },
   {
     "title": "Oil prices rise more than 1% as supply concerns linger - Reuters",
@@ -647,5 +603,49 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+がホルムズ海峡の再開時に原油増産を行うことで合意した。同海峡は世界原油輸送の約30%を担う戦略的に重要な水域であり、その通行障害の解除は供給リスク低下を意味する。増産発表は市場で予想を上回るシグナルであり、原油価格への下押し圧力が生じる可能性が高い。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow",
+    "timestamp": "2026-10-22T21:38:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後、原油生産量が過去最高水準に接近している。OPEC減産合意からの離脱により、UAE独自の増産戦略を展開中。供給サイドの大幅な変化は市場バランスに直結し、原油価格への上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow",
+    "timestamp": "2026-10-22T21:59:10+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がOPECの協調減産体制を破壊した可能性があるという論考。OPEC結束の弱体化により、原油市場の価格支持メカニズムが機能不全に陥りうる。これは一見、原油安圧力に見えるが、統制不全によるボラティリティ上昇と地政学リスク顕在化が同時に起こる懸念がある。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow",
+    "timestamp": "2026-10-22T21:59:10+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領がOPECの協調減産体制を破壊した可能性があるという論考。OPEC結束の弱体化により、原油市場の価格支持メカニズムが機能不全に陥りうる。これは一見、原油安圧力に見えるが、統制不全によるボラティリティ上昇と地政学リスク顕在化が同時に起こる懸念がある。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
+    "timestamp": "2026-10-23T13:13:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長予測を再び引き下げた。需要伸び率の低下は、電動車普及の加速やエネルギー効率改善、経済成長鈍化への懸念を反映している。複数回の下方修正は需給バランスの弱気シナリオを示唆。"
   }
 ]
