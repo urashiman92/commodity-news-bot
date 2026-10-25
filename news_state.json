@@ -1,126 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4141ドル｜ドルインデックス低下が影響した模様(2026年10月22日) - OANDA証券",
-    "timestamp": "2026-10-21T23:00:15+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4141ドルまで下落した。ドルインデックスの低下が影響要因と解説されている。定期的な相場振り返りの観測コメント。"
-  },
-  {
-    "title": "本日（10月22日）の金価格：SJC金は上昇傾向を反転させる可能性は低い。 - Vietnam.vn",
-    "timestamp": "2026-10-21T22:13:15+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金について、本日の価格動向に関する市場解説。上昇傾向の反転可能性が低いという観測が示唆されている。テクニカル・センチメント的な分析記事と見られる。"
-  },
-  {
-    "title": "10月22日朝の金価格更新:連続下落 - Laodong.vn",
-    "timestamp": "2026-10-21T23:10:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月22日朝時点で金価格が連続して下落している。具体的な下落要因や値幅は記事から不明だが、相場の振り返り報道と考えられる。"
-  },
-  {
-    "title": "本日（2026年10月22日）の金価格：SJCの金価格は横ばい、世界の金価格は上昇。 - Vietnam.vn",
-    "timestamp": "2026-10-21T23:42:45+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格は横ばいだが、世界の金価格は上昇。国内市場と国際市場で異なる値動きを示している。"
-  },
-  {
-    "title": "NY金先物は4営業日ぶりに反発、原油安に伴う米長期金利の低下とドル売りが支えに｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-21T23:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が4営業日ぶりに反発。原油価格の下落に伴い米長期金利が低下し、ドル売りが進行したことが金買い圧力となった。金利低下とドル安は金にとって支援的な環境。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：ロシアとウクライナの和平実現期待から、原油価格は3営業日続落（2026年10月22日） - OANDA証券",
-    "timestamp": "2026-10-21T23:09:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ロシア・ウクライナ間の和平実現期待が高まり、地政学的リスク低下を見込んだ売圧が原油を押し下げた。3営業日連続の下落となっており、需給見通しの改善と需要懸念が重なった状況。"
-  },
-  {
-    "title": "米株価指数先物 下げ拡大、原油先物高やテスラ設備投資計画引き下げ - みんかぶ FX/為替",
-    "timestamp": "2026-10-21T23:32:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米株価指数先物が下落している中で原油先物が上昇。テスラの設備投資計画引き下げにより株式市場が軟調だが、原油は独立して強含み。エネルギー価格と株価の乖離を示唆している。"
-  },
-  {
-    "title": "NY為替：原油価格の下落で、米長期金利が低下 - ｄメニューニュース",
-    "timestamp": "2026-10-21T22:18:47+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の下落に伴い米長期金利が低下している。エネルギー価格の低迷とマクロ環境の相互作用を示唆。既報の価格動きに対する解説記事と考えられる。"
-  },
-  {
-    "title": "鉄鉱石と大豆の価格はともに急落した。 - Vietnam.vn",
-    "timestamp": "2026-10-21T23:12:11+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "鉄鉱石と大豆の価格が同時に急落した。複数商品の価格下落は需要減速や過剰供給圧力を示唆している。大豆投資家にとっては下向きの価格圧力が継続する可能性。"
-  },
-  {
-    "title": "２１日の主要国際商品市況 - 株探",
-    "timestamp": "2026-10-21T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "21日の主要国際商品市況を扱う定期的な市況レポート。具体的な価格変動やイベント内容が記事本体に示されていない。"
-  },
-  {
-    "title": "米コモディティー市場－ガソリン、金、トウモロコシが上昇 原油、天然ガス、銀、銅、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-21T22:27:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で混合の値動き。ガソリン・金・トウモロコシが上昇する一方、原油・天然ガス・銅・小麦・大豆が下落。相場の振り返りレベルの報道。"
-  },
-  {
     "title": "金価格、サウジ攻撃でインフレ懸念高まり約4,115ドルに下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-10-22T01:01:00+00:00",
     "importance": 3,
@@ -231,28 +110,6 @@
     "summary": "2026年度上期の日本の貿易赤字が2.8兆円に拡大。原油価格高騰と円安が主要因として指摘されている。エネルギー輸入コストの増加が赤字拡大を加速。"
   },
   {
-    "title": "２１日の主要国際商品市況 (2026年10月22日掲載) - ライブドアニュース",
-    "timestamp": "2026-10-21T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2026年10月21日の主要国際商品市況の日次レポート。具体的な商品価格動向や数値が記事概要に記載されていない。"
-  },
-  {
-    "title": "２１日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-10-21T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "21日の主要国際商品市況に関する定期的なレポート。具体的な価格動向や市場材料の詳細が記事概要には記載されていない。相場の日次振り返り報道と推定される。"
-  },
-  {
     "title": "商品市場：赤字が優勢で、天然ガスと小麦の価格は底値をつけた。 - Vietnam.vn",
     "timestamp": "2026-10-22T06:01:26+00:00",
     "importance": 3,
@@ -273,17 +130,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "天然ガスと小麦の価格がともに底値をつけた。供給圧力と需要減が相場を押し下げている。短期的な弱気相場が続く可能性。"
-  },
-  {
-    "title": "Gold Price on 21 October 2026 - Gold Price",
-    "timestamp": "2026-10-22T00:26:12+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年10月21日の金価格に関する記事。具体的な価格データや市場動向を示す内容が不明。単なる価格情報の報道と推定される。"
   },
   {
     "title": "金相場の見通し：現物金は買い方と売り方の攻防が続く中、支持線を再び維持 - Moomoo",
@@ -1912,5 +1758,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "韓国ウォンが国際原油価格上昇やAI投資懸念といったウォン安要因にもかかわらず、急速に上昇している。ソウル外国為替市場でドルウォン相場は1324.6ウォン/ドルを記録。通貨動向の相場観解説。"
+  },
+  {
+    "title": "本日10月25日の金価格：SJCゴールドは1週間を通して下落し、190万ベトナムドンを失いました。 - Vietnam.vn",
+    "timestamp": "2026-10-24T23:45:59+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJCゴールド相場が1週間で190万ベトナムドン（約数ドル相当）下落した。ローカル市場の値動きを報じた相場振り返り記事。"
+  },
+  {
+    "title": "金利上昇の期待が圧力をかけ、金価格が急落 - Laodong.vn",
+    "timestamp": "2026-10-24T23:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金利上昇への市場予想が、金の相対的な購買力を低下させるとの見方から金価格が下落。名目金利上昇は金を保有するコスト機会を増加させるため、金にとって逆風となる。既知のマクロ環境の継続を反映した相場調整。"
+  },
+  {
+    "title": "本日（2026年10月25日）の金価格：SJC金地金、BTMC 9999プレーンリング、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-10-24T23:21:59+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格に関する日次相場情報の報道。SJC金地金やBTMC 9999プレーンリング、および世界金価格の現在値を掲載したニュース。"
+  },
+  {
+    "title": "10月25日朝の金価格更新:激しい変動の週、4ヶ月ぶりの安値に - Laodong.vn",
+    "timestamp": "2026-10-24T23:15:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が激しい変動の週を経験し、4ヶ月ぶりの安値水準に到達。市場のボラティリティが高まっている状況の振り返り。短期的な売圧が継続している可能性を示唆。"
+  },
+  {
+    "title": "本日（2026年10月25日）の金価格：SJC、BTMC、PNJ、フークイの金価格および国際金価格。 - Vietnam.vn",
+    "timestamp": "2026-10-24T22:22:43+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売業者（SJC、BTMC、PNJ、フークイ）の本日金価格および国際金価格の日次レポート。市場の定期的な価格情報提供。"
+  },
+  {
+    "title": "原油価格高騰が生活に与える影響についてどう思いますか？ - Yahoo!ニュース",
+    "timestamp": "2026-10-24T20:28:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格高騰が消費者生活に与える影響を取り上げた記事。既知の問題提起であり、市場に新規情報はない。投資判断への直接的な影響は限定的。"
+  },
+  {
+    "title": "電気自動車の普及を拡大してきた欧州諸国が、数十億ユーロに達する原油消費に代わって輸入負担を減らしたことが分かった。 電気自動車が炭素排出を減らすことを越え、国際原油価格の急騰による経済的衝撃を緩和する.. - 매일경제",
+    "timestamp": "2026-10-24T10:42:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "欧州のEV普及により原油輸入需要が減少し、数十億ユーロの輸入負担が軽減された。EV導入がエネルギー自給率向上と原油価格変動への耐性強化につながっている。既知の長期トレンドであるEV普及が原油需要減に寄与する構造が改めて認識される。"
+  },
+  {
+    "title": "今週の原油価格はどうなるでしょうか。上昇するのか、下落するのか - Moomoo",
+    "timestamp": "2026-10-24T13:35:12+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "今週の原油価格動向についての解説記事。上昇・下落の両シナリオを検討した相場観測。具体的な新規材料や統計発表の情報は記事タイトルからは不明。"
   }
 ]
