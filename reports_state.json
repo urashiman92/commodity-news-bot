@@ -1,38 +1,5 @@
 [
   {
-    "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions - Reuters",
-    "timestamp": "2026-10-22T00:46:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がサウジアラビアとの関係悪化に伴い外交官の撤退を命じたことが報じられ、中東地政学リスクが急速に高まった。サウジアラビアは世界最大級の石油生産国であり、地政学的緊張の深刻化は世界石油供給への直接的な脅威となるため、原油価格は上昇圧力を受けている。予測不可能な地政学イベントとして市場に大きなサプライズを与えている。"
-  },
-  {
-    "title": "Oil Rises as Deadly Saudi Attack Fans Middle East Supply Fears - Bloomberg.com",
-    "timestamp": "2026-10-22T00:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアへの致命的な攻撃により、中東の石油供給不安が急速に高まった。地政学的リスクの顕在化により、原油価格は上昇圧力を受けている。中東地域は世界石油供給の約30%を占めており、供給途絶のリスクが市場心理に大きな影響を与えている。"
-  },
-  {
-    "title": "USDA adjusts rice, cotton production projections - Brownfield Ag News",
-    "timestamp": "2026-10-22T01:52:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが米国のコメと綿花の生産見通しを調整。WASDE等の定期予測修正により、北米農産物市場の需給バランスが更新された。具体的な数値調整内容は記事本文から確認が必要だが、両コモディティの市場評価が再考される可能性がある。"
-  },
-  {
     "title": "EIA reports a draw in US crude oil stocks - www.engine.online",
     "timestamp": "2026-10-22T08:02:49+00:00",
     "importance": 3,
@@ -42,28 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の減少（ドロー）を報告した。在庫減少は原油供給の逼迫を示唆し、価格上昇圧力となる。具体的な在庫減少量の詳細情報は提供されていないため、市場反応の大きさは予想比データ次第。"
-  },
-  {
-    "title": "USDA adjusts rice, cotton production projections - Brownfield Ag News",
-    "timestamp": "2026-10-22T01:52:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "米",
-    "summary": "USDAが米と綿花の生産予測を調整した。定期的なCrop Progress報告の一環として、作付面積・収量・生産量の見通しが修正された可能性が高い。具体的な数値調整幅は記事からは不明だが、両コモディティの需給バランスに影響を与える重要な統計更新。"
-  },
-  {
-    "title": "USDA adjusts rice, cotton production projections - Brownfield Ag News",
-    "timestamp": "2026-10-22T01:52:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "綿花",
-    "summary": "USDAが米と綿花の生産予測を調整した。定期的なCrop Progress報告の一環として、作付面積・収量・生産量の見通しが修正された可能性が高い。具体的な数値調整幅は記事からは不明だが、両コモディティの需給バランスに影響を与える重要な統計更新。"
   },
   {
     "title": "Nebraska and Kansas Rain Could Slow Harvest, Give Wheat a Boost - Successful Farming",
@@ -328,17 +273,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国-中国間の石油タンカー運賃が1隻あたり約6000万ドル（推定）に急騰し、輸送コストの上昇がエンドユーザーの石油購買需要を圧迫している。タンカー賃料の高騰は供給コスト上昇を意味し、最終的に原油需要減少につながる可能性が高い。これは地政学的緊張や航路迂回による物流逼迫を示唆している。"
-  },
-  {
-    "title": "Three Killed in Attacks on Aramco Oil Field, Saudi Airport - Bloomberg.com",
-    "timestamp": "2026-10-21T23:28:37+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのアラムコ油田とジェッダ空港への攻撃により3人が死亡。中東の主要石油供給インフラへの直接的な地政学的脅威が顕在化した。サウジアラビアは世界最大級の石油輸出国であり、供給途絶リスクが原油価格を上昇圧力に置く。"
   },
   {
     "title": "Oil Stocks Are Looking Stretched to Traders as Earnings Loom - Bloomberg.com",
@@ -768,5 +702,38 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "プーチン・トランプ間の取引によりロシア産ディーゼルが初めて米国向けに出荷される見込み。データが確認。米国によるロシア原油産品の輸入禁止政策の実質的な転換を示唆し、地政学的緊張の緩和とロシア産品の供給増加で原油価格下落圧力が強まる可能性がある。"
+  },
+  {
+    "title": "The Americas Are the New Oil Growth Engine: +1.66 Million Barrels a Day in 2026 as OPEC Output Falls 5.4 Million - Energy News Beat",
+    "timestamp": "2026-10-24T23:49:22+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "2026年に米州地域の原油生産が日量166万バレル増加する一方、OPEC加盟国の生産は日量540万バレル減少する見通し。米州がOPEC減産を相殺し、グローバルな供給バランスの再編が進行中。OPEC減産政策の市場シェア喪失を示唆する内容。"
+  },
+  {
+    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
+    "timestamp": "2026-10-23T07:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の定例会合で原油生産目標を据え置く予定。市場では既にこの結果が織り込まれており、大きなサプライズは予想されていない。現在の減産合意の継続が見込まれている。"
+  },
+  {
+    "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
+    "timestamp": "2026-10-24T09:27:28+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+がホルムズ海峡の再開時に原油増産を行うことで合意した。同海峡は世界原油輸送の約30%を担う戦略的に重要な水域であり、その通行障害の解除は供給リスク低下を意味する。増産発表は市場で予想を上回るシグナルであり、原油価格への下押し圧力が生じる可能性が高い。"
   }
 ]
