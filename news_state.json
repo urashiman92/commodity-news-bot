@@ -1,71 +1,5 @@
 [
   {
-    "title": "商品市場：赤字が優勢で、天然ガスと小麦の価格は底値をつけた。 - Vietnam.vn",
-    "timestamp": "2026-10-22T06:01:26+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "天然ガスと小麦の価格が底値圏にあるとの市場解説。商品市場全体が売り圧力に直面している状況を反映。既に下落基調が織り込まれている段階の報道。"
-  },
-  {
-    "title": "商品市場：天然ガスと小麦の価格がともに底値をつけた。 - Vietnam.vn",
-    "timestamp": "2026-10-22T07:12:38+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "天然ガスと小麦の価格がともに底値をつけた。供給圧力と需要減が相場を押し下げている。短期的な弱気相場が続く可能性。"
-  },
-  {
-    "title": "10月22日の金価格：世界的な価格は引き続き下落、国内価格は横ばい。 - Vietnam.vn",
-    "timestamp": "2026-10-22T07:39:58+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月22日の金価格は世界的には下落が続いている。国内（ベトナム）価格は横ばいで推移。既存トレンドの継続観測。"
-  },
-  {
-    "title": "本日、原油価格が再び最高値を更新。トランプ氏はインフレが大好きだ！ - Moomoo",
-    "timestamp": "2026-10-22T07:49:59+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が最高値を更新したとの報道。タイトルはトランプ氏の政策観測を含む主観的解説。既に織り込まれた価格上昇の事後評論。"
-  },
-  {
-    "title": "日経平均1500円安、原油先物が99ドル台に急伸 韓国株一段安 - みんかぶ FX/為替",
-    "timestamp": "2026-10-22T05:24:28+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が99ドル台に急伸し、同時に日経平均が1500円安となるなど、リスク回避の動きが見られた。供給懸念や地政学的リスク、またはテクニカルな反発の可能性が示唆されている。"
-  },
-  {
-    "title": "日経平均1500円安、原油先物が99ドル台に急伸 韓国株一段安 - 株探",
-    "timestamp": "2026-10-22T05:33:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が99ドル台に上昇し、同時に日経平均が1500円安となった。韓国株も下落。リスク資産と原油の相関変動を示唆する市場動き。"
-  },
-  {
     "title": "売られ過ぎのRSIと売り圧力がせめぎ合うなか、カンザスシティ小麦価格は回復するのか？ - Traders Union",
     "timestamp": "2026-10-22T12:40:48+00:00",
     "importance": 2,
@@ -75,50 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "カンザスシティ小麦はRSIの売られ過ぎ水準と売り圧力のせめぎ合いにある。技術的な反発の可能性が指摘されているが、ファンダメンタルズの改善は限定的。価格回復の持続性については不透明な状況。"
-  },
-  {
-    "title": "2026年10月22日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-22T09:00:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。金市場に直接的な関連性はなく、日本株先物市場の取引環境に関する情報提供。"
-  },
-  {
-    "title": "金相場の下値を支える2つの要因～東海東京 - TradingView",
-    "timestamp": "2026-10-22T07:58:06+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場の下値を支える2つの要因について東海東京が解説。具体的な要因は記事概要では不明だが、現在の金相場の支持水準に関する分析記事と考えられる。"
-  },
-  {
-    "title": "ブラックロック、債券市場の「不健全」シグナルに警鐘 金価格の長期的上昇基調は不変と主張 - BigGo ファイナンス",
-    "timestamp": "2026-10-22T09:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ブラックロックが債券市場の不健全なシグナルを警告。同時に金の長期上昇基調は変わらないとの見解を表明。マクロ経済の不均衡が金の支持材料となる可能性を指摘。"
-  },
-  {
-    "title": "金価格と米ドル価格はともに急落した。 - Vietnam.vn",
-    "timestamp": "2026-10-22T09:20:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格と米ドルが同時に急落した。通常、両者は逆相関関係にあるため、この同時下落は異例の動きである。背景となる経済要因の詳細は記事概要から不明。"
   },
   {
     "title": "世界の金価格が2週間以上ぶりの安値に下落 - Laodong.vn",
@@ -152,39 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "メタプラットフォームズが好調な業績を背景にAI関連設備投資を増額する計画を発表。データセンター拡張に伴う電力需要増加が、原油価格の上昇要因として報じられている。"
-  },
-  {
-    "title": "アジア市場の売りが深刻化、原油価格上昇。ビットコイン（BTC）価格は82,000ドルに下落 - CoinDesk",
-    "timestamp": "2026-10-22T08:49:08+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アジア市場での売圧が強まる中、原油価格は上昇。ただしビットコイン下落の記載から、リスク資産全般の売却圧力を反映した相場環境。"
-  },
-  {
-    "title": "フーシ派の新たな攻撃で原油価格が1ドル以上上昇 - アラブニュース",
-    "timestamp": "2026-10-22T09:12:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派による新たな攻撃が報告され、原油価格が1ドル以上上昇。紅海での地政学的緊張が継続している状況。市場はこの地域の不安定性をすでに織り込みつつある。"
-  },
-  {
-    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報 - Yahoo!ファイナンス",
-    "timestamp": "2026-10-22T08:23:49+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Yahoo!ファイナンスのWTI原油価格連動型上場投信【1671】の株価情報ページへのリンク。具体的な価格変動やニュース内容の詳細は記載されていない。"
   },
   {
     "title": "10月22日の夜、金と銀の価格が同時に売り浴びせに見舞われた。 - Vietnam.vn",
@@ -284,17 +141,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金採掘企業が金価格下落の影響を受け、第3四半期決算に圧力がかかっている状況の報道。採掘企業の収益性悪化が見込まれる。"
-  },
-  {
-    "title": "金相場、落胆しないで！曙光が見えてきます！🚀📈 - Moomoo",
-    "timestamp": "2026-10-22T07:47:19+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場の下落局面に対する強気解説記事。市場心理の改善や上昇の兆しを指摘している。具体的なファンダメンタルズ根拠は記事タイトルからは不明。"
   },
   {
     "title": "原油先物4％高、5カ月ぶり高値 サウジ攻撃で供給懸念 - Reuters",
@@ -1835,5 +1681,93 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が最高値圏で推移する中、精錬所の減産検討が報じられている。供給サイドのボトルネックは銅精鉱不足にあり、需給ひっ迫が続いている。"
+  },
+  {
+    "title": "金価格の下落予測、米金利上昇で金相場はさらに下がるのか - EBC Financial Group",
+    "timestamp": "2026-10-25T04:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米金利上昇に伴う金価格の下落予測に関する解説記事。金は利息を生まない資産のため、金利上昇環境では相対的に魅力が低下する。既知のメカニズムであり市場では織り込まれつつある見方。"
+  },
+  {
+    "title": "遅延？リファスタ｜10/24 土 月曜金価格予想21,920円(▲135円)｜杉兼太朗 - JIJICO",
+    "timestamp": "2026-10-25T03:23:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリスト杉兼太朗による月曜の金価格予想。予想値は21,920円で前営業日比+135円。相場展望の一種の定期コメント。"
+  },
+  {
+    "title": "本日10月25日の金価格：専門家は下落傾向を予測している。 - Vietnam.vn",
+    "timestamp": "2026-10-25T03:51:19+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格に関する記事で、専門家が金相場の下落傾向を予測している。既存の相場観の解説・観測レベルの内容と考えられる。"
+  },
+  {
+    "title": "今週の金価格（10月19日～24日）：世界の金価格は大幅な下落圧力にさらされている。 - Vietnam.vn",
+    "timestamp": "2026-10-25T06:04:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月19日～24日の週間で金価格が大幅な下落圧力に直面している。この記事は相場の振り返りと現況解説であり、既に発生した値動きの事後的な分析と見受けられる。コモディティ投資家にとって既知の情報。"
+  },
+  {
+    "title": "$ブレント先物(2612) (BZmain.US)$$WTI 原油先物(2612) (CLmain.US)$ イランは譲歩の準備か？合意はどこにある - Moomoo",
+    "timestamp": "2026-10-25T00:39:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランが核合意交渉で譲歩の可能性が報じられている。イラン制裁緩和が実現すれば、供給増加により原油価格は下押し要因となる。ただし交渉の進展状況は不確実性が高い。"
+  },
+  {
+    "title": "本日の燃料価格（10月25日）：世界の原油価格は今週急騰した。 - Vietnam.vn",
+    "timestamp": "2026-10-25T03:50:53+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ベトナムの燃料価格ニュースで、世界原油価格が今週急騰したことを報じている。具体的な上昇要因や価格水準の情報は限定的。市場動向の振り返り記事と考えられる。"
+  },
+  {
+    "title": "本日10月7日の株式市場：原油価格と利回りが再び上昇し、欧州株を押し下げる。ミラノ株は銀行株とハイテク株の下落で特に大きな打撃を受けた。 - www.firstonline.info",
+    "timestamp": "2026-10-25T06:37:21+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月7日の市場で原油価格と利回りが再び上昇し、欧州株を押し下げた。ミラノ株は銀行株とハイテク株の下落で特に大きな打撃を受けた。"
+  },
+  {
+    "title": "WTI 原油先物(2612)のリアルタイムチャート - Moomoo",
+    "timestamp": "2026-10-24T20:56:22+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "MoomooプラットフォームによるWTI原油先物のリアルタイムチャート表示に関するニュース。具体的な価格変動や市場材料の記載がない。単なるツール紹介・プラットフォーム情報の可能性が高い。"
   }
 ]
