@@ -1,82 +1,5 @@
 [
   {
-    "title": "Oil prices rise more than 1% as supply concerns linger - Reuters",
-    "timestamp": "2026-10-23T01:04:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格が1%以上上昇した。供給懸念が継続していることが上昇を支えている。具体的な数値や新規ニュースは記事抜粋に含まれていない。市場予想との比較情報がないため、サプライズ度の判断が困難。"
-  },
-  {
-    "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains - Bloomberg.com",
-    "timestamp": "2026-10-23T01:23:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株式市場の売却に連動して韓国株が下落し、特に半導体セクターが打撃を受けた。一方、原油は上昇を示しており、リスクオフ環境下での資産配分の変動が観察される。米国発の広範な株式調整がコモディティ市場にも波及している状況。"
-  },
-  {
-    "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains - Bloomberg.com",
-    "timestamp": "2026-10-23T01:23:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株式市場の売却に連動して韓国株が下落し、特に半導体セクターが打撃を受けた。一方、原油は上昇を示しており、リスクオフ環境下での資産配分の変動が観察される。米国発の広範な株式調整がコモディティ市場にも波及している状況。"
-  },
-  {
-    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-23T05:59:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
-  },
-  {
-    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-23T05:59:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
-  },
-  {
-    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-23T05:59:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
-  },
-  {
-    "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-23T05:59:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "アジア株式市場がテック企業の下落に連動して売却されるなか、債券が買われている。この動きはリスク回避ムードを示唆しており、金などの安全資産は恩恵を受ける一方、景気循環関連商品（原油・銅など）への下落圧力が高まる可能性がある。ドル強化も連動する可能性があり、全商品に複雑な影響。"
-  },
-  {
     "title": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters",
     "timestamp": "2026-10-23T11:59:43+00:00",
     "importance": 3,
@@ -427,5 +350,126 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "米国中西部のトウモロコシ収量が予想を上回ったと報告されている。ただし圃場間の収量差（Field-to-Field Variability）が依然として大きく、地域別・農場別のばらつきが懸念材料として残存。生産量増加は供給過剰圧力として機能する一方、品質や実現可能性の不確実性が相殺する。"
+  },
+  {
+    "title": "USDA adjusts old crop ending stocks estimates, issues new crop guesses - Brownfield Ag News",
+    "timestamp": "2026-10-25T14:31:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが旧作年度の期末在庫推定値を調整し、新作年度の予測値を発表した。穀物市場における需給バランスの更新が行われたもので、調整内容によっては各穀物の価格見通しが変わる可能性がある。具体的な在庫数字や生産量の詳細は記事本文で確認が必要。"
+  },
+  {
+    "title": "USDA adjusts old crop ending stocks estimates, issues new crop guesses - Brownfield Ag News",
+    "timestamp": "2026-10-25T14:31:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが旧作年度の期末在庫推定値を調整し、新作年度の予測値を発表した。穀物市場における需給バランスの更新が行われたもので、調整内容によっては各穀物の価格見通しが変わる可能性がある。具体的な在庫数字や生産量の詳細は記事本文で確認が必要。"
+  },
+  {
+    "title": "USDA adjusts old crop ending stocks estimates, issues new crop guesses - Brownfield Ag News",
+    "timestamp": "2026-10-25T14:31:33+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが旧作年度の期末在庫推定値を調整し、新作年度の予測値を発表した。穀物市場における需給バランスの更新が行われたもので、調整内容によっては各穀物の価格見通しが変わる可能性がある。具体的な在庫数字や生産量の詳細は記事本文で確認が必要。"
+  },
+  {
+    "title": "Good weather allows sunflower harvest to progress - AgUpdate",
+    "timestamp": "2026-10-24T11:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国のヒマワリ収穫が良好な天候に恵まれて進捗している。Crop Progress報告による定例の作物進捗更新。ヒマワリは大豆油やヒマワリ油の主要原料であり、収穫進捗の加速は供給増加見通しをサポート。通常の季節的な進捗報告の範囲内。"
+  },
+  {
+    "title": "Good weather allows sunflower harvest to progress - AgUpdate",
+    "timestamp": "2026-10-24T11:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国のヒマワリ収穫が良好な天候に恵まれて進捗している。Crop Progress報告による定例の作物進捗更新。ヒマワリは大豆油やヒマワリ油の主要原料であり、収穫進捗の加速は供給増加見通しをサポート。通常の季節的な進捗報告の範囲内。"
+  },
+  {
+    "title": "Saudi Arabia to store oil in Singapore to bolster Asia supply security - Reuters",
+    "timestamp": "2026-10-26T01:47:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがシンガポールに石油備蓄施設を建設し、アジア地域のエネルギー供給安定化を図る。戦略的備蓄の増加により、中東から主要消費地アジアへの供給チェーン強化と価格下支え効果が期待される。"
+  },
+  {
+    "title": "Houthis say they attacked East-West oil pumping stations; No Saudi confirmation - Reuters",
+    "timestamp": "2026-10-26T03:48:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派がイエメンの東西間石油パイプライン施設への攻撃を宣言。サウジアラビアによる公式確認はまだないが、中東の重要インフラ施設への攻撃はサプライズ度が高い。紅海経由の石油供給リスク再燃により、原油価格の上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "Singapore to Store Saudi Oil in Underground Caverns From 2027 - Bloomberg.com",
+    "timestamp": "2026-10-26T02:32:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "シンガポールが2027年からサウジアラビア産原油を地下洞窟に貯蔵する計画を発表。これは戦略的在庫能力の拡大を意味し、中東産油国とシンガポール間の石油流通インフラの強化を示唆している。短期的には需給に直接影響は限定的だが、アジア地域の石油備蓄体制の整備を反映。"
+  },
+  {
+    "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting - Bloomberg.com",
+    "timestamp": "2026-10-26T03:52:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅相場が下落を続けている。AI関連株の動向がコモディティ投資家のリスク選好度を冷やしており、FOMC開催を控えた警戒感が広がっている。金融引き締め懸念が金属需要見通しに悪影響を与えている。"
+  },
+  {
+    "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting - Bloomberg.com",
+    "timestamp": "2026-10-26T03:52:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "銅相場が下落を続けている。AI関連株の動向がコモディティ投資家のリスク選好度を冷やしており、FOMC開催を控えた警戒感が広がっている。金融引き締め懸念が金属需要見通しに悪影響を与えている。"
+  },
+  {
+    "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting - Bloomberg.com",
+    "timestamp": "2026-10-26T03:52:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "銅相場が下落を続けている。AI関連株の動向がコモディティ投資家のリスク選好度を冷やしており、FOMC開催を控えた警戒感が広がっている。金融引き締め懸念が金属需要見通しに悪影響を与えている。"
   }
 ]
