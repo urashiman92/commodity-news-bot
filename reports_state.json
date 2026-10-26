@@ -1,82 +1,5 @@
 [
   {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-10-22T22:21:49.853586+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSの公式発表で、商業的赤肉生産が前年同期比4%低下した。これは食肉処理頭数の減少を意味し、畜産飼料であるトウモロコシ・大豆の需要低下につながる。供給制約というより需要サイドの弱さが反映されている。"
-  },
-  {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-10-22T22:21:49.853586+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSの公式発表で、商業的赤肉生産が前年同期比4%低下した。これは食肉処理頭数の減少を意味し、畜産飼料であるトウモロコシ・大豆の需要低下につながる。供給制約というより需要サイドの弱さが反映されている。"
-  },
-  {
-    "title": "Livestock Slaughter",
-    "timestamp": "2026-10-22T22:21:49.853586+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSの公式発表で、商業的赤肉生産が前年同期比4%低下した。これは食肉処理頭数の減少を意味し、畜産飼料であるトウモロコシ・大豆の需要低下につながる。供給制約というより需要サイドの弱さが反映されている。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-10-22T22:21:54.188586+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-10-22T22:21:54.188586+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-10-22T22:21:54.188586+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSが9月の米国主要24州の牛乳生産量を発表。生産量は187億ポンドで前年同月比2.7%の増加。乳製品関連のコモディティおよび飼料需要に対する緩いポジティブシグナルだが、市場予想の範囲内の数値。"
-  },
-  {
-    "title": "Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks - Bloomberg.com",
-    "timestamp": "2026-10-23T00:02:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアへの攻撃により供給リスクが顕在化し、原油が週間で最大の上昇を記録した。地政学的緊張の高まりがエネルギー市場に直結し、供給途絶への懸念が価格を押し上げている。OPEC最大産油国への攻撃は供給サイドの不確実性を大幅に増加させる要因。"
-  },
-  {
     "title": "Oil prices rise more than 1% as supply concerns linger - Reuters",
     "timestamp": "2026-10-23T01:04:00+00:00",
     "importance": 2,
@@ -86,17 +9,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "原油価格が1%以上上昇した。供給懸念が継続していることが上昇を支えている。具体的な数値や新規ニュースは記事抜粋に含まれていない。市場予想との比較情報がないため、サプライズ度の判断が困難。"
-  },
-  {
-    "title": "Newmont beats quarterly profit estimates on higher gold prices, Cadia recovery - Reuters",
-    "timestamp": "2026-10-22T22:17:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "Newmontが四半期利益で市場予想を上回った。金価格の上昇とCadia鉱山の生産回復が主な要因。Cadia鉱山は同社の主要生産拠点であり、その稼働正常化は供給不安を緩和する。金価格の上昇環境が継続している一方、予想範囲内の結果。"
   },
   {
     "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains - Bloomberg.com",
@@ -473,28 +385,6 @@
     "summary": "OPEC+がホルムズ海峡の再開時に原油増産を行うことで合意した。同海峡は世界原油輸送の約30%を担う戦略的に重要な水域であり、その通行障害の解除は供給リスク低下を意味する。増産発表は市場で予想を上回るシグナルであり、原油価格への下押し圧力が生じる可能性が高い。"
   },
   {
-    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow",
-    "timestamp": "2026-10-22T21:59:10+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "トランプ前大統領がOPECの協調減産体制を破壊した可能性があるという論考。OPEC結束の弱体化により、原油市場の価格支持メカニズムが機能不全に陥りうる。これは一見、原油安圧力に見えるが、統制不全によるボラティリティ上昇と地政学リスク顕在化が同時に起こる懸念がある。"
-  },
-  {
-    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow",
-    "timestamp": "2026-10-22T21:59:10+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ前大統領がOPECの協調減産体制を破壊した可能性があるという論考。OPEC結束の弱体化により、原油市場の価格支持メカニズムが機能不全に陥りうる。これは一見、原油安圧力に見えるが、統制不全によるボラティリティ上昇と地政学リスク顕在化が同時に起こる懸念がある。"
-  },
-  {
     "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
     "timestamp": "2026-10-23T13:13:18+00:00",
     "importance": 3,
@@ -526,5 +416,16 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAの週間統計で、米国原油在庫が前週比で減少したことが報告された。これは製油所の稼働率向上に伴う原油処理量の増加が主因。需要サイドの改善を示唆する好材料だが、在庫水準の絶対値や前年同期比の詳細データは報告されていない。"
+  },
+  {
+    "title": "Midwest Corn Yields Beat Expectations, but Field-to-Field Variability Remains High - RFD-TV",
+    "timestamp": "2026-10-23T21:47:08+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国中西部のトウモロコシ収量が予想を上回ったと報告されている。ただし圃場間の収量差（Field-to-Field Variability）が依然として大きく、地域別・農場別のばらつきが懸念材料として残存。生産量増加は供給過剰圧力として機能する一方、品質や実現可能性の不確実性が相殺する。"
   }
 ]
