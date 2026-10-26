@@ -1,104 +1,5 @@
 [
   {
-    "title": "Russian ESPO oil sellers seek record premiums as Gulf exports uncertain - Reuters",
-    "timestamp": "2026-10-23T11:59:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアESPO原油の売り手が過去最高水準のプレミアムを要求。湾岸地域からの輸出不確実性を背景に、供給逼迫への懸念が高まっている。ロシア産原油の代替性向上とスポット需給の引き締まりが価格プレミアムの上昇を牽引。"
-  },
-  {
-    "title": "Bridgewater China Cut Gold and Is ‘Optimistic’ on Local Stocks - Bloomberg.com",
-    "timestamp": "2026-10-23T06:53:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "大手ヘッジファンドBridgewaterが中国の金保有を削減し、地元株式に対して楽観的との報道。金の売却シグナルである一方、中国経済への前向き見通しを示唆。同時期の中国経済減速懸念に対する逆張り的ポジション変更と解釈できる。"
-  },
-  {
-    "title": "Bridgewater China Cut Gold and Is ‘Optimistic’ on Local Stocks - Bloomberg.com",
-    "timestamp": "2026-10-23T06:53:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "大手ヘッジファンドBridgewaterが中国の金保有を削減し、地元株式に対して楽観的との報道。金の売却シグナルである一方、中国経済への前向き見通しを示唆。同時期の中国経済減速懸念に対する逆張り的ポジション変更と解釈できる。"
-  },
-  {
-    "title": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com",
-    "timestamp": "2026-10-23T06:28:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "小麦",
-    "summary": "ロシアがウクライナ情勢の影響下でも小麦輸出を維持するため、紛争地域からの穀物流出ルートを確保している。地政学的リスク下での供給継続は、市場が懸念していた「ロシア小麦の完全途絶」シナリオを回避させ、小麦価格の過度な上昇圧力を緩和する可能性がある。"
-  },
-  {
-    "title": "Farm Programs & Ag Insights: USDA Reports Surprise The Grain Markets - TheLandOnline",
-    "timestamp": "2026-10-23T08:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDEレポートが穀物市場にサプライズをもたらしたとされている。具体的な作付面積・生産量・在庫予想の変更内容が不明だが、市場参加者の予想から乖離した数字が示唆されている。穀物複合商品全般への価格影響が想定される。"
-  },
-  {
-    "title": "Farm Programs & Ag Insights: USDA Reports Surprise The Grain Markets - TheLandOnline",
-    "timestamp": "2026-10-23T08:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDA WASDEレポートが穀物市場にサプライズをもたらしたとされている。具体的な作付面積・生産量・在庫予想の変更内容が不明だが、市場参加者の予想から乖離した数字が示唆されている。穀物複合商品全般への価格影響が想定される。"
-  },
-  {
-    "title": "Farm Programs & Ag Insights: USDA Reports Surprise The Grain Markets - TheLandOnline",
-    "timestamp": "2026-10-23T08:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDEレポートが穀物市場にサプライズをもたらしたとされている。具体的な作付面積・生産量・在庫予想の変更内容が不明だが、市場参加者の予想から乖離した数字が示唆されている。穀物複合商品全般への価格影響が想定される。"
-  },
-  {
-    "title": "USW crop quality report kicks off global seminars - World Grain",
-    "timestamp": "2026-10-23T12:45:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USW（米国小麦協会）が穀物品質レポートに関するグローバルセミナーを開始した。このセミナーシリーズは世界的な穀物市場参加者を対象とした啓発活動であり、米国産小麦の品質情報を発信するものと考えられる。定期的な業界啓発活動として市場への直接的な価格インパクトは限定的。"
-  },
-  {
-    "title": "USW crop quality report kicks off global seminars - World Grain",
-    "timestamp": "2026-10-23T12:45:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USW（米国小麦協会）が穀物品質レポートに関するグローバルセミナーを開始した。このセミナーシリーズは世界的な穀物市場参加者を対象とした啓発活動であり、米国産小麦の品質情報を発信するものと考えられる。定期的な業界啓発活動として市場への直接的な価格インパクトは限定的。"
-  },
-  {
     "title": "Copper Market Alarm Sounds: Long-Term Shortage From 2028, Gap Could Reach 44% of Demand by 2050 - BigGo Finance",
     "timestamp": "2026-10-23T14:25:00+00:00",
     "importance": 5,
@@ -130,28 +31,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "2026年9月30日時点の冷蔵庫保管ナチュラルチーズ在庫は、前月比1%減少したが、前年同期比では2%増加した。在庫変動は小幅で、季節変動の範囲内と考えられる。乳製品市場における供給バランスの継続的な監視が必要。"
-  },
-  {
-    "title": "China calls on oil, gas firms to boost output, build strategic supply bases - Reuters",
-    "timestamp": "2026-10-23T13:25:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国政府が国内の石油・ガス企業に対し、生産量の増加と戦略的供給基地の構築を呼びかけた。エネルギー安全保障の強化と供給逼迫への対応が背景。中国の需要堅調を背景にした政策的シグナルだが、実行までには時間を要する見通し。"
-  },
-  {
-    "title": "China calls on oil, gas firms to boost output, build strategic supply bases - Reuters",
-    "timestamp": "2026-10-23T13:25:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国政府が国内の石油・ガス企業に対し、生産量の増加と戦略的供給基地の構築を呼びかけた。エネルギー安全保障の強化と供給逼迫への対応が背景。中国の需要堅調を背景にした政策的シグナルだが、実行までには時間を要する見通し。"
   },
   {
     "title": "London stocks mark weekly fall as oil hits five-month high ahead of budget - Reuters",
@@ -198,39 +77,6 @@
     "summary": "OPEC+は日曜日の会合で原油生産目標を現状維持することを決定する見込み。減産も増産も実施しない方針であり、市場はこの結果をほぼ織り込み済み。現在の供給バランスが安定していることを示唆している。"
   },
   {
-    "title": "Harvest progress pressures grain market despite strong demand - Agweek",
-    "timestamp": "2026-10-23T11:13:41+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "穀物の収穫進捗が市場に下押し圧力をかけている。収穫の加速に伴い供給増加懸念が強まっており、強い需要が存在するにもかかわらず価格上昇を抑制している状況。典型的な収穫期の季節的供給圧力が価格動向を支配している。"
-  },
-  {
-    "title": "Harvest progress pressures grain market despite strong demand - Agweek",
-    "timestamp": "2026-10-23T11:13:41+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "穀物の収穫進捗が市場に下押し圧力をかけている。収穫の加速に伴い供給増加懸念が強まっており、強い需要が存在するにもかかわらず価格上昇を抑制している状況。典型的な収穫期の季節的供給圧力が価格動向を支配している。"
-  },
-  {
-    "title": "Harvest progress pressures grain market despite strong demand - Agweek",
-    "timestamp": "2026-10-23T11:13:41+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "穀物の収穫進捗が市場に下押し圧力をかけている。収穫の加速に伴い供給増加懸念が強まっており、強い需要が存在するにもかかわらず価格上昇を抑制している状況。典型的な収穫期の季節的供給圧力が価格動向を支配している。"
-  },
-  {
     "title": "Saudi Arabia Crude Exports Fall to Three Month Low in December - EnergyNow.com",
     "timestamp": "2026-10-24T06:38:55+00:00",
     "importance": 3,
@@ -264,17 +110,6 @@
     "summary": "サウジアラビアが30年ぶりの低水準から原油生産を回復させていることが報告された。一方、OPECは2026年の需要成長見通しを従来の半分に下方修正。生産回復と需要減速見通しの相反する要因が混在しており、市場心理は不透明。"
   },
   {
-    "title": "EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows - Reuters",
-    "timestamp": "2026-10-23T11:33:14+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "プーチン・トランプ間の取引によりロシア産ディーゼルが初めて米国向けに出荷される見込み。データが確認。米国によるロシア原油産品の輸入禁止政策の実質的な転換を示唆し、地政学的緊張の緩和とロシア産品の供給増加で原油価格下落圧力が強まる可能性がある。"
-  },
-  {
     "title": "The Americas Are the New Oil Growth Engine: +1.66 Million Barrels a Day in 2026 as OPEC Output Falls 5.4 Million - Energy News Beat",
     "timestamp": "2026-10-24T23:49:22+00:00",
     "importance": 4,
@@ -286,17 +121,6 @@
     "summary": "2026年に米州地域の原油生産が日量166万バレル増加する一方、OPEC加盟国の生産は日量540万バレル減少する見通し。米州がOPEC減産を相殺し、グローバルな供給バランスの再編が進行中。OPEC減産政策の市場シェア喪失を示唆する内容。"
   },
   {
-    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
-    "timestamp": "2026-10-23T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の定例会合で原油生産目標を据え置く予定。市場では既にこの結果が織り込まれており、大きなサプライズは予想されていない。現在の減産合意の継続が見込まれている。"
-  },
-  {
     "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow.com",
     "timestamp": "2026-10-24T09:27:28+00:00",
     "importance": 4,
@@ -306,17 +130,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+がホルムズ海峡の再開時に原油増産を行うことで合意した。同海峡は世界原油輸送の約30%を担う戦略的に重要な水域であり、その通行障害の解除は供給リスク低下を意味する。増産発表は市場で予想を上回るシグナルであり、原油価格への下押し圧力が生じる可能性が高い。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-10-23T13:13:18+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長予測を再び引き下げた。需要伸び率の低下は、電動車普及の加速やエネルギー効率改善、経済成長鈍化への懸念を反映している。複数回の下方修正は需給バランスの弱気シナリオを示唆。"
   },
   {
     "title": "Cold Storage",
@@ -471,5 +284,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "銅相場が下落を続けている。AI関連株の動向がコモディティ投資家のリスク選好度を冷やしており、FOMC開催を控えた警戒感が広がっている。金融引き締め懸念が金属需要見通しに悪影響を与えている。"
+  },
+  {
+    "title": "Corn yields may be short of estimates - FarmWeekNow",
+    "timestamp": "2026-10-26T06:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国のトウモロコシ収穫期の進捗報告で、実際の収量が事前予想を下回る可能性が指摘されている。Crop Progress等の定期統計との乖離が示唆されており、USDA推定値の下方修正につながる可能性がある。供給削減見通しがトウモロコシ価格の上昇圧力となる。"
+  },
+  {
+    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
+    "timestamp": "2026-10-25T23:05:23+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストBoussoが、ホルムズ海峡の再開通がOPECの原油市場支配力を弱める可能性を指摘。同海峡の緊張緩和と通航再開は、OPECの減産による価格支持メカニズムの有効性を低下させる懸念を提示。市場の供給過剰シナリオへの警戒感が高まる。"
+  },
+  {
+    "title": "Russia’s War on Ukraine Is Straining Food and Fuel Supply - Bloomberg.com",
+    "timestamp": "2026-10-26T05:02:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシアのウクライナ侵攻により、食料とエネルギー供給が大きく逼迫している。ロシアとウクライナは世界の小麦供給量の約30%、原油・天然ガス供給の大部分を占めており、戦争による供給遮断リスクが急速に高まっている。国際市場では穀物と石油製品の価格上昇圧力が強まっている。"
+  },
+  {
+    "title": "Russia’s War on Ukraine Is Straining Food and Fuel Supply - Bloomberg.com",
+    "timestamp": "2026-10-26T05:02:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのウクライナ侵攻により、食料とエネルギー供給が大きく逼迫している。ロシアとウクライナは世界の小麦供給量の約30%、原油・天然ガス供給の大部分を占めており、戦争による供給遮断リスクが急速に高まっている。国際市場では穀物と石油製品の価格上昇圧力が強まっている。"
+  },
+  {
+    "title": "Russia’s War on Ukraine Is Straining Food and Fuel Supply - Bloomberg.com",
+    "timestamp": "2026-10-26T05:02:49+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアのウクライナ侵攻により、食料とエネルギー供給が大きく逼迫している。ロシアとウクライナは世界の小麦供給量の約30%、原油・天然ガス供給の大部分を占めており、戦争による供給遮断リスクが急速に高まっている。国際市場では穀物と石油製品の価格上昇圧力が強まっている。"
   }
 ]
