@@ -1,27 +1,5 @@
 [
   {
-    "title": "Copper Market Alarm Sounds: Long-Term Shortage From 2028, Gap Could Reach 44% of Demand by 2050 - BigGo Finance",
-    "timestamp": "2026-10-23T14:25:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅市場に長期的な供給不足警告が発出された。2028年から本格的な不足が始まり、2050年までに需要の44%に相当するギャップが生じる可能性がある。電動車やエネルギー転換に伴う需要急増に対し、鉱山開発が追いつかない構図が深刻化する見込み。"
-  },
-  {
-    "title": "Copper Market Alarm Sounds: Long-Term Shortage From 2028, Gap Could Reach 44% of Demand by 2050 - BigGo Finance",
-    "timestamp": "2026-10-23T14:25:00+00:00",
-    "importance": 5,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅市場に長期的な供給不足警告が発出された。2028年から本格的な不足が始まり、2050年までに需要の44%に相当するギャップが生じる可能性がある。電動車やエネルギー転換に伴う需要急増に対し、鉱山開発が追いつかない構図が深刻化する見込み。"
-  },
-  {
     "title": "Cold Storage",
     "timestamp": "2026-10-23T22:13:45.008221+00:00",
     "importance": 2,
@@ -31,39 +9,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "2026年9月30日時点の冷蔵庫保管ナチュラルチーズ在庫は、前月比1%減少したが、前年同期比では2%増加した。在庫変動は小幅で、季節変動の範囲内と考えられる。乳製品市場における供給バランスの継続的な監視が必要。"
-  },
-  {
-    "title": "London stocks mark weekly fall as oil hits five-month high ahead of budget - Reuters",
-    "timestamp": "2026-10-23T16:45:50+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロンドン株式市場が週間で下落する中、原油は5ヶ月ぶりの高値を更新した。英国の予算案発表を控えた市場の警戒感がリスク資産を圧迫する一方、原油市場は独立して堅調に推移。エネルギーセクターと他セクターの乖離が顕著。"
-  },
-  {
-    "title": "London stocks mark weekly fall as oil hits five-month high ahead of budget - Reuters",
-    "timestamp": "2026-10-23T16:45:50+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロンドン株式市場が週間で下落する中、原油は5ヶ月ぶりの高値を更新した。英国の予算案発表を控えた市場の警戒感がリスク資産を圧迫する一方、原油市場は独立して堅調に推移。エネルギーセクターと他セクターの乖離が顕著。"
-  },
-  {
-    "title": "Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks - Bloomberg.com",
-    "timestamp": "2026-10-23T19:35:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアへの攻撃により供給リスクが高まり、原油は週間ベースで最大の上昇を記録した。地政学的な緊張の高まりが中東産油国の供給途絶懸念を生じさせ、市場心理が悪化。サプライチェーンの脆弱性が再認識され、投資家のリスク回避姿勢から買い圧力が強まった。"
   },
   {
     "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
@@ -339,5 +284,247 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアのウクライナ侵攻により、食料とエネルギー供給が大きく逼迫している。ロシアとウクライナは世界の小麦供給量の約30%、原油・天然ガス供給の大部分を占めており、戦争による供給遮断リスクが急速に高まっている。国際市場では穀物と石油製品の価格上昇圧力が強まっている。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-26T20:30:51.278994+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-26T20:30:51.278994+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-26T20:30:51.278994+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-10-26T20:30:51.278994+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
+  },
+  {
+    "title": "Arable Market Report – 26 October 2026 - AHDB",
+    "timestamp": "2026-10-26T16:41:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "AHDB穀物市場レポート（2026年10月26日）。英国および欧州の穀物市場の定期的な状況更新と見込み値の報告。具体的な数値・予想修正の詳細が提供元リンクのため、レポート本体へのアクセスなしに内容判断が不可能。"
+  },
+  {
+    "title": "Arable Market Report – 26 October 2026 - AHDB",
+    "timestamp": "2026-10-26T16:41:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "AHDB穀物市場レポート（2026年10月26日）。英国および欧州の穀物市場の定期的な状況更新と見込み値の報告。具体的な数値・予想修正の詳細が提供元リンクのため、レポート本体へのアクセスなしに内容判断が不可能。"
+  },
+  {
+    "title": "Arable Market Report – 26 October 2026 - AHDB",
+    "timestamp": "2026-10-26T16:41:03+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "AHDB穀物市場レポート（2026年10月26日）。英国および欧州の穀物市場の定期的な状況更新と見込み値の報告。具体的な数値・予想修正の詳細が提供元リンクのため、レポート本体へのアクセスなしに内容判断が不可能。"
+  },
+  {
+    "title": "USDA Corn Data Error Shakes Confidence in 2026 Crop Forecasts - AgroLatam",
+    "timestamp": "2026-10-26T17:08:42+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAのトウモロコシデータに重大な誤りが発見され、2026年度の作物予測に対する市場の信頼性が大きく損なわれた。統計信頼性の喪失は穀物市場全体のボラティリティ上昇につながり、投資家のポジション調整を誘発。今後の公式統計発表に対する警戒感が急速に高まっている。"
+  },
+  {
+    "title": "USDA Corn Data Error Shakes Confidence in 2026 Crop Forecasts - AgroLatam",
+    "timestamp": "2026-10-26T17:08:42+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAのトウモロコシデータに重大な誤りが発見され、2026年度の作物予測に対する市場の信頼性が大きく損なわれた。統計信頼性の喪失は穀物市場全体のボラティリティ上昇につながり、投資家のポジション調整を誘発。今後の公式統計発表に対する警戒感が急速に高まっている。"
+  },
+  {
+    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
+    "timestamp": "2026-10-26T15:05:02+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの9月トウモロコシ生産予測に誤差が生じ、データ信頼性に対する懸念が浮上。予測エラーは市場参加者の意思決定に影響を与え、USDA統計の精度に疑問を投げかけている。トウモロコシ価格は下圧力を受ける可能性がある。"
+  },
+  {
+    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
+    "timestamp": "2026-10-26T15:05:02+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAの9月トウモロコシ生産予測に誤差が生じ、データ信頼性に対する懸念が浮上。予測エラーは市場参加者の意思決定に影響を与え、USDA統計の精度に疑問を投げかけている。トウモロコシ価格は下圧力を受ける可能性がある。"
+  },
+  {
+    "title": "USDA Under Fire Over September Corn Reporting Error - Yahoo",
+    "timestamp": "2026-10-26T13:47:52+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが9月のトウモロコシ作付進捗レポートで報告エラーを犯したことが批判の対象となっている。政府統計の信頼性低下は市場の価格発見メカニズムに�悪影響を及ぼし、農家やトレーダーの意思決定に支障をもたらす可能性がある。統計の修正・再検証が急務である。"
+  },
+  {
+    "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady - EnergyNow",
+    "timestamp": "2026-10-26T13:30:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が11月の石油生産目標を据え置くことに合意した。これは既に市場で織り込まれていた決定で、減産政策の継続を示唆している。供給面での大きな変化がないため、原油価格への直接的な上下圧力は限定的。"
+  },
+  {
+    "title": "World stocks gain ahead of 'formidable' week for risk; oil prices ease - Reuters",
+    "timestamp": "2026-10-26T00:46:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "世界株が上昇し、リスク選好が優位である一方、週間を控えた不確実性が市場に緊張をもたらしている。原油価格は小幅な後退を示し、エネルギー市場ではボラティリティが観察されている。金融市場の大型イベント（FOMC等）を控えた調整局面と判断される。"
+  },
+  {
+    "title": "World stocks gain ahead of 'formidable' week for risk; oil prices ease - Reuters",
+    "timestamp": "2026-10-26T00:46:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "世界株が上昇し、リスク選好が優位である一方、週間を控えた不確実性が市場に緊張をもたらしている。原油価格は小幅な後退を示し、エネルギー市場ではボラティリティが観察されている。金融市場の大型イベント（FOMC等）を控えた調整局面と判断される。"
+  },
+  {
+    "title": "Russian refiners ramp up diesel output after US deal, sources say - Reuters",
+    "timestamp": "2026-10-26T13:12:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国との取引後、ロシアの石油精製業者がディーゼル生産を増加させていることが明らかになった。これは対ロシア制裁の一部緩和または取引合意を反映したもの。ロシアディーゼル供給増加は欧州市場での供給圧力につながる可能性がある。"
+  },
+  {
+    "title": "Equities climb as Anthropic's IPO filing buoys AI stocks - Reuters",
+    "timestamp": "2026-10-26T18:37:31+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Anthropic（AI企業）のIPO申請がAI関連株を押し上げ、これに伴い株式市場全体が上昇している。ただしこのニュースはテクノロジー・成長株セクターに限定された影響であり、コモディティ市場への直接的な需給影響は限定的である。"
+  },
+  {
+    "title": "Gulf Oil Bargains Lure India Away From Russia as Freight Soars - Bloomberg.com",
+    "timestamp": "2026-10-26T11:37:41+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インドがロシア産原油からペルシャ湾産原油へシフトしている。運送費高騰にもかかわらず、湾岸産油国の割安感がロシア産を上回るようになった。この動きはアジア原油市場の需給構造と価格体系に変化をもたらす可能性を示唆している。"
+  },
+  {
+    "title": "Saudi Arabia’s Houthi Challenge Shifts Fears to Non-Oil Economy - Bloomberg.com",
+    "timestamp": "2026-10-26T15:17:18+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのフーシ派による攻撃懸念が石油供給リスクから非石油経済への影響にシフト。紅海・ホルムズ海峡の地政学的リスクは引き続き原油価格を下支えするが、同国の経済多角化政策（ビジョン2030）への脅威が増大。原油市場の緊張感は維持されつつも、地域経済全体への不安が高まる局面。"
+  },
+  {
+    "title": "Saudi Arabia’s Houthi Challenge Shifts Fears to Non-Oil Economy - Bloomberg.com",
+    "timestamp": "2026-10-26T15:17:18+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアのフーシ派による攻撃懸念が石油供給リスクから非石油経済への影響にシフト。紅海・ホルムズ海峡の地政学的リスクは引き続き原油価格を下支えするが、同国の経済多角化政策（ビジョン2030）への脅威が増大。原油市場の緊張感は維持されつつも、地域経済全体への不安が高まる局面。"
+  },
+  {
+    "title": "Saudi Aramco Nears Signing of $10 Billion Loan With Global Banks - Bloomberg.com",
+    "timestamp": "2026-10-26T13:37:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラムコが100億ドル規模の融資契約を複数の国際銀行と締結間近。供給投資能力の維持を示唆する資金調達だが、市場には既知情報。石油企業の資本調達は通常業務の範囲内で、即座の原油価格インパクトは限定的と予想される。"
+  },
+  {
+    "title": "Saudi Aramco Nears Signing of $10 Billion Loan With Global Banks - Bloomberg.com",
+    "timestamp": "2026-10-26T13:37:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラムコが100億ドル規模の融資契約を複数の国際銀行と締結間近。供給投資能力の維持を示唆する資金調達だが、市場には既知情報。石油企業の資本調達は通常業務の範囲内で、即座の原油価格インパクトは限定的と予想される。"
   }
 ]
