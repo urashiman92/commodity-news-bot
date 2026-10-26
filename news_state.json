@@ -1,71 +1,5 @@
 [
   {
-    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し4024ドル｜米国のイラン再攻撃計画が影響した模様(2026年10月23日) - OANDA証券",
-    "timestamp": "2026-10-22T23:08:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4024ドルまで下落。米国のイラン再攻撃計画が報道されたことで、地政学リスクプレミアムが一時的に剥落した可能性がある。通常、中東紛争激化は金の買い圧力となるが、今回は逆方向の値動きを示唆している。"
-  },
-  {
-    "title": "10月23日朝の金価格更新:金価格が大幅下落、大手銀行が楽観的な予測 - Laodong.vn",
-    "timestamp": "2026-10-22T23:10:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月23日朝時点で金価格が大幅に下落している。一方、大手銀行が金に対する楽観的な見通しを発表。短期的な価格調整と中期的な強気見通しが併存している。"
-  },
-  {
-    "title": "トランプ氏、イランが中間選挙前に原油価格を引き上げようとしていると発言 - アラブニュース",
-    "timestamp": "2026-10-22T23:59:31+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏がイランが中間選挙前に原油価格を意図的に引き上げようとしていると主張。政治的な発言で、市場への具体的なファンダメンタル変化は含まない。"
-  },
-  {
-    "title": "WTI原油見通し(市況ニュース)：フーシ派の攻撃激化が影響し、原油価格は4営業日ぶりに上昇（2026年10月23日） - OANDA証券",
-    "timestamp": "2026-10-22T23:17:16+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派による紅海での攻撃激化が継続し、原油価格が4営業日ぶりに上昇。地政学的リスクが相場を下支え。短期的なボラティリティ要因として機能している。"
-  },
-  {
-    "title": "２２日の主要国際商品市況 - 株探",
-    "timestamp": "2026-10-22T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "22日の主要国際商品市況の定期報道。具体的な価格動向や材料が記事本文なしでは判断できない。"
-  },
-  {
-    "title": "２２日の主要国際商品市況 - みんかぶ",
-    "timestamp": "2026-10-22T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "22日の主要国際商品市況の定期レポート。具体的な価格動向や変動要因の詳細は記事要約では不明。市場の日々の動きの振り返り・解説記事と考えられる。"
-  },
-  {
     "title": "業務用小麦粉を価改定 九州の製粉2社 12月19日納品分から - 食品新聞 WEB版",
     "timestamp": "2026-10-23T02:28:37+00:00",
     "importance": 2,
@@ -108,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が一時4000ドルを割り込んだ。株式市場下落に伴い、投資家がポジション調整のため金を含むリスク資産の換金売りを実施している状況。リスク回避の観点からの売却圧力が金市場にも波及。"
-  },
-  {
-    "title": "金価格が急落し、数百ドルが失われた。 - Vietnam.vn",
-    "timestamp": "2026-10-23T00:27:13+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落し、数百ドル規模の下げ幅を記録した。具体的な下落要因についての詳細は記事から不明。相場の振り返り・解説的な報道と考えられる。"
   },
   {
     "title": "原油先物小動き、フーシ派のサウジ攻撃で供給懸念続く（ロイター） - Yahoo!ニュース",
@@ -1681,5 +1604,170 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "カルダノ財務基金が銅への450万ドル投資を審議。損益分岐点は現在から49%の銅価格上昇が必要とされている。投資ファンドの個別ポジション検討段階のニュース。"
+  },
+  {
+    "title": "金(XAU)見通し (市況ニュース) ：金価格は下落し3995ドル｜米長期金利の上昇が影響した模様(2026年10月26日) - OANDA証券",
+    "timestamp": "2026-10-25T23:04:05+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3995ドルまで下落した。米長期金利の上昇が主因。現物価値の機会費用増加で金需要が圧迫された。"
+  },
+  {
+    "title": "10月26日朝の金価格更新:赤字に沈み、専門家は相反する予測 - Laodong.vn",
+    "timestamp": "2026-10-25T23:12:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月26日朝の金価格が赤字で推移している。専門家の間で相反する相場見通しが示されており、市場は方向感を欠いている状態。"
+  },
+  {
+    "title": "本日（10月26日）の金価格：金価格が4,000ドルを下回る。 - Vietnam.vn",
+    "timestamp": "2026-10-25T22:55:56+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,000ドルを下回った。技術的なサポートレベル割れを示唆する相場観の報道。具体的な要因は記事から不明。"
+  },
+  {
+    "title": "本日10月26日、金価格は急落し、SJCの金地金も下落傾向を継続した。 - Vietnam.vn",
+    "timestamp": "2026-10-25T23:39:09+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月26日、金価格が急落し、ベトナムのSJC金地金も下落傾向が継続している。特定の材料は記載されていない定例的な相場レポート。"
+  },
+  {
+    "title": "本日（2026年10月26日）の金価格：SJCの金価格は下落、世界の金価格はわずかに回復。 - Vietnam.vn",
+    "timestamp": "2026-10-25T23:55:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内金価格（SJC）は下落した一方、世界金価格はわずかに回復。国内外での価格乖離を報じた相場振り返り記事。"
+  },
+  {
+    "title": "本日（10月26日）の金価格：世界の金価格は1オンスあたり4,000ドル前後で推移しています。 - Vietnam.vn",
+    "timestamp": "2026-10-25T23:20:47+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,000ドル前後で推移しているという価格報告。特に新しいファンダメンタルズ情報や市場を動かす要因は含まれていない。既に織り込まれた価格水準での定期的なデータ提示。"
+  },
+  {
+    "title": "WTI原油見通し(市況ニュース)：原油供給の懸念が続き、原油価格は2営業日続伸（2026年10月26日） - OANDA証券",
+    "timestamp": "2026-10-25T23:08:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油供給懸念を背景にWTI原油が2営業日続伸。供給リスクが継続的に意識されている。既に市場で織り込まれている供給不安の延長線上での値動き。"
+  },
+  {
+    "title": "原油先物が1ドル近く下落 約半年ぶり高値から反落 - Reuters",
+    "timestamp": "2026-10-25T23:31:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が約1ドル下落し、約半年ぶりの高値から反落した。短期的なテクニカル調整の可能性が示唆されている。"
+  },
+  {
+    "title": "原油先物が1ドル近く下落 約半年ぶり高値から反落 - ニューズウィーク日本版",
+    "timestamp": "2026-10-25T23:31:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が約1ドル下落し、約半年ぶりの高値から反落した。相場の技術的な調整局面と見られる。"
+  },
+  {
+    "title": "米露宇三者会談が間近、国際原油価格が急落・金は4000ドル台を回復 - BigGo ファイナンス",
+    "timestamp": "2026-10-25T23:55:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米露ウクライナの三者会談が間近との報道により、地政学リスク軽減への期待から原油価格が急落。一方、同時期に金は4000ドル台を回復し、リスク資産と安全資産の異なる反応を示している。"
+  },
+  {
+    "title": "ＩＮＰＥＸや石油資源が反発、中東警戒感続き前週末に原油先物相場が上昇 - 株探",
+    "timestamp": "2026-10-26T00:43:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東地政学リスク継続への警戒感を背景に、前週末の原油先物相場が上昇。INPEXなど国内石油関連株も反発した。既知の地政学リスク要因の継続報道。"
+  },
+  {
+    "title": "原油先物が1ドル近く下落 約半年ぶり高値から反落｜Infoseekニュース - Infoseek",
+    "timestamp": "2026-10-25T23:31:23+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が約1ドル下落し、約半年ぶりの高値から反落した。技術的な利益確定売りと見られる。短期的な調整局面と判断される。"
+  },
+  {
+    "title": "原油価格の高騰を受け、マレーシアは燃料補助金を出している。 - Vietnam.vn",
+    "timestamp": "2026-10-26T00:12:48+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "マレーシアが原油高騰に対応して燃料補助金を実施。政府による需要維持策だが、市場供給バランスには直接的な影響は限定的。域内政策の動向を示す参考情報。"
+  },
+  {
+    "title": "原油先物が1ドル近く下落 約半年ぶり高値から反落（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-10-25T23:36:13+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が約1ドル下落し、約半年ぶりの高値から反落した。通常のボラティリティ範囲内の調整局面と見られる。相場の振り返りニュース。"
+  },
+  {
+    "title": "２３日の主要国際商品市況 - 株探",
+    "timestamp": "2026-10-25T23:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "23日の主要国際商品市況についての定期レポート。具体的な価格変動や市場イベントの詳細情報は提供されていない。"
   }
 ]
