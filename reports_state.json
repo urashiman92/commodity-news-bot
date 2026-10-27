@@ -603,5 +603,38 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Anthropicが新規公開買収（IPO）を申請したというテクノロジーセクターのニュースがアジア株全般に好感されるとの見方。ただしこのニュースは直接的なコモディティ需給・供給要因に関連していない。テクノロジー企業の上場はコモディティ市場への間接的な影響の可能性があるものの、短期的な相関性は限定的。"
+  },
+  {
+    "title": "OPEC+ Agrees to September Oil Hike, Completing Rollback of Voluntary Cuts - EnergyNow.com",
+    "timestamp": "2026-10-26T16:24:05+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月の石油生産引き上げを決定し、それまでの自主的減産措置のロールバックを完了した。段階的な増産計画の最終段階であり、市場はこの決定を概ね織り込み済み。原油価格には上昇圧力が働くが、既知の情報に基づく調整のため大幅なサプライズは限定的。"
+  },
+  {
+    "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive - Reuters",
+    "timestamp": "2026-10-27T00:37:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東外交の進展期待により原油は軟調だが、サウジアラビアへの攻撃による供給懸念が下値を支えている。地政学的リスクと外交交渉の動向が相反する要因となっており、市場は方向性を定めあぐねている状況。"
+  },
+  {
+    "title": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies - Reuters",
+    "timestamp": "2026-10-26T03:48:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派がサウジアラビアの石油ポンプ場とリヤド空港への攻撃を表明し、戦闘が激化している。中東の主要石油生産国への直接的な供給インフラ攻撃は、原油市場に即座の供給懸念をもたらし、価格上昇圧力となる可能性が高い。"
   }
 ]
