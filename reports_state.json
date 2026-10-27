@@ -1,27 +1,5 @@
 [
   {
-    "title": "Cold Storage",
-    "timestamp": "2026-10-23T22:13:45.008221+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "2026年9月30日時点の冷蔵庫保管ナチュラルチーズ在庫は、前月比1%減少したが、前年同期比では2%増加した。在庫変動は小幅で、季節変動の範囲内と考えられる。乳製品市場における供給バランスの継続的な監視が必要。"
-  },
-  {
-    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
-    "timestamp": "2026-10-23T22:15:46+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で原油生産目標を現状維持することを決定する見込み。減産も増産も実施しない方針であり、市場はこの結果をほぼ織り込み済み。現在の供給バランスが安定していることを示唆している。"
-  },
-  {
     "title": "Saudi Arabia Crude Exports Fall to Three Month Low in December - EnergyNow.com",
     "timestamp": "2026-10-24T06:38:55+00:00",
     "importance": 3,
@@ -97,17 +75,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAの週間統計で、米国原油在庫が前週比で減少したことが報告された。これは製油所の稼働率向上に伴う原油処理量の増加が主因。需要サイドの改善を示唆する好材料だが、在庫水準の絶対値や前年同期比の詳細データは報告されていない。"
-  },
-  {
-    "title": "Midwest Corn Yields Beat Expectations, but Field-to-Field Variability Remains High - RFD-TV",
-    "timestamp": "2026-10-23T21:47:08+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国中西部のトウモロコシ収量が予想を上回ったと報告されている。ただし圃場間の収量差（Field-to-Field Variability）が依然として大きく、地域別・農場別のばらつきが懸念材料として残存。生産量増加は供給過剰圧力として機能する一方、品質や実現可能性の不確実性が相殺する。"
   },
   {
     "title": "USDA adjusts old crop ending stocks estimates, issues new crop guesses - Brownfield Ag News",
@@ -526,5 +493,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラムコが100億ドル規模の融資契約を複数の国際銀行と締結間近。供給投資能力の維持を示唆する資金調達だが、市場には既知情報。石油企業の資本調達は通常業務の範囲内で、即座の原油価格インパクトは限定的と予想される。"
+  },
+  {
+    "title": "USDA Revises September Corn Yield as Analysts Weigh Impact - Successful Farming",
+    "timestamp": "2026-10-26T21:41:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが9月のトウモロコシ単収予想を改定した。同レポートはCrop Progressの一環として定期公表されており、市場では改定内容が収量見通しに与える影響を検討している。具体的な改定幅や新予想値は記事要約には明記されていないが、改定が報じられたこと自体が市場注視の対象になっている。"
+  },
+  {
+    "title": "Sunflower production expected to dip slightly from 2025 - Farm Progress",
+    "timestamp": "2026-10-26T07:00:19+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "ひまわり油",
+    "summary": "2026年のひまわり生産量が2025年から若干減少する見通しが示された。具体的な減少幅は明示されていないが、「slight dip」との表現から小幅な減少と推定される。ひまわり油市場における供給減少圧力として作用する可能性がある。"
+  },
+  {
+    "title": "Sunflower production expected to dip slightly from 2025 - Farm Progress",
+    "timestamp": "2026-10-26T07:00:19+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年のひまわり生産量が2025年から若干減少する見通しが示された。具体的な減少幅は明示されていないが、「slight dip」との表現から小幅な減少と推定される。ひまわり油市場における供給減少圧力として作用する可能性がある。"
+  },
+  {
+    "title": "Sunflower production expected to dip slightly from 2025 - Farm Progress",
+    "timestamp": "2026-10-26T07:00:19+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年のひまわり生産量が2025年から若干減少する見通しが示された。具体的な減少幅は明示されていないが、「slight dip」との表現から小幅な減少と推定される。ひまわり油市場における供給減少圧力として作用する可能性がある。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Harvest at 60%, Soybeans 79% as of October 25, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-10-26T20:50:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progress報告（2026年10月25日時点）により、トウモロコシ収穫進捗が60%、大豆が79%に達した。両穀物とも順調に収穫が進行しており、豊作シナリオが強化されている。年末に向けた供給増加見通しが相場の下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn Harvest at 60%, Soybeans 79% as of October 25, 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-10-26T20:50:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progress報告（2026年10月25日時点）により、トウモロコシ収穫進捗が60%、大豆が79%に達した。両穀物とも順調に収穫が進行しており、豊作シナリオが強化されている。年末に向けた供給増加見通しが相場の下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "London copper eases on rising LME stocks, demand worries - Investify",
+    "timestamp": "2026-10-26T06:01:48+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "ロンドン銅相場が軟調となっている。LME(ロンドン金属取引所)の銅在庫が増加傾向にあり、需要面での懸念が価格を押し下げている。在庫増加は供給過剰シグナルであり、需要側の弱さが市場心理を悪化させている。"
+  },
+  {
+    "title": "London copper eases on rising LME stocks, demand worries - Investify",
+    "timestamp": "2026-10-26T06:01:48+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "ロンドン銅相場が軟調となっている。LME(ロンドン金属取引所)の銅在庫が増加傾向にあり、需要面での懸念が価格を押し下げている。在庫増加は供給過剰シグナルであり、需要側の弱さが市場心理を悪化させている。"
+  },
+  {
+    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
+    "timestamp": "2026-10-26T15:21:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。過去数年の放出と補充の遅れにより、現在のSPR水準は供給逼迫リスクを高めている。このニュースは原油の需給ギャップを拡大させる可能性があり、地政学的リスク下での供給不安を増幅させる懸念材料となっている。"
+  },
+  {
+    "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-26T23:40:33+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Anthropicが新規公開買収（IPO）を申請したというテクノロジーセクターのニュースがアジア株全般に好感されるとの見方。ただしこのニュースは直接的なコモディティ需給・供給要因に関連していない。テクノロジー企業の上場はコモディティ市場への間接的な影響の可能性があるものの、短期的な相関性は限定的。"
   }
 ]
