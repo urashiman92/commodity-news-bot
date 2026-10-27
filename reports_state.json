@@ -1,27 +1,5 @@
 [
   {
-    "title": "Houthis say they attacked Saudi oil sites; strikes reported in Aden - Reuters",
-    "timestamp": "2026-10-24T17:58:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派がサウジアラビアの石油施設を攻撃したと発表し、アデンでも爆撃が報告された。中東の主要石油供給国への直接的な軍事脅威は、原油供給の中断リスクを大幅に高める。地政学的リスクプレミアムの急速な上昇が予想される。"
-  },
-  {
-    "title": "Saudi Arabia reports crude output recovery from 30-year low as OPEC halves its 2026 demand growth forecast - Energies Media",
-    "timestamp": "2026-10-24T17:06:49+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアが30年ぶりの低水準から原油生産を回復させていることが報告された。一方、OPECは2026年の需要成長見通しを従来の半分に下方修正。生産回復と需要減速見通しの相反する要因が混在しており、市場心理は不透明。"
-  },
-  {
     "title": "The Americas Are the New Oil Growth Engine: +1.66 Million Barrels a Day in 2026 as OPEC Output Falls 5.4 Million - Energy News Beat",
     "timestamp": "2026-10-24T23:49:22+00:00",
     "importance": 4,
@@ -42,17 +20,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "2026年9月30日時点の冷蔵倉庫におけるナチュラルチーズ在庫は、前月比1%減少した一方で、前年同月比では2%増加している。乳製品市場の需給緩和を示唆する指標だが、変動幅は限定的である。"
-  },
-  {
-    "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-10-24T15:52:36+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間統計で、米国原油在庫が前週比で減少したことが報告された。これは製油所の稼働率向上に伴う原油処理量の増加が主因。需要サイドの改善を示唆する好材料だが、在庫水準の絶対値や前年同期比の詳細データは報告されていない。"
   },
   {
     "title": "USDA adjusts old crop ending stocks estimates, issues new crop guesses - Brownfield Ag News",
@@ -757,5 +724,203 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "HSBCの決算が市場予想を下回り、欧州銀行セクターが売られた。銀行株の下落は金融機関の利益圧縮を示唆し、リスク回避姿勢につながる。金利環境への懸念からコモディティ全般に弱気ムードが広がっているが、短期的な流れ。"
+  },
+  {
+    "title": "Crop Report Revisions Highlight Importance of Accurate Estimates - American Farm Bureau Federation",
+    "timestamp": "2026-10-27T18:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農業局連盟（AFBF）は、作物レポートの改定の重要性を強調するコメンタリーを発表。農務省（USDA）の定期的な作物予測の精度向上と改定プロセスの重要性を指摘しており、既存の推定値の検証と透明性確保の必要性を提言している。"
+  },
+  {
+    "title": "Crop Report Revisions Highlight Importance of Accurate Estimates - American Farm Bureau Federation",
+    "timestamp": "2026-10-27T18:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国農業局連盟（AFBF）は、作物レポートの改定の重要性を強調するコメンタリーを発表。農務省（USDA）の定期的な作物予測の精度向上と改定プロセスの重要性を指摘しており、既存の推定値の検証と透明性確保の必要性を提言している。"
+  },
+  {
+    "title": "Crop Report Revisions Highlight Importance of Accurate Estimates - American Farm Bureau Federation",
+    "timestamp": "2026-10-27T18:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農業局連盟（AFBF）は、作物レポートの改定の重要性を強調するコメンタリーを発表。農務省（USDA）の定期的な作物予測の精度向上と改定プロセスの重要性を指摘しており、既存の推定値の検証と透明性確保の必要性を提言している。"
+  },
+  {
+    "title": "Crop Report Revisions Highlight Importance of Accurate Estimates - American Farm Bureau Federation",
+    "timestamp": "2026-10-27T18:10:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "米国農業局連盟（AFBF）は、作物レポートの改定の重要性を強調するコメンタリーを発表。農務省（USDA）の定期的な作物予測の精度向上と改定プロセスの重要性を指摘しており、既存の推定値の検証と透明性確保の必要性を提言している。"
+  },
+  {
+    "title": "Corn harvest passes halfway mark - Farm Progress",
+    "timestamp": "2026-10-27T13:20:48+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの収穫が中間地点を通過したことを伝える定期進捗報告。Crop Progress は毎週月曜に発表される公式統計であり、収穫進捗が予想の範囲内で推移していることを示唆。具体的な収穫率や前年比については本見出しのみでは判断不可だが、通常の季節進捗と考えられる。"
+  },
+  {
+    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
+    "timestamp": "2026-10-26T15:29:42+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの9月トウモロコシ予測に誤差が発生し、データの信頼性に関する懸念が再燃した。米国の主要穀物統計における精度問題は、市場参加者の価格見通し形成に大きな影響を与える。公式予測の信頼性低下は、市場のボラティリティ上昇とポジション調整を招く可能性が高い。"
+  },
+  {
+    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
+    "timestamp": "2026-10-26T15:29:42+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAの9月トウモロコシ予測に誤差が発生し、データの信頼性に関する懸念が再燃した。米国の主要穀物統計における精度問題は、市場参加者の価格見通し形成に大きな影響を与える。公式予測の信頼性低下は、市場のボラティリティ上昇とポジション調整を招く可能性が高い。"
+  },
+  {
+    "title": "Harvest Progress, Peace Talks Weigh on Grain Markets - Czapp",
+    "timestamp": "2026-10-27T08:45:56+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "穀物市場は収穫進捗データと地政学的な平和交渉の進展という相反する要因に左右されている。収穫の進行は供給増加圧力となり価格下押し要因となる一方で、紛争地域での平和交渉進展は供給懸念の軽減につながる可能性がある。両要因の綱引きが穀物相場の方向性を決定する。"
+  },
+  {
+    "title": "Harvest Progress, Peace Talks Weigh on Grain Markets - Czapp",
+    "timestamp": "2026-10-27T08:45:56+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "穀物市場は収穫進捗データと地政学的な平和交渉の進展という相反する要因に左右されている。収穫の進行は供給増加圧力となり価格下押し要因となる一方で、紛争地域での平和交渉進展は供給懸念の軽減につながる可能性がある。両要因の綱引きが穀物相場の方向性を決定する。"
+  },
+  {
+    "title": "Harvest Progress, Peace Talks Weigh on Grain Markets - Czapp",
+    "timestamp": "2026-10-27T08:45:56+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "穀物市場は収穫進捗データと地政学的な平和交渉の進展という相反する要因に左右されている。収穫の進行は供給増加圧力となり価格下押し要因となる一方で、紛争地域での平和交渉進展は供給懸念の軽減につながる可能性がある。両要因の綱引きが穀物相場の方向性を決定する。"
+  },
+  {
+    "title": "Copper price climbs on AI rebound, China demand strength - Mining.com",
+    "timestamp": "2026-10-27T18:12:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格がAI関連需要の回復とリスクオン環境の進展により上昇している。中国の需要強化が価格を下支えし、テクノロジー関連のファンダメンタルズが継続的に銅への買い圧力となっている。ただし具体的な価格水準や前月比の上昇率は記事では明示されていない。"
+  },
+  {
+    "title": "Copper price climbs on AI rebound, China demand strength - Mining.com",
+    "timestamp": "2026-10-27T18:12:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅価格がAI関連需要の回復とリスクオン環境の進展により上昇している。中国の需要強化が価格を下支えし、テクノロジー関連のファンダメンタルズが継続的に銅への買い圧力となっている。ただし具体的な価格水準や前月比の上昇率は記事では明示されていない。"
+  },
+  {
+    "title": "Gold smuggling funds Islamic State-linked insurgency in eastern Congo, report says - Reuters",
+    "timestamp": "2026-10-27T13:51:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "コンゴ東部でのイスラム国関連勢力による金密輸がレポートで報告された。密輸された金がテロ勢力の資金源となっており、西アフリカのコモディティ供給リスク要因として認識される。鉱物資源産出国の地政学的リスクが顕在化し、金の供給不確実性が高まる懸念がある。"
+  },
+  {
+    "title": "Indonesia secures UAE oil supply commitment for up to 30 million barrels - Reuters",
+    "timestamp": "2026-10-27T12:01:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インドネシアがUAEとの間で最大3,000万バレルの石油供給契約を確保した。アラブ首長国連邦からの追加的な原油供給の確約であり、インドネシアのエネルギー調達の多角化を意味する。地政学的な供給確保戦略の一環として、域内の原油市場関係に微妙な変化をもたらす可能性がある。"
+  },
+  {
+    "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support - Reuters",
+    "timestamp": "2026-10-27T13:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "金相場の見通しについてのポーランド調査。強いドル高と高金利が金の上値を抑える下押し要因として機能する一方で、中央銀行による継続的な買い需要が支援材料となっている。金利上昇による無利子資産としての魅力低下とドル強化による価格競争力低下が主な逆風。"
+  },
+  {
+    "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support - Reuters",
+    "timestamp": "2026-10-27T13:30:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "金相場の見通しについてのポーランド調査。強いドル高と高金利が金の上値を抑える下押し要因として機能する一方で、中央銀行による継続的な買い需要が支援材料となっている。金利上昇による無利子資産としての魅力低下とドル強化による価格競争力低下が主な逆風。"
+  },
+  {
+    "title": "COMMENTARY: Canada takes a page from the Saudi oil playbook - Reuters",
+    "timestamp": "2026-10-27T06:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "カナダがサウジアラビアの石油戦略を模倣し、供給管理を通じた価格支援策を検討していると報じられている。カナダの原油生産調整がOPEC型の減産戦略に転換する可能性を指摘するコメンタリー。供給サイドの構造的変化が原油相場を下支えする要因となりうる。"
+  },
+  {
+    "title": "Russia Ships Less Crude Even as Key Baltic Port’s Flows Rebound - Bloomberg.com",
+    "timestamp": "2026-10-27T12:38:20+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの原油輸出が全体として減少する一方で、バルト海の主要港での流量が回復しているという矛盾する動きを報告。西側制裁の迂回ルート活用による港湾レベルでの部分的な回復が見られるが、全体的な供給量は減少傾向。ロシアの石油供給戦略に変化の兆候。"
   }
 ]
