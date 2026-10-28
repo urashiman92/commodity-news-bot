@@ -1120,5 +1120,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "アジア株式市場がAI関連の楽観論の高まりを背景に上昇基調を示している。AI産業の成長期待は、銅などの工業用金属や電力需要を増加させ、それに伴うエネルギー需要増加が原油にも支援材料となる可能性がある。ただしマクロ経済環境の確認が必要。"
+  },
+  {
+    "title": "Peanut Stocks and Processing",
+    "timestamp": "2026-10-28T09:43:52.281204+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASが発表した落花生在庫統計。商業貯蔵の落花生在庫が24.4億ポンドに達し、殻付き食用グレードの季節累計利用量が前年同期比で4%減少。在庫積み増しと利用低迷は供給過剰圧力を示唆。"
+  },
+  {
+    "title": "Harvest latest: Corn and soybean progress jumps, farm equipment crashes below average - Michigan Farm News",
+    "timestamp": "2026-10-27T18:04:58+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国のトウモロコシと大豆の収穫進捗が予想を上回るペースで進展し、収穫期の作業効率が高まっていることが報告された。一方、農機具の利用率が平年を大きく下回っており、ファーム・セクターの経営状況悪化を示唆している。供給面での懸念が後退し、価格下押し圧力が生じている。"
+  },
+  {
+    "title": "Harvest latest: Corn and soybean progress jumps, farm equipment crashes below average - Michigan Farm News",
+    "timestamp": "2026-10-27T18:04:58+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国のトウモロコシと大豆の収穫進捗が予想を上回るペースで進展し、収穫期の作業効率が高まっていることが報告された。一方、農機具の利用率が平年を大きく下回っており、ファーム・セクターの経営状況悪化を示唆している。供給面での懸念が後退し、価格下押し圧力が生じている。"
+  },
+  {
+    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
+    "timestamp": "2026-10-28T08:02:46+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAのトウモロコシ作付面積報告に計算エラーが判明し、作物統計データの信頼性が大きく揺らいでいる。StoneXを含むアナリスト界から、USDA発表データの精度に対する深刻な疑問が呈示されている。この信頼性の喪失は、今後の需給予測や政策判断に大きな不確実性をもたらす可能性がある。"
+  },
+  {
+    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
+    "timestamp": "2026-10-28T08:02:46+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAのトウモロコシ作付面積報告に計算エラーが判明し、作物統計データの信頼性が大きく揺らいでいる。StoneXを含むアナリスト界から、USDA発表データの精度に対する深刻な疑問が呈示されている。この信頼性の喪失は、今後の需給予測や政策判断に大きな不確実性をもたらす可能性がある。"
+  },
+  {
+    "title": "Copper climbs on AI rebound, China demand strength - Investify",
+    "timestamp": "2026-10-27T11:33:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格がAI関連需要の回復と中国の需要強化を背景に上昇している。AI産業の電力インフラ投資や中国経済の回復期待が銅の工業用途需要を支えている。マクロ環境の改善が主な上昇要因。"
+  },
+  {
+    "title": "Copper climbs on AI rebound, China demand strength - Investify",
+    "timestamp": "2026-10-27T11:33:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅価格がAI関連需要の回復と中国の需要強化を背景に上昇している。AI産業の電力インフラ投資や中国経済の回復期待が銅の工業用途需要を支えている。マクロ環境の改善が主な上昇要因。"
+  },
+  {
+    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
+    "timestamp": "2026-10-28T03:14:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は10月の石油生産方針を据え置くことを決定した。前月の政策継続を示す定例発表であり、市場予想の範囲内の結果。減産政策の継続により供給調整を維持する姿勢を確認。"
+  },
+  {
+    "title": "Oil up over 1% as Saudi Arabian refinery attack reignites supply risk concerns - Reuters",
+    "timestamp": "2026-10-28T01:49:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの製油所がテロ攻撃を受けたことで、原油供給リスクが再燃し、原油価格が1%以上上昇した。中東の地政学的リスクが顕在化し、市場は供給途絶への懸念を織り込んでいる。過去のサウジ施設攻撃との比較で、供給ショックの可能性が市場心理に大きく作用している。"
+  },
+  {
+    "title": "Indian gasoline demand to peak by 2035, says top refiner Indian Oil - Reuters",
+    "timestamp": "2026-10-28T06:16:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド国営石油大手インディアン・オイルのトップが、インドのガソリン需要が2035年にピークを迎えると予測した。同国の急速な経済成長にもかかわらず、EV普及やエネルギー効率改善により需要成長が鈍化する見通し。世界最大級の需要成長市場とされてきたインドの長期需要見通しの修正は、グローバル石油需要構造の変化を示唆。"
   }
 ]
