@@ -1,16 +1,5 @@
 [
   {
-    "title": "The Americas Are the New Oil Growth Engine: +1.66 Million Barrels a Day in 2026 as OPEC Output Falls 5.4 Million - Energy News Beat",
-    "timestamp": "2026-10-24T23:49:22+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "2026年に米州地域の原油生産が日量166万バレル増加する一方、OPEC加盟国の生産は日量540万バレル減少する見通し。米州がOPEC減産を相殺し、グローバルな供給バランスの再編が進行中。OPEC減産政策の市場シェア喪失を示唆する内容。"
-  },
-  {
     "title": "Cold Storage",
     "timestamp": "2026-10-25T18:25:19.392131+00:00",
     "importance": 2,
@@ -1032,5 +1021,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラムコがヨーロッパ向けのスポット原油供給を増加させている。供給増加のシグナルは、市場が需給緩和を織り込む可能性がある。OPECプラスの増産政策が継続される見通しを反映した動きであり、原油価格には下向きの圧力がかかる可能性。"
+  },
+  {
+    "title": "Crop Progress Recap: High Diesel Prices Prompt Farmers to Reconsider Grain Delivery Locations - RFD-TV",
+    "timestamp": "2026-10-27T19:34:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "高いディーゼル価格により、米国農民が穀物の配送先を見直す動きが広がっている。輸送コスト上昇が農民の収益圧迫要因となり、配送戦略の変更を余儀なくされている。これは穀物の流通構造に影響を与える可能性があるが、作付面積や生産量の根本的な変化ではない定期的な進捗報告である。"
+  },
+  {
+    "title": "Crop Progress Recap: High Diesel Prices Prompt Farmers to Reconsider Grain Delivery Locations - RFD-TV",
+    "timestamp": "2026-10-27T19:34:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "高いディーゼル価格により、米国農民が穀物の配送先を見直す動きが広がっている。輸送コスト上昇が農民の収益圧迫要因となり、配送戦略の変更を余儀なくされている。これは穀物の流通構造に影響を与える可能性があるが、作付面積や生産量の根本的な変化ではない定期的な進捗報告である。"
+  },
+  {
+    "title": "Crop Progress Recap: High Diesel Prices Prompt Farmers to Reconsider Grain Delivery Locations - RFD-TV",
+    "timestamp": "2026-10-27T19:34:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "高いディーゼル価格により、米国農民が穀物の配送先を見直す動きが広がっている。輸送コスト上昇が農民の収益圧迫要因となり、配送戦略の変更を余儀なくされている。これは穀物の流通構造に影響を与える可能性があるが、作付面積や生産量の根本的な変化ではない定期的な進捗報告である。"
+  },
+  {
+    "title": "Crop Progress Recap: High Diesel Prices Prompt Farmers to Reconsider Grain Delivery Locations - RFD-TV",
+    "timestamp": "2026-10-27T19:34:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "原油",
+    "summary": "高いディーゼル価格により、米国農民が穀物の配送先を見直す動きが広がっている。輸送コスト上昇が農民の収益圧迫要因となり、配送戦略の変更を余儀なくされている。これは穀物の流通構造に影響を与える可能性があるが、作付面積や生産量の根本的な変化ではない定期的な進捗報告である。"
+  },
+  {
+    "title": "Crop Progress Recap: High Diesel Prices Prompt Farmers to Reconsider Grain Delivery Locations - RFD-TV",
+    "timestamp": "2026-10-27T19:34:37+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "高いディーゼル価格により、米国農民が穀物の配送先を見直す動きが広がっている。輸送コスト上昇が農民の収益圧迫要因となり、配送戦略の変更を余儀なくされている。これは穀物の流通構造に影響を与える可能性があるが、作付面積や生産量の根本的な変化ではない定期的な進捗報告である。"
+  },
+  {
+    "title": "Trump promotes oil production in Texas, where Democrats dream of breakthrough - Reuters",
+    "timestamp": "2026-10-27T16:31:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がテキサス州での石油生産拡大を推進する動きについての報道。米国の石油増産政策が継続される可能性を示唆しており、中期的には原油供給増加圧力となる。一方、民主党の政策転換可能性も言及されており、政策不確実性は存在。"
+  },
+  {
+    "title": "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-28T01:51:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株式市場がAI関連の楽観論の高まりを背景に上昇基調を示している。AI産業の成長期待は、銅などの工業用金属や電力需要を増加させ、それに伴うエネルギー需要増加が原油にも支援材料となる可能性がある。ただしマクロ経済環境の確認が必要。"
+  },
+  {
+    "title": "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-28T01:51:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "アジア株式市場がAI関連の楽観論の高まりを背景に上昇基調を示している。AI産業の成長期待は、銅などの工業用金属や電力需要を増加させ、それに伴うエネルギー需要増加が原油にも支援材料となる可能性がある。ただしマクロ経済環境の確認が必要。"
+  },
+  {
+    "title": "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-10-28T01:51:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株式市場がAI関連の楽観論の高まりを背景に上昇基調を示している。AI産業の成長期待は、銅などの工業用金属や電力需要を増加させ、それに伴うエネルギー需要増加が原油にも支援材料となる可能性がある。ただしマクロ経済環境の確認が必要。"
   }
 ]
