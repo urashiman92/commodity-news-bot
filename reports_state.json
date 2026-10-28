@@ -1,16 +1,5 @@
 [
   {
-    "title": "Cold Storage",
-    "timestamp": "2026-10-25T18:25:19.392131+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "2026年9月30日時点の冷蔵倉庫におけるナチュラルチーズ在庫は、前月比1%減少した一方で、前年同月比では2%増加している。乳製品市場の需給緩和を示唆する指標だが、変動幅は限定的である。"
-  },
-  {
     "title": "Saudi Arabia to store oil in Singapore to bolster Asia supply security - Reuters",
     "timestamp": "2026-10-26T01:47:00+00:00",
     "importance": 3,
@@ -1329,5 +1318,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "フーシ派による攻撃が続く中、サウジアラビアの石油輸出が戦時中水準に近づいている。地政学的リスクが高まる一方、サウジは輸出を維持・増加させており、供給途絶懸念は後退している。中東紅海の不安定性が継続することで、海上輸送リスクプレミアムが原油価格を押し上げる圧力が残存。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-10-28T18:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "コモディティ全般",
+    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-10-28T18:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "金",
+    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-10-28T18:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "原油",
+    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
+  },
+  {
+    "title": "Federal Reserve issues FOMC statement",
+    "timestamp": "2026-10-28T18:00:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "銅",
+    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
   }
 ]
