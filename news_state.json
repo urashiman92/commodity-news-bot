@@ -1,115 +1,5 @@
 [
   {
-    "title": "10月25日の金価格：下落傾向が継続。 - Vietnam.vn",
-    "timestamp": "2026-10-25T03:17:51+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月25日の金価格は下落傾向を継続している。既存のトレンドの延長線上における値動き。市場の織り込み済みの動きと判断される。"
-  },
-  {
-    "title": "今日の金価格 25.10:長期スリップ、来週の金価格の予測 - Laodong.vn",
-    "timestamp": "2026-10-25T03:11:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格解説記事。本日の金価格と長期的な下落トレンド、来週の予測を扱っている。具体的な新規材料や指標発表を含まない定期的な相場振り返り記事と思われる。"
-  },
-  {
-    "title": "来週の金価格：1オンス4,000ドルの水準が試される。 - Vietnam.vn",
-    "timestamp": "2026-10-25T02:23:50+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,000ドルの重要な心理的水準に接近している。テクニカル的にこの抵抗線がテストされることで、上値の可能性が探られている。"
-  },
-  {
-    "title": "銅価格が最高値圏、精錬所は減産検討 ボトルネックは銅精鉱 - BigGo ファイナンス",
-    "timestamp": "2026-10-25T02:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が最高値圏で推移する中、精錬所の減産検討が報じられている。供給サイドのボトルネックは銅精鉱不足にあり、需給ひっ迫が続いている。"
-  },
-  {
-    "title": "金価格の下落予測、米金利上昇で金相場はさらに下がるのか - EBC Financial Group",
-    "timestamp": "2026-10-25T04:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米金利上昇に伴う金価格の下落予測に関する解説記事。金は利息を生まない資産のため、金利上昇環境では相対的に魅力が低下する。既知のメカニズムであり市場では織り込まれつつある見方。"
-  },
-  {
-    "title": "遅延？リファスタ｜10/24 土 月曜金価格予想21,920円(▲135円)｜杉兼太朗 - JIJICO",
-    "timestamp": "2026-10-25T03:23:58+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アナリスト杉兼太朗による月曜の金価格予想。予想値は21,920円で前営業日比+135円。相場展望の一種の定期コメント。"
-  },
-  {
-    "title": "本日10月25日の金価格：専門家は下落傾向を予測している。 - Vietnam.vn",
-    "timestamp": "2026-10-25T03:51:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格に関する記事で、専門家が金相場の下落傾向を予測している。既存の相場観の解説・観測レベルの内容と考えられる。"
-  },
-  {
-    "title": "今週の金価格（10月19日～24日）：世界の金価格は大幅な下落圧力にさらされている。 - Vietnam.vn",
-    "timestamp": "2026-10-25T06:04:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月19日～24日の週間で金価格が大幅な下落圧力に直面している。この記事は相場の振り返りと現況解説であり、既に発生した値動きの事後的な分析と見受けられる。コモディティ投資家にとって既知の情報。"
-  },
-  {
-    "title": "本日の燃料価格（10月25日）：世界の原油価格は今週急騰した。 - Vietnam.vn",
-    "timestamp": "2026-10-25T03:50:53+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの燃料価格ニュースで、世界原油価格が今週急騰したことを報じている。具体的な上昇要因や価格水準の情報は限定的。市場動向の振り返り記事と考えられる。"
-  },
-  {
-    "title": "本日10月7日の株式市場：原油価格と利回りが再び上昇し、欧州株を押し下げる。ミラノ株は銀行株とハイテク株の下落で特に大きな打撃を受けた。 - www.firstonline.info",
-    "timestamp": "2026-10-25T06:37:21+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月7日の市場で原油価格と利回りが再び上昇し、欧州株を押し下げた。ミラノ株は銀行株とハイテク株の下落で特に大きな打撃を受けた。"
-  },
-  {
     "title": "専門家は来週の世界市場における金価格をどう予測しているのでしょうか？ - Vietnam.vn",
     "timestamp": "2026-10-25T11:43:53+00:00",
     "importance": 2,
@@ -218,17 +108,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "来週の金価格が大きなリスク要因に直面する見通し。具体的なリスク要因は記事概要では明示されていない。経済指標発表やFRB関連イベントなどが想定される。"
-  },
-  {
-    "title": "インド景気加速!原油117ドル!どうなる米国中間選挙？ - YouTube",
-    "timestamp": "2026-10-25T04:15:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "インド経済の加速がエネルギー需要を支え、原油価格が117ドル水準で推移。米国中間選挙という政治イベントとの関連性を分析するコメンタリー動画。"
   },
   {
     "title": "銅建値、円高重なり９万円安／国際相場は需給緩和で下落 - 日刊鉄鋼新聞 Japan Metal Daily",
@@ -1659,5 +1538,148 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "27日の主要国際商品市況に関する日次レポート。具体的な価格変動や市場動向の詳細は記事本文が未提示のため評価困難。通常の市況報告の定期配信と推定される。"
+  },
+  {
+    "title": "金価格、ドル上昇とFRB決定待ちで4,040ドル付近に下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-28T00:57:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,040ドル付近に下落。ドル高進行とFRB政策決定待ちの様子見姿勢が背景。金は利回り資産競争力低下とドル建てコスト上昇の二重圧力を受けている。"
+  },
+  {
+    "title": "本日（2026年10月28日）の金価格：SJCの金地金が急騰。 - Vietnam.vn",
+    "timestamp": "2026-10-28T02:37:46+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金地金が急騰したとの報道。地域限定的なニュースで、グローバル金市場への直接的な影響は限定的。予想比の詳細情報が不足している。"
+  },
+  {
+    "title": "インド大手宝飾店、ディワリ期間の金購入抑制へ - BeInCrypto",
+    "timestamp": "2026-10-28T06:57:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インドの大手宝飾店がディワリ期間の金購入を抑制する方針を表明。ディワリは伝統的に金購入が最盛期となるため、需要減少が予想される。インド金需要の減弱は世界市場にも影響を及ぼす可能性がある。"
+  },
+  {
+    "title": "ＮＥＸＴ ＦＵＮＤＳ 金価格連動型上場投信【1328】株価掲示板｜投資家のコメント - Moomoo",
+    "timestamp": "2026-10-28T01:48:21+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NEXT FUNDS金価格連動型上場投信（1328）の投資家向け掲示板ページ。個別銘柄の掲示板コメント機能であり、市場全体への金価格影響を示す重要データではない。"
+  },
+  {
+    "title": "今週の世界の金価格の変動を左右する要因。 - Vietnam.vn",
+    "timestamp": "2026-10-28T03:44:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "今週の金価格変動要因についての解説記事。具体的な要因の詳細が提供されていないため、市場への直接的な影響は限定的と判断。定期的な相場分析コンテンツの一環。"
+  },
+  {
+    "title": "金取引アラート：油価下落が「命綱」となり、金価格は「劇的な反発」を見せる。FRB政策決定が間近に迫る！ - Moomoo",
+    "timestamp": "2026-10-27T23:48:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "油価下落が金価格の支援要因となり、金が反発を見せている。FRB政策決定を控える中、ドル弱含みが金買いを誘引。テクニカル的な反発局面の解説。"
+  },
+  {
+    "title": "原油先物反発、フーシ派のサウジ製油所攻撃で供給懸念が再燃（ロイター） - Yahoo!ニュース",
+    "timestamp": "2026-10-28T02:02:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ派がサウジアラビアの製油所を攻撃。原油供給懸念が再浮上し先物が反発。地政学リスク継続を示唆。"
+  },
+  {
+    "title": "【速報】あすからのガソリン補助金 過去最高に 1Lあたり52.4円 原油価格が高止まり - khb東日本放送",
+    "timestamp": "2026-10-28T05:26:23+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日本政府がガソリン補助金を過去最高の1L当たり52.4円に引き上げる。原油価格の高止まりに対応した政策対応。補助金拡大は国内需要下押し圧力。"
+  },
+  {
+    "title": "米株価指数先物 ダウ下げ拡大、原油先物急伸でインフレ懸念 - みんかぶ FX/為替",
+    "timestamp": "2026-10-28T02:10:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物が急伸し、これによるインフレ懸念が株式市場の売り圧力となっている。米株先物（ダウ）が下げを拡大している。原油上昇とリスク資産売却の連鎖が観察されている。"
+  },
+  {
+    "title": "原油先物反発、フーシ派のサウジ製油所攻撃で供給懸念が再燃 - ニューズウィーク日本版",
+    "timestamp": "2026-10-28T02:02:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "フーシ派によるサウジアラビア製油所への攻撃により、原油先物が反発。中東の地政学リスクが再び市場の焦点となり、供給懸念が価格を押し上げた。この類の紛争は断続的に発生しており、投資家は継続的に注視している。"
+  },
+  {
+    "title": "NY外為：ドル買い弱まる、NY原油先物は100ドル割り込む、米10年債利回りも5％割れ - 株探",
+    "timestamp": "2026-10-27T15:23:21+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル売り圧力を受けNY原油先物が100ドルを割り込んだ。米10年債利回りも5%を下回り、ドル弱含みが原油価格を押し下げた。金利低下局面の相場環境を反映。"
+  },
+  {
+    "title": "原油価格が急騰、米ドルは2週間ぶりの高値を維持。 - Vietnam.vn",
+    "timestamp": "2026-10-28T05:25:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が急騰し、米ドルは2週間ぶりの高値を維持している。ドル高は原油などドル建てコモディティの価格押し下げ要因となるが、同時に原油価格上昇が報告されている。"
+  },
+  {
+    "title": "ブラジルレアル安で輸出競争力が向上、大豆先物は下落 - ニュースと統計 - IndexBox",
+    "timestamp": "2026-10-27T19:12:23+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "ブラジルレアル安により大豆輸出競争力が向上し、供給増加懸念から大豆先物が下落。為替変動が商品価格に波及した典型的なシナリオ。"
   }
 ]
