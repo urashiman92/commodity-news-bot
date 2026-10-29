@@ -99,61 +99,6 @@
     "summary": "USDAのトウモロコシデータに重大な誤りが発見され、2026年度の作物予測に対する市場の信頼性が大きく損なわれた。統計信頼性の喪失は穀物市場全体のボラティリティ上昇につながり、投資家のポジション調整を誘発。今後の公式統計発表に対する警戒感が急速に高まっている。"
   },
   {
-    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
-    "timestamp": "2026-10-26T15:05:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの9月トウモロコシ生産予測に誤差が生じ、データ信頼性に対する懸念が浮上。予測エラーは市場参加者の意思決定に影響を与え、USDA統計の精度に疑問を投げかけている。トウモロコシ価格は下圧力を受ける可能性がある。"
-  },
-  {
-    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
-    "timestamp": "2026-10-26T15:05:02+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAの9月トウモロコシ生産予測に誤差が生じ、データ信頼性に対する懸念が浮上。予測エラーは市場参加者の意思決定に影響を与え、USDA統計の精度に疑問を投げかけている。トウモロコシ価格は下圧力を受ける可能性がある。"
-  },
-  {
-    "title": "USDA Under Fire Over September Corn Reporting Error - Yahoo",
-    "timestamp": "2026-10-26T13:47:52+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月のトウモロコシ作付進捗レポートで報告エラーを犯したことが批判の対象となっている。政府統計の信頼性低下は市場の価格発見メカニズムに�悪影響を及ぼし、農家やトレーダーの意思決定に支障をもたらす可能性がある。統計の修正・再検証が急務である。"
-  },
-  {
-    "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady - EnergyNow",
-    "timestamp": "2026-10-26T13:30:22+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が11月の石油生産目標を据え置くことに合意した。これは既に市場で織り込まれていた決定で、減産政策の継続を示唆している。供給面での大きな変化がないため、原油価格への直接的な上下圧力は限定的。"
-  },
-  {
-    "title": "Russian refiners ramp up diesel output after US deal, sources say - Reuters",
-    "timestamp": "2026-10-26T13:12:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国との取引後、ロシアの石油精製業者がディーゼル生産を増加させていることが明らかになった。これは対ロシア制裁の一部緩和または取引合意を反映したもの。ロシアディーゼル供給増加は欧州市場での供給圧力につながる可能性がある。"
-  },
-  {
     "title": "Equities climb as Anthropic's IPO filing buoys AI stocks - Reuters",
     "timestamp": "2026-10-26T18:37:31+00:00",
     "importance": 1,
@@ -163,61 +108,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Anthropic（AI企業）のIPO申請がAI関連株を押し上げ、これに伴い株式市場全体が上昇している。ただしこのニュースはテクノロジー・成長株セクターに限定された影響であり、コモディティ市場への直接的な需給影響は限定的である。"
-  },
-  {
-    "title": "Gulf Oil Bargains Lure India Away From Russia as Freight Soars - Bloomberg.com",
-    "timestamp": "2026-10-26T11:37:41+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "インドがロシア産原油からペルシャ湾産原油へシフトしている。運送費高騰にもかかわらず、湾岸産油国の割安感がロシア産を上回るようになった。この動きはアジア原油市場の需給構造と価格体系に変化をもたらす可能性を示唆している。"
-  },
-  {
-    "title": "Saudi Arabia’s Houthi Challenge Shifts Fears to Non-Oil Economy - Bloomberg.com",
-    "timestamp": "2026-10-26T15:17:18+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのフーシ派による攻撃懸念が石油供給リスクから非石油経済への影響にシフト。紅海・ホルムズ海峡の地政学的リスクは引き続き原油価格を下支えするが、同国の経済多角化政策（ビジョン2030）への脅威が増大。原油市場の緊張感は維持されつつも、地域経済全体への不安が高まる局面。"
-  },
-  {
-    "title": "Saudi Arabia’s Houthi Challenge Shifts Fears to Non-Oil Economy - Bloomberg.com",
-    "timestamp": "2026-10-26T15:17:18+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアのフーシ派による攻撃懸念が石油供給リスクから非石油経済への影響にシフト。紅海・ホルムズ海峡の地政学的リスクは引き続き原油価格を下支えするが、同国の経済多角化政策（ビジョン2030）への脅威が増大。原油市場の緊張感は維持されつつも、地域経済全体への不安が高まる局面。"
-  },
-  {
-    "title": "Saudi Aramco Nears Signing of $10 Billion Loan With Global Banks - Bloomberg.com",
-    "timestamp": "2026-10-26T13:37:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラムコが100億ドル規模の融資契約を複数の国際銀行と締結間近。供給投資能力の維持を示唆する資金調達だが、市場には既知情報。石油企業の資本調達は通常業務の範囲内で、即座の原油価格インパクトは限定的と予想される。"
-  },
-  {
-    "title": "Saudi Aramco Nears Signing of $10 Billion Loan With Global Banks - Bloomberg.com",
-    "timestamp": "2026-10-26T13:37:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラムコが100億ドル規模の融資契約を複数の国際銀行と締結間近。供給投資能力の維持を示唆する資金調達だが、市場には既知情報。石油企業の資本調達は通常業務の範囲内で、即座の原油価格インパクトは限定的と予想される。"
   },
   {
     "title": "USDA Revises September Corn Yield as Analysts Weigh Impact - Successful Farming",
@@ -251,17 +141,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDA Crop Progress報告（2026年10月25日時点）により、トウモロコシ収穫進捗が60%、大豆が79%に達した。両穀物とも順調に収穫が進行しており、豊作シナリオが強化されている。年末に向けた供給増加見通しが相場の下押し圧力となる可能性が高い。"
-  },
-  {
-    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
-    "timestamp": "2026-10-26T15:21:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下した。過去数年の放出と補充の遅れにより、現在のSPR水準は供給逼迫リスクを高めている。このニュースは原油の需給ギャップを拡大させる可能性があり、地政学的リスク下での供給不安を増幅させる懸念材料となっている。"
   },
   {
     "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com",
@@ -517,28 +396,6 @@
     "summary": "米国トウモロコシの収穫が中間地点を通過したことを伝える定期進捗報告。Crop Progress は毎週月曜に発表される公式統計であり、収穫進捗が予想の範囲内で推移していることを示唆。具体的な収穫率や前年比については本見出しのみでは判断不可だが、通常の季節進捗と考えられる。"
   },
   {
-    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
-    "timestamp": "2026-10-26T15:29:42+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの9月トウモロコシ予測に誤差が発生し、データの信頼性に関する懸念が再燃した。米国の主要穀物統計における精度問題は、市場参加者の価格見通し形成に大きな影響を与える。公式予測の信頼性低下は、市場のボラティリティ上昇とポジション調整を招く可能性が高い。"
-  },
-  {
-    "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns - Morning Ag Clips",
-    "timestamp": "2026-10-26T15:29:42+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAの9月トウモロコシ予測に誤差が発生し、データの信頼性に関する懸念が再燃した。米国の主要穀物統計における精度問題は、市場参加者の価格見通し形成に大きな影響を与える。公式予測の信頼性低下は、市場のボラティリティ上昇とポジション調整を招く可能性が高い。"
-  },
-  {
     "title": "Harvest Progress, Peace Talks Weigh on Grain Markets - Czapp",
     "timestamp": "2026-10-27T08:45:56+00:00",
     "importance": 3,
@@ -658,28 +515,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの原油輸出が全体として減少する一方で、バルト海の主要港での流量が回復しているという矛盾する動きを報告。西側制裁の迂回ルート活用による港湾レベルでの部分的な回復が見られるが、全体的な供給量は減少傾向。ロシアの石油供給戦略に変化の兆候。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 60% Harvested, Soybeans 79% Harvested as of Oct. 25 - DTN Progressive Farmer",
-    "timestamp": "2026-10-26T08:34:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAのCrop Progress統計（10月25日時点）によると、トウモロコシの収穫進捗は60%、大豆は79%に達した。例年比での進捗状況に関する詳細は記事から確認が必要だが、通常この時期の進捗段階では供給懸念が軽減され、両商品に下押し圧力が生じる傾向にある。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 60% Harvested, Soybeans 79% Harvested as of Oct. 25 - DTN Progressive Farmer",
-    "timestamp": "2026-10-26T08:34:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAのCrop Progress統計（10月25日時点）によると、トウモロコシの収穫進捗は60%、大豆は79%に達した。例年比での進捗状況に関する詳細は記事から確認が必要だが、通常この時期の進捗段階では供給懸念が軽減され、両商品に下押し圧力が生じる傾向にある。"
   },
   {
     "title": "USDA Crop Progress Report: Corn 60%, Soybeans 79%, Cotton 52% Harvested - News and Statistics - IndexBox",
@@ -1208,5 +1043,148 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国EIAが原油在庫の減少を報告。在庫低下は供給逼迫を示唆し、原油価格の上昇要因となる。具体的な在庫数値や前週比の減少幅が不明であるため、変動の大きさを判定することができない。市場では定期的に注視される重要統計。"
+  },
+  {
+    "title": "One farmer’s informal survey pokes holes in USDA’s yield math - Farm Progress",
+    "timestamp": "2026-10-28T06:40:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "農家による非公式調査がUSDAの収量計算に疑問を呈している。フィールド調査データがUSDA公式予測と乖離している可能性が指摘されており、WASDE発表時の収量見積もり信頼性に対する市場の疑念が高まる可能性がある。"
+  },
+  {
+    "title": "One farmer’s informal survey pokes holes in USDA’s yield math - Farm Progress",
+    "timestamp": "2026-10-28T06:40:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "農家による非公式調査がUSDAの収量計算に疑問を呈している。フィールド調査データがUSDA公式予測と乖離している可能性が指摘されており、WASDE発表時の収量見積もり信頼性に対する市場の疑念が高まる可能性がある。"
+  },
+  {
+    "title": "One farmer’s informal survey pokes holes in USDA’s yield math - Farm Progress",
+    "timestamp": "2026-10-28T06:40:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "農家による非公式調査がUSDAの収量計算に疑問を呈している。フィールド調査データがUSDA公式予測と乖離している可能性が指摘されており、WASDE発表時の収量見積もり信頼性に対する市場の疑念が高まる可能性がある。"
+  },
+  {
+    "title": "US crude inventories fall while gasoline stocks rise, according to the Energy Information Administration - energynews.pro",
+    "timestamp": "2026-10-29T07:01:58+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計で原油在庫が減少する一方、ガソリン在庫が増加したと報告された。原油需給と製品需要の乖離を示唆する相反する動きであり、市場心理に複雑な影響をもたらす可能性がある。原油価格は在庫減少で支持されるが、ガソリン需要弱化の懸念が相殺する。"
+  },
+  {
+    "title": "US crude inventories fall while gasoline stocks rise, according to the Energy Information Administration - energynews.pro",
+    "timestamp": "2026-10-29T07:01:58+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIAの週間在庫統計で原油在庫が減少する一方、ガソリン在庫が増加したと報告された。原油需給と製品需要の乖離を示唆する相反する動きであり、市場心理に複雑な影響をもたらす可能性がある。原油価格は在庫減少で支持されるが、ガソリン需要弱化の懸念が相殺する。"
+  },
+  {
+    "title": "US Crude Stocks Rise, Gasoline and Distillate Inventories Fall – EIA - EnergyNow.com",
+    "timestamp": "2026-10-28T07:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIAの週間在庫統計により、原油在庫は上昇した一方で、ガソリンと留分油（ディスティレート）在庫は低下したことが報告された。需要環境の分化と供給バランスの変化を示唆する結果であり、セクター別の価格圧力が異なる可能性がある。"
+  },
+  {
+    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
+    "timestamp": "2026-10-28T14:03:04+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAのトウモロコシ関連レポートで計算エラーが発見され、市場の信頼性が揺らいでいる。StoneXは公式統計データの精度に対する深刻な懸念を指摘。穀物相場全体の価格形成の基礎となるUSDAデータへの疑念が、投資家心理を悪化させている。"
+  },
+  {
+    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
+    "timestamp": "2026-10-28T14:03:04+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAのトウモロコシ関連レポートで計算エラーが発見され、市場の信頼性が揺らいでいる。StoneXは公式統計データの精度に対する深刻な懸念を指摘。穀物相場全体の価格形成の基礎となるUSDAデータへの疑念が、投資家心理を悪化させている。"
+  },
+  {
+    "title": "Copper eases but holds near two-week highs as tight China supply offers support - Investify",
+    "timestamp": "2026-10-29T06:04:55+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅価格は2週間ぶりの高値近辺を保持しており、若干の調整局面にあるが、中国国内の供給逼迫が価格を下支えしている。需給バランスの改善や供給制約が銅の上値を支えつつも、短期的な利益確定売りによる調整圧力が存在している状況。"
+  },
+  {
+    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow",
+    "timestamp": "2026-10-29T15:16:11+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で石油生産目標を据え置くことを決定した。既報の減産政策の継続を示唆するもので、サプライズはなく、市場予想の範囲内の結果と判断される。"
+  },
+  {
+    "title": "Sinopec’s Third-Quarter Profits Soar on Higher Oil Prices - Bloomberg.com",
+    "timestamp": "2026-10-29T09:56:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中国石油化工（Sinopec）の第3四半期利益が高い油価により増加した。この発表は原油価格が3Q期間に堅調に推移し、中国最大級の石油企業の業績改善をもたらしたことを示唆している。油価堅調の継続が期待される市場背景を反映している。"
+  },
+  {
+    "title": "Shell Reports Second-Highest Profit Ever as Refining Hits Record - Bloomberg.com",
+    "timestamp": "2026-10-29T11:01:17+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "シェルが過去2番目の利益を報告し、製油事業が記録的な高さに達した。石油精製マージンの急拡大と油価上昇の継続が利益を押し上げ、エネルギー企業の収益性が極めて高い状況を示唆している。これはエネルギー供給の逼迫感と需要の堅調さを反映している。"
+  },
+  {
+    "title": "Shell Reports Second-Highest Profit Ever as Refining Hits Record - Bloomberg.com",
+    "timestamp": "2026-10-29T11:01:17+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "シェルが過去2番目の利益を報告し、製油事業が記録的な高さに達した。石油精製マージンの急拡大と油価上昇の継続が利益を押し上げ、エネルギー企業の収益性が極めて高い状況を示唆している。これはエネルギー供給の逼迫感と需要の堅調さを反映している。"
   }
 ]
