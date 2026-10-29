@@ -1,115 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-26T20:30:51.278994+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-26T20:30:51.278994+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-26T20:30:51.278994+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-10-26T20:30:51.278994+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国主要穀物の作付進捗状況と生育状況の推移を把握する定例統計。具体的な進捗率や気象影響に関する詳細データが含まれる見込み。市場参加者にとっては後続のWASDEレポートへの予兆情報として機能。"
-  },
-  {
-    "title": "Arable Market Report – 26 October 2026 - AHDB",
-    "timestamp": "2026-10-26T16:41:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "AHDB穀物市場レポート（2026年10月26日）。英国および欧州の穀物市場の定期的な状況更新と見込み値の報告。具体的な数値・予想修正の詳細が提供元リンクのため、レポート本体へのアクセスなしに内容判断が不可能。"
-  },
-  {
-    "title": "Arable Market Report – 26 October 2026 - AHDB",
-    "timestamp": "2026-10-26T16:41:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "AHDB穀物市場レポート（2026年10月26日）。英国および欧州の穀物市場の定期的な状況更新と見込み値の報告。具体的な数値・予想修正の詳細が提供元リンクのため、レポート本体へのアクセスなしに内容判断が不可能。"
-  },
-  {
-    "title": "Arable Market Report – 26 October 2026 - AHDB",
-    "timestamp": "2026-10-26T16:41:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "AHDB穀物市場レポート（2026年10月26日）。英国および欧州の穀物市場の定期的な状況更新と見込み値の報告。具体的な数値・予想修正の詳細が提供元リンクのため、レポート本体へのアクセスなしに内容判断が不可能。"
-  },
-  {
-    "title": "USDA Corn Data Error Shakes Confidence in 2026 Crop Forecasts - AgroLatam",
-    "timestamp": "2026-10-26T17:08:42+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAのトウモロコシデータに重大な誤りが発見され、2026年度の作物予測に対する市場の信頼性が大きく損なわれた。統計信頼性の喪失は穀物市場全体のボラティリティ上昇につながり、投資家のポジション調整を誘発。今後の公式統計発表に対する警戒感が急速に高まっている。"
-  },
-  {
-    "title": "USDA Corn Data Error Shakes Confidence in 2026 Crop Forecasts - AgroLatam",
-    "timestamp": "2026-10-26T17:08:42+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAのトウモロコシデータに重大な誤りが発見され、2026年度の作物予測に対する市場の信頼性が大きく損なわれた。統計信頼性の喪失は穀物市場全体のボラティリティ上昇につながり、投資家のポジション調整を誘発。今後の公式統計発表に対する警戒感が急速に高まっている。"
-  },
-  {
-    "title": "Equities climb as Anthropic's IPO filing buoys AI stocks - Reuters",
-    "timestamp": "2026-10-26T18:37:31+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Anthropic（AI企業）のIPO申請がAI関連株を押し上げ、これに伴い株式市場全体が上昇している。ただしこのニュースはテクノロジー・成長株セクターに限定された影響であり、コモディティ市場への直接的な需給影響は限定的である。"
-  },
-  {
     "title": "USDA Revises September Corn Yield as Analysts Weigh Impact - Successful Farming",
     "timestamp": "2026-10-26T21:41:43+00:00",
     "importance": 3,
@@ -121,28 +11,6 @@
     "summary": "USDAが9月のトウモロコシ単収予想を改定した。同レポートはCrop Progressの一環として定期公表されており、市場では改定内容が収量見通しに与える影響を検討している。具体的な改定幅や新予想値は記事要約には明記されていないが、改定が報じられたこと自体が市場注視の対象になっている。"
   },
   {
-    "title": "USDA Crop Progress: Corn Harvest at 60%, Soybeans 79% as of October 25, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-10-26T20:50:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progress報告（2026年10月25日時点）により、トウモロコシ収穫進捗が60%、大豆が79%に達した。両穀物とも順調に収穫が進行しており、豊作シナリオが強化されている。年末に向けた供給増加見通しが相場の下押し圧力となる可能性が高い。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn Harvest at 60%, Soybeans 79% as of October 25, 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-10-26T20:50:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progress報告（2026年10月25日時点）により、トウモロコシ収穫進捗が60%、大豆が79%に達した。両穀物とも順調に収穫が進行しており、豊作シナリオが強化されている。年末に向けた供給増加見通しが相場の下押し圧力となる可能性が高い。"
-  },
-  {
     "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com",
     "timestamp": "2026-10-26T23:40:33+00:00",
     "importance": 1,
@@ -152,17 +20,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Anthropicが新規公開買収（IPO）を申請したというテクノロジーセクターのニュースがアジア株全般に好感されるとの見方。ただしこのニュースは直接的なコモディティ需給・供給要因に関連していない。テクノロジー企業の上場はコモディティ市場への間接的な影響の可能性があるものの、短期的な相関性は限定的。"
-  },
-  {
-    "title": "OPEC+ Agrees to September Oil Hike, Completing Rollback of Voluntary Cuts - EnergyNow.com",
-    "timestamp": "2026-10-26T16:24:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月の石油生産引き上げを決定し、それまでの自主的減産措置のロールバックを完了した。段階的な増産計画の最終段階であり、市場はこの決定を概ね織り込み済み。原油価格には上昇圧力が働くが、既知の情報に基づく調整のため大幅なサプライズは限定的。"
   },
   {
     "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive - Reuters",
@@ -1186,5 +1043,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "シェルが過去2番目の利益を報告し、製油事業が記録的な高さに達した。石油精製マージンの急拡大と油価上昇の継続が利益を押し上げ、エネルギー企業の収益性が極めて高い状況を示唆している。これはエネルギー供給の逼迫感と需要の堅調さを反映している。"
+  },
+  {
+    "title": "Ohio Corn & Wheat demands transparency after costly USDA data error – Ohio Ag Net - Ohio's Country Journal",
+    "timestamp": "2026-10-29T19:38:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "オハイオ州の農業団体が、USDAのデータエラーによる経済的損失を受け、透明性の向上を要求。WASDEを含むUSDA統計の信頼性と正確性が問題化。市場参加者がUSDA公式データへの依存度が高いため、データエラーは価格形成に影響。詳細な誤りの内容や規模は報道から不明。"
+  },
+  {
+    "title": "Ohio Corn & Wheat demands transparency after costly USDA data error – Ohio Ag Net - Ohio's Country Journal",
+    "timestamp": "2026-10-29T19:38:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "オハイオ州の農業団体が、USDAのデータエラーによる経済的損失を受け、透明性の向上を要求。WASDEを含むUSDA統計の信頼性と正確性が問題化。市場参加者がUSDA公式データへの依存度が高いため、データエラーは価格形成に影響。詳細な誤りの内容や規模は報道から不明。"
+  },
+  {
+    "title": "Capstone Copper Reports Third Quarter 2026 Results - Business Wire",
+    "timestamp": "2026-10-29T20:16:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "Capstone Copperが2026年第3四半期決算を発表。銅鉱山企業の定期業績報告。具体的な生産量・売上・利益などの数値は提供されたサマリーからは判断不可。市場予想との比較データがないため、サプライズ度は不明。"
+  },
+  {
+    "title": "Satellites Show Saudi Persian Gulf Oil Loadings Hit Wartime High - Bloomberg.com",
+    "timestamp": "2026-10-29T17:28:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "衛星画像データがサウジアラビアのペルシャ湾での原油積み出しが戦時下の最高水準に達したことを示唆している。地政学的緊張の中での供給動向の変化は、市場の供給懸念を増幅させる。衛星監視による積み出し量の大幅増加は、OPEC+の政策シグナルと市場心理に大きな影響を与える可能性がある。"
   }
 ]
