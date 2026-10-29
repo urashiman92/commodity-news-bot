@@ -1,159 +1,5 @@
 [
   {
-    "title": "ＩＮＰＥＸや石油資源が反発、中東警戒感続き前週末に原油先物相場が上昇 - 株探",
-    "timestamp": "2026-10-26T00:43:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東地政学リスク継続への警戒感を背景に、前週末の原油先物相場が上昇。INPEXなど国内石油関連株も反発した。既知の地政学リスク要因の継続報道。"
-  },
-  {
-    "title": "原油価格の高騰を受け、マレーシアは燃料補助金を出している。 - Vietnam.vn",
-    "timestamp": "2026-10-26T00:12:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "マレーシアが原油高騰に対応して燃料補助金を実施。政府による需要維持策だが、市場供給バランスには直接的な影響は限定的。域内政策の動向を示す参考情報。"
-  },
-  {
-    "title": "先週、小麦と銀の価格はともに急落した。 - Vietnam.vn",
-    "timestamp": "2026-10-26T04:53:27+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "先週、小麦と銀の価格が同時に急落した。具体的な下落要因は記事からは不明。単なる相場振り返りの報道。"
-  },
-  {
-    "title": "金価格、3カ月ぶり安値付近で推移 今週のＦＯＭＣ控え - Reuters",
-    "timestamp": "2026-10-26T01:55:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶりの安値圏に位置している。今週のFOMC（米連邦公開市場委員会）開催を控えており、金利決定への市場注視度が高まっている。米金利上昇局面が金の下押し圧力となっている可能性。"
-  },
-  {
-    "title": "金価格、3カ月ぶり安値付近で推移 今週のＦＯＭＣ控え - ニューズウィーク日本版",
-    "timestamp": "2026-10-26T01:55:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶりの安値付近で推移している。FOMC開催を控え、市場は金利動向に神経質になっている。ドル強気観測がコモディティとしての金を圧迫している。"
-  },
-  {
-    "title": "金価格、3カ月ぶり安値付近で推移―原油高と米FRB会合に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-26T03:00:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶりの安値付近で推移している。原油高と米FRB会合が相場の焦点となっている。ドル強気観測がドル建て金の買い材料を減じている可能性がある。"
-  },
-  {
-    "title": "金価格が4000ドルの節目を割り込む、銀は約1年ぶり安値 FRB会合前に市場は圧迫 - BigGo ファイナンス",
-    "timestamp": "2026-10-26T04:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金が4000ドルを割り込み、銀も約1年ぶりの安値まで下落。FRB会合を控えた市場の金融引き締め観測と高金利継続の懸念が、利回りを生まない貴金属の売圧につながっている。"
-  },
-  {
-    "title": "世界の金価格は依然として「停滞」状態にある。 - Vietnam.vn",
-    "timestamp": "2026-10-26T04:12:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界の金価格が停滞状態にあるとの観測記事。特定の新規材料や価格変動を示すものではなく、現状の市場状況の評論。コモディティ投資家にとって即時的な売買シグナルには該当しない。"
-  },
-  {
-    "title": "金価格、3カ月ぶり安値付近で推移　今週のＦＯＭＣ控え - ｄメニューニュース",
-    "timestamp": "2026-10-26T01:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶりの安値圏で推移中。FOMC決定控えで投資家が様子見姿勢を強めている。ドル強気転換とリスク回避需要の低下が下押し圧力。"
-  },
-  {
-    "title": "金価格、3カ月ぶり安値付近で推移 今週のＦＯＭＣ控え｜Infoseekニュース - Infoseek",
-    "timestamp": "2026-10-26T01:55:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3カ月ぶり安値付近で推移している。FOMC（米国連邦公開市場委員会）の会合を今週に控え、市場が金利動向を警戒している状況。ドル強気相場の継続で金売却圧力が続く。"
-  },
-  {
-    "title": "ＩＮＰＥＸ---大幅反発、中東情勢緊迫化で週末にNY原油相場が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-26T02:14:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫化を受けてNY原油相場が週末に上昇。INPEXも大幅反発した。地政学的リスク プレミアムが原油価格に織り込まれている。"
-  },
-  {
-    "title": "アジアの原油価格は、約6カ月ぶりの高値をつけた後、下落に転じた。 - Vietnam.vn",
-    "timestamp": "2026-10-26T03:21:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アジア原油は約6カ月ぶりの高値を付けた後、下落に転じた。短期的なテクニカル調整の可能性が高い。供給・需要の根本的な変化を示唆するニュースではない。"
-  },
-  {
-    "title": "ＩＮＰＥＸ---大幅反発、中東情勢緊迫化で週末にNY原油相場が上昇 - ｄメニューニュース",
-    "timestamp": "2026-10-26T02:14:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫化により週末のNY原油相場が上昇し、連動してINPEXが大幅反発。地政学的リスクプレミアムが価格に反映された。"
-  },
-  {
-    "title": "米国での収穫による売り圧力と原油安を受け、大豆価格は２カ月ぶりの安値に下落した - TradingView",
-    "timestamp": "2026-10-26T01:37:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "米国での大豆収穫が本格化し、供給増加による売り圧力が発生。同時に原油安も重石となり、大豆先物は2カ月ぶりの安値まで下落した。季節的な供給増加は想定内の動き。"
-  },
-  {
     "title": "小麦と銀の価格は同時に急落し、MXV指数は変動する。 - Vietnam.vn",
     "timestamp": "2026-10-26T06:18:25+00:00",
     "importance": 2,
@@ -220,17 +66,6 @@
     "summary": "来週は複数の市場変動要因が集中する見通し。原油価格は下落傾向。具体的な触媒イベント（FOMC、EIA統計など）の内容次第で相場が変わる可能性。"
   },
   {
-    "title": "ETF売買動向＝26日前引け、ｉＦエネ上流、ＷＴＩ原油が新高値(株探ニュース) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-26T02:32:53+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が新高値を更新し、iシェアーズ グローバル MSCI エネルギーETFなど関連ETFが買われた。原油相場の上昇トレンドが継続している状況の報道。"
-  },
-  {
     "title": "岡山県内でガソリン価格値上げ イラン情勢悪化、原油価格高騰 - 山陽新聞",
     "timestamp": "2026-10-26T07:48:30+00:00",
     "importance": 2,
@@ -240,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "イラン情勢悪化に伴う原油価格高騰により、岡山県内のガソリン価格が値上げされた。地政学的リスク要因が市場に反映された形での地域別ガソリン価格上昇の報道。"
-  },
-  {
-    "title": "米国原油先物 (USOIL-F) は10月26日にボラティリティが強まった：注目すべき点 - TradingKey",
-    "timestamp": "2026-10-26T02:00:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月26日の米国原油先物でボラティリティが強まったと報じられている。具体的な価格変動幅や要因が明示されていない解説記事。既に発生した相場の振り返り・分析。"
   },
   {
     "title": "ロシアの黒海穀物輸送協議を受け、欧州小麦価格が2カ月ぶり安値に下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -273,17 +97,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が一時4000ドルを下回った。株式相場の下落に伴う投資家の換金売り圧力が金にも波及している。リスク資産調整局面での安全資産売却の連鎖。"
-  },
-  {
-    "title": "金価格ディリーレポート（2026年10月26日）金価格は4000ドルを回復、直近の急落前の投機筋の買い越し縮小は過去と比べ限定的 - ブリオンボールト",
-    "timestamp": "2026-10-26T04:30:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4000ドルを回復した。投機筋の買い越しは直近の急落前よりも縮小幅が限定的であり、過去の同様の局面と比べても異なる状況が続いている。"
   },
   {
     "title": "本日2026年10月27日、金価格は1オンスあたり4,000ドルを回復し、投資家にとって好材料となっています。今、金を購入すべきでしょうか？ - Vietnam.vn",
@@ -438,17 +251,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4,000ドルを超えた。記事は底入れか反発かの判断を提示しており、相場の転換点についての解説記事。具体的な新規材料より、既存トレンドの分析に焦点。"
-  },
-  {
-    "title": "Gold Price on 25 October 2026 - Gold Price",
-    "timestamp": "2026-10-26T03:31:07+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年10月25日の金価格に関する定期的な相場情報記事。具体的な価格変動や市場イベントの詳細は提供されていない。"
   },
   {
     "title": "ロンドン株26日 反発、原油先物の上昇一服が支え - 日本経済新聞",
@@ -1692,5 +1494,159 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で混合的な値動き。エネルギー（原油、ガソリン、天然ガス）と銅、トウモロコシが上昇した一方で、貴金属と穀物（金、銀、小麦、大豆）が下落。市場内での相場の振れを観測したもの。"
+  },
+  {
+    "title": "金価格、FRBの金利据え置き後に下落――PCEインフレ指標に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-29T01:21:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBが金利据え置きを決定し、金価格は下落した。市場は今後のPCEインフレ指標の動向に注目している。金利据え置きは事前予想通りであり、サプライズは限定的。"
+  },
+  {
+    "title": "本日（10月29日）の金価格：安定 - Vietnam.vn",
+    "timestamp": "2026-10-29T05:11:54+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月29日の金価格が「安定」していることを報じた記事。具体的な価格水準や変動幅の情報がないため、単なる市況報告と推定される。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･28日 3日ぶり反落 - TradingView",
+    "timestamp": "2026-10-28T20:35:06+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物が3日ぶりに反落した。市場概況の報道であり、具体的な価格変動幅や反落の理由が不明。通常のボラティリティ範囲内の値動きと判断される。"
+  },
+  {
+    "title": "リファスタ｜10/29 木 金価格予想22,430円(▲103円)｜杉兼太朗 - JIJICO",
+    "timestamp": "2026-10-28T22:51:44+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリスト杉兼太朗氏による10月29日の金価格予想。前日比+103円で22,430円との見通し。既存トレンドの範囲内の解説予想。"
+  },
+  {
+    "title": "金価格は急騰した後、反転して下落した。 - Vietnam.vn",
+    "timestamp": "2026-10-29T03:27:17+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急騰後に反転下落した動きについての振り返り記事。具体的な値幅や変動要因の詳細が不明だが、既に発生した価格変動の報道と考えられる。短期的なボラティリティの報告にとどまる。"
+  },
+  {
+    "title": "金価格は史上最高値から下落しており、1オンスあたり3000ドルというシナリオも検討されている。 - Vietnam.vn",
+    "timestamp": "2026-10-29T02:57:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が史上最高値から下落トレンドにあり、アナリストが3000ドル/オンスまでの下値シナリオを検討している。現在の調整局面を反映した見解で、市場の警戒感が高まっている。"
+  },
+  {
+    "title": "米株価指数先物 ダウ一段高、原油先物が軟調 ナスダックは安い - みんかぶ FX/為替",
+    "timestamp": "2026-10-29T05:40:29+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国株価指数先物でダウが上昇する一方、原油先物は軟調に推移。ナスダック先物は下落。株価と原油の乖離が見られる相場展開。"
+  },
+  {
+    "title": "ETF売買動向＝29日前引け、ＷＴＩ原油、野村原油が新高値 - 株探",
+    "timestamp": "2026-10-29T02:32:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油と野村原油ETFが新高値を更新した。市場全体の上昇基調を反映した動き。具体的なファンダメンタルズ変化の報道は不明。"
+  },
+  {
+    "title": "原油価格の急騰で米クルーズ船が運航停止 - CGTN Japanese",
+    "timestamp": "2026-10-29T05:45:52+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格上昇によりクルーズ船の燃料コストが増加し運航停止を余儀なくされた。需要減少を示唆する事例だが、市場全体への直接的な影響は限定的。既知の価格上昇の帰結を述べたもの。"
+  },
+  {
+    "title": "ペトロチャイナは１～９月２２％増益、原油相場が上昇(サーチナ) - Yahoo!ファイナンス",
+    "timestamp": "2026-10-29T04:58:16+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ペトロチャイナが1～9月期に22％の増益を達成し、原油相場上昇が寄与したと報道。既に公表済みの決算結果の振り返り解説。"
+  },
+  {
+    "title": "原油価格、イラン外交交渉と攻撃リスクの狭間で下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-29T00:37:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン外交交渉の進展期待と地政学的攻撃リスクが相反する中で、原油価格が下落。供給途絶リスクの軽減観測が売り圧力になっている。"
+  },
+  {
+    "title": "銅価格は、市場がFRBからのシグナルを待つ中、2週間ぶりの高値付近で推移している。 - Vietnam.vn",
+    "timestamp": "2026-10-29T00:54:49+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が2週間ぶりの高値圏で推移している。市場がFRBの金融政策シグナルを待機中である。既出の値動きを伝える相場解説である。"
+  },
+  {
+    "title": "江西銅業の第3四半期利益は前四半期比47%減、米銀はなお「買い」維持・H株目標価格50香港ドル - BigGo ファイナンス",
+    "timestamp": "2026-10-29T05:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "江西銅業の第3四半期利益が前四半期比47%減少。米銀アナリストは目標株価50香港ドルで「買い」を維持している。利益減少にもかかわらず、ポジティブな見方が継続されている。"
+  },
+  {
+    "title": "２８日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-10-28T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "28日の主要国際商品市況に関する定期的な市場レポート。具体的な価格変動や市場ドライバーの詳細が不明。"
   }
 ]
