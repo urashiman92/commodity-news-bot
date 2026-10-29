@@ -1,16 +1,5 @@
 [
   {
-    "title": "Saudi Arabia to store oil in Singapore to bolster Asia supply security - Reuters",
-    "timestamp": "2026-10-26T01:47:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがシンガポールに石油備蓄施設を建設し、アジア地域のエネルギー供給安定化を図る。戦略的備蓄の増加により、中東から主要消費地アジアへの供給チェーン強化と価格下支え効果が期待される。"
-  },
-  {
     "title": "Houthis say they attacked East-West oil pumping stations; No Saudi confirmation - Reuters",
     "timestamp": "2026-10-26T03:48:00+00:00",
     "importance": 4,
@@ -75,17 +64,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "米国のトウモロコシ収穫期の進捗報告で、実際の収量が事前予想を下回る可能性が指摘されている。Crop Progress等の定期統計との乖離が示唆されており、USDA推定値の下方修正につながる可能性がある。供給削減見通しがトウモロコシ価格の上昇圧力となる。"
-  },
-  {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-10-25T23:05:23+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストBoussoが、ホルムズ海峡の再開通がOPECの原油市場支配力を弱める可能性を指摘。同海峡の緊張緩和と通航再開は、OPECの減産による価格支持メカニズムの有効性を低下させる懸念を提示。市場の供給過剰シナリオへの警戒感が高まる。"
   },
   {
     "title": "Russia’s War on Ukraine Is Straining Food and Fuel Supply - Bloomberg.com",
@@ -262,28 +240,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が11月の石油生産目標を据え置くことに合意した。これは既に市場で織り込まれていた決定で、減産政策の継続を示唆している。供給面での大きな変化がないため、原油価格への直接的な上下圧力は限定的。"
-  },
-  {
-    "title": "World stocks gain ahead of 'formidable' week for risk; oil prices ease - Reuters",
-    "timestamp": "2026-10-26T00:46:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "世界株が上昇し、リスク選好が優位である一方、週間を控えた不確実性が市場に緊張をもたらしている。原油価格は小幅な後退を示し、エネルギー市場ではボラティリティが観察されている。金融市場の大型イベント（FOMC等）を控えた調整局面と判断される。"
-  },
-  {
-    "title": "World stocks gain ahead of 'formidable' week for risk; oil prices ease - Reuters",
-    "timestamp": "2026-10-26T00:46:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "世界株が上昇し、リスク選好が優位である一方、週間を控えた不確実性が市場に緊張をもたらしている。原油価格は小幅な後退を示し、エネルギー市場ではボラティリティが観察されている。金融市場の大型イベント（FOMC等）を控えた調整局面と判断される。"
   },
   {
     "title": "Russian refiners ramp up diesel output after US deal, sources say - Reuters",
@@ -1362,5 +1318,49 @@
     "source": "FRB金融政策",
     "commodity": "銅",
     "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
+  },
+  {
+    "title": "Nigeria Ramps Up Crude Output, Meets OPEC Quota for Five Straight Months - THISDAYLIVE",
+    "timestamp": "2026-10-28T19:33:10+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ナイジェリアが原油生産を増加させ、5ヶ月連続でOPEC割り当て量を達成したと報道。同国は産油国の中でも長らく減産圧力にさらされていたが、セキュリティ強化やインフラ改善により生産回復が実現。OPECの供給安定性向上シグナルとなる。"
+  },
+  {
+    "title": "Global stocks hold gains after Fed decision, oil prices rise - Reuters",
+    "timestamp": "2026-10-28T01:40:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "FRB金融政策決定を受けて、グローバル株式市場が堅調に推移する中、原油価格が上昇している。利上げ・金融引き締め政策はドル強化を通じて金などの無利子資産に下落圧力を与える一方、株高や実体経済への楽観が原油需要期待につながっている。金と原油の方向性が分岐する典型的なシナリオ。"
+  },
+  {
+    "title": "Global stocks hold gains after Fed decision, oil prices rise - Reuters",
+    "timestamp": "2026-10-28T01:40:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "FRB金融政策決定を受けて、グローバル株式市場が堅調に推移する中、原油価格が上昇している。利上げ・金融引き締め政策はドル強化を通じて金などの無利子資産に下落圧力を与える一方、株高や実体経済への楽観が原油需要期待につながっている。金と原油の方向性が分岐する典型的なシナリオ。"
+  },
+  {
+    "title": "Global stocks hold gains after Fed decision, oil prices rise - Reuters",
+    "timestamp": "2026-10-28T01:40:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "FRB金融政策決定を受けて、グローバル株式市場が堅調に推移する中、原油価格が上昇している。利上げ・金融引き締め政策はドル強化を通じて金などの無利子資産に下落圧力を与える一方、株高や実体経済への楽観が原油需要期待につながっている。金と原油の方向性が分岐する典型的なシナリオ。"
   }
 ]
