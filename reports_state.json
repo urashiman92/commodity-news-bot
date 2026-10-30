@@ -1,38 +1,5 @@
 [
   {
-    "title": "USDA Revises September Corn Yield as Analysts Weigh Impact - Successful Farming",
-    "timestamp": "2026-10-26T21:41:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが9月のトウモロコシ単収予想を改定した。同レポートはCrop Progressの一環として定期公表されており、市場では改定内容が収量見通しに与える影響を検討している。具体的な改定幅や新予想値は記事要約には明記されていないが、改定が報じられたこと自体が市場注視の対象になっている。"
-  },
-  {
-    "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-10-26T23:40:33+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Anthropicが新規公開買収（IPO）を申請したというテクノロジーセクターのニュースがアジア株全般に好感されるとの見方。ただしこのニュースは直接的なコモディティ需給・供給要因に関連していない。テクノロジー企業の上場はコモディティ市場への間接的な影響の可能性があるものの、短期的な相関性は限定的。"
-  },
-  {
-    "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive - Reuters",
-    "timestamp": "2026-10-27T00:37:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東外交の進展期待により原油は軟調だが、サウジアラビアへの攻撃による供給懸念が下値を支えている。地政学的リスクと外交交渉の動向が相反する要因となっており、市場は方向性を定めあぐねている状況。"
-  },
-  {
     "title": "Fall Harvest Makes Good Progress - KNSI",
     "timestamp": "2026-10-27T10:53:54+00:00",
     "importance": 2,
@@ -1087,5 +1054,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "衛星画像データがサウジアラビアのペルシャ湾での原油積み出しが戦時下の最高水準に達したことを示唆している。地政学的緊張の中での供給動向の変化は、市場の供給懸念を増幅させる。衛星監視による積み出し量の大幅増加は、OPEC+の政策シグナルと市場心理に大きな影響を与える可能性がある。"
+  },
+  {
+    "title": "Russia to extend diesel export ban, use quotas to fulfil US deal, sources say - Reuters",
+    "timestamp": "2026-10-29T15:48:19+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアがディーゼル輸出禁止を延長し、配給制度を導入してUS制裁対応を継続する。供給制約が長期化する見通しで、既に逼迫したグローバル軽油市場にさらなる圧力。欧州・アジア市場での調達難と価格上昇リスクが顕在化。"
   }
 ]
