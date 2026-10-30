@@ -66,39 +66,6 @@
     "summary": "イエメンの親イラン勢力フーシ派が、サウジアラビアのラス・タンウラ製油所への攻撃を実行したと発表。同施設はサウジ最大級の石油精製施設であり、世界の石油供給に対する直接的な脅威となる。地政学的リスクの顕在化により、原油価格は上昇圧力を受ける可能性が高い。"
   },
   {
-    "title": "No pressure from US to cut Russian oil imports, Indian oil minister says - Reuters",
-    "timestamp": "2026-10-27T06:13:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド石油大臣が米国からロシア産石油の輸入削減を求める圧力を受けていないと発言。インドはロシア産原油の主要購入国であり、地政学的緊張下での同国の独立した調達姿勢を示す声明。ただし既知の事実の確認に過ぎず、市場への新規情報は限定的。"
-  },
-  {
-    "title": "Stocks rise and oil slips on Middle East diplomacy efforts ahead of Big Tech earnings - Reuters",
-    "timestamp": "2026-10-27T01:46:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の外交努力による緊張緩和への期待から、地政学的リスク・プレミアムが減少し原油が軟化。一方、Big Tech企業決算を控えた株価上昇の相場心理が、ドル上昇やリスクオン環境をもたらし、コモディティ全般に対して混合シグナルをもたらしている。"
-  },
-  {
-    "title": "Stocks rise and oil slips on Middle East diplomacy efforts ahead of Big Tech earnings - Reuters",
-    "timestamp": "2026-10-27T01:46:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東の外交努力による緊張緩和への期待から、地政学的リスク・プレミアムが減少し原油が軟化。一方、Big Tech企業決算を控えた株価上昇の相場心理が、ドル上昇やリスクオン環境をもたらし、コモディティ全般に対して混合シグナルをもたらしている。"
-  },
-  {
     "title": "Saudi Arabia Contains Fire Near Ras Tanura Oil Hub After Attack - Bloomberg.com",
     "timestamp": "2026-10-27T09:14:45+00:00",
     "importance": 4,
@@ -317,17 +284,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金相場の見通しについてのポーランド調査。強いドル高と高金利が金の上値を抑える下押し要因として機能する一方で、中央銀行による継続的な買い需要が支援材料となっている。金利上昇による無利子資産としての魅力低下とドル強化による価格競争力低下が主な逆風。"
-  },
-  {
-    "title": "COMMENTARY: Canada takes a page from the Saudi oil playbook - Reuters",
-    "timestamp": "2026-10-27T06:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "カナダがサウジアラビアの石油戦略を模倣し、供給管理を通じた価格支援策を検討していると報じられている。カナダの原油生産調整がOPEC型の減産戦略に転換する可能性を指摘するコメンタリー。供給サイドの構造的変化が原油相場を下支えする要因となりうる。"
   },
   {
     "title": "Russia Ships Less Crude Even as Key Baltic Port’s Flows Rebound - Bloomberg.com",
@@ -1065,5 +1021,49 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアがディーゼル輸出禁止を延長し、配給制度を導入してUS制裁対応を継続する。供給制約が長期化する見通しで、既に逼迫したグローバル軽油市場にさらなる圧力。欧州・アジア市場での調達難と価格上昇リスクが顕在化。"
+  },
+  {
+    "title": "Copper slips on concerns over AI demand, high US inventories - Investify",
+    "timestamp": "2026-10-29T11:27:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅相場が軟調に推移。AI需要の伸び悩みに対する懸念と、米国の在庫水準が高いことが価格の重石となっている。AIブームによる銅需要への期待が調整局面を迎えた可能性。"
+  },
+  {
+    "title": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war - Reuters",
+    "timestamp": "2026-10-30T02:27:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡におけるタンカー攻撃が発生し、中東地域の供給リスクが顕在化した。これは戦争に起因する地政学的リスク顕現であり、原油市場に直結する懸念を生じさせている。4ヶ月連続の月間上昇が見込まれる展開となっており、供給途絶の可能性が価格を大きく支持している。"
+  },
+  {
+    "title": "Ukraine pauses strikes on Russian refineries after pressure from Trump, WSJ reports - Reuters",
+    "timestamp": "2026-10-30T00:28:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがトランプ大統領の圧力を受けてロシア製油所への攻撃を一時停止した。これまでウクライナはロシアの石油精製能力を削減するため製油所攻撃を戦略的に実施してきたが、米国の外交圧力により軍事戦術が変更される異例の事態。ロシアの原油供給制約圧力が緩和され、原油価格の上昇要因が減少する可能性がある。"
+  },
+  {
+    "title": "ANZ Raises Oil Price Forecast as Market Tightens on Iran War - Bloomberg.com",
+    "timestamp": "2026-10-30T02:18:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ANZがイラン情勢の緊張化に伴う市場逼迫を理由に原油価格見通しを引き上げた。イラン関連の地政学リスクは供給途絶の懸念を生じさせ、市場が既存コンセンサスから大きく上方修正されている。供給サイドへの直接的な脅威として機能している。"
   }
 ]
