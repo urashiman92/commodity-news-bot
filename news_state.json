@@ -1,38 +1,5 @@
 [
   {
-    "title": "金と銀の価格は下落を続け、投資家は大きな損失を被っている。 - Vietnam.vn",
-    "timestamp": "2026-10-27T18:08:17+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金と銀の価格が下落局面を継続しており、投資家が損失を被っている状況についての相場解説。既に進行中の下落トレンドの報道であり、新規材料ではない。"
-  },
-  {
-    "title": "NY外為：ドル買い弱まる、NY原油先物は100ドル割り込む、米10年債利回りも5％割れ - ｄメニューニュース",
-    "timestamp": "2026-10-27T16:15:56+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル買い圧力の緩和とともにNY原油先物が100ドルを割り込んだ。米10年債利回りも5%を下回った。金融引き締め期待の後退が背景。"
-  },
-  {
-    "title": "【フリーポート・マクモラン 2026年第3四半期決算説明会】銅価格急騰がガイダンス引き下げと設備投資増を相殺、純利益80%増 - BigGo ファイナンス",
-    "timestamp": "2026-10-27T17:14:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "フリーポート・マクモランが2026年Q3決算で純利益80%増を報告。銅価格の急騰が業績を押し上げた一方、ガイダンス引き下げと設備投資増加により部分的に相殺。銅需給ひっ迫の環境下で大手鉱山企業の増益が確認された。"
-  },
-  {
     "title": "原油価格で説明できる？米国のインフレと「予想外の利上げ」 - 毎日新聞",
     "timestamp": "2026-10-27T22:00:00+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米国のインフレと予想外の利上げが原油価格との関連性を分析する解説記事。原油価格がインフレ要因の一つとして議論されている。過去の価格動向とFRBの政策決定との相互関係を検証するもの。"
-  },
-  {
-    "title": "原油先物約2ドル安、中東の海上輸送混乱で6カ月ぶり高値圏維持 - ニューズウィーク日本版",
-    "timestamp": "2026-10-27T20:47:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が約2ドル下落したが、中東の海上輸送混乱により6ヶ月ぶりの高値圏を維持している。供給リスク要因と価格調整のバランスが取れた状況。"
   },
   {
     "title": "原油先物が反落、一時2ドル安 ホルムズ攻撃最多で高値圏なお維持 - BigGo ファイナンス",
@@ -75,17 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY市場でダウ指数が小幅上昇した一方、WTI原油先物は1.86ドル安で取引を終了。市場の相反する動きを示唆している。"
-  },
-  {
-    "title": "原油先物約2ドル安、中東の海上輸送混乱で6カ月ぶり高値圏維持 - Infoseek",
-    "timestamp": "2026-10-27T20:47:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東海上輸送混乱により原油先物は約2ドル安で推移するも、6カ月ぶり高値圏を維持している。地政学的リスクが継続的に価格を下支えしている状況。"
   },
   {
     "title": "金（ゴールド）相場の中期展望｜この先も4,000ドル近辺をさまよい続けるのか？ 2026年10月28日 - 外為どっとコム",
@@ -143,28 +88,6 @@
     "summary": "ベトナムメディアによる10月28日の金価格に関する報道。具体的な価格水準や変動要因の記載がなく、単なる日次価格情報の掲載と推定される。"
   },
   {
-    "title": "金価格、4,005ドル割れ FRB決定控えドルが2週間ぶり高値圏で推移 - BigGo ファイナンス",
-    "timestamp": "2026-10-27T18:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,005ドル割れ。ドルが2週間ぶりの高値圏で推移しており、FRB決定を控えて金売却圧力が強まっている。ドル高が金相場の重しになっている状況。"
-  },
-  {
-    "title": "原油先物約2ドル安、中東の海上輸送混乱で6カ月ぶり高値圏維持 - Reuters",
-    "timestamp": "2026-10-27T20:47:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東での海上輸送混乱により、原油先物は約2ドル安となったものの、依然として6カ月ぶりの高値圏を維持している。供給リスク要因が価格の下支え要因として機能している状況。"
-  },
-  {
     "title": "WTI原油見通し(市況ニュース)：中東和平への期待感から、原油価格は2営業日続落（2026年10月28日） - OANDA証券",
     "timestamp": "2026-10-27T23:29:24+00:00",
     "importance": 2,
@@ -196,17 +119,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "10月28日時点で世界原油価格は下落トレンドが継続している。10月29日の価格調整を控えた状況での報道。ベトナムの国内燃料価格調整前の市場解説。"
-  },
-  {
-    "title": "中国の国有系買い手が米国産大豆の購入を増やすなか、大豆先物はもみ合い - Traders Union",
-    "timestamp": "2026-10-27T17:09:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "中国の国有系買い手が米国産大豆の購入を増やしている。大豆先物は買いと売りのバランスが取れた状態でもみ合っている。需要側の動きは価格を支えるが、市場は一方向の動きを示していない。"
   },
   {
     "title": "２７日の主要国際商品市況 - 株探",
@@ -361,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が急騰し、米ドルは2週間ぶりの高値を維持している。ドル高は原油などドル建てコモディティの価格押し下げ要因となるが、同時に原油価格上昇が報告されている。"
-  },
-  {
-    "title": "ブラジルレアル安で輸出競争力が向上、大豆先物は下落 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-10-27T19:12:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "ブラジルレアル安により大豆輸出競争力が向上し、供給増加懸念から大豆先物が下落。為替変動が商品価格に波及した典型的なシナリオ。"
   },
   {
     "title": "〔決算〕日清粉G、27年3月期の売上高予想を上方修正＝円安や小麦相場高騰で(時事通信) - Yahoo!ファイナンス",
@@ -1615,5 +1516,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "テクノロジーセクターの決算売りとFRBの利上げ懸念が重石となり、銅価格が6.5ドル水準への下落が予想されている。需要減速とドル強化懸念が複合的に作用。"
+  },
+  {
+    "title": "ゴールドマン・サックス、金価格下落を受け中国ジュエリー株の見通しを改訂 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-30T16:55:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが金価格の下落を受けて中国ジュエリー株の見通しを改訂した。金価格低下は装飾品需要の減少につながり、中国の関連企業業績に負の影響が予想される。すでに金価格下落は市場に織り込まれている既存トレンドの延長。"
+  },
+  {
+    "title": "$金先物(2612) (GCmain.US)$ そんな感じがしますね また20年待ちの塩漬け解除になるのでは - Moomoo",
+    "timestamp": "2026-10-30T09:47:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "投資家による金先物相場の個人的な観測・コメント。20年以上のポジション保有（塩漬け）が解除される可能性を示唆している。具体的な市場材料や統計データを欠くため、市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "金価格が年初来最安値更新、アナリストの見解は - BeInCrypto",
+    "timestamp": "2026-10-30T08:03:55+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が年初来安値を更新した。アナリストが現状の価格下落について見解を述べている。既に相場に織り込まれた状況の解説記事と考えられる。"
+  },
+  {
+    "title": "原油価格が1か月ぶり高値、米中間選挙でイラン政策試練 - BeInCrypto",
+    "timestamp": "2026-10-30T19:54:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が1か月ぶりの高値を付けた。米中間選挙を控え、イラン政策の不確実性が価格上昇を支援している。地政学的なリスクプレミアムが相場に織り込まれている。"
+  },
+  {
+    "title": "NY市場動向（午後0時台）：ダウ383ドル安、原油先物1.98ドル高｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-10-30T16:15:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午後の相場概況。ダウ平均は383ドル安で推移する中、WTI原油先物は1.98ドル高。株式市場の軟調さとは対照的に原油は堅調。"
+  },
+  {
+    "title": "なすなかにし・那須晃行、現在の状態は「80％」 東京でも漫才を披露 脳梗塞の発症から約2年 Copper Price (YZQzIpHiR5) - Unisba Media",
+    "timestamp": "2026-10-29T21:40:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "お笑いコンビ「なすなかにし」の那須晃行が脳梗塞発症後の復帰状況を報告。東京での漫才披露と回復状況について述べたもの。"
   }
 ]
