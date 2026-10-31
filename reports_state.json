@@ -1,49 +1,5 @@
 [
   {
-    "title": "US crude and distillate inventories fall, gasoline stocks rise, EIA says - Reuters",
-    "timestamp": "2026-10-28T15:22:01+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計では原油と留分油（ディーゼル等）在庫が減少した一方、ガソリン在庫は増加している。原油在庫の減少は供給の引き締まりを示唆し価格上昇圧力となるが、ガソリン在庫の増加は需要懸念を反映している。市場予想データが提供されていないため相対的なサプライズ度は不明。"
-  },
-  {
-    "title": "US crude and distillate inventories fall, gasoline stocks rise, EIA says - Reuters",
-    "timestamp": "2026-10-28T15:22:01+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計では原油と留分油（ディーゼル等）在庫が減少した一方、ガソリン在庫は増加している。原油在庫の減少は供給の引き締まりを示唆し価格上昇圧力となるが、ガソリン在庫の増加は需要懸念を反映している。市場予想データが提供されていないため相対的なサプライズ度は不明。"
-  },
-  {
-    "title": "The weekly oil inventory data shows a drawdown of -1.892M vs expectations of a 0.015M build. - investingLive",
-    "timestamp": "2026-10-28T14:30:17+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で-1.892M bbl（約190万バレル）の取り崩しを記録。市場予想は+0.015M bblの積増しだったため、予想に対して約190万バレルのサプライズ下振れ。供給逼迫シグナルとして原油価格上昇要因となる。"
-  },
-  {
-    "title": "US Total Weekly EIA Crude Oil Stocks Fall by 2.0 Million Barrels After Prior 3.4 Million Decrease - marketscreener.com",
-    "timestamp": "2026-10-28T14:32:28+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が200万バレル減少した。前週は340万バレルの減少であったため、減少ペースは鈍化している。継続的な在庫低下は需給の引き締まりを示唆し、原油価格を下支えする材料となる。"
-  },
-  {
     "title": "Federal Reserve issues FOMC statement",
     "timestamp": "2026-10-28T18:00:00+00:00",
     "importance": 4,
@@ -130,28 +86,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIAの週間在庫統計で原油在庫が減少する一方、ガソリン在庫が増加したと報告された。原油需給と製品需要の乖離を示唆する相反する動きであり、市場心理に複雑な影響をもたらす可能性がある。原油価格は在庫減少で支持されるが、ガソリン需要弱化の懸念が相殺する。"
-  },
-  {
-    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
-    "timestamp": "2026-10-28T14:03:04+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAのトウモロコシ関連レポートで計算エラーが発見され、市場の信頼性が揺らいでいる。StoneXは公式統計データの精度に対する深刻な懸念を指摘。穀物相場全体の価格形成の基礎となるUSDAデータへの疑念が、投資家心理を悪化させている。"
-  },
-  {
-    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
-    "timestamp": "2026-10-28T14:03:04+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAのトウモロコシ関連レポートで計算エラーが発見され、市場の信頼性が揺らいでいる。StoneXは公式統計データの精度に対する深刻な懸念を指摘。穀物相場全体の価格形成の基礎となるUSDAデータへの疑念が、投資家心理を悪化させている。"
   },
   {
     "title": "Copper eases but holds near two-week highs as tight China supply offers support - Investify",
@@ -504,5 +438,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "エクソンモービルとシェブロンの利益が予想を上回り、地政学的緊張（ウクライナ・中東戦争）に伴う石油供給懸念とエネルギー需要増加により精製マージンが拡大している。戦争リスクが石油産業の収益性を大幅に向上させており、エネルギー価格上昇圧力が継続している。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
+    "timestamp": "2026-10-30T22:46:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC脱退後、原油生産が過去最高水準に接近している。OPECの減産枠組みから外れたUAEは生産能力を最大限に活用する戦略に転換。市場供給増加による価格下押し圧力が強まる。"
   }
 ]
