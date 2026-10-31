@@ -1,60 +1,5 @@
 [
   {
-    "title": "Federal Reserve issues FOMC statement",
-    "timestamp": "2026-10-28T18:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "FRB金融政策",
-    "commodity": "コモディティ全般",
-    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
-  },
-  {
-    "title": "Federal Reserve issues FOMC statement",
-    "timestamp": "2026-10-28T18:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "FRB金融政策",
-    "commodity": "金",
-    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
-  },
-  {
-    "title": "Federal Reserve issues FOMC statement",
-    "timestamp": "2026-10-28T18:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "FRB金融政策",
-    "commodity": "原油",
-    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
-  },
-  {
-    "title": "Federal Reserve issues FOMC statement",
-    "timestamp": "2026-10-28T18:00:00+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "FRB金融政策",
-    "commodity": "銅",
-    "summary": "FRB FOMC声明は金融政策の方向性を示す重要な定期発表である。金利決定、インフレ見通し、資産買い入れ方針などが含まれ、全コモディティに波及する。特に米ドル強弱や実質金利の変化を通じて、金は強く反応し、原油・銅などのドル建てコモディティの価値評価も再調整される。"
-  },
-  {
-    "title": "Nigeria Ramps Up Crude Output, Meets OPEC Quota for Five Straight Months - THISDAYLIVE",
-    "timestamp": "2026-10-28T19:33:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ナイジェリアが原油生産を増加させ、5ヶ月連続でOPEC割り当て量を達成したと報道。同国は産油国の中でも長らく減産圧力にさらされていたが、セキュリティ強化やインフラ改善により生産回復が実現。OPECの供給安定性向上シグナルとなる。"
-  },
-  {
     "title": "EIA reports a decline in US crude oil stocks - www.engine.online",
     "timestamp": "2026-10-29T05:20:38+00:00",
     "importance": 3,
@@ -449,5 +394,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC脱退後、原油生産が過去最高水準に接近している。OPECの減産枠組みから外れたUAEは生産能力を最大限に活用する戦略に転換。市場供給増加による価格下押し圧力が強まる。"
+  },
+  {
+    "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say - Reuters",
+    "timestamp": "2026-10-31T18:05:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は12月の石油生産目標を据え置くことで原則合意した。前回の減産方針の継続を示唆する内容で、市場では既に織り込まれている見通しが多い。具体的な生産数値の変更がない案件のため、価格インパクトは限定的と考えられる。"
   }
 ]
