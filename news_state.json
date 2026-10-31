@@ -1,93 +1,5 @@
 [
   {
-    "title": "インド大手宝飾店、ディワリ期間の金購入抑制へ - BeInCrypto",
-    "timestamp": "2026-10-28T06:57:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インドの大手宝飾店がディワリ期間の金購入を抑制する方針を表明。ディワリは伝統的に金購入が最盛期となるため、需要減少が予想される。インド金需要の減弱は世界市場にも影響を及ぼす可能性がある。"
-  },
-  {
-    "title": "〔決算〕日清粉G、27年3月期の売上高予想を上方修正＝円安や小麦相場高騰で(時事通信) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-28T10:21:04+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "日清粉グループが27年3月期の売上高予想を上方修正。円安進行と小麦相場高騰が追い風となり、輸入小麦の採算が改善される見込み。企業決算好転は既知の要因の組み合わせ。"
-  },
-  {
-    "title": "カンザスシティ小麦価格は抵抗線を試すなか横ばい、日中のモメンタムはまちまち - Traders Union",
-    "timestamp": "2026-10-28T12:41:54+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦が抵抗線を試す中、横ばい推移。日中のモメンタムは方向感が不安定。相場の膠着状態を示す技術的な解説。"
-  },
-  {
-    "title": "2026年10月28日公表の日経225先物証拠金／先物ＯＰ市場ウォッチ(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-28T09:41:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "日経225先物の証拠金・オプション市場に関する定期的な市場ウォッチ記事。日本株指数先物市場の技術的情報を提供するもので、金（ゴールド）市場への直接的な影響はない。"
-  },
-  {
-    "title": "金価格4,000ドル防衛戦、ステート・ストリートは2027年Q1に5,500ドル到達予想を維持も確率を60%に引き下げ - BigGo ファイナンス",
-    "timestamp": "2026-10-28T08:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ステート・ストリートが2027年Q1の金価格5,500ドル到達予想は維持するも、実現確率を60%に引き下げた。現在4,000ドル防衛が焦点となっており、上値圧力が弱まっていることを示唆している。"
-  },
-  {
-    "title": "アジアの金価格は、インフレ上昇への懸念から下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-28T10:45:32+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "アジアの金価格がインフレ上昇懸念を背景に下落した。インフレ懸念は金の買い材料となることが多いが、本ニュースは相場の振り返り解説と推測される。金の短期的な値動きを報じた軽微なニュース。"
-  },
-  {
-    "title": "ガソリン全国平均価格1L＝170円10銭 原油価格の高騰を受けガソリン補助金は過去最高に 1Lあたり52円40銭 - TBS NEWS DIG",
-    "timestamp": "2026-10-28T10:39:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ガソリン小売価格が1L=170円10銭まで上昇し、政府補助金が過去最高の52円40銭に達した。原油高騰に対応した補助金措置の継続を示唆する内容。"
-  },
-  {
-    "title": "高市総理 ガソリン補助見直しの提言受け取り 原油価格高騰で補助過去最高 - テレ朝NEWS",
-    "timestamp": "2026-10-28T10:21:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本政府がガソリン補助金の見直しを検討。原油高騰で補助金が過去最高水準に達している。補助制度の縮小・廃止は原油需要押し下げ要因となる可能性がある。"
-  },
-  {
     "title": "【加中銀】 「年内の原油価格は高止まりを予想」(フィスコ) - Yahoo!ファイナンス",
     "timestamp": "2026-10-28T13:49:24+00:00",
     "importance": 3,
@@ -97,39 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "カナダ中央銀行が年内の原油価格は高止まり水準を予想するコメントを発表。供給制約やOPEC+減産継続など既に織り込まれた要因に基づくもの。"
-  },
-  {
-    "title": "ガソリン補助金52.4円 過去最高に 原油価格の高騰など背景に – Quebee キュエビー - QAB 琉球朝日放送",
-    "timestamp": "2026-10-28T08:36:19+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本政府がガソリン補助金を過去最高の52.4円に引き上げた。原油価格高騰への対応措置。国内需要者負担の軽減が狙い。"
-  },
-  {
-    "title": "UBSがブレント原油価格予測を引き上げ、中東供給リスクが相場を下支え 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-28T11:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "UBSがブレント原油の価格予測を引き上げた。中東の供給リスクが相場の下支え要因として認識されている。アナリスト観測により上値ポテンシャルが示唆されている。"
-  },
-  {
-    "title": "ガソリン補助金の支給額が過去最高に 原油価格の高止まり影響（2026年10月28日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
-    "timestamp": "2026-10-28T09:31:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本政府がガソリン補助金を過去最高額で支給している。原油価格の高止まりが国内ガソリン価格を押し上げ、補助金負担が増加。政策的な価格抑制努力を示唆。"
   },
   {
     "title": "【加中銀】 「年内の原油価格は高止まりを予想」｜FX・為替ニュース - ザイFX！",
@@ -154,17 +33,6 @@
     "summary": "原油価格がバレル100ドルを突破し心理的抵抗線を越えた。カナダ中銀が0.25%利上げし3年間の金融緩和を終了。利上げは通常ドル強化を通じて原油下押し圧力となるが、現在は供給懸念が上昇要因を上回っている。"
   },
   {
-    "title": "大豆先物の価格見通し：上値を抑える抵抗線を前に、横ばいでのもみ合いを予想 - Traders Union",
-    "timestamp": "2026-10-28T12:30:39+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物は抵抗線を前に横ばいでのもみ合いが予想されている。テクニカル分析に基づく相場観の提示で、市場の方向性を示唆するものではない。"
-  },
-  {
     "title": "金価格が4,000ドルの大台を維持 - Moomoo",
     "timestamp": "2026-10-28T16:06:37+00:00",
     "importance": 2,
@@ -185,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "2026年10月29日の金価格は、テクニカル要因と経済要因が相反する動きを見せ、短期的には変動性がある状況。ただし長期的見通しは肯定的とされている。"
-  },
-  {
-    "title": "金価格本日: 米連銀決定日に4038ドル、PCE木曜発表 – 強気4125ドル、弱気3940ドル - FinanceFeeds",
-    "timestamp": "2026-10-28T08:15:52+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "本日の金価格は4038ドル。米連銀決定とPCE発表を控えた価格観測記事。強気シナリオ4125ドル、弱気シナリオ3940ドルの目標値が示されている。"
   },
   {
     "title": "USDA穀物買い付け価格：中西部トウモロコシ下落、ガルフ輸出トウモロコシ上昇 - ニュースと統計 - IndexBox",
@@ -328,17 +185,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が103.55ドルから102.50ドルへ反落。イラン外相が外交的解決の選択肢を指摘したことで、地政学的リスク軽減期待が相場を押し下げた。約1ドルの下げで緊張緩和シグナルが認識された。"
-  },
-  {
-    "title": "なすなかにし・那須晃行、現在の状態は「80％」 東京でも漫才を披露 脳梗塞の発症から約2年 Copper Price (YZQzIpHiR5) - Unisba Media",
-    "timestamp": "2026-10-28T12:17:59+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "お笑いコンビ・なすなかにしの那須晃行が脳梗塞から約2年経過し、現在の回復状態が「80％」と報告。東京での漫才披露が予定されている。"
   },
   {
     "title": "銅価格は横ばい、短期・長期移動平均線を上回る水準を維持 - Traders Union",
@@ -1516,5 +1362,104 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "供給が豊富であるにもかかわらず銅価格が高止まりしている状況についての解説記事。需給のミスマッチやファンダメンタルズの複雑な背景を分析している。"
+  },
+  {
+    "title": "金先物が現物価格を上回る取引は、本当に強気相場のシグナルなのか？ - TradingKey",
+    "timestamp": "2026-10-31T07:18:19+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金先物が現物価格を上回る取引状況について、それが強気相場のシグナルかどうかを問う解説記事。市場参加者の見方の違いを反映した相場分析。"
+  },
+  {
+    "title": "NY金先物：大幅続落、AI関連株安で現金確保の売りが波及 - TradingView",
+    "timestamp": "2026-10-30T21:57:55+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が大幅続落。AI関連株の売却による現金確保圧力が金にも波及した。リスク資産売却時の連動売りが発生。"
+  },
+  {
+    "title": "本日（10月31日午後）の金価格：引き続き急落。 - Vietnam.vn",
+    "timestamp": "2026-10-31T07:52:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "10月31日午後の金価格が引き続き急落している。既に進行中の下落トレンドの続報。ベトナムの地域ニュースサイトによる市場振り返り報道。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･30日 3日続落 - Moomoo",
+    "timestamp": "2026-10-30T20:46:42+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物市場が3日続落となった。市場概況の報道であり、下落トレンドが継続している状況が確認された。具体的な要因や材料については詳細が明示されていない。"
+  },
+  {
+    "title": "世界の金価格は数ヶ月ぶりに大幅下落、見通しは不透明 - Laodong.vn",
+    "timestamp": "2026-10-31T08:55:57+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が数ヶ月ぶりに大幅下落している。見通しが不透明な状況が継続している。コモディティ投資家にとっては保有ポジションの再評価が必要な局面。"
+  },
+  {
+    "title": "中東の戦火が原油価格を押し上げ 台湾中油、来週も2週連続で価格据え置き 累計吸収額は318.6億台湾ドル - BigGo ファイナンス",
+    "timestamp": "2026-10-31T10:35:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の地政学的緊張が原油価格を上昇させている。台湾中油は価格上昇分を吸収するため2週連続で値上げを据え置き、累計吸収額は318.6億台湾ドルに達した。"
+  },
+  {
+    "title": "世界の原油価格が6カ月ぶりの高値に上昇。 - Vietnam.vn",
+    "timestamp": "2026-10-31T03:53:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が6カ月ぶりの高値まで上昇した。既に市場で織り込まれている需給タイト化やOPEC+減産の継続を反映したもの。技術的には重要なレジスタンスレベルへの到達として注視の価値あり。"
+  },
+  {
+    "title": "【随時更新】WTI原油、106.75ドルの主要抵抗でダブルトップ形成中 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-10-30T19:12:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油が106.75ドルの主要抵抗線でダブルトップ形成中との技術分析。テクニカル指標に基づく市場観測で、今後のレジスタンス越え可否が焦点。具体的な供給・需要ファンダメンタルズの新情報は含まれていない。"
+  },
+  {
+    "title": "洋山銅プレミアムが1トン200ドルを突破し過去最高記録 世界の銅在庫の9割は米国の倉庫に集中 - BigGo ファイナンス",
+    "timestamp": "2026-10-31T11:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "洋山銅プレミアムが過去最高の1トン200ドル突破。世界の銅在庫の9割が米国倉庫に集中し、供給の地理的偏在が顕著化。アジア地域での物理需給のタイトさを反映。"
   }
 ]
