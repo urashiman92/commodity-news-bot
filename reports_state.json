@@ -1,49 +1,5 @@
 [
   {
-    "title": "Peanut Stocks and Processing",
-    "timestamp": "2026-10-28T09:43:52.281204+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASが発表した落花生在庫統計。商業貯蔵の落花生在庫が24.4億ポンドに達し、殻付き食用グレードの季節累計利用量が前年同期比で4%減少。在庫積み増しと利用低迷は供給過剰圧力を示唆。"
-  },
-  {
-    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
-    "timestamp": "2026-10-28T08:02:46+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAのトウモロコシ作付面積報告に計算エラーが判明し、作物統計データの信頼性が大きく揺らいでいる。StoneXを含むアナリスト界から、USDA発表データの精度に対する深刻な疑問が呈示されている。この信頼性の喪失は、今後の需給予測や政策判断に大きな不確実性をもたらす可能性がある。"
-  },
-  {
-    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
-    "timestamp": "2026-10-28T08:02:46+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAのトウモロコシ作付面積報告に計算エラーが判明し、作物統計データの信頼性が大きく揺らいでいる。StoneXを含むアナリスト界から、USDA発表データの精度に対する深刻な疑問が呈示されている。この信頼性の喪失は、今後の需給予測や政策判断に大きな不確実性をもたらす可能性がある。"
-  },
-  {
-    "title": "Indian gasoline demand to peak by 2035, says top refiner Indian Oil - Reuters",
-    "timestamp": "2026-10-28T06:16:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド国営石油大手インディアン・オイルのトップが、インドのガソリン需要が2035年にピークを迎えると予測した。同国の急速な経済成長にもかかわらず、EV普及やエネルギー効率改善により需要成長が鈍化する見通し。世界最大級の需要成長市場とされてきたインドの長期需要見通しの修正は、グローバル石油需要構造の変化を示唆。"
-  },
-  {
     "title": "US crude and distillate inventories fall, gasoline stocks rise, EIA says - Reuters",
     "timestamp": "2026-10-28T15:22:01+00:00",
     "importance": 3,
@@ -86,50 +42,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫が200万バレル減少した。前週は340万バレルの減少であったため、減少ペースは鈍化している。継続的な在庫低下は需給の引き締まりを示唆し、原油価格を下支えする材料となる。"
-  },
-  {
-    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
-    "timestamp": "2026-10-28T09:59:59+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの公式穀物レポートでトウモロコシの計算エラーが発覚し、市場データの信頼性に深刻な疑問が生じた。StoneXを含む業界関係者が統計の正確性に対する懸念を表明。USDA発表の信頼低下は、トウモロコシ相場の変動性拡大とポジション調整を誘発する可能性が高い。"
-  },
-  {
-    "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
-    "timestamp": "2026-10-28T09:59:59+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAの公式穀物レポートでトウモロコシの計算エラーが発覚し、市場データの信頼性に深刻な疑問が生じた。StoneXを含む業界関係者が統計の正確性に対する懸念を表明。USDA発表の信頼低下は、トウモロコシ相場の変動性拡大とポジション調整を誘発する可能性が高い。"
-  },
-  {
-    "title": "Philippines in talks with several countries, including Saudi Arabia, for oil storage - Reuters",
-    "timestamp": "2026-10-28T09:07:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フィリピンがサウジアラビアを含む複数国と石油備蓄施設の建設・利用に関する協議を進めている。フィリピンは地政学的に重要な南シナ海に位置し、同国の石油備蓄能力拡大はアジア太平洋地域の石油供給チェーン強化につながる。OPEC産油国との協力体制は長期的な供給安定性を示唆。"
-  },
-  {
-    "title": "Saudi Oil Exports Near Wartime High as Houthis Mount Attacks - Bloomberg.com",
-    "timestamp": "2026-10-28T11:44:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派による攻撃が続く中、サウジアラビアの石油輸出が戦時中水準に近づいている。地政学的リスクが高まる一方、サウジは輸出を維持・増加させており、供給途絶懸念は後退している。中東紅海の不安定性が継続することで、海上輸送リスクプレミアムが原油価格を押し上げる圧力が残存。"
   },
   {
     "title": "Federal Reserve issues FOMC statement",
@@ -198,39 +110,6 @@
     "summary": "米国EIAが原油在庫の減少を報告。在庫低下は供給逼迫を示唆し、原油価格の上昇要因となる。具体的な在庫数値や前週比の減少幅が不明であるため、変動の大きさを判定することができない。市場では定期的に注視される重要統計。"
   },
   {
-    "title": "One farmer’s informal survey pokes holes in USDA’s yield math - Farm Progress",
-    "timestamp": "2026-10-28T06:40:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "農家による非公式調査がUSDAの収量計算に疑問を呈している。フィールド調査データがUSDA公式予測と乖離している可能性が指摘されており、WASDE発表時の収量見積もり信頼性に対する市場の疑念が高まる可能性がある。"
-  },
-  {
-    "title": "One farmer’s informal survey pokes holes in USDA’s yield math - Farm Progress",
-    "timestamp": "2026-10-28T06:40:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "農家による非公式調査がUSDAの収量計算に疑問を呈している。フィールド調査データがUSDA公式予測と乖離している可能性が指摘されており、WASDE発表時の収量見積もり信頼性に対する市場の疑念が高まる可能性がある。"
-  },
-  {
-    "title": "One farmer’s informal survey pokes holes in USDA’s yield math - Farm Progress",
-    "timestamp": "2026-10-28T06:40:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "農家による非公式調査がUSDAの収量計算に疑問を呈している。フィールド調査データがUSDA公式予測と乖離している可能性が指摘されており、WASDE発表時の収量見積もり信頼性に対する市場の疑念が高まる可能性がある。"
-  },
-  {
     "title": "US crude inventories fall while gasoline stocks rise, according to the Energy Information Administration - energynews.pro",
     "timestamp": "2026-10-29T07:01:58+00:00",
     "importance": 3,
@@ -251,17 +130,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIAの週間在庫統計で原油在庫が減少する一方、ガソリン在庫が増加したと報告された。原油需給と製品需要の乖離を示唆する相反する動きであり、市場心理に複雑な影響をもたらす可能性がある。原油価格は在庫減少で支持されるが、ガソリン需要弱化の懸念が相殺する。"
-  },
-  {
-    "title": "US Crude Stocks Rise, Gasoline and Distillate Inventories Fall – EIA - EnergyNow.com",
-    "timestamp": "2026-10-28T07:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIAの週間在庫統計により、原油在庫は上昇した一方で、ガソリンと留分油（ディスティレート）在庫は低下したことが報告された。需要環境の分化と供給バランスの変化を示唆する結果であり、セクター別の価格圧力が異なる可能性がある。"
   },
   {
     "title": "USDA's Corn Calculation Error Deepens Doubts Over Crop Report Data - StoneX",
@@ -614,5 +482,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビア主導の連合軍がサウジ東部の石油豊富地域上空でドローンを撃墜したと発表。同地域はサウジの主要油田が集中する重要地域。地政学的緊張の高まりがサプライズとなり、供給途絶リスク意識が高まる可能性がある。"
+  },
+  {
+    "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars - Reuters",
+    "timestamp": "2026-10-30T18:45:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "エクソンモービルとシェブロンの利益が予想を上回り、地政学的緊張（ウクライナ・中東戦争）に伴う石油供給懸念とエネルギー需要増加により精製マージンが拡大している。戦争リスクが石油産業の収益性を大幅に向上させており、エネルギー価格上昇圧力が継続している。"
+  },
+  {
+    "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars - Reuters",
+    "timestamp": "2026-10-30T18:45:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "エクソンモービルとシェブロンの利益が予想を上回り、地政学的緊張（ウクライナ・中東戦争）に伴う石油供給懸念とエネルギー需要増加により精製マージンが拡大している。戦争リスクが石油産業の収益性を大幅に向上させており、エネルギー価格上昇圧力が継続している。"
   }
 ]
