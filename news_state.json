@@ -1,71 +1,5 @@
 [
   {
-    "title": "【加中銀】 「年内の原油価格は高止まりを予想」(フィスコ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-28T13:49:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "カナダ中央銀行が年内の原油価格は高止まり水準を予想するコメントを発表。供給制約やOPEC+減産継続など既に織り込まれた要因に基づくもの。"
-  },
-  {
-    "title": "【加中銀】 「年内の原油価格は高止まりを予想」｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-28T13:49:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "カナダ中銀が年内の原油価格は高止まりを予想するコメントを発表。供給制約と需要環境が支援要因と判断。既に市場で織り込まれた見通しの確認に留まる。"
-  },
-  {
-    "title": "原油価格が1バレル100ドルの防衛ラインを突破、カナダ中銀が0.25%利上げで3年間の緩和策に終止符 - BigGo ファイナンス",
-    "timestamp": "2026-10-28T14:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格がバレル100ドルを突破し心理的抵抗線を越えた。カナダ中銀が0.25%利上げし3年間の金融緩和を終了。利上げは通常ドル強化を通じて原油下押し圧力となるが、現在は供給懸念が上昇要因を上回っている。"
-  },
-  {
-    "title": "金価格が4,000ドルの大台を維持 - Moomoo",
-    "timestamp": "2026-10-28T16:06:37+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,000ドルの心理的節目を維持している状況についての報道。現在の相場水準を観察する記事であり、新規要因は含まれていない。"
-  },
-  {
-    "title": "本日（2026年10月29日）の金価格は、テクニカル要因と経済要因の間で市場が変動し、相反する動きを見せましたが、長期的な見通しはより有望です。 - Vietnam.vn",
-    "timestamp": "2026-10-28T15:18:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年10月29日の金価格は、テクニカル要因と経済要因が相反する動きを見せ、短期的には変動性がある状況。ただし長期的見通しは肯定的とされている。"
-  },
-  {
-    "title": "USDA穀物買い付け価格：中西部トウモロコシ下落、ガルフ輸出トウモロコシ上昇 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-10-28T16:10:55+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "USDA穀物買い付け価格で中西部トウモロコシは下落、ガルフ輸出トウモロコシは上昇。地域別の価格乖離が観測される。"
-  },
-  {
     "title": "金(XAU)見通し (市況ニュース) ：金価格は上昇し4067ドル｜米政策金利の据え置き決定が影響した模様(2026年10月29日) - OANDA",
     "timestamp": "2026-10-28T23:02:40+00:00",
     "importance": 3,
@@ -174,28 +108,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米EIA週間在庫統計で予想に反して在庫が減少し、同時に中東の地政学的緊張が供給不安を再燃させている。原油先物が上昇に転じた。"
-  },
-  {
-    "title": "【速報】NY原油先物反落103.55ドル⇒102.50ドル、アラグチ・イラン外相が外交的解決の選択肢を指摘｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-28T17:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が103.55ドルから102.50ドルへ反落。イラン外相が外交的解決の選択肢を指摘したことで、地政学的リスク軽減期待が相場を押し下げた。約1ドルの下げで緊張緩和シグナルが認識された。"
-  },
-  {
-    "title": "銅価格は横ばい、短期・長期移動平均線を上回る水準を維持 - Traders Union",
-    "timestamp": "2026-10-28T16:08:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格は横ばいで推移し、短期・長期移動平均線を上回る水準を維持している。テクニカル分析に基づく相場振り返りのコメンタリー記事である。"
   },
   {
     "title": "２８日の主要国際商品市況 - 株探",
@@ -1461,5 +1373,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "洋山銅プレミアムが過去最高の1トン200ドル突破。世界の銅在庫の9割が米国倉庫に集中し、供給の地理的偏在が顕著化。アジア地域での物理需給のタイトさを反映。"
+  },
+  {
+    "title": "国内の金価格は、今年のピーク時から1テールあたり5300万ベトナムドン下落した。 - Vietnam.vn",
+    "timestamp": "2026-10-31T13:21:07+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金価格が年初来ピークから1テール当たり5300万ドン（約280USD相当）下落した。現地市場における調整局面の報道。"
+  },
+  {
+    "title": "NY金先物：大幅続落、AI関連株安で現金確保の売りが波及 - ｄメニューニュース",
+    "timestamp": "2026-10-30T22:19:21+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "AI関連株の売却による現金確保の動きが金市場に波及し、金先物が大幅続落。リスク資産売却時にはセーフヘイブン買いが期待されるが、市場全体の流動性確保優先で売られた。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･30日 3日続落 - TradingView",
+    "timestamp": "2026-10-30T20:28:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物が3日続落。市場の振り返り・相場解説ニュース。具体的な材料や数値は記事概要では不明。"
+  },
+  {
+    "title": "ブレント原油価格113.43ドル、10月13.6%上昇後の週：OPEC+日曜、米中間選挙、雇用統計 - FinanceFeeds",
+    "timestamp": "2026-10-31T08:27:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が113.43ドルで推移し、10月は13.6%上昇。OPEC+の減産、米中間選挙、雇用統計など複数の市場材料が影響。既に織り込まれた相場の振り返りニュース。"
+  },
+  {
+    "title": "10月31日のガソリン価格の更新:世界の原油価格が上昇 - Laodong.vn",
+    "timestamp": "2026-10-31T14:51:50+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月31日時点で世界の原油価格が上昇したことを報じるニュース。ベトナムのガソリン価格更新に伴う定期的な市場情報。"
   }
 ]
