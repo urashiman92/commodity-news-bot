@@ -11,39 +11,6 @@
     "summary": "OPEC+は日曜日の会合で石油生産目標を据え置くことを決定した。既報の減産政策の継続を示唆するもので、サプライズはなく、市場予想の範囲内の結果と判断される。"
   },
   {
-    "title": "Sinopec’s Third-Quarter Profits Soar on Higher Oil Prices - Bloomberg.com",
-    "timestamp": "2026-10-29T09:56:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中国石油化工（Sinopec）の第3四半期利益が高い油価により増加した。この発表は原油価格が3Q期間に堅調に推移し、中国最大級の石油企業の業績改善をもたらしたことを示唆している。油価堅調の継続が期待される市場背景を反映している。"
-  },
-  {
-    "title": "Shell Reports Second-Highest Profit Ever as Refining Hits Record - Bloomberg.com",
-    "timestamp": "2026-10-29T11:01:17+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "シェルが過去2番目の利益を報告し、製油事業が記録的な高さに達した。石油精製マージンの急拡大と油価上昇の継続が利益を押し上げ、エネルギー企業の収益性が極めて高い状況を示唆している。これはエネルギー供給の逼迫感と需要の堅調さを反映している。"
-  },
-  {
-    "title": "Shell Reports Second-Highest Profit Ever as Refining Hits Record - Bloomberg.com",
-    "timestamp": "2026-10-29T11:01:17+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "シェルが過去2番目の利益を報告し、製油事業が記録的な高さに達した。石油精製マージンの急拡大と油価上昇の継続が利益を押し上げ、エネルギー企業の収益性が極めて高い状況を示唆している。これはエネルギー供給の逼迫感と需要の堅調さを反映している。"
-  },
-  {
     "title": "Ohio Corn & Wheat demands transparency after costly USDA data error – Ohio Ag Net - Ohio's Country Journal",
     "timestamp": "2026-10-29T19:38:00+00:00",
     "importance": 3,
@@ -97,17 +64,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ロシアがディーゼル輸出禁止を延長し、配給制度を導入してUS制裁対応を継続する。供給制約が長期化する見通しで、既に逼迫したグローバル軽油市場にさらなる圧力。欧州・アジア市場での調達難と価格上昇リスクが顕在化。"
-  },
-  {
-    "title": "Copper slips on concerns over AI demand, high US inventories - Investify",
-    "timestamp": "2026-10-29T11:27:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅相場が軟調に推移。AI需要の伸び悩みに対する懸念と、米国の在庫水準が高いことが価格の重石となっている。AIブームによる銅需要への期待が調整局面を迎えた可能性。"
   },
   {
     "title": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war - Reuters",
@@ -394,5 +350,93 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は12月の原油生産目標を据え置く方針を示し、焦点が2027年のクォータ設定へシフト。既報の減産政策が継続される見通しで、市場への新たなサプライズは限定的。"
+  },
+  {
+    "title": "Oil Stocks in US Strategic Petroleum Reserve Fall to Lowest Level Since 1982 - EnergyNow.com",
+    "timestamp": "2026-10-31T08:14:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下。供給への構造的な懸念が高まり、原油価格の下支え要因となる。長期的にはエネルギーセキュリティ面でのリスクプレミアムが織り込まれる可能性が高い。"
+  },
+  {
+    "title": "Oil Stocks in US Strategic Petroleum Reserve Fall to Lowest Level Since 1982 - EnergyNow.com",
+    "timestamp": "2026-10-31T08:14:10+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国戦略石油備蓄（SPR）が1982年以来の最低水準に低下。供給への構造的な懸念が高まり、原油価格の下支え要因となる。長期的にはエネルギーセキュリティ面でのリスクプレミアムが織り込まれる可能性が高い。"
+  },
+  {
+    "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat - WSJ",
+    "timestamp": "2026-11-01T12:44:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国が石油産出量を現状維持する方針を確認。一方、ペルシャ湾の海運が脅威にさらされている状況が報告されている。供給は安定している一方で、地政学リスク要因がプレミアムを支える可能性がある。"
+  },
+  {
+    "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows - The State",
+    "timestamp": "2026-11-01T08:41:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が12月の原油生産目標を据え置く決定を発表。イラン情勢の混乱がサプライズとなる可能性もあるが、既にイラン制裁強化による供給減少は価格に織り込まれている。減産政策の継続維持で市場バランスの安定化を模索。"
+  },
+  {
+    "title": "OPEC+ Leaves Oil Output Targets Unchanged for December (Table) - Bloomberg.com",
+    "timestamp": "2026-11-01T13:02:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が12月の石油生産目標を据え置くことを決定した。これは市場予想の範囲内であり、既存のポリシー継続を示唆している。現在の減産枠組みを維持することで、市場の安定性を優先する姿勢が確認された。"
+  },
+  {
+    "title": "Dow Jones Top Energy Headlines at 12 AM ET: OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - Moomoo",
+    "timestamp": "2026-10-30T07:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC及び同盟国が供給量を再び引き上げることを発表。一方、ホルムズ海峡の交通量が回復局面に入っている。供給増加と需要回復のバランスが示唆されており、原油相場に対する上昇圧力は限定的と予想される。"
+  },
+  {
+    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 - Reuters",
+    "timestamp": "2026-11-01T13:36:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+は12月の石油生産目標を据え置く決定を発表。2027年に向けたより厳しい判断が控えている状況。減産政策の継続姿勢を示す一方で、来年以降の政策転換の可能性を示唆。市場では既に織り込まれた内容と評価。"
+  },
+  {
+    "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say - Bloomberg.com",
+    "timestamp": "2026-11-01T12:32:55+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC+の代表者らが、現在の減産枠組みを継続する方針を示唆したとBloombergが報道。既に公表されている政策の継続確認であり、市場では概ね織り込まれた内容。近日の正式会合での決定を控えた事前観測の域。"
   }
 ]
