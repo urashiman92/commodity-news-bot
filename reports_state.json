@@ -1,49 +1,5 @@
 [
   {
-    "title": "EIA reports a decline in US crude oil stocks - www.engine.online",
-    "timestamp": "2026-10-29T05:20:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIAが原油在庫の減少を報告。在庫低下は供給逼迫を示唆し、原油価格の上昇要因となる。具体的な在庫数値や前週比の減少幅が不明であるため、変動の大きさを判定することができない。市場では定期的に注視される重要統計。"
-  },
-  {
-    "title": "US crude inventories fall while gasoline stocks rise, according to the Energy Information Administration - energynews.pro",
-    "timestamp": "2026-10-29T07:01:58+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫統計で原油在庫が減少する一方、ガソリン在庫が増加したと報告された。原油需給と製品需要の乖離を示唆する相反する動きであり、市場心理に複雑な影響をもたらす可能性がある。原油価格は在庫減少で支持されるが、ガソリン需要弱化の懸念が相殺する。"
-  },
-  {
-    "title": "US crude inventories fall while gasoline stocks rise, according to the Energy Information Administration - energynews.pro",
-    "timestamp": "2026-10-29T07:01:58+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIAの週間在庫統計で原油在庫が減少する一方、ガソリン在庫が増加したと報告された。原油需給と製品需要の乖離を示唆する相反する動きであり、市場心理に複雑な影響をもたらす可能性がある。原油価格は在庫減少で支持されるが、ガソリン需要弱化の懸念が相殺する。"
-  },
-  {
-    "title": "Copper eases but holds near two-week highs as tight China supply offers support - Investify",
-    "timestamp": "2026-10-29T06:04:55+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格は2週間ぶりの高値近辺を保持しており、若干の調整局面にあるが、中国国内の供給逼迫が価格を下支えしている。需給バランスの改善や供給制約が銅の上値を支えつつも、短期的な利益確定売りによる調整圧力が存在している状況。"
-  },
-  {
     "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow",
     "timestamp": "2026-10-29T15:16:11+00:00",
     "importance": 2,
@@ -416,5 +372,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が12月の石油生産量を現状維持することを決定した。リアルタイムの市場反応はないが、減産継続政策の継続は原油価格を下支えする要因となる。前月の政策からの変更がないため、既織り込みの内容である。"
+  },
+  {
+    "title": "OPEC+ said to have agreed in principle to hold December oil output targets steady - Seeking Alpha",
+    "timestamp": "2026-10-31T19:02:08+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が12月の石油生産目標を現状維持することで原則合意したと報道。減産も増産も行わない据え置き姿勢を示唆しており、市場には限定的な影響。既に予想されていた範囲内の決定とみられる。"
+  },
+  {
+    "title": "OPEC+ set to keep December oil output targets unchanged, focus shifts to 2027 quotas - The Tribune",
+    "timestamp": "2026-11-01T03:22:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は12月の原油生産目標を据え置く方針を示し、焦点が2027年のクォータ設定へシフト。既報の減産政策が継続される見通しで、市場への新たなサプライズは限定的。"
   }
 ]
