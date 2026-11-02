@@ -1,104 +1,5 @@
 [
   {
-    "title": "原油価格が1か月ぶり高値、米中間選挙でイラン政策試練 - BeInCrypto",
-    "timestamp": "2026-10-30T19:54:53+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が1か月ぶりの高値を付けた。米中間選挙を控え、イラン政策の不確実性が価格上昇を支援している。地政学的なリスクプレミアムが相場に織り込まれている。"
-  },
-  {
-    "title": "NY原油・金相場（30日）－原油が反発 金は3日続落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-30T21:51:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY原油が反発した一方で、金は3日連続で下落。原油と金の値動きが異なる方向を示している。"
-  },
-  {
-    "title": "NY金先物は大幅続落、AI関連株安で現金確保の売りが波及｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-10-30T22:50:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "AI関連株の下落に伴い、投資家のリスク回避姿勢が強まり現金確保の売却が金先物に波及した。金は安全資産とされるが、流動性確保の売りにより大幅続落。市場全体のリスク調整の一環。"
-  },
-  {
-    "title": "NY金先物：大幅続落、AI関連株安で現金確保の売りが波及 - ｄメニューニュース",
-    "timestamp": "2026-10-30T22:18:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が大幅続落。AI関連株の売却による現金確保の動きが、金などのリスク資産売却に波及した。金利上昇予想と株式市場の調整が相場を圧迫。"
-  },
-  {
-    "title": "本日（10月31日）の金価格：全面的に急落。 - Vietnam.vn",
-    "timestamp": "2026-10-30T22:13:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月31日の金価格が全面的に急落したとの報道。具体的な下落理由や背景情報が不足している。定期的な価格動向の報告記事と考えられる。"
-  },
-  {
-    "title": "NY原油先物：反発、フーシ派のサウジ製油所攻撃で供給ひっ迫懸念が再燃 - ｄメニューニュース",
-    "timestamp": "2026-10-30T21:58:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "フーシ派がサウジアラビアの製油所に攻撃を実施し、中東地域の原油供給が再度脅威にさらされた。地政学的緊張の高まりにより、NY原油先物は反発上昇。供給ひっ迫懸念が市場心理を押し上げている。"
-  },
-  {
-    "title": "1年前は原油価格を除くすべての資産が上がる『エブリシングラリー』だったとすれば、今は原油価格だけが一人で強勢を見せています。 戦争が長期化するほど米国エネルギー企業の恩恵が続く可能性があるだけに、エ.. - 매일경제",
-    "timestamp": "2026-10-30T21:07:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "1年前の「エブリシング・ラリー」と異なり、現在は原油が単独で強気相場を展開。地政学的リスク長期化により、米国エネルギー企業への恩恵が継続する可能性が指摘されている。"
-  },
-  {
-    "title": "米国COMEXの銅在庫が大幅に増加し、銅価格は下落 - Traders Union",
-    "timestamp": "2026-10-30T20:11:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米国COMEX銅在庫が大幅増加し、銅価格が下落した。在庫増加は需給バランスの悪化を示唆。定期的に報告される在庫データの発表。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、大豆が上昇 天然ガス、金、銀、銅、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-10-30T22:25:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で原油・ガソリン・大豆が上昇する一方、天然ガス・貴金属・銅・トウモロコシが下落。複数商品で相反する値動きが観測された。"
-  },
-  {
     "title": "国際金価格が1オンス4000ドルの節目を割り込み、現物は一時3956ドルと4カ月ぶり安値 - BigGo ファイナンス",
     "timestamp": "2026-10-31T02:25:00+00:00",
     "importance": 3,
@@ -108,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "国際金価格が1オンス4000ドルの心理的節目を割り込み、3956ドルと4カ月ぶりの安値を付けた。金融引き締め環境やドル高圧力が重石となっている状況が継続している。"
-  },
-  {
-    "title": "本日（10月31日）の金価格：1年ぶりの安値となる3,900ドルを下回る。 - Vietnam.vn",
-    "timestamp": "2026-10-30T23:50:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1年ぶりの安値である3,900ドルを下回る水準まで下落した。市場の相場振り返り報道であり、既に織り込まれた動きの報告である。"
-  },
-  {
-    "title": "NY金先物：大幅続落、AI関連株安で現金確保の売りが波及 - ｄメニューニュース",
-    "timestamp": "2026-10-30T21:57:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が大幅続落。AI関連株の売却に伴う現金確保の動きが金売りに波及した。リスク資産からの資金流出が金相場を圧迫。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況･30日 3日続落 - Moomoo",
-    "timestamp": "2026-10-30T20:37:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物が3日続落。市場概況の振り返りニュースであり、既に価格に織り込まれた動きの報道。具体的な材料や新規情報の記載がない。"
   },
   {
     "title": "世界の金価格が急落、1年ぶりの大幅下落。 - Vietnam.vn",
@@ -187,17 +55,6 @@
     "summary": "世界の株式市場が下落する中、原油価格は上昇した。リスク回避局面で株式と原油が逆相関で動いている。地政学的リスクまたはファンダメンタル要因の可能性があるが、詳細は不明。"
   },
   {
-    "title": "AI企業の資金消費への懸念から株価が下落する一方、債券は原油相場に連動して上昇した - TradingView",
-    "timestamp": "2026-10-30T21:34:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "AI企業の資金消費への懸念から株価が下落している一方で、債券市場は原油相場に連動して上昇。異なる資産クラス間での値動きの乖離を指摘する市場観測。"
-  },
-  {
     "title": "供給量が豊富なのに、なぜ銅の価格は依然として高騰しているのか？ - Vietnam.vn",
     "timestamp": "2026-10-31T02:13:59+00:00",
     "importance": 3,
@@ -220,17 +77,6 @@
     "summary": "金先物が現物価格を上回る取引状況について、それが強気相場のシグナルかどうかを問う解説記事。市場参加者の見方の違いを反映した相場分析。"
   },
   {
-    "title": "NY金先物：大幅続落、AI関連株安で現金確保の売りが波及 - TradingView",
-    "timestamp": "2026-10-30T21:57:55+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が大幅続落。AI関連株の売却による現金確保圧力が金にも波及した。リスク資産売却時の連動売りが発生。"
-  },
-  {
     "title": "本日（10月31日午後）の金価格：引き続き急落。 - Vietnam.vn",
     "timestamp": "2026-10-31T07:52:39+00:00",
     "importance": 2,
@@ -240,17 +86,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "10月31日午後の金価格が引き続き急落している。既に進行中の下落トレンドの続報。ベトナムの地域ニュースサイトによる市場振り返り報道。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況･30日 3日続落 - Moomoo",
-    "timestamp": "2026-10-30T20:46:42+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物市場が3日続落となった。市場概況の報道であり、下落トレンドが継続している状況が確認された。具体的な要因や材料については詳細が明示されていない。"
   },
   {
     "title": "世界の金価格は数ヶ月ぶりに大幅下落、見通しは不透明 - Laodong.vn",
@@ -286,17 +121,6 @@
     "summary": "原油価格が6カ月ぶりの高値まで上昇した。既に市場で織り込まれている需給タイト化やOPEC+減産の継続を反映したもの。技術的には重要なレジスタンスレベルへの到達として注視の価値あり。"
   },
   {
-    "title": "【随時更新】WTI原油、106.75ドルの主要抵抗でダブルトップ形成中 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-10-30T19:12:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が106.75ドルの主要抵抗線でダブルトップ形成中との技術分析。テクニカル指標に基づく市場観測で、今後のレジスタンス越え可否が焦点。具体的な供給・需要ファンダメンタルズの新情報は含まれていない。"
-  },
-  {
     "title": "洋山銅プレミアムが1トン200ドルを突破し過去最高記録 世界の銅在庫の9割は米国の倉庫に集中 - BigGo ファイナンス",
     "timestamp": "2026-10-31T11:25:00+00:00",
     "importance": 4,
@@ -317,28 +141,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が年初来ピークから1テール当たり5300万ドン（約280USD相当）下落した。現地市場における調整局面の報道。"
-  },
-  {
-    "title": "NY金先物：大幅続落、AI関連株安で現金確保の売りが波及 - ｄメニューニュース",
-    "timestamp": "2026-10-30T22:19:21+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "AI関連株の売却による現金確保の動きが金市場に波及し、金先物が大幅続落。リスク資産売却時にはセーフヘイブン買いが期待されるが、市場全体の流動性確保優先で売られた。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況･30日 3日続落 - TradingView",
-    "timestamp": "2026-10-30T20:28:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物が3日続落。市場の振り返り・相場解説ニュース。具体的な材料や数値は記事概要では不明。"
   },
   {
     "title": "ブレント原油価格113.43ドル、10月13.6%上昇後の週：OPEC+日曜、米中間選挙、雇用統計 - FinanceFeeds",
@@ -1175,5 +977,192 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "Metals.ioがブロックチェーン上で36.6万ドル相当の銅トークンを発行。ただし現物受け取りには125kg以上の保有が必要という高い参入障壁がある。暗号資産化による流動性向上の試みだが市場規模は限定的。"
+  },
+  {
+    "title": "金価格が4,000ドル割れ後、米中間選挙が避難需要反転の鍵となる可能性 - BigGo ファイナンス",
+    "timestamp": "2026-11-02T23:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドルを割った後の推移について、米中間選挙が避難需要の反転を左右する可能性があるとの分析。政治イベント次第で金需要が変わる可能性を指摘しているが、具体的な価格予想は不明。"
+  },
+  {
+    "title": "NY原油・金相場（2日）－原油が9日ぶりに反落 金は4日ぶりに反発 - Moomoo",
+    "timestamp": "2026-11-02T22:44:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NYで原油は9日ぶりに反落、金は4日ぶりに反発した。既に織り込まれた技術的な価格調整の報告である。定期的な相場動向の振り返りニュース。"
+  },
+  {
+    "title": "本日（11月3日）の金価格：再び上昇。 - Vietnam.vn",
+    "timestamp": "2026-11-02T23:03:33+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月3日の金価格が再び上昇したというニュース。ベトナムの報道。具体的な上昇率や背景要因の詳細は記事要約からは不明確。"
+  },
+  {
+    "title": "11月3日朝の金価格更新:上昇傾向を維持、金にとって試金石 - Laodong.vn",
+    "timestamp": "2026-11-02T23:00:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月3日朝時点で金価格が上昇傾向を維持している。ベトナムメディアによる相場解説記事。金にとって「試金石」段階との指摘。"
+  },
+  {
+    "title": "世界の金価格は1オンスあたり約100ドル急騰し、4000ドル近くに達した。 - Vietnam.vn",
+    "timestamp": "2026-11-02T19:21:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンスあたり約100ドルの急騰を記録し、4000ドル近くまで上昇した。短期間での大幅な価格上昇は市場参加者にとって予想外の動き。地政学的リスク、インフレ懸念、または通貨安定性への不安が背景にある可能性。"
+  },
+  {
+    "title": "原油先物7％超下落、イラン巡る協議で戦争終結に期待 - Reuters",
+    "timestamp": "2026-11-02T20:43:44+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン核協議の進展が戦争終結への期待を高め、原油先物が7%超の大幅下落。中東地政学リスク低下が供給懸念の軽減につながった。"
+  },
+  {
+    "title": "原油価格が7.4%急落、インフレ懸念緩和 米10年債利回りは4.87%割れ - BigGo ファイナンス",
+    "timestamp": "2026-11-02T23:05:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が7.4%急落し、インフレ懸念の緩和を反映。米10年債利回りが4.87%を割り込み、金利環境の改善を示唆。需要懸念やドル強化など複数の下押し要因が作用。"
+  },
+  {
+    "title": "ＮＹ株反発、２１３ドル高 原油相場の急落好感、買い（共同通信） - 熊本日日新聞社",
+    "timestamp": "2026-11-02T22:17:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY株が213ドル高で反発した。原油相場の急落が株式市場の好材料として評価された。エネルギーコスト低下により企業収益改善期待が支援。"
+  },
+  {
+    "title": "NY株反発、213ドル高 原油相場の急落好感、買い - 西日本新聞me",
+    "timestamp": "2026-11-02T22:14:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場の急落を受けてNY株が反発し213ドル上昇した。エネルギー価格の低下はコモディティインフレ圧力の緩和を意味する。株価の反発は既知の相場メカニズムの反映。"
+  },
+  {
+    "title": "NY市場動向（午後0時台）：ダウ547ドル高、原油先物7.63ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-02T17:20:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場午後0時台の相場動向を伝える定期的な市場レポート。ダウ平均が547ドル上昇する一方、WTI原油先物は7.63ドル下落した。"
+  },
+  {
+    "title": "原油先物7％超下落、イラン巡る協議で戦争終結に期待 - ｄメニューニュース",
+    "timestamp": "2026-11-02T20:43:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イラン関連の紛争終結期待により、原油先物が7％超の大幅下落。地政学的リスク軽減が価格材料となり、1週間程度でも有意な変動。供給懸念の後退を反映した急速な調整局面。"
+  },
+  {
+    "title": "トウモロコシ先物で投機筋の大規模な売り：ZCはさらなる下落圧力を回避できるか？ - Traders Union",
+    "timestamp": "2026-11-02T15:24:23+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "トウモロコシ",
+    "summary": "投機筋がトウモロコシ先物で大規模な売却を実施。ZC（トウモロコシ先物）はさらなる下落圧力に直面している。ポジション調整による技術的な売り圧力が続く見通し。"
+  },
+  {
+    "title": "大豆先物価格は、ボラティリティが低い中でUSX1,219のサポートを維持できるか？ - Traders Union",
+    "timestamp": "2026-11-02T15:07:42+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物がUSX1,219のサポートレベルを維持できるかという技術分析的な観測。ボラティリティは低い水準にあり、近期的なトレンド転換シグナルは限定的。"
+  },
+  {
+    "title": "Sieyuan Electric、銅先物ヘッジ限度額を3倍に増額 - Moomoo",
+    "timestamp": "2026-11-02T15:21:05+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "Sieyuan Electricが銅先物ヘッジの限度額を3倍に増額。企業の個別リスク管理策であり、市場全体の需給バランスには直接影響しない。ヘッジニーズの増加は企業が銅価格変動に対応しようとしている姿勢を示す。"
+  },
+  {
+    "title": "銅価格予測：HGが底堅く推移するなか、$6.59の抵抗線に注目 - Traders Union",
+    "timestamp": "2026-11-02T19:08:38+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅先物（HG）が底堅く推移する中、$6.59のレジスタンスレベルが注目されている。アナリストによる技術的な価格予測で、具体的な新規材料は含まれていない。"
+  },
+  {
+    "title": "銅価格はレンジ内で推移、短期的な買い支えが下値を抑制 - Traders Union",
+    "timestamp": "2026-11-02T09:25:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格がレンジ内で推移している状況の解説。短期的な買い支えが下値を抑制しているとの観測。相場動向の振り返りコメント。"
+  },
+  {
+    "title": "米コモディティー市場－金、銀、銅、トウモロコシ、小麦が上昇 原油、ガソリン、天然ガス、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-02T23:24:03+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で金・銀・銅など貴金属と穀物が上昇した一方、エネルギーと大豆が下落。市場内で方向性が分かれた一日の相場の振り返り。"
   }
 ]
