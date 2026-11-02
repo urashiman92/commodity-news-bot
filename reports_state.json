@@ -1,60 +1,5 @@
 [
   {
-    "title": "USDA Lifts Corn Yield Forecast To Record High, Pressuring Grain Prices - Global Agriculture",
-    "timestamp": "2026-10-30T17:14:18+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが最新のWASDE報告でトウモロコシの単収見通しを過去最高に引き上げた。豊作予想により穀物相場に大きな下押し圧力が生じている。供給増加が需要見通しを上回る可能性が高く、穀物複合相場全体の下降トレンドが加速する見込み。"
-  },
-  {
-    "title": "USDA Lifts Corn Yield Forecast To Record High, Pressuring Grain Prices - Global Agriculture",
-    "timestamp": "2026-10-30T17:14:18+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAが最新のWASDE報告でトウモロコシの単収見通しを過去最高に引き上げた。豊作予想により穀物相場に大きな下押し圧力が生じている。供給増加が需要見通しを上回る可能性が高く、穀物複合相場全体の下降トレンドが加速する見込み。"
-  },
-  {
-    "title": "USDA Lifts Corn Yield Forecast To Record High, Pressuring Grain Prices - Global Agriculture",
-    "timestamp": "2026-10-30T17:14:18+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが最新のWASDE報告でトウモロコシの単収見通しを過去最高に引き上げた。豊作予想により穀物相場に大きな下押し圧力が生じている。供給増加が需要見通しを上回る可能性が高く、穀物複合相場全体の下降トレンドが加速する見込み。"
-  },
-  {
-    "title": "USDA Lifts Corn Yield Forecast To Record High, Pressuring Grain Prices - Global Agriculture",
-    "timestamp": "2026-10-30T17:14:18+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが最新のWASDE報告でトウモロコシの単収見通しを過去最高に引き上げた。豊作予想により穀物相場に大きな下押し圧力が生じている。供給増加が需要見通しを上回る可能性が高く、穀物複合相場全体の下降トレンドが加速する見込み。"
-  },
-  {
-    "title": "Freight rates for Russian oil stay at record highs amid tanker shortage, Black Sea risks, sources say - Reuters",
-    "timestamp": "2026-10-30T16:24:47+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア産石油の運搬料金が過去最高水準を維持している。タンカー不足とブラック海のリスク増加が主因。西側制裁によるタンカー利用制限が恒常化し、代替ルート経由での輸送コスト増加が続いている。"
-  },
-  {
     "title": "U.S. vs. Brazil Soybean Production Costs: A Farm-Level Comparison - Purdue University - College of Agriculture",
     "timestamp": "2026-10-31T00:09:19+00:00",
     "importance": 3,
@@ -75,61 +20,6 @@
     "source": "WASDE関連",
     "commodity": "トウモロコシ",
     "summary": "パデュー大学による米国とブラジルの大豆生産コスト比較分析。両国の農場レベルでの生産効率、投入コスト、収益性の相対的ポジションを詳細に検討。生産コスト構造の違いは穀物価格見通しと競争力ダイナミクスに影響を与える可能性がある。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-10-30T22:41:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEが2025年にOPEC離脱後の増産を推し進め、日量500万バレル超への引き上げを目指すとIEAが指摘。既に報道されたUAEの増産計画の続報であり、市場では部分的に織り込まれている見方が多い。供給増加は原油価格に下押し圧力となるが、地政学的リスクとのバランスで限定的。"
-  },
-  {
-    "title": "Saudi-led coalition says it downs drone over oil-rich Eastern Region - Reuters",
-    "timestamp": "2026-10-30T19:37:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビア主導の連合軍がサウジ東部の石油豊富地域上空でドローンを撃墜したと発表。同地域はサウジの主要油田が集中する重要地域。地政学的緊張の高まりがサプライズとなり、供給途絶リスク意識が高まる可能性がある。"
-  },
-  {
-    "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars - Reuters",
-    "timestamp": "2026-10-30T18:45:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "エクソンモービルとシェブロンの利益が予想を上回り、地政学的緊張（ウクライナ・中東戦争）に伴う石油供給懸念とエネルギー需要増加により精製マージンが拡大している。戦争リスクが石油産業の収益性を大幅に向上させており、エネルギー価格上昇圧力が継続している。"
-  },
-  {
-    "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars - Reuters",
-    "timestamp": "2026-10-30T18:45:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "エクソンモービルとシェブロンの利益が予想を上回り、地政学的緊張（ウクライナ・中東戦争）に伴う石油供給懸念とエネルギー需要増加により精製マージンが拡大している。戦争リスクが石油産業の収益性を大幅に向上させており、エネルギー価格上昇圧力が継続している。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
-    "timestamp": "2026-10-30T22:46:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC脱退後、原油生産が過去最高水準に接近している。OPECの減産枠組みから外れたUAEは生産能力を最大限に活用する戦略に転換。市場供給増加による価格下押し圧力が強まる。"
   },
   {
     "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say - Reuters",
@@ -658,5 +548,192 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアの主要石油ハブが攻撃により火災発生。NASA衛星データで確認された。ロシアの石油輸出インフラへの深刻な損害は供給ショックをもたらす可能性があり、既に逼迫する世界石油需給をさらに引き締める。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-02T23:34:04.668752+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-02T23:34:04.668752+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-02T23:34:04.668752+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-02T23:34:04.668752+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
+  },
+  {
+    "title": "Arable Market Report – 02 November 2026 - AHDB",
+    "timestamp": "2026-11-02T16:51:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "2026年11月2日付のAHDB穀物市場レポート。英国および欧州の穀物市況に関する定期的な市場概況と予想の更新。具体的な生産量・在庫数値の記載がないため詳細な影響度の判断が困難。"
+  },
+  {
+    "title": "Arable Market Report – 02 November 2026 - AHDB",
+    "timestamp": "2026-11-02T16:51:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月2日付のAHDB穀物市場レポート。英国および欧州の穀物市況に関する定期的な市場概況と予想の更新。具体的な生産量・在庫数値の記載がないため詳細な影響度の判断が困難。"
+  },
+  {
+    "title": "Arable Market Report – 02 November 2026 - AHDB",
+    "timestamp": "2026-11-02T16:51:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2026年11月2日付のAHDB穀物市場レポート。英国および欧州の穀物市況に関する定期的な市場概況と予想の更新。具体的な生産量・在庫数値の記載がないため詳細な影響度の判断が困難。"
+  },
+  {
+    "title": "Crop Progress: Soybean harvest closes in on the finish - Farm Progress",
+    "timestamp": "2026-11-02T20:47:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "米国農務省のCrop Progress定期発表。大豆の収穫が終盤に近づいている状況を報告。収穫進捗率の具体的な数値は記事タイトルのみでは不明だが、季節的な進行状況の更新。市場予想との比較情報が不足しているため、サプライズ度は判定困難。"
+  },
+  {
+    "title": "Crop Progress: Soybean harvest closes in on the finish - Farm Progress",
+    "timestamp": "2026-11-02T20:47:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国農務省のCrop Progress定期発表。大豆の収穫が終盤に近づいている状況を報告。収穫進捗率の具体的な数値は記事タイトルのみでは不明だが、季節的な進行状況の更新。市場予想との比較情報が不足しているため、サプライズ度は判定困難。"
+  },
+  {
+    "title": "Crop Progress: Soybean harvest closes in on the finish - Farm Progress",
+    "timestamp": "2026-11-02T20:47:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国農務省のCrop Progress定期発表。大豆の収穫が終盤に近づいている状況を報告。収穫進捗率の具体的な数値は記事タイトルのみでは不明だが、季節的な進行状況の更新。市場予想との比較情報が不足しているため、サプライズ度は判定困難。"
+  },
+  {
+    "title": "USDA Crop Progress Report November 2, 2026: Corn, Soybean Harvest Ahead of Average - News and Statistics - IndexBox",
+    "timestamp": "2026-11-02T21:50:46+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月2日のUSDA穀物進捗レポートにより、トウモロコシと大豆の収穫が平年を上回るペースで進行していることが確認された。豊作基調の展開が継続し、供給量増加への懸念が市場を圧迫。穀物相場は下値リスクが増している。"
+  },
+  {
+    "title": "USDA Crop Progress Report November 2, 2026: Corn, Soybean Harvest Ahead of Average - News and Statistics - IndexBox",
+    "timestamp": "2026-11-02T21:50:46+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年11月2日のUSDA穀物進捗レポートにより、トウモロコシと大豆の収穫が平年を上回るペースで進行していることが確認された。豊作基調の展開が継続し、供給量増加への懸念が市場を圧迫。穀物相場は下値リスクが増している。"
+  },
+  {
+    "title": "USDA cotton, rice guesses decline on acreage - Brownfield Ag News",
+    "timestamp": "2026-10-31T09:49:55+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "綿花",
+    "summary": "USDAが綿花と米の生産量予想を下方修正した。作付面積の減少が主要因。綿花・米の両コモディティで供給見通しが弱含みとなり、市場心理に影響を与える可能性がある。"
+  },
+  {
+    "title": "USDA cotton, rice guesses decline on acreage - Brownfield Ag News",
+    "timestamp": "2026-10-31T09:49:55+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "米",
+    "summary": "USDAが綿花と米の生産量予想を下方修正した。作付面積の減少が主要因。綿花・米の両コモディティで供給見通しが弱含みとなり、市場心理に影響を与える可能性がある。"
+  },
+  {
+    "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble - Bloomberg.com",
+    "timestamp": "2026-11-02T21:05:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国債利回りが過去1ヶ月の下落トレンドを継続する一方、原油価格が大幅に下落している。金利低下環境は金などの無利子資産に支持的だが、同時に原油売却圧力が強まっており、コモディティ市場は混合シグナルを示している。"
+  },
+  {
+    "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble - Bloomberg.com",
+    "timestamp": "2026-11-02T21:05:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国債利回りが過去1ヶ月の下落トレンドを継続する一方、原油価格が大幅に下落している。金利低下環境は金などの無利子資産に支持的だが、同時に原油売却圧力が強まっており、コモディティ市場は混合シグナルを示している。"
+  },
+  {
+    "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble - Bloomberg.com",
+    "timestamp": "2026-11-02T21:05:52+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国債利回りが過去1ヶ月の下落トレンドを継続する一方、原油価格が大幅に下落している。金利低下環境は金などの無利子資産に支持的だが、同時に原油売却圧力が強まっており、コモディティ市場は混合シグナルを示している。"
   }
 ]
