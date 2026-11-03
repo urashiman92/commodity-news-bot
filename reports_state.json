@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say - Reuters",
-    "timestamp": "2026-10-31T18:05:10+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は12月の石油生産目標を据え置くことで原則合意した。前回の減産方針の継続を示唆する内容で、市場では既に織り込まれている見通しが多い。具体的な生産数値の変更がない案件のため、価格インパクトは限定的と考えられる。"
-  },
-  {
     "title": "OPEC+ set to hold December oil output steady, Reuters reports - Yahoo Finance",
     "timestamp": "2026-10-31T21:14:25+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が12月の石油生産量を現状維持することを決定した。リアルタイムの市場反応はないが、減産継続政策の継続は原油価格を下支えする要因となる。前月の政策からの変更がないため、既織り込みの内容である。"
-  },
-  {
-    "title": "OPEC+ said to have agreed in principle to hold December oil output targets steady - Seeking Alpha",
-    "timestamp": "2026-10-31T19:02:08+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が12月の石油生産目標を現状維持することで原則合意したと報道。減産も増産も行わない据え置き姿勢を示唆しており、市場には限定的な影響。既に予想されていた範囲内の決定とみられる。"
   },
   {
     "title": "OPEC+ set to keep December oil output targets unchanged, focus shifts to 2027 quotas - The Tribune",
@@ -955,5 +933,148 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナが無人機でロシアのヤノス製油所を攻撃。ロシアの精製能力低下により供給制約が生じる可能性が高まった。ウクライナによるエネルギーインフラ攻撃の激化は、欧州向けロシア産油の流通に直結し、原油市場の供給懸念を加速させている。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-11-03T02:04:22+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計で米国の原油ガソリン在庫が前週比で減少したことが報告された。需要の強さが在庫減少の主要因とされている。在庫の減少は供給逼迫シグナルとなり、原油価格の上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-11-03T15:50:34+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが報告した米国の商業原油在庫が2018年以来の最低水準に低下した。輸出量の増加と製油所の処理量拡大が在庫減少の主因。在庫の段階的な低下トレンドが継続しており、市場の供給逼迫を反映している。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 74%, Soybeans 88% Harvested - November 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-11-03T19:30:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月のUSDA穀物進捗レポートでトウモロコシの収穫が74%、大豆が88%に達した。高い収穫進捗率は平年並みか上振れの見通しを示唆し、供給増加懸念から穀物価格に下押し圧力がかかる。作付面積や単収の詳細データによって市場反応が変わる可能性がある。"
+  },
+  {
+    "title": "USDA Crop Progress: Corn 74%, Soybeans 88% Harvested - November 2026 - News and Statistics - IndexBox",
+    "timestamp": "2026-11-03T19:30:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年11月のUSDA穀物進捗レポートでトウモロコシの収穫が74%、大豆が88%に達した。高い収穫進捗率は平年並みか上振れの見通しを示唆し、供給増加懸念から穀物価格に下押し圧力がかかる。作付面積や単収の詳細データによって市場反応が変わる可能性がある。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
+    "timestamp": "2026-11-02T20:43:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
+    "timestamp": "2026-11-02T20:43:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
+    "timestamp": "2026-11-02T20:43:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
+  },
+  {
+    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
+    "timestamp": "2026-11-02T20:43:28+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
+  },
+  {
+    "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
+    "timestamp": "2026-11-02T19:18:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "コロナウイルスの世界的な感染拡大が経済活動を制約し、石油需要の減少を懸念する中、OPECが減産を検討する可能性が報じられた。需要減少圧力と供給調整の綱引きが原油市場の重要なテーマとなっている。"
+  },
+  {
+    "title": "European stocks slip as Middle East uncertainty makes for caution - Reuters",
+    "timestamp": "2026-11-03T07:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の地政学的不確実性の高まりを受けて、欧州株式市場が軟調となっている。リスク回避姿勢が強まる中で、コモディティ市場も方向性が揺らいでいる。原油は地政学リスク織り込みで上昇圧力がある一方、リスク資産売却に伴い金は堅調に推移する可能性が高い。"
+  },
+  {
+    "title": "European stocks slip as Middle East uncertainty makes for caution - Reuters",
+    "timestamp": "2026-11-03T07:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "中東の地政学的不確実性の高まりを受けて、欧州株式市場が軟調となっている。リスク回避姿勢が強まる中で、コモディティ市場も方向性が揺らいでいる。原油は地政学リスク織り込みで上昇圧力がある一方、リスク資産売却に伴い金は堅調に推移する可能性が高い。"
+  },
+  {
+    "title": "European stocks slip as Middle East uncertainty makes for caution - Reuters",
+    "timestamp": "2026-11-03T07:24:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "中東の地政学的不確実性の高まりを受けて、欧州株式市場が軟調となっている。リスク回避姿勢が強まる中で、コモディティ市場も方向性が揺らいでいる。原油は地政学リスク織り込みで上昇圧力がある一方、リスク資産売却に伴い金は堅調に推移する可能性が高い。"
+  },
+  {
+    "title": "Major Russian Oil Hub on Fire After Strike, NASA Data Show - Bloomberg.com",
+    "timestamp": "2026-11-02T16:17:26+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの主要石油ハブが攻撃を受けて火災が発生。NASA衛星データにより確認された。ロシア産原油の供給が一時的に減少する可能性があり、ウクライナ情勢の激化による供給ショックリスクが顕在化。国際原油市場への上昇圧力が強まる。"
   }
 ]
