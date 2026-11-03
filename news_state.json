@@ -1,27 +1,5 @@
 [
   {
-    "title": "10月31日のガソリン価格の更新:世界の原油価格が上昇 - Laodong.vn",
-    "timestamp": "2026-10-31T14:51:50+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月31日時点で世界の原油価格が上昇したことを報じるニュース。ベトナムのガソリン価格更新に伴う定期的な市場情報。"
-  },
-  {
-    "title": "2026年11月1日、世界最大の消費市場が予想外に金の購入を停止したため、金価格は急落し、今年最低水準まで下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-31T15:18:08+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年11月1日、世界最大の金消費市場（インド）が予想外に金購入を停止した。これにより金価格は急落し、年間最低水準を更新した。需要サイドからの主要市場喪失は金相場に大きな下圧力をもたらす。"
-  },
-  {
     "title": "本日（11月1日）の金価格：急落、ここ数ヶ月で最大の下げ幅。 - Vietnam.vn",
     "timestamp": "2026-10-31T22:45:18+00:00",
     "importance": 3,
@@ -1164,5 +1142,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "テック株の急落に伴う市場調整局面で、原油価格も暴落している。リスク資産売却のフローが商品市場にも波及。需給悪化ではなく金融市場主導の下落。"
+  },
+  {
+    "title": "和平交渉を受け、欧州小麦先物が数カ月ぶりの安値圏に下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-03T18:56:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "ウクライナ情勢の和平交渉進展を受け、供給リスク低下への期待から欧州小麦先物が数カ月ぶりの安値圏まで下落。地政学的リスク・プレミアムが段階的に剥落している状況。"
+  },
+  {
+    "title": "国際金価格が1年ぶりに安値更新 中国の宝飾店が活況 - AFPBB News",
+    "timestamp": "2026-11-03T07:29:45+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "国際金価格が1年ぶりの安値を更新。中国の宝飾店需要が増加し、低価格が買い需要を喚起している。金相場の調整局面が続く中、実需購買が活発化している。"
+  },
+  {
+    "title": "金価格は下落、原油価格は上昇、中央銀行は記録的な量の金を蓄積。 - Vietnam.vn",
+    "timestamp": "2026-11-03T13:44:24+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は下落する一方、原油価格は上昇。中央銀行による記録的な金の蓄積が報告される。相反する市場動向が観察される。"
+  },
+  {
+    "title": "金価格は年内に約3割下落、世界の中央銀行は第3四半期に逆張りで321トン買い増し―約2年ぶり高水準 - BigGo ファイナンス",
+    "timestamp": "2026-11-03T07:26:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は年初来で約3割下落したが、世界の中央銀行は第3四半期に321トンを買い増し、約2年ぶりの高水準となった。中央銀行の逆張り買いが金需要の下支え要因となっている。"
+  },
+  {
+    "title": "2026年11月4日、世界の金市場で金価格が急落し、伝統的な安全資産としての役割が低下した。 - Vietnam.vn",
+    "timestamp": "2026-11-03T15:50:01+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年11月4日、世界の金市場で金価格が急落した。伝統的な安全資産としての金の役割が低下している傾向が見られる。具体的な下落要因や下落幅は記事概要からは不明。"
+  },
+  {
+    "title": "WTI原油先物相場、下げ渋り 96ドル台半ばで推移 - Moomoo",
+    "timestamp": "2026-11-03T15:50:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が96ドル台半ばで推移し、下げ渋りを見せている。相場が支持線付近で値動きしている状況の観測記事。市場の方向性を示す新たな材料に乏しい。"
+  },
+  {
+    "title": "NY市場動向（午前10時台）：ダウ211ドル安、原油先物0.29ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-03T16:05:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場の午前10時台の相場速報。ダウ平均が211ドル安、WTI原油先物が0.29ドル安と小幅な下落。市場全体の軟調地合いを反映した通常のボラティリティ範囲内の動き。"
+  },
+  {
+    "title": "テクニカルモメンタムの弱さと材料不足を背景に、銅価格が3%超下落 - Traders Union",
+    "timestamp": "2026-11-03T12:07:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が3%超下落した。テクニカルモメンタムの弱さと具体的な好材料の不足が背景。アナリスト解説による相場振り返り。"
+  },
+  {
+    "title": "米中間選挙への警戒感と中国の需要減退を受け、銅価格が下落 - Traders Union",
+    "timestamp": "2026-11-03T09:24:37+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米中間選挙への不透明感と中国経済減速が銅需要の先行き懸念を招いている。2つの主要需要国・地域での需給悪化が価格下押し要因となっている。既知の課題の現状報告的な解説記事。"
   }
 ]
