@@ -1,82 +1,5 @@
 [
   {
-    "title": "金先物が現物価格を上回る取引は、本当に強気相場のシグナルなのか？ - TradingKey",
-    "timestamp": "2026-10-31T07:18:19+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物が現物価格を上回る取引状況について、それが強気相場のシグナルかどうかを問う解説記事。市場参加者の見方の違いを反映した相場分析。"
-  },
-  {
-    "title": "本日（10月31日午後）の金価格：引き続き急落。 - Vietnam.vn",
-    "timestamp": "2026-10-31T07:52:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "10月31日午後の金価格が引き続き急落している。既に進行中の下落トレンドの続報。ベトナムの地域ニュースサイトによる市場振り返り報道。"
-  },
-  {
-    "title": "世界の金価格は数ヶ月ぶりに大幅下落、見通しは不透明 - Laodong.vn",
-    "timestamp": "2026-10-31T08:55:57+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が数ヶ月ぶりに大幅下落している。見通しが不透明な状況が継続している。コモディティ投資家にとっては保有ポジションの再評価が必要な局面。"
-  },
-  {
-    "title": "中東の戦火が原油価格を押し上げ 台湾中油、来週も2週連続で価格据え置き 累計吸収額は318.6億台湾ドル - BigGo ファイナンス",
-    "timestamp": "2026-10-31T10:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東の地政学的緊張が原油価格を上昇させている。台湾中油は価格上昇分を吸収するため2週連続で値上げを据え置き、累計吸収額は318.6億台湾ドルに達した。"
-  },
-  {
-    "title": "洋山銅プレミアムが1トン200ドルを突破し過去最高記録 世界の銅在庫の9割は米国の倉庫に集中 - BigGo ファイナンス",
-    "timestamp": "2026-10-31T11:25:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "洋山銅プレミアムが過去最高の1トン200ドル突破。世界の銅在庫の9割が米国倉庫に集中し、供給の地理的偏在が顕著化。アジア地域での物理需給のタイトさを反映。"
-  },
-  {
-    "title": "国内の金価格は、今年のピーク時から1テールあたり5300万ベトナムドン下落した。 - Vietnam.vn",
-    "timestamp": "2026-10-31T13:21:07+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が年初来ピークから1テール当たり5300万ドン（約280USD相当）下落した。現地市場における調整局面の報道。"
-  },
-  {
-    "title": "ブレント原油価格113.43ドル、10月13.6%上昇後の週：OPEC+日曜、米中間選挙、雇用統計 - FinanceFeeds",
-    "timestamp": "2026-10-31T08:27:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が113.43ドルで推移し、10月は13.6%上昇。OPEC+の減産、米中間選挙、雇用統計など複数の市場材料が影響。既に織り込まれた相場の振り返りニュース。"
-  },
-  {
     "title": "10月31日のガソリン価格の更新:世界の原油価格が上昇 - Laodong.vn",
     "timestamp": "2026-10-31T14:51:50+00:00",
     "importance": 2,
@@ -143,17 +66,6 @@
     "summary": "ベトナムのSJC金価格が1オンスあたり240万ベトナムドン下落した。ローカル市場の日次価格変動を報じたもの。グローバル金相場への直接的な影響は限定的。"
   },
   {
-    "title": "イラン戦争が石油企業に異常な暴利をもたらす 米石油業界が半年で1,300億ドル超を稼ぎ出す - BigGo ファイナンス",
-    "timestamp": "2026-10-31T07:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン関連の地政学リスク高まりで米石油企業が半年で1,300億ドル超の利益を計上。既に知られた供給懸念が価格上昇と利益増に反映されている状況の報道。"
-  },
-  {
     "title": "国際金価格が1オンス3900ドルの節目を割り込む 中国国内の金飾品はグラム当たり年初来550元近く下落 - BigGo ファイナンス",
     "timestamp": "2026-11-01T00:35:00+00:00",
     "importance": 3,
@@ -174,17 +86,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "10月26日～30日の金相場の週間まとめ記事。アナリスト水野崇による過去1週間の価格動向と相場解説を提供する振り返りコンテンツ。"
-  },
-  {
-    "title": "金価格4000ドル付近に下落、2カ月連続安へ－原油高と株安が重荷 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-10-31T09:00:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4000ドル付近に下落し、2ヶ月連続での値下がりが見込まれている。原油高と株価下落が重荷となっており、複数の逆風要因が作用している。"
   },
   {
     "title": "本日（11月1日）の金価格：買い、売りともに安定。 - Vietnam.vn",
@@ -229,17 +130,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "11月1日時点で原油価格が1ヶ月間で15%以上上昇したことを報じるニュース。ベトナムのガソリン価格動向を解説する記事。既に市場で消化された値動きの振り返り。"
-  },
-  {
-    "title": "WTI 原油先物2612【CL2612】株価掲示板｜投資家のコメント - Moomoo",
-    "timestamp": "2026-10-31T13:08:03+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "Moomooプラットフォーム上のWTI原油先物2612限月に関する投資家コメント掲示板。具体的なニュース内容や市場イベントの情報が提供されていない。"
   },
   {
     "title": "金価格の予測（1週間の急落後）。 - Vietnam.vn",
@@ -1186,5 +1076,93 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "東京為替市場でドル・円相場が変動なし。市場参加者が原油相場の動向を注視している状況。為替と原油の相互作用に注目が集まっている。"
+  },
+  {
+    "title": "国際金価格が1年ぶりに安値更新 中国の宝飾店が活況 - AFPBB News",
+    "timestamp": "2026-11-03T05:20:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "国際金価格が1年ぶりの安値を更新した。中国の宝飾店では安値を背景に買い活動が活況を呈している。価格下落は物理需要を刺激する効果をもたらしている。"
+  },
+  {
+    "title": "Claudeによる金価格のテクニカル予想（2026年11月3日～12月31日） - Moomoo",
+    "timestamp": "2026-11-03T08:37:30+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "AIが2026年11月～12月の金価格をテクニカル分析で予想したコメンタリー。具体的な予想内容や根拠が不明確。過去の予想精度の実績がない予測記事。"
+  },
+  {
+    "title": "金価格は本日午後（11月3日）に予想外の反転を見せた。 - Vietnam.vn",
+    "timestamp": "2026-11-03T12:27:58+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月3日午後に金価格が予想外の反転を見せたと報じられている。具体的な価格変動幅や反転要因が記事から明確でない。相場の振り返りコメンタリーと考えられる。"
+  },
+  {
+    "title": "11月3日の金価格：SJCの金地金が急騰。 - Vietnam.vn",
+    "timestamp": "2026-11-03T11:47:24+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金地金が11月3日に急騰したという報道。地域限定のニュースで、グローバル市場への直接的な影響は限定的と考えられる。"
+  },
+  {
+    "title": "ドルがやや買われる、原油相場が反発 ドル円１５８円台前半＝ロンドン為替概況 - みんかぶ FX/為替",
+    "timestamp": "2026-11-03T11:41:29+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル買いが進行し、ドル円が158円台前半で推移。これに伴い原油相場が反発している。為替動向と原油相場の連動を述べた市場解説。"
+  },
+  {
+    "title": "【速報】NY原油先物下げ止まる、97.39ドル｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-03T13:24:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が97.39ドルで下げ止まった。直近の下落局面から価格が支持されたことを示唆している。本ニュースは相場の技術的な流れを述べたもの。"
+  },
+  {
+    "title": "サウジ国有石油会社、41％増益 中東情勢悪化で販売量減少も原油価格の上昇寄与 - 産経ニュース",
+    "timestamp": "2026-11-03T08:09:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラムコが41%の増益を記録。中東情勢悪化で販売量は減少したが、原油価格上昇がそれを補った。地政学的リスクプレミアムが価格に反映されている状況を示唆。"
+  },
+  {
+    "title": "📉 市場調整が本格化：テック株は急落、原油価格は暴落！ 📉 - Moomoo",
+    "timestamp": "2026-11-03T07:30:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "テック株の急落に伴う市場調整局面で、原油価格も暴落している。リスク資産売却のフローが商品市場にも波及。需給悪化ではなく金融市場主導の下落。"
   }
 ]
