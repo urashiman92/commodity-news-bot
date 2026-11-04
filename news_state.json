@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格の予測（1週間の急落後）。 - Vietnam.vn",
-    "timestamp": "2026-11-01T08:29:29+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間の急落後の予測に関する記事。市場解説・アナリスト見解の類と推定される。具体的な新規ファンダメンタルズは不明。"
-  },
-  {
-    "title": "本日（11月1日午後）の金価格：安定 - Vietnam.vn",
-    "timestamp": "2026-11-01T09:15:48+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムにおける金価格が11月1日午後の時点で安定推移していることを報じる記事。市場における大きな変動なし。"
-  },
-  {
-    "title": "来週の金価格リスク - Vietnam.vn",
-    "timestamp": "2026-11-01T12:52:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "来週の金価格動向に関する解説記事。具体的なリスク要因は記事本文が不明だが、金市場のボラティリティを示唆。定期的な相場分析の類と推定される。"
-  },
-  {
-    "title": "11月1日の終値:専門家が来週の金価格を予測 - Laodong.vn",
-    "timestamp": "2026-11-01T12:34:06+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月1日の金の終値を踏まえて、専門家が来週の金価格を予測したコメンタリー記事。具体的な予測内容や専門家の見通しは記事概要から不明。過去データに基づくテクニカル分析や市場観測の域を出ない。"
-  },
-  {
-    "title": "2026年11月2日現在、金価格は1オンスあたり1,000ドル以上下落し、1年ぶりの安値を記録した。金の価値保存手段としての役割は依然として維持されているのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-11-01T15:29:48+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1年ぶりの安値となる1オンス1,000ドル以上の下落を記録した。金の価値保存手段としての機能継続が問われている。ドル高や金利上昇など、既知のファンダメンタルズが背景と考えられる。"
-  },
-  {
-    "title": "原油価格が上昇に転じる - Pars Today",
-    "timestamp": "2026-11-01T12:52:08+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が上昇に転じたというニュース。ただし具体的な上昇幅、要因、時間軸が不明確。コモディティ市場では複数の要因が常に作用している。"
-  },
-  {
     "title": "【商品市場】金相場の転機を占うAI関連企業の信用不安(週刊 金融財政事情) - Yahoo!ファイナンス",
     "timestamp": "2026-11-02T00:30:00+00:00",
     "importance": 3,
@@ -97,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が10月に最大下落を記録し、今週も下落が続く可能性が指摘されている。既に発生した価格変動の事後的な解説報道。"
-  },
-  {
-    "title": "金価格の暴落、大きな相場展開！Always in Short｜正確なエントリー、トレンドに乗じて売り増し、リスクリワード比1:6 - Moomoo",
-    "timestamp": "2026-11-01T13:17:09+00:00",
-    "importance": 1,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "トレーディング企業による金価格の下落局面での短期売却戦略の解説記事。具体的な価格動向や市場ファンダメンタルズ情報は不明確。テクニカル分析に基づくポジション推奨の提示に過ぎない。"
   },
   {
     "title": "11月2日朝の金価格更新:市場は重要なデータに息を呑んで待つ - Laodong.vn",
@@ -1406,5 +1329,126 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "11月3日の主要国際商品市況の日次サマリー記事。具体的な価格変動や市場イベントの詳細は記事本体を確認する必要がある。定期的な相場報告の一部と思われる。"
+  },
+  {
+    "title": "【臨時ブログ】民主党勝利確実により金価格４０００ドル回復 - 三菱マテリアル GOLDPARK",
+    "timestamp": "2026-11-04T08:08:22+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国民主党選挙勝利予想を背景に金価格が4000ドルまで回復する可能性を示唆したコメンタリー。政治的不確実性の高まりと金利低下期待が金買いを促進。既存の政治リスク織り込み相場の延長線上の解説。"
+  },
+  {
+    "title": "金価格が4,000ドルの節目を割り込む 原油価格とFRB利上げ観測が最大の変数に - BigGo ファイナンス",
+    "timestamp": "2026-11-04T13:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドルの重要なサポートレベルを割り込んだ。原油価格とFRBの利上げ観測が主要な下押し要因として作用している。ドル強化と実質金利上昇が金需要を抑制。"
+  },
+  {
+    "title": "テクノロジーセクターで「振り子」相場の展開 米ドル急落、金価格上昇 | 今夜の注目点 - Moomoo",
+    "timestamp": "2026-11-04T13:20:49+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米ドル急落に伴い金価格が上昇している状況を解説するコメンタリー記事。テクノロジーセクターの相場振動との関連性を指摘。ドル安が金の買値低下につながり、金需要を支援している。"
+  },
+  {
+    "title": "本日（11月4日午後）の金価格：金地金価格は引き続き上昇しています。 - Vietnam.vn",
+    "timestamp": "2026-11-04T08:45:52+00:00",
+    "importance": 1,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの報道で金地金価格が引き続き上昇している旨が報告されている。既に方向が織り込まれた相場解説であり、具体的な新規材料に基づくものではない。"
+  },
+  {
+    "title": "金価格が4000ドル台に復帰、ドル安と選挙不確実性が反発を後押し - BigGo ファイナンス",
+    "timestamp": "2026-11-04T11:35:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4000ドル/トロイオンスを回復。ドル安進行と米国選挙に伴う政治的不確実性が買い材料。金は不確実性環境では伝統的に買われやすい。"
+  },
+  {
+    "title": "ゴールドマン、原油価格予想を上方修正―中東・ウクライナ情勢で供給途絶リスク織り込む - 財経新聞",
+    "timestamp": "2026-11-04T03:53:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ゴールドマン・サックスが原油価格予想を上方修正。中東とウクライナの地政学的リスクによる供給途絶シナリオを織り込んだもの。既に報じられている地政学リスクを改めて評価したアナリスト見解。"
+  },
+  {
+    "title": "国際原油価格が2日連続急落…ブレント原油103ドル台、米・イラン交渉期待に中間選挙の変数も - BigGo ファイナンス",
+    "timestamp": "2026-11-04T08:45:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が103ドル台へ2日連続で急落。米・イラン核協議再開への期待と11月の米中間選挙を控えた需要見通しの弱化が重要。地政学的リスクプレミアムの縮小が価格を圧迫。"
+  },
+  {
+    "title": "本日の原油市況：国際原油は小幅に反発、交渉見通しの不透明感と米国原油在庫の減少が下支え要因 - Moomoo",
+    "timestamp": "2026-11-04T06:09:04+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油は小幅反発。米国原油在庫の減少が下支え要因となり、交渉見通しの不透明感も相場を支えている。ただし上値は限定的な展開。"
+  },
+  {
+    "title": "商社決算、際立つ銅事業の成長－AIデータセンターの需要が追い風に - Bloomberg.com",
+    "timestamp": "2026-11-04T07:28:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "日本商社の銅事業が成長加速。AI/データセンター需要の拡大が電力・冷却銅需要を押し上げている。商社決算発表による既知情報の確認レベル。"
+  },
+  {
+    "title": "銅と砂糖の価格が急落した。 - Vietnam.vn",
+    "timestamp": "2026-11-04T07:54:23+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅と砂糖の価格が急落した。需給バランスの悪化またはマクロ環境の悪化が示唆される。具体的な下落幅や原因が明記されていないため詳細は不明。"
+  },
+  {
+    "title": "人民元安は、米国の強い需要にもかかわらず銅価格を圧迫するのか？ - Traders Union",
+    "timestamp": "2026-11-04T09:25:08+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "人民元安が銅価格の下押し要因として作用する可能性が指摘されている。米国の需要堅調にもかかわらず、中国通貨弱化による実質価格上昇が需要を抑制する懸念。中国の銅需要減少シナリオが価格を圧迫する可能性がある。"
   }
 ]
