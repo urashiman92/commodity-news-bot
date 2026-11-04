@@ -132,17 +132,6 @@
     "summary": "米国株先物が上昇して開始したものの、原油先物は軟調に推移している。株価上昇と原油下落の乖離が示唆されている。"
   },
   {
-    "title": "原油価格：OPEC+、12月目標を3カ月連続で据え置き ブレント10月113.43ドルで終了 - FinanceFeeds",
-    "timestamp": "2026-11-01T18:10:13+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "OPEC+が12月の減産目標を3カ月連続で据え置くことを決定。ブレント原油は10月に113.43ドルで月間を終了。現在の方針継続で市場に大きな新材料なし。"
-  },
-  {
     "title": "１０月３０日の主要国際商品市況 - 株探",
     "timestamp": "2026-11-01T23:10:00+00:00",
     "importance": 2,
@@ -1450,5 +1439,126 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "人民元安が銅価格の下押し要因として作用する可能性が指摘されている。米国の需要堅調にもかかわらず、中国通貨弱化による実質価格上昇が需要を抑制する懸念。中国の銅需要減少シナリオが価格を圧迫する可能性がある。"
+  },
+  {
+    "title": "金価格が4,000ドル近辺で推移する中、ロイヤル・ゴールドの決算に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-04T20:25:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が4,000ドル近辺で推移している局面で、金鉱山企業ロイヤル・ゴールドの決算発表に注目するコメンタリー。現在の金価格水準での採掘企業の収益性を評価する観点から取り上げられている。"
+  },
+  {
+    "title": "世界の人々の感情に変化…ネガティブ経験指数が上昇、金相場の長期上昇を支える要因とは【コモディティアナリストが解説】 - ゴールドオンライン",
+    "timestamp": "2026-11-04T20:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界的なネガティブ感情の上昇がセンチメント指標で観測されている。心理的な不安定性の増加が金の避難資産としての需要を支えている。長期的な金価格上昇の構造的背景となる可能性。"
+  },
+  {
+    "title": "原油先物8％超下落、米共和党敗北でイラン戦争終結に期待 - Reuters",
+    "timestamp": "2026-11-04T21:02:28+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米大統領選で共和党敗北、イラン紛争終結への期待から原油先物が8%超下落。地政学リスク軽減により供給懸念が後退。エネルギー市場に即座に反映。"
+  },
+  {
+    "title": "原油先物8％超下落、米共和党敗北でイラン戦争終結に期待 - ニューズウィーク日本版",
+    "timestamp": "2026-11-04T21:02:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米共和党選挙敗北によるイラン戦争リスク低下期待で原油先物が8%超下落。地政学的リスク低下が材料。ただし既に選挙結果は公知の事象の解釈記事。"
+  },
+  {
+    "title": "ジェットブルー株が急騰、原油価格急落が追い風に 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-04T19:30:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格の急落がジェットブルーなど航空会社の燃料コスト削減につながり、株価上昇につながった。航空セクターと原油の相関性を示す事例。既に市場で織り込まれた範囲内の値動き。"
+  },
+  {
+    "title": "原油先物8％超下落、米共和党敗北でイラン戦争終結に期待 - ｄメニューニュース",
+    "timestamp": "2026-11-04T21:11:06+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国大統領選挙で共和党が敗北し、イラン戦争終結への期待が高まった。これにより地政学的リスク低下によって原油先物が8%超下落。供給途絶リスクの軽減が価格圧迫要因となった。"
+  },
+  {
+    "title": "バンス氏「敗因は戦争」と認める 国際原油価格が1日で1割超急落、WTIは90ドル割れ - BigGo ファイナンス",
+    "timestamp": "2026-11-04T18:25:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "バンス氏が選挙敗因を戦争に言及したことで地政学的リスク後退を市場が評価。国際原油価格が1日で10%超急落し、WTI原油は90ドルを割った。地政学プレミアムの急速な縮小が示唆されている。"
+  },
+  {
+    "title": "WTI原油先物相場、下値探る 89ドル台後半で推移 - Moomoo",
+    "timestamp": "2026-11-04T16:48:04+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が89ドル台後半で推移し、下値を探る動きが見られている。具体的な材料は示されておらず、相場の技術的な調整局面と考えられる。"
+  },
+  {
+    "title": "ビットコイン8万ドル回復、原油価格急落 - BeInCrypto",
+    "timestamp": "2026-11-04T13:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ビットコインが8万ドルに回復した一方で、原油価格が急落した。暗号資産と原油の逆相関が示唆されている。タイムリーな市場動向の報道だが、原油投資家向けの具体的な需給情報は含まれていない。"
+  },
+  {
+    "title": "原油価格が3ドル超下落、米航空株が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-04T19:33:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が3ドル超下落し、燃料コスト低下の恩恵を受けた米航空株が上昇した。原油下落は航空業界など燃料多消費産業にとってポジティブ要因となる典型的な相場連動である。"
+  },
+  {
+    "title": "AI株売りが銅価格に与える影響 - BeInCrypto",
+    "timestamp": "2026-11-04T21:16:22+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "AI株の売却が進むことで、テクノロジー関連企業の設備投資需要が減少し、銅などの工業用金属への需要低下圧力が高まる可能性がある。AI構想の修正が中期的な産業用金属需要の見直しにつながる懸念がコモディティ市場に影響。"
   }
 ]
