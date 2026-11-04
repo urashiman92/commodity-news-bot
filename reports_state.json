@@ -1,82 +1,5 @@
 [
   {
-    "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat - WSJ",
-    "timestamp": "2026-11-01T12:44:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECおよび同盟国が石油産出量を現状維持する方針を確認。一方、ペルシャ湾の海運が脅威にさらされている状況が報告されている。供給は安定している一方で、地政学リスク要因がプレミアムを支える可能性がある。"
-  },
-  {
-    "title": "OPEC+ Leaves Oil Output Targets Unchanged for December (Table) - Bloomberg.com",
-    "timestamp": "2026-11-01T13:02:50+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が12月の石油生産目標を据え置くことを決定した。これは市場予想の範囲内であり、既存のポリシー継続を示唆している。現在の減産枠組みを維持することで、市場の安定性を優先する姿勢が確認された。"
-  },
-  {
-    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 - Reuters",
-    "timestamp": "2026-11-01T13:36:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+は12月の石油生産目標を据え置く決定を発表。2027年に向けたより厳しい判断が控えている状況。減産政策の継続姿勢を示す一方で、来年以降の政策転換の可能性を示唆。市場では既に織り込まれた内容と評価。"
-  },
-  {
-    "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say - Bloomberg.com",
-    "timestamp": "2026-11-01T12:32:55+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC+の代表者らが、現在の減産枠組みを継続する方針を示唆したとBloombergが報道。既に公表されている政策の継続確認であり、市場では概ね織り込まれた内容。近日の正式会合での決定を控えた事前観測の域。"
-  },
-  {
-    "title": "Saudi Economy Shrank at Slower Pace Before Houthi War Escalation - Bloomberg.com",
-    "timestamp": "2026-11-01T12:47:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの経済縮小ペースが鈍化していたが、フーシ派による戦闘エスカレーションがこの改善トレンドを脅かす可能性がある。GCC最大のエネルギー産出国における地政学リスク上昇は、原油供給不安とリスクオフによる金買いの両方を誘発する可能性がある。"
-  },
-  {
-    "title": "Saudi Economy Shrank at Slower Pace Before Houthi War Escalation - Bloomberg.com",
-    "timestamp": "2026-11-01T12:47:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "サウジアラビアの経済縮小ペースが鈍化していたが、フーシ派による戦闘エスカレーションがこの改善トレンドを脅かす可能性がある。GCC最大のエネルギー産出国における地政学リスク上昇は、原油供給不安とリスクオフによる金買いの両方を誘発する可能性がある。"
-  },
-  {
-    "title": "Saudi Economy Shrank at Slower Pace Before Houthi War Escalation - Bloomberg.com",
-    "timestamp": "2026-11-01T12:47:06+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアの経済縮小ペースが鈍化していたが、フーシ派による戦闘エスカレーションがこの改善トレンドを脅かす可能性がある。GCC最大のエネルギー産出国における地政学リスク上昇は、原油供給不安とリスクオフによる金買いの両方を誘発する可能性がある。"
-  },
-  {
     "title": "October WASDE report surprised the grain markets - Ohio's Country Journal",
     "timestamp": "2026-11-02T00:39:01+00:00",
     "importance": 3,
@@ -319,17 +242,6 @@
     "summary": "USDAとNASAが協力して穀物作付面積・生産量推定の精度向上に取り組む取組み。衛星データとAIを活用した推定精度改善により、将来のWASDE発表のばらつき低減が期待される。市場への即座の影響は限定的だが、長期的には価格ボラティリティ低減要因。"
   },
   {
-    "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat - WSJ",
-    "timestamp": "2026-11-01T12:44:55+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECおよび同盟国が現在の石油生産量を据え置く方針を維持している。一方、ペルシャ湾の海運が脅威にさらされており、供給リスクが存在。地政学的な不確実性が価格を下支えしている状況。"
-  },
-  {
     "title": "OPEC Keeps December Output Targets Unchanged - Rigzone",
     "timestamp": "2026-11-02T08:51:00+00:00",
     "importance": 2,
@@ -416,17 +328,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ADNOC（アブダビ国営石油会社）のCEOが、世界のエネルギー供給バッファ（在庫・余剰生産能力）が著しく侵食されていると発表。地政学的リスクや需給逼迫環境が継続し、供給サイドの余裕がかつてないほど限定的になっている状況を指摘。産油国の声として、供給逼迫感と価格上昇圧力の正当性を主張するもの。"
-  },
-  {
-    "title": "Venture Global begins supplying Plaquemines phase 1 customers under long-term LNG contracts - Reuters",
-    "timestamp": "2026-11-01T14:25:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "Venture Globalが米ルイジアナ州Plaquemines LNG施設のPhase 1から顧客への供給を開始した。長期契約に基づく供給開始により、米国LNG輸出能力が実質稼働レベルに達した。世界的なLNG供給タイト化の緩和要因となる可能性がある一方、既に市場織り込み済みの可能性が高い。"
   },
   {
     "title": "Major Russian Oil Hub on Fire After Strike, NASA Data Show - Bloomberg.com",
@@ -1153,5 +1054,71 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "銅価格が1万4000ドル下回る水準で下落圧力を受けている。米国中間選挙のリスク懸念がリスク資産全般の売却につながり、銅を含むコモディティが軟調。景気敏感な銅は株式市場の下振れリスクに連動して値を下げている状況。"
+  },
+  {
+    "title": "US Total Weekly EIA Crude Oil Stocks Fall by 1.3 Million Barrels After Prior 2.0 Million Decrease - marketscreener.com",
+    "timestamp": "2026-11-04T15:34:57+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国のEIA原油在庫が130万バレル減少した。前週は200万バレルの減少だったため、在庫低下ペースは鈍化している。継続的な在庫減少傾向は需要堅調を示唆するが、減少幅の縮小は需給タイト感の緩和を示唆する可能性がある。"
+  },
+  {
+    "title": "WTI and Brent Test Support Ahead of Key US Oil Inventory Report - FXEmpire",
+    "timestamp": "2026-11-04T16:04:01+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国EIA原油在庫報告が発表予定。WTIとBrentが技術的サポート水準をテスト中。市場は主要な在庫統計を前に値動きが限定的。在庫データが予想を上回れば下落圧力、予想を下回れば上昇圧力となる可能性。"
+  },
+  {
+    "title": "Will Supply or Demand Forces Drive Peanut Prices Post-Harvest? - Oklahoma Farm Report",
+    "timestamp": "2026-11-04T14:16:08+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "ピーナッツ収穫後の価格動向について、供給要因と需要要因のどちらが主導するかを問う業界解説。供給サイドの作況と需要サイドの消費動向の相互作用が価格方向を決定する見通し。具体的な生産量や在庫水準の数値は記事タイトルのみでは不明。"
+  },
+  {
+    "title": "New Jersey governor warns ports against accepting Russian diesel - Reuters",
+    "timestamp": "2026-11-03T19:38:09+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ニュージャージー州知事がロシア産ディーゼル油の港湾への受け入れを警告。米国東部港湾でのロシア石油製品流入制限は、エネルギー供給の多角化とウクライナ関連制裁強化の一環。供給源の限定化により、ディーゼル価格上昇圧力が増加。"
+  },
+  {
+    "title": "Saudi Budget Deficit More Than Doubles on War, Aramco Fees - Bloomberg.com",
+    "timestamp": "2026-11-04T07:17:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの財政赤字がイエメン戦争関連支出とアラムコ配当金支払いにより前年比2倍以上に拡大。同国の財政圧迫は石油増産圧力につながる可能性が高く、原油価格の上値抑制要因となる。OPECの減産維持姿勢との葛藤が市場で注視される。"
+  },
+  {
+    "title": "Saudi Budget Deficit More Than Doubles on War, Aramco Fees - Bloomberg.com",
+    "timestamp": "2026-11-04T07:17:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアの財政赤字がイエメン戦争関連支出とアラムコ配当金支払いにより前年比2倍以上に拡大。同国の財政圧迫は石油増産圧力につながる可能性が高く、原油価格の上値抑制要因となる。OPECの減産維持姿勢との葛藤が市場で注視される。"
   }
 ]
