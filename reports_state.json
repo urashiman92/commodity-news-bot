@@ -1,16 +1,5 @@
 [
   {
-    "title": "OPEC+ set to keep December oil output targets unchanged, focus shifts to 2027 quotas - The Tribune",
-    "timestamp": "2026-11-01T03:22:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は12月の原油生産目標を据え置く方針を示し、焦点が2027年のクォータ設定へシフト。既報の減産政策が継続される見通しで、市場への新たなサプライズは限定的。"
-  },
-  {
     "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat - WSJ",
     "timestamp": "2026-11-01T12:44:00+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPECおよび同盟国が石油産出量を現状維持する方針を確認。一方、ペルシャ湾の海運が脅威にさらされている状況が報告されている。供給は安定している一方で、地政学リスク要因がプレミアムを支える可能性がある。"
-  },
-  {
-    "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows - The State",
-    "timestamp": "2026-11-01T08:41:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が12月の原油生産目標を据え置く決定を発表。イラン情勢の混乱がサプライズとなる可能性もあるが、既にイラン制裁強化による供給減少は価格に織り込まれている。減産政策の継続維持で市場バランスの安定化を模索。"
   },
   {
     "title": "OPEC+ Leaves Oil Output Targets Unchanged for December (Table) - Bloomberg.com",
@@ -1131,5 +1109,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラビアの財政赤字が2倍以上に拡大し、戦費と経済圧力が同国の財政を逼迫させている。OPECの最大規模産油国の財政悪化は、増産圧力の高まりを示唆しており、原油価格の下押し要因となる可能性がある。同時に金融逼迫はリスク資産回避につながり、金などの安全資産需要を高める。"
+  },
+  {
+    "title": "Suncor Energy tops profit estimates on higher oil prices, margins - Reuters",
+    "timestamp": "2026-11-03T23:45:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "Suncor Energyが利益見通しを上回る業績を発表。高油価と製油マージン拡大が主因。カナダの主要エネルギー企業の好調決算は、現在の原油相場環境（60-80ドル/バレル帯推定）の持続可能性を示唆。ただし企業決算の続報であり、市場への新規情報性は限定的。"
+  },
+  {
+    "title": "Democrats’ Win Rattles Trump Trades From AI Stocks to Crypto - Bloomberg.com",
+    "timestamp": "2026-11-04T06:10:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "民主党の選挙勝利がトランプ関連の取引（AI株から暗号資産まで）を揺さぶっている。政策の不確実性が高まり、金融市場全体のボラティリティが増す見通し。コモディティ市場への政治的波及効果は政策方針によって異なる可能性がある。"
+  },
+  {
+    "title": "Copper Holds Losses Below $14,000 on US Midterm Risks to Stocks - Bloomberg.com",
+    "timestamp": "2026-11-04T06:19:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "銅価格が1万4000ドル下回る水準で下落圧力を受けている。米国中間選挙のリスク懸念がリスク資産全般の売却につながり、銅を含むコモディティが軟調。景気敏感な銅は株式市場の下振れリスクに連動して値を下げている状況。"
+  },
+  {
+    "title": "Copper Holds Losses Below $14,000 on US Midterm Risks to Stocks - Bloomberg.com",
+    "timestamp": "2026-11-04T06:19:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "銅価格が1万4000ドル下回る水準で下落圧力を受けている。米国中間選挙のリスク懸念がリスク資産全般の売却につながり、銅を含むコモディティが軟調。景気敏感な銅は株式市場の下振れリスクに連動して値を下げている状況。"
   }
 ]
