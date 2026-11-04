@@ -154,50 +154,6 @@
     "summary": "テクノロジー関連株の下落がAI懸念を招き、アジア株式市場の下落が予想されている。リスク回避局面ではドル高・金利上昇圧力が生まれやすく、ドル建てコモディティ（原油・銅）は下圧力を受ける一方、金は無利子資産として相応の支えを受ける可能性がある。"
   },
   {
-    "title": "Larger grain supplies and tightening livestock production complicate commodity markets - Ohio's Country Journal",
-    "timestamp": "2026-11-01T20:30:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE関連レポートにおいて、穀物供給量の増加と畜産生産の逼迫が市場に複雑な影響をもたらしている。穀物供給増加は価格下落圧力となる一方、畜産生産の制約は飼料需要と食肉価格の上昇をもたらし、市場内で相反する力学が作用している状況。"
-  },
-  {
-    "title": "Larger grain supplies and tightening livestock production complicate commodity markets - Ohio's Country Journal",
-    "timestamp": "2026-11-01T20:30:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE関連レポートにおいて、穀物供給量の増加と畜産生産の逼迫が市場に複雑な影響をもたらしている。穀物供給増加は価格下落圧力となる一方、畜産生産の制約は飼料需要と食肉価格の上昇をもたらし、市場内で相反する力学が作用している状況。"
-  },
-  {
-    "title": "Larger grain supplies and tightening livestock production complicate commodity markets - Ohio's Country Journal",
-    "timestamp": "2026-11-01T20:30:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE関連レポートにおいて、穀物供給量の増加と畜産生産の逼迫が市場に複雑な影響をもたらしている。穀物供給増加は価格下落圧力となる一方、畜産生産の制約は飼料需要と食肉価格の上昇をもたらし、市場内で相反する力学が作用している状況。"
-  },
-  {
-    "title": "Larger grain supplies and tightening livestock production complicate commodity markets - Ohio's Country Journal",
-    "timestamp": "2026-11-01T20:30:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE関連レポートにおいて、穀物供給量の増加と畜産生産の逼迫が市場に複雑な影響をもたらしている。穀物供給増加は価格下落圧力となる一方、畜産生産の制約は飼料需要と食肉価格の上昇をもたらし、市場内で相反する力学が作用している状況。"
-  },
-  {
     "title": "USDA, NASA partner to improve crop estimate accuracy - FarmWeekNow",
     "timestamp": "2026-11-02T07:00:00+00:00",
     "importance": 2,
@@ -1120,5 +1076,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラビアの財政赤字がイエメン戦争関連支出とアラムコ配当金支払いにより前年比2倍以上に拡大。同国の財政圧迫は石油増産圧力につながる可能性が高く、原油価格の上値抑制要因となる。OPECの減産維持姿勢との葛藤が市場で注視される。"
+  },
+  {
+    "title": "Soybean Prices Slip Below $12 as Corn Holds Gains Ahead of USDA Report - AgroLatam",
+    "timestamp": "2026-11-04T21:49:15+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA報告書を控える中、大豆価格が1ブッシェル当たり12ドル以下に下落した。一方トウモロコシは上昇基調を維持している。市場は米農務省の作付・在庫見通し発表を待機しており、今後の穀物相場の方向性が決定される局面。"
+  },
+  {
+    "title": "Soybean Prices Slip Below $12 as Corn Holds Gains Ahead of USDA Report - AgroLatam",
+    "timestamp": "2026-11-04T21:49:15+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA報告書を控える中、大豆価格が1ブッシェル当たり12ドル以下に下落した。一方トウモロコシは上昇基調を維持している。市場は米農務省の作付・在庫見通し発表を待機しており、今後の穀物相場の方向性が決定される局面。"
+  },
+  {
+    "title": "Corn yields fall short of estimates - Newsbug.info",
+    "timestamp": "2026-11-04T13:07:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE関連レポートでトウモロコシの収量見通しが予想を下回った。単収の低下はサプライズであり、米国の主要穀物供給量の減少を示唆している。この結果、トウモロコシ価格には上昇圧力が働く可能性が高い。"
+  },
+  {
+    "title": "US Oil Inventories Fall Further As Demand Holds - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-11-04T15:37:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計により、米国の原油在庫が引き続き減少していることが確認された。需要が堅調に推移する中での在庫低下は、需給引き締まりシグナルとして機能し、原油価格の上昇圧力になる。具体的な在庫数値が提供されていないため、変動幅の評価は限定的。"
+  },
+  {
+    "title": "Northwest Berry Foundation, With Delphy, Awarded USDA Specialty Crop Block Grant to Assess Controlled Production Systems for Oregon Berries - Yahoo Finance",
+    "timestamp": "2026-11-04T21:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "Northwest Berry FoundationがDelphyと共同で、USDA Specialty Crop Block Grantを受賞し、オレゴン州のベリー類の制御環境生産システム（温室・垂直農業など）の評価プロジェクトを実施する。農業技術高度化と生産効率化を目指した研究助成であり、ベリー市場の長期的な供給安定化に寄与する可能性がある。"
+  },
+  {
+    "title": "OPEC+ Likely to Again Raise Oil Output Targets From September, Sources Say - EnergyNow.com",
+    "timestamp": "2026-11-04T12:12:08+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月から石油生産目標をさらに引き上げる可能性が報じられた。複数の情報筋の観測値であり、正式決定ではない。既に市場で段階的な増産政策が織り込まれつつあるため、サプライズ度は低い。ただし増産規模次第で原油相場に上昇圧力。"
+  },
+  {
+    "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-04T21:36:03+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "米国投票後の市場反応として、株式と債券が上昇する一方でドル指数が下落。ドル安環境はドル建てコモディティ（特に金）の上昇圧力となる。金利動向や米国政策の不確実性が高まっており、安全資産である金への需要増加が予想される。"
+  },
+  {
+    "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-04T21:36:03+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国投票後の市場反応として、株式と債券が上昇する一方でドル指数が下落。ドル安環境はドル建てコモディティ（特に金）の上昇圧力となる。金利動向や米国政策の不確実性が高まっており、安全資産である金への需要増加が予想される。"
   }
 ]
