@@ -1,170 +1,5 @@
 [
   {
-    "title": "【商品市場】金相場の転機を占うAI関連企業の信用不安(週刊 金融財政事情) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-02T00:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "AI関連企業の信用不安が金相場の転機となる可能性を指摘する解説記事。リスク回避姿勢の高まりが金買いにつながる可能性がある。"
-  },
-  {
-    "title": "金価格は軒並み急落した。 - Vietnam.vn",
-    "timestamp": "2026-11-02T00:29:37+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落したことを報じるニュース。具体的な下落要因や幅については記事概要から判断不可。ベトナムメディアの相場振り返り記事と推定。"
-  },
-  {
-    "title": "金価格が10月最大下落、今週も続落か - BeInCrypto",
-    "timestamp": "2026-11-01T22:17:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が10月に最大下落を記録し、今週も下落が続く可能性が指摘されている。既に発生した価格変動の事後的な解説報道。"
-  },
-  {
-    "title": "11月2日朝の金価格更新:市場は重要なデータに息を呑んで待つ - Laodong.vn",
-    "timestamp": "2026-11-01T23:15:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月2日朝の金価格動向を報じるニュース。市場が重要な経済指標の発表を待機している状況を伝えている。具体的な価格変動や指標内容は記事概要では不明。"
-  },
-  {
-    "title": "2026年11月2日現在の金価格：週初めに世界の金価格が急騰する一方、SJCの金価格は安定している。 - Vietnam.vn",
-    "timestamp": "2026-11-02T00:40:11+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年11月2日時点の金価格レポート。世界市場では金価格が上昇する一方、ベトナムのSJC金価格は比較的安定している状況を報じた観測記事。地域別の価格乖離を指摘するコメンタリー。"
-  },
-  {
-    "title": "上昇続ける原油価格、今後下落する可能性はあるのか？ - Forbes JAPAN",
-    "timestamp": "2026-11-01T23:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の上昇トレンドが続く中、将来的な下落可能性についての解説記事。アナリスト見解や相場観の提示だが、具体的な新規情報や供給・需要ショックは含まれていない。"
-  },
-  {
-    "title": "WTI原油価格見通し(市況ニュース)：供給は途切れていないとの見方で原油価格は高値から押し戻し（2026年11月2日） - OANDA証券",
-    "timestamp": "2026-11-01T23:26:16+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "供給が途切れていないとの見方から、WTI原油価格が高値から押し戻された。市場のサプライズ感は限定的。アナリストによる相場解説・観測記事。"
-  },
-  {
-    "title": "米株価指数先物 上昇して始まる、原油先物が軟調 - みんかぶ FX/為替",
-    "timestamp": "2026-11-01T23:23:29+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米株先物が上昇で始まる一方、原油先物は軟調に推移している。株債の方向性と原油が乖離する相場環境を反映。需給悪化やドル高圧力が継続しているとみられる。"
-  },
-  {
-    "title": "米株価指数先物 上昇して始まる、原油先物が軟調 - 株探",
-    "timestamp": "2026-11-01T23:32:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米株先物が上昇で始まる一方、原油先物は軟調に推移している。株と原油の値動きが乖離している状況を報じたニュース。具体的な新規材料や統計発表ではなく、相場の振り返り。"
-  },
-  {
-    "title": "原油価格が1バレル100ドルを突破、石油大手5社は第3四半期に約8.7兆円の純利益を稼ぎ出すも「投資には回さず」という異例の慎重姿勢 - BigGo ファイナンス",
-    "timestamp": "2026-11-02T00:05:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が1バレル100ドルを突破し、石油大手5社が第3四半期に8.7兆円の過去最大利益を計上。しかし企業は利益を生産増強ではなく株主還元や債務返済に充てる慎重姿勢を示している。"
-  },
-  {
-    "title": "本日の燃料価格（11月2日）：世界の原油価格は上昇傾向にあります。 - Vietnam.vn",
-    "timestamp": "2026-11-02T00:29:36+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ベトナムの燃料価格報道で、世界の原油価格が上昇傾向にあることを報じている。具体的な価格変動幅や主要な駆動要因が記事要約から不明。定期的な燃料価格報告の一環と見られる。"
-  },
-  {
-    "title": "米株価指数先物 上昇して始まる、原油先物が軟調 - みんかぶ",
-    "timestamp": "2026-11-01T23:32:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国株先物が上昇して開始したものの、原油先物は軟調に推移している。株価上昇と原油下落の乖離が示唆されている。"
-  },
-  {
-    "title": "１０月３０日の主要国際商品市況 - 株探",
-    "timestamp": "2026-11-01T23:10:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "10月30日の主要国際商品市況に関する定期レポート。具体的な価格データやニュースの詳細は記事本文にて確認が必要。定期的な市場観測記事であり、速報性は低い。"
-  },
-  {
-    "title": "１０月３０日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-11-01T23:10:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "10月30日の国際商品市況に関する定期レポート。具体的な価格データや市場動向の詳細が記事本文に示されていないため、市場への影響度は判断困難。"
-  },
-  {
-    "title": "金価格が3,900ドル超に反発、10月の急落後に押し目買い 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-02T01:05:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3,900ドルを超える水準に反発。10月の下落後の押し目買いが入っている。テクニカルなリバウンド局面の報道。"
-  },
-  {
     "title": "金価格が1年ぶり安値から1%急反発、アナリスト警告「4,000ドル回復が安定の条件」 - BigGo ファイナンス",
     "timestamp": "2026-11-02T04:55:00+00:00",
     "importance": 2,
@@ -185,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの報道で国内金価格と国際金価格が同時上昇を報じている。具体的な上昇要因や数値が不明であり、既存トレンドの継続を伝えるものと推察される。"
-  },
-  {
-    "title": "金取引アラート：金価格が1年ぶりの安値から反発。今週は中間選挙と雇用統計（非農業部門雇用者数）を控える中 - Moomoo",
-    "timestamp": "2026-11-01T23:52:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1年ぶりの安値から反発局面にある。今週は米国中間選挙と雇用統計という重要イベントを控えており、市場のボラティリティが高まる可能性がある。米国政治・雇用市場の動向がドル相場と金価格に大きく影響する。"
   },
   {
     "title": "金価格は大幅下落から回復、4,000米ドルの水準が試金石に - Laodong.vn",
@@ -231,17 +55,6 @@
     "summary": "Yahoo!ファイナンスによるWTI原油価格連動型上場投信【1671】の株価情報ページへのリンク。リアルタイム株価データや夜間PTS情報を提供するコンテンツ。"
   },
   {
-    "title": "原油先物3％超下落、イラン・カタールの協議継続 中間選挙後の動き警戒 - Reuters",
-    "timestamp": "2026-11-02T00:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が3%超下落。イラン・カタール協議の継続報道と米国中間選挙後の不確実性が材料。既に織り込まれた地政学リスクの調整局面と見られる。"
-  },
-  {
     "title": "世界の原油価格が調整、ブレントは1バレルあたり111.84米ドルに下落 - IDNFinancials",
     "timestamp": "2026-11-02T03:40:00+00:00",
     "importance": 2,
@@ -251,28 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ブレント原油が111.84ドル/バレルに下落した。世界的な原油価格の調整局面を反映している。既報の市場動向の続報と見られる。"
-  },
-  {
-    "title": "東京金 原油先物の時間外での下げを受けてNY金先時間外は堅調 - みんかぶ FX/為替",
-    "timestamp": "2026-11-02T01:38:29+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京金先物が原油先物の時間外下落を受けて変動。NY金先物は時間外で堅調に推移。異なる市場での逆相関の動きを伝える相場情報。"
-  },
-  {
-    "title": "原油先物3％超下落、イラン・カタールの協議継続 中間選挙後の動き警戒 - ニューズウィーク日本版",
-    "timestamp": "2026-11-02T00:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が3％超下落。イラン・カタール協議継続とUS中間選挙後の動きが警戒されている。既知の地政学的要因に基づく相場調整と見られる。"
   },
   {
     "title": "米加金利差と原油価格の相反する影響により、米ドル/カナダドルは低位でのボックス圏推移を維持しています。 - Moomoo",
@@ -295,28 +86,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "アップルの決算発表を控え、株式市場が横ばい推移している環境下で原油価格は軟調に推移。リスク資産全般の不安心理が背景にあるとみられる。"
-  },
-  {
-    "title": "原油価格と米国債利回りの連動が断絶、ブラックロックは「AIリスクが地政学リスクに取って代わり市場の主軸に」 - BigGo ファイナンス",
-    "timestamp": "2026-11-02T01:39:33+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格と米国債利回りの従来の連動性が断絶し、市場の注視点がAIリスクへシフトしていると指摘。地政学リスクから構造的な市場パラダイムシフトが進行中。"
-  },
-  {
-    "title": "原油先物1％超下落、イランとカタールの協議継続 - ｄメニューニュース",
-    "timestamp": "2026-11-02T00:59:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が1％超下落。イランとカタール間の協議が継続中であり、地政学的緊張が緩和方向にあると市場が解釈。供給遮断リスクの軽減が売り圧力。"
   },
   {
     "title": "銀と小麦の価格が急落し、MXV指数は2カ月ぶりの安値をつけた。 - Vietnam.vn",
@@ -1560,5 +1329,214 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "AI株の売却が進むことで、テクノロジー関連企業の設備投資需要が減少し、銅などの工業用金属への需要低下圧力が高まる可能性がある。AI構想の修正が中期的な産業用金属需要の見直しにつながる懸念がコモディティ市場に影響。"
+  },
+  {
+    "title": "NY金先物は大幅反発、米中間選挙での民主党勝利や原油安を受けて買い優勢｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-04T23:05:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米中間選挙での民主党勝利と原油安を受けて、NY金先物が大幅に買い優勢となった。リスク回避姿勢と実質金利低下期待が金買いを促進。既報のイベント（中間選挙）の相場への影響を解説したニュース。"
+  },
+  {
+    "title": "金価格(ゴールド)見通し(市況ニュース)：民主党の両院獲得でドル安、金価格は大幅反発（2026年11月5日） - OANDA証券",
+    "timestamp": "2026-11-04T22:30:26+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年11月の米国選挙で民主党が両院を獲得し、ドル安が進行。ドル安環境は金の国際競争力を高め、金価格が大幅に反発した。"
+  },
+  {
+    "title": "金価格3.4%急騰、1オンス4,060ドル回復…ドル安が牽引 - BigGo ファイナンス",
+    "timestamp": "2026-11-04T23:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3.4%上昇し1オンス4,060ドルを回復した。ドル安が主要な上昇要因。金はドル建て資産であり、ドル弱化時に上昇する通常のメカニズムが働いた。"
+  },
+  {
+    "title": "ニューヨーク原油・金先物市場概況（4日）原油は大幅に3日続落 - Moomoo",
+    "timestamp": "2026-11-04T22:20:58+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク原油市場で3日続落となった。金先物市場も含む相場動向の振り返り記事。"
+  },
+  {
+    "title": "ニューヨーク金先物市場概況･4日 大幅反発 - TradingView",
+    "timestamp": "2026-11-04T20:38:04+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ニューヨーク金先物市場が4日に大幅反発した。具体的な反発要因や価格水準の詳細情報は提供記事のタイトルのみで不明。市場の技術的なリバウンドまたは短期的なポジション調整の可能性。"
+  },
+  {
+    "title": "リファスタ｜11/5 木 金価格予想22,630円(+738円) ｜杉兼太朗 - JIJICO",
+    "timestamp": "2026-11-04T22:13:46+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月5日木曜日の金価格が22,630円と前日比+738円の上昇予想。アナリスト杉兼太朗による価格予想記事。具体的な上昇要因の詳細は概要文には示されていない。"
+  },
+  {
+    "title": "米国の中間選挙の影響を受けて、世界の金価格は3％上昇した。 - Vietnam.vn",
+    "timestamp": "2026-11-05T01:00:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米国中間選挙の結果に応じて金価格が3％上昇した。政治的不確実性の高まりは伝統的に金を買い材料とする。既に選挙日程は既知であり、結果反映後の報道である。"
+  },
+  {
+    "title": "英・ノルウェー・メキシコの中銀会合、原油価格の動向に注目 - マネースクエア",
+    "timestamp": "2026-11-05T00:05:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "英国・ノルウェー・メキシコの中央銀行会合が予定されており、市場では原油価格の動向に注目が集まっている。各国の金融政策決定が為替や資金フローを通じて原油相場に影響する可能性がある。"
+  },
+  {
+    "title": "NY外為：カナダドル軟調、NY原油先物は1カ月ぶり安値 - 株探",
+    "timestamp": "2026-11-04T18:35:38+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が1カ月ぶり安値まで下落。カナダドル軟調も背景にある。既に進行中の下落トレンドの継続を示唆する相場展開。"
+  },
+  {
+    "title": "WTI原油価格見通し(市況ニュース)：イラン和平期待の高まりで原油価格は急落（2026年11月5日） - OANDA証券",
+    "timestamp": "2026-11-04T22:30:24+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イランとの和平交渉期待が高まり、地政学的リスク低下で原油価格が急落。供給途絶懸念の後退が材料。コモディティ投資家にとっては下値リスク局面。"
+  },
+  {
+    "title": "米中間選挙でイラン和平期待高まり、原油価格は大幅安を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-05T00:56:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米中間選挙を受けてイラン制裁緩和・核合意復帰への和平期待が高まっている。イラン産原油供給増加の可能性で原油価格は大幅安を継続している。地政学リスク低下が相場の重し。"
+  },
+  {
+    "title": "一夜の市場に激震：国際原油価格が8％超の急落、金は4,060ドル突破、中国株ADRが一斉高 - BigGo ファイナンス",
+    "timestamp": "2026-11-05T00:57:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "国際原油価格が一夜にして8％超の急落し、同時に金は4,060ドルを突破。中国株ADRが一斉高となる等、複数資産クラスで同時かつ大幅な市場変動が発生した。"
+  },
+  {
+    "title": "WTI原油先物相場、上値重い 88ドル台前半で推移 - Moomoo",
+    "timestamp": "2026-11-05T00:43:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が88ドル台前半で推移し、上値が重い状況。現在の価格帯での膠着状態を示唆。特段の新規要因は報じられていない。"
+  },
+  {
+    "title": "米中間選挙の結果を受けて、原油価格は8％以上急落した。 - Vietnam.vn",
+    "timestamp": "2026-11-05T01:40:34+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国中間選挙の結果を受けて原油価格が8%以上の急落を記録した。政治的不確実性の解消またはドル強化など複数の要因が重なった可能性がある。大幅な下落は投資家のポジション調整を迫る重要な局面である。"
+  },
+  {
+    "title": "「他社より高く仕入れ、安く売る」榛木金属工業は、なぜ銅相場の乱高下に左右されず稼げるのか？ - JBpress",
+    "timestamp": "2026-11-04T21:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "榛木金属工業の経営戦略に関する解説記事。銅相場の変動リスクをヘッジする企業の事例紹介。市場全体の需給変化や価格方向性には直接影響なし。"
+  },
+  {
+    "title": "４日の主要国際商品市況 - 株探",
+    "timestamp": "2026-11-04T23:20:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "4日の主要国際商品市況の日次レポート。具体的な価格動向や商品別の動きは見出しからは不明。定期的な市況配信記事と見られる。"
+  },
+  {
+    "title": "米コモディティー市場－天然ガス、金、銀、銅、トウモロコシが上昇 原油、ガソリン、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-04T23:27:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で金・銀・銅・天然ガス・トウモロコシが上昇、原油・ガソリン・小麦・大豆が下落。需給バランスの商品間での分化が鮮明。"
+  },
+  {
+    "title": "４日の主要国際商品市況 (2026年11月5日掲載) - ライブドアニュース",
+    "timestamp": "2026-11-04T23:20:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年11月4日の主要国際商品市況の総括報道。具体的な価格変動や個別商品の騰落内容が記事概要に記載されていない。"
+  },
+  {
+    "title": "４日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-11-04T23:20:11+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "4日の主要国際商品市況に関する定期的な市場レポート。具体的な商品の価格データや市場動向については記事本体を確認が必要。"
   }
 ]
