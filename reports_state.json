@@ -1,16 +1,5 @@
 [
   {
-    "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
-    "timestamp": "2026-11-02T15:55:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC割当枠からの解放を受けて石油輸出が増加したと発表。同国は業界イベント開催時にこの成果を強調しており、OPEC外での増産余力を示唆。ただし具体的な輸出数量は未開示。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-11-02T23:34:04.668752+00:00",
     "importance": 2,
@@ -53,171 +42,6 @@
     "source": "USDA NASS公式",
     "commodity": "コモディティ全般",
     "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
-  },
-  {
-    "title": "Arable Market Report – 02 November 2026 - AHDB",
-    "timestamp": "2026-11-02T16:51:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "2026年11月2日付のAHDB穀物市場レポート。英国および欧州の穀物市況に関する定期的な市場概況と予想の更新。具体的な生産量・在庫数値の記載がないため詳細な影響度の判断が困難。"
-  },
-  {
-    "title": "Arable Market Report – 02 November 2026 - AHDB",
-    "timestamp": "2026-11-02T16:51:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月2日付のAHDB穀物市場レポート。英国および欧州の穀物市況に関する定期的な市場概況と予想の更新。具体的な生産量・在庫数値の記載がないため詳細な影響度の判断が困難。"
-  },
-  {
-    "title": "Arable Market Report – 02 November 2026 - AHDB",
-    "timestamp": "2026-11-02T16:51:19+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "2026年11月2日付のAHDB穀物市場レポート。英国および欧州の穀物市況に関する定期的な市場概況と予想の更新。具体的な生産量・在庫数値の記載がないため詳細な影響度の判断が困難。"
-  },
-  {
-    "title": "Crop Progress: Soybean harvest closes in on the finish - Farm Progress",
-    "timestamp": "2026-11-02T20:47:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "米国農務省のCrop Progress定期発表。大豆の収穫が終盤に近づいている状況を報告。収穫進捗率の具体的な数値は記事タイトルのみでは不明だが、季節的な進行状況の更新。市場予想との比較情報が不足しているため、サプライズ度は判定困難。"
-  },
-  {
-    "title": "Crop Progress: Soybean harvest closes in on the finish - Farm Progress",
-    "timestamp": "2026-11-02T20:47:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国農務省のCrop Progress定期発表。大豆の収穫が終盤に近づいている状況を報告。収穫進捗率の具体的な数値は記事タイトルのみでは不明だが、季節的な進行状況の更新。市場予想との比較情報が不足しているため、サプライズ度は判定困難。"
-  },
-  {
-    "title": "Crop Progress: Soybean harvest closes in on the finish - Farm Progress",
-    "timestamp": "2026-11-02T20:47:25+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国農務省のCrop Progress定期発表。大豆の収穫が終盤に近づいている状況を報告。収穫進捗率の具体的な数値は記事タイトルのみでは不明だが、季節的な進行状況の更新。市場予想との比較情報が不足しているため、サプライズ度は判定困難。"
-  },
-  {
-    "title": "USDA Crop Progress Report November 2, 2026: Corn, Soybean Harvest Ahead of Average - News and Statistics - IndexBox",
-    "timestamp": "2026-11-02T21:50:46+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月2日のUSDA穀物進捗レポートにより、トウモロコシと大豆の収穫が平年を上回るペースで進行していることが確認された。豊作基調の展開が継続し、供給量増加への懸念が市場を圧迫。穀物相場は下値リスクが増している。"
-  },
-  {
-    "title": "USDA Crop Progress Report November 2, 2026: Corn, Soybean Harvest Ahead of Average - News and Statistics - IndexBox",
-    "timestamp": "2026-11-02T21:50:46+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年11月2日のUSDA穀物進捗レポートにより、トウモロコシと大豆の収穫が平年を上回るペースで進行していることが確認された。豊作基調の展開が継続し、供給量増加への懸念が市場を圧迫。穀物相場は下値リスクが増している。"
-  },
-  {
-    "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble - Bloomberg.com",
-    "timestamp": "2026-11-02T21:05:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国債利回りが過去1ヶ月の下落トレンドを継続する一方、原油価格が大幅に下落している。金利低下環境は金などの無利子資産に支持的だが、同時に原油売却圧力が強まっており、コモディティ市場は混合シグナルを示している。"
-  },
-  {
-    "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble - Bloomberg.com",
-    "timestamp": "2026-11-02T21:05:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国債利回りが過去1ヶ月の下落トレンドを継続する一方、原油価格が大幅に下落している。金利低下環境は金などの無利子資産に支持的だが、同時に原油売却圧力が強まっており、コモディティ市場は混合シグナルを示している。"
-  },
-  {
-    "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble - Bloomberg.com",
-    "timestamp": "2026-11-02T21:05:52+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国債利回りが過去1ヶ月の下落トレンドを継続する一方、原油価格が大幅に下落している。金利低下環境は金などの無利子資産に支持的だが、同時に原油売却圧力が強まっており、コモディティ市場は混合シグナルを示している。"
-  },
-  {
-    "title": "Arable Market Report – 02 November 2026 - AHDB",
-    "timestamp": "2026-11-02T16:51:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "2026年11月2日のAHDB穀物市場レポートです。英国農業経済研究所による定期的な市況分析レポートであり、穀物市場（小麦・トウモロコシ・大豆）の需給動向や価格見通しについての更新と考えられます。具体的な数値データが提供されていないため、詳細な市場への影響度は判断できません。"
-  },
-  {
-    "title": "Arable Market Report – 02 November 2026 - AHDB",
-    "timestamp": "2026-11-02T16:51:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月2日のAHDB穀物市場レポートです。英国農業経済研究所による定期的な市況分析レポートであり、穀物市場（小麦・トウモロコシ・大豆）の需給動向や価格見通しについての更新と考えられます。具体的な数値データが提供されていないため、詳細な市場への影響度は判断できません。"
-  },
-  {
-    "title": "Arable Market Report – 02 November 2026 - AHDB",
-    "timestamp": "2026-11-02T16:51:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "2026年11月2日のAHDB穀物市場レポートです。英国農業経済研究所による定期的な市況分析レポートであり、穀物市場（小麦・トウモロコシ・大豆）の需給動向や価格見通しについての更新と考えられます。具体的な数値データが提供されていないため、詳細な市場への影響度は判断できません。"
-  },
-  {
-    "title": "UAE Oil Exports Rise Since Leaving OPEC - Marine News Magazine",
-    "timestamp": "2026-11-02T18:56:42+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECを離脱後、石油輸出が増加したとの報道。OPEC減産枠の制約から解放され、生産・輸出を拡大する動きが顕在化。ただしこは既に周知の流れであり、市場への新たなサプライズは限定的と考えられる。"
   },
   {
     "title": "Oil edges up after report of US strike on Iran's Qeshm Island - Reuters",
@@ -451,61 +275,6 @@
     "summary": "2026年11月のUSDA穀物進捗レポートでトウモロコシの収穫が74%、大豆が88%に達した。高い収穫進捗率は平年並みか上振れの見通しを示唆し、供給増加懸念から穀物価格に下押し圧力がかかる。作付面積や単収の詳細データによって市場反応が変わる可能性がある。"
   },
   {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
-    "timestamp": "2026-11-02T20:43:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
-    "timestamp": "2026-11-02T20:43:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
-    "timestamp": "2026-11-02T20:43:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
-  },
-  {
-    "title": "RFD-TV Weekly Crop Progress and Livestock Production Report — Monday, November 2, 2026 - RFD-TV",
-    "timestamp": "2026-11-02T20:43:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年11月2日のRFD-TV週間穀物進捗・畜産生産レポートの公開。米国のトウモロコシ、小麦、大豆の作付進捗状況と収穫状況、ならびに畜産生産動向を定期報告。具体的な数値はリンクのみで本文未記載のため、詳細は原文確認が必要。"
-  },
-  {
-    "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
-    "timestamp": "2026-11-02T19:18:53+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "コロナウイルスの世界的な感染拡大が経済活動を制約し、石油需要の減少を懸念する中、OPECが減産を検討する可能性が報じられた。需要減少圧力と供給調整の綱引きが原油市場の重要なテーマとなっている。"
-  },
-  {
     "title": "European stocks slip as Middle East uncertainty makes for caution - Reuters",
     "timestamp": "2026-11-03T07:24:00+00:00",
     "importance": 3,
@@ -537,17 +306,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "中東の地政学的不確実性の高まりを受けて、欧州株式市場が軟調となっている。リスク回避姿勢が強まる中で、コモディティ市場も方向性が揺らいでいる。原油は地政学リスク織り込みで上昇圧力がある一方、リスク資産売却に伴い金は堅調に推移する可能性が高い。"
-  },
-  {
-    "title": "Major Russian Oil Hub on Fire After Strike, NASA Data Show - Bloomberg.com",
-    "timestamp": "2026-11-02T16:17:26+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの主要石油ハブが攻撃を受けて火災が発生。NASA衛星データにより確認された。ロシア産原油の供給が一時的に減少する可能性があり、ウクライナ情勢の激化による供給ショックリスクが顕在化。国際原油市場への上昇圧力が強まる。"
   },
   {
     "title": "ADP jobs report, services PMI, and oil inventories among data due Wednesday - Investing.com",
@@ -1197,5 +955,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの小麦輸出見通しが弱まったことが報道され、世界的な供給懸念が高まっている。ロシアは世界最大の小麦輸出国であり、その輸出減少はグローバルな供給逼迫に直結する。この懸念を背景に小麦価格は上昇局面にある。"
+  },
+  {
+    "title": "USDA Crop Report Corrections Impact Corn Market - Farms.com",
+    "timestamp": "2026-11-05T16:07:33+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの作況レポート修正によりトウモロコシ市場に影響が生じた。公式統計の訂正は市場の価格形成に直接影響を与え、ポジション調整のきっかけとなった。修正内容の詳細により生産量見通しが変更された可能性がある。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-11-03T16:06:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要鈍化の継続を示唆し、供給過剰懸念が強まっている。既に複数回の下方修正実績があり、エネルギー転換と経済減速の影響が累積している。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
+    "timestamp": "2026-11-03T16:06:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要鈍化の継続を示唆し、供給過剰懸念が強まっている。既に複数回の下方修正実績があり、エネルギー転換と経済減速の影響が累積している。"
+  },
+  {
+    "title": "Attack appears to hit Russia's Ryazan oil refinery, Reuters analysis finds - Reuters",
+    "timestamp": "2026-11-05T13:19:51+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアのリャザン製油所が攻撃を受けたとReutersの分析で判明。同製油所はロシア主要製油施設の一つで、日産能力は約24万バレル。供給途絶リスクが顕在化し、ウクライナ情勢の激化によるロシア産油供給不安が再燃する可能性。"
+  },
+  {
+    "title": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools - Reuters",
+    "timestamp": "2026-11-05T16:10:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド株式市場が過去6年近くで最大の外国人投資流入を記録。原油価格の下落とAI関連取引の冷え込みが背景。これらはドル円相場とリスク選好度の低下を示唆し、金などの防御的コモディティには買い圧力が働く一方、原油などリスク資産性の強いコモディティは下押し圧力を受ける構図。"
+  },
+  {
+    "title": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools - Reuters",
+    "timestamp": "2026-11-05T16:10:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インド株式市場が過去6年近くで最大の外国人投資流入を記録。原油価格の下落とAI関連取引の冷え込みが背景。これらはドル円相場とリスク選好度の低下を示唆し、金などの防御的コモディティには買い圧力が働く一方、原油などリスク資産性の強いコモディティは下押し圧力を受ける構図。"
+  },
+  {
+    "title": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools - Reuters",
+    "timestamp": "2026-11-05T16:10:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド株式市場が過去6年近くで最大の外国人投資流入を記録。原油価格の下落とAI関連取引の冷え込みが背景。これらはドル円相場とリスク選好度の低下を示唆し、金などの防御的コモディティには買い圧力が働く一方、原油などリスク資産性の強いコモディティは下押し圧力を受ける構図。"
+  },
+  {
+    "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue - Reuters",
+    "timestamp": "2026-11-05T11:33:52+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがフーシ派による攻撃の継続に伴い、ヤンブ石油ハブの潜在的危険性について警告。ヤンブはサウジアラビアの主要な石油・石油化学輸出基地であり、インフラへの脅威は中東地域の原油供給安定性に直結する重大なリスク。地政学的緊張の高まりが原油市場に上値圧力をもたらす可能性が高い。"
+  },
+  {
+    "title": "ConocoPhillips boosts dividend after beating estimates on higher oil prices - Reuters",
+    "timestamp": "2026-11-05T19:34:08+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ConocoPhillipsが四半期決算で市場予想を上回り、石油価格上昇の恩恵を受けた。好調な業績を背景に配当を引き上げる方針を発表。既報の原油価格上昇トレンドの延長線上にある企業業績改善を反映したもの。"
+  },
+  {
+    "title": "Russia Refinery Payouts Hit Highest Since 2022 in Blow to Budget - Bloomberg.com",
+    "timestamp": "2026-11-05T12:41:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの製油所からの配当金支払いが2022年以来の最高水準に達し、ロシア政府予算に打撃を与えている。これはロシアの石油産業における利益流出を意味し、政府の財政圧力が増していることを示唆している。製油所利益の国外流出は、ロシアの原油増産インセンティブの低下につながる可能性がある。"
+  },
+  {
+    "title": "Russia Refinery Payouts Hit Highest Since 2022 in Blow to Budget - Bloomberg.com",
+    "timestamp": "2026-11-05T12:41:23+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの製油所からの配当金支払いが2022年以来の最高水準に達し、ロシア政府予算に打撃を与えている。これはロシアの石油産業における利益流出を意味し、政府の財政圧力が増していることを示唆している。製油所利益の国外流出は、ロシアの原油増産インセンティブの低下につながる可能性がある。"
   }
 ]
