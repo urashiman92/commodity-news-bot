@@ -1,71 +1,5 @@
 [
   {
-    "title": "USDA, NASA partner to improve crop estimate accuracy - FarmWeekNow",
-    "timestamp": "2026-11-02T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAとNASAが協力して穀物作付面積・生産量推定の精度向上に取り組む取組み。衛星データとAIを活用した推定精度改善により、将来のWASDE発表のばらつき低減が期待される。市場への即座の影響は限定的だが、長期的には価格ボラティリティ低減要因。"
-  },
-  {
-    "title": "USDA, NASA partner to improve crop estimate accuracy - FarmWeekNow",
-    "timestamp": "2026-11-02T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAとNASAが協力して穀物作付面積・生産量推定の精度向上に取り組む取組み。衛星データとAIを活用した推定精度改善により、将来のWASDE発表のばらつき低減が期待される。市場への即座の影響は限定的だが、長期的には価格ボラティリティ低減要因。"
-  },
-  {
-    "title": "USDA, NASA partner to improve crop estimate accuracy - FarmWeekNow",
-    "timestamp": "2026-11-02T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAとNASAが協力して穀物作付面積・生産量推定の精度向上に取り組む取組み。衛星データとAIを活用した推定精度改善により、将来のWASDE発表のばらつき低減が期待される。市場への即座の影響は限定的だが、長期的には価格ボラティリティ低減要因。"
-  },
-  {
-    "title": "USDA, NASA partner to improve crop estimate accuracy - FarmWeekNow",
-    "timestamp": "2026-11-02T07:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAとNASAが協力して穀物作付面積・生産量推定の精度向上に取り組む取組み。衛星データとAIを活用した推定精度改善により、将来のWASDE発表のばらつき低減が期待される。市場への即座の影響は限定的だが、長期的には価格ボラティリティ低減要因。"
-  },
-  {
-    "title": "OPEC Keeps December Output Targets Unchanged - Rigzone",
-    "timestamp": "2026-11-02T08:51:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが12月の石油生産目標を据え置くことを決定した。減産政策の継続と市場安定化への取り組みを示すものだが、新たな調整がないため市場の事前予想の範囲内。原油供給の大きな変化は見込まれない。"
-  },
-  {
-    "title": "OPEC+ Quota Reset Could Cap 2027 Oil Supply & Reprice Non-OPEC Producers - Crux Investor",
-    "timestamp": "2026-11-02T12:42:03+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+がクォータをリセットする可能性が2027年の原油供給をキャップし、非OPEC産油国の価格形成力を再構成する見通し。OPECの供給管理強化が焦点となり、市場均衡への影響が注視される。クォータ体制の強化は原油相場の上値を支える要因として作用する可能性が高い。"
-  },
-  {
     "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
     "timestamp": "2026-11-02T15:55:44+00:00",
     "importance": 3,
@@ -75,39 +9,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC割当枠からの解放を受けて石油輸出が増加したと発表。同国は業界イベント開催時にこの成果を強調しており、OPEC外での増産余力を示唆。ただし具体的な輸出数量は未開示。"
-  },
-  {
-    "title": "US stocks open higher as AI trade steadies, oil falls - Reuters",
-    "timestamp": "2026-11-02T14:38:43+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国株式市場がAI関連銘柄の安定化を受けて高寸前で始まった。一方、原油価格は下落している。AI取引の落ち着きによるリスクセンチメント改善が株価を支えるも、エネルギー需要見通しの慎重さが原油に圧力をかけている。"
-  },
-  {
-    "title": "US stocks open higher as AI trade steadies, oil falls - Reuters",
-    "timestamp": "2026-11-02T14:38:43+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国株式市場がAI関連銘柄の安定化を受けて高寸前で始まった。一方、原油価格は下落している。AI取引の落ち着きによるリスクセンチメント改善が株価を支えるも、エネルギー需要見通しの慎重さが原油に圧力をかけている。"
-  },
-  {
-    "title": "Major Russian Oil Hub on Fire After Strike, NASA Data Show - Bloomberg.com",
-    "timestamp": "2026-11-02T08:19:11+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの主要石油ハブが攻撃により火災発生。NASA衛星データで確認された。ロシアの石油輸出インフラへの深刻な損害は供給ショックをもたらす可能性があり、既に逼迫する世界石油需給をさらに引き締める。"
   },
   {
     "title": "Crop Progress",
@@ -407,17 +308,6 @@
     "summary": "AI関連株の売却圧力が再燃し、ベースメタル全般が下落。銅と錫が特に売られた。AI産業の景気後退懸念がテック関連株から商品市場へ波及し、景気敏感商品であるベースメタルの需要見通しが悪化。"
   },
   {
-    "title": "Copper rises on weaker dollar and downgrade to Chile production outlook - Investify",
-    "timestamp": "2026-11-02T11:22:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅価格が米ドル軟化とチリの鉱産見通し下方修正により上昇。チリは世界最大の銅生産国であり、生産量の減少見通しは供給逼迫シグナルとなる。ドル弱化は非ドル建てコモディティの買い材料となり、銅の上昇を加速させている。"
-  },
-  {
     "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
     "timestamp": "2026-11-03T02:21:44+00:00",
     "importance": 4,
@@ -504,39 +394,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラムコが予想を上回る利益を報告。精製部門の好調と原油価格上昇が主要因。同社の好業績は石油メジャーの収益改善を示唆し、上流投資継続のシグナルとなる。エネルギー価格全般への市場信頼を強化する要因。"
-  },
-  {
-    "title": "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-02T08:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国中間選挙を控えてトレーダーが慎重姿勢を強めており、株式市場が方向感を失っている。政治的不確実性がリスク資産全般に対する警戒感を生じさせ、コモディティ市場にも伝播している。金は有事資産として若干の買いが入る可能性がある一方、景気敏感な原油や工業金属は軟調を余儀なくされる見通し。"
-  },
-  {
-    "title": "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-02T08:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国中間選挙を控えてトレーダーが慎重姿勢を強めており、株式市場が方向感を失っている。政治的不確実性がリスク資産全般に対する警戒感を生じさせ、コモディティ市場にも伝播している。金は有事資産として若干の買いが入る可能性がある一方、景気敏感な原油や工業金属は軟調を余儀なくされる見通し。"
-  },
-  {
-    "title": "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-02T08:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国中間選挙を控えてトレーダーが慎重姿勢を強めており、株式市場が方向感を失っている。政治的不確実性がリスク資産全般に対する警戒感を生じさせ、コモディティ市場にも伝播している。金は有事資産として若干の買いが入る可能性がある一方、景気敏感な原油や工業金属は軟調を余儀なくされる見通し。"
   },
   {
     "title": "Drones Hit Russia’s Yanos Refinery as Ukraine Steps Up Strikes - Bloomberg.com",
@@ -1131,5 +988,214 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国選挙後の市場反応として、アジア株が上昇する一方で原油価格が下落する動きが報じられている。ドル強化やリスクオン環境によるエネルギー需要への懸念が背景と考えられ、同時にアジア市場の上昇は経済見通しの改善を示唆する混合シグナルとなっている。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the November WASDE Report - Successful Farming",
+    "timestamp": "2026-11-05T12:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "11月のWASDE（米国農務省穀物・油糧種子需給報告）発表を控えた農家向けの準備記事。市場予想や注視すべきポイントを事前解説。具体的な生産量・在庫数値は含まれておらず、発表前の一般的なガイダンスに過ぎない。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the November WASDE Report - Successful Farming",
+    "timestamp": "2026-11-05T12:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "11月のWASDE（米国農務省穀物・油糧種子需給報告）発表を控えた農家向けの準備記事。市場予想や注視すべきポイントを事前解説。具体的な生産量・在庫数値は含まれておらず、発表前の一般的なガイダンスに過ぎない。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the November WASDE Report - Successful Farming",
+    "timestamp": "2026-11-05T12:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "11月のWASDE（米国農務省穀物・油糧種子需給報告）発表を控えた農家向けの準備記事。市場予想や注視すべきポイントを事前解説。具体的な生産量・在庫数値は含まれておらず、発表前の一般的なガイダンスに過ぎない。"
+  },
+  {
+    "title": "What Farmers Need to Know Before the November WASDE Report - Successful Farming",
+    "timestamp": "2026-11-05T12:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "11月のWASDE（米国農務省穀物・油糧種子需給報告）発表を控えた農家向けの準備記事。市場予想や注視すべきポイントを事前解説。具体的な生産量・在庫数値は含まれておらず、発表前の一般的なガイダンスに過ぎない。"
+  },
+  {
+    "title": "November WASDE 2026: Corn and Soybean Prices Face a Critical USDA Report - AgroLatam",
+    "timestamp": "2026-11-05T12:28:42+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月WASDEレポートはトウモロコシと大豆の価格形成に重要な影響を与える予定の公式発表。米国農務省による作付面積、生産量、在庫見通しの更新が市場の価格方向性を決定する。具体的な数値は現時点で記事概要からは判断不可能だが、市場が価格の「臨界点」を迎えている状況を示唆。"
+  },
+  {
+    "title": "November WASDE 2026: Corn and Soybean Prices Face a Critical USDA Report - AgroLatam",
+    "timestamp": "2026-11-05T12:28:42+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2026年11月WASDEレポートはトウモロコシと大豆の価格形成に重要な影響を与える予定の公式発表。米国農務省による作付面積、生産量、在庫見通しの更新が市場の価格方向性を決定する。具体的な数値は現時点で記事概要からは判断不可能だが、市場が価格の「臨界点」を迎えている状況を示唆。"
+  },
+  {
+    "title": "EIA reports a draw in US crude oil stocks - https://www.engine.online/",
+    "timestamp": "2026-11-05T07:02:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の取り崩し（ドロー）を報告。在庫減少は原油需給がタイト化していることを示唆し、価格上昇圧力となる。具体的な在庫減少量が不明のため、変動幅の評価は限定的だが、エネルギー市場の需給バランス改善を反映している。"
+  },
+  {
+    "title": "USDA errors raise credibility concerns ahead of Nov. crop reports - Farm Progress",
+    "timestamp": "2026-11-05T08:03:19+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA穀物生産統計の過去のエラーが明らかになり、11月の穀物レポート発表を控えて市場の信頼性懸念が浮上。統計の正確性疑問が生じると、WASDE・作付面積・在庫データへの信頼が揺らぎ、価格変動性が高まる可能性が強い。市場は統計発表前に事前調整を余儀なくされる。"
+  },
+  {
+    "title": "USDA errors raise credibility concerns ahead of Nov. crop reports - Farm Progress",
+    "timestamp": "2026-11-05T08:03:19+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA穀物生産統計の過去のエラーが明らかになり、11月の穀物レポート発表を控えて市場の信頼性懸念が浮上。統計の正確性疑問が生じると、WASDE・作付面積・在庫データへの信頼が揺らぎ、価格変動性が高まる可能性が強い。市場は統計発表前に事前調整を余儀なくされる。"
+  },
+  {
+    "title": "USDA errors raise credibility concerns ahead of Nov. crop reports - Farm Progress",
+    "timestamp": "2026-11-05T08:03:19+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA穀物生産統計の過去のエラーが明らかになり、11月の穀物レポート発表を控えて市場の信頼性懸念が浮上。統計の正確性疑問が生じると、WASDE・作付面積・在庫データへの信頼が揺らぎ、価格変動性が高まる可能性が強い。市場は統計発表前に事前調整を余儀なくされる。"
+  },
+  {
+    "title": "USDA errors raise credibility concerns ahead of Nov. crop reports - Farm Progress",
+    "timestamp": "2026-11-05T08:03:19+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA穀物生産統計の過去のエラーが明らかになり、11月の穀物レポート発表を控えて市場の信頼性懸念が浮上。統計の正確性疑問が生じると、WASDE・作付面積・在庫データへの信頼が揺らぎ、価格変動性が高まる可能性が強い。市場は統計発表前に事前調整を余儀なくされる。"
+  },
+  {
+    "title": "Expert Sees US$10000 Gold & 10% Inflation as Copper-Gold Junior Drills BC - Streetwise Reports",
+    "timestamp": "2026-11-05T10:41:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "専門家が金10,000ドル、インフレ率10%に達する可能性を指摘。カナダBC州でも銅金ジュニア企業が探鉱活動を継続。インフレ懸念と実物資産需要の高まりが金・銅価格を支援する論調。"
+  },
+  {
+    "title": "Expert Sees US$10000 Gold & 10% Inflation as Copper-Gold Junior Drills BC - Streetwise Reports",
+    "timestamp": "2026-11-05T10:41:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "専門家が金10,000ドル、インフレ率10%に達する可能性を指摘。カナダBC州でも銅金ジュニア企業が探鉱活動を継続。インフレ懸念と実物資産需要の高まりが金・銅価格を支援する論調。"
+  },
+  {
+    "title": "Expert Sees US$10000 Gold & 10% Inflation as Copper-Gold Junior Drills BC - Streetwise Reports",
+    "timestamp": "2026-11-05T10:41:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "専門家が金10,000ドル、インフレ率10%に達する可能性を指摘。カナダBC州でも銅金ジュニア企業が探鉱活動を継続。インフレ懸念と実物資産需要の高まりが金・銅価格を支援する論調。"
+  },
+  {
+    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
+    "timestamp": "2026-11-05T10:01:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で石油生産目標を現状維持することを決定する見通し。減産や増産の方針転換がないため、市場への直接的なショックは限定的と予想される。"
+  },
+  {
+    "title": "Emirates Reports 66% Profit Slump on War, High Fuel Costs - Bloomberg.com",
+    "timestamp": "2026-11-05T07:15:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "エミレーツ航空が66%の利益減少を報告。中東紛争と高い燃料コストが主因。地政学リスクの深刻化と航空需要の弱さが、原油価格の下押し要因とその不安定性を示唆。供給懸念と需要減少のせめぎ合いが続く。"
+  },
+  {
+    "title": "Emirates Reports 66% Profit Slump on War, High Fuel Costs - Bloomberg.com",
+    "timestamp": "2026-11-05T07:15:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "エミレーツ航空が66%の利益減少を報告。中東紛争と高い燃料コストが主因。地政学リスクの深刻化と航空需要の弱さが、原油価格の下押し要因とその不安定性を示唆。供給懸念と需要減少のせめぎ合いが続く。"
+  },
+  {
+    "title": "Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns - Bloomberg.com",
+    "timestamp": "2026-11-05T04:46:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "小麦",
+    "summary": "ロシアの小麦輸出見通しが弱まったことが報道され、世界的な供給懸念が高まっている。ロシアは世界最大の小麦輸出国であり、その輸出減少はグローバルな供給逼迫に直結する。この懸念を背景に小麦価格は上昇局面にある。"
+  },
+  {
+    "title": "Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns - Bloomberg.com",
+    "timestamp": "2026-11-05T04:46:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの小麦輸出見通しが弱まったことが報道され、世界的な供給懸念が高まっている。ロシアは世界最大の小麦輸出国であり、その輸出減少はグローバルな供給逼迫に直結する。この懸念を背景に小麦価格は上昇局面にある。"
   }
 ]
