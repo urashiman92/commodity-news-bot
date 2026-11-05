@@ -1,115 +1,5 @@
 [
   {
-    "title": "銀と小麦の価格が急落し、MXV指数は2カ月ぶりの安値をつけた。 - Vietnam.vn",
-    "timestamp": "2026-11-02T09:32:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "銀と小麦の価格が急落し、MXV指数（メキシコ株価指数）が2カ月ぶりの安値を更新した。リスク資産全般の売却が進行している可能性がある。商品市場全体で調整が入った局面と考えられる。"
-  },
-  {
-    "title": "金価格は急落したが、スイスの銀行は依然として5000ドルに達すると予測している。 - Vietnam.vn",
-    "timestamp": "2026-11-02T14:21:10+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は直近で急落したが、スイスの銀行は長期的に5000ドル到達を予測。強気な長期見通しがある一方で、短期的な下落圧力が存在。"
-  },
-  {
-    "title": "NYダウは反発で始まる、一時500ドル高 原油先物価格下落で - 日本経済新聞",
-    "timestamp": "2026-11-02T15:21:56+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物価格の下落がNYダウの反発につながった。原油安は企業収益圧力の軽減を意味し、株式市場にポジティブに作用している。コモディティ投資家にとっては原油需要の弱さを示唆する可能性がある。"
-  },
-  {
-    "title": "【通貨】 NY外為：ドル安値圏、NY原油先物は続落、96ドル台 - 株探",
-    "timestamp": "2026-11-02T17:00:22+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が96ドル台で続落している。ドル安進行が背景にある相場の振り返りコメント。具体的な需給ショックや統計発表ではなく、既存の値動きの説明。"
-  },
-  {
-    "title": "中東協議を受け原油価格が下落、エネルギー株が軟調 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-02T15:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東協議の進展を受けて原油価格が下落している。地域的な緊張緩和が供給リスク低下を意味し、弱気圧力が強まった。エネルギー関連株も同調して軟調。"
-  },
-  {
-    "title": "NY外為：ドルは軟化、NY原油先物は100ドル割れ｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-02T14:02:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル軟化に伴い、NY原油先物が100ドルを割り込んだ。ドル安は一般にドル建て原油の価格低下圧力となる。為替変動と原油相場の相互作用を示す市場動向。"
-  },
-  {
-    "title": "米・イラン外交解決への期待で原油価格が6%急落…WTIは100ドル割れ - BigGo ファイナンス",
-    "timestamp": "2026-11-02T14:55:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米・イラン間の外交解決への期待が高まり、原油価格が6%急落してWTIが100ドルを割った。地政学的リスク低下による供給懸念の緩和が要因。外交動向は今後の価格変動に大きく影響する可能性がある。"
-  },
-  {
-    "title": "NY外為：ドル安値圏、NY原油先物は続落、96ドル台 - ｄメニューニュース",
-    "timestamp": "2026-11-02T17:14:19+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が96ドル台で続落。ドル安が進行する中での値動き。市場の通常のボラティリティ範囲内の動き。"
-  },
-  {
-    "title": "中国が史上最高額のプレミアム支払う中で銅価格が下落する理由 - BeInCrypto",
-    "timestamp": "2026-11-02T11:28:13+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "中国が銅のプレミアム(現物価格上乗せ)で史上最高額を支払っている一方で、銅先物価格は下落している。需給ギャップと価格指標の乖離を示唆する現象。"
-  },
-  {
-    "title": "Metals.io、36.6万ドル相当の銅トークンを発行 ただし現物受け取りには125キロが必要 - BigGo ファイナンス",
-    "timestamp": "2026-11-02T12:05:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "Metals.ioがブロックチェーン上で36.6万ドル相当の銅トークンを発行。ただし現物受け取りには125kg以上の保有が必要という高い参入障壁がある。暗号資産化による流動性向上の試みだが市場規模は限定的。"
-  },
-  {
     "title": "金価格が4,000ドル割れ後、米中間選挙が避難需要反転の鍵となる可能性 - BigGo ファイナンス",
     "timestamp": "2026-11-02T23:35:00+00:00",
     "importance": 2,
@@ -209,17 +99,6 @@
     "summary": "原油相場の急落を受けてNY株が反発し213ドル上昇した。エネルギー価格の低下はコモディティインフレ圧力の緩和を意味する。株価の反発は既知の相場メカニズムの反映。"
   },
   {
-    "title": "NY市場動向（午後0時台）：ダウ547ドル高、原油先物7.63ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-02T17:20:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後0時台の相場動向を伝える定期的な市場レポート。ダウ平均が547ドル上昇する一方、WTI原油先物は7.63ドル下落した。"
-  },
-  {
     "title": "原油先物7％超下落、イラン巡る協議で戦争終結に期待 - ｄメニューニュース",
     "timestamp": "2026-11-02T20:43:00+00:00",
     "importance": 4,
@@ -231,39 +110,6 @@
     "summary": "イラン関連の紛争終結期待により、原油先物が7％超の大幅下落。地政学的リスク軽減が価格材料となり、1週間程度でも有意な変動。供給懸念の後退を反映した急速な調整局面。"
   },
   {
-    "title": "トウモロコシ先物で投機筋の大規模な売り：ZCはさらなる下落圧力を回避できるか？ - Traders Union",
-    "timestamp": "2026-11-02T15:24:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "投機筋がトウモロコシ先物で大規模な売却を実施。ZC（トウモロコシ先物）はさらなる下落圧力に直面している。ポジション調整による技術的な売り圧力が続く見通し。"
-  },
-  {
-    "title": "大豆先物価格は、ボラティリティが低い中でUSX1,219のサポートを維持できるか？ - Traders Union",
-    "timestamp": "2026-11-02T15:07:42+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がUSX1,219のサポートレベルを維持できるかという技術分析的な観測。ボラティリティは低い水準にあり、近期的なトレンド転換シグナルは限定的。"
-  },
-  {
-    "title": "Sieyuan Electric、銅先物ヘッジ限度額を3倍に増額 - Moomoo",
-    "timestamp": "2026-11-02T15:21:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "Sieyuan Electricが銅先物ヘッジの限度額を3倍に増額。企業の個別リスク管理策であり、市場全体の需給バランスには直接影響しない。ヘッジニーズの増加は企業が銅価格変動に対応しようとしている姿勢を示す。"
-  },
-  {
     "title": "銅価格予測：HGが底堅く推移するなか、$6.59の抵抗線に注目 - Traders Union",
     "timestamp": "2026-11-02T19:08:38+00:00",
     "importance": 2,
@@ -273,17 +119,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅先物（HG）が底堅く推移する中、$6.59のレジスタンスレベルが注目されている。アナリストによる技術的な価格予測で、具体的な新規材料は含まれていない。"
-  },
-  {
-    "title": "銅価格はレンジ内で推移、短期的な買い支えが下値を抑制 - Traders Union",
-    "timestamp": "2026-11-02T09:25:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格がレンジ内で推移している状況の解説。短期的な買い支えが下値を抑制しているとの観測。相場動向の振り返りコメント。"
   },
   {
     "title": "米コモディティー市場－金、銀、銅、トウモロコシ、小麦が上昇 原油、ガソリン、天然ガス、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -1560,5 +1395,104 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で天然ガス・貴金属・銅が上昇する一方、エネルギーと穀物が下落。市場参加者による日中の相場変動の振り返り。"
+  },
+  {
+    "title": "金、4,200ドル試しへ バーツ高・国内需要がタイ金相場を支え6万9,000バーツ視野 - BigGo ファイナンス",
+    "timestamp": "2026-11-05T10:55:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場が4,200ドル試験を視野に、タイではバーツ高と国内需要が相場を支えている。タイ金市場は6万9,000バーツ水準を目指す展開。"
+  },
+  {
+    "title": "2026年11月6日、金価格が急騰し、市場全体に大きな波紋を広げました。専門家は今後の見通しや、買い注文を出す最適なタイミングについてどのように考えているのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-11-05T15:54:59+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年11月6日に金価格が急騰したことを受け、専門家が今後の見通しと買い注文タイミングについて解説している。価格上昇の具体的な要因は記事から判明していない。"
+  },
+  {
+    "title": "シティ：中東情勢が緩和すれば金価格は3カ月で1オンス4500ドル、長期では5000ドル視野 - BigGo ファイナンス",
+    "timestamp": "2026-11-05T06:12:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "シティが中東情勢緩和時の金価格見通しを発表。3ヶ月で4500ドル/オンス、長期では5000ドル/オンスを視野。地政学リスク低下が金需要に与える影響の分析。"
+  },
+  {
+    "title": "世界の金価格が1オンスあたり4,100ドルを突破。 - Vietnam.vn",
+    "timestamp": "2026-11-05T14:40:46+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス4,100ドルを突破した。インフレ懸念や地政学リスク、金融緩和期待などが背景。既に進行中の上昇トレンドの続報。"
+  },
+  {
+    "title": "円相場 小幅な値動き 原油先物下落で一時円高ドル安も - NHKニュース",
+    "timestamp": "2026-11-05T12:28:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物の下落に伴い、円が一時的に買われドル安になった。為替相場全体としては小幅な値動きに留まっている。原油下落による通常の相関性が観察される範囲内の動き。"
+  },
+  {
+    "title": "原油価格が大幅下落 米イラン戦闘終結に期待 日経平均一時1400円超下落…AI投資への不透明感で - FNNプライムオンライン",
+    "timestamp": "2026-11-05T14:46:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン戦闘終結期待により原油価格が大幅下落。地政学的リスク低減が相場を圧迫。同時にAI投資不透明感が株式市場にも波及。"
+  },
+  {
+    "title": "ベイリー英中銀総裁 足元の原油価格の下落はポジティブなニュースだ - みんかぶ FX/為替",
+    "timestamp": "2026-11-05T12:52:28+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "英中銀総裁が足元の原油価格下落をポジティブと評価。インフレ圧力緩和につながるとの見方を示唆。既に進行中の価格低下トレンドを追認するコメント。"
+  },
+  {
+    "title": "アメリカ・中間選挙の結果受けて「原油価格」下がっている一方、「補助金縮小」で今後の見通しが難しく…長野県内のガソリン価格、レギュラーが176.4円で前週と同じ…灯油は7週連続の値上がり - TBS NEWS DIG",
+    "timestamp": "2026-11-05T09:07:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米中間選挙受けて原油価格は下落しているが、日本国内ガソリン価格は前週同水準で安定。エネルギー補助金縮小により先行き不透明。灯油は7週連続上昇で季節的需要増を反映。"
+  },
+  {
+    "title": "【速報】NY原油先物は反発、90.35ドルまで上昇｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-05T13:26:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が90.35ドルまで反発した。短期的な値動きの報告であり、市場での織り込み状況が不明確。具体的な材料や要因の記載がない。"
   }
 ]
