@@ -1,60 +1,5 @@
 [
   {
-    "title": "USDA Crop Progress: Corn 74%, Soybeans 88% Harvested - November 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-11-03T19:30:30+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月のUSDA穀物進捗レポートでトウモロコシの収穫が74%、大豆が88%に達した。高い収穫進捗率は平年並みか上振れの見通しを示唆し、供給増加懸念から穀物価格に下押し圧力がかかる。作付面積や単収の詳細データによって市場反応が変わる可能性がある。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 74%, Soybeans 88% Harvested - November 2026 - News and Statistics - IndexBox",
-    "timestamp": "2026-11-03T19:30:30+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年11月のUSDA穀物進捗レポートでトウモロコシの収穫が74%、大豆が88%に達した。高い収穫進捗率は平年並みか上振れの見通しを示唆し、供給増加懸念から穀物価格に下押し圧力がかかる。作付面積や単収の詳細データによって市場反応が変わる可能性がある。"
-  },
-  {
-    "title": "ADP jobs report, services PMI, and oil inventories among data due Wednesday - Investing.com",
-    "timestamp": "2026-11-03T19:02:24+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の雇用統計（ADP）、サービス業PMI、EIA原油在庫を含む複数の重要経済指標が同日に発表される予定。雇用統計の強弱は米金融政策の方向性を左右し、原油在庫データは供給需給バランスを示す。これらの結果次第でドル相場と金利が変動し、コモディティ全般に波及的な影響をもたらす可能性がある。"
-  },
-  {
-    "title": "ADP jobs report, services PMI, and oil inventories among data due Wednesday - Investing.com",
-    "timestamp": "2026-11-03T19:02:24+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国の雇用統計（ADP）、サービス業PMI、EIA原油在庫を含む複数の重要経済指標が同日に発表される予定。雇用統計の強弱は米金融政策の方向性を左右し、原油在庫データは供給需給バランスを示す。これらの結果次第でドル相場と金利が変動し、コモディティ全般に波及的な影響をもたらす可能性がある。"
-  },
-  {
-    "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-    "timestamp": "2026-11-03T19:27:56+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "LiteFinanceによる米国原油の短期価格予測レポート。本レポートは本日から30日間の価格見通しを提供する解説記事だが、具体的な予測値や根拠となるデータが確認できない。市場分析の一環ではあるが、既報の統計情報の解釈に過ぎない可能性が高い。"
-  },
-  {
     "title": "Illinois corn yields fall short of estimates - Jacksonville Journal-Courier",
     "timestamp": "2026-11-04T00:11:18+00:00",
     "importance": 3,
@@ -64,39 +9,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "イリノイ州のトウモロコシ収量が事前推定を下回ったことが報告された。同州は米国最大級のトウモロコシ生産地であり、収量低下は全米平均を引き下げる可能性がある。Crop Progress統計の定期発表に基づくもので、市場予想の範囲内の結果と判断される。"
-  },
-  {
-    "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances - Bloomberg.com",
-    "timestamp": "2026-11-03T20:04:01+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの財政赤字が2倍以上に拡大し、戦費と経済圧力が同国の財政を逼迫させている。OPECの最大規模産油国の財政悪化は、増産圧力の高まりを示唆しており、原油価格の下押し要因となる可能性がある。同時に金融逼迫はリスク資産回避につながり、金などの安全資産需要を高める。"
-  },
-  {
-    "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances - Bloomberg.com",
-    "timestamp": "2026-11-03T20:04:01+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "サウジアラビアの財政赤字が2倍以上に拡大し、戦費と経済圧力が同国の財政を逼迫させている。OPECの最大規模産油国の財政悪化は、増産圧力の高まりを示唆しており、原油価格の下押し要因となる可能性がある。同時に金融逼迫はリスク資産回避につながり、金などの安全資産需要を高める。"
-  },
-  {
-    "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances - Bloomberg.com",
-    "timestamp": "2026-11-03T20:04:01+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアの財政赤字が2倍以上に拡大し、戦費と経済圧力が同国の財政を逼迫させている。OPECの最大規模産油国の財政悪化は、増産圧力の高まりを示唆しており、原油価格の下押し要因となる可能性がある。同時に金融逼迫はリスク資産回避につながり、金などの安全資産需要を高める。"
   },
   {
     "title": "Suncor Energy tops profit estimates on higher oil prices, margins - Reuters",
@@ -174,17 +86,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "ピーナッツ収穫後の価格動向について、供給要因と需要要因のどちらが主導するかを問う業界解説。供給サイドの作況と需要サイドの消費動向の相互作用が価格方向を決定する見通し。具体的な生産量や在庫水準の数値は記事タイトルのみでは不明。"
-  },
-  {
-    "title": "New Jersey governor warns ports against accepting Russian diesel - Reuters",
-    "timestamp": "2026-11-03T19:38:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ニュージャージー州知事がロシア産ディーゼル油の港湾への受け入れを警告。米国東部港湾でのロシア石油製品流入制限は、エネルギー供給の多角化とウクライナ関連制裁強化の一環。供給源の限定化により、ディーゼル価格上昇圧力が増加。"
   },
   {
     "title": "Saudi Budget Deficit More Than Doubles on War, Aramco Fees - Bloomberg.com",
@@ -867,5 +768,214 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがここ1週間でロシアの石油精製施設6ヶ所を攻撃し、作戦を加速させている。ロシアの石油精製能力への直接的な打撃は供給制約をもたらし、原油価格の上昇圧力となる可能性が高い。地政学的リスク要因の急速な悪化が市場心理を刺激。"
+  },
+  {
+    "title": "American Farm Bureau Federation Reports Turkey Farmers Recovering From Two Years of Losses - Sierra Sun Times",
+    "timestamp": "2026-11-06T12:13:27+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国七面鳥農家が2年間の損失から回復基調にあると報告。American Farm Bureau Federationによるレポートで、業界の経営状況が改善方向にあることが示唆された。ただし具体的な生産量や価格データは記事から読み取れない。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
+    "timestamp": "2026-11-06T18:23:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
+    "timestamp": "2026-11-06T18:23:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
+    "timestamp": "2026-11-06T18:23:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
+    "timestamp": "2026-11-06T18:23:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
+  },
+  {
+    "title": "November WASDE: Why soybeans are the biggest wildcard - Pro Farmer",
+    "timestamp": "2026-11-06T20:20:44+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "11月のWASDEレポートにおいて、大豆が最大の不確実要因（wildcard）として位置付けられている。南米の天候懸念や米国生産見通しの変動が相場を左右する可能性が高い。具体的な作付面積・生産量・在庫数字は記事本体で確認が必要。"
+  },
+  {
+    "title": "November WASDE: Why soybeans are the biggest wildcard - Pro Farmer",
+    "timestamp": "2026-11-06T20:20:44+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "11月のWASDEレポートにおいて、大豆が最大の不確実要因（wildcard）として位置付けられている。南米の天候懸念や米国生産見通しの変動が相場を左右する可能性が高い。具体的な作付面積・生産量・在庫数字は記事本体で確認が必要。"
+  },
+  {
+    "title": "November WASDE: Why soybeans are the biggest wildcard - Pro Farmer",
+    "timestamp": "2026-11-06T20:20:44+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "11月のWASDEレポートにおいて、大豆が最大の不確実要因（wildcard）として位置付けられている。南米の天候懸念や米国生産見通しの変動が相場を左右する可能性が高い。具体的な作付面積・生産量・在庫数字は記事本体で確認が必要。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
+    "timestamp": "2026-11-06T18:18:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
+    "timestamp": "2026-11-06T18:18:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
+    "timestamp": "2026-11-06T18:18:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
+    "timestamp": "2026-11-06T18:18:27+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
+    "timestamp": "2026-11-06T18:17:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
+    "timestamp": "2026-11-06T18:17:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
+    "timestamp": "2026-11-06T18:17:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
+    "timestamp": "2026-11-06T18:17:41+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-11-05T21:50:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、2025年に原油生産量を日量500万バレル超に引き上げる計画をIEAが報告。UAEは既に減産枠の制限から外れており、独立した増産方針で市場への供給圧力が高まることが予想される。既報のOPEC離脱の延長線上にある動きで、市場は織り込み段階。"
+  },
+  {
+    "title": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector - Reuters",
+    "timestamp": "2026-11-06T18:59:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナ大統領ゼレンスキーがロシアの石油精製施設への継続的な攻撃を表明。これはウクライナの戦略的な供給遮断作戦であり、ロシアの精製能力低下を意図している。ロシアの石油精製セクターへの継続的な攻撃は、グローバルな石油供給の逼迫と価格上昇圧力をもたらす可能性が高い。"
+  },
+  {
+    "title": "India's gold demand picks up as Diwali coincides with price dip - Reuters",
+    "timestamp": "2026-11-06T14:34:08+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インドでディワリ（10月下旬～11月上旬）時期に金価格の下落が重なり、金需要が拡大している。ディワリは金製品購入の伝統的な季節であり、価格下落が購買意欲を刺激。インド金需要の季節性とマクロ要因が同時作用している状況。"
   }
 ]
