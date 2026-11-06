@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格は回復したが、依然として圧力は残っている。 - Vietnam.vn",
-    "timestamp": "2026-11-03T03:54:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は短期的に回復を見せているが、構造的な下押し圧力が残存している状況が報じられた。現在の相場は上昇と下落圧力のバランスにある。"
-  },
-  {
-    "title": "国際金価格が1年ぶりに安値更新、中国の宝飾店が活況 - Record China",
-    "timestamp": "2026-11-03T05:40:01+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "国際金価格が1年ぶりの安値を更新。中国の宝飾店における買い需要が活発化している。金価格の下落が小売需要を喚起する典型的な需給調整局面。"
-  },
-  {
-    "title": "原油価格6%急落が呼び水、米株11月最初の取引日でダウ平均500ドル超の大幅高 - BigGo ファイナンス",
-    "timestamp": "2026-11-03T04:06:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が6%急落し、それが米株上昇（ダウ平均500ドル超高）の要因となったという相場解説。インフレ懸念の軽減がポジティブに評価されている。"
-  },
-  {
-    "title": "東京為替：ドル・円は変わらず、原油相場にらみ - ｄメニューニュース",
-    "timestamp": "2026-11-03T04:25:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "東京為替市場でドル・円相場が変動なし。市場参加者が原油相場の動向を注視している状況。為替と原油の相互作用に注目が集まっている。"
-  },
-  {
-    "title": "国際金価格が1年ぶりに安値更新 中国の宝飾店が活況 - AFPBB News",
-    "timestamp": "2026-11-03T05:20:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "国際金価格が1年ぶりの安値を更新した。中国の宝飾店では安値を背景に買い活動が活況を呈している。価格下落は物理需要を刺激する効果をもたらしている。"
-  },
-  {
-    "title": "Claudeによる金価格のテクニカル予想（2026年11月3日～12月31日） - Moomoo",
-    "timestamp": "2026-11-03T08:37:30+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "AIが2026年11月～12月の金価格をテクニカル分析で予想したコメンタリー。具体的な予想内容や根拠が不明確。過去の予想精度の実績がない予測記事。"
-  },
-  {
     "title": "金価格は本日午後（11月3日）に予想外の反転を見せた。 - Vietnam.vn",
     "timestamp": "2026-11-03T12:27:58+00:00",
     "importance": 2,
@@ -88,17 +22,6 @@
     "summary": "ベトナムのSJC金地金が11月3日に急騰したという報道。地域限定のニュースで、グローバル市場への直接的な影響は限定的と考えられる。"
   },
   {
-    "title": "ドルがやや買われる、原油相場が反発 ドル円１５８円台前半＝ロンドン為替概況 - みんかぶ FX/為替",
-    "timestamp": "2026-11-03T11:41:29+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドル買いが進行し、ドル円が158円台前半で推移。これに伴い原油相場が反発している。為替動向と原油相場の連動を述べた市場解説。"
-  },
-  {
     "title": "【速報】NY原油先物下げ止まる、97.39ドル｜FX・為替ニュース - ザイFX！",
     "timestamp": "2026-11-03T13:24:00+00:00",
     "importance": 2,
@@ -108,28 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が97.39ドルで下げ止まった。直近の下落局面から価格が支持されたことを示唆している。本ニュースは相場の技術的な流れを述べたもの。"
-  },
-  {
-    "title": "サウジ国有石油会社、41％増益 中東情勢悪化で販売量減少も原油価格の上昇寄与 - 産経ニュース",
-    "timestamp": "2026-11-03T08:09:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "サウジアラムコが41%の増益を記録。中東情勢悪化で販売量は減少したが、原油価格上昇がそれを補った。地政学的リスクプレミアムが価格に反映されている状況を示唆。"
-  },
-  {
-    "title": "📉 市場調整が本格化：テック株は急落、原油価格は暴落！ 📉 - Moomoo",
-    "timestamp": "2026-11-03T07:30:27+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "テック株の急落に伴う市場調整局面で、原油価格も暴落している。リスク資産売却のフローが商品市場にも波及。需給悪化ではなく金融市場主導の下落。"
   },
   {
     "title": "和平交渉を受け、欧州小麦先物が数カ月ぶりの安値圏に下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -143,17 +44,6 @@
     "summary": "ウクライナ情勢の和平交渉進展を受け、供給リスク低下への期待から欧州小麦先物が数カ月ぶりの安値圏まで下落。地政学的リスク・プレミアムが段階的に剥落している状況。"
   },
   {
-    "title": "国際金価格が1年ぶりに安値更新 中国の宝飾店が活況 - AFPBB News",
-    "timestamp": "2026-11-03T07:29:45+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "国際金価格が1年ぶりの安値を更新。中国の宝飾店需要が増加し、低価格が買い需要を喚起している。金相場の調整局面が続く中、実需購買が活発化している。"
-  },
-  {
     "title": "金価格は下落、原油価格は上昇、中央銀行は記録的な量の金を蓄積。 - Vietnam.vn",
     "timestamp": "2026-11-03T13:44:24+00:00",
     "importance": 3,
@@ -163,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は下落する一方、原油価格は上昇。中央銀行による記録的な金の蓄積が報告される。相反する市場動向が観察される。"
-  },
-  {
-    "title": "金価格は年内に約3割下落、世界の中央銀行は第3四半期に逆張りで321トン買い増し―約2年ぶり高水準 - BigGo ファイナンス",
-    "timestamp": "2026-11-03T07:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は年初来で約3割下落したが、世界の中央銀行は第3四半期に321トンを買い増し、約2年ぶりの高水準となった。中央銀行の逆張り買いが金需要の下支え要因となっている。"
   },
   {
     "title": "2026年11月4日、世界の金市場で金価格が急落し、伝統的な安全資産としての役割が低下した。 - Vietnam.vn",
@@ -218,17 +97,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が3%超下落した。テクニカルモメンタムの弱さと具体的な好材料の不足が背景。アナリスト解説による相場振り返り。"
-  },
-  {
-    "title": "米中間選挙への警戒感と中国の需要減退を受け、銅価格が下落 - Traders Union",
-    "timestamp": "2026-11-03T09:24:37+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "米中間選挙への不透明感と中国経済減速が銅需要の先行き懸念を招いている。2つの主要需要国・地域での需給悪化が価格下押し要因となっている。既知の課題の現状報告的な解説記事。"
   },
   {
     "title": "金価格(ゴールド)見通し(市況ニュース)：米金利上昇とドル高で金価格は下落（2026年11月4日） - OANDA証券",
@@ -295,17 +163,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "11月4日朝の金価格は急激な回復後に下落したとの報道。ベトナムメディアによる相場解説記事で、具体的な価格数値や下落幅が記事概要に記載されていない。"
-  },
-  {
-    "title": "金価格25%下落、世界の中央銀行の金購入が2年ぶりの高水準 - 亜州日報",
-    "timestamp": "2026-11-03T07:24:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が25%下落した局面でも、世界の中央銀行による金購入が2年ぶりの高水準に達している。価格下落を機に中央銀行が積極的に買い入れており、供給面での強い需要がある。"
   },
   {
     "title": "原油先物1％安、約4週ぶり安値 和平協議進展と供給懸念が交錯 - Reuters",
@@ -1593,5 +1450,126 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "5日の主要国際商品市況に関する定期的な市場レポート。具体的な価格動向や要因の詳細が記事本文から不明のため、相場の振り返り・解説記事と判断される。"
+  },
+  {
+    "title": "米株の暴落も金価格を引きずり下ろせず、地政学的リスクが長期的な底支えとなり反発 - Moomoo",
+    "timestamp": "2026-11-06T09:08:11+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米株暴落の中でも金価格は下落を免れ、地政学的リスクが下支え要因となっている。金は伝統的な有事資産として機能し、地政学リスク下での需要が継続している。長期的には地政学不安定性が金の底堅さを支援する見通し。"
+  },
+  {
+    "title": "原油価格が再び上昇したことで、金価格は反転して急落した。 - Vietnam.vn",
+    "timestamp": "2026-11-06T08:31:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "原油価格上昇に伴い金価格が急落した。原油とドルの連動性により、ドル強化が金の実質金利を押し上げ下押し圧力となった。これは既知のマクロ関係性の確認的な動き。"
+  },
+  {
+    "title": "世界の金価格の上昇傾向は鈍化している。 - Vietnam.vn",
+    "timestamp": "2026-11-06T04:40:23+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の上昇傾向が鈍化しているとの観測記事。市場が既に高値圏にあることを反映したコメンタリー。新規材料としての影響は限定的。"
+  },
+  {
+    "title": "金価格が最高値から3割安、利上げとAI株調整が「安全資産」の座を揺さぶる - BigGo ファイナンス",
+    "timestamp": "2026-11-05T22:38:59+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が最高値から約30%下落。米国の利上げ継続とAI株の調整が安全資産としての金の需要を減少させている。従来の金の役割が相対的に弱まっている。"
+  },
+  {
+    "title": "原油先物は続伸、週間では大幅安へ 中東の供給懸念が下支え - Reuters",
+    "timestamp": "2026-11-06T03:29:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物は続伸しているが週間では大幅安。中東の供給懸念が下支え要因となっている。日中の値動きと週間の大幅安は相反する動きを示唆している。"
+  },
+  {
+    "title": "ドル高・円高、原油価格が再び上昇 トランプ米大統領まもなく決断下す - みんかぶ FX/為替",
+    "timestamp": "2026-11-06T04:37:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ドル高・円高進行を背景に原油価格が再び上昇している。トランプ米大統領の政策決定が近いとされ、市場が先行きの不確実性に反応している状況。"
+  },
+  {
+    "title": "原油先物は続伸、週間では大幅安へ 中東の供給懸念が下支え - ニューズウィーク日本版",
+    "timestamp": "2026-11-06T03:28:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油先物は続伸し、中東の供給懸念が価格を下支えしている。週間ベースでは大幅安だが、地政学的リスクが短期的な上昇圧力となっている。既知の供給懸念の反映と見られる。"
+  },
+  {
+    "title": "サウジアラムコ、アジア向け12月原油価格を2ドル引き下げ コロナ禍以来6年ぶり安値 - BigGo ファイナンス",
+    "timestamp": "2026-11-06T04:35:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "サウジアラムコがアジア向け12月原油価格を2ドル引き下げた。コロナ禍以来6年ぶりの安値水準であり、需要減速と供給過剰圧力を反映している。価格引き下げは市場の弱気見通しを公式に示唆する信号。"
+  },
+  {
+    "title": "景気映す銅価格“ドクター・カッパー”どう占う【経済コラム】 - NHKニュース",
+    "timestamp": "2026-11-06T10:49:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が景気先行指標として注目される「ドクター・カッパー」としての機能について、経済コラムで解説している。現在の銅価格動向と景気見通しの関係性を分析する内容。"
+  },
+  {
+    "title": "銅相場下落、AIインフラ整備鈍化の見方広がる－中間選挙受け - Bloomberg.com",
+    "timestamp": "2026-11-06T10:09:53+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "AI関連インフラ投資の鈍化観測が広がり、銅相場が下落。中間選挙の結果がAI政策への不確実性を生み出した。需要減少期待が価格圧力となっている。"
+  },
+  {
+    "title": "５日の主要国際商品市況 (2026年11月6日掲載) - ライブドアニュース",
+    "timestamp": "2026-11-05T23:21:06+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "2026年11月5日の主要国際商品市況を扱うニュース記事。具体的な価格データや市場動向の詳細が記事概要には記載されていないため、実質的な分析ができない状態。"
   }
 ]
