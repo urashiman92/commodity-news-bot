@@ -1,93 +1,5 @@
 [
   {
-    "title": "China Soybean Oil Stocks Hit Record as Crushing Outpaces Demand - Bloomberg.com",
-    "timestamp": "2026-11-03T04:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "大豆",
-    "summary": "中国の大豆油在庫が過去最高水準に達した。搾油処理能力が需要を上回り、供給過剰圧力が発生している。このような異常な在庫積み上がりは大豆とそれに連動する油脂複合体の価格に下落圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "China Soybean Oil Stocks Hit Record as Crushing Outpaces Demand - Bloomberg.com",
-    "timestamp": "2026-11-03T04:59:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中国の大豆油在庫が過去最高水準に達した。搾油処理能力が需要を上回り、供給過剰圧力が発生している。このような異常な在庫積み上がりは大豆とそれに連動する油脂複合体の価格に下落圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff - Bloomberg.com",
-    "timestamp": "2026-11-03T02:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "AI関連株の売却圧力が再燃し、ベースメタル全般が下落。銅と錫が特に売られた。AI産業の景気後退懸念がテック関連株から商品市場へ波及し、景気敏感商品であるベースメタルの需要見通しが悪化。"
-  },
-  {
-    "title": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff - Bloomberg.com",
-    "timestamp": "2026-11-03T02:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "錫",
-    "summary": "AI関連株の売却圧力が再燃し、ベースメタル全般が下落。銅と錫が特に売られた。AI産業の景気後退懸念がテック関連株から商品市場へ波及し、景気敏感商品であるベースメタルの需要見通しが悪化。"
-  },
-  {
-    "title": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff - Bloomberg.com",
-    "timestamp": "2026-11-03T02:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "AI関連株の売却圧力が再燃し、ベースメタル全般が下落。銅と錫が特に売られた。AI産業の景気後退懸念がテック関連株から商品市場へ波及し、景気敏感商品であるベースメタルの需要見通しが悪化。"
-  },
-  {
-    "title": "India's 2026 gold demand seen falling to six-year low on price rise - Reuters",
-    "timestamp": "2026-11-03T06:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "インドの2026年金需要は金価格上昇により6年ぶりの低水準に落ち込むと予測されている。高価格環境下での消費者需要の価格弾力性低下を反映し、装飾品や投資需要の減少が見込まれる。この需要減少は世界最大級の金消費国であるインドからの需要圧力低下を意味する。"
-  },
-  {
-    "title": "Ukrainian drones set fire to major Russian oil refinery, local governor says - Reuters",
-    "timestamp": "2026-11-03T05:32:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナが無人機でロシアの主要製油所を攻撃し火災を発生させた。ロシアの石油精製能力の喪失は供給逼迫懸念を高め、原油価格の上昇圧力となる。地政学的リスクが顕在化し、市場の予想外性は高い。"
-  },
-  {
-    "title": "WGC lowers outlook for gold investment demand growth as bar buying slows - Reuters",
-    "timestamp": "2026-11-03T06:06:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "世界金評議会（WGC）が金地金投資需要の成長見通しを引き下げた。バー（延べ棒）購入が鈍化していることが主な要因。金利上昇環境下での無利子資産としての金の魅力低下と、投資家のポジション調整が背景。需要減速トレンドが継続する見込み。"
-  },
-  {
     "title": "Aramco Profit Beats Estimates After Refining Boom, Oil Surge - Bloomberg",
     "timestamp": "2026-11-03T12:03:06+00:00",
     "importance": 4,
@@ -108,17 +20,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "サウジアラムコが予想を上回る利益を報告。精製部門の好調と原油価格上昇が主要因。同社の好業績は石油メジャーの収益改善を示唆し、上流投資継続のシグナルとなる。エネルギー価格全般への市場信頼を強化する要因。"
-  },
-  {
-    "title": "Drones Hit Russia’s Yanos Refinery as Ukraine Steps Up Strikes - Bloomberg.com",
-    "timestamp": "2026-11-03T06:47:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナが無人機でロシアのヤノス製油所を攻撃。ロシアの精製能力低下により供給制約が生じる可能性が高まった。ウクライナによるエネルギーインフラ攻撃の激化は、欧州向けロシア産油の流通に直結し、原油市場の供給懸念を加速させている。"
   },
   {
     "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
@@ -152,39 +53,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "2026年11月のUSDA穀物進捗レポートでトウモロコシの収穫が74%、大豆が88%に達した。高い収穫進捗率は平年並みか上振れの見通しを示唆し、供給増加懸念から穀物価格に下押し圧力がかかる。作付面積や単収の詳細データによって市場反応が変わる可能性がある。"
-  },
-  {
-    "title": "European stocks slip as Middle East uncertainty makes for caution - Reuters",
-    "timestamp": "2026-11-03T07:24:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の地政学的不確実性の高まりを受けて、欧州株式市場が軟調となっている。リスク回避姿勢が強まる中で、コモディティ市場も方向性が揺らいでいる。原油は地政学リスク織り込みで上昇圧力がある一方、リスク資産売却に伴い金は堅調に推移する可能性が高い。"
-  },
-  {
-    "title": "European stocks slip as Middle East uncertainty makes for caution - Reuters",
-    "timestamp": "2026-11-03T07:24:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "中東の地政学的不確実性の高まりを受けて、欧州株式市場が軟調となっている。リスク回避姿勢が強まる中で、コモディティ市場も方向性が揺らいでいる。原油は地政学リスク織り込みで上昇圧力がある一方、リスク資産売却に伴い金は堅調に推移する可能性が高い。"
-  },
-  {
-    "title": "European stocks slip as Middle East uncertainty makes for caution - Reuters",
-    "timestamp": "2026-11-03T07:24:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "中東の地政学的不確実性の高まりを受けて、欧州株式市場が軟調となっている。リスク回避姿勢が強まる中で、コモディティ市場も方向性が揺らいでいる。原油は地政学リスク織り込みで上昇圧力がある一方、リスク資産売却に伴い金は堅調に推移する可能性が高い。"
   },
   {
     "title": "ADP jobs report, services PMI, and oil inventories among data due Wednesday - Investing.com",
@@ -955,5 +823,49 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "オクラホマ農業レポートが収穫後のピーナッツ価格を左右する要因について、供給力と需要力のどちらが主導するかを分析。記事は価格決定メカニズムの検討であり、具体的な作付面積や生産量の新規データは示されていない。ピーナッツは米国南東部の重要作物だが、価格への明確な方向性は特定不可。"
+  },
+  {
+    "title": "US Crude Stocks Rise, Gasoline and Distillate Inventories Fall – EIA - EnergyNow.com",
+    "timestamp": "2026-11-05T22:14:53+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間在庫統計にて、米国原油在庫は上昇した一方、ガソリンと留分油（ディスティレート）在庫は低下。原油供給過剰の兆候がある一方で、ガソリン・灯油需要の堅調さが示唆されている。事前予想比との乖離幅が不明なため市場反応度は限定的と予想される。"
+  },
+  {
+    "title": "US Crude Stocks Rise, Gasoline and Distillate Inventories Fall – EIA - EnergyNow.com",
+    "timestamp": "2026-11-05T22:14:53+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間在庫統計にて、米国原油在庫は上昇した一方、ガソリンと留分油（ディスティレート）在庫は低下。原油供給過剰の兆候がある一方で、ガソリン・灯油需要の堅調さが示唆されている。事前予想比との乖離幅が不明なため市場反応度は限定的と予想される。"
+  },
+  {
+    "title": "As high oil prices curb demand, fresh signs of glut appear - Reuters",
+    "timestamp": "2026-11-06T02:04:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "高い原油価格が需要を抑制し、市場に新たな供給過剰の兆候が出現している。価格上昇による需要減退と供給増加の圧力が同時に作用し、原油相場の下方圧力が強まる可能性がある。エネルギーコスト上昇がインフレを加速させる一方で、需要の弾力性が価格を抑制する転換点を迎えている。"
+  },
+  {
+    "title": "As high oil prices curb demand, fresh signs of glut appear - Reuters",
+    "timestamp": "2026-11-06T02:04:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "高い原油価格が需要を抑制し、市場に新たな供給過剰の兆候が出現している。価格上昇による需要減退と供給増加の圧力が同時に作用し、原油相場の下方圧力が強まる可能性がある。エネルギーコスト上昇がインフレを加速させる一方で、需要の弾力性が価格を抑制する転換点を迎えている。"
   }
 ]
