@@ -1,38 +1,5 @@
 [
   {
-    "title": "Aramco Profit Beats Estimates After Refining Boom, Oil Surge - Bloomberg",
-    "timestamp": "2026-11-03T12:03:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラムコが予想を上回る利益を報告。精製部門の好調と原油価格上昇が主要因。同社の好業績は石油メジャーの収益改善を示唆し、上流投資継続のシグナルとなる。エネルギー価格全般への市場信頼を強化する要因。"
-  },
-  {
-    "title": "Aramco Profit Beats Estimates After Refining Boom, Oil Surge - Bloomberg",
-    "timestamp": "2026-11-03T12:03:06+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラムコが予想を上回る利益を報告。精製部門の好調と原油価格上昇が主要因。同社の好業績は石油メジャーの収益改善を示唆し、上流投資継続のシグナルとなる。エネルギー価格全般への市場信頼を強化する要因。"
-  },
-  {
-    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-11-03T15:50:34+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが報告した米国の商業原油在庫が2018年以来の最低水準に低下した。輸出量の増加と製油所の処理量拡大が在庫減少の主因。在庫の段階的な低下トレンドが継続しており、市場の供給逼迫を反映している。"
-  },
-  {
     "title": "USDA Crop Progress: Corn 74%, Soybeans 88% Harvested - November 2026 - News and Statistics - IndexBox",
     "timestamp": "2026-11-03T19:30:30+00:00",
     "importance": 3,
@@ -704,28 +671,6 @@
     "summary": "USDAの作況レポート修正によりトウモロコシ市場に影響が生じた。公式統計の訂正は市場の価格形成に直接影響を与え、ポジション調整のきっかけとなった。修正内容の詳細により生産量見通しが変更された可能性がある。"
   },
   {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-11-03T16:06:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要鈍化の継続を示唆し、供給過剰懸念が強まっている。既に複数回の下方修正実績があり、エネルギー転換と経済減速の影響が累積している。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow.com",
-    "timestamp": "2026-11-03T16:06:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再び引き下げた。需要鈍化の継続を示唆し、供給過剰懸念が強まっている。既に複数回の下方修正実績があり、エネルギー転換と経済減速の影響が累積している。"
-  },
-  {
     "title": "Attack appears to hit Russia's Ryazan oil refinery, Reuters analysis finds - Reuters",
     "timestamp": "2026-11-05T13:19:51+00:00",
     "importance": 4,
@@ -867,5 +812,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "高い原油価格が需要を抑制し、市場に新たな供給過剰の兆候が出現している。価格上昇による需要減退と供給増加の圧力が同時に作用し、原油相場の下方圧力が強まる可能性がある。エネルギーコスト上昇がインフレを加速させる一方で、需要の弾力性が価格を抑制する転換点を迎えている。"
+  },
+  {
+    "title": "USA Oil Stocks Drop by Almost 1MM Bpd Week on Week - Rigzone",
+    "timestamp": "2026-11-06T15:35:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表によると、米国の原油在庫が週間ベースで約100万バレル/日（1MM Bpd）減少した。定期的な在庫統計の発表であり、在庫の緩やかな減少は供給タイト化の温和な兆候だが、市場予想の大幅乖離には該当しない。"
+  },
+  {
+    "title": "The USDA gives an optimistic view of South Africa’s 2026-27 maize production prospects - Wandile Sihlobo | Substack",
+    "timestamp": "2026-11-06T03:07:33+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが南アフリカの2026-27年度トウモロコシ生産見通しについて楽観的な見方を示した。Wandile Sihlobo氏による分析レポート。南アフリカはアフリカ有数のトウモロコシ生産国であり、生産回復見通しは地域供給逼迫の緩和を示唆している。"
+  },
+  {
+    "title": "OPEC Output Neared Pre-War Levels on Saudi Rebound, Survey Shows - Bloomberg.com",
+    "timestamp": "2026-11-06T14:05:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの産出量が戦前水準に近づいており、サウジアラビアの増産が主要因とBloombergの調査で報告された。サウジの供給回復は市場の需給逼迫懸念を緩和する一方、OPECの増産余力の限界を示唆している。原油価格は需給バランスの改善を織り込みつつあるが、地政学的リスクは依然として価格下支え要因。"
+  },
+  {
+    "title": "OPEC crude oil output is nearing pre-war levels as Saudi Arabia rebounds - Quartz",
+    "timestamp": "2026-11-06T15:19:40+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの原油生産量がウクライナ戦争前の水準に近づきつつあり、サウジアラビアの生産が回復している。供給増加により原油価格には下押し圧力が生じる可能性がある。ただしこれは市場で既に織り込まれている傾向の続報と考えられる。"
+  },
+  {
+    "title": "Kyiv Hits Sixth Russian Oil Plant in a Week as Campaign Picks Up - Bloomberg.com",
+    "timestamp": "2026-11-06T14:15:08+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがここ1週間でロシアの石油精製施設6ヶ所を攻撃し、作戦を加速させている。ロシアの石油精製能力への直接的な打撃は供給制約をもたらし、原油価格の上昇圧力となる可能性が高い。地政学的リスク要因の急速な悪化が市場心理を刺激。"
   }
 ]
