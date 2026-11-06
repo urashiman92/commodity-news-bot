@@ -1,82 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-02T23:34:04.668752+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-02T23:34:04.668752+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-02T23:34:04.668752+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-02T23:34:04.668752+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASSによる定期的なCrop Progress報告。米国の主要穀物（トウモロコシ、小麦、大豆）の作付進度と生育状況を集計した統計。具体的な数値データが提示されていないため、市場への影響度は報告内容の詳細（前週比の進捗度合い、天候影響、地域別の偏差など）に依存する。"
-  },
-  {
-    "title": "Oil edges up after report of US strike on Iran's Qeshm Island - Reuters",
-    "timestamp": "2026-11-03T01:27:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国によるイラン・ゲシム島への攻撃報道を受けて原油価格が上昇。ゲシム島はイランの主要な石油・ガス生産・輸出ハブであり、中東の地政学的緊張が高まることで供給リスク懸念が急速に台頭。中東産油国からの供給途絶リスクが価格を押し上げている。"
-  },
-  {
-    "title": "Asian stocks retreat ahead of US midterms, oil steadies - Reuters",
-    "timestamp": "2026-11-03T02:24:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国中間選挙を控えたアジア株の後退に伴い、コモディティ市場も調整局面を迎えている。原油は比較的堅調に推移しているものの、地政学的不確実性とドル強気相場がコモディティ全般に下押し圧力をもたらしている。選挙結果待ちのポジション調整の色合いが濃い。"
-  },
-  {
-    "title": "Asian stocks retreat ahead of US midterms, oil steadies - Reuters",
-    "timestamp": "2026-11-03T02:24:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国中間選挙を控えたアジア株の後退に伴い、コモディティ市場も調整局面を迎えている。原油は比較的堅調に推移しているものの、地政学的不確実性とドル強気相場がコモディティ全般に下押し圧力をもたらしている。選挙結果待ちのポジション調整の色合いが濃い。"
-  },
-  {
     "title": "China Soybean Oil Stocks Hit Record as Crushing Outpaces Demand - Bloomberg.com",
     "timestamp": "2026-11-03T04:59:00+00:00",
     "importance": 3,
@@ -130,39 +53,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "AI関連株の売却圧力が再燃し、ベースメタル全般が下落。銅と錫が特に売られた。AI産業の景気後退懸念がテック関連株から商品市場へ波及し、景気敏感商品であるベースメタルの需要見通しが悪化。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-11-03T02:21:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから脱退を発表し、組織の統結力が大きく低下。これによりOPECの減産維持力が弱まり、原油価格の下押し圧力が強まる可能性が高い。脱退国の増加は価格戦争リスクを高め、コモディティ市場全体の不確実性が増加する。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-11-03T02:21:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECから脱退を発表し、組織の統結力が大きく低下。これによりOPECの減産維持力が弱まり、原油価格の下押し圧力が強まる可能性が高い。脱退国の増加は価格戦争リスクを高め、コモディティ市場全体の不確実性が増加する。"
-  },
-  {
-    "title": "OPEC+ to Consider 137,000 bpd Oil Output Increase for April, Sources Say - EnergyNow.com",
-    "timestamp": "2026-11-03T02:16:41+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が4月の石油生産を日量137,000バレル増産することを検討している。この増産提案は段階的な供給増加を示唆しており、市場は供給圧力の増加を織り込む可能性がある。市場予想の範囲内の増産規模であり、既報のOPEC+政策方針の延長線上にある。"
   },
   {
     "title": "India's 2026 gold demand seen falling to six-year low on price rise - Reuters",
@@ -229,17 +119,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナが無人機でロシアのヤノス製油所を攻撃。ロシアの精製能力低下により供給制約が生じる可能性が高まった。ウクライナによるエネルギーインフラ攻撃の激化は、欧州向けロシア産油の流通に直結し、原油市場の供給懸念を加速させている。"
-  },
-  {
-    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
-    "timestamp": "2026-11-03T02:04:22+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの週間在庫統計で米国の原油ガソリン在庫が前週比で減少したことが報告された。需要の強さが在庫減少の主要因とされている。在庫の減少は供給逼迫シグナルとなり、原油価格の上昇圧力となる可能性がある。"
   },
   {
     "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
@@ -350,17 +229,6 @@
     "source": "Crop Progress/Production",
     "commodity": "トウモロコシ",
     "summary": "イリノイ州のトウモロコシ収量が事前推定を下回ったことが報告された。同州は米国最大級のトウモロコシ生産地であり、収量低下は全米平均を引き下げる可能性がある。Crop Progress統計の定期発表に基づくもので、市場予想の範囲内の結果と判断される。"
-  },
-  {
-    "title": "OPEC+ Likely to Again Raise Oil Output Targets From September, Sources Say - EnergyNow.com",
-    "timestamp": "2026-11-02T22:11:34+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月から再度の増産目標引き上げを検討している可能性がある。複数の関係者筋からの情報により、需要見通しの改善と市場バランスの維持を背景に、段階的な増産姿勢が継続する見込み。既に織り込まれている段階的緩和の延長線上にある観測"
   },
   {
     "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances - Bloomberg.com",
@@ -1076,5 +944,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの製油所からの配当金支払いが2022年以来の最高水準に達し、ロシア政府予算に打撃を与えている。これはロシアの石油産業における利益流出を意味し、政府の財政圧力が増していることを示唆している。製油所利益の国外流出は、ロシアの原油増産インセンティブの低下につながる可能性がある。"
+  },
+  {
+    "title": "Will Supply or Demand Forces Drive Peanut Prices Post-Harvest? - Oklahoma Farm Report",
+    "timestamp": "2026-11-04T14:16:08+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "オクラホマ農業レポートが収穫後のピーナッツ価格を左右する要因について、供給力と需要力のどちらが主導するかを分析。記事は価格決定メカニズムの検討であり、具体的な作付面積や生産量の新規データは示されていない。ピーナッツは米国南東部の重要作物だが、価格への明確な方向性は特定不可。"
   }
 ]
