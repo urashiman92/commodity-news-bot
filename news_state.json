@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格、３９００ドル台の攻防 - 三菱マテリアル GOLDPARK",
-    "timestamp": "2026-11-04T04:17:49+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3900ドル台での攻防局面にあることを報じたニュース。技術的な抵抗線での値動きについての相場解説。具体的な新規材料や予想外の事象は記事概要から判断できない。"
-  },
-  {
-    "title": "米国の最新雇用統計を受けて金価格が下落圧力に直面。テクニカル面では弱気圏に入っており - Moomoo",
-    "timestamp": "2026-11-04T06:29:44+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国の雇用統計発表により、金価格が下落圧力に直面している。テクニカル面では弱気圏に入っており、今後の値動きに注視が必要。雇用統計の堅調さはドル強気・金弱気要因として機能している。"
-  },
-  {
-    "title": "11月4日朝、国内の金価格は上昇を続けた。 - Vietnam.vn",
-    "timestamp": "2026-11-04T05:37:15+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金価格が11月4日朝に上昇を続けている。単純な価格動向の報道で、具体的な上昇率や背景要因が不明。"
-  },
-  {
-    "title": "金価格は急落したが、以前の最高値を上回るにはさらに9年かかるのだろうか？ - Vietnam.vn",
-    "timestamp": "2026-11-04T05:31:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落したとの報道。過去最高値への回復には9年要する可能性が指摘されている。価格下落は既に織り込まれた相場の振り返りと解説。"
-  },
-  {
-    "title": "米軍がゲシュム島を空爆、原油価格にリスクプレミアム回帰 ブレント原油が1バレル104ドル台に復帰 - BigGo ファイナンス",
-    "timestamp": "2026-11-04T04:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米軍がゲシュム島を空爆したことで、中東地政学リスクが顕在化。リスクプレミアムの回帰により、ブレント原油が104ドル台へ上昇。ホルムズ海峡周辺の緊張激化が供給リスクとして認識される。"
-  },
-  {
-    "title": "【臨時ブログ】民主党勝利確実により金価格４０００ドル回復 - 三菱マテリアル GOLDPARK",
-    "timestamp": "2026-11-04T08:08:22+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国民主党選挙勝利予想を背景に金価格が4000ドルまで回復する可能性を示唆したコメンタリー。政治的不確実性の高まりと金利低下期待が金買いを促進。既存の政治リスク織り込み相場の延長線上の解説。"
-  },
-  {
     "title": "金価格が4,000ドルの節目を割り込む 原油価格とFRB利上げ観測が最大の変数に - BigGo ファイナンス",
     "timestamp": "2026-11-04T13:25:00+00:00",
     "importance": 3,
@@ -88,17 +22,6 @@
     "summary": "米ドル急落に伴い金価格が上昇している状況を解説するコメンタリー記事。テクノロジーセクターの相場振動との関連性を指摘。ドル安が金の買値低下につながり、金需要を支援している。"
   },
   {
-    "title": "本日（11月4日午後）の金価格：金地金価格は引き続き上昇しています。 - Vietnam.vn",
-    "timestamp": "2026-11-04T08:45:52+00:00",
-    "importance": 1,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの報道で金地金価格が引き続き上昇している旨が報告されている。既に方向が織り込まれた相場解説であり、具体的な新規材料に基づくものではない。"
-  },
-  {
     "title": "金価格が4000ドル台に復帰、ドル安と選挙不確実性が反発を後押し - BigGo ファイナンス",
     "timestamp": "2026-11-04T11:35:00+00:00",
     "importance": 3,
@@ -108,61 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が4000ドル/トロイオンスを回復。ドル安進行と米国選挙に伴う政治的不確実性が買い材料。金は不確実性環境では伝統的に買われやすい。"
-  },
-  {
-    "title": "国際原油価格が2日連続急落…ブレント原油103ドル台、米・イラン交渉期待に中間選挙の変数も - BigGo ファイナンス",
-    "timestamp": "2026-11-04T08:45:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が103ドル台へ2日連続で急落。米・イラン核協議再開への期待と11月の米中間選挙を控えた需要見通しの弱化が重要。地政学的リスクプレミアムの縮小が価格を圧迫。"
-  },
-  {
-    "title": "本日の原油市況：国際原油は小幅に反発、交渉見通しの不透明感と米国原油在庫の減少が下支え要因 - Moomoo",
-    "timestamp": "2026-11-04T06:09:04+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "国際原油は小幅反発。米国原油在庫の減少が下支え要因となり、交渉見通しの不透明感も相場を支えている。ただし上値は限定的な展開。"
-  },
-  {
-    "title": "商社決算、際立つ銅事業の成長－AIデータセンターの需要が追い風に - Bloomberg.com",
-    "timestamp": "2026-11-04T07:28:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "日本商社の銅事業が成長加速。AI/データセンター需要の拡大が電力・冷却銅需要を押し上げている。商社決算発表による既知情報の確認レベル。"
-  },
-  {
-    "title": "銅と砂糖の価格が急落した。 - Vietnam.vn",
-    "timestamp": "2026-11-04T07:54:23+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅と砂糖の価格が急落した。需給バランスの悪化またはマクロ環境の悪化が示唆される。具体的な下落幅や原因が明記されていないため詳細は不明。"
-  },
-  {
-    "title": "人民元安は、米国の強い需要にもかかわらず銅価格を圧迫するのか？ - Traders Union",
-    "timestamp": "2026-11-04T09:25:08+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "人民元安が銅価格の下押し要因として作用する可能性が指摘されている。米国の需要堅調にもかかわらず、中国通貨弱化による実質価格上昇が需要を抑制する懸念。中国の銅需要減少シナリオが価格を圧迫する可能性がある。"
   },
   {
     "title": "金価格が4,000ドル近辺で推移する中、ロイヤル・ゴールドの決算に注目 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1538,5 +1406,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ブレント原油が先週2020年以来最大の下げ幅で急落。市場の需給見通し悪化やドル高圧力が要因と考えられる。コモディティ投資家にとってポジション調整の重要なシグナル。"
+  },
+  {
+    "title": "金価格急落も中国人民銀行が24カ月連続で買い増し、10月は25.8トン追加 - BigGo ファイナンス",
+    "timestamp": "2026-11-07T07:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "中国人民銀行が10月に25.8トンの金を追加購入し、24カ月連続の買い増しを継続。金価格が急落する相場環境でも、中央銀行による堅調な需要が支えとなっている。"
+  },
+  {
+    "title": "本日の金価格（11月7日午後）：変動なし - Vietnam.vn",
+    "timestamp": "2026-11-07T07:44:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月7日午後の金価格は前日比で変動がなかった。ベトナム国内市場での価格水準を報じるルーチンニュース。"
+  },
+  {
+    "title": "NY原油・金相場（6日）－原油が小反落 金は3日ぶりに反落 - TradingView",
+    "timestamp": "2026-11-06T22:53:41+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油が小幅反落、金は3日ぶりに反落した。市場の通常の値動きの範囲内での調整局面。"
+  },
+  {
+    "title": "金価格、8月以来最大の週間上昇 ウォール街のアナリストは見通しで意見割れる - BigGo ファイナンス",
+    "timestamp": "2026-11-07T06:25:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が8月以来の最大週間上昇を記録した。ウォール街のアナリスト間で今後の見通しが分かれている。上昇の背景には市場環境の変化があると推察される。"
+  },
+  {
+    "title": "ブレント原油先物は単週で13%暴落し、1バレル100ドルの大台を割り込んだ。ヘッジファンドは米大統領選前にロングポジションの縮小を進めていた。 - Moomoo",
+    "timestamp": "2026-11-07T07:03:20+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油が1週間で13%下落し、100ドル/バレルを割り込んだ。ヘッジファンドが米大統領選前のリスク回避姿勢を強め、ロングポジション縮小が売り圧力となった。"
+  },
+  {
+    "title": "NY外為：ドル伸び悩む、原油相場が軟調、米イラン外交進展期待 執筆 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-06T16:33:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米イラン外交の進展期待により、地政学的リスク軽減観測が広がっている。ドルは伸び悩み、原油相場は軟調に推移。市場はイラン核合意復帰の可能性を織り込み始めている。"
   }
 ]
