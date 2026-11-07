@@ -1,27 +1,5 @@
 [
   {
-    "title": "Illinois corn yields fall short of estimates - Jacksonville Journal-Courier",
-    "timestamp": "2026-11-04T00:11:18+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "イリノイ州のトウモロコシ収量が事前推定を下回ったことが報告された。同州は米国最大級のトウモロコシ生産地であり、収量低下は全米平均を引き下げる可能性がある。Crop Progress統計の定期発表に基づくもので、市場予想の範囲内の結果と判断される。"
-  },
-  {
-    "title": "Suncor Energy tops profit estimates on higher oil prices, margins - Reuters",
-    "timestamp": "2026-11-03T23:45:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "Suncor Energyが利益見通しを上回る業績を発表。高油価と製油マージン拡大が主因。カナダの主要エネルギー企業の好調決算は、現在の原油相場環境（60-80ドル/バレル帯推定）の持続可能性を示唆。ただし企業決算の続報であり、市場への新規情報性は限定的。"
-  },
-  {
     "title": "Democrats’ Win Rattles Trump Trades From AI Stocks to Crypto - Bloomberg.com",
     "timestamp": "2026-11-04T06:10:00+00:00",
     "importance": 3,
@@ -977,5 +955,60 @@
     "source": "Reuters商品ニュース",
     "commodity": "金",
     "summary": "インドでディワリ（10月下旬～11月上旬）時期に金価格の下落が重なり、金需要が拡大している。ディワリは金製品購入の伝統的な季節であり、価格下落が購買意欲を刺激。インド金需要の季節性とマクロ要因が同時作用している状況。"
+  },
+  {
+    "title": "Corn yields fall short of estimates - The Breeze Courier",
+    "timestamp": "2026-11-06T14:47:55+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE関連の報告でトウモロコシの収量が事前推定を下回った。収量の短落は供給見通しの低下を意味し、価格上昇圧力が生じる。米国トウモロコシは世界供給の重要な部分を占めるため、飼料価格やエタノール関連産業にも波及効果が見込まれる。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - SRN News",
+    "timestamp": "2026-11-06T19:38:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが過去の穀物生産データの誤りを受けて、AI検証ツールを導入することを発表。データ品質向上を目指すが、既に市場に織り込まれた過去の推計値の修正リスク。統計信頼性の段階的改善に向けた取り組み。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - SRN News",
+    "timestamp": "2026-11-06T19:38:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが過去の穀物生産データの誤りを受けて、AI検証ツールを導入することを発表。データ品質向上を目指すが、既に市場に織り込まれた過去の推計値の修正リスク。統計信頼性の段階的改善に向けた取り組み。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - SRN News",
+    "timestamp": "2026-11-06T19:38:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが過去の穀物生産データの誤りを受けて、AI検証ツールを導入することを発表。データ品質向上を目指すが、既に市場に織り込まれた過去の推計値の修正リスク。統計信頼性の段階的改善に向けた取り組み。"
+  },
+  {
+    "title": "USDA to launch AI tool to check crop production data after errors - SRN News",
+    "timestamp": "2026-11-06T19:38:25+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが過去の穀物生産データの誤りを受けて、AI検証ツールを導入することを発表。データ品質向上を目指すが、既に市場に織り込まれた過去の推計値の修正リスク。統計信頼性の段階的改善に向けた取り組み。"
   }
 ]
