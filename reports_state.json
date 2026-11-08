@@ -1,104 +1,5 @@
 [
   {
-    "title": "Soybean Prices Slip Below $12 as Corn Holds Gains Ahead of USDA Report - AgroLatam",
-    "timestamp": "2026-11-04T21:49:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA報告書を控える中、大豆価格が1ブッシェル当たり12ドル以下に下落した。一方トウモロコシは上昇基調を維持している。市場は米農務省の作付・在庫見通し発表を待機しており、今後の穀物相場の方向性が決定される局面。"
-  },
-  {
-    "title": "Soybean Prices Slip Below $12 as Corn Holds Gains Ahead of USDA Report - AgroLatam",
-    "timestamp": "2026-11-04T21:49:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA報告書を控える中、大豆価格が1ブッシェル当たり12ドル以下に下落した。一方トウモロコシは上昇基調を維持している。市場は米農務省の作付・在庫見通し発表を待機しており、今後の穀物相場の方向性が決定される局面。"
-  },
-  {
-    "title": "Northwest Berry Foundation, With Delphy, Awarded USDA Specialty Crop Block Grant to Assess Controlled Production Systems for Oregon Berries - Yahoo Finance",
-    "timestamp": "2026-11-04T21:35:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "Northwest Berry FoundationがDelphyと共同で、USDA Specialty Crop Block Grantを受賞し、オレゴン州のベリー類の制御環境生産システム（温室・垂直農業など）の評価プロジェクトを実施する。農業技術高度化と生産効率化を目指した研究助成であり、ベリー市場の長期的な供給安定化に寄与する可能性がある。"
-  },
-  {
-    "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-04T21:36:03+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "米国投票後の市場反応として、株式と債券が上昇する一方でドル指数が下落。ドル安環境はドル建てコモディティ（特に金）の上昇圧力となる。金利動向や米国政策の不確実性が高まっており、安全資産である金への需要増加が予想される。"
-  },
-  {
-    "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-04T21:36:03+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国投票後の市場反応として、株式と債券が上昇する一方でドル指数が下落。ドル安環境はドル建てコモディティ（特に金）の上昇圧力となる。金利動向や米国政策の不確実性が高まっており、安全資産である金への需要増加が予想される。"
-  },
-  {
-    "title": "Cushing records slight increase in crude oil inventory - Oklahoma Energy Today",
-    "timestamp": "2026-11-04T23:58:51+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAの定期在庫報告でクッシング地点の原油在庫がわずかな増加を記録した。この報告は予定された週間統計の一部であり、市場予想の範囲内の通常変動と見られる。供給面での構造的な変化を示唆する材料ではない。"
-  },
-  {
-    "title": "Expert Sees US$10000 Gold & 10% Inflation as Copper-Gold Junior Drills BC - Streetwise Reports",
-    "timestamp": "2026-11-04T22:10:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "金鉱関連企業がブリティッシュコロンビア州で銅金鉱床を掘削中。業界専門家が金価格10,000米ドル/オンスおよびインフレ率10%シナリオを予想。高インフレ環境下での実物資産（金・銅）需要増加を示唆。"
-  },
-  {
-    "title": "Expert Sees US$10000 Gold & 10% Inflation as Copper-Gold Junior Drills BC - Streetwise Reports",
-    "timestamp": "2026-11-04T22:10:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "金鉱関連企業がブリティッシュコロンビア州で銅金鉱床を掘削中。業界専門家が金価格10,000米ドル/オンスおよびインフレ率10%シナリオを予想。高インフレ環境下での実物資産（金・銅）需要増加を示唆。"
-  },
-  {
-    "title": "Expert Sees US$10000 Gold & 10% Inflation as Copper-Gold Junior Drills BC - Streetwise Reports",
-    "timestamp": "2026-11-04T22:10:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "金鉱関連企業がブリティッシュコロンビア州で銅金鉱床を掘削中。業界専門家が金価格10,000米ドル/オンスおよびインフレ率10%シナリオを予想。高インフレ環境下での実物資産（金・銅）需要増加を示唆。"
-  },
-  {
     "title": "Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections - Reuters",
     "timestamp": "2026-11-05T03:46:00+00:00",
     "importance": 3,
@@ -141,28 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国中間選挙後、原油とデータセンター関連株が売られた。政治的不確実性の低下や景気見通しの変化が背景と考えられる。エネルギー需要の先行き懸念が原油価格に下押し圧力をもたらしている可能性がある。"
-  },
-  {
-    "title": "COMMENTARY: Trading Day: Oil tanks, stocks leap on US midterms - Reuters",
-    "timestamp": "2026-11-04T22:07:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国中間選挙の結果を受けて市場が大きく反応した。原油価格は下落する一方、株式市場は上昇した。中間選挙結果がインフレ抑制への期待やFRBの金融引き締め方針の変更可能性を示唆し、リスク資産への逆風が緩和された可能性がある。"
-  },
-  {
-    "title": "COMMENTARY: Trading Day: Oil tanks, stocks leap on US midterms - Reuters",
-    "timestamp": "2026-11-04T22:07:45+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国中間選挙の結果を受けて市場が大きく反応した。原油価格は下落する一方、株式市場は上昇した。中間選挙結果がインフレ抑制への期待やFRBの金融引き締め方針の変更可能性を示唆し、リスク資産への逆風が緩和された可能性がある。"
   },
   {
     "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result - Bloomberg.com",
@@ -933,16 +812,5 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "大手商品トレーダーのトラフィグーラがアジアで銅の買い増しを実施。中国が供給不足に直面している中での戦略的な買収動きであり、市場の需給ひっ迫を反映している。アジアにおける銅の流動性低下と価格上昇圧力の加速を示唆する重要な信号。"
-  },
-  {
-    "title": "US Oil Inventories 2026: Crude and Distillate Stocks | GOS - globaloilshock.com",
-    "timestamp": "2026-11-04T22:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "2026年の米国原油在庫および留分油在庫に関する見通しレポート。EIAによる定期的な在庫統計・予測データであり、市場参加者が供給バランスと価格トレンドを評価するための基準情報となる。具体的な在庫数値が記事本体に記載されていないため、詳細な影響度判定が困難。"
   }
 ]
