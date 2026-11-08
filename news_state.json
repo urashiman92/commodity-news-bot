@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格が4,100ドル台に復帰、香港株の金鉱株が軒並み上昇 老鋪黄金は一時8%超上昇 - BigGo ファイナンス",
-    "timestamp": "2026-11-05T08:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,100ドル台に回復し、香港市場の金鉱株が連動して上昇。老鋪黄金など主要銘柄が軒並み買われ、鉱株は8%超の値上がりを記録した。"
-  },
-  {
-    "title": "米民主党圧勝でダウ3％上昇、原油価格・国債利回り下落…韓国KOSPIは売りサイドカー発動 - 中央日報",
-    "timestamp": "2026-11-05T06:57:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の民主党選挙結果を受けてダウ平均が3%上昇。これに伴い原油価格と国債利回りが下落した。政治イベント後の市場反応を示す相場動向。"
-  },
-  {
-    "title": "高麗亜鉛が亜鉛・銅高と投資86％削減でゲルマニウム収益化狙う - Chosunbiz",
-    "timestamp": "2026-11-05T07:57:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "高麗亜鉛が亜鉛・銅価格上昇を背景に投資を86%削減し、ゲルマニウム事業の収益化にシフト。コスト管理と事業ポートフォリオの最適化を進める戦略的な決定。"
-  },
-  {
-    "title": "金、4,200ドル試しへ バーツ高・国内需要がタイ金相場を支え6万9,000バーツ視野 - BigGo ファイナンス",
-    "timestamp": "2026-11-05T10:55:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場が4,200ドル試験を視野に、タイではバーツ高と国内需要が相場を支えている。タイ金市場は6万9,000バーツ水準を目指す展開。"
-  },
-  {
     "title": "2026年11月6日、金価格が急騰し、市場全体に大きな波紋を広げました。専門家は今後の見通しや、買い注文を出す最適なタイミングについてどのように考えているのでしょうか？ - Vietnam.vn",
     "timestamp": "2026-11-05T15:54:59+00:00",
     "importance": 2,
@@ -66,17 +22,6 @@
     "summary": "金価格が1オンス4,100ドルを突破した。インフレ懸念や地政学リスク、金融緩和期待などが背景。既に進行中の上昇トレンドの続報。"
   },
   {
-    "title": "円相場 小幅な値動き 原油先物下落で一時円高ドル安も - NHKニュース",
-    "timestamp": "2026-11-05T12:28:48+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物の下落に伴い、円が一時的に買われドル安になった。為替相場全体としては小幅な値動きに留まっている。原油下落による通常の相関性が観察される範囲内の動き。"
-  },
-  {
     "title": "原油価格が大幅下落 米イラン戦闘終結に期待 日経平均一時1400円超下落…AI投資への不透明感で - FNNプライムオンライン",
     "timestamp": "2026-11-05T14:46:00+00:00",
     "importance": 3,
@@ -86,39 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "米イラン戦闘終結期待により原油価格が大幅下落。地政学的リスク低減が相場を圧迫。同時にAI投資不透明感が株式市場にも波及。"
-  },
-  {
-    "title": "ベイリー英中銀総裁 足元の原油価格の下落はポジティブなニュースだ - みんかぶ FX/為替",
-    "timestamp": "2026-11-05T12:52:28+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "英中銀総裁が足元の原油価格下落をポジティブと評価。インフレ圧力緩和につながるとの見方を示唆。既に進行中の価格低下トレンドを追認するコメント。"
-  },
-  {
-    "title": "アメリカ・中間選挙の結果受けて「原油価格」下がっている一方、「補助金縮小」で今後の見通しが難しく…長野県内のガソリン価格、レギュラーが176.4円で前週と同じ…灯油は7週連続の値上がり - TBS NEWS DIG",
-    "timestamp": "2026-11-05T09:07:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米中間選挙受けて原油価格は下落しているが、日本国内ガソリン価格は前週同水準で安定。エネルギー補助金縮小により先行き不透明。灯油は7週連続上昇で季節的需要増を反映。"
-  },
-  {
-    "title": "【速報】NY原油先物は反発、90.35ドルまで上昇｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-05T13:26:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY原油先物が90.35ドルまで反発した。短期的な値動きの報告であり、市場での織り込み状況が不明確。具体的な材料や要因の記載がない。"
   },
   {
     "title": "WisdomTree 小麦上場投信【1695】：株価・株式情報 - Yahoo!ファイナンス",
@@ -361,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジアラムコが12月のアジア向け原油価格を6年ぶりの低水準に設定。需要減速とグローバル供給過剰の継続を反映。エネルギー市場全体の軟調トレンドが確認された形。"
-  },
-  {
-    "title": "AI関連株の売りが工業用金属市場にも波及し、銅価格は持ち合い - Traders Union",
-    "timestamp": "2026-11-05T09:24:31+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "AI関連株の売却に伴う市場心理悪化が工業用金属市場にも波及し、銅価格が持ち合い局面となっている。リスク資産全般への投資家の慎重姿勢が反映された状況。"
   },
   {
     "title": "５日の主要国際商品市況 - 株探",
@@ -1274,5 +1175,60 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "AI半導体株の急落を背景に、リスク資産売却による同時下落が発生。原油高騰と主要中銀の利上げ継続が市場全体の重石となっている。株価下落に伴うリスク回避的な商品売却圧力が原油にも波及する可能性。"
+  },
+  {
+    "title": "本日（11月8日午後）の金価格：上下ともに変動なし。 - Vietnam.vn",
+    "timestamp": "2026-11-08T06:33:39+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月8日午後のベトナム金価格は上下の変動がなく、横ばい推移。特段の市場材料が見当たらず、方向感に欠ける状況。"
+  },
+  {
+    "title": "専門家が約5%上昇した週後の金価格を予測 - Laodong.vn",
+    "timestamp": "2026-11-08T08:58:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が約5%上昇した週後の価格見通しについてアナリストが予測を発表。既に発生した値動きの後追い解説であり、将来の方向性は不透明。"
+  },
+  {
+    "title": "日経平均底入れで反発か、原油価格は高止まりに 今週の市場・予定 - 日本経済新聞",
+    "timestamp": "2026-11-08T09:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "日経平均の底入れ反発が予想される中、原油価格は高止まりで推移する見通し。株式市場と原油市場の動向を総合的に解説した週間コメンタリー。"
+  },
+  {
+    "title": "週間経済ニュース：金と原油価格が急激に変動。金融市場は大きな圧力に直面。 - Vietnam.vn",
+    "timestamp": "2026-11-08T12:10:40+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "金と原油価格が急激に変動し、金融市場が圧力に直面しているとの報道。ベトナムメディアによる週間経済振り返り記事であり、具体的な価格変動幅や要因は不明。"
+  },
+  {
+    "title": "Sideways movement expected; focus on crude oil price trends and US CPI. - Moomoo",
+    "timestamp": "2026-11-08T11:32:32+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が横ばい推移を予想される中、米CPI統計が注視対象となっている。既に市場で認識されている見通しの解説記事。"
   }
 ]
