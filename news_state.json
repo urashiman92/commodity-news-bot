@@ -1,38 +1,5 @@
 [
   {
-    "title": "2026年11月6日、金価格が急騰し、市場全体に大きな波紋を広げました。専門家は今後の見通しや、買い注文を出す最適なタイミングについてどのように考えているのでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-11-05T15:54:59+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "2026年11月6日に金価格が急騰したことを受け、専門家が今後の見通しと買い注文タイミングについて解説している。価格上昇の具体的な要因は記事から判明していない。"
-  },
-  {
-    "title": "世界の金価格が1オンスあたり4,100ドルを突破。 - Vietnam.vn",
-    "timestamp": "2026-11-05T14:40:46+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス4,100ドルを突破した。インフレ懸念や地政学リスク、金融緩和期待などが背景。既に進行中の上昇トレンドの続報。"
-  },
-  {
-    "title": "原油価格が大幅下落 米イラン戦闘終結に期待 日経平均一時1400円超下落…AI投資への不透明感で - FNNプライムオンライン",
-    "timestamp": "2026-11-05T14:46:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン戦闘終結期待により原油価格が大幅下落。地政学的リスク低減が相場を圧迫。同時にAI投資不透明感が株式市場にも波及。"
-  },
-  {
     "title": "WisdomTree 小麦上場投信【1695】：株価・株式情報 - Yahoo!ファイナンス",
     "timestamp": "2026-11-05T18:50:29+00:00",
     "importance": 1,
@@ -1230,5 +1197,71 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油価格が横ばい推移を予想される中、米CPI統計が注視対象となっている。既に市場で認識されている見通しの解説記事。"
+  },
+  {
+    "title": "金価格は急騰したが、投資家は依然として数百万ドンの損失を被った。 - Vietnam.vn",
+    "timestamp": "2026-11-08T15:17:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金投資家が、金価格の上昇にもかかわらず数百万ドンの損失を被ったというローカルニュース。タイミングのずれやレバレッジ取引の損失の可能性。"
+  },
+  {
+    "title": "2026年11月9日現在、金価格は、実物資産の時代が近づくにつれ、米国経済の「健全性」を示す兆候を待っている。 - Vietnam.vn",
+    "timestamp": "2026-11-08T15:47:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は実物資産時代の到来を背景に、米国経済の健全性の兆候を待機している状況。金はリスク資産としてのドル信認低下やインフレヘッジの需要が高まる環境を反映。米国経済指標の悪化が金買い圧力となる可能性。"
+  },
+  {
+    "title": "もみ合いか、原油相場の行方注目 - Moomoo",
+    "timestamp": "2026-11-08T13:51:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場が方向感を失い、もみ合い相場となっている状況を報道。現在の需給バランスと地政学的要因の均衡により、上値・下値が限定されている。今後の重要指標や地政学イベントへの注視が必要。"
+  },
+  {
+    "title": "本日10月2日の原油価格：中国が燃料輸出を一時的に停止したことを受け、ブレント原油は4％以上上昇した。 - Vietnam.vn",
+    "timestamp": "2026-11-08T12:00:16+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中国が燃料輸出を一時的に停止したことを受け、ブレント原油が4%以上上昇した。世界第2位の原油消費国かつ主要な燃料輸出国である中国の供給制限は、グローバルな供給逼迫を示唆している。このような突発的な供給ショックは市場にとって予想外の動きであり、コモディティ価格への上昇圧力となっている。"
+  },
+  {
+    "title": "原油価格高騰が生活に与える影響についてどう思いますか？ - Yahoo!ニュース",
+    "timestamp": "2026-11-07T19:03:34+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油高騰が家計や産業に与える影響について、一般向けの解説・コメンタリー記事。市場参加者向けの新情報や統計発表ではなく、既知事象の生活への波及効果についての観測記事と判断される。"
+  },
+  {
+    "title": "Consolidation expected; focus on the direction of crude oil markets - Moomoo",
+    "timestamp": "2026-11-08T11:32:31+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油市場は調整局面にあり、今後の方向性が注視されている。現在の値動きは市場参加者による様子見の状況を示唆している。具体的な需給ファンダメンタルズの変化ニュースではなく、技術的な相場観測である。"
   }
 ]
