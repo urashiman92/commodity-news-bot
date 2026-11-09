@@ -1,27 +1,5 @@
 [
   {
-    "title": "As high oil prices curb demand, fresh signs of glut appear - Reuters",
-    "timestamp": "2026-11-06T02:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "高い原油価格が需要を抑制し、市場に新たな供給過剰の兆候が出現している。価格上昇による需要減退と供給増加の圧力が同時に作用し、原油相場の下方圧力が強まる可能性がある。エネルギーコスト上昇がインフレを加速させる一方で、需要の弾力性が価格を抑制する転換点を迎えている。"
-  },
-  {
-    "title": "As high oil prices curb demand, fresh signs of glut appear - Reuters",
-    "timestamp": "2026-11-06T02:04:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "高い原油価格が需要を抑制し、市場に新たな供給過剰の兆候が出現している。価格上昇による需要減退と供給増加の圧力が同時に作用し、原油相場の下方圧力が強まる可能性がある。エネルギーコスト上昇がインフレを加速させる一方で、需要の弾力性が価格を抑制する転換点を迎えている。"
-  },
-  {
     "title": "USA Oil Stocks Drop by Almost 1MM Bpd Week on Week - Rigzone",
     "timestamp": "2026-11-06T15:35:00+00:00",
     "importance": 2,
@@ -31,17 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA発表によると、米国の原油在庫が週間ベースで約100万バレル/日（1MM Bpd）減少した。定期的な在庫統計の発表であり、在庫の緩やかな減少は供給タイト化の温和な兆候だが、市場予想の大幅乖離には該当しない。"
-  },
-  {
-    "title": "The USDA gives an optimistic view of South Africa’s 2026-27 maize production prospects - Wandile Sihlobo | Substack",
-    "timestamp": "2026-11-06T03:07:33+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが南アフリカの2026-27年度トウモロコシ生産見通しについて楽観的な見方を示した。Wandile Sihlobo氏による分析レポート。南アフリカはアフリカ有数のトウモロコシ生産国であり、生産回復見通しは地域供給逼迫の緩和を示唆している。"
   },
   {
     "title": "OPEC Output Neared Pre-War Levels on Saudi Rebound, Survey Shows - Bloomberg.com",
@@ -460,5 +427,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "イラクが日量500万バレルの原油生産能力があると主張し、OPEC内での生産枠拡大を要求している。この主張は同国の実績生産量（約450万バレル）を上回り、OPEC減産合意との整合性に疑問を生じさせている。同国の枠拡大要求は、OPEC+の生産調整政策に対する圧力となる可能性がある。"
+  },
+  {
+    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
+    "timestamp": "2026-11-06T13:53:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の増産決定について、アナリストのRussell氏の見解を報道。同氏は現在の市場環境では増産の影響は限定的だが、将来的には重要になる可能性があると指摘。具体的な増産規模や時期の数値は記事タイトルのみからは不明。"
   }
 ]
