@@ -1,104 +1,5 @@
 [
   {
-    "title": "USA Oil Stocks Drop by Almost 1MM Bpd Week on Week - Rigzone",
-    "timestamp": "2026-11-06T15:35:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によると、米国の原油在庫が週間ベースで約100万バレル/日（1MM Bpd）減少した。定期的な在庫統計の発表であり、在庫の緩やかな減少は供給タイト化の温和な兆候だが、市場予想の大幅乖離には該当しない。"
-  },
-  {
-    "title": "OPEC Output Neared Pre-War Levels on Saudi Rebound, Survey Shows - Bloomberg.com",
-    "timestamp": "2026-11-06T14:05:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの産出量が戦前水準に近づいており、サウジアラビアの増産が主要因とBloombergの調査で報告された。サウジの供給回復は市場の需給逼迫懸念を緩和する一方、OPECの増産余力の限界を示唆している。原油価格は需給バランスの改善を織り込みつつあるが、地政学的リスクは依然として価格下支え要因。"
-  },
-  {
-    "title": "OPEC crude oil output is nearing pre-war levels as Saudi Arabia rebounds - Quartz",
-    "timestamp": "2026-11-06T15:19:40+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの原油生産量がウクライナ戦争前の水準に近づきつつあり、サウジアラビアの生産が回復している。供給増加により原油価格には下押し圧力が生じる可能性がある。ただしこれは市場で既に織り込まれている傾向の続報と考えられる。"
-  },
-  {
-    "title": "Kyiv Hits Sixth Russian Oil Plant in a Week as Campaign Picks Up - Bloomberg.com",
-    "timestamp": "2026-11-06T14:15:08+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがここ1週間でロシアの石油精製施設6ヶ所を攻撃し、作戦を加速させている。ロシアの石油精製能力への直接的な打撃は供給制約をもたらし、原油価格の上昇圧力となる可能性が高い。地政学的リスク要因の急速な悪化が市場心理を刺激。"
-  },
-  {
-    "title": "American Farm Bureau Federation Reports Turkey Farmers Recovering From Two Years of Losses - Sierra Sun Times",
-    "timestamp": "2026-11-06T12:13:27+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国七面鳥農家が2年間の損失から回復基調にあると報告。American Farm Bureau Federationによるレポートで、業界の経営状況が改善方向にあることが示唆された。ただし具体的な生産量や価格データは記事から読み取れない。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
-    "timestamp": "2026-11-06T18:23:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
-    "timestamp": "2026-11-06T18:23:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
-    "timestamp": "2026-11-06T18:23:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
-    "timestamp": "2026-11-06T18:23:43+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが過去に報告した穀物生産データの誤りを受け、AIツールを導入して検証精度を高める取り組みを開始する。データ品質の改善は市場の信頼性向上につながるが、過去データの修正による既存ポジションへの直接的な影響は限定的と判断される。"
-  },
-  {
     "title": "November WASDE: Why soybeans are the biggest wildcard - Pro Farmer",
     "timestamp": "2026-11-06T20:20:44+00:00",
     "importance": 3,
@@ -130,94 +31,6 @@
     "source": "Crop Progress/Production",
     "commodity": "小麦",
     "summary": "11月のWASDEレポートにおいて、大豆が最大の不確実要因（wildcard）として位置付けられている。南米の天候懸念や米国生産見通しの変動が相場を左右する可能性が高い。具体的な作付面積・生産量・在庫数字は記事本体で確認が必要。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
-    "timestamp": "2026-11-06T18:18:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
-    "timestamp": "2026-11-06T18:18:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
-    "timestamp": "2026-11-06T18:18:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - marketscreener.com",
-    "timestamp": "2026-11-06T18:18:27+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが農作物生産データの精度向上を目的としたAIツールの導入を発表。過去のデータエラーを受けて、統計作成プロセスの改善を進める動き。市場の信頼性向上につながる可能性がある一方、即座の価格インパクトは限定的。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
-    "timestamp": "2026-11-06T18:17:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
-    "timestamp": "2026-11-06T18:17:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
-    "timestamp": "2026-11-06T18:17:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
-  },
-  {
-    "title": "USDA to launch AI tool to check crop production data after errors - TradingView",
-    "timestamp": "2026-11-06T18:17:41+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
   },
   {
     "title": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector - Reuters",
@@ -229,28 +42,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナ大統領ゼレンスキーがロシアの石油精製施設への継続的な攻撃を表明。これはウクライナの戦略的な供給遮断作戦であり、ロシアの精製能力低下を意図している。ロシアの石油精製セクターへの継続的な攻撃は、グローバルな石油供給の逼迫と価格上昇圧力をもたらす可能性が高い。"
-  },
-  {
-    "title": "India's gold demand picks up as Diwali coincides with price dip - Reuters",
-    "timestamp": "2026-11-06T14:34:08+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "インドでディワリ（10月下旬～11月上旬）時期に金価格の下落が重なり、金需要が拡大している。ディワリは金製品購入の伝統的な季節であり、価格下落が購買意欲を刺激。インド金需要の季節性とマクロ要因が同時作用している状況。"
-  },
-  {
-    "title": "Corn yields fall short of estimates - The Breeze Courier",
-    "timestamp": "2026-11-06T14:47:55+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE関連の報告でトウモロコシの収量が事前推定を下回った。収量の短落は供給見通しの低下を意味し、価格上昇圧力が生じる。米国トウモロコシは世界供給の重要な部分を占めるため、飼料価格やエタノール関連産業にも波及効果が見込まれる。"
   },
   {
     "title": "USDA to launch AI tool to check crop production data after errors - SRN News",
@@ -319,17 +110,6 @@
     "summary": "インド油務省がカルナタカ州の調査結果（ガソリン中のエタノール過剰混入）を否定。品質基準に関する地域レベルの指摘を中央政府が公式に退けた。インドの燃料供給体制や規制枠組みの信頼性に対する限定的な懸念を示唆。"
   },
   {
-    "title": "Spain to hold back 12% of olive oil production to stabilise prices after bumper harvest - Reuters",
-    "timestamp": "2026-11-06T11:15:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "スペインが豊作を受けてオリーブオイル生産量の12%を備蓄に回し、市場供給を制限して価格安定化を図る。豊作による供給過剰圧力に対する政策的介入であり、オリーブオイルの国際市場価格を支える措置だが、短期的には供給過剰基調は変わらない可能性がある。"
-  },
-  {
     "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch - Bloomberg.com",
     "timestamp": "2026-11-07T08:00:21+00:00",
     "importance": 4,
@@ -396,17 +176,6 @@
     "summary": "OPECの産出量が戦前（ウクライナ侵攻前）水準に近づいているという調査結果が報告された。これは減産政策からの段階的な回復を示唆しており、市場で既に認識されている傾向の継続である。供給正常化は原油価格の上昇圧力を緩和する可能性がある。"
   },
   {
-    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
-    "timestamp": "2026-11-06T16:08:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の定例会合で石油生産目標を据え置くことを予定している。供給政策の継続を示唆するもので、市場は既に織り込んでいると考えられる。大幅な減産や増産発表がない限り、価格への直接的なインパクトは限定的。"
-  },
-  {
     "title": "Corn yields fall short of estimates - The Breeze Courier",
     "timestamp": "2026-11-06T19:34:08+00:00",
     "importance": 3,
@@ -429,14 +198,267 @@
     "summary": "イラクが日量500万バレルの原油生産能力があると主張し、OPEC内での生産枠拡大を要求している。この主張は同国の実績生産量（約450万バレル）を上回り、OPEC減産合意との整合性に疑問を生じさせている。同国の枠拡大要求は、OPEC+の生産調整政策に対する圧力となる可能性がある。"
   },
   {
-    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
-    "timestamp": "2026-11-06T13:53:45+00:00",
+    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
+    "timestamp": "2026-11-09T11:48:45+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
+  },
+  {
+    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
+    "timestamp": "2026-11-09T11:48:45+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
+  },
+  {
+    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
+    "timestamp": "2026-11-09T11:48:45+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
+  },
+  {
+    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
+    "timestamp": "2026-11-09T11:48:45+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
+  },
+  {
+    "title": "Arable Market Report – 09 November 2026 - AHDB",
+    "timestamp": "2026-11-09T16:44:35+00:00",
     "importance": 2,
-    "direction": "中立",
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "2026年11月9日のAHDB穀物市場レポートは、英国および欧州の作付・生育状況に関する定期更新と考えられます。北半球の秋播き穀物（小麦）の冬季越冬準備状況や、春播き穀物の作付計画見直しなどが報告される時期です。具体的な数値情報がレポート本体に記載されている可能性があります。"
+  },
+  {
+    "title": "Arable Market Report – 09 November 2026 - AHDB",
+    "timestamp": "2026-11-09T16:44:35+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月9日のAHDB穀物市場レポートは、英国および欧州の作付・生育状況に関する定期更新と考えられます。北半球の秋播き穀物（小麦）の冬季越冬準備状況や、春播き穀物の作付計画見直しなどが報告される時期です。具体的な数値情報がレポート本体に記載されている可能性があります。"
+  },
+  {
+    "title": "Arable Market Report – 09 November 2026 - AHDB",
+    "timestamp": "2026-11-09T16:44:35+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2026年11月9日のAHDB穀物市場レポートは、英国および欧州の作付・生育状況に関する定期更新と考えられます。北半球の秋播き穀物（小麦）の冬季越冬準備状況や、春播き穀物の作付計画見直しなどが報告される時期です。具体的な数値情報がレポート本体に記載されている可能性があります。"
+  },
+  {
+    "title": "Top 5 Things to Watch: Markets Ponder Additional Surprises From WASDE - DTN Progressive Farmer",
+    "timestamp": "2026-11-08T10:50:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA月間農産物需給見通し（WASDE）の発表を控え、市場が追加的なサプライズの可能性を検討している。穀物相場（トウモロコシ・小麦・大豆）は作付面積、生産量、期末在庫予想の変更に敏感に反応。市場参加者が従来予想から外れた数字の可能性を織り込もうとしている状況。"
+  },
+  {
+    "title": "Top 5 Things to Watch: Markets Ponder Additional Surprises From WASDE - DTN Progressive Farmer",
+    "timestamp": "2026-11-08T10:50:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA月間農産物需給見通し（WASDE）の発表を控え、市場が追加的なサプライズの可能性を検討している。穀物相場（トウモロコシ・小麦・大豆）は作付面積、生産量、期末在庫予想の変更に敏感に反応。市場参加者が従来予想から外れた数字の可能性を織り込もうとしている状況。"
+  },
+  {
+    "title": "Top 5 Things to Watch: Markets Ponder Additional Surprises From WASDE - DTN Progressive Farmer",
+    "timestamp": "2026-11-08T10:50:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA月間農産物需給見通し（WASDE）の発表を控え、市場が追加的なサプライズの可能性を検討している。穀物相場（トウモロコシ・小麦・大豆）は作付面積、生産量、期末在庫予想の変更に敏感に反応。市場参加者が従来予想から外れた数字の可能性を織り込もうとしている状況。"
+  },
+  {
+    "title": "Top 5 Things to Watch: Markets Ponder Additional Surprises From WASDE - DTN Progressive Farmer",
+    "timestamp": "2026-11-08T10:50:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA月間農産物需給見通し（WASDE）の発表を控え、市場が追加的なサプライズの可能性を検討している。穀物相場（トウモロコシ・小麦・大豆）は作付面積、生産量、期末在庫予想の変更に敏感に反応。市場参加者が従来予想から外れた数字の可能性を織り込もうとしている状況。"
+  },
+  {
+    "title": "2027 Forecast Gold, Silver and Copper - GoldSeek",
+    "timestamp": "2026-11-09T13:21:32+00:00",
+    "importance": 3,
+    "direction": "混合",
     "event_type": "commentary",
     "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "GoldSeekが2027年の金・銀・銅価格見通しを発表。3年先の長期予測レポートであり、マクロ環境（金利、ドル動向、需給バランス）の変化を反映した価格シナリオを提示。具体的な予測値は本文未確認だが、複数金属の同時分析により投資ポートフォリオの構成検討に有用な情報源とされている。"
+  },
+  {
+    "title": "2027 Forecast Gold, Silver and Copper - GoldSeek",
+    "timestamp": "2026-11-09T13:21:32+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銀",
+    "summary": "GoldSeekが2027年の金・銀・銅価格見通しを発表。3年先の長期予測レポートであり、マクロ環境（金利、ドル動向、需給バランス）の変化を反映した価格シナリオを提示。具体的な予測値は本文未確認だが、複数金属の同時分析により投資ポートフォリオの構成検討に有用な情報源とされている。"
+  },
+  {
+    "title": "2027 Forecast Gold, Silver and Copper - GoldSeek",
+    "timestamp": "2026-11-09T13:21:32+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "GoldSeekが2027年の金・銀・銅価格見通しを発表。3年先の長期予測レポートであり、マクロ環境（金利、ドル動向、需給バランス）の変化を反映した価格シナリオを提示。具体的な予測値は本文未確認だが、複数金属の同時分析により投資ポートフォリオの構成検討に有用な情報源とされている。"
+  },
+  {
+    "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows - Reuters",
+    "timestamp": "2026-11-09T16:03:44+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
     "source": "OPEC関連",
     "commodity": "原油",
-    "summary": "OPEC+の増産決定について、アナリストのRussell氏の見解を報道。同氏は現在の市場環境では増産の影響は限定的だが、将来的には重要になる可能性があると指摘。具体的な増産規模や時期の数値は記事タイトルのみからは不明。"
+    "summary": "OPECの10月の石油生産量がウクライナ戦争前の水準の90%まで回復したことが、ロイターの調査で示された。これは供給制約が緩和されている傾向を示唆するが、なお戦前の完全な回復には至っていない。市場への直接的なサプライズは限定的。"
+  },
+  {
+    "title": "Iraq approaches OPEC to raise oil output ceiling - IraqiNews",
+    "timestamp": "2026-11-09T12:23:59+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPECに対して石油生産枠の引き上げを要請した。イラクはOPEC内で第2位の産油国であり、生産枠拡大の動きはOPEC協調の亀裂の可能性を示唆。市場は減産維持圧力と増産要求のせめぎあいに注視。"
+  },
+  {
+    "title": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-11-09T17:16:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアのパイプラインが攻撃を受けた一方で、OPEC全体の産出量が戦前水準の90%まで回復している。供給不安（攻撃リスク）と増産の同時進行という相反する圧力が市場に混合シグナルを発している。地政学的リスク要因と産量回復が相殺される可能性。"
+  },
+  {
+    "title": "Saudi East-West oil pipeline hit in Medina region, state media reports - Reuters",
+    "timestamp": "2026-11-09T17:43:45+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの東西油送管がメディナ地域で攻撃を受けたと報じられた。同パイプラインはサウジの重要な石油輸送インフラであり、供給途絶リスクが市場で即座に織り込まれる可能性が高い。地政学的なエネルギー供給ショックとして原油市場への上昇圧力が強い。"
+  },
+  {
+    "title": "Stocks find firmer ground but Nvidia woes pose fresh test, oil falls - Reuters",
+    "timestamp": "2026-11-09T01:46:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "株式市場が下支えされる一方、Nvidia関連の懸念が新たなリスク要因となっている。原油価格は下落基調を示しており、リスクオフムードとテクノロジーセクターの軟調が市場心理を複雑にしている。コモディティ全般には、リスク資産からの資金流出圧力が作用している可能性がある。"
+  },
+  {
+    "title": "Stocks find firmer ground but Nvidia woes pose fresh test, oil falls - Reuters",
+    "timestamp": "2026-11-09T01:46:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "株式市場が下支えされる一方、Nvidia関連の懸念が新たなリスク要因となっている。原油価格は下落基調を示しており、リスクオフムードとテクノロジーセクターの軟調が市場心理を複雑にしている。コモディティ全般には、リスク資産からの資金流出圧力が作用している可能性がある。"
+  },
+  {
+    "title": "Fuel shortages return to Russian regions after Ukrainian refinery attacks - Reuters",
+    "timestamp": "2026-11-09T11:41:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナによるロシア製油所への攻撃により、ロシア地域で燃料不足が再発生している。ロシアは世界有数の石油供給国であり、製油能力の低下は世界的な石油製品供給に直接的な影響を与える。短期的には原油およびガソリン・軽油などの石油製品価格の上昇圧力となる。"
+  },
+  {
+    "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands - Bloomberg.com",
+    "timestamp": "2026-11-09T16:33:56+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イランがホルムズ海峡の通行要求を緩和したとの未確認報道を受け、原油相場が下落。地政学的リスクプレミアムの後退が背景。ただし報道が確認されていない段階であり、今後の展開次第で相場が変動する可能性がある。"
+  },
+  {
+    "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub - Bloomberg.com",
+    "timestamp": "2026-11-09T05:22:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの金融中心地リヤドにあるサウジアラムコビルが攻撃の標的となった。これは同国の重要なインフラへの稀有な攻撃事案であり、中東の地政学的リスク上昇を示唆している。供給途絶への懸念から原油価格に上昇圧力がかかる可能性が高い。"
+  },
+  {
+    "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub - Bloomberg.com",
+    "timestamp": "2026-11-09T05:22:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアの金融中心地リヤドにあるサウジアラムコビルが攻撃の標的となった。これは同国の重要なインフラへの稀有な攻撃事案であり、中東の地政学的リスク上昇を示唆している。供給途絶への懸念から原油価格に上昇圧力がかかる可能性が高い。"
   }
 ]
