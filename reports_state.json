@@ -1,27 +1,5 @@
 [
   {
-    "title": "US Crude Stocks Rise, Gasoline and Distillate Inventories Fall – EIA - EnergyNow.com",
-    "timestamp": "2026-11-05T22:14:53+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間在庫統計にて、米国原油在庫は上昇した一方、ガソリンと留分油（ディスティレート）在庫は低下。原油供給過剰の兆候がある一方で、ガソリン・灯油需要の堅調さが示唆されている。事前予想比との乖離幅が不明なため市場反応度は限定的と予想される。"
-  },
-  {
-    "title": "US Crude Stocks Rise, Gasoline and Distillate Inventories Fall – EIA - EnergyNow.com",
-    "timestamp": "2026-11-05T22:14:53+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA週間在庫統計にて、米国原油在庫は上昇した一方、ガソリンと留分油（ディスティレート）在庫は低下。原油供給過剰の兆候がある一方で、ガソリン・灯油需要の堅調さが示唆されている。事前予想比との乖離幅が不明なため市場反応度は限定的と予想される。"
-  },
-  {
     "title": "As high oil prices curb demand, fresh signs of glut appear - Reuters",
     "timestamp": "2026-11-06T02:04:00+00:00",
     "importance": 3,
@@ -275,17 +253,6 @@
     "summary": "USDAが作物生産データの精度向上を目的にAIツールの導入を発表。過去のデータ誤りの是正とシステム改善の取り組みであり、市場に既に浸透している既報の続報。データ信頼性向上は中期的に好材料だが、短期的な価格変動要因にはならない。"
   },
   {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-11-05T21:50:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、2025年に原油生産量を日量500万バレル超に引き上げる計画をIEAが報告。UAEは既に減産枠の制限から外れており、独立した増産方針で市場への供給圧力が高まることが予想される。既報のOPEC離脱の延長線上にある動きで、市場は織り込み段階。"
-  },
-  {
     "title": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector - Reuters",
     "timestamp": "2026-11-06T18:59:43+00:00",
     "importance": 4,
@@ -462,17 +429,6 @@
     "summary": "OPECの産出量が戦前（ウクライナ侵攻前）水準に近づいているという調査結果が報告された。これは減産政策からの段階的な回復を示唆しており、市場で既に認識されている傾向の継続である。供給正常化は原油価格の上昇圧力を緩和する可能性がある。"
   },
   {
-    "title": "Renewed refinery attacks deplete Russian diesel supply as US deal in focus - Reuters",
-    "timestamp": "2026-11-05T23:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの製油所への攻撃が再発し、ディーゼル供給が減少している。米国との取引動向が注視される中、ロシアの精製能力低下はグローバルディーゼル需給を逼迫させ、国際原油価格の上昇圧力となる。供給ショックの継続性が価格変動の鍵となる。"
-  },
-  {
     "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow.com",
     "timestamp": "2026-11-06T16:08:38+00:00",
     "importance": 2,
@@ -482,5 +438,27 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+は日曜日の定例会合で石油生産目標を据え置くことを予定している。供給政策の継続を示唆するもので、市場は既に織り込んでいると考えられる。大幅な減産や増産発表がない限り、価格への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "Corn yields fall short of estimates - The Breeze Courier",
+    "timestamp": "2026-11-06T19:34:08+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE関連のレポートでトウモロコシの収量が事前予想を下回ったことが報じられている。収量の不足は供給削減を意味し、トウモロコシ価格の上昇圧力となる。具体的な収量数値や前月比の乖離幅については原記事へのアクセスが必要。"
+  },
+  {
+    "title": "Iraq's 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-11-09T00:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクが日量500万バレルの原油生産能力があると主張し、OPEC内での生産枠拡大を要求している。この主張は同国の実績生産量（約450万バレル）を上回り、OPEC減産合意との整合性に疑問を生じさせている。同国の枠拡大要求は、OPEC+の生産調整政策に対する圧力となる可能性がある。"
   }
 ]
