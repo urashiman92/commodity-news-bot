@@ -1,60 +1,5 @@
 [
   {
-    "title": "国内の金価格は安定している一方、世界の金価格は下落傾向にある。 - Vietnam.vn",
-    "timestamp": "2026-11-07T03:14:30+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格は安定しているが、世界的には金価格が下落傾向を示している。国内相場と国際相場の乖離が観察されている状況。"
-  },
-  {
-    "title": "金価格急落も中国人民銀行が24カ月連続で買い増し、10月は25.8トン追加 - BigGo ファイナンス",
-    "timestamp": "2026-11-07T07:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "中国人民銀行が10月に25.8トンの金を追加購入し、24カ月連続の買い増しを継続。金価格が急落する相場環境でも、中央銀行による堅調な需要が支えとなっている。"
-  },
-  {
-    "title": "本日の金価格（11月7日午後）：変動なし - Vietnam.vn",
-    "timestamp": "2026-11-07T07:44:58+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月7日午後の金価格は前日比で変動がなかった。ベトナム国内市場での価格水準を報じるルーチンニュース。"
-  },
-  {
-    "title": "金価格、8月以来最大の週間上昇 ウォール街のアナリストは見通しで意見割れる - BigGo ファイナンス",
-    "timestamp": "2026-11-07T06:25:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が8月以来の最大週間上昇を記録した。ウォール街のアナリスト間で今後の見通しが分かれている。上昇の背景には市場環境の変化があると推察される。"
-  },
-  {
-    "title": "ブレント原油先物は単週で13%暴落し、1バレル100ドルの大台を割り込んだ。ヘッジファンドは米大統領選前にロングポジションの縮小を進めていた。 - Moomoo",
-    "timestamp": "2026-11-07T07:03:20+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が1週間で13%下落し、100ドル/バレルを割り込んだ。ヘッジファンドが米大統領選前のリスク回避姿勢を強め、ロングポジション縮小が売り圧力となった。"
-  },
-  {
     "title": "純金上場信託(現物国内保管型)【1540】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
     "timestamp": "2026-11-07T12:44:49+00:00",
     "importance": 1,
@@ -75,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "2026年11月8日に金価格が底値を打ったと指摘され、持続的な回復の可能性が示唆されている。中国投資家が金購入戦略を変更する動きが報告されている。"
-  },
-  {
-    "title": "債券先物は上昇、原油価格の下落を受けて米長期金利が低下 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-11-07T08:47:20+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の下落が債券先物上昇と米長期金利低下をもたらしたとの解説記事。マクロ経済連関を示す従来型の相場振り返り。既に市場に織り込まれた動きの事後分析。"
   },
   {
     "title": "中東情勢が緊迫化する中、来週の金価格はどうなるだろうか？ - Vietnam.vn",
@@ -1219,5 +1153,137 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "9日の主要国際商品市況の定期報道。具体的な商品別価格動向や変動幅が記事本体に記載されていない。"
+  },
+  {
+    "title": "金相場が下げ幅拡大－FRBウォラー理事が大幅利上げの可能性示唆 - Bloomberg.com",
+    "timestamp": "2026-11-10T10:36:37+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRB（米国連邦準備制度理事会）のウォラー理事が大幅利上げの可能性を示唆したことで、金相場の下げが拡大している。高い金利環境は利回りなし資産である金の相対的価値を低下させるため、金価格には売圧力となる。市場は利上げシナリオを意識した売却反応を示している。"
+  },
+  {
+    "title": "中間選挙後の成績表：金価格が輝き、テック株は圧迫され、原油価格は急落。 - Moomoo",
+    "timestamp": "2026-11-10T07:48:37+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米中間選挙後の市場変動を振り返るニュース。金価格が上昇し、テック株が下落、原油価格は急落した。政治イベント後の資産配分シフトを示唆。"
+  },
+  {
+    "title": "本日（11月10日午後）の金価格：小幅下落。 - Vietnam.vn",
+    "timestamp": "2026-11-10T08:36:25+00:00",
+    "importance": 1,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月10日午後の金価格が小幅下落した。具体的な下落率や下落理由は記事概要には記載されていない。日次の相場振り返りレポートと推測される。"
+  },
+  {
+    "title": "金価格が反転下落、市場心理は一致せず - Laodong.vn",
+    "timestamp": "2026-11-10T08:13:28+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が反転下落し、市場心理が不一致の状態。短期的なテクニカルな調整局面と見られる。ファンダメンタルズの大きな変化ではなく、相場の揺らぎを反映している。"
+  },
+  {
+    "title": "11〜12月の原油導入量、90％以上を確保…国際原油価格も5％超下落 - 亜州日報",
+    "timestamp": "2026-11-10T06:52:01+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "韓国の11～12月原油導入量が90%以上確保される見通し。国際原油価格は5%超下落している。需給緩和と価格低下が同時進行。"
+  },
+  {
+    "title": "レーンECBチーフエコノミスト 現在から12月の理事会までの間に原油価格は大きく変動し得る - - みんかぶ FX/為替",
+    "timestamp": "2026-11-10T08:08:29+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ECB チーフエコノミスト レーン氏が、現在から12月の理事会までの間に原油価格が大きく変動する可能性があると述べた。具体的な理由や要因についての言及は不明。"
+  },
+  {
+    "title": "中東情勢に楽観ムード復活で原油価格は反落し株買い、 今晩は注目すべき米CPIだがあまり反応しないかも - ザイFX！",
+    "timestamp": "2026-11-10T06:27:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の緊張緩和で楽観ムードが広がり、原油価格は反落している。株式市場は買いが入っている状況。本記事は相場観測であり、夜間の米CPI発表への言及も含まれている。"
+  },
+  {
+    "title": "商品市場：原油価格が反転し、急落。 - Vietnam.vn",
+    "timestamp": "2026-11-10T09:30:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が反転して急落した。市場心理の転換を示唆。具体的な下落率や原因については提供されたタイトルからは不明。"
+  },
+  {
+    "title": "ホットストック：ＪＸ金属が急伸、今期純利益を上方修正 ＡＩ需要拡大・銅価格上昇が寄与 - TradingView",
+    "timestamp": "2026-11-10T00:14:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が今期純利益を上方修正。AI需要の拡大と銅価格上昇が業績改善を牽引。銅市場の構造的な需要増が継続することを示唆。"
+  },
+  {
+    "title": "ＪＸ金属---AIサーバー関連需要が好調、通期業績予想を上方修正(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-09T23:26:50+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属がAIサーバー関連需要の好調を背景に通期業績予想を上方修正。銅は高性能サーバーの配線・冷却系等で需要が増加。AI産業の成長トレンドが金属需要を下支え。"
+  },
+  {
+    "title": "住友金属鉱山、今期最終減益に　フィリピンのニッケル事業で減損 - ｄメニューニュース",
+    "timestamp": "2026-11-10T06:12:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "住友金属鉱山がフィリピンのニッケル事業で減損を計上し、今期最終減益となる。ニッケル価格低迷と需要不透明感が背景。銅関連企業の採算悪化を反映。"
+  },
+  {
+    "title": "住友金属鉱山、今期最終減益に フィリピンのニッケル事業で減損 - Infoseek",
+    "timestamp": "2026-11-10T06:12:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "住友金属鉱山がフィリピンのニッケル事業で減損を計上し、今期最終利益が減益となる見通し。ニッケル市場の需給悪化やEV需要鈍化を反映。銅含む非鉄金属全般に弱気シグナル。"
   }
 ]
