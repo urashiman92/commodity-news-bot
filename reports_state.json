@@ -11,28 +11,6 @@
     "summary": "インド油務省がカルナタカ州の調査結果（ガソリン中のエタノール過剰混入）を否定。品質基準に関する地域レベルの指摘を中央政府が公式に退けた。インドの燃料供給体制や規制枠組みの信頼性に対する限定的な懸念を示唆。"
   },
   {
-    "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch - Bloomberg.com",
-    "timestamp": "2026-11-07T08:00:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "大手商品トレーダーのトラフィグーラがアジアで銅の買い増しを実施。中国が供給不足に直面している中での戦略的な買収動きであり、市場の需給ひっ迫を反映している。アジアにおける銅の流動性低下と価格上昇圧力の加速を示唆する重要な信号。"
-  },
-  {
-    "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch - Bloomberg.com",
-    "timestamp": "2026-11-07T08:00:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "大手商品トレーダーのトラフィグーラがアジアで銅の買い増しを実施。中国が供給不足に直面している中での戦略的な買収動きであり、市場の需給ひっ迫を反映している。アジアにおける銅の流動性低下と価格上昇圧力の加速を示唆する重要な信号。"
-  },
-  {
     "title": "Saudi civil defence gives all-clear after alerts in Eastern Province - Reuters",
     "timestamp": "2026-11-08T03:11:00+00:00",
     "importance": 1,
@@ -504,5 +482,170 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国テック企業の好調がアジア株を押し上げる一方、原油価格は下落圧力を受けている。米国経済の回復期待は金利上昇へのシグナルとなる可能性があり、金を含む無利子資産は下落圧力を受ける。原油の下落は需要懸念または供給過剰感を反映している可能性がある。"
+  },
+  {
+    "title": "USDA Grain Report: Falling Corn, Soybean and Wheat Prices Put New Forecasts in Focus - AgroLatam",
+    "timestamp": "2026-11-09T17:41:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDA穀物レポートにおいてトウモロコシ、大豆、小麦の価格が軒並み下落している。新たな生産予測が焦点となっており、供給過剰懸念やドル強化による輸出競争力低下が背景と考えられる。詳細な予測数値は記事概要からは不明だが、複数穀物の同時下落は市場供給状況の改善を示唆している。"
+  },
+  {
+    "title": "USDA Grain Report: Falling Corn, Soybean and Wheat Prices Put New Forecasts in Focus - AgroLatam",
+    "timestamp": "2026-11-09T17:41:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA穀物レポートにおいてトウモロコシ、大豆、小麦の価格が軒並み下落している。新たな生産予測が焦点となっており、供給過剰懸念やドル強化による輸出競争力低下が背景と考えられる。詳細な予測数値は記事概要からは不明だが、複数穀物の同時下落は市場供給状況の改善を示唆している。"
+  },
+  {
+    "title": "USDA Grain Report: Falling Corn, Soybean and Wheat Prices Put New Forecasts in Focus - AgroLatam",
+    "timestamp": "2026-11-09T17:41:30+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDA穀物レポートにおいてトウモロコシ、大豆、小麦の価格が軒並み下落している。新たな生産予測が焦点となっており、供給過剰懸念やドル強化による輸出競争力低下が背景と考えられる。詳細な予測数値は記事概要からは不明だが、複数穀物の同時下落は市場供給状況の改善を示唆している。"
+  },
+  {
+    "title": "USDA, NASA Sign Agreement To Sharpen Crop Estimates With Satellite Data - American Ag Network",
+    "timestamp": "2026-11-09T17:37:31+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAとNASAが衛星データを活用した作物推定精度向上の協力協定に署名。衛星画像解析により穀物作柄予測の精度が高まり、市場の予測不確実性が低減される。既報の技術導入継続の延長線上と見られ、大きなサプライズはない。"
+  },
+  {
+    "title": "USDA, NASA Sign Agreement To Sharpen Crop Estimates With Satellite Data - American Ag Network",
+    "timestamp": "2026-11-09T17:37:31+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAとNASAが衛星データを活用した作物推定精度向上の協力協定に署名。衛星画像解析により穀物作柄予測の精度が高まり、市場の予測不確実性が低減される。既報の技術導入継続の延長線上と見られ、大きなサプライズはない。"
+  },
+  {
+    "title": "USDA, NASA Sign Agreement To Sharpen Crop Estimates With Satellite Data - American Ag Network",
+    "timestamp": "2026-11-09T17:37:31+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAとNASAが衛星データを活用した作物推定精度向上の協力協定に署名。衛星画像解析により穀物作柄予測の精度が高まり、市場の予測不確実性が低減される。既報の技術導入継続の延長線上と見られ、大きなサプライズはない。"
+  },
+  {
+    "title": "USDA, NASA Sign Agreement To Sharpen Crop Estimates With Satellite Data - American Ag Network",
+    "timestamp": "2026-11-09T17:37:31+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAとNASAが衛星データを活用した作物推定精度向上の協力協定に署名。衛星画像解析により穀物作柄予測の精度が高まり、市場の予測不確実性が低減される。既報の技術導入継続の延長線上と見られ、大きなサプライズはない。"
+  },
+  {
+    "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push - Yahoo Finance",
+    "timestamp": "2026-11-09T01:07:01+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクが日量500万バレルの石油生産能力を主張し、OPEC内での生産枠(クォータ)引き上げ交渉を複雑化させている。この主張が事実であれば供給サイドの不確実性が高まり、一方OPECの減産規律が揺らぐリスクとなる。イラクの実際の生産実績と報告量の乖離が市場を混乱させる可能性がある。"
+  },
+  {
+    "title": "The UAE’s Departure from OPEC: A Shift in Strategic Priorities for MENA Economies - International Relations Review",
+    "timestamp": "2026-11-09T23:17:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEのOPEC脱退は中東産油国の戦略的再編を示唆する重要な転機。OPECの結束力低下と産油国の多様化戦略により、原油市場の安定性が低下する可能性。従来の減産合意の実効性に疑問が生じ、価格変動性の増加が見込まれる。"
+  },
+  {
+    "title": "The UAE’s Departure from OPEC: A Shift in Strategic Priorities for MENA Economies - International Relations Review",
+    "timestamp": "2026-11-09T23:17:51+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEのOPEC脱退は中東産油国の戦略的再編を示唆する重要な転機。OPECの結束力低下と産油国の多様化戦略により、原油市場の安定性が低下する可能性。従来の減産合意の実効性に疑問が生じ、価格変動性の増加が見込まれる。"
+  },
+  {
+    "title": "Asian stocks climb as oil prices slide ahead of US CPI - Reuters",
+    "timestamp": "2026-11-10T02:23:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国CPI発表を控えてアジア株が上昇、原油価格が下落している。金利見通しの不確実性を背景に、リスク資産とコモディティの方向感が分かれている。原油下落はドル強含み・インフレ期待の後退を反映、金はFRB政策方向の見極めが焦点。"
+  },
+  {
+    "title": "Asian stocks climb as oil prices slide ahead of US CPI - Reuters",
+    "timestamp": "2026-11-10T02:23:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国CPI発表を控えてアジア株が上昇、原油価格が下落している。金利見通しの不確実性を背景に、リスク資産とコモディティの方向感が分かれている。原油下落はドル強含み・インフレ期待の後退を反映、金はFRB政策方向の見極めが焦点。"
+  },
+  {
+    "title": "Asian stocks climb as oil prices slide ahead of US CPI - Reuters",
+    "timestamp": "2026-11-10T02:23:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国CPI発表を控えてアジア株が上昇、原油価格が下落している。金利見通しの不確実性を背景に、リスク資産とコモディティの方向感が分かれている。原油下落はドル強含み・インフレ期待の後退を反映、金はFRB政策方向の見極めが焦点。"
+  },
+  {
+    "title": "Saudi Oil Tanker Firm Crossing Hormuz With US Coordination - Bloomberg.com",
+    "timestamp": "2026-11-10T06:35:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアのタンカー企業がホルムズ海峡通過を米国との調整下で実施。地政学的緊張の中での海上輸送路確保は、原油供給の安定性に対する市場懸念を緩和する材料。米国とサウジの協調体制が示唆される。"
+  },
+  {
+    "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands - Bloomberg.com",
+    "timestamp": "2026-11-09T20:16:01+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "イランがホルムズ海峡に関する要求を緩和したとの未確認報道により、原油価格が下落した。同報道は公式には確認されていないが、地政学的緊張の緩和を示唆する内容。供給リスク低下の見方から売り圧力が働いた。"
   }
 ]
