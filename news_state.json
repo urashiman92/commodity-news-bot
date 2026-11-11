@@ -1,49 +1,5 @@
 [
   {
-    "title": "週間経済ニュース：金と原油価格が急激に変動。金融市場は大きな圧力に直面。 - Vietnam.vn",
-    "timestamp": "2026-11-08T12:10:40+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "金と原油価格が急激に変動し、金融市場が圧力に直面しているとの報道。ベトナムメディアによる週間経済振り返り記事であり、具体的な価格変動幅や要因は不明。"
-  },
-  {
-    "title": "金価格は急騰したが、投資家は依然として数百万ドンの損失を被った。 - Vietnam.vn",
-    "timestamp": "2026-11-08T15:17:52+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金投資家が、金価格の上昇にもかかわらず数百万ドンの損失を被ったというローカルニュース。タイミングのずれやレバレッジ取引の損失の可能性。"
-  },
-  {
-    "title": "2026年11月9日現在、金価格は、実物資産の時代が近づくにつれ、米国経済の「健全性」を示す兆候を待っている。 - Vietnam.vn",
-    "timestamp": "2026-11-08T15:47:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は実物資産時代の到来を背景に、米国経済の健全性の兆候を待機している状況。金はリスク資産としてのドル信認低下やインフレヘッジの需要が高まる環境を反映。米国経済指標の悪化が金買い圧力となる可能性。"
-  },
-  {
-    "title": "もみ合いか、原油相場の行方注目 - Moomoo",
-    "timestamp": "2026-11-08T13:51:53+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場が方向感を失い、もみ合い相場となっている状況を報道。現在の需給バランスと地政学的要因の均衡により、上値・下値が限定されている。今後の重要指標や地政学イベントへの注視が必要。"
-  },
-  {
     "title": "今日の金価格（11月9日）：新たな試練に直面。 - Vietnam.vn",
     "timestamp": "2026-11-08T22:13:25+00:00",
     "importance": 2,
@@ -1461,5 +1417,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "ベトナム株式指数（MXV指数）の継続的な下落に伴い、銅やカカオなど商品価格も下げている。リスク資産全般の軟化を反映した市場動向。"
+  },
+  {
+    "title": "金鉱株が上昇、インフレ懸念による下落から金相場が反発 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-11T13:26:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インフレ懸念による金相場の下落から反発が起こり、連動する金鉱株が上昇。金価格の回復が鉱山企業の収益性向上につながる典型的な市場連動。"
+  },
+  {
+    "title": "NY金先物相場、上値重い 4044ドル付近で推移 - TradingView",
+    "timestamp": "2026-11-11T14:08:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が4044ドル付近で推移している状況報告。上値が重いとの指摘で、相場が一定範囲内の値動きにとどまっていることを示唆。特定のファンダメンタルズ変化を示すものではない。"
+  },
+  {
+    "title": "SJCの金価格は大きな圧力にさらされています。専門家はどのような予測を立てているのでしょうか？ - Vietnam.vn",
+    "timestamp": "2026-11-11T13:04:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのSJC金価格が下降圧力に直面している。専門家による価格予測が報道されている。具体的な下落要因や専門家の見通しの詳細は記事本文が必要。"
+  },
+  {
+    "title": "原油価格が反発、ブレント93ドル近辺－イラン戦争巡る材料見極め - Bloomberg.com",
+    "timestamp": "2026-11-11T15:22:53+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油がバレル93ドル近辺で反発。イラン関連の地政学リスクについて市場が材料を見極めている段階。既知のリスク要因の相場への織り込み局面と判断される。"
+  },
+  {
+    "title": "【速報】NY原油先物続伸、88.74ドル｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-11T15:54:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が88.74ドルまで続伸した速報。具体的な材料や背景が不明。定期的な市場動向の報道と考えられる。"
+  },
+  {
+    "title": "【速報】NY原油先物続伸、88.74ドル(フィスコ) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-11T15:53:58+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が88.74ドルで続伸。速報レベルの値動き情報だが、具体的な要因が記事から不明。単なる相場継続の報告。"
+  },
+  {
+    "title": "中国の供給逼迫とAI需要で銅先物は6.30ドルに向け反発 - ニュースと統計 - IndexBox",
+    "timestamp": "2026-11-11T12:20:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "中国の供給逼迫とAI関連需要が銅価格を押し上げている。銅先物は6.30ドル（おそらくポンド当たり）への反発が予想されている。供給制約とテクノロジー需要が相場の下支え要因となっている。"
   }
 ]
