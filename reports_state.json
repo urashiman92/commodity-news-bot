@@ -1,27 +1,5 @@
 [
   {
-    "title": "Saudi civil defence gives all-clear after alerts in Eastern Province - Reuters",
-    "timestamp": "2026-11-08T03:11:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビア東部州でのアラート発令後、民間防衛局が安全宣言を発表した。地政学的緊張を示す速報だが、実被害なしのため価格へのインパクトは限定的。中東の石油施設に対する直接的な脅威がないことが確認された。"
-  },
-  {
-    "title": "Saudi civil defence gives all-clear after alerts in Eastern Province - Reuters",
-    "timestamp": "2026-11-08T03:11:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビア東部州でのアラート発令後、民間防衛局が安全宣言を発表した。地政学的緊張を示す速報だが、実被害なしのため価格へのインパクトは限定的。中東の石油施設に対する直接的な脅威がないことが確認された。"
-  },
-  {
     "title": "Iraq's 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-11-09T00:00:00+00:00",
     "importance": 3,
@@ -1098,5 +1076,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "米国が2027年のガソリンおよびディーゼル価格の見通しを引き上げた。供給不確実性やドル相場、地政学的リスクなどの要因が、向こう3年の石油製品価格の上昇圧力を示唆している。EIA等による定期見通し更新の可能性が高い。"
+  },
+  {
+    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biomass Magazine",
+    "timestamp": "2026-11-11T00:37:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA11月WASDEレポートで2025-26年度の大豆油バイオ燃料用途の使用量推定が引き上げられた。バイオディーゼル需要の拡大予想が反映されており、大豆油相場の上昇要因となる。バイオ燃料政策の継続強化を示唆する指標。"
+  },
+  {
+    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biomass Magazine",
+    "timestamp": "2026-11-11T00:37:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "原油",
+    "summary": "USDA11月WASDEレポートで2025-26年度の大豆油バイオ燃料用途の使用量推定が引き上げられた。バイオディーゼル需要の拡大予想が反映されており、大豆油相場の上昇要因となる。バイオ燃料政策の継続強化を示唆する指標。"
+  },
+  {
+    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biomass Magazine",
+    "timestamp": "2026-11-11T00:37:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDA11月WASDEレポートで2025-26年度の大豆油バイオ燃料用途の使用量推定が引き上げられた。バイオディーゼル需要の拡大予想が反映されており、大豆油相場の上昇要因となる。バイオ燃料政策の継続強化を示唆する指標。"
+  },
+  {
+    "title": "USDA Trims Corn Yield, Stocks in November WASDE - Dakota News Network",
+    "timestamp": "2026-11-10T22:37:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの11月WASDE発表でトウモロコシの作付面積当たり収量が引き下げられ、期末在庫も同様に下方修正された。降雨不足や生育期の天候悪化が影響。市場予想範囲内の調整だが、穀物相場に対するネガティブシグナル。"
+  },
+  {
+    "title": "USDA Trims Corn Yield, Stocks in November WASDE - Dakota News Network",
+    "timestamp": "2026-11-10T22:37:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "USDAの11月WASDE発表でトウモロコシの作付面積当たり収量が引き下げられ、期末在庫も同様に下方修正された。降雨不足や生育期の天候悪化が影響。市場予想範囲内の調整だが、穀物相場に対するネガティブシグナル。"
+  },
+  {
+    "title": "USDA Surprises Markets With Cuts to Corn Yield and Soybean Ending Stocks - AgWeb",
+    "timestamp": "2026-11-10T19:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが9月のWASDEレポートでトウモロコシの単収見通しを引き下げ、また大豆の期末在庫も削減を発表した。市場予想を上回る供給削減となり、穀物市場に強気材料となる。"
+  },
+  {
+    "title": "USDA Surprises Markets With Cuts to Corn Yield and Soybean Ending Stocks - AgWeb",
+    "timestamp": "2026-11-10T19:13:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが9月のWASDEレポートでトウモロコシの単収見通しを引き下げ、また大豆の期末在庫も削減を発表した。市場予想を上回る供給削減となり、穀物市場に強気材料となる。"
+  },
+  {
+    "title": "USDA: November WASDE maintains forecast for corn use in ethanol - Ethanol Producer Magazine",
+    "timestamp": "2026-11-11T00:35:20+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが11月のWASDEレポートで、トウモロコシのエタノール利用予測を据え置いた。市場が既に想定していた数字の継続であり、大きなサプライズはなし。エタノール需要の安定性が確認されたが、トウモロコシ価格への即座の変動圧力は限定的。"
+  },
+  {
+    "title": "Farmers corn yields fall short of 2026 USDA estimates - River County News",
+    "timestamp": "2026-11-10T19:08:20+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年度の米国トウモロコシ収量が、USDA事前予想を下回る結果となった。Crop Progress統計の一環として報告されたもので、作柄不良により単位面積あたりの収量が減少。この下方修正は供給見通しの引き下げを意味し、トウモロコシ価格には上昇圧力となる可能性がある。"
   }
 ]
