@@ -1329,5 +1329,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ウクライナのドローン攻撃によりロシアのウスト・ルガ港で火災が発生し、3名が負傷。同港はロシア最大級の石油・石油製品輸出港であり、供給途絶リスクが顕在化。地政学的緊張の激化がエネルギー市場の不安定性を高める。"
+  },
+  {
+    "title": "USDA Forecast Cuts Drive Volatility in Global Grain Markets - Mexico Business News",
+    "timestamp": "2026-11-10T08:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "USDAが穀物生産量の予測を引き下げたことにより、グローバル穀物市場でボラティリティが拡大している。小麦、トウモロコシ、大豆の供給懸念が価格押し上げ要因として機能している。需給タイト化への警戒感が投資家の間で高まっている。"
+  },
+  {
+    "title": "USDA Forecast Cuts Drive Volatility in Global Grain Markets - Mexico Business News",
+    "timestamp": "2026-11-10T08:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが穀物生産量の予測を引き下げたことにより、グローバル穀物市場でボラティリティが拡大している。小麦、トウモロコシ、大豆の供給懸念が価格押し上げ要因として機能している。需給タイト化への警戒感が投資家の間で高まっている。"
+  },
+  {
+    "title": "USDA Forecast Cuts Drive Volatility in Global Grain Markets - Mexico Business News",
+    "timestamp": "2026-11-10T08:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが穀物生産量の予測を引き下げたことにより、グローバル穀物市場でボラティリティが拡大している。小麦、トウモロコシ、大豆の供給懸念が価格押し上げ要因として機能している。需給タイト化への警戒感が投資家の間で高まっている。"
+  },
+  {
+    "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+    "timestamp": "2026-11-11T19:03:07+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "LiteFinanceによる原油価格の短期予測レポート。本日から30日間の価格見通しを提供するコメンタリー記事。具体的な数値や根拠がリンク先の見出しのみからは判断不可。EIA在庫データの発表を受けた市場分析と考えられるが、詳細は原文確認が必要。"
+  },
+  {
+    "title": "Private oil inventory survey shows huge headline build vs. draw expected - investingLive",
+    "timestamp": "2026-11-10T22:27:53+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA民間石油在庫調査で、市場が在庫減少を予想していたのに対し、大幅な在庫積み増しが報告された。ヘッドラインの在庫増加は供給過剰のシグナルとなり、原油価格に下向きの圧力をもたらす。市場予想との大きな乖離が発生。"
+  },
+  {
+    "title": "Seven OPEC+ Producers Keep December Output Unchanged While Crude Opens Lower - TradingView",
+    "timestamp": "2026-11-09T16:15:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "OPEC+の7カ国が12月の原油生産量を前月比据え置きとしたことが報じられた。減産政策の継続を示唆する動きだが、市場の事前予想の範囲内の展開であり、同時に原油価格は下落で寄り付いている。供給面での新たなサプライズはなく、他のマクロ要因が価格を押し下げている可能性が高い。"
+  },
+  {
+    "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
+    "timestamp": "2026-11-11T14:14:31+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の10月原油生産量がイラン戦争前の水準に接近しており、サウジアラビアが主導している。これは減産政策からの段階的な緩和を示唆している。供給量の正常化により、市場の需給バランスが改善する可能性がある。"
+  },
+  {
+    "title": "Oil production nears pre-Iran war levels, OPEC says - Al Jazeera",
+    "timestamp": "2026-11-11T21:13:47+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが原油生産がイラン戦争前の水準に近づいていると発表。供給回復の進展を示唆するコメンタリーで、サプライサイドの緩和を反映。ただし既報の減産調整終了の延長線上であり、新規サプライズは限定的。"
+  },
+  {
+    "title": "Nigeria’s October crude output averages 1.69 million bpd, meeting OPEC quota for sixth month - CNBC Africa",
+    "timestamp": "2026-11-11T19:42:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ナイジェリアの10月の原油生産量は日量169万バレルで、6ヶ月連続でOPEC割当量を達成した。同国の生産は地政学的リスクと設備老朽化の影響で変動が大きいが、今回は安定的な供給継続を示している。OPEC全体の生産管理目標に対する貢献度合いが維持されている。"
   }
 ]
