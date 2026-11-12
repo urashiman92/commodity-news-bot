@@ -1,192 +1,5 @@
 [
   {
-    "title": "月曜日に金価格が上昇し、鉱山企業は年間ガイダンスの達成に向けて順調に進んでいるとの見解を示しました。 - Moomoo",
-    "timestamp": "2026-11-09T17:22:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "月曜日に金価格が上昇した。鉱山企業が年間生産ガイダンスの達成見通しを示した。供給サイド企業の前向きなコメント。"
-  },
-  {
-    "title": "【金価格下落の真相】株と金は両立する？中央銀行の買いと「非伝統的有事」が支える長期上昇シナリオ／プラチナ投資のポイントは【月曜マネーLIVE】 - テレ東BIZ",
-    "timestamp": "2026-11-09T09:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の下落要因を解説しつつ、中央銀行の継続的な買い需要と「非伝統的有事」が長期的な上昇を支える可能性を指摘。株と金の両立シナリオとプラチナ投資のポイントについての専門家解説。"
-  },
-  {
-    "title": "11月9日の金価格：全般的に急騰。 - Vietnam.vn",
-    "timestamp": "2026-11-09T15:36:27+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月9日時点で金価格が全般的に急騰したとのニュース。ただし記事の詳細内容が不明確であり、具体的な上昇率や要因が示されていない。"
-  },
-  {
-    "title": "$金/米ドル (XAUUSD.CFD)$$ヴァンエック・金鉱株ETF (GDX.US)$ 金相場は強気見通し - Moomoo",
-    "timestamp": "2026-11-09T14:36:26+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場について強気見通しを述べたアナリスト解説。具体的な新規材料や指標の発表ではなく、既存の市場観測に基づいたコメンタリー。"
-  },
-  {
-    "title": "【速報】ダウ1200ドル高、NY原油先物一段安85ドル台、米イラン和平合意期待｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-09T19:56:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イランの和平合意期待により地政学リスクが低下し、リスク回避の売りが優勢。NY原油先物が85ドル台へ下落。同時にダウが1200ドル上昇し、リスク・オン相場が形成。"
-  },
-  {
-    "title": "原油相場が下げ拡大、イランがホルムズ海峡巡る要求で譲歩と一部報道 - Bloomberg.com",
-    "timestamp": "2026-11-09T13:11:28+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランがホルムズ海峡巡る要求で譲歩したとの報道により、地政学的リスクプレミアムが剥落。供給途絶懸念の軽減から原油相場は下げを拡大。イラン核合意関連の緊張緩和シグナルとして機能。"
-  },
-  {
-    "title": "NYダウは反発、一時1200ドル高 トランプ氏発言で原油価格が下落 - 日本経済新聞",
-    "timestamp": "2026-11-09T19:51:11+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏の発言により原油価格が下落し、株式市場（NYダウ）は反発して一時1200ドル高となった。原油下落は製造業コストの低下を好感されたものと考えられる。"
-  },
-  {
-    "title": "NY株、一時700ドル超高 原油相場下落で買い優勢 - 47NEWS",
-    "timestamp": "2026-11-09T15:10:41+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY株が一時700ドル超上昇し、買い優勢となった。原油相場の下落が株価上昇の主要因。インフレ圧力緩和への期待から広がりのある買いが入った。"
-  },
-  {
-    "title": "NY株、一時700ドル超高 原油相場下落で買い優勢 - 北海道新聞デジタル",
-    "timestamp": "2026-11-09T15:18:15+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY株が一時700ドル超高となり、これは原油相場の下落を背景とした買い優勢による。原油価格の低下がリスク資産である株式の買いを誘発している状況を報じたもの。"
-  },
-  {
-    "title": "WTI原油、一時1バレル86.48ドルに下落 9月初旬以来の安値、米10年債・30年債利回りも日中最低 - Moomoo",
-    "timestamp": "2026-11-09T13:57:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油が1バレル86.48ドルまで下落し、9月初旬以来の安値を更新。米10年債・30年債利回りも日中最低を記録。金利低下に伴う需要懸念が背景。"
-  },
-  {
-    "title": "ＮＹ株、一時７００ドル超高 原油相場下落で買い優勢 - 琉球新報デジタル",
-    "timestamp": "2026-11-09T15:10:41+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場の下落を受けてNY株式市場が買い優勢で推移し、一時700ドル超の上昇となった。株価と原油の逆相関関係が機能している状況。エネルギーコストの低下が企業収益に好材料として作用している。"
-  },
-  {
-    "title": "〔決算〕JX金属、通期業績予想を上方修正＝銅価格上昇(時事通信) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-09T10:34:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が銅価格上昇を背景に通期業績予想を上方修正。銅相場の強気環境を反映した企業決算の好転。主要銅生産企業の業績改善は銅需要の堅調さを示唆。"
-  },
-  {
-    "title": "JX金属、AI需要と銅価格上昇を受けて通期業績予想を上方修正 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-09T10:07:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属がAI需要の拡大と銅価格上昇を背景に通期業績予想を上方修正した。AI関連投資による銅需要増が企業の増益要因として認識されている。既知のAI需要トレンドと銅相場堅調を反映した予想修正。"
-  },
-  {
-    "title": "JX金属、27年3月期純利益を1600億円へ上方修正 AIサーバー需要と銅価格が追い風 - BigGo ファイナンス",
-    "timestamp": "2026-11-09T10:36:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が2027年3月期の純利益を1600億円に上方修正。AIサーバー需要と銅価格上昇が主要な追い風。企業業績の好調さが銅相場の堅調さを反映している。"
-  },
-  {
-    "title": "銅が1.9%反発、中国の供給逼迫に再び注目 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-11-09T20:11:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅が1.9%反発し、中国の供給逼迫が再度注目されている。供給側の制約が価格を下支えしている状況が続いている。"
-  },
-  {
-    "title": "【JX Advanced Metals FY2026 Q2 決算説明会】通期営業利益を230億円上方修正し2,550億円へ、AIデータセンター需要と銅価格上昇が追い風 - BigGo ファイナンス",
-    "timestamp": "2026-11-09T11:54:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX Advanced Metalsが通期営業利益を230億円上方修正し2,550億円に。AIデータセンター需要の拡大と銅価格上昇が主な要因。銅需要サイドからのポジティブシグナルが確認された。"
-  },
-  {
-    "title": "NY金先物は反発、米イラン外交進展期待に伴うドル安・原油安で買い優勢｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-09T23:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米イラン外交進展期待によりドル安・原油安が進行。金先物は買いに傾く。ドル安環境が金の相対的な価値低下抑制要因となり、原油安は逆相関で金買いを誘発。"
-  },
-  {
     "title": "金価格、原油下落でインフレ懸念が後退し1オンス4,130ドル近辺を維持 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-11-10T01:12:00+00:00",
     "importance": 2,
@@ -218,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "インフレ懸念の緩和を受けて金価格が1%以上上昇した。市場心理の改善が金買い圧力となった動き。既に報じられた相場動向の解説記事と考えられる。"
-  },
-  {
-    "title": "ニューヨーク金先物市場概況･9日 反発 - TradingView",
-    "timestamp": "2026-11-09T20:28:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物が9日に反発した。市場概況の報道であり、詳細な要因は記事から不明。日中の値動きを記録したコメンタリー記事。"
   },
   {
     "title": "世界の金価格は急騰する一方、原油価格は急落した。 - Vietnam.vn",
@@ -273,17 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイラン攻撃を見送る可能性を示唆したことで、中東地政学リスクが後退。供給途絶懸念が軽減され、原油先物が続落している。"
-  },
-  {
-    "title": "WTI原油価格見通し(市況ニュース)：米イラン交渉への期待で原油価格は大幅下落（2026年11月10日） - OANDA証券",
-    "timestamp": "2026-11-09T22:48:15+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン交渉への期待感により、原油価格が大幅に下落した。地政学的リスク軽減による供給懸念の後退が背景。アナリスト解説記事として市場の値動きを振り返っている。"
   },
   {
     "title": "$WTI 原油先物(2612) (CLmain.US)$ 一時的な下落？ - Moomoo",
@@ -1373,5 +1164,181 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "11日の主要国際商品市況の日次相場情報。具体的な価格水準や変動幅の詳細は記事概要では不明。市場の総合的な振り返りと考えられる。"
+  },
+  {
+    "title": "カンザスシティ小麦先物、主要移動平均線をすべて下回り3%超下落 - Traders Union",
+    "timestamp": "2026-11-12T19:37:32+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "小麦",
+    "summary": "カンザスシティ小麦先物が3%超下落し、主要移動平均線（20日・50日・200日線など）をすべて下回った。テクニカル分析に基づく相場解説で、既に発生した値動きの振り返り。"
+  },
+  {
+    "title": "国際金価格が1オンス3,900ドル割れ、ベトナムのSJC金地金も1億4,000万ドン台を喪失 - BigGo ファイナンス",
+    "timestamp": "2026-11-12T21:55:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "国際金価格が1オンス3,900ドルを割り込み、連動してベトナムのSJC金地金も1億4,000万ドン台に下落した。ニュースは価格変動の事後報告的な性質。"
+  },
+  {
+    "title": "NY金先物は大幅続落、追加利上げ観測による長期金利上昇とドル高が重し｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-12T23:00:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの追加利上げ観測により米長期金利が上昇し、ドル高が進行。金は利息を生まない資産として相対的に魅力が低下し、大幅続落。"
+  },
+  {
+    "title": "金相場の底はどこにあるのか。世界黄金協会：底入れの3条件のうち2つは満たされたが、投機的な持ち高の解消仍需 - Moomoo",
+    "timestamp": "2026-11-12T17:16:10+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界黄金協会が金相場の底入れ条件を分析。3条件のうち2つは満たされたが、投機的な持ち高の解消がまだ必要との見解。底値がどこにあるかは依然不透明。"
+  },
+  {
+    "title": "本日2026年11月13日の金価格は、売り浴びせと清算の波による下落圧力の高まりを受けて、3,800ドルに向かって急落した。 - Vietnam.vn",
+    "timestamp": "2026-11-12T16:14:58+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3,800ドル水準に向けて急落。売り圧力と清算圧力による技術的な下落局面。既発生の相場動向の解説記事。"
+  },
+  {
+    "title": "インフレ加速＋FRBのタカ派シグナルが重石 金価格が4,000ドル割れ、1週間超ぶり安値 - BigGo ファイナンス",
+    "timestamp": "2026-11-12T07:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "インフレ加速とFRBのタカ派姿勢が重石となり、金価格が4,000ドルを割り1週間超ぶりの安値を更新。実質金利上昇が金の利回り魅力を減少させている。"
+  },
+  {
+    "title": "金価格、年初来安値を更新：FRBの利上げ観測が高まり、米国株も同時に下落 - Moomoo",
+    "timestamp": "2026-11-12T16:55:54+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの利上げ観測の高まりに伴い、金価格が年初来安値を更新した。高金利環境は金利を生まない金資産の相対的な魅力低下につながる。米国株も同時に下落しており、リスク資産全般が売圧を受けている。"
+  },
+  {
+    "title": "金価格の最新情報、2026年11月13日午前：SJC、9999金リング、DOJI BTMC、PNJ、Phu Quy。 - Vietnam.vn",
+    "timestamp": "2026-11-12T22:09:42+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナム国内の金小売業者（SJC、DOJI、PNJ等）による2026年11月13日午前の金価格相場情報。地域限定の価格表示で、グローバル市場への直接的な影響はない。"
+  },
+  {
+    "title": "金相場の強気相場は本当に地政学リスクが要因なのか、それとも金利を巡るより大きな取引なのか？ - Moomoo",
+    "timestamp": "2026-11-12T05:46:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の上昇要因を分析する記事。地政学リスクではなく金利低下が主因である可能性を指摘。現在の金の強気相場の背景にある実質要因の検証。"
+  },
+  {
+    "title": "１０月企業物価７・１％上昇 原油価格が波及 - 福井新聞社",
+    "timestamp": "2026-11-12T20:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "10月の日本企業物価が7.1%上昇。原油価格上昇が主な要因として波及している状況。定期発表の企業物価指数で、エネルギー価格の上昇傾向が確認された。"
+  },
+  {
+    "title": "ホルムズ海峡で再びタンカー爆発か 国際原油価格が取引中に急騰 - BigGo ファイナンス",
+    "timestamp": "2026-11-12T14:55:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡でタンカー爆発が発生し、国際原油価格が取引中に急騰した。世界の原油供給の約30%が通過する重要な海峡での供給途絶リスクが顕在化。地政学的リスク再燃により市場が敏感に反応。"
+  },
+  {
+    "title": "トランプ大統領「イランとの合意は不要」と挑発、原油価格が1%超急騰 ナスダック先物は軟調 - BigGo ファイナンス",
+    "timestamp": "2026-11-12T14:05:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ大統領がイランとの核合意不要発言により、地政学リスク懸念が再燃。原油が1%超上昇。イラン制裁強化の可能性で供給懸念が高まる構図。"
+  },
+  {
+    "title": "米国・イラン外交交渉報道を受け、原油価格が下落 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-11T23:48:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国とイラン間の外交交渉報道を受け、原油価格が下落。交渉進展による地政学リスク低下が市場に織り込まれた。イラン核合意復帰の可能性が意識され、供給懸念が軽減。"
+  },
+  {
+    "title": "銅価格が3カ月ぶりの安値を記録、需要と米国の金利動向が注目される - TradingView",
+    "timestamp": "2026-11-12T13:51:23+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が3カ月ぶりの安値を記録。需要減速と米国金利動向が価格下押し要因。マクロ環境の悪化を反映した展開。"
+  },
+  {
+    "title": "神社仏閣の銅板屋根盗難、静岡県内で今年５０件超 昨年の２倍以上 背景に銅価格高騰 - 静岡新聞DIGITAL",
+    "timestamp": "2026-11-12T10:48:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格高騰を背景に、静岡県内で神社仏閣の銅板屋根盗難が今年50件超と昨年の2倍以上に急増。銅のスクラップ需要と高値買取が盗難を誘発。銅価格堅調を示唆する市場の実態を反映。"
+  },
+  {
+    "title": "【全体的に青い…】ナイセン、CEATECに出展してきたってよ編 第45回【#バーチャルYouTuber ナイセン】【#Live2D】プレミア公開 Copper Price (DhHu4tprnp) - Unisba Media",
+    "timestamp": "2026-11-11T23:48:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "バーチャルYouTuberナイセンがCEATECに出展した内容を扱ったYoutube動画。銅価格とは無関係なエンタメ・テック関連の配信。"
   }
 ]
