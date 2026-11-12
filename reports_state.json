@@ -1,49 +1,5 @@
 [
   {
-    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
-    "timestamp": "2026-11-09T11:48:45+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
-  },
-  {
-    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
-    "timestamp": "2026-11-09T11:48:45+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
-  },
-  {
-    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
-    "timestamp": "2026-11-09T11:48:45+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
-  },
-  {
-    "title": "US Agriculture Faces Critical Week as Congress Returns and USDA WASDE Looms - AgroLatam",
-    "timestamp": "2026-11-09T11:48:45+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国農業が重要な1週間を迎える。議会復帰とUSDA WASDE発表が控えており、穀物市場に大きな影響を与える可能性がある。WASDE発表では米国のトウモロコシ、小麦、大豆の作付面積・生産予測が更新され、供給見通しが再評価される見込み。政策動向も価格変動要因となる。"
-  },
-  {
     "title": "Arable Market Report – 09 November 2026 - AHDB",
     "timestamp": "2026-11-09T16:44:35+00:00",
     "importance": 2,
@@ -121,17 +77,6 @@
     "summary": "OPECの10月の石油生産量がウクライナ戦争前の水準の90%まで回復したことが、ロイターの調査で示された。これは供給制約が緩和されている傾向を示唆するが、なお戦前の完全な回復には至っていない。市場への直接的なサプライズは限定的。"
   },
   {
-    "title": "Iraq approaches OPEC to raise oil output ceiling - IraqiNews",
-    "timestamp": "2026-11-09T12:23:59+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イラクがOPECに対して石油生産枠の引き上げを要請した。イラクはOPEC内で第2位の産油国であり、生産枠拡大の動きはOPEC協調の亀裂の可能性を示唆。市場は減産維持圧力と増産要求のせめぎあいに注視。"
-  },
-  {
     "title": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-11-09T17:16:00+00:00",
     "importance": 3,
@@ -154,17 +99,6 @@
     "summary": "サウジアラビアの東西油送管がメディナ地域で攻撃を受けたと報じられた。同パイプラインはサウジの重要な石油輸送インフラであり、供給途絶リスクが市場で即座に織り込まれる可能性が高い。地政学的なエネルギー供給ショックとして原油市場への上昇圧力が強い。"
   },
   {
-    "title": "Fuel shortages return to Russian regions after Ukrainian refinery attacks - Reuters",
-    "timestamp": "2026-11-09T11:41:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナによるロシア製油所への攻撃により、ロシア地域で燃料不足が再発生している。ロシアは世界有数の石油供給国であり、製油能力の低下は世界的な石油製品供給に直接的な影響を与える。短期的には原油およびガソリン・軽油などの石油製品価格の上昇圧力となる。"
-  },
-  {
     "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands - Bloomberg.com",
     "timestamp": "2026-11-09T16:33:56+00:00",
     "importance": 2,
@@ -174,28 +108,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "イランがホルムズ海峡の通行要求を緩和したとの未確認報道を受け、原油相場が下落。地政学的リスクプレミアムの後退が背景。ただし報道が確認されていない段階であり、今後の展開次第で相場が変動する可能性がある。"
-  },
-  {
-    "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub - Bloomberg.com",
-    "timestamp": "2026-11-09T05:22:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの金融中心地リヤドにあるサウジアラムコビルが攻撃の標的となった。これは同国の重要なインフラへの稀有な攻撃事案であり、中東の地政学的リスク上昇を示唆している。供給途絶への懸念から原油価格に上昇圧力がかかる可能性が高い。"
-  },
-  {
-    "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub - Bloomberg.com",
-    "timestamp": "2026-11-09T05:22:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアの金融中心地リヤドにあるサウジアラムコビルが攻撃の標的となった。これは同国の重要なインフラへの稀有な攻撃事案であり、中東の地政学的リスク上昇を示唆している。供給途絶への懸念から原油価格に上昇圧力がかかる可能性が高い。"
   },
   {
     "title": "Crop Progress",
@@ -1417,5 +1329,126 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ブラジルのペトロブラスが追加6つの石油プラットフォームで生産能力を増強する計画を発表。同社は継続的な生産拡大投資を進めており、ブラジルの原油供給能力の段階的増加を示唆している。既報の戦略的投資の延長線上にある内容。"
+  },
+  {
+    "title": "Corn Prices Rise as U.S. Grain Markets Turn Mixed Ahead of USDA WASDE Report - AgroLatam",
+    "timestamp": "2026-11-10T15:33:16+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDA WASDE報告を控え、米国穀物市場が混合相場となる中、トウモロコシ価格が上昇している。市場参加者がレポート発表前のポジション調整を進めており、穀物セクター全体で方向感が定まらない状況。"
+  },
+  {
+    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biodiesel Magazine",
+    "timestamp": "2026-11-11T08:08:34+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAが11月WASDEで2025-26年度の大豆油バイオディーゼル利用見積もりを上方修正。バイオディーゼル生産拡大に伴い大豆油需要が増加する見通し。需要側からの大豆相場への上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "U.S. Grain/Oilseed Review: Futures rise after USDA releases WASDE report - The Western Producer",
+    "timestamp": "2026-11-10T20:15:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA が WASDE レポートを発表し、穀物・油糧種子先物が上昇した。同レポートは米国の穀物生産・需給見通しを定期公表するもので、市場が新たな供給・需要予測を織り込んだ結果の値動きと考えられる。具体的な生産量・在庫修正幅は報道から不明。"
+  },
+  {
+    "title": "U.S. Grain/Oilseed Review: Futures rise after USDA releases WASDE report - The Western Producer",
+    "timestamp": "2026-11-10T20:15:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA が WASDE レポートを発表し、穀物・油糧種子先物が上昇した。同レポートは米国の穀物生産・需給見通しを定期公表するもので、市場が新たな供給・需要予測を織り込んだ結果の値動きと考えられる。具体的な生産量・在庫修正幅は報道から不明。"
+  },
+  {
+    "title": "U.S. Grain/Oilseed Review: Futures rise after USDA releases WASDE report - The Western Producer",
+    "timestamp": "2026-11-10T20:15:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA が WASDE レポートを発表し、穀物・油糧種子先物が上昇した。同レポートは米国の穀物生産・需給見通しを定期公表するもので、市場が新たな供給・需要予測を織り込んだ結果の値動きと考えられる。具体的な生産量・在庫修正幅は報道から不明。"
+  },
+  {
+    "title": "U.S. Grain/Oilseed Review: Futures rise after USDA releases WASDE report - The Western Producer",
+    "timestamp": "2026-11-10T20:15:06+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDA が WASDE レポートを発表し、穀物・油糧種子先物が上昇した。同レポートは米国の穀物生産・需給見通しを定期公表するもので、市場が新たな供給・需要予測を織り込んだ結果の値動きと考えられる。具体的な生産量・在庫修正幅は報道から不明。"
+  },
+  {
+    "title": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-11-12T12:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ナイジェリアがOPEC減産割当を6ヶ月連続で達成。アフリカ最大の産油国による安定供給の継続を示唆し、供給不安の緩和につながる。割当達成は市場予想の範囲内だが、OPEC減産体制の有効性を確認する材料として原油支援材料となる。"
+  },
+  {
+    "title": "ASEAN to launch joint oil product stockpiling scheme as early as 2027, Nikkei reports - Reuters",
+    "timestamp": "2026-11-12T04:46:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ASEANが2027年にも共同石油製品備蓄スキームを立ち上げる予定。地域のエネルギーセキュリティ強化とサプライチェーン安定化を目指す取り組み。実現時には域内の原油需要構造と在庫管理に影響を与える可能性がある。"
+  },
+  {
+    "title": "ASEAN to launch joint oil product stockpiling scheme as early as 2027, Nikkei reports - Reuters",
+    "timestamp": "2026-11-12T04:46:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ASEANが2027年にも共同石油製品備蓄スキームを立ち上げる予定。地域のエネルギーセキュリティ強化とサプライチェーン安定化を目指す取り組み。実現時には域内の原油需要構造と在庫管理に影響を与える可能性がある。"
+  },
+  {
+    "title": "India Gulf Oil Imports Surpass Russia for First Time in Iran War - Bloomberg.com",
+    "timestamp": "2026-11-12T06:35:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "インドがイラン戦争（実質的には米国制裁下での地政学緊張）の影響下で、初めてロシアを上回り湾岸産油国からの輸入量が最大となった。これはロシアのウクライナ侵攻後の制裁と国際的な原油調達の多角化を示す重要な構造変化。需給バランスの再編成を意味し、原油市場の価格形成メカニズムに影響を与える可能性がある。"
+  },
+  {
+    "title": "Japan Auto Stocks Eye Rebound as Cheaper Oil Brightens Outlook - Bloomberg.com",
+    "timestamp": "2026-11-11T23:50:01+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格の低下が日本自動車株の見通しを改善させるとの解説記事。低油価は自動車メーカーのコスト削減と消費者の購買意欲向上につながり、自動車産業に好材料となる見通し。ただし既に市場で認識されている関連性の範囲内の論評。"
   }
 ]
