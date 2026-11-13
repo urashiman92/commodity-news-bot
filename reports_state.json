@@ -1,126 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-09T21:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASのCrop Progress定期発表。2026年11月9日発表版では、米国の主要穀物（トウモロコシ、小麦、大豆）の秋期収穫進度が報告される予定。具体的な収穫完了率や作況指数については、提供されたデータから判断不可。市場予想と乖離がなければ限定的な値動き。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-09T21:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "USDA NASのCrop Progress定期発表。2026年11月9日発表版では、米国の主要穀物（トウモロコシ、小麦、大豆）の秋期収穫進度が報告される予定。具体的な収穫完了率や作況指数については、提供されたデータから判断不可。市場予想と乖離がなければ限定的な値動き。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-09T21:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASのCrop Progress定期発表。2026年11月9日発表版では、米国の主要穀物（トウモロコシ、小麦、大豆）の秋期収穫進度が報告される予定。具体的な収穫完了率や作況指数については、提供されたデータから判断不可。市場予想と乖離がなければ限定的な値動き。"
-  },
-  {
-    "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-    "timestamp": "2026-11-09T22:13:30+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "LiteFinanceによる原油価格の予測レポート。本日から30日間の価格見通しを提供するもの。ただし、提供されたリンクは予測結果の具体的な数値や方向性を示していないため、詳細な分析が不可能。市場参加者向けの解説コンテンツと考えられる。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 81%, Soybeans 92%, Winter Wheat 89% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-09T21:10:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progressレポートにてトウモロコシ81%、大豆92%、冬小麦89%の成熟進捗が報告された。いずれも高い進捗率であり、北米穀物の豊作シナリオを示唆している。供給増加観測から売り圧力が想定される。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 81%, Soybeans 92%, Winter Wheat 89% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-09T21:10:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progressレポートにてトウモロコシ81%、大豆92%、冬小麦89%の成熟進捗が報告された。いずれも高い進捗率であり、北米穀物の豊作シナリオを示唆している。供給増加観測から売り圧力が想定される。"
-  },
-  {
-    "title": "USDA Crop Progress: Corn 81%, Soybeans 92%, Winter Wheat 89% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-09T21:10:42+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA Crop Progressレポートにてトウモロコシ81%、大豆92%、冬小麦89%の成熟進捗が報告された。いずれも高い進捗率であり、北米穀物の豊作シナリオを示唆している。供給増加観測から売り圧力が想定される。"
-  },
-  {
-    "title": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-10T01:23:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国テック企業の好調がアジア株を押し上げる一方、原油価格は下落圧力を受けている。米国経済の回復期待は金利上昇へのシグナルとなる可能性があり、金を含む無利子資産は下落圧力を受ける。原油の下落は需要懸念または供給過剰感を反映している可能性がある。"
-  },
-  {
-    "title": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-10T01:23:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国テック企業の好調がアジア株を押し上げる一方、原油価格は下落圧力を受けている。米国経済の回復期待は金利上昇へのシグナルとなる可能性があり、金を含む無利子資産は下落圧力を受ける。原油の下落は需要懸念または供給過剰感を反映している可能性がある。"
-  },
-  {
-    "title": "The UAE’s Departure from OPEC: A Shift in Strategic Priorities for MENA Economies - International Relations Review",
-    "timestamp": "2026-11-09T23:17:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEのOPEC脱退は中東産油国の戦略的再編を示唆する重要な転機。OPECの結束力低下と産油国の多様化戦略により、原油市場の安定性が低下する可能性。従来の減産合意の実効性に疑問が生じ、価格変動性の増加が見込まれる。"
-  },
-  {
-    "title": "The UAE’s Departure from OPEC: A Shift in Strategic Priorities for MENA Economies - International Relations Review",
-    "timestamp": "2026-11-09T23:17:51+00:00",
-    "importance": 4,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEのOPEC脱退は中東産油国の戦略的再編を示唆する重要な転機。OPECの結束力低下と産油国の多様化戦略により、原油市場の安定性が低下する可能性。従来の減産合意の実効性に疑問が生じ、価格変動性の増加が見込まれる。"
-  },
-  {
     "title": "Asian stocks climb as oil prices slide ahead of US CPI - Reuters",
     "timestamp": "2026-11-10T02:23:00+00:00",
     "importance": 3,
@@ -1296,5 +1175,60 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア最大級のシベリア石油精製所への攻撃を実施したと発表。ロシアの石油精製能力に直接的な打撃を与える可能性が高く、欧州向け石油製品の供給逼迫懸念が浮上。地政学的リスク要因として原油市場に上昇圧力をもたらす。"
+  },
+  {
+    "title": "November WASDE Surprise: Tighter Corn and Soybean Yields, Stocks Than Expected - Successful Farming",
+    "timestamp": "2026-11-10T17:19:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "11月WASDE発表でトウモロコシと大豆の収量が市場予想を下回り、期末在庫も予想以上にタイト化した。供給逼迫懸念が強まり、両穀物の価格上昇圧力が大きくなっている。予想外の引き締まった需給環境が確認された。"
+  },
+  {
+    "title": "November WASDE Surprise: Tighter Corn and Soybean Yields, Stocks Than Expected - Successful Farming",
+    "timestamp": "2026-11-10T17:19:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "11月WASDE発表でトウモロコシと大豆の収量が市場予想を下回り、期末在庫も予想以上にタイト化した。供給逼迫懸念が強まり、両穀物の価格上昇圧力が大きくなっている。予想外の引き締まった需給環境が確認された。"
+  },
+  {
+    "title": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline - Reuters",
+    "timestamp": "2026-11-12T20:18:21+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンの親イラン勢力フーシ派がサウジアラビアの東西石油パイプラインのポンプ施設を攻撃したと表明。同パイプラインは日量500万バレル以上の供給能力を持つ重要インフラであり、攻撃成功時には中東産油国の供給能力が大幅に低下する可能性がある。地政学的リスク顕在化により原油価格の上昇圧力が強まる。"
+  },
+  {
+    "title": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-13T01:21:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株式市場がNvidiaと原油動向を注視して慎重な寄付を迎える見通し。Nvidiaなどテック企業の動向がリスク選好度に影響し、原油相場も需要見通しを左右する重要な指標として監視される。具体的な供給数値や価格目標は記事本文を確認する必要がある。"
+  },
+  {
+    "title": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-13T01:21:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株式市場がNvidiaと原油動向を注視して慎重な寄付を迎える見通し。Nvidiaなどテック企業の動向がリスク選好度に影響し、原油相場も需要見通しを左右する重要な指標として監視される。具体的な供給数値や価格目標は記事本文を確認する必要がある。"
   }
 ]
