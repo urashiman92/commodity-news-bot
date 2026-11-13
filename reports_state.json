@@ -1,49 +1,5 @@
 [
   {
-    "title": "Asian stocks climb as oil prices slide ahead of US CPI - Reuters",
-    "timestamp": "2026-11-10T02:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国CPI発表を控えてアジア株が上昇、原油価格が下落している。金利見通しの不確実性を背景に、リスク資産とコモディティの方向感が分かれている。原油下落はドル強含み・インフレ期待の後退を反映、金はFRB政策方向の見極めが焦点。"
-  },
-  {
-    "title": "Asian stocks climb as oil prices slide ahead of US CPI - Reuters",
-    "timestamp": "2026-11-10T02:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国CPI発表を控えてアジア株が上昇、原油価格が下落している。金利見通しの不確実性を背景に、リスク資産とコモディティの方向感が分かれている。原油下落はドル強含み・インフレ期待の後退を反映、金はFRB政策方向の見極めが焦点。"
-  },
-  {
-    "title": "Asian stocks climb as oil prices slide ahead of US CPI - Reuters",
-    "timestamp": "2026-11-10T02:23:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国CPI発表を控えてアジア株が上昇、原油価格が下落している。金利見通しの不確実性を背景に、リスク資産とコモディティの方向感が分かれている。原油下落はドル強含み・インフレ期待の後退を反映、金はFRB政策方向の見極めが焦点。"
-  },
-  {
-    "title": "Saudi Oil Tanker Firm Crossing Hormuz With US Coordination - Bloomberg.com",
-    "timestamp": "2026-11-10T06:35:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアのタンカー企業がホルムズ海峡通過を米国との調整下で実施。地政学的緊張の中での海上輸送路確保は、原油供給の安定性に対する市場懸念を緩和する材料。米国とサウジの協調体制が示唆される。"
-  },
-  {
     "title": "Crop Production",
     "timestamp": "2026-11-10T17:00:00+00:00",
     "importance": 1,
@@ -251,28 +207,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "湾岸地域でスーパータンカーが攻撃を受けた事案に関連し、UAEがサウジアラビア産油を売却・輸送している。湾岸での船舶攻撃は供給途絶リスク・輸送コスト増加を意味し、原油価格の上昇圧力となる地政学的リスク要因。中東での緊張激化が原油市場に直結する懸念。"
-  },
-  {
-    "title": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields - Reuters",
-    "timestamp": "2026-11-10T03:31:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国CPI統計が市場予想を上回り、インフレが予想より高かったことが確認された。これを受けてドル相場が上昇し、実質金利が上昇したため、金は2%以上の大幅な下落を記録した。金利上昇は無利子資産である金の相対的な魅力を低下させる主要な下落要因である。"
-  },
-  {
-    "title": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields - Reuters",
-    "timestamp": "2026-11-10T03:31:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国CPI統計が市場予想を上回り、インフレが予想より高かったことが確認された。これを受けてドル相場が上昇し、実質金利が上昇したため、金は2%以上の大幅な下落を記録した。金利上昇は無利子資産である金の相対的な魅力を低下させる主要な下落要因である。"
   },
   {
     "title": "Falling Oil Prices and Bond Yields Offer Investors Some Relief - Bloomberg.com",
@@ -814,39 +748,6 @@
     "summary": "ウクライナのドローン攻撃によりロシアのウスト・ルガ港で火災が発生し、3名が負傷。同港はロシア最大級の石油・石油製品輸出港であり、供給途絶リスクが顕在化。地政学的緊張の激化がエネルギー市場の不安定性を高める。"
   },
   {
-    "title": "USDA Forecast Cuts Drive Volatility in Global Grain Markets - Mexico Business News",
-    "timestamp": "2026-11-10T08:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "USDAが穀物生産量の予測を引き下げたことにより、グローバル穀物市場でボラティリティが拡大している。小麦、トウモロコシ、大豆の供給懸念が価格押し上げ要因として機能している。需給タイト化への警戒感が投資家の間で高まっている。"
-  },
-  {
-    "title": "USDA Forecast Cuts Drive Volatility in Global Grain Markets - Mexico Business News",
-    "timestamp": "2026-11-10T08:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが穀物生産量の予測を引き下げたことにより、グローバル穀物市場でボラティリティが拡大している。小麦、トウモロコシ、大豆の供給懸念が価格押し上げ要因として機能している。需給タイト化への警戒感が投資家の間で高まっている。"
-  },
-  {
-    "title": "USDA Forecast Cuts Drive Volatility in Global Grain Markets - Mexico Business News",
-    "timestamp": "2026-11-10T08:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが穀物生産量の予測を引き下げたことにより、グローバル穀物市場でボラティリティが拡大している。小麦、トウモロコシ、大豆の供給懸念が価格押し上げ要因として機能している。需給タイト化への警戒感が投資家の間で高まっている。"
-  },
-  {
     "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
     "timestamp": "2026-11-11T19:03:07+00:00",
     "importance": 2,
@@ -1230,5 +1131,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "アジア株式市場がNvidiaと原油動向を注視して慎重な寄付を迎える見通し。Nvidiaなどテック企業の動向がリスク選好度に影響し、原油相場も需要見通しを左右する重要な指標として監視される。具体的な供給数値や価格目標は記事本文を確認する必要がある。"
+  },
+  {
+    "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
+    "timestamp": "2026-11-13T06:20:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは原油需要の弱さまたは供給過剰を示唆し、原油価格に下押し圧力をもたらす可能性がある。ただし具体的な在庫数量や前週比の変動幅が示されていないため、サプライズ度の判定が困難。"
+  },
+  {
+    "title": "Copper hits 3-month lows, focus on demand and US rates - Investify",
+    "timestamp": "2026-11-12T12:24:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅が3ヶ月ぶりの安値を更新した。需要見通しの弱さと米国の金利動向が売り圧力となっている。金利上昇環境ではドル高圧力も強まり、ドル建てコモディティである銅の割高感が増す。マクロ環境の悪化懸念が市場心理を圧迫している。"
+  },
+  {
+    "title": "Copper hits 3-month lows, focus on demand and US rates - Investify",
+    "timestamp": "2026-11-12T12:24:36+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅が3ヶ月ぶりの安値を更新した。需要見通しの弱さと米国の金利動向が売り圧力となっている。金利上昇環境ではドル高圧力も強まり、ドル建てコモディティである銅の割高感が増す。マクロ環境の悪化懸念が市場心理を圧迫している。"
+  },
+  {
+    "title": "Copper Hits Three-Month Low on Weak Demand - Sada Elbalad English",
+    "timestamp": "2026-11-13T05:33:49+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅が3ヶ月ぶりの安値を付け、需要の弱さが主因となっている。世界経済の成長鈍化懸念と建設・製造業の活動低迷が価格の重しとなっており、投資家はリスク資産からの退避を継続。銅価格のさらなる下押し圧力が懸念される。"
+  },
+  {
+    "title": "Copper Hits Three-Month Low on Weak Demand - Sada Elbalad English",
+    "timestamp": "2026-11-13T05:33:49+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅が3ヶ月ぶりの安値を付け、需要の弱さが主因となっている。世界経済の成長鈍化懸念と建設・製造業の活動低迷が価格の重しとなっており、投資家はリスク資産からの退避を継続。銅価格のさらなる下押し圧力が懸念される。"
+  },
+  {
+    "title": "Rupee slips as higher oil prices and US yields knock stocks, bonds - Reuters",
+    "timestamp": "2026-11-13T03:12:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国長期金利の上昇とそれに伴う原油価格の高騰がインド・ルピーを下落させ、株式・債券市場に売り圧力をもたらしている。高い金利環境は金などの無利子資産に下落圧力を加える一方、原油価格上昇はコモディティ・インフレ懸念を強化している。ルピー下落はインドの輸入インフレを加速させる可能性がある。"
+  },
+  {
+    "title": "Rupee slips as higher oil prices and US yields knock stocks, bonds - Reuters",
+    "timestamp": "2026-11-13T03:12:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "米国長期金利の上昇とそれに伴う原油価格の高騰がインド・ルピーを下落させ、株式・債券市場に売り圧力をもたらしている。高い金利環境は金などの無利子資産に下落圧力を加える一方、原油価格上昇はコモディティ・インフレ懸念を強化している。ルピー下落はインドの輸入インフレを加速させる可能性がある。"
+  },
+  {
+    "title": "Rupee slips as higher oil prices and US yields knock stocks, bonds - Reuters",
+    "timestamp": "2026-11-13T03:12:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国長期金利の上昇とそれに伴う原油価格の高騰がインド・ルピーを下落させ、株式・債券市場に売り圧力をもたらしている。高い金利環境は金などの無利子資産に下落圧力を加える一方、原油価格上昇はコモディティ・インフレ懸念を強化している。ルピー下落はインドの輸入インフレを加速させる可能性がある。"
+  },
+  {
+    "title": "US handled $12 billion of Venezuela's oil revenues, report says - Reuters",
+    "timestamp": "2026-11-12T20:48:59+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国がベネズエラの石油収益120億ドルを処理・管理していたことが報告された。これはベネズエラの重要な外貨収入源であり、米国の経済制裁下での資金フローの複雑性を示唆している。ベネズエラの石油輸出能力低下と国際市場への供給不確実性が焦点となる。"
   }
 ]
