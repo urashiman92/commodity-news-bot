@@ -1,71 +1,5 @@
 [
   {
-    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biomass Magazine",
-    "timestamp": "2026-11-11T00:37:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA11月WASDEレポートで2025-26年度の大豆油バイオ燃料用途の使用量推定が引き上げられた。バイオディーゼル需要の拡大予想が反映されており、大豆油相場の上昇要因となる。バイオ燃料政策の継続強化を示唆する指標。"
-  },
-  {
-    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biomass Magazine",
-    "timestamp": "2026-11-11T00:37:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "原油",
-    "summary": "USDA11月WASDEレポートで2025-26年度の大豆油バイオ燃料用途の使用量推定が引き上げられた。バイオディーゼル需要の拡大予想が反映されており、大豆油相場の上昇要因となる。バイオ燃料政策の継続強化を示唆する指標。"
-  },
-  {
-    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biomass Magazine",
-    "timestamp": "2026-11-11T00:37:52+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDA11月WASDEレポートで2025-26年度の大豆油バイオ燃料用途の使用量推定が引き上げられた。バイオディーゼル需要の拡大予想が反映されており、大豆油相場の上昇要因となる。バイオ燃料政策の継続強化を示唆する指標。"
-  },
-  {
-    "title": "USDA: November WASDE maintains forecast for corn use in ethanol - Ethanol Producer Magazine",
-    "timestamp": "2026-11-11T00:35:20+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが11月のWASDEレポートで、トウモロコシのエタノール利用予測を据え置いた。市場が既に想定していた数字の継続であり、大きなサプライズはなし。エタノール需要の安定性が確認されたが、トウモロコシ価格への即座の変動圧力は限定的。"
-  },
-  {
-    "title": "A Bullish Surprise: USDA’s WASDE Report Sparks Massive Corn and Soybean Rally - Hoosier Ag Today",
-    "timestamp": "2026-11-11T03:21:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDA WASDE報告書が市場予想を大幅に上回る内容をもたらし、トウモロコシと大豆の急騰を引き起こした。供給減少または需要増加の大きなサプライズが、両穀物の価格急伸につながった。農業コモディティ市場に大きなインパクトをもたらす重要な発表となった。"
-  },
-  {
-    "title": "A Bullish Surprise: USDA’s WASDE Report Sparks Massive Corn and Soybean Rally - Hoosier Ag Today",
-    "timestamp": "2026-11-11T03:21:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDA WASDE報告書が市場予想を大幅に上回る内容をもたらし、トウモロコシと大豆の急騰を引き起こした。供給減少または需要増加の大きなサプライズが、両穀物の価格急伸につながった。農業コモディティ市場に大きなインパクトをもたらす重要な発表となった。"
-  },
-  {
     "title": "November WASDE Trims Corn Yield: How Much Can Yield Still Change by January? - Oklahoma Farm Report",
     "timestamp": "2026-11-11T14:09:05+00:00",
     "importance": 3,
@@ -746,5 +680,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナが11月初旬以降、ロシアの石油精製施設に対する9番目の攻撃を実施。ロシアの精製能力喪失は供給制約を招き、原油価格の上昇圧力となる。ウクライナによる継続的な精製施設攻撃は、ロシア産原油の国際市場への供給削減をもたらす。"
+  },
+  {
+    "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
+    "timestamp": "2026-11-13T22:39:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "メキシコのLos Reyesプロジェクトにおいて、銅の酸化鉱体の坑井結果が報告された。探鉱段階での好調なコア分析は銅供給ポテンシャルを示唆するが、商業化までには数年を要する見通し。短期的な銅市場供給への直接影響は限定的。"
   }
 ]
