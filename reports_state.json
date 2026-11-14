@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil production nears pre-Iran war levels, OPEC says - Al Jazeera",
-    "timestamp": "2026-11-11T21:13:47+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが原油生産がイラン戦争前の水準に近づいていると発表。供給回復の進展を示唆するコメンタリーで、サプライサイドの緩和を反映。ただし既報の減産調整終了の延長線上であり、新規サプライズは限定的。"
-  },
-  {
-    "title": "Nigeria’s October crude output averages 1.69 million bpd, meeting OPEC quota for sixth month - CNBC Africa",
-    "timestamp": "2026-11-11T19:42:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ナイジェリアの10月の原油生産量は日量169万バレルで、6ヶ月連続でOPEC割当量を達成した。同国の生産は地政学的リスクと設備老朽化の影響で変動が大きいが、今回は安定的な供給継続を示している。OPEC全体の生産管理目標に対する貢献度合いが維持されている。"
-  },
-  {
     "title": "USDA lowers U.S. corn production forecast, raises soybean outlook - High Plains Journal",
     "timestamp": "2026-11-11T23:04:10+00:00",
     "importance": 3,
@@ -152,17 +130,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "11月6日のEIA暖房油在庫統計で、在庫が335万バレル増加した。前週は203万バレルの減少だったため、方向性が反転した。暖房シーズン開始に伴う需要増加と供給のバランスが変化していることを示唆している。"
-  },
-  {
-    "title": "US Crude Stocks Climb to Near 1-Year High as Exports and Imports Fall, EIA Says - EnergyNow.com",
-    "timestamp": "2026-11-11T20:21:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国原油在庫が1年近い高水準まで上昇した。輸出と輸入の双方が減少する中での在庫積増は、需要の弱さと供給調整の不均衡を示唆。在庫増加は原油価格の上値を抑制する要因となる。"
   },
   {
     "title": "What’s next for OPEC+ oil quotas as Saudi Arabia ramps up output? - Al-Monitor",
@@ -407,28 +374,6 @@
     "summary": "IEAの発表によれば、ロシアの石油収入が過去5ヶ月間で最高水準に達した。原油価格の上昇が主要因。ロシアは制裁下でも輸出を継続しており、原油相場の強さが直結している。"
   },
   {
-    "title": "Stocks Slide on Nvidia Troubles, Oil Edges Lower: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-11T22:08:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "Nvidiaのトラブルに伴うテック株売却圧力がリスク資産全般に波及し、原油が小幅下落。市場のリスクオフムードがコモディティ需要見通しを圧迫。ただし原油の下げは限定的で、供給構造の根本的な変化には至らず。"
-  },
-  {
-    "title": "Stocks Slide on Nvidia Troubles, Oil Edges Lower: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-11T22:08:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Nvidiaのトラブルに伴うテック株売却圧力がリスク資産全般に波及し、原油が小幅下落。市場のリスクオフムードがコモディティ需要見通しを圧迫。ただし原油の下げは限定的で、供給構造の根本的な変化には至らず。"
-  },
-  {
     "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
     "timestamp": "2026-11-13T23:15:00+00:00",
     "importance": 2,
@@ -504,5 +449,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア・サマラ州の石油ポンプ場への攻撃を発表。ロシアはウクライナ向けの石油供給能力の重要インフラであり、この攻撃はロシアの石油生産・輸出能力に直接的な打撃を与える可能性がある。地政学的リスク顕在化により短期的な供給懸念が市場に織り込まれる。"
+  },
+  {
+    "title": "EIA Cushing Crude Oil Stocks Change (Nov/06) 0.106M (Prev. 0.280M) - Newsquawk",
+    "timestamp": "2026-11-12T17:20:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間統計によるクッシング原油在庫の変化が発表された。11月6日の在庫増加幅は0.106百万バレルで、前週の0.280百万バレルから縮小。在庫増加ペースの鈍化は需要堅調を示唆し、原油相場には若干の下押し圧力となる。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
+    "timestamp": "2026-11-14T14:05:29+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、原油生産が過去最高水準に近づいている。OPEC枠組み外での増産により、市場への供給圧力が大幅に増加。OPEC減産体制の実効性が低下し、原油価格の下押し要因となる可能性が高い。"
   }
 ]
