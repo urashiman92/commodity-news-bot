@@ -1,126 +1,5 @@
 [
   {
-    "title": "米国中間選挙後の金（ゴールド）価格見通し 中国の金買い増加が目立つ 野村證券・髙島雄貴 - 野村證券",
-    "timestamp": "2026-11-11T02:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "野村證券アナリストによる金価格見通し解説。米国中間選挙後の金相場環境について、中国の金買い増加が価格上昇圧力になる可能性を指摘。ファンダメンタルズ面で金相場の支援要因となり得る点が焦点。"
-  },
-  {
-    "title": "金価格、急落後に4,035ドル近辺で安定――12月利上げ観測が強まる - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-11T00:57:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は急落後に4,035ドル付近で落ち着いた。12月のFRB利上げ観測の強まりが金相場の重しになっている。利上げ環境下では金の魅力が相対的に低下する傾向がある。"
-  },
-  {
-    "title": "本日（11月11日）の金価格：世界の金価格は急落し、4,100ドルの水準からさらに遠ざかっています。 - Vietnam.vn",
-    "timestamp": "2026-11-11T02:13:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月11日時点で金価格は急落し、4,100ドル水準から離れている。近期の上値抵抗を下抜けた展開となっている。"
-  },
-  {
-    "title": "物価上昇に備える資産に挙げられる金が、米国物価指標発表後、むしろ下落した。 予想より高い物価上昇率に追加金利引き上げの懸念が高まり、ドルも強気を見せたためだ。昨夜、国際金先物が2%下落したのに続き、1.. - 매일경제",
-    "timestamp": "2026-11-11T02:14:18+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米国物価指標が予想を上回り、FRBの追加利上げ懸念が急速に高まった。ドル強化とともに、インフレヘッジ資産とされる金が逆に2%下落。金利上昇局面では名目金利が上昇するため金の実質利回りが悪化する構造的課題が露呈した。"
-  },
-  {
-    "title": "世界の金価格は4,040ドルを下回った。 - Vietnam.vn",
-    "timestamp": "2026-11-11T01:22:42+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4,040ドルを下回った。市場での価格水準の変動を報じた記事。具体的な下落率や原因について詳細不明。"
-  },
-  {
-    "title": "米国中間選挙後の原油価格見通し WTI原油先物は75～95米ドルのレンジ相場になりやすいと予想 野村證券・髙島雄貴 - 野村證券",
-    "timestamp": "2026-11-11T02:30:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国中間選挙後のWTI原油先物は75～95ドルのレンジ相場予想。野村證券のアナリスト見解。政治的不確実性が減少することで価格は落ち着きやすいと想定。"
-  },
-  {
-    "title": "原油先物、2カ月ぶり安値から反発 船舶攻撃続く - Reuters",
-    "timestamp": "2026-11-11T02:43:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "紅海での船舶攻撃が継続する中、原油先物が2カ月ぶりの安値から反発。地政学的リスクが供給懸念を再燃させている。既知のリスク要因だが、価格下落後の技術的リバウンドと供給不安が混在。"
-  },
-  {
-    "title": "原油先物、2カ月ぶり安値から反発 船舶攻撃続く - ニューズウィーク日本版",
-    "timestamp": "2026-11-11T02:43:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が2カ月ぶりの安値から反発。紅海での船舶攻撃が継続し、海上輸送リスク再評価により下値支持が形成された。供給懸念が価格下支え要因となっている。"
-  },
-  {
-    "title": "原油価格、2カ月ぶり安値から反発――米・イラン和平交渉と在庫動向に注目 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-11T02:15:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が2カ月ぶりの安値から反発。米・イラン和平交渉の進展と米国在庫データが市場の焦点。地政学的リスク軽減と需給バランスの改善を示唆。"
-  },
-  {
-    "title": "原油先物、2カ月ぶり安値から反発 船舶攻撃続く（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-11-11T02:43:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が2カ月ぶり安値から反発。紅海での船舶攻撃が継続し、供給途絶懸念が価格を支えている。地政学的リスクが引き続き相場のサポート要因となっている。"
-  },
-  {
-    "title": "本日11月11日のガソリンと原油価格：ブレント原油は1バレル92ドルまで下落し、新たな価格調整を待っている。 - Vietnam.vn",
-    "timestamp": "2026-11-11T01:39:27+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油が1バレル92ドルまで下落した。市場は新たな価格調整を待機中。供給・需要ファンダメンタルズに基づく通常の値動き。"
-  },
-  {
     "title": "金価格、年初来最安値から5%反発…中央銀行の買いが底値を支え - BigGo ファイナンス",
     "timestamp": "2026-11-11T07:26:00+00:00",
     "importance": 3,
@@ -176,17 +55,6 @@
     "summary": "出光興産が今期業績を上方修正。海外事業の好調と原油価格見通しの変更が要因。企業個別の益上修正であり、市場全体への原油需給インパクトは限定的。"
   },
   {
-    "title": "ガソリン全国平均価格1L＝169円90銭 アメリカ・イラン直接交渉への期待から原油価格下落 補助金額も明日から1L＝36円70銭に縮小へ - TBS NEWS DIG",
-    "timestamp": "2026-11-11T06:00:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国・イラン直接交渉への期待からWTI原油が下落し、国内ガソリン平均価格は169円90銭に低下。政府補助金も36円70銭に縮小される予定。地政学的緊張緩和への市場の織り込みが進んでいる。"
-  },
-  {
     "title": "アジアの原油価格は、2カ月ぶりの安値から回復した。 - Vietnam.vn",
     "timestamp": "2026-11-11T09:23:17+00:00",
     "importance": 2,
@@ -196,28 +64,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "アジアの原油価格が2カ月ぶりの安値から回復した。テクニカルなリバウンドの動きを示唆している。具体的な需給要因や地政学的変化は不明。"
-  },
-  {
-    "title": "原油価格86ドルに下落 米湾岸諸国が対イラン封鎖支持とトランプ氏 - BeInCrypto",
-    "timestamp": "2026-11-11T04:30:49+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が86ドルまで下落した。トランプ氏がイランに対する米湾岸諸国の封鎖支持を表明し、イラン産油の供給制限を促進する方向を示している。地政学的な緊張は存在するが、既報の範囲内の政策コメント。"
-  },
-  {
-    "title": "原油先物、2カ月ぶり安値から反発　船舶攻撃続く - ｄメニューニュース",
-    "timestamp": "2026-11-11T02:43:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が2カ月ぶりの安値圏から反発。紅海での船舶攻撃が継続し、海上輸送リスクが供給懸念を支援。底値での買い戻しと地政学的リスクプレミアムが相場を押し上げている。"
   },
   {
     "title": "MXV指数は引き続き下落し、銅とカカオの価格も下落している。 - Vietnam.vn",
@@ -1395,5 +1241,104 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で穀物（トウモロコシ、小麦、大豆）と金が上昇、一方エネルギー（原油、ガソリン、天然ガス）と工業用金属（銅）が下落。市場内での相対的な強弱が分かれている状況を示す市場レポート。"
+  },
+  {
+    "title": "2026年11月14日午前の金価格：引き続き急落。 - Vietnam.vn",
+    "timestamp": "2026-11-14T05:50:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "2026年11月14日午前の金価格が引き続き急落している。記事はベトナムの金融メディアによる相場動向の報道であり、実ファンダメンタルズ情報を含まない。既に進行中の下落トレンドの継続報告。"
+  },
+  {
+    "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】株価・チャート - Moomoo",
+    "timestamp": "2026-11-14T02:09:12+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】の株価チャート情報。特定の新規イベントや市場材料を伝えるニュースではなく、金融商品の価格情報提示に過ぎない。"
+  },
+  {
+    "title": "金価格は週末にかけてさらに50万ベトナムドン下落した。 - Vietnam.vn",
+    "timestamp": "2026-11-14T05:08:26+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が週末にかけて50万ベトナムドン下落した。地域的な相場動向の報告であり、グローバル金市場全体への重大な影響は限定的。"
+  },
+  {
+    "title": "ウォール街は、金価格が1年ぶりの安値水準にあるにもかかわらず、さらに下落する可能性があると警告している。 - Vietnam.vn",
+    "timestamp": "2026-11-14T05:12:39+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ウォール街アナリストが、現在1年ぶりの安値にある金価格がさらに下落する可能性があると警告。弱気見通しを示唆しており、価格圧力が継続する可能性を示唆。"
+  },
+  {
+    "title": "原油先物、2週連続安へ IEA「供給超過」指摘で相場の軸足移る - BigGo ファイナンス",
+    "timestamp": "2026-11-13T21:56:57+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "IEAが供給超過を指摘し、原油先物が2週連続で下落している。相場の焦点が需給バランスの悪化にシフト。"
+  },
+  {
+    "title": "中東での攻撃にもかかわらず、原油価格は2週連続の下落へ - IndexBox",
+    "timestamp": "2026-11-14T04:50:31+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東での攻撃という地政学的リスク要因が存在するにもかかわらず、原油価格は2週連続で下落している。これは供給懸念よりも需要弱さやドル高が優勢であることを示唆している。"
+  },
+  {
+    "title": "本日の燃料価格（11月14日）：世界の原油価格は反転し、下落。 - Vietnam.vn",
+    "timestamp": "2026-11-14T04:12:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "11月14日の世界原油価格が反転し下落した。市場の定期的な価格レポート。具体的な下落要因や数値は記事概要に記載されていない。"
+  },
+  {
+    "title": "WTI 原油先物(2612)【CLMAIN】株価・チャート - Moomoo",
+    "timestamp": "2026-11-13T21:02:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の価格チャート表示ページ。具体的なニュース内容や価格変動情報が記載されていない。"
+  },
+  {
+    "title": "AI相場の冷え込みとタカ派利上げ論が重石 銅価格は約2年ぶり最長の週間続落へ - BigGo ファイナンス",
+    "timestamp": "2026-11-13T18:15:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が約2年ぶりの最長週間続落となっている。AI相場の冷え込みと米国のタカ派利上げ論が売り圧力となっている。ドル強化と需要減速懸念が同時に作用している。"
   }
 ]
