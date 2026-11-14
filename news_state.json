@@ -1,93 +1,5 @@
 [
   {
-    "title": "金価格、年初来最安値から5%反発…中央銀行の買いが底値を支え - BigGo ファイナンス",
-    "timestamp": "2026-11-11T07:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が年初来最安値から5%反発。中央銀行の継続的な買い需要が下値支援材料となっている。金融引き締め環境の緩和期待が相場を下支え。"
-  },
-  {
-    "title": "金高騰で「売る人」は7割増 ― 買取約29万件のデータで見る、日本人が手放す金の実像 - 繊研新聞",
-    "timestamp": "2026-11-11T08:39:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の高騰に伴い、日本人の金買取申込が前年比70%増加した。約29万件の買取データから、高値圏での売却需要の高まりが確認される。金保有者の利益確定売り圧力が強まっている。"
-  },
-  {
-    "title": "本日（11月11日午後）の金価格：急落 - Vietnam.vn",
-    "timestamp": "2026-11-11T08:59:36+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月11日午後の金価格が急落した。ただし記事は価格下落の事実のみの報道で、具体的な下落要因や背景は不明。"
-  },
-  {
-    "title": "金価格25%下落でも金採掘企業ETFは12%急騰、理由は業績・株主還元 - BigGo ファイナンス",
-    "timestamp": "2026-11-11T07:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が25%下落する中、金採掘企業ETFが12%急騰。採掘企業の好業績と株主還元が株価上昇を主導。現物価格下落時の採掘企業の相対的な強さを示す事例。"
-  },
-  {
-    "title": "出光興産は今期上方修正、海外事業好調や原油価格見通し変更で - 株探",
-    "timestamp": "2026-11-11T07:10:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "出光興産が今期業績を上方修正。海外事業の好調と原油価格見通しの変更が要因。企業個別の益上修正であり、市場全体への原油需給インパクトは限定的。"
-  },
-  {
-    "title": "アジアの原油価格は、2カ月ぶりの安値から回復した。 - Vietnam.vn",
-    "timestamp": "2026-11-11T09:23:17+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "アジアの原油価格が2カ月ぶりの安値から回復した。テクニカルなリバウンドの動きを示唆している。具体的な需給要因や地政学的変化は不明。"
-  },
-  {
-    "title": "MXV指数は引き続き下落し、銅とカカオの価格も下落している。 - Vietnam.vn",
-    "timestamp": "2026-11-11T08:34:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "ベトナム株式指数（MXV指数）の継続的な下落に伴い、銅やカカオなど商品価格も下げている。リスク資産全般の軟化を反映した市場動向。"
-  },
-  {
-    "title": "金鉱株が上昇、インフレ懸念による下落から金相場が反発 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-11T13:26:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インフレ懸念による金相場の下落から反発が起こり、連動する金鉱株が上昇。金価格の回復が鉱山企業の収益性向上につながる典型的な市場連動。"
-  },
-  {
     "title": "NY金先物相場、上値重い 4044ドル付近で推移 - TradingView",
     "timestamp": "2026-11-11T14:08:50+00:00",
     "importance": 2,
@@ -97,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が4044ドル付近で推移している状況報告。上値が重いとの指摘で、相場が一定範囲内の値動きにとどまっていることを示唆。特定のファンダメンタルズ変化を示すものではない。"
-  },
-  {
-    "title": "SJCの金価格は大きな圧力にさらされています。専門家はどのような予測を立てているのでしょうか？ - Vietnam.vn",
-    "timestamp": "2026-11-11T13:04:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのSJC金価格が下降圧力に直面している。専門家による価格予測が報道されている。具体的な下落要因や専門家の見通しの詳細は記事本文が必要。"
   },
   {
     "title": "原油価格が反発、ブレント93ドル近辺－イラン戦争巡る材料見極め - Bloomberg.com",
@@ -141,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "NY原油先物が88.74ドルで続伸。速報レベルの値動き情報だが、具体的な要因が記事から不明。単なる相場継続の報告。"
-  },
-  {
-    "title": "中国の供給逼迫とAI需要で銅先物は6.30ドルに向け反発 - ニュースと統計 - IndexBox",
-    "timestamp": "2026-11-11T12:20:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "中国の供給逼迫とAI関連需要が銅価格を押し上げている。銅先物は6.30ドル（おそらくポンド当たり）への反発が予想されている。供給制約とテクノロジー需要が相場の下支え要因となっている。"
   },
   {
     "title": "船舶輸送協議が停滞、欧州小麦先物が上昇 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1340,5 +1230,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が約2年ぶりの最長週間続落となっている。AI相場の冷え込みと米国のタカ派利上げ論が売り圧力となっている。ドル強化と需要減速懸念が同時に作用している。"
+  },
+  {
+    "title": "ゴールドマン・サックス、2027年末の金価格予測を4,650ドルに引き下げ - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-14T12:08:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが2027年末の金価格見通しを4,650ドルに引き下げた。従来予測からの下方修正であり、中期的な金の上値抵抗を示唆。足元の高値圏から調整圧力が高まる可能性。"
+  },
+  {
+    "title": "国際金価格が週間で4.9％急落、中国国内の金飾品は1グラムあたり4日間で77元下落、20グラムの金ブレスレットは約1万元安く - BigGo ファイナンス",
+    "timestamp": "2026-11-14T07:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "国際金価格が週間で4.9%急落。中国国内の金飾品も連動して値下げ、4日間で1グラムあたり77元低下。20グラムの金ブレスレットは約1万元の価格低下を記録。"
+  },
+  {
+    "title": "金価格が突然急落したのはなぜか？ - Vietnam.vn",
+    "timestamp": "2026-11-14T12:21:49+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落した事象について、ベトナムメディアが原因を解説する記事。具体的な下落要因は記事概要からは不明だが、金投資家にとって価格変動の背景理解は重要。"
+  },
+  {
+    "title": "今日の午後（11月14日）の金価格：世界の金価格と国内の金価格は一致していません。 - Vietnam.vn",
+    "timestamp": "2026-11-14T12:21:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムで11月14日午後の金価格を報じるニュース。世界相場と国内相場の乖離を指摘。市場の価格ギャップに関する観測記事。"
+  },
+  {
+    "title": "NY原油・金相場（13日）－原油が3日ぶりに反落 金は4日ぶりに小反発(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-13T23:30:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY原油相場が3日ぶりに反落、金相場は4日ぶりに小反発。短期的な相場の方向転換を記録したが、大きなニュースイベントや統計発表に基づくものではなく、技術的なポジション調整の可能性が高い。"
+  },
+  {
+    "title": "米国中間選挙後の原油価格見通し WTI原油先物は75～95米ドルのレンジ相場になりやすいと予想 野村證券・髙島雄貴 - 野村證券",
+    "timestamp": "2026-11-14T11:01:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "野村證券のアナリストが米国中間選挙後のWTI原油先物について75～95ドルのレンジ相場を予想。政策や地政学的リスク要因を踏まえた見通しであるが、既に市場で織り込まれている可能性が高い。"
+  },
+  {
+    "title": "アルジェリアの原油価格が急騰し、アラブ産油国グループであるOPECの中で上昇率トップとなった。 - Vietnam.vn",
+    "timestamp": "2026-11-14T09:00:30+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "アルジェリアの原油価格がOPEC内で最も上昇率が高くなった。市場全体の上昇トレンドの中での相対的なパフォーマンス報告。具体的な供給変化や新規材料は不明。"
   }
 ]
