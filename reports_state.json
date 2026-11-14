@@ -1,49 +1,5 @@
 [
   {
-    "title": "November WASDE Trims Corn Yield: How Much Can Yield Still Change by January? - Oklahoma Farm Report",
-    "timestamp": "2026-11-11T14:09:05+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "11月WASDEレポートでトウモロコシの単収（yield）が下方修正された。タイトルの「How Much Can Yield Still Change by January?」という問いは、1月の最終予測まで単収がさらに変わる可能性があることを示唆しており、市場の不確実性が残存している状態。"
-  },
-  {
-    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biodiesel Magazine",
-    "timestamp": "2026-11-11T08:03:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが11月WASDEレポートで2025-26年度の大豆油のバイオディーゼル生産向け使用量を上方修正した。バイオディーゼル需要の増加は大豆油の需給を逼迫させ、大豆総需要にもポジティブに作用する見通し。米国のバイオ燃料政策の継続的な拡大背景。"
-  },
-  {
-    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biodiesel Magazine",
-    "timestamp": "2026-11-11T08:03:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "原油",
-    "summary": "USDAが11月WASDEレポートで2025-26年度の大豆油のバイオディーゼル生産向け使用量を上方修正した。バイオディーゼル需要の増加は大豆油の需給を逼迫させ、大豆総需要にもポジティブに作用する見通し。米国のバイオ燃料政策の継続的な拡大背景。"
-  },
-  {
-    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biodiesel Magazine",
-    "timestamp": "2026-11-11T08:03:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが11月WASDEレポートで2025-26年度の大豆油のバイオディーゼル生産向け使用量を上方修正した。バイオディーゼル需要の増加は大豆油の需給を逼迫させ、大豆総需要にもポジティブに作用する見通し。米国のバイオ燃料政策の継続的な拡大背景。"
-  },
-  {
     "title": "USDA Reports Point to Muted Grain Price Action Amid Robust Global Stocks and Shifting U.S. Crop Numbers - Oklahoma Farm Report",
     "timestamp": "2026-11-11T14:48:29+00:00",
     "importance": 3,
@@ -88,39 +44,6 @@
     "summary": "OPECの原油生産量が戦前水準に近づいており、サウジアラビアの増産が主導している。供給回復が進む中、市場は過度な供給過剰懸念から脱却しつつあるが、需要動向との バランスが価格方向を左右する要因となっている。"
   },
   {
-    "title": "Saudis Tell OPEC Output Surged 26% to Highest Since War Began - Bloomberg.com",
-    "timestamp": "2026-11-11T13:00:06+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアがOPEC加盟国に対し、原油生産量が26%急増し、ウクライナ戦争開始以来の最高水準に達したと報告。これは従来のOPEC減産姿勢から大きく乖離した動きであり、市場が減産継続を想定していたため、予想外の供給増加シグナルは原油価格下押し圧力として機能する。"
-  },
-  {
-    "title": "OPEC crude production rises by nearly 2 million bpd in October - Anadolu Ajansı",
-    "timestamp": "2026-11-11T13:23:21+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの原油生産が10月に約200万バレル/日（bpd）増加したと報告された。この増産は供給側の動きを示す重要なデータポイントだが、市場予想との比較情報がなく、増産要因（サウジアラビアなど主要産油国の増産か、全体的な動きか）の詳細が不明確。原油価格への圧力材料となる可能性がある。"
-  },
-  {
-    "title": "Nigeria’s October crude output averages 1.69 million bpd, meeting OPEC quota for sixth month - CNBC Africa",
-    "timestamp": "2026-11-11T13:42:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ナイジェリアの10月原油生産量は平均169万バレル/日で、OPEC割当量を6ヶ月連続で達成した。この安定した生産維持は市場予想の範囲内であり、既知の情報の継続報告である。"
-  },
-  {
     "title": "Saudi Arabia told OPEC its oil output hit a wartime high in October - Quartz",
     "timestamp": "2026-11-11T14:17:36+00:00",
     "importance": 4,
@@ -130,28 +53,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "サウジアラビアが10月の石油生産量が「戦時中の最高水準」に達したことをOPECに報告。これはイスラエル・ハマス紛争の地政学的緊張下における生産増加を示唆しており、市場が供給不足を懸念していた状況下でのサプライズ。産油国の供給姿勢の転換可能性を示唆。"
-  },
-  {
-    "title": "Drone Attack Sparks Fire at Russia’s Ust-Luga Port, Injures 3 - Bloomberg.com",
-    "timestamp": "2026-11-11T07:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナのドローン攻撃によりロシアのウスト・ルガ港で火災が発生し、3名が負傷。同港はロシア最大級の石油・石油製品輸出港であり、供給途絶リスクが顕在化。地政学的緊張の激化がエネルギー市場の不安定性を高める。"
-  },
-  {
-    "title": "Drone Attack Sparks Fire at Russia’s Ust-Luga Port, Injures 3 - Bloomberg.com",
-    "timestamp": "2026-11-11T07:35:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナのドローン攻撃によりロシアのウスト・ルガ港で火災が発生し、3名が負傷。同港はロシア最大級の石油・石油製品輸出港であり、供給途絶リスクが顕在化。地政学的緊張の激化がエネルギー市場の不安定性を高める。"
   },
   {
     "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
@@ -220,17 +121,6 @@
     "summary": "USDAが月次WASDE予報でトウモロコシ生産見通しを下方修正する一方、大豆見通しは上方修正した。米国穀物供給の相反する動きが示唆され、作柄やテクニカルファクターの変化を反映している。詳細な修正幅は本レポートから不明だが、相場への影響は品目間で相殺される可能性がある。"
   },
   {
-    "title": "OPEC crude production rises by nearly 2 million bpd in October - Anadolu Ajansı",
-    "timestamp": "2026-11-11T13:23:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの10月の原油生産量が約200万バレル/日（2百万bpd）増加した。これはサウジアラビアなど主要加盟国の減産合意からの段階的な緩和またはイラン制裁関連の生産回復を反映している可能性が高い。供給増加は原油価格への下押し圧力を示唆するが、市場ではOPEC減産枠の調整として既に織り込まれている可能性が強い。"
-  },
-  {
     "title": "Brazil's Petrobras to increase production capacity at another six oil platforms - Reuters",
     "timestamp": "2026-11-11T18:48:52+00:00",
     "importance": 3,
@@ -240,17 +130,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ブラジルのペトロブラスが追加6つの石油プラットフォームで生産能力を増強する計画を発表。同社は継続的な生産拡大投資を進めており、ブラジルの原油供給能力の段階的増加を示唆している。既報の戦略的投資の延長線上にある内容。"
-  },
-  {
-    "title": "USDA: November WASDE increases estimate for 2025-’26 soybean oil use in biofuel production - Biodiesel Magazine",
-    "timestamp": "2026-11-11T08:08:34+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが11月WASDEで2025-26年度の大豆油バイオディーゼル利用見積もりを上方修正。バイオディーゼル生産拡大に伴い大豆油需要が増加する見通し。需要側からの大豆相場への上昇圧力となる可能性がある。"
   },
   {
     "title": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month - Crude Oil Prices Today | OilPrice.com",
@@ -691,5 +570,38 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "メキシコのLos Reyesプロジェクトにおいて、銅の酸化鉱体の坑井結果が報告された。探鉱段階での好調なコア分析は銅供給ポテンシャルを示唆するが、商業化までには数年を要する見通し。短期的な銅市場供給への直接影響は限定的。"
+  },
+  {
+    "title": "OPEC crude production rises by nearly 2 million bpd in October - Anadolu Ajansı",
+    "timestamp": "2026-11-12T01:55:32+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECの原油生産が10月に日量200万バレル近く増加したと報告された。これはOPECの減産合意からの段階的な緩和またはメンバー国の生産能力回復を示唆している。供給増加は原油価格への下落圧力となる可能性がある。"
+  },
+  {
+    "title": "Four killed in Ukrainian drone strike on industrial zone in Russia's Volgograd, official says - Reuters",
+    "timestamp": "2026-11-13T08:46:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア・ボルゴグラード州の工業地帯にドローン攻撃を実施し、4人が死亡。ボルゴグラード地域は石油精製・化学産業の重要拠点であり、ロシアのエネルギー・化学インフラへの直接的な脅威となる。地政学的リスクの上昇に伴いコモディティ価格の不安定性が増す可能性。"
+  },
+  {
+    "title": "Four killed in Ukrainian drone strike on industrial zone in Russia's Volgograd, official says - Reuters",
+    "timestamp": "2026-11-13T08:46:51+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナがロシア・ボルゴグラード州の工業地帯にドローン攻撃を実施し、4人が死亡。ボルゴグラード地域は石油精製・化学産業の重要拠点であり、ロシアのエネルギー・化学インフラへの直接的な脅威となる。地政学的リスクの上昇に伴いコモディティ価格の不安定性が増す可能性。"
   }
 ]
