@@ -1,16 +1,5 @@
 [
   {
-    "title": "船舶輸送協議が停滞、欧州小麦先物が上昇 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-11T20:37:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "船舶輸送協議の停滞により、欧州小麦先物が上昇している。海上輸送の遅延・不確実性が供給リスクを高めている。供給チェーンへの懸念が価格を押し上げている。"
-  },
-  {
     "title": "金価格は誰が決めているのか? 知られざる｢金市場｣の仕組み ゴールド投資の特別連載 第3回 - PRESIDENT Online（プレジデントオンライン）",
     "timestamp": "2026-11-12T00:30:00+00:00",
     "importance": 2,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金市場の価格決定メカニズムについて解説する教育的記事。金価格がロンドン貴金属市場やCOMEXなどで形成される仕組みを説明。投資家向けの基礎知識コンテンツ。"
-  },
-  {
-    "title": "金価格、インフレショックにもかかわらず4000ドル台を維持 - BigGo ファイナンス",
-    "timestamp": "2026-11-11T19:05:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が4000ドル台を維持している現状を報じたコメンタリー。インフレショックが発生している環境においても、金が支持水準を保ち続けている。相場の既定路線的な値動きを解説したもの。"
   },
   {
     "title": "NY金先物は続落、米インフレ加速による利上げ観測でドル高が重し｜FX・為替ニュース - ザイFX！",
@@ -44,17 +22,6 @@
     "summary": "米インフレ加速観測により利上げ期待が高まり、ドル高が進行している。ドル高は金の国際価格を押し下げる主要因となり、NY金先物は続落している。金は利上げ環境下では相対的に利回り商品に対する魅力が低下する。"
   },
   {
-    "title": "ニューヨーク金先物市場概況･11日 続落 - TradingView",
-    "timestamp": "2026-11-11T20:28:05+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク金先物市場が11日に続落した。具体的な下落要因や前日比での下げ幅については記事概要では明記されていない。市場動向の観測記事と考えられる。"
-  },
-  {
     "title": "本日（11月12日）の金価格：2営業日連続で下落し、4,000ドルを下回った。 - Vietnam.vn",
     "timestamp": "2026-11-12T00:32:38+00:00",
     "importance": 2,
@@ -66,17 +33,6 @@
     "summary": "11月12日の金価格が2営業日連続で下落し、4,000ドルを下回った。技術的なサポートレベルの割れを示唆する相場展開。現在の金相場は緩やかな調整局面にあると考えられる。"
   },
   {
-    "title": "原油先物1％高、イランが核物質の国外搬出認めず 供給懸念再燃 - Reuters",
-    "timestamp": "2026-11-11T20:59:45+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが核物質の国外搬出を拒否したことで、イラン情勢の緊迫化が懸念される。地政学リスク再燃により、中東からの原油供給途絶シナリオが意識され、原油先物が1％上昇した。"
-  },
-  {
     "title": "WTI原油価格見通し(市況ニュース)：サウジ増産と米・イラン協議停滞で原油は小幅安（2026年11月12日） - OANDA証券",
     "timestamp": "2026-11-11T22:52:30+00:00",
     "importance": 2,
@@ -86,28 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "サウジアラビアの増産と米・イラン核協議の停滞が報道されている。供給増加は需給引き締め要因の軽減、協議停滞は地政学リスク低下をそれぞれ示唆。結果として原油は小幅安と評価されている。"
-  },
-  {
-    "title": "国際原油価格が急落、中国の石油製品小売価格は12日夜に年内6回目の値下げへ 満タン給油で約15元節約 - BigGo ファイナンス",
-    "timestamp": "2026-11-11T22:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "国際原油価格の急落に応じて中国が年内6回目の石油製品小売価格引き下げを実施。満タン給油時の節約額は約15元。需要地域での価格調整が進行中。"
-  },
-  {
-    "title": "原油先物1％高、イランが核物質の国外搬出認めず 供給懸念再燃 - ニューズウィーク日本版",
-    "timestamp": "2026-11-11T20:57:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イランが核物質の国外搬出を認めず、核協議の進展が停滞。中東地政学リスク再燃により、供給途絶懸念が台頭。原油先物は1%上昇で堅調推移。"
   },
   {
     "title": "１１日の主要国際商品市況 - 株探",
@@ -1241,5 +1175,104 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "アルジェリアの原油価格がOPEC内で最も上昇率が高くなった。市場全体の上昇トレンドの中での相対的なパフォーマンス報告。具体的な供給変化や新規材料は不明。"
+  },
+  {
+    "title": "2026年11月15日現在の金価格：金地金、9999金リング、国際金の価格表。 - Vietnam.vn",
+    "timestamp": "2026-11-14T22:45:31+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報サイトによる2026年11月15日時点の金地金・リング・国際金の価格表示。定期的な価格情報提供であり、特定のイベントやサプライズを含まない。"
+  },
+  {
+    "title": "本日2026年11月15日の金価格は最安値を記録し、国内の金価格は急落したが、市場の底値がどこにあるのかは依然として不明である。 - Vietnam.vn",
+    "timestamp": "2026-11-14T15:36:27+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格が最安値を記録し急落している。市場の底値がまだ見えない状況が続いている。既存トレンドの確認的なニュース。"
+  },
+  {
+    "title": "NY金先物：小幅続落、FRB高官のタカ派発言で追加利上げ観測が重し 執筆 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-13T23:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRB高官のタカ派発言により追加利上げ観測が高まった。金先物は小幅続落。米金利上昇への懸念がドルと逆相関にある金を圧迫。"
+  },
+  {
+    "title": "原油価格は供給過剰への懸念から、2週連続で下落した。 - Vietnam.vn",
+    "timestamp": "2026-11-14T05:50:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が2週連続で下落している。供給過剰への懸念が売り圧力となっている。既知の課題について振り返るコメンタリー的な報道。"
+  },
+  {
+    "title": "タンカー攻撃続くなか、原油価格が1カ月で約25％下落 - Traders Union",
+    "timestamp": "2026-11-14T09:39:24+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "タンカー攻撃が継続する中、原油価格は1カ月で約25%下落。地政学的リスク要因が存在する一方で、需要減退やドル高などが売り圧力となっている可能性がある。市場の実需要因が供給リスク懸念を上回っている状況。"
+  },
+  {
+    "title": "韓国のガソリンスタンド価格、26週連続下落も…国際原油急落の割に週間下げ幅1ウォン未満 - BigGo ファイナンス",
+    "timestamp": "2026-11-14T06:25:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "韓国のガソリンスタンド価格が26週連続で下落している。国際原油の急落幅に比べ、週間の下げ幅が1ウォン未満に留まっている。流通段階での価格転嫁の遅れを示唆。"
+  },
+  {
+    "title": "NY原油先物：小幅続伸、湾岸の出荷回復報道で売られる場面も下げ渋り - ｄメニューニュース",
+    "timestamp": "2026-11-13T22:51:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物が小幅続伸。湾岸での出荷回復報道により売られる場面も見られたが、下げ渋る展開。供給回復と需給バランスの相殺で方向性は限定的。"
+  },
+  {
+    "title": "【資源株の決算比較】ＩＮＰＥＸと石油資源開発、原油高でも利益が同じ動きをしない理由 - https://kabu-ir.com/",
+    "timestamp": "2026-11-14T01:00:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "INPEXと石油資源開発の決算比較分析。原油価格上昇でも両社の利益増加率が異なる理由を解説。コスト構造やヘッジ戦略の差異が要因と考えられる。"
+  },
+  {
+    "title": "米コモディティー市場－金、トウモロコシ、小麦、大豆が上昇 原油、ガソリン、天然ガス、銀、銅が下落 - TradingView",
+    "timestamp": "2026-11-13T23:50:23+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で農産物（金、トウモロコシ、小麦、大豆）が上昇する一方、エネルギー・金属（原油、ガス、銀、銅）が下落。市場内の相対的な強弱の振り分けが進行。"
   }
 ]
