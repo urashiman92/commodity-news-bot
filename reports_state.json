@@ -1,27 +1,5 @@
 [
   {
-    "title": "USDA lowers U.S. corn production forecast, raises soybean outlook - High Plains Journal",
-    "timestamp": "2026-11-11T23:04:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが月次WASDE予報でトウモロコシ生産見通しを下方修正する一方、大豆見通しは上方修正した。米国穀物供給の相反する動きが示唆され、作柄やテクニカルファクターの変化を反映している。詳細な修正幅は本レポートから不明だが、相場への影響は品目間で相殺される可能性がある。"
-  },
-  {
-    "title": "USDA lowers U.S. corn production forecast, raises soybean outlook - High Plains Journal",
-    "timestamp": "2026-11-11T23:04:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAが月次WASDE予報でトウモロコシ生産見通しを下方修正する一方、大豆見通しは上方修正した。米国穀物供給の相反する動きが示唆され、作柄やテクニカルファクターの変化を反映している。詳細な修正幅は本レポートから不明だが、相場への影響は品目間で相殺される可能性がある。"
-  },
-  {
     "title": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month - Crude Oil Prices Today | OilPrice.com",
     "timestamp": "2026-11-12T12:30:00+00:00",
     "importance": 3,
@@ -64,17 +42,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "インドがイラン戦争（実質的には米国制裁下での地政学緊張）の影響下で、初めてロシアを上回り湾岸産油国からの輸入量が最大となった。これはロシアのウクライナ侵攻後の制裁と国際的な原油調達の多角化を示す重要な構造変化。需給バランスの再編成を意味し、原油市場の価格形成メカニズムに影響を与える可能性がある。"
-  },
-  {
-    "title": "Japan Auto Stocks Eye Rebound as Cheaper Oil Brightens Outlook - Bloomberg.com",
-    "timestamp": "2026-11-11T23:50:01+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格の低下が日本自動車株の見通しを改善させるとの解説記事。低油価は自動車メーカーのコスト削減と消費者の購買意欲向上につながり、自動車産業に好材料となる見通し。ただし既に市場で認識されている関連性の範囲内の論評。"
   },
   {
     "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
@@ -407,17 +374,6 @@
     "summary": "メキシコのLos Reyesプロジェクトにおいて、銅の酸化鉱体の坑井結果が報告された。探鉱段階での好調なコア分析は銅供給ポテンシャルを示唆するが、商業化までには数年を要する見通し。短期的な銅市場供給への直接影響は限定的。"
   },
   {
-    "title": "OPEC crude production rises by nearly 2 million bpd in October - Anadolu Ajansı",
-    "timestamp": "2026-11-12T01:55:32+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECの原油生産が10月に日量200万バレル近く増加したと報告された。これはOPECの減産合意からの段階的な緩和またはメンバー国の生産能力回復を示唆している。供給増加は原油価格への下落圧力となる可能性がある。"
-  },
-  {
     "title": "Four killed in Ukrainian drone strike on industrial zone in Russia's Volgograd, official says - Reuters",
     "timestamp": "2026-11-13T08:46:51+00:00",
     "importance": 3,
@@ -471,5 +427,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、原油生産が過去最高水準に近づいている。OPEC枠組み外での増産により、市場への供給圧力が大幅に増加。OPEC減産体制の実効性が低下し、原油価格の下押し要因となる可能性が高い。"
+  },
+  {
+    "title": "Saudi Arabia Tells OPEC October Crude Output Rose to 10.563 Million Barrels Per Day: 8 outlets compared - NewsCord",
+    "timestamp": "2026-11-12T17:20:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアが2024年10月の原油生産量を日量1,056万3,000バレルと報告した。OPEC加盟国による定期的な生産報告であり、市場の既存予想の範囲内と判断される。サウジの減産方針との整合性を示す通常の月次レポートである。"
   }
 ]
