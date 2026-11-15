@@ -1,16 +1,5 @@
 [
   {
-    "title": "カンザスシティ小麦先物、主要移動平均線をすべて下回り3%超下落 - Traders Union",
-    "timestamp": "2026-11-12T19:37:32+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦先物が3%超下落し、主要移動平均線（20日・50日・200日線など）をすべて下回った。テクニカル分析に基づく相場解説で、既に発生した値動きの振り返り。"
-  },
-  {
     "title": "国際金価格が1オンス3,900ドル割れ、ベトナムのSJC金地金も1億4,000万ドン台を喪失 - BigGo ファイナンス",
     "timestamp": "2026-11-12T21:55:00+00:00",
     "importance": 2,
@@ -33,28 +22,6 @@
     "summary": "FRBの追加利上げ観測により米長期金利が上昇し、ドル高が進行。金は利息を生まない資産として相対的に魅力が低下し、大幅続落。"
   },
   {
-    "title": "金相場の底はどこにあるのか。世界黄金協会：底入れの3条件のうち2つは満たされたが、投機的な持ち高の解消仍需 - Moomoo",
-    "timestamp": "2026-11-12T17:16:10+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "世界黄金協会が金相場の底入れ条件を分析。3条件のうち2つは満たされたが、投機的な持ち高の解消がまだ必要との見解。底値がどこにあるかは依然不透明。"
-  },
-  {
-    "title": "金価格、年初来安値を更新：FRBの利上げ観測が高まり、米国株も同時に下落 - Moomoo",
-    "timestamp": "2026-11-12T16:55:54+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRBの利上げ観測の高まりに伴い、金価格が年初来安値を更新した。高金利環境は金利を生まない金資産の相対的な魅力低下につながる。米国株も同時に下落しており、リスク資産全般が売圧を受けている。"
-  },
-  {
     "title": "金価格の最新情報、2026年11月13日午前：SJC、9999金リング、DOJI BTMC、PNJ、Phu Quy。 - Vietnam.vn",
     "timestamp": "2026-11-12T22:09:42+00:00",
     "importance": 1,
@@ -64,17 +31,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金小売業者（SJC、DOJI、PNJ等）による2026年11月13日午前の金価格相場情報。地域限定の価格表示で、グローバル市場への直接的な影響はない。"
-  },
-  {
-    "title": "１０月企業物価７・１％上昇 原油価格が波及 - 福井新聞社",
-    "timestamp": "2026-11-12T20:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月の日本企業物価が7.1%上昇。原油価格上昇が主な要因として波及している状況。定期発表の企業物価指数で、エネルギー価格の上昇傾向が確認された。"
   },
   {
     "title": "金価格が3日連続で6%急落後、下げ止まり アジア市場で3,900ドル台に回復 - BigGo ファイナンス",
@@ -317,17 +273,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物は週間ベースで2週連続の下落トレンドを示している。市場は供給懸念の緩和や需要弱気見通しを反映している。既にマーケットコンセンサスに織り込まれた動きと判断される。"
-  },
-  {
-    "title": "10月の企業物価が7.1％上昇 原油価格高騰で伸び拡大 - 聖教新聞",
-    "timestamp": "2026-11-12T20:09:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日本の10月企業物価指数が7.1%上昇し、原油価格高騰が主因となった。既に報じられている原油相場高止まりの影響が統計数値に反映された形。インフレ圧力の継続を示す定期統計。"
   },
   {
     "title": "金曜日のオーストラリアETF動向｜Betashares Crude Oil Index Currency Hedged Complex ETFが上昇率トップ - Moomoo",
@@ -1175,5 +1120,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "24時間テレビの都市伝説に関するエンタメ大喜利コンテンツ。銅価格やコモディティ市場と無関係の娯楽記事。"
+  },
+  {
+    "title": "国際金価格が3,900ドル割れ、専門家はさらに400〜500ドル/オンス下落と警告 - BigGo ファイナンス",
+    "timestamp": "2026-11-15T17:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3,900ドル/オンスを割り込み、さらに400～500ドルの下落を予想するアナリストコメントが報じられた。現在の調整局面は徐々に進行中であり、サプライズではなく既定路線の相場展開。"
+  },
+  {
+    "title": "中東悪化で原油価格高止まり…石油・天然ガス、業績上振れ - ニュースイッチ by 日刊工業新聞社",
+    "timestamp": "2026-11-15T21:03:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の悪化が原油価格の高止まりをもたらし、石油・天然ガス企業の業績を押し上げている。地政学的リスクプレミアムが継続している状況。市場では既に織り込まれている既知の動きの解説記事。"
+  },
+  {
+    "title": "$ウッドサイド・ペトロリアム (WDS.US)$ 原油価格が200ドルに達するまでは、まだ終わっていない。 - Moomoo",
+    "timestamp": "2026-11-15T16:25:19+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ウッドサイド・ペトロリアムのアナリストが原油価格が200ドルに達する可能性を示唆するコメント。極端な強気見通しだが、実現可能性は低く市場の織り込み度は限定的。"
+  },
+  {
+    "title": "もみ合いか、原油価格動向と米CPIに注目 - Moomoo",
+    "timestamp": "2026-11-15T07:43:44+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格がもみ合い局面にあり、今後の値動きは米CPI統計の結果に左右されるとの観測。マクロ経済指標が原油相場の重要な決定要因であることを指摘。"
+  },
+  {
+    "title": "レギュラーガソリン 2週ぶり値上がり 原油価格低下受け補助金も約9円減額(2026年6月17日) Rod Stewart Remarks On King (aluwhTWmQx) - Unisba Media",
+    "timestamp": "2026-11-15T00:16:07+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "レギュラーガソリンが2週ぶりに値上がりしたものの、原油価格の低下を受けて政府補助金が約9円削減された。国内ガソリン小売価格の動きは補助金調整による相殺効果で限定的。"
   }
 ]
