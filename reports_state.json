@@ -1,38 +1,5 @@
 [
   {
-    "title": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-11-12T12:30:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "ナイジェリアがOPEC減産割当を6ヶ月連続で達成。アフリカ最大の産油国による安定供給の継続を示唆し、供給不安の緩和につながる。割当達成は市場予想の範囲内だが、OPEC減産体制の有効性を確認する材料として原油支援材料となる。"
-  },
-  {
-    "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
-    "timestamp": "2026-11-12T17:01:07+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫が予想に反して大幅に増加した。発表値は+465.7万バレルの在庫積み増しに対し、市場予想は-110.9万バレルの取り崩しを見込んでいた。実績と予想の乖離は576.6万バレルに達し、弱い需要環境を示唆している。"
-  },
-  {
-    "title": "US EIA Crude Oil Stocks Change (Nov/06) 4.657M vs. Exp. -1.1M (Prev. -0.865M) - Newsquawk",
-    "timestamp": "2026-11-12T17:20:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "11月6日のEIA原油在庫統計で、予想に反して465.7万バレルの増加を記録。市場予想は110万バレルの減少、前週は86.5万バレルの減少だった。大幅なサプライズ増加は原油供給圧力を示唆し、需要減速懸念を強める結果となった。"
-  },
-  {
     "title": "EIA: US crude stocks jump most in three months as exports slip - Quantum Commodity Intelligence",
     "timestamp": "2026-11-12T18:24:10+00:00",
     "importance": 3,
@@ -42,72 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "米国の原油在庫が過去3ヶ月間で最大の増加幅を記録した。同時に原油輸出が減少している。在庫積増加は原油供給の過剰を示唆し、需給ひっ迫感の後退を意味する。短期的には価格下押し圧力となる。"
-  },
-  {
-    "title": "US EIA Weekly Crude Production 14,013 (Prev. 14.003M) - Newsquawk",
-    "timestamp": "2026-11-12T17:20:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国EIA週間原油生産が14.013Mバレル/日（前週14.003M）と微増を記録した。増加幅は10,000バレル/日と極めて小さく、生産水準は高止まり状態が継続している。市場予想範囲内の小幅な変動であり、供給環境に大きな変化はない。"
-  },
-  {
-    "title": "US EIA Heating Oil Stocks Change (Nov/06) 0.335M (Prev. -0.203M) - Newsquawk",
-    "timestamp": "2026-11-12T17:20:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "11月6日のEIA暖房油在庫統計で、在庫が335万バレル増加した。前週は203万バレルの減少だったため、方向性が反転した。暖房シーズン開始に伴う需要増加と供給のバランスが変化していることを示唆している。"
-  },
-  {
-    "title": "What’s next for OPEC+ oil quotas as Saudi Arabia ramps up output? - Al-Monitor",
-    "timestamp": "2026-11-12T16:17:47+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアが石油生産を増加させる中、OPEC+の生産割当の今後の方向性に関する分析記事。サウジの増産は市場供給圧力を高め、価格下押し圧力となる可能性がある。OPEC+の結束や減産合意の維持が不確実性を生じさせている。"
-  },
-  {
-    "title": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe - Reuters",
-    "timestamp": "2026-11-12T16:45:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "アラブ首長国連邦のラスアルハイマ沖でタンカーが被撃され、乗員の安全は確認されたが、地政学的リスク上昇を示唆。ペルシャ湾周辺の海上輸送路における供給リスク懸念が高まり、原油価格の上昇圧力が生じている。"
-  },
-  {
-    "title": "UK sanctions Russia's Slavneft in latest move against oil producers - Reuters",
-    "timestamp": "2026-11-12T14:29:24+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "英国がロシアの石油大手Slavneftに対して新たな制裁を実施。ロシア産原油の供給制約が一層深刻化し、既存の制裁体制に加えてさらなる生産削減圧力が加わる。欧州のロシア産原油輸入代替調達が困難化し、国際原油市場の供給逼迫懸念が強まる局面。"
-  },
-  {
-    "title": "Ukraine Says It Hit Russia’s Biggest Oil Refinery in Siberia - Bloomberg.com",
-    "timestamp": "2026-11-12T12:27:07+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア最大級のシベリア石油精製所への攻撃を実施したと発表。ロシアの石油精製能力に直接的な打撃を与える可能性が高く、欧州向け石油製品の供給逼迫懸念が浮上。地政学的リスク要因として原油市場に上昇圧力をもたらす。"
   },
   {
     "title": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline - Reuters",
@@ -152,28 +53,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは原油需要の弱さまたは供給過剰を示唆し、原油価格に下押し圧力をもたらす可能性がある。ただし具体的な在庫数量や前週比の変動幅が示されていないため、サプライズ度の判定が困難。"
-  },
-  {
-    "title": "Copper hits 3-month lows, focus on demand and US rates - Investify",
-    "timestamp": "2026-11-12T12:24:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅が3ヶ月ぶりの安値を更新した。需要見通しの弱さと米国の金利動向が売り圧力となっている。金利上昇環境ではドル高圧力も強まり、ドル建てコモディティである銅の割高感が増す。マクロ環境の悪化懸念が市場心理を圧迫している。"
-  },
-  {
-    "title": "Copper hits 3-month lows, focus on demand and US rates - Investify",
-    "timestamp": "2026-11-12T12:24:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅が3ヶ月ぶりの安値を更新した。需要見通しの弱さと米国の金利動向が売り圧力となっている。金利上昇環境ではドル高圧力も強まり、ドル建てコモディティである銅の割高感が増す。マクロ環境の悪化懸念が市場心理を圧迫している。"
   },
   {
     "title": "Copper Hits Three-Month Low on Weak Demand - Sada Elbalad English",
@@ -251,28 +130,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間統計によると、米国原油在庫が前週比約500万バレル増加した。在庫積み上がりは需要が供給を下回っていることを示唆し、原油相場への下押し圧力となる。定例統計の範囲内の動きと考えられる。"
-  },
-  {
-    "title": "Copper hits 3-month lows, focus on demand and US rates - Business Recorder",
-    "timestamp": "2026-11-12T12:24:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅が3ヶ月ぶりの安値を記録。需要懸念と米国金利動向が売圧要因。ドル強気環境で非ドル資産としての銅は不利。FRBの金融政策スタンスが今後の方向性を左右する見通し。"
-  },
-  {
-    "title": "Copper hits 3-month lows, focus on demand and US rates - Business Recorder",
-    "timestamp": "2026-11-12T12:24:36+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅が3ヶ月ぶりの安値を記録。需要懸念と米国金利動向が売圧要因。ドル強気環境で非ドル資産としての銅は不利。FRBの金融政策スタンスが今後の方向性を左右する見通し。"
   },
   {
     "title": "Oil releases from IEA emergency stocks to pick up through February, agency says - Reuters",
@@ -374,17 +231,6 @@
     "summary": "ウクライナがロシア・サマラ州の石油ポンプ場への攻撃を発表。ロシアはウクライナ向けの石油供給能力の重要インフラであり、この攻撃はロシアの石油生産・輸出能力に直接的な打撃を与える可能性がある。地政学的リスク顕在化により短期的な供給懸念が市場に織り込まれる。"
   },
   {
-    "title": "EIA Cushing Crude Oil Stocks Change (Nov/06) 0.106M (Prev. 0.280M) - Newsquawk",
-    "timestamp": "2026-11-12T17:20:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間統計によるクッシング原油在庫の変化が発表された。11月6日の在庫増加幅は0.106百万バレルで、前週の0.280百万バレルから縮小。在庫増加ペースの鈍化は需要堅調を示唆し、原油相場には若干の下押し圧力となる。"
-  },
-  {
     "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
     "timestamp": "2026-11-14T14:05:29+00:00",
     "importance": 4,
@@ -396,14 +242,47 @@
     "summary": "UAEがOPEC離脱後、原油生産が過去最高水準に近づいている。OPEC枠組み外での増産により、市場への供給圧力が大幅に増加。OPEC減産体制の実効性が低下し、原油価格の下押し要因となる可能性が高い。"
   },
   {
-    "title": "Saudi Arabia Tells OPEC October Crude Output Rose to 10.563 Million Barrels Per Day: 8 outlets compared - NewsCord",
-    "timestamp": "2026-11-12T17:20:13+00:00",
-    "importance": 2,
-    "direction": "中立",
+    "title": "Oil Prices Rebound as Middle East Risks Offset U.S. Inventory Builds - FXEmpire",
+    "timestamp": "2026-11-13T15:05:23+00:00",
+    "importance": 3,
+    "direction": "混合",
     "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
     "commodity": "原油",
-    "summary": "サウジアラビアが2024年10月の原油生産量を日量1,056万3,000バレルと報告した。OPEC加盟国による定期的な生産報告であり、市場の既存予想の範囲内と判断される。サウジの減産方針との整合性を示す通常の月次レポートである。"
+    "summary": "EIA原油在庫データが発表され、米国在庫の積み増しが報告された。一方、中東の地政学的リスク（イランやイスラエル関連の緊張など）がこれを相殺する形となり、原油価格は反発。在庫増加という弱気要因と地政学的供給懸念の綱引きの状況が続いている。"
+  },
+  {
+    "title": "Oil Prices Rebound as Middle East Risks Offset U.S. Inventory Builds - FXEmpire",
+    "timestamp": "2026-11-13T15:05:23+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA原油在庫データが発表され、米国在庫の積み増しが報告された。一方、中東の地政学的リスク（イランやイスラエル関連の緊張など）がこれを相殺する形となり、原油価格は反発。在庫増加という弱気要因と地政学的供給懸念の綱引きの状況が続いている。"
+  },
+  {
+    "title": "Indian stocks slip as oil, inflation cap weekly rally - Reuters",
+    "timestamp": "2026-11-13T22:41:15+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド株式市場が週間の上昇ラリーを終え、原油価格の上昇とインフレ圧力が重しとなって株価が下落した。原油高がインフレを加速させるリスクが意識され、インド市場のセンチメント悪化につながった状況。"
+  },
+  {
+    "title": "Indian stocks slip as oil, inflation cap weekly rally - Reuters",
+    "timestamp": "2026-11-13T22:41:15+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド株式市場が週間の上昇ラリーを終え、原油価格の上昇とインフレ圧力が重しとなって株価が下落した。原油高がインフレを加速させるリスクが意識され、インド市場のセンチメント悪化につながった状況。"
   }
 ]
