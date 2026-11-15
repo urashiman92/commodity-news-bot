@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格は下落を続け、重要な支持水準を割り込んだ。 - Vietnam.vn",
-    "timestamp": "2026-11-12T06:50:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が重要なサポートレベルを割り込み下落トレンドが継続している。テクニカル的な節目喪失であり、投資家心理の悪化を反映している。短期的な下押し圧力が強まる局面。"
-  },
-  {
-    "title": "本日（11月12日午後）の金価格：引き続き急落。 - Vietnam.vn",
-    "timestamp": "2026-11-12T07:53:02+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月12日午後の金価格が引き続き急落している。金相場は既に下降トレンドにあり、本ニュースはその継続を報じたもの。特定の新規ファンダメンタルズの発表ではなく相場の振り返り。"
-  },
-  {
-    "title": "11月12日現在、金価格は依然として下落しており、貴金属にとって好ましい環境は見られない。シンガポールでは500トンの金保管庫が開設された。 - Vietnam.vn",
-    "timestamp": "2026-11-12T06:48:21+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月12日時点で金価格は下落基調が続いており、貴金属市場の環境は悪化している。一方、シンガポールで500トン規模の金保管庫が新たに開設された。"
-  },
-  {
-    "title": "【中東情勢】原油価格65ドルも視野、それでも消えない三つのリスク - トウシル",
-    "timestamp": "2026-11-12T05:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東情勢の緊迫で原油価格が65ドルまで上昇する可能性を指摘。一方で地政学リスク、需要懸念、供給動向の3つのリスク要因が価格天井を抑制。"
-  },
-  {
-    "title": "１０月の企業物価、７．１％上昇 原油価格上昇で伸び拡大―日銀 - 時事ドットコム",
-    "timestamp": "2026-11-12T07:22:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日銀が10月の企業物価指数を発表。前年同月比7.1%の上昇で伸び拡大。原油価格上昇が主因として特定された。インフレ圧力の継続を示唆。"
-  },
-  {
-    "title": "10月の企業物価指数 前年比7.1％上昇 先月から伸び率拡大 夏以降の原油価格高騰などで - テレ朝NEWS",
-    "timestamp": "2026-11-12T07:06:38+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "10月の日本企業物価指数が前年比7.1％上昇し、前月から伸び率が拡大した。夏以降の原油価格高騰が主要因。インフレ圧力の継続を示唆。"
-  },
-  {
     "title": "カンザスシティ小麦先物、主要移動平均線をすべて下回り3%超下落 - Traders Union",
     "timestamp": "2026-11-12T19:37:32+00:00",
     "importance": 2,
@@ -121,17 +55,6 @@
     "summary": "金価格が3,800ドル水準に向けて急落。売り圧力と清算圧力による技術的な下落局面。既発生の相場動向の解説記事。"
   },
   {
-    "title": "インフレ加速＋FRBのタカ派シグナルが重石 金価格が4,000ドル割れ、1週間超ぶり安値 - BigGo ファイナンス",
-    "timestamp": "2026-11-12T07:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "インフレ加速とFRBのタカ派姿勢が重石となり、金価格が4,000ドルを割り1週間超ぶりの安値を更新。実質金利上昇が金の利回り魅力を減少させている。"
-  },
-  {
     "title": "金価格、年初来安値を更新：FRBの利上げ観測が高まり、米国株も同時に下落 - Moomoo",
     "timestamp": "2026-11-12T16:55:54+00:00",
     "importance": 4,
@@ -152,17 +75,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金小売業者（SJC、DOJI、PNJ等）による2026年11月13日午前の金価格相場情報。地域限定の価格表示で、グローバル市場への直接的な影響はない。"
-  },
-  {
-    "title": "金相場の強気相場は本当に地政学リスクが要因なのか、それとも金利を巡るより大きな取引なのか？ - Moomoo",
-    "timestamp": "2026-11-12T05:46:36+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金相場の上昇要因を分析する記事。地政学リスクではなく金利低下が主因である可能性を指摘。現在の金の強気相場の背景にある実質要因の検証。"
   },
   {
     "title": "１０月企業物価７・１％上昇 原油価格が波及 - 福井新聞社",
@@ -1197,5 +1109,137 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "Moomooの投資家コメント掲示板へのリンク。WTI原油先物3408月限の個別銘柄ページであり、利用者の相場観や雑談が集約されたもの。市場に対する具体的なファンダメンタルズ情報なし。"
+  },
+  {
+    "title": "韓国銀行、金価格急落で第3四半期の金ETF評価額が約38億円消失 - BigGo ファイナンス",
+    "timestamp": "2026-11-15T03:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "韓国銀行の金ETF保有資産が金価格下落により第3四半期で約38億円の評価損を計上した。機関投資家のポジション変動を示す情報だが、市場全体への直接的な影響は限定的。"
+  },
+  {
+    "title": "ゴールドマン・サックスは、2026年末までの金価格予測を1オンスあたり500ドル引き下げた。 - Vietnam.vn",
+    "timestamp": "2026-11-15T09:28:29+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが2026年末の金価格予測を1オンスあたり500ドル引き下げた。同行の過去の予測精度や時系列での推移が不明なため、市場との乖離度は判定できない。金価格の下押し要因を示唆する重要な見方である。"
+  },
+  {
+    "title": "金価格の見通しは「暗い」。 - Vietnam.vn",
+    "timestamp": "2026-11-15T03:54:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格の見通しが悲観的であることが報じられた。アナリスト等による弱気な相場観を提示する記事。具体的な根拠や数値データが不明確。"
+  },
+  {
+    "title": "1週間で世界の金価格は1オンスあたり3,900ドルを下回り、SJCの金価格は350万ベトナムドン下落した。 - Vietnam.vn",
+    "timestamp": "2026-11-15T07:59:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間で1オンス3,900ドル以下に下落した。ベトナムのSJC金価格も350万ベトナムドン下落。既知の下落トレンドの続報。"
+  },
+  {
+    "title": "本日の金価格（11月15日午後）：安定 - Vietnam.vn",
+    "timestamp": "2026-11-15T07:51:17+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月15日午後の金価格が安定推移との報道。市場の大きな変動がない通常の値動きを伝える定期的な相場情報。"
+  },
+  {
+    "title": "本日（11月15日）の金価格：国内外の金価格は引き続き過去最低値を更新している。 - Vietnam.vn",
+    "timestamp": "2026-11-15T05:59:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトが11月15日の金価格動向を報じており、国内外で金価格が過去最低値を更新していると記載している。既に進行中の下落トレンドの継続を示す相場解説記事。"
+  },
+  {
+    "title": "世界の原油価格が2週連続で急落、ベトナム国内も4回目の値下げ - BigGo ファイナンス",
+    "timestamp": "2026-11-15T05:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が2週連続で急落している。ベトナム国内でも4回目の値下げが実施された。既に進行中の下落トレンドの続報。"
+  },
+  {
+    "title": "やや弱含み、原油相場の値下がりで資源国通貨に売りもの - Moomoo",
+    "timestamp": "2026-11-15T04:17:53+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油相場の値下がりに伴い、資源国通貨に売り圧力が発生している。原油価格の軟調が通貨市場にも波及している状況。コモディティ価格の連動性を示す典型的な相場動向。"
+  },
+  {
+    "title": "世界の原油価格は再び供給過剰の状態に戻った。 - Vietnam.vn",
+    "timestamp": "2026-11-15T04:36:45+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油市場が供給過剰の状態に戻ったとの報道。需給バランスの悪化が価格下押し圧力となる。既知の市場トレンドの確認的な解説記事と見られる。"
+  },
+  {
+    "title": "本日の燃料価格（11月15日）：世界の原油価格は変動の激しい1週間となりました。 - Vietnam.vn",
+    "timestamp": "2026-11-15T00:27:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "11月15日時点での燃料価格レポート。この週は世界原油価格が変動幅の大きい値動きを示したが、具体的な価格水準や変動要因の詳細は記事概要から不明。"
+  },
+  {
+    "title": "2026年11月15日現在のガソリンとディーゼルの価格：世界の原油価格は2週連続で下落。 - Vietnam.vn",
+    "timestamp": "2026-11-15T01:50:44+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が2週連続で下落している。ベトナムのガソリン・ディーゼル価格もこれに連動して推移している。供給過剰や需要減速の継続を示唆している。"
+  },
+  {
+    "title": "市場最新情報 11月15日：金価格は引き続き下落、世界の原油価格は下落傾向 | NewZMoney - Vietnam.vn",
+    "timestamp": "2026-11-15T05:17:33+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "11月15日時点で金価格が引き続き下落し、世界の原油価格も下落傾向にある。市場の広範な軟化を示唆する相場の振り返り記事である。"
   }
 ]
