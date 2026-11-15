@@ -1,27 +1,5 @@
 [
   {
-    "title": "EIA: US crude stocks jump most in three months as exports slip - Quantum Commodity Intelligence",
-    "timestamp": "2026-11-12T18:24:10+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が過去3ヶ月間で最大の増加幅を記録した。同時に原油輸出が減少している。在庫積増加は原油供給の過剰を示唆し、需給ひっ迫感の後退を意味する。短期的には価格下押し圧力となる。"
-  },
-  {
-    "title": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline - Reuters",
-    "timestamp": "2026-11-12T20:18:21+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イエメンの親イラン勢力フーシ派がサウジアラビアの東西石油パイプラインのポンプ施設を攻撃したと表明。同パイプラインは日量500万バレル以上の供給能力を持つ重要インフラであり、攻撃成功時には中東産油国の供給能力が大幅に低下する可能性がある。地政学的リスク顕在化により原油価格の上昇圧力が強まる。"
-  },
-  {
     "title": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap - Bloomberg.com",
     "timestamp": "2026-11-13T01:21:00+00:00",
     "importance": 2,
@@ -108,17 +86,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国長期金利の上昇とそれに伴う原油価格の高騰がインド・ルピーを下落させ、株式・債券市場に売り圧力をもたらしている。高い金利環境は金などの無利子資産に下落圧力を加える一方、原油価格上昇はコモディティ・インフレ懸念を強化している。ルピー下落はインドの輸入インフレを加速させる可能性がある。"
-  },
-  {
-    "title": "US handled $12 billion of Venezuela's oil revenues, report says - Reuters",
-    "timestamp": "2026-11-12T20:48:59+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国がベネズエラの石油収益120億ドルを処理・管理していたことが報告された。これはベネズエラの重要な外貨収入源であり、米国の経済制裁下での資金フローの複雑性を示唆している。ベネズエラの石油輸出能力低下と国際市場への供給不確実性が焦点となる。"
   },
   {
     "title": "USA Crude Oil Stocks Rise Almost 5MM Barrels Week on Week - Rigzone",
@@ -284,5 +251,16 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インド株式市場が週間の上昇ラリーを終え、原油価格の上昇とインフレ圧力が重しとなって株価が下落した。原油高がインフレを加速させるリスクが意識され、インド市場のセンチメント悪化につながった状況。"
+  },
+  {
+    "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
+    "timestamp": "2026-11-14T10:30:36+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "メキシコのLos Reyesプロジェクトで銅酸化鉱の鉱脈が報告された。探鉱企業による通常の進捗報告であり、同プロジェクトの開発可能性を示唆するが、即座に市場に大きな影響を与える情報ではない。"
   }
 ]
