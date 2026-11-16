@@ -1,38 +1,5 @@
 [
   {
-    "title": "USA Crude Oil Stocks Rise Almost 5MM Barrels Week on Week - Rigzone",
-    "timestamp": "2026-11-13T16:06:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間統計によると、米国原油在庫が前週比約500万バレル増加した。在庫積み上がりは需要が供給を下回っていることを示唆し、原油相場への下押し圧力となる。定例統計の範囲内の動きと考えられる。"
-  },
-  {
-    "title": "Oil releases from IEA emergency stocks to pick up through February, agency says - Reuters",
-    "timestamp": "2026-11-13T14:15:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEA（国際エネルギー機関）が2月を通じて緊急備蓄からの石油放出を加速させると発表。供給増加により原油価格には下押し圧力がかかる見通し。既に報じられた備蓄放出計画の続報と見られ、市場では大きなサプライズとはなっていない。"
-  },
-  {
-    "title": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says - Bloomberg.com",
-    "timestamp": "2026-11-13T12:17:36+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "IEAの発表によれば、ロシアの石油収入が過去5ヶ月間で最高水準に達した。原油価格の上昇が主要因。ロシアは制裁下でも輸出を継続しており、原油相場の強さが直結している。"
-  },
-  {
     "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
     "timestamp": "2026-11-13T23:15:00+00:00",
     "importance": 2,
@@ -42,17 +9,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "メキシコのロスレイエス・プロジェクトにおいて銅酸化鉱の有望な鉱脈が確認されたという探鉱企業の発表。銅酸化鉱は品位が高く処理しやすいため、中期的な生産ポテンシャルの向上を示唆する。ただし今段階は初期段階の探鉱データであり、商業生産化までには数年を要する見通し。"
-  },
-  {
-    "title": "Ukraine Hits Ninth Russian Oil Refinery Since Start of November - Bloomberg.com",
-    "timestamp": "2026-11-13T15:04:05+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナが11月初旬以降、ロシアの石油精製施設に対する9番目の攻撃を実施。ロシアの精製能力喪失は供給制約を招き、原油価格の上昇圧力となる。ウクライナによる継続的な精製施設攻撃は、ロシア産原油の国際市場への供給削減をもたらす。"
   },
   {
     "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
@@ -86,28 +42,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、原油生産が過去最高水準に近づいている。OPEC枠組み外での増産により、市場への供給圧力が大幅に増加。OPEC減産体制の実効性が低下し、原油価格の下押し要因となる可能性が高い。"
-  },
-  {
-    "title": "Oil Prices Rebound as Middle East Risks Offset U.S. Inventory Builds - FXEmpire",
-    "timestamp": "2026-11-13T15:05:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA原油在庫データが発表され、米国在庫の積み増しが報告された。一方、中東の地政学的リスク（イランやイスラエル関連の緊張など）がこれを相殺する形となり、原油価格は反発。在庫増加という弱気要因と地政学的供給懸念の綱引きの状況が続いている。"
-  },
-  {
-    "title": "Oil Prices Rebound as Middle East Risks Offset U.S. Inventory Builds - FXEmpire",
-    "timestamp": "2026-11-13T15:05:23+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA原油在庫データが発表され、米国在庫の積み増しが報告された。一方、中東の地政学的リスク（イランやイスラエル関連の緊張など）がこれを相殺する形となり、原油価格は反発。在庫増加という弱気要因と地政学的供給懸念の綱引きの状況が続いている。"
   },
   {
     "title": "Indian stocks slip as oil, inflation cap weekly rally - Reuters",
@@ -174,5 +108,203 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "アジア株式市場がAI関連の圧力とデータ発表の影響で調整局面を迎えている。この株式市場の不安定化は、リスク資産としての原油需要を圧迫する可能性がある一方、安全資産としての金に対する需要は支援材料となる可能性がある。具体的な経済指標やコモディティ価格への直接的な影響は本ニュースタイトルからは特定できない。"
+  },
+  {
+    "title": "Stronger Demand Offsets Record Soybean Production in November - RFD-TV",
+    "timestamp": "2026-11-16T12:22:02+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "11月の大豆生産が記録的な水準に達する一方、需要の堅調さがこれをオフセットしている。供給増が懸念される中、需要面での強さが価格を支えている状況。穀物市場は供給と需要のバランス再評価局面にある。"
+  },
+  {
+    "title": "Stronger Demand Offsets Record Soybean Production in November - RFD-TV",
+    "timestamp": "2026-11-16T12:22:02+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "11月の大豆生産が記録的な水準に達する一方、需要の堅調さがこれをオフセットしている。供給増が懸念される中、需要面での強さが価格を支えている状況。穀物市場は供給と需要のバランス再評価局面にある。"
+  },
+  {
+    "title": "USDA Report Sparks Relief Rally in Corn and Soybeans - Farms.com",
+    "timestamp": "2026-11-16T21:24:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAの定期Crop Progress報告書が市場に安心感をもたらし、トウモロコシと大豆に買い戻しの動きが発生した。報告内容が作付・生育状況で懸念を緩和したものと推測される。Relief rallyの発生は、直前にショート筋の売却圧力があったことを示唆している。"
+  },
+  {
+    "title": "USDA Report Sparks Relief Rally in Corn and Soybeans - Farms.com",
+    "timestamp": "2026-11-16T21:24:58+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAの定期Crop Progress報告書が市場に安心感をもたらし、トウモロコシと大豆に買い戻しの動きが発生した。報告内容が作付・生育状況で懸念を緩和したものと推測される。Relief rallyの発生は、直前にショート筋の売却圧力があったことを示唆している。"
+  },
+  {
+    "title": "USDA Crop Progress: 12% of Corn, 4% of Soybeans Left to Harvest; Winter Wheat Condition Up as of Nov. 15 - DTN Progressive Farmer",
+    "timestamp": "2026-11-16T09:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA Crop Progressレポート（11月15日時点）により、トウモロコシの収穫残存が12%、大豆が4%と報告された。冬小麦の作況は改善傾向を示している。収穫が最終段階に入りつつある通常の進捗状況の報告である。"
+  },
+  {
+    "title": "USDA Crop Progress: 12% of Corn, 4% of Soybeans Left to Harvest; Winter Wheat Condition Up as of Nov. 15 - DTN Progressive Farmer",
+    "timestamp": "2026-11-16T09:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDA Crop Progressレポート（11月15日時点）により、トウモロコシの収穫残存が12%、大豆が4%と報告された。冬小麦の作況は改善傾向を示している。収穫が最終段階に入りつつある通常の進捗状況の報告である。"
+  },
+  {
+    "title": "USDA Crop Progress: 12% of Corn, 4% of Soybeans Left to Harvest; Winter Wheat Condition Up as of Nov. 15 - DTN Progressive Farmer",
+    "timestamp": "2026-11-16T09:04:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA Crop Progressレポート（11月15日時点）により、トウモロコシの収穫残存が12%、大豆が4%と報告された。冬小麦の作況は改善傾向を示している。収穫が最終段階に入りつつある通常の進捗状況の報告である。"
+  },
+  {
+    "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Reuters",
+    "timestamp": "2026-11-16T18:03:06+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "金が1年ぶりの安値まで下落し、2015年以来の最悪年を記録する見通し。米国債利回りの上昇と米ドル強化が主な下押し要因。金利上昇環境では無利子資産である金の相対的魅力が低下し、ドル高は金の購買力を減退させている。"
+  },
+  {
+    "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Reuters",
+    "timestamp": "2026-11-16T18:03:06+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "金が1年ぶりの安値まで下落し、2015年以来の最悪年を記録する見通し。米国債利回りの上昇と米ドル強化が主な下押し要因。金利上昇環境では無利子資産である金の相対的魅力が低下し、ドル高は金の購買力を減退させている。"
+  },
+  {
+    "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops - Reuters",
+    "timestamp": "2026-11-16T01:35:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "株式市場がNvidia決算とAnthropicのIPO控えで売られており、リスク回避ムードが強まっている。これに伴い原油価格が下落。テック企業の業績・IPOといった金融市場のイベントが商品市場に波及している典型的なリスクオフシナリオ。"
+  },
+  {
+    "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops - Reuters",
+    "timestamp": "2026-11-16T01:35:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "株式市場がNvidia決算とAnthropicのIPO控えで売られており、リスク回避ムードが強まっている。これに伴い原油価格が下落。テック企業の業績・IPOといった金融市場のイベントが商品市場に波及している典型的なリスクオフシナリオ。"
+  },
+  {
+    "title": "OPEC officials meet to discuss oil production capacity review - Reuters",
+    "timestamp": "2026-11-16T17:14:13+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "OPEC関係者が石油生産能力レビューについて協議する定期的な会合を開催。生産能力の評価・検討は定常的な議題であり、具体的な減産・増産決定ではなく進捗確認段階と考えられる。市場への直接的な供給変化の発表がない限り、価格への即時インパクトは限定的。"
+  },
+  {
+    "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
+    "timestamp": "2026-11-16T13:53:57+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナが戦争開始以来最大規模のドローン攻撃をロシアに実施。地政学的リスク再燃により、エネルギー供給懸念が顕在化。ロシアの石油・ガス生産インフラへの直接的な脅威となり、市場では原油価格の上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
+    "timestamp": "2026-11-16T13:53:57+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ウクライナが戦争開始以来最大規模のドローン攻撃をロシアに実施。地政学的リスク再燃により、エネルギー供給懸念が顕在化。ロシアの石油・ガス生産インフラへの直接的な脅威となり、市場では原油価格の上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
+    "timestamp": "2026-11-16T07:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの脱石油戦略の推進が地政学的リスク（中東紛争）により阻害されている状況を解説。同国のビジョン2030は再生可能エネルギーと多角化を掲げるが、現在の地域紛争が長期的な構造転換を複雑化させる見通し。原油市場にとって供給の不確実性が増す中期的リスク要因。"
+  },
+  {
+    "title": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
+    "timestamp": "2026-11-16T07:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "サウジアラビアの脱石油戦略の推進が地政学的リスク（中東紛争）により阻害されている状況を解説。同国のビジョン2030は再生可能エネルギーと多角化を掲げるが、現在の地域紛争が長期的な構造転換を複雑化させる見通し。原油市場にとって供給の不確実性が増す中期的リスク要因。"
+  },
+  {
+    "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs - Bloomberg.com",
+    "timestamp": "2026-11-16T20:15:45+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスが金価格について、過去最高値を更新するまでに2年の期間を要すると予測している。現在の金価格が史上最高値から下方にあることを示唆し、近期的な急速な上昇を期待すべきではないという見方が示唆されている。"
+  },
+  {
+    "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs - Bloomberg.com",
+    "timestamp": "2026-11-16T20:15:45+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ゴールドマン・サックスが金価格について、過去最高値を更新するまでに2年の期間を要すると予測している。現在の金価格が史上最高値から下方にあることを示唆し、近期的な急速な上昇を期待すべきではないという見方が示唆されている。"
   }
 ]
