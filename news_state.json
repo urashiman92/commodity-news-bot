@@ -1,38 +1,5 @@
 [
   {
-    "title": "国際金価格が1オンス3,900ドル割れ、ベトナムのSJC金地金も1億4,000万ドン台を喪失 - BigGo ファイナンス",
-    "timestamp": "2026-11-12T21:55:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "国際金価格が1オンス3,900ドルを割り込み、連動してベトナムのSJC金地金も1億4,000万ドン台に下落した。ニュースは価格変動の事後報告的な性質。"
-  },
-  {
-    "title": "NY金先物は大幅続落、追加利上げ観測による長期金利上昇とドル高が重し｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-12T23:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRBの追加利上げ観測により米長期金利が上昇し、ドル高が進行。金は利息を生まない資産として相対的に魅力が低下し、大幅続落。"
-  },
-  {
-    "title": "金価格の最新情報、2026年11月13日午前：SJC、9999金リング、DOJI BTMC、PNJ、Phu Quy。 - Vietnam.vn",
-    "timestamp": "2026-11-12T22:09:42+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナム国内の金小売業者（SJC、DOJI、PNJ等）による2026年11月13日午前の金価格相場情報。地域限定の価格表示で、グローバル市場への直接的な影響はない。"
-  },
-  {
     "title": "金価格が3日連続で6%急落後、下げ止まり アジア市場で3,900ドル台に回復 - BigGo ファイナンス",
     "timestamp": "2026-11-13T03:06:00+00:00",
     "importance": 2,
@@ -42,61 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が3日間で6%下落した後、アジア市場で3,900ドル台に回復し下げ止まった。急落からの反発局面を描写した相場振り返り記事。テクニカルリバウンドの域を出ない動き。"
-  },
-  {
-    "title": "金価格、13カ月ぶり安値付近で低迷——原油96ドルでFRB大幅利上げ観測強まる - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-13T01:03:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が13カ月ぶりの安値水準で推移している。原油96ドルの上昇に伴いFRBの大幅利上げ観測が強まっており、高金利環境は金の利回り機会費用を増加させて売り圧力となっている。"
-  },
-  {
-    "title": "ニューヨーク原油・金先物市場概況（12日）原油は続伸 - Moomoo",
-    "timestamp": "2026-11-12T22:55:23+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク原油先物が続伸。金市場の具体的な動きについては記事概要から不明。定期的な市場サマリーの一部と思われる。"
-  },
-  {
-    "title": "リファスタ｜11/13 金 金価格予想21,740円(▲562円)｜杉兼太朗 - JIJICO",
-    "timestamp": "2026-11-13T00:02:24+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月13日の金価格予想は21,740円で前日比+562円上昇。アナリスト杉兼太朗による相場観測記事。予想値の根拠や市場環境分析は要確認。"
-  },
-  {
-    "title": "金価格は3900ドルを突破し、史上最安値を更新した。 - Vietnam.vn",
-    "timestamp": "2026-11-13T01:10:33+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3900ドルを突破し史上最高値を更新した。インフレ懸念や地政学的リスク、低金利環境が継続する中での上昇基調が続いている。長期的な金需要サイクルの中での自然な価格上昇と評価される。"
-  },
-  {
-    "title": "トランプ大統領「イランと合意する必要ない」と挑発、原油価格が急反発2.6%超上昇、ブレントは96ドルに接近 - BigGo ファイナンス",
-    "timestamp": "2026-11-13T00:55:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領がイラン核合意への不参加姿勢を表明し、地政学的緊張が高まった。これを受け原油は2.6%上昇し、ブレント原油が96ドル水準に接近。イラン制裁強化による供給リスク懸念が相場を押し上げた。"
   },
   {
     "title": "原油先物まちまち、週間では2週連続の下落へ - ニューズウィーク日本版",
@@ -110,17 +22,6 @@
     "summary": "原油先物は週間で2週連続の下落トレンドにある。日中のポジション調整により先物価格はまちまちの値動き。需給バランスの緩和が相場を圧迫し続けている。"
   },
   {
-    "title": "トランプ大統領、バンス副大統領をイラン外交から外す――原油価格は上昇を維持 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-13T00:11:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ大統領がバンス副大統領をイラン外交から外す人事異動が報道された。イラン関連の地政学的緊張が継続することが示唆され、原油価格は上昇を維持している。"
-  },
-  {
     "title": "本日の燃料価格（11月13日）：世界の原油価格は上昇を続けている。 - Vietnam.vn",
     "timestamp": "2026-11-13T01:32:34+00:00",
     "importance": 2,
@@ -130,61 +31,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ベトナムメディアによる11月13日時点の燃料価格レポート。世界原油価格が上昇基調を続けているとの観測。具体的な数字やドライバーは記事概要からは不明。"
-  },
-  {
-    "title": "鉱石不足が銅価格決定の革命を引き起こす：40年続いた基準価格体系の崩壊、2,000億ドル規模の市場がスポット指数へ移行 - Moomoo",
-    "timestamp": "2026-11-12T23:54:36+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅鉱石不足が40年続いた基準価格体系の崩壊をもたらし、2,000億ドル規模の市場がスポット指数ベースへ移行。これは価格決定メカニズムの根本的な変化であり、銅市場の構造転換を示唆する。"
-  },
-  {
-    "title": "１２日の主要国際商品市況 - 株探",
-    "timestamp": "2026-11-12T23:19:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "12日の主要国際商品市況に関する定期的な市場レポート。具体的な価格変動や材料が記事概要には示されていない。相場の振り返り・観測記事と推定される。"
-  },
-  {
-    "title": "米コモディティー市場－原油、ガソリン、天然ガスが上昇 金、銀、銅、トウモロコシ、小麦、大豆が下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-12T23:28:01+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場でエネルギー（原油・ガソリン・天然ガス）が上昇、農産物・貴金属が下落した相場サマリー。地政学や季節要因による典型的な値動き分散。"
-  },
-  {
-    "title": "１２日の主要国際商品市況 (2026年11月13日掲載) - ライブドアニュース",
-    "timestamp": "2026-11-12T23:19:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "11月12日の主要国際商品市況の市況報告。具体的な数値や動向の詳細は記事概要からは確認できない。定期的な市場レポートと考えられる。"
-  },
-  {
-    "title": "１２日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-11-12T23:19:32+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "12日の主要国際商品市況についてのニュース記事。具体的な価格データや市場動向の詳細が不明なため、正確な分析が困難。"
   },
   {
     "title": "国際金価格が3,900ドル割れ、ソシエテ・ジェネラルが1月の指数リバランスで33億ドルの純買い需要と試算 - BigGo ファイナンス",
@@ -218,17 +64,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格は短期的に4000ドル割れの可能性がある一方、金融機関は強気で2027年には5300ドル超を予測。長期的な上昇トレンドへの確信が示唆されている。"
-  },
-  {
-    "title": "金価格(ゴールド)見通し(市況ニュース)：米利上げ観測と金利上昇で金価格は約111ドル下落（2026年11月13日） - OANDA証券",
-    "timestamp": "2026-11-12T22:52:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米利上げ観測と金利上昇により金価格が約111ドル下落した。金は利付資産との競争環境が悪化し、実質金利上昇は金にネガティブに作用する構図が継続。年末に向けた金融政策方向性の注視が必要。"
   },
   {
     "title": "原発周辺地域の電気代補助、低水準「改定を」柏崎市長が全原協で訴え 交付金単価「45年も変わっていない」 - 新潟日報",
@@ -1175,5 +1010,137 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "レギュラーガソリンが2週ぶりに値上がりしたものの、原油価格の低下を受けて政府補助金が約9円削減された。国内ガソリン小売価格の動きは補助金調整による相殺効果で限定的。"
+  },
+  {
+    "title": "金価格(ゴールド)見通し(市況ニュース)：安値圏からの買い戻しで金は小幅高も上値は重い（2026年11月16日） - OANDA証券",
+    "timestamp": "2026-11-15T23:39:53+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は安値圏からの買い戻しにより小幅高となっているが、上値が重い状況が続いている。市場参加者による技術的な押し目買いと見られる動きで、方向性を欠いた相場展開。"
+  },
+  {
+    "title": "【記念金貨】長野オリンピック記念1万円金貨はいま売るといくら？11月13日の金価格で計算すると34万501円、額面の約34倍 - Yahoo!ニュース",
+    "timestamp": "2026-11-16T01:05:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "長野オリンピック記念1万円金貨の現在の買取価格は約34万円で、金価格上昇を反映している。記念金貨の価値は現物金の時価に連動するもので、特殊な投資機会ではない。"
+  },
+  {
+    "title": "2026年11月16日現在の金価格：金の指輪と金の延べ棒の価格は上昇するのか、それとも下落するのか？ - Vietnam.vn",
+    "timestamp": "2026-11-16T00:23:19+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムメディアによる金価格の予想・解説記事。金の指輪と延べ棒の価格動向について論じているが、具体的な新規情報や指標は不明。"
+  },
+  {
+    "title": "金価格が急落。専門家は短期取引にはリスクが伴うと指摘。 - Vietnam.vn",
+    "timestamp": "2026-11-16T00:20:45+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落した。専門家は短期取引のリスクを警告している。既に発生した価格変動に対する解説記事と思われる。"
+  },
+  {
+    "title": "本日（2026年11月16日）の金価格：SJC金地金、BTMC 9999プレーンリング、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-11-15T22:24:22+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金地金・金リング価格と世界金価格を報じるニュース。定期的な価格情報提供で、市場動向の解説や現在値報道と推測される。"
+  },
+  {
+    "title": "金価格の最新情報、2026年11月16日午前：SJC、9999金リング、DOJI BTMC、PNJ、Phu Quy。 - Vietnam.vn",
+    "timestamp": "2026-11-15T21:21:42+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金小売価格（SJC、DOJI、PNJ等）の定期的な相場情報配信。地域の小売市場における価格更新の報告。"
+  },
+  {
+    "title": "新興国ｅｙｅ＞前週のインド株、海外資金流入や原油価格の下落を受け３週続伸＝ＢＲＩＣｓ市況(ウエルスアドバイザー) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-15T23:24:40+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "インド株が3週連続上昇。海外資金流入と原油価格下落が支援材料となった。エネルギー輸入国インドにとって原油安は好材料。"
+  },
+  {
+    "title": "原油価格下落、供給回復と中東緊張を注視 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-15T23:45:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が下落している。供給回復による下押し圧力がある一方で、中東緊張は上値を抑制要因として機能。市場は両要因のバランスを注視している状況。"
+  },
+  {
+    "title": "中東悪化で原油価格高止まり…石油・天然ガス、業績上振れ（ニュースイッチ） - ｄメニューニュース",
+    "timestamp": "2026-11-15T23:37:30+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東情勢の悪化に伴い原油価格が高止まりしている。石油・天然ガス企業の業績が上振れする見通し。地政学的リスクが市場に織り込まれている状況。"
+  },
+  {
+    "title": "ＣＫサンエツが１カ月ぶり高値、銅相場上昇と販売増で２７年３月期業績予想を上方修正(ウエルスアドバイザー) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-16T00:37:43+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "CKサンエツが1カ月ぶりの高値を更新。銅相場上昇と販売増により2027年3月期の業績予想を上方修正した。個別企業の好決算ニュース。"
+  },
+  {
+    "title": "【33％急落の真相】JX金属は買い場か罠か？CB・TOB・AI半導体材料を徹底解説 Tom Hanks (PcMFiHAleN) - Unisba Media",
+    "timestamp": "2026-11-15T18:38:53+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "JX金属が33%急落した背景を分析する解説記事。CB（転換社債）・TOB（公開買付）・AI半導体材料需要という複数要因を検討。買い場か売り圧力かを考察している。"
+  },
+  {
+    "title": "１３日の主要国際商品市況 - ライブドアニュース",
+    "timestamp": "2026-11-15T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "13日の主要国際商品市況の定期レポート。具体的な価格変動や材料が特定できない。市場の日常的な値動きの振り返りと推察される。"
   }
 ]
