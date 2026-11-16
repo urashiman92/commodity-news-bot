@@ -1,71 +1,5 @@
 [
   {
-    "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
-    "timestamp": "2026-11-13T06:20:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは原油需要の弱さまたは供給過剰を示唆し、原油価格に下押し圧力をもたらす可能性がある。ただし具体的な在庫数量や前週比の変動幅が示されていないため、サプライズ度の判定が困難。"
-  },
-  {
-    "title": "Copper Hits Three-Month Low on Weak Demand - Sada Elbalad English",
-    "timestamp": "2026-11-13T05:33:49+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "銅が3ヶ月ぶりの安値を付け、需要の弱さが主因となっている。世界経済の成長鈍化懸念と建設・製造業の活動低迷が価格の重しとなっており、投資家はリスク資産からの退避を継続。銅価格のさらなる下押し圧力が懸念される。"
-  },
-  {
-    "title": "Copper Hits Three-Month Low on Weak Demand - Sada Elbalad English",
-    "timestamp": "2026-11-13T05:33:49+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "銅が3ヶ月ぶりの安値を付け、需要の弱さが主因となっている。世界経済の成長鈍化懸念と建設・製造業の活動低迷が価格の重しとなっており、投資家はリスク資産からの退避を継続。銅価格のさらなる下押し圧力が懸念される。"
-  },
-  {
-    "title": "Rupee slips as higher oil prices and US yields knock stocks, bonds - Reuters",
-    "timestamp": "2026-11-13T03:12:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国長期金利の上昇とそれに伴う原油価格の高騰がインド・ルピーを下落させ、株式・債券市場に売り圧力をもたらしている。高い金利環境は金などの無利子資産に下落圧力を加える一方、原油価格上昇はコモディティ・インフレ懸念を強化している。ルピー下落はインドの輸入インフレを加速させる可能性がある。"
-  },
-  {
-    "title": "Rupee slips as higher oil prices and US yields knock stocks, bonds - Reuters",
-    "timestamp": "2026-11-13T03:12:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "米国長期金利の上昇とそれに伴う原油価格の高騰がインド・ルピーを下落させ、株式・債券市場に売り圧力をもたらしている。高い金利環境は金などの無利子資産に下落圧力を加える一方、原油価格上昇はコモディティ・インフレ懸念を強化している。ルピー下落はインドの輸入インフレを加速させる可能性がある。"
-  },
-  {
-    "title": "Rupee slips as higher oil prices and US yields knock stocks, bonds - Reuters",
-    "timestamp": "2026-11-13T03:12:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国長期金利の上昇とそれに伴う原油価格の高騰がインド・ルピーを下落させ、株式・債券市場に売り圧力をもたらしている。高い金利環境は金などの無利子資産に下落圧力を加える一方、原油価格上昇はコモディティ・インフレ懸念を強化している。ルピー下落はインドの輸入インフレを加速させる可能性がある。"
-  },
-  {
     "title": "USA Crude Oil Stocks Rise Almost 5MM Barrels Week on Week - Rigzone",
     "timestamp": "2026-11-13T16:06:00+00:00",
     "importance": 2,
@@ -86,17 +20,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "IEA（国際エネルギー機関）が2月を通じて緊急備蓄からの石油放出を加速させると発表。供給増加により原油価格には下押し圧力がかかる見通し。既に報じられた備蓄放出計画の続報と見られ、市場では大きなサプライズとはなっていない。"
-  },
-  {
-    "title": "Russian fuel exports, oil output rebounded in October after deal with Trump, IEA says - Reuters",
-    "timestamp": "2026-11-13T09:14:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEAがロシアの燃料輸出と石油生産が10月にトランプ氏との協議を受けて反発したと報告。ロシアの供給回復は世界石油市場の供給圧力を緩和する可能性がある。既に織り込まれた情報の続報的性格が強い。"
   },
   {
     "title": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says - Bloomberg.com",
@@ -141,28 +64,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "銅",
     "summary": "メキシコのLos Reyesプロジェクトにおいて、銅の酸化鉱体の坑井結果が報告された。探鉱段階での好調なコア分析は銅供給ポテンシャルを示唆するが、商業化までには数年を要する見通し。短期的な銅市場供給への直接影響は限定的。"
-  },
-  {
-    "title": "Four killed in Ukrainian drone strike on industrial zone in Russia's Volgograd, official says - Reuters",
-    "timestamp": "2026-11-13T08:46:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア・ボルゴグラード州の工業地帯にドローン攻撃を実施し、4人が死亡。ボルゴグラード地域は石油精製・化学産業の重要拠点であり、ロシアのエネルギー・化学インフラへの直接的な脅威となる。地政学的リスクの上昇に伴いコモディティ価格の不安定性が増す可能性。"
-  },
-  {
-    "title": "Four killed in Ukrainian drone strike on industrial zone in Russia's Volgograd, official says - Reuters",
-    "timestamp": "2026-11-13T08:46:51+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナがロシア・ボルゴグラード州の工業地帯にドローン攻撃を実施し、4人が死亡。ボルゴグラード地域は石油精製・化学産業の重要拠点であり、ロシアのエネルギー・化学インフラへの直接的な脅威となる。地政学的リスクの上昇に伴いコモディティ価格の不安定性が増す可能性。"
   },
   {
     "title": "Ukraine Says It Hit Oil-Pumping Station in Russia’s Samara - Bloomberg.com",
