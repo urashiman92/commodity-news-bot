@@ -1,27 +1,5 @@
 [
   {
-    "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
-    "timestamp": "2026-11-13T23:15:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "メキシコのロスレイエス・プロジェクトにおいて銅酸化鉱の有望な鉱脈が確認されたという探鉱企業の発表。銅酸化鉱は品位が高く処理しやすいため、中期的な生産ポテンシャルの向上を示唆する。ただし今段階は初期段階の探鉱データであり、商業生産化までには数年を要する見通し。"
-  },
-  {
-    "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
-    "timestamp": "2026-11-13T22:39:36+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "メキシコのLos Reyesプロジェクトにおいて、銅の酸化鉱体の坑井結果が報告された。探鉱段階での好調なコア分析は銅供給ポテンシャルを示唆するが、商業化までには数年を要する見通し。短期的な銅市場供給への直接影響は限定的。"
-  },
-  {
     "title": "Ukraine Says It Hit Oil-Pumping Station in Russia’s Samara - Bloomberg.com",
     "timestamp": "2026-11-14T16:59:20+00:00",
     "importance": 4,
@@ -42,28 +20,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、原油生産が過去最高水準に近づいている。OPEC枠組み外での増産により、市場への供給圧力が大幅に増加。OPEC減産体制の実効性が低下し、原油価格の下押し要因となる可能性が高い。"
-  },
-  {
-    "title": "Indian stocks slip as oil, inflation cap weekly rally - Reuters",
-    "timestamp": "2026-11-13T22:41:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド株式市場が週間の上昇ラリーを終え、原油価格の上昇とインフレ圧力が重しとなって株価が下落した。原油高がインフレを加速させるリスクが意識され、インド市場のセンチメント悪化につながった状況。"
-  },
-  {
-    "title": "Indian stocks slip as oil, inflation cap weekly rally - Reuters",
-    "timestamp": "2026-11-13T22:41:15+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド株式市場が週間の上昇ラリーを終え、原油価格の上昇とインフレ圧力が重しとなって株価が下落した。原油高がインフレを加速させるリスクが意識され、インド市場のセンチメント悪化につながった状況。"
   },
   {
     "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
@@ -306,5 +262,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ゴールドマン・サックスが金価格について、過去最高値を更新するまでに2年の期間を要すると予測している。現在の金価格が史上最高値から下方にあることを示唆し、近期的な急速な上昇を期待すべきではないという見方が示唆されている。"
+  },
+  {
+    "title": "Crude Oil Weekly Outlook: Geopolitics vs Oversupply Risks - StoneX",
+    "timestamp": "2026-11-16T11:32:10+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "StoneXが原油市場の週間見通しをまとめたコメンタリーレポート。地政学的なリスク（供給懸念）と過剰供給リスクの両面が原油価格に作用する緊張関係を分析。両要因がバランスしている状況下での相場展開を想定している可能性が高い。"
+  },
+  {
+    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
+    "timestamp": "2026-11-16T18:33:29+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
+  },
+  {
+    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
+    "timestamp": "2026-11-16T18:33:29+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
+  },
+  {
+    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
+    "timestamp": "2026-11-16T18:33:29+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
+  },
+  {
+    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
+    "timestamp": "2026-11-16T18:33:29+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
+    "timestamp": "2026-11-15T13:11:53+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "トランプ前大統領によるOPEC弱体化政策がOPECの統一性を破壊し、減産協調体制の瓦解を招いたとする評論。OPEC加盟国の協調の乱れは原油供給の予測可能性を低下させ、価格ボラティリティの上昇要因となる可能性がある。同時に、OPEC統制力の低下は米国シェール産業の競争力向上をもたらす。"
+  },
+  {
+    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
+    "timestamp": "2026-11-15T13:11:53+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領によるOPEC弱体化政策がOPECの統一性を破壊し、減産協調体制の瓦解を招いたとする評論。OPEC加盟国の協調の乱れは原油供給の予測可能性を低下させ、価格ボラティリティの上昇要因となる可能性がある。同時に、OPEC統制力の低下は米国シェール産業の競争力向上をもたらす。"
+  },
+  {
+    "title": "Chevron closes in on $5 billion Beacon deal, FT reports - Reuters",
+    "timestamp": "2026-11-16T20:50:40+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "シェブロンが約50億ドル規模のBeaconプロジェクト買収を最終段階に進めている。同プロジェクトはテキサス州の大型石油開発案件で、完成時には日量10万バレル超の供給増加が期待される。M&A完了時期の発表が市場の原油供給見通しに影響を与える可能性がある。"
+  },
+  {
+    "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-17T04:20:52+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "NvidiaとAnthropicの決算発表を控えたアジア株の下落見通しについての市場解説記事。テクノロジー企業の業績期待がコモディティ市場に与える直接的な影響は限定的であり、マクロ経済環境やドル動向への間接的な影響に留まる。"
   }
 ]
