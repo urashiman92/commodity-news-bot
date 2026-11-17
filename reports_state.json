@@ -1,16 +1,5 @@
 [
   {
-    "title": "Ukraine Says It Hit Oil-Pumping Station in Russia’s Samara - Bloomberg.com",
-    "timestamp": "2026-11-14T16:59:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア・サマラ州の石油ポンプ場への攻撃を発表。ロシアはウクライナ向けの石油供給能力の重要インフラであり、この攻撃はロシアの石油生産・輸出能力に直接的な打撃を与える可能性がある。地政学的リスク顕在化により短期的な供給懸念が市場に織り込まれる。"
-  },
-  {
     "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg",
     "timestamp": "2026-11-16T01:20:00+00:00",
     "importance": 2,
@@ -427,5 +416,203 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "米国ガソリン小売価格が3月以来の最安値まで低下した。原油供給が回復基調にあることが背景で、需要懸念に対して供給サイドの改善が進行中である。エネルギー価格全体に下押し圧力が継続している。"
+  },
+  {
+    "title": "Soybean Prices Face a New Test as USDA Cuts Stocks: Is Another Rally Coming? - AgroLatam",
+    "timestamp": "2026-11-17T20:52:52+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAがWASDE報告書で大豆在庫を引き下げたことで、価格テストの新局面が到来。在庫削減は需給引き締まりを示唆し、相場反発の可能性が検討されている。具体的な在庫削減幅や新たなラリーの公算度については、市場予想との比較が必要。"
+  },
+  {
+    "title": "API crude stock report shows lower-than-expected inventory build - Investing.com",
+    "timestamp": "2026-11-17T21:56:15+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "API原油在庫報告が市場予想を下回る在庫増加となったことが発表された。在庫増加幅が予想より小さいことは、需要堅調または供給制約を示唆し、原油価格には上昇圧力となる。EIAの正式統計発表を控えた重要な先行指標として機能している。"
+  },
+  {
+    "title": "Oil Price Forecast: WTI and Brent Struggle for Direction Near 200-Day EMA - FXEmpire",
+    "timestamp": "2026-11-17T14:39:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "WTIおよびブレント原油が200日移動平均線（EMA）近辺で方向感を失っている状況を分析したコメンタリー。具体的な在庫数値や価格目標が記事本文に記載されていないため、定量的な判断は困難。技術的な抵抗線での値動きの停滞を指摘している見解。"
+  },
+  {
+    "title": "Oil Price Forecast: WTI and Brent Struggle for Direction Near 200-Day EMA - FXEmpire",
+    "timestamp": "2026-11-17T14:39:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "WTIおよびブレント原油が200日移動平均線（EMA）近辺で方向感を失っている状況を分析したコメンタリー。具体的な在庫数値や価格目標が記事本文に記載されていないため、定量的な判断は困難。技術的な抵抗線での値動きの停滞を指摘している見解。"
+  },
+  {
+    "title": "Crop Progress: Corn Yields Hold Strong Despite Challenging Growing Season - RFD-TV",
+    "timestamp": "2026-11-17T17:35:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国トウモロコシの収量が困難な生育シーズンにもかかわらず堅調に推移している。USDA Crop Progress の定期報告で、市場予想の範囲内での良好な収量データが確認された。供給サイドでのポジティブなシグナルだが、既に市場織り込み済みの可能性が高い。"
+  },
+  {
+    "title": "USDA Crop Progress Report November 16, 2026: Corn 88%, Soybeans 96%, Cotton 77% - News and Statistics - IndexBox",
+    "timestamp": "2026-11-16T21:40:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月16日のUSDA穀物進捗レポートで、トウモロコシの収穫進度88%、大豆96%、綿花77%が報告された。大豆の進捗が高く、豊作シナリオが継続確認されたことで、供給懸念の軽減から穀物価格に下押し圧力がかかる見通し。"
+  },
+  {
+    "title": "USDA Crop Progress Report November 16, 2026: Corn 88%, Soybeans 96%, Cotton 77% - News and Statistics - IndexBox",
+    "timestamp": "2026-11-16T21:40:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "2026年11月16日のUSDA穀物進捗レポートで、トウモロコシの収穫進度88%、大豆96%、綿花77%が報告された。大豆の進捗が高く、豊作シナリオが継続確認されたことで、供給懸念の軽減から穀物価格に下押し圧力がかかる見通し。"
+  },
+  {
+    "title": "USDA Crop Progress Report November 16, 2026: Corn 88%, Soybeans 96%, Cotton 77% - News and Statistics - IndexBox",
+    "timestamp": "2026-11-16T21:40:34+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "2026年11月16日のUSDA穀物進捗レポートで、トウモロコシの収穫進度88%、大豆96%、綿花77%が報告された。大豆の進捗が高く、豊作シナリオが継続確認されたことで、供給懸念の軽減から穀物価格に下押し圧力がかかる見通し。"
+  },
+  {
+    "title": "Lower USDA corn yield estimate fuels bullish turn in grain markets - Wisconsin Farmer",
+    "timestamp": "2026-11-17T11:04:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAがトウモロコシの収量見通しを引き下げ、穀物市場に強気転換をもたらした。収量予想の下方修正は供給懸念を加速させ、特にトウモロコシ先物相場が大きく上昇した。大豆・小麦などの穀物全般にも連動買いが入り、農産物セクター全体が上昇基調に転じている。"
+  },
+  {
+    "title": "Lower USDA corn yield estimate fuels bullish turn in grain markets - Wisconsin Farmer",
+    "timestamp": "2026-11-17T11:04:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAがトウモロコシの収量見通しを引き下げ、穀物市場に強気転換をもたらした。収量予想の下方修正は供給懸念を加速させ、特にトウモロコシ先物相場が大きく上昇した。大豆・小麦などの穀物全般にも連動買いが入り、農産物セクター全体が上昇基調に転じている。"
+  },
+  {
+    "title": "Lower USDA corn yield estimate fuels bullish turn in grain markets - Wisconsin Farmer",
+    "timestamp": "2026-11-17T11:04:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAがトウモロコシの収量見通しを引き下げ、穀物市場に強気転換をもたらした。収量予想の下方修正は供給懸念を加速させ、特にトウモロコシ先物相場が大きく上昇した。大豆・小麦などの穀物全般にも連動買いが入り、農産物セクター全体が上昇基調に転じている。"
+  },
+  {
+    "title": "Copper Under Pressure Despite Structural Demand: What the LME Curve Is Signalling - kalkine.ca",
+    "timestamp": "2026-11-17T14:14:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "銅は構造的需要（EV・再生可能エネルギー）により長期的には堅調だが、短期的には売り圧力を受けている。LME先物曲線が逆ざや（コンタンゴ）から現物プレミアム縮小にシフトしており、マクロ的な不安定性と金融引き締め懸念が価格を圧迫している状況を分析している。"
+  },
+  {
+    "title": "Copper Under Pressure Despite Structural Demand: What the LME Curve Is Signalling - kalkine.ca",
+    "timestamp": "2026-11-17T14:14:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "銅は構造的需要（EV・再生可能エネルギー）により長期的には堅調だが、短期的には売り圧力を受けている。LME先物曲線が逆ざや（コンタンゴ）から現物プレミアム縮小にシフトしており、マクロ的な不安定性と金融引き締め懸念が価格を圧迫している状況を分析している。"
+  },
+  {
+    "title": "Russia Exports Most Crude Since July as Drones Hammer Refineries - Bloomberg.com",
+    "timestamp": "2026-11-17T13:47:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアが7月以来の最高水準で原油輸出を拡大している一方、ドローン攻撃によりロシア国内の製油所が打撃を受けている。輸出増加は供給懸念を和らげるが、製油所被害は精製能力低下を意味し、市場への二律背反的な影響をもたらす可能性がある。"
+  },
+  {
+    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
+    "timestamp": "2026-11-17T07:22:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
+  },
+  {
+    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
+    "timestamp": "2026-11-17T07:22:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
+  },
+  {
+    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
+    "timestamp": "2026-11-17T07:22:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
+  },
+  {
+    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
+    "timestamp": "2026-11-17T07:22:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "銅",
+    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
   }
 ]
