@@ -11,28 +11,6 @@
     "summary": "ウクライナがロシア・サマラ州の石油ポンプ場への攻撃を発表。ロシアはウクライナ向けの石油供給能力の重要インフラであり、この攻撃はロシアの石油生産・輸出能力に直接的な打撃を与える可能性がある。地政学的リスク顕在化により短期的な供給懸念が市場に織り込まれる。"
   },
   {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
-    "timestamp": "2026-11-14T14:05:29+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、原油生産が過去最高水準に近づいている。OPEC枠組み外での増産により、市場への供給圧力が大幅に増加。OPEC減産体制の実効性が低下し、原油価格の下押し要因となる可能性が高い。"
-  },
-  {
-    "title": "Exploration Co. Reports Copper Oxide Intercepts at Los Reyes Project in Mexico - Streetwise Reports",
-    "timestamp": "2026-11-14T10:30:36+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "メキシコのLos Reyesプロジェクトで銅酸化鉱の鉱脈が報告された。探鉱企業による通常の進捗報告であり、同プロジェクトの開発可能性を示唆するが、即座に市場に大きな影響を与える情報ではない。"
-  },
-  {
     "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg",
     "timestamp": "2026-11-16T01:20:00+00:00",
     "importance": 2,
@@ -361,5 +339,93 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "NvidiaとAnthropicの決算発表を控えたアジア株の下落見通しについての市場解説記事。テクノロジー企業の業績期待がコモディティ市場に与える直接的な影響は限定的であり、マクロ経済環境やドル動向への間接的な影響に留まる。"
+  },
+  {
+    "title": "Turkey industry rebounds as demand stays strong. However, risks remain - Wisconsin Farmer",
+    "timestamp": "2026-11-17T11:00:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "ウィスコンシン州の七面鳥産業が需要の堅調さを背景に回復基調を示している。ただし、供給チェーンコストやフィードコスト（穀物価格）の上昇、地政学的リスク、労働力確保の課題など複数のリスク要因が存在する。生産再開は前向きだが、持続可能性には不確実性がある。"
+  },
+  {
+    "title": "Turkey industry rebounds as demand stays strong. However, risks remain - Wisconsin Farmer",
+    "timestamp": "2026-11-17T11:00:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "ウィスコンシン州の七面鳥産業が需要の堅調さを背景に回復基調を示している。ただし、供給チェーンコストやフィードコスト（穀物価格）の上昇、地政学的リスク、労働力確保の課題など複数のリスク要因が存在する。生産再開は前向きだが、持続可能性には不確実性がある。"
+  },
+  {
+    "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
+    "timestamp": "2026-11-17T10:30:44+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計で、実績は+465.7万バレルと大幅な在庫増加となった。市場予想は-110.9万バレルの減少を見込んでいたため、予想との乖離は576.6万バレルの大型サプライズ。在庫増加は供給過剰を示唆し、原油価格に下押し圧力。"
+  },
+  {
+    "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
+    "timestamp": "2026-11-16T23:30:50+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が原油増産を表明しているが、実際の実行可能性と需要サイドの購買力に疑問を提示するアナリスト評論。増産発表は供給緩和要因として原油価格下落圧力となるが、地政学的リスクや需要減退懸念により市場反応は不透明。タイトルの「Can it Deliver and Who Will Buy?」という問い自体が市場の懐疑的姿勢を反映。"
+  },
+  {
+    "title": "India's IOC gets government nod for commercial-scale sustainable aviation fuel production - Reuters",
+    "timestamp": "2026-11-17T06:03:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インド国営石油会社IOCが政府承認を得て、商業規模のサステイナブル航空燃料（SAF）生産に進む。SAF市場は急速に成長中であり、石油精製業界の新しい高付加価値事業分野として注目される。ただし記事には具体的な生産量や投資額の記載がない。"
+  },
+  {
+    "title": "India's IOC gets government nod for commercial-scale sustainable aviation fuel production - Reuters",
+    "timestamp": "2026-11-17T06:03:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インド国営石油会社IOCが政府承認を得て、商業規模のサステイナブル航空燃料（SAF）生産に進む。SAF市場は急速に成長中であり、石油精製業界の新しい高付加価値事業分野として注目される。ただし記事には具体的な生産量や投資額の記載がない。"
+  },
+  {
+    "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers - Bloomberg.com",
+    "timestamp": "2026-11-17T11:39:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "米国ガソリン小売価格が3月以来の最安値まで低下した。原油供給が回復基調にあることが背景で、需要懸念に対して供給サイドの改善が進行中である。エネルギー価格全体に下押し圧力が継続している。"
+  },
+  {
+    "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers - Bloomberg.com",
+    "timestamp": "2026-11-17T11:39:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "米国ガソリン小売価格が3月以来の最安値まで低下した。原油供給が回復基調にあることが背景で、需要懸念に対して供給サイドの改善が進行中である。エネルギー価格全体に下押し圧力が継続している。"
   }
 ]
