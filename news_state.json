@@ -1,115 +1,5 @@
 [
   {
-    "title": "韓国銀行、金価格急落で第3四半期の金ETF評価額が約38億円消失 - BigGo ファイナンス",
-    "timestamp": "2026-11-15T03:35:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "韓国銀行の金ETF保有資産が金価格下落により第3四半期で約38億円の評価損を計上した。機関投資家のポジション変動を示す情報だが、市場全体への直接的な影響は限定的。"
-  },
-  {
-    "title": "ゴールドマン・サックスは、2026年末までの金価格予測を1オンスあたり500ドル引き下げた。 - Vietnam.vn",
-    "timestamp": "2026-11-15T09:28:29+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ゴールドマン・サックスが2026年末の金価格予測を1オンスあたり500ドル引き下げた。同行の過去の予測精度や時系列での推移が不明なため、市場との乖離度は判定できない。金価格の下押し要因を示唆する重要な見方である。"
-  },
-  {
-    "title": "金価格の見通しは「暗い」。 - Vietnam.vn",
-    "timestamp": "2026-11-15T03:54:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格の見通しが悲観的であることが報じられた。アナリスト等による弱気な相場観を提示する記事。具体的な根拠や数値データが不明確。"
-  },
-  {
-    "title": "1週間で世界の金価格は1オンスあたり3,900ドルを下回り、SJCの金価格は350万ベトナムドン下落した。 - Vietnam.vn",
-    "timestamp": "2026-11-15T07:59:45+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で1オンス3,900ドル以下に下落した。ベトナムのSJC金価格も350万ベトナムドン下落。既知の下落トレンドの続報。"
-  },
-  {
-    "title": "本日の金価格（11月15日午後）：安定 - Vietnam.vn",
-    "timestamp": "2026-11-15T07:51:17+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "11月15日午後の金価格が安定推移との報道。市場の大きな変動がない通常の値動きを伝える定期的な相場情報。"
-  },
-  {
-    "title": "本日（11月15日）の金価格：国内外の金価格は引き続き過去最低値を更新している。 - Vietnam.vn",
-    "timestamp": "2026-11-15T05:59:12+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムのニュースサイトが11月15日の金価格動向を報じており、国内外で金価格が過去最低値を更新していると記載している。既に進行中の下落トレンドの継続を示す相場解説記事。"
-  },
-  {
-    "title": "世界の原油価格が2週連続で急落、ベトナム国内も4回目の値下げ - BigGo ファイナンス",
-    "timestamp": "2026-11-15T05:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油価格が2週連続で急落している。ベトナム国内でも4回目の値下げが実施された。既に進行中の下落トレンドの続報。"
-  },
-  {
-    "title": "やや弱含み、原油相場の値下がりで資源国通貨に売りもの - Moomoo",
-    "timestamp": "2026-11-15T04:17:53+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油相場の値下がりに伴い、資源国通貨に売り圧力が発生している。原油価格の軟調が通貨市場にも波及している状況。コモディティ価格の連動性を示す典型的な相場動向。"
-  },
-  {
-    "title": "世界の原油価格は再び供給過剰の状態に戻った。 - Vietnam.vn",
-    "timestamp": "2026-11-15T04:36:45+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "世界の原油市場が供給過剰の状態に戻ったとの報道。需給バランスの悪化が価格下押し圧力となる。既知の市場トレンドの確認的な解説記事と見られる。"
-  },
-  {
-    "title": "市場最新情報 11月15日：金価格は引き続き下落、世界の原油価格は下落傾向 | NewZMoney - Vietnam.vn",
-    "timestamp": "2026-11-15T05:17:33+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "11月15日時点で金価格が引き続き下落し、世界の原油価格も下落傾向にある。市場の広範な軟化を示唆する相場の振り返り記事である。"
-  },
-  {
     "title": "金価格は1年以上ぶりの安値を記録し、専門家は来週の見通しについて悲観的な見方を示している。 - Vietnam.vn",
     "timestamp": "2026-11-15T13:05:12+00:00",
     "importance": 3,
@@ -119,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1年以上ぶりの安値を記録した。専門家は来週の相場見通しについて悲観的な見方を示している。既に価格低下が現実化しており、弱気心理が市場に定着している。"
-  },
-  {
-    "title": "変動の激しい一週間を経て、専門家たちは来週の金価格の見通しについて悲観的な見方を示している。 - Vietnam.vn",
-    "timestamp": "2026-11-15T08:45:18+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "先週の変動の激しい取引を経て、金価格について専門家が来週の見通しを悲観的に評価している。既に値動きが起きた後の解説であり、新たなシグナルというより相場の振り返りと予想の提示。"
   },
   {
     "title": "国際金価格が3,900ドル割れ、専門家はさらに400〜500ドル/オンス下落と警告 - BigGo ファイナンス",
@@ -163,17 +42,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "ウッドサイド・ペトロリアムのアナリストが原油価格が200ドルに達する可能性を示唆するコメント。極端な強気見通しだが、実現可能性は低く市場の織り込み度は限定的。"
-  },
-  {
-    "title": "もみ合いか、原油価格動向と米CPIに注目 - Moomoo",
-    "timestamp": "2026-11-15T07:43:44+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格がもみ合い局面にあり、今後の値動きは米CPI統計の結果に左右されるとの観測。マクロ経済指標が原油相場の重要な決定要因であることを指摘。"
   },
   {
     "title": "金価格(ゴールド)見通し(市況ニュース)：安値圏からの買い戻しで金は小幅高も上値は重い（2026年11月16日） - OANDA証券",
@@ -1362,5 +1230,181 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "17日の主要国際商品市況の日次相場レポート。具体的な商品価格や変動率の情報が不足しており、市場への明確な影響判定が困難。"
+  },
+  {
+    "title": "金価格は1年ぶり安値圏で膠着、米10年債利回り5%突破で資金流出圧力 - BigGo ファイナンス",
+    "timestamp": "2026-11-18T02:25:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1年ぶりの安値圏で推移している。米10年債利回りが5%を突破し、ドル高・実質金利上昇により金から資金流出が加速している状況。"
+  },
+  {
+    "title": "金価格3800ドル割れ、2025年9月以来の安値－FRB追加利上げ観測 - Bloomberg",
+    "timestamp": "2026-11-18T05:03:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3800ドルを割り、2025年9月以来の安値を更新。FRBの追加利上げ観測が強まり、金売却圧力が増加。高金利環境は利回りを生まない金の相対的魅力を低下させている。"
+  },
+  {
+    "title": "世界の金価格は1オンスあたり3,800ドルを下回り、サンノゼの金価格は急落、下落圧力は続く。 - Vietnam.vn",
+    "timestamp": "2026-11-18T08:47:35+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス3,800ドル下回る水準に下落。市場では継続的な下落圧力が指摘されている。技術的な売却圧力と需給悪化の見通しが背景。"
+  },
+  {
+    "title": "利上げ観測が威力を発揮、現物金価格が3,800ドル割れ―1年以上ぶりの安値 - BigGo ファイナンス",
+    "timestamp": "2026-11-18T03:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "利上げ観測の強まりにより、現物金価格が3,800ドルを割り込み1年以上ぶりの安値を記録。高金利環境では利息を生まない金の相対的魅力が低下することが主因。"
+  },
+  {
+    "title": "金価格は14カ月ぶりの安値に下落した。 - Vietnam.vn",
+    "timestamp": "2026-11-18T08:37:13+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が14カ月ぶりの安値に下落した。米ドル強化やインフレ減速期待により金の実質利回りが上昇し、金の相対的魅力が低下している。"
+  },
+  {
+    "title": "原油価格が100ドル割れ、供給過剰がイラン紛争リスクプレミアムを上回る - BigGo ファイナンス",
+    "timestamp": "2026-11-18T08:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が100ドルを割込み、供給過剰圧力がイラン紛争によるリスクプレミアムを上回っている。市場は地政学リスクよりも需給悪化を重視し、価格は軟調に推移している。"
+  },
+  {
+    "title": "原油先物下落、米在庫増で 中東情勢が下支え - Reuters",
+    "timestamp": "2026-11-18T02:32:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の原油在庫増加により先物相場が下落。ただし中東情勢の緊張感が相場の下支え要因となっている。供給懸念と需要減退の綱引き状態。"
+  },
+  {
+    "title": "米国の原油在庫増加で供給リスクが和らぎ、原油価格が下落 - アラブニュース",
+    "timestamp": "2026-11-18T09:07:07+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の原油在庫が増加し、供給面でのリスクが軽減されたことが報じられている。在庫増加は供給余裕を示唆し、原油価格の下押し圧力となった。需給バランスの緩和で相場が反応。"
+  },
+  {
+    "title": "原油先物下落、米在庫増で 中東情勢が下支え - ニューズウィーク日本版",
+    "timestamp": "2026-11-18T02:32:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米原油在庫が増加したことで先物価格が下落。一方、中東情勢の緊張が価格を下支えしている。需給悪化と地政学リスクが相互に作用している状況。"
+  },
+  {
+    "title": "原油価格、中東緊張と米在庫増加を受けわずかに下落 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-18T02:11:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格がわずかに下落。中東緊張による上昇圧力と米国在庫増加による下落圧力が相殺された結果。市場は両要因を既に織り込みつつある状況。"
+  },
+  {
+    "title": "原油先物下落、米在庫増で 中東情勢が下支え - Infoseek",
+    "timestamp": "2026-11-18T02:32:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米国の原油在庫増加が売り圧力となり先物価格が下落。ただし中東情勢の緊張が下値を支えている。需給バランスと地政学リスクが相反する展開。"
+  },
+  {
+    "title": "原油は反発、中東で新たな攻撃相次ぐ－北海ブレント一時94ドル台 - Bloomberg",
+    "timestamp": "2026-11-17T18:20:40+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東での新たな攻撃事案により原油が反発、北海ブレント原油が94ドル台まで上昇した。地政学的リスクが供給懸念を再燃させている。"
+  },
+  {
+    "title": "大豆先物は数週間ぶり高値圏、過去最高の圧搾量と南米供給を市場が思案 - ニュースと統計 - IndexBox",
+    "timestamp": "2026-11-17T13:52:10+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "大豆",
+    "summary": "大豆先物が数週間ぶりの高値圏にあり、市場は圧搾量の過去最高と南米の供給見通しを検討している。需給バランスの不確実性が継続している状況。"
+  },
+  {
+    "title": "住友鉱が年初来安値、金・銅相場の軟調映す(ウエルスアドバイザー) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-18T04:43:54+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "住友金属鉱山株が年初来安値を更新した。金・銅相場の軟調が企業業績に反映されている状況を示している。既知の市場環境の延長線上の動き。"
+  },
+  {
+    "title": "MXV指数は、世界のコモディティ市場における綱引き状態を反映し、横ばいで推移している。 - Vietnam.vn",
+    "timestamp": "2026-11-18T07:37:56+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "MXV指数が横ばいで推移していることが報じられた。世界のコモディティ市場で買い圧力と売り圧力が均衡している状態を反映している。既に織り込まれた市場観測の解説。"
+  },
+  {
+    "title": "米コモディティー市場－原油、天然ガス、金、銀、小麦が上昇 ガソリン、銅、トウモロコシ、大豆が下落 - TradingView",
+    "timestamp": "2026-11-17T23:20:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "米コモディティ市場で複合的な値動きが発生。エネルギー（原油・天然ガス）と貴金属（金・銀）は上昇した一方、ベースメタル（銅）と穀物（小麦除く）は下落。市場内での動き方が分散しており統一的なトレンドは見られない。"
   }
 ]
