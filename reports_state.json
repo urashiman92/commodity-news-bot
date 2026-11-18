@@ -713,5 +713,137 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "著名ヘッジファンド運用者Stan Druckenmillerが銅をショート（売り建て）ポジションを取っていることを表明。同氏は株式については中立スタンスを保持。銅相場の下落トレンドを見込む戦略的な賭けを示唆。"
+  },
+  {
+    "title": "Crop Progress: Winter wheat conditions continue to improve - Farm Progress",
+    "timestamp": "2026-11-16T22:31:03+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国の冬小麦の作柄状況が継続して改善傾向にある。定期的なCrop Progress報告による通常の進捗更新。作柄改善は供給増加圧力となり、小麦価格の上値を抑制する要因。"
+  },
+  {
+    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
+    "timestamp": "2026-11-18T16:34:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
+  },
+  {
+    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
+    "timestamp": "2026-11-18T16:34:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
+  },
+  {
+    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
+    "timestamp": "2026-11-18T16:34:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
+  },
+  {
+    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
+    "timestamp": "2026-11-18T16:34:27+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
+  },
+  {
+    "title": "Copper stocks fall as LME prices plunge to seven-month low - Yahoo Finance UK",
+    "timestamp": "2026-11-18T16:01:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "LME（ロンドン金属取引所）の銅価格が7ヶ月ぶりの安値まで急落し、これに連動して銅関連株も売却圧力を受けている。需要減速懸念やマクロ経済環境の悪化が背景と考えられる。銅は世界経済の景気指標としても注視される重要なコモディティである。"
+  },
+  {
+    "title": "Opec-Plus: Output Jumps to 8-Month High, But Is It Sustainable? - Energy Intelligence",
+    "timestamp": "2026-11-17T18:03:11+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の原油生産量が8ヶ月ぶりの高水準に達した。ただしタイトルが「持続可能か？」と疑問を呈しており、増産の継続性に対する懸念が市場で台頭。供給増加による価格下押し圧力と、持続性不安による上値抵抗が混在する局面。"
+  },
+  {
+    "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say - Reuters",
+    "timestamp": "2026-11-18T15:10:58+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナによるドローン攻撃によりロシアの11月の石油精製能力がほぼ半減したと報道。同国の主要な精製施設が標的となり、供給側の制約が急速に強まった。地政学的リスクの再燃と供給逼迫懸念が原油価格を押し上げる要因となる。"
+  },
+  {
+    "title": "Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric - Reuters",
+    "timestamp": "2026-11-18T03:10:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "FRBの強気な金利政策発言を受け、ドル高と米国債利回り上昇が進行。金は14ヶ月ぶりの安値まで下落した。無利子資産である金は利回り上昇環境で売却圧力が強まる構図が続いている。"
+  },
+  {
+    "title": "Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric - Reuters",
+    "timestamp": "2026-11-18T03:10:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "FRBの強気な金利政策発言を受け、ドル高と米国債利回り上昇が進行。金は14ヶ月ぶりの安値まで下落した。無利子資産である金は利回り上昇環境で売却圧力が強まる構図が続いている。"
+  },
+  {
+    "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand - Reuters",
+    "timestamp": "2026-11-18T14:45:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "欧州のEV販売が10月に急増した。高い石油価格とEV購入補助金がこの需要増を牽引している。石油価格の上昇がEVへの転換インセンティブを強化し、政府補助金と相まってEV市場の成長を加速させている。"
+  },
+  {
+    "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand - Reuters",
+    "timestamp": "2026-11-18T14:45:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "欧州のEV販売が10月に急増した。高い石油価格とEV購入補助金がこの需要増を牽引している。石油価格の上昇がEVへの転換インセンティブを強化し、政府補助金と相まってEV市場の成長を加速させている。"
   }
 ]
