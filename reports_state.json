@@ -614,5 +614,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "銅",
     "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
+  },
+  {
+    "title": "USDA Reports Reduce Anticipated Corn and Soybean Ending Stocks - Morning Ag Clips",
+    "timestamp": "2026-11-18T02:18:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "USDAのWASDE（世界農業需給見通し）レポートでトウモロコシと大豆の期末在庫予想が引き下げられた。在庫減少は供給逼迫を示唆し、価格上昇圧力となる。具体的な数値が記事から確認できないため、市場への影響度は在庫削減幅に依存。"
+  },
+  {
+    "title": "USDA Reports Reduce Anticipated Corn and Soybean Ending Stocks - Morning Ag Clips",
+    "timestamp": "2026-11-18T02:18:14+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "USDAのWASDE（世界農業需給見通し）レポートでトウモロコシと大豆の期末在庫予想が引き下げられた。在庫減少は供給逼迫を示唆し、価格上昇圧力となる。具体的な数値が記事から確認できないため、市場への影響度は在庫削減幅に依存。"
+  },
+  {
+    "title": "OPEC+ Likely to Again Raise Oil Output Targets From September, Sources Say - EnergyNow.com",
+    "timestamp": "2026-11-16T18:46:19+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が9月以降に再び石油生産目標を引き上げる可能性が報じられた。複数の情報筋によると、減産調整の一部解除が検討されている。市場ではすでに段階的な供給増加の可能性が織り込まれており、急激なサプライズではない。"
+  },
+  {
+    "title": "Oil prices fall as higher US crude stocks temper supply risks - Reuters",
+    "timestamp": "2026-11-18T02:16:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "米国の原油在庫増加がサプライズとなり、供給不足のリスク懸念が和らいだことで原油価格が下落。EIA週間在庫統計は定期発表であり、市場予想の範囲内での在庫増加と考えられる。短期的な価格抑制要因となるが、地政学的リスクや需給バランスの根本的な改善までは至らず。"
   }
 ]
