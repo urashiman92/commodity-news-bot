@@ -1,27 +1,5 @@
 [
   {
-    "title": "金価格は1年以上ぶりの安値を記録し、専門家は来週の見通しについて悲観的な見方を示している。 - Vietnam.vn",
-    "timestamp": "2026-11-15T13:05:12+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1年以上ぶりの安値を記録した。専門家は来週の相場見通しについて悲観的な見方を示している。既に価格低下が現実化しており、弱気心理が市場に定着している。"
-  },
-  {
-    "title": "国際金価格が3,900ドル割れ、専門家はさらに400〜500ドル/オンス下落と警告 - BigGo ファイナンス",
-    "timestamp": "2026-11-15T17:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3,900ドル/オンスを割り込み、さらに400～500ドルの下落を予想するアナリストコメントが報じられた。現在の調整局面は徐々に進行中であり、サプライズではなく既定路線の相場展開。"
-  },
-  {
     "title": "中東悪化で原油価格高止まり…石油・天然ガス、業績上振れ - ニュースイッチ by 日刊工業新聞社",
     "timestamp": "2026-11-15T21:03:00+00:00",
     "importance": 3,
@@ -31,17 +9,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "中東情勢の悪化が原油価格の高止まりをもたらし、石油・天然ガス企業の業績を押し上げている。地政学的リスクプレミアムが継続している状況。市場では既に織り込まれている既知の動きの解説記事。"
-  },
-  {
-    "title": "$ウッドサイド・ペトロリアム (WDS.US)$ 原油価格が200ドルに達するまでは、まだ終わっていない。 - Moomoo",
-    "timestamp": "2026-11-15T16:25:19+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ウッドサイド・ペトロリアムのアナリストが原油価格が200ドルに達する可能性を示唆するコメント。極端な強気見通しだが、実現可能性は低く市場の織り込み度は限定的。"
   },
   {
     "title": "金価格(ゴールド)見通し(市況ニュース)：安値圏からの買い戻しで金は小幅高も上値は重い（2026年11月16日） - OANDA証券",
@@ -152,17 +119,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "CKサンエツが1カ月ぶりの高値を更新。銅相場上昇と販売増により2027年3月期の業績予想を上方修正した。個別企業の好決算ニュース。"
-  },
-  {
-    "title": "【33％急落の真相】JX金属は買い場か罠か？CB・TOB・AI半導体材料を徹底解説 Tom Hanks (PcMFiHAleN) - Unisba Media",
-    "timestamp": "2026-11-15T18:38:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属が33%急落した背景を分析する解説記事。CB（転換社債）・TOB（公開買付）・AI半導体材料需要という複数要因を検討。買い場か売り圧力かを考察している。"
   },
   {
     "title": "１３日の主要国際商品市況 - ライブドアニュース",
@@ -1406,5 +1362,126 @@
     "source": "Google News",
     "commodity": "コモディティ全般",
     "summary": "米コモディティ市場で複合的な値動きが発生。エネルギー（原油・天然ガス）と貴金属（金・銀）は上昇した一方、ベースメタル（銅）と穀物（小麦除く）は下落。市場内での動き方が分散しており統一的なトレンドは見られない。"
+  },
+  {
+    "title": "金価格が上昇しない理由をUBSが解説 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-18T14:32:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UBSが金価格が上昇しない理由を解説するコメンタリー。既に進行中の相場環境についての分析記事。"
+  },
+  {
+    "title": "金価格が3,800ドル割れ、ドル指数は52週ぶり高値 エヌビディア決算がAI株を救うもタカ派利上げの影消えず - BigGo ファイナンス",
+    "timestamp": "2026-11-18T13:56:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3,800ドル割れまで下落。ドル指数が52週ぶり高値を更新し、金売り圧力となっている。タカ派利上げ観測が継続し、ドル強気相場が金の逆風となっている。"
+  },
+  {
+    "title": "金価格、14か月ぶり安値3760ドル 2027年に回復か - BeInCrypto",
+    "timestamp": "2026-11-18T12:58:53+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が14か月ぶりの安値3760ドルまで下落。記事では2027年の回復見通しが示唆されている。現在の下落トレンドは既に市場に織り込まれた状況。"
+  },
+  {
+    "title": "金価格は続落、1年ぶり安値を更新 米利上げ観測で金相場はどこまで下がる? - EBC Financial Group",
+    "timestamp": "2026-11-18T11:21:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1年ぶりの安値を更新し続落している。米利上げ観測の強まりが主要な下げ要因となっており、今後の金相場の下値見通しについて解説されている。"
+  },
+  {
+    "title": "金価格が2%近く急落し3,800ドルの大台を割り込む エヌビディアの決算がAIセクターを支援｜今夜の注目点 - Moomoo",
+    "timestamp": "2026-11-18T13:27:24+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が2%近く急落し3,800ドルを割込む。リスク資産（AI・テック）の買い戻しにより、安全資産である金から資金流出が発生。エヌビディア決算好調がリスクオン環境を強化。"
+  },
+  {
+    "title": "金価格が3,900ドル割れ、財通証券「中央銀行とETFの買いが退潮、実質金利が再び価格決定権を掌握」 - BigGo ファイナンス",
+    "timestamp": "2026-11-18T10:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3,900ドルを割り込み、中央銀行とETF購入者の買い需要が弱まった。実質金利が金価格の主導要因として再び影響力を強めている。"
+  },
+  {
+    "title": "NY市場動向（午後0時台）：ダウ532ドル安、原油先物3.07ドル安｜FX・為替ニュース - ザイFX！",
+    "timestamp": "2026-11-18T17:19:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY市場でダウ平均が532ドル安となり、連動して原油先物が3.07ドル安で推移している。株式市場の下落が商品市場にも波及した相場環境を示している。"
+  },
+  {
+    "title": "WTI 原油先物(2701)【CLMAIN】株価・チャート - Moomoo",
+    "timestamp": "2026-11-18T10:12:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物の株価チャート表示ページ。具体的なニュース内容や価格情報が記事から抽出できない。単なるデータプラットフォームの紹介と考えられる。"
+  },
+  {
+    "title": "銅相場5%超急落、AI関連トレード崩れる－供給逼迫でも金属市場に売り - Bloomberg.com",
+    "timestamp": "2026-11-18T16:51:44+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅相場が5%超の急落。AI関連トレードの崩れが売り圧力。供給逼迫の構造的強気材料が、テクニカルな売却で相殺された。"
+  },
+  {
+    "title": "銅価格に逆風となる需要懸念と関税リスク：HGはさらなる下落を回避できるか？ - Traders Union",
+    "timestamp": "2026-11-18T09:25:47+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は需要懸念と関税リスクにより下押し圧力に直面している。複数の逆風要因が重なり、さらなる下落リスクが存在する状況。技術的サポートレベルでの防御が焦点。"
+  },
+  {
+    "title": "商品市場は綱引き状態にあり、MXV指数は横ばいで推移している。 - Vietnam.vn",
+    "timestamp": "2026-11-18T08:53:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "商品市場が買い圧力と売り圧力のバランスで揺らいでおり、MXV指数は横ばいで推移。市場の方向感に欠ける状況が続いている。"
   }
 ]
