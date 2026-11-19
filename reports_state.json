@@ -1,159 +1,5 @@
 [
   {
-    "title": "USDA Report Sparks Relief Rally in Corn and Soybeans - Farms.com",
-    "timestamp": "2026-11-16T21:24:58+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAの定期Crop Progress報告書が市場に安心感をもたらし、トウモロコシと大豆に買い戻しの動きが発生した。報告内容が作付・生育状況で懸念を緩和したものと推測される。Relief rallyの発生は、直前にショート筋の売却圧力があったことを示唆している。"
-  },
-  {
-    "title": "USDA Report Sparks Relief Rally in Corn and Soybeans - Farms.com",
-    "timestamp": "2026-11-16T21:24:58+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAの定期Crop Progress報告書が市場に安心感をもたらし、トウモロコシと大豆に買い戻しの動きが発生した。報告内容が作付・生育状況で懸念を緩和したものと推測される。Relief rallyの発生は、直前にショート筋の売却圧力があったことを示唆している。"
-  },
-  {
-    "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Reuters",
-    "timestamp": "2026-11-16T18:03:06+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "金が1年ぶりの安値まで下落し、2015年以来の最悪年を記録する見通し。米国債利回りの上昇と米ドル強化が主な下押し要因。金利上昇環境では無利子資産である金の相対的魅力が低下し、ドル高は金の購買力を減退させている。"
-  },
-  {
-    "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Reuters",
-    "timestamp": "2026-11-16T18:03:06+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "金が1年ぶりの安値まで下落し、2015年以来の最悪年を記録する見通し。米国債利回りの上昇と米ドル強化が主な下押し要因。金利上昇環境では無利子資産である金の相対的魅力が低下し、ドル高は金の購買力を減退させている。"
-  },
-  {
-    "title": "OPEC officials meet to discuss oil production capacity review - Reuters",
-    "timestamp": "2026-11-16T17:14:13+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "OPEC関係者が石油生産能力レビューについて協議する定期的な会合を開催。生産能力の評価・検討は定常的な議題であり、具体的な減産・増産決定ではなく進捗確認段階と考えられる。市場への直接的な供給変化の発表がない限り、価格への即時インパクトは限定的。"
-  },
-  {
-    "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
-    "timestamp": "2026-11-16T13:53:57+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナが戦争開始以来最大規模のドローン攻撃をロシアに実施。地政学的リスク再燃により、エネルギー供給懸念が顕在化。ロシアの石油・ガス生産インフラへの直接的な脅威となり、市場では原油価格の上昇圧力が強まる可能性が高い。"
-  },
-  {
-    "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
-    "timestamp": "2026-11-16T13:53:57+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ウクライナが戦争開始以来最大規模のドローン攻撃をロシアに実施。地政学的リスク再燃により、エネルギー供給懸念が顕在化。ロシアの石油・ガス生産インフラへの直接的な脅威となり、市場では原油価格の上昇圧力が強まる可能性が高い。"
-  },
-  {
-    "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs - Bloomberg.com",
-    "timestamp": "2026-11-16T20:15:45+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "ゴールドマン・サックスが金価格について、過去最高値を更新するまでに2年の期間を要すると予測している。現在の金価格が史上最高値から下方にあることを示唆し、近期的な急速な上昇を期待すべきではないという見方が示唆されている。"
-  },
-  {
-    "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs - Bloomberg.com",
-    "timestamp": "2026-11-16T20:15:45+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ゴールドマン・サックスが金価格について、過去最高値を更新するまでに2年の期間を要すると予測している。現在の金価格が史上最高値から下方にあることを示唆し、近期的な急速な上昇を期待すべきではないという見方が示唆されている。"
-  },
-  {
-    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
-    "timestamp": "2026-11-16T18:33:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
-  },
-  {
-    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
-    "timestamp": "2026-11-16T18:33:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
-  },
-  {
-    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
-    "timestamp": "2026-11-16T18:33:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
-  },
-  {
-    "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
-    "timestamp": "2026-11-16T18:33:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年11月16日のRFD-TV週間レポートは、米国各州の作物進捗状況と家畜生産動向を定期更新する統計です。具体的な数値が記事から抽出できないため、詳細な影響度の判定は困難です。ただし定例の進捗報告として市場はすでに織り込み済みの可能性が高いです。"
-  },
-  {
-    "title": "Chevron closes in on $5 billion Beacon deal, FT reports - Reuters",
-    "timestamp": "2026-11-16T20:50:40+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "シェブロンが約50億ドル規模のBeaconプロジェクト買収を最終段階に進めている。同プロジェクトはテキサス州の大型石油開発案件で、完成時には日量10万バレル超の供給増加が期待される。M&A完了時期の発表が市場の原油供給見通しに影響を与える可能性がある。"
-  },
-  {
     "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap - Bloomberg.com",
     "timestamp": "2026-11-17T04:20:52+00:00",
     "importance": 1,
@@ -308,39 +154,6 @@
     "summary": "米国トウモロコシの収量が困難な生育シーズンにもかかわらず堅調に推移している。USDA Crop Progress の定期報告で、市場予想の範囲内での良好な収量データが確認された。供給サイドでのポジティブなシグナルだが、既に市場織り込み済みの可能性が高い。"
   },
   {
-    "title": "USDA Crop Progress Report November 16, 2026: Corn 88%, Soybeans 96%, Cotton 77% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-16T21:40:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月16日のUSDA穀物進捗レポートで、トウモロコシの収穫進度88%、大豆96%、綿花77%が報告された。大豆の進捗が高く、豊作シナリオが継続確認されたことで、供給懸念の軽減から穀物価格に下押し圧力がかかる見通し。"
-  },
-  {
-    "title": "USDA Crop Progress Report November 16, 2026: Corn 88%, Soybeans 96%, Cotton 77% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-16T21:40:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "2026年11月16日のUSDA穀物進捗レポートで、トウモロコシの収穫進度88%、大豆96%、綿花77%が報告された。大豆の進捗が高く、豊作シナリオが継続確認されたことで、供給懸念の軽減から穀物価格に下押し圧力がかかる見通し。"
-  },
-  {
-    "title": "USDA Crop Progress Report November 16, 2026: Corn 88%, Soybeans 96%, Cotton 77% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-16T21:40:34+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "2026年11月16日のUSDA穀物進捗レポートで、トウモロコシの収穫進度88%、大豆96%、綿花77%が報告された。大豆の進捗が高く、豊作シナリオが継続確認されたことで、供給懸念の軽減から穀物価格に下押し圧力がかかる見通し。"
-  },
-  {
     "title": "Lower USDA corn yield estimate fuels bullish turn in grain markets - Wisconsin Farmer",
     "timestamp": "2026-11-17T11:04:00+00:00",
     "importance": 4,
@@ -471,17 +284,6 @@
     "source": "WASDE関連",
     "commodity": "大豆",
     "summary": "USDAのWASDE（世界農業需給見通し）レポートでトウモロコシと大豆の期末在庫予想が引き下げられた。在庫減少は供給逼迫を示唆し、価格上昇圧力となる。具体的な数値が記事から確認できないため、市場への影響度は在庫削減幅に依存。"
-  },
-  {
-    "title": "OPEC+ Likely to Again Raise Oil Output Targets From September, Sources Say - EnergyNow.com",
-    "timestamp": "2026-11-16T18:46:19+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が9月以降に再び石油生産目標を引き上げる可能性が報じられた。複数の情報筋によると、減産調整の一部解除が検討されている。市場ではすでに段階的な供給増加の可能性が織り込まれており、急激なサプライズではない。"
   },
   {
     "title": "Oil prices fall as higher US crude stocks temper supply risks - Reuters",
@@ -770,17 +572,6 @@
     "summary": "中東の地政学的緊張が存在する一方で、供給の安定性と米国の在庫水準がこれをオフセットしており、原油価格は方向感を欠いている。供給要因と需給バランスが拮抗した状況が続いている。"
   },
   {
-    "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs - Bloomberg",
-    "timestamp": "2026-11-16T20:15:45+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "ゴールドマン・サックスは金がすべての時間高値を回復するまでに2年の期間が必要との見通しを発表。現在の金価格が史上最高値に近接している状況下での慎重なタイムラインは、強気相場の勢いが限定的であることを示唆している。高金利環境が金の無利子資産としての相対的な魅力を減少させている。"
-  },
-  {
     "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
     "timestamp": "2026-11-19T07:04:18+00:00",
     "importance": 2,
@@ -878,5 +669,258 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ベネズエラがCOP31でAI技術を活用した石油生産のクリーン化を提唱。同国は経済制裁下で石油産業が停滞しており、技術革新による生産効率化を標榜する政治的メッセージの側面が強い。実現性や具体的な導入時期は不明。"
+  },
+  {
+    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
+    "timestamp": "2026-11-19T13:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
+  },
+  {
+    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
+    "timestamp": "2026-11-19T13:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
+  },
+  {
+    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
+    "timestamp": "2026-11-19T13:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
+  },
+  {
+    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
+    "timestamp": "2026-11-19T13:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
+  },
+  {
+    "title": "Crude Oil Price Forecast: WTI Faces $80 Test Ahead of EIA Report - FXEmpire",
+    "timestamp": "2026-11-18T14:20:29+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "WTI原油が$80のテストを控えており、直後のEIA在庫レポート発表が重要な価格決定要因となる見通し。現在の価格水準は技術的レジスタンス付近にあり、EIA報告書の需給データが市場反応を左右する可能性が高い。在庫動向によって上下いずれにも振れる余地がある状況。"
+  },
+  {
+    "title": "US Total Weekly EIA Crude Oil Stocks Rise by 200,000 Barrels After Prior 2.0 Million Increase - marketscreener.com",
+    "timestamp": "2026-11-18T15:31:14+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の週間原油在庫が20万バレル増加した。前週は200万バレルの大幅増加を記録していたため、今週の増加ペースは大幅に鈍化。在庫増加トレンドが続いているが、増加幅の縮小は需要改善またはリファイナリー稼働率低下を示唆する可能性がある。"
+  },
+  {
+    "title": "US Total Weekly EIA Crude Oil Stocks Rise by 200,000 Barrels After Prior 2.0 Million Increase - marketscreener.com",
+    "timestamp": "2026-11-18T15:31:14+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "米国の週間原油在庫が20万バレル増加した。前週は200万バレルの大幅増加を記録していたため、今週の増加ペースは大幅に鈍化。在庫増加トレンドが続いているが、増加幅の縮小は需要改善またはリファイナリー稼働率低下を示唆する可能性がある。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:43:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:43:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:43:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:43:54+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
+  },
+  {
+    "title": "UBS Calls Copper Slump a Reset, Not a Demand Breakdown, With LME Support at $12,000 - BigGo Finance",
+    "timestamp": "2026-11-19T19:35:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "UBSはLME銅価格の下落を需要の崩壊ではなく「リセット」と位置付けた。同行は$12,000/tをサポートレベルとして見据えており、構造的な需要基盤は依然堅牢だが、短期的な価格調整局面が継続すると分析している。需給バランスの再構築段階にあるとの見方。"
+  },
+  {
+    "title": "UBS Calls Copper Slump a Reset, Not a Demand Breakdown, With LME Support at $12,000 - BigGo Finance",
+    "timestamp": "2026-11-19T19:35:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "UBSはLME銅価格の下落を需要の崩壊ではなく「リセット」と位置付けた。同行は$12,000/tをサポートレベルとして見据えており、構造的な需要基盤は依然堅牢だが、短期的な価格調整局面が継続すると分析している。需給バランスの再構築段階にあるとの見方。"
+  },
+  {
+    "title": "Hawk Resources (ASX:HWK) Reports Copper Indicators at Cactus and Disappointing Scandium Results - Kalkine",
+    "timestamp": "2026-11-18T01:54:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "Hawk Resources（ASX:HWK）がCactus鉱区で銅の有望指標を報告した一方、スカンジウム探鉱成果は期待を下回った。同社の複数コモディティ戦略における進捗状況の開示であり、個別企業ニュースとしての性格が強い。市場全体への波及効果は限定的と考えられる。"
+  },
+  {
+    "title": "Hawk Resources (ASX:HWK) Reports Copper Indicators at Cactus and Disappointing Scandium Results - Kalkine",
+    "timestamp": "2026-11-18T01:54:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "スカンジウム",
+    "summary": "Hawk Resources（ASX:HWK）がCactus鉱区で銅の有望指標を報告した一方、スカンジウム探鉱成果は期待を下回った。同社の複数コモディティ戦略における進捗状況の開示であり、個別企業ニュースとしての性格が強い。市場全体への波及効果は限定的と考えられる。"
+  },
+  {
+    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow",
+    "timestamp": "2026-11-17T22:44:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+は日曜日の会合で原油生産目標を現水準に据え置く方針。既に報道されている段階で市場は大方織り込んでいる見通し。生産政策の安定性を示唆する一方、追加的な供給調整は期待できず、相場への新たなドライバーは限定的。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-11-18T15:17:23+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国インフレデータの好材料が市場心理を支援し、原油価格は小幅上昇で決着。一方、OPEC供給懸念が下押し圧力として機能。ドル強化により金を含むコモディティ全般に逆風。好インフレデータはドル高・金利上昇シグナルとなり、無利子資産である金の下落圧力となる。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-11-18T15:17:23+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "金",
+    "summary": "米国インフレデータの好材料が市場心理を支援し、原油価格は小幅上昇で決着。一方、OPEC供給懸念が下押し圧力として機能。ドル強化により金を含むコモディティ全般に逆風。好インフレデータはドル高・金利上昇シグナルとなり、無利子資産である金の下落圧力となる。"
+  },
+  {
+    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+    "timestamp": "2026-11-18T15:17:23+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国インフレデータの好材料が市場心理を支援し、原油価格は小幅上昇で決着。一方、OPEC供給懸念が下押し圧力として機能。ドル強化により金を含むコモディティ全般に逆風。好インフレデータはドル高・金利上昇シグナルとなり、無利子資産である金の下落圧力となる。"
+  },
+  {
+    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
+    "timestamp": "2026-11-18T19:23:51+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECアナリストBoossoは、ホルムズ海峡の再開通がOPECの減産戦略に対する脅威となる可能性を指摘。同海峡を経由する石油供給の増加は、OPEC減産による価格支持効果を相殺し、原油価格の下落圧力となりうる。地政学的リスクプレミアムの縮小も懸念材料。"
+  },
+  {
+    "title": "Russia repels Ukrainian drones attack on oil facility in Tatarstan region, local authorities say - Reuters",
+    "timestamp": "2026-11-19T18:08:24+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがロシア・タタルスタン地域の石油施設に対してドローン攻撃を実施。ロシア当局によれば攻撃は撃退されたと発表。ロシアの石油供給に対する継続的な脅威が存在することを示唆し、原油市場のリスク・プレミアムを支持する要因となる。"
+  },
+  {
+    "title": "In Russia’s Shadow, Norway Expands Its Arctic Energy Frontier - Bloomberg.com",
+    "timestamp": "2026-11-19T05:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの地政学的影響が高まる中、ノルウェーが北極圏のエネルギー開発を加速させている。ロシアの供給制約を背景に、西側民主主義国による代替供給源確保の動きが活発化。北極圏エネルギー開発の拡大は長期的な供給構造の再編を示唆し、エネルギーコモディティ全体に構造的な上昇圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "In Russia’s Shadow, Norway Expands Its Arctic Energy Frontier - Bloomberg.com",
+    "timestamp": "2026-11-19T05:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの地政学的影響が高まる中、ノルウェーが北極圏のエネルギー開発を加速させている。ロシアの供給制約を背景に、西側民主主義国による代替供給源確保の動きが活発化。北極圏エネルギー開発の拡大は長期的な供給構造の再編を示唆し、エネルギーコモディティ全体に構造的な上昇圧力をもたらす可能性がある。"
   }
 ]
