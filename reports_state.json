@@ -1,27 +1,5 @@
 [
   {
-    "title": "Stronger Demand Offsets Record Soybean Production in November - RFD-TV",
-    "timestamp": "2026-11-16T12:22:02+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "11月の大豆生産が記録的な水準に達する一方、需要の堅調さがこれをオフセットしている。供給増が懸念される中、需要面での強さが価格を支えている状況。穀物市場は供給と需要のバランス再評価局面にある。"
-  },
-  {
-    "title": "Stronger Demand Offsets Record Soybean Production in November - RFD-TV",
-    "timestamp": "2026-11-16T12:22:02+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "11月の大豆生産が記録的な水準に達する一方、需要の堅調さがこれをオフセットしている。供給増が懸念される中、需要面での強さが価格を支えている状況。穀物市場は供給と需要のバランス再評価局面にある。"
-  },
-  {
     "title": "USDA Report Sparks Relief Rally in Corn and Soybeans - Farms.com",
     "timestamp": "2026-11-16T21:24:58+00:00",
     "importance": 3,
@@ -42,39 +20,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "USDAの定期Crop Progress報告書が市場に安心感をもたらし、トウモロコシと大豆に買い戻しの動きが発生した。報告内容が作付・生育状況で懸念を緩和したものと推測される。Relief rallyの発生は、直前にショート筋の売却圧力があったことを示唆している。"
-  },
-  {
-    "title": "USDA Crop Progress: 12% of Corn, 4% of Soybeans Left to Harvest; Winter Wheat Condition Up as of Nov. 15 - DTN Progressive Farmer",
-    "timestamp": "2026-11-16T09:04:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA Crop Progressレポート（11月15日時点）により、トウモロコシの収穫残存が12%、大豆が4%と報告された。冬小麦の作況は改善傾向を示している。収穫が最終段階に入りつつある通常の進捗状況の報告である。"
-  },
-  {
-    "title": "USDA Crop Progress: 12% of Corn, 4% of Soybeans Left to Harvest; Winter Wheat Condition Up as of Nov. 15 - DTN Progressive Farmer",
-    "timestamp": "2026-11-16T09:04:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDA Crop Progressレポート（11月15日時点）により、トウモロコシの収穫残存が12%、大豆が4%と報告された。冬小麦の作況は改善傾向を示している。収穫が最終段階に入りつつある通常の進捗状況の報告である。"
-  },
-  {
-    "title": "USDA Crop Progress: 12% of Corn, 4% of Soybeans Left to Harvest; Winter Wheat Condition Up as of Nov. 15 - DTN Progressive Farmer",
-    "timestamp": "2026-11-16T09:04:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA Crop Progressレポート（11月15日時点）により、トウモロコシの収穫残存が12%、大豆が4%と報告された。冬小麦の作況は改善傾向を示している。収穫が最終段階に入りつつある通常の進捗状況の報告である。"
   },
   {
     "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Reuters",
@@ -132,28 +77,6 @@
     "summary": "ウクライナが戦争開始以来最大規模のドローン攻撃をロシアに実施。地政学的リスク再燃により、エネルギー供給懸念が顕在化。ロシアの石油・ガス生産インフラへの直接的な脅威となり、市場では原油価格の上昇圧力が強まる可能性が高い。"
   },
   {
-    "title": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
-    "timestamp": "2026-11-16T07:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアの脱石油戦略の推進が地政学的リスク（中東紛争）により阻害されている状況を解説。同国のビジョン2030は再生可能エネルギーと多角化を掲げるが、現在の地域紛争が長期的な構造転換を複雑化させる見通し。原油市場にとって供給の不確実性が増す中期的リスク要因。"
-  },
-  {
-    "title": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
-    "timestamp": "2026-11-16T07:00:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "サウジアラビアの脱石油戦略の推進が地政学的リスク（中東紛争）により阻害されている状況を解説。同国のビジョン2030は再生可能エネルギーと多角化を掲げるが、現在の地域紛争が長期的な構造転換を複雑化させる見通し。原油市場にとって供給の不確実性が増す中期的リスク要因。"
-  },
-  {
     "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs - Bloomberg.com",
     "timestamp": "2026-11-16T20:15:45+00:00",
     "importance": 3,
@@ -174,17 +97,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ゴールドマン・サックスが金価格について、過去最高値を更新するまでに2年の期間を要すると予測している。現在の金価格が史上最高値から下方にあることを示唆し、近期的な急速な上昇を期待すべきではないという見方が示唆されている。"
-  },
-  {
-    "title": "Crude Oil Weekly Outlook: Geopolitics vs Oversupply Risks - StoneX",
-    "timestamp": "2026-11-16T11:32:10+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "StoneXが原油市場の週間見通しをまとめたコメンタリーレポート。地政学的なリスク（供給懸念）と過剰供給リスクの両面が原油価格に作用する緊張関係を分析。両要因がバランスしている状況下での相場展開を想定している可能性が高い。"
   },
   {
     "title": "RFD-TV Weekly State-by-State Crop Progress and Livestock Production Update — Monday, November 16, 2026 - RFD-TV",
@@ -867,5 +779,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "金",
     "summary": "ゴールドマン・サックスは金がすべての時間高値を回復するまでに2年の期間が必要との見通しを発表。現在の金価格が史上最高値に近接している状況下での慎重なタイムラインは、強気相場の勢いが限定的であることを示唆している。高金利環境が金の無利子資産としての相対的な魅力を減少させている。"
+  },
+  {
+    "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
+    "timestamp": "2026-11-19T07:04:18+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは需要懸念または供給過剰を示唆し、原油価格に下押し圧力となる。ただし具体的な在庫増加量や前週比データが記事に記載されていないため、変動幅の評価は限定的。"
+  },
+  {
+    "title": "OPEC completes review of output levels for 2027 baselines - Quantum Commodity Intelligence",
+    "timestamp": "2026-11-17T11:39:22+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2027年のベースラインとなる産出レベルの見直しを完了した。この定期的な基準設定は生産割当メカニズムの一部であり、市場はすでに同様の見直しプロセスを織り込み済み。短期的な価格インパクトは限定的と予想される。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-11-18T08:17:14+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから脱退を決定し、石油輸出国機構の統一性と影響力が大きく損なわれる。脱退によりOPECの減産協調体制が弱体化し、原油価格の下押し圧力が強まるとともに、価格戦争のリスクが顕在化。OPEC結束の亀裂は市場安定性を著しく阻害する懸念。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-11-18T08:17:14+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECから脱退を決定し、石油輸出国機構の統一性と影響力が大きく損なわれる。脱退によりOPECの減産協調体制が弱体化し、原油価格の下押し圧力が強まるとともに、価格戦争のリスクが顕在化。OPEC結束の亀裂は市場安定性を著しく阻害する懸念。"
+  },
+  {
+    "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
+    "timestamp": "2026-11-19T06:29:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアがアラブ首長国連邦を抜き、インドの第2位の石油供給国となった。ロシアは引き続き第1位を維持している。これはOPEC加盟国間の供給シェア競争の動きを示唆しており、インドなど新興市場への販売戦略の変化を反映している。"
+  },
+  {
+    "title": "Oil prices rise as Middle East shipping attacks counter supply surplus outlook - Reuters",
+    "timestamp": "2026-11-19T02:47:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の海運攻撃が原油価格を押し上げている。供給余剰見通しという下押し要因がある中でも、地政学的リスク（Houthi攻撃など紅海での船舶攻撃）がサプライチェーン懸念を再燃させ、価格上昇圧力が発生。短期的なボラティリティ拡大と上昇トレンドが継続する可能性が高い。"
+  },
+  {
+    "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters",
+    "timestamp": "2026-11-19T05:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "IEAが、イラン紛争への対応として各国が進めるエネルギー安全保障施策により、2035年までに世界の石油需要が4%削減される可能性があると発表。再生可能エネルギー導入加速と省エネ投資が大幅に進むシナリオで、長期的な石油需要減速が示唆された。"
+  },
+  {
+    "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters",
+    "timestamp": "2026-11-19T05:05:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "IEAが、イラン紛争への対応として各国が進めるエネルギー安全保障施策により、2035年までに世界の石油需要が4%削減される可能性があると発表。再生可能エネルギー導入加速と省エネ投資が大幅に進むシナリオで、長期的な石油需要減速が示唆された。"
+  },
+  {
+    "title": "At COP31, Venezuela touts AI as path to cleaner oil production - Reuters",
+    "timestamp": "2026-11-19T09:01:45+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ベネズエラがCOP31でAI技術を活用した石油生産のクリーン化を提唱。同国は経済制裁下で石油産業が停滞しており、技術革新による生産効率化を標榜する政治的メッセージの側面が強い。実現性や具体的な導入時期は不明。"
   }
 ]
