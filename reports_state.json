@@ -1,38 +1,5 @@
 [
   {
-    "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg",
-    "timestamp": "2026-11-16T01:20:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "アジア株式市場がAI関連の圧力とデータ発表の影響で調整局面を迎えている。この株式市場の不安定化は、リスク資産としての原油需要を圧迫する可能性がある一方、安全資産としての金に対する需要は支援材料となる可能性がある。具体的な経済指標やコモディティ価格への直接的な影響は本ニュースタイトルからは特定できない。"
-  },
-  {
-    "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg",
-    "timestamp": "2026-11-16T01:20:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "アジア株式市場がAI関連の圧力とデータ発表の影響で調整局面を迎えている。この株式市場の不安定化は、リスク資産としての原油需要を圧迫する可能性がある一方、安全資産としての金に対する需要は支援材料となる可能性がある。具体的な経済指標やコモディティ価格への直接的な影響は本ニュースタイトルからは特定できない。"
-  },
-  {
-    "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg",
-    "timestamp": "2026-11-16T01:20:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "アジア株式市場がAI関連の圧力とデータ発表の影響で調整局面を迎えている。この株式市場の不安定化は、リスク資産としての原油需要を圧迫する可能性がある一方、安全資産としての金に対する需要は支援材料となる可能性がある。具体的な経済指標やコモディティ価格への直接的な影響は本ニュースタイトルからは特定できない。"
-  },
-  {
     "title": "Stronger Demand Offsets Record Soybean Production in November - RFD-TV",
     "timestamp": "2026-11-16T12:22:02+00:00",
     "importance": 3,
@@ -130,28 +97,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "金が1年ぶりの安値まで下落し、2015年以来の最悪年を記録する見通し。米国債利回りの上昇と米ドル強化が主な下押し要因。金利上昇環境では無利子資産である金の相対的魅力が低下し、ドル高は金の購買力を減退させている。"
-  },
-  {
-    "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops - Reuters",
-    "timestamp": "2026-11-16T01:35:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "株式市場がNvidia決算とAnthropicのIPO控えで売られており、リスク回避ムードが強まっている。これに伴い原油価格が下落。テック企業の業績・IPOといった金融市場のイベントが商品市場に波及している典型的なリスクオフシナリオ。"
-  },
-  {
-    "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops - Reuters",
-    "timestamp": "2026-11-16T01:35:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "株式市場がNvidia決算とAnthropicのIPO控えで売られており、リスク回避ムードが強まっている。これに伴い原油価格が下落。テック企業の業績・IPOといった金融市場のイベントが商品市場に波及している典型的なリスクオフシナリオ。"
   },
   {
     "title": "OPEC officials meet to discuss oil production capacity review - Reuters",
@@ -845,5 +790,82 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "欧州のEV販売が10月に急増した。高い石油価格とEV購入補助金がこの需要増を牽引している。石油価格の上昇がEVへの転換インセンティブを強化し、政府補助金と相まってEV市場の成長を加速させている。"
+  },
+  {
+    "title": "A fast and furious harvest season - Ohio's Country Journal",
+    "timestamp": "2026-11-18T20:01:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "オハイオ州における収穫シーズンが急速に進行している状況を報じたレポート。収穫ペースが例年を上回る「fast and furious」な展開となっており、天候条件の好転を背景に穀物の早期出荷が進むと予想される。具体的な収穫率・生産量などの数値は記事タイトルからは抽出不可。"
+  },
+  {
+    "title": "A fast and furious harvest season - Ohio's Country Journal",
+    "timestamp": "2026-11-18T20:01:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "オハイオ州における収穫シーズンが急速に進行している状況を報じたレポート。収穫ペースが例年を上回る「fast and furious」な展開となっており、天候条件の好転を背景に穀物の早期出荷が進むと予想される。具体的な収穫率・生産量などの数値は記事タイトルからは抽出不可。"
+  },
+  {
+    "title": "A fast and furious harvest season - Ohio's Country Journal",
+    "timestamp": "2026-11-18T20:01:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "オハイオ州における収穫シーズンが急速に進行している状況を報じたレポート。収穫ペースが例年を上回る「fast and furious」な展開となっており、天候条件の好転を背景に穀物の早期出荷が進むと予想される。具体的な収穫率・生産量などの数値は記事タイトルからは抽出不可。"
+  },
+  {
+    "title": "Copper stocks fall as LME prices plunge to seven-month low - Proactive financial news",
+    "timestamp": "2026-11-18T16:01:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "LME銅先物価格が7ヶ月ぶりの安値まで急落し、これに連動して銅関連株も売り込まれた。グローバルな景気減速懸念、特に中国需要の弱さと米金利高による投機的ポジションの巻き戻しが主因と考えられる。"
+  },
+  {
+    "title": "Copper stocks fall as LME prices plunge to seven-month low - Proactive financial news",
+    "timestamp": "2026-11-18T16:01:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "LME銅先物価格が7ヶ月ぶりの安値まで急落し、これに連動して銅関連株も売り込まれた。グローバルな景気減速懸念、特に中国需要の弱さと米金利高による投機的ポジションの巻き戻しが主因と考えられる。"
+  },
+  {
+    "title": "Oil Steadies as Supply, US Inventories Offset Mideast Tensions - Bloomberg",
+    "timestamp": "2026-11-19T02:21:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の地政学的緊張が存在する一方で、供給の安定性と米国の在庫水準がこれをオフセットしており、原油価格は方向感を欠いている。供給要因と需給バランスが拮抗した状況が続いている。"
+  },
+  {
+    "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs - Bloomberg",
+    "timestamp": "2026-11-16T20:15:45+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "ゴールドマン・サックスは金がすべての時間高値を回復するまでに2年の期間が必要との見通しを発表。現在の金価格が史上最高値に近接している状況下での慎重なタイムラインは、強気相場の勢いが限定的であることを示唆している。高金利環境が金の無利子資産としての相対的な魅力を減少させている。"
   }
 ]
