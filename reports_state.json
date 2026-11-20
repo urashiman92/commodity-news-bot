@@ -44,17 +44,6 @@
     "summary": "EIA週間原油在庫統計で、実績は+465.7万バレルと大幅な在庫増加となった。市場予想は-110.9万バレルの減少を見込んでいたため、予想との乖離は576.6万バレルの大型サプライズ。在庫増加は供給過剰を示唆し、原油価格に下押し圧力。"
   },
   {
-    "title": "OPEC+ to Boost Crude Output, but Can it Deliver and Who Will Buy?: Russell - EnergyNow.com",
-    "timestamp": "2026-11-16T23:30:50+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が原油増産を表明しているが、実際の実行可能性と需要サイドの購買力に疑問を提示するアナリスト評論。増産発表は供給緩和要因として原油価格下落圧力となるが、地政学的リスクや需要減退懸念により市場反応は不透明。タイトルの「Can it Deliver and Who Will Buy?」という問い自体が市場の懐疑的姿勢を反映。"
-  },
-  {
     "title": "India's IOC gets government nod for commercial-scale sustainable aviation fuel production - Reuters",
     "timestamp": "2026-11-17T06:03:00+00:00",
     "importance": 3,
@@ -372,17 +361,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "著名ヘッジファンド運用者Stan Druckenmillerが銅をショート（売り建て）ポジションを取っていることを表明。同氏は株式については中立スタンスを保持。銅相場の下落トレンドを見込む戦略的な賭けを示唆。"
-  },
-  {
-    "title": "Crop Progress: Winter wheat conditions continue to improve - Farm Progress",
-    "timestamp": "2026-11-16T22:31:03+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国の冬小麦の作柄状況が継続して改善傾向にある。定期的なCrop Progress報告による通常の進捗更新。作柄改善は供給増加圧力となり、小麦価格の上値を抑制する要因。"
   },
   {
     "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
@@ -922,5 +900,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの地政学的影響が高まる中、ノルウェーが北極圏のエネルギー開発を加速させている。ロシアの供給制約を背景に、西側民主主義国による代替供給源確保の動きが活発化。北極圏エネルギー開発の拡大は長期的な供給構造の再編を示唆し、エネルギーコモディティ全体に構造的な上昇圧力をもたらす可能性がある。"
+  },
+  {
+    "title": "Copper’s Recent Selloff Could Present Long-Term Buying Opportunity, UBS Says: Report - TradingView",
+    "timestamp": "2026-11-19T18:52:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "UBSがアナリスト見解として、銅の最近の売却局面は長期的な買い機会を提示する可能性があると指摘。現在の下落は過度な調整と判断され、ファンダメンタルズは長期的には強気要因が支配的と評価。グリーンエネルギー転換と電動車需要の拡大が銅需要の主要成長ドライバーとされている。"
+  },
+  {
+    "title": "Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk - Bloomberg.com",
+    "timestamp": "2026-11-20T01:12:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油は3週連続の下落が見込まれている。地政学的リスク（戦争要因）があるものの、潤沢な供給がこれを相殺し、下押し圧力が勝っている状況。需給バランスが供給過剰傾向にあることが価格弱気要因として機能している。"
   }
 ]
