@@ -1,93 +1,5 @@
 [
   {
-    "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-17T04:20:52+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "NvidiaとAnthropicの決算発表を控えたアジア株の下落見通しについての市場解説記事。テクノロジー企業の業績期待がコモディティ市場に与える直接的な影響は限定的であり、マクロ経済環境やドル動向への間接的な影響に留まる。"
-  },
-  {
-    "title": "Turkey industry rebounds as demand stays strong. However, risks remain - Wisconsin Farmer",
-    "timestamp": "2026-11-17T11:00:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "ウィスコンシン州の七面鳥産業が需要の堅調さを背景に回復基調を示している。ただし、供給チェーンコストやフィードコスト（穀物価格）の上昇、地政学的リスク、労働力確保の課題など複数のリスク要因が存在する。生産再開は前向きだが、持続可能性には不確実性がある。"
-  },
-  {
-    "title": "Turkey industry rebounds as demand stays strong. However, risks remain - Wisconsin Farmer",
-    "timestamp": "2026-11-17T11:00:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "ウィスコンシン州の七面鳥産業が需要の堅調さを背景に回復基調を示している。ただし、供給チェーンコストやフィードコスト（穀物価格）の上昇、地政学的リスク、労働力確保の課題など複数のリスク要因が存在する。生産再開は前向きだが、持続可能性には不確実性がある。"
-  },
-  {
-    "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
-    "timestamp": "2026-11-17T10:30:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で、実績は+465.7万バレルと大幅な在庫増加となった。市場予想は-110.9万バレルの減少を見込んでいたため、予想との乖離は576.6万バレルの大型サプライズ。在庫増加は供給過剰を示唆し、原油価格に下押し圧力。"
-  },
-  {
-    "title": "India's IOC gets government nod for commercial-scale sustainable aviation fuel production - Reuters",
-    "timestamp": "2026-11-17T06:03:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インド国営石油会社IOCが政府承認を得て、商業規模のサステイナブル航空燃料（SAF）生産に進む。SAF市場は急速に成長中であり、石油精製業界の新しい高付加価値事業分野として注目される。ただし記事には具体的な生産量や投資額の記載がない。"
-  },
-  {
-    "title": "India's IOC gets government nod for commercial-scale sustainable aviation fuel production - Reuters",
-    "timestamp": "2026-11-17T06:03:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド国営石油会社IOCが政府承認を得て、商業規模のサステイナブル航空燃料（SAF）生産に進む。SAF市場は急速に成長中であり、石油精製業界の新しい高付加価値事業分野として注目される。ただし記事には具体的な生産量や投資額の記載がない。"
-  },
-  {
-    "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers - Bloomberg.com",
-    "timestamp": "2026-11-17T11:39:07+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国ガソリン小売価格が3月以来の最安値まで低下した。原油供給が回復基調にあることが背景で、需要懸念に対して供給サイドの改善が進行中である。エネルギー価格全体に下押し圧力が継続している。"
-  },
-  {
-    "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers - Bloomberg.com",
-    "timestamp": "2026-11-17T11:39:07+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "米国ガソリン小売価格が3月以来の最安値まで低下した。原油供給が回復基調にあることが背景で、需要懸念に対して供給サイドの改善が進行中である。エネルギー価格全体に下押し圧力が継続している。"
-  },
-  {
     "title": "Soybean Prices Face a New Test as USDA Cuts Stocks: Is Another Rally Coming? - AgroLatam",
     "timestamp": "2026-11-17T20:52:52+00:00",
     "importance": 3,
@@ -143,39 +55,6 @@
     "summary": "米国トウモロコシの収量が困難な生育シーズンにもかかわらず堅調に推移している。USDA Crop Progress の定期報告で、市場予想の範囲内での良好な収量データが確認された。供給サイドでのポジティブなシグナルだが、既に市場織り込み済みの可能性が高い。"
   },
   {
-    "title": "Lower USDA corn yield estimate fuels bullish turn in grain markets - Wisconsin Farmer",
-    "timestamp": "2026-11-17T11:04:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAがトウモロコシの収量見通しを引き下げ、穀物市場に強気転換をもたらした。収量予想の下方修正は供給懸念を加速させ、特にトウモロコシ先物相場が大きく上昇した。大豆・小麦などの穀物全般にも連動買いが入り、農産物セクター全体が上昇基調に転じている。"
-  },
-  {
-    "title": "Lower USDA corn yield estimate fuels bullish turn in grain markets - Wisconsin Farmer",
-    "timestamp": "2026-11-17T11:04:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAがトウモロコシの収量見通しを引き下げ、穀物市場に強気転換をもたらした。収量予想の下方修正は供給懸念を加速させ、特にトウモロコシ先物相場が大きく上昇した。大豆・小麦などの穀物全般にも連動買いが入り、農産物セクター全体が上昇基調に転じている。"
-  },
-  {
-    "title": "Lower USDA corn yield estimate fuels bullish turn in grain markets - Wisconsin Farmer",
-    "timestamp": "2026-11-17T11:04:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAがトウモロコシの収量見通しを引き下げ、穀物市場に強気転換をもたらした。収量予想の下方修正は供給懸念を加速させ、特にトウモロコシ先物相場が大きく上昇した。大豆・小麦などの穀物全般にも連動買いが入り、農産物セクター全体が上昇基調に転じている。"
-  },
-  {
     "title": "Copper Under Pressure Despite Structural Demand: What the LME Curve Is Signalling - kalkine.ca",
     "timestamp": "2026-11-17T14:14:00+00:00",
     "importance": 3,
@@ -207,50 +86,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシアが7月以来の最高水準で原油輸出を拡大している一方、ドローン攻撃によりロシア国内の製油所が打撃を受けている。輸出増加は供給懸念を和らげるが、製油所被害は精製能力低下を意味し、市場への二律背反的な影響をもたらす可能性がある。"
-  },
-  {
-    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
-    "timestamp": "2026-11-17T07:22:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
-  },
-  {
-    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
-    "timestamp": "2026-11-17T07:22:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
-  },
-  {
-    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
-    "timestamp": "2026-11-17T07:22:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
-  },
-  {
-    "title": "UK Stocks Draw Investors as AI Boosts Domestic Growth Outlook - Bloomberg.com",
-    "timestamp": "2026-11-17T07:22:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "銅",
-    "summary": "英国株が投資家を集めており、AI技術が国内成長見通しを押し上げているとの報道。これは英国経済の楽観的な見方を示唆している。好況期は一般的にコモディティ需要を支えるが、同時に英ポンド強化は商品先物の米ドル建て価格を相対的に抑制する効果がある。"
   },
   {
     "title": "USDA Reports Reduce Anticipated Corn and Soybean Ending Stocks - Morning Ag Clips",
@@ -559,17 +394,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは需要懸念または供給過剰を示唆し、原油価格に下押し圧力となる。ただし具体的な在庫増加量や前週比データが記事に記載されていないため、変動幅の評価は限定的。"
-  },
-  {
-    "title": "OPEC completes review of output levels for 2027 baselines - Quantum Commodity Intelligence",
-    "timestamp": "2026-11-17T11:39:22+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2027年のベースラインとなる産出レベルの見直しを完了した。この定期的な基準設定は生産割当メカニズムの一部であり、市場はすでに同様の見直しプロセスを織り込み済み。短期的な価格インパクトは限定的と予想される。"
   },
   {
     "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
@@ -922,5 +746,49 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "原油は3週連続の下落が見込まれている。地政学的リスク（戦争要因）があるものの、潤沢な供給がこれを相殺し、下押し圧力が勝っている状況。需給バランスが供給過剰傾向にあることが価格弱気要因として機能している。"
+  },
+  {
+    "title": "November WASDE report friendly to corn - AgUpdate",
+    "timestamp": "2026-11-19T12:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "11月のWASDEレポートがトウモロコシ相場に好材料をもたらした。報告書の具体的な内容は記事タイトルのみで詳細が不明だが、需給見通しの改善またはアメリカの作付面積・生産量などの上方修正の可能性が考えられる。トウモロコシ相場は需給逼迫から相対的な緩和へのシフトを示唆している。"
+  },
+  {
+    "title": "Wheat Prices Drop Despite Strong Acreage Projections While Soybean Crush Hits Record High - Oklahoma Farm Report",
+    "timestamp": "2026-11-17T15:50:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "小麦は作付面積予想が堅調にもかかわらず価格が下落し、供給過剰懸念が市場を圧迫している。一方、大豆圧搾処理（Crush）が過去最高を記録し、需要面での強さを示している。両穀物の需給構造が分岐する展開。"
+  },
+  {
+    "title": "Wheat Prices Drop Despite Strong Acreage Projections While Soybean Crush Hits Record High - Oklahoma Farm Report",
+    "timestamp": "2026-11-17T15:50:36+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "小麦は作付面積予想が堅調にもかかわらず価格が下落し、供給過剰懸念が市場を圧迫している。一方、大豆圧搾処理（Crush）が過去最高を記録し、需要面での強さを示している。両穀物の需給構造が分岐する展開。"
+  },
+  {
+    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
+    "timestamp": "2026-11-19T23:09:04+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の増産決定について、現在の市場環境では供給増が価格に与える影響は限定的であるとの見方が示されている。ただし、将来的には増産の累積効果が原油市場に影響を及ぼす可能性があり、中期的な注視が必要と指摘されている。"
   }
 ]
