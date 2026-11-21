@@ -1,71 +1,5 @@
 [
   {
-    "title": "金価格が上昇しない理由をUBSが解説 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-18T14:32:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "UBSが金価格が上昇しない理由を解説するコメンタリー。既に進行中の相場環境についての分析記事。"
-  },
-  {
-    "title": "金価格が3,800ドル割れ、ドル指数は52週ぶり高値 エヌビディア決算がAI株を救うもタカ派利上げの影消えず - BigGo ファイナンス",
-    "timestamp": "2026-11-18T13:56:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3,800ドル割れまで下落。ドル指数が52週ぶり高値を更新し、金売り圧力となっている。タカ派利上げ観測が継続し、ドル強気相場が金の逆風となっている。"
-  },
-  {
-    "title": "金価格、14か月ぶり安値3760ドル 2027年に回復か - BeInCrypto",
-    "timestamp": "2026-11-18T12:58:53+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が14か月ぶりの安値3760ドルまで下落。記事では2027年の回復見通しが示唆されている。現在の下落トレンドは既に市場に織り込まれた状況。"
-  },
-  {
-    "title": "金価格が2%近く急落し3,800ドルの大台を割り込む エヌビディアの決算がAIセクターを支援｜今夜の注目点 - Moomoo",
-    "timestamp": "2026-11-18T13:27:24+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が2%近く急落し3,800ドルを割込む。リスク資産（AI・テック）の買い戻しにより、安全資産である金から資金流出が発生。エヌビディア決算好調がリスクオン環境を強化。"
-  },
-  {
-    "title": "NY市場動向（午後0時台）：ダウ532ドル安、原油先物3.07ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-18T17:19:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場でダウ平均が532ドル安となり、連動して原油先物が3.07ドル安で推移している。株式市場の下落が商品市場にも波及した相場環境を示している。"
-  },
-  {
-    "title": "銅相場5%超急落、AI関連トレード崩れる－供給逼迫でも金属市場に売り - Bloomberg.com",
-    "timestamp": "2026-11-18T16:51:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅相場が5%超の急落。AI関連トレードの崩れが売り圧力。供給逼迫の構造的強気材料が、テクニカルな売却で相殺された。"
-  },
-  {
     "title": "シカゴ小麦先物、1月以来の最安値に下落 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-11-18T20:08:00+00:00",
     "importance": 3,
@@ -75,17 +9,6 @@
     "source": "Google News",
     "commodity": "小麦",
     "summary": "シカゴ小麦先物が1月以来の最安値を更新した。技術的な下落トレンドが継続している状況。グローバルな小麦供給の潤沢さが相場を圧迫している可能性。"
-  },
-  {
-    "title": "カンザスシティ小麦先物の価格見通し：USX629.71のサポートを上回る限り、方向感に欠ける値動きが下値を抑える可能性 - Traders Union",
-    "timestamp": "2026-11-18T15:21:38+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦先物がUSX629.71のサポートレベルを下支えとして、方向感に欠ける値動きが続いている状況についてのアナリスト見解。明確なトレンドが形成されていない状態を示唆。"
   },
   {
     "title": "金価格(ゴールド)見通し(市況ニュース)：利上げ観測とドル高で金価格は約124ドル急落（2026年11月19日） - OANDA証券",
@@ -130,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1オンス3,700ドル付近まで下落し、底値を模索している状況。既に報じられた価格下落の継続を述べる解説記事。"
-  },
-  {
-    "title": "米FRBの12月利上げ後に金価格は上昇か - BeInCrypto",
-    "timestamp": "2026-11-18T12:47:23+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米FRBの12月利上げ決定後、金価格が上昇する可能性を検討する解説記事。利上げは通常ドル高・金安圧力となるが、市場のセンチメント次第では金需要が高まる可能性を指摘。"
   },
   {
     "title": "原油価格は110ドル超から「85ドル前後」へ下落、今後どうなる？米中間選挙後のイラン再攻撃懸念後退と供給不安の行方 - ダイヤモンド・オンライン",
@@ -231,17 +143,6 @@
     "summary": "銅相場が5%超急落。AI関連の投機的買いが巻き戻された。供給逼迫の構造的強気材料にもかかわらず、テクニカル・リスクオフ売りが優位となった。"
   },
   {
-    "title": "銅相場5%超急落、AI関連トレード崩れる－供給逼迫でも金属市場に売り - TBS NEWS DIG",
-    "timestamp": "2026-11-18T16:51:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅相場が5%超の急落。AI関連の投機的買いポジション整理が主因とされる。供給逼迫の構造的強気材料にもかかわらず、テクニカル売却が優位。"
-  },
-  {
     "title": "NVDA決算～銅価格急落｜大橋ひろこ - note",
     "timestamp": "2026-11-18T19:05:41+00:00",
     "importance": 3,
@@ -251,17 +152,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "NVIDIA決算発表を受けて銅価格が急落。テック企業の業績が銅需要見通しに影響を与えている。景気減速懸念がコモディティ市場に波及。"
-  },
-  {
-    "title": "銅相場5%超急落、AI関連トレード崩れる－供給逼迫でも金属市場に売り - Infoseek",
-    "timestamp": "2026-11-18T16:51:44+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅相場が5%超の急落。AI関連の投機的トレード整理が主因。供給逼迫の構造的強気材料も一時的に売り圧力に押される。"
   },
   {
     "title": "AI強気相場にほころび、銅価格が1日で5%超急落 供給逼迫でも売り優勢 - BigGo ファイナンス",
@@ -438,17 +328,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "トランプ氏がイランへの再軍事攻撃を検討していると報じられ、中東の地政学リスク再燃を懸念。原油の重要な供給地域での紛争可能性が市場を刺激し、原油価格が反発。イラン産原油の供給途絶リスクが顕在化。"
-  },
-  {
-    "title": "野村原油やＷＴＩ原油が堅調、米イラン間の攻撃応酬を警戒し原油価格上昇 - 株探",
-    "timestamp": "2026-11-18T14:30:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米イラン間の攻撃応酬に対する地政学的リスク警戒から、野村原油及びWTI原油が上昇。中東における緊張激化が供給途絶リスクを高め、価格上昇圧力となっている。"
   },
   {
     "title": "WTI 原油先物(2701)【CLMAIN】株価・チャート - Moomoo",
@@ -1582,5 +1461,71 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅先物が下落。供給逼迫の支援的要因があるものの、マクロ経済の悪化圧力がそれを上回った。金融引き締めや景気減速懸念が価格を押し下げ。"
+  },
+  {
+    "title": "金価格が週間で9％急落、4,000ドルの防衛ライン割れ 専門家「流動性の真空であり、ファンダメンタルズの悪化ではない」 - BigGo ファイナンス",
+    "timestamp": "2026-11-21T14:25:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が週間で9％急落し、4,000ドルの重要サポートレベルを割った。専門家は流動性不足による技術的な売却圧力であり、ファンダメンタルズ悪化が原因ではないとコメント。"
+  },
+  {
+    "title": "UBSが利下げ期待回復前の金相場のさらなる下落を警告 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-21T17:50:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "UBSがアナリスト見解として、利下げ期待が回復する前に金相場のさらなる下落を警告。金は利下げサイクル入りまで上昇圧力が限定的な状況が続く見通し。現在の金価格には下値リスクが存在する可能性を指摘。"
+  },
+  {
+    "title": "金価格が週間で9.4%下落、14ヶ月ぶりの安値に - IDNFinancials",
+    "timestamp": "2026-11-21T08:30:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が週間で9.4%下落し、14ヶ月ぶりの安値に到達した。ドル高や米国金利上昇圧力が重石となっている可能性がある。技術的なポジション調整と先物市場での売り圧力が影響している。"
+  },
+  {
+    "title": "本日2026年11月22日の金価格は、世界最大の2つの市場で買い需要が急増したことを受け、約10％急落し、3,500ドルのサポートレベルを脅かしている。 - Vietnam.vn",
+    "timestamp": "2026-11-21T16:57:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が約10%の急落を記録し、3,500ドルのサポートレベルが脅かされている。世界最大の2つの市場での買い需要急増が売却トリガーとなった。短期的な価格変動が大きく、テクニカルサポートの破壊リスクがある。"
+  },
+  {
+    "title": "金価格はピーク時から1オンスあたり2000ドル以上下落しており、反転の兆しが見られる。 - Vietnam.vn",
+    "timestamp": "2026-11-21T13:20:40+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格がピーク時から2000ドル/オンス以上下落している状況について、反転の兆しが見られるとの観測記事。既に織り込まれた価格調整の続報で、テクニカル観点の市場解説。"
+  },
+  {
+    "title": "ゴールドマン・サックス、2027年のブレント原油価格見通しを発表 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-21T12:20:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ゴールドマン・サックスが2027年のブレント原油価格見通しを発表。長期的なアナリスト予測であり、即座の市場変動要因ではない。見通し内容の詳細が不明であるため、影響度は判定困難。"
   }
 ]
