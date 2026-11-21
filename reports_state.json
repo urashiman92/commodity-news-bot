@@ -88,28 +88,6 @@
     "summary": "ウクライナによるドローン攻撃によりロシアの11月の石油精製能力がほぼ半減したと報道。同国の主要な精製施設が標的となり、供給側の制約が急速に強まった。地政学的リスクの再燃と供給逼迫懸念が原油価格を押し上げる要因となる。"
   },
   {
-    "title": "Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric - Reuters",
-    "timestamp": "2026-11-18T03:10:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "FRBの強気な金利政策発言を受け、ドル高と米国債利回り上昇が進行。金は14ヶ月ぶりの安値まで下落した。無利子資産である金は利回り上昇環境で売却圧力が強まる構図が続いている。"
-  },
-  {
-    "title": "Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric - Reuters",
-    "timestamp": "2026-11-18T03:10:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "FRBの強気な金利政策発言を受け、ドル高と米国債利回り上昇が進行。金は14ヶ月ぶりの安値まで下落した。無利子資産である金は利回り上昇環境で売却圧力が強まる構図が続いている。"
-  },
-  {
     "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand - Reuters",
     "timestamp": "2026-11-18T14:45:43+00:00",
     "importance": 3,
@@ -207,28 +185,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは需要懸念または供給過剰を示唆し、原油価格に下押し圧力となる。ただし具体的な在庫増加量や前週比データが記事に記載されていないため、変動幅の評価は限定的。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-11-18T08:17:14+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから脱退を決定し、石油輸出国機構の統一性と影響力が大きく損なわれる。脱退によりOPECの減産協調体制が弱体化し、原油価格の下押し圧力が強まるとともに、価格戦争のリスクが顕在化。OPEC結束の亀裂は市場安定性を著しく阻害する懸念。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-11-18T08:17:14+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECから脱退を決定し、石油輸出国機構の統一性と影響力が大きく損なわれる。脱退によりOPECの減産協調体制が弱体化し、原油価格の下押し圧力が強まるとともに、価格戦争のリスクが顕在化。OPEC結束の亀裂は市場安定性を著しく阻害する懸念。"
   },
   {
     "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
@@ -724,5 +680,126 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Tetherのインサイダーが金を活用して約4%の利回りを生み出す新たなスキームを検討している。ステーブルコイン企業による金関連商品の開発は、伝統的な金投資と暗号資産市場の融合を示唆し、金需要の新たな牽引役となる可能性がある。同時に、金の流動性構造や価格メカニズムに変化をもたらす可能性も存在。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
+    "timestamp": "2026-11-18T21:43:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
+    "timestamp": "2026-11-18T21:43:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
+    "timestamp": "2026-11-18T21:43:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
+    "timestamp": "2026-11-18T21:43:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:04:39+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:04:39+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:04:39+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
+  },
+  {
+    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
+    "timestamp": "2026-11-18T21:04:39+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
+    "timestamp": "2026-11-19T12:09:13+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の弱さが続いており、EV普及加速や経済減速懸念が背景。需要見通しの引き下げは供給過剰リスクを高め、原油価格に下押し圧力がかかる可能性がある。"
+  },
+  {
+    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
+    "timestamp": "2026-11-19T12:09:13+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の弱さが続いており、EV普及加速や経済減速懸念が背景。需要見通しの引き下げは供給過剰リスクを高め、原油価格に下押し圧力がかかる可能性がある。"
+  },
+  {
+    "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
+    "timestamp": "2026-11-19T06:31:36+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "インドの石油供給源で構造的な変化が生じており、サウジアラビアがUAEを抜いて第2位の供給国となった。ロシアは引き続き最大の供給国であり、OPEC諸国間の市場シェア競争が激化している状況を示唆している。"
   }
 ]
