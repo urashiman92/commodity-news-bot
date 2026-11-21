@@ -1,71 +1,5 @@
 [
   {
-    "title": "API crude stock report shows lower-than-expected inventory build - Investing.com",
-    "timestamp": "2026-11-17T21:56:15+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API原油在庫報告が市場予想を下回る在庫増加となったことが発表された。在庫増加幅が予想より小さいことは、需要堅調または供給制約を示唆し、原油価格には上昇圧力となる。EIAの正式統計発表を控えた重要な先行指標として機能している。"
-  },
-  {
-    "title": "USDA Reports Reduce Anticipated Corn and Soybean Ending Stocks - Morning Ag Clips",
-    "timestamp": "2026-11-18T02:18:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "USDAのWASDE（世界農業需給見通し）レポートでトウモロコシと大豆の期末在庫予想が引き下げられた。在庫減少は供給逼迫を示唆し、価格上昇圧力となる。具体的な数値が記事から確認できないため、市場への影響度は在庫削減幅に依存。"
-  },
-  {
-    "title": "USDA Reports Reduce Anticipated Corn and Soybean Ending Stocks - Morning Ag Clips",
-    "timestamp": "2026-11-18T02:18:14+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "USDAのWASDE（世界農業需給見通し）レポートでトウモロコシと大豆の期末在庫予想が引き下げられた。在庫減少は供給逼迫を示唆し、価格上昇圧力となる。具体的な数値が記事から確認できないため、市場への影響度は在庫削減幅に依存。"
-  },
-  {
-    "title": "Oil prices fall as higher US crude stocks temper supply risks - Reuters",
-    "timestamp": "2026-11-18T02:16:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "米国の原油在庫増加がサプライズとなり、供給不足のリスク懸念が和らいだことで原油価格が下落。EIA週間在庫統計は定期発表であり、市場予想の範囲内での在庫増加と考えられる。短期的な価格抑制要因となるが、地政学的リスクや需給バランスの根本的な改善までは至らず。"
-  },
-  {
-    "title": "API Shows Substantial Crude Oil, Gasoline Inventory Builds - Crude Oil Prices Today | OilPrice.com",
-    "timestamp": "2026-11-17T21:58:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API（米国石油協会）が原油とガソリンの在庫の「実質的な」積み増しを報告。在庫増加は供給過剰を示唆し、原油価格には下押し圧力となる。ただし具体的な在庫増加量が記事内容から判定不可能なため、サプライズ度は判断困難。"
-  },
-  {
-    "title": "API crude stock report shows lower-than-expected inventory build - Investing.com",
-    "timestamp": "2026-11-17T22:05:12+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API（米国石油協会）の原油在庫報告で、市場予想を下回る在庫積み増しが発表された。在庫の伸びが予想より小さいということは、需要が堅調であるか供給が逼迫していることを示唆し、原油価格の上昇要因となる。EIA公式統計を控えた重要な先行指標として機能している。"
-  },
-  {
     "title": "API Crude Inventory Build Falls Short of Forecasts - News and Statistics - IndexBox",
     "timestamp": "2026-11-18T12:23:52+00:00",
     "importance": 2,
@@ -495,39 +429,6 @@
     "summary": "UBSはLME銅価格の下落を需要の崩壊ではなく「リセット」と位置付けた。同行は$12,000/tをサポートレベルとして見据えており、構造的な需要基盤は依然堅牢だが、短期的な価格調整局面が継続すると分析している。需給バランスの再構築段階にあるとの見方。"
   },
   {
-    "title": "Hawk Resources (ASX:HWK) Reports Copper Indicators at Cactus and Disappointing Scandium Results - Kalkine",
-    "timestamp": "2026-11-18T01:54:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "Hawk Resources（ASX:HWK）がCactus鉱区で銅の有望指標を報告した一方、スカンジウム探鉱成果は期待を下回った。同社の複数コモディティ戦略における進捗状況の開示であり、個別企業ニュースとしての性格が強い。市場全体への波及効果は限定的と考えられる。"
-  },
-  {
-    "title": "Hawk Resources (ASX:HWK) Reports Copper Indicators at Cactus and Disappointing Scandium Results - Kalkine",
-    "timestamp": "2026-11-18T01:54:00+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "スカンジウム",
-    "summary": "Hawk Resources（ASX:HWK）がCactus鉱区で銅の有望指標を報告した一方、スカンジウム探鉱成果は期待を下回った。同社の複数コモディティ戦略における進捗状況の開示であり、個別企業ニュースとしての性格が強い。市場全体への波及効果は限定的と考えられる。"
-  },
-  {
-    "title": "OPEC+ Oil Producers Set to Keep Output Targets Steady at Sunday Meeting - EnergyNow",
-    "timestamp": "2026-11-17T22:44:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+は日曜日の会合で原油生産目標を現水準に据え置く方針。既に報道されている段階で市場は大方織り込んでいる見通し。生産政策の安定性を示唆する一方、追加的な供給調整は期待できず、相場への新たなドライバーは限定的。"
-  },
-  {
     "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
     "timestamp": "2026-11-18T15:17:23+00:00",
     "importance": 2,
@@ -801,5 +702,27 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "米国サワー原油の「戦争プレミアム」が消滅し、供給増加に伴い価格が低下している。中東地政学リスクが緩和され、市場が落ち着きを取り戻す中で、スポット供給の増加がサワー原油のスプレッドを圧縮。従来は紛争リスク回避需要で高止まりしていたが、実際の増産実績により過去のプレミアムが解消される局面"
+  },
+  {
+    "title": "Tether Insiders Seek to Turn Gold Into a 4% Yield Machine - Bloomberg.com",
+    "timestamp": "2026-11-20T15:20:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "Tetherのインサイダーが金を活用して約4%の利回りを生み出す新たなスキームを検討している。ステーブルコイン企業による金関連商品の開発は、伝統的な金投資と暗号資産市場の融合を示唆し、金需要の新たな牽引役となる可能性がある。同時に、金の流動性構造や価格メカニズムに変化をもたらす可能性も存在。"
+  },
+  {
+    "title": "Tether Insiders Seek to Turn Gold Into a 4% Yield Machine - Bloomberg.com",
+    "timestamp": "2026-11-20T15:20:19+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Tetherのインサイダーが金を活用して約4%の利回りを生み出す新たなスキームを検討している。ステーブルコイン企業による金関連商品の開発は、伝統的な金投資と暗号資産市場の融合を示唆し、金需要の新たな牽引役となる可能性がある。同時に、金の流動性構造や価格メカニズムに変化をもたらす可能性も存在。"
   }
 ]
