@@ -1,115 +1,5 @@
 [
   {
-    "title": "API Crude Inventory Build Falls Short of Forecasts - News and Statistics - IndexBox",
-    "timestamp": "2026-11-18T12:23:52+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API（米国石油協会）が発表した週間原油在庫統計において、在庫の増加幅が事前予想を下回った。在庫増加が予想より少ないことは、原油需要の相対的な堅調さ、または供給制約を示唆する材料となり、原油価格に対してやや支持的に作用する可能性がある。"
-  },
-  {
-    "title": "Oil Steadies as Renewed Mideast Fighting Tests Supply Recovery - Bloomberg.com",
-    "timestamp": "2026-11-18T11:46:42+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東での戦闘激化が原油供給回復を試す局面。地政学的リスクが一時的に原油を支えているが、供給中断の具体的規模が不透明。価格は安定的だが、供給途絶リスクと需要減速の綱引き状態が続く見通し。"
-  },
-  {
-    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
-    "timestamp": "2026-11-18T16:34:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
-  },
-  {
-    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
-    "timestamp": "2026-11-18T16:34:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
-  },
-  {
-    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
-    "timestamp": "2026-11-18T16:34:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
-  },
-  {
-    "title": "USDA Projects Crop Production and Exports to Increase Over the Next Decade - RFD-TV",
-    "timestamp": "2026-11-18T16:34:27+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが今後10年間の米国穀物生産・輸出量の増加を予測。小麦、トウモロコシ、大豆などの主要穀物の生産能力拡大が見込まれる。長期的な供給増加は価格抑制要因となる可能性が高い。"
-  },
-  {
-    "title": "Copper stocks fall as LME prices plunge to seven-month low - Yahoo Finance UK",
-    "timestamp": "2026-11-18T16:01:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "LME（ロンドン金属取引所）の銅価格が7ヶ月ぶりの安値まで急落し、これに連動して銅関連株も売却圧力を受けている。需要減速懸念やマクロ経済環境の悪化が背景と考えられる。銅は世界経済の景気指標としても注視される重要なコモディティである。"
-  },
-  {
-    "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say - Reuters",
-    "timestamp": "2026-11-18T15:10:58+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナによるドローン攻撃によりロシアの11月の石油精製能力がほぼ半減したと報道。同国の主要な精製施設が標的となり、供給側の制約が急速に強まった。地政学的リスクの再燃と供給逼迫懸念が原油価格を押し上げる要因となる。"
-  },
-  {
-    "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand - Reuters",
-    "timestamp": "2026-11-18T14:45:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "欧州のEV販売が10月に急増した。高い石油価格とEV購入補助金がこの需要増を牽引している。石油価格の上昇がEVへの転換インセンティブを強化し、政府補助金と相まってEV市場の成長を加速させている。"
-  },
-  {
-    "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand - Reuters",
-    "timestamp": "2026-11-18T14:45:43+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "欧州のEV販売が10月に急増した。高い石油価格とEV購入補助金がこの需要増を牽引している。石油価格の上昇がEVへの転換インセンティブを強化し、政府補助金と相まってEV市場の成長を加速させている。"
-  },
-  {
     "title": "A fast and furious harvest season - Ohio's Country Journal",
     "timestamp": "2026-11-18T20:01:00+00:00",
     "importance": 2,
@@ -141,28 +31,6 @@
     "source": "Crop Progress/Production",
     "commodity": "大豆",
     "summary": "オハイオ州における収穫シーズンが急速に進行している状況を報じたレポート。収穫ペースが例年を上回る「fast and furious」な展開となっており、天候条件の好転を背景に穀物の早期出荷が進むと予想される。具体的な収穫率・生産量などの数値は記事タイトルからは抽出不可。"
-  },
-  {
-    "title": "Copper stocks fall as LME prices plunge to seven-month low - Proactive financial news",
-    "timestamp": "2026-11-18T16:01:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "LME銅先物価格が7ヶ月ぶりの安値まで急落し、これに連動して銅関連株も売り込まれた。グローバルな景気減速懸念、特に中国需要の弱さと米金利高による投機的ポジションの巻き戻しが主因と考えられる。"
-  },
-  {
-    "title": "Copper stocks fall as LME prices plunge to seven-month low - Proactive financial news",
-    "timestamp": "2026-11-18T16:01:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "LME銅先物価格が7ヶ月ぶりの安値まで急落し、これに連動して銅関連株も売り込まれた。グローバルな景気減速懸念、特に中国需要の弱さと米金利高による投機的ポジションの巻き戻しが主因と考えられる。"
   },
   {
     "title": "Oil Steadies as Supply, US Inventories Offset Mideast Tensions - Bloomberg",
@@ -286,39 +154,6 @@
     "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
   },
   {
-    "title": "Crude Oil Price Forecast: WTI Faces $80 Test Ahead of EIA Report - FXEmpire",
-    "timestamp": "2026-11-18T14:20:29+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "WTI原油が$80のテストを控えており、直後のEIA在庫レポート発表が重要な価格決定要因となる見通し。現在の価格水準は技術的レジスタンス付近にあり、EIA報告書の需給データが市場反応を左右する可能性が高い。在庫動向によって上下いずれにも振れる余地がある状況。"
-  },
-  {
-    "title": "US Total Weekly EIA Crude Oil Stocks Rise by 200,000 Barrels After Prior 2.0 Million Increase - marketscreener.com",
-    "timestamp": "2026-11-18T15:31:14+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の週間原油在庫が20万バレル増加した。前週は200万バレルの大幅増加を記録していたため、今週の増加ペースは大幅に鈍化。在庫増加トレンドが続いているが、増加幅の縮小は需要改善またはリファイナリー稼働率低下を示唆する可能性がある。"
-  },
-  {
-    "title": "US Total Weekly EIA Crude Oil Stocks Rise by 200,000 Barrels After Prior 2.0 Million Increase - marketscreener.com",
-    "timestamp": "2026-11-18T15:31:14+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "米国の週間原油在庫が20万バレル増加した。前週は200万バレルの大幅増加を記録していたため、今週の増加ペースは大幅に鈍化。在庫増加トレンドが続いているが、増加幅の縮小は需要改善またはリファイナリー稼働率低下を示唆する可能性がある。"
-  },
-  {
     "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
     "timestamp": "2026-11-18T21:43:54+00:00",
     "importance": 4,
@@ -383,39 +218,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "UBSはLME銅価格の下落を需要の崩壊ではなく「リセット」と位置付けた。同行は$12,000/tをサポートレベルとして見据えており、構造的な需要基盤は依然堅牢だが、短期的な価格調整局面が継続すると分析している。需給バランスの再構築段階にあるとの見方。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-11-18T15:17:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "米国インフレデータの好材料が市場心理を支援し、原油価格は小幅上昇で決着。一方、OPEC供給懸念が下押し圧力として機能。ドル強化により金を含むコモディティ全般に逆風。好インフレデータはドル高・金利上昇シグナルとなり、無利子資産である金の下落圧力となる。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-11-18T15:17:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "金",
-    "summary": "米国インフレデータの好材料が市場心理を支援し、原油価格は小幅上昇で決着。一方、OPEC供給懸念が下押し圧力として機能。ドル強化により金を含むコモディティ全般に逆風。好インフレデータはドル高・金利上昇シグナルとなり、無利子資産である金の下落圧力となる。"
-  },
-  {
-    "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
-    "timestamp": "2026-11-18T15:17:23+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "米国インフレデータの好材料が市場心理を支援し、原油価格は小幅上昇で決着。一方、OPEC供給懸念が下押し圧力として機能。ドル強化により金を含むコモディティ全般に逆風。好インフレデータはドル高・金利上昇シグナルとなり、無利子資産である金の下落圧力となる。"
   },
   {
     "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
@@ -801,5 +603,27 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "インドの石油供給源で構造的な変化が生じており、サウジアラビアがUAEを抜いて第2位の供給国となった。ロシアは引き続き最大の供給国であり、OPEC諸国間の市場シェア競争が激化している状況を示唆している。"
+  },
+  {
+    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-11-20T19:42:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表によると、米国商業用原油在庫が2018年以来の最低水準まで低下した。輸出増加と製油所の処理量増加が在庫減少の主因。在庫低下は供給逼迫を示唆し、原油価格に上昇圧力を与える可能性がある。"
+  },
+  {
+    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
+    "timestamp": "2026-11-20T22:27:07+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、原油生産量が過去最高水準に接近している。同国は増産を加速させており、OPEC減産協調体制の形骨化を示唆。原油供給の構造的変化とOPEC影響力の低下が市場に衝撃を与えている。"
   }
 ]
