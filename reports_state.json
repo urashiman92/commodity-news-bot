@@ -1,38 +1,5 @@
 [
   {
-    "title": "A fast and furious harvest season - Ohio's Country Journal",
-    "timestamp": "2026-11-18T20:01:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "オハイオ州における収穫シーズンが急速に進行している状況を報じたレポート。収穫ペースが例年を上回る「fast and furious」な展開となっており、天候条件の好転を背景に穀物の早期出荷が進むと予想される。具体的な収穫率・生産量などの数値は記事タイトルからは抽出不可。"
-  },
-  {
-    "title": "A fast and furious harvest season - Ohio's Country Journal",
-    "timestamp": "2026-11-18T20:01:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "オハイオ州における収穫シーズンが急速に進行している状況を報じたレポート。収穫ペースが例年を上回る「fast and furious」な展開となっており、天候条件の好転を背景に穀物の早期出荷が進むと予想される。具体的な収穫率・生産量などの数値は記事タイトルからは抽出不可。"
-  },
-  {
-    "title": "A fast and furious harvest season - Ohio's Country Journal",
-    "timestamp": "2026-11-18T20:01:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "オハイオ州における収穫シーズンが急速に進行している状況を報じたレポート。収穫ペースが例年を上回る「fast and furious」な展開となっており、天候条件の好転を背景に穀物の早期出荷が進むと予想される。具体的な収穫率・生産量などの数値は記事タイトルからは抽出不可。"
-  },
-  {
     "title": "Oil Steadies as Supply, US Inventories Offset Mideast Tensions - Bloomberg",
     "timestamp": "2026-11-19T02:21:00+00:00",
     "importance": 2,
@@ -154,50 +121,6 @@
     "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
   },
   {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:43:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:43:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:43:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:43:54+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。燃料、肥料、労務費などの投入コスト上昇が主因。これは農家の採算性悪化と供給サイドの制約要因となり、主要穀物（小麦、トウモロコシ、大豆）の価格支持材料となる可能性がある。"
-  },
-  {
     "title": "UBS Calls Copper Slump a Reset, Not a Demand Breakdown, With LME Support at $12,000 - BigGo Finance",
     "timestamp": "2026-11-19T19:35:00+00:00",
     "importance": 3,
@@ -218,17 +141,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "UBSはLME銅価格の下落を需要の崩壊ではなく「リセット」と位置付けた。同行は$12,000/tをサポートレベルとして見据えており、構造的な需要基盤は依然堅牢だが、短期的な価格調整局面が継続すると分析している。需給バランスの再構築段階にあるとの見方。"
-  },
-  {
-    "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com",
-    "timestamp": "2026-11-18T19:23:51+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECアナリストBoossoは、ホルムズ海峡の再開通がOPECの減産戦略に対する脅威となる可能性を指摘。同海峡を経由する石油供給の増加は、OPEC減産による価格支持効果を相殺し、原油価格の下落圧力となりうる。地政学的リスクプレミアムの縮小も懸念材料。"
   },
   {
     "title": "Russia repels Ukrainian drones attack on oil facility in Tatarstan region, local authorities say - Reuters",
@@ -484,94 +396,6 @@
     "summary": "Tetherのインサイダーが金を活用して約4%の利回りを生み出す新たなスキームを検討している。ステーブルコイン企業による金関連商品の開発は、伝統的な金投資と暗号資産市場の融合を示唆し、金需要の新たな牽引役となる可能性がある。同時に、金の流動性構造や価格メカニズムに変化をもたらす可能性も存在。"
   },
   {
-    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
-    "timestamp": "2026-11-18T21:43:56+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
-    "timestamp": "2026-11-18T21:43:56+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
-    "timestamp": "2026-11-18T21:43:56+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - AOL.com",
-    "timestamp": "2026-11-18T21:43:56+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主要因。生産コストの増加は農家の利益圧縮につながり、作付面積減少や作付構成の変更を招く可能性が高い。これに伴い穀物供給の逼迫が懸念され、価格上昇圧力が生じる見通し。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:04:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:04:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:04:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
-  },
-  {
-    "title": "USDA forecasts record-high crop production costs in 2027 - KSN.com",
-    "timestamp": "2026-11-18T21:04:39+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが2027年の穀物生産コストが過去最高水準に達すると予測。肥料、燃料、労務費の上昇が主因。これは農産物の供給コスト構造の大幅な変化を意味し、穀物価格の上昇圧力となる可能性が高い。短期的には農家の採算悪化による作付面積縮小も懸念される。"
-  },
-  {
     "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
     "timestamp": "2026-11-19T12:09:13+00:00",
     "importance": 3,
@@ -625,5 +449,82 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、原油生産量が過去最高水準に接近している。同国は増産を加速させており、OPEC減産協調体制の形骨化を示唆。原油供給の構造的変化とOPEC影響力の低下が市場に衝撃を与えている。"
+  },
+  {
+    "title": "Sunflower harvest progress ahead of average - AgUpdate",
+    "timestamp": "2026-11-21T12:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "ヒマワリの収穫進捗が平年を上回っているとの報告。収穫の加速は供給増加シグナルとなり、ヒマワリ油関連商品およびその代替商品である大豆油・小麦に軽微な下押し圧力。平年比での進捗改善は市場予想の範囲内と考えられる。"
+  },
+  {
+    "title": "Sunflower harvest progress ahead of average - AgUpdate",
+    "timestamp": "2026-11-21T12:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "ヒマワリの収穫進捗が平年を上回っているとの報告。収穫の加速は供給増加シグナルとなり、ヒマワリ油関連商品およびその代替商品である大豆油・小麦に軽微な下押し圧力。平年比での進捗改善は市場予想の範囲内と考えられる。"
+  },
+  {
+    "title": "Oil Price Forecast: US Crude Stocks Rise as Global Supply Rebounds - FXEmpire",
+    "timestamp": "2026-11-20T13:27:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表によると米国原油在庫が増加しており、これは世界的な供給の回復を反映している。在庫増加は供給圧力として機能し、原油価格に下押し圧力をもたらす可能性がある。グローバルサプライチェーンの正常化が進む中での需給バランス調整局面と考えられる。"
+  },
+  {
+    "title": "Oil Price Forecast: US Crude Stocks Rise as Global Supply Rebounds - FXEmpire",
+    "timestamp": "2026-11-20T13:27:17+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA発表によると米国原油在庫が増加しており、これは世界的な供給の回復を反映している。在庫増加は供給圧力として機能し、原油価格に下押し圧力をもたらす可能性がある。グローバルサプライチェーンの正常化が進む中での需給バランス調整局面と考えられる。"
+  },
+  {
+    "title": "METALS AT A CROSSROADS: Weak Prices, Tight Physical Supply for OANDA:XAUUSD by forexcitypro_leemeenal - TradingView",
+    "timestamp": "2026-11-21T14:15:15+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "金",
+    "summary": "金を含む貴金属市場が分岐点に直面している。弱い価格圧力がある一方で、物理的な現物供給がタイトな状況が続いている。金融引き締めによる下落圧力と現物需要の強さが相互に作用する構造。市場のセンチメント転換が重要な転機となる可能性。"
+  },
+  {
+    "title": "METALS AT A CROSSROADS: Weak Prices, Tight Physical Supply for OANDA:XAUUSD by forexcitypro_leemeenal - TradingView",
+    "timestamp": "2026-11-21T14:15:15+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "コモディティ全般",
+    "summary": "金を含む貴金属市場が分岐点に直面している。弱い価格圧力がある一方で、物理的な現物供給がタイトな状況が続いている。金融引き締めによる下落圧力と現物需要の強さが相互に作用する構造。市場のセンチメント転換が重要な転機となる可能性。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-11-20T22:11:51+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後の独立採掘により、2025年に日産500万バレルを超える増産を計画していることをIEAが報告。OPEC+の減産合意に対抗する動きとして注目される。同国の増産は世界供給の増加圧力となり、油価には下向き材料。"
   }
 ]
