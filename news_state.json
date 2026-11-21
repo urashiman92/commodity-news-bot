@@ -1,82 +1,5 @@
 [
   {
-    "title": "金価格3800ドル割れ、2025年9月以来の安値－FRB追加利上げ観測 - Bloomberg",
-    "timestamp": "2026-11-18T05:03:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3800ドルを割り、2025年9月以来の安値を更新。FRBの追加利上げ観測が強まり、金売却圧力が増加。高金利環境は利回りを生まない金の相対的魅力を低下させている。"
-  },
-  {
-    "title": "世界の金価格は1オンスあたり3,800ドルを下回り、サンノゼの金価格は急落、下落圧力は続く。 - Vietnam.vn",
-    "timestamp": "2026-11-18T08:47:35+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1オンス3,800ドル下回る水準に下落。市場では継続的な下落圧力が指摘されている。技術的な売却圧力と需給悪化の見通しが背景。"
-  },
-  {
-    "title": "金価格は14カ月ぶりの安値に下落した。 - Vietnam.vn",
-    "timestamp": "2026-11-18T08:37:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が14カ月ぶりの安値に下落した。米ドル強化やインフレ減速期待により金の実質利回りが上昇し、金の相対的魅力が低下している。"
-  },
-  {
-    "title": "原油価格が100ドル割れ、供給過剰がイラン紛争リスクプレミアムを上回る - BigGo ファイナンス",
-    "timestamp": "2026-11-18T08:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格が100ドルを割込み、供給過剰圧力がイラン紛争によるリスクプレミアムを上回っている。市場は地政学リスクよりも需給悪化を重視し、価格は軟調に推移している。"
-  },
-  {
-    "title": "米国の原油在庫増加で供給リスクが和らぎ、原油価格が下落 - アラブニュース",
-    "timestamp": "2026-11-18T09:07:07+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米国の原油在庫が増加し、供給面でのリスクが軽減されたことが報じられている。在庫増加は供給余裕を示唆し、原油価格の下押し圧力となった。需給バランスの緩和で相場が反応。"
-  },
-  {
-    "title": "住友鉱が年初来安値、金・銅相場の軟調映す(ウエルスアドバイザー) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-18T04:43:54+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "住友金属鉱山株が年初来安値を更新した。金・銅相場の軟調が企業業績に反映されている状況を示している。既知の市場環境の延長線上の動き。"
-  },
-  {
-    "title": "MXV指数は、世界のコモディティ市場における綱引き状態を反映し、横ばいで推移している。 - Vietnam.vn",
-    "timestamp": "2026-11-18T07:37:56+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "MXV指数が横ばいで推移していることが報じられた。世界のコモディティ市場で買い圧力と売り圧力が均衡している状態を反映している。既に織り込まれた市場観測の解説。"
-  },
-  {
     "title": "金価格が上昇しない理由をUBSが解説 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-11-18T14:32:00+00:00",
     "importance": 2,
@@ -110,17 +33,6 @@
     "summary": "金価格が14か月ぶりの安値3760ドルまで下落。記事では2027年の回復見通しが示唆されている。現在の下落トレンドは既に市場に織り込まれた状況。"
   },
   {
-    "title": "金価格は続落、1年ぶり安値を更新 米利上げ観測で金相場はどこまで下がる? - EBC Financial Group",
-    "timestamp": "2026-11-18T11:21:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1年ぶりの安値を更新し続落している。米利上げ観測の強まりが主要な下げ要因となっており、今後の金相場の下値見通しについて解説されている。"
-  },
-  {
     "title": "金価格が2%近く急落し3,800ドルの大台を割り込む エヌビディアの決算がAIセクターを支援｜今夜の注目点 - Moomoo",
     "timestamp": "2026-11-18T13:27:24+00:00",
     "importance": 2,
@@ -130,17 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が2%近く急落し3,800ドルを割込む。リスク資産（AI・テック）の買い戻しにより、安全資産である金から資金流出が発生。エヌビディア決算好調がリスクオン環境を強化。"
-  },
-  {
-    "title": "金価格が3,900ドル割れ、財通証券「中央銀行とETFの買いが退潮、実質金利が再び価格決定権を掌握」 - BigGo ファイナンス",
-    "timestamp": "2026-11-18T10:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3,900ドルを割り込み、中央銀行とETF購入者の買い需要が弱まった。実質金利が金価格の主導要因として再び影響力を強めている。"
   },
   {
     "title": "NY市場動向（午後0時台）：ダウ532ドル安、原油先物3.07ドル安｜FX・為替ニュース - ザイFX！",
@@ -154,17 +55,6 @@
     "summary": "NY市場でダウ平均が532ドル安となり、連動して原油先物が3.07ドル安で推移している。株式市場の下落が商品市場にも波及した相場環境を示している。"
   },
   {
-    "title": "WTI 原油先物(2701)【CLMAIN】株価・チャート - Moomoo",
-    "timestamp": "2026-11-18T10:12:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物の株価チャート表示ページ。具体的なニュース内容や価格情報が記事から抽出できない。単なるデータプラットフォームの紹介と考えられる。"
-  },
-  {
     "title": "銅相場5%超急落、AI関連トレード崩れる－供給逼迫でも金属市場に売り - Bloomberg.com",
     "timestamp": "2026-11-18T16:51:44+00:00",
     "importance": 4,
@@ -174,28 +64,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅相場が5%超の急落。AI関連トレードの崩れが売り圧力。供給逼迫の構造的強気材料が、テクニカルな売却で相殺された。"
-  },
-  {
-    "title": "銅価格に逆風となる需要懸念と関税リスク：HGはさらなる下落を回避できるか？ - Traders Union",
-    "timestamp": "2026-11-18T09:25:47+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格は需要懸念と関税リスクにより下押し圧力に直面している。複数の逆風要因が重なり、さらなる下落リスクが存在する状況。技術的サポートレベルでの防御が焦点。"
-  },
-  {
-    "title": "商品市場は綱引き状態にあり、MXV指数は横ばいで推移している。 - Vietnam.vn",
-    "timestamp": "2026-11-18T08:53:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "商品市場が買い圧力と売り圧力のバランスで揺らいでおり、MXV指数は横ばいで推移。市場の方向感に欠ける状況が続いている。"
   },
   {
     "title": "シカゴ小麦先物、1月以来の最安値に下落 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -1582,5 +1450,137 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "S&PがザンビアをシングルB格に格上げ。債務再編の進展により信用リスク低下。同国は世界有数の銅生産国であり、政治的安定化は供給懸念の軽減につながる。"
+  },
+  {
+    "title": "国際金価格が1オンス3550ドル割れ 中国国内の宝飾ブランドが純金飾品のグラム単価を20元以上引き下げ - BigGo ファイナンス",
+    "timestamp": "2026-11-21T06:55:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "国際金価格が1オンス3550ドル割れに下落。中国国内の宝飾ブランドが純金飾品の価格を20元以上引き下げ。需要減少や価格低下局面の反映。"
+  },
+  {
+    "title": "(NEXT FUNDS)金価格連動型上場投信【1328】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "timestamp": "2026-11-21T02:55:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "Yahoo!ファイナンスによる金価格連動型上場投信(1328)の株価情報ページへのリンク。金現物との連動を追跡するETFの日中・夜間取引情報を提供するページ。"
+  },
+  {
+    "title": "金価格の急落を解読する - Vietnam.vn",
+    "timestamp": "2026-11-21T08:29:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落している状況についての解説記事。具体的な下落要因や背景分析を提供するコモディティ関連の論説。"
+  },
+  {
+    "title": "NY金先物：大幅続落、売りが止まらず昨年8月以来の安値水準に - TradingView",
+    "timestamp": "2026-11-21T00:03:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が大幅続落し、昨年8月以来の安値水準に下げている。売り圧力が継続している状況の相場解説記事。"
+  },
+  {
+    "title": "$金/米ドル (XAUUSD.CFD)$$SPDR ゴールド・シェア (GLD.US)$$金先物(2612) (GCmain.US)$ テクニカル分析はこれ以上ないほど完璧に予想していたのでは？ 更新されたスクリーンショットを以下に掲載。 - Moomoo",
+    "timestamp": "2026-11-21T02:53:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金のテクニカル分析が予想を的中させたとの投稿。具体的なスクリーンショット内容が不明のため、実際の価格変動や予想精度は判断不可。"
+  },
+  {
+    "title": "原油価格50%超の急騰でも増産せず 米シェール油企業、第3四半期に株主へ2,400億台湾ドル還元 - BigGo ファイナンス",
+    "timestamp": "2026-11-21T07:25:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "米シェール企業が原油価格50%超の上昇局面でも増産を見送り、利益を株主還元に充てている。供給抑制姿勢が継続することで、需給逼迫の緩和が遅れる可能性がある。"
+  },
+  {
+    "title": "世界の原油価格は、供給過剰による圧力から3週連続で下落した。 - Vietnam.vn",
+    "timestamp": "2026-11-21T05:48:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が供給過剰による圧力で3週連続下落している。需給バランスの悪化が価格を押し下げており、相場の弱気ムードが継続している。"
+  },
+  {
+    "title": "原油は3週連続安へ、北海ブレント92ドル割れ－潤沢な供給が中東の戦闘激化懸念を上回る - Bloomberg.com",
+    "timestamp": "2026-11-20T17:53:24+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "北海ブレント原油が92ドル割れで3週連続下落。中東情勢の懸念にもかかわらず、潤沢な供給が価格を抑制。地政学的リスクが供給増加シグナルに上回られている。"
+  },
+  {
+    "title": "銅価格の最新の2.8%下落、その背景は？ - Traders Union",
+    "timestamp": "2026-11-20T17:27:37+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が2.8%下落した。タイトルは「背景は？」という分析記事である。短期的な調整局面を解説するコンテンツと考えられる。"
+  },
+  {
+    "title": "AI相場が崩れた銅、3週間で14%急落…中国在庫の底と価格の乖離 - BigGo ファイナンス",
+    "timestamp": "2026-11-20T22:35:00+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅が3週間で14%急落し、AI相場の勢いが減速。中国の在庫水準が底を打つ中での価格下落は、ファンダメンタルズと乖離した過熱相場の調整を示唆。テクニカル売りと需要見通しの再評価が圧迫要因。"
+  },
+  {
+    "title": "韓国の現代自動車・起亜、原材料高で収益圧迫…アルミ26％、銅35％上昇 - Infoseek",
+    "timestamp": "2026-11-21T02:30:08+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "現代自動車・起亜が銅35%、アルミ26%の原材料価格上昇により収益が圧迫されている。自動車メーカーのコスト増加は銅需要の堅調さを示唆。既知の原材料高トレンドの企業への波及状況報告。"
+  },
+  {
+    "title": "マクロ経済要因の圧力が供給逼迫の影響を上回り、銅先物が下落 - Traders Union",
+    "timestamp": "2026-11-20T20:08:42+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅先物が下落。供給逼迫の支援的要因があるものの、マクロ経済の悪化圧力がそれを上回った。金融引き締めや景気減速懸念が価格を押し下げ。"
   }
 ]
