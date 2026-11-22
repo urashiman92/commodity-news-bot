@@ -1,71 +1,5 @@
 [
   {
-    "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
-    "timestamp": "2026-11-19T07:04:18+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは需要懸念または供給過剰を示唆し、原油価格に下押し圧力となる。ただし具体的な在庫増加量や前週比データが記事に記載されていないため、変動幅の評価は限定的。"
-  },
-  {
-    "title": "At COP31, Venezuela touts AI as path to cleaner oil production - Reuters",
-    "timestamp": "2026-11-19T09:01:45+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ベネズエラがCOP31でAI技術を活用した石油生産のクリーン化を提唱。同国は経済制裁下で石油産業が停滞しており、技術革新による生産効率化を標榜する政治的メッセージの側面が強い。実現性や具体的な導入時期は不明。"
-  },
-  {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
-  },
-  {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
-  },
-  {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
-  },
-  {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland UK",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE報告で米国トウモロコシの在庫推定値が引き下げられ、グローバルな穀物価格を押し上げた。在庫削減は供給逼迫を示唆し、特にトウモロコシと連動する大豆・小麦にも波及効果が見られた。穀物市場全体のタイトニングが加速している。"
-  },
-  {
     "title": "UBS Calls Copper Slump a Reset, Not a Demand Breakdown, With LME Support at $12,000 - BigGo Finance",
     "timestamp": "2026-11-19T19:35:00+00:00",
     "importance": 3,
@@ -119,17 +53,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "原油は3週連続の下落が見込まれている。地政学的リスク（戦争要因）があるものの、潤沢な供給がこれを相殺し、下押し圧力が勝っている状況。需給バランスが供給過剰傾向にあることが価格弱気要因として機能している。"
-  },
-  {
-    "title": "November WASDE report friendly to corn - AgUpdate",
-    "timestamp": "2026-11-19T12:00:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "11月のWASDEレポートがトウモロコシ相場に好材料をもたらした。報告書の具体的な内容は記事タイトルのみで詳細が不明だが、需給見通しの改善またはアメリカの作付面積・生産量などの上方修正の可能性が考えられる。トウモロコシ相場は需給逼迫から相対的な緩和へのシフトを示唆している。"
   },
   {
     "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
@@ -220,50 +143,6 @@
     "summary": "米農務省（USDA）がWASDE月次レポートで牛乳生産見通しを引き上げた。牛乳生産量の増加は飼料需要（トウモロコシ・大豆）の増加を示唆する一方、飼料穀物価格への下押し圧力となる可能性がある。穀物相場への影響は混在するが、供給増加基調は相対的に弱気材料。"
   },
   {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "WASDE報告書で米国のトウモロコシ在庫見積もりが予想を下回る大幅な削減となった。在庫減少はトウモロコシ価格を直接押し上げ、小麦・大豆など他の穀物にも波及効果がみられた。グローバルな穀物供給逼迫の懸念が市場心理を強気に転じさせている。"
-  },
-  {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "WASDE報告書で米国のトウモロコシ在庫見積もりが予想を下回る大幅な削減となった。在庫減少はトウモロコシ価格を直接押し上げ、小麦・大豆など他の穀物にも波及効果がみられた。グローバルな穀物供給逼迫の懸念が市場心理を強気に転じさせている。"
-  },
-  {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "WASDE報告書で米国のトウモロコシ在庫見積もりが予想を下回る大幅な削減となった。在庫減少はトウモロコシ価格を直接押し上げ、小麦・大豆など他の穀物にも波及効果がみられた。グローバルな穀物供給逼迫の懸念が市場心理を強気に転じさせている。"
-  },
-  {
-    "title": "US cuts to corn stock estimates boosts global grain prices - Agriland",
-    "timestamp": "2026-11-19T13:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "WASDE報告書で米国のトウモロコシ在庫見積もりが予想を下回る大幅な削減となった。在庫減少はトウモロコシ価格を直接押し上げ、小麦・大豆など他の穀物にも波及効果がみられた。グローバルな穀物供給逼迫の懸念が市場心理を強気に転じさせている。"
-  },
-  {
     "title": "USA Crude Oil Stocks Rise Over 3 Million Barrels WoW - Rigzone",
     "timestamp": "2026-11-20T15:14:00+00:00",
     "importance": 2,
@@ -317,28 +196,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "Tetherのインサイダーが金を活用して約4%の利回りを生み出す新たなスキームを検討している。ステーブルコイン企業による金関連商品の開発は、伝統的な金投資と暗号資産市場の融合を示唆し、金需要の新たな牽引役となる可能性がある。同時に、金の流動性構造や価格メカニズムに変化をもたらす可能性も存在。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-11-19T12:09:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の弱さが続いており、EV普及加速や経済減速懸念が背景。需要見通しの引き下げは供給過剰リスクを高め、原油価格に下押し圧力がかかる可能性がある。"
-  },
-  {
-    "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow",
-    "timestamp": "2026-11-19T12:09:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の弱さが続いており、EV普及加速や経済減速懸念が背景。需要見通しの引き下げは供給過剰リスクを高め、原油価格に下押し圧力がかかる可能性がある。"
   },
   {
     "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
@@ -449,5 +306,71 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIA週間原油在庫統計で、予想外の大幅な在庫増加が報告された。実績は+465.7万バレルの増加だったのに対し、市場予想は-110.9万バレルの減少を見込んでいた。この予想比のサプライズは576.6万バレルの乖離で、市場参加者の需給見通しに大きなずれが生じていたことを示唆している。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Status Report: Data Guide - CASRAI",
+    "timestamp": "2026-11-22T07:03:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが公開する週間石油在庫レポートのデータガイドである。本資料はメタデータ・定義・方法論の説明資料であり、実際の在庫数値やトレンドを含まない。投資家にとっての直接的な市場影響はない。"
+  },
+  {
+    "title": "EIA Weekly Petroleum Status Report: Data Guide - CASRAI",
+    "timestamp": "2026-11-22T07:03:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIAが公開する週間石油在庫レポートのデータガイドである。本資料はメタデータ・定義・方法論の説明資料であり、実際の在庫数値やトレンドを含まない。投資家にとっての直接的な市場影響はない。"
+  },
+  {
+    "title": "Two Chinese copper smelters blend concentrate overseas to boost supply, sources say - Mining.com",
+    "timestamp": "2026-11-20T08:00:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "中国の銅製錬所2社が海外での濃鉱ブレンディングを開始し、供給不足対策に乗り出した。国内濃鉱供給の逼迫が深刻化していることを示唆する動き。銅製錬処理能力の維持と供給チェーンの多角化が進む。"
+  },
+  {
+    "title": "US Copper Stockpile Swells to Nearly 2 Million Tons as Traders Reverse Course and Ship Metal to China - BigGo Finance",
+    "timestamp": "2026-11-22T08:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "鉱業・金属レポート",
+    "commodity": "銅",
+    "summary": "米国の銅在庫が過去最高近くの約200万トンまで膨張。トレーダーが中国への輸出方針を転換し、大量の銅金属を中国へ船積みしている。これは米国内での銅需要の弱さと中国市場での価格優位性を示唆しており、銅価格に下押し圧力。"
+  },
+  {
+    "title": "Houthi attacks on Saudi Arabia - Reuters",
+    "timestamp": "2026-11-19T16:20:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派によるサウジアラビアへの攻撃が報道された。サウジアラビアは世界最大級の石油輸出国であり、同国の石油施設への脅威は原油供給の不確実性を大幅に高める。地政学的リスク再燃により、エネルギー価格全体の上昇圧力が強まる。"
+  },
+  {
+    "title": "Houthi attacks on Saudi Arabia - Reuters",
+    "timestamp": "2026-11-19T16:20:38+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "フーシ派によるサウジアラビアへの攻撃が報道された。サウジアラビアは世界最大級の石油輸出国であり、同国の石油施設への脅威は原油供給の不確実性を大幅に高める。地政学的リスク再燃により、エネルギー価格全体の上昇圧力が強まる。"
   }
 ]
