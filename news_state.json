@@ -1,49 +1,5 @@
 [
   {
-    "title": "国際金価格が1オンス3,750ドルを割り込み、ベトナム国内SJCも1タエル50万ドン下落 - BigGo ファイナンス",
-    "timestamp": "2026-11-19T07:05:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "国際金価格が1オンス3,750ドルを割り込み、ベトナム国内SJC金も連動して下落。報道は既に発生した価格変動の報告であり、追加的な材料は含まれていない。"
-  },
-  {
-    "title": "2026年11月19日の金価格：引き続き急落し、1億3700万ベトナムドンを下回る。 - Vietnam.vn",
-    "timestamp": "2026-11-19T06:24:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムドン建て金価格が1億3700万VND下回るまで急落した。ベトナムローカル市場の価格動向を報じたもの。国際金相場の基本的なトレンド反映。"
-  },
-  {
-    "title": "中国：銅価格が高値比３．５％安、家電の採算に追い風(サーチナ) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-19T05:52:16+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が高値から3.5%下落し、銅を使用する家電メーカーの採算改善に好材料となる。中国の家電産業にとってコスト圧力の緩和が期待できる状況。"
-  },
-  {
-    "title": "銅価格の高値圏からの反落と輸出加速が追い風 中国家電株が一斉高、康盛股份はストップ高 - BigGo ファイナンス",
-    "timestamp": "2026-11-19T08:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が高値圏から反落し、コスト低下が中国家電メーカーの収益性向上に寄与。輸出加速の追い風も受け、家電株が一斉高となった。康盛股份がストップ高を記録。"
-  },
-  {
     "title": "短期的な買い圧力で日中の勢いが強まり、カンザスシティ小麦価格が約3%上昇 - Traders Union",
     "timestamp": "2026-11-19T13:48:27+00:00",
     "importance": 2,
@@ -64,17 +20,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "FRBの利上げ論議を背景に金価格が3,700ドルを割り込んだ。無利子資産である金の保有コストが上昇し、利回り資産への選好が強まる環境。金は金利環境に対する感応度が高い局面にある。"
-  },
-  {
-    "title": "$3,742のレジスタンス付近での持ち合いが続き、金価格は横ばい - Traders Union",
-    "timestamp": "2026-11-19T09:37:30+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は$3,742のレジスタンス付近で持ち合いが続いており、明確な方向性を欠いている。テクニカルレベルでの抵抗により、買い売りが拮抗している状況。"
   },
   {
     "title": "金価格が高値から30％急落…FRBのタカ派姿勢・ドル高で14カ月ぶり安値 - BigGo ファイナンス",
@@ -99,17 +44,6 @@
     "summary": "金価格が急落し底値形成の可能性が指摘されている。アナリストが買い時の検討を促す解説記事。市場の既存値動きの事後評論。"
   },
   {
-    "title": "買いの勢いが強まり、コーン先物価格が3%超上昇 - Traders Union",
-    "timestamp": "2026-11-19T12:07:36+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "コーン先物が買いの勢いで3%超上昇。ただし相場振り返りの解説記事であり、具体的な需給材料や統計発表に基づくものではない。短期的なテクニカル反発の可能性。"
-  },
-  {
     "title": "銅価格の暴落は、AIインフラ整備に影響を与える可能性があります。 - Moomoo",
     "timestamp": "2026-11-19T15:36:50+00:00",
     "importance": 3,
@@ -119,28 +53,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格の下落がAIインフラ整備に悪影響を与える可能性を指摘する解説記事。銅は高性能な電気・通信インフラに必須の材料であり、AI関連投資の需要縮小を反映している。既に織り込まれた相場観の分析と見受けられる。"
-  },
-  {
-    "title": "銅価格が1日で約6%急落、7カ月ぶり安値 利上げ観測とAI取引の退潮が金属市場を直撃 - BigGo ファイナンス",
-    "timestamp": "2026-11-19T05:50:47+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が1日で約6%急落し7ヶ月ぶりの安値を更新。利上げ観測の強まりとAI関連取引の退潮が同時に発生した急速な売り圧力が原因。金属市場全般への下押し圧力を示唆。"
-  },
-  {
-    "title": "銀価格は5％近く急落し、世界のコモディティ市場は軒並み下落した。 - Vietnam.vn",
-    "timestamp": "2026-11-19T08:26:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "銀価格が約5%の急落を記録し、世界的なコモディティ市場全体が下落トレンドにある。リスク回避姿勢の強まりを示唆している。"
   },
   {
     "title": "カンザスシティ小麦価格予測：短期サポートを維持する限り、上昇余地あり - Traders Union",
@@ -229,28 +141,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "WTI原油先物が84ドル台半ばで推移している。相場が強含みの状態にあるが、具体的な価格変動幅や変動理由は記事から不明。相場観測記事であり、新規情報に乏しい。"
-  },
-  {
-    "title": "１０月の企業物価、７．１％上昇＝原油価格上昇で伸び拡大―日銀 - ダイヤモンド・チェーンストアオンライン",
-    "timestamp": "2026-11-19T11:52:20+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "日銀が10月の企業物価指数を発表し、前年同月比7.1%の上昇となった。原油価格の上昇が物価上昇率の伸び拡大をけん引している。エネルギー価格の高止まりが日本国内の物価圧力を継続させている状況。"
-  },
-  {
-    "title": "ブレント原油価格予測：供給リスクとテクニカルサポートを背景に、もみ合いが続く見通し - Traders Union",
-    "timestamp": "2026-11-19T09:17:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ブレント原油はテクニカルサポートと供給リスクを背景に、もみ合い相場が続く見通し。アナリストによる価格予測・相場観の提示であり、市場コンセンサスの範囲内。"
   },
   {
     "title": "買い手の支援が続き、テクニカル面の抵抗がある中、コーン先物価格は上昇を続けるか？ - Traders Union",
@@ -482,17 +372,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "AIデータセンター需要の過度な期待が市場で修正され、銅価格が6カ月ぶりの安値まで急落。需要成長の持続性に対する投資家の疑念が強まっている。銅市場の主要上昇シナリオの根拠が揺らいだ重要な転機。"
-  },
-  {
-    "title": "【松普 FY2026 Q3 決算説明会】売上高7.17億台湾ドルで前年比30%増、銅価格が1.4万ドル突破で粗利益率を圧迫、EPSはわずか0.06台湾ドル - BigGo ファイナンス",
-    "timestamp": "2026-11-19T07:54:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "松普のFY2026 Q3売上高は前年比30%増だったが、銅価格が1.4万ドル突破したことで粗利益率が圧迫された。EPS0.06台湾ドルと極めて低い収益性を示唆し、銅価格上昇が利益に結びついていない状況が明確になった。"
   },
   {
     "title": "１９日の主要国際商品市況 (2026年11月20日掲載) - ライブドアニュース",
@@ -1285,5 +1164,126 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米中関税問題への懸念が緩和され、米国からの銅流が中国へシフト開始。中国の銅需要増加が見込まれる。地政学的リスク低下が需要サイドの改善を促す。"
+  },
+  {
+    "title": "アナリストらは、金価格はさらに下落するだろうと警告している。 - Vietnam.vn",
+    "timestamp": "2026-11-22T10:20:56+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリストが金価格のさらなる下落を警告している。金融引き締めやドル高が継続する中での弱気見通し。既に報じられた相場観の繰り返しと考えられる。"
+  },
+  {
+    "title": "金相場が一層下がる可能性は【2026年11月最新】?米ドル高とFRBの利上げ観測から今後を分析 - EBC Financial Group",
+    "timestamp": "2026-11-22T04:35:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "米ドル高とFRBの利上げ観測が金相場への下押し要因として分析されている。金は実質利回りの上昇時に売られやすい。2026年11月時点での相場観測を示すもの。"
+  },
+  {
+    "title": "金価格が連日下落し、3,500ドルの大台に迫る！ウォール街は一斉に「売られすぎ圏域に突入」と指摘 - Moomoo",
+    "timestamp": "2026-11-22T02:43:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が連日下落し3,500ドル水準に接近。ウォール街のアナリストが売られすぎ圏域への突入を指摘。テクニカル的な調整局面と解釈される。"
+  },
+  {
+    "title": "他の金融資産の魅力が高まるにつれ、金価格は急落した。 - Vietnam.vn",
+    "timestamp": "2026-11-22T09:33:40+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落している。他の金融資産（株式や債券など）の魅力が相対的に高まっていることが背景。金の逃避資産としての需要が減少している局面と考えられる。"
+  },
+  {
+    "title": "世界の原油価格が3週連続下落、ベトナム国内ガソリン価格は高止まり - BigGo ファイナンス",
+    "timestamp": "2026-11-22T07:55:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が3週連続で下落している。一方、ベトナム国内のガソリン価格は高止まりしたままで、国際価格と国内価格に乖離が生じている。"
+  },
+  {
+    "title": "イエメン港湾都市掌握か フーシ派、原油価格急騰 - 山陽新聞",
+    "timestamp": "2026-11-21T20:57:53+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派が紅海沿岸の重要な港湾都市を掌握しようとしており、中東の地政学的緊張が高まっている。紅海はスエズ運河を経由する原油輸送ルートの要衝であり、供給途絶リスクが顕在化。これを受けて原油価格が急騰している。"
+  },
+  {
+    "title": "WTI 原油先物3511【CL3511】株価掲示板｜投資家のコメント - Moomoo",
+    "timestamp": "2026-11-21T21:26:57+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "Moomooプラットフォーム上のWTI原油先物3511銘柄に関する投資家コメント掲示板。具体的なニュース内容や市場イベントではなく、ユーザーの意見交換のみ。"
+  },
+  {
+    "title": "今日のガソリン価格 11月22日:世界の原油価格の大幅な下落週 - Laodong.vn",
+    "timestamp": "2026-11-22T05:00:55+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "11月22日時点で、世界の原油価格が週単位で大幅に下落している。ガソリン価格もこの動きに連動して低下。市場全体のトレンド変化を示唆しているが、具体的な下落要因の詳細は不明。"
+  },
+  {
+    "title": "銅価格、2026年で最悪の週 - BeInCrypto",
+    "timestamp": "2026-11-22T04:00:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が2026年で最悪の週を記録した。市場全体の調整局面にあるとみられる。コモディティ投資家にとって短期的な売却圧力が継続している。"
+  },
+  {
+    "title": "米国に約200万トンの銅在庫が滞留、トレーダーが中国向け出荷に転換 - BigGo ファイナンス",
+    "timestamp": "2026-11-22T08:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米国に約200万トンの銅在庫が滞留している状況。トレーダーが中国向けの出荷にシフトしている。供給過剰気味の市場環境を反映。"
+  },
+  {
+    "title": "「銅博士」が飛び降りた！ウォール街のベテランが警告：世界的な景気後退の嵐が迫る - PANews",
+    "timestamp": "2026-11-22T00:54:07+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅相場の先行指標とされる「銅博士」が景気後退警告を発出。ウォール街ベテランが世界的な景気減速を予想し、銅需要減少への懸念が高まる。銅価格には下押し圧力となる可能性が高い。"
   }
 ]
