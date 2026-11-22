@@ -1,71 +1,5 @@
 [
   {
-    "title": "短期的な買い圧力で日中の勢いが強まり、カンザスシティ小麦価格が約3%上昇 - Traders Union",
-    "timestamp": "2026-11-19T13:48:27+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦が短期買い圧力で約3%上昇。日中の技術的な買い圧力による変動で、ファンダメンタルズ大変化を示唆するものではない。"
-  },
-  {
-    "title": "金価格が3,700ドル割れ、FRB利上げ論議が無利子資産の保有コストを押し上げ - BigGo ファイナンス",
-    "timestamp": "2026-11-19T16:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FRBの利上げ論議を背景に金価格が3,700ドルを割り込んだ。無利子資産である金の保有コストが上昇し、利回り資産への選好が強まる環境。金は金利環境に対する感応度が高い局面にある。"
-  },
-  {
-    "title": "金価格が高値から30％急落…FRBのタカ派姿勢・ドル高で14カ月ぶり安値 - BigGo ファイナンス",
-    "timestamp": "2026-11-19T14:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が高値から30％急落し14カ月ぶりの安値を記録。FRBのタカ派姿勢とドル高が主因。金の実質利回り低下とドル需要増加による下押し圧力が継続。"
-  },
-  {
-    "title": "本日2026年11月20日、金価格は急落し、底値が形成されつつあります。今が買い時でしょうか？ - Vietnam.vn",
-    "timestamp": "2026-11-19T15:15:14+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急落し底値形成の可能性が指摘されている。アナリストが買い時の検討を促す解説記事。市場の既存値動きの事後評論。"
-  },
-  {
-    "title": "銅価格の暴落は、AIインフラ整備に影響を与える可能性があります。 - Moomoo",
-    "timestamp": "2026-11-19T15:36:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格の下落がAIインフラ整備に悪影響を与える可能性を指摘する解説記事。銅は高性能な電気・通信インフラに必須の材料であり、AI関連投資の需要縮小を反映している。既に織り込まれた相場観の分析と見受けられる。"
-  },
-  {
-    "title": "カンザスシティ小麦価格予測：短期サポートを維持する限り、上昇余地あり - Traders Union",
-    "timestamp": "2026-11-19T15:59:37+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦が短期サポートレベルを維持している限り、上昇の余地があるとのアナリスト見解。テクニカル分析に基づく価格予測で、ショートカバーやロング買いの可能性を示唆。"
-  },
-  {
     "title": "金価格が今年3割超下落、UBSが2026年末目標株価を4,500ドルに引き下げ - BigGo ファイナンス",
     "timestamp": "2026-11-19T21:35:00+00:00",
     "importance": 3,
@@ -99,17 +33,6 @@
     "summary": "FOMC（連邦公開市場委員会）での大幅利上げ観測によりドル買いが進行。ドル高は金の実質金利を上昇させるため、金先物は52週安値を更新し続落。"
   },
   {
-    "title": "NY金先物相場、戻り鈍い 3716ドル付近で推移 - TradingView",
-    "timestamp": "2026-11-19T14:01:34+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "NY金先物が3716ドル付近で推移しており、戻りが鈍い状況が続いている。具体的な材料や方向性の変化は報じられていない。相場の局面観察記事であり、市場のスナップショット情報である。"
-  },
-  {
     "title": "本日（2026年11月20日）の金価格：SJC金地金、9999金リング、および国際金価格の価格表。 - Vietnam.vn",
     "timestamp": "2026-11-19T22:33:06+00:00",
     "importance": 1,
@@ -119,50 +42,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナムの金価格情報サイトによる本日の金相場一覧表。SJC金地金、9999金リング、国際金価格の価格を掲載。定期的な価格情報の更新にすぎない。"
-  },
-  {
-    "title": "NY市場動向（午後0時台）：ダウ498ドル安、原油先物1.23ドル高｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-19T17:13:00+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY午後の取引で原油先物が1.23ドル上昇した市場動向を報じたもの。同時にダウ平均は498ドル安で軟調。具体的な材料や背景情報の詳細は不明。"
-  },
-  {
-    "title": "WTI原油先物相場、強含み 84ドル台半ばで推移 - TradingView",
-    "timestamp": "2026-11-19T13:56:05+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "WTI原油先物が84ドル台半ばで推移している。相場が強含みの状態にあるが、具体的な価格変動幅や変動理由は記事から不明。相場観測記事であり、新規情報に乏しい。"
-  },
-  {
-    "title": "買い手の支援が続き、テクニカル面の抵抗がある中、コーン先物価格は上昇を続けるか？ - Traders Union",
-    "timestamp": "2026-11-19T15:36:30+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "コーン先物は買い手の支援により上昇基調が続いている。テクニカル面での抵抗水準が存在する中で、今後も上昇が継続するかどうかが焦点。アナリスト解説による相場振り返り。"
-  },
-  {
-    "title": "UBS、銅相場の急落は「需要崩壊ではなくポジション調整」と指摘 LME支持線は1トン1万2000ドル - BigGo ファイナンス",
-    "timestamp": "2026-11-19T19:35:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "UBSは銅相場の急落は需要崩壊ではなくポジション調整と指摘。LME支持線は1トン1万2000ドルと分析。市場心理の安定化シグナルとなる解釈。"
   },
   {
     "title": "１９日の主要国際商品市況 - 株探",
@@ -339,17 +218,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "供給過剰環境でブレント原油価格が3週連続下落している。既知の供給サイドの圧力を反映した値動き。需給バランスの悪化が継続している状況。"
-  },
-  {
-    "title": "債券先物は上昇、原油価格の下落を受けて米長期金利が低下 フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-11-19T15:37:50+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油価格の下落に伴い米長期金利が低下し、債券先物が上昇した。金融市場の連動性を示す相場の振り返り。原油投資家にとっては既に織り込まれた動き。"
   },
   {
     "title": "ゴールド下落、銅価格の変調、アンソロピックのIPO - マネクリ",
@@ -1285,5 +1153,82 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅相場の先行指標とされる「銅博士」が景気後退警告を発出。ウォール街ベテランが世界的な景気減速を予想し、銅需要減少への懸念が高まる。銅価格には下押し圧力となる可能性が高い。"
+  },
+  {
+    "title": "金価格急落 ピーター・シフ氏は強気姿勢 - BeInCrypto",
+    "timestamp": "2026-11-22T10:40:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が急落する中、著名投資家ピーター・シフ氏が金に対する強気姿勢を維持している。市場心理と個人の見解の相違を示すコメンタリー。"
+  },
+  {
+    "title": "本日2026年11月23日の金価格は、1オンスあたりさらに300ドル下落する可能性があり、投資家は慌てて購入すべきではない。 - Vietnam.vn",
+    "timestamp": "2026-11-22T17:00:48+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "アナリストが金価格の今後300ドル下落の可能性を指摘。投資家に対し、慌てて購入しないよう注意喚起している。技術的・ファンダメンタルズ分析に基づく観測記事。"
+  },
+  {
+    "title": "金価格は1年以上ぶりの安値水準まで下落しており、専門家は依然として悲観的な見方を示し、さらに300ドル下落する可能性を警告している。 - Vietnam.vn",
+    "timestamp": "2026-11-22T10:18:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1年以上ぶりの安値まで下落している。アナリストは弱気見通しを継続し、さらに300ドル下落する可能性を指摘している。現在のトレンドは既に市場に織り込まれている状況。"
+  },
+  {
+    "title": "金価格は1週間で約9％下落し、専門家は引き続き悲観的な予測を示している。 - Vietnam.vn",
+    "timestamp": "2026-11-22T05:57:18+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間で約9%下落した。専門家は引き続き弱気な見通しを示している。短期的な下落傾向が継続している状況。"
+  },
+  {
+    "title": "産業春秋／原油価格、急騰せず越年か - 日刊工業新聞",
+    "timestamp": "2026-11-22T20:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "産業春秋による原油市場の解説記事。年末年始の原油価格は急騰せず、現在の水準で越年する可能性を指摘。需給バランスや地政学的リスクの評価が反映された観測論。"
+  },
+  {
+    "title": "銅価格見通し：米精錬銅関税は延期の可能性、過去最高値更新後に急落、なお上昇は可能か？ - TradingKey",
+    "timestamp": "2026-11-21T22:07:08+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格は過去最高値更新後に急落。米精錬銅関税の延期可能性が報じられている。技術的・政策的な要因で短期的な不確実性が高い。"
+  },
+  {
+    "title": "アントファガスタ（LSE:ANTO）の株価、銅価格の下落圧力にもかかわらず適正水準を維持 - Simply Wall St",
+    "timestamp": "2026-11-22T17:09:18+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "アントファガスタ（銅鉱山大手）の株価が銅価格下落圧力にもかかわらず適正水準を維持していることについての評論。企業ファンダメンタルズが価格下落を部分的にオフセットしている状況の分析。"
   }
 ]
