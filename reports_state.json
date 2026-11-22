@@ -1,49 +1,5 @@
 [
   {
-    "title": "UBS Calls Copper Slump a Reset, Not a Demand Breakdown, With LME Support at $12,000 - BigGo Finance",
-    "timestamp": "2026-11-19T19:35:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "UBSはLME銅価格の下落を需要の崩壊ではなく「リセット」と位置付けた。同行は$12,000/tをサポートレベルとして見据えており、構造的な需要基盤は依然堅牢だが、短期的な価格調整局面が継続すると分析している。需給バランスの再構築段階にあるとの見方。"
-  },
-  {
-    "title": "UBS Calls Copper Slump a Reset, Not a Demand Breakdown, With LME Support at $12,000 - BigGo Finance",
-    "timestamp": "2026-11-19T19:35:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "UBSはLME銅価格の下落を需要の崩壊ではなく「リセット」と位置付けた。同行は$12,000/tをサポートレベルとして見据えており、構造的な需要基盤は依然堅牢だが、短期的な価格調整局面が継続すると分析している。需給バランスの再構築段階にあるとの見方。"
-  },
-  {
-    "title": "Russia repels Ukrainian drones attack on oil facility in Tatarstan region, local authorities say - Reuters",
-    "timestamp": "2026-11-19T18:08:24+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ウクライナがロシア・タタルスタン地域の石油施設に対してドローン攻撃を実施。ロシア当局によれば攻撃は撃退されたと発表。ロシアの石油供給に対する継続的な脅威が存在することを示唆し、原油市場のリスク・プレミアムを支持する要因となる。"
-  },
-  {
-    "title": "Copper’s Recent Selloff Could Present Long-Term Buying Opportunity, UBS Says: Report - TradingView",
-    "timestamp": "2026-11-19T18:52:29+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "UBSがアナリスト見解として、銅の最近の売却局面は長期的な買い機会を提示する可能性があると指摘。現在の下落は過度な調整と判断され、ファンダメンタルズは長期的には強気要因が支配的と評価。グリーンエネルギー転換と電動車需要の拡大が銅需要の主要成長ドライバーとされている。"
-  },
-  {
     "title": "Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk - Bloomberg.com",
     "timestamp": "2026-11-20T01:12:00+00:00",
     "importance": 3,
@@ -352,25 +308,69 @@
     "summary": "米国の銅在庫が過去最高近くの約200万トンまで膨張。トレーダーが中国への輸出方針を転換し、大量の銅金属を中国へ船積みしている。これは米国内での銅需要の弱さと中国市場での価格優位性を示唆しており、銅価格に下押し圧力。"
   },
   {
-    "title": "Houthi attacks on Saudi Arabia - Reuters",
-    "timestamp": "2026-11-19T16:20:38+00:00",
+    "title": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery - Reuters",
+    "timestamp": "2026-11-22T17:52:15+00:00",
     "importance": 4,
     "direction": "上昇",
     "event_type": "breaking",
     "surprise": "high",
     "source": "Reuters商品ニュース",
     "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビアへの攻撃が報道された。サウジアラビアは世界最大級の石油輸出国であり、同国の石油施設への脅威は原油供給の不確実性を大幅に高める。地政学的リスク再燃により、エネルギー価格全体の上昇圧力が強まる。"
+    "summary": "イエメンの反政府勢力フーシ派がサウジアラビアのラービグ製油所への攻撃を表明。同製油所は日量45万バレルの重要な精製施設であり、中東の地政学的緊張が急激に高まった。サウジアラビアは世界最大級の石油輸出国であり、供給途絶のリスクが市場心理を刺激する可能性が高い。"
   },
   {
-    "title": "Houthi attacks on Saudi Arabia - Reuters",
-    "timestamp": "2026-11-19T16:20:38+00:00",
+    "title": "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises - Reuters",
+    "timestamp": "2026-11-19T22:58:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "Anthropicの上場がAI関連の懸念を緩和できず、株式市場全体が下落。ドル高が進行し、ドル建てコモディティ（特に金など無利子資産）に下押し圧力がかかる見通し。金利上昇環境でのドル強化はコモディティ全般の逆風要因となる可能性。"
+  },
+  {
+    "title": "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises - Reuters",
+    "timestamp": "2026-11-19T22:58:43+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "Anthropicの上場がAI関連の懸念を緩和できず、株式市場全体が下落。ドル高が進行し、ドル建てコモディティ（特に金など無利子資産）に下押し圧力がかかる見通し。金利上昇環境でのドル強化はコモディティ全般の逆風要因となる可能性。"
+  },
+  {
+    "title": "More Russian regions limit fuel sales as Ukrainian drone strikes hit refinery output - Reuters",
+    "timestamp": "2026-11-20T09:40:01+00:00",
     "importance": 4,
     "direction": "上昇",
     "event_type": "breaking",
     "surprise": "high",
     "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナによるドローン攻撃によりロシアの製油所稼働率が低下し、複数地域で燃料販売を制限。ロシアの原油精製能力が実質的に減少し、供給逼迫リスクが高まっている。これは市場で予想されていなかった急激な供給ショック。"
+  },
+  {
+    "title": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind - Reuters",
+    "timestamp": "2026-11-21T07:41:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インド・ルピーが対米ドルで93を突破し、堅調なインド株への投資家流入とショートカバーが進行。ルピー高は新興国通貨全体の強含みを示唆し、ドル安圧力が生じている。ドル安環境は金を含む非利子生産資産への需要を支援する傾向。"
+  },
+  {
+    "title": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind - Reuters",
+    "timestamp": "2026-11-21T07:41:44+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
-    "summary": "フーシ派によるサウジアラビアへの攻撃が報道された。サウジアラビアは世界最大級の石油輸出国であり、同国の石油施設への脅威は原油供給の不確実性を大幅に高める。地政学的リスク再燃により、エネルギー価格全体の上昇圧力が強まる。"
+    "summary": "インド・ルピーが対米ドルで93を突破し、堅調なインド株への投資家流入とショートカバーが進行。ルピー高は新興国通貨全体の強含みを示唆し、ドル安圧力が生じている。ドル安環境は金を含む非利子生産資産への需要を支援する傾向。"
   }
 ]
