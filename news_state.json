@@ -1,38 +1,5 @@
 [
   {
-    "title": "銅価格が7カ月ぶり安値に急落、欧州株は3日続落 鉱業株は1日で4.7%下落 - BigGo ファイナンス",
-    "timestamp": "2026-11-19T00:26:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が7カ月ぶりの安値に急落し、欧州株式市場は3日連続で下落。鉱業株は1日で4.7%の大幅な下げ。需要懸念やマクロ経済不安が背景と考えられる。"
-  },
-  {
-    "title": "海外マーケットトピックー銅相場5%超急落、AI関連トレード崩れる・・・(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-19T00:23:03+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅相場が5%超の急落を記録した。AI関連トレードの巻き戻しが主要因とみられる。短期的なテクニカル調整局面の特徴を示している。"
-  },
-  {
-    "title": "売り圧力の継続とテクニカル面の弱さが重なり、カンザスシティ小麦価格は約3%下落 - Traders Union",
-    "timestamp": "2026-11-19T04:41:30+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "小麦",
-    "summary": "カンザスシティ小麦が約3%下落。売り圧力の継続とテクニカル面の弱さが主要因。市場心理が弱気方向に傾いている。"
-  },
-  {
     "title": "国際金価格が1オンス3,750ドルを割り込み、ベトナム国内SJCも1タエル50万ドン下落 - BigGo ファイナンス",
     "timestamp": "2026-11-19T07:05:00+00:00",
     "importance": 2,
@@ -42,39 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "国際金価格が1オンス3,750ドルを割り込み、ベトナム国内SJC金も連動して下落。報道は既に発生した価格変動の報告であり、追加的な材料は含まれていない。"
-  },
-  {
-    "title": "金価格が3.2%下落し14カ月ぶりの安値を更新、GLDの5倍ベア型上場投資信託（DLC）は16%急騰 - Moomoo",
-    "timestamp": "2026-11-19T02:04:59+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3.2%下落し14ヶ月ぶりの安値を更新した。この下落に伴い、GLDの5倍ベア型ETF（DLC）が16%急騰した。金価格の軟調が確実視されている状況を示している。"
-  },
-  {
-    "title": "住友鉱が大幅に８日続落し年初来安値を連日更新、ＮＹ金先物は３％超す下落 - みんかぶ",
-    "timestamp": "2026-11-19T01:08:55+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "住友鉱が8日続落し年初来安値を連日更新。NY金先物が3%超の下落。ドル高や金利上昇環境による金売却圧力が継続している状況の報道。"
-  },
-  {
-    "title": "金価格3700ドルに下落 シフ氏「FRBのインフレ対策は金融危機のリスク」 - BeInCrypto",
-    "timestamp": "2026-11-19T01:20:13+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3700ドルに下落。アナリスト（シフ氏）はFRBのインフレ対策が金融危機リスクをもたらす可能性があると指摘。既知のマクロ環境の解説。"
   },
   {
     "title": "2026年11月19日の金価格：引き続き急落し、1億3700万ベトナムドンを下回る。 - Vietnam.vn",
@@ -88,105 +22,6 @@
     "summary": "ベトナムドン建て金価格が1億3700万VND下回るまで急落した。ベトナムローカル市場の価格動向を報じたもの。国際金相場の基本的なトレンド反映。"
   },
   {
-    "title": "ETF売買動向＝19日前引け、金先物ベア、ＧＸ超短円債が新高値(株探ニュース) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-19T02:33:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "19日の市場で金先物のベアETFが売却され、一方で超短期円債ETFが新高値を更新。金は相対的に売られ、円債が買われた動きを示唆。"
-  },
-  {
-    "title": "原油先物小動き、供給過剰と米利上げ観測が重し - Reuters",
-    "timestamp": "2026-11-19T03:03:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物は供給過剰懸念と米利上げ観測により小動きの展開。需給バランスの悪化と金融引き締め期待が価格の上値を抑制。市場心理は弱気基調が継続。"
-  },
-  {
-    "title": "FOMC参加者の発言や原油価格の動向、南アフリカ中銀会合が材料になりそう - マネースクエア",
-    "timestamp": "2026-11-19T00:16:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "FOMC参加者の発言、原油価格動向、南アフリカ中銀会合が今後の相場材料となる可能性を指摘。複数の経済指標が同時に注視される状況。"
-  },
-  {
-    "title": "原油先物小動き、供給過剰と米利上げ観測が重し - ニューズウィーク日本版",
-    "timestamp": "2026-11-19T03:02:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物は供給過剰懸念と米利上げ観測により小幅な値動きに留まっている。複数の下押し要因が相場を圧迫している状況。短期的には方向感に乏しい展開が続く見通し。"
-  },
-  {
-    "title": "トランプ氏、イランへの再軍事攻撃を検討か 国際原油価格が下げ止まり反発 - BigGo ファイナンス",
-    "timestamp": "2026-11-19T03:05:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "トランプ氏がイランへの再軍事攻撃を検討していると報じられ、中東の地政学リスク再燃を懸念。原油の重要な供給地域での紛争可能性が市場を刺激し、原油価格が反発。イラン産原油の供給途絶リスクが顕在化。"
-  },
-  {
-    "title": "WTI 原油先物(2701)【CLMAIN】株価・チャート - Moomoo",
-    "timestamp": "2026-11-19T02:04:48+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "MoomooプラットフォームによるWTI原油先物の株価・チャート表示ページ。具体的なニュース内容や市場イベントの報道ではなく、取引ツールのリンク紹介と思われる。"
-  },
-  {
-    "title": "非鉄株が軒並み安､LME銅価格急落や米利上げ観測で - 四季報オンライン",
-    "timestamp": "2026-11-19T04:41:39+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "LME銅価格が急落し、非鉄金属株が軒並み安となっている。米利上げ観測が背景にあり、銅を含む工業用金属需要への懸念が市場を圧迫している状況。"
-  },
-  {
-    "title": "JX金属が急落、LME銅先物安とAI投資減速懸念が非鉄株を直撃 - BigGo ファイナンス",
-    "timestamp": "2026-11-19T04:25:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "LME銅先物の下落とAI投資減速懸念により、JX金属など非鉄金属株が売られた。銅需要の弱さが顕在化し、コモディティ全体で軟調相場が継続。"
-  },
-  {
-    "title": "銅相場5%超急落、AI関連トレード崩れる－供給逼迫でも金属市場に売り フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-    "timestamp": "2026-11-19T02:08:04+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅相場が5%超の急落。AI関連の投機的買いポジションの整理売りが主因。供給逼迫という構造的な支援要因があるにもかかわらず、金属市場全体への売り圧力が優位。"
-  },
-  {
     "title": "中国：銅価格が高値比３．５％安、家電の採算に追い風(サーチナ) - Yahoo!ファイナンス",
     "timestamp": "2026-11-19T05:52:16+00:00",
     "importance": 2,
@@ -198,17 +33,6 @@
     "summary": "銅価格が高値から3.5%下落し、銅を使用する家電メーカーの採算改善に好材料となる。中国の家電産業にとってコスト圧力の緩和が期待できる状況。"
   },
   {
-    "title": "JX金属株価が暴落した理由は?銅価格急落とAI需要の先行き不安を分析 - EBC Financial Group",
-    "timestamp": "2026-11-19T03:34:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "JX金属株が暴落した背景として、銅価格の急落とAI関連需要の先行き不安が指摘されている。銅は電気自動車やAIサーバー向けの需要が期待されていたが、需要見通しの弱気化が圧力となっている。現在の価格下落が一時的な調整なのか、構造的な需要減少なのかが重要な判断材料となる。"
-  },
-  {
     "title": "銅価格の高値圏からの反落と輸出加速が追い風 中国家電株が一斉高、康盛股份はストップ高 - BigGo ファイナンス",
     "timestamp": "2026-11-19T08:05:00+00:00",
     "importance": 3,
@@ -218,17 +42,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅価格が高値圏から反落し、コスト低下が中国家電メーカーの収益性向上に寄与。輸出加速の追い風も受け、家電株が一斉高となった。康盛股份がストップ高を記録。"
-  },
-  {
-    "title": "中国：銅価格が高値比3.5％安、家電の採算に追い風 - ashu-chinastatistics.com",
-    "timestamp": "2026-11-19T02:05:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "中国で銅価格が高値比3.5％低下し、家電メーカーの採算性が改善される見通し。需要側にとって好材料となる相場調整が進行中。"
   },
   {
     "title": "短期的な買い圧力で日中の勢いが強まり、カンザスシティ小麦価格が約3%上昇 - Traders Union",
@@ -1362,5 +1175,115 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "米国の「ブルーウェーブ」政策への市場反応で銅価格が13%急落。景気減速懸念や金融引き締め予想が銅などリスク資産を圧迫。関連採掘企業株も連動して下落。"
+  },
+  {
+    "title": "金相場価格デイリーコメント週間まとめ（11/16〜11/20）｜水野崇 - JIJICO",
+    "timestamp": "2026-11-22T01:14:29+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月16〜20日の金相場の週間動向を専門家が解説したコメント記事。過去1週間の相場振り返りと分析が主な内容。"
+  },
+  {
+    "title": "金価格の株式市場連動に懸念 - BeInCrypto",
+    "timestamp": "2026-11-22T04:20:46+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が株式市場との連動性を強めているという懸念が報じられている。従来の金は株式市場と逆相関する「有事の金」としての特性が薄れている可能性が指摘されている。リスク資産全体の下落局面で金も共に下落するシナリオが懸念される。"
+  },
+  {
+    "title": "1週間の急落と「クジラ」の動きを踏まえた金価格予測 - Vietnam.vn",
+    "timestamp": "2026-11-22T02:22:29+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1週間で急落した。大口投資家（クジラ）の動きが注視されている。今後の価格予測についての解説記事。"
+  },
+  {
+    "title": "金価格が最安値の時に買おうとすればするほど、損失は大きくなる。 - Vietnam.vn",
+    "timestamp": "2026-11-22T03:53:06+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金の最安値で買おうとするほど損失が大きくなるという相場心理に関する解説記事。タイミング投資の難しさを警告するコンテンツ。"
+  },
+  {
+    "title": "今週、世界の金価格は9.4％下落し、3,500ドルに迫った一方、ETFや中央銀行は引き続き純買い越しとなった。 - Vietnam.vn",
+    "timestamp": "2026-11-22T02:03:56+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は週間で9.4%下落し3,500ドル水準に接近。一方でETFと中央銀行は継続的に純買い越しを実施。需給構造に乖離がある状況を示唆。"
+  },
+  {
+    "title": "本日の燃料価格（11月22日）：世界の原油価格は1週間下落した。 - Vietnam.vn",
+    "timestamp": "2026-11-21T23:52:12+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が1週間にわたって下落を続けている。ベトナムの燃料価格情報として報道されているが、特段の新規材料や供給ショックは示唆されていない。既に進行中の下落トレンドの定期的な報告である。"
+  },
+  {
+    "title": "本日（11月22日）の燃料価格：原油価格は最終取引セッションで上昇したが、週全体では下落した。 - Vietnam.vn",
+    "timestamp": "2026-11-22T00:29:30+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "11月22日の原油は最終セッションで上昇したが、週全体では下落で終了。日次の振動は通常範囲内で、週間ベースのトレンドは弱気。"
+  },
+  {
+    "title": "2026年11月22日現在の燃料価格：世界の原油価格は今週も安定している。 - Vietnam.vn",
+    "timestamp": "2026-11-22T01:58:41+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "世界の原油価格が今週も安定している状況を伝えるニュース。特定の価格変動やイベントは報告されていない。ベトナムの燃料価格情報の定期報告と考えられる。"
+  },
+  {
+    "title": "11月21日の市場最新情報：SJC金価格は急落、世界の原油価格は上昇、米ドルは落ち着きを取り戻した。 - Vietnam.vn",
+    "timestamp": "2026-11-22T01:25:34+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "11月21日の市場レポート。金価格は急落、原油価格は上昇、ドル相場は落ち着きを取り戻した。複数資産の日次値動きを報じる総合市場情報。"
+  },
+  {
+    "title": "関税問題への懸念が緩和されるにつれ、米国からの銅の流れは中国へとシフトし始めている。 - Vietnam.vn",
+    "timestamp": "2026-11-21T23:49:02+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "米中関税問題への懸念が緩和され、米国からの銅流が中国へシフト開始。中国の銅需要増加が見込まれる。地政学的リスク低下が需要サイドの改善を促す。"
   }
 ]
