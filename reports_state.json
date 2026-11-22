@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil Steadies as Supply, US Inventories Offset Mideast Tensions - Bloomberg",
-    "timestamp": "2026-11-19T02:21:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の地政学的緊張が存在する一方で、供給の安定性と米国の在庫水準がこれをオフセットしており、原油価格は方向感を欠いている。供給要因と需給バランスが拮抗した状況が続いている。"
-  },
-  {
     "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
     "timestamp": "2026-11-19T07:04:18+00:00",
     "importance": 2,
@@ -20,50 +9,6 @@
     "source": "EIA原油在庫",
     "commodity": "原油",
     "summary": "EIAが米国原油在庫の増加を報告した。在庫の積み増しは需要懸念または供給過剰を示唆し、原油価格に下押し圧力となる。ただし具体的な在庫増加量や前週比データが記事に記載されていないため、変動幅の評価は限定的。"
-  },
-  {
-    "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
-    "timestamp": "2026-11-19T06:29:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "サウジアラビアがアラブ首長国連邦を抜き、インドの第2位の石油供給国となった。ロシアは引き続き第1位を維持している。これはOPEC加盟国間の供給シェア競争の動きを示唆しており、インドなど新興市場への販売戦略の変化を反映している。"
-  },
-  {
-    "title": "Oil prices rise as Middle East shipping attacks counter supply surplus outlook - Reuters",
-    "timestamp": "2026-11-19T02:47:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の海運攻撃が原油価格を押し上げている。供給余剰見通しという下押し要因がある中でも、地政学的リスク（Houthi攻撃など紅海での船舶攻撃）がサプライチェーン懸念を再燃させ、価格上昇圧力が発生。短期的なボラティリティ拡大と上昇トレンドが継続する可能性が高い。"
-  },
-  {
-    "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters",
-    "timestamp": "2026-11-19T05:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "IEAが、イラン紛争への対応として各国が進めるエネルギー安全保障施策により、2035年までに世界の石油需要が4%削減される可能性があると発表。再生可能エネルギー導入加速と省エネ投資が大幅に進むシナリオで、長期的な石油需要減速が示唆された。"
-  },
-  {
-    "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters",
-    "timestamp": "2026-11-19T05:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "IEAが、イラン紛争への対応として各国が進めるエネルギー安全保障施策により、2035年までに世界の石油需要が4%削減される可能性があると発表。再生可能エネルギー導入加速と省エネ投資が大幅に進むシナリオで、長期的な石油需要減速が示唆された。"
   },
   {
     "title": "At COP31, Venezuela touts AI as path to cleaner oil production - Reuters",
@@ -152,28 +97,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "ウクライナがロシア・タタルスタン地域の石油施設に対してドローン攻撃を実施。ロシア当局によれば攻撃は撃退されたと発表。ロシアの石油供給に対する継続的な脅威が存在することを示唆し、原油市場のリスク・プレミアムを支持する要因となる。"
-  },
-  {
-    "title": "In Russia’s Shadow, Norway Expands Its Arctic Energy Frontier - Bloomberg.com",
-    "timestamp": "2026-11-19T05:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの地政学的影響が高まる中、ノルウェーが北極圏のエネルギー開発を加速させている。ロシアの供給制約を背景に、西側民主主義国による代替供給源確保の動きが活発化。北極圏エネルギー開発の拡大は長期的な供給構造の再編を示唆し、エネルギーコモディティ全体に構造的な上昇圧力をもたらす可能性がある。"
-  },
-  {
-    "title": "In Russia’s Shadow, Norway Expands Its Arctic Energy Frontier - Bloomberg.com",
-    "timestamp": "2026-11-19T05:00:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "ロシアの地政学的影響が高まる中、ノルウェーが北極圏のエネルギー開発を加速させている。ロシアの供給制約を背景に、西側民主主義国による代替供給源確保の動きが活発化。北極圏エネルギー開発の拡大は長期的な供給構造の再編を示唆し、エネルギーコモディティ全体に構造的な上昇圧力をもたらす可能性がある。"
   },
   {
     "title": "Copper’s Recent Selloff Could Present Long-Term Buying Opportunity, UBS Says: Report - TradingView",
@@ -418,17 +341,6 @@
     "summary": "OPECが2026年の世界石油需要成長見通しを再度引き下げた。需要の弱さが続いており、EV普及加速や経済減速懸念が背景。需要見通しの引き下げは供給過剰リスクを高め、原油価格に下押し圧力がかかる可能性がある。"
   },
   {
-    "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
-    "timestamp": "2026-11-19T06:31:36+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "インドの石油供給源で構造的な変化が生じており、サウジアラビアがUAEを抜いて第2位の供給国となった。ロシアは引き続き最大の供給国であり、OPEC諸国間の市場シェア競争が激化している状況を示唆している。"
-  },
-  {
     "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
     "timestamp": "2026-11-20T19:42:45+00:00",
     "importance": 3,
@@ -526,5 +438,16 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後の独立採掘により、2025年に日産500万バレルを超える増産を計画していることをIEAが報告。OPEC+の減産合意に対抗する動きとして注目される。同国の増産は世界供給の増加圧力となり、油価には下向き材料。"
+  },
+  {
+    "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
+    "timestamp": "2026-11-22T01:59:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間原油在庫統計で、予想外の大幅な在庫増加が報告された。実績は+465.7万バレルの増加だったのに対し、市場予想は-110.9万バレルの減少を見込んでいた。この予想比のサプライズは576.6万バレルの乖離で、市場参加者の需給見通しに大きなずれが生じていたことを示唆している。"
   }
 ]
