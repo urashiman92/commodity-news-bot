@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk - Bloomberg.com",
-    "timestamp": "2026-11-20T01:12:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油は3週連続の下落が見込まれている。地政学的リスク（戦争要因）があるものの、潤沢な供給がこれを相殺し、下押し圧力が勝っている状況。需給バランスが供給過剰傾向にあることが価格弱気要因として機能している。"
-  },
-  {
-    "title": "OPEC+ Oil Output Hike is Irrelevant for Now, Not for Later: Russell - EnergyNow.com",
-    "timestamp": "2026-11-19T23:09:04+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の増産決定について、現在の市場環境では供給増が価格に与える影響は限定的であるとの見方が示されている。ただし、将来的には増産の累積効果が原油市場に影響を及ぼす可能性があり、中期的な注視が必要と指摘されている。"
-  },
-  {
     "title": "Milk Production",
     "timestamp": "2026-11-20T20:00:00+00:00",
     "importance": 2,
@@ -119,17 +97,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが日本との間で石油供給契約を締結し、日本の枯渇した戦略備蓄の補充を開始する。これは両国間の長期的なエネルギー協力関係を強化するもので、市場では既に織り込まれた通常の取引と見なされている。"
-  },
-  {
-    "title": "US Sour Crude’s War Premium Vanishes as Supply Surges - Bloomberg.com",
-    "timestamp": "2026-11-20T01:56:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "米国サワー原油の「戦争プレミアム」が消滅し、供給増加に伴い価格が低下している。中東地政学リスクが緩和され、市場が落ち着きを取り戻す中で、スポット供給の増加がサワー原油のスプレッドを圧縮。従来は紛争リスク回避需要で高止まりしていたが、実際の増産実績により過去のプレミアムが解消される局面"
   },
   {
     "title": "Tether Insiders Seek to Turn Gold Into a 4% Yield Machine - Bloomberg.com",
@@ -319,28 +286,6 @@
     "summary": "イエメンの反政府勢力フーシ派がサウジアラビアのラービグ製油所への攻撃を表明。同製油所は日量45万バレルの重要な精製施設であり、中東の地政学的緊張が急激に高まった。サウジアラビアは世界最大級の石油輸出国であり、供給途絶のリスクが市場心理を刺激する可能性が高い。"
   },
   {
-    "title": "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises - Reuters",
-    "timestamp": "2026-11-19T22:58:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Anthropicの上場がAI関連の懸念を緩和できず、株式市場全体が下落。ドル高が進行し、ドル建てコモディティ（特に金など無利子資産）に下押し圧力がかかる見通し。金利上昇環境でのドル強化はコモディティ全般の逆風要因となる可能性。"
-  },
-  {
-    "title": "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises - Reuters",
-    "timestamp": "2026-11-19T22:58:43+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "Anthropicの上場がAI関連の懸念を緩和できず、株式市場全体が下落。ドル高が進行し、ドル建てコモディティ（特に金など無利子資産）に下押し圧力がかかる見通し。金利上昇環境でのドル強化はコモディティ全般の逆風要因となる可能性。"
-  },
-  {
     "title": "More Russian regions limit fuel sales as Ukrainian drone strikes hit refinery output - Reuters",
     "timestamp": "2026-11-20T09:40:01+00:00",
     "importance": 4,
@@ -372,5 +317,71 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "インド・ルピーが対米ドルで93を突破し、堅調なインド株への投資家流入とショートカバーが進行。ルピー高は新興国通貨全体の強含みを示唆し、ドル安圧力が生じている。ドル安環境は金を含む非利子生産資産への需要を支援する傾向。"
+  },
+  {
+    "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+    "timestamp": "2026-11-20T08:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "LiteFinanceによる原油価格の短期予測記事。本日から30日間の価格見通しを提供するコメンタリー。具体的な数値やEIA統計データが記事本文に含まれていないため、詳細な分析が困難。予測型記事であり、実際の統計発表ではない。"
+  },
+  {
+    "title": "USDA projects tighter crop ending stocks - Agri News",
+    "timestamp": "2026-11-23T00:57:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
+  },
+  {
+    "title": "USDA projects tighter crop ending stocks - Agri News",
+    "timestamp": "2026-11-23T00:57:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
+  },
+  {
+    "title": "USDA projects tighter crop ending stocks - Agri News",
+    "timestamp": "2026-11-23T00:57:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
+  },
+  {
+    "title": "USDA projects tighter crop ending stocks - Agri News",
+    "timestamp": "2026-11-23T00:57:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
+  },
+  {
+    "title": "Oil Edges Lower as Ample Supply Outweighs Middle East Tensions - Bloomberg.com",
+    "timestamp": "2026-11-22T23:30:39+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格が小幅に下落。中東の地政学的緊張が存在する一方で、供給が十分に利用可能であることが価格上昇を抑制している。サプライ面での懸念が需給バランスの堅調さに圧倒されている状況。"
   }
 ]
