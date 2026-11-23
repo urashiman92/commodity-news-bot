@@ -1,60 +1,5 @@
 [
   {
-    "title": "金価格が今年3割超下落、UBSが2026年末目標株価を4,500ドルに引き下げ - BigGo ファイナンス",
-    "timestamp": "2026-11-19T21:35:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が今年30%超下落している。UBSが2026年末の金価格目標を4,500ドルに引き下げたアナリスト見解。強いドル・金利上昇環境が金の重しになっている。"
-  },
-  {
-    "title": "金価格(ゴールド)見通し(市況ニュース)：ドル高と利上げ観測が重荷となり金は約100ドル下落（2026年11月20日） - OANDA証券",
-    "timestamp": "2026-11-19T23:18:19+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ドル高と利上げ観測により金価格が約100ドル下落した。ドル強化と金利上昇は金にとって逆風要因として広く認識されている。現在の下落は既定路線の範囲内の値動き。"
-  },
-  {
-    "title": "NY金先物は続落、FOMCでの大幅利上げ観測によるドル買いで52週安値更新｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-19T23:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "FOMC（連邦公開市場委員会）での大幅利上げ観測によりドル買いが進行。ドル高は金の実質金利を上昇させるため、金先物は52週安値を更新し続落。"
-  },
-  {
-    "title": "本日（2026年11月20日）の金価格：SJC金地金、9999金リング、および国際金価格の価格表。 - Vietnam.vn",
-    "timestamp": "2026-11-19T22:33:06+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ベトナムの金価格情報サイトによる本日の金相場一覧表。SJC金地金、9999金リング、国際金価格の価格を掲載。定期的な価格情報の更新にすぎない。"
-  },
-  {
-    "title": "１９日の主要国際商品市況 - 株探",
-    "timestamp": "2026-11-19T23:19:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "19日の主要国際商品市況についての相場報告。具体的な商品価格や変動要因の詳細が記事概要に記載されていない。定期的な市況サマリーの発表。"
-  },
-  {
     "title": "ＳＰＤＲや純金信託が安い、金価格下落で - 株探",
     "timestamp": "2026-11-20T04:16:00+00:00",
     "importance": 2,
@@ -108,17 +53,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "米利上げ観測の高まりを受けて金価格が1%下落した。金は実質金利に逆相関するため、利上げ期待は金需要を圧迫する要因となる。今後のFRB当局者発言が重要な注視ポイント。"
-  },
-  {
-    "title": "$金/米ドル (XAUUSD.CFD)$ $金先物(2612) (GCmain.US)$ - Moomoo",
-    "timestamp": "2026-11-20T00:53:54+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金先物の価格情報ページへのリンク記事。具体的なニュース内容や市場情報が示されていない。ティッカーシンボル表記のみで分析対象となるニュース本体がない。"
   },
   {
     "title": "金価格は引き続き急落している。「ホットマネー」が逃げ出しているのだろうか？ - Vietnam.vn",
@@ -187,17 +121,6 @@
     "summary": "湾岸情勢緊迫化で小幅高となったが、供給過剰懸念が重石となり3週連続の週間安。上昇要因と下落要因が相殺した状況。"
   },
   {
-    "title": "原油価格は3週連続で下落する見込み。供給過剰がイラン情勢のリスクを相殺。 - Moomoo",
-    "timestamp": "2026-11-19T23:52:29+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "供給過剰が原油相場の下押し要因として機能しており、3週連続の下落が見込まれている。イラン情勢のリスク要因も存在するが、供給過剰がこれを相殺する構図。市場は既に供給過剰を織り込みつつあり、地政学リスクの影響力が限定的な状況。"
-  },
-  {
     "title": "原油先物小幅高、フーシ派のリヤド攻撃で供給懸念 週間では下落（ロイター） - Yahoo!ニュース",
     "timestamp": "2026-11-20T02:23:01+00:00",
     "importance": 3,
@@ -240,17 +163,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "AIデータセンター需要の過度な期待が市場で修正され、銅価格が6カ月ぶりの安値まで急落。需要成長の持続性に対する投資家の疑念が強まっている。銅市場の主要上昇シナリオの根拠が揺らいだ重要な転機。"
-  },
-  {
-    "title": "１９日の主要国際商品市況 (2026年11月20日掲載) - ライブドアニュース",
-    "timestamp": "2026-11-19T23:19:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "11月19日の主要国際商品市況を報じるニュース。具体的な価格データや変動要因が記事本文に示されていない。コモディティ全般の日次市況サマリーと考えられる。"
   },
   {
     "title": "ETF売買動向＝20日前引け、金先物ベア、日経エンタメが新高値 - 株探",
@@ -319,17 +231,6 @@
     "summary": "供給途絶懸念がアジア原油市場で意識され、小幅な上昇となった。ただし具体的なイベントや供給ショックの詳細が不明。既知の地政学リスクの継続的な価格反映と考えられる。"
   },
   {
-    "title": "原油価格は20％下落したのに…ホルムズ海峡では1日1件のペースでタンカーへの攻撃続く - ｄメニューニュース",
-    "timestamp": "2026-11-19T22:29:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡でタンカーへの攻撃が1日1件のペースで継続中。原油価格が20%下落している中でも地政学的リスク要因が存在。供給途絶リスクは依然として市場の懸念要因。"
-  },
-  {
     "title": "コーン先物が約2.5%上昇、テクニカルモメンタムを背景に寄り付きで上窓 - Traders Union",
     "timestamp": "2026-11-20T12:07:31+00:00",
     "importance": 2,
@@ -372,17 +273,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅を含むAI関連金属が急落し、銅価格は1週間で約9%の下げ幅を記録した。急速な価格低下はコモディティ投資家にとって重要な相場転換の可能性を示唆している。背景となる需要減速や金融引き締め懸念の実態把握が必要。"
-  },
-  {
-    "title": "１９日の主要国際商品市況 - ライブドアニュース",
-    "timestamp": "2026-11-19T23:19:32+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "19日の主要国際商品市況についてのニュース報道。具体的な商品価格や市場動向の詳細は記事本文にアクセスしないと判断不可。定期的な市場動向レポートと推定。"
   },
   {
     "title": "【11月の金市場】金価格は10月に6.8％下落、それでも「強気相場は終わらない」…2027年に向けてなお上昇余地があると考える理由 - ゴールドオンライン",
@@ -1230,5 +1120,60 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "アントファガスタ（銅鉱山大手）の株価が銅価格下落圧力にもかかわらず適正水準を維持していることについての評論。企業ファンダメンタルズが価格下落を部分的にオフセットしている状況の分析。"
+  },
+  {
+    "title": "今日の金価格（11月23日）：底値で買おうとすればするほど、損をする。 - Vietnam.vn",
+    "timestamp": "2026-11-22T22:47:45+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムのニュースサイトによる金価格の解説記事。底値での買い戻し戦略の危険性について論じている。具体的な価格データや市場材料は記事概要に含まれていない。"
+  },
+  {
+    "title": "本日（2026年11月23日）の金価格：SJC金地金、9999金リング、および国際金価格の価格表。 - Vietnam.vn",
+    "timestamp": "2026-11-22T23:26:06+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金価格情報を定期的に報じたニュース。SJC金地金、9999金リング、国際金価格の価格表示。市場への特段の影響材料は含まれていない。"
+  },
+  {
+    "title": "本日（2026年11月23日）の金価格：SJC金地金、BTMC 9999プレーンリング、および世界の金価格。 - Vietnam.vn",
+    "timestamp": "2026-11-22T21:45:12+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ベトナムの金現物価格（SJC金地金やBTMC 9999製品）と世界金価格の日次情報提供。ローカル市場の価格情報に過ぎず、市場動向の新規情報なし。"
+  },
+  {
+    "title": "トランプ氏、中間選挙による株安を指摘 選挙後の原油安も強調 - BeInCrypto",
+    "timestamp": "2026-11-22T18:50:38+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "トランプ氏が中間選挙後の株価下落と原油安を指摘。政治家による相場コメンタリー。既に進行中の市場調整の事後的な言及。"
+  },
+  {
+    "title": "「ロケットと羽根」とは？ 原油が下がってもガソリンが下がりにくい訳 - 千葉テレビ放送株式会社",
+    "timestamp": "2026-11-22T23:49:58+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "原油価格が下落してもガソリン小売価格が下がりにくい現象を説明するニュース。原油から精製・流通・税金などの各段階での価格変動メカニズムを解説しており、市場構造の既知の特性について。"
   }
 ]
