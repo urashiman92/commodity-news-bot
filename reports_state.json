@@ -1,104 +1,5 @@
 [
   {
-    "title": "Milk Production",
-    "timestamp": "2026-11-20T20:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "USDA NASが11月20日に牛乳生産統計を発表。同統計は酪農セクターの生産動向を示す定期レポートで、飼料需要（トウモロコシ・大豆）とリンクする。具体的な生産量・頭数の前月比・前年比データが市場予想と比較される。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-11-20T20:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "USDA NASが11月20日に牛乳生産統計を発表。同統計は酪農セクターの生産動向を示す定期レポートで、飼料需要（トウモロコシ・大豆）とリンクする。具体的な生産量・頭数の前月比・前年比データが市場予想と比較される。"
-  },
-  {
-    "title": "Milk Production",
-    "timestamp": "2026-11-20T20:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "USDA NASが11月20日に牛乳生産統計を発表。同統計は酪農セクターの生産動向を示す定期レポートで、飼料需要（トウモロコシ・大豆）とリンクする。具体的な生産量・頭数の前月比・前年比データが市場予想と比較される。"
-  },
-  {
-    "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-    "timestamp": "2026-11-20T15:00:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "FRB全プレスリリース",
-    "commodity": "コモディティ全般",
-    "summary": "FRBが銀行の準備金管理戦略に関する調査結果を発表。これは金融機関の内部オペレーション調査であり、金融政策の新たな決定や金利方針の変更を伴わない定例的な情報開示。コモディティ市場への直接的な影響は限定的。"
-  },
-  {
-    "title": "USA Crude Oil Stocks Rise Over 3 Million Barrels WoW - Rigzone",
-    "timestamp": "2026-11-20T15:14:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間統計により、米国の原油在庫が前週比で300万バレル超増加したと報告された。在庫増加は供給過剰圧力を示唆し、原油価格に下押し圧力となる。ただし事前予想値との乖離度が不明なため、市場反応の大きさは予想比のコンテキストに依存する。"
-  },
-  {
-    "title": "Tether Insiders Seek to Turn Gold Into a 4% Yield Machine - Bloomberg.com",
-    "timestamp": "2026-11-20T15:20:19+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "Tetherのインサイダーが金を活用して約4%の利回りを生み出す新たなスキームを検討している。ステーブルコイン企業による金関連商品の開発は、伝統的な金投資と暗号資産市場の融合を示唆し、金需要の新たな牽引役となる可能性がある。同時に、金の流動性構造や価格メカニズムに変化をもたらす可能性も存在。"
-  },
-  {
-    "title": "Tether Insiders Seek to Turn Gold Into a 4% Yield Machine - Bloomberg.com",
-    "timestamp": "2026-11-20T15:20:19+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "Tetherのインサイダーが金を活用して約4%の利回りを生み出す新たなスキームを検討している。ステーブルコイン企業による金関連商品の開発は、伝統的な金投資と暗号資産市場の融合を示唆し、金需要の新たな牽引役となる可能性がある。同時に、金の流動性構造や価格メカニズムに変化をもたらす可能性も存在。"
-  },
-  {
-    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-11-20T19:42:45+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によると、米国商業用原油在庫が2018年以来の最低水準まで低下した。輸出増加と製油所の処理量増加が在庫減少の主因。在庫低下は供給逼迫を示唆し、原油価格に上昇圧力を与える可能性がある。"
-  },
-  {
-    "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
-    "timestamp": "2026-11-20T22:27:07+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、原油生産量が過去最高水準に接近している。同国は増産を加速させており、OPEC減産協調体制の形骨化を示唆。原油供給の構造的変化とOPEC影響力の低下が市場に衝撃を与えている。"
-  },
-  {
     "title": "Sunflower harvest progress ahead of average - AgUpdate",
     "timestamp": "2026-11-21T12:00:00+00:00",
     "importance": 2,
@@ -121,28 +22,6 @@
     "summary": "ヒマワリの収穫進捗が平年を上回っているとの報告。収穫の加速は供給増加シグナルとなり、ヒマワリ油関連商品およびその代替商品である大豆油・小麦に軽微な下押し圧力。平年比での進捗改善は市場予想の範囲内と考えられる。"
   },
   {
-    "title": "Oil Price Forecast: US Crude Stocks Rise as Global Supply Rebounds - FXEmpire",
-    "timestamp": "2026-11-20T13:27:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA発表によると米国原油在庫が増加しており、これは世界的な供給の回復を反映している。在庫増加は供給圧力として機能し、原油価格に下押し圧力をもたらす可能性がある。グローバルサプライチェーンの正常化が進む中での需給バランス調整局面と考えられる。"
-  },
-  {
-    "title": "Oil Price Forecast: US Crude Stocks Rise as Global Supply Rebounds - FXEmpire",
-    "timestamp": "2026-11-20T13:27:17+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIA発表によると米国原油在庫が増加しており、これは世界的な供給の回復を反映している。在庫増加は供給圧力として機能し、原油価格に下押し圧力をもたらす可能性がある。グローバルサプライチェーンの正常化が進む中での需給バランス調整局面と考えられる。"
-  },
-  {
     "title": "METALS AT A CROSSROADS: Weak Prices, Tight Physical Supply for OANDA:XAUUSD by forexcitypro_leemeenal - TradingView",
     "timestamp": "2026-11-21T14:15:15+00:00",
     "importance": 3,
@@ -163,17 +42,6 @@
     "source": "鉱業・金属レポート",
     "commodity": "コモディティ全般",
     "summary": "金を含む貴金属市場が分岐点に直面している。弱い価格圧力がある一方で、物理的な現物供給がタイトな状況が続いている。金融引き締めによる下落圧力と現物需要の強さが相互に作用する構造。市場のセンチメント転換が重要な転機となる可能性。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-11-20T22:11:51+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後の独立採掘により、2025年に日産500万バレルを超える増産を計画していることをIEAが報告。OPEC+の減産合意に対抗する動きとして注目される。同国の増産は世界供給の増加圧力となり、油価には下向き材料。"
   },
   {
     "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
@@ -350,5 +218,170 @@
     "source": "Reuters商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "COP31での気候変動対策協議が決裂し、サウジアラビアの影響力が交渉を主導したと報道された。化石燃料削減目標の合意失敗は、長期的な石油需要維持の懸念を反映し、市場心理を圧迫。エネルギー転換の遅延は商品市場全体に複雑な影響をもたらす。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-23T21:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-23T21:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "小麦",
+    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-23T21:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
+  },
+  {
+    "title": "Crop Progress",
+    "timestamp": "2026-11-23T21:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn Harvest 94%, Cotton 84%, Winter Wheat Planting 95% - News and Statistics - IndexBox",
+    "timestamp": "2026-11-23T22:20:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "USDA作況進捗報告：トウモロコシ収穫94%、綿花84%、冬小麦播種95%と進捗が良好。高い進捗率は作柄が順調であることを示唆し、供給増加懸念から穀物・綿花相場に下押し圧力。冬小麦播種も計画通り進行。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn Harvest 94%, Cotton 84%, Winter Wheat Planting 95% - News and Statistics - IndexBox",
+    "timestamp": "2026-11-23T22:20:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "綿花",
+    "summary": "USDA作況進捗報告：トウモロコシ収穫94%、綿花84%、冬小麦播種95%と進捗が良好。高い進捗率は作柄が順調であることを示唆し、供給増加懸念から穀物・綿花相場に下押し圧力。冬小麦播種も計画通り進行。"
+  },
+  {
+    "title": "USDA Crop Progress Report: Corn Harvest 94%, Cotton 84%, Winter Wheat Planting 95% - News and Statistics - IndexBox",
+    "timestamp": "2026-11-23T22:20:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "USDA作況進捗報告：トウモロコシ収穫94%、綿花84%、冬小麦播種95%と進捗が良好。高い進捗率は作柄が順調であることを示唆し、供給増加懸念から穀物・綿花相場に下押し圧力。冬小麦播種も計画通り進行。"
+  },
+  {
+    "title": "OPEC+ Meets Nov 29 to Set 2027 Quotas With No Plan Past December - https://houseofsaud.com/",
+    "timestamp": "2026-11-23T14:06:58+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が11月29日に2027年の生産割当を決定する予定会合を開催する。ただし12月以降の政策方針が未定であり、市場の不確実性が残存。来年の需給見通しに基づいた割当設定となるが、地政学的リスクや需要動向次第で価格変動の可能性あり。"
+  },
+  {
+    "title": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts - ET EnergyWorld",
+    "timestamp": "2026-11-22T11:36:02+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の生産決定を控え、市場では供給過剰懸念が台頭している。アナリストは原油先物の変動を警戒しており、OPEC+の減産維持または増産判断が価格を左右する見通し。サプライズ決定があれば大きな価格変動も想定される。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
+    "timestamp": "2026-11-23T19:45:35+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、来年の石油生産を500万バレル/日を上回るレベルへ引き上げる計画をIEAが報告。同国の増産政策が継続される見通しを示唆し、OPECの減産枠組みが弱化する懸念を反映。市場における供給圧力の増加が価格下押し要因となる可能性。"
+  },
+  {
+    "title": "Iran War Hands OPEC’s Swing Producer Crown to America: Bousso - EnergyNow",
+    "timestamp": "2026-11-21T13:29:33+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イランとの紛争激化に伴い、OPECの調整役としての地位がイランからアメリカにシフトする可能性が指摘されている。アメリカはシェール油生産を通じてOPECの伝統的な減産・増産調整メカニズムの実効性を低下させ、石油市場の価格決定権を大きく握る立場に転換する可能性がある。これは地政学的リスクプレミアムの再評価を伴う。"
+  },
+  {
+    "title": "UK maritime agency reports two tanker incidents near Oman; Iran says vessel hit mine east of Hormuz - Reuters",
+    "timestamp": "2026-11-21T08:02:20+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "オマン沖でタンカー2隻の事故が英国海事庁により報告された。イランはホルムズ海峡東方で船舶が機雷に接触したと主張。ホルムズ海峡を経由する世界の石油供給の約20-25%が遮断される可能性がある地政学的リスクの顕在化。"
+  },
+  {
+    "title": "Small Refinery in Southern Russia Halts Operations After Attack - Bloomberg.com",
+    "timestamp": "2026-11-23T16:52:56+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア南部の小規模製油所が攻撃により操業停止。ロシアの石油精製能力が低下し、中東経由の代替供給圧力が高まる。ウクライナ情勢の深刻化を反映した供給ショック。地政学リスク再燃で原油価格上昇圧力。"
+  },
+  {
+    "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand - Bloomberg.com",
+    "timestamp": "2026-11-23T20:37:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "株価先物の上昇に伴い、安全資産としての米国債先物が売却圧力を受けている。リスク選好環境の強まりで、無利子資産である金を含むコモディティ全般への避難需要が減少。ドル強化による下押し圧力も加わる可能性がある。"
+  },
+  {
+    "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand - Bloomberg.com",
+    "timestamp": "2026-11-23T20:37:14+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "株価先物の上昇に伴い、安全資産としての米国債先物が売却圧力を受けている。リスク選好環境の強まりで、無利子資産である金を含むコモディティ全般への避難需要が減少。ドル強化による下押し圧力も加わる可能性がある。"
   }
 ]
