@@ -99,28 +99,6 @@
     "summary": "イエメンの反政府勢力フーシ派がサウジアラビアのラービグ製油所への攻撃を表明。同製油所は日量45万バレルの重要な精製施設であり、中東の地政学的緊張が急激に高まった。サウジアラビアは世界最大級の石油輸出国であり、供給途絶のリスクが市場心理を刺激する可能性が高い。"
   },
   {
-    "title": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind - Reuters",
-    "timestamp": "2026-11-21T07:41:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "金",
-    "summary": "インド・ルピーが対米ドルで93を突破し、堅調なインド株への投資家流入とショートカバーが進行。ルピー高は新興国通貨全体の強含みを示唆し、ドル安圧力が生じている。ドル安環境は金を含む非利子生産資産への需要を支援する傾向。"
-  },
-  {
-    "title": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind - Reuters",
-    "timestamp": "2026-11-21T07:41:44+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インド・ルピーが対米ドルで93を突破し、堅調なインド株への投資家流入とショートカバーが進行。ルピー高は新興国通貨全体の強含みを示唆し、ドル安圧力が生じている。ドル安環境は金を含む非利子生産資産への需要を支援する傾向。"
-  },
-  {
     "title": "USDA projects tighter crop ending stocks - Agri News",
     "timestamp": "2026-11-23T00:57:43+00:00",
     "importance": 4,
@@ -174,17 +152,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "原油価格が小幅に下落。中東の地政学的緊張が存在する一方で、供給が十分に利用可能であることが価格上昇を抑制している。サプライ面での懸念が需給バランスの堅調さに圧倒されている状況。"
-  },
-  {
-    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
-    "timestamp": "2026-11-21T01:45:47+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "inline",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "米国の商業用原油在庫が2018年以来の最低水準に低下した。輸出増加と製油所の処理能力向上が主因。在庫削減は原油供給の逼迫を示唆し、価格支持材料となる可能性がある。"
   },
   {
     "title": "Russian western oil exports curbed by bad weather, drones - Reuters",
@@ -341,17 +308,6 @@
     "summary": "イランとの紛争激化に伴い、OPECの調整役としての地位がイランからアメリカにシフトする可能性が指摘されている。アメリカはシェール油生産を通じてOPECの伝統的な減産・増産調整メカニズムの実効性を低下させ、石油市場の価格決定権を大きく握る立場に転換する可能性がある。これは地政学的リスクプレミアムの再評価を伴う。"
   },
   {
-    "title": "UK maritime agency reports two tanker incidents near Oman; Iran says vessel hit mine east of Hormuz - Reuters",
-    "timestamp": "2026-11-21T08:02:20+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "オマン沖でタンカー2隻の事故が英国海事庁により報告された。イランはホルムズ海峡東方で船舶が機雷に接触したと主張。ホルムズ海峡を経由する世界の石油供給の約20-25%が遮断される可能性がある地政学的リスクの顕在化。"
-  },
-  {
     "title": "Small Refinery in Southern Russia Halts Operations After Attack - Bloomberg.com",
     "timestamp": "2026-11-23T16:52:56+00:00",
     "importance": 3,
@@ -383,5 +339,82 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "株価先物の上昇に伴い、安全資産としての米国債先物が売却圧力を受けている。リスク選好環境の強まりで、無利子資産である金を含むコモディティ全般への避難需要が減少。ドル強化による下押し圧力も加わる可能性がある。"
+  },
+  {
+    "title": "Sunflower harvest progress ahead of average - AgUpdate",
+    "timestamp": "2026-11-21T12:00:00+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "ヒマワリの収穫進捗が平年を上回っているとの報告。平年より進んだ収穫ペースは供給面での懸念軽減を示唆し、特に油糧種子市場において売却圧力が生じやすい。穀物全般の供給見通しを若干下押しする材料。"
+  },
+  {
+    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
+    "timestamp": "2026-11-23T22:42:32+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPEC離脱後、来年の石油生産を日量500万バレルを超える水準に引き上げる計画をIEAが報告。同国は減産合意の制約から解放され、独立した生産増強戦略を展開。グローバルな原油供給増加圧力となる見通し。"
+  },
+  {
+    "title": "Saudi Arabia Crude Exports Fall to Three Month Low in December - EnergyNow.com",
+    "timestamp": "2026-11-23T22:28:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "サウジアラビアの原油輸出が12月に3ヶ月ぶりの低水準に落ち込んだ。OPEC加盟国による減産政策の継続を反映した動きと考えられる。供給側の引き締め継続が価格下支え要因となる可能性がある一方、実績データの公開タイミングと市場の価格織り込み状況により市場反応は限定的か。"
+  },
+  {
+    "title": "Oil touches three-month lows as rising supply offsets Hormuz threat - Reuters",
+    "timestamp": "2026-11-24T02:56:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油が3ヶ月ぶりの安値に到達。供給増加がホルムズ海峡の地政学的リスク要因を相殺している。需給バランスが供給側に傾き、地政学プレミアムの織り込み圧力が弱まった。短期的には供給増加が価格下押し圧力として作用している。"
+  },
+  {
+    "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking - Reuters",
+    "timestamp": "2026-11-24T09:05:44+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中国とインドが2026年にロシア産原油の輸入を記録的水準に引き上げる見通し。一方、同時期にこれら主要輸入国の需要がピークアウトする可能性も指摘。ロシア産原油の流動性は高まるが、2026年以降の需要減速が価格下押し圧力となる可能性。"
+  },
+  {
+    "title": "Russian Urals oil discounts widen at Indian ports, sources say - Reuters",
+    "timestamp": "2026-11-23T12:02:59+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "inline",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア産ウラル原油がインド港湾での割引幅を拡大している。西側制裁下でアジア市場への流入が増加し、供給過剰感が強まっている。インドはロシア産原油の主要な購入国であり、割引幅の拡大は価格競争力強化を反映している。"
+  },
+  {
+    "title": "Oil Steadies as Middle East Tensions Vie With Ample Supply - Bloomberg.com",
+    "timestamp": "2026-11-23T22:26:08+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "中東の地政学的緊張と豊富な供給が相殺する形で原油は安定推移している。需給バランスが拮抗した状態が続いており、供給側のリスク要因と需要面の不確実性が互いに圧力を相殺している状況を示唆。市場参加者の関心は地政学リスクと在庫動向の行方に分かれている。"
   }
 ]
