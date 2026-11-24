@@ -1,49 +1,5 @@
 [
   {
-    "title": "Sunflower harvest progress ahead of average - AgUpdate",
-    "timestamp": "2026-11-21T12:00:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "ヒマワリの収穫進捗が平年を上回っているとの報告。収穫の加速は供給増加シグナルとなり、ヒマワリ油関連商品およびその代替商品である大豆油・小麦に軽微な下押し圧力。平年比での進捗改善は市場予想の範囲内と考えられる。"
-  },
-  {
-    "title": "Sunflower harvest progress ahead of average - AgUpdate",
-    "timestamp": "2026-11-21T12:00:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "ヒマワリの収穫進捗が平年を上回っているとの報告。収穫の加速は供給増加シグナルとなり、ヒマワリ油関連商品およびその代替商品である大豆油・小麦に軽微な下押し圧力。平年比での進捗改善は市場予想の範囲内と考えられる。"
-  },
-  {
-    "title": "METALS AT A CROSSROADS: Weak Prices, Tight Physical Supply for OANDA:XAUUSD by forexcitypro_leemeenal - TradingView",
-    "timestamp": "2026-11-21T14:15:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "金",
-    "summary": "金を含む貴金属市場が分岐点に直面している。弱い価格圧力がある一方で、物理的な現物供給がタイトな状況が続いている。金融引き締めによる下落圧力と現物需要の強さが相互に作用する構造。市場のセンチメント転換が重要な転機となる可能性。"
-  },
-  {
-    "title": "METALS AT A CROSSROADS: Weak Prices, Tight Physical Supply for OANDA:XAUUSD by forexcitypro_leemeenal - TradingView",
-    "timestamp": "2026-11-21T14:15:15+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "鉱業・金属レポート",
-    "commodity": "コモディティ全般",
-    "summary": "金を含む貴金属市場が分岐点に直面している。弱い価格圧力がある一方で、物理的な現物供給がタイトな状況が続いている。金融引き締めによる下落圧力と現物需要の強さが相互に作用する構造。市場のセンチメント転換が重要な転機となる可能性。"
-  },
-  {
     "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
     "timestamp": "2026-11-22T01:59:33+00:00",
     "importance": 4,
@@ -297,17 +253,6 @@
     "summary": "UAEがOPEC離脱後、来年の石油生産を500万バレル/日を上回るレベルへ引き上げる計画をIEAが報告。同国の増産政策が継続される見通しを示唆し、OPECの減産枠組みが弱化する懸念を反映。市場における供給圧力の増加が価格下押し要因となる可能性。"
   },
   {
-    "title": "Iran War Hands OPEC’s Swing Producer Crown to America: Bousso - EnergyNow",
-    "timestamp": "2026-11-21T13:29:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "イランとの紛争激化に伴い、OPECの調整役としての地位がイランからアメリカにシフトする可能性が指摘されている。アメリカはシェール油生産を通じてOPECの伝統的な減産・増産調整メカニズムの実効性を低下させ、石油市場の価格決定権を大きく握る立場に転換する可能性がある。これは地政学的リスクプレミアムの再評価を伴う。"
-  },
-  {
     "title": "Small Refinery in Southern Russia Halts Operations After Attack - Bloomberg.com",
     "timestamp": "2026-11-23T16:52:56+00:00",
     "importance": 3,
@@ -339,17 +284,6 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "株価先物の上昇に伴い、安全資産としての米国債先物が売却圧力を受けている。リスク選好環境の強まりで、無利子資産である金を含むコモディティ全般への避難需要が減少。ドル強化による下押し圧力も加わる可能性がある。"
-  },
-  {
-    "title": "Sunflower harvest progress ahead of average - AgUpdate",
-    "timestamp": "2026-11-21T12:00:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "WASDE関連",
-    "commodity": "コモディティ全般",
-    "summary": "ヒマワリの収穫進捗が平年を上回っているとの報告。平年より進んだ収穫ペースは供給面での懸念軽減を示唆し、特に油糧種子市場において売却圧力が生じやすい。穀物全般の供給見通しを若干下押しする材料。"
   },
   {
     "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
@@ -416,5 +350,192 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "中東の地政学的緊張と豊富な供給が相殺する形で原油は安定推移している。需給バランスが拮抗した状態が続いており、供給側のリスク要因と需要面の不確実性が互いに圧力を相殺している状況を示唆。市場参加者の関心は地政学リスクと在庫動向の行方に分かれている。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "timestamp": "2026-11-24T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "コモディティ全般",
+    "summary": "2026年10月19日および28日のFRB公定歩合会議の議事録。金融政策スタンスの詳細が不明であるため、正確な分析に必要な具体的な金利決定、ガイダンス、インフレ見通しなどの情報が提供されていない。金利決定の内容次第で、ドル強弱を通じてコモディティ全般に影響。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "timestamp": "2026-11-24T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "金",
+    "summary": "2026年10月19日および28日のFRB公定歩合会議の議事録。金融政策スタンスの詳細が不明であるため、正確な分析に必要な具体的な金利決定、ガイダンス、インフレ見通しなどの情報が提供されていない。金利決定の内容次第で、ドル強弱を通じてコモディティ全般に影響。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "timestamp": "2026-11-24T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "原油",
+    "summary": "2026年10月19日および28日のFRB公定歩合会議の議事録。金融政策スタンスの詳細が不明であるため、正確な分析に必要な具体的な金利決定、ガイダンス、インフレ見通しなどの情報が提供されていない。金利決定の内容次第で、ドル強弱を通じてコモディティ全般に影響。"
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "timestamp": "2026-11-24T19:00:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "FRB金融政策",
+    "commodity": "銅",
+    "summary": "2026年10月19日および28日のFRB公定歩合会議の議事録。金融政策スタンスの詳細が不明であるため、正確な分析に必要な具体的な金利決定、ガイダンス、インフレ見通しなどの情報が提供されていない。金利決定の内容次第で、ドル強弱を通じてコモディティ全般に影響。"
+  },
+  {
+    "title": "Commodity Cost Estimates Released - Southeast AgNET",
+    "timestamp": "2026-11-24T10:16:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
+  },
+  {
+    "title": "Commodity Cost Estimates Released - Southeast AgNET",
+    "timestamp": "2026-11-24T10:16:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
+  },
+  {
+    "title": "Commodity Cost Estimates Released - Southeast AgNET",
+    "timestamp": "2026-11-24T10:16:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
+  },
+  {
+    "title": "Commodity Cost Estimates Released - Southeast AgNET",
+    "timestamp": "2026-11-24T10:16:02+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
+  },
+  {
+    "title": "Iraq seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters",
+    "timestamp": "2026-11-24T18:41:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクが2027年のOPEC+生産枠配分協議に向けて、現在の推定産油能力を上方修正するよう主張している。イラクは過去数年の増産投資が実を結び、より高い生産枠を正当化したい方針。2027年の配分再協議は主要産油国間の緊張要因となる可能性。"
+  },
+  {
+    "title": "Iraq Rejects OPEC+ Assessment of Its Oil Production Capacity - Bloomberg.com",
+    "timestamp": "2026-11-24T18:01:45+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC+による自国の石油生産能力評価を拒否した。イラクは独自の生産能力評価が異なると主張し、OPEC+の減産割当や生産目標設定に対して異議を唱えている。これはOPEC+の内部対立を示し、減産規律の弱体化と供給見通しの不確実性を招く可能性がある。"
+  },
+  {
+    "title": "Iraq is challenging OPEC+'s assessment of its oil production capacity - Quartz",
+    "timestamp": "2026-11-24T20:52:49+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC+の石油生産能力評価に異議を唱えている。イラクは自国の実際の生産能力がOPEC+の公式評価より高いと主張しており、これは今後のOPEC+減産枠配分交渉で重要な論点となる可能性がある。生産能力の認識ズレは割当量決定に影響を与える可能性。"
+  },
+  {
+    "title": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks - TradingView",
+    "timestamp": "2026-11-24T18:23:13+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC+の生産割当協議を前にして石油生産能力の見直しに異議を唱えているとされる。イラクは自国の生産能力評価の引き上げを求める可能性があり、これはOPEC+の減産枠組みに影響を与える可能性がある。今後の交渉動向が原油市場の需給バランスを左右する重要なポイントとなる。"
+  },
+  {
+    "title": "OPEC+ heads to Vienna with tough choices and plenty of unknowns – Rystad Energy market note - American Journal of Transportation",
+    "timestamp": "2026-11-24T18:39:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+がウィーンでの会合を控え、減産政策の継続・調整について難しい判断を迫られている。地政学的リスク、米国シェールオイル増産、需要見通しの不確実性など多くの不確定要因が存在し、市場の方向性は会合結果次第となる可能性が高い。"
+  },
+  {
+    "title": "OPEC+ Faces Its Most Consequential Supply Decision of the Year - Bloomberg.com",
+    "timestamp": "2026-11-24T14:43:44+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が年間で最も重要な供給決定に直面している。減産政策の継続、緩和、または新たな調整が焦点。原油市場はこの決定を待機中であり、供給サイドの方針転換は価格に大きな影響を与える可能性がある。"
+  },
+  {
+    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
+    "timestamp": "2026-11-23T22:52:23+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が10月の石油生産政策を据え置くことを決定した。既に公表されている減産方針の継続であり、市場の事前予想の範囲内。短期的な供給変化がないため、価格への大きなインパクトは限定的と考えられる。"
+  },
+  {
+    "title": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation - Reuters",
+    "timestamp": "2026-11-24T19:41:02+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ウクライナがトランプ前大統領の要請にもかかわらずロシアの石油精製施設への攻撃を継続。プーチン大統領が報復を約束した。ロシアの主要な石油供給インフラへの継続的な軍事圧力は供給リスクを高め、原油価格の上昇圧力となる。地政学的緊張の新たな段階を示唆。"
+  },
+  {
+    "title": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say - Reuters",
+    "timestamp": "2026-11-24T09:52:39+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "銅",
+    "summary": "インドのアダニ・グループがアテロ・インディアから3年間の銅供給契約を締結した。インドの主要産業グループによる長期供給確保は、急速な電動化・再生可能エネルギー需要を背景とした銅の需給逼迫懸念を反映している。大手需要家による先制的な調達戦略の動きとして注視される。"
   }
 ]
