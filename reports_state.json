@@ -1,16 +1,5 @@
 [
   {
-    "title": "Crude oil inventories +4.657 million versus -1.109 million estimate - investingLive",
-    "timestamp": "2026-11-22T01:59:33+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "high",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIA週間原油在庫統計で、予想外の大幅な在庫増加が報告された。実績は+465.7万バレルの増加だったのに対し、市場予想は-110.9万バレルの減少を見込んでいた。この予想比のサプライズは576.6万バレルの乖離で、市場参加者の需給見通しに大きなずれが生じていたことを示唆している。"
-  },
-  {
     "title": "EIA Weekly Petroleum Status Report: Data Guide - CASRAI",
     "timestamp": "2026-11-22T07:03:50+00:00",
     "importance": 1,
@@ -537,5 +526,93 @@
     "source": "Reuters商品ニュース",
     "commodity": "銅",
     "summary": "インドのアダニ・グループがアテロ・インディアから3年間の銅供給契約を締結した。インドの主要産業グループによる長期供給確保は、急速な電動化・再生可能エネルギー需要を背景とした銅の需給逼迫懸念を反映している。大手需要家による先制的な調達戦略の動きとして注視される。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-11-24T15:57:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA週間統計により、米国の原油在庫とガソリン在庫が先週減少したことが報告された。需要の強さが在庫減少の主因とされている。在庫水準の低下は供給の逼迫を示唆し、価格上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
+    "timestamp": "2026-11-24T15:57:47+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "EIA週間統計により、米国の原油在庫とガソリン在庫が先週減少したことが報告された。需要の強さが在庫減少の主因とされている。在庫水準の低下は供給の逼迫を示唆し、価格上昇圧力となる可能性がある。"
+  },
+  {
+    "title": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say - Reuters",
+    "timestamp": "2026-11-24T09:52:39+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "インドのアダニ・グループがアテロ・インノベーションズから3年間の銅供給契約を締結した。インド国内のスクラップ銅リサイクル業者との協力を通じた長期調達戦略であり、供給の多角化を図るもの。グローバル銅市場全体への直接的な影響は限定的。"
+  },
+  {
+    "title": "Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks - Bloomberg.com",
+    "timestamp": "2026-11-25T02:01:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "原油価格は供給増加圧力と中東ホルムズ海峡での攻撃リスクの間で揺れている。供給側の増加要因が地政学的リスク（攻撃の脅威）と相殺される状況が続いており、価格は方向感を欠いている。ホルムズ海峡は世界の原油流通の重要な要所であり、同地域の緊張度が今後の価格決定要因となる。"
+  },
+  {
+    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-25T02:51:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "AI関連銘柄への過度な期待が剥落し、アジア株が売られる展開となっている。リスク資産離れが広がると、金利上昇圧力が和らぎ金は支援されるが、景気減速懸念から原油など実物資産は圧迫される見通し。市場の不確実性が高まっている。"
+  },
+  {
+    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-25T02:51:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "AI関連銘柄への過度な期待が剥落し、アジア株が売られる展開となっている。リスク資産離れが広がると、金利上昇圧力が和らぎ金は支援されるが、景気減速懸念から原油など実物資産は圧迫される見通し。市場の不確実性が高まっている。"
+  },
+  {
+    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-25T02:51:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "AI関連銘柄への過度な期待が剥落し、アジア株が売られる展開となっている。リスク資産離れが広がると、金利上昇圧力が和らぎ金は支援されるが、景気減速懸念から原油など実物資産は圧迫される見通し。市場の不確実性が高まっている。"
+  },
+  {
+    "title": "Saudis See Economy Taking Smaller Hit From War as Oil Flows Rise - Bloomberg.com",
+    "timestamp": "2026-11-24T17:15:12+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアが、イエメン紛争の経済への悪影響が当初予想より限定的であり、石油生産流量が増加していると発表。同国経済の回復力と原油供給の安定性が強調されている。これは中東地政学リスク軽減シグナルと解釈できる。"
   }
 ]
