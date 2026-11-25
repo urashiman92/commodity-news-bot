@@ -1,38 +1,5 @@
 [
   {
-    "title": "EIA Weekly Petroleum Status Report: Data Guide - CASRAI",
-    "timestamp": "2026-11-22T07:03:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "EIAが公開する週間石油在庫レポートのデータガイドである。本資料はメタデータ・定義・方法論の説明資料であり、実際の在庫数値やトレンドを含まない。投資家にとっての直接的な市場影響はない。"
-  },
-  {
-    "title": "EIA Weekly Petroleum Status Report: Data Guide - CASRAI",
-    "timestamp": "2026-11-22T07:03:50+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "コモディティ全般",
-    "summary": "EIAが公開する週間石油在庫レポートのデータガイドである。本資料はメタデータ・定義・方法論の説明資料であり、実際の在庫数値やトレンドを含まない。投資家にとっての直接的な市場影響はない。"
-  },
-  {
-    "title": "US Copper Stockpile Swells to Nearly 2 Million Tons as Traders Reverse Course and Ship Metal to China - BigGo Finance",
-    "timestamp": "2026-11-22T08:25:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "鉱業・金属レポート",
-    "commodity": "銅",
-    "summary": "米国の銅在庫が過去最高近くの約200万トンまで膨張。トレーダーが中国への輸出方針を転換し、大量の銅金属を中国へ船積みしている。これは米国内での銅需要の弱さと中国市場での価格優位性を示唆しており、銅価格に下押し圧力。"
-  },
-  {
     "title": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery - Reuters",
     "timestamp": "2026-11-22T17:52:15+00:00",
     "importance": 4,
@@ -218,17 +185,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が11月29日に2027年の生産割当を決定する予定会合を開催する。ただし12月以降の政策方針が未定であり、市場の不確実性が残存。来年の需給見通しに基づいた割当設定となるが、地政学的リスクや需要動向次第で価格変動の可能性あり。"
-  },
-  {
-    "title": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts - ET EnergyWorld",
-    "timestamp": "2026-11-22T11:36:02+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+の生産決定を控え、市場では供給過剰懸念が台頭している。アナリストは原油先物の変動を警戒しており、OPEC+の減産維持または増産判断が価格を左右する見通し。サプライズ決定があれば大きな価格変動も想定される。"
   },
   {
     "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
@@ -614,5 +570,214 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "サウジアラビアが、イエメン紛争の経済への悪影響が当初予想より限定的であり、石油生産流量が増加していると発表。同国経済の回復力と原油供給の安定性が強調されている。これは中東地政学リスク軽減シグナルと解釈できる。"
+  },
+  {
+    "title": "US harvest wraps up, but war and trade risks remain - World Grain",
+    "timestamp": "2026-11-25T12:36:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "米国の収穫が完了する一方、ウクライナ戦争と米中貿易摩擦が穀物市場に下方リスクをもたらしている。供給サイド（収穫完了）は安定的だが、地政学的不確実性と通商問題がコモディティ価格の上値を抑制。WASDEなど定期統計との組み合わせで市場対応が分かれる可能性。"
+  },
+  {
+    "title": "US harvest wraps up, but war and trade risks remain - World Grain",
+    "timestamp": "2026-11-25T12:36:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "米国の収穫が完了する一方、ウクライナ戦争と米中貿易摩擦が穀物市場に下方リスクをもたらしている。供給サイド（収穫完了）は安定的だが、地政学的不確実性と通商問題がコモディティ価格の上値を抑制。WASDEなど定期統計との組み合わせで市場対応が分かれる可能性。"
+  },
+  {
+    "title": "US harvest wraps up, but war and trade risks remain - World Grain",
+    "timestamp": "2026-11-25T12:36:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "米国の収穫が完了する一方、ウクライナ戦争と米中貿易摩擦が穀物市場に下方リスクをもたらしている。供給サイド（収穫完了）は安定的だが、地政学的不確実性と通商問題がコモディティ価格の上値を抑制。WASDEなど定期統計との組み合わせで市場対応が分かれる可能性。"
+  },
+  {
+    "title": "US harvest wraps up, but war and trade risks remain - World Grain",
+    "timestamp": "2026-11-25T12:36:30+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "米国の収穫が完了する一方、ウクライナ戦争と米中貿易摩擦が穀物市場に下方リスクをもたらしている。供給サイド（収穫完了）は安定的だが、地政学的不確実性と通商問題がコモディティ価格の上値を抑制。WASDEなど定期統計との組み合わせで市場対応が分かれる可能性。"
+  },
+  {
+    "title": "Arable Market Report – 23 November 2026 - AHDB",
+    "timestamp": "2026-11-23T08:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "2026年11月23日のAHDB穀物市場レポートは、英国および欧州の作付・生育進捗に関する定期更新と考えられます。具体的な数値やデータが開示記事から確認できないため、市場への直接的な影響度は判定困難です。"
+  },
+  {
+    "title": "Arable Market Report – 23 November 2026 - AHDB",
+    "timestamp": "2026-11-23T08:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2026年11月23日のAHDB穀物市場レポートは、英国および欧州の作付・生育進捗に関する定期更新と考えられます。具体的な数値やデータが開示記事から確認できないため、市場への直接的な影響度は判定困難です。"
+  },
+  {
+    "title": "Arable Market Report – 23 November 2026 - AHDB",
+    "timestamp": "2026-11-23T08:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2026年11月23日のAHDB穀物市場レポートは、英国および欧州の作付・生育進捗に関する定期更新と考えられます。具体的な数値やデータが開示記事から確認できないため、市場への直接的な影響度は判定困難です。"
+  },
+  {
+    "title": "API: US crude stocks inch up, fuel inventories mixed - Quantum Commodity Intelligence",
+    "timestamp": "2026-11-25T03:15:10+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "API（米国石油協会）の週間在庫統計により、米国原油在庫がわずかに増加したことが報告された。一方、ガソリンやディーゼルなどの精製燃料在庫は混合的な動きを示している。在庫増減の具体的な数値が記事から確認できないため、市場への影響度は限定的と考えられる。"
+  },
+  {
+    "title": "Market uncertainty meets lower sunflower production - Farm Progress",
+    "timestamp": "2026-11-25T08:01:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "ヒマワリ油",
+    "summary": "ヒマワリ油の生産減少と市場不確実性が同時に発生している状況を報告。供給側の制約とマクロ経済的な不確実性が組み合わさることで、ヒマワリ油およびその代替油脂コモディティへの上昇圧力が生じている。具体的な生産数値については記事本体で確認が必要。"
+  },
+  {
+    "title": "Market uncertainty meets lower sunflower production - Farm Progress",
+    "timestamp": "2026-11-25T08:01:41+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "ヒマワリ油の生産減少と市場不確実性が同時に発生している状況を報告。供給側の制約とマクロ経済的な不確実性が組み合わさることで、ヒマワリ油およびその代替油脂コモディティへの上昇圧力が生じている。具体的な生産数値については記事本体で確認が必要。"
+  },
+  {
+    "title": "OPEC+ Will See One of Most Complicated Meetings in Years - Rigzone",
+    "timestamp": "2026-11-25T12:14:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が数年ぶりに最も複雑な会合を開催する見通し。減産政策の継続、追加調整、加盟国間の利害対立など複数の課題が同時に浮上しており、市場の不確実性が高まっている。意思決定の遅延または分裂的な結果の可能性がある。"
+  },
+  {
+    "title": "Oil Market Midweek Wrap: Brent Holds Near $90 Despite Iran Tensions – OPEC Meeting, ConocoPhillips Sale In Focus - Yahoo Finance",
+    "timestamp": "2026-11-25T05:48:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "ブレント原油が90ドル付近で推移している。イラン緊張が存在するも価格は比較的安定。OPEC会合とコノコフィリップスの資産売却が市場の注目材料となっているが、現在のところ大きな価格変動要因には至っていない。"
+  },
+  {
+    "title": "Kazakhstan also seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters",
+    "timestamp": "2026-11-25T14:18:48+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "カザフスタンが2027年のOPEC+会合に向けて、石油生産能力の上方修正を求めている。同国は現在の割当枠の増加を主張する見通し。OPEC+の生産枠配分に関する交渉が来年に控えており、各産油国の政治的な事前調整局面にある。"
+  },
+  {
+    "title": "Oil rises after alleged Houthi attack on Saudi refinery - Reuters",
+    "timestamp": "2026-11-25T01:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派によるサウジアラビアの製油所への攻撃疑惑が報じられ、原油価格が上昇した。中東での地政学的緊張が高まり、供給リスクへの懸念が市場に波及。サウジの主要エネルギーインフラへの直接的な脅威は投資家心理を悪化させ、リスクプレミアムの上乗せを招いた。"
+  },
+  {
+    "title": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery - Reuters",
+    "timestamp": "2026-11-25T07:24:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イエメンの反政府勢力フーシ派がサウジアラビアの主要石油精製施設ラス・タヌーラを攻撃したと発表。同施設は世界最大級の石油精製能力を持つため、供給途絶の懸念が生じた。地政学的リスクの顕在化により原油価格上昇圧力が強まる可能性が高い。"
+  },
+  {
+    "title": "Russia’s Elevated Crude Shipments Stoke Global Supply Surplus - Bloomberg",
+    "timestamp": "2026-11-25T12:02:40+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの原油出荷量が高水準を維持しており、世界的な供給過剰懸念を招いている。制裁下でもロシアの供給が継続・増加する局面は市場心理に悪影響を与えており、原油価格の上値を抑制する要因となっている。短期的には供給過剰シナリオが支配的になる可能性がある。"
+  },
+  {
+    "title": "Russia Oil Loses Price Edge in India as Middle East Exports Rise - Bloomberg",
+    "timestamp": "2026-11-25T08:19:06+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア産原油がインド市場での価格優位性を失いつつある。中東からのエクスポート増加により、ロシア産原油の価格割引が縮小し、競争力が低下。地政学的緊張とサプライチェーン再編の進行を示唆する動き。"
+  },
+  {
+    "title": "Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush - Bloomberg",
+    "timestamp": "2026-11-25T13:00:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "大豆",
+    "summary": "大豆油が9ヶ月ぶりの安値を更新。これは大豆かすの需要が堅調であり、搾油（クラッシュ）プロセスが活況であることを示唆している。油糧種子の搾油圧が高まるにつれ、副産物である大豆油の供給が増加し、相対的に油価格が押し下げられている。大豆複合市場内での構造的な価格シフト。"
+  },
+  {
+    "title": "Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush - Bloomberg",
+    "timestamp": "2026-11-25T13:00:06+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "トウモロコシ",
+    "summary": "大豆油が9ヶ月ぶりの安値を更新。これは大豆かすの需要が堅調であり、搾油（クラッシュ）プロセスが活況であることを示唆している。油糧種子の搾油圧が高まるにつれ、副産物である大豆油の供給が増加し、相対的に油価格が押し下げられている。大豆複合市場内での構造的な価格シフト。"
   }
 ]
