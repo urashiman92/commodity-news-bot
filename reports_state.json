@@ -77,17 +77,6 @@
     "summary": "USDA作況進捗報告：トウモロコシ収穫94%、綿花84%、冬小麦播種95%と進捗が良好。高い進捗率は作柄が順調であることを示唆し、供給増加懸念から穀物・綿花相場に下押し圧力。冬小麦播種も計画通り進行。"
   },
   {
-    "title": "OPEC+ Meets Nov 29 to Set 2027 Quotas With No Plan Past December - https://houseofsaud.com/",
-    "timestamp": "2026-11-23T14:06:58+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が11月29日に2027年の生産割当を決定する予定会合を開催する。ただし12月以降の政策方針が未定であり、市場の不確実性が残存。来年の需給見通しに基づいた割当設定となるが、地政学的リスクや需要動向次第で価格変動の可能性あり。"
-  },
-  {
     "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
     "timestamp": "2026-11-23T19:45:35+00:00",
     "importance": 3,
@@ -97,17 +86,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "UAEがOPEC離脱後、来年の石油生産を500万バレル/日を上回るレベルへ引き上げる計画をIEAが報告。同国の増産政策が継続される見通しを示唆し、OPECの減産枠組みが弱化する懸念を反映。市場における供給圧力の増加が価格下押し要因となる可能性。"
-  },
-  {
-    "title": "Small Refinery in Southern Russia Halts Operations After Attack - Bloomberg.com",
-    "timestamp": "2026-11-23T16:52:56+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア南部の小規模製油所が攻撃により操業停止。ロシアの石油精製能力が低下し、中東経由の代替供給圧力が高まる。ウクライナ情勢の深刻化を反映した供給ショック。地政学リスク再燃で原油価格上昇圧力。"
   },
   {
     "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand - Bloomberg.com",
@@ -174,17 +152,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国とインドが2026年にロシア産原油の輸入を記録的水準に引き上げる見通し。一方、同時期にこれら主要輸入国の需要がピークアウトする可能性も指摘。ロシア産原油の流動性は高まるが、2026年以降の需要減速が価格下押し圧力となる可能性。"
-  },
-  {
-    "title": "Russian Urals oil discounts widen at Indian ports, sources say - Reuters",
-    "timestamp": "2026-11-23T12:02:59+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシア産ウラル原油がインド港湾での割引幅を拡大している。西側制裁下でアジア市場への流入が増加し、供給過剰感が強まっている。インドはロシア産原油の主要な購入国であり、割引幅の拡大は価格競争力強化を反映している。"
   },
   {
     "title": "Oil Steadies as Middle East Tensions Vie With Ample Supply - Bloomberg.com",
@@ -737,39 +704,6 @@
     "summary": "11月20日のEIA蒸留油在庫統計で、実績値は0.715Mバレル増加に留まり、市場予想の1.3Mバレル増加を大きく下回った。前週の1.571Mバレル増加からも減速を示唆し、蒸留油需要の弱さを反映している可能性がある。"
   },
   {
-    "title": "Trump's Beef Import Push Exposes America's Shrinking Cattle Herd and a Growing Supply Crisis - AgroLatam",
-    "timestamp": "2026-11-23T13:40:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "high",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "トランプ前大統領の牛肉輸入推進政策により、米国の畜牛頭数の縮小と供給危機が露呈した。国内畜牛群の急速な減少は長期的な供給逼迫を招き、牛肉価格の上昇圧力が強まる可能性が高い。国内農業生産基盤の脆弱化が投資判断の重要な転機となる。"
-  },
-  {
-    "title": "Stat of the Week: U.S. production of seven popular pie ingredients nears $7 billion - Greenhouse Management",
-    "timestamp": "2026-11-23T19:09:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "米国のパイ関連食材7品目の生産額が約70億ドルに達している。パイの主要原材料である小麦とトウモロコシを含むこの統計は、米国農業生産の一部の市場規模を示唆している。ただし、具体的な生産量・作付面積・前年比の数値が記事から明確でないため、市場への直接的なインパクトは限定的。"
-  },
-  {
-    "title": "Stat of the Week: U.S. production of seven popular pie ingredients nears $7 billion - Greenhouse Management",
-    "timestamp": "2026-11-23T19:09:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "米国のパイ関連食材7品目の生産額が約70億ドルに達している。パイの主要原材料である小麦とトウモロコシを含むこの統計は、米国農業生産の一部の市場規模を示唆している。ただし、具体的な生産量・作付面積・前年比の数値が記事から明確でないため、市場への直接的なインパクトは限定的。"
-  },
-  {
     "title": "Kazakhstan is reportedly dissatisfied with OPEC+'s oil production capacity assessment and is seeking a higher output quota, according to reports citing sources - Newsquawk",
     "timestamp": "2026-11-25T11:39:36+00:00",
     "importance": 3,
@@ -955,5 +889,104 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "コモディティ全般",
     "summary": "ロシアの製油所稼働率が数十年ぶりの低水準に低下したとRystadが報告。西側制裁と構造的な施設損傷により、ロシアの石油精製能力が大幅に減少。グローバルな石油精製供給逼迫の可能性が高まり、原油価格上昇圧力となる。"
+  },
+  {
+    "title": "Analyst insight: UK cereal supply forecast at 15-year low - AHDB",
+    "timestamp": "2026-11-26T10:12:28+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "英国穀物供給見通しが15年ぶりの低水準に引き下げられた。AHDBの分析によれば、2024年の穀物生産量が大幅に減少する見込み。干ばつや不利な天候が主要因と考えられ、小麦を含む穀物全般の逼迫が予想される。"
+  },
+  {
+    "title": "EIA says US crude stocks rise 1.1M barrels to 418.9M barrels - Investing.com",
+    "timestamp": "2026-11-25T16:23:38+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の週間統計を発表。粗油在庫は110万バレル増加し、418.9百万バレルとなった。在庫増加は原油供給過剰シグナルとなり、価格下押し圧力が生じている。"
+  },
+  {
+    "title": "API: US crude stocks inch up, fuel inventories mixed - Quantum Commodity Intelligence",
+    "timestamp": "2026-11-25T09:06:57+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "API（米国石油協会）の週間在庫統計により、米国原油在庫がわずかに増加した一方、ガソリンや留分油などの燃料在庫は混在した動きを示した。原油供給圧力が弱まっている一方で、燃料需要の見通しに不確実性がある状況を反映している。"
+  },
+  {
+    "title": "Weak cranberry harvest prompted higher costs for Thanksgiving staple - New York Post",
+    "timestamp": "2026-11-26T15:59:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国のクランベリー収穫が弱く、感謝祭向けの需要期にクランベリー価格が上昇した。収穫量の減少は農産物の季節的な供給ショックを示唆し、感謝祭は重要な消費時期である。食品関連コモディティ全般への価格転嫁圧力が生じている可能性。"
+  },
+  {
+    "title": "Weak cranberry harvest prompted higher costs for Thanksgiving staple - New York Post",
+    "timestamp": "2026-11-26T15:59:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "米国のクランベリー収穫が弱く、感謝祭向けの需要期にクランベリー価格が上昇した。収穫量の減少は農産物の季節的な供給ショックを示唆し、感謝祭は重要な消費時期である。食品関連コモディティ全般への価格転嫁圧力が生じている可能性。"
+  },
+  {
+    "title": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist - WSJ",
+    "timestamp": "2026-11-26T13:27:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECおよび同盟国が石油需給均衡の維持に向けた困難な判断を迫られている。需給サージが構築される中、ホルムズ海峡のリスクが地政学的な価格支援要因として機能。供給調整政策の綱引きが続く状況を反映。"
+  },
+  {
+    "title": "OPEC Mulls Sticking with Current Quotas - Rigzone",
+    "timestamp": "2026-11-26T15:21:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPECが現在の生産枠の維持を検討しているとの報道。既存の減産合意の枠組みを継続する見通しで、大きな政策変更ではなく市場予想の範囲内。近期的な供給ショックの材料には乏しい。"
+  },
+  {
+    "title": "OPEC+ likely to roll over oil output targets for Q1 as capacity disputes persist, sources say - Reuters",
+    "timestamp": "2026-11-26T14:39:21+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+が第1四半期の石油生産目標を現状維持する見通しが報じられた。加盟国間の生産能力配分をめぐる紛争が継続しており、新規の減産や増産決定は難しい状況。市場はすでにこうした対立を織り込んでいる。"
+  },
+  {
+    "title": "OPEC+ Considers Sticking With Current Quotas, Delegates Say - Bloomberg.com",
+    "timestamp": "2026-11-26T16:02:13+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "OPEC+の代表団が現在の生産割当を維持する方針を検討していることが報道された。具体的な決定は次回の公式会合に向けた事前協議段階であり、市場はすでに現状維持シナリオを織り込んでいる。大幅な減産・増産発表ではなく、政策の継続性を示唆するもの。"
   }
 ]
