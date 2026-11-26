@@ -1,82 +1,5 @@
 [
   {
-    "title": "USDA projects tighter crop ending stocks - Agri News",
-    "timestamp": "2026-11-23T00:57:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
-  },
-  {
-    "title": "USDA projects tighter crop ending stocks - Agri News",
-    "timestamp": "2026-11-23T00:57:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
-  },
-  {
-    "title": "USDA projects tighter crop ending stocks - Agri News",
-    "timestamp": "2026-11-23T00:57:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
-  },
-  {
-    "title": "USDA projects tighter crop ending stocks - Agri News",
-    "timestamp": "2026-11-23T00:57:43+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
-  },
-  {
-    "title": "Russian western oil exports curbed by bad weather, drones - Reuters",
-    "timestamp": "2026-11-23T09:03:09+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "ロシアの西部油田からの原油輸出がドローン攻撃と悪天候により制約されている。同国の主要な輸出ルートの機能低下により、ロシア産原油（UralやEst Sib）の供給が物理的に減少。欧州向けおよび世界市場への供給圧力が生じており、代替供給源の需要が高まる可能性がある。"
-  },
-  {
-    "title": "Saudi Arabia's influence loomed large over failed COP31 deal - Reuters",
-    "timestamp": "2026-11-23T03:03:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "COP31での気候変動対策協議が決裂し、サウジアラビアの影響力が交渉を主導したと報道された。化石燃料削減目標の合意失敗は、長期的な石油需要維持の懸念を反映し、市場心理を圧迫。エネルギー転換の遅延は商品市場全体に複雑な影響をもたらす。"
-  },
-  {
-    "title": "Saudi Arabia's influence loomed large over failed COP31 deal - Reuters",
-    "timestamp": "2026-11-23T03:03:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "COP31での気候変動対策協議が決裂し、サウジアラビアの影響力が交渉を主導したと報道された。化石燃料削減目標の合意失敗は、長期的な石油需要維持の懸念を反映し、市場心理を圧迫。エネルギー転換の遅延は商品市場全体に複雑な影響をもたらす。"
-  },
-  {
     "title": "Crop Progress",
     "timestamp": "2026-11-23T21:00:00+00:00",
     "importance": 1,
@@ -594,39 +517,6 @@
     "summary": "米国の収穫が完了する一方、ウクライナ戦争と米中貿易摩擦が穀物市場に下方リスクをもたらしている。供給サイド（収穫完了）は安定的だが、地政学的不確実性と通商問題がコモディティ価格の上値を抑制。WASDEなど定期統計との組み合わせで市場対応が分かれる可能性。"
   },
   {
-    "title": "Arable Market Report – 23 November 2026 - AHDB",
-    "timestamp": "2026-11-23T08:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "小麦",
-    "summary": "2026年11月23日のAHDB穀物市場レポートは、英国および欧州の作付・生育進捗に関する定期更新と考えられます。具体的な数値やデータが開示記事から確認できないため、市場への直接的な影響度は判定困難です。"
-  },
-  {
-    "title": "Arable Market Report – 23 November 2026 - AHDB",
-    "timestamp": "2026-11-23T08:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月23日のAHDB穀物市場レポートは、英国および欧州の作付・生育進捗に関する定期更新と考えられます。具体的な数値やデータが開示記事から確認できないため、市場への直接的な影響度は判定困難です。"
-  },
-  {
-    "title": "Arable Market Report – 23 November 2026 - AHDB",
-    "timestamp": "2026-11-23T08:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "WASDE関連",
-    "commodity": "大豆",
-    "summary": "2026年11月23日のAHDB穀物市場レポートは、英国および欧州の作付・生育進捗に関する定期更新と考えられます。具体的な数値やデータが開示記事から確認できないため、市場への直接的な影響度は判定困難です。"
-  },
-  {
     "title": "API: US crude stocks inch up, fuel inventories mixed - Quantum Commodity Intelligence",
     "timestamp": "2026-11-25T03:15:10+00:00",
     "importance": 2,
@@ -922,5 +812,148 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "ロシア南西部のシズラン製油所がドローン攻撃により火災発生。NASAの衛星データにより確認された。同製油所は日量30万バレル以上の処理能力を持つ主要施設であり、ロシアの精製能力の約5-6%を占める。ウクライナ情勢の深刻化による供給リスク顕在化。"
+  },
+  {
+    "title": "WTI Crude Oil futures top $83 as EIA reports inventory build. - CME Group",
+    "timestamp": "2026-11-26T00:08:00+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが原油在庫の積み増しを報告した中、WTI原油先物は$83台まで上昇。在庫増加は通常は下落圧力となるが、価格は堅調を維持。地政学的リスクや需要見通しなど他の要因が上昇を支えている可能性がある。市場の反応は相反する需給シグナルを反映している。"
+  },
+  {
+    "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
+    "timestamp": "2026-11-26T06:04:20+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAが米国原油在庫の増加を報告。在庫増加は供給過剰またはガソリン需要の低迷を示唆し、原油価格に下押し圧力となる。ただし、具体的な増加幅や週間データが不明であり、予想比での驚きの程度は判断が難しい。"
+  },
+  {
+    "title": "U.S. Rig Count Holds Steady as Oil Production Hits Fifth Straight Record - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-11-25T21:06:52+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "米国の稼働リグ数が横ばいを維持する中、原油生産が5四半期連続で過去最高を更新している。生産増加にもかかわらずリグ数が増加していない点は、掘削効率の向上を示唆している。短期的には供給面での強気要因だが、市場で既に織り込まれた内容と見られる。"
+  },
+  {
+    "title": "US Commercial Crude Stocks Fall to Lowest Since 2018 on Higher Exports, Refinery Processing, EIA Says - EnergyNow.com",
+    "timestamp": "2026-11-25T15:59:18+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表によると、米国商業用原油在庫が2018年以来の最低水準まで低下した。輸出増加と製油所の処理量増加が在庫低下の主要因。需給逼迫を示す指標であり、原油価格への上方圧力が継続している状況を反映している。"
+  },
+  {
+    "title": "Small increases for Indian rapeseed production, crush estimates says USDA - The Western Producer",
+    "timestamp": "2026-11-25T22:50:50+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "Crop Progress/Production",
+    "commodity": "大豆",
+    "summary": "USDAがインドの菜種（ラペシード）生産と搾油量推定を小幅上方修正。インドの菜種生産量は限定的な増加で、グローバルな大豆供給市場への直接的な大きな影響は限定的。既知の範囲内の軽微な調整と見られる。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-11-23T23:12:05+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "UAEがOPECから脱退を表明し、組織の結束力が大幅に低下。サウジアラビアとの主導権争いが表面化し、協調減産体制の維持が危機的状況に。価格戦争リスクが高まり、原油相場に下落圧力が加わる可能性が高い。"
+  },
+  {
+    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
+    "timestamp": "2026-11-23T23:12:05+00:00",
+    "importance": 4,
+    "direction": "下落",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "コモディティ全般",
+    "summary": "UAEがOPECから脱退を表明し、組織の結束力が大幅に低下。サウジアラビアとの主導権争いが表面化し、協調減産体制の維持が危機的状況に。価格戦争リスクが高まり、原油相場に下落圧力が加わる可能性が高い。"
+  },
+  {
+    "title": "Oil little changed as supply concerns linger after Iran claims mine strikes on ships - Reuters",
+    "timestamp": "2026-11-26T03:08:00+00:00",
+    "importance": 3,
+    "direction": "中立",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "イランが紅海でのタンカーへの機雷敷設を主張し、海上輸送リスクが再燃。これにより原油供給懸念が継続しているが、現時点では価格への明確な上昇圧力には至らず、市場は様子見姿勢。地政学的リスク要因として注視が必要だが、実際の供給途絶までは限定的な反応にとどまっている。"
+  },
+  {
+    "title": "Oil prices rise after Houthis claim attack on Saudi refinery - Reuters",
+    "timestamp": "2026-11-25T01:58:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "フーシ派がサウジアラビアの製油所への攻撃を表明し、原油価格が上昇した。中東での地政学的緊張が供給リスクを高め、市場は予防的に価格を引き上げた。サウジの主要インフラへの攻撃脅威は原油市場の不確実性を大幅に増加させる。"
+  },
+  {
+    "title": "India central bank raises share of domestically held gold reserves, data shows - Reuters",
+    "timestamp": "2026-11-25T14:36:07+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "金",
+    "summary": "インド中央銀行が国内保有の金準備金の比率を引き上げたと報じられた。これはインドが外貨準備に占める金の割合を増加させる戦略的シフトを示唆している。外準における金の存在感強化は、金需要の潜在的な上昇要因となる可能性がある。"
+  },
+  {
+    "title": "Russia says OPEC+ to complete production capacity review by year-end - Reuters",
+    "timestamp": "2026-11-25T13:33:43+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアがOPEC+による生産能力レビューが年末までに完了する見通しを表明。既存の減産合意の枠組み内での定例的な能力評価であり、新たな減産・増産方針の発表ではない。市場に織り込まれた見通しの確認に過ぎず、即座の価格変動要因としては限定的。"
+  },
+  {
+    "title": "Russian Refinery Runs Drop to Lowest in Decades, Rystad Says - Bloomberg.com",
+    "timestamp": "2026-11-25T17:10:51+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシアの製油所稼働率が数十年ぶりの低水準に低下したとRystadが報告。西側制裁と構造的な施設損傷により、ロシアの石油精製能力が大幅に減少。グローバルな石油精製供給逼迫の可能性が高まり、原油価格上昇圧力となる。"
+  },
+  {
+    "title": "Russian Refinery Runs Drop to Lowest in Decades, Rystad Says - Bloomberg.com",
+    "timestamp": "2026-11-25T17:10:51+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "ロシアの製油所稼働率が数十年ぶりの低水準に低下したとRystadが報告。西側制裁と構造的な施設損傷により、ロシアの石油精製能力が大幅に減少。グローバルな石油精製供給逼迫の可能性が高まり、原油価格上昇圧力となる。"
   }
 ]
