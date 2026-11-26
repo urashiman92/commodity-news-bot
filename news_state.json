@@ -1,104 +1,5 @@
 [
   {
-    "title": "金価格が1週間で9％急落、3,600ドル割れ AI株暴落が「ATM」的な売りを誘発 - BigGo ファイナンス",
-    "timestamp": "2026-11-23T12:05:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1週間で9％急落し3,600ドルを割った。AI株暴落に伴うリスク回避売りがドル買いを促進し、金の売却圧力となった。機械的なポートフォリオ調整が「ATM的」な売却を誘発。"
-  },
-  {
-    "title": "金価格3,500ドルの攻防：売り圧力の背後にあるもの - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-23T11:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が3,500ドルの重要な心理的レベルで売り圧力に直面している。この価格帯での攻防は、テクニカルレジスタンスとしての強度を示唆。短期的な売り圧力の要因を分析する解説記事。"
-  },
-  {
-    "title": "金価格が14ヶ月ぶりの安値から反発、エヌビディアは黄仁勲氏をCEOに再任 - Moomoo",
-    "timestamp": "2026-11-23T16:25:29+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が14ヶ月ぶりの安値から反発している。エヌビディアのCEO人事は金市場と直接の関連性がない。技術セクターのニュースが混在している。"
-  },
-  {
-    "title": "ジェンセン・フアン氏がCEOに復帰したとのニュースを受けて、金価格が急騰した。 - Vietnam.vn",
-    "timestamp": "2026-11-23T17:59:48+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ジェンセン・フアン氏のCEO復帰ニュースが報道されたとされるが、これはNVIDIAの経営ニュースであり金市場とは直接的な関連性がない。金価格急騰の原因は他要因の可能性が高い。"
-  },
-  {
-    "title": "リビア・パイプライン再稼働と中東供給増で原油価格が約3%下落 - BigGo ファイナンス",
-    "timestamp": "2026-11-23T19:55:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "リビアのパイプライン再稼働と中東の供給増加により、原油市場に供給増加圧力が生じた。3%程度の価格下落は市場の供給懸念の緩和を反映している。短期的には供給サイドのニュースが優位だが、マクロ要因の変化に注視が必要。"
-  },
-  {
-    "title": "NY市場動向（午後0時台）：ダウ1500ドル高、原油先物3.07ドル安｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-23T17:25:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "NY市場午後時点でダウ平均が1500ドル高となる中、WTI原油先物は3.07ドル安で推移。株価堅調にもかかわらず原油が売られている状況を示すリアルタイム相場観測。"
-  },
-  {
-    "title": "中東からの供給増加で、ブレント原油とWTI原油の先物価格が3％超下落 - Moomoo",
-    "timestamp": "2026-11-23T14:51:50+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "中東からの原油供給増加により、ブレント原油とWTI原油の先物価格が3%超下落した。供給増加は需給バランスを緩和させ、価格に下押し圧力をもたらしている。"
-  },
-  {
-    "title": "ドイツ銀行、原油供給過剰の再来を予測―ブレント原油先物は70ドル以下へ - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-23T13:20:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ドイツ銀行がブレント原油の供給過剰環境への転換を予測し、価格が70ドル以下への下落を見込んでいる。アナリストによる観測で、既に市場で議論されている供給懸念の延長線上の見解。"
-  },
-  {
-    "title": "銅価格、日中の強い買いを受けて約4%上昇 - Traders Union",
-    "timestamp": "2026-11-23T14:32:34+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "銅価格が日中取引で約4%上昇した。具体的な材料の記述がなく、相場の振り返り解説と見られる。短期的な買い圧力を反映した動き。"
-  },
-  {
     "title": "金価格、先週9％急落後に1日で3.5％反発 市場はPCE統計に注目、金利方向を探る - BigGo ファイナンス",
     "timestamp": "2026-11-23T23:55:00+00:00",
     "importance": 3,
@@ -231,28 +132,6 @@
     "summary": "イラン情勢の緊張緩和とリビア石油生産再開により、WTI原油は3.52ドル下落。供給増加と地政学リスク低下が同時に作用。コモディティ市場では供給サイドの改善が価格を押し下げた。"
   },
   {
-    "title": "米原油先物反落、３カ月半ぶり安値 - 沖縄タイムス社",
-    "timestamp": "2026-11-23T20:48:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米原油先物が3カ月半ぶりの安値まで反落した。需要懸念や供給圧力などの要因が価格を下押し。既にポジション調整段階と推察される。"
-  },
-  {
-    "title": "【速報】米原油先物反落、3カ月半ぶり安値 - 47NEWS",
-    "timestamp": "2026-11-23T20:48:43+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "米原油先物が3カ月半ぶりの安値まで反落した。需要減速懸念やドル高圧力など複数の下押し要因が作用している。短期的なテクニカル売りも加速している可能性。"
-  },
-  {
     "title": "供給過剰懸念で急落後、原油価格が安定 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "timestamp": "2026-11-23T23:54:00+00:00",
     "importance": 2,
@@ -273,17 +152,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が3%超下落し、3カ月ぶりの安値を更新。中東からの供給増が主要な下押し要因。需給緩和を示唆する展開で、価格調整局面が継続。"
-  },
-  {
-    "title": "トウモロコシ先物価格はレンジ相場が続くなか、USX450.5付近で推移 - Traders Union",
-    "timestamp": "2026-11-23T15:44:41+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "トウモロコシ",
-    "summary": "トウモロコシ先物がUSX450.5付近でレンジ相場を継続している状況の報告。現在の価格水準と相場の膠着状態を示しているが、新規情報や方向性の示唆がない。"
   },
   {
     "title": "２３日の主要国際商品市況 - 株探",
@@ -493,17 +361,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "テクノロジーセクターの急落が銅需要の減退懸念を引き起こし、銅価格に売り圧力が継続している。テック産業は銅の重要な需要源であり、セクター弱化は銅相場の下押し要因となっている。"
-  },
-  {
-    "title": "Nvidia株牽引の上昇後、銅相場反落 - TradingView",
-    "timestamp": "2026-11-23T20:04:00+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "Nvidia株主導の上昇相場が一服し、銅相場が反落した。テック株の勢いが一時的に鈍化した可能性を示唆している。銅は景気敏感商品であり、成長期待の後退が価格圧力となった。"
   },
   {
     "title": "Nvidiaがジェンセン・フアン氏を再任したという情報を受けて、銅価格が反転して急騰 - Laodong.vn",
@@ -1516,5 +1373,126 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅建値が9ヶ月ぶりに200万円を割れた。AI投資警戒とドル高が主要な下落要因。景気減速懸念と強気ポジションの巻き戻しが進行中。"
+  },
+  {
+    "title": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】：株価・株式情報 - Yahoo!ファイナンス",
+    "timestamp": "2026-11-26T15:23:26+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NEXT NOTES 金先物 ダブル・ブル ETN【2036】のYahoo!ファイナンス掲載ページ。金先物の2倍レバレッジ商品の情報ページであり、金価格の実質的なニュースではなく商品情報の掲載。"
+  },
+  {
+    "title": "WGC、「金価格」調整継続警戒 1月の高値より3割下落 - ニッキンONLINE",
+    "timestamp": "2026-11-26T20:15:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "WGC（世界金協会）が金価格の調整継続を警戒。1月高値から約30%下落した現在の水準について、さらなる調整圧力の可能性を指摘。金価格は高値圏からの反落局面にある。"
+  },
+  {
+    "title": "金相場の上昇勢いが鈍化し、米連邦準備制度理事会（FRB）の利上げ観測が市場センチメントを主導 - Moomoo",
+    "timestamp": "2026-11-26T16:13:27+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場の上昇ペースが減速している。FRBの利上げ観測が市場心理を支配し、金の買い圧力が弱まっている状況。金は低金利環境で買われやすいため、利上げは逆風。"
+  },
+  {
+    "title": "世界の金価格への圧力が高まっている。 - Vietnam.vn",
+    "timestamp": "2026-11-26T16:13:05+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "世界的な金価格への下押し圧力が高まっているという解説記事。具体的な要因の詳細は記事本文が必要だが、コモディティ市場の景気見通しやドル高、金利上昇など複数の圧力が存在。"
+  },
+  {
+    "title": "ドル高でスポット金が下落、米金先物は上昇 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "timestamp": "2026-11-26T03:20:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル高によりスポット金は下落したが、米金先物は上昇する相反する動きが発生。ドル建て金の価格低下とポジション調整による先物買いが同時進行。通常の市場メカニズムの範囲内の値動き。"
+  },
+  {
+    "title": "フーシ派、サウジ最大の製油所を攻撃したと主張 ブレント原油は1バレル96.57ドルで引け - BigGo ファイナンス",
+    "timestamp": "2026-11-26T20:25:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "イエメンのフーシ派がサウジアラビア最大の製油所への攻撃を主張。サウジの主要インフラ施設への脅威は原油供給リスク要因となる。ブレント原油は96.57ドルで引け、供給懸念が価格を支えた。"
+  },
+  {
+    "title": "カナダ商品市況：中東での戦闘激化を受け、原油価格が上昇 - Moomoo",
+    "timestamp": "2026-11-26T15:14:29+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東での戦闘激化を受けて原油価格が上昇。地政学的リスク要因による供給懸念が相場を押し上げた。既報の中東情勢の延長線上での値動き。"
+  },
+  {
+    "title": "WTI原油先物、ホルムズ海峡の船舶リスクで86ドル近辺 - Traders Union",
+    "timestamp": "2026-11-26T14:26:11+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡での船舶リスク増加がWTI原油を86ドル近辺に押し上げている。同海峡は世界の原油供給の約3割が通過する重要な輸送路であり、地政学的リスクが価格を支える要因となっている。"
+  },
+  {
+    "title": "銅価格が1日で3.4%急反発、1トン1.2万ドル台を回復 UBSは冷ややか「テクニカル弱気相場の修復でありトレンド転換ではない」 - BigGo ファイナンス",
+    "timestamp": "2026-11-26T14:35:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅価格が1日で3.4%反発し1トン1.2万ドル台を回復した。ただしUBSはこれをテクニカルな反騰であり、トレンド転換ではないと評価。弱気相場の修復過程との見立て。"
+  },
+  {
+    "title": "AI関連株の回復を受け銅価格が反発、亜鉛は1月以来の最大の上昇を記録 - TradingView",
+    "timestamp": "2026-11-26T17:17:02+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "AI関連株の回復に伴い銅価格が反発。亜鉛も1月以来の最大上昇を記録。リスク資産への買い戻しが金属市場に波及。"
+  },
+  {
+    "title": "銅建値200万円割れ 鉛35万1000円 亜鉛62万5000円（日刊産業新聞） - Yahoo!ニュース",
+    "timestamp": "2026-11-26T05:09:05+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅が200万円を割り込み、鉛・亜鉛も軟調で推移している。ベースメタル全般の価格下落を示す市場レポート。景気減速懸念や需要低迷の継続を反映した動き。"
   }
 ]
