@@ -1,16 +1,5 @@
 [
   {
-    "title": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery - Reuters",
-    "timestamp": "2026-11-22T17:52:15+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "イエメンの反政府勢力フーシ派がサウジアラビアのラービグ製油所への攻撃を表明。同製油所は日量45万バレルの重要な精製施設であり、中東の地政学的緊張が急激に高まった。サウジアラビアは世界最大級の石油輸出国であり、供給途絶のリスクが市場心理を刺激する可能性が高い。"
-  },
-  {
     "title": "USDA projects tighter crop ending stocks - Agri News",
     "timestamp": "2026-11-23T00:57:43+00:00",
     "importance": 4,
@@ -53,17 +42,6 @@
     "source": "Crop Progress/Production",
     "commodity": "コモディティ全般",
     "summary": "USDAが最新の作物需給見通しで、期末在庫（エンディングストック）が予想より縮小すると投影した。これは供給逼迫を示唆し、主要穀物（トウモロコシ、小麦、大豆）の価格支援要因となる可能性が高い。在庫水準の低下は市場の需給バランスを引き締める。"
-  },
-  {
-    "title": "Oil Edges Lower as Ample Supply Outweighs Middle East Tensions - Bloomberg.com",
-    "timestamp": "2026-11-22T23:30:39+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格が小幅に下落。中東の地政学的緊張が存在する一方で、供給が十分に利用可能であることが価格上昇を抑制している。サプライ面での懸念が需給バランスの堅調さに圧倒されている状況。"
   },
   {
     "title": "Russian western oil exports curbed by bad weather, drones - Reuters",
@@ -779,5 +757,170 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "トウモロコシ",
     "summary": "大豆油が9ヶ月ぶりの安値を更新。これは大豆かすの需要が堅調であり、搾油（クラッシュ）プロセスが活況であることを示唆している。油糧種子の搾油圧が高まるにつれ、副産物である大豆油の供給が増加し、相対的に油価格が押し下げられている。大豆複合市場内での構造的な価格シフト。"
+  },
+  {
+    "title": "Peanut Stocks and Processing",
+    "timestamp": "2026-11-25T20:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "大豆",
+    "summary": "USDA NASAが2026年11月25日に落花生の在庫・加工統計を定期発表。米国の落花生市場の需給バランスを反映する重要な指標だが、公開された具体的な数値データが不明であるため、供給圧力の有無を特定できない。油糧種子市場全体への波及効果は限定的と考えられる。"
+  },
+  {
+    "title": "Peanut Stocks and Processing",
+    "timestamp": "2026-11-25T20:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "トウモロコシ",
+    "summary": "USDA NASAが2026年11月25日に落花生の在庫・加工統計を定期発表。米国の落花生市場の需給バランスを反映する重要な指標だが、公開された具体的な数値データが不明であるため、供給圧力の有無を特定できない。油糧種子市場全体への波及効果は限定的と考えられる。"
+  },
+  {
+    "title": "Peanut Stocks and Processing",
+    "timestamp": "2026-11-25T20:00:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "USDA NASS公式",
+    "commodity": "コモディティ全般",
+    "summary": "USDA NASAが2026年11月25日に落花生の在庫・加工統計を定期発表。米国の落花生市場の需給バランスを反映する重要な指標だが、公開された具体的な数値データが不明であるため、供給圧力の有無を特定できない。油糧種子市場全体への波及効果は限定的と考えられる。"
+  },
+  {
+    "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "timestamp": "2026-11-25T20:00:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "FRB全プレスリリース",
+    "commodity": "コモディティ全般",
+    "summary": "FRBが消費者信用およびリース取引に適用される真実貸付法（TILA）とリース規則のドル閾値を発表。規制当局による定期的な閾値調整で、インフレ調整を反映したもの。コモディティ市場への直接的な影響は限定的。"
+  },
+  {
+    "title": "EIA: US crude stocks at two month high before Thanksgiving holiday - Quantum Commodity Intelligence",
+    "timestamp": "2026-11-25T17:02:37+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIAの週間在庫統計レポート。米国原油在庫が2ヶ月ぶりの高水準に達した。感謝祭休場前の需要低下時期における在庫積み上がりを反映。需給緩和シグナルとして原油相場に軽微な下押し圧力。"
+  },
+  {
+    "title": "EIA Cushing Crude Oil Stocks Change (Nov/20) -0.534M (Prev. -1.209M) - Newsquawk",
+    "timestamp": "2026-11-25T15:50:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "low",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "EIA発表のクッシング地区原油在庫は11月20日時点で-0.534M バレル減少。前週の-1.209M バレルと比べて減少幅は縮小した。クッシング地区の在庫取り崩しは継続しているものの、ペースが鈍化していることを示唆する定例統計。"
+  },
+  {
+    "title": "US EIA Distillate Stocks Change (Nov/20) 0.715M vs. Exp. 1.3M (Prev. 1.571M) - Newsquawk",
+    "timestamp": "2026-11-25T15:50:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "原油",
+    "summary": "11月20日のEIA蒸留油在庫統計で、実績値は0.715Mバレル増加に留まり、市場予想の1.3Mバレル増加を大きく下回った。前週の1.571Mバレル増加からも減速を示唆し、蒸留油需要の弱さを反映している可能性がある。"
+  },
+  {
+    "title": "US EIA Distillate Stocks Change (Nov/20) 0.715M vs. Exp. 1.3M (Prev. 1.571M) - Newsquawk",
+    "timestamp": "2026-11-25T15:50:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "scheduled",
+    "surprise": "high",
+    "source": "EIA原油在庫",
+    "commodity": "コモディティ全般",
+    "summary": "11月20日のEIA蒸留油在庫統計で、実績値は0.715Mバレル増加に留まり、市場予想の1.3Mバレル増加を大きく下回った。前週の1.571Mバレル増加からも減速を示唆し、蒸留油需要の弱さを反映している可能性がある。"
+  },
+  {
+    "title": "Trump's Beef Import Push Exposes America's Shrinking Cattle Herd and a Growing Supply Crisis - AgroLatam",
+    "timestamp": "2026-11-23T13:40:48+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "high",
+    "source": "Crop Progress/Production",
+    "commodity": "コモディティ全般",
+    "summary": "トランプ前大統領の牛肉輸入推進政策により、米国の畜牛頭数の縮小と供給危機が露呈した。国内畜牛群の急速な減少は長期的な供給逼迫を招き、牛肉価格の上昇圧力が強まる可能性が高い。国内農業生産基盤の脆弱化が投資判断の重要な転機となる。"
+  },
+  {
+    "title": "Stat of the Week: U.S. production of seven popular pie ingredients nears $7 billion - Greenhouse Management",
+    "timestamp": "2026-11-23T19:09:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "小麦",
+    "summary": "米国のパイ関連食材7品目の生産額が約70億ドルに達している。パイの主要原材料である小麦とトウモロコシを含むこの統計は、米国農業生産の一部の市場規模を示唆している。ただし、具体的な生産量・作付面積・前年比の数値が記事から明確でないため、市場への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "Stat of the Week: U.S. production of seven popular pie ingredients nears $7 billion - Greenhouse Management",
+    "timestamp": "2026-11-23T19:09:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "unknown",
+    "source": "Crop Progress/Production",
+    "commodity": "トウモロコシ",
+    "summary": "米国のパイ関連食材7品目の生産額が約70億ドルに達している。パイの主要原材料である小麦とトウモロコシを含むこの統計は、米国農業生産の一部の市場規模を示唆している。ただし、具体的な生産量・作付面積・前年比の数値が記事から明確でないため、市場への直接的なインパクトは限定的。"
+  },
+  {
+    "title": "Kazakhstan is reportedly dissatisfied with OPEC+'s oil production capacity assessment and is seeking a higher output quota, according to reports citing sources - Newsquawk",
+    "timestamp": "2026-11-25T11:39:36+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "カザフスタンがOPEC+の石油生産能力評価に不満を表明し、より高い産油枠の獲得を模索している。同国は現在の割当枠が自国の実際の生産能力を過小評価していると主張。OPEC+内での枠配分争いが顕在化し、協調減産体制の亀裂を示唆する動きとして注視される。"
+  },
+  {
+    "title": "Kazakhstan Joins Iraq in Pushing OPEC for a Higher Capacity Rating - Crude Oil Prices Today | OilPrice.com",
+    "timestamp": "2026-11-25T17:30:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "カザフスタンがイラクとともにOPECに対して生産能力評価の引き上げを要求している。両国は自国の実際の生産能力がOPECの公式評価より高いと主張しており、これが認められれば減産枠の拡大につながる可能性がある。OPECの内部調整の一環として注視が必要。"
+  },
+  {
+    "title": "Iraq to contest sub-5 million bpd OPEC+ baseline allocation - Quantum Commodity Intelligence",
+    "timestamp": "2026-11-25T08:25:05+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "イラクがOPEC+の基準配分量（日量500万バレル未満）に異議を唱える姿勢を示唆。イラクは過去の生産実績に基づいてより高い配分を求める可能性があり、OPEC+内の減産合意の維持に対するリスク要因となり得る。配分交渉の行方次第で供給政策が変動する可能性。"
+  },
+  {
+    "title": "NASA Data Point to Fire at Russia’s Syzran Refinery After Drones - Bloomberg",
+    "timestamp": "2026-11-25T15:06:46+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア南西部のシズラン製油所がドローン攻撃により火災発生。NASAの衛星データにより確認された。同製油所は日量30万バレル以上の処理能力を持つ主要施設であり、ロシアの精製能力の約5-6%を占める。ウクライナ情勢の深刻化による供給リスク顕在化。"
   }
 ]
