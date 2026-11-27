@@ -1,49 +1,5 @@
 [
   {
-    "title": "金価格、先週9％急落後に1日で3.5％反発 市場はPCE統計に注目、金利方向を探る - BigGo ファイナンス",
-    "timestamp": "2026-11-23T23:55:00+00:00",
-    "importance": 3,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は先週9％の急落後、1日で3.5％反発した。市場はPCE統計など金利動向を注視しており、ボラティリティが高まっている状況。金利見通しが金価格の重要な方向性を決める局面。"
-  },
-  {
-    "title": "金価格(ゴールド)見通し(市況ニュース)：1年超ぶり安値から反発、金価格は約97ドル高（2026年11月24日） - OANDA証券",
-    "timestamp": "2026-11-23T23:02:33+00:00",
-    "importance": 2,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が1年超ぶりの安値から反発し、約97ドル上昇した。テクニカルな反発局面を示唆するが、根本的なトレンド転換を示す新規情報は提示されていない。"
-  },
-  {
-    "title": "NY金先物は続伸、米金利低下に伴うドル買い後退で買い戻し優勢｜FX・為替ニュース - ザイFX！",
-    "timestamp": "2026-11-23T22:55:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "米金利低下によるドル弱化を背景に、金先物が買い戻された。ドル安環境下では金の価格競争力が改善される傾向。マクロ環境の変化を反映した価格調整局面。"
-  },
-  {
-    "title": "金価格、14カ月ぶり安値 - 朝鮮日報",
-    "timestamp": "2026-11-24T01:50:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が14カ月ぶりの安値まで下落した。米金利の上昇圧力やドル強化が背景と考えられる。短期的には下押し圧力が継続する可能性がある。"
-  },
-  {
     "title": "国内の金価格は世界の金価格よりも高い。 - Vietnam.vn",
     "timestamp": "2026-11-24T04:46:14+00:00",
     "importance": 2,
@@ -53,28 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "ベトナム国内の金価格が国際市場価格を上回っている状況を報じたもの。これは過去から繰り返し観察されるローカル市場現象であり、為替・流動性・関税等の構造的要因が原因。"
-  },
-  {
-    "title": "金価格見通し：3,500ドル水準で反発するも、上値は重たい - Moomoo",
-    "timestamp": "2026-11-23T23:13:47+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格は3,500ドル水準で反発の兆しを見せているが、上値が重いという相場観を示すアナリスト解説。現在の価格レンジでの膠着状態を反映。"
-  },
-  {
-    "title": "ニューヨーク原油・金先物市場概況（23日）原油は大幅反落 - Moomoo",
-    "timestamp": "2026-11-23T22:12:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "ニューヨーク原油先物が23日に大幅反落。金先物市場も同時に動向を見せる。市場の振り返り報道であり、具体的な供給ショックや統計発表ではなく相場解説の一環。"
   },
   {
     "title": "原油先物が下落、約3カ月ぶり安値圏 供給増と供給過剰懸念で - Reuters",
@@ -119,72 +53,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "原油先物が約3カ月ぶりの安値圏まで下落。供給増加と供給過剰懸念が主な下押し要因。需給バランスの悪化が価格圧力となっている。"
-  },
-  {
-    "title": "WTI原油価格見通し(市況ニュース)：イラン情勢の警戒緩和やリビア再開で原油は3.52ドル安（2026年11月24日） - OANDA証券",
-    "timestamp": "2026-11-23T23:02:38+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "イラン情勢の緊張緩和とリビア石油生産再開により、WTI原油は3.52ドル下落。供給増加と地政学リスク低下が同時に作用。コモディティ市場では供給サイドの改善が価格を押し下げた。"
-  },
-  {
-    "title": "供給過剰懸念で急落後、原油価格が安定 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-23T23:54:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "供給過剰懸念により原油価格が急落した後、現在は安定している状況。市場心理が一度リセットされ、新たな均衡水準を模索している段階。"
-  },
-  {
-    "title": "原油先物3％超安、3カ月ぶり安値 中東からの供給増などで - Reuters",
-    "timestamp": "2026-11-23T22:17:47+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "原油先物が3%超下落し、3カ月ぶりの安値を更新。中東からの供給増が主要な下押し要因。需給緩和を示唆する展開で、価格調整局面が継続。"
-  },
-  {
-    "title": "２３日の主要国際商品市況 - 株探",
-    "timestamp": "2026-11-23T23:21:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "23日の主要国際商品市況についての定期的な相場動向レポート。具体的な価格変動や材料は記事本文なしでは判断不可。"
-  },
-  {
-    "title": "米コモディティー市場－金、銀、銅、小麦、大豆が上昇 原油、ガソリン、天然ガス、トウモロコシが下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "timestamp": "2026-11-23T23:25:03+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で金銀銅と穀物が上昇する一方、エネルギー商品が下落。市場内での資産配分シフトが進行。"
-  },
-  {
-    "title": "２３日の主要国際商品市況 (2026年11月24日掲載) - ライブドアニュース",
-    "timestamp": "2026-11-23T23:21:49+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "2026年11月23日の主要国際商品市況に関する定期的な市場レポート。具体的な価格データや変動方向が記事概要に記載されていない。"
   },
   {
     "title": "ドル高でシカゴ小麦先物が下落 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -262,28 +130,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "NY金先物が3600ドル台前半での推移を報じるテクニカル相場コメント。金相場は弱含みの展開となっており、直近のレジスタンス水準での値動きが続いている状況。"
-  },
-  {
-    "title": "金価格、14カ月ぶり安値 - 朝鮮日報",
-    "timestamp": "2026-11-24T01:50:10+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が14カ月ぶりの安値を更新した。金相場は現在、調整局面にあり、金利上昇環境と米ドル強化が継続している。需要面での懸念も相場を圧迫している。"
-  },
-  {
-    "title": "金価格、急反発後に小幅下落——インフレとFRBの動向に注目 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-24T01:43:00+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が急反発後に小幅下落。インフレ動向とFRB金融政策の行方が相場を左右する状況。現在は方向性が定まらない小動きの局面。"
   },
   {
     "title": "ＩＮＰＥＸ---続落、原油先物相場の下落基調が続き 執筆 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -372,17 +218,6 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "Nvidiaのジェンセン・フアン氏再任という企業ニュースを受けて銅価格が上昇した。技術企業の経営継続性が確認されたことで、AIチップ需要と関連する銅需要への楽観が買い材料になった可能性。"
-  },
-  {
-    "title": "米コモディティー市場－金、銀、銅、小麦、大豆が上昇 原油、ガソリン、天然ガス、トウモロコシが下落 - TradingView",
-    "timestamp": "2026-11-23T23:24:28+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Google News",
-    "commodity": "コモディティ全般",
-    "summary": "米コモディティ市場で金・銀・銅・穀物が上昇する一方、エネルギー商品が下落。需給環境の相違や市場参加者の資金配分シフトを示唆。"
   },
   {
     "title": "金価格が1日で2%超の急落、3,600ドルの防衛ラインが危うく FRBの12月利上げ観測が強まる - BigGo ファイナンス",
@@ -1494,5 +1329,181 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅が200万円を割り込み、鉛・亜鉛も軟調で推移している。ベースメタル全般の価格下落を示す市場レポート。景気減速懸念や需要低迷の継続を反映した動き。"
+  },
+  {
+    "title": "ドル高が買い意欲を抑制、金現物は取引中に下落 11月は3カ月連続で6％超の下落か - BigGo ファイナンス",
+    "timestamp": "2026-11-27T02:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "ドル高進行により金現物への買い意欲が減退。11月は3カ月連続で6%超の下落となる可能性がある。金はドル建て資産のため、ドル強化は価格抑制要因として作用。"
+  },
+  {
+    "title": "金相場は安定推移、米連邦準備制度理事会（FRB）の金利見通しとAI関連株が今週の市場変動を主導 - Moomoo",
+    "timestamp": "2026-11-27T00:57:20+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金相場は安定推移している。FRBの金利見通しとAI関連株が今週の市場変動を主導している。金は現在のところ大きな方向性を示していない状況。"
+  },
+  {
+    "title": "本日（11月27日）の金価格：若干上昇 - Vietnam.vn",
+    "timestamp": "2026-11-27T00:40:58+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "11月27日の金価格が若干上昇したとの報道。日次の価格変動を伝えるルーチンニュースであり、具体的な材料や数値は不明。"
+  },
+  {
+    "title": "金価格が1オンス3500ドル割れ、14カ月ぶり安値 中国銀行もリスク注意喚起に加わる - BigGo ファイナンス",
+    "timestamp": "2026-11-26T20:55:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が1オンス3500ドルを割り、14カ月ぶりの安値を記録した。中国銀行もリスク注意喚起に参加し、金の下押し圧力が継続している。ドル強気・実質金利上昇等の既知ファクターが反映された結果。"
+  },
+  {
+    "title": "機関：金価格は3,500ドルの大台を堅調に維持し底支え、市場は景気後退予想を組み込み始めている - Moomoo",
+    "timestamp": "2026-11-27T02:38:28+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が3,500ドルの心理的節目を堅調に維持している。市場が景気後退シナリオを織り込み始めており、金の需要支援要因となっている。機関投資家の見方から金の底堅さが確認されている。"
+  },
+  {
+    "title": "本日（11月27日）の金価格：FRBによる利上げへの期待の高まりを受け、下落。 - Vietnam.vn",
+    "timestamp": "2026-11-26T22:54:26+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの利上げ期待の高まりを受け、金価格が下落した。金は利上げ環境下では実質利回りが上昇するため、利子を生まない金の相対的な魅力が低下する。"
+  },
+  {
+    "title": "WTI原油価格見通し(市況ニュース)：中東の供給懸念で原油価格は0.71ドル上昇（2026年11月27日） - OANDA証券",
+    "timestamp": "2026-11-26T22:54:43+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東の供給懸念を背景にWTI原油が0.71ドル上昇。地政学的リスクが価格を支援している。解説記事による相場観測。"
+  },
+  {
+    "title": "【石油資源開発 FY2026 Q2 決算説明会】JAPEX、通期営業益を60億円上方修正し520億円へ—原油価格前提を77ドルから94ドルに引き上げ - BigGo ファイナンス",
+    "timestamp": "2026-11-26T20:54:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "石油資源開発（JAPEX）がFY2026通期営業益を520億円に上方修正。原油価格前提を77ドルから94ドルに引き上げたことが主因。企業業績改善は原油価格上昇環境の継続を示唆。"
+  },
+  {
+    "title": "中東における供給途絶への懸念から、原油価格が上昇した。 - Vietnam.vn",
+    "timestamp": "2026-11-27T01:35:33+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "中東における供給途絶への懸念が浮上し、原油価格が上昇した。地政学的リスク要因が市場心理に影響している。具体的な供給途絶の事象や規模が不明確な段階での報道。"
+  },
+  {
+    "title": "ホルムズ海峡での船舶攻撃、開戦後最多…原油価格下落で再び締め付けを強めるイラン（中央日報日本語版） - Yahoo!ニュース",
+    "timestamp": "2026-11-26T23:22:56+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ホルムズ海峡でのイラン による船舶攻撃が開戦後最多となった。原油価格下落に対抗する形でイランが海峡での締め付けを強化。地政学的リスク要因の再顕在化。"
+  },
+  {
+    "title": "LME銅価格、11カ月ぶり安値から急反発1.91% 主要6金属そろって上昇 - BigGo ファイナンス",
+    "timestamp": "2026-11-27T02:26:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "LME銅が11カ月ぶり安値から1.91%反発し、主要6金属も同時上昇。技術的なリバウンドの可能性が高い。"
+  },
+  {
+    "title": "JX金属－野村が目標株価引き下げ 銅価格の下落を反映し利益予想を減額〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+    "timestamp": "2026-11-27T01:03:28+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "野村証券がJX金属の目標株価を引き下げ。銅価格の下落基調を反映し、同社の利益予想を減額。銅相場の軟調が企業業績に波及する見通し。"
+  },
+  {
+    "title": "銅が1.9%高、11カ月ぶり安値から反発－ハイテク株高で工業金属に買い - Bloomberg.com",
+    "timestamp": "2026-11-27T01:12:00+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅が1.9%上昇し11カ月ぶり安値から反発。ハイテク株の上昇に連動して工業金属に買いが入った。テック需要の回復期待が背景。"
+  },
+  {
+    "title": "銅が1.9%高、11カ月ぶり安値から反発－ハイテク株高で工業金属に買い - TBS NEWS DIG",
+    "timestamp": "2026-11-27T01:12:29+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅が1.9%上昇し11カ月ぶり安値から反発。ハイテク株の上昇に連動して工業金属に買いが入った。景気敏感性の高い銅は株式市場の動きを追随する形での回復。"
+  },
+  {
+    "title": "２６日の主要国際商品市況は感謝祭の祝日で休場 - 株探",
+    "timestamp": "2026-11-26T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "11月26日は米国の感謝祭で市場が休場となったため、主要国際商品市況の取引が行われなかった。これはカレンダーに基づく予定された休場である。"
+  },
+  {
+    "title": "２６日の主要国際商品市況は感謝祭の祝日で休場 (2026年11月27日掲載) - ライブドアニュース",
+    "timestamp": "2026-11-26T23:10:00+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "scheduled",
+    "surprise": "inline",
+    "source": "Google News",
+    "commodity": "コモディティ全般",
+    "summary": "11月26日は米国の感謝祭祝日により主要国際商品市場が休場。定例の祝日休場であり市場への直接的な影響なし。"
   }
 ]
