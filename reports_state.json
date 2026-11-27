@@ -1,137 +1,5 @@
 [
   {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-23T21:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "トウモロコシ",
-    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-23T21:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "小麦",
-    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-23T21:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "大豆",
-    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
-  },
-  {
-    "title": "Crop Progress",
-    "timestamp": "2026-11-23T21:00:00+00:00",
-    "importance": 1,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "USDA NASS公式",
-    "commodity": "コモディティ全般",
-    "summary": "2026年11月23日にUSDA NASが定期的なCrop Progressレポートを発表。米国の穀物作付状況と収穫進捗に関する定例統計。具体的な進捗率データが含まれることが想定されるが、本レポートの詳細内容が提供されていないため詳細な影響評価は不可。"
-  },
-  {
-    "title": "USDA Crop Progress Report: Corn Harvest 94%, Cotton 84%, Winter Wheat Planting 95% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-23T22:20:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "USDA作況進捗報告：トウモロコシ収穫94%、綿花84%、冬小麦播種95%と進捗が良好。高い進捗率は作柄が順調であることを示唆し、供給増加懸念から穀物・綿花相場に下押し圧力。冬小麦播種も計画通り進行。"
-  },
-  {
-    "title": "USDA Crop Progress Report: Corn Harvest 94%, Cotton 84%, Winter Wheat Planting 95% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-23T22:20:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "綿花",
-    "summary": "USDA作況進捗報告：トウモロコシ収穫94%、綿花84%、冬小麦播種95%と進捗が良好。高い進捗率は作柄が順調であることを示唆し、供給増加懸念から穀物・綿花相場に下押し圧力。冬小麦播種も計画通り進行。"
-  },
-  {
-    "title": "USDA Crop Progress Report: Corn Harvest 94%, Cotton 84%, Winter Wheat Planting 95% - News and Statistics - IndexBox",
-    "timestamp": "2026-11-23T22:20:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "USDA作況進捗報告：トウモロコシ収穫94%、綿花84%、冬小麦播種95%と進捗が良好。高い進捗率は作柄が順調であることを示唆し、供給増加懸念から穀物・綿花相場に下押し圧力。冬小麦播種も計画通り進行。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow",
-    "timestamp": "2026-11-23T19:45:35+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、来年の石油生産を500万バレル/日を上回るレベルへ引き上げる計画をIEAが報告。同国の増産政策が継続される見通しを示唆し、OPECの減産枠組みが弱化する懸念を反映。市場における供給圧力の増加が価格下押し要因となる可能性。"
-  },
-  {
-    "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand - Bloomberg.com",
-    "timestamp": "2026-11-23T20:37:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "株価先物の上昇に伴い、安全資産としての米国債先物が売却圧力を受けている。リスク選好環境の強まりで、無利子資産である金を含むコモディティ全般への避難需要が減少。ドル強化による下押し圧力も加わる可能性がある。"
-  },
-  {
-    "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand - Bloomberg.com",
-    "timestamp": "2026-11-23T20:37:14+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "株価先物の上昇に伴い、安全資産としての米国債先物が売却圧力を受けている。リスク選好環境の強まりで、無利子資産である金を含むコモディティ全般への避難需要が減少。ドル強化による下押し圧力も加わる可能性がある。"
-  },
-  {
-    "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says - EnergyNow.com",
-    "timestamp": "2026-11-23T22:42:32+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPEC離脱後、来年の石油生産を日量500万バレルを超える水準に引き上げる計画をIEAが報告。同国は減産合意の制約から解放され、独立した生産増強戦略を展開。グローバルな原油供給増加圧力となる見通し。"
-  },
-  {
-    "title": "Saudi Arabia Crude Exports Fall to Three Month Low in December - EnergyNow.com",
-    "timestamp": "2026-11-23T22:28:27+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "サウジアラビアの原油輸出が12月に3ヶ月ぶりの低水準に落ち込んだ。OPEC加盟国による減産政策の継続を反映した動きと考えられる。供給側の引き締め継続が価格下支え要因となる可能性がある一方、実績データの公開タイミングと市場の価格織り込み状況により市場反応は限定的か。"
-  },
-  {
     "title": "Oil touches three-month lows as rising supply offsets Hormuz threat - Reuters",
     "timestamp": "2026-11-24T02:56:00+00:00",
     "importance": 3,
@@ -152,17 +20,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "中国とインドが2026年にロシア産原油の輸入を記録的水準に引き上げる見通し。一方、同時期にこれら主要輸入国の需要がピークアウトする可能性も指摘。ロシア産原油の流動性は高まるが、2026年以降の需要減速が価格下押し圧力となる可能性。"
-  },
-  {
-    "title": "Oil Steadies as Middle East Tensions Vie With Ample Supply - Bloomberg.com",
-    "timestamp": "2026-11-23T22:26:08+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "中東の地政学的緊張と豊富な供給が相殺する形で原油は安定推移している。需給バランスが拮抗した状態が続いており、供給側のリスク要因と需要面の不確実性が互いに圧力を相殺している状況を示唆。市場参加者の関心は地政学リスクと在庫動向の行方に分かれている。"
   },
   {
     "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -317,17 +174,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+が年間で最も重要な供給決定に直面している。減産政策の継続、緩和、または新たな調整が焦点。原油市場はこの決定を待機中であり、供給サイドの方針転換は価格に大きな影響を与える可能性がある。"
-  },
-  {
-    "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
-    "timestamp": "2026-11-23T22:52:23+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "low",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "OPEC+が10月の石油生産政策を据え置くことを決定した。既に公表されている減産方針の継続であり、市場の事前予想の範囲内。短期的な供給変化がないため、価格への大きなインパクトは限定的と考えられる。"
   },
   {
     "title": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation - Reuters",
@@ -803,28 +649,6 @@
     "summary": "USDAがインドの菜種（ラペシード）生産と搾油量推定を小幅上方修正。インドの菜種生産量は限定的な増加で、グローバルな大豆供給市場への直接的な大きな影響は限定的。既知の範囲内の軽微な調整と見られる。"
   },
   {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-11-23T23:12:05+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "原油",
-    "summary": "UAEがOPECから脱退を表明し、組織の結束力が大幅に低下。サウジアラビアとの主導権争いが表面化し、協調減産体制の維持が危機的状況に。価格戦争リスクが高まり、原油相場に下落圧力が加わる可能性が高い。"
-  },
-  {
-    "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso - EnergyNow.com",
-    "timestamp": "2026-11-23T23:12:05+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "OPEC関連",
-    "commodity": "コモディティ全般",
-    "summary": "UAEがOPECから脱退を表明し、組織の結束力が大幅に低下。サウジアラビアとの主導権争いが表面化し、協調減産体制の維持が危機的状況に。価格戦争リスクが高まり、原油相場に下落圧力が加わる可能性が高い。"
-  },
-  {
     "title": "Oil little changed as supply concerns linger after Iran claims mine strikes on ships - Reuters",
     "timestamp": "2026-11-26T03:08:00+00:00",
     "importance": 3,
@@ -988,5 +812,82 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "OPEC+の代表団が現在の生産割当を維持する方針を検討していることが報道された。具体的な決定は次回の公式会合に向けた事前協議段階であり、市場はすでに現状維持シナリオを織り込んでいる。大幅な減産・増産発表ではなく、政策の継続性を示唆するもの。"
+  },
+  {
+    "title": "Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns - Reuters",
+    "timestamp": "2026-11-26T03:08:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東でのウズベキスタン鉱山ストライキと製油所攻撃により、原油供給懸念が急速に高まった。Brent原油は上昇で引けたが、地政学的リスク顕在化により供給途絶のシナリオが市場を刺激。複数の供給障害が同時発生することで、OPECの減産緩和とも相まって価格上昇圧力が強まっている。"
+  },
+  {
+    "title": "Attack on Saudi Aramco's Jazan refinery kills worker, halts some operations - Reuters",
+    "timestamp": "2026-11-26T20:56:28+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "サウジアラビアの国営石油会社サウジアラムコのジャザン製油所が攻撃を受け、労働者1名が死亡し、一部操業が停止した。同製油所は日量600,000バレルの処理能力を持つ主要施設であり、供給途絶は中東地政学リスクの顕在化を示唆。原油価格への上昇圧力が発生。"
+  },
+  {
+    "title": "Oil Refining Profits Crash With Global Fuel Supply Rebounding - Bloomberg.com",
+    "timestamp": "2026-11-26T14:14:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "グローバルな燃料供給の増加により石油精製利益が急落している。供給過剰圧力により精製マージンが圧縮され、エネルギー市場全体に下押し圧力が生じている。在庫増加と需要見通しの弱さが精製セクターの収益性を著しく悪化させている。"
+  },
+  {
+    "title": "Oil Refining Profits Crash With Global Fuel Supply Rebounding - Bloomberg.com",
+    "timestamp": "2026-11-26T14:14:43+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "inline",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "グローバルな燃料供給の増加により石油精製利益が急落している。供給過剰圧力により精製マージンが圧縮され、エネルギー市場全体に下押し圧力が生じている。在庫増加と需要見通しの弱さが精製セクターの収益性を著しく悪化させている。"
+  },
+  {
+    "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-27T01:57:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "アジア株が2日連続上昇する一方、米国債（トレジャリー）が弱含んでいる。リスク資産への買い戻しが進む中、金利上昇圧力がかかっている。具体的な数値やコモディティへの直接的な影響は記事から不明瞭。"
+  },
+  {
+    "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-27T01:57:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "アジア株が2日連続上昇する一方、米国債（トレジャリー）が弱含んでいる。リスク資産への買い戻しが進む中、金利上昇圧力がかかっている。具体的な数値やコモディティへの直接的な影響は記事から不明瞭。"
+  },
+  {
+    "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap - Bloomberg.com",
+    "timestamp": "2026-11-27T01:57:00+00:00",
+    "importance": 2,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "原油",
+    "summary": "アジア株が2日連続上昇する一方、米国債（トレジャリー）が弱含んでいる。リスク資産への買い戻しが進む中、金利上昇圧力がかかっている。具体的な数値やコモディティへの直接的な影響は記事から不明瞭。"
   }
 ]
