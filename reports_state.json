@@ -1,27 +1,5 @@
 [
   {
-    "title": "Oil touches three-month lows as rising supply offsets Hormuz threat - Reuters",
-    "timestamp": "2026-11-24T02:56:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "inline",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "原油が3ヶ月ぶりの安値に到達。供給増加がホルムズ海峡の地政学的リスク要因を相殺している。需給バランスが供給側に傾き、地政学プレミアムの織り込み圧力が弱まった。短期的には供給増加が価格下押し圧力として作用している。"
-  },
-  {
-    "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking - Reuters",
-    "timestamp": "2026-11-24T09:05:44+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "中国とインドが2026年にロシア産原油の輸入を記録的水準に引き上げる見通し。一方、同時期にこれら主要輸入国の需要がピークアウトする可能性も指摘。ロシア産原油の流動性は高まるが、2026年以降の需要減速が価格下押し圧力となる可能性。"
-  },
-  {
     "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
     "timestamp": "2026-11-24T19:00:00+00:00",
     "importance": 3,
@@ -64,50 +42,6 @@
     "source": "FRB金融政策",
     "commodity": "銅",
     "summary": "2026年10月19日および28日のFRB公定歩合会議の議事録。金融政策スタンスの詳細が不明であるため、正確な分析に必要な具体的な金利決定、ガイダンス、インフレ見通しなどの情報が提供されていない。金利決定の内容次第で、ドル強弱を通じてコモディティ全般に影響。"
-  },
-  {
-    "title": "Commodity Cost Estimates Released - Southeast AgNET",
-    "timestamp": "2026-11-24T10:16:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "トウモロコシ",
-    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
-  },
-  {
-    "title": "Commodity Cost Estimates Released - Southeast AgNET",
-    "timestamp": "2026-11-24T10:16:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "小麦",
-    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
-  },
-  {
-    "title": "Commodity Cost Estimates Released - Southeast AgNET",
-    "timestamp": "2026-11-24T10:16:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "大豆",
-    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
-  },
-  {
-    "title": "Commodity Cost Estimates Released - Southeast AgNET",
-    "timestamp": "2026-11-24T10:16:02+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "Crop Progress/Production",
-    "commodity": "コモディティ全般",
-    "summary": "Southeast AgNETが農業コモディティの生産コスト推定値を発表。米国南東部の穀物（トウモロコシ・小麦・大豆）生産における投入コスト動向が明らかになる。事前の市場コンセンサスが不明なため、発表内容の具体的な方向性は未確認。"
   },
   {
     "title": "Iraq seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters",
@@ -187,17 +121,6 @@
     "summary": "ウクライナがトランプ前大統領の要請にもかかわらずロシアの石油精製施設への攻撃を継続。プーチン大統領が報復を約束した。ロシアの主要な石油供給インフラへの継続的な軍事圧力は供給リスクを高め、原油価格の上昇圧力となる。地政学的緊張の新たな段階を示唆。"
   },
   {
-    "title": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say - Reuters",
-    "timestamp": "2026-11-24T09:52:39+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "unknown",
-    "source": "Reuters商品ニュース",
-    "commodity": "銅",
-    "summary": "インドのアダニ・グループがアテロ・インディアから3年間の銅供給契約を締結した。インドの主要産業グループによる長期供給確保は、急速な電動化・再生可能エネルギー需要を背景とした銅の需給逼迫懸念を反映している。大手需要家による先制的な調達戦略の動きとして注視される。"
-  },
-  {
     "title": "US Crude and Gasoline Inventories Fell Last Week on Strong Demand, EIA Says - EnergyNow.com",
     "timestamp": "2026-11-24T15:57:47+00:00",
     "importance": 3,
@@ -218,17 +141,6 @@
     "source": "EIA原油在庫",
     "commodity": "コモディティ全般",
     "summary": "EIA週間統計により、米国の原油在庫とガソリン在庫が先週減少したことが報告された。需要の強さが在庫減少の主因とされている。在庫水準の低下は供給の逼迫を示唆し、価格上昇圧力となる可能性がある。"
-  },
-  {
-    "title": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say - Reuters",
-    "timestamp": "2026-11-24T09:52:39+00:00",
-    "importance": 2,
-    "direction": "中立",
-    "event_type": "breaking",
-    "surprise": "low",
-    "source": "Reuters商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "インドのアダニ・グループがアテロ・インノベーションズから3年間の銅供給契約を締結した。インド国内のスクラップ銅リサイクル業者との協力を通じた長期調達戦略であり、供給の多角化を図るもの。グローバル銅市場全体への直接的な影響は限定的。"
   },
   {
     "title": "Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks - Bloomberg.com",
@@ -889,5 +801,115 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "原油",
     "summary": "アジア株が2日連続上昇する一方、米国債（トレジャリー）が弱含んでいる。リスク資産への買い戻しが進む中、金利上昇圧力がかかっている。具体的な数値やコモディティへの直接的な影響は記事から不明瞭。"
+  },
+  {
+    "title": "Global Grain Markets Face 2027 Uncertainty as Geopolitics, Demand and Weather Shape Outlook - RuralVoice",
+    "timestamp": "2026-11-27T10:25:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "小麦",
+    "summary": "2027年の穀物市場展望について、地政学的リスク、需要動向、天候要因が主要な不確実性として指摘されている。具体的な数値や統計は提供されていないが、複合的なマクロファクターが市場に上下両方向の圧力を与える可能性が高い。"
+  },
+  {
+    "title": "Global Grain Markets Face 2027 Uncertainty as Geopolitics, Demand and Weather Shape Outlook - RuralVoice",
+    "timestamp": "2026-11-27T10:25:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "トウモロコシ",
+    "summary": "2027年の穀物市場展望について、地政学的リスク、需要動向、天候要因が主要な不確実性として指摘されている。具体的な数値や統計は提供されていないが、複合的なマクロファクターが市場に上下両方向の圧力を与える可能性が高い。"
+  },
+  {
+    "title": "Global Grain Markets Face 2027 Uncertainty as Geopolitics, Demand and Weather Shape Outlook - RuralVoice",
+    "timestamp": "2026-11-27T10:25:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "大豆",
+    "summary": "2027年の穀物市場展望について、地政学的リスク、需要動向、天候要因が主要な不確実性として指摘されている。具体的な数値や統計は提供されていないが、複合的なマクロファクターが市場に上下両方向の圧力を与える可能性が高い。"
+  },
+  {
+    "title": "Global Grain Markets Face 2027 Uncertainty as Geopolitics, Demand and Weather Shape Outlook - RuralVoice",
+    "timestamp": "2026-11-27T10:25:28+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "WASDE関連",
+    "commodity": "コモディティ全般",
+    "summary": "2027年の穀物市場展望について、地政学的リスク、需要動向、天候要因が主要な不確実性として指摘されている。具体的な数値や統計は提供されていないが、複合的なマクロファクターが市場に上下両方向の圧力を与える可能性が高い。"
+  },
+  {
+    "title": "US reportedly pushed Venezuela, Iraq to consider leaving OPEC | Daily Sabah - Daily Sabah",
+    "timestamp": "2026-11-27T09:03:00+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "米国がベネズエラとイラクにOPEC脱退を検討するよう働きかけたと報道。両国はOPEC内で重要な産油国であり、脱退は減産協調の崩壊につながる可能性がある。地政学的緊張とOPECの結束力への懸念が市場に波及。"
+  },
+  {
+    "title": "Is Trump Trying to Break OPEC? US Pressured Venezuela and Iraq to Consider Leaving Oil Group - Modern Diplomacy",
+    "timestamp": "2026-11-27T06:15:55+00:00",
+    "importance": 4,
+    "direction": "混合",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "OPEC関連",
+    "commodity": "原油",
+    "summary": "トランプ前大統領がベネズエラとイラクにOPEC脱退を検討するよう米国が圧力をかけたとの報道。OPEC弱体化による供給構造の変化は原油市場の価格形成メカニズムに大きな影響をもたらす可能性がある。地政学的リスクと供給サイドの不確実性が急速に高まっている。"
+  },
+  {
+    "title": "Oil on track to snap three-week losing streak over supply fears - Reuters",
+    "timestamp": "2026-11-27T01:55:00+00:00",
+    "importance": 3,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "原油は3週間の下落トレンドを脱却する動きを見せており、供給懸念が買い支えとなっている。サプライチェーンリスクや地政学的緊張が価格反発の主要因。ただし具体的な数値情報が不足しているため、市場の織り込み度は不明確。"
+  },
+  {
+    "title": "Russian oil refinery in Krasnodar region on fire after drone attack - Reuters",
+    "timestamp": "2026-11-26T14:33:43+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "ロシア南部クラスノダル地域の石油精製所がドローン攻撃により火災が発生した。同精製所はロシア主要な石油精製施設の一つであり、日産能力は約15万バレル。地政学的リスクの激化により、欧州向けのロシア石油供給に直接的な悪影響が生じる可能性が高い。"
+  },
+  {
+    "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg.com",
+    "timestamp": "2026-11-27T10:22:03+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "金",
+    "summary": "金相場は落ち着きを見せており、今週の値動きはFRBの金利パスとAI関連株の動向に左右されている。金利引き上げ環境は無利子資産である金に下落圧力をもたらす一方で、AI株の変動性が市場のリスク選好度に影響を与えている。ボラティリティが高い週の中で金は調整局面にある。"
+  },
+  {
+    "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg.com",
+    "timestamp": "2026-11-27T10:22:03+00:00",
+    "importance": 3,
+    "direction": "混合",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Bloomberg商品ニュース",
+    "commodity": "コモディティ全般",
+    "summary": "金相場は落ち着きを見せており、今週の値動きはFRBの金利パスとAI関連株の動向に左右されている。金利引き上げ環境は無利子資産である金に下落圧力をもたらす一方で、AI株の変動性が市場のリスク選好度に影響を与えている。ボラティリティが高い週の中で金は調整局面にある。"
   }
 ]
