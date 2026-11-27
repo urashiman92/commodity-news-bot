@@ -1,16 +1,5 @@
 [
   {
-    "title": "本日（2026年11月25日）の金価格は若干下落しました。しかし、パニックになって売り払う必要はありません。正確な底値を判断するにはまだ時期尚早です。 - Vietnam.vn",
-    "timestamp": "2026-11-24T15:44:33+00:00",
-    "importance": 2,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が若干下落した。ただしアナリストはパニック売却を推奨していない。底値判断はまだ時期尚早との見解。"
-  },
-  {
     "title": "金価格が1日で2%超の急落、3,600ドルの防衛ラインが危うく FRBの12月利上げ観測が強まる - BigGo ファイナンス",
     "timestamp": "2026-11-24T23:05:00+00:00",
     "importance": 4,
@@ -20,17 +9,6 @@
     "source": "Google News",
     "commodity": "金",
     "summary": "金価格が1日で2%超急落し、3,600ドルの重要サポートレベルが脅威にさらされている。FRBの12月利上げ観測が強まったことが主要な下押し要因。金は利上げ環境で利回り資産との競合が強まるため。"
-  },
-  {
-    "title": "金価格の下落率、気付けば45年ぶり大きさ 実需より強いファンド売り - 日本経済新聞",
-    "timestamp": "2026-11-24T17:00:00+00:00",
-    "importance": 4,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "金",
-    "summary": "金価格が45年ぶりの大きな下落率を記録。実需要因ではなく、ファンドなどの投機的売却が主因。金融引き締め環境や米ドル強含みの持続で売圧が強い。"
   },
   {
     "title": "NY金先物は反落、米消費者信頼感指数の上振れでドル売りが後退し売り優勢｜FX・為替ニュース - ザイFX！",
@@ -88,28 +66,6 @@
     "summary": "供給過剰観測により国際原油価格が重要な節目を割った。中国国内のガソリン価格も引き下げられる見通し。市場では供給サイド懸念が原油価格を圧迫している状況。"
   },
   {
-    "title": "原油先物2ドル超高、ホルムズ海峡で新たな船舶攻撃 供給途絶を警戒 - Reuters",
-    "timestamp": "2026-11-24T20:43:02+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡における船舶攻撃により原油先物が2ドル超上昇。世界の原油供給の約3割が通過する重要な海上輸送路での新たな攻撃で、供給途絶リスクが顕在化。地政学的リスク再燃により市場に緊張感が高まっている。"
-  },
-  {
-    "title": "原油先物2ドル超高、ホルムズ海峡で新たな船舶攻撃 供給途絶を警戒 - ニューズウィーク日本版",
-    "timestamp": "2026-11-24T20:42:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡での船舶攻撃により原油先物が2ドル超上昇。世界原油供給の約3割が通過する重要海峡での供給途絶リスクが顕在化。地政学的リスクプレミアムが急速に織り込まれた。"
-  },
-  {
     "title": "本日の燃料価格（11月25日）：WTI原油は3％以上上昇、ブレント原油は力強く回復。 - Vietnam.vn",
     "timestamp": "2026-11-25T00:19:23+00:00",
     "importance": 2,
@@ -119,50 +75,6 @@
     "source": "Google News",
     "commodity": "原油",
     "summary": "11月25日の原油市場でWTI原油が3％以上上昇、ブレント原油も回復。ただしニュースソースが相場の振り返りのみで、具体的な上昇要因が明記されていない。"
-  },
-  {
-    "title": "原油先物2ドル超高、ホルムズ海峡で新たな船舶攻撃 供給途絶を警戒 - Infoseek",
-    "timestamp": "2026-11-24T20:42:48+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡で船舶攻撃が発生し、原油先物が2ドル超上昇。全世界原油供給の約3割が通過する戦略的に重要な海峡での供給途絶リスクが顕在化。地政学的緊張の高まりを反映した急騰。"
-  },
-  {
-    "title": "原油先物2ドル超高、ホルムズ海峡で新たな船舶攻撃 供給途絶を警戒（ロイター） - Yahoo!ニュース",
-    "timestamp": "2026-11-24T20:59:51+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Google News",
-    "commodity": "原油",
-    "summary": "ホルムズ海峡での船舶攻撃により原油先物が2ドル超上昇。同海峡は世界の原油輸送量の約3分の1が通過する重要な供給ルートであり、供給途絶リスクが顕在化。地政学的リスクが急激に高まった。"
-  },
-  {
-    "title": "大豆先物、ミール需要で上昇－小麦は作柄データで下落 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "timestamp": "2026-11-24T20:59:00+00:00",
-    "importance": 3,
-    "direction": "上昇",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "大豆",
-    "summary": "大豆先物がミール需要の増加を背景に上昇。一方、小麦は作柄データの改善により下落。穀物市場で需給要因による個別銘柄の値動き分化が進む。"
-  },
-  {
-    "title": "主要産業で需要見通しの不透明感が強まり、銅相場の重荷に - Traders Union",
-    "timestamp": "2026-11-24T17:38:40+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "low",
-    "source": "Google News",
-    "commodity": "銅",
-    "summary": "主要産業における需要見通しの不透明感が増加している。電気自動車やインフラ投資などの銅需要を支える産業の先行き懸念が強まっている。需要不安が銅相場の下押し材料となっている。"
   },
   {
     "title": "２４日の主要国際商品市況 - 株探",
@@ -1450,5 +1362,137 @@
     "source": "Google News",
     "commodity": "銅",
     "summary": "銅の需給逼迫にもかかわらず価格が下落している異常事態が報じられている。需給ファンダメンタルズと価格の乖離を指摘する解説記事と推定される。"
+  },
+  {
+    "title": "NY金先物はしっかり ２．７％高での推移 - みんかぶ FX/為替",
+    "timestamp": "2026-11-27T17:26:51+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が2.7%高で推移している。金融市場の不確実性やドル弱含みなどの背景が考えられる。短期的な値動きの報告であり、構造的な変化を示すものではない。"
+  },
+  {
+    "title": "金価格見通し：米連邦準備制度理事会（FRB）の利上げ観測が、今回の直近の反発局面に重圧をかけている - Moomoo",
+    "timestamp": "2026-11-27T16:23:09+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "FRBの利上げ観測が金の直近反発局面に重圧をかけている状況を解説。金は利上げ環境下では利子生み資産との競争で劣位となるため、金価格の上昇圧力が抑制されている。"
+  },
+  {
+    "title": "金価格が大幅下落 背景に流通の変化？ - テレ東BIZ",
+    "timestamp": "2026-11-27T12:54:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が大幅下落している。背景に金の流通構造に変化が生じている可能性が指摘されている。解説記事として相場の動きを振り返っている。"
+  },
+  {
+    "title": "NY金先物相場、強含み 前営業日比+2.8％ - TradingView",
+    "timestamp": "2026-11-27T15:14:05+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "NY金先物が前営業日比+2.8%の上昇で推移している。単日の価格変動を伝えるニュース配信。材料や背景の具体的な記載がない。"
+  },
+  {
+    "title": "買い圧力の強まりと下値リスクの限定を受け、金価格が上昇 - Traders Union",
+    "timestamp": "2026-11-27T09:07:35+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格が買い圧力の強まりと下値リスク限定を受けて上昇している。アナリストによる相場観測・解説記事。具体的な材料や数値の記載がないため詳細は不明。"
+  },
+  {
+    "title": "金価格が今年約2割急落、HSBC「株式市場がさらに弱含めば3,400ドルの防衛線割れも」 - BigGo ファイナンス",
+    "timestamp": "2026-11-27T09:25:00+00:00",
+    "importance": 3,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "金",
+    "summary": "金価格は今年約2割下落している。HSBCは株式市場のさらなる弱含みで3,400ドルの重要サポートレベル割れの可能性を指摘。リスク回避需要の減少と実質金利上昇が下落圧力。"
+  },
+  {
+    "title": "NY原油先物終値 83.08ドル - みんかぶ FX/為替",
+    "timestamp": "2026-11-27T19:45:50+00:00",
+    "importance": 1,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物の終値が83.08ドルで報告された。単なる価格報告であり、イベントや材料を含まない。予想比や前日比の情報がないため、相場への影響度を判断できない。"
+  },
+  {
+    "title": "【原油ウォッチ】OPECプラスに亀裂、UAEに続きイラクも脱退か？供給過剰と中東リスクの間で揺れる原油価格 - JBpress",
+    "timestamp": "2026-11-27T21:00:00+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "OPECプラスの枠組みが揺らぎ、UAEに続きイラクも脱退の可能性が浮上。加盟国の離脱は供給調整能力の低下を意味し、市場の懸念が高まっている。中東地政学リスクと供給過剰圧力の綱引き状態が続く。"
+  },
+  {
+    "title": "NY原油先物、ロンドン朝の８６．５０ドル超えから一転して売りが続く - みんかぶ FX/為替",
+    "timestamp": "2026-11-27T14:35:50+00:00",
+    "importance": 2,
+    "direction": "下落",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "NY原油先物がロンドン朝に86.50ドルを超えた後、売り圧力により下落。短期的な値動きの振り返りであり、明確な新規材料を欠く。"
+  },
+  {
+    "title": "買い圧力が続くなか、ブレント原油価格は上昇を続けるか？ - Traders Union",
+    "timestamp": "2026-11-27T09:19:33+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "ブレント原油は買い圧力が続く中で上昇トレンドを維持している。現在の相場動向と今後の展開について市場観測を述べたもの。具体的なファンダメンタルズの変化や統計データに基づく分析は不明。"
+  },
+  {
+    "title": "WTI原油先物相場、堅調 86ドル付近で推移 - TradingView",
+    "timestamp": "2026-11-27T06:53:00+00:00",
+    "importance": 2,
+    "direction": "中立",
+    "event_type": "commentary",
+    "surprise": "unknown",
+    "source": "Google News",
+    "commodity": "原油",
+    "summary": "WTI原油先物が86ドル付近で堅調に推移している。具体的な供給・需要ショックや統計発表の報告ではなく、現在の相場水準を記述した解説記事。"
+  },
+  {
+    "title": "銅が1.9%高、11カ月ぶり安値から反発－ハイテク株高で工業金属に買い - Infoseek",
+    "timestamp": "2026-11-27T01:12:29+00:00",
+    "importance": 2,
+    "direction": "上昇",
+    "event_type": "commentary",
+    "surprise": "low",
+    "source": "Google News",
+    "commodity": "銅",
+    "summary": "銅が1.9%上昇し11カ月ぶり安値から反発。ハイテク株の上昇に伴い工業金属全般に買いが入った。短期的な技術的反発の域を出ていない。"
   }
 ]
