@@ -1,49 +1,5 @@
 [
   {
-    "title": "Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks - Bloomberg.com",
-    "timestamp": "2026-11-25T02:01:00+00:00",
-    "importance": 3,
-    "direction": "混合",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "原油価格は供給増加圧力と中東ホルムズ海峡での攻撃リスクの間で揺れている。供給側の増加要因が地政学的リスク（攻撃の脅威）と相殺される状況が続いており、価格は方向感を欠いている。ホルムズ海峡は世界の原油流通の重要な要所であり、同地域の緊張度が今後の価格決定要因となる。"
-  },
-  {
-    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-25T02:51:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "コモディティ全般",
-    "summary": "AI関連銘柄への過度な期待が剥落し、アジア株が売られる展開となっている。リスク資産離れが広がると、金利上昇圧力が和らぎ金は支援されるが、景気減速懸念から原油など実物資産は圧迫される見通し。市場の不確実性が高まっている。"
-  },
-  {
-    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-25T02:51:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "金",
-    "summary": "AI関連銘柄への過度な期待が剥落し、アジア株が売られる展開となっている。リスク資産離れが広がると、金利上昇圧力が和らぎ金は支援されるが、景気減速懸念から原油など実物資産は圧迫される見通し。市場の不確実性が高まっている。"
-  },
-  {
-    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
-    "timestamp": "2026-11-25T02:51:00+00:00",
-    "importance": 3,
-    "direction": "下落",
-    "event_type": "commentary",
-    "surprise": "unknown",
-    "source": "Bloomberg商品ニュース",
-    "commodity": "原油",
-    "summary": "AI関連銘柄への過度な期待が剥落し、アジア株が売られる展開となっている。リスク資産離れが広がると、金利上昇圧力が和らぎ金は支援されるが、景気減速懸念から原油など実物資産は圧迫される見通し。市場の不確実性が高まっている。"
-  },
-  {
     "title": "US harvest wraps up, but war and trade risks remain - World Grain",
     "timestamp": "2026-11-25T12:36:30+00:00",
     "importance": 3,
@@ -86,17 +42,6 @@
     "source": "WASDE関連",
     "commodity": "コモディティ全般",
     "summary": "米国の収穫が完了する一方、ウクライナ戦争と米中貿易摩擦が穀物市場に下方リスクをもたらしている。供給サイド（収穫完了）は安定的だが、地政学的不確実性と通商問題がコモディティ価格の上値を抑制。WASDEなど定期統計との組み合わせで市場対応が分かれる可能性。"
-  },
-  {
-    "title": "API: US crude stocks inch up, fuel inventories mixed - Quantum Commodity Intelligence",
-    "timestamp": "2026-11-25T03:15:10+00:00",
-    "importance": 2,
-    "direction": "混合",
-    "event_type": "scheduled",
-    "surprise": "unknown",
-    "source": "EIA原油在庫",
-    "commodity": "原油",
-    "summary": "API（米国石油協会）の週間在庫統計により、米国原油在庫がわずかに増加したことが報告された。一方、ガソリンやディーゼルなどの精製燃料在庫は混合的な動きを示している。在庫増減の具体的な数値が記事から確認できないため、市場への影響度は限定的と考えられる。"
   },
   {
     "title": "Market uncertainty meets lower sunflower production - Farm Progress",
@@ -152,17 +97,6 @@
     "source": "OPEC関連",
     "commodity": "原油",
     "summary": "カザフスタンが2027年のOPEC+会合に向けて、石油生産能力の上方修正を求めている。同国は現在の割当枠の増加を主張する見通し。OPEC+の生産枠配分に関する交渉が来年に控えており、各産油国の政治的な事前調整局面にある。"
-  },
-  {
-    "title": "Oil rises after alleged Houthi attack on Saudi refinery - Reuters",
-    "timestamp": "2026-11-25T01:58:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派によるサウジアラビアの製油所への攻撃疑惑が報じられ、原油価格が上昇した。中東での地政学的緊張が高まり、供給リスクへの懸念が市場に波及。サウジの主要エネルギーインフラへの直接的な脅威は投資家心理を悪化させ、リスクプレミアムの上乗せを招いた。"
   },
   {
     "title": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery - Reuters",
@@ -416,17 +350,6 @@
     "source": "Reuters商品ニュース",
     "commodity": "原油",
     "summary": "イランが紅海でのタンカーへの機雷敷設を主張し、海上輸送リスクが再燃。これにより原油供給懸念が継続しているが、現時点では価格への明確な上昇圧力には至らず、市場は様子見姿勢。地政学的リスク要因として注視が必要だが、実際の供給途絶までは限定的な反応にとどまっている。"
-  },
-  {
-    "title": "Oil prices rise after Houthis claim attack on Saudi refinery - Reuters",
-    "timestamp": "2026-11-25T01:58:00+00:00",
-    "importance": 4,
-    "direction": "上昇",
-    "event_type": "breaking",
-    "surprise": "high",
-    "source": "Reuters商品ニュース",
-    "commodity": "原油",
-    "summary": "フーシ派がサウジアラビアの製油所への攻撃を表明し、原油価格が上昇した。中東での地政学的緊張が供給リスクを高め、市場は予防的に価格を引き上げた。サウジの主要インフラへの攻撃脅威は原油市場の不確実性を大幅に増加させる。"
   },
   {
     "title": "India central bank raises share of domestically held gold reserves, data shows - Reuters",
@@ -878,5 +801,16 @@
     "source": "Bloomberg商品ニュース",
     "commodity": "大豆",
     "summary": "インドネシアのパーム油入札が弱い需要と逼迫した供給により停滞している。需要の低迷と供給の制約が市場のバランスを崩しており、パーム油価格に上昇圧力がかかる可能性がある。これは大豆油などの競合油脂市場にも波及する可能性が考慮される。"
+  },
+  {
+    "title": "Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns - Reuters",
+    "timestamp": "2026-11-26T20:56:47+00:00",
+    "importance": 4,
+    "direction": "上昇",
+    "event_type": "breaking",
+    "surprise": "high",
+    "source": "Reuters商品ニュース",
+    "commodity": "原油",
+    "summary": "中東での鉱山ストライキと製油所への攻撃により、原油供給懸念が急速に高まった。Brent原油は上昇で引けた。地政学的リスクが顕在化し、供給途絶の可能性が市場で即座に織り込まれた。中東産油地帯の不安定性が再び焦点化。"
   }
 ]
